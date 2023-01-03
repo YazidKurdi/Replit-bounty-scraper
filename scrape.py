@@ -56,5 +56,3 @@ def scrape_bounties():
             df = pd.concat([df, new_row], ignore_index=True)
 
     df.to_csv('bounties.csv',index = True,index_label="index")
-
-scrape_bounties()
