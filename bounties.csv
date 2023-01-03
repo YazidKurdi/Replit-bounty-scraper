@@ -152,7 +152,7 @@ Make each scan as accurate as possible
 
 $.99 for each wrist scan the app itsself is free
 
-If the payment is not enough or you know something I don’t that I should add let me know",atlasxbeaumont,5 hours ago,https://replit.com/bounties/@atlasxbeaumont/wrist-measurer-for-a?t=
+If the payment is not enough or you know something I don’t that I should add let me know",atlasxbeaumont,6 hours ago,https://replit.com/bounties/@atlasxbeaumont/wrist-measurer-for-a?t=
 14,$450.00,due in 13 days,Web app that will generate recipes using AI,"I am looking to develop a simple web app that allows users to generate recipes with the help of AI.
 
 The web app should allow users to submit a recipe name, hit generate, and have an AI return a step-by-step guide to produce the recipe.
@@ -167,7 +167,7 @@ Also to be included is an additional tick box labelled 'Surprise me' which will 
 Acceptance Criteria:
 Front end and design that is simple and focuses on the form for the user to submit information
 Users have access to a responsive, clean form and can enter recipe name, dietary restrictions, preferences, etc.
-The web app successfully generates a response with a step-by-step recipe with criteria matching the user's preferences",stanbm,5 hours ago,https://replit.com/bounties/@stanbm/web-app-that-will-ge?t=
+The web app successfully generates a response with a step-by-step recipe with criteria matching the user's preferences",stanbm,6 hours ago,https://replit.com/bounties/@stanbm/web-app-that-will-ge?t=
 15,$13.50,due in 3 days,LinkedIn analytics in Python,"I am the Super Admin of a company LinkedIn page & want to import all my data using the LinkedIn API in Python to enable my own data analysis. The data I need is: engagement data on every post, follower data & page visits for a given date range.
 
 Acceptance Criteria
@@ -215,3 +215,7 @@ Acceptance Criteria
  A workflowy-esque webapp, with an intuitive UI allowing the user to build an infinitely nestable outline.
  A function which automatically creates nested subtasks for any given task by using an LLM, such as GPT3
  Your choice of web framework",dougfeig,1 hour ago,https://replit.com/bounties/@dougfeig/workflowy-esque-ai-b?t=
+20,$180.00,due in 3 days,Build custom excel report that gets external data from various advertising and ecommerce platforms,"My current workflow is to manually run daily reports on TikTok, Meta, Google, Shopify (and more) and manually input the data into an excel spreadsheet to generate a daily report.
+
+Acceptance Criteria
+An automated report using Microsoft Excel Power Query (or other) to import, combine data from multiple sources and shape it into a daily report format I have created.",MikeZapata,14 minutes ago,https://replit.com/bounties/@MikeZapata/build-custom-excel-r?t=
