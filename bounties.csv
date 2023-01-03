@@ -94,7 +94,7 @@ Can use libraries like https://github.com/grafana/k6",rmshea,17 hours ago,https:
 Acceptance Criteria
 Shows the POMOs I've done per day in Roam
 
-Examples of queries: https://roamresearch.com/#/app/Zsolt-Blog/page/WUn5PuTDV",KahlilCorazo,16 hours ago,https://replit.com/bounties/@KahlilCorazo/clojure-query-for-ro?t=
+Examples of queries: https://roamresearch.com/#/app/Zsolt-Blog/page/WUn5PuTDV",KahlilCorazo,17 hours ago,https://replit.com/bounties/@KahlilCorazo/clojure-query-for-ro?t=
 9,$90.00,due in 13 days,AI-based Data Engine ,"Make financial data easily accessible
 
 Acceptance Criteria
@@ -136,7 +136,7 @@ Users can customize the top right user handle and karma,
 Users can customize the top two posts, specifically votes, posted by name, subreddit part of, comments, image showcased and of course, the headlines text.
 There is a default setup so that the canvas isn't blank
 The look/feel and design of the fake post should mimic what is currently live on reddit, with some subtle differences (e.g., Redddit instead of Reddit) so that it is apparent it isn't real
-A live preview of the changes are shown to the user, with a watermark/url o...",jarednxx,58 minutes ago,https://replit.com/bounties/@jarednxx/reddit-parody-and-me?t=
+A live preview of the changes are shown to the user, with a watermark/url o...",jarednxx,1 hour ago,https://replit.com/bounties/@jarednxx/reddit-parody-and-me?t=
 13,$22.50,due in 13 days,Wrist Measurer For Apple Watch Solo Loop Band ,"An app that measures your wrist for an apple watch solo loop band using the iPhone camera and LiDAR sensor
 
 Acceptance Criteria
@@ -152,7 +152,7 @@ Make each scan as accurate as possible
 
 $.99 for each wrist scan the app itsself is free
 
-If the payment is not enough or you know something I don’t that I should add let me know",atlasxbeaumont,28 minutes ago,https://replit.com/bounties/@atlasxbeaumont/wrist-measurer-for-a?t=
+If the payment is not enough or you know something I don’t that I should add let me know",atlasxbeaumont,46 minutes ago,https://replit.com/bounties/@atlasxbeaumont/wrist-measurer-for-a?t=
 14,$450.00,due in 13 days,Web app that will generate recipes using AI,"I am looking to develop a simple web app that allows users to generate recipes with the help of AI.
 
 The web app should allow users to submit a recipe name, hit generate, and have an AI return a step-by-step guide to produce the recipe.
@@ -167,4 +167,10 @@ Also to be included is an additional tick box labelled 'Surprise me' which will 
 Acceptance Criteria:
 Front end and design that is simple and focuses on the form for the user to submit information
 Users have access to a responsive, clean form and can enter recipe name, dietary restrictions, preferences, etc.
-The web app successfully generates a response with a step-by-step recipe with criteria matching the user's preferences",stanbm,19 minutes ago,https://replit.com/bounties/@stanbm/web-app-that-will-ge?t=
+The web app successfully generates a response with a step-by-step recipe with criteria matching the user's preferences",stanbm,36 minutes ago,https://replit.com/bounties/@stanbm/web-app-that-will-ge?t=
+15,$13.50,due in 3 days,LinkedIn analytics in Python,"I am the Super Admin of a company LinkedIn page & want to import all my data using the LinkedIn API in Python to enable my own data analysis. The data I need is: engagement data on every post, follower data & page visits for a given date range.
+
+Acceptance Criteria
+Given a company id (e.g. 1234), date range (e.g. 01/01/22 - 31/12/22) I can call a script that saves down into three different csv's the above data ie posts.csv, followers.csv & visitors.csv
+Assume user has full administrative access to the page & the application development tier is 'Marketing Developer Platform' (ie clientid & clientsecret will have correct permissions)
+The script will enable 3-legged OAuth needed to extract certain data https://learn.microsoft.com/en-us/linkedin/shared/authentication/authorization-code-flow?context=linkedin%2Fcontext&tabs=HTTPS1",kushmadlani,6 minutes ago,https://replit.com/bounties/@kushmadlani/linkedin-analytics-i?t=
