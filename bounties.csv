@@ -111,4 +111,4 @@ The Web app is basically a simple Title (GPT Browser Actions) and a textfield in
 ""Search google for the best hotels around me""
 Result: A new browser page is opened, goes to google.com, enters best hotels around me, all based on GPT3 providing playwright code to execute as in the example of Natbot
 ""Search Paris on Google Maps""
-Result: A new browser page is opened, goes to maps.google.com, searches Paris",mrock3,51 minutes ago,https://replit.com/bounties/@mrock3/build-a-webapp-that?t=
+Result: A new browser page is opened, goes to maps.google.com, searches Paris",mrock3,1 hour ago,https://replit.com/bounties/@mrock3/build-a-webapp-that?t=
