@@ -100,7 +100,7 @@ Examples of queries: https://roamresearch.com/#/app/Zsolt-Blog/page/WUn5PuTDV",K
 Acceptance Criteria
 An engine that hooks various official financial sources and leverages NLP (via GPT-3) to pull up data from these financial sources and format it in an excel table while also generating a small piece of news around that data.
 
-I will be happy to give more details once the applications have been approved.",GennaroCuofano,14 hours ago,https://replit.com/bounties/@GennaroCuofano/ai-based-data-engine?t=
+I will be happy to give more details once the applications have been approved.",GennaroCuofano,15 hours ago,https://replit.com/bounties/@GennaroCuofano/ai-based-data-engine?t=
 10,$20.70,due in 4 days,Build a webapp that uses GPT-3 to execute a series of actions on the web through Playwright,"Essentially we are looking for a web app version of the Natbot:
 https://github.com/nat/natbot
 
@@ -111,7 +111,7 @@ The Web app is basically a simple Title (GPT Browser Actions) and a textfield in
 ""Search google for the best hotels around me""
 Result: A new browser page is opened, goes to google.com, enters best hotels around me, all based on GPT3 providing playwright code to execute as in the example of Natbot
 ""Search Paris on Google Maps""
-Result: A new browser page is opened, goes to maps.google.com, searches Paris",mrock3,11 hours ago,https://replit.com/bounties/@mrock3/build-a-webapp-that?t=
+Result: A new browser page is opened, goes to maps.google.com, searches Paris",mrock3,12 hours ago,https://replit.com/bounties/@mrock3/build-a-webapp-that?t=
 11,$90.00,due in 13 days,React-Table / Similar to Monday.com,"I'm the founder of mapsheet.com and I am trying to help my engineers test and build new features faster. Our software is quite complicated now so I want a parallel environment where I can explore ideas and features without getting in the way.
 Acceptance Criteria
 A spreadsheet built in react-table where the cells in each column are a specific data type (number, currency, date, short text, date, address etc) with the following columns:
@@ -136,7 +136,7 @@ Users can customize the top right user handle and karma,
 Users can customize the top two posts, specifically votes, posted by name, subreddit part of, comments, image showcased and of course, the headlines text.
 There is a default setup so that the canvas isn't blank
 The look/feel and design of the fake post should mimic what is currently live on reddit, with some subtle differences (e.g., Redddit instead of Reddit) so that it is apparent it isn't real
-A live preview of the changes are shown to the user, with a watermark/url o...",jarednxx,4 hours ago,https://replit.com/bounties/@jarednxx/reddit-parody-and-me?t=
+A live preview of the changes are shown to the user, with a watermark/url o...",jarednxx,5 hours ago,https://replit.com/bounties/@jarednxx/reddit-parody-and-me?t=
 13,$22.50,due in 13 days,Wrist Measurer For Apple Watch Solo Loop Band ,"An app that measures your wrist for an apple watch solo loop band using the iPhone camera and LiDAR sensor
 
 Acceptance Criteria
@@ -187,7 +187,7 @@ The embed message should display the following information:
  The title of the embed should link to the status page (https://status.replit.com)
  Domain / Area affected (replit.com, repl.co, blog.replit.com, etc)
  Time between current incident and the last incident
-When an incident's status is update...",ReplitIronclad,2 hours ago,https://replit.com/bounties/@ReplitIronclad/discord-bot-replit-s?t=
+When an incident's status is update...",ReplitIronclad,3 hours ago,https://replit.com/bounties/@ReplitIronclad/discord-bot-replit-s?t=
 17,"$1,000.00",due in 27 days,$1000 for best 140-second AI film on Satoshi Nakamoto,"Hollywood is not going to tell an accurate story about Bitcoin when they finally make the Satoshi movie, so we as a decentralized community of creators must tell it ourselves. Instead of doing a 140 minute film using a studio, let’s create a 140 second film about Satoshi Nakamoto using AI.
 
 Acceptance Criteria
