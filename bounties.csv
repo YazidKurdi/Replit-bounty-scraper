@@ -100,7 +100,7 @@ Examples of queries: https://roamresearch.com/#/app/Zsolt-Blog/page/WUn5PuTDV",K
 Acceptance Criteria
 An engine that hooks various official financial sources and leverages NLP (via GPT-3) to pull up data from these financial sources and format it in an excel table while also generating a small piece of news around that data.
 
-I will be happy to give more details once the applications have been approved.",GennaroCuofano,8 hours ago,https://replit.com/bounties/@GennaroCuofano/ai-based-data-engine?t=
+I will be happy to give more details once the applications have been approved.",GennaroCuofano,9 hours ago,https://replit.com/bounties/@GennaroCuofano/ai-based-data-engine?t=
 10,$20.70,due in 4 days,Build a webapp that uses GPT-3 to execute a series of actions on the web through Playwright,"Essentially we are looking for a web app version of the Natbot:
 https://github.com/nat/natbot
 
@@ -127,4 +127,4 @@ Currency column
 Additionally, please include the following features:
 resizable column widths
 drag & drop to rearrange column order
-add a new column and set column type as date, number, currency, or short text",willzt,16 minutes ago,https://replit.com/bounties/@willzt/react-table-similar?t=
+add a new column and set column type as date, number, currency, or short text",willzt,24 minutes ago,https://replit.com/bounties/@willzt/react-table-similar?t=
