@@ -127,7 +127,7 @@ Currency column
 Additionally, please include the following features:
 resizable column widths
 drag & drop to rearrange column order
-add a new column and set column type as date, number, currency, or short text",willzt,8 hours ago,https://replit.com/bounties/@willzt/react-table-similar?t=
+add a new column and set column type as date, number, currency, or short text",willzt,9 hours ago,https://replit.com/bounties/@willzt/react-table-similar?t=
 12,$450.00,due in 13 days,Reddit Parody & Meme Home Page Creator w/ Mash Monetization,"We want to create a meme builder specifically for a fake reddit home page, hot section, to enable people to create a joke that they want, and easily download + share it. The inspiration is the ""breaking news"" generator. The goal here is to showcase how a mini-app that is fun can monetize premium features.
 
 Acceptance Criteria
@@ -173,7 +173,7 @@ The web app successfully generates a response with a step-by-step recipe with cr
 Acceptance Criteria
 Given a company id (e.g. 1234), date range (e.g. 01/01/22 - 31/12/22) I can call a script that saves down into three different csv's the above data ie posts.csv, followers.csv & visitors.csv
 Assume user has full administrative access to the page & the application development tier is 'Marketing Developer Platform' (ie clientid & clientsecret will have correct permissions)
-The script will enable 3-legged OAuth needed to extract certain data https://learn.microsoft.com/en-us/linkedin/shared/authentication/authorization-code-flow?context=linkedin%2Fcontext&tabs=HTTPS1",kushmadlani,5 hours ago,https://replit.com/bounties/@kushmadlani/linkedin-analytics-i?t=
+The script will enable 3-legged OAuth needed to extract certain data https://learn.microsoft.com/en-us/linkedin/shared/authentication/authorization-code-flow?context=linkedin%2Fcontext&tabs=HTTPS1",kushmadlani,6 hours ago,https://replit.com/bounties/@kushmadlani/linkedin-analytics-i?t=
 16,$100.00,due in 2 months,Discord Bot + Replit Status Page Integration,"Whenever I update the replit status page, it's annoying to have to post in discord what we just posted on the status page.  I want a discord bot that checks the replit status page at an interval of once per five minutes and posts every time there's an update or an incident.
 
 Acceptance Criteria
@@ -218,4 +218,4 @@ Acceptance Criteria
 20,$180.00,due in 3 days,Build custom excel report that gets external data from various advertising and ecommerce platforms,"My current workflow is to manually run daily reports on TikTok, Meta, Google, Shopify (and more) and manually input the data into an excel spreadsheet to generate a daily report.
 
 Acceptance Criteria
-An automated report using Microsoft Excel Power Query (or other) to import, combine data from multiple sources and shape it into a daily report format I have created.",MikeZapata,33 minutes ago,https://replit.com/bounties/@MikeZapata/build-custom-excel-r?t=
+An automated report using Microsoft Excel Power Query (or other) to import, combine data from multiple sources and shape it into a daily report format I have created.",MikeZapata,43 minutes ago,https://replit.com/bounties/@MikeZapata/build-custom-excel-r?t=
