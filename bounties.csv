@@ -21,7 +21,7 @@ A TestFlight ready app that vibrates for 1s when the user faces North each time.
 e.g. I walk and turn east, no vibration
 I keep waking and turn north, slight 1s vibration.
 I turn west, no vibration.
-I turn north again, 1s vibration.",Bandos1000,17 hours ago,https://replit.com/bounties/@Bandos1000/apple-watch-compass?t=
+I turn north again, 1s vibration.",Bandos1000,18 hours ago,https://replit.com/bounties/@Bandos1000/apple-watch-compass?t=
 2,$90.00,due in 2 days,Create a modal in react using the UX mockup provided.,"Create a modal in react js using the UX mockup provided
 Image Grid - A vertically scrollable list of images. The backend api will be provided to you. On hover each image should show an enlarge/preview icon, which should show just the image in another full screen modal
 
@@ -31,7 +31,7 @@ This is primarily a design job , so in addition to the UX, a good looking UI als
 
 mockup - https://drive.google.com/file/d/1SlQCEoTEp6xOCregwVJLt2744nt4rGcb/view?usp=sharing
 Acceptance Criteria
-All the functionality as mentioned needs to be tested and completed.",mahendranaik,16 hours ago,https://replit.com/bounties/@mahendranaik/create-a-modal-in-re?t=
+All the functionality as mentioned needs to be tested and completed.",mahendranaik,17 hours ago,https://replit.com/bounties/@mahendranaik/create-a-modal-in-re?t=
 3,$5.00,due in 11 days,📊 Basic Front End + DataPull for RuneScape competition,"Trying to create an epic website to see the status of the Speedrun competition in OSRS.
 I've made a quick frame of it here: https://www.figma.com/file/3anndl61BWgpo0Kpzewhpr/OSRS-Proj?node-id=1%3A2&t=VYyI0mIMSQzxnqh4-1
 
@@ -46,7 +46,7 @@ And only displaying the stats section (as seen in Figma)
 I think there are 2-6 right now. I would like the ability to add more speed runners in the future.
 Acceptance Criteria
 A stunning website to see who is currently winning/speedrunning OSRS. I will connect a custom domain after delivery.
-I have no problem with crediting you/linking your Replit profile on the site.",Bandos1000,16 hours ago,https://replit.com/bounties/@Bandos1000/basic-front-end-data?t=
+I have no problem with crediting you/linking your Replit profile on the site.",Bandos1000,17 hours ago,https://replit.com/bounties/@Bandos1000/basic-front-end-data?t=
 4,$135.00,closed,GPT3 AI Story Video Generator,"I would like to create a tool that can create Story Videos based on prompts. It can be a simple command line tool, no need for a website or app.
 
 User inputs story prompt (ex. A story about a girl and a big mountain)
@@ -57,7 +57,7 @@ Audio and Images are combined to create a single video using the https://remotio
 
 Basically, the tool should be written in JavaScript, retrieve data from all the required APIs, and use the Remotion library to create a video from these outputs.
 
-I am a coder myself who has used all these API's and libraries before, and I can provide support if you need any help.",CoderGautamYT,15 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt3-ai-story-video?t=
+I am a coder myself who has used all these API's and libraries before, and I can provide support if you need any help.",CoderGautamYT,16 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt3-ai-story-video?t=
 5,$135.00,due in 26 days,AI Story Video Generator Tool,"I would like to create a tool that can create Story Videos based on prompts. It can be a simple command line tool, no need for a website or app.
 
 User inputs story prompt (ex. A story about a girl and a big mountain)
@@ -68,7 +68,7 @@ Audio and Images are combined to create a single video using the Remotion librar
 
 Basically, the tool should be written in JavaScript, retrieve data from all the required APIs, and use the Remotion library to create a video from these outputs.
 
-I am a coder myself who has used all these API's and libraries before, and I can provide support if you need any help.",CoderGautamYT,15 hours ago,https://replit.com/bounties/@CoderGautamYT/ai-story-video-gener?t=
+I am a coder myself who has used all these API's and libraries before, and I can provide support if you need any help.",CoderGautamYT,16 hours ago,https://replit.com/bounties/@CoderGautamYT/ai-story-video-gener?t=
 6,$9.00,due in 12 days,Multiplayer Battle System For Arrowfall,"Must a create a server that you can join the in start of the game
 You then can create rooms/arenas and wait for players to join
 
