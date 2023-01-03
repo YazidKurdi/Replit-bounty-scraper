@@ -1,0 +1,114 @@
+index,price,due_days,title,description,author,posted_time,link
+0,$180.00,due in 4 days,Add ability to mint an NFT based on score (https://replit.com/@jgrinnell0/cryptoforwardalpha?v=1),"Users who connect to the dapp should be able to mint their scores as a non-transferrable NFT which displays their score. Here's an example: https://mintkudos.xyz/community/LearnWeb3?tab=Kudos&tokenId=14597
+
+Acceptance Criteria
+: there should be a button in the UI that allows users to mint a non-transferrable NFT on Polygon, after a user has connected their wallet and shown their score
+: the non-transferrable NFT should have a consistent, clean design, and display the users' score and ETH/Polygon address
+
+#code
+Use the code/repo here, fork it, and send me the code you write: https://replit.com/@jgrinnell0/cryptoforwardalpha?v=1",jgrinnell0,15 hours ago,https://replit.com/bounties/@jgrinnell0/add-ability-to-mint?t=
+1,$10.00,due in 9 days,⌚️ Apple Watch Compass App (Orientation Based Vibration) [Swift],"Trying to see the possibility of an Apple Watch app that notifies (vibration) the user when they are facing North. That's all. No need for other features. No connection to phone/internet.
+
+It would (I believe) primarily use this feature: https://developer.apple.com/documentation/coremotion/cmmagnetometerdata/1616084-magneticfield
+
+And would use the Apple Watch 5 and Later for magnometer (compass) feature.
+
+MVP: If user's wrist is facing 'north', slightly vibrate for 1s.
+
+Acceptance Criteria
+MVP or potential for MVP.
+A TestFlight ready app that vibrates for 1s when the user faces North each time.
+e.g. I walk and turn east, no vibration
+I keep waking and turn north, slight 1s vibration.
+I turn west, no vibration.
+I turn north again, 1s vibration.",Bandos1000,14 hours ago,https://replit.com/bounties/@Bandos1000/apple-watch-compass?t=
+2,$90.00,due in 3 days,Create a modal in react using the UX mockup provided.,"Create a modal in react js using the UX mockup provided
+Image Grid - A vertically scrollable list of images. The backend api will be provided to you. On hover each image should show an enlarge/preview icon, which should show just the image in another full screen modal
+
+New Images Button - When this button is clicked, an api request must be made, the 'New Images Grid' should show a loader while the api request is being processed. When the api request is complete, the  grid should show the returned images as a 2*2 grid. The backend api will be provided.
+
+This is primarily a design job , so in addition to the UX, a good looking UI also needs to be implemented.
+
+mockup - https://drive.google.com/file/d/1SlQCEoTEp6xOCregwVJLt2744nt4rGcb/view?usp=sharing
+Acceptance Criteria
+All the functionality as mentioned needs to be tested and completed.",mahendranaik,13 hours ago,https://replit.com/bounties/@mahendranaik/create-a-modal-in-re?t=
+3,$5.00,due in 12 days,📊 Basic Front End + DataPull for RuneScape competition,"Trying to create an epic website to see the status of the Speedrun competition in OSRS.
+I've made a quick frame of it here: https://www.figma.com/file/3anndl61BWgpo0Kpzewhpr/OSRS-Proj?node-id=1%3A2&t=VYyI0mIMSQzxnqh4-1
+
+Ideally, would work on Mobile and Web. Not sure what the best way to build this is.
+I'll need to manually enter the:
+Speedrunner names
+Speedrunner Youtube/Twitch channels
+
+The most challenging aspect is pulling a iframe from https://wiseoldman.net with a selected username: https://wiseoldman.net/players/phonk%20addict
+And only displaying the stats section (as seen in Figma)
+
+I think there are 2-6 right now. I would like the ability to add more speed runners in the future.
+Acceptance Criteria
+A stunning website to see who is currently winning/speedrunning OSRS. I will connect a custom domain after delivery.
+I have no problem with crediting you/linking your Replit profile on the site.",Bandos1000,13 hours ago,https://replit.com/bounties/@Bandos1000/basic-front-end-data?t=
+4,$135.00,closed,GPT3 AI Story Video Generator,"I would like to create a tool that can create Story Videos based on prompts. It can be a simple command line tool, no need for a website or app.
+
+User inputs story prompt (ex. A story about a girl and a big mountain)
+Story is given to GPT-3 API, in a way so that it gives the story text and descriptions of images for the story (to be used by DALLE-2)
+Image prompts from GPT-3 output will be fed to DALLE-2 API (or a different image generating AI)
+Story is read by Text-To-Speech API (for ex. Azure Cognitive Services)
+Audio and Images are combined to create a single video using the https://remotion.dev library.
+
+Basically, the tool should be written in JavaScript, retrieve data from all the required APIs, and use the Remotion library to create a video from these outputs.
+
+I am a coder myself who has used all these API's and libraries before, and I can provide support if you need any help.",CoderGautamYT,12 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt3-ai-story-video?t=
+5,$135.00,due in 27 days,AI Story Video Generator Tool,"I would like to create a tool that can create Story Videos based on prompts. It can be a simple command line tool, no need for a website or app.
+
+User inputs story prompt (ex. A story about a girl and a big mountain)
+Story is given to GPT-3 API, in a way so that it gives the story text and descriptions of images for the story (to be used by DALLE-2)
+Image prompts from GPT-3 output will be fed to DALLE-2 API (or a different image generating AI)
+Story is read by Text-To-Speech API (for ex. Azure Cognitive Services)
+Audio and Images are combined to create a single video using the Remotion library.
+
+Basically, the tool should be written in JavaScript, retrieve data from all the required APIs, and use the Remotion library to create a video from these outputs.
+
+I am a coder myself who has used all these API's and libraries before, and I can provide support if you need any help.",CoderGautamYT,12 hours ago,https://replit.com/bounties/@CoderGautamYT/ai-story-video-gener?t=
+6,$9.00,due in 13 days,Multiplayer Battle System For Arrowfall,"Must a create a server that you can join the in start of the game
+You then can create rooms/arenas and wait for players to join
+
+Also then you can battle other players
+I have already created a battle system so you just make it so you can battle someone else instead of just monsters
+
+Please be experienced and not just use ChatGPT",OverdriveReplit,10 hours ago,https://replit.com/bounties/@OverdriveReplit/multiplayer-battle-s?t=
+7,$360.00,due in 13 days,Build a benchmarker for NFT APIs / RPCs,"Many new companies have built NFT indexers that exist to reliably serve data on digital assets in a fast, Web2 performant way. Unfortunately, many of them do not actually hold up to these claims. This bounty should build a way to benchmark those APIs on a frontend.
+
+Acceptance Criteria
+NextJS frontend
+Ability to spawn {X} random NFTs that are served from {Y} endpoint
+Compare network payloads, response times, and cost per call
+
+Services:
+straight RPC calling of Shadowdrive / Arweave
+Pinata
+Lollipop.xyz
+
+Can use libraries like https://github.com/grafana/k6",rmshea,10 hours ago,https://replit.com/bounties/@rmshea/build-a-benchmarker?t=
+8,$18.00,due in 14 days,Clojure query for Roam: number of [[POMO]] per day,"I'd like to visualize the POMOs I've done across time in Roam Research. I'm looking for stats I can easily copy-paste to a spreadsheet.
+
+Acceptance Criteria
+Shows the POMOs I've done per day in Roam
+
+Examples of queries: https://roamresearch.com/#/app/Zsolt-Blog/page/WUn5PuTDV",KahlilCorazo,9 hours ago,https://replit.com/bounties/@KahlilCorazo/clojure-query-for-ro?t=
+9,$90.00,due in 14 days,AI-based Data Engine ,"Make financial data easily accessible
+
+Acceptance Criteria
+An engine that hooks various official financial sources and leverages NLP (via GPT-3) to pull up data from these financial sources and format it in an excel table while also generating a small piece of news around that data.
+
+I will be happy to give more details once the applications have been approved.",GennaroCuofano,4 hours ago,https://replit.com/bounties/@GennaroCuofano/ai-based-data-engine?t=
+10,$20.70,due in 5 days,Build a webapp that uses GPT-3 to execute a series of actions on the web through Playwright,"Essentially we are looking for a web app version of the Natbot:
+https://github.com/nat/natbot
+
+Acceptance Criteria
+Design the front end using HTML, CSS, and JavaScript and the backend using Python and the Flask framework.
+
+The Web app is basically a simple Title (GPT Browser Actions) and a textfield input for the prompt. The following prompts should work:
+""Search google for the best hotels around me""
+Result: A new browser page is opened, goes to google.com, enters best hotels around me, all based on GPT3 providing playwright code to execute as in the example of Natbot
+""Search Paris on Google Maps""
+Result: A new browser page is opened, goes to maps.google.com, searches Paris",mrock3,51 minutes ago,https://replit.com/bounties/@mrock3/build-a-webapp-that?t=
