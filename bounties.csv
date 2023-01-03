@@ -69,7 +69,7 @@ Audio and Images are combined to create a single video using the Remotion librar
 Basically, the tool should be written in JavaScript, retrieve data from all the required APIs, and use the Remotion library to create a video from these outputs.
 
 I am a coder myself who has used all these API's and libraries before, and I can provide support if you need any help.",CoderGautamYT,19 hours ago,https://replit.com/bounties/@CoderGautamYT/ai-story-video-gener?t=
-6,$9.00,due in 12 days,Multiplayer Battle System For Arrowfall,"Must a create a server that you can join the in start of the game
+6,$9.00,closed,Multiplayer Battle System For Arrowfall,"Must a create a server that you can join the in start of the game
 You then can create rooms/arenas and wait for players to join
 
 Also then you can battle other players
@@ -100,7 +100,7 @@ Examples of queries: https://roamresearch.com/#/app/Zsolt-Blog/page/WUn5PuTDV",K
 Acceptance Criteria
 An engine that hooks various official financial sources and leverages NLP (via GPT-3) to pull up data from these financial sources and format it in an excel table while also generating a small piece of news around that data.
 
-I will be happy to give more details once the applications have been approved.",GennaroCuofano,11 hours ago,https://replit.com/bounties/@GennaroCuofano/ai-based-data-engine?t=
+I will be happy to give more details once the applications have been approved.",GennaroCuofano,12 hours ago,https://replit.com/bounties/@GennaroCuofano/ai-based-data-engine?t=
 10,$20.70,due in 4 days,Build a webapp that uses GPT-3 to execute a series of actions on the web through Playwright,"Essentially we are looking for a web app version of the Natbot:
 https://github.com/nat/natbot
 
@@ -111,7 +111,7 @@ The Web app is basically a simple Title (GPT Browser Actions) and a textfield in
 ""Search google for the best hotels around me""
 Result: A new browser page is opened, goes to google.com, enters best hotels around me, all based on GPT3 providing playwright code to execute as in the example of Natbot
 ""Search Paris on Google Maps""
-Result: A new browser page is opened, goes to maps.google.com, searches Paris",mrock3,8 hours ago,https://replit.com/bounties/@mrock3/build-a-webapp-that?t=
+Result: A new browser page is opened, goes to maps.google.com, searches Paris",mrock3,9 hours ago,https://replit.com/bounties/@mrock3/build-a-webapp-that?t=
 11,$90.00,due in 13 days,React-Table / Similar to Monday.com,"I'm the founder of mapsheet.com and I am trying to help my engineers test and build new features faster. Our software is quite complicated now so I want a parallel environment where I can explore ideas and features without getting in the way.
 Acceptance Criteria
 A spreadsheet built in react-table where the cells in each column are a specific data type (number, currency, date, short text, date, address etc) with the following columns:
@@ -152,7 +152,7 @@ Make each scan as accurate as possible
 
 $.99 for each wrist scan the app itsself is free
 
-If the payment is not enough or you know something I don’t that I should add let me know",atlasxbeaumont,46 minutes ago,https://replit.com/bounties/@atlasxbeaumont/wrist-measurer-for-a?t=
+If the payment is not enough or you know something I don’t that I should add let me know",atlasxbeaumont,55 minutes ago,https://replit.com/bounties/@atlasxbeaumont/wrist-measurer-for-a?t=
 14,$450.00,due in 13 days,Web app that will generate recipes using AI,"I am looking to develop a simple web app that allows users to generate recipes with the help of AI.
 
 The web app should allow users to submit a recipe name, hit generate, and have an AI return a step-by-step guide to produce the recipe.
@@ -167,10 +167,10 @@ Also to be included is an additional tick box labelled 'Surprise me' which will 
 Acceptance Criteria:
 Front end and design that is simple and focuses on the form for the user to submit information
 Users have access to a responsive, clean form and can enter recipe name, dietary restrictions, preferences, etc.
-The web app successfully generates a response with a step-by-step recipe with criteria matching the user's preferences",stanbm,36 minutes ago,https://replit.com/bounties/@stanbm/web-app-that-will-ge?t=
+The web app successfully generates a response with a step-by-step recipe with criteria matching the user's preferences",stanbm,46 minutes ago,https://replit.com/bounties/@stanbm/web-app-that-will-ge?t=
 15,$13.50,due in 3 days,LinkedIn analytics in Python,"I am the Super Admin of a company LinkedIn page & want to import all my data using the LinkedIn API in Python to enable my own data analysis. The data I need is: engagement data on every post, follower data & page visits for a given date range.
 
 Acceptance Criteria
 Given a company id (e.g. 1234), date range (e.g. 01/01/22 - 31/12/22) I can call a script that saves down into three different csv's the above data ie posts.csv, followers.csv & visitors.csv
 Assume user has full administrative access to the page & the application development tier is 'Marketing Developer Platform' (ie clientid & clientsecret will have correct permissions)
-The script will enable 3-legged OAuth needed to extract certain data https://learn.microsoft.com/en-us/linkedin/shared/authentication/authorization-code-flow?context=linkedin%2Fcontext&tabs=HTTPS1",kushmadlani,6 minutes ago,https://replit.com/bounties/@kushmadlani/linkedin-analytics-i?t=
+The script will enable 3-legged OAuth needed to extract certain data https://learn.microsoft.com/en-us/linkedin/shared/authentication/authorization-code-flow?context=linkedin%2Fcontext&tabs=HTTPS1",kushmadlani,16 minutes ago,https://replit.com/bounties/@kushmadlani/linkedin-analytics-i?t=
