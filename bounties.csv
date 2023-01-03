@@ -75,7 +75,7 @@ You then can create rooms/arenas and wait for players to join
 Also then you can battle other players
 I have already created a battle system so you just make it so you can battle someone else instead of just monsters
 
-Please be experienced and not just use ChatGPT",OverdriveReplit,16 hours ago,https://replit.com/bounties/@OverdriveReplit/multiplayer-battle-s?t=
+Please be experienced and not just use ChatGPT",OverdriveReplit,17 hours ago,https://replit.com/bounties/@OverdriveReplit/multiplayer-battle-s?t=
 7,$360.00,due in 12 days,Build a benchmarker for NFT APIs / RPCs,"Many new companies have built NFT indexers that exist to reliably serve data on digital assets in a fast, Web2 performant way. Unfortunately, many of them do not actually hold up to these claims. This bounty should build a way to benchmark those APIs on a frontend.
 
 Acceptance Criteria
@@ -88,7 +88,7 @@ straight RPC calling of Shadowdrive / Arweave
 Pinata
 Lollipop.xyz
 
-Can use libraries like https://github.com/grafana/k6",rmshea,16 hours ago,https://replit.com/bounties/@rmshea/build-a-benchmarker?t=
+Can use libraries like https://github.com/grafana/k6",rmshea,17 hours ago,https://replit.com/bounties/@rmshea/build-a-benchmarker?t=
 8,$18.00,due in 13 days,Clojure query for Roam: number of [[POMO]] per day,"I'd like to visualize the POMOs I've done across time in Roam Research. I'm looking for stats I can easily copy-paste to a spreadsheet.
 
 Acceptance Criteria
@@ -127,7 +127,7 @@ Currency column
 Additionally, please include the following features:
 resizable column widths
 drag & drop to rearrange column order
-add a new column and set column type as date, number, currency, or short text",willzt,2 hours ago,https://replit.com/bounties/@willzt/react-table-similar?t=
+add a new column and set column type as date, number, currency, or short text",willzt,3 hours ago,https://replit.com/bounties/@willzt/react-table-similar?t=
 12,$450.00,due in 13 days,Reddit Parody & Meme Home Page Creator w/ Mash Monetization,"We want to create a meme builder specifically for a fake reddit home page, hot section, to enable people to create a joke that they want, and easily download + share it. The inspiration is the ""breaking news"" generator. The goal here is to showcase how a mini-app that is fun can monetize premium features.
 
 Acceptance Criteria
@@ -136,7 +136,7 @@ Users can customize the top right user handle and karma,
 Users can customize the top two posts, specifically votes, posted by name, subreddit part of, comments, image showcased and of course, the headlines text.
 There is a default setup so that the canvas isn't blank
 The look/feel and design of the fake post should mimic what is currently live on reddit, with some subtle differences (e.g., Redddit instead of Reddit) so that it is apparent it isn't real
-A live preview of the changes are shown to the user, with a watermark/url o...",jarednxx,31 minutes ago,https://replit.com/bounties/@jarednxx/reddit-parody-and-me?t=
+A live preview of the changes are shown to the user, with a watermark/url o...",jarednxx,40 minutes ago,https://replit.com/bounties/@jarednxx/reddit-parody-and-me?t=
 13,$22.50,due in 13 days,Wrist Measurer For Apple Watch Solo Loop Band ,"An app that measures your wrist for an apple watch solo loop band using the iPhone camera and LiDAR sensor
 
 Acceptance Criteria
@@ -152,4 +152,19 @@ Make each scan as accurate as possible
 
 $.99 for each wrist scan the app itsself is free
 
-If the payment is not enough or you know something I don’t that I should add let me know",atlasxbeaumont,59 seconds ago,https://replit.com/bounties/@atlasxbeaumont/wrist-measurer-for-a?t=
+If the payment is not enough or you know something I don’t that I should add let me know",atlasxbeaumont,11 minutes ago,https://replit.com/bounties/@atlasxbeaumont/wrist-measurer-for-a?t=
+14,$450.00,due in 13 days,Web app that will generate recipes using AI,"I am looking to develop a simple web app that allows users to generate recipes with the help of AI.
+
+The web app should allow users to submit a recipe name, hit generate, and have an AI return a step-by-step guide to produce the recipe.
+
+There should also be additional, optional fields for users to enter:
+Number of servings desired
+Dietary restrictions
+Preferences
+
+Also to be included is an additional tick box labelled 'Surprise me' which will prompt the AI to add a surprise additional ingredient.
+
+Acceptance Criteria:
+Front end and design that is simple and focuses on the form for the user to submit information
+Users have access to a responsive, clean form and can enter recipe name, dietary restrictions, preferences, etc.
+The web app successfully generates a response with a step-by-step recipe with criteria matching the user's preferences",stanbm,51 seconds ago,https://replit.com/bounties/@stanbm/web-app-that-will-ge?t=
