@@ -167,13 +167,13 @@ Also to be included is an additional tick box labelled 'Surprise me' which will 
 Acceptance Criteria:
 Front end and design that is simple and focuses on the form for the user to submit information
 Users have access to a responsive, clean form and can enter recipe name, dietary restrictions, preferences, etc.
-The web app successfully generates a response with a step-by-step recipe with criteria matching the user's preferences",stanbm,1 hour ago,https://replit.com/bounties/@stanbm/web-app-that-will-ge?t=
+The web app successfully generates a response with a step-by-step recipe with criteria matching the user's preferences",stanbm,2 hours ago,https://replit.com/bounties/@stanbm/web-app-that-will-ge?t=
 15,$13.50,due in 3 days,LinkedIn analytics in Python,"I am the Super Admin of a company LinkedIn page & want to import all my data using the LinkedIn API in Python to enable my own data analysis. The data I need is: engagement data on every post, follower data & page visits for a given date range.
 
 Acceptance Criteria
 Given a company id (e.g. 1234), date range (e.g. 01/01/22 - 31/12/22) I can call a script that saves down into three different csv's the above data ie posts.csv, followers.csv & visitors.csv
 Assume user has full administrative access to the page & the application development tier is 'Marketing Developer Platform' (ie clientid & clientsecret will have correct permissions)
-The script will enable 3-legged OAuth needed to extract certain data https://learn.microsoft.com/en-us/linkedin/shared/authentication/authorization-code-flow?context=linkedin%2Fcontext&tabs=HTTPS1",kushmadlani,56 minutes ago,https://replit.com/bounties/@kushmadlani/linkedin-analytics-i?t=
+The script will enable 3-legged OAuth needed to extract certain data https://learn.microsoft.com/en-us/linkedin/shared/authentication/authorization-code-flow?context=linkedin%2Fcontext&tabs=HTTPS1",kushmadlani,1 hour ago,https://replit.com/bounties/@kushmadlani/linkedin-analytics-i?t=
 16,$100.00,due in 2 months,Discord Bot + Replit Status Page Integration,"Whenever I update the replit status page, it's annoying to have to post in discord what we just posted on the status page.  I want a discord bot that checks the replit status page at an interval of once per five minutes and posts every time there's an update or an incident.
 
 Acceptance Criteria
@@ -187,4 +187,4 @@ The embed message should display the following information:
  The title of the embed should link to the status page (https://status.replit.com)
  Domain / Area affected (replit.com, repl.co, blog.replit.com, etc)
  Time between current incident and the last incident
-When an incident's status is update...",ReplitIronclad,9 minutes ago,https://replit.com/bounties/@ReplitIronclad/discord-bot-replit-s?t=
+When an incident's status is update...",ReplitIronclad,16 minutes ago,https://replit.com/bounties/@ReplitIronclad/discord-bot-replit-s?t=
