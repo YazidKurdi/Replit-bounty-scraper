@@ -57,7 +57,7 @@ Audio and Images are combined to create a single video using the https://remotio
 
 Basically, the tool should be written in JavaScript, retrieve data from all the required APIs, and use the Remotion library to create a video from these outputs.
 
-I am a coder myself who has used all these API's and libraries before, and I can provide support if you need any help.",CoderGautamYT,18 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt3-ai-story-video?t=
+I am a coder myself who has used all these API's and libraries before, and I can provide support if you need any help.",CoderGautamYT,19 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt3-ai-story-video?t=
 5,$135.00,due in 26 days,AI Story Video Generator Tool,"I would like to create a tool that can create Story Videos based on prompts. It can be a simple command line tool, no need for a website or app.
 
 User inputs story prompt (ex. A story about a girl and a big mountain)
@@ -68,7 +68,7 @@ Audio and Images are combined to create a single video using the Remotion librar
 
 Basically, the tool should be written in JavaScript, retrieve data from all the required APIs, and use the Remotion library to create a video from these outputs.
 
-I am a coder myself who has used all these API's and libraries before, and I can provide support if you need any help.",CoderGautamYT,18 hours ago,https://replit.com/bounties/@CoderGautamYT/ai-story-video-gener?t=
+I am a coder myself who has used all these API's and libraries before, and I can provide support if you need any help.",CoderGautamYT,19 hours ago,https://replit.com/bounties/@CoderGautamYT/ai-story-video-gener?t=
 6,$9.00,due in 12 days,Multiplayer Battle System For Arrowfall,"Must a create a server that you can join the in start of the game
 You then can create rooms/arenas and wait for players to join
 
@@ -128,3 +128,12 @@ Additionally, please include the following features:
 resizable column widths
 drag & drop to rearrange column order
 add a new column and set column type as date, number, currency, or short text",willzt,2 hours ago,https://replit.com/bounties/@willzt/react-table-similar?t=
+12,$450.00,due in 13 days,Reddit Parody & Meme Home Page Creator w/ Mash Monetization,"We want to create a meme builder specifically for a fake reddit home page, hot section, to enable people to create a joke that they want, and easily download + share it. The inspiration is the ""breaking news"" generator. The goal here is to showcase how a mini-app that is fun can monetize premium features.
+
+Acceptance Criteria
+Create a mini-web-app that allows users to create a Fake Reddit Home Page – where they can customize specific elements.
+Users can customize the top right user handle and karma,
+Users can customize the top two posts, specifically votes, posted by name, subreddit part of, comments, image showcased and of course, the headlines text.
+There is a default setup so that the canvas isn't blank
+The look/feel and design of the fake post should mimic what is currently live on reddit, with some subtle differences (e.g., Redddit instead of Reddit) so that it is apparent it isn't real
+A live preview of the changes are shown to the user, with a watermark/url o...",jarednxx,12 minutes ago,https://replit.com/bounties/@jarednxx/reddit-parody-and-me?t=
