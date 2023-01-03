@@ -57,7 +57,7 @@ Audio and Images are combined to create a single video using the https://remotio
 
 Basically, the tool should be written in JavaScript, retrieve data from all the required APIs, and use the Remotion library to create a video from these outputs.
 
-I am a coder myself who has used all these API's and libraries before, and I can provide support if you need any help.",CoderGautamYT,17 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt3-ai-story-video?t=
+I am a coder myself who has used all these API's and libraries before, and I can provide support if you need any help.",CoderGautamYT,18 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt3-ai-story-video?t=
 5,$135.00,due in 26 days,AI Story Video Generator Tool,"I would like to create a tool that can create Story Videos based on prompts. It can be a simple command line tool, no need for a website or app.
 
 User inputs story prompt (ex. A story about a girl and a big mountain)
@@ -68,7 +68,7 @@ Audio and Images are combined to create a single video using the Remotion librar
 
 Basically, the tool should be written in JavaScript, retrieve data from all the required APIs, and use the Remotion library to create a video from these outputs.
 
-I am a coder myself who has used all these API's and libraries before, and I can provide support if you need any help.",CoderGautamYT,17 hours ago,https://replit.com/bounties/@CoderGautamYT/ai-story-video-gener?t=
+I am a coder myself who has used all these API's and libraries before, and I can provide support if you need any help.",CoderGautamYT,18 hours ago,https://replit.com/bounties/@CoderGautamYT/ai-story-video-gener?t=
 6,$9.00,due in 12 days,Multiplayer Battle System For Arrowfall,"Must a create a server that you can join the in start of the game
 You then can create rooms/arenas and wait for players to join
 
@@ -94,13 +94,13 @@ Can use libraries like https://github.com/grafana/k6",rmshea,15 hours ago,https:
 Acceptance Criteria
 Shows the POMOs I've done per day in Roam
 
-Examples of queries: https://roamresearch.com/#/app/Zsolt-Blog/page/WUn5PuTDV",KahlilCorazo,14 hours ago,https://replit.com/bounties/@KahlilCorazo/clojure-query-for-ro?t=
+Examples of queries: https://roamresearch.com/#/app/Zsolt-Blog/page/WUn5PuTDV",KahlilCorazo,15 hours ago,https://replit.com/bounties/@KahlilCorazo/clojure-query-for-ro?t=
 9,$90.00,due in 13 days,AI-based Data Engine ,"Make financial data easily accessible
 
 Acceptance Criteria
 An engine that hooks various official financial sources and leverages NLP (via GPT-3) to pull up data from these financial sources and format it in an excel table while also generating a small piece of news around that data.
 
-I will be happy to give more details once the applications have been approved.",GennaroCuofano,9 hours ago,https://replit.com/bounties/@GennaroCuofano/ai-based-data-engine?t=
+I will be happy to give more details once the applications have been approved.",GennaroCuofano,10 hours ago,https://replit.com/bounties/@GennaroCuofano/ai-based-data-engine?t=
 10,$20.70,due in 4 days,Build a webapp that uses GPT-3 to execute a series of actions on the web through Playwright,"Essentially we are looking for a web app version of the Natbot:
 https://github.com/nat/natbot
 
@@ -111,7 +111,7 @@ The Web app is basically a simple Title (GPT Browser Actions) and a textfield in
 ""Search google for the best hotels around me""
 Result: A new browser page is opened, goes to google.com, enters best hotels around me, all based on GPT3 providing playwright code to execute as in the example of Natbot
 ""Search Paris on Google Maps""
-Result: A new browser page is opened, goes to maps.google.com, searches Paris",mrock3,6 hours ago,https://replit.com/bounties/@mrock3/build-a-webapp-that?t=
+Result: A new browser page is opened, goes to maps.google.com, searches Paris",mrock3,7 hours ago,https://replit.com/bounties/@mrock3/build-a-webapp-that?t=
 11,$90.00,due in 13 days,React-Table / Similar to Monday.com,"I'm the founder of mapsheet.com and I am trying to help my engineers test and build new features faster. Our software is quite complicated now so I want a parallel environment where I can explore ideas and features without getting in the way.
 Acceptance Criteria
 A spreadsheet built in react-table where the cells in each column are a specific data type (number, currency, date, short text, date, address etc) with the following columns:
@@ -127,4 +127,4 @@ Currency column
 Additionally, please include the following features:
 resizable column widths
 drag & drop to rearrange column order
-add a new column and set column type as date, number, currency, or short text",willzt,53 minutes ago,https://replit.com/bounties/@willzt/react-table-similar?t=
+add a new column and set column type as date, number, currency, or short text",willzt,1 hour ago,https://replit.com/bounties/@willzt/react-table-similar?t=
