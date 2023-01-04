@@ -206,7 +206,7 @@ In each profile five categories/sections are present:
    A fourth category/section of equal size but less prominence labelled ""Bundle D"".
    A fifth category/section labelled ""Tokens"".
 
-In the first four sections there should be an option to ""Add an assessment"" where a simple title can be input with text (or preselected from recently used options). When added to that section, each assessment should be able to be toggled between ""below standard"", ""to standard"" or ""to standard with distinction"".  A final click box should be available with ""removed"" as an option, if clicked the assessmen...",T-WW,23 hours ago,https://replit.com/bounties/@T-WW/specifications-gradi?t=
+In the first four sections there should be an option to ""Add an assessment"" where a simple title can be input with text (or preselected from recently used options). When added to that section, each assessment should be able to be toggled between ""below standard"", ""to standard"" or ""to standard with distinction"".  A final click box should be available with ""removed"" as an option, if clicked the assessmen...",T-WW,24 hours ago,https://replit.com/bounties/@T-WW/specifications-gradi?t=
 19,$94.50,due in 10 days,Workflowy-esque AI Todo list expander,"Sometimes a particular task can be daunting, leading to procrastination. An effective solution is to break the task down into a number of simpler, more approachable subtasks. If any of those tasks are still intimidatingly, they can be further subdivided.
 
 Workflowy.com pioneered an infinitely nestable outline interface which is conducive to this type of task subdivision. This bounty is to create a prototype app which improves upon Workflowy by using a LLM to assist in task subdivision.
@@ -234,7 +234,7 @@ How To Compete:
 If it looks fun, apply for a Bounty. If you're not accepted to #1, apply to another. There are only 10 slots. Sorry!
 Fork this Repl: https://replit.com/@Bandos1000/NotionSimplifyReplit#styles/notion.css
 Check the Rules
-Design ...",Bandos1000,17 hours ago,https://replit.com/bounties/@Bandos1000/notion-css-competiti?t=
+Design ...",Bandos1000,18 hours ago,https://replit.com/bounties/@Bandos1000/notion-css-competiti?t=
 22,$13.50,due in 3 days,Housekeeping/Code Cleanup for Notion/Replit Connector [TS/JS],"Looking for some help with a cleanup/error fix for this Repl.
 https://replit.com/@Bandos1000/NotionCompetition2023#site.config.ts
 Has a bunch of additional folders/files that are no longer needed after it was moved to Replit. Looking to remove anything that was previously needed when it was hosted on Github. (+ clean up a few errors.)
@@ -250,7 +250,7 @@ A simplified version of the Repl above, with all non-vital dependancies removed 
 
 Acceptance Criteria
 User can upload photo
-App returns photo with description of what article of clothing and color the photo has",Matthew_Morriso,16 hours ago,https://replit.com/bounties/@Matthew_Morriso/clothing-image-recog?t=
+App returns photo with description of what article of clothing and color the photo has",Matthew_Morriso,17 hours ago,https://replit.com/bounties/@Matthew_Morriso/clothing-image-recog?t=
 24,$0.90,due in 27 days,"Coder Gautam, pls follow me!","Please follow me @CoderGautamYT, and I'll give you a buck!",MNA4,8 hours ago,https://replit.com/bounties/@MNA4/coder-gautam-pls-fol?t=
 25,$180.00,due in 3 days,Endpoint that gets URL of a file and saves it in Google Drive,"I want an endpoint that will get the following parameters:
 URL of a file to download (files will be audio or video, so most likely hundreds of MBs in size
@@ -285,7 +285,7 @@ downloaded documents should contain filename with a reference ID linking t...",P
 
 நான் சேர்க்க வேண்டிய வார்த்தைகள் பற்றிய விவரங்களை தருவேன்
 
-Please submit your application in Tamil, do not apply for this bounty if you aren't a native Tamil speaker.",CoderGautamYT,31 minutes ago,https://replit.com/bounties/@CoderGautamYT/need-a-tamil-speaker?t=
+Please submit your application in Tamil, do not apply for this bounty if you aren't a native Tamil speaker.",CoderGautamYT,46 minutes ago,https://replit.com/bounties/@CoderGautamYT/need-a-tamil-speaker?t=
 28,$40.50,due in 6 days,Podcast screenshot reader - Coded in Python,"Using Python code, we need to be able to read a screenshot taken on a phone when someone is listening to a podcast and extract the left most time stamp e.g., 5:15.  Then turn this  time into a number of seconds (in this case 60*5 plus 15 = 315) into the podcast when they screenshot was taken.
 We also want to extract and read the date of the podcast and as much of the text of the podcast title as is visible in the screenshot.
 
@@ -295,4 +295,4 @@ Python code which can execute the above task accurately on 10 podcast screenshot
 
 Technical Details
 
-Link to Project",YorkvilleDS,31 minutes ago,https://replit.com/bounties/@YorkvilleDS/podcast-screenshot-r?t=
+Link to Project",YorkvilleDS,46 minutes ago,https://replit.com/bounties/@YorkvilleDS/podcast-screenshot-r?t=
