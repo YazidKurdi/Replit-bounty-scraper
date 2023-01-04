@@ -187,7 +187,7 @@ The embed message should display the following information:
  The title of the embed should link to the status page (https://status.replit.com)
  Domain / Area affected (replit.com, repl.co, blog.replit.com, etc)
  Time between current incident and the last incident
-When an incident's status is update...",ReplitIronclad,21 hours ago,https://replit.com/bounties/@ReplitIronclad/discord-bot-replit-s?t=
+When an incident's status is update...",ReplitIronclad,22 hours ago,https://replit.com/bounties/@ReplitIronclad/discord-bot-replit-s?t=
 17,"$1,000.00",due in 25 days,$1000 for best 140-second AI film on Satoshi Nakamoto,"Hollywood is not going to tell an accurate story about Bitcoin when they finally make the Satoshi movie, so we as a decentralized community of creators must tell it ourselves. Instead of doing a 140 minute film using a studio, let’s create a 140 second film about Satoshi Nakamoto using AI.
 
 Acceptance Criteria
@@ -214,11 +214,11 @@ Workflowy.com pioneered an infinitely nestable outline interface which is conduc
 Acceptance Criteria
  A workflowy-esque webapp, with an intuitive UI allowing the user to build an infinitely nestable outline.
  A function which automatically creates nested subtasks for any given task by using an LLM, such as GPT3
- Your choice of web framework",dougfeig,18 hours ago,https://replit.com/bounties/@dougfeig/workflowy-esque-ai-b?t=
+ Your choice of web framework",dougfeig,19 hours ago,https://replit.com/bounties/@dougfeig/workflowy-esque-ai-b?t=
 20,$180.00,due in 2 days,Build custom excel report that gets external data from various advertising and ecommerce platforms,"My current workflow is to manually run daily reports on TikTok, Meta, Google, Shopify (and more) and manually input the data into an excel spreadsheet to generate a daily report.
 
 Acceptance Criteria
-An automated report using Microsoft Excel Power Query (or other) to import, combine data from multiple sources and shape it into a daily report format I have created.",MikeZapata,17 hours ago,https://replit.com/bounties/@MikeZapata/build-custom-excel-r?t=
+An automated report using Microsoft Excel Power Query (or other) to import, combine data from multiple sources and shape it into a daily report format I have created.",MikeZapata,18 hours ago,https://replit.com/bounties/@MikeZapata/build-custom-excel-r?t=
 21,$5.00,closed,Notion CSS Competition #1 -- Happy New Year! 🎉,"Notion Design Competition to Start 2023 and Earn Some Cycles! 🔁
 Hey all! Do you like front end? (Me neither.)
 Are you trying to complete some bounties or practice your CSS skills? This is the competition for you.
@@ -245,7 +245,7 @@ https://github.com/transitive-bullshit/nextjs-notion-starter-kit
 Looking to remove all the pieces that used to be used for Vercel since it's now 'hosted' in Replit.
 
 Acceptance Criteria
-A simplified version of the Repl above, with all non-vital dependancies removed and file structure simplified.",Bandos1000,14 hours ago,https://replit.com/bounties/@Bandos1000/error-fix-for-notion?t=
+A simplified version of the Repl above, with all non-vital dependancies removed and file structure simplified.",Bandos1000,15 hours ago,https://replit.com/bounties/@Bandos1000/error-fix-for-notion?t=
 23,$90.00,due in 12 days,Clothing image recognition script,"Would like a simple app likely using computer vision (eg Roboflow) where user can upload a photo of clothing and app returns the clothing article type and main color: t-shirt, pants, sock, button down shirt, sweater, etc
 
 Acceptance Criteria
@@ -266,7 +266,7 @@ The endpoint will download the file from the URL, and upload it to the Google Dr
 -- If the Google Drive authentication fails, the function will return an HTTP error code
 --  If the download fails to complete, the function will return an HTTP error code
 -- If the upload to Google Drive fails to complete, the function will return an HTTP error code
--- If the upload to Google Drive is completed successfully, the function will delete the file from its temporary location (assuming it will be downloaded to someplace before being uploaded to Google Drive - like google cloud storage or S3), and return th...",alonwpoplar,9 hours ago,https://replit.com/bounties/@alonwpoplar/endpoint-that-gets-u?t=
+-- If the upload to Google Drive is completed successfully, the function will delete the file from its temporary location (assuming it will be downloaded to someplace before being uploaded to Google Drive - like google cloud storage or S3), and return th...",alonwpoplar,10 hours ago,https://replit.com/bounties/@alonwpoplar/endpoint-that-gets-u?t=
 26,$180.00,due in 13 days,Scrape structured data on website and scrape any updates going forward,"Seeking market intelligence on public sector tenders (RFPs) offered and awarded for the category of 'feasibility study'.
 
 Acceptance Criteria
@@ -278,4 +278,4 @@ data should be in an excel friendly format.
 Data should include ALL fields listed on web url listed above (bid name, status, published date, closing date, organization) AS WELL AS data provided for each listing (data found when clicking the 'view' button).
 I am seeking ALL data on the relevant individual listings.
 I would also like to download ALL documents in the 'documents' section of individual listing.
-downloaded documents should contain filename with a reference ID linking t...",Populista,2 hours ago,https://replit.com/bounties/@Populista/scrape-structured-da?t=
+downloaded documents should contain filename with a reference ID linking t...",Populista,3 hours ago,https://replit.com/bounties/@Populista/scrape-structured-da?t=
