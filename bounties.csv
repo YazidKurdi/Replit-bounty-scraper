@@ -304,7 +304,7 @@ Split your dataset into training and validation sets. The training set will be u
 
 Choose a deep learning model architecture that is suitable for your task. There are many different architectures to choose from, such as convolutional neural networks (CNNs) or recurrent neural networks (RNNs).
 
-Fine-tune the chosen model on your training set by adjusting the model's hyperparameters and training it for a number of epochs. You may want to use a technique like transfer learning to make the training process m...",justinrogers123,3 hours ago,https://replit.com/bounties/@justinrogers123/help-explore-how-to?t=
+Fine-tune the chosen model on your training set by adjusting the model's hyperparameters and training it for a number of epochs. You may want to use a technique like transfer learning to make the training process m...",justinrogers123,4 hours ago,https://replit.com/bounties/@justinrogers123/help-explore-how-to?t=
 30,$45.00,due in 3 days,Perform Conversion Rate Mix Analysis based on multiple inputs,"For a website that has traffic coming from many sources, need to understand what is impacting conversion rate. Is it actual performance of the site, or mix between several different vairables
 
 Variables includes are
@@ -338,7 +338,7 @@ Acceptance Criteria
 The project should start with the typescript replit template
 The scraper should use puppeteer-extra-plugin-stealth
 The scraper should take a screenshot of google.com and store it locally
-The project should run from /src/index.ts",drninja777,2 hours ago,https://replit.com/bounties/@drninja777/create-a-scraper-tem?t=
+The project should run from /src/index.ts",drninja777,3 hours ago,https://replit.com/bounties/@drninja777/create-a-scraper-tem?t=
 33,$1.98,due in 6 days,Need A Discord Bot With Simple Commands Listed Below,"Im making a new server and need a bot that can act as utilities.
 
 Acceptance Criteria
@@ -350,7 +350,7 @@ customizable user logs i set myself
 reaction roles
 music would be optional but a huge bonus.
 
-Most of these I've seen easily done in other bots and you may have done already is why im not giving as many credits as I could (also, im running out, lol)",JoeyLucas1,1 hour ago,https://replit.com/bounties/@JoeyLucas1/need-a-discord-bot-w?t=
+Most of these I've seen easily done in other bots and you may have done already is why im not giving as many credits as I could (also, im running out, lol)",JoeyLucas1,2 hours ago,https://replit.com/bounties/@JoeyLucas1/need-a-discord-bot-w?t=
 34,$9.00,due in 4 days,"""Koi Pond"" Interface for Aphorisms","I have a Python Flask App project I am working on dealing with Aphorisms:
 https://replit.com/@Dprevoznik/Aphorisms?v=1
 
@@ -359,4 +359,17 @@ I would like someone to update the existing ""/"" index page, so that the Aphori
 Acceptance Criteria
 The index.html page should load in 8 random tiles from aphorisms.json at a time and have them float across the screen at different times.
 The tiles should randomly enter from one side of the screen (left, right, top, bottom) and exit out of another side of the screen (left, right, top, bottom) in a straight line.
-The html page should dynamically call the ""/random-aphorisms"" endpoint from the Python Flask app t...",Dprevoznik,59 minutes ago,https://replit.com/bounties/@Dprevoznik/koi-pond-interface-f?t=
+The html page should dynamically call the ""/random-aphorisms"" endpoint from the Python Flask app t...",Dprevoznik,1 hour ago,https://replit.com/bounties/@Dprevoznik/koi-pond-interface-f?t=
+35,$20.00,due in 4 days,[Small Bug] Allow FinBERT ai model to run a simple python script in replit ,"This finBERT model python sentiment analysis script runs fine in jupyter notebooks/ Google Colab but results in an error when trying to run it in replit. Here is the traceback:
+
+Traceback (most recent call last):
+  File ""sentiment_analysis.py"", line 1, in
+    from transformers import BertTokenizer, BertForSequenceClassification
+  File """", line 1039, in handlefromlist
+  File ""/home/runner/Finbert/venv/lib/python3.8/site-packages/transformers/utils/importutils.py"", line 1084, in getattr_
+    value = getattr(module, name)
+  File ""/home/runner/Finbert/venv/lib/python3.8/site-packages/transformers/utils/importutils.py"", line 1083, in getattr_
+    module = self.getmodule(self.classto_module[name])
+  File ""/home/runner/Finbert/venv/lib/python3.8/site-packages/transformers/utils/importutils.py"", line 1095, in get_module
+    raise RuntimeError(
+RuntimeError: Failed to import transformers.models.bert.modeling_bert because of the following error (look up to see its trace...",MasonCorliss,8 minutes ago,https://replit.com/bounties/@MasonCorliss/small-bug-allow-finb?t=
