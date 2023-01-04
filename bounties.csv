@@ -245,7 +245,7 @@ https://github.com/transitive-bullshit/nextjs-notion-starter-kit
 Looking to remove all the pieces that used to be used for Vercel since it's now 'hosted' in Replit.
 
 Acceptance Criteria
-A simplified version of the Repl above, with all non-vital dependancies removed and file structure simplified.",Bandos1000,19 hours ago,https://replit.com/bounties/@Bandos1000/error-fix-for-notion?t=
+A simplified version of the Repl above, with all non-vital dependancies removed and file structure simplified.",Bandos1000,20 hours ago,https://replit.com/bounties/@Bandos1000/error-fix-for-notion?t=
 23,$90.00,due in 12 days,Clothing image recognition script,"Would like a simple app likely using computer vision (eg Roboflow) where user can upload a photo of clothing and app returns the clothing article type and main color: t-shirt, pants, sock, button down shirt, sweater, etc
 
 Acceptance Criteria
@@ -338,4 +338,4 @@ Acceptance Criteria
 The project should start with the typescript replit template
 The scraper should use puppeteer-extra-plugin-stealth
 The scraper should take a screenshot of google.com and store it locally
-The project should run from /src/index.ts",drninja777,33 minutes ago,https://replit.com/bounties/@drninja777/create-a-scraper-tem?t=
+The project should run from /src/index.ts",drninja777,44 minutes ago,https://replit.com/bounties/@drninja777/create-a-scraper-tem?t=
