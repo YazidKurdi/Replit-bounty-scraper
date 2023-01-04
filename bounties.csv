@@ -266,7 +266,7 @@ The endpoint will download the file from the URL, and upload it to the Google Dr
 -- If the Google Drive authentication fails, the function will return an HTTP error code
 --  If the download fails to complete, the function will return an HTTP error code
 -- If the upload to Google Drive fails to complete, the function will return an HTTP error code
--- If the upload to Google Drive is completed successfully, the function will delete the file from its temporary location (assuming it will be downloaded to someplace before being uploaded to Google Drive - like google cloud storage or S3), and return th...",alonwpoplar,13 hours ago,https://replit.com/bounties/@alonwpoplar/endpoint-that-gets-u?t=
+-- If the upload to Google Drive is completed successfully, the function will delete the file from its temporary location (assuming it will be downloaded to someplace before being uploaded to Google Drive - like google cloud storage or S3), and return th...",alonwpoplar,14 hours ago,https://replit.com/bounties/@alonwpoplar/endpoint-that-gets-u?t=
 26,$180.00,due in 13 days,Scrape structured data on website and scrape any updates going forward,"Seeking market intelligence on public sector tenders (RFPs) offered and awarded for the category of 'feasibility study'.
 
 Acceptance Criteria
@@ -304,7 +304,7 @@ Split your dataset into training and validation sets. The training set will be u
 
 Choose a deep learning model architecture that is suitable for your task. There are many different architectures to choose from, such as convolutional neural networks (CNNs) or recurrent neural networks (RNNs).
 
-Fine-tune the chosen model on your training set by adjusting the model's hyperparameters and training it for a number of epochs. You may want to use a technique like transfer learning to make the training process m...",justinrogers123,54 minutes ago,https://replit.com/bounties/@justinrogers123/help-explore-how-to?t=
+Fine-tune the chosen model on your training set by adjusting the model's hyperparameters and training it for a number of epochs. You may want to use a technique like transfer learning to make the training process m...",justinrogers123,1 hour ago,https://replit.com/bounties/@justinrogers123/help-explore-how-to?t=
 30,$45.00,due in 3 days,Perform Conversion Rate Mix Analysis based on multiple inputs,"For a website that has traffic coming from many sources, need to understand what is impacting conversion rate. Is it actual performance of the site, or mix between several different vairables
 
 Variables includes are
@@ -323,7 +323,7 @@ Acceptance Criteria
 
 Technical Details
 
-Link to Project",DavidEagan1,22 minutes ago,https://replit.com/bounties/@DavidEagan1/perform-conversion-r?t=
+Link to Project",DavidEagan1,31 minutes ago,https://replit.com/bounties/@DavidEagan1/perform-conversion-r?t=
 31,$16.20,due in 3 days,Write a node function to log in to Fantrax.com and return the FX_RM cookie.,"I'm looking for a function given a users credentials can programmatically bypass Fantrax's auth and return the FX_RM cookie.
 Acceptance Criteria
 You may use anything that can be deployed. (No Chromium in non-headless mode).  If you choose to do it this way. please make sure your code works while calling a service like https://www.browserless.io/.
@@ -331,4 +331,4 @@ You may use anything that can be deployed. (No Chromium in non-headless mode).  
 ideally you don't need to use selectors and can write it by simulating the requests.
 Technical Details
 
-Link to Project",mlchiang,18 minutes ago,https://replit.com/bounties/@mlchiang/write-a-node-functio?t=
+Link to Project",mlchiang,27 minutes ago,https://replit.com/bounties/@mlchiang/write-a-node-functio?t=
