@@ -251,7 +251,7 @@ A simplified version of the Repl above, with all non-vital dependancies removed 
 Acceptance Criteria
 User can upload photo
 App returns photo with description of what article of clothing and color the photo has",Matthew_Morriso,5 hours ago,https://replit.com/bounties/@Matthew_Morriso/clothing-image-recog?t=
-24,$0.90,due in 28 days,"Coder Gautam, pls follow me!","Please follow me @CoderGautamYT, and I'll give you a buck!",MNA4,58 minutes ago,https://replit.com/bounties/@MNA4/coder-gautam-pls-fol?t=
+24,$0.90,due in 28 days,"Coder Gautam, pls follow me!","Please follow me @CoderGautamYT, and I'll give you a buck!",MNA4,1 hour ago,https://replit.com/bounties/@MNA4/coder-gautam-pls-fol?t=
 25,$180.00,due in 4 days,Endpoint that gets URL of a file and saves it in Google Drive,"I want an endpoint that will get the following parameters:
 URL of a file to download (files will be audio or video, so most likely hundreds of MBs in size
 Google Drive Folder ID to store the file in
@@ -266,4 +266,4 @@ The endpoint will download the file from the URL, and upload it to the Google Dr
 -- If the Google Drive authentication fails, the function will return an HTTP error code
 --  If the download fails to complete, the function will return an HTTP error code
 -- If the upload to Google Drive fails to complete, the function will return an HTTP error code
--- If the upload to Google Drive is completed successfully, the function will delete the file from its temporary location (assuming it will be downloaded to someplace before being uploaded to Google Drive - like google cloud storage or S3), and return th...",alonwpoplar,32 minutes ago,https://replit.com/bounties/@alonwpoplar/endpoint-that-gets-u?t=
+-- If the upload to Google Drive is completed successfully, the function will delete the file from its temporary location (assuming it will be downloaded to someplace before being uploaded to Google Drive - like google cloud storage or S3), and return th...",alonwpoplar,43 minutes ago,https://replit.com/bounties/@alonwpoplar/endpoint-that-gets-u?t=
