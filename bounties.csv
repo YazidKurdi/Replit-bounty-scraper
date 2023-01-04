@@ -245,7 +245,7 @@ https://github.com/transitive-bullshit/nextjs-notion-starter-kit
 Looking to remove all the pieces that used to be used for Vercel since it's now 'hosted' in Replit.
 
 Acceptance Criteria
-A simplified version of the Repl above, with all non-vital dependancies removed and file structure simplified.",Bandos1000,12 hours ago,https://replit.com/bounties/@Bandos1000/error-fix-for-notion?t=
+A simplified version of the Repl above, with all non-vital dependancies removed and file structure simplified.",Bandos1000,13 hours ago,https://replit.com/bounties/@Bandos1000/error-fix-for-notion?t=
 23,$90.00,due in 12 days,Clothing image recognition script,"Would like a simple app likely using computer vision (eg Roboflow) where user can upload a photo of clothing and app returns the clothing article type and main color: t-shirt, pants, sock, button down shirt, sweater, etc
 
 Acceptance Criteria
@@ -278,4 +278,4 @@ data should be in an excel friendly format.
 Data should include ALL fields listed on web url listed above (bid name, status, published date, closing date, organization) AS WELL AS data provided for each listing (data found when clicking the 'view' button).
 I am seeking ALL data on the relevant individual listings.
 I would also like to download ALL documents in the 'documents' section of individual listing.
-downloaded documents should contain filename with a reference ID linking t...",Populista,12 minutes ago,https://replit.com/bounties/@Populista/scrape-structured-da?t=
+downloaded documents should contain filename with a reference ID linking t...",Populista,23 minutes ago,https://replit.com/bounties/@Populista/scrape-structured-da?t=
