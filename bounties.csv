@@ -266,7 +266,7 @@ The endpoint will download the file from the URL, and upload it to the Google Dr
 -- If the Google Drive authentication fails, the function will return an HTTP error code
 --  If the download fails to complete, the function will return an HTTP error code
 -- If the upload to Google Drive fails to complete, the function will return an HTTP error code
--- If the upload to Google Drive is completed successfully, the function will delete the file from its temporary location (assuming it will be downloaded to someplace before being uploaded to Google Drive - like google cloud storage or S3), and return th...",alonwpoplar,14 hours ago,https://replit.com/bounties/@alonwpoplar/endpoint-that-gets-u?t=
+-- If the upload to Google Drive is completed successfully, the function will delete the file from its temporary location (assuming it will be downloaded to someplace before being uploaded to Google Drive - like google cloud storage or S3), and return th...",alonwpoplar,15 hours ago,https://replit.com/bounties/@alonwpoplar/endpoint-that-gets-u?t=
 26,$180.00,due in 13 days,Scrape structured data on website and scrape any updates going forward,"Seeking market intelligence on public sector tenders (RFPs) offered and awarded for the category of 'feasibility study'.
 
 Acceptance Criteria
@@ -323,7 +323,7 @@ Acceptance Criteria
 
 Technical Details
 
-Link to Project",DavidEagan1,1 hour ago,https://replit.com/bounties/@DavidEagan1/perform-conversion-r?t=
+Link to Project",DavidEagan1,2 hours ago,https://replit.com/bounties/@DavidEagan1/perform-conversion-r?t=
 31,$16.20,due in 3 days,Write a node function to log in to Fantrax.com and return the FX_RM cookie.,"I'm looking for a function given a users credentials can programmatically bypass Fantrax's auth and return the FX_RM cookie.
 Acceptance Criteria
 You may use anything that can be deployed. (No Chromium in non-headless mode).  If you choose to do it this way. please make sure your code works while calling a service like https://www.browserless.io/.
@@ -338,4 +338,16 @@ Acceptance Criteria
 The project should start with the typescript replit template
 The scraper should use puppeteer-extra-plugin-stealth
 The scraper should take a screenshot of google.com and store it locally
-The project should run from /src/index.ts",drninja777,44 minutes ago,https://replit.com/bounties/@drninja777/create-a-scraper-tem?t=
+The project should run from /src/index.ts",drninja777,54 minutes ago,https://replit.com/bounties/@drninja777/create-a-scraper-tem?t=
+33,$1.98,due in 6 days,Need A Discord Bot With Simple Commands Listed Below,"Im making a new server and need a bot that can act as utilities.
+
+Acceptance Criteria
+You should be able to make the bot with following commands.
+lock/unlock
+tickets
+embed a message
+customizable user logs i set myself
+reaction roles
+music would be optional but a huge bonus.
+
+Most of these I've seen easily done in other bots and you may have done already is why im not giving as many credits as I could (also, im running out, lol)",JoeyLucas1,2 minutes ago,https://replit.com/bounties/@JoeyLucas1/need-a-discord-bot-w?t=
