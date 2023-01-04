@@ -304,4 +304,31 @@ Split your dataset into training and validation sets. The training set will be u
 
 Choose a deep learning model architecture that is suitable for your task. There are many different architectures to choose from, such as convolutional neural networks (CNNs) or recurrent neural networks (RNNs).
 
-Fine-tune the chosen model on your training set by adjusting the model's hyperparameters and training it for a number of epochs. You may want to use a technique like transfer learning to make the training process m...",justinrogers123,30 minutes ago,https://replit.com/bounties/@justinrogers123/help-explore-how-to?t=
+Fine-tune the chosen model on your training set by adjusting the model's hyperparameters and training it for a number of epochs. You may want to use a technique like transfer learning to make the training process m...",justinrogers123,46 minutes ago,https://replit.com/bounties/@justinrogers123/help-explore-how-to?t=
+30,$45.00,due in 3 days,Perform Conversion Rate Mix Analysis based on multiple inputs,"For a website that has traffic coming from many sources, need to understand what is impacting conversion rate. Is it actual performance of the site, or mix between several different vairables
+
+Variables includes are
+date:  day
+region: americas, apac, europe, other
+shopper: new or repeat
+device: desktop, mobile web, tablet, iOS, Andoid, other
+Marketing channel: direct web, direct app, semu, semb, paid, seo, meta, affliates, social, CRMs, CRMm, unknown
+
+here is a simple version of this done with only a few factors
+https://www.goodmarketing.club/guide/how-to-explain-channel-conversion-rate-change-with-mix-rate-bridging-analysis/
+
+Analysis needs to be done on a YoY basis to account for seasonality
+Analysis needs to be able to be done last 7 days and previous 7 days to understand what changed week to week
+Acceptance Criteria
+
+Technical Details
+
+Link to Project",DavidEagan1,14 minutes ago,https://replit.com/bounties/@DavidEagan1/perform-conversion-r?t=
+31,$16.20,due in 3 days,Write a node function to log in to Fantrax.com and return the FX_RM cookie.,"I'm looking for a function given a users credentials can programmatically bypass Fantrax's auth and return the FX_RM cookie.
+Acceptance Criteria
+You may use anything that can be deployed. (No Chromium in non-headless mode).  If you choose to do it this way. please make sure your code works while calling a service like https://www.browserless.io/.
+
+ideally you don't need to use selectors and can write it by simulating the requests.
+Technical Details
+
+Link to Project",mlchiang,10 minutes ago,https://replit.com/bounties/@mlchiang/write-a-node-functio?t=
