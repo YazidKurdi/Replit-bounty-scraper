@@ -214,7 +214,7 @@ Workflowy.com pioneered an infinitely nestable outline interface which is conduc
 Acceptance Criteria
  A workflowy-esque webapp, with an intuitive UI allowing the user to build an infinitely nestable outline.
  A function which automatically creates nested subtasks for any given task by using an LLM, such as GPT3
- Your choice of web framework",dougfeig,12 hours ago,https://replit.com/bounties/@dougfeig/workflowy-esque-ai-b?t=
+ Your choice of web framework",dougfeig,13 hours ago,https://replit.com/bounties/@dougfeig/workflowy-esque-ai-b?t=
 20,$180.00,due in 3 days,Build custom excel report that gets external data from various advertising and ecommerce platforms,"My current workflow is to manually run daily reports on TikTok, Meta, Google, Shopify (and more) and manually input the data into an excel spreadsheet to generate a daily report.
 
 Acceptance Criteria
@@ -245,13 +245,13 @@ https://github.com/transitive-bullshit/nextjs-notion-starter-kit
 Looking to remove all the pieces that used to be used for Vercel since it's now 'hosted' in Replit.
 
 Acceptance Criteria
-A simplified version of the Repl above, with all non-vital dependancies removed and file structure simplified.",Bandos1000,8 hours ago,https://replit.com/bounties/@Bandos1000/error-fix-for-notion?t=
+A simplified version of the Repl above, with all non-vital dependancies removed and file structure simplified.",Bandos1000,9 hours ago,https://replit.com/bounties/@Bandos1000/error-fix-for-notion?t=
 23,$90.00,due in 13 days,Clothing image recognition script,"Would like a simple app likely using computer vision (eg Roboflow) where user can upload a photo of clothing and app returns the clothing article type and main color: t-shirt, pants, sock, button down shirt, sweater, etc
 
 Acceptance Criteria
 User can upload photo
 App returns photo with description of what article of clothing and color the photo has",Matthew_Morriso,8 hours ago,https://replit.com/bounties/@Matthew_Morriso/clothing-image-recog?t=
-24,$0.90,due in 28 days,"Coder Gautam, pls follow me!","Please follow me @CoderGautamYT, and I'll give you a buck!",MNA4,3 hours ago,https://replit.com/bounties/@MNA4/coder-gautam-pls-fol?t=
+24,$0.90,due in 28 days,"Coder Gautam, pls follow me!","Please follow me @CoderGautamYT, and I'll give you a buck!",MNA4,4 hours ago,https://replit.com/bounties/@MNA4/coder-gautam-pls-fol?t=
 25,$180.00,due in 4 days,Endpoint that gets URL of a file and saves it in Google Drive,"I want an endpoint that will get the following parameters:
 URL of a file to download (files will be audio or video, so most likely hundreds of MBs in size
 Google Drive Folder ID to store the file in
