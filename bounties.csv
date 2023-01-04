@@ -195,7 +195,7 @@ Must be around 140 seconds (+/- 10 sec).
 Must be created with AI
 Must be about Satoshi Nakamoto
 Must tell a story with a beginning, middle, and end.
-Must reply to tweet (https://twitter.com/patrickwstanley/status/1610345715737464832?s=46&t=IBFj6XibJAETsBtV0YmA) by 1/31/23 to qualify",PatrickStanley,22 hours ago,https://replit.com/bounties/@PatrickStanley/dollar1000-for-best?t=
+Must reply to tweet (https://twitter.com/patrickwstanley/status/1610345715737464832?s=46&t=IBFj6XibJAETsBtV0YmA) by 1/31/23 to qualify",PatrickStanley,23 hours ago,https://replit.com/bounties/@PatrickStanley/dollar1000-for-best?t=
 18,$40.50,due in 26 days,Specifications Grading Tool,"Simplify grading entire classes through a single-page interface connected to profiles that can be updated and exported/printed.
 
 Acceptance Criteria
@@ -206,7 +206,7 @@ In each profile five categories/sections are present:
    A fourth category/section of equal size but less prominence labelled ""Bundle D"".
    A fifth category/section labelled ""Tokens"".
 
-In the first four sections there should be an option to ""Add an assessment"" where a simple title can be input with text (or preselected from recently used options). When added to that section, each assessment should be able to be toggled between ""below standard"", ""to standard"" or ""to standard with distinction"".  A final click box should be available with ""removed"" as an option, if clicked the assessmen...",T-WW,22 hours ago,https://replit.com/bounties/@T-WW/specifications-gradi?t=
+In the first four sections there should be an option to ""Add an assessment"" where a simple title can be input with text (or preselected from recently used options). When added to that section, each assessment should be able to be toggled between ""below standard"", ""to standard"" or ""to standard with distinction"".  A final click box should be available with ""removed"" as an option, if clicked the assessmen...",T-WW,23 hours ago,https://replit.com/bounties/@T-WW/specifications-gradi?t=
 19,$94.50,due in 10 days,Workflowy-esque AI Todo list expander,"Sometimes a particular task can be daunting, leading to procrastination. An effective solution is to break the task down into a number of simpler, more approachable subtasks. If any of those tasks are still intimidatingly, they can be further subdivided.
 
 Workflowy.com pioneered an infinitely nestable outline interface which is conducive to this type of task subdivision. This bounty is to create a prototype app which improves upon Workflowy by using a LLM to assist in task subdivision.
@@ -234,7 +234,7 @@ How To Compete:
 If it looks fun, apply for a Bounty. If you're not accepted to #1, apply to another. There are only 10 slots. Sorry!
 Fork this Repl: https://replit.com/@Bandos1000/NotionSimplifyReplit#styles/notion.css
 Check the Rules
-Design ...",Bandos1000,16 hours ago,https://replit.com/bounties/@Bandos1000/notion-css-competiti?t=
+Design ...",Bandos1000,17 hours ago,https://replit.com/bounties/@Bandos1000/notion-css-competiti?t=
 22,$13.50,due in 3 days,Housekeeping/Code Cleanup for Notion/Replit Connector [TS/JS],"Looking for some help with a cleanup/error fix for this Repl.
 https://replit.com/@Bandos1000/NotionCompetition2023#site.config.ts
 Has a bunch of additional folders/files that are no longer needed after it was moved to Replit. Looking to remove anything that was previously needed when it was hosted on Github. (+ clean up a few errors.)
@@ -250,7 +250,7 @@ A simplified version of the Repl above, with all non-vital dependancies removed 
 
 Acceptance Criteria
 User can upload photo
-App returns photo with description of what article of clothing and color the photo has",Matthew_Morriso,15 hours ago,https://replit.com/bounties/@Matthew_Morriso/clothing-image-recog?t=
+App returns photo with description of what article of clothing and color the photo has",Matthew_Morriso,16 hours ago,https://replit.com/bounties/@Matthew_Morriso/clothing-image-recog?t=
 24,$0.90,due in 27 days,"Coder Gautam, pls follow me!","Please follow me @CoderGautamYT, and I'll give you a buck!",MNA4,8 hours ago,https://replit.com/bounties/@MNA4/coder-gautam-pls-fol?t=
 25,$180.00,due in 3 days,Endpoint that gets URL of a file and saves it in Google Drive,"I want an endpoint that will get the following parameters:
 URL of a file to download (files will be audio or video, so most likely hundreds of MBs in size
