@@ -167,7 +167,7 @@ Also to be included is an additional tick box labelled 'Surprise me' which will 
 Acceptance Criteria:
 Front end and design that is simple and focuses on the form for the user to submit information
 Users have access to a responsive, clean form and can enter recipe name, dietary restrictions, preferences, etc.
-The web app successfully generates a response with a step-by-step recipe with criteria matching the user's preferences",stanbm,8 hours ago,https://replit.com/bounties/@stanbm/web-app-that-will-ge?t=
+The web app successfully generates a response with a step-by-step recipe with criteria matching the user's preferences",stanbm,9 hours ago,https://replit.com/bounties/@stanbm/web-app-that-will-ge?t=
 15,$13.50,due in 3 days,LinkedIn analytics in Python,"I am the Super Admin of a company LinkedIn page & want to import all my data using the LinkedIn API in Python to enable my own data analysis. The data I need is: engagement data on every post, follower data & page visits for a given date range.
 
 Acceptance Criteria
@@ -187,7 +187,7 @@ The embed message should display the following information:
  The title of the embed should link to the status page (https://status.replit.com)
  Domain / Area affected (replit.com, repl.co, blog.replit.com, etc)
  Time between current incident and the last incident
-When an incident's status is update...",ReplitIronclad,7 hours ago,https://replit.com/bounties/@ReplitIronclad/discord-bot-replit-s?t=
+When an incident's status is update...",ReplitIronclad,8 hours ago,https://replit.com/bounties/@ReplitIronclad/discord-bot-replit-s?t=
 17,"$1,000.00",due in 26 days,$1000 for best 140-second AI film on Satoshi Nakamoto,"Hollywood is not going to tell an accurate story about Bitcoin when they finally make the Satoshi movie, so we as a decentralized community of creators must tell it ourselves. Instead of doing a 140 minute film using a studio, let’s create a 140 second film about Satoshi Nakamoto using AI.
 
 Acceptance Criteria
@@ -214,11 +214,11 @@ Workflowy.com pioneered an infinitely nestable outline interface which is conduc
 Acceptance Criteria
  A workflowy-esque webapp, with an intuitive UI allowing the user to build an infinitely nestable outline.
  A function which automatically creates nested subtasks for any given task by using an LLM, such as GPT3
- Your choice of web framework",dougfeig,4 hours ago,https://replit.com/bounties/@dougfeig/workflowy-esque-ai-b?t=
+ Your choice of web framework",dougfeig,5 hours ago,https://replit.com/bounties/@dougfeig/workflowy-esque-ai-b?t=
 20,$180.00,due in 3 days,Build custom excel report that gets external data from various advertising and ecommerce platforms,"My current workflow is to manually run daily reports on TikTok, Meta, Google, Shopify (and more) and manually input the data into an excel spreadsheet to generate a daily report.
 
 Acceptance Criteria
-An automated report using Microsoft Excel Power Query (or other) to import, combine data from multiple sources and shape it into a daily report format I have created.",MikeZapata,3 hours ago,https://replit.com/bounties/@MikeZapata/build-custom-excel-r?t=
+An automated report using Microsoft Excel Power Query (or other) to import, combine data from multiple sources and shape it into a daily report format I have created.",MikeZapata,4 hours ago,https://replit.com/bounties/@MikeZapata/build-custom-excel-r?t=
 21,$5.00,closed,Notion CSS Competition #1 -- Happy New Year! 🎉,"Notion Design Competition to Start 2023 and Earn Some Cycles! 🔁
 Hey all! Do you like front end? (Me neither.)
 Are you trying to complete some bounties or practice your CSS skills? This is the competition for you.
@@ -234,7 +234,7 @@ How To Compete:
 If it looks fun, apply for a Bounty. If you're not accepted to #1, apply to another. There are only 10 slots. Sorry!
 Fork this Repl: https://replit.com/@Bandos1000/NotionSimplifyReplit#styles/notion.css
 Check the Rules
-Design ...",Bandos1000,38 minutes ago,https://replit.com/bounties/@Bandos1000/notion-css-competiti?t=
+Design ...",Bandos1000,1 hour ago,https://replit.com/bounties/@Bandos1000/notion-css-competiti?t=
 22,$13.50,due in 4 days,Housekeeping/Code Cleanup for Notion/Replit Connector [TS/JS],"Looking for some help with a cleanup/error fix for this Repl.
 https://replit.com/@Bandos1000/NotionCompetition2023#site.config.ts
 Has a bunch of additional folders/files that are no longer needed after it was moved to Replit. Looking to remove anything that was previously needed when it was hosted on Github. (+ clean up a few errors.)
@@ -245,4 +245,9 @@ https://github.com/transitive-bullshit/nextjs-notion-starter-kit
 Looking to remove all the pieces that used to be used for Vercel since it's now 'hosted' in Replit.
 
 Acceptance Criteria
-A simplified version of the Repl above, with all non-vital dependancies removed and file structure simplified.",Bandos1000,8 minutes ago,https://replit.com/bounties/@Bandos1000/error-fix-for-notion?t=
+A simplified version of the Repl above, with all non-vital dependancies removed and file structure simplified.",Bandos1000,47 minutes ago,https://replit.com/bounties/@Bandos1000/error-fix-for-notion?t=
+23,$90.00,due in 13 days,Clothing image recognition script,"Would like a simple app likely using computer vision (eg Roboflow) where user can upload a photo of clothing and app returns the clothing article type and main color: t-shirt, pants, sock, button down shirt, sweater, etc
+
+Acceptance Criteria
+User can upload photo
+App returns photo with description of what article of clothing and color the photo has",Matthew_Morriso,10 minutes ago,https://replit.com/bounties/@Matthew_Morriso/clothing-image-recog?t=
