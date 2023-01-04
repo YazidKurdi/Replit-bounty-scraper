@@ -173,7 +173,7 @@ The web app successfully generates a response with a step-by-step recipe with cr
 Acceptance Criteria
 Given a company id (e.g. 1234), date range (e.g. 01/01/22 - 31/12/22) I can call a script that saves down into three different csv's the above data ie posts.csv, followers.csv & visitors.csv
 Assume user has full administrative access to the page & the application development tier is 'Marketing Developer Platform' (ie clientid & clientsecret will have correct permissions)
-The script will enable 3-legged OAuth needed to extract certain data https://learn.microsoft.com/en-us/linkedin/shared/authentication/authorization-code-flow?context=linkedin%2Fcontext&tabs=HTTPS1",kushmadlani,10 hours ago,https://replit.com/bounties/@kushmadlani/linkedin-analytics-i?t=
+The script will enable 3-legged OAuth needed to extract certain data https://learn.microsoft.com/en-us/linkedin/shared/authentication/authorization-code-flow?context=linkedin%2Fcontext&tabs=HTTPS1",kushmadlani,11 hours ago,https://replit.com/bounties/@kushmadlani/linkedin-analytics-i?t=
 16,$100.00,due in 2 months,Discord Bot + Replit Status Page Integration,"Whenever I update the replit status page, it's annoying to have to post in discord what we just posted on the status page.  I want a discord bot that checks the replit status page at an interval of once per five minutes and posts every time there's an update or an incident.
 
 Acceptance Criteria
