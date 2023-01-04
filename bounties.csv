@@ -218,7 +218,7 @@ Acceptance Criteria
 20,$180.00,due in 2 days,Build custom excel report that gets external data from various advertising and ecommerce platforms,"My current workflow is to manually run daily reports on TikTok, Meta, Google, Shopify (and more) and manually input the data into an excel spreadsheet to generate a daily report.
 
 Acceptance Criteria
-An automated report using Microsoft Excel Power Query (or other) to import, combine data from multiple sources and shape it into a daily report format I have created.",MikeZapata,15 hours ago,https://replit.com/bounties/@MikeZapata/build-custom-excel-r?t=
+An automated report using Microsoft Excel Power Query (or other) to import, combine data from multiple sources and shape it into a daily report format I have created.",MikeZapata,16 hours ago,https://replit.com/bounties/@MikeZapata/build-custom-excel-r?t=
 21,$5.00,closed,Notion CSS Competition #1 -- Happy New Year! 🎉,"Notion Design Competition to Start 2023 and Earn Some Cycles! 🔁
 Hey all! Do you like front end? (Me neither.)
 Are you trying to complete some bounties or practice your CSS skills? This is the competition for you.
@@ -266,7 +266,7 @@ The endpoint will download the file from the URL, and upload it to the Google Dr
 -- If the Google Drive authentication fails, the function will return an HTTP error code
 --  If the download fails to complete, the function will return an HTTP error code
 -- If the upload to Google Drive fails to complete, the function will return an HTTP error code
--- If the upload to Google Drive is completed successfully, the function will delete the file from its temporary location (assuming it will be downloaded to someplace before being uploaded to Google Drive - like google cloud storage or S3), and return th...",alonwpoplar,7 hours ago,https://replit.com/bounties/@alonwpoplar/endpoint-that-gets-u?t=
+-- If the upload to Google Drive is completed successfully, the function will delete the file from its temporary location (assuming it will be downloaded to someplace before being uploaded to Google Drive - like google cloud storage or S3), and return th...",alonwpoplar,8 hours ago,https://replit.com/bounties/@alonwpoplar/endpoint-that-gets-u?t=
 26,$180.00,due in 13 days,Scrape structured data on website and scrape any updates going forward,"Seeking market intelligence on public sector tenders (RFPs) offered and awarded for the category of 'feasibility study'.
 
 Acceptance Criteria
@@ -278,4 +278,4 @@ data should be in an excel friendly format.
 Data should include ALL fields listed on web url listed above (bid name, status, published date, closing date, organization) AS WELL AS data provided for each listing (data found when clicking the 'view' button).
 I am seeking ALL data on the relevant individual listings.
 I would also like to download ALL documents in the 'documents' section of individual listing.
-downloaded documents should contain filename with a reference ID linking t...",Populista,23 minutes ago,https://replit.com/bounties/@Populista/scrape-structured-da?t=
+downloaded documents should contain filename with a reference ID linking t...",Populista,30 minutes ago,https://replit.com/bounties/@Populista/scrape-structured-da?t=
