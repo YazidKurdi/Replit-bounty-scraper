@@ -167,7 +167,7 @@ Also to be included is an additional tick box labelled 'Surprise me' which will 
 Acceptance Criteria:
 Front end and design that is simple and focuses on the form for the user to submit information
 Users have access to a responsive, clean form and can enter recipe name, dietary restrictions, preferences, etc.
-The web app successfully generates a response with a step-by-step recipe with criteria matching the user's preferences",stanbm,9 hours ago,https://replit.com/bounties/@stanbm/web-app-that-will-ge?t=
+The web app successfully generates a response with a step-by-step recipe with criteria matching the user's preferences",stanbm,10 hours ago,https://replit.com/bounties/@stanbm/web-app-that-will-ge?t=
 15,$13.50,due in 3 days,LinkedIn analytics in Python,"I am the Super Admin of a company LinkedIn page & want to import all my data using the LinkedIn API in Python to enable my own data analysis. The data I need is: engagement data on every post, follower data & page visits for a given date range.
 
 Acceptance Criteria
@@ -214,7 +214,7 @@ Workflowy.com pioneered an infinitely nestable outline interface which is conduc
 Acceptance Criteria
  A workflowy-esque webapp, with an intuitive UI allowing the user to build an infinitely nestable outline.
  A function which automatically creates nested subtasks for any given task by using an LLM, such as GPT3
- Your choice of web framework",dougfeig,5 hours ago,https://replit.com/bounties/@dougfeig/workflowy-esque-ai-b?t=
+ Your choice of web framework",dougfeig,6 hours ago,https://replit.com/bounties/@dougfeig/workflowy-esque-ai-b?t=
 20,$180.00,due in 3 days,Build custom excel report that gets external data from various advertising and ecommerce platforms,"My current workflow is to manually run daily reports on TikTok, Meta, Google, Shopify (and more) and manually input the data into an excel spreadsheet to generate a daily report.
 
 Acceptance Criteria
@@ -245,9 +245,9 @@ https://github.com/transitive-bullshit/nextjs-notion-starter-kit
 Looking to remove all the pieces that used to be used for Vercel since it's now 'hosted' in Replit.
 
 Acceptance Criteria
-A simplified version of the Repl above, with all non-vital dependancies removed and file structure simplified.",Bandos1000,1 hour ago,https://replit.com/bounties/@Bandos1000/error-fix-for-notion?t=
+A simplified version of the Repl above, with all non-vital dependancies removed and file structure simplified.",Bandos1000,2 hours ago,https://replit.com/bounties/@Bandos1000/error-fix-for-notion?t=
 23,$90.00,due in 13 days,Clothing image recognition script,"Would like a simple app likely using computer vision (eg Roboflow) where user can upload a photo of clothing and app returns the clothing article type and main color: t-shirt, pants, sock, button down shirt, sweater, etc
 
 Acceptance Criteria
 User can upload photo
-App returns photo with description of what article of clothing and color the photo has",Matthew_Morriso,37 minutes ago,https://replit.com/bounties/@Matthew_Morriso/clothing-image-recog?t=
+App returns photo with description of what article of clothing and color the photo has",Matthew_Morriso,54 minutes ago,https://replit.com/bounties/@Matthew_Morriso/clothing-image-recog?t=
