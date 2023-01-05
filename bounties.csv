@@ -304,7 +304,7 @@ Split your dataset into training and validation sets. The training set will be u
 
 Choose a deep learning model architecture that is suitable for your task. There are many different architectures to choose from, such as convolutional neural networks (CNNs) or recurrent neural networks (RNNs).
 
-Fine-tune the chosen model on your training set by adjusting the model's hyperparameters and training it for a number of epochs. You may want to use a technique like transfer learning to make the training process m...",justinrogers123,19 hours ago,https://replit.com/bounties/@justinrogers123/help-explore-how-to?t=
+Fine-tune the chosen model on your training set by adjusting the model's hyperparameters and training it for a number of epochs. You may want to use a technique like transfer learning to make the training process m...",justinrogers123,20 hours ago,https://replit.com/bounties/@justinrogers123/help-explore-how-to?t=
 30,$45.00,due in 4 days,Perform Conversion Rate Mix Analysis based on multiple inputs,"For a website that has traffic coming from many sources, need to understand what is impacting conversion rate. Is it actual performance of the site, or mix between several different vairables
 
 Variables includes are
@@ -360,7 +360,7 @@ Acceptance Criteria
 The index.html page should load in 8 random tiles from aphorisms.json at a time and have them float across the screen at different times.
 The tiles should randomly enter from one side of the screen (left, right, top, bottom) and exit out of another side of the screen (left, right, top, bottom) in a straight line.
 The html page should dynamically call the ""/random-aphorisms"" endpoint from the Python Flask app t...",Dprevoznik,17 hours ago,https://replit.com/bounties/@Dprevoznik/koi-pond-interface-f?t=
-35,$20.00,due in 3 days,[Small Bug] Allow FinBERT ai model to run a simple python script in replit ,"This finBERT model python sentiment analysis script runs fine in jupyter notebooks/ Google Colab but results in an error when trying to run it in replit. Here is the traceback:
+35,$20.00,closed,[Small Bug] Allow FinBERT ai model to run a simple python script in replit ,"This finBERT model python sentiment analysis script runs fine in jupyter notebooks/ Google Colab but results in an error when trying to run it in replit. Here is the traceback:
 
 Traceback (most recent call last):
   File ""sentiment_analysis.py"", line 1, in
