@@ -323,7 +323,7 @@ Acceptance Criteria
 
 Technical Details
 
-Link to Project",DavidEagan1,11 hours ago,https://replit.com/bounties/@DavidEagan1/perform-conversion-r?t=
+Link to Project",DavidEagan1,12 hours ago,https://replit.com/bounties/@DavidEagan1/perform-conversion-r?t=
 31,$16.20,due in 3 days,Write a node function to log in to Fantrax.com and return the FX_RM cookie.,"I'm looking for a function given a users credentials can programmatically bypass Fantrax's auth and return the FX_RM cookie.
 Acceptance Criteria
 You may use anything that can be deployed. (No Chromium in non-headless mode).  If you choose to do it this way. please make sure your code works while calling a service like https://www.browserless.io/.
@@ -359,7 +359,7 @@ I would like someone to update the existing ""/"" index page, so that the Aphori
 Acceptance Criteria
 The index.html page should load in 8 random tiles from aphorisms.json at a time and have them float across the screen at different times.
 The tiles should randomly enter from one side of the screen (left, right, top, bottom) and exit out of another side of the screen (left, right, top, bottom) in a straight line.
-The html page should dynamically call the ""/random-aphorisms"" endpoint from the Python Flask app t...",Dprevoznik,9 hours ago,https://replit.com/bounties/@Dprevoznik/koi-pond-interface-f?t=
+The html page should dynamically call the ""/random-aphorisms"" endpoint from the Python Flask app t...",Dprevoznik,10 hours ago,https://replit.com/bounties/@Dprevoznik/koi-pond-interface-f?t=
 35,$20.00,due in 4 days,[Small Bug] Allow FinBERT ai model to run a simple python script in replit ,"This finBERT model python sentiment analysis script runs fine in jupyter notebooks/ Google Colab but results in an error when trying to run it in replit. Here is the traceback:
 
 Traceback (most recent call last):
