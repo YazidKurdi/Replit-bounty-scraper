@@ -338,7 +338,7 @@ Acceptance Criteria
 The project should start with the typescript replit template
 The scraper should use puppeteer-extra-plugin-stealth
 The scraper should take a screenshot of google.com and store it locally
-The project should run from /src/index.ts",drninja777,19 hours ago,https://replit.com/bounties/@drninja777/create-a-scraper-tem?t=
+The project should run from /src/index.ts",drninja777,20 hours ago,https://replit.com/bounties/@drninja777/create-a-scraper-tem?t=
 33,$1.98,due in 5 days,Need A Discord Bot With Simple Commands Listed Below,"Im making a new server and need a bot that can act as utilities.
 
 Acceptance Criteria
@@ -359,7 +359,7 @@ I would like someone to update the existing ""/"" index page, so that the Aphori
 Acceptance Criteria
 The index.html page should load in 8 random tiles from aphorisms.json at a time and have them float across the screen at different times.
 The tiles should randomly enter from one side of the screen (left, right, top, bottom) and exit out of another side of the screen (left, right, top, bottom) in a straight line.
-The html page should dynamically call the ""/random-aphorisms"" endpoint from the Python Flask app t...",Dprevoznik,18 hours ago,https://replit.com/bounties/@Dprevoznik/koi-pond-interface-f?t=
+The html page should dynamically call the ""/random-aphorisms"" endpoint from the Python Flask app t...",Dprevoznik,19 hours ago,https://replit.com/bounties/@Dprevoznik/koi-pond-interface-f?t=
 35,$20.00,closed,[Small Bug] Allow FinBERT ai model to run a simple python script in replit ,"This finBERT model python sentiment analysis script runs fine in jupyter notebooks/ Google Colab but results in an error when trying to run it in replit. Here is the traceback:
 
 Traceback (most recent call last):
@@ -378,7 +378,7 @@ I want to discern and be able to modify save files like it has been done in the 
 Questions?
 Discord: Altify#0016
 Forums
-Additional Info/Updates - Check Before Application, if blank page, nothing changed, if content, click the visit blog button, yes I made a blogging site just for updates since you cant update a bounty.",Altify-Developm,14 hours ago,https://replit.com/bounties/@Altify-Developm/create-a-v2022-cooki?t=
+Additional Info/Updates - Check Before Application, if blank page, nothing changed, if content, click the visit blog button, yes I made a blogging site just for updates since you cant update a bounty.",Altify-Developm,15 hours ago,https://replit.com/bounties/@Altify-Developm/create-a-v2022-cooki?t=
 37,$247.50,due in 3 days,AI based resume sorter,"Create a Google sheets add on which,
 given a Google sheet with LinkedIn profiles of candidates, fill out the additional columns about the candidates.
 
@@ -395,7 +395,7 @@ Scraping LinkedIn might be the hardest part, use headless browsers if you will o
 OpenAI keys tokens will be provided. Use the language or stack of your choice.
 
 Bonus
-Allow the user to ask new questions on candidates profile.",HarshGupta64,5 hours ago,https://replit.com/bounties/@HarshGupta64/ai-based-resume-sort?t=
+Allow the user to ask new questions on candidates profile.",HarshGupta64,6 hours ago,https://replit.com/bounties/@HarshGupta64/ai-based-resume-sort?t=
 38,$9.00,due in 3 days,Simple python script to modify a Photoshop file,"I want to be able to modify Photoshop mock up files within my python app. The File has a smart object. The content of the smart object needs to be changed.
 
 Example File:
@@ -419,4 +419,4 @@ Acceptance Criteria
 App must use pupeteer stealth and be written in typescript
 App must correctly scrape a list of ~50 pages I will supply
 App finds job listing using an array of likely job titles and then finds other matching jobs on the page
-App looks for links on the jobs and outputs a list of job titles + the link to click on and view the full job.",drninja777,1 hour ago,https://replit.com/bounties/@drninja777/build-a-scraper-that?t=
+App looks for links on the jobs and outputs a list of job titles + the link to click on and view the full job.",drninja777,2 hours ago,https://replit.com/bounties/@drninja777/build-a-scraper-that?t=
