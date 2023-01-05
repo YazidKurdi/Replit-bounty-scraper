@@ -419,4 +419,4 @@ Acceptance Criteria
 App must use pupeteer stealth and be written in typescript
 App must correctly scrape a list of ~50 pages I will supply
 App finds job listing using an array of likely job titles and then finds other matching jobs on the page
-App looks for links on the jobs and outputs a list of job titles + the link to click on and view the full job.",drninja777,35 minutes ago,https://replit.com/bounties/@drninja777/build-a-scraper-that?t=
+App looks for links on the jobs and outputs a list of job titles + the link to click on and view the full job.",drninja777,43 minutes ago,https://replit.com/bounties/@drninja777/build-a-scraper-that?t=
