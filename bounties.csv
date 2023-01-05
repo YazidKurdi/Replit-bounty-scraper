@@ -450,7 +450,7 @@ Tutorial: https://replit.com/@RegressionGames/Harvest-Animals-Bot-Regression-Gam
 Acceptance Criteria
 Go through the tutorial
 Make notes about issues you encounter (message us if there are any blockers)
-Provide suggestions and feedback on both the tutorial and general experience",RegressionGames,1 hour ago,https://replit.com/bounties/@RegressionGames/try-out-our-minecraf-1?t=
+Provide suggestions and feedback on both the tutorial and general experience",RegressionGames,2 hours ago,https://replit.com/bounties/@RegressionGames/try-out-our-minecraf-1?t=
 43,$27.00,due in 9 days,Add Enemies to a Phaser3 Game,"I have a simple Phaser3 game, and I'd like help adding enemies to it.
 
 Acceptance Criteria
@@ -459,4 +459,15 @@ Here is the replit with the existing game: https://replit.com/@dwp/simpleGamePlu
 I'm looking for someone who can:
 Add 3 enemy sprites at random locations on the map.
 Have the enemies move in random directions but shouldn't be able to move through the walls.
-When an enemy collides with the player sprite, show an alert saying ""Game Over!""",dwp,49 minutes ago,https://replit.com/bounties/@dwp/add-enemies-to-a-pha?t=
+When an enemy collides with the player sprite, show an alert saying ""Game Over!""",dwp,1 hour ago,https://replit.com/bounties/@dwp/add-enemies-to-a-pha?t=
+44,$81.00,due in 4 days,Chrome extension with google login and api integations,"A chrome extensions needs to be developed. It will have  to support google login. There are essentially two screens in the extension.
+Screen 1 - If the user isn't logged in then a login with google prompt needs to be shown
+
+Screen 2 - When the user is logged in, two textboxes and a dropdown with a CTA will be shown.
+On clicking the CTA the data from one of the textboxes need to be sent to an api and the response must be added to the other textbox.
+And when the api is being processed, all the elements in the UI need to be disabled.
+The backend api will be provided.
+Also, design is paramount here, there will be design feedback which  will need to be implemented.
+
+Acceptance Criteria
+All the mentioned cases need to pass and the chrome extensions needs to be published to the store successfully.",mahendranaik,2 minutes ago,https://replit.com/bounties/@mahendranaik/chrome-extension-wit?t=
