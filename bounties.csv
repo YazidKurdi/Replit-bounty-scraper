@@ -438,7 +438,7 @@ Tutorial: https://replit.com/@RegressionGames/Harvest-Animals-Bot-Regression-Gam
 Acceptance Criteria
 Go through the tutorial
 Make notes about issues you encounter (message us if there are any blockers)
-Provide suggestions and feedback on both the tutorial and general experience",RegressionGames,48 minutes ago,https://replit.com/bounties/@RegressionGames/try-out-our-minecraf?t=
+Provide suggestions and feedback on both the tutorial and general experience",RegressionGames,1 hour ago,https://replit.com/bounties/@RegressionGames/try-out-our-minecraf?t=
 42,$5.40,due in 13 days,Try out our Minecraft bot / AI tutorial!,"Hey there! We are releasing a platform to compete with bots in games! We are looking for folks to try out our first tutorial and provide feedback on the experience, before we release the template to the entire community.
 
 Estimated time to complete: ~30 minutes
@@ -450,4 +450,13 @@ Tutorial: https://replit.com/@RegressionGames/Harvest-Animals-Bot-Regression-Gam
 Acceptance Criteria
 Go through the tutorial
 Make notes about issues you encounter (message us if there are any blockers)
-Provide suggestions and feedback on both the tutorial and general experience",RegressionGames,19 minutes ago,https://replit.com/bounties/@RegressionGames/try-out-our-minecraf-1?t=
+Provide suggestions and feedback on both the tutorial and general experience",RegressionGames,37 minutes ago,https://replit.com/bounties/@RegressionGames/try-out-our-minecraf-1?t=
+43,$27.00,due in 9 days,Add Enemies to a Phaser3 Game,"I have a simple Phaser3 game, and I'd like help adding enemies to it.
+
+Acceptance Criteria
+Here is the replit with the existing game: https://replit.com/@dwp/simpleGamePlusEnemies
+
+I'm looking for someone who can:
+Add 3 enemy sprites at random locations on the map.
+Have the enemies move in random directions but shouldn't be able to move through the walls.
+When an enemy collides with the player sprite, show an alert saying ""Game Over!""",dwp,7 minutes ago,https://replit.com/bounties/@dwp/add-enemies-to-a-pha?t=
