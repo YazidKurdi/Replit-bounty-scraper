@@ -359,7 +359,7 @@ I would like someone to update the existing ""/"" index page, so that the Aphori
 Acceptance Criteria
 The index.html page should load in 8 random tiles from aphorisms.json at a time and have them float across the screen at different times.
 The tiles should randomly enter from one side of the screen (left, right, top, bottom) and exit out of another side of the screen (left, right, top, bottom) in a straight line.
-The html page should dynamically call the ""/random-aphorisms"" endpoint from the Python Flask app t...",Dprevoznik,20 hours ago,https://replit.com/bounties/@Dprevoznik/koi-pond-interface-f?t=
+The html page should dynamically call the ""/random-aphorisms"" endpoint from the Python Flask app t...",Dprevoznik,21 hours ago,https://replit.com/bounties/@Dprevoznik/koi-pond-interface-f?t=
 35,$20.00,closed,[Small Bug] Allow FinBERT ai model to run a simple python script in replit ,"This finBERT model python sentiment analysis script runs fine in jupyter notebooks/ Google Colab but results in an error when trying to run it in replit. Here is the traceback:
 
 Traceback (most recent call last):
@@ -378,7 +378,7 @@ I want to discern and be able to modify save files like it has been done in the 
 Questions?
 Discord: Altify#0016
 Forums
-Additional Info/Updates - Check Before Application, if blank page, nothing changed, if content, click the visit blog button, yes I made a blogging site just for updates since you cant update a bounty.",Altify-Developm,16 hours ago,https://replit.com/bounties/@Altify-Developm/create-a-v2022-cooki?t=
+Additional Info/Updates - Check Before Application, if blank page, nothing changed, if content, click the visit blog button, yes I made a blogging site just for updates since you cant update a bounty.",Altify-Developm,17 hours ago,https://replit.com/bounties/@Altify-Developm/create-a-v2022-cooki?t=
 37,$247.50,due in 3 days,AI based resume sorter,"Create a Google sheets add on which,
 given a Google sheet with LinkedIn profiles of candidates, fill out the additional columns about the candidates.
 
@@ -419,7 +419,7 @@ Acceptance Criteria
 App must use pupeteer stealth and be written in typescript
 App must correctly scrape a list of ~50 pages I will supply
 App finds job listing using an array of likely job titles and then finds other matching jobs on the page
-App looks for links on the jobs and outputs a list of job titles + the link to click on and view the full job.",drninja777,3 hours ago,https://replit.com/bounties/@drninja777/build-a-scraper-that?t=
+App looks for links on the jobs and outputs a list of job titles + the link to click on and view the full job.",drninja777,4 hours ago,https://replit.com/bounties/@drninja777/build-a-scraper-that?t=
 40,$45.00,due in 24 days,Dream Studio API text to image +  vertical marketplace to buy/sell commercialize the physical versions,"Text to image generation for physical products is a great tool for inspiration but does not yield production ready design (except possibly for printed products.) For other products (like a shoe for example), professionals are needed, such as traditional product and CAD designers and factory producers.
 
 My idea is a website that will be a 2 way marketplace to bridge the gap between inspirational designs created by amateurs and pros alike, and the professionals and producers who can turn those designs into reality. AI designs created by anyone can be offered on the site for sale as either concepts, production ready, or actually produced, with the proceeds divided among those involved in bringing them to life.
@@ -438,7 +438,7 @@ Tutorial: https://replit.com/@RegressionGames/Harvest-Animals-Bot-Regression-Gam
 Acceptance Criteria
 Go through the tutorial
 Make notes about issues you encounter (message us if there are any blockers)
-Provide suggestions and feedback on both the tutorial and general experience",RegressionGames,1 hour ago,https://replit.com/bounties/@RegressionGames/try-out-our-minecraf?t=
+Provide suggestions and feedback on both the tutorial and general experience",RegressionGames,2 hours ago,https://replit.com/bounties/@RegressionGames/try-out-our-minecraf?t=
 42,$5.40,due in 13 days,Try out our Minecraft bot / AI tutorial!,"Hey there! We are releasing a platform to compete with bots in games! We are looking for folks to try out our first tutorial and provide feedback on the experience, before we release the template to the entire community.
 
 Estimated time to complete: ~30 minutes
@@ -450,7 +450,7 @@ Tutorial: https://replit.com/@RegressionGames/Harvest-Animals-Bot-Regression-Gam
 Acceptance Criteria
 Go through the tutorial
 Make notes about issues you encounter (message us if there are any blockers)
-Provide suggestions and feedback on both the tutorial and general experience",RegressionGames,59 minutes ago,https://replit.com/bounties/@RegressionGames/try-out-our-minecraf-1?t=
+Provide suggestions and feedback on both the tutorial and general experience",RegressionGames,1 hour ago,https://replit.com/bounties/@RegressionGames/try-out-our-minecraf-1?t=
 43,$27.00,due in 9 days,Add Enemies to a Phaser3 Game,"I have a simple Phaser3 game, and I'd like help adding enemies to it.
 
 Acceptance Criteria
@@ -459,4 +459,4 @@ Here is the replit with the existing game: https://replit.com/@dwp/simpleGamePlu
 I'm looking for someone who can:
 Add 3 enemy sprites at random locations on the map.
 Have the enemies move in random directions but shouldn't be able to move through the walls.
-When an enemy collides with the player sprite, show an alert saying ""Game Over!""",dwp,28 minutes ago,https://replit.com/bounties/@dwp/add-enemies-to-a-pha?t=
+When an enemy collides with the player sprite, show an alert saying ""Game Over!""",dwp,40 minutes ago,https://replit.com/bounties/@dwp/add-enemies-to-a-pha?t=
