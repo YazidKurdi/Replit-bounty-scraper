@@ -379,3 +379,20 @@ Questions?
 Discord: Altify#0016
 Forums
 Additional Info/Updates - Check Before Application, if blank page, nothing changed, if content, click the visit blog button, yes I made a blogging site just for updates since you cant update a bounty.",Altify-Developm,9 hours ago,https://replit.com/bounties/@Altify-Developm/create-a-v2022-cooki?t=
+37,$247.50,due in 4 days,AI based resume sorter,"Create a Google sheets add on which,
+given a Google sheet with LinkedIn profiles of candidates, fill out the additional columns about the candidates.
+
+Years of experience in given field
+Did they graduate from top schools? (Yes/No) [Can scrape a list of top schools online]
+Did they work at top startups? (Yes/No)
+Summary of their experience
+
+Acceptance Criteria
+A Google sheets add on which does the above will be accepted. Need the code as well, ofc.
+
+Technical Details
+Scraping LinkedIn might be the hardest part, use headless browsers if you will or some other tools.
+OpenAI keys tokens will be provided. Use the language or stack of your choice.
+
+Bonus
+Allow the user to ask new questions on candidates profile.",HarshGupta64,11 minutes ago,https://replit.com/bounties/@HarshGupta64/ai-based-resume-sort?t=
