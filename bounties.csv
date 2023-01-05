@@ -331,7 +331,7 @@ You may use anything that can be deployed. (No Chromium in non-headless mode).  
 ideally you don't need to use selectors and can write it by simulating the requests.
 Technical Details
 
-Link to Project",mlchiang,20 hours ago,https://replit.com/bounties/@mlchiang/write-a-node-functio?t=
+Link to Project",mlchiang,21 hours ago,https://replit.com/bounties/@mlchiang/write-a-node-functio?t=
 32,$90.00,closed,Create a scraper template I can use with typescript and puppeteer,"I would like a simple scraper template I can build on. I am not familiar with replit so would like a starting point.
 
 Acceptance Criteria
@@ -372,7 +372,7 @@ Traceback (most recent call last):
     module = self.getmodule(self.classto_module[name])
   File ""/home/runner/Finbert/venv/lib/python3.8/site-packages/transformers/utils/importutils.py"", line 1095, in get_module
     raise RuntimeError(
-RuntimeError: Failed to import transformers.models.bert.modeling_bert because of the following error (look up to see its trace...",MasonCorliss,17 hours ago,https://replit.com/bounties/@MasonCorliss/small-bug-allow-finb?t=
+RuntimeError: Failed to import transformers.models.bert.modeling_bert because of the following error (look up to see its trace...",MasonCorliss,18 hours ago,https://replit.com/bounties/@MasonCorliss/small-bug-allow-finb?t=
 36,$10.00,due in 6 months,Create a v2.022 Cookie Clicker Save Editor ( Like coderpatsy ),"What I want
 I want to discern and be able to modify save files like it has been done in the past like in v1.0466 and v2.048, but I want it to be for v2.022, be able to do all of the same things as the v2.048 ( up to the limitations of the version ), and include save fixing, bug reporting, and it to be able to determine if the save code is or is not from v2.022, basically all I want is the what coderpatsy did, but for v2.022, and I also want it to include a method of fixing the save data in a way that it does not mess up the in-game achievements, upgrades purchased, etc.
 Questions?
@@ -420,3 +420,10 @@ App must use pupeteer stealth and be written in typescript
 App must correctly scrape a list of ~50 pages I will supply
 App finds job listing using an array of likely job titles and then finds other matching jobs on the page
 App looks for links on the jobs and outputs a list of job titles + the link to click on and view the full job.",drninja777,2 hours ago,https://replit.com/bounties/@drninja777/build-a-scraper-that?t=
+40,$45.00,due in 24 days,Dream Studio API text to image +  vertical marketplace to buy/sell commercialize the physical versions,"Text to image generation for physical products is a great tool for inspiration but does not yield production ready design (except possibly for printed products.) For other products (like a shoe for example), professionals are needed, such as traditional product and CAD designers and factory producers.
+
+My idea is a website that will be a 2 way marketplace to bridge the gap between inspirational designs created by amateurs and pros alike, and the professionals and producers who can turn those designs into reality. AI designs created by anyone can be offered on the site for sale as either concepts, production ready, or actually produced, with the proceeds divided among those involved in bringing them to life.
+
+It will be somewhat similar to a dribbble.com, artstation.com, or an unsplash.com, but instead of the offerings being created offsite and uploaded, the image creation will take place on our site via dreamstudio api.
+
+This site will allow anyone, with no (industr...",Amber332,8 minutes ago,https://replit.com/bounties/@Amber332/dream-studio-api-tex?t=
