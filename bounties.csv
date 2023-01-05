@@ -438,7 +438,7 @@ Tutorial: https://replit.com/@RegressionGames/Harvest-Animals-Bot-Regression-Gam
 Acceptance Criteria
 Go through the tutorial
 Make notes about issues you encounter (message us if there are any blockers)
-Provide suggestions and feedback on both the tutorial and general experience",RegressionGames,6 hours ago,https://replit.com/bounties/@RegressionGames/try-out-our-minecraf?t=
+Provide suggestions and feedback on both the tutorial and general experience",RegressionGames,7 hours ago,https://replit.com/bounties/@RegressionGames/try-out-our-minecraf?t=
 42,$5.40,closed,Try out our Minecraft bot / AI tutorial!,"Hey there! We are releasing a platform to compete with bots in games! We are looking for folks to try out our first tutorial and provide feedback on the experience, before we release the template to the entire community.
 
 Estimated time to complete: ~30 minutes
@@ -459,7 +459,7 @@ Here is the replit with the existing game: https://replit.com/@dwp/simpleGamePlu
 I'm looking for someone who can:
 Add 3 enemy sprites at random locations on the map.
 Have the enemies move in random directions but shouldn't be able to move through the walls.
-When an enemy collides with the player sprite, show an alert saying ""Game Over!""",dwp,5 hours ago,https://replit.com/bounties/@dwp/add-enemies-to-a-pha?t=
+When an enemy collides with the player sprite, show an alert saying ""Game Over!""",dwp,6 hours ago,https://replit.com/bounties/@dwp/add-enemies-to-a-pha?t=
 44,$81.00,due in 4 days,Chrome extension with google login and api integations,"A chrome extensions needs to be developed. It will have  to support google login. There are essentially two screens in the extension.
 Screen 1 - If the user isn't logged in then a login with google prompt needs to be shown
 
@@ -470,7 +470,7 @@ The backend api will be provided.
 Also, design is paramount here, there will be design feedback which  will need to be implemented.
 
 Acceptance Criteria
-All the mentioned cases need to pass and the chrome extensions needs to be published to the store successfully.",mahendranaik,4 hours ago,https://replit.com/bounties/@mahendranaik/chrome-extension-wit?t=
+All the mentioned cases need to pass and the chrome extensions needs to be published to the store successfully.",mahendranaik,5 hours ago,https://replit.com/bounties/@mahendranaik/chrome-extension-wit?t=
 45,$45.00,due in 6 days,Build a very simple UI and host a model which is available in collab (details of colab provided)),"I have a Google Colab project that utilizes Python code to perform transcription with OpenAI Whisper. I want to hosted  and create a custom UI .
 
 UI will be  very simple with just a text box and some text area
@@ -517,3 +517,28 @@ Database - Postgres, TypeORM",noodleshopsinc,2 hours ago,https://replit.com/boun
 
 Acceptance Criteria
 Owed to @TechPandaPro",lopezhoracio,1 hour ago,https://replit.com/bounties/@lopezhoracio/bounties-pack-roam-r?t=
+50,$10.00,due in 13 days,🐥 Twitter Like Follower [NoCode/LowCode],"TLDR: Looking for the ability to follow a users likes on Twitter.
+E.g. UserX likes 1,000 Tweets, they should show up in my feed beside other Tweets.
+
+This will be a challenge and will need some fiddling with settings. (Not 100% sure it's possible.)
+I think a hint may be in playing around with some of these settings:
+a) ActivityTweet
+b) RankedOrganicTweet
+c) suggestactivitytweet
+d) suggest_activity
+e) suggestedrecycledtweet_inline
+f) suggestedgroupedtweet_hashtag
+g) suggestpyletweet
+h) suggestedrankorganic_tweet
+i) suggestrankedtimeline_tweet
+j) suggestrecycledtweet
+k) suggestsctweet
+l) suggest_recap
+m) suggestwhoto_follow
+n) genericactivityHighlights
+
+There are various guides that summarise how to mute certain features, one of which is displaying the 'User X liked this' on your feed.
+Theoretically, there should be a way to increase the amount of likes shown in your feed by 1 specific user.
+
+This could look like:
+-Using the Topics feature to 'Follow' some sort of [Us...",Bandos1000,1 second ago,https://replit.com/bounties/@Bandos1000/twitter-like-followe?t=
