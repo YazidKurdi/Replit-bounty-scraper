@@ -395,7 +395,7 @@ Scraping LinkedIn might be the hardest part, use headless browsers if you will o
 OpenAI keys tokens will be provided. Use the language or stack of your choice.
 
 Bonus
-Allow the user to ask new questions on candidates profile.",HarshGupta64,9 hours ago,https://replit.com/bounties/@HarshGupta64/ai-based-resume-sort?t=
+Allow the user to ask new questions on candidates profile.",HarshGupta64,10 hours ago,https://replit.com/bounties/@HarshGupta64/ai-based-resume-sort?t=
 38,$9.00,due in 3 days,Simple python script to modify a Photoshop file,"I want to be able to modify Photoshop mock up files within my python app. The File has a smart object. The content of the smart object needs to be changed.
 
 Example File:
@@ -471,7 +471,7 @@ Also, design is paramount here, there will be design feedback which  will need t
 
 Acceptance Criteria
 All the mentioned cases need to pass and the chrome extensions needs to be published to the store successfully.",mahendranaik,1 hour ago,https://replit.com/bounties/@mahendranaik/chrome-extension-wit?t=
-45,$45.00,due in 3 days,Build a very simple UI and host a model which is available in collab (details of colab provided)),"I have a Google Colab project that utilizes Python code to perform transcription with OpenAI Whisper. I want to hosted  and create a custom UI .
+45,$45.00,due in 6 days,Build a very simple UI and host a model which is available in collab (details of colab provided)),"I have a Google Colab project that utilizes Python code to perform transcription with OpenAI Whisper. I want to hosted  and create a custom UI .
 
 UI will be  very simple with just a text box and some text area
 
@@ -479,4 +479,9 @@ Acceptance Criteria
 
 Working UI and with model api's
 
-Technical Details",KishoreShimiker,2 minutes ago,https://replit.com/bounties/@KishoreShimiker/build-a-very-simple?t=
+Technical Details",KishoreShimiker,10 minutes ago,https://replit.com/bounties/@KishoreShimiker/build-a-very-simple?t=
+46,$99.90,due in 3 days,Trip Advisor Review Counter,"I need to automate the process of counting trip advisor reviews posted to a certain account.  I also need to have the quality of the review recorded.  I need the reviews & quality score to be input into a google sheet.  I need this to happen daily.
+
+Acceptance Criteria
+
+Technical Details",JonathanMurrell,8 minutes ago,https://replit.com/bounties/@JonathanMurrell/trip-advisor-review?t=
