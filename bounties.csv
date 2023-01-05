@@ -479,9 +479,22 @@ Acceptance Criteria
 
 Working UI and with model api's
 
-Technical Details",KishoreShimiker,19 minutes ago,https://replit.com/bounties/@KishoreShimiker/build-a-very-simple?t=
+Technical Details",KishoreShimiker,29 minutes ago,https://replit.com/bounties/@KishoreShimiker/build-a-very-simple?t=
 46,$99.90,due in 3 days,Trip Advisor Review Counter,"I need to automate the process of counting trip advisor reviews posted to a certain account.  I also need to have the quality of the review recorded.  I need the reviews & quality score to be input into a google sheet.  I need this to happen daily.
 
 Acceptance Criteria
 
-Technical Details",JonathanMurrell,17 minutes ago,https://replit.com/bounties/@JonathanMurrell/trip-advisor-review?t=
+Technical Details",JonathanMurrell,26 minutes ago,https://replit.com/bounties/@JonathanMurrell/trip-advisor-review?t=
+47,$45.00,due in 3 days,openai Whisper x Figma plugin bug - need some help,"We are creating a figma plugin TypeScript app that is using open.ai's Whisper - the goal is to let users control figma with voice commands. I am having some issues with jetpack compiling everything using the watch command.
+
+If it works out well, long-term work potential.
+
+Acceptance Criteria
+I can run the plugin on local env and have the app create a rectangle on the canvas when whisper transcribes ""create rectangle"" from my voice.
+
+Technical Details
+Boilerplate Figma app plugin for ""design"" and ""run once""
+TypeScript
+open.ai (whisper api)
+
+Link to Project",dillonaux,1 minute ago,https://replit.com/bounties/@dillonaux/openai-whisper-x-fig?t=
