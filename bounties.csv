@@ -412,7 +412,7 @@ save as JPG file
 
 I tried to do this with the psdtools library, but didn't get it to work.
 
-Note: I don't want to run Photoshop on my machine and interact within via API. It should run inside a python app.",PaulDelmann,9 hours ago,https://replit.com/bounties/@PaulDelmann/simple-python-script?t=
+Note: I don't want to run Photoshop on my machine and interact within via API. It should run inside a python app.",PaulDelmann,10 hours ago,https://replit.com/bounties/@PaulDelmann/simple-python-script?t=
 39,$200.00,due in 13 days,Build a scraper that can work on many different job sites,"I want a scraper that can take in any careers page URL and output the job title and links to apply in the console.
 
 Acceptance Criteria
@@ -426,7 +426,7 @@ My idea is a website that will be a 2 way marketplace to bridge the gap between 
 
 It will be somewhat similar to a dribbble.com, artstation.com, or an unsplash.com, but instead of the offerings being created offsite and uploaded, the image creation will take place on our site via dreamstudio api.
 
-This site will allow anyone, with no (industr...",Amber332,4 hours ago,https://replit.com/bounties/@Amber332/dream-studio-api-tex?t=
+This site will allow anyone, with no (industr...",Amber332,5 hours ago,https://replit.com/bounties/@Amber332/dream-studio-api-tex?t=
 41,$5.40,due in 13 days,Try out our Minecraft bot / AI tutorial!,"Hey there! We are releasing a platform to compete with bots in games! We are looking for folks to try out our first tutorial and provide feedback on the experience, before we release the template to the entire community.
 
 Estimated time to complete: ~30 minutes
@@ -479,12 +479,12 @@ Acceptance Criteria
 
 Working UI and with model api's
 
-Technical Details",KishoreShimiker,44 minutes ago,https://replit.com/bounties/@KishoreShimiker/build-a-very-simple?t=
+Technical Details",KishoreShimiker,58 minutes ago,https://replit.com/bounties/@KishoreShimiker/build-a-very-simple?t=
 46,$99.90,due in 3 days,Trip Advisor Review Counter,"I need to automate the process of counting trip advisor reviews posted to a certain account.  I also need to have the quality of the review recorded.  I need the reviews & quality score to be input into a google sheet.  I need this to happen daily.
 
 Acceptance Criteria
 
-Technical Details",JonathanMurrell,42 minutes ago,https://replit.com/bounties/@JonathanMurrell/trip-advisor-review?t=
+Technical Details",JonathanMurrell,56 minutes ago,https://replit.com/bounties/@JonathanMurrell/trip-advisor-review?t=
 47,$45.00,due in 3 days,openai Whisper x Figma plugin bug - need some help,"We are creating a figma plugin TypeScript app that is using open.ai's Whisper - the goal is to let users control figma with voice commands. I am having some issues with jetpack compiling everything using the watch command.
 
 If it works out well, long-term work potential.
@@ -497,4 +497,4 @@ Boilerplate Figma app plugin for ""design"" and ""run once""
 TypeScript
 open.ai (whisper api)
 
-Link to Project",dillonaux,17 minutes ago,https://replit.com/bounties/@dillonaux/openai-whisper-x-fig?t=
+Link to Project",dillonaux,30 minutes ago,https://replit.com/bounties/@dillonaux/openai-whisper-x-fig?t=
