@@ -285,7 +285,7 @@ downloaded documents should contain filename with a reference ID linking t...",P
 
 நான் சேர்க்க வேண்டிய வார்த்தைகள் பற்றிய விவரங்களை தருவேன்
 
-Please submit your application in Tamil, do not apply for this bounty if you aren't a native Tamil speaker.",CoderGautamYT,9 hours ago,https://replit.com/bounties/@CoderGautamYT/need-a-tamil-speaker?t=
+Please submit your application in Tamil, do not apply for this bounty if you aren't a native Tamil speaker.",CoderGautamYT,10 hours ago,https://replit.com/bounties/@CoderGautamYT/need-a-tamil-speaker?t=
 28,$40.50,due in 6 days,Podcast screenshot reader - Coded in Python,"Using Python code, we need to be able to read a screenshot taken on a phone when someone is listening to a podcast and extract the left most time stamp e.g., 5:15.  Then turn this  time into a number of seconds (in this case 60*5 plus 15 = 315) into the podcast when they screenshot was taken.
 We also want to extract and read the date of the podcast and as much of the text of the podcast title as is visible in the screenshot.
 
@@ -295,7 +295,7 @@ Python code which can execute the above task accurately on 10 podcast screenshot
 
 Technical Details
 
-Link to Project",YorkvilleDS,9 hours ago,https://replit.com/bounties/@YorkvilleDS/podcast-screenshot-r?t=
+Link to Project",YorkvilleDS,10 hours ago,https://replit.com/bounties/@YorkvilleDS/podcast-screenshot-r?t=
 29,$45.00,due in 3 days,Help explore how to train a custom fine tuned model for re-creating consistent scenarios in my cartoon from different camera angles,"First, you will need to gather a dataset of images or video frames that represent the different camera angles of the scenarios you want to recreate. This dataset should contain a variety of different angles, including close-ups, wide shots, high angles, low angles, etc.
 
 Preprocess your dataset by cropping, resizing, and/or normalizing the images or video frames as needed.
@@ -331,7 +331,7 @@ You may use anything that can be deployed. (No Chromium in non-headless mode).  
 ideally you don't need to use selectors and can write it by simulating the requests.
 Technical Details
 
-Link to Project",mlchiang,7 hours ago,https://replit.com/bounties/@mlchiang/write-a-node-functio?t=
+Link to Project",mlchiang,8 hours ago,https://replit.com/bounties/@mlchiang/write-a-node-functio?t=
 32,$90.00,due in 13 days,Create a scraper template I can use with typescript and puppeteer,"I would like a simple scraper template I can build on. I am not familiar with replit so would like a starting point.
 
 Acceptance Criteria
@@ -372,7 +372,7 @@ Traceback (most recent call last):
     module = self.getmodule(self.classto_module[name])
   File ""/home/runner/Finbert/venv/lib/python3.8/site-packages/transformers/utils/importutils.py"", line 1095, in get_module
     raise RuntimeError(
-RuntimeError: Failed to import transformers.models.bert.modeling_bert because of the following error (look up to see its trace...",MasonCorliss,4 hours ago,https://replit.com/bounties/@MasonCorliss/small-bug-allow-finb?t=
+RuntimeError: Failed to import transformers.models.bert.modeling_bert because of the following error (look up to see its trace...",MasonCorliss,5 hours ago,https://replit.com/bounties/@MasonCorliss/small-bug-allow-finb?t=
 36,$10.00,due in 6 months,Create a v2.022 Cookie Clicker Save Editor ( Like coderpatsy ),"What I want
 I want to discern and be able to modify save files like it has been done in the past like in v1.0466 and v2.048, but I want it to be for v2.022, be able to do all of the same things as the v2.048 ( up to the limitations of the version ), and include save fixing, bug reporting, and it to be able to determine if the save code is or is not from v2.022, basically all I want is the what coderpatsy did, but for v2.022, and I also want it to include a method of fixing the save data in a way that it does not mess up the in-game achievements, upgrades purchased, etc.
 Questions?
