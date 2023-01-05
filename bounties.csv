@@ -395,7 +395,7 @@ Scraping LinkedIn might be the hardest part, use headless browsers if you will o
 OpenAI keys tokens will be provided. Use the language or stack of your choice.
 
 Bonus
-Allow the user to ask new questions on candidates profile.",HarshGupta64,7 hours ago,https://replit.com/bounties/@HarshGupta64/ai-based-resume-sort?t=
+Allow the user to ask new questions on candidates profile.",HarshGupta64,8 hours ago,https://replit.com/bounties/@HarshGupta64/ai-based-resume-sort?t=
 38,$9.00,due in 3 days,Simple python script to modify a Photoshop file,"I want to be able to modify Photoshop mock up files within my python app. The File has a smart object. The content of the smart object needs to be changed.
 
 Example File:
@@ -412,7 +412,7 @@ save as JPG file
 
 I tried to do this with the psdtools library, but didn't get it to work.
 
-Note: I don't want to run Photoshop on my machine and interact within via API. It should run inside a python app.",PaulDelmann,6 hours ago,https://replit.com/bounties/@PaulDelmann/simple-python-script?t=
+Note: I don't want to run Photoshop on my machine and interact within via API. It should run inside a python app.",PaulDelmann,7 hours ago,https://replit.com/bounties/@PaulDelmann/simple-python-script?t=
 39,$200.00,due in 13 days,Build a scraper that can work on many different job sites,"I want a scraper that can take in any careers page URL and output the job title and links to apply in the console.
 
 Acceptance Criteria
@@ -426,7 +426,7 @@ My idea is a website that will be a 2 way marketplace to bridge the gap between 
 
 It will be somewhat similar to a dribbble.com, artstation.com, or an unsplash.com, but instead of the offerings being created offsite and uploaded, the image creation will take place on our site via dreamstudio api.
 
-This site will allow anyone, with no (industr...",Amber332,1 hour ago,https://replit.com/bounties/@Amber332/dream-studio-api-tex?t=
+This site will allow anyone, with no (industr...",Amber332,2 hours ago,https://replit.com/bounties/@Amber332/dream-studio-api-tex?t=
 41,$5.40,due in 13 days,Try out our Minecraft bot / AI tutorial!,"Hey there! We are releasing a platform to compete with bots in games! We are looking for folks to try out our first tutorial and provide feedback on the experience, before we release the template to the entire community.
 
 Estimated time to complete: ~30 minutes
@@ -450,7 +450,7 @@ Tutorial: https://replit.com/@RegressionGames/Harvest-Animals-Bot-Regression-Gam
 Acceptance Criteria
 Go through the tutorial
 Make notes about issues you encounter (message us if there are any blockers)
-Provide suggestions and feedback on both the tutorial and general experience",RegressionGames,37 minutes ago,https://replit.com/bounties/@RegressionGames/try-out-our-minecraf-1?t=
+Provide suggestions and feedback on both the tutorial and general experience",RegressionGames,59 minutes ago,https://replit.com/bounties/@RegressionGames/try-out-our-minecraf-1?t=
 43,$27.00,due in 9 days,Add Enemies to a Phaser3 Game,"I have a simple Phaser3 game, and I'd like help adding enemies to it.
 
 Acceptance Criteria
@@ -459,4 +459,4 @@ Here is the replit with the existing game: https://replit.com/@dwp/simpleGamePlu
 I'm looking for someone who can:
 Add 3 enemy sprites at random locations on the map.
 Have the enemies move in random directions but shouldn't be able to move through the walls.
-When an enemy collides with the player sprite, show an alert saying ""Game Over!""",dwp,7 minutes ago,https://replit.com/bounties/@dwp/add-enemies-to-a-pha?t=
+When an enemy collides with the player sprite, show an alert saying ""Game Over!""",dwp,28 minutes ago,https://replit.com/bounties/@dwp/add-enemies-to-a-pha?t=
