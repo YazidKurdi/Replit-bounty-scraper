@@ -323,7 +323,7 @@ Acceptance Criteria
 
 Technical Details
 
-Link to Project",DavidEagan1,10 hours ago,https://replit.com/bounties/@DavidEagan1/perform-conversion-r?t=
+Link to Project",DavidEagan1,11 hours ago,https://replit.com/bounties/@DavidEagan1/perform-conversion-r?t=
 31,$16.20,due in 3 days,Write a node function to log in to Fantrax.com and return the FX_RM cookie.,"I'm looking for a function given a users credentials can programmatically bypass Fantrax's auth and return the FX_RM cookie.
 Acceptance Criteria
 You may use anything that can be deployed. (No Chromium in non-headless mode).  If you choose to do it this way. please make sure your code works while calling a service like https://www.browserless.io/.
@@ -331,7 +331,7 @@ You may use anything that can be deployed. (No Chromium in non-headless mode).  
 ideally you don't need to use selectors and can write it by simulating the requests.
 Technical Details
 
-Link to Project",mlchiang,10 hours ago,https://replit.com/bounties/@mlchiang/write-a-node-functio?t=
+Link to Project",mlchiang,11 hours ago,https://replit.com/bounties/@mlchiang/write-a-node-functio?t=
 32,$90.00,due in 13 days,Create a scraper template I can use with typescript and puppeteer,"I would like a simple scraper template I can build on. I am not familiar with replit so would like a starting point.
 
 Acceptance Criteria
@@ -359,7 +359,7 @@ I would like someone to update the existing ""/"" index page, so that the Aphori
 Acceptance Criteria
 The index.html page should load in 8 random tiles from aphorisms.json at a time and have them float across the screen at different times.
 The tiles should randomly enter from one side of the screen (left, right, top, bottom) and exit out of another side of the screen (left, right, top, bottom) in a straight line.
-The html page should dynamically call the ""/random-aphorisms"" endpoint from the Python Flask app t...",Dprevoznik,8 hours ago,https://replit.com/bounties/@Dprevoznik/koi-pond-interface-f?t=
+The html page should dynamically call the ""/random-aphorisms"" endpoint from the Python Flask app t...",Dprevoznik,9 hours ago,https://replit.com/bounties/@Dprevoznik/koi-pond-interface-f?t=
 35,$20.00,due in 4 days,[Small Bug] Allow FinBERT ai model to run a simple python script in replit ,"This finBERT model python sentiment analysis script runs fine in jupyter notebooks/ Google Colab but results in an error when trying to run it in replit. Here is the traceback:
 
 Traceback (most recent call last):
@@ -372,7 +372,7 @@ Traceback (most recent call last):
     module = self.getmodule(self.classto_module[name])
   File ""/home/runner/Finbert/venv/lib/python3.8/site-packages/transformers/utils/importutils.py"", line 1095, in get_module
     raise RuntimeError(
-RuntimeError: Failed to import transformers.models.bert.modeling_bert because of the following error (look up to see its trace...",MasonCorliss,7 hours ago,https://replit.com/bounties/@MasonCorliss/small-bug-allow-finb?t=
+RuntimeError: Failed to import transformers.models.bert.modeling_bert because of the following error (look up to see its trace...",MasonCorliss,8 hours ago,https://replit.com/bounties/@MasonCorliss/small-bug-allow-finb?t=
 36,$10.00,due in 6 months,Create a v2.022 Cookie Clicker Save Editor ( Like coderpatsy ),"What I want
 I want to discern and be able to modify save files like it has been done in the past like in v1.0466 and v2.048, but I want it to be for v2.022, be able to do all of the same things as the v2.048 ( up to the limitations of the version ), and include save fixing, bug reporting, and it to be able to determine if the save code is or is not from v2.022, basically all I want is the what coderpatsy did, but for v2.022, and I also want it to include a method of fixing the save data in a way that it does not mess up the in-game achievements, upgrades purchased, etc.
 Questions?
