@@ -372,7 +372,7 @@ Traceback (most recent call last):
     module = self.getmodule(self.classto_module[name])
   File ""/home/runner/Finbert/venv/lib/python3.8/site-packages/transformers/utils/importutils.py"", line 1095, in get_module
     raise RuntimeError(
-RuntimeError: Failed to import transformers.models.bert.modeling_bert because of the following error (look up to see its trace...",MasonCorliss,19 hours ago,https://replit.com/bounties/@MasonCorliss/small-bug-allow-finb?t=
+RuntimeError: Failed to import transformers.models.bert.modeling_bert because of the following error (look up to see its trace...",MasonCorliss,20 hours ago,https://replit.com/bounties/@MasonCorliss/small-bug-allow-finb?t=
 36,$10.00,due in 6 months,Create a v2.022 Cookie Clicker Save Editor ( Like coderpatsy ),"What I want
 I want to discern and be able to modify save files like it has been done in the past like in v1.0466 and v2.048, but I want it to be for v2.022, be able to do all of the same things as the v2.048 ( up to the limitations of the version ), and include save fixing, bug reporting, and it to be able to determine if the save code is or is not from v2.022, basically all I want is the what coderpatsy did, but for v2.022, and I also want it to include a method of fixing the save data in a way that it does not mess up the in-game achievements, upgrades purchased, etc.
 Questions?
@@ -459,4 +459,4 @@ Here is the replit with the existing game: https://replit.com/@dwp/simpleGamePlu
 I'm looking for someone who can:
 Add 3 enemy sprites at random locations on the map.
 Have the enemies move in random directions but shouldn't be able to move through the walls.
-When an enemy collides with the player sprite, show an alert saying ""Game Over!""",dwp,40 minutes ago,https://replit.com/bounties/@dwp/add-enemies-to-a-pha?t=
+When an enemy collides with the player sprite, show an alert saying ""Game Over!""",dwp,49 minutes ago,https://replit.com/bounties/@dwp/add-enemies-to-a-pha?t=
