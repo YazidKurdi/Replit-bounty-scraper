@@ -554,7 +554,7 @@ Acceptance Criteria
 The JavaScript bug causing the feature to not function properly is fixed
 The feature functions as expected after the fix has been implemented
 The fix does not cause any other issues or break any other parts of the website
-The fix is well-documented and easy to understand",hdbu,11 hours ago,https://replit.com/bounties/@hdbu/bug-javascript-bug?t=
+The fix is well-documented and easy to understand",hdbu,12 hours ago,https://replit.com/bounties/@hdbu/bug-javascript-bug?t=
 54,$90.00,due in 6 days,Parse a Structured PDF report.,"Our users have to digest a long PDF data report to extract a few pieces of information and make simple addition calculations to complete another task.  We have a Bubble application that utilizes Xano database where the users currently upload and store this pdf report, open it, read it, find the relevant fields, make the manual calculations and then complete their task.  This program should parse and provide the relevant fields as well as the calculated fields.
 
 Sample PDF:
