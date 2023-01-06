@@ -610,11 +610,11 @@ A. Create a simple page where the user adds an Amazon product detail page URL as
 B. From this ASIN, scrap all of Amazon's reviews. Reviews can be found on a separate page such as https://www.amazon.com/product-reviews/B08NG8WFX5/.
 C. Use OpenAI to analyze the reviews.
 D. Summarize the reviews in a specified word length, input by the user (e.g., 200 words or even 20 words).
-E. Summarize reviews in specific groups with strengths and weaknesses.",mskreplit,9 hours ago,https://replit.com/bounties/@mskreplit/amazon-product-revie?t=
+E. Summarize reviews in specific groups with strengths and weaknesses.",mskreplit,10 hours ago,https://replit.com/bounties/@mskreplit/amazon-product-revie?t=
 59,$45.00,due in 7 days,Pulling some data using simfin api,"I need someone to use the simfin.com API to create a backtesting app for suggested portfolios. E.g., I can set conditions (P/E lower than 10, and FCF higher than $500m etc), set a date (10th of March 2018), and be able to get a list of stocks + their purchase prices. For extra credit I'd love for the purchase basket (all the stocks defined above) to be rebalanced at defined intervals (monthly/ quarterly/ yearly) if chosen.
 
 Acceptance Criteria
-Ability to input the defined criteria as above and get a table with the results.",strangeloopcanon,8 hours ago,https://replit.com/bounties/@strangeloopcanon/pulling-some-data-us?t=
+Ability to input the defined criteria as above and get a table with the results.",strangeloopcanon,9 hours ago,https://replit.com/bounties/@strangeloopcanon/pulling-some-data-us?t=
 60,$20.07,due in 13 days,"Enhance Excel Formula Generation App with Authentication, Signing, and Pricing Features with NodeJS","We are looking for a developer to enhance an existing Excel formula generation app with the following features:
 
 Authentication: Allow users to log in to the app using their Replit or Google accounts.
@@ -622,7 +622,7 @@ Signing: Allow users to sign in to the app using their accounts.
 Pricing: Implement a paywall for advanced formula generation tasks, with the option to purchase credits to use the app.In addition to these features, we would like to train the app to generate formulas for more complex prompts, using the best available OpenAI model. My previous devwloper has left enough room to competw this work.
 
 Acceptance Criteria
-To qualify for this bounty, you should have experience working with the OpenAI API and implementing authentication and pricing features in web applications.",Sarfrazkhan18,8 hours ago,https://replit.com/bounties/@Sarfrazkhan18/enhance-excel-formul?t=
+To qualify for this bounty, you should have experience working with the OpenAI API and implementing authentication and pricing features in web applications.",Sarfrazkhan18,9 hours ago,https://replit.com/bounties/@Sarfrazkhan18/enhance-excel-formul?t=
 61,$1.80,due in 3 days,Data Entry in Form,"I need someone to take some data from websites I will provide and enter it into a form, for a language learning app.
 
 No need to know the language or any coding experience, I just need a large amount of words around 400-500 words copy pasted",CoderGautamYT,6 hours ago,https://replit.com/bounties/@CoderGautamYT/data-entry-in-form?t=
@@ -696,4 +696,4 @@ response = openai.Completion.create(
   presence_penalty = 0
 )
 
-Link to Project",YorkvilleDS,60 minutes ago,https://replit.com/bounties/@YorkvilleDS/find-like-text-conce?t=
+Link to Project",YorkvilleDS,1 hour ago,https://replit.com/bounties/@YorkvilleDS/find-like-text-conce?t=
