@@ -497,7 +497,7 @@ Boilerplate Figma app plugin for ""design"" and ""run once""
 TypeScript
 open.ai (whisper api)
 
-Link to Project",dillonaux,8 hours ago,https://replit.com/bounties/@dillonaux/openai-whisper-x-fig?t=
+Link to Project",dillonaux,9 hours ago,https://replit.com/bounties/@dillonaux/openai-whisper-x-fig?t=
 48,$900.00,due in 6 days,Full stack dev needed for Scheduling & Booking feature ,"Noodle is a platform for experts to sell their expertise in the form of chat or in person sessions.
 
 As part of selling in person sessions, experts need the ability to set their availability.
@@ -541,7 +541,7 @@ There are various guides that summarise how to mute certain features, one of whi
 Theoretically, there should be a way to increase the amount of likes shown in your feed by 1 specific user.
 
 This could look like:
--Using the Topics feature to 'Follow' some sort of [Us...",Bandos1000,5 hours ago,https://replit.com/bounties/@Bandos1000/twitter-like-followe?t=
+-Using the Topics feature to 'Follow' some sort of [Us...",Bandos1000,6 hours ago,https://replit.com/bounties/@Bandos1000/twitter-like-followe?t=
 51,$200.00,due in 25 days,Bounties Pack - Roam Research Extension & HackerNews Site Template,"Roam Research Extension and HackerNews Site Template
 
 Acceptance Criteria
@@ -562,3 +562,30 @@ https://drive.google.com/file/d/1BDwaWXlWF7Yz0LeI3kpE4sBKJnFEV_9T/view?usp=shari
 
 Acceptance Criteria
 The program should have an api to receive the report from Bubble, parse the data and store it in a way that individual fields can be called, and an api to return the needed fields to Bubble.",FrankieSoriano,2 hours ago,https://replit.com/bounties/@FrankieSoriano/parse-a-structured-p?t=
+55,$19.80,due in 9 days,Virtual Muslim Prayer App,"Here is a brief outline of how the app could work:
+
+The user selects their current location or enters a custom location.
+The app displays the current local prayer times and the names of the prayers (Fajr, Dhuhr, Asr, Maghrib, Isha).
+The user can choose to join a virtual prayer session with other users or pray individually.
+If the user chooses to join a virtual prayer session, the app shows a list of nearby mosques and their prayer times. The user can select a mosque to join the prayer session at the designated time.
+If the user chooses to pray individually, they can select a prayer from the list and the app will provide an audio recording of the prayer in Arabic with English translation.
+The app also includes a feature to set reminders for the daily prayer times.
+
+Acceptance Criteria
+The app should have a functional sign up and login system
+The app should accurately display the Qibla direction for the user's location
+The app should display a Hadith or Quranic verse ...",Sarfrazkhan18,12 minutes ago,https://replit.com/bounties/@Sarfrazkhan18/virtual-muslim-praye?t=
+56,$180.00,due in 14 days,Create a Sign-in Component,"Business Value
+I want a sign-in component that allows users to connect to my platform using different authentication methods.
+
+Acceptance Criteria
+
+AC0: The sign-in in the component must be done in the front-end using React and in the backend with Python (ideally using Django)
+AC1: The sign-in displays three different authentication methods:
+Social login using Twitter, Google, and Apple
+Passwordless email
+Connect Wallet (Metamask, Coinbase Wallet, Wallet Connect)
+
+AC2: Given a user authenticates for the first time (so registering) using the Social Login, or passwordless email, then a wallet is created using a custodial wallet API (will define and give Access to the API to create this wallet)
+AC3:  The exact authentication flow will be sent as a Figjam draw in Discord
+AC4: The UI/UX will be sent as a Figma Prototype in Discord",AlexR71,10 minutes ago,https://replit.com/bounties/@AlexR71/create-a-sign-in-com?t=
