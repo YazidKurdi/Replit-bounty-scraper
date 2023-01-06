@@ -545,7 +545,7 @@ This could look like:
 51,$200.00,due in 25 days,Bounties Pack - Roam Research Extension & HackerNews Site Template,"Roam Research Extension and HackerNews Site Template
 
 Acceptance Criteria
-Owed to @TechPandaPro",lopezhoracio,11 hours ago,https://replit.com/bounties/@lopezhoracio/bounties-pack-roam-r-1?t=
+Owed to @TechPandaPro",lopezhoracio,12 hours ago,https://replit.com/bounties/@lopezhoracio/bounties-pack-roam-r-1?t=
 52,$0.90,closed,Bug: Interactive REPL,Just a little help with my code,hdbu,10 hours ago,https://replit.com/bounties/@hdbu/bug-interactive-repl?t=
 53,$0.90,closed,Bug: JavaScript Bug,"There is a bug in the JavaScript code on our website that is causing a specific feature to not function properly. We need someone to find and fix this bug.
 
@@ -610,4 +610,8 @@ A. Create a simple page where the user adds an Amazon product detail page URL as
 B. From this ASIN, scrap all of Amazon's reviews. Reviews can be found on a separate page such as https://www.amazon.com/product-reviews/B08NG8WFX5/.
 C. Use OpenAI to analyze the reviews.
 D. Summarize the reviews in a specified word length, input by the user (e.g., 200 words or even 20 words).
-E. Summarize reviews in specific groups with strengths and weaknesses.",mskreplit,59 minutes ago,https://replit.com/bounties/@mskreplit/amazon-product-revie?t=
+E. Summarize reviews in specific groups with strengths and weaknesses.",mskreplit,1 hour ago,https://replit.com/bounties/@mskreplit/amazon-product-revie?t=
+59,$45.00,due in 8 days,Pulling some data using simfin api,"I need someone to use the simfin.com API to create a backtesting app for suggested portfolios. E.g., I can set conditions (P/E lower than 10, and FCF higher than $500m etc), set a date (10th of March 2018), and be able to get a list of stocks + their purchase prices. For extra credit I'd love for the purchase basket (all the stocks defined above) to be rebalanced at defined intervals (monthly/ quarterly/ yearly) if chosen.
+
+Acceptance Criteria
+Ability to input the defined criteria as above and get a table with the results.",strangeloopcanon,4 minutes ago,https://replit.com/bounties/@strangeloopcanon/pulling-some-data-us?t=
