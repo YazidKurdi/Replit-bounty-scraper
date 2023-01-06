@@ -656,7 +656,7 @@ A script that successfully takes a CSV and adds this information to the appropri
 Technical Details
 Will need to use the Slack API
 
-Link to Project",DaysiGomez,3 hours ago,https://replit.com/bounties/@DaysiGomez/use-slack-api-to-add?t=
+Link to Project",DaysiGomez,4 hours ago,https://replit.com/bounties/@DaysiGomez/use-slack-api-to-add?t=
 65,$67.50,due in 1 month,MVP web app for students to submit screen/webcam recordings of flashcard reviews,"We'd like to create a basic web app that allows teachers to create sets of 2-sided digital ""flashcards"" and assign them to students; and then allows students to submit a combination screen recording/webcam recording of themselves reviewing the flashcards. The recording should show both what the student is seeing on the screen as the student navigates through the cards (click on a card to show the other side; then click a button to see the next card); and also the student's webcam view as he/she states the answers to questions out loud.
 
 Acceptance Criteria
@@ -676,7 +676,7 @@ Story 1 (Weeks 1 & 2)
 ● I am able to set/map my business, my team members, and each member’s
 roles/responsibilities.
 ● I am able to answer Project Medici’s “calibration” questions which then creates a high-level “profile” of my business, of which Project Medici will use to best understand my company and understand its hierarchy and to perfect its mapping.
-● I am able to upload my company’s corp...",JOkun1,1 hour ago,https://replit.com/bounties/@JOkun1/project-medici-the-u?t=
+● I am able to upload my company’s corp...",JOkun1,2 hours ago,https://replit.com/bounties/@JOkun1/project-medici-the-u?t=
 67,$18.00,due in 5 days,"Break down a project scope of work into specific coding tasks, languages and deliverables ","I need help to provide detailed explanations on the programming steps needed to create the project in our SOW. (Will be provided from Notion read-only link)
 
 Acceptance Criteria
@@ -696,4 +696,4 @@ response = openai.Completion.create(
   presence_penalty = 0
 )
 
-Link to Project",YorkvilleDS,14 minutes ago,https://replit.com/bounties/@YorkvilleDS/find-like-text-conce?t=
+Link to Project",YorkvilleDS,26 minutes ago,https://replit.com/bounties/@YorkvilleDS/find-like-text-conce?t=
