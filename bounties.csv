@@ -542,11 +542,11 @@ Theoretically, there should be a way to increase the amount of likes shown in yo
 
 This could look like:
 -Using the Topics feature to 'Follow' some sort of [Us...",Bandos1000,12 hours ago,https://replit.com/bounties/@Bandos1000/twitter-like-followe?t=
-51,$200.00,due in 25 days,Bounties Pack - Roam Research Extension & HackerNews Site Template,"Roam Research Extension and HackerNews Site Template
+51,$200.00,due in 24 days,Bounties Pack - Roam Research Extension & HackerNews Site Template,"Roam Research Extension and HackerNews Site Template
 
 Acceptance Criteria
 Owed to @TechPandaPro",lopezhoracio,12 hours ago,https://replit.com/bounties/@lopezhoracio/bounties-pack-roam-r-1?t=
-52,$0.90,closed,Bug: Interactive REPL,Just a little help with my code,hdbu,10 hours ago,https://replit.com/bounties/@hdbu/bug-interactive-repl?t=
+52,$0.90,closed,Bug: Interactive REPL,Just a little help with my code,hdbu,11 hours ago,https://replit.com/bounties/@hdbu/bug-interactive-repl?t=
 53,$0.90,closed,Bug: JavaScript Bug,"There is a bug in the JavaScript code on our website that is causing a specific feature to not function properly. We need someone to find and fix this bug.
 
 Acceptance Criteria
@@ -555,14 +555,14 @@ The JavaScript bug causing the feature to not function properly is fixed
 The feature functions as expected after the fix has been implemented
 The fix does not cause any other issues or break any other parts of the website
 The fix is well-documented and easy to understand",hdbu,10 hours ago,https://replit.com/bounties/@hdbu/bug-javascript-bug?t=
-54,$90.00,due in 7 days,Parse a Structured PDF report.,"Our users have to digest a long PDF data report to extract a few pieces of information and make simple addition calculations to complete another task.  We have a Bubble application that utilizes Xano database where the users currently upload and store this pdf report, open it, read it, find the relevant fields, make the manual calculations and then complete their task.  This program should parse and provide the relevant fields as well as the calculated fields.
+54,$90.00,due in 6 days,Parse a Structured PDF report.,"Our users have to digest a long PDF data report to extract a few pieces of information and make simple addition calculations to complete another task.  We have a Bubble application that utilizes Xano database where the users currently upload and store this pdf report, open it, read it, find the relevant fields, make the manual calculations and then complete their task.  This program should parse and provide the relevant fields as well as the calculated fields.
 
 Sample PDF:
 https://drive.google.com/file/d/1BDwaWXlWF7Yz0LeI3kpE4sBKJnFEV_9T/view?usp=sharing
 
 Acceptance Criteria
-The program should have an api to receive the report from Bubble, parse the data and store it in a way that individual fields can be called, and an api to return the needed fields to Bubble.",FrankieSoriano,8 hours ago,https://replit.com/bounties/@FrankieSoriano/parse-a-structured-p?t=
-55,$19.80,due in 9 days,Virtual Muslim Prayer App,"Here is a brief outline of how the app could work:
+The program should have an api to receive the report from Bubble, parse the data and store it in a way that individual fields can be called, and an api to return the needed fields to Bubble.",FrankieSoriano,9 hours ago,https://replit.com/bounties/@FrankieSoriano/parse-a-structured-p?t=
+55,$19.80,due in 8 days,Virtual Muslim Prayer App,"Here is a brief outline of how the app could work:
 
 The user selects their current location or enters a custom location.
 The app displays the current local prayer times and the names of the prayers (Fajr, Dhuhr, Asr, Maghrib, Isha).
@@ -575,7 +575,7 @@ Acceptance Criteria
 The app should have a functional sign up and login system
 The app should accurately display the Qibla direction for the user's location
 The app should display a Hadith or Quranic verse ...",Sarfrazkhan18,7 hours ago,https://replit.com/bounties/@Sarfrazkhan18/virtual-muslim-praye?t=
-56,$180.00,due in 14 days,Create a Sign-in Component,"Business Value
+56,$180.00,due in 13 days,Create a Sign-in Component,"Business Value
 I want a sign-in component that allows users to connect to my platform using different authentication methods.
 
 Acceptance Criteria
@@ -589,7 +589,7 @@ Connect Wallet (Metamask, Coinbase Wallet, Wallet Connect)
 AC2: Given a user authenticates for the first time (so registering) using the Social Login, or passwordless email, then a wallet is created using a custodial wallet API (will define and give Access to the API to create this wallet)
 AC3:  The exact authentication flow will be sent as a Figjam draw in Discord
 AC4: The UI/UX will be sent as a Figma Prototype in Discord",AlexR71,7 hours ago,https://replit.com/bounties/@AlexR71/create-a-sign-in-com?t=
-57,$99.00,due in 4 days,Improvements to Spelling Bee with Friends Game,"Link to Project
+57,$99.00,due in 3 days,Improvements to Spelling Bee with Friends Game,"Link to Project
 https://replit.com/@lakshman111/Spelling-Bee
 This project allows users who like playing the NYT Spelling Bee game to play it with friends.
 
@@ -602,24 +602,24 @@ On the /play page (LINK TO NEW DESIGN: https://share.balsamiq.com/c/cTJVo8rZgDm3
   Line 1 text: Challenge your friends to beat your score:
   Line 2 text: https://spelling-bee.icemastereric.repl.co/play?id=64
   Button: “Copy Link To Clipboard” (filled in as the primary button in green).  On click, change the button into “Copied”.  Change back to “Copy Link to Clipboard” after 3 seconds (Loom example showing this animation: https://www.loom.com/share/0bf3e84b5258419cacd8475686d33cfe)
-On the /play page, below the “Challenge...",lakshman111,4 hours ago,https://replit.com/bounties/@lakshman111/improvements-to-spel?t=
-58,$153.00,due in 14 days,Amazon product reviews summary,"I am planning to see how we can apply OpenAI for say better understanding the voice of a customer and reduce my time to read through myriad of reviews on Amazon.  I need working code and UI based in Python with a simple input interface.
+On the /play page, below the “Challenge...",lakshman111,5 hours ago,https://replit.com/bounties/@lakshman111/improvements-to-spel?t=
+58,$153.00,due in 13 days,Amazon product reviews summary,"I am planning to see how we can apply OpenAI for say better understanding the voice of a customer and reduce my time to read through myriad of reviews on Amazon.  I need working code and UI based in Python with a simple input interface.
 
 Acceptance Criteria
 A. Create a simple page where the user adds an Amazon product detail page URL as the input. The URL will be in a format such as https://www.amazon.com/dp/B08NG8WFX5/ where B08NG8WFX5 is the product (called ""ASIN"").
 B. From this ASIN, scrap all of Amazon's reviews. Reviews can be found on a separate page such as https://www.amazon.com/product-reviews/B08NG8WFX5/.
 C. Use OpenAI to analyze the reviews.
 D. Summarize the reviews in a specified word length, input by the user (e.g., 200 words or even 20 words).
-E. Summarize reviews in specific groups with strengths and weaknesses.",mskreplit,1 hour ago,https://replit.com/bounties/@mskreplit/amazon-product-revie?t=
-59,$45.00,due in 8 days,Pulling some data using simfin api,"I need someone to use the simfin.com API to create a backtesting app for suggested portfolios. E.g., I can set conditions (P/E lower than 10, and FCF higher than $500m etc), set a date (10th of March 2018), and be able to get a list of stocks + their purchase prices. For extra credit I'd love for the purchase basket (all the stocks defined above) to be rebalanced at defined intervals (monthly/ quarterly/ yearly) if chosen.
+E. Summarize reviews in specific groups with strengths and weaknesses.",mskreplit,2 hours ago,https://replit.com/bounties/@mskreplit/amazon-product-revie?t=
+59,$45.00,due in 7 days,Pulling some data using simfin api,"I need someone to use the simfin.com API to create a backtesting app for suggested portfolios. E.g., I can set conditions (P/E lower than 10, and FCF higher than $500m etc), set a date (10th of March 2018), and be able to get a list of stocks + their purchase prices. For extra credit I'd love for the purchase basket (all the stocks defined above) to be rebalanced at defined intervals (monthly/ quarterly/ yearly) if chosen.
 
 Acceptance Criteria
-Ability to input the defined criteria as above and get a table with the results.",strangeloopcanon,22 minutes ago,https://replit.com/bounties/@strangeloopcanon/pulling-some-data-us?t=
-60,$20.07,due in 14 days,"Enhance Excel Formula Generation App with Authentication, Signing, and Pricing Features with NodeJS","We are looking for a developer to enhance an existing Excel formula generation app with the following features:
+Ability to input the defined criteria as above and get a table with the results.",strangeloopcanon,45 minutes ago,https://replit.com/bounties/@strangeloopcanon/pulling-some-data-us?t=
+60,$20.07,due in 13 days,"Enhance Excel Formula Generation App with Authentication, Signing, and Pricing Features with NodeJS","We are looking for a developer to enhance an existing Excel formula generation app with the following features:
 
 Authentication: Allow users to log in to the app using their Replit or Google accounts.
 Signing: Allow users to sign in to the app using their accounts.
 Pricing: Implement a paywall for advanced formula generation tasks, with the option to purchase credits to use the app.In addition to these features, we would like to train the app to generate formulas for more complex prompts, using the best available OpenAI model. My previous devwloper has left enough room to competw this work.
 
 Acceptance Criteria
-To qualify for this bounty, you should have experience working with the OpenAI API and implementing authentication and pricing features in web applications.",Sarfrazkhan18,15 minutes ago,https://replit.com/bounties/@Sarfrazkhan18/enhance-excel-formul?t=
+To qualify for this bounty, you should have experience working with the OpenAI API and implementing authentication and pricing features in web applications.",Sarfrazkhan18,38 minutes ago,https://replit.com/bounties/@Sarfrazkhan18/enhance-excel-formul?t=
