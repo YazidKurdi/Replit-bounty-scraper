@@ -479,12 +479,12 @@ Acceptance Criteria
 
 Working UI and with model api's
 
-Technical Details",KishoreShimiker,6 hours ago,https://replit.com/bounties/@KishoreShimiker/build-a-very-simple?t=
+Technical Details",KishoreShimiker,7 hours ago,https://replit.com/bounties/@KishoreShimiker/build-a-very-simple?t=
 46,$99.90,due in 3 days,Trip Advisor Review Counter,"I need to automate the process of counting trip advisor reviews posted to a certain account.  I also need to have the quality of the review recorded.  I need the reviews & quality score to be input into a google sheet.  I need this to happen daily.
 
 Acceptance Criteria
 
-Technical Details",JonathanMurrell,6 hours ago,https://replit.com/bounties/@JonathanMurrell/trip-advisor-review?t=
+Technical Details",JonathanMurrell,7 hours ago,https://replit.com/bounties/@JonathanMurrell/trip-advisor-review?t=
 47,$45.00,due in 3 days,openai Whisper x Figma plugin bug - need some help,"We are creating a figma plugin TypeScript app that is using open.ai's Whisper - the goal is to let users control figma with voice commands. I am having some issues with jetpack compiling everything using the watch command.
 
 If it works out well, long-term work potential.
@@ -512,7 +512,7 @@ Creation of availability blocks - an expert should be able to create multiple av
 Technical Details
 Frontend - React, Typescript, Next.js
 Backend - Node.js, Express
-Database - Postgres, TypeORM",noodleshopsinc,5 hours ago,https://replit.com/bounties/@noodleshopsinc/full-stack-dev-neede?t=
+Database - Postgres, TypeORM",noodleshopsinc,6 hours ago,https://replit.com/bounties/@noodleshopsinc/full-stack-dev-neede?t=
 49,$180.00,due in 25 days,Bounties Pack - Roam Research Extension & HackerNews Site Template,"Roam Research Extension and HackerNews Site Template
 
 Acceptance Criteria
@@ -546,7 +546,7 @@ This could look like:
 
 Acceptance Criteria
 Owed to @TechPandaPro",lopezhoracio,3 hours ago,https://replit.com/bounties/@lopezhoracio/bounties-pack-roam-r-1?t=
-52,$0.90,closed,Bug: Interactive REPL,Just a little help with my code,hdbu,1 hour ago,https://replit.com/bounties/@hdbu/bug-interactive-repl?t=
+52,$0.90,closed,Bug: Interactive REPL,Just a little help with my code,hdbu,2 hours ago,https://replit.com/bounties/@hdbu/bug-interactive-repl?t=
 53,$0.90,closed,Bug: JavaScript Bug,"There is a bug in the JavaScript code on our website that is causing a specific feature to not function properly. We need someone to find and fix this bug.
 
 Acceptance Criteria
@@ -554,4 +554,4 @@ Acceptance Criteria
 The JavaScript bug causing the feature to not function properly is fixed
 The feature functions as expected after the fix has been implemented
 The fix does not cause any other issues or break any other parts of the website
-The fix is well-documented and easy to understand",hdbu,29 minutes ago,https://replit.com/bounties/@hdbu/bug-javascript-bug?t=
+The fix is well-documented and easy to understand",hdbu,48 minutes ago,https://replit.com/bounties/@hdbu/bug-javascript-bug?t=
