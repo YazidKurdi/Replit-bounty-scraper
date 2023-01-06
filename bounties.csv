@@ -625,4 +625,19 @@ Acceptance Criteria
 To qualify for this bounty, you should have experience working with the OpenAI API and implementing authentication and pricing features in web applications.",Sarfrazkhan18,3 hours ago,https://replit.com/bounties/@Sarfrazkhan18/enhance-excel-formul?t=
 61,$1.80,due in 3 days,Data Entry in Form,"I need someone to take some data from websites I will provide and enter it into a form, for a language learning app.
 
-No need to know the language or any coding experience, I just need a large amount of words around 400-500 words copy pasted",CoderGautamYT,7 minutes ago,https://replit.com/bounties/@CoderGautamYT/data-entry-in-form?t=
+No need to know the language or any coding experience, I just need a large amount of words around 400-500 words copy pasted",CoderGautamYT,17 minutes ago,https://replit.com/bounties/@CoderGautamYT/data-entry-in-form?t=
+62,$4.50,due in 13 days,telegram marketing  auto add member to group. atuo send msg,"Describe the problem you are trying to solve here.
+here is my code :https://replit.com/@carterwu768210/addmember-telegram#main.py
+hi , i add telegtam sessions to login accounts
+then i wanna use each account to add members from source group to target group.
+problem is when i use server IP loop logining too many times . i got error
+""2023-01-06 13:57:36.182 INFO mtprotosender - _disconnect: Disconnection from 149.154.175.53:443/TcpFull complete!""
+it means that ,telegram doesn't accept loop login and auto logout all my sessions
+
+Acceptance Criteria
+Be specific about what you want in the solution here.
+i wanna someone to help me to slove this problems ,maybe with porxy.
+i have saw other people who is able to add 2000 members in one group easy , so there must be a solution
+the add member function is at main.py
+init .py  i dont use . because i bought all accounts they offer sessions already.
+get_members.py  it help to creat the json in data .so that  main.py can read the j...",carterwu768210,6 minutes ago,https://replit.com/bounties/@carterwu768210/telegram-marketing-a?t=
