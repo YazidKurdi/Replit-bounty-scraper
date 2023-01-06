@@ -450,7 +450,7 @@ Tutorial: https://replit.com/@RegressionGames/Harvest-Animals-Bot-Regression-Gam
 Acceptance Criteria
 Go through the tutorial
 Make notes about issues you encounter (message us if there are any blockers)
-Provide suggestions and feedback on both the tutorial and general experience",RegressionGames,6 hours ago,https://replit.com/bounties/@RegressionGames/try-out-our-minecraf-1?t=
+Provide suggestions and feedback on both the tutorial and general experience",RegressionGames,9 hours ago,https://replit.com/bounties/@RegressionGames/try-out-our-minecraf-1?t=
 43,$27.00,due in 9 days,Add Enemies to a Phaser3 Game,"I have a simple Phaser3 game, and I'd like help adding enemies to it.
 
 Acceptance Criteria
@@ -459,7 +459,7 @@ Here is the replit with the existing game: https://replit.com/@dwp/simpleGamePlu
 I'm looking for someone who can:
 Add 3 enemy sprites at random locations on the map.
 Have the enemies move in random directions but shouldn't be able to move through the walls.
-When an enemy collides with the player sprite, show an alert saying ""Game Over!""",dwp,6 hours ago,https://replit.com/bounties/@dwp/add-enemies-to-a-pha?t=
+When an enemy collides with the player sprite, show an alert saying ""Game Over!""",dwp,8 hours ago,https://replit.com/bounties/@dwp/add-enemies-to-a-pha?t=
 44,$81.00,due in 4 days,Chrome extension with google login and api integations,"A chrome extensions needs to be developed. It will have  to support google login. There are essentially two screens in the extension.
 Screen 1 - If the user isn't logged in then a login with google prompt needs to be shown
 
@@ -470,7 +470,7 @@ The backend api will be provided.
 Also, design is paramount here, there will be design feedback which  will need to be implemented.
 
 Acceptance Criteria
-All the mentioned cases need to pass and the chrome extensions needs to be published to the store successfully.",mahendranaik,5 hours ago,https://replit.com/bounties/@mahendranaik/chrome-extension-wit?t=
+All the mentioned cases need to pass and the chrome extensions needs to be published to the store successfully.",mahendranaik,7 hours ago,https://replit.com/bounties/@mahendranaik/chrome-extension-wit?t=
 45,$45.00,due in 6 days,Build a very simple UI and host a model which is available in collab (details of colab provided)),"I have a Google Colab project that utilizes Python code to perform transcription with OpenAI Whisper. I want to hosted  and create a custom UI .
 
 UI will be  very simple with just a text box and some text area
@@ -479,12 +479,12 @@ Acceptance Criteria
 
 Working UI and with model api's
 
-Technical Details",KishoreShimiker,3 hours ago,https://replit.com/bounties/@KishoreShimiker/build-a-very-simple?t=
+Technical Details",KishoreShimiker,6 hours ago,https://replit.com/bounties/@KishoreShimiker/build-a-very-simple?t=
 46,$99.90,due in 3 days,Trip Advisor Review Counter,"I need to automate the process of counting trip advisor reviews posted to a certain account.  I also need to have the quality of the review recorded.  I need the reviews & quality score to be input into a google sheet.  I need this to happen daily.
 
 Acceptance Criteria
 
-Technical Details",JonathanMurrell,3 hours ago,https://replit.com/bounties/@JonathanMurrell/trip-advisor-review?t=
+Technical Details",JonathanMurrell,6 hours ago,https://replit.com/bounties/@JonathanMurrell/trip-advisor-review?t=
 47,$45.00,due in 3 days,openai Whisper x Figma plugin bug - need some help,"We are creating a figma plugin TypeScript app that is using open.ai's Whisper - the goal is to let users control figma with voice commands. I am having some issues with jetpack compiling everything using the watch command.
 
 If it works out well, long-term work potential.
@@ -497,7 +497,7 @@ Boilerplate Figma app plugin for ""design"" and ""run once""
 TypeScript
 open.ai (whisper api)
 
-Link to Project",dillonaux,3 hours ago,https://replit.com/bounties/@dillonaux/openai-whisper-x-fig?t=
+Link to Project",dillonaux,5 hours ago,https://replit.com/bounties/@dillonaux/openai-whisper-x-fig?t=
 48,$900.00,due in 6 days,Full stack dev needed for Scheduling & Booking feature ,"Noodle is a platform for experts to sell their expertise in the form of chat or in person sessions.
 
 As part of selling in person sessions, experts need the ability to set their availability.
@@ -512,7 +512,7 @@ Creation of availability blocks - an expert should be able to create multiple av
 Technical Details
 Frontend - React, Typescript, Next.js
 Backend - Node.js, Express
-Database - Postgres, TypeORM",noodleshopsinc,3 hours ago,https://replit.com/bounties/@noodleshopsinc/full-stack-dev-neede?t=
+Database - Postgres, TypeORM",noodleshopsinc,5 hours ago,https://replit.com/bounties/@noodleshopsinc/full-stack-dev-neede?t=
 49,$180.00,due in 25 days,Bounties Pack - Roam Research Extension & HackerNews Site Template,"Roam Research Extension and HackerNews Site Template
 
 Acceptance Criteria
@@ -541,4 +541,9 @@ There are various guides that summarise how to mute certain features, one of whi
 Theoretically, there should be a way to increase the amount of likes shown in your feed by 1 specific user.
 
 This could look like:
--Using the Topics feature to 'Follow' some sort of [Us...",Bandos1000,10 minutes ago,https://replit.com/bounties/@Bandos1000/twitter-like-followe?t=
+-Using the Topics feature to 'Follow' some sort of [Us...",Bandos1000,2 hours ago,https://replit.com/bounties/@Bandos1000/twitter-like-followe?t=
+51,$200.00,due in 25 days,Bounties Pack - Roam Research Extension & HackerNews Site Template,"Roam Research Extension and HackerNews Site Template
+
+Acceptance Criteria
+Owed to @TechPandaPro",lopezhoracio,2 hours ago,https://replit.com/bounties/@lopezhoracio/bounties-pack-roam-r-1?t=
+52,$0.90,closed,Bug: Interactive REPL,Just a little help with my code,hdbu,44 minutes ago,https://replit.com/bounties/@hdbu/bug-interactive-repl?t=
