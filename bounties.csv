@@ -697,3 +697,15 @@ response = openai.Completion.create(
 )
 
 Link to Project",YorkvilleDS,2 hours ago,https://replit.com/bounties/@YorkvilleDS/find-like-text-conce?t=
+69,$450.00,due in 13 days,GPT-3 Chatbot For Tech Support,"I'm looking for someone to build a GPT-3 chatbot that can answer everyday questions about technology. The chatbot should be accessible through the web and by texting a phone number.
+
+Acceptance Criteria
+Chatbot should be able to maintain context of last N messages and answer basic tech questions in a simple, friendly manner
+Chatbot should be accessible by texting a specified number
+Chatbot should be accessible by through a web-based interface that mimics the UI/UX of a text conversation
+
+Technical Details
+Chatbot should be powered by GPT-3
+Backend should be built in Node.js
+Text conversations should go through an existing OpenPhone number
+Website should be built in React",incompl,32 seconds ago,https://replit.com/bounties/@incompl/gpt-3-chatbot-for-te?t=
