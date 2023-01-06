@@ -545,7 +545,7 @@ This could look like:
 51,$200.00,due in 24 days,Bounties Pack - Roam Research Extension & HackerNews Site Template,"Roam Research Extension and HackerNews Site Template
 
 Acceptance Criteria
-Owed to @TechPandaPro",lopezhoracio,12 hours ago,https://replit.com/bounties/@lopezhoracio/bounties-pack-roam-r-1?t=
+Owed to @TechPandaPro",lopezhoracio,13 hours ago,https://replit.com/bounties/@lopezhoracio/bounties-pack-roam-r-1?t=
 52,$0.90,closed,Bug: Interactive REPL,Just a little help with my code,hdbu,11 hours ago,https://replit.com/bounties/@hdbu/bug-interactive-repl?t=
 53,$0.90,closed,Bug: JavaScript Bug,"There is a bug in the JavaScript code on our website that is causing a specific feature to not function properly. We need someone to find and fix this bug.
 
@@ -574,7 +574,7 @@ The app also includes a feature to set reminders for the daily prayer times.
 Acceptance Criteria
 The app should have a functional sign up and login system
 The app should accurately display the Qibla direction for the user's location
-The app should display a Hadith or Quranic verse ...",Sarfrazkhan18,7 hours ago,https://replit.com/bounties/@Sarfrazkhan18/virtual-muslim-praye?t=
+The app should display a Hadith or Quranic verse ...",Sarfrazkhan18,8 hours ago,https://replit.com/bounties/@Sarfrazkhan18/virtual-muslim-praye?t=
 56,$180.00,due in 13 days,Create a Sign-in Component,"Business Value
 I want a sign-in component that allows users to connect to my platform using different authentication methods.
 
@@ -588,7 +588,7 @@ Connect Wallet (Metamask, Coinbase Wallet, Wallet Connect)
 
 AC2: Given a user authenticates for the first time (so registering) using the Social Login, or passwordless email, then a wallet is created using a custodial wallet API (will define and give Access to the API to create this wallet)
 AC3:  The exact authentication flow will be sent as a Figjam draw in Discord
-AC4: The UI/UX will be sent as a Figma Prototype in Discord",AlexR71,7 hours ago,https://replit.com/bounties/@AlexR71/create-a-sign-in-com?t=
+AC4: The UI/UX will be sent as a Figma Prototype in Discord",AlexR71,8 hours ago,https://replit.com/bounties/@AlexR71/create-a-sign-in-com?t=
 57,$99.00,due in 3 days,Improvements to Spelling Bee with Friends Game,"Link to Project
 https://replit.com/@lakshman111/Spelling-Bee
 This project allows users who like playing the NYT Spelling Bee game to play it with friends.
@@ -614,7 +614,7 @@ E. Summarize reviews in specific groups with strengths and weaknesses.",mskrepli
 59,$45.00,due in 7 days,Pulling some data using simfin api,"I need someone to use the simfin.com API to create a backtesting app for suggested portfolios. E.g., I can set conditions (P/E lower than 10, and FCF higher than $500m etc), set a date (10th of March 2018), and be able to get a list of stocks + their purchase prices. For extra credit I'd love for the purchase basket (all the stocks defined above) to be rebalanced at defined intervals (monthly/ quarterly/ yearly) if chosen.
 
 Acceptance Criteria
-Ability to input the defined criteria as above and get a table with the results.",strangeloopcanon,45 minutes ago,https://replit.com/bounties/@strangeloopcanon/pulling-some-data-us?t=
+Ability to input the defined criteria as above and get a table with the results.",strangeloopcanon,1 hour ago,https://replit.com/bounties/@strangeloopcanon/pulling-some-data-us?t=
 60,$20.07,due in 13 days,"Enhance Excel Formula Generation App with Authentication, Signing, and Pricing Features with NodeJS","We are looking for a developer to enhance an existing Excel formula generation app with the following features:
 
 Authentication: Allow users to log in to the app using their Replit or Google accounts.
@@ -622,4 +622,4 @@ Signing: Allow users to sign in to the app using their accounts.
 Pricing: Implement a paywall for advanced formula generation tasks, with the option to purchase credits to use the app.In addition to these features, we would like to train the app to generate formulas for more complex prompts, using the best available OpenAI model. My previous devwloper has left enough room to competw this work.
 
 Acceptance Criteria
-To qualify for this bounty, you should have experience working with the OpenAI API and implementing authentication and pricing features in web applications.",Sarfrazkhan18,38 minutes ago,https://replit.com/bounties/@Sarfrazkhan18/enhance-excel-formul?t=
+To qualify for this bounty, you should have experience working with the OpenAI API and implementing authentication and pricing features in web applications.",Sarfrazkhan18,1 hour ago,https://replit.com/bounties/@Sarfrazkhan18/enhance-excel-formul?t=
