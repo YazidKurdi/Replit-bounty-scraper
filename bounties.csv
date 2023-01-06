@@ -656,7 +656,7 @@ A script that successfully takes a CSV and adds this information to the appropri
 Technical Details
 Will need to use the Slack API
 
-Link to Project",DaysiGomez,6 hours ago,https://replit.com/bounties/@DaysiGomez/use-slack-api-to-add?t=
+Link to Project",DaysiGomez,7 hours ago,https://replit.com/bounties/@DaysiGomez/use-slack-api-to-add?t=
 65,$67.50,due in 1 month,MVP web app for students to submit screen/webcam recordings of flashcard reviews,"We'd like to create a basic web app that allows teachers to create sets of 2-sided digital ""flashcards"" and assign them to students; and then allows students to submit a combination screen recording/webcam recording of themselves reviewing the flashcards. The recording should show both what the student is seeing on the screen as the student navigates through the cards (click on a card to show the other side; then click a button to see the next card); and also the student's webcam view as he/she states the answers to questions out loud.
 
 Acceptance Criteria
@@ -676,7 +676,7 @@ Story 1 (Weeks 1 & 2)
 ● I am able to set/map my business, my team members, and each member’s
 roles/responsibilities.
 ● I am able to answer Project Medici’s “calibration” questions which then creates a high-level “profile” of my business, of which Project Medici will use to best understand my company and understand its hierarchy and to perfect its mapping.
-● I am able to upload my company’s corp...",JOkun1,4 hours ago,https://replit.com/bounties/@JOkun1/project-medici-the-u?t=
+● I am able to upload my company’s corp...",JOkun1,5 hours ago,https://replit.com/bounties/@JOkun1/project-medici-the-u?t=
 67,$18.00,due in 5 days,"Break down a project scope of work into specific coding tasks, languages and deliverables ","I need help to provide detailed explanations on the programming steps needed to create the project in our SOW. (Will be provided from Notion read-only link)
 
 Acceptance Criteria
@@ -696,7 +696,7 @@ response = openai.Completion.create(
   presence_penalty = 0
 )
 
-Link to Project",YorkvilleDS,3 hours ago,https://replit.com/bounties/@YorkvilleDS/find-like-text-conce?t=
+Link to Project",YorkvilleDS,4 hours ago,https://replit.com/bounties/@YorkvilleDS/find-like-text-conce?t=
 69,$450.00,due in 13 days,GPT-3 Chatbot For Tech Support,"I'm looking for someone to build a GPT-3 chatbot that can answer everyday questions about technology. The chatbot should be accessible through the web and by texting a phone number.
 
 Acceptance Criteria
@@ -708,7 +708,7 @@ Technical Details
 Chatbot should be powered by GPT-3
 Backend should be built in Node.js
 Text conversations should go through an existing OpenPhone number
-Website should be built in React",incompl,1 hour ago,https://replit.com/bounties/@incompl/gpt-3-chatbot-for-te?t=
+Website should be built in React",incompl,2 hours ago,https://replit.com/bounties/@incompl/gpt-3-chatbot-for-te?t=
 70,$90.00,due in 6 days,"Website that creates documents, Google authentication","user should be able to login via Google authentication. Submit a form with text input. Generate a word document using user input. App should be able to manage documents
 
 Acceptance Criteria
@@ -725,4 +725,4 @@ due within one week",BrandonF7,1 hour ago,https://replit.com/bounties/@BrandonF7
 
 contact me for more details
 
-should be relatively simple",nathanpratt2,16 minutes ago,https://replit.com/bounties/@nathanpratt2/twitter-bot-using-gp?t=
+should be relatively simple",nathanpratt2,32 minutes ago,https://replit.com/bounties/@nathanpratt2/twitter-bot-using-gp?t=
