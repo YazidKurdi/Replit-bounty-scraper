@@ -470,7 +470,7 @@ The backend api will be provided.
 Also, design is paramount here, there will be design feedback which  will need to be implemented.
 
 Acceptance Criteria
-All the mentioned cases need to pass and the chrome extensions needs to be published to the store successfully.",mahendranaik,9 hours ago,https://replit.com/bounties/@mahendranaik/chrome-extension-wit?t=
+All the mentioned cases need to pass and the chrome extensions needs to be published to the store successfully.",mahendranaik,10 hours ago,https://replit.com/bounties/@mahendranaik/chrome-extension-wit?t=
 45,$45.00,due in 6 days,Build a very simple UI and host a model which is available in collab (details of colab provided)),"I have a Google Colab project that utilizes Python code to perform transcription with OpenAI Whisper. I want to hosted  and create a custom UI .
 
 UI will be  very simple with just a text box and some text area
@@ -561,4 +561,4 @@ Sample PDF:
 https://drive.google.com/file/d/1BDwaWXlWF7Yz0LeI3kpE4sBKJnFEV_9T/view?usp=sharing
 
 Acceptance Criteria
-The program should have an api to receive the report from Bubble, parse the data and store it in a way that individual fields can be called, and an api to return the needed fields to Bubble.",FrankieSoriano,54 minutes ago,https://replit.com/bounties/@FrankieSoriano/parse-a-structured-p?t=
+The program should have an api to receive the report from Bubble, parse the data and store it in a way that individual fields can be called, and an api to return the needed fields to Bubble.",FrankieSoriano,1 hour ago,https://replit.com/bounties/@FrankieSoriano/parse-a-structured-p?t=
