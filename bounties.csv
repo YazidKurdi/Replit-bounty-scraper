@@ -574,7 +574,7 @@ The app also includes a feature to set reminders for the daily prayer times.
 Acceptance Criteria
 The app should have a functional sign up and login system
 The app should accurately display the Qibla direction for the user's location
-The app should display a Hadith or Quranic verse ...",Sarfrazkhan18,9 hours ago,https://replit.com/bounties/@Sarfrazkhan18/virtual-muslim-praye?t=
+The app should display a Hadith or Quranic verse ...",Sarfrazkhan18,10 hours ago,https://replit.com/bounties/@Sarfrazkhan18/virtual-muslim-praye?t=
 56,$180.00,due in 13 days,Create a Sign-in Component,"Business Value
 I want a sign-in component that allows users to connect to my platform using different authentication methods.
 
@@ -588,7 +588,7 @@ Connect Wallet (Metamask, Coinbase Wallet, Wallet Connect)
 
 AC2: Given a user authenticates for the first time (so registering) using the Social Login, or passwordless email, then a wallet is created using a custodial wallet API (will define and give Access to the API to create this wallet)
 AC3:  The exact authentication flow will be sent as a Figjam draw in Discord
-AC4: The UI/UX will be sent as a Figma Prototype in Discord",AlexR71,9 hours ago,https://replit.com/bounties/@AlexR71/create-a-sign-in-com?t=
+AC4: The UI/UX will be sent as a Figma Prototype in Discord",AlexR71,10 hours ago,https://replit.com/bounties/@AlexR71/create-a-sign-in-com?t=
 57,$99.00,due in 3 days,Improvements to Spelling Bee with Friends Game,"Link to Project
 https://replit.com/@lakshman111/Spelling-Bee
 This project allows users who like playing the NYT Spelling Bee game to play it with friends.
@@ -625,7 +625,7 @@ Acceptance Criteria
 To qualify for this bounty, you should have experience working with the OpenAI API and implementing authentication and pricing features in web applications.",Sarfrazkhan18,3 hours ago,https://replit.com/bounties/@Sarfrazkhan18/enhance-excel-formul?t=
 61,$1.80,due in 3 days,Data Entry in Form,"I need someone to take some data from websites I will provide and enter it into a form, for a language learning app.
 
-No need to know the language or any coding experience, I just need a large amount of words around 400-500 words copy pasted",CoderGautamYT,17 minutes ago,https://replit.com/bounties/@CoderGautamYT/data-entry-in-form?t=
+No need to know the language or any coding experience, I just need a large amount of words around 400-500 words copy pasted",CoderGautamYT,27 minutes ago,https://replit.com/bounties/@CoderGautamYT/data-entry-in-form?t=
 62,$4.50,due in 13 days,telegram marketing  auto add member to group. atuo send msg,"Describe the problem you are trying to solve here.
 here is my code :https://replit.com/@carterwu768210/addmember-telegram#main.py
 hi , i add telegtam sessions to login accounts
@@ -640,4 +640,4 @@ i wanna someone to help me to slove this problems ,maybe with porxy.
 i have saw other people who is able to add 2000 members in one group easy , so there must be a solution
 the add member function is at main.py
 init .py  i dont use . because i bought all accounts they offer sessions already.
-get_members.py  it help to creat the json in data .so that  main.py can read the j...",carterwu768210,6 minutes ago,https://replit.com/bounties/@carterwu768210/telegram-marketing-a?t=
+get_members.py  it help to creat the json in data .so that  main.py can read the j...",carterwu768210,16 minutes ago,https://replit.com/bounties/@carterwu768210/telegram-marketing-a?t=
