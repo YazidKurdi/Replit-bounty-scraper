@@ -574,7 +574,7 @@ The app also includes a feature to set reminders for the daily prayer times.
 Acceptance Criteria
 The app should have a functional sign up and login system
 The app should accurately display the Qibla direction for the user's location
-The app should display a Hadith or Quranic verse ...",Sarfrazkhan18,1 hour ago,https://replit.com/bounties/@Sarfrazkhan18/virtual-muslim-praye?t=
+The app should display a Hadith or Quranic verse ...",Sarfrazkhan18,2 hours ago,https://replit.com/bounties/@Sarfrazkhan18/virtual-muslim-praye?t=
 56,$180.00,due in 14 days,Create a Sign-in Component,"Business Value
 I want a sign-in component that allows users to connect to my platform using different authentication methods.
 
@@ -588,4 +588,4 @@ Connect Wallet (Metamask, Coinbase Wallet, Wallet Connect)
 
 AC2: Given a user authenticates for the first time (so registering) using the Social Login, or passwordless email, then a wallet is created using a custodial wallet API (will define and give Access to the API to create this wallet)
 AC3:  The exact authentication flow will be sent as a Figjam draw in Discord
-AC4: The UI/UX will be sent as a Figma Prototype in Discord",AlexR71,1 hour ago,https://replit.com/bounties/@AlexR71/create-a-sign-in-com?t=
+AC4: The UI/UX will be sent as a Figma Prototype in Discord",AlexR71,2 hours ago,https://replit.com/bounties/@AlexR71/create-a-sign-in-com?t=
