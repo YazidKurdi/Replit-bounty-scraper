@@ -541,7 +541,7 @@ There are various guides that summarise how to mute certain features, one of whi
 Theoretically, there should be a way to increase the amount of likes shown in your feed by 1 specific user.
 
 This could look like:
--Using the Topics feature to 'Follow' some sort of [Us...",Bandos1000,11 hours ago,https://replit.com/bounties/@Bandos1000/twitter-like-followe?t=
+-Using the Topics feature to 'Follow' some sort of [Us...",Bandos1000,12 hours ago,https://replit.com/bounties/@Bandos1000/twitter-like-followe?t=
 51,$200.00,due in 25 days,Bounties Pack - Roam Research Extension & HackerNews Site Template,"Roam Research Extension and HackerNews Site Template
 
 Acceptance Criteria
@@ -610,4 +610,4 @@ A. Create a simple page where the user adds an Amazon product detail page URL as
 B. From this ASIN, scrap all of Amazon's reviews. Reviews can be found on a separate page such as https://www.amazon.com/product-reviews/B08NG8WFX5/.
 C. Use OpenAI to analyze the reviews.
 D. Summarize the reviews in a specified word length, input by the user (e.g., 200 words or even 20 words).
-E. Summarize reviews in specific groups with strengths and weaknesses.",mskreplit,40 minutes ago,https://replit.com/bounties/@mskreplit/amazon-product-revie?t=
+E. Summarize reviews in specific groups with strengths and weaknesses.",mskreplit,52 minutes ago,https://replit.com/bounties/@mskreplit/amazon-product-revie?t=
