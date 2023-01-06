@@ -574,7 +574,7 @@ The app also includes a feature to set reminders for the daily prayer times.
 Acceptance Criteria
 The app should have a functional sign up and login system
 The app should accurately display the Qibla direction for the user's location
-The app should display a Hadith or Quranic verse ...",Sarfrazkhan18,11 hours ago,https://replit.com/bounties/@Sarfrazkhan18/virtual-muslim-praye?t=
+The app should display a Hadith or Quranic verse ...",Sarfrazkhan18,12 hours ago,https://replit.com/bounties/@Sarfrazkhan18/virtual-muslim-praye?t=
 56,$180.00,due in 13 days,Create a Sign-in Component,"Business Value
 I want a sign-in component that allows users to connect to my platform using different authentication methods.
 
@@ -588,7 +588,7 @@ Connect Wallet (Metamask, Coinbase Wallet, Wallet Connect)
 
 AC2: Given a user authenticates for the first time (so registering) using the Social Login, or passwordless email, then a wallet is created using a custodial wallet API (will define and give Access to the API to create this wallet)
 AC3:  The exact authentication flow will be sent as a Figjam draw in Discord
-AC4: The UI/UX will be sent as a Figma Prototype in Discord",AlexR71,11 hours ago,https://replit.com/bounties/@AlexR71/create-a-sign-in-com?t=
+AC4: The UI/UX will be sent as a Figma Prototype in Discord",AlexR71,12 hours ago,https://replit.com/bounties/@AlexR71/create-a-sign-in-com?t=
 57,$99.00,due in 3 days,Improvements to Spelling Bee with Friends Game,"Link to Project
 https://replit.com/@lakshman111/Spelling-Bee
 This project allows users who like playing the NYT Spelling Bee game to play it with friends.
@@ -625,7 +625,7 @@ Acceptance Criteria
 To qualify for this bounty, you should have experience working with the OpenAI API and implementing authentication and pricing features in web applications.",Sarfrazkhan18,5 hours ago,https://replit.com/bounties/@Sarfrazkhan18/enhance-excel-formul?t=
 61,$1.80,due in 3 days,Data Entry in Form,"I need someone to take some data from websites I will provide and enter it into a form, for a language learning app.
 
-No need to know the language or any coding experience, I just need a large amount of words around 400-500 words copy pasted",CoderGautamYT,2 hours ago,https://replit.com/bounties/@CoderGautamYT/data-entry-in-form?t=
+No need to know the language or any coding experience, I just need a large amount of words around 400-500 words copy pasted",CoderGautamYT,3 hours ago,https://replit.com/bounties/@CoderGautamYT/data-entry-in-form?t=
 62,$4.50,due in 13 days,telegram marketing  auto add member to group. atuo send msg,"Describe the problem you are trying to solve here.
 here is my code :https://replit.com/@carterwu768210/addmember-telegram#main.py
 hi , i add telegtam sessions to login accounts
@@ -656,7 +656,7 @@ A script that successfully takes a CSV and adds this information to the appropri
 Technical Details
 Will need to use the Slack API
 
-Link to Project",DaysiGomez,53 minutes ago,https://replit.com/bounties/@DaysiGomez/use-slack-api-to-add?t=
+Link to Project",DaysiGomez,1 hour ago,https://replit.com/bounties/@DaysiGomez/use-slack-api-to-add?t=
 65,$67.50,due in 1 month,MVP web app for students to submit screen/webcam recordings of flashcard reviews,"We'd like to create a basic web app that allows teachers to create sets of 2-sided digital ""flashcards"" and assign them to students; and then allows students to submit a combination screen recording/webcam recording of themselves reviewing the flashcards. The recording should show both what the student is seeing on the screen as the student navigates through the cards (click on a card to show the other side; then click a button to see the next card); and also the student's webcam view as he/she states the answers to questions out loud.
 
 Acceptance Criteria
@@ -668,4 +668,4 @@ Ability of students to record a flashcard review and submit it to teacher
 Notification for teachers when an assignment is submitted
 Whatever infrastructure is needed to support video storage
 
-For th...",MichaelRegnier,37 minutes ago,https://replit.com/bounties/@MichaelRegnier/mvp-web-app-for-stud?t=
+For th...",MichaelRegnier,49 minutes ago,https://replit.com/bounties/@MichaelRegnier/mvp-web-app-for-stud?t=
