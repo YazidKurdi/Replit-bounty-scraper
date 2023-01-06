@@ -554,7 +554,7 @@ Acceptance Criteria
 The JavaScript bug causing the feature to not function properly is fixed
 The feature functions as expected after the fix has been implemented
 The fix does not cause any other issues or break any other parts of the website
-The fix is well-documented and easy to understand",hdbu,9 hours ago,https://replit.com/bounties/@hdbu/bug-javascript-bug?t=
+The fix is well-documented and easy to understand",hdbu,10 hours ago,https://replit.com/bounties/@hdbu/bug-javascript-bug?t=
 54,$90.00,due in 7 days,Parse a Structured PDF report.,"Our users have to digest a long PDF data report to extract a few pieces of information and make simple addition calculations to complete another task.  We have a Bubble application that utilizes Xano database where the users currently upload and store this pdf report, open it, read it, find the relevant fields, make the manual calculations and then complete their task.  This program should parse and provide the relevant fields as well as the calculated fields.
 
 Sample PDF:
@@ -588,7 +588,7 @@ Connect Wallet (Metamask, Coinbase Wallet, Wallet Connect)
 
 AC2: Given a user authenticates for the first time (so registering) using the Social Login, or passwordless email, then a wallet is created using a custodial wallet API (will define and give Access to the API to create this wallet)
 AC3:  The exact authentication flow will be sent as a Figjam draw in Discord
-AC4: The UI/UX will be sent as a Figma Prototype in Discord",AlexR71,6 hours ago,https://replit.com/bounties/@AlexR71/create-a-sign-in-com?t=
+AC4: The UI/UX will be sent as a Figma Prototype in Discord",AlexR71,7 hours ago,https://replit.com/bounties/@AlexR71/create-a-sign-in-com?t=
 57,$99.00,due in 4 days,Improvements to Spelling Bee with Friends Game,"Link to Project
 https://replit.com/@lakshman111/Spelling-Bee
 This project allows users who like playing the NYT Spelling Bee game to play it with friends.
@@ -614,7 +614,7 @@ E. Summarize reviews in specific groups with strengths and weaknesses.",mskrepli
 59,$45.00,due in 8 days,Pulling some data using simfin api,"I need someone to use the simfin.com API to create a backtesting app for suggested portfolios. E.g., I can set conditions (P/E lower than 10, and FCF higher than $500m etc), set a date (10th of March 2018), and be able to get a list of stocks + their purchase prices. For extra credit I'd love for the purchase basket (all the stocks defined above) to be rebalanced at defined intervals (monthly/ quarterly/ yearly) if chosen.
 
 Acceptance Criteria
-Ability to input the defined criteria as above and get a table with the results.",strangeloopcanon,12 minutes ago,https://replit.com/bounties/@strangeloopcanon/pulling-some-data-us?t=
+Ability to input the defined criteria as above and get a table with the results.",strangeloopcanon,22 minutes ago,https://replit.com/bounties/@strangeloopcanon/pulling-some-data-us?t=
 60,$20.07,due in 14 days,"Enhance Excel Formula Generation App with Authentication, Signing, and Pricing Features with NodeJS","We are looking for a developer to enhance an existing Excel formula generation app with the following features:
 
 Authentication: Allow users to log in to the app using their Replit or Google accounts.
@@ -622,4 +622,4 @@ Signing: Allow users to sign in to the app using their accounts.
 Pricing: Implement a paywall for advanced formula generation tasks, with the option to purchase credits to use the app.In addition to these features, we would like to train the app to generate formulas for more complex prompts, using the best available OpenAI model. My previous devwloper has left enough room to competw this work.
 
 Acceptance Criteria
-To qualify for this bounty, you should have experience working with the OpenAI API and implementing authentication and pricing features in web applications.",Sarfrazkhan18,5 minutes ago,https://replit.com/bounties/@Sarfrazkhan18/enhance-excel-formul?t=
+To qualify for this bounty, you should have experience working with the OpenAI API and implementing authentication and pricing features in web applications.",Sarfrazkhan18,15 minutes ago,https://replit.com/bounties/@Sarfrazkhan18/enhance-excel-formul?t=
