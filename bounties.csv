@@ -574,7 +574,7 @@ The app also includes a feature to set reminders for the daily prayer times.
 Acceptance Criteria
 The app should have a functional sign up and login system
 The app should accurately display the Qibla direction for the user's location
-The app should display a Hadith or Quranic verse ...",Sarfrazkhan18,5 hours ago,https://replit.com/bounties/@Sarfrazkhan18/virtual-muslim-praye?t=
+The app should display a Hadith or Quranic verse ...",Sarfrazkhan18,6 hours ago,https://replit.com/bounties/@Sarfrazkhan18/virtual-muslim-praye?t=
 56,$180.00,due in 14 days,Create a Sign-in Component,"Business Value
 I want a sign-in component that allows users to connect to my platform using different authentication methods.
 
@@ -588,7 +588,7 @@ Connect Wallet (Metamask, Coinbase Wallet, Wallet Connect)
 
 AC2: Given a user authenticates for the first time (so registering) using the Social Login, or passwordless email, then a wallet is created using a custodial wallet API (will define and give Access to the API to create this wallet)
 AC3:  The exact authentication flow will be sent as a Figjam draw in Discord
-AC4: The UI/UX will be sent as a Figma Prototype in Discord",AlexR71,5 hours ago,https://replit.com/bounties/@AlexR71/create-a-sign-in-com?t=
+AC4: The UI/UX will be sent as a Figma Prototype in Discord",AlexR71,6 hours ago,https://replit.com/bounties/@AlexR71/create-a-sign-in-com?t=
 57,$99.00,due in 4 days,Improvements to Spelling Bee with Friends Game,"Link to Project
 https://replit.com/@lakshman111/Spelling-Bee
 This project allows users who like playing the NYT Spelling Bee game to play it with friends.
@@ -610,4 +610,4 @@ A. Create a simple page where the user adds an Amazon product detail page URL as
 B. From this ASIN, scrap all of Amazon's reviews. Reviews can be found on a separate page such as https://www.amazon.com/product-reviews/B08NG8WFX5/.
 C. Use OpenAI to analyze the reviews.
 D. Summarize the reviews in a specified word length, input by the user (e.g., 200 words or even 20 words).
-E. Summarize reviews in specific groups with strengths and weaknesses.",mskreplit,8 minutes ago,https://replit.com/bounties/@mskreplit/amazon-product-revie?t=
+E. Summarize reviews in specific groups with strengths and weaknesses.",mskreplit,16 minutes ago,https://replit.com/bounties/@mskreplit/amazon-product-revie?t=
