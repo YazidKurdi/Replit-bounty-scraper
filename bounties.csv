@@ -813,9 +813,9 @@ https://gitlab.com/minds/minds/-/issues/90",mindsorg,6 hours ago,https://replit.
 Acceptance Criteria
 Must have a discord account in the application or linked to your replit account
 
-MUST KNOW DISCOR.JS",OddGames,2 hours ago,https://replit.com/bounties/@OddGames/discord-bot-less-tha?t=
+MUST KNOW DISCOR.JS",OddGames,3 hours ago,https://replit.com/bounties/@OddGames/discord-bot-less-tha?t=
 81,$9.00,due in 3 days,Python + Playwright Cron in Docker Container,"I need a Docker container that runs a python script to execute playwright. The docker container should run a cron job inside to run the python script every 5 minutes.
 
 Acceptance Criteria
 A Python script that loads a webpage using Playwright. No logic needs to be executed on the page.
-A Dockerfile to run the python script in a container. It should also run a cron inside the container to run the python script every 5 minutes",oAkeDCH,44 minutes ago,https://replit.com/bounties/@oAkeDCH/python-playwright-cr?t=
+A Dockerfile to run the python script in a container. It should also run a cron inside the container to run the python script every 5 minutes",oAkeDCH,53 minutes ago,https://replit.com/bounties/@oAkeDCH/python-playwright-cr?t=
