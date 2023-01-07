@@ -740,7 +740,7 @@ Python
 Pinecone
 OpenAI
 
-Link to Project",AshPrabaker1,14 hours ago,https://replit.com/bounties/@AshPrabaker1/tweet-search-postgre?t=
+Link to Project",AshPrabaker1,15 hours ago,https://replit.com/bounties/@AshPrabaker1/tweet-search-postgre?t=
 73,$21.60,due in 12 days,Basic Chat App using Supabase,"I want to build in chat to my web games. I can use socket.io which is okay, but I want to experiment with using Supabase for chat.
 
 Acceptance Criteria
@@ -786,4 +786,8 @@ Acceptance Criteria
 The login feature is functional and allows users to log in with the correct credentials
 The error message no longer appears when users enter correct login credentials
 The fix does not cause any other issues or break any other parts of the website
-The fix is well-documented and easy to understand",hdbu,4 hours ago,https://replit.com/bounties/@hdbu/bug-website-login-fe?t=
+The fix is well-documented and easy to understand",hdbu,5 hours ago,https://replit.com/bounties/@hdbu/bug-website-login-fe?t=
+77,$90.00,due in 13 days,AI-Powered Chatbot Trained on the content of my blog,"Enable users to get any answers based on the content within the blog. The ChatBot needs to be fine-tuned on the content of the blog.
+
+Acceptance Criteria
+The main goal is to create a business bot that is able to provide any business-related answer, leveraging GPT-3 and fine-tuning the content on a blog.",GennaroCuofano,4 minutes ago,https://replit.com/bounties/@GennaroCuofano/ai-powered-chatbot-t?t=
