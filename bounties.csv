@@ -696,7 +696,7 @@ response = openai.Completion.create(
   presence_penalty = 0
 )
 
-Link to Project",YorkvilleDS,19 hours ago,https://replit.com/bounties/@YorkvilleDS/find-like-text-conce?t=
+Link to Project",YorkvilleDS,20 hours ago,https://replit.com/bounties/@YorkvilleDS/find-like-text-conce?t=
 69,$450.00,due in 12 days,GPT-3 Chatbot For Tech Support,"I'm looking for someone to build a GPT-3 chatbot that can answer everyday questions about technology. The chatbot should be accessible through the web and by texting a phone number.
 
 Acceptance Criteria
@@ -725,7 +725,7 @@ due within one week",BrandonF7,17 hours ago,https://replit.com/bounties/@Brandon
 
 contact me for more details
 
-should be relatively simple",nathanpratt2,16 hours ago,https://replit.com/bounties/@nathanpratt2/twitter-bot-using-gp?t=
+should be relatively simple",nathanpratt2,17 hours ago,https://replit.com/bounties/@nathanpratt2/twitter-bot-using-gp?t=
 72,$180.00,due in 2 days,"Tweet Search - PostgreSQL, Pinecone, OpenAI","Write code that lets me upload a CSV file filled with tweets and names --> creates a psql database with two columns 'tweets' and 'names'.
 
 Then pass the data through OpenAIs latest embeddings model to generate a series of vectors and store those vectors in a Pinecone Index.
@@ -777,7 +777,7 @@ Company > Data Rooms (https://tour.carta.team/data-rooms/7/#/)
 Securities > All different types (Shares, Equity Awards, Warrants, Convertibles) > Click individual securities to open the modal > Click ""Documents and notes"" > Download those files
 Securities > Templates > Document Sets
 
-Be aware that under a section like Securities > Equity Awards there can be multiple tabs (Options, RSAs, RSUs, SARs, CBUs, Profit Interests), so you'll need to visit each of those tabs and download the files for all thos...",AdsoVonMelk,8 hours ago,https://replit.com/bounties/@AdsoVonMelk/write-script-to-down?t=
+Be aware that under a section like Securities > Equity Awards there can be multiple tabs (Options, RSAs, RSUs, SARs, CBUs, Profit Interests), so you'll need to visit each of those tabs and download the files for all thos...",AdsoVonMelk,9 hours ago,https://replit.com/bounties/@AdsoVonMelk/write-script-to-down?t=
 75,$0.90,due in 3 months," Anything :  threejs, js, html, css, socket io, and p5js ",Anything you want me to create within my knowledge I am willing to complete or attempt. I am always  down for a challenge.,JumaAboke,6 hours ago,https://replit.com/bounties/@JumaAboke/anything-threejs-js?t=
 76,$0.90,closed,Bug: Website Login Feature,"We are experiencing an issue with our website's login feature. When users try to log in, they are receiving an error message saying that their login credentials are incorrect, even when they are entering the correct information. We need someone to identify the cause of this issue and fix it.
 
@@ -790,4 +790,4 @@ The fix is well-documented and easy to understand",hdbu,5 hours ago,https://repl
 77,$90.00,due in 13 days,AI-Powered Chatbot Trained on the content of my blog,"Enable users to get any answers based on the content within the blog. The ChatBot needs to be fine-tuned on the content of the blog.
 
 Acceptance Criteria
-The main goal is to create a business bot that is able to provide any business-related answer, leveraging GPT-3 and fine-tuning the content on a blog.",GennaroCuofano,32 minutes ago,https://replit.com/bounties/@GennaroCuofano/ai-powered-chatbot-t?t=
+The main goal is to create a business bot that is able to provide any business-related answer, leveraging GPT-3 and fine-tuning the content on a blog.",GennaroCuofano,45 minutes ago,https://replit.com/bounties/@GennaroCuofano/ai-powered-chatbot-t?t=
