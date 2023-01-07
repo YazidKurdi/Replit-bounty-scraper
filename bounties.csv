@@ -708,7 +708,7 @@ Technical Details
 Chatbot should be powered by GPT-3
 Backend should be built in Node.js
 Text conversations should go through an existing OpenPhone number
-Website should be built in React",incompl,14 hours ago,https://replit.com/bounties/@incompl/gpt-3-chatbot-for-te?t=
+Website should be built in React",incompl,15 hours ago,https://replit.com/bounties/@incompl/gpt-3-chatbot-for-te?t=
 70,$90.00,due in 6 days,"Website that creates documents, Google authentication","user should be able to login via Google authentication. Submit a form with text input. Generate a word document using user input. App should be able to manage documents
 
 Acceptance Criteria
@@ -763,7 +763,7 @@ Nice to haves:
 rate limiting on messages
 admin block / remove / ban users
 mobile friendly
-nice UI",triptych,6 hours ago,https://replit.com/bounties/@triptych/basic-chat-app-using?t=
+nice UI",triptych,7 hours ago,https://replit.com/bounties/@triptych/basic-chat-app-using?t=
 74,$180.00,due in 4 days,Write script to download files from https://tour.carta.com,"I need a script that uses a headless browser (please use playwright and not selenium or puppeteer) to do the following:
 
 Log in to https://tour.carta.com as a Company Administrator.
@@ -778,7 +778,7 @@ Securities > All different types (Shares, Equity Awards, Warrants, Convertibles)
 Securities > Templates > Document Sets
 
 Be aware that under a section like Securities > Equity Awards there can be multiple tabs (Options, RSAs, RSUs, SARs, CBUs, Profit Interests), so you'll need to visit each of those tabs and download the files for all thos...",AdsoVonMelk,5 hours ago,https://replit.com/bounties/@AdsoVonMelk/write-script-to-down?t=
-75,$0.90,due in 3 months," Anything :  threejs, js, html, css, socket io, and p5js ",Anything you want me to create within my knowledge I am willing to complete or attempt. I am always  down for a challenge.,JumaAboke,2 hours ago,https://replit.com/bounties/@JumaAboke/anything-threejs-js?t=
+75,$0.90,due in 3 months," Anything :  threejs, js, html, css, socket io, and p5js ",Anything you want me to create within my knowledge I am willing to complete or attempt. I am always  down for a challenge.,JumaAboke,3 hours ago,https://replit.com/bounties/@JumaAboke/anything-threejs-js?t=
 76,$0.90,closed,Bug: Website Login Feature,"We are experiencing an issue with our website's login feature. When users try to log in, they are receiving an error message saying that their login credentials are incorrect, even when they are entering the correct information. We need someone to identify the cause of this issue and fix it.
 
 Acceptance Criteria
