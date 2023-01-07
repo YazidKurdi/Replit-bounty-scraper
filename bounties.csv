@@ -682,7 +682,7 @@ roles/responsibilities.
 Acceptance Criteria
 Confident can provide detailed description of steps needed to complete the 3 Phases (design, features & functionality, deployment). Include all languages, systems, libraries, number of programmers and likely timeframe.
 Experience in Project Management
-Knows requirements for WebFlow (Front-end designs), Metamask integrations (Crypto/NFTs integrations) & BackEnd gaming engine design.",marcandreranger,13 hours ago,https://replit.com/bounties/@marcandreranger/break-down-a-project?t=
+Knows requirements for WebFlow (Front-end designs), Metamask integrations (Crypto/NFTs integrations) & BackEnd gaming engine design.",marcandreranger,14 hours ago,https://replit.com/bounties/@marcandreranger/break-down-a-project?t=
 68,$45.00,due in 3 days,Find 'like' text concepts in documents using OpenAI  Completion API called by Python,"Given a text snippet of between 10 and 200 words AND a few .txt documents, write Python code to use OpenAI's Text Completion AI to search the .txt documents for concepts or snippets that are 'like' the ones supplied as label examples (if any can be found in these documents)
 Interface should look similar to the below (creating the right prompt is the key, I think - how to include both the snippets and .txt docs as part of the prompt is perhaps the tricky part - but I haven't yet tried)
 
@@ -696,7 +696,7 @@ response = openai.Completion.create(
   presence_penalty = 0
 )
 
-Link to Project",YorkvilleDS,12 hours ago,https://replit.com/bounties/@YorkvilleDS/find-like-text-conce?t=
+Link to Project",YorkvilleDS,13 hours ago,https://replit.com/bounties/@YorkvilleDS/find-like-text-conce?t=
 69,$450.00,due in 13 days,GPT-3 Chatbot For Tech Support,"I'm looking for someone to build a GPT-3 chatbot that can answer everyday questions about technology. The chatbot should be accessible through the web and by texting a phone number.
 
 Acceptance Criteria
@@ -725,7 +725,7 @@ due within one week",BrandonF7,10 hours ago,https://replit.com/bounties/@Brandon
 
 contact me for more details
 
-should be relatively simple",nathanpratt2,9 hours ago,https://replit.com/bounties/@nathanpratt2/twitter-bot-using-gp?t=
+should be relatively simple",nathanpratt2,10 hours ago,https://replit.com/bounties/@nathanpratt2/twitter-bot-using-gp?t=
 72,$180.00,due in 3 days,"Tweet Search - PostgreSQL, Pinecone, OpenAI","Write code that lets me upload a CSV file filled with tweets and names --> creates a psql database with two columns 'tweets' and 'names'.
 
 Then pass the data through OpenAIs latest embeddings model to generate a series of vectors and store those vectors in a Pinecone Index.
