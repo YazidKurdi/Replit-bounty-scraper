@@ -656,7 +656,7 @@ A script that successfully takes a CSV and adds this information to the appropri
 Technical Details
 Will need to use the Slack API
 
-Link to Project",DaysiGomez,13 hours ago,https://replit.com/bounties/@DaysiGomez/use-slack-api-to-add?t=
+Link to Project",DaysiGomez,14 hours ago,https://replit.com/bounties/@DaysiGomez/use-slack-api-to-add?t=
 65,$67.50,due in 30 days,MVP web app for students to submit screen/webcam recordings of flashcard reviews,"We'd like to create a basic web app that allows teachers to create sets of 2-sided digital ""flashcards"" and assign them to students; and then allows students to submit a combination screen recording/webcam recording of themselves reviewing the flashcards. The recording should show both what the student is seeing on the screen as the student navigates through the cards (click on a card to show the other side; then click a button to see the next card); and also the student's webcam view as he/she states the answers to questions out loud.
 
 Acceptance Criteria
@@ -676,7 +676,7 @@ Story 1 (Weeks 1 & 2)
 ● I am able to set/map my business, my team members, and each member’s
 roles/responsibilities.
 ● I am able to answer Project Medici’s “calibration” questions which then creates a high-level “profile” of my business, of which Project Medici will use to best understand my company and understand its hierarchy and to perfect its mapping.
-● I am able to upload my company’s corp...",JOkun1,11 hours ago,https://replit.com/bounties/@JOkun1/project-medici-the-u?t=
+● I am able to upload my company’s corp...",JOkun1,12 hours ago,https://replit.com/bounties/@JOkun1/project-medici-the-u?t=
 67,$18.00,due in 5 days,"Break down a project scope of work into specific coding tasks, languages and deliverables ","I need help to provide detailed explanations on the programming steps needed to create the project in our SOW. (Will be provided from Notion read-only link)
 
 Acceptance Criteria
@@ -708,7 +708,7 @@ Technical Details
 Chatbot should be powered by GPT-3
 Backend should be built in Node.js
 Text conversations should go through an existing OpenPhone number
-Website should be built in React",incompl,8 hours ago,https://replit.com/bounties/@incompl/gpt-3-chatbot-for-te?t=
+Website should be built in React",incompl,9 hours ago,https://replit.com/bounties/@incompl/gpt-3-chatbot-for-te?t=
 70,$90.00,due in 6 days,"Website that creates documents, Google authentication","user should be able to login via Google authentication. Submit a form with text input. Generate a word document using user input. App should be able to manage documents
 
 Acceptance Criteria
@@ -763,4 +763,4 @@ Nice to haves:
 rate limiting on messages
 admin block / remove / ban users
 mobile friendly
-nice UI",triptych,24 minutes ago,https://replit.com/bounties/@triptych/basic-chat-app-using?t=
+nice UI",triptych,38 minutes ago,https://replit.com/bounties/@triptych/basic-chat-app-using?t=
