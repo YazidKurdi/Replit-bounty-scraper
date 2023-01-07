@@ -676,7 +676,7 @@ Story 1 (Weeks 1 & 2)
 ● I am able to set/map my business, my team members, and each member’s
 roles/responsibilities.
 ● I am able to answer Project Medici’s “calibration” questions which then creates a high-level “profile” of my business, of which Project Medici will use to best understand my company and understand its hierarchy and to perfect its mapping.
-● I am able to upload my company’s corp...",JOkun1,13 hours ago,https://replit.com/bounties/@JOkun1/project-medici-the-u?t=
+● I am able to upload my company’s corp...",JOkun1,14 hours ago,https://replit.com/bounties/@JOkun1/project-medici-the-u?t=
 67,$18.00,due in 5 days,"Break down a project scope of work into specific coding tasks, languages and deliverables ","I need help to provide detailed explanations on the programming steps needed to create the project in our SOW. (Will be provided from Notion read-only link)
 
 Acceptance Criteria
@@ -708,7 +708,7 @@ Technical Details
 Chatbot should be powered by GPT-3
 Backend should be built in Node.js
 Text conversations should go through an existing OpenPhone number
-Website should be built in React",incompl,10 hours ago,https://replit.com/bounties/@incompl/gpt-3-chatbot-for-te?t=
+Website should be built in React",incompl,11 hours ago,https://replit.com/bounties/@incompl/gpt-3-chatbot-for-te?t=
 70,$90.00,due in 6 days,"Website that creates documents, Google authentication","user should be able to login via Google authentication. Submit a form with text input. Generate a word document using user input. App should be able to manage documents
 
 Acceptance Criteria
@@ -763,7 +763,7 @@ Nice to haves:
 rate limiting on messages
 admin block / remove / ban users
 mobile friendly
-nice UI",triptych,2 hours ago,https://replit.com/bounties/@triptych/basic-chat-app-using?t=
+nice UI",triptych,3 hours ago,https://replit.com/bounties/@triptych/basic-chat-app-using?t=
 74,$180.00,due in 4 days,Write script to download files from https://tour.carta.com,"I need a script that uses a headless browser (please use playwright and not selenium or puppeteer) to do the following:
 
 Log in to https://tour.carta.com as a Company Administrator.
