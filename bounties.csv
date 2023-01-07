@@ -786,7 +786,7 @@ Acceptance Criteria
 The login feature is functional and allows users to log in with the correct credentials
 The error message no longer appears when users enter correct login credentials
 The fix does not cause any other issues or break any other parts of the website
-The fix is well-documented and easy to understand",hdbu,14 hours ago,https://replit.com/bounties/@hdbu/bug-website-login-fe?t=
+The fix is well-documented and easy to understand",hdbu,15 hours ago,https://replit.com/bounties/@hdbu/bug-website-login-fe?t=
 77,$90.00,due in 13 days,AI-Powered Chatbot Trained on the content of my blog,"Enable users to get any answers based on the content within the blog. The ChatBot needs to be fine-tuned on the content of the blog.
 
 Acceptance Criteria
@@ -819,3 +819,18 @@ MUST KNOW DISCOR.JS",OddGames,4 hours ago,https://replit.com/bounties/@OddGames/
 Acceptance Criteria
 A Python script that loads a webpage using Playwright. No logic needs to be executed on the page.
 A Dockerfile to run the python script in a container. It should also run a cron inside the container to run the python script every 5 minutes",oAkeDCH,2 hours ago,https://replit.com/bounties/@oAkeDCH/python-playwright-cr?t=
+82,$108.00,due in 3 days,aws cross account access for users federated via  azure AD ,"as a federated user who is authenticated via sso with 2FA enabled i need to be able to switch between aws accounts within an aws organization.
+
+e.g. a federated user needs to assume role A in master payer account (account #1) and role B sub-account (account #2).
+
+Acceptance Criteria
+trust relationships must be defined (or checked) between role A and role B
+user does not have to assume a role via the cli; federated user in question can swap back and forth between role A and role B
+script can be run locally, or from within the sub account (account #2)
+
+Technical Details
+users are authenticated via sso through azure active directory
+2FA through duo
+role A in account #1 is responsible for collecting data across sub accounts; it is read only
+role B in account #2 will be responsible for running the script;
+order of operations: federated user (or an application) assumes role B, role B assumes role A, role A gathers all necessary data, federated user (or an application) ass...",xxyjoel,22 seconds ago,https://replit.com/bounties/@xxyjoel/aws-cross-account-ac?t=
