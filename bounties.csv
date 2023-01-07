@@ -740,4 +740,27 @@ Python
 Pinecone
 OpenAI
 
-Link to Project",AshPrabaker1,5 hours ago,https://replit.com/bounties/@AshPrabaker1/tweet-search-postgre?t=
+Link to Project",AshPrabaker1,6 hours ago,https://replit.com/bounties/@AshPrabaker1/tweet-search-postgre?t=
+73,$21.60,due in 13 days,Basic Chat App using Supabase,"I want to build in chat to my web games. I can use socket.io which is okay, but I want to experiment with using Supabase for chat.
+
+Acceptance Criteria
+I want a simple vanilla HTML, CSS, JS application - no frameworks.
+no python, rust, non JS frameworks on back end.
+Log in via supabase auth.
+Present a list of public rooms or create a new room
+Update your username and save to supabase
+Join a room and chat
+Leave a room and join + create another
+Log out / log in - your username is preserved
+keep session so if you reload page you are still logged in / out
+code is Node.js based
+code is simple to understand and reasonably documented
+code must be your own and not copied from another project
+rights to code transfer to me upon completion of bounty - however you will be credited if the code is used in a public project
+you must use Supabase as the instant messaging system
+
+Nice to haves:
+rate limiting on messages
+admin block / remove / ban users
+mobile friendly
+nice UI",triptych,3 minutes ago,https://replit.com/bounties/@triptych/basic-chat-app-using?t=
