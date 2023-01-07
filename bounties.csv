@@ -682,7 +682,7 @@ roles/responsibilities.
 Acceptance Criteria
 Confident can provide detailed description of steps needed to complete the 3 Phases (design, features & functionality, deployment). Include all languages, systems, libraries, number of programmers and likely timeframe.
 Experience in Project Management
-Knows requirements for WebFlow (Front-end designs), Metamask integrations (Crypto/NFTs integrations) & BackEnd gaming engine design.",marcandreranger,18 hours ago,https://replit.com/bounties/@marcandreranger/break-down-a-project?t=
+Knows requirements for WebFlow (Front-end designs), Metamask integrations (Crypto/NFTs integrations) & BackEnd gaming engine design.",marcandreranger,19 hours ago,https://replit.com/bounties/@marcandreranger/break-down-a-project?t=
 68,$45.00,due in 2 days,Find 'like' text concepts in documents using OpenAI  Completion API called by Python,"Given a text snippet of between 10 and 200 words AND a few .txt documents, write Python code to use OpenAI's Text Completion AI to search the .txt documents for concepts or snippets that are 'like' the ones supplied as label examples (if any can be found in these documents)
 Interface should look similar to the below (creating the right prompt is the key, I think - how to include both the snippets and .txt docs as part of the prompt is perhaps the tricky part - but I haven't yet tried)
 
@@ -696,7 +696,7 @@ response = openai.Completion.create(
   presence_penalty = 0
 )
 
-Link to Project",YorkvilleDS,17 hours ago,https://replit.com/bounties/@YorkvilleDS/find-like-text-conce?t=
+Link to Project",YorkvilleDS,18 hours ago,https://replit.com/bounties/@YorkvilleDS/find-like-text-conce?t=
 69,$450.00,due in 12 days,GPT-3 Chatbot For Tech Support,"I'm looking for someone to build a GPT-3 chatbot that can answer everyday questions about technology. The chatbot should be accessible through the web and by texting a phone number.
 
 Acceptance Criteria
@@ -720,12 +720,12 @@ open to any dev language
 
 Timelines / Milestones
 payment of full completion.
-due within one week",BrandonF7,15 hours ago,https://replit.com/bounties/@BrandonF7/website-that-creates?t=
+due within one week",BrandonF7,16 hours ago,https://replit.com/bounties/@BrandonF7/website-that-creates?t=
 71,$18.00,due in 12 days,twitter bot using GPT3 and AI,"help me create a twitter bot using openAI API
 
 contact me for more details
 
-should be relatively simple",nathanpratt2,14 hours ago,https://replit.com/bounties/@nathanpratt2/twitter-bot-using-gp?t=
+should be relatively simple",nathanpratt2,15 hours ago,https://replit.com/bounties/@nathanpratt2/twitter-bot-using-gp?t=
 72,$180.00,due in 2 days,"Tweet Search - PostgreSQL, Pinecone, OpenAI","Write code that lets me upload a CSV file filled with tweets and names --> creates a psql database with two columns 'tweets' and 'names'.
 
 Then pass the data through OpenAIs latest embeddings model to generate a series of vectors and store those vectors in a Pinecone Index.
@@ -740,7 +740,7 @@ Python
 Pinecone
 OpenAI
 
-Link to Project",AshPrabaker1,13 hours ago,https://replit.com/bounties/@AshPrabaker1/tweet-search-postgre?t=
+Link to Project",AshPrabaker1,14 hours ago,https://replit.com/bounties/@AshPrabaker1/tweet-search-postgre?t=
 73,$21.60,due in 12 days,Basic Chat App using Supabase,"I want to build in chat to my web games. I can use socket.io which is okay, but I want to experiment with using Supabase for chat.
 
 Acceptance Criteria
@@ -763,7 +763,7 @@ Nice to haves:
 rate limiting on messages
 admin block / remove / ban users
 mobile friendly
-nice UI",triptych,7 hours ago,https://replit.com/bounties/@triptych/basic-chat-app-using?t=
+nice UI",triptych,8 hours ago,https://replit.com/bounties/@triptych/basic-chat-app-using?t=
 74,$180.00,due in 3 days,Write script to download files from https://tour.carta.com,"I need a script that uses a headless browser (please use playwright and not selenium or puppeteer) to do the following:
 
 Log in to https://tour.carta.com as a Company Administrator.
@@ -777,8 +777,8 @@ Company > Data Rooms (https://tour.carta.team/data-rooms/7/#/)
 Securities > All different types (Shares, Equity Awards, Warrants, Convertibles) > Click individual securities to open the modal > Click ""Documents and notes"" > Download those files
 Securities > Templates > Document Sets
 
-Be aware that under a section like Securities > Equity Awards there can be multiple tabs (Options, RSAs, RSUs, SARs, CBUs, Profit Interests), so you'll need to visit each of those tabs and download the files for all thos...",AdsoVonMelk,6 hours ago,https://replit.com/bounties/@AdsoVonMelk/write-script-to-down?t=
-75,$0.90,due in 3 months," Anything :  threejs, js, html, css, socket io, and p5js ",Anything you want me to create within my knowledge I am willing to complete or attempt. I am always  down for a challenge.,JumaAboke,3 hours ago,https://replit.com/bounties/@JumaAboke/anything-threejs-js?t=
+Be aware that under a section like Securities > Equity Awards there can be multiple tabs (Options, RSAs, RSUs, SARs, CBUs, Profit Interests), so you'll need to visit each of those tabs and download the files for all thos...",AdsoVonMelk,7 hours ago,https://replit.com/bounties/@AdsoVonMelk/write-script-to-down?t=
+75,$0.90,due in 3 months," Anything :  threejs, js, html, css, socket io, and p5js ",Anything you want me to create within my knowledge I am willing to complete or attempt. I am always  down for a challenge.,JumaAboke,4 hours ago,https://replit.com/bounties/@JumaAboke/anything-threejs-js?t=
 76,$0.90,closed,Bug: Website Login Feature,"We are experiencing an issue with our website's login feature. When users try to log in, they are receiving an error message saying that their login credentials are incorrect, even when they are entering the correct information. We need someone to identify the cause of this issue and fix it.
 
 Acceptance Criteria
