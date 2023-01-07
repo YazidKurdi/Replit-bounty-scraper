@@ -696,7 +696,7 @@ response = openai.Completion.create(
   presence_penalty = 0
 )
 
-Link to Project",YorkvilleDS,16 hours ago,https://replit.com/bounties/@YorkvilleDS/find-like-text-conce?t=
+Link to Project",YorkvilleDS,17 hours ago,https://replit.com/bounties/@YorkvilleDS/find-like-text-conce?t=
 69,$450.00,due in 13 days,GPT-3 Chatbot For Tech Support,"I'm looking for someone to build a GPT-3 chatbot that can answer everyday questions about technology. The chatbot should be accessible through the web and by texting a phone number.
 
 Acceptance Criteria
@@ -725,7 +725,7 @@ due within one week",BrandonF7,14 hours ago,https://replit.com/bounties/@Brandon
 
 contact me for more details
 
-should be relatively simple",nathanpratt2,13 hours ago,https://replit.com/bounties/@nathanpratt2/twitter-bot-using-gp?t=
+should be relatively simple",nathanpratt2,14 hours ago,https://replit.com/bounties/@nathanpratt2/twitter-bot-using-gp?t=
 72,$180.00,due in 3 days,"Tweet Search - PostgreSQL, Pinecone, OpenAI","Write code that lets me upload a CSV file filled with tweets and names --> creates a psql database with two columns 'tweets' and 'names'.
 
 Then pass the data through OpenAIs latest embeddings model to generate a series of vectors and store those vectors in a Pinecone Index.
