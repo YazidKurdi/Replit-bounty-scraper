@@ -647,7 +647,7 @@ Skilled IN CSS, HTML and Other Languages.
 Technical Details
 To Be Discussed
 Timelines / Milestones
-No Timeline But Trying To Get Done As Soon As Possible",UkeBoi,12 hours ago,https://replit.com/bounties/@UkeBoi/making-a-game-site-t?t=
+No Timeline But Trying To Get Done As Soon As Possible",UkeBoi,13 hours ago,https://replit.com/bounties/@UkeBoi/making-a-game-site-t?t=
 64,$45.00,due in 6 days,Use Slack API to add Titles to everyone in workspace,"I have a Slack workspace with 300+ people, but not everyone has included their Title and Company which is less useful for the community. I want to use the Slack API to fill out this info for them. I'd like to be able to give you a CSV with everyone's info and then have this info get added to our Slack workspace.
 
 Acceptance Criteria
@@ -668,7 +668,7 @@ Ability of students to record a flashcard review and submit it to teacher
 Notification for teachers when an assignment is submitted
 Whatever infrastructure is needed to support video storage
 
-For th...",MichaelRegnier,11 hours ago,https://replit.com/bounties/@MichaelRegnier/mvp-web-app-for-stud?t=
+For th...",MichaelRegnier,12 hours ago,https://replit.com/bounties/@MichaelRegnier/mvp-web-app-for-stud?t=
 66,$360.00,due in 2 months,"Project Medici, the ultimate AI tool for Founders and their Team to make them Superhuman","Looking to utilize OpenAI's API to create an AI//JARVIS assistant to optimize founders, employees, and Users' day-to-day professional lives. Think of Project Medici as the ultimate right-hand person who can make a User do more with less based on the Users professional objectives and goals which are aligned with the overall company mission, values, and vision. Project Medici can guide, recommend and aide the user in any type of work decision or item to work on to reach their professional goals.
 
 Story 1 (Weeks 1 & 2)
@@ -682,7 +682,7 @@ roles/responsibilities.
 Acceptance Criteria
 Confident can provide detailed description of steps needed to complete the 3 Phases (design, features & functionality, deployment). Include all languages, systems, libraries, number of programmers and likely timeframe.
 Experience in Project Management
-Knows requirements for WebFlow (Front-end designs), Metamask integrations (Crypto/NFTs integrations) & BackEnd gaming engine design.",marcandreranger,9 hours ago,https://replit.com/bounties/@marcandreranger/break-down-a-project?t=
+Knows requirements for WebFlow (Front-end designs), Metamask integrations (Crypto/NFTs integrations) & BackEnd gaming engine design.",marcandreranger,10 hours ago,https://replit.com/bounties/@marcandreranger/break-down-a-project?t=
 68,$45.00,due in 3 days,Find 'like' text concepts in documents using OpenAI  Completion API called by Python,"Given a text snippet of between 10 and 200 words AND a few .txt documents, write Python code to use OpenAI's Text Completion AI to search the .txt documents for concepts or snippets that are 'like' the ones supplied as label examples (if any can be found in these documents)
 Interface should look similar to the below (creating the right prompt is the key, I think - how to include both the snippets and .txt docs as part of the prompt is perhaps the tricky part - but I haven't yet tried)
 
