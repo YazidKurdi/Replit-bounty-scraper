@@ -763,7 +763,7 @@ Nice to haves:
 rate limiting on messages
 admin block / remove / ban users
 mobile friendly
-nice UI",triptych,14 hours ago,https://replit.com/bounties/@triptych/basic-chat-app-using?t=
+nice UI",triptych,15 hours ago,https://replit.com/bounties/@triptych/basic-chat-app-using?t=
 74,$180.00,due in 3 days,Write script to download files from https://tour.carta.com,"I need a script that uses a headless browser (please use playwright and not selenium or puppeteer) to do the following:
 
 Log in to https://tour.carta.com as a Company Administrator.
@@ -778,7 +778,7 @@ Securities > All different types (Shares, Equity Awards, Warrants, Convertibles)
 Securities > Templates > Document Sets
 
 Be aware that under a section like Securities > Equity Awards there can be multiple tabs (Options, RSAs, RSUs, SARs, CBUs, Profit Interests), so you'll need to visit each of those tabs and download the files for all thos...",AdsoVonMelk,13 hours ago,https://replit.com/bounties/@AdsoVonMelk/write-script-to-down?t=
-75,$0.90,closed," Anything :  threejs, js, html, css, socket io, and p5js ",Anything you want me to create within my knowledge I am willing to complete or attempt. I am always  down for a challenge.,JumaAboke,10 hours ago,https://replit.com/bounties/@JumaAboke/anything-threejs-js?t=
+75,$0.90,closed," Anything :  threejs, js, html, css, socket io, and p5js ",Anything you want me to create within my knowledge I am willing to complete or attempt. I am always  down for a challenge.,JumaAboke,11 hours ago,https://replit.com/bounties/@JumaAboke/anything-threejs-js?t=
 76,$0.90,closed,Bug: Website Login Feature,"We are experiencing an issue with our website's login feature. When users try to log in, they are receiving an error message saying that their login credentials are incorrect, even when they are entering the correct information. We need someone to identify the cause of this issue and fix it.
 
 Acceptance Criteria
@@ -793,7 +793,7 @@ Acceptance Criteria
 The main goal is to create a business bot that is able to provide any business-related answer, leveraging GPT-3 and fine-tuning the content on a blog.",GennaroCuofano,5 hours ago,https://replit.com/bounties/@GennaroCuofano/ai-powered-chatbot-t?t=
 78,$2.70,closed,Create script to upload multiple files in site,"I have a site on which I can upload one file at a time through a modal/api.
 
-I would like to create a script on the client side which can upload multiple files the same way. It can be a simple script I can run on the browser Console, or a chrome extension.",CoderGautamYT,3 hours ago,https://replit.com/bounties/@CoderGautamYT/create-script-to-upl?t=
+I would like to create a script on the client side which can upload multiple files the same way. It can be a simple script I can run on the browser Console, or a chrome extension.",CoderGautamYT,4 hours ago,https://replit.com/bounties/@CoderGautamYT/create-script-to-upl?t=
 79,$900.00,due in 3 months,ActivityPub Integration with Minds,"Minds is looking to support ActivityPub in a similar level to Pleroma or Mastodon in order to join the fediverse. Some initial work has been started, which may or may not be helpful.
 
 Acceptance Criteria
@@ -808,4 +808,4 @@ https://developers.minds.com
 
 Link to Project
 
-https://gitlab.com/minds/minds/-/issues/90",mindsorg,2 hours ago,https://replit.com/bounties/@mindsorg/activitypub-integrat?t=
+https://gitlab.com/minds/minds/-/issues/90",mindsorg,3 hours ago,https://replit.com/bounties/@mindsorg/activitypub-integrat?t=
