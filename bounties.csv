@@ -647,7 +647,7 @@ Skilled IN CSS, HTML and Other Languages.
 Technical Details
 To Be Discussed
 Timelines / Milestones
-No Timeline But Trying To Get Done As Soon As Possible",UkeBoi,11 hours ago,https://replit.com/bounties/@UkeBoi/making-a-game-site-t?t=
+No Timeline But Trying To Get Done As Soon As Possible",UkeBoi,12 hours ago,https://replit.com/bounties/@UkeBoi/making-a-game-site-t?t=
 64,$45.00,due in 6 days,Use Slack API to add Titles to everyone in workspace,"I have a Slack workspace with 300+ people, but not everyone has included their Title and Company which is less useful for the community. I want to use the Slack API to fill out this info for them. I'd like to be able to give you a CSV with everyone's info and then have this info get added to our Slack workspace.
 
 Acceptance Criteria
@@ -656,7 +656,7 @@ A script that successfully takes a CSV and adds this information to the appropri
 Technical Details
 Will need to use the Slack API
 
-Link to Project",DaysiGomez,10 hours ago,https://replit.com/bounties/@DaysiGomez/use-slack-api-to-add?t=
+Link to Project",DaysiGomez,11 hours ago,https://replit.com/bounties/@DaysiGomez/use-slack-api-to-add?t=
 65,$67.50,due in 30 days,MVP web app for students to submit screen/webcam recordings of flashcard reviews,"We'd like to create a basic web app that allows teachers to create sets of 2-sided digital ""flashcards"" and assign them to students; and then allows students to submit a combination screen recording/webcam recording of themselves reviewing the flashcards. The recording should show both what the student is seeing on the screen as the student navigates through the cards (click on a card to show the other side; then click a button to see the next card); and also the student's webcam view as he/she states the answers to questions out loud.
 
 Acceptance Criteria
@@ -668,7 +668,7 @@ Ability of students to record a flashcard review and submit it to teacher
 Notification for teachers when an assignment is submitted
 Whatever infrastructure is needed to support video storage
 
-For th...",MichaelRegnier,10 hours ago,https://replit.com/bounties/@MichaelRegnier/mvp-web-app-for-stud?t=
+For th...",MichaelRegnier,11 hours ago,https://replit.com/bounties/@MichaelRegnier/mvp-web-app-for-stud?t=
 66,$360.00,due in 2 months,"Project Medici, the ultimate AI tool for Founders and their Team to make them Superhuman","Looking to utilize OpenAI's API to create an AI//JARVIS assistant to optimize founders, employees, and Users' day-to-day professional lives. Think of Project Medici as the ultimate right-hand person who can make a User do more with less based on the Users professional objectives and goals which are aligned with the overall company mission, values, and vision. Project Medici can guide, recommend and aide the user in any type of work decision or item to work on to reach their professional goals.
 
 Story 1 (Weeks 1 & 2)
@@ -676,13 +676,13 @@ Story 1 (Weeks 1 & 2)
 ● I am able to set/map my business, my team members, and each member’s
 roles/responsibilities.
 ● I am able to answer Project Medici’s “calibration” questions which then creates a high-level “profile” of my business, of which Project Medici will use to best understand my company and understand its hierarchy and to perfect its mapping.
-● I am able to upload my company’s corp...",JOkun1,8 hours ago,https://replit.com/bounties/@JOkun1/project-medici-the-u?t=
+● I am able to upload my company’s corp...",JOkun1,9 hours ago,https://replit.com/bounties/@JOkun1/project-medici-the-u?t=
 67,$18.00,due in 5 days,"Break down a project scope of work into specific coding tasks, languages and deliverables ","I need help to provide detailed explanations on the programming steps needed to create the project in our SOW. (Will be provided from Notion read-only link)
 
 Acceptance Criteria
 Confident can provide detailed description of steps needed to complete the 3 Phases (design, features & functionality, deployment). Include all languages, systems, libraries, number of programmers and likely timeframe.
 Experience in Project Management
-Knows requirements for WebFlow (Front-end designs), Metamask integrations (Crypto/NFTs integrations) & BackEnd gaming engine design.",marcandreranger,8 hours ago,https://replit.com/bounties/@marcandreranger/break-down-a-project?t=
+Knows requirements for WebFlow (Front-end designs), Metamask integrations (Crypto/NFTs integrations) & BackEnd gaming engine design.",marcandreranger,9 hours ago,https://replit.com/bounties/@marcandreranger/break-down-a-project?t=
 68,$45.00,due in 3 days,Find 'like' text concepts in documents using OpenAI  Completion API called by Python,"Given a text snippet of between 10 and 200 words AND a few .txt documents, write Python code to use OpenAI's Text Completion AI to search the .txt documents for concepts or snippets that are 'like' the ones supplied as label examples (if any can be found in these documents)
 Interface should look similar to the below (creating the right prompt is the key, I think - how to include both the snippets and .txt docs as part of the prompt is perhaps the tricky part - but I haven't yet tried)
 
@@ -696,7 +696,7 @@ response = openai.Completion.create(
   presence_penalty = 0
 )
 
-Link to Project",YorkvilleDS,7 hours ago,https://replit.com/bounties/@YorkvilleDS/find-like-text-conce?t=
+Link to Project",YorkvilleDS,8 hours ago,https://replit.com/bounties/@YorkvilleDS/find-like-text-conce?t=
 69,$450.00,due in 13 days,GPT-3 Chatbot For Tech Support,"I'm looking for someone to build a GPT-3 chatbot that can answer everyday questions about technology. The chatbot should be accessible through the web and by texting a phone number.
 
 Acceptance Criteria
@@ -708,7 +708,7 @@ Technical Details
 Chatbot should be powered by GPT-3
 Backend should be built in Node.js
 Text conversations should go through an existing OpenPhone number
-Website should be built in React",incompl,5 hours ago,https://replit.com/bounties/@incompl/gpt-3-chatbot-for-te?t=
+Website should be built in React",incompl,6 hours ago,https://replit.com/bounties/@incompl/gpt-3-chatbot-for-te?t=
 70,$90.00,due in 6 days,"Website that creates documents, Google authentication","user should be able to login via Google authentication. Submit a form with text input. Generate a word document using user input. App should be able to manage documents
 
 Acceptance Criteria
@@ -720,12 +720,12 @@ open to any dev language
 
 Timelines / Milestones
 payment of full completion.
-due within one week",BrandonF7,5 hours ago,https://replit.com/bounties/@BrandonF7/website-that-creates?t=
+due within one week",BrandonF7,6 hours ago,https://replit.com/bounties/@BrandonF7/website-that-creates?t=
 71,$18.00,due in 13 days,twitter bot using GPT3 and AI,"help me create a twitter bot using openAI API
 
 contact me for more details
 
-should be relatively simple",nathanpratt2,4 hours ago,https://replit.com/bounties/@nathanpratt2/twitter-bot-using-gp?t=
+should be relatively simple",nathanpratt2,5 hours ago,https://replit.com/bounties/@nathanpratt2/twitter-bot-using-gp?t=
 72,$180.00,due in 3 days,"Tweet Search - PostgreSQL, Pinecone, OpenAI","Write code that lets me upload a CSV file filled with tweets and names --> creates a psql database with two columns 'tweets' and 'names'.
 
 Then pass the data through OpenAIs latest embeddings model to generate a series of vectors and store those vectors in a Pinecone Index.
