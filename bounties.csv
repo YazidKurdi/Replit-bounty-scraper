@@ -764,3 +764,17 @@ rate limiting on messages
 admin block / remove / ban users
 mobile friendly
 nice UI",triptych,1 hour ago,https://replit.com/bounties/@triptych/basic-chat-app-using?t=
+74,$180.00,due in 4 days,Write script to download files from https://tour.carta.com,"I need a script that uses a headless browser (please use playwright and not selenium or puppeteer) to do the following:
+
+Log in to https://tour.carta.com as a Company Administrator.
+Download every file for a specific company (an example company in the tour is Meetly).
+Save the files to a zip file that the user of the script can download.
+
+This is the list of places where you'll find files to download:
+
+Company > Library (https://tour.carta.team/corporations/7/library/)
+Company > Data Rooms (https://tour.carta.team/data-rooms/7/#/)
+Securities > All different types (Shares, Equity Awards, Warrants, Convertibles) > Click individual securities to open the modal > Click ""Documents and notes"" > Download those files
+Securities > Templates > Document Sets
+
+Be aware that under a section like Securities > Equity Awards there can be multiple tabs (Options, RSAs, RSUs, SARs, CBUs, Profit Interests), so you'll need to visit each of those tabs and download the files for all thos...",AdsoVonMelk,10 minutes ago,https://replit.com/bounties/@AdsoVonMelk/write-script-to-down?t=
