@@ -682,7 +682,7 @@ roles/responsibilities.
 Acceptance Criteria
 Confident can provide detailed description of steps needed to complete the 3 Phases (design, features & functionality, deployment). Include all languages, systems, libraries, number of programmers and likely timeframe.
 Experience in Project Management
-Knows requirements for WebFlow (Front-end designs), Metamask integrations (Crypto/NFTs integrations) & BackEnd gaming engine design.",marcandreranger,15 hours ago,https://replit.com/bounties/@marcandreranger/break-down-a-project?t=
+Knows requirements for WebFlow (Front-end designs), Metamask integrations (Crypto/NFTs integrations) & BackEnd gaming engine design.",marcandreranger,16 hours ago,https://replit.com/bounties/@marcandreranger/break-down-a-project?t=
 68,$45.00,due in 3 days,Find 'like' text concepts in documents using OpenAI  Completion API called by Python,"Given a text snippet of between 10 and 200 words AND a few .txt documents, write Python code to use OpenAI's Text Completion AI to search the .txt documents for concepts or snippets that are 'like' the ones supplied as label examples (if any can be found in these documents)
 Interface should look similar to the below (creating the right prompt is the key, I think - how to include both the snippets and .txt docs as part of the prompt is perhaps the tricky part - but I haven't yet tried)
 
@@ -696,7 +696,7 @@ response = openai.Completion.create(
   presence_penalty = 0
 )
 
-Link to Project",YorkvilleDS,14 hours ago,https://replit.com/bounties/@YorkvilleDS/find-like-text-conce?t=
+Link to Project",YorkvilleDS,15 hours ago,https://replit.com/bounties/@YorkvilleDS/find-like-text-conce?t=
 69,$450.00,due in 13 days,GPT-3 Chatbot For Tech Support,"I'm looking for someone to build a GPT-3 chatbot that can answer everyday questions about technology. The chatbot should be accessible through the web and by texting a phone number.
 
 Acceptance Criteria
@@ -725,7 +725,7 @@ due within one week",BrandonF7,12 hours ago,https://replit.com/bounties/@Brandon
 
 contact me for more details
 
-should be relatively simple",nathanpratt2,11 hours ago,https://replit.com/bounties/@nathanpratt2/twitter-bot-using-gp?t=
+should be relatively simple",nathanpratt2,12 hours ago,https://replit.com/bounties/@nathanpratt2/twitter-bot-using-gp?t=
 72,$180.00,due in 3 days,"Tweet Search - PostgreSQL, Pinecone, OpenAI","Write code that lets me upload a CSV file filled with tweets and names --> creates a psql database with two columns 'tweets' and 'names'.
 
 Then pass the data through OpenAIs latest embeddings model to generate a series of vectors and store those vectors in a Pinecone Index.
@@ -777,8 +777,8 @@ Company > Data Rooms (https://tour.carta.team/data-rooms/7/#/)
 Securities > All different types (Shares, Equity Awards, Warrants, Convertibles) > Click individual securities to open the modal > Click ""Documents and notes"" > Download those files
 Securities > Templates > Document Sets
 
-Be aware that under a section like Securities > Equity Awards there can be multiple tabs (Options, RSAs, RSUs, SARs, CBUs, Profit Interests), so you'll need to visit each of those tabs and download the files for all thos...",AdsoVonMelk,3 hours ago,https://replit.com/bounties/@AdsoVonMelk/write-script-to-down?t=
-75,$0.90,due in 3 months," Anything :  threejs, js, html, css, socket io, and p5js ",Anything you want me to create within my knowledge I am willing to complete or attempt. I am always  down for a challenge.,JumaAboke,36 minutes ago,https://replit.com/bounties/@JumaAboke/anything-threejs-js?t=
+Be aware that under a section like Securities > Equity Awards there can be multiple tabs (Options, RSAs, RSUs, SARs, CBUs, Profit Interests), so you'll need to visit each of those tabs and download the files for all thos...",AdsoVonMelk,4 hours ago,https://replit.com/bounties/@AdsoVonMelk/write-script-to-down?t=
+75,$0.90,due in 3 months," Anything :  threejs, js, html, css, socket io, and p5js ",Anything you want me to create within my knowledge I am willing to complete or attempt. I am always  down for a challenge.,JumaAboke,48 minutes ago,https://replit.com/bounties/@JumaAboke/anything-threejs-js?t=
 76,$0.90,closed,Bug: Website Login Feature,"We are experiencing an issue with our website's login feature. When users try to log in, they are receiving an error message saying that their login credentials are incorrect, even when they are entering the correct information. We need someone to identify the cause of this issue and fix it.
 
 Acceptance Criteria
@@ -786,4 +786,4 @@ Acceptance Criteria
 The login feature is functional and allows users to log in with the correct credentials
 The error message no longer appears when users enter correct login credentials
 The fix does not cause any other issues or break any other parts of the website
-The fix is well-documented and easy to understand",hdbu,6 minutes ago,https://replit.com/bounties/@hdbu/bug-website-login-fe?t=
+The fix is well-documented and easy to understand",hdbu,18 minutes ago,https://replit.com/bounties/@hdbu/bug-website-login-fe?t=
