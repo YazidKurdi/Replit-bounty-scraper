@@ -866,7 +866,7 @@
         "title": "Sawtooth Marketplace Example",
         "description": "Get this public archive to run on a private Repl\nAcceptance Criteria\n      Can run this example with simple instructions\nTechnical Details\n     I prefer to work in Python and will use this example to build further using the Python SDK\nLink to Project\nhttps://github.com/hyperledger/sawtooth-marketplace",
         "author": "SamuelSlusher",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@SamuelSlusher/sawtooth-marketplace?t="
     },
     {
@@ -946,7 +946,7 @@
         "title": "OpenAPI Training UI",
         "description": "I want a python code with simple UI where I can upload a CSV with prompts and completions (2 columns), specify a base-model to fine tune, specify new model name, set other variables (learning rate, epochs, etc), quickly validate the file, upload to OpenAI, run OpenAI fine-tuning, follow progress along the way, and return the fine-tuned model details in the end.\n\nWhen uploading the data:\nFinish every prompt with a separator \\n\\n###\\n\\n\nFinish every completion with ending token\n\nThe relevant documentation is here: https://beta.openai.com/docs/api-reference/files/upload and here https://beta.openai.com/docs/api-reference/fine-tunes/create",
         "author": "ElieHabib",
-        "posted_time": "49 minutes ago",
+        "posted_time": "59 minutes ago",
         "link": "https://replit.com/bounties/@ElieHabib/openapi-training-ui?t="
     },
     {
@@ -956,7 +956,7 @@
         "title": "Deploy ML app on AWS",
         "description": "Deploy a simple ML app to AWS.  We have a Whisper AI + DeepL app that translates + transcribes YouTube videos in bulk. We're looking to deploy it to an AWS instance with GPU optimized for this type of work.\n\nAcceptance Criteria\nThe app is successfully running on AWS instance\nThe app is password protected\nThe app is accessible via domain (we will point the domain per your instructions)",
         "author": "AlexZatvor",
-        "posted_time": "2 minutes ago",
+        "posted_time": "12 minutes ago",
         "link": "https://replit.com/bounties/@AlexZatvor/deploy-ml-app-on-aws?t="
     }
 ]

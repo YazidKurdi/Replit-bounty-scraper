@@ -865,7 +865,7 @@ Acceptance Criteria
 Technical Details
      I prefer to work in Python and will use this example to build further using the Python SDK
 Link to Project
-https://github.com/hyperledger/sawtooth-marketplace",SamuelSlusher,15 hours ago,https://replit.com/bounties/@SamuelSlusher/sawtooth-marketplace?t=
+https://github.com/hyperledger/sawtooth-marketplace",SamuelSlusher,16 hours ago,https://replit.com/bounties/@SamuelSlusher/sawtooth-marketplace?t=
 87,$270.00,due in 12 days,CryptPad Calendar Telegram Bot,"Currently using CryptPad Calendar. Need it connected to a Telegram Bot (2-Way Messaging)
 
 Acceptance Criteria
@@ -912,10 +912,10 @@ When uploading the data:
 Finish every prompt with a separator \n\n###\n\n
 Finish every completion with ending token
 
-The relevant documentation is here: https://beta.openai.com/docs/api-reference/files/upload and here https://beta.openai.com/docs/api-reference/fine-tunes/create",ElieHabib,49 minutes ago,https://replit.com/bounties/@ElieHabib/openapi-training-ui?t=
+The relevant documentation is here: https://beta.openai.com/docs/api-reference/files/upload and here https://beta.openai.com/docs/api-reference/fine-tunes/create",ElieHabib,59 minutes ago,https://replit.com/bounties/@ElieHabib/openapi-training-ui?t=
 95,$45.00,due in 13 days,Deploy ML app on AWS,"Deploy a simple ML app to AWS.  We have a Whisper AI + DeepL app that translates + transcribes YouTube videos in bulk. We're looking to deploy it to an AWS instance with GPU optimized for this type of work.
 
 Acceptance Criteria
 The app is successfully running on AWS instance
 The app is password protected
-The app is accessible via domain (we will point the domain per your instructions)",AlexZatvor,2 minutes ago,https://replit.com/bounties/@AlexZatvor/deploy-ml-app-on-aws?t=
+The app is accessible via domain (we will point the domain per your instructions)",AlexZatvor,12 minutes ago,https://replit.com/bounties/@AlexZatvor/deploy-ml-app-on-aws?t=
