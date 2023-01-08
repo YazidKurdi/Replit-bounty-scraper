@@ -833,7 +833,7 @@ users are authenticated via sso through azure active directory
 2FA through duo
 role A in account #1 is responsible for collecting data across sub accounts; it is read only
 role B in account #2 will be responsible for running the script;
-order of operations: federated user (or an application) assumes role B, role B assumes role A, role A gathers all necessary data, federated user (or an application) ass...",xxyjoel,9 hours ago,https://replit.com/bounties/@xxyjoel/aws-cross-account-ac?t=
+order of operations: federated user (or an application) assumes role B, role B assumes role A, role A gathers all necessary data, federated user (or an application) ass...",xxyjoel,10 hours ago,https://replit.com/bounties/@xxyjoel/aws-cross-account-ac?t=
 83,$0.90,closed,Bug: Mobile Version unstable,"There is a bug in the mobile version of our website that is causing the layout to break and certain elements to overlap. This issue is only present on mobile devices and does not occur on desktop. We need someone to identify and fix this bug.
 
 Acceptance Criteria
@@ -857,7 +857,7 @@ user dashboard - lists in progress events
 management page to create/edit/delete events (title and description)
 
 Timelines / Milestones
-one week",BrandonF7,8 hours ago,https://replit.com/bounties/@BrandonF7/event-selection-web?t=
+one week",BrandonF7,9 hours ago,https://replit.com/bounties/@BrandonF7/event-selection-web?t=
 85,$0.90,closed,Feature: Delete Message,"I've implemented this feature already, just need a quick fix.",hdbu,8 hours ago,https://replit.com/bounties/@hdbu/feature-delete-messa?t=
 86,$27.00,due in 13 days,Sawtooth Marketplace Example,"Get this public archive to run on a private Repl
 Acceptance Criteria
@@ -881,4 +881,4 @@ TG: https://core.telegram.org/bots/api",hyperion335,6 hours ago,https://replit.c
 88,$0.90,due in 4 days,Help with canvas [JAVASCRIPT],"I need some help wih a veerrrt simple thing about js canvas. bekos I am stopiv.
 You csn earn some free cycles!
 
-Goofy ah typo!",MNA4,55 minutes ago,https://replit.com/bounties/@MNA4/help-with-canvas-jav?t=
+Goofy ah typo!",MNA4,1 hour ago,https://replit.com/bounties/@MNA4/help-with-canvas-jav?t=
