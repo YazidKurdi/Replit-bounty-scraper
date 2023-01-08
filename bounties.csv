@@ -858,11 +858,23 @@ management page to create/edit/delete events (title and description)
 
 Timelines / Milestones
 one week",BrandonF7,2 hours ago,https://replit.com/bounties/@BrandonF7/event-selection-web?t=
-85,$0.90,closed,Feature: Delete Message,"I've implemented this feature already, just need a quick fix.",hdbu,1 hour ago,https://replit.com/bounties/@hdbu/feature-delete-messa?t=
+85,$0.90,closed,Feature: Delete Message,"I've implemented this feature already, just need a quick fix.",hdbu,2 hours ago,https://replit.com/bounties/@hdbu/feature-delete-messa?t=
 86,$27.00,due in 13 days,Sawtooth Marketplace Example,"Get this public archive to run on a private Repl
 Acceptance Criteria
       Can run this example with simple instructions
 Technical Details
      I prefer to work in Python and will use this example to build further using the Python SDK
 Link to Project
-https://github.com/hyperledger/sawtooth-marketplace",SamuelSlusher,31 minutes ago,https://replit.com/bounties/@SamuelSlusher/sawtooth-marketplace?t=
+https://github.com/hyperledger/sawtooth-marketplace",SamuelSlusher,49 minutes ago,https://replit.com/bounties/@SamuelSlusher/sawtooth-marketplace?t=
+87,$270.00,due in 13 days,CryptPad Calendar Telegram Bot,"Currently using CryptPad Calendar. Need it connected to a Telegram Bot (2-Way Messaging)
+
+Acceptance Criteria
+Three key features:
+
+Daily Push of {Today} Calendar, including notes within an event (Receive)
+Pre-event alert {1h} for all events (Receive)
+Create Calendar Event from Telegram (Send)
+
+Docs
+CryptPad: https://docs.cryptpad.org/en/
+TG: https://core.telegram.org/bots/api",hyperion335,2 minutes ago,https://replit.com/bounties/@hyperion335/cryptpad-calendar-te?t=
