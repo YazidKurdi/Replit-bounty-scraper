@@ -818,7 +818,7 @@ MUST KNOW DISCOR.JS",OddGames,14 hours ago,https://replit.com/bounties/@OddGames
 
 Acceptance Criteria
 A Python script that loads a webpage using Playwright. No logic needs to be executed on the page.
-A Dockerfile to run the python script in a container. It should also run a cron inside the container to run the python script every 5 minutes",oAkeDCH,13 hours ago,https://replit.com/bounties/@oAkeDCH/python-playwright-cr?t=
+A Dockerfile to run the python script in a container. It should also run a cron inside the container to run the python script every 5 minutes",oAkeDCH,14 hours ago,https://replit.com/bounties/@oAkeDCH/python-playwright-cr?t=
 82,$108.00,due in 3 days,aws cross account access for users federated via  azure AD ,"as a federated user who is authenticated via sso with 2FA enabled i need to be able to switch between aws accounts within an aws organization.
 
 e.g. a federated user needs to assume role A in master payer account (account #1) and role B sub-account (account #2).
@@ -833,7 +833,7 @@ users are authenticated via sso through azure active directory
 2FA through duo
 role A in account #1 is responsible for collecting data across sub accounts; it is read only
 role B in account #2 will be responsible for running the script;
-order of operations: federated user (or an application) assumes role B, role B assumes role A, role A gathers all necessary data, federated user (or an application) ass...",xxyjoel,11 hours ago,https://replit.com/bounties/@xxyjoel/aws-cross-account-ac?t=
+order of operations: federated user (or an application) assumes role B, role B assumes role A, role A gathers all necessary data, federated user (or an application) ass...",xxyjoel,12 hours ago,https://replit.com/bounties/@xxyjoel/aws-cross-account-ac?t=
 83,$0.90,closed,Bug: Mobile Version unstable,"There is a bug in the mobile version of our website that is causing the layout to break and certain elements to overlap. This issue is only present on mobile devices and does not occur on desktop. We need someone to identify and fix this bug.
 
 Acceptance Criteria
@@ -857,7 +857,7 @@ user dashboard - lists in progress events
 management page to create/edit/delete events (title and description)
 
 Timelines / Milestones
-one week",BrandonF7,10 hours ago,https://replit.com/bounties/@BrandonF7/event-selection-web?t=
+one week",BrandonF7,11 hours ago,https://replit.com/bounties/@BrandonF7/event-selection-web?t=
 85,$0.90,closed,Feature: Delete Message,"I've implemented this feature already, just need a quick fix.",hdbu,10 hours ago,https://replit.com/bounties/@hdbu/feature-delete-messa?t=
 86,$27.00,due in 13 days,Sawtooth Marketplace Example,"Get this public archive to run on a private Repl
 Acceptance Criteria
@@ -882,5 +882,5 @@ TG: https://core.telegram.org/bots/api",hyperion335,8 hours ago,https://replit.c
 You csn earn some free cycles!
 
 Goofy ah typo!",MNA4,3 hours ago,https://replit.com/bounties/@MNA4/help-with-canvas-jav?t=
-89,$4.50,due in 14 days,Need Server Mass DM Tool Discord ,Need full custom discord mass dm tool. Paying 500 Cycles for that or maybe more!,ItsLmn5555,1 hour ago,https://replit.com/bounties/@ItsLmn5555/need-server-mass-dm?t=
+89,$4.50,due in 14 days,Need Server Mass DM Tool Discord ,Need full custom discord mass dm tool. Paying 500 Cycles for that or maybe more!,ItsLmn5555,2 hours ago,https://replit.com/bounties/@ItsLmn5555/need-server-mass-dm?t=
 90,$4.50,due in 14 days,Mass Bot Adder Discord Tool,Need custom mass bot adder in server tool. Which can add bot to server by solving hCaptcha automatically!,ItsLmn5555,1 hour ago,https://replit.com/bounties/@ItsLmn5555/mass-bot-adder-disco?t=
