@@ -31,5 +31,6 @@ jobs:
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add bounties.csv
+          git add bounties.json
           git commit -m "Updated bounties on `date` with GitHub Actions" || echo "No Changes to Commit"
           git push origin master || echo "No Changes to Commit"
