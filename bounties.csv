@@ -814,7 +814,7 @@ Acceptance Criteria
 Must have a discord account in the application or linked to your replit account
 
 MUST KNOW DISCOR.JS",OddGames,14 hours ago,https://replit.com/bounties/@OddGames/discord-bot-less-tha?t=
-81,$9.00,due in 3 days,Python + Playwright Cron in Docker Container,"I need a Docker container that runs a python script to execute playwright. The docker container should run a cron job inside to run the python script every 5 minutes.
+81,$9.00,closed,Python + Playwright Cron in Docker Container,"I need a Docker container that runs a python script to execute playwright. The docker container should run a cron job inside to run the python script every 5 minutes.
 
 Acceptance Criteria
 A Python script that loads a webpage using Playwright. No logic needs to be executed on the page.
@@ -865,7 +865,7 @@ Acceptance Criteria
 Technical Details
      I prefer to work in Python and will use this example to build further using the Python SDK
 Link to Project
-https://github.com/hyperledger/sawtooth-marketplace",SamuelSlusher,8 hours ago,https://replit.com/bounties/@SamuelSlusher/sawtooth-marketplace?t=
+https://github.com/hyperledger/sawtooth-marketplace",SamuelSlusher,9 hours ago,https://replit.com/bounties/@SamuelSlusher/sawtooth-marketplace?t=
 87,$270.00,due in 13 days,CryptPad Calendar Telegram Bot,"Currently using CryptPad Calendar. Need it connected to a Telegram Bot (2-Way Messaging)
 
 Acceptance Criteria
@@ -882,5 +882,5 @@ TG: https://core.telegram.org/bots/api",hyperion335,8 hours ago,https://replit.c
 You csn earn some free cycles!
 
 Goofy ah typo!",MNA4,2 hours ago,https://replit.com/bounties/@MNA4/help-with-canvas-jav?t=
-89,$4.50,due in 14 days,Need Server Mass DM Tool Discord ,Need full custom discord mass dm tool. Paying 500 Cycles for that or maybe more!,ItsLmn5555,51 minutes ago,https://replit.com/bounties/@ItsLmn5555/need-server-mass-dm?t=
-90,$4.50,due in 14 days,Mass Bot Adder Discord Tool,Need custom mass bot adder in server tool. Which can add bot to server by solving hCaptcha automatically!,ItsLmn5555,43 minutes ago,https://replit.com/bounties/@ItsLmn5555/mass-bot-adder-disco?t=
+89,$4.50,due in 14 days,Need Server Mass DM Tool Discord ,Need full custom discord mass dm tool. Paying 500 Cycles for that or maybe more!,ItsLmn5555,1 hour ago,https://replit.com/bounties/@ItsLmn5555/need-server-mass-dm?t=
+90,$4.50,due in 14 days,Mass Bot Adder Discord Tool,Need custom mass bot adder in server tool. Which can add bot to server by solving hCaptcha automatically!,ItsLmn5555,54 minutes ago,https://replit.com/bounties/@ItsLmn5555/mass-bot-adder-disco?t=
