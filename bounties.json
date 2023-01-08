@@ -876,7 +876,7 @@
         "title": "CryptPad Calendar Telegram Bot",
         "description": "Currently using CryptPad Calendar. Need it connected to a Telegram Bot (2-Way Messaging)\n\nAcceptance Criteria\nThree key features:\n\nDaily Push of {Today} Calendar, including notes within an event (Receive)\nPre-event alert {1h} for all events (Receive)\nCreate Calendar Event from Telegram (Send)\n\nDocs\nCryptPad: https://docs.cryptpad.org/en/\nTG: https://core.telegram.org/bots/api",
         "author": "hyperion335",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@hyperion335/cryptpad-calendar-te?t="
     },
     {
@@ -926,7 +926,7 @@
         "title": "CarGurus Webscraper",
         "description": "Trying to learn web scraping.  Want someone to build code (in python) for a scraper that  grabs and saves the model, year, miles, location and price of a specific car model on Cargurus and saves it to a replitdb.  Also want it to print same data to the console.  Should be able to scrape across multiple pages.\n\nThink it is pretty quick if you know beautifulsoup and maybe selenium.  Agnostic on what libraries you use.  Still figuring it out and will learn faster if I can see it done correctly.  Thanks!",
         "author": "mbeek",
-        "posted_time": "53 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@mbeek/cargurus-webscraper?t="
     },
     {
@@ -936,7 +936,7 @@
         "title": "Fictional web shop",
         "description": "This is an art project. I want a beautiful looking website where people can list fictional products and interact with fictional products in the hope that someone shall create the products.\n\nAcceptance Criteria\n\nUsers can register, sign in.\nUsers can create a listing which has a title, price and a free text field in markdown.\nUsers can include images in the markdown description.\nUsers can comment on product\nUsers can leave fictional reviews\nUsers can create product specification table in markdown\n\nFor ideas, see Kickstarter",
         "author": "Chronological",
-        "posted_time": "2 minutes ago",
+        "posted_time": "15 minutes ago",
         "link": "https://replit.com/bounties/@Chronological/fictional-web-shop?t="
     }
 ]
