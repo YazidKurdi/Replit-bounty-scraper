@@ -886,7 +886,7 @@
         "title": "Help with canvas [JAVASCRIPT]",
         "description": "I need some help wih a veerrrt simple thing about js canvas. bekos I am stopiv.\nYou csn earn some free cycles!\n\nGoofy ah typo!",
         "author": "MNA4",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@MNA4/help-with-canvas-jav?t="
     },
     {
@@ -936,7 +936,7 @@
         "title": "Fictional web shop",
         "description": "This is an art project. I want a beautiful looking website where people can list fictional products and interact with fictional products in the hope that someone shall create the products.\n\nAcceptance Criteria\n\nUsers can register, sign in.\nUsers can create a listing which has a title, price and a free text field in markdown.\nUsers can include images in the markdown description.\nUsers can comment on product\nUsers can leave fictional reviews\nUsers can create product specification table in markdown\n\nFor ideas, see Kickstarter",
         "author": "Chronological",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@Chronological/fictional-web-shop?t="
     },
     {
@@ -966,7 +966,7 @@
         "title": "App for Podcast with AI host",
         "description": "I'd like to make a web app where where a GPT-based AI bot interviews guests and produces a podcast. I believe this should be built using OpenAI's GPT-3 and Whisper models, and trained on transcripts of existing interviews, but I'm open to other approaches.\n\nAcceptance Criteria\nWebsite where someone can sign up to be interviewed\nThe Podcast bot should be able to respond to style prompts for the host - e.g. \"30 minute interview, focused on the guest's childhood; interviewer is a 45 year old male from Oklahoma with a background in education.\" or \"45 minute interview, wide ranging from sports to entertainment and popular culture; interviewer is a creative 25 year old woman from London\"\nThere should also be an ability for an admin to input those prompts, which creates a link that can be sent to a Guest to be interviewed.\nthe end product should be a finished podcast ready to be published on a podcasting platform\na full transcript should also be produced\nshow notes should ...",
         "author": "metalburritos",
-        "posted_time": "18 minutes ago",
+        "posted_time": "34 minutes ago",
         "link": "https://replit.com/bounties/@metalburritos/podcast-with-ai-host?t="
     }
 ]
