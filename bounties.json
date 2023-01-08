@@ -866,7 +866,7 @@
         "title": "Sawtooth Marketplace Example",
         "description": "Get this public archive to run on a private Repl\nAcceptance Criteria\n      Can run this example with simple instructions\nTechnical Details\n     I prefer to work in Python and will use this example to build further using the Python SDK\nLink to Project\nhttps://github.com/hyperledger/sawtooth-marketplace",
         "author": "SamuelSlusher",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@SamuelSlusher/sawtooth-marketplace?t="
     },
     {
@@ -926,7 +926,7 @@
         "title": "CarGurus Webscraper",
         "description": "Trying to learn web scraping.  Want someone to build code (in python) for a scraper that  grabs and saves the model, year, miles, location and price of a specific car model on Cargurus and saves it to a replitdb.  Also want it to print same data to the console.  Should be able to scrape across multiple pages.\n\nThink it is pretty quick if you know beautifulsoup and maybe selenium.  Agnostic on what libraries you use.  Still figuring it out and will learn faster if I can see it done correctly.  Thanks!",
         "author": "mbeek",
-        "posted_time": "3 minutes ago",
+        "posted_time": "12 minutes ago",
         "link": "https://replit.com/bounties/@mbeek/cargurus-webscraper?t="
     }
 ]
