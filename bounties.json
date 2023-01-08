@@ -896,7 +896,7 @@
         "title": "Need Server Mass DM Tool Discord ",
         "description": "Need full custom discord mass dm tool. Paying 500 Cycles for that or maybe more!",
         "author": "ItsLmn5555",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@ItsLmn5555/need-server-mass-dm?t="
     },
     {
@@ -946,7 +946,7 @@
         "title": "OpenAPI Training UI",
         "description": "I want a python code with simple UI where I can upload a CSV with prompts and completions (2 columns), specify a base-model to fine tune, specify new model name, set other variables (learning rate, epochs, etc), quickly validate the file, upload to OpenAI, run OpenAI fine-tuning, follow progress along the way, and return the fine-tuned model details in the end.\n\nWhen uploading the data:\nFinish every prompt with a separator \\n\\n###\\n\\n\nFinish every completion with ending token\n\nThe relevant documentation is here: https://beta.openai.com/docs/api-reference/files/upload and here https://beta.openai.com/docs/api-reference/fine-tunes/create",
         "author": "ElieHabib",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@ElieHabib/openapi-training-ui?t="
     },
     {
