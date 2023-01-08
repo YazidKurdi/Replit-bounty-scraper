@@ -841,7 +841,7 @@ Acceptance Criteria
 The layout of the mobile version of the website is correct and all elements are displayed properly
 The overlap issue is resolved
 The fix does not cause any other issues or break any other parts of the mobile website
-The fix is well-documented and easy to understand",hdbu,13 hours ago,https://replit.com/bounties/@hdbu/bug-mobile-version-u?t=
+The fix is well-documented and easy to understand",hdbu,14 hours ago,https://replit.com/bounties/@hdbu/bug-mobile-version-u?t=
 84,$180.00,due in 5 days,Event Selection Web Service,"web application where users can create an event. When event(10 day event) is created users can choose from two options. One, daily email. Second, calendar invite with ten consecutive days. Free users get access to limited list of events. Paid users get access to all events. Collect information on what they want to learn from event. When event is created user can share social media (twitter/Facebook) that they started an event. When event has completed user can share on social media that they completed event.
 
 Acceptance Criteria
@@ -890,4 +890,4 @@ Acceptance Criteria
 
 The item quantities in the shopping cart update correctly and the total price reflects the changes
 The fix does not cause any other issues or break any other parts of the shopping cart feature
-The fix is well-documented and easy to understand",hdbu,1 hour ago,https://replit.com/bounties/@hdbu/bug-shopping-cart?t=
+The fix is well-documented and easy to understand",hdbu,2 hours ago,https://replit.com/bounties/@hdbu/bug-shopping-cart?t=

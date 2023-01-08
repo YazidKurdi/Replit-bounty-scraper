@@ -836,7 +836,7 @@
         "title": "Bug: Mobile Version unstable",
         "description": "There is a bug in the mobile version of our website that is causing the layout to break and certain elements to overlap. This issue is only present on mobile devices and does not occur on desktop. We need someone to identify and fix this bug.\n\nAcceptance Criteria\n\nThe layout of the mobile version of the website is correct and all elements are displayed properly\nThe overlap issue is resolved\nThe fix does not cause any other issues or break any other parts of the mobile website\nThe fix is well-documented and easy to understand",
         "author": "hdbu",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@hdbu/bug-mobile-version-u?t="
     },
     {
@@ -916,7 +916,7 @@
         "title": "Bug: Shopping Cart",
         "description": "There is a bug in the shopping cart feature of our website that is causing the item quantities to not update correctly. When a user increases the quantity of an item in their cart, the total price does not update to reflect the change. We need someone to find and fix this bug.\n\nAcceptance Criteria\n\nThe item quantities in the shopping cart update correctly and the total price reflects the changes\nThe fix does not cause any other issues or break any other parts of the shopping cart feature\nThe fix is well-documented and easy to understand",
         "author": "hdbu",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@hdbu/bug-shopping-cart?t="
     }
 ]
