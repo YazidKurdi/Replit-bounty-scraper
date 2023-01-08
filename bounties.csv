@@ -793,7 +793,7 @@ Acceptance Criteria
 The main goal is to create a business bot that is able to provide any business-related answer, leveraging GPT-3 and fine-tuning the content on a blog.",GennaroCuofano,13 hours ago,https://replit.com/bounties/@GennaroCuofano/ai-powered-chatbot-t?t=
 78,$2.70,closed,Create script to upload multiple files in site,"I have a site on which I can upload one file at a time through a modal/api.
 
-I would like to create a script on the client side which can upload multiple files the same way. It can be a simple script I can run on the browser Console, or a chrome extension.",CoderGautamYT,11 hours ago,https://replit.com/bounties/@CoderGautamYT/create-script-to-upl?t=
+I would like to create a script on the client side which can upload multiple files the same way. It can be a simple script I can run on the browser Console, or a chrome extension.",CoderGautamYT,12 hours ago,https://replit.com/bounties/@CoderGautamYT/create-script-to-upl?t=
 79,$900.00,due in 3 months,ActivityPub Integration with Minds,"Minds is looking to support ActivityPub in a similar level to Pleroma or Mastodon in order to join the fediverse. Some initial work has been started, which may or may not be helpful.
 
 Acceptance Criteria
@@ -808,7 +808,7 @@ https://developers.minds.com
 
 Link to Project
 
-https://gitlab.com/minds/minds/-/issues/90",mindsorg,10 hours ago,https://replit.com/bounties/@mindsorg/activitypub-integrat?t=
+https://gitlab.com/minds/minds/-/issues/90",mindsorg,11 hours ago,https://replit.com/bounties/@mindsorg/activitypub-integrat?t=
 80,$0.90,due in 12 days,[Discord bot] [Less than 3 minutes] Add a footer to bot,"I need someone to add a footer to my discord bots embed and set the bots about me!
 Acceptance Criteria
 Must have a discord account in the application or linked to your replit account
@@ -818,7 +818,7 @@ MUST KNOW DISCOR.JS",OddGames,7 hours ago,https://replit.com/bounties/@OddGames/
 
 Acceptance Criteria
 A Python script that loads a webpage using Playwright. No logic needs to be executed on the page.
-A Dockerfile to run the python script in a container. It should also run a cron inside the container to run the python script every 5 minutes",oAkeDCH,5 hours ago,https://replit.com/bounties/@oAkeDCH/python-playwright-cr?t=
+A Dockerfile to run the python script in a container. It should also run a cron inside the container to run the python script every 5 minutes",oAkeDCH,6 hours ago,https://replit.com/bounties/@oAkeDCH/python-playwright-cr?t=
 82,$108.00,due in 3 days,aws cross account access for users federated via  azure AD ,"as a federated user who is authenticated via sso with 2FA enabled i need to be able to switch between aws accounts within an aws organization.
 
 e.g. a federated user needs to assume role A in master payer account (account #1) and role B sub-account (account #2).
@@ -833,7 +833,7 @@ users are authenticated via sso through azure active directory
 2FA through duo
 role A in account #1 is responsible for collecting data across sub accounts; it is read only
 role B in account #2 will be responsible for running the script;
-order of operations: federated user (or an application) assumes role B, role B assumes role A, role A gathers all necessary data, federated user (or an application) ass...",xxyjoel,3 hours ago,https://replit.com/bounties/@xxyjoel/aws-cross-account-ac?t=
+order of operations: federated user (or an application) assumes role B, role B assumes role A, role A gathers all necessary data, federated user (or an application) ass...",xxyjoel,4 hours ago,https://replit.com/bounties/@xxyjoel/aws-cross-account-ac?t=
 83,$0.90,closed,Bug: Mobile Version unstable,"There is a bug in the mobile version of our website that is causing the layout to break and certain elements to overlap. This issue is only present on mobile devices and does not occur on desktop. We need someone to identify and fix this bug.
 
 Acceptance Criteria
@@ -841,7 +841,7 @@ Acceptance Criteria
 The layout of the mobile version of the website is correct and all elements are displayed properly
 The overlap issue is resolved
 The fix does not cause any other issues or break any other parts of the mobile website
-The fix is well-documented and easy to understand",hdbu,2 hours ago,https://replit.com/bounties/@hdbu/bug-mobile-version-u?t=
+The fix is well-documented and easy to understand",hdbu,3 hours ago,https://replit.com/bounties/@hdbu/bug-mobile-version-u?t=
 84,$180.00,due in 6 days,Event Selection Web Service,"web application where users can create an event. When event(10 day event) is created users can choose from two options. One, daily email. Second, calendar invite with ten consecutive days. Free users get access to limited list of events. Paid users get access to all events. Collect information on what they want to learn from event. When event is created user can share social media (twitter/Facebook) that they started an event. When event has completed user can share on social media that they completed event.
 
 Acceptance Criteria
@@ -857,7 +857,7 @@ user dashboard - lists in progress events
 management page to create/edit/delete events (title and description)
 
 Timelines / Milestones
-one week",BrandonF7,2 hours ago,https://replit.com/bounties/@BrandonF7/event-selection-web?t=
+one week",BrandonF7,3 hours ago,https://replit.com/bounties/@BrandonF7/event-selection-web?t=
 85,$0.90,closed,Feature: Delete Message,"I've implemented this feature already, just need a quick fix.",hdbu,2 hours ago,https://replit.com/bounties/@hdbu/feature-delete-messa?t=
 86,$27.00,due in 13 days,Sawtooth Marketplace Example,"Get this public archive to run on a private Repl
 Acceptance Criteria
@@ -865,7 +865,7 @@ Acceptance Criteria
 Technical Details
      I prefer to work in Python and will use this example to build further using the Python SDK
 Link to Project
-https://github.com/hyperledger/sawtooth-marketplace",SamuelSlusher,49 minutes ago,https://replit.com/bounties/@SamuelSlusher/sawtooth-marketplace?t=
+https://github.com/hyperledger/sawtooth-marketplace",SamuelSlusher,1 hour ago,https://replit.com/bounties/@SamuelSlusher/sawtooth-marketplace?t=
 87,$270.00,due in 13 days,CryptPad Calendar Telegram Bot,"Currently using CryptPad Calendar. Need it connected to a Telegram Bot (2-Way Messaging)
 
 Acceptance Criteria
@@ -877,4 +877,4 @@ Create Calendar Event from Telegram (Send)
 
 Docs
 CryptPad: https://docs.cryptpad.org/en/
-TG: https://core.telegram.org/bots/api",hyperion335,2 minutes ago,https://replit.com/bounties/@hyperion335/cryptpad-calendar-te?t=
+TG: https://core.telegram.org/bots/api",hyperion335,18 minutes ago,https://replit.com/bounties/@hyperion335/cryptpad-calendar-te?t=
