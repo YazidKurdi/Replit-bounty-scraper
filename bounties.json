@@ -866,7 +866,7 @@
         "title": "Sawtooth Marketplace Example",
         "description": "Get this public archive to run on a private Repl\nAcceptance Criteria\n      Can run this example with simple instructions\nTechnical Details\n     I prefer to work in Python and will use this example to build further using the Python SDK\nLink to Project\nhttps://github.com/hyperledger/sawtooth-marketplace",
         "author": "SamuelSlusher",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@SamuelSlusher/sawtooth-marketplace?t="
     },
     {
@@ -936,7 +936,17 @@
         "title": "Fictional web shop",
         "description": "This is an art project. I want a beautiful looking website where people can list fictional products and interact with fictional products in the hope that someone shall create the products.\n\nAcceptance Criteria\n\nUsers can register, sign in.\nUsers can create a listing which has a title, price and a free text field in markdown.\nUsers can include images in the markdown description.\nUsers can comment on product\nUsers can leave fictional reviews\nUsers can create product specification table in markdown\n\nFor ideas, see Kickstarter",
         "author": "Chronological",
-        "posted_time": "15 minutes ago",
+        "posted_time": "23 minutes ago",
         "link": "https://replit.com/bounties/@Chronological/fictional-web-shop?t="
+    },
+    {
+        "index": "94",
+        "price": "$45.00",
+        "due_days": "due in 6 days",
+        "title": "OpenAPI Training UI",
+        "description": "I want a python code with simple UI where I can upload a CSV with prompts and completions (2 columns), specify a base-model to fine tune, specify new model name, set other variables (learning rate, epochs, etc), quickly validate the file, upload to OpenAI, run OpenAI fine-tuning, follow progress along the way, and return the fine-tuned model details in the end.\n\nWhen uploading the data:\nFinish every prompt with a separator \\n\\n###\\n\\n\nFinish every completion with ending token\n\nThe relevant documentation is here: https://beta.openai.com/docs/api-reference/files/upload and here https://beta.openai.com/docs/api-reference/fine-tunes/create",
+        "author": "ElieHabib",
+        "posted_time": "10 seconds ago",
+        "link": "https://replit.com/bounties/@ElieHabib/openapi-training-ui?t="
     }
 ]

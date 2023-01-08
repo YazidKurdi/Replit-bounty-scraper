@@ -865,7 +865,7 @@ Acceptance Criteria
 Technical Details
      I prefer to work in Python and will use this example to build further using the Python SDK
 Link to Project
-https://github.com/hyperledger/sawtooth-marketplace",SamuelSlusher,14 hours ago,https://replit.com/bounties/@SamuelSlusher/sawtooth-marketplace?t=
+https://github.com/hyperledger/sawtooth-marketplace",SamuelSlusher,15 hours ago,https://replit.com/bounties/@SamuelSlusher/sawtooth-marketplace?t=
 87,$270.00,due in 12 days,CryptPad Calendar Telegram Bot,"Currently using CryptPad Calendar. Need it connected to a Telegram Bot (2-Way Messaging)
 
 Acceptance Criteria
@@ -905,4 +905,11 @@ Users can comment on product
 Users can leave fictional reviews
 Users can create product specification table in markdown
 
-For ideas, see Kickstarter",Chronological,15 minutes ago,https://replit.com/bounties/@Chronological/fictional-web-shop?t=
+For ideas, see Kickstarter",Chronological,23 minutes ago,https://replit.com/bounties/@Chronological/fictional-web-shop?t=
+94,$45.00,due in 6 days,OpenAPI Training UI,"I want a python code with simple UI where I can upload a CSV with prompts and completions (2 columns), specify a base-model to fine tune, specify new model name, set other variables (learning rate, epochs, etc), quickly validate the file, upload to OpenAI, run OpenAI fine-tuning, follow progress along the way, and return the fine-tuned model details in the end.
+
+When uploading the data:
+Finish every prompt with a separator \n\n###\n\n
+Finish every completion with ending token
+
+The relevant documentation is here: https://beta.openai.com/docs/api-reference/files/upload and here https://beta.openai.com/docs/api-reference/fine-tunes/create",ElieHabib,10 seconds ago,https://replit.com/bounties/@ElieHabib/openapi-training-ui?t=
