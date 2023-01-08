@@ -912,11 +912,11 @@
     {
         "index": "91",
         "price": "$0.90",
-        "due_days": "due in 13 days",
+        "due_days": "closed",
         "title": "Bug: Shopping Cart",
         "description": "There is a bug in the shopping cart feature of our website that is causing the item quantities to not update correctly. When a user increases the quantity of an item in their cart, the total price does not update to reflect the change. We need someone to find and fix this bug.\n\nAcceptance Criteria\n\nThe item quantities in the shopping cart update correctly and the total price reflects the changes\nThe fix does not cause any other issues or break any other parts of the shopping cart feature\nThe fix is well-documented and easy to understand",
         "author": "hdbu",
-        "posted_time": "1 minute ago",
+        "posted_time": "6 minutes ago",
         "link": "https://replit.com/bounties/@hdbu/bug-shopping-cart?t="
     }
 ]
