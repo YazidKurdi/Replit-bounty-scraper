@@ -906,7 +906,7 @@
         "title": "Mass Bot Adder Discord Tool",
         "description": "Need custom mass bot adder in server tool. Which can add bot to server by solving hCaptcha automatically!",
         "author": "ItsLmn5555",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@ItsLmn5555/mass-bot-adder-disco?t="
     },
     {
@@ -956,7 +956,7 @@
         "title": "Deploy ML app on AWS",
         "description": "Deploy a simple ML app to AWS.  We have a Whisper AI + DeepL app that translates + transcribes YouTube videos in bulk. We're looking to deploy it to an AWS instance with GPU optimized for this type of work.\n\nAcceptance Criteria\nThe app is successfully running on AWS instance\nThe app is password protected\nThe app is accessible via domain (we will point the domain per your instructions)",
         "author": "AlexZatvor",
-        "posted_time": "47 minutes ago",
+        "posted_time": "56 minutes ago",
         "link": "https://replit.com/bounties/@AlexZatvor/deploy-ml-app-on-aws?t="
     }
 ]
