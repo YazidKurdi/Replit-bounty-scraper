@@ -876,7 +876,7 @@
         "title": "CryptPad Calendar Telegram Bot",
         "description": "Currently using CryptPad Calendar. Need it connected to a Telegram Bot (2-Way Messaging)\n\nAcceptance Criteria\nThree key features:\n\nDaily Push of {Today} Calendar, including notes within an event (Receive)\nPre-event alert {1h} for all events (Receive)\nCreate Calendar Event from Telegram (Send)\n\nDocs\nCryptPad: https://docs.cryptpad.org/en/\nTG: https://core.telegram.org/bots/api",
         "author": "hyperion335",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@hyperion335/cryptpad-calendar-te?t="
     },
     {
@@ -918,5 +918,15 @@
         "author": "hdbu",
         "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@hdbu/bug-shopping-cart?t="
+    },
+    {
+        "index": "92",
+        "price": "$10.80",
+        "due_days": "due in 13 days",
+        "title": "CarGurus Webscraper",
+        "description": "Trying to learn web scraping.  Want someone to build code (in python) for a scraper that  grabs and saves the model, year, miles, location and price of a specific car model on Cargurus and saves it to a replitdb.  Also want it to print same data to the console.  Should be able to scrape across multiple pages.\n\nThink it is pretty quick if you know beautifulsoup and maybe selenium.  Agnostic on what libraries you use.  Still figuring it out and will learn faster if I can see it done correctly.  Thanks!",
+        "author": "mbeek",
+        "posted_time": "3 minutes ago",
+        "link": "https://replit.com/bounties/@mbeek/cargurus-webscraper?t="
     }
 ]

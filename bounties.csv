@@ -877,7 +877,7 @@ Create Calendar Event from Telegram (Send)
 
 Docs
 CryptPad: https://docs.cryptpad.org/en/
-TG: https://core.telegram.org/bots/api",hyperion335,12 hours ago,https://replit.com/bounties/@hyperion335/cryptpad-calendar-te?t=
+TG: https://core.telegram.org/bots/api",hyperion335,13 hours ago,https://replit.com/bounties/@hyperion335/cryptpad-calendar-te?t=
 88,$0.90,due in 3 days,Help with canvas [JAVASCRIPT],"I need some help wih a veerrrt simple thing about js canvas. bekos I am stopiv.
 You csn earn some free cycles!
 
@@ -891,3 +891,6 @@ Acceptance Criteria
 The item quantities in the shopping cart update correctly and the total price reflects the changes
 The fix does not cause any other issues or break any other parts of the shopping cart feature
 The fix is well-documented and easy to understand",hdbu,3 hours ago,https://replit.com/bounties/@hdbu/bug-shopping-cart?t=
+92,$10.80,due in 13 days,CarGurus Webscraper,"Trying to learn web scraping.  Want someone to build code (in python) for a scraper that  grabs and saves the model, year, miles, location and price of a specific car model on Cargurus and saves it to a replitdb.  Also want it to print same data to the console.  Should be able to scrape across multiple pages.
+
+Think it is pretty quick if you know beautifulsoup and maybe selenium.  Agnostic on what libraries you use.  Still figuring it out and will learn faster if I can see it done correctly.  Thanks!",mbeek,3 minutes ago,https://replit.com/bounties/@mbeek/cargurus-webscraper?t=
