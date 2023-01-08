@@ -2,6 +2,7 @@ import os
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+from to_csv import csv_to_json
 
 def scrape_bounties():
 
@@ -56,3 +57,4 @@ def scrape_bounties():
             df = pd.concat([df, new_row], ignore_index=True)
 
     df.to_csv('bounties.csv',index = True,index_label="index")
+    csv_to_json("bounties.csv","bounties.json")
