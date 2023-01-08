@@ -876,7 +876,7 @@
         "title": "CryptPad Calendar Telegram Bot",
         "description": "Currently using CryptPad Calendar. Need it connected to a Telegram Bot (2-Way Messaging)\n\nAcceptance Criteria\nThree key features:\n\nDaily Push of {Today} Calendar, including notes within an event (Receive)\nPre-event alert {1h} for all events (Receive)\nCreate Calendar Event from Telegram (Send)\n\nDocs\nCryptPad: https://docs.cryptpad.org/en/\nTG: https://core.telegram.org/bots/api",
         "author": "hyperion335",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@hyperion335/cryptpad-calendar-te?t="
     },
     {
@@ -958,5 +958,15 @@
         "author": "AlexZatvor",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@AlexZatvor/deploy-ml-app-on-aws?t="
+    },
+    {
+        "index": "96",
+        "price": "$1,800.00",
+        "due_days": "due in 12 days",
+        "title": "App for Podcast with AI host",
+        "description": "I'd like to make a web app where where a GPT-based AI bot interviews guests and produces a podcast. I believe this should be built using OpenAI's GPT-3 and Whisper models, and trained on transcripts of existing interviews, but I'm open to other approaches.\n\nAcceptance Criteria\nWebsite where someone can sign up to be interviewed\nThe Podcast bot should be able to respond to style prompts for the host - e.g. \"30 minute interview, focused on the guest's childhood; interviewer is a 45 year old male from Oklahoma with a background in education.\" or \"45 minute interview, wide ranging from sports to entertainment and popular culture; interviewer is a creative 25 year old woman from London\"\nThere should also be an ability for an admin to input those prompts, which creates a link that can be sent to a Guest to be interviewed.\nthe end product should be a finished podcast ready to be published on a podcasting platform\na full transcript should also be produced\nshow notes should ...",
+        "author": "metalburritos",
+        "posted_time": "9 minutes ago",
+        "link": "https://replit.com/bounties/@metalburritos/podcast-with-ai-host?t="
     }
 ]

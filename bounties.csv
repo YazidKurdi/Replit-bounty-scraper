@@ -877,7 +877,7 @@ Create Calendar Event from Telegram (Send)
 
 Docs
 CryptPad: https://docs.cryptpad.org/en/
-TG: https://core.telegram.org/bots/api",hyperion335,16 hours ago,https://replit.com/bounties/@hyperion335/cryptpad-calendar-te?t=
+TG: https://core.telegram.org/bots/api",hyperion335,17 hours ago,https://replit.com/bounties/@hyperion335/cryptpad-calendar-te?t=
 88,$0.90,due in 3 days,Help with canvas [JAVASCRIPT],"I need some help wih a veerrrt simple thing about js canvas. bekos I am stopiv.
 You csn earn some free cycles!
 
@@ -919,3 +919,12 @@ Acceptance Criteria
 The app is successfully running on AWS instance
 The app is password protected
 The app is accessible via domain (we will point the domain per your instructions)",AlexZatvor,2 hours ago,https://replit.com/bounties/@AlexZatvor/deploy-ml-app-on-aws?t=
+96,"$1,800.00",due in 12 days,App for Podcast with AI host,"I'd like to make a web app where where a GPT-based AI bot interviews guests and produces a podcast. I believe this should be built using OpenAI's GPT-3 and Whisper models, and trained on transcripts of existing interviews, but I'm open to other approaches.
+
+Acceptance Criteria
+Website where someone can sign up to be interviewed
+The Podcast bot should be able to respond to style prompts for the host - e.g. ""30 minute interview, focused on the guest's childhood; interviewer is a 45 year old male from Oklahoma with a background in education."" or ""45 minute interview, wide ranging from sports to entertainment and popular culture; interviewer is a creative 25 year old woman from London""
+There should also be an ability for an admin to input those prompts, which creates a link that can be sent to a Guest to be interviewed.
+the end product should be a finished podcast ready to be published on a podcasting platform
+a full transcript should also be produced
+show notes should ...",metalburritos,9 minutes ago,https://replit.com/bounties/@metalburritos/podcast-with-ai-host?t=
