@@ -886,7 +886,7 @@
         "title": "Help with canvas [JAVASCRIPT]",
         "description": "I need some help wih a veerrrt simple thing about js canvas. bekos I am stopiv.\nYou csn earn some free cycles!\n\nGoofy ah typo!",
         "author": "MNA4",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@MNA4/help-with-canvas-jav?t="
     },
     {
@@ -916,7 +916,7 @@
         "title": "Bug: Shopping Cart",
         "description": "There is a bug in the shopping cart feature of our website that is causing the item quantities to not update correctly. When a user increases the quantity of an item in their cart, the total price does not update to reflect the change. We need someone to find and fix this bug.\n\nAcceptance Criteria\n\nThe item quantities in the shopping cart update correctly and the total price reflects the changes\nThe fix does not cause any other issues or break any other parts of the shopping cart feature\nThe fix is well-documented and easy to understand",
         "author": "hdbu",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@hdbu/bug-shopping-cart?t="
     },
     {
@@ -936,7 +936,7 @@
         "title": "Fictional web shop",
         "description": "This is an art project. I want a beautiful looking website where people can list fictional products and interact with fictional products in the hope that someone shall create the products.\n\nAcceptance Criteria\n\nUsers can register, sign in.\nUsers can create a listing which has a title, price and a free text field in markdown.\nUsers can include images in the markdown description.\nUsers can comment on product\nUsers can leave fictional reviews\nUsers can create product specification table in markdown\n\nFor ideas, see Kickstarter",
         "author": "Chronological",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@Chronological/fictional-web-shop?t="
     },
     {
@@ -946,7 +946,7 @@
         "title": "OpenAPI Training UI",
         "description": "I want a python code with simple UI where I can upload a CSV with prompts and completions (2 columns), specify a base-model to fine tune, specify new model name, set other variables (learning rate, epochs, etc), quickly validate the file, upload to OpenAI, run OpenAI fine-tuning, follow progress along the way, and return the fine-tuned model details in the end.\n\nWhen uploading the data:\nFinish every prompt with a separator \\n\\n###\\n\\n\nFinish every completion with ending token\n\nThe relevant documentation is here: https://beta.openai.com/docs/api-reference/files/upload and here https://beta.openai.com/docs/api-reference/fine-tunes/create",
         "author": "ElieHabib",
-        "posted_time": "59 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@ElieHabib/openapi-training-ui?t="
     },
     {
@@ -956,7 +956,7 @@
         "title": "Deploy ML app on AWS",
         "description": "Deploy a simple ML app to AWS.  We have a Whisper AI + DeepL app that translates + transcribes YouTube videos in bulk. We're looking to deploy it to an AWS instance with GPU optimized for this type of work.\n\nAcceptance Criteria\nThe app is successfully running on AWS instance\nThe app is password protected\nThe app is accessible via domain (we will point the domain per your instructions)",
         "author": "AlexZatvor",
-        "posted_time": "12 minutes ago",
+        "posted_time": "29 minutes ago",
         "link": "https://replit.com/bounties/@AlexZatvor/deploy-ml-app-on-aws?t="
     }
 ]
