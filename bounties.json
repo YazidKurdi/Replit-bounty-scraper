@@ -846,7 +846,7 @@
         "title": "Event Selection Web Service",
         "description": "web application where users can create an event. When event(10 day event) is created users can choose from two options. One, daily email. Second, calendar invite with ten consecutive days. Free users get access to limited list of events. Paid users get access to all events. Collect information on what they want to learn from event. When event is created user can share social media (twitter/Facebook) that they started an event. When event has completed user can share on social media that they completed event.\n\nAcceptance Criteria\nall webpages and backend verified\n\nTechnical Details\nlanding page\ngoogle authentication\nstripe integration\nevents page (two sections; free and paid)\nevent details page - collects information about user (goal of event)\nuser dashboard - lists in progress events\nmanagement page to create/edit/delete events (title and description)\n\nTimelines / Milestones\none week",
         "author": "BrandonF7",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@BrandonF7/event-selection-web?t="
     },
     {
@@ -896,7 +896,7 @@
         "title": "Need Server Mass DM Tool Discord ",
         "description": "Need full custom discord mass dm tool. Paying 500 Cycles for that or maybe more!",
         "author": "ItsLmn5555",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@ItsLmn5555/need-server-mass-dm?t="
     },
     {
@@ -906,7 +906,7 @@
         "title": "Mass Bot Adder Discord Tool",
         "description": "Need custom mass bot adder in server tool. Which can add bot to server by solving hCaptcha automatically!",
         "author": "ItsLmn5555",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@ItsLmn5555/mass-bot-adder-disco?t="
     },
     {
@@ -926,7 +926,17 @@
         "title": "CarGurus Webscraper",
         "description": "Trying to learn web scraping.  Want someone to build code (in python) for a scraper that  grabs and saves the model, year, miles, location and price of a specific car model on Cargurus and saves it to a replitdb.  Also want it to print same data to the console.  Should be able to scrape across multiple pages.\n\nThink it is pretty quick if you know beautifulsoup and maybe selenium.  Agnostic on what libraries you use.  Still figuring it out and will learn faster if I can see it done correctly.  Thanks!",
         "author": "mbeek",
-        "posted_time": "30 minutes ago",
+        "posted_time": "53 minutes ago",
         "link": "https://replit.com/bounties/@mbeek/cargurus-webscraper?t="
+    },
+    {
+        "index": "93",
+        "price": "$182.70",
+        "due_days": "due in 3 months",
+        "title": "Fictional web shop",
+        "description": "This is an art project. I want a beautiful looking website where people can list fictional products and interact with fictional products in the hope that someone shall create the products.\n\nAcceptance Criteria\n\nUsers can register, sign in.\nUsers can create a listing which has a title, price and a free text field in markdown.\nUsers can include images in the markdown description.\nUsers can comment on product\nUsers can leave fictional reviews\nUsers can create product specification table in markdown\n\nFor ideas, see Kickstarter",
+        "author": "Chronological",
+        "posted_time": "2 minutes ago",
+        "link": "https://replit.com/bounties/@Chronological/fictional-web-shop?t="
     }
 ]
