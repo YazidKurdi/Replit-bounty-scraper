@@ -819,7 +819,7 @@ MUST KNOW DISCOR.JS",OddGames,14 hours ago,https://replit.com/bounties/@OddGames
 Acceptance Criteria
 A Python script that loads a webpage using Playwright. No logic needs to be executed on the page.
 A Dockerfile to run the python script in a container. It should also run a cron inside the container to run the python script every 5 minutes",oAkeDCH,14 hours ago,https://replit.com/bounties/@oAkeDCH/python-playwright-cr?t=
-82,$108.00,due in 3 days,aws cross account access for users federated via  azure AD ,"as a federated user who is authenticated via sso with 2FA enabled i need to be able to switch between aws accounts within an aws organization.
+82,$108.00,due in 2 days,aws cross account access for users federated via  azure AD ,"as a federated user who is authenticated via sso with 2FA enabled i need to be able to switch between aws accounts within an aws organization.
 
 e.g. a federated user needs to assume role A in master payer account (account #1) and role B sub-account (account #2).
 
@@ -842,7 +842,7 @@ The layout of the mobile version of the website is correct and all elements are 
 The overlap issue is resolved
 The fix does not cause any other issues or break any other parts of the mobile website
 The fix is well-documented and easy to understand",hdbu,11 hours ago,https://replit.com/bounties/@hdbu/bug-mobile-version-u?t=
-84,$180.00,due in 6 days,Event Selection Web Service,"web application where users can create an event. When event(10 day event) is created users can choose from two options. One, daily email. Second, calendar invite with ten consecutive days. Free users get access to limited list of events. Paid users get access to all events. Collect information on what they want to learn from event. When event is created user can share social media (twitter/Facebook) that they started an event. When event has completed user can share on social media that they completed event.
+84,$180.00,due in 5 days,Event Selection Web Service,"web application where users can create an event. When event(10 day event) is created users can choose from two options. One, daily email. Second, calendar invite with ten consecutive days. Free users get access to limited list of events. Paid users get access to all events. Collect information on what they want to learn from event. When event is created user can share social media (twitter/Facebook) that they started an event. When event has completed user can share on social media that they completed event.
 
 Acceptance Criteria
 all webpages and backend verified
@@ -858,15 +858,15 @@ management page to create/edit/delete events (title and description)
 
 Timelines / Milestones
 one week",BrandonF7,11 hours ago,https://replit.com/bounties/@BrandonF7/event-selection-web?t=
-85,$0.90,closed,Feature: Delete Message,"I've implemented this feature already, just need a quick fix.",hdbu,10 hours ago,https://replit.com/bounties/@hdbu/feature-delete-messa?t=
-86,$27.00,due in 13 days,Sawtooth Marketplace Example,"Get this public archive to run on a private Repl
+85,$0.90,closed,Feature: Delete Message,"I've implemented this feature already, just need a quick fix.",hdbu,11 hours ago,https://replit.com/bounties/@hdbu/feature-delete-messa?t=
+86,$27.00,due in 12 days,Sawtooth Marketplace Example,"Get this public archive to run on a private Repl
 Acceptance Criteria
       Can run this example with simple instructions
 Technical Details
      I prefer to work in Python and will use this example to build further using the Python SDK
 Link to Project
 https://github.com/hyperledger/sawtooth-marketplace",SamuelSlusher,10 hours ago,https://replit.com/bounties/@SamuelSlusher/sawtooth-marketplace?t=
-87,$270.00,due in 13 days,CryptPad Calendar Telegram Bot,"Currently using CryptPad Calendar. Need it connected to a Telegram Bot (2-Way Messaging)
+87,$270.00,due in 12 days,CryptPad Calendar Telegram Bot,"Currently using CryptPad Calendar. Need it connected to a Telegram Bot (2-Way Messaging)
 
 Acceptance Criteria
 Three key features:
@@ -878,9 +878,9 @@ Create Calendar Event from Telegram (Send)
 Docs
 CryptPad: https://docs.cryptpad.org/en/
 TG: https://core.telegram.org/bots/api",hyperion335,9 hours ago,https://replit.com/bounties/@hyperion335/cryptpad-calendar-te?t=
-88,$0.90,due in 4 days,Help with canvas [JAVASCRIPT],"I need some help wih a veerrrt simple thing about js canvas. bekos I am stopiv.
+88,$0.90,due in 3 days,Help with canvas [JAVASCRIPT],"I need some help wih a veerrrt simple thing about js canvas. bekos I am stopiv.
 You csn earn some free cycles!
 
-Goofy ah typo!",MNA4,3 hours ago,https://replit.com/bounties/@MNA4/help-with-canvas-jav?t=
-89,$4.50,due in 14 days,Need Server Mass DM Tool Discord ,Need full custom discord mass dm tool. Paying 500 Cycles for that or maybe more!,ItsLmn5555,2 hours ago,https://replit.com/bounties/@ItsLmn5555/need-server-mass-dm?t=
-90,$4.50,due in 14 days,Mass Bot Adder Discord Tool,Need custom mass bot adder in server tool. Which can add bot to server by solving hCaptcha automatically!,ItsLmn5555,2 hours ago,https://replit.com/bounties/@ItsLmn5555/mass-bot-adder-disco?t=
+Goofy ah typo!",MNA4,4 hours ago,https://replit.com/bounties/@MNA4/help-with-canvas-jav?t=
+89,$4.50,due in 13 days,Need Server Mass DM Tool Discord ,Need full custom discord mass dm tool. Paying 500 Cycles for that or maybe more!,ItsLmn5555,2 hours ago,https://replit.com/bounties/@ItsLmn5555/need-server-mass-dm?t=
+90,$4.50,due in 13 days,Mass Bot Adder Discord Tool,Need custom mass bot adder in server tool. Which can add bot to server by solving hCaptcha automatically!,ItsLmn5555,2 hours ago,https://replit.com/bounties/@ItsLmn5555/mass-bot-adder-disco?t=
