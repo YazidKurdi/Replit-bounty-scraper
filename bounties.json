@@ -1,0 +1,922 @@
+[
+    {
+        "index": "0",
+        "price": "$180.00",
+        "due_days": "due in 4 days",
+        "title": "Add ability to mint an NFT based on score (https://replit.com/@jgrinnell0/cryptoforwardalpha?v=1)",
+        "description": "Users who connect to the dapp should be able to mint their scores as a non-transferrable NFT which displays their score. Here's an example: https://mintkudos.xyz/community/LearnWeb3?tab=Kudos&tokenId=14597\n\nAcceptance Criteria\n: there should be a button in the UI that allows users to mint a non-transferrable NFT on Polygon, after a user has connected their wallet and shown their score\n: the non-transferrable NFT should have a consistent, clean design, and display the users' score and ETH/Polygon address\n\n#code\nUse the code/repo here, fork it, and send me the code you write: https://replit.com/@jgrinnell0/cryptoforwardalpha?v=1",
+        "author": "jgrinnell0",
+        "posted_time": "15 hours ago",
+        "link": "https://replit.com/bounties/@jgrinnell0/add-ability-to-mint?t="
+    },
+    {
+        "index": "1",
+        "price": "$10.00",
+        "due_days": "due in 8 days",
+        "title": "\u231a\ufe0f Apple Watch Compass App (Orientation Based Vibration) [Swift]",
+        "description": "Trying to see the possibility of an Apple Watch app that notifies (vibration) the user when they are facing North. That's all. No need for other features. No connection to phone/internet.\n\nIt would (I believe) primarily use this feature: https://developer.apple.com/documentation/coremotion/cmmagnetometerdata/1616084-magneticfield\n\nAnd would use the Apple Watch 5 and Later for magnometer (compass) feature.\n\nMVP: If user's wrist is facing 'north', slightly vibrate for 1s.\n\nAcceptance Criteria\nMVP or potential for MVP.\nA TestFlight ready app that vibrates for 1s when the user faces North each time.\ne.g. I walk and turn east, no vibration\nI keep waking and turn north, slight 1s vibration.\nI turn west, no vibration.\nI turn north again, 1s vibration.",
+        "author": "Bandos1000",
+        "posted_time": "18 hours ago",
+        "link": "https://replit.com/bounties/@Bandos1000/apple-watch-compass?t="
+    },
+    {
+        "index": "2",
+        "price": "$90.00",
+        "due_days": "due in 2 days",
+        "title": "Create a modal in react using the UX mockup provided.",
+        "description": "Create a modal in react js using the UX mockup provided\nImage Grid - A vertically scrollable list of images. The backend api will be provided to you. On hover each image should show an enlarge/preview icon, which should show just the image in another full screen modal\n\nNew Images Button - When this button is clicked, an api request must be made, the 'New Images Grid' should show a loader while the api request is being processed. When the api request is complete, the  grid should show the returned images as a 2*2 grid. The backend api will be provided.\n\nThis is primarily a design job , so in addition to the UX, a good looking UI also needs to be implemented.\n\nmockup - https://drive.google.com/file/d/1SlQCEoTEp6xOCregwVJLt2744nt4rGcb/view?usp=sharing\nAcceptance Criteria\nAll the functionality as mentioned needs to be tested and completed.",
+        "author": "mahendranaik",
+        "posted_time": "20 hours ago",
+        "link": "https://replit.com/bounties/@mahendranaik/create-a-modal-in-re?t="
+    },
+    {
+        "index": "3",
+        "price": "$5.00",
+        "due_days": "due in 11 days",
+        "title": "\ud83d\udcca Basic Front End + DataPull for RuneScape competition",
+        "description": "Trying to create an epic website to see the status of the Speedrun competition in OSRS.\nI've made a quick frame of it here: https://www.figma.com/file/3anndl61BWgpo0Kpzewhpr/OSRS-Proj?node-id=1%3A2&t=VYyI0mIMSQzxnqh4-1\n\nIdeally, would work on Mobile and Web. Not sure what the best way to build this is.\nI'll need to manually enter the:\nSpeedrunner names\nSpeedrunner Youtube/Twitch channels\n\nThe most challenging aspect is pulling a iframe from https://wiseoldman.net with a selected username: https://wiseoldman.net/players/phonk%20addict\nAnd only displaying the stats section (as seen in Figma)\n\nI think there are 2-6 right now. I would like the ability to add more speed runners in the future.\nAcceptance Criteria\nA stunning website to see who is currently winning/speedrunning OSRS. I will connect a custom domain after delivery.\nI have no problem with crediting you/linking your Replit profile on the site.",
+        "author": "Bandos1000",
+        "posted_time": "20 hours ago",
+        "link": "https://replit.com/bounties/@Bandos1000/basic-front-end-data?t="
+    },
+    {
+        "index": "4",
+        "price": "$135.00",
+        "due_days": "closed",
+        "title": "GPT3 AI Story Video Generator",
+        "description": "I would like to create a tool that can create Story Videos based on prompts. It can be a simple command line tool, no need for a website or app.\n\nUser inputs story prompt (ex. A story about a girl and a big mountain)\nStory is given to GPT-3 API, in a way so that it gives the story text and descriptions of images for the story (to be used by DALLE-2)\nImage prompts from GPT-3 output will be fed to DALLE-2 API (or a different image generating AI)\nStory is read by Text-To-Speech API (for ex. Azure Cognitive Services)\nAudio and Images are combined to create a single video using the https://remotion.dev library.\n\nBasically, the tool should be written in JavaScript, retrieve data from all the required APIs, and use the Remotion library to create a video from these outputs.\n\nI am a coder myself who has used all these API's and libraries before, and I can provide support if you need any help.",
+        "author": "CoderGautamYT",
+        "posted_time": "19 hours ago",
+        "link": "https://replit.com/bounties/@CoderGautamYT/gpt3-ai-story-video?t="
+    },
+    {
+        "index": "5",
+        "price": "$135.00",
+        "due_days": "due in 26 days",
+        "title": "AI Story Video Generator Tool",
+        "description": "I would like to create a tool that can create Story Videos based on prompts. It can be a simple command line tool, no need for a website or app.\n\nUser inputs story prompt (ex. A story about a girl and a big mountain)\nStory is given to GPT-3 API, in a way so that it gives the story text and descriptions of images for the story (to be used by DALLE-2)\nImage prompts from GPT-3 output will be fed to DALLE-2 API (or a different image generating AI)\nStory is read by Text-To-Speech API (for ex. Azure Cognitive Services)\nAudio and Images are combined to create a single video using the Remotion library.\n\nBasically, the tool should be written in JavaScript, retrieve data from all the required APIs, and use the Remotion library to create a video from these outputs.\n\nI am a coder myself who has used all these API's and libraries before, and I can provide support if you need any help.",
+        "author": "CoderGautamYT",
+        "posted_time": "19 hours ago",
+        "link": "https://replit.com/bounties/@CoderGautamYT/ai-story-video-gener?t="
+    },
+    {
+        "index": "6",
+        "price": "$9.00",
+        "due_days": "closed",
+        "title": "Multiplayer Battle System For Arrowfall",
+        "description": "Must a create a server that you can join the in start of the game\nYou then can create rooms/arenas and wait for players to join\n\nAlso then you can battle other players\nI have already created a battle system so you just make it so you can battle someone else instead of just monsters\n\nPlease be experienced and not just use ChatGPT",
+        "author": "OverdriveReplit",
+        "posted_time": "18 hours ago",
+        "link": "https://replit.com/bounties/@OverdriveReplit/multiplayer-battle-s?t="
+    },
+    {
+        "index": "7",
+        "price": "$360.00",
+        "due_days": "due in 12 days",
+        "title": "Build a benchmarker for NFT APIs / RPCs",
+        "description": "Many new companies have built NFT indexers that exist to reliably serve data on digital assets in a fast, Web2 performant way. Unfortunately, many of them do not actually hold up to these claims. This bounty should build a way to benchmark those APIs on a frontend.\n\nAcceptance Criteria\nNextJS frontend\nAbility to spawn {X} random NFTs that are served from {Y} endpoint\nCompare network payloads, response times, and cost per call\n\nServices:\nstraight RPC calling of Shadowdrive / Arweave\nPinata\nLollipop.xyz\n\nCan use libraries like https://github.com/grafana/k6",
+        "author": "rmshea",
+        "posted_time": "18 hours ago",
+        "link": "https://replit.com/bounties/@rmshea/build-a-benchmarker?t="
+    },
+    {
+        "index": "8",
+        "price": "$18.00",
+        "due_days": "due in 13 days",
+        "title": "Clojure query for Roam: number of [[POMO]] per day",
+        "description": "I'd like to visualize the POMOs I've done across time in Roam Research. I'm looking for stats I can easily copy-paste to a spreadsheet.\n\nAcceptance Criteria\nShows the POMOs I've done per day in Roam\n\nExamples of queries: https://roamresearch.com/#/app/Zsolt-Blog/page/WUn5PuTDV",
+        "author": "KahlilCorazo",
+        "posted_time": "17 hours ago",
+        "link": "https://replit.com/bounties/@KahlilCorazo/clojure-query-for-ro?t="
+    },
+    {
+        "index": "9",
+        "price": "$90.00",
+        "due_days": "due in 13 days",
+        "title": "AI-based Data Engine ",
+        "description": "Make financial data easily accessible\n\nAcceptance Criteria\nAn engine that hooks various official financial sources and leverages NLP (via GPT-3) to pull up data from these financial sources and format it in an excel table while also generating a small piece of news around that data.\n\nI will be happy to give more details once the applications have been approved.",
+        "author": "GennaroCuofano",
+        "posted_time": "15 hours ago",
+        "link": "https://replit.com/bounties/@GennaroCuofano/ai-based-data-engine?t="
+    },
+    {
+        "index": "10",
+        "price": "$20.70",
+        "due_days": "due in 4 days",
+        "title": "Build a webapp that uses GPT-3 to execute a series of actions on the web through Playwright",
+        "description": "Essentially we are looking for a web app version of the Natbot:\nhttps://github.com/nat/natbot\n\nAcceptance Criteria\nDesign the front end using HTML, CSS, and JavaScript and the backend using Python and the Flask framework.\n\nThe Web app is basically a simple Title (GPT Browser Actions) and a textfield input for the prompt. The following prompts should work:\n\"Search google for the best hotels around me\"\nResult: A new browser page is opened, goes to google.com, enters best hotels around me, all based on GPT3 providing playwright code to execute as in the example of Natbot\n\"Search Paris on Google Maps\"\nResult: A new browser page is opened, goes to maps.google.com, searches Paris",
+        "author": "mrock3",
+        "posted_time": "13 hours ago",
+        "link": "https://replit.com/bounties/@mrock3/build-a-webapp-that?t="
+    },
+    {
+        "index": "11",
+        "price": "$90.00",
+        "due_days": "due in 13 days",
+        "title": "React-Table / Similar to Monday.com",
+        "description": "I'm the founder of mapsheet.com and I am trying to help my engineers test and build new features faster. Our software is quite complicated now so I want a parallel environment where I can explore ideas and features without getting in the way.\nAcceptance Criteria\nA spreadsheet built in react-table where the cells in each column are a specific data type (number, currency, date, short text, date, address etc) with the following columns:\nAddress column pinned/frozen to the far left\nShort text column\nShort text column\nDate column\nCurrency column\nNumber column\nNumber column\nCurrency column\n\nAdditionally, please include the following features:\nresizable column widths\ndrag & drop to rearrange column order\nadd a new column and set column type as date, number, currency, or short text",
+        "author": "willzt",
+        "posted_time": "9 hours ago",
+        "link": "https://replit.com/bounties/@willzt/react-table-similar?t="
+    },
+    {
+        "index": "12",
+        "price": "$450.00",
+        "due_days": "due in 13 days",
+        "title": "Reddit Parody & Meme Home Page Creator w/ Mash Monetization",
+        "description": "We want to create a meme builder specifically for a fake reddit home page, hot section, to enable people to create a joke that they want, and easily download + share it. The inspiration is the \"breaking news\" generator. The goal here is to showcase how a mini-app that is fun can monetize premium features.\n\nAcceptance Criteria\nCreate a mini-web-app that allows users to create a Fake Reddit Home Page \u2013 where they can customize specific elements.\nUsers can customize the top right user handle and karma,\nUsers can customize the top two posts, specifically votes, posted by name, subreddit part of, comments, image showcased and of course, the headlines text.\nThere is a default setup so that the canvas isn't blank\nThe look/feel and design of the fake post should mimic what is currently live on reddit, with some subtle differences (e.g., Redddit instead of Reddit) so that it is apparent it isn't real\nA live preview of the changes are shown to the user, with a watermark/url o...",
+        "author": "jarednxx",
+        "posted_time": "8 hours ago",
+        "link": "https://replit.com/bounties/@jarednxx/reddit-parody-and-me?t="
+    },
+    {
+        "index": "13",
+        "price": "$22.50",
+        "due_days": "due in 13 days",
+        "title": "Wrist Measurer For Apple Watch Solo Loop Band ",
+        "description": "An app that measures your wrist for an apple watch solo loop band using the iPhone camera and LiDAR sensor\n\nAcceptance Criteria\nMeasure the wrist and get number results based on what a tailor\u2019s measuring tape would say.\n\nNo login needed just go directly to doing it.\n\nDetailed instructions will pop up while doing it, showing you how to measure and get the correct results\n\nExtreamly clear, smooth modern interface and design\n\nMake each scan as accurate as possible\n\n$.99 for each wrist scan the app itsself is free\n\nIf the payment is not enough or you know something I don\u2019t that I should add let me know",
+        "author": "atlasxbeaumont",
+        "posted_time": "8 hours ago",
+        "link": "https://replit.com/bounties/@atlasxbeaumont/wrist-measurer-for-a?t="
+    },
+    {
+        "index": "14",
+        "price": "$450.00",
+        "due_days": "due in 13 days",
+        "title": "Web app that will generate recipes using AI",
+        "description": "I am looking to develop a simple web app that allows users to generate recipes with the help of AI.\n\nThe web app should allow users to submit a recipe name, hit generate, and have an AI return a step-by-step guide to produce the recipe.\n\nThere should also be additional, optional fields for users to enter:\nNumber of servings desired\nDietary restrictions\nPreferences\n\nAlso to be included is an additional tick box labelled 'Surprise me' which will prompt the AI to add a surprise additional ingredient.\n\nAcceptance Criteria:\nFront end and design that is simple and focuses on the form for the user to submit information\nUsers have access to a responsive, clean form and can enter recipe name, dietary restrictions, preferences, etc.\nThe web app successfully generates a response with a step-by-step recipe with criteria matching the user's preferences",
+        "author": "stanbm",
+        "posted_time": "13 hours ago",
+        "link": "https://replit.com/bounties/@stanbm/web-app-that-will-ge?t="
+    },
+    {
+        "index": "15",
+        "price": "$13.50",
+        "due_days": "due in 3 days",
+        "title": "LinkedIn analytics in Python",
+        "description": "I am the Super Admin of a company LinkedIn page & want to import all my data using the LinkedIn API in Python to enable my own data analysis. The data I need is: engagement data on every post, follower data & page visits for a given date range.\n\nAcceptance Criteria\nGiven a company id (e.g. 1234), date range (e.g. 01/01/22 - 31/12/22) I can call a script that saves down into three different csv's the above data ie posts.csv, followers.csv & visitors.csv\nAssume user has full administrative access to the page & the application development tier is 'Marketing Developer Platform' (ie clientid & clientsecret will have correct permissions)\nThe script will enable 3-legged OAuth needed to extract certain data https://learn.microsoft.com/en-us/linkedin/shared/authentication/authorization-code-flow?context=linkedin%2Fcontext&tabs=HTTPS1",
+        "author": "kushmadlani",
+        "posted_time": "13 hours ago",
+        "link": "https://replit.com/bounties/@kushmadlani/linkedin-analytics-i?t="
+    },
+    {
+        "index": "16",
+        "price": "$100.00",
+        "due_days": "due in 2 months",
+        "title": "Discord Bot + Replit Status Page Integration",
+        "description": "Whenever I update the replit status page, it's annoying to have to post in discord what we just posted on the status page.  I want a discord bot that checks the replit status page at an interval of once per five minutes and posts every time there's an update or an incident.\n\nAcceptance Criteria\nThe discord bot should post an embed at every update only if something changes.\nAs stated above, the discord bot should check the status page at an interval of once every five minutes.  For more information on how to use the api to access the status of replit, check out this repl.\nThe embed message should display the following information:\n Status (investigating, resolved, etc)\n Title\n Description\n Time when the status page was last updated\n The title of the embed should link to the status page (https://status.replit.com)\n Domain / Area affected (replit.com, repl.co, blog.replit.com, etc)\n Time between current incident and the last incident\nWhen an incident's status is update...",
+        "author": "ReplitIronclad",
+        "posted_time": "23 hours ago",
+        "link": "https://replit.com/bounties/@ReplitIronclad/discord-bot-replit-s?t="
+    },
+    {
+        "index": "17",
+        "price": "$1,000.00",
+        "due_days": "due in 25 days",
+        "title": "$1000 for best 140-second AI film on Satoshi Nakamoto",
+        "description": "Hollywood is not going to tell an accurate story about Bitcoin when they finally make the Satoshi movie, so we as a decentralized community of creators must tell it ourselves. Instead of doing a 140 minute film using a studio, let\u2019s create a 140 second film about Satoshi Nakamoto using AI.\n\nAcceptance Criteria\nMust be around 140 seconds (+/- 10 sec).\nMust be created with AI\nMust be about Satoshi Nakamoto\nMust tell a story with a beginning, middle, and end.\nMust reply to tweet (https://twitter.com/patrickwstanley/status/1610345715737464832?s=46&t=IBFj6XibJAETsBtV0YmA) by 1/31/23 to qualify",
+        "author": "PatrickStanley",
+        "posted_time": "23 hours ago",
+        "link": "https://replit.com/bounties/@PatrickStanley/dollar1000-for-best?t="
+    },
+    {
+        "index": "18",
+        "price": "$40.50",
+        "due_days": "due in 26 days",
+        "title": "Specifications Grading Tool",
+        "description": "Simplify grading entire classes through a single-page interface connected to profiles that can be updated and exported/printed.\n\nAcceptance Criteria\nA single page with a search or drop-down menu that calls up individual student profiles below.\nAn option nearby for adding new student profiles.\nIn each profile five categories/sections are present:\n   Three equally prominent categories/sections labelled \"Bundle A\", \"Bundle B\" and \"Bundle C\".\n   A fourth category/section of equal size but less prominence labelled \"Bundle D\".\n   A fifth category/section labelled \"Tokens\".\n\nIn the first four sections there should be an option to \"Add an assessment\" where a simple title can be input with text (or preselected from recently used options). When added to that section, each assessment should be able to be toggled between \"below standard\", \"to standard\" or \"to standard with distinction\".  A final click box should be available with \"removed\" as an option, if clicked the assessmen...",
+        "author": "T-WW",
+        "posted_time": "1 day ago",
+        "link": "https://replit.com/bounties/@T-WW/specifications-gradi?t="
+    },
+    {
+        "index": "19",
+        "price": "$94.50",
+        "due_days": "due in 10 days",
+        "title": "Workflowy-esque AI Todo list expander",
+        "description": "Sometimes a particular task can be daunting, leading to procrastination. An effective solution is to break the task down into a number of simpler, more approachable subtasks. If any of those tasks are still intimidatingly, they can be further subdivided.\n\nWorkflowy.com pioneered an infinitely nestable outline interface which is conducive to this type of task subdivision. This bounty is to create a prototype app which improves upon Workflowy by using a LLM to assist in task subdivision.\n\nAcceptance Criteria\n A workflowy-esque webapp, with an intuitive UI allowing the user to build an infinitely nestable outline.\n A function which automatically creates nested subtasks for any given task by using an LLM, such as GPT3\n Your choice of web framework",
+        "author": "dougfeig",
+        "posted_time": "22 hours ago",
+        "link": "https://replit.com/bounties/@dougfeig/workflowy-esque-ai-b?t="
+    },
+    {
+        "index": "20",
+        "price": "$180.00",
+        "due_days": "due in 2 days",
+        "title": "Build custom excel report that gets external data from various advertising and ecommerce platforms",
+        "description": "My current workflow is to manually run daily reports on TikTok, Meta, Google, Shopify (and more) and manually input the data into an excel spreadsheet to generate a daily report.\n\nAcceptance Criteria\nAn automated report using Microsoft Excel Power Query (or other) to import, combine data from multiple sources and shape it into a daily report format I have created.",
+        "author": "MikeZapata",
+        "posted_time": "21 hours ago",
+        "link": "https://replit.com/bounties/@MikeZapata/build-custom-excel-r?t="
+    },
+    {
+        "index": "21",
+        "price": "$5.00",
+        "due_days": "closed",
+        "title": "Notion CSS Competition #1 -- Happy New Year! \ud83c\udf89",
+        "description": "Notion Design Competition to Start 2023 and Earn Some Cycles! \ud83d\udd01\nHey all! Do you like front end? (Me neither.)\nAre you trying to complete some bounties or practice your CSS skills? This is the competition for you.\nI'll be creating 10 of these bounties. Each 'solution' will be posted on a Twitter thread at the end.\n1st Place: 2,000 cycles or 3 months of Hacker. (I don't know if I can gift Hacker, but we'll figure that out.)\n2nd Place: 1 month of Hacker/1,000 Cycles\n3rd Place: Bragging rights and the bronze medal emoji \ud83e\udd49 + (Or I'll fund you a bounty for a collaborative project.)\n\nTLDR: Everyone starts with the same framework and throws their own styling on it.\n\nHow To Compete:\n-1. Get Inspired: https://www.kseniiakrasilich.com/squarespace-help/best-notion-websites\nIf it looks fun, apply for a Bounty. If you're not accepted to #1, apply to another. There are only 10 slots. Sorry!\nFork this Repl: https://replit.com/@Bandos1000/NotionSimplifyReplit#styles/notion.css\nCheck the Rules\nDesign ...",
+        "author": "Bandos1000",
+        "posted_time": "19 hours ago",
+        "link": "https://replit.com/bounties/@Bandos1000/notion-css-competiti?t="
+    },
+    {
+        "index": "22",
+        "price": "$13.50",
+        "due_days": "due in 3 days",
+        "title": "Housekeeping/Code Cleanup for Notion/Replit Connector [TS/JS]",
+        "description": "Looking for some help with a cleanup/error fix for this Repl.\nhttps://replit.com/@Bandos1000/NotionCompetition2023#site.config.ts\nHas a bunch of additional folders/files that are no longer needed after it was moved to Replit. Looking to remove anything that was previously needed when it was hosted on Github. (+ clean up a few errors.)\n\nThis is where it's from:\nhttps://github.com/transitive-bullshit/nextjs-notion-starter-kit\n\nLooking to remove all the pieces that used to be used for Vercel since it's now 'hosted' in Replit.\n\nAcceptance Criteria\nA simplified version of the Repl above, with all non-vital dependancies removed and file structure simplified.",
+        "author": "Bandos1000",
+        "posted_time": "20 hours ago",
+        "link": "https://replit.com/bounties/@Bandos1000/error-fix-for-notion?t="
+    },
+    {
+        "index": "23",
+        "price": "$90.00",
+        "due_days": "due in 12 days",
+        "title": "Clothing image recognition script",
+        "description": "Would like a simple app likely using computer vision (eg Roboflow) where user can upload a photo of clothing and app returns the clothing article type and main color: t-shirt, pants, sock, button down shirt, sweater, etc\n\nAcceptance Criteria\nUser can upload photo\nApp returns photo with description of what article of clothing and color the photo has",
+        "author": "Matthew_Morriso",
+        "posted_time": "20 hours ago",
+        "link": "https://replit.com/bounties/@Matthew_Morriso/clothing-image-recog?t="
+    },
+    {
+        "index": "24",
+        "price": "$0.90",
+        "due_days": "due in 27 days",
+        "title": "Coder Gautam, pls follow me!",
+        "description": "Please follow me @CoderGautamYT, and I'll give you a buck!",
+        "author": "MNA4",
+        "posted_time": "8 hours ago",
+        "link": "https://replit.com/bounties/@MNA4/coder-gautam-pls-fol?t="
+    },
+    {
+        "index": "25",
+        "price": "$180.00",
+        "due_days": "due in 3 days",
+        "title": "Endpoint that gets URL of a file and saves it in Google Drive",
+        "description": "I want an endpoint that will get the following parameters:\nURL of a file to download (files will be audio or video, so most likely hundreds of MBs in size\nGoogle Drive Folder ID to store the file in\nGoogle Drive token\n\nAcceptance Criteria\n\nThis can be implemented in GCP or AWS, in Python or JS.\n\nThe endpoint will download the file from the URL, and upload it to the Google Drive folder given in the parameters, using the token provided in the parameters.\n\n-- If the Google Drive authentication fails, the function will return an HTTP error code\n--  If the download fails to complete, the function will return an HTTP error code\n-- If the upload to Google Drive fails to complete, the function will return an HTTP error code\n-- If the upload to Google Drive is completed successfully, the function will delete the file from its temporary location (assuming it will be downloaded to someplace before being uploaded to Google Drive - like google cloud storage or S3), and return th...",
+        "author": "alonwpoplar",
+        "posted_time": "16 hours ago",
+        "link": "https://replit.com/bounties/@alonwpoplar/endpoint-that-gets-u?t="
+    },
+    {
+        "index": "26",
+        "price": "$180.00",
+        "due_days": "due in 13 days",
+        "title": "Scrape structured data on website and scrape any updates going forward",
+        "description": "Seeking market intelligence on public sector tenders (RFPs) offered and awarded for the category of 'feasibility study'.\n\nAcceptance Criteria\nScrape data from this website https://www.bidsandtenders.com/suppliers/bid-opportunities/\nI am only interested in data from Canada.\nThe only type of tender data I am interested in retrieving is identified as 'feasibility study'\nI want a database of ALL tenders offered and awarded for feasibility studies in Canada (open, and closed as far back as 2015)\ndata should be in an excel friendly format.\nData should include ALL fields listed on web url listed above (bid name, status, published date, closing date, organization) AS WELL AS data provided for each listing (data found when clicking the 'view' button).\nI am seeking ALL data on the relevant individual listings.\nI would also like to download ALL documents in the 'documents' section of individual listing.\ndownloaded documents should contain filename with a reference ID linking t...",
+        "author": "Populista",
+        "posted_time": "11 hours ago",
+        "link": "https://replit.com/bounties/@Populista/scrape-structured-da?t="
+    },
+    {
+        "index": "27",
+        "price": "$9.00",
+        "due_days": "closed",
+        "title": "Need a Tamil Speaker for Data Entering",
+        "description": "\u0ba8\u0bbe\u0ba9\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b95\u0bb1\u0bcd\u0b95 \u0b92\u0bb0\u0bc1 website \u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bbf\u0bb1\u0bc7\u0ba9\u0bcd\n\u0b85\u0ba4\u0bbf\u0bb2\u0bcd \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bc8 \u0bb5\u0bc8\u0b95\u0bcd\u0b95, \u0b8e\u0ba9\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0baa\u0bc7\u0b9a\u0bc1\u0baa\u0bb5\u0bb0\u0bcd \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bcd\n\u0b87\u0ba4\u0bb1\u0bcd\u0b95\u0bc1, coding \u0b85\u0ba9\u0bc1\u0baa\u0bb5\u0bae\u0bcd \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd\u0bb2\u0bc8\n\n\u0ba8\u0bbe\u0ba9\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbf\u0baf \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bcd \u0baa\u0bb1\u0bcd\u0bb1\u0bbf\u0baf \u0bb5\u0bbf\u0bb5\u0bb0\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \u0ba4\u0bb0\u0bc1\u0bb5\u0bc7\u0ba9\u0bcd\n\nPlease submit your application in Tamil, do not apply for this bounty if you aren't a native Tamil speaker.",
+        "author": "CoderGautamYT",
+        "posted_time": "17 hours ago",
+        "link": "https://replit.com/bounties/@CoderGautamYT/need-a-tamil-speaker?t="
+    },
+    {
+        "index": "28",
+        "price": "$40.50",
+        "due_days": "due in 6 days",
+        "title": "Podcast screenshot reader - Coded in Python",
+        "description": "Using Python code, we need to be able to read a screenshot taken on a phone when someone is listening to a podcast and extract the left most time stamp e.g., 5:15.  Then turn this  time into a number of seconds (in this case 60*5 plus 15 = 315) into the podcast when they screenshot was taken.\nWe also want to extract and read the date of the podcast and as much of the text of the podcast title as is visible in the screenshot.\n\nAcceptance Criteria\n\nPython code which can execute the above task accurately on 10 podcast screenshots , which we will supply.\n\nTechnical Details\n\nLink to Project",
+        "author": "YorkvilleDS",
+        "posted_time": "17 hours ago",
+        "link": "https://replit.com/bounties/@YorkvilleDS/podcast-screenshot-r?t="
+    },
+    {
+        "index": "29",
+        "price": "$45.00",
+        "due_days": "due in 2 days",
+        "title": "Help explore how to train a custom fine tuned model for re-creating consistent scenarios in my cartoon from different camera angles",
+        "description": "First, you will need to gather a dataset of images or video frames that represent the different camera angles of the scenarios you want to recreate. This dataset should contain a variety of different angles, including close-ups, wide shots, high angles, low angles, etc.\n\nPreprocess your dataset by cropping, resizing, and/or normalizing the images or video frames as needed.\n\nSplit your dataset into training and validation sets. The training set will be used to train your model, while the validation set will be used to evaluate the model's performance during training.\n\nChoose a deep learning model architecture that is suitable for your task. There are many different architectures to choose from, such as convolutional neural networks (CNNs) or recurrent neural networks (RNNs).\n\nFine-tune the chosen model on your training set by adjusting the model's hyperparameters and training it for a number of epochs. You may want to use a technique like transfer learning to make the training process m...",
+        "author": "justinrogers123",
+        "posted_time": "20 hours ago",
+        "link": "https://replit.com/bounties/@justinrogers123/help-explore-how-to?t="
+    },
+    {
+        "index": "30",
+        "price": "$45.00",
+        "due_days": "due in 4 days",
+        "title": "Perform Conversion Rate Mix Analysis based on multiple inputs",
+        "description": "For a website that has traffic coming from many sources, need to understand what is impacting conversion rate. Is it actual performance of the site, or mix between several different vairables\n\nVariables includes are\ndate:  day\nregion: americas, apac, europe, other\nshopper: new or repeat\ndevice: desktop, mobile web, tablet, iOS, Andoid, other\nMarketing channel: direct web, direct app, semu, semb, paid, seo, meta, affliates, social, CRMs, CRMm, unknown\n\nhere is a simple version of this done with only a few factors\nhttps://www.goodmarketing.club/guide/how-to-explain-channel-conversion-rate-change-with-mix-rate-bridging-analysis/\n\nAnalysis needs to be done on a YoY basis to account for seasonality\nAnalysis needs to be able to be done last 7 days and previous 7 days to understand what changed week to week\nAcceptance Criteria\n\nTechnical Details\n\nLink to Project",
+        "author": "DavidEagan1",
+        "posted_time": "20 hours ago",
+        "link": "https://replit.com/bounties/@DavidEagan1/perform-conversion-r?t="
+    },
+    {
+        "index": "31",
+        "price": "$16.20",
+        "due_days": "due in 2 days",
+        "title": "Write a node function to log in to Fantrax.com and return the FX_RM cookie.",
+        "description": "I'm looking for a function given a users credentials can programmatically bypass Fantrax's auth and return the FX_RM cookie.\nAcceptance Criteria\nYou may use anything that can be deployed. (No Chromium in non-headless mode).  If you choose to do it this way. please make sure your code works while calling a service like https://www.browserless.io/.\n\nideally you don't need to use selectors and can write it by simulating the requests.\nTechnical Details\n\nLink to Project",
+        "author": "mlchiang",
+        "posted_time": "21 hours ago",
+        "link": "https://replit.com/bounties/@mlchiang/write-a-node-functio?t="
+    },
+    {
+        "index": "32",
+        "price": "$90.00",
+        "due_days": "closed",
+        "title": "Create a scraper template I can use with typescript and puppeteer",
+        "description": "I would like a simple scraper template I can build on. I am not familiar with replit so would like a starting point.\n\nAcceptance Criteria\nThe project should start with the typescript replit template\nThe scraper should use puppeteer-extra-plugin-stealth\nThe scraper should take a screenshot of google.com and store it locally\nThe project should run from /src/index.ts",
+        "author": "drninja777",
+        "posted_time": "21 hours ago",
+        "link": "https://replit.com/bounties/@drninja777/create-a-scraper-tem?t="
+    },
+    {
+        "index": "33",
+        "price": "$1.98",
+        "due_days": "due in 5 days",
+        "title": "Need A Discord Bot With Simple Commands Listed Below",
+        "description": "Im making a new server and need a bot that can act as utilities.\n\nAcceptance Criteria\nYou should be able to make the bot with following commands.\nlock/unlock\ntickets\nembed a message\ncustomizable user logs i set myself\nreaction roles\nmusic would be optional but a huge bonus.\n\nMost of these I've seen easily done in other bots and you may have done already is why im not giving as many credits as I could (also, im running out, lol)",
+        "author": "JoeyLucas1",
+        "posted_time": "20 hours ago",
+        "link": "https://replit.com/bounties/@JoeyLucas1/need-a-discord-bot-w?t="
+    },
+    {
+        "index": "34",
+        "price": "$9.00",
+        "due_days": "due in 3 days",
+        "title": "\"Koi Pond\" Interface for Aphorisms",
+        "description": "I have a Python Flask App project I am working on dealing with Aphorisms:\nhttps://replit.com/@Dprevoznik/Aphorisms?v=1\n\nI would like someone to update the existing \"/\" index page, so that the Aphorism tiles float in from any direction of the screen and float out from another direction. Once they have all floated out of the screen, the \"/random-aphorisms\" endpoint should be called so that the screen is endlessly filled with aphorism tiles. The feel I am going for is a Koi Pond where they float in and out slowly, so users can read the tiles.\n\nAcceptance Criteria\nThe index.html page should load in 8 random tiles from aphorisms.json at a time and have them float across the screen at different times.\nThe tiles should randomly enter from one side of the screen (left, right, top, bottom) and exit out of another side of the screen (left, right, top, bottom) in a straight line.\nThe html page should dynamically call the \"/random-aphorisms\" endpoint from the Python Flask app t...",
+        "author": "Dprevoznik",
+        "posted_time": "21 hours ago",
+        "link": "https://replit.com/bounties/@Dprevoznik/koi-pond-interface-f?t="
+    },
+    {
+        "index": "35",
+        "price": "$20.00",
+        "due_days": "closed",
+        "title": "[Small Bug] Allow FinBERT ai model to run a simple python script in replit ",
+        "description": "This finBERT model python sentiment analysis script runs fine in jupyter notebooks/ Google Colab but results in an error when trying to run it in replit. Here is the traceback:\n\nTraceback (most recent call last):\n  File \"sentiment_analysis.py\", line 1, in\n    from transformers import BertTokenizer, BertForSequenceClassification\n  File \"\", line 1039, in handlefromlist\n  File \"/home/runner/Finbert/venv/lib/python3.8/site-packages/transformers/utils/importutils.py\", line 1084, in getattr_\n    value = getattr(module, name)\n  File \"/home/runner/Finbert/venv/lib/python3.8/site-packages/transformers/utils/importutils.py\", line 1083, in getattr_\n    module = self.getmodule(self.classto_module[name])\n  File \"/home/runner/Finbert/venv/lib/python3.8/site-packages/transformers/utils/importutils.py\", line 1095, in get_module\n    raise RuntimeError(\nRuntimeError: Failed to import transformers.models.bert.modeling_bert because of the following error (look up to see its trace...",
+        "author": "MasonCorliss",
+        "posted_time": "21 hours ago",
+        "link": "https://replit.com/bounties/@MasonCorliss/small-bug-allow-finb?t="
+    },
+    {
+        "index": "36",
+        "price": "$10.00",
+        "due_days": "due in 6 months",
+        "title": "Create a v2.022 Cookie Clicker Save Editor ( Like coderpatsy )",
+        "description": "What I want\nI want to discern and be able to modify save files like it has been done in the past like in v1.0466 and v2.048, but I want it to be for v2.022, be able to do all of the same things as the v2.048 ( up to the limitations of the version ), and include save fixing, bug reporting, and it to be able to determine if the save code is or is not from v2.022, basically all I want is the what coderpatsy did, but for v2.022, and I also want it to include a method of fixing the save data in a way that it does not mess up the in-game achievements, upgrades purchased, etc.\nQuestions?\nDiscord: Altify#0016\nForums\nAdditional Info/Updates - Check Before Application, if blank page, nothing changed, if content, click the visit blog button, yes I made a blogging site just for updates since you cant update a bounty.",
+        "author": "Altify-Developm",
+        "posted_time": "18 hours ago",
+        "link": "https://replit.com/bounties/@Altify-Developm/create-a-v2022-cooki?t="
+    },
+    {
+        "index": "37",
+        "price": "$247.50",
+        "due_days": "due in 3 days",
+        "title": "AI based resume sorter",
+        "description": "Create a Google sheets add on which,\ngiven a Google sheet with LinkedIn profiles of candidates, fill out the additional columns about the candidates.\n\nYears of experience in given field\nDid they graduate from top schools? (Yes/No) [Can scrape a list of top schools online]\nDid they work at top startups? (Yes/No)\nSummary of their experience\n\nAcceptance Criteria\nA Google sheets add on which does the above will be accepted. Need the code as well, ofc.\n\nTechnical Details\nScraping LinkedIn might be the hardest part, use headless browsers if you will or some other tools.\nOpenAI keys tokens will be provided. Use the language or stack of your choice.\n\nBonus\nAllow the user to ask new questions on candidates profile.",
+        "author": "HarshGupta64",
+        "posted_time": "10 hours ago",
+        "link": "https://replit.com/bounties/@HarshGupta64/ai-based-resume-sort?t="
+    },
+    {
+        "index": "38",
+        "price": "$9.00",
+        "due_days": "due in 3 days",
+        "title": "Simple python script to modify a Photoshop file",
+        "description": "I want to be able to modify Photoshop mock up files within my python app. The File has a smart object. The content of the smart object needs to be changed.\n\nExample File:\n\nhttps://www.freepik.com/free-psd/jerzees-pullover-hooded-sweatshirt-mockup_5533437.htm\n\nAcceptance Criteria\n\nWrite the following in python:\n\nOpen PSD file\nReplace the PNG file in the smart object layer.\nsave as JPG file\n\nI tried to do this with the psdtools library, but didn't get it to work.\n\nNote: I don't want to run Photoshop on my machine and interact within via API. It should run inside a python app.",
+        "author": "PaulDelmann",
+        "posted_time": "10 hours ago",
+        "link": "https://replit.com/bounties/@PaulDelmann/simple-python-script?t="
+    },
+    {
+        "index": "39",
+        "price": "$200.00",
+        "due_days": "due in 13 days",
+        "title": "Build a scraper that can work on many different job sites",
+        "description": "I want a scraper that can take in any careers page URL and output the job title and links to apply in the console.\n\nAcceptance Criteria\nApp must use pupeteer stealth and be written in typescript\nApp must correctly scrape a list of ~50 pages I will supply\nApp finds job listing using an array of likely job titles and then finds other matching jobs on the page\nApp looks for links on the jobs and outputs a list of job titles + the link to click on and view the full job.",
+        "author": "drninja777",
+        "posted_time": "7 hours ago",
+        "link": "https://replit.com/bounties/@drninja777/build-a-scraper-that?t="
+    },
+    {
+        "index": "40",
+        "price": "$45.00",
+        "due_days": "due in 24 days",
+        "title": "Dream Studio API text to image +  vertical marketplace to buy/sell commercialize the physical versions",
+        "description": "Text to image generation for physical products is a great tool for inspiration but does not yield production ready design (except possibly for printed products.) For other products (like a shoe for example), professionals are needed, such as traditional product and CAD designers and factory producers.\n\nMy idea is a website that will be a 2 way marketplace to bridge the gap between inspirational designs created by amateurs and pros alike, and the professionals and producers who can turn those designs into reality. AI designs created by anyone can be offered on the site for sale as either concepts, production ready, or actually produced, with the proceeds divided among those involved in bringing them to life.\n\nIt will be somewhat similar to a dribbble.com, artstation.com, or an unsplash.com, but instead of the offerings being created offsite and uploaded, the image creation will take place on our site via dreamstudio api.\n\nThis site will allow anyone, with no (industr...",
+        "author": "Amber332",
+        "posted_time": "7 hours ago",
+        "link": "https://replit.com/bounties/@Amber332/dream-studio-api-tex?t="
+    },
+    {
+        "index": "41",
+        "price": "$5.40",
+        "due_days": "due in 13 days",
+        "title": "Try out our Minecraft bot / AI tutorial!",
+        "description": "Hey there! We are releasing a platform to compete with bots in games! We are looking for folks to try out our first tutorial and provide feedback on the experience, before we release the template to the entire community.\n\nEstimated time to complete: ~30 minutes\n\nIn this tutorial, you will use our platform on https://play.regression.gg to build a Minecraft bot to hunt animals for points in our Ultimate Collector challenge.\n\nTutorial: https://replit.com/@RegressionGames/Harvest-Animals-Bot-Regression-Games?v=1\n\nAcceptance Criteria\nGo through the tutorial\nMake notes about issues you encounter (message us if there are any blockers)\nProvide suggestions and feedback on both the tutorial and general experience",
+        "author": "RegressionGames",
+        "posted_time": "7 hours ago",
+        "link": "https://replit.com/bounties/@RegressionGames/try-out-our-minecraf?t="
+    },
+    {
+        "index": "42",
+        "price": "$5.40",
+        "due_days": "closed",
+        "title": "Try out our Minecraft bot / AI tutorial!",
+        "description": "Hey there! We are releasing a platform to compete with bots in games! We are looking for folks to try out our first tutorial and provide feedback on the experience, before we release the template to the entire community.\n\nEstimated time to complete: ~30 minutes\n\nIn this tutorial, you will use our platform on https://play.regression.gg to build a Minecraft bot to hunt animals for points in our Ultimate Collector challenge.\n\nTutorial: https://replit.com/@RegressionGames/Harvest-Animals-Bot-Regression-Games?v=1\n\nAcceptance Criteria\nGo through the tutorial\nMake notes about issues you encounter (message us if there are any blockers)\nProvide suggestions and feedback on both the tutorial and general experience",
+        "author": "RegressionGames",
+        "posted_time": "9 hours ago",
+        "link": "https://replit.com/bounties/@RegressionGames/try-out-our-minecraf-1?t="
+    },
+    {
+        "index": "43",
+        "price": "$27.00",
+        "due_days": "due in 9 days",
+        "title": "Add Enemies to a Phaser3 Game",
+        "description": "I have a simple Phaser3 game, and I'd like help adding enemies to it.\n\nAcceptance Criteria\nHere is the replit with the existing game: https://replit.com/@dwp/simpleGamePlusEnemies\n\nI'm looking for someone who can:\nAdd 3 enemy sprites at random locations on the map.\nHave the enemies move in random directions but shouldn't be able to move through the walls.\nWhen an enemy collides with the player sprite, show an alert saying \"Game Over!\"",
+        "author": "dwp",
+        "posted_time": "10 hours ago",
+        "link": "https://replit.com/bounties/@dwp/add-enemies-to-a-pha?t="
+    },
+    {
+        "index": "44",
+        "price": "$81.00",
+        "due_days": "due in 4 days",
+        "title": "Chrome extension with google login and api integations",
+        "description": "A chrome extensions needs to be developed. It will have  to support google login. There are essentially two screens in the extension.\nScreen 1 - If the user isn't logged in then a login with google prompt needs to be shown\n\nScreen 2 - When the user is logged in, two textboxes and a dropdown with a CTA will be shown.\nOn clicking the CTA the data from one of the textboxes need to be sent to an api and the response must be added to the other textbox.\nAnd when the api is being processed, all the elements in the UI need to be disabled.\nThe backend api will be provided.\nAlso, design is paramount here, there will be design feedback which  will need to be implemented.\n\nAcceptance Criteria\nAll the mentioned cases need to pass and the chrome extensions needs to be published to the store successfully.",
+        "author": "mahendranaik",
+        "posted_time": "10 hours ago",
+        "link": "https://replit.com/bounties/@mahendranaik/chrome-extension-wit?t="
+    },
+    {
+        "index": "45",
+        "price": "$45.00",
+        "due_days": "due in 6 days",
+        "title": "Build a very simple UI and host a model which is available in collab (details of colab provided))",
+        "description": "I have a Google Colab project that utilizes Python code to perform transcription with OpenAI Whisper. I want to hosted  and create a custom UI .\n\nUI will be  very simple with just a text box and some text area\n\nAcceptance Criteria\n\nWorking UI and with model api's\n\nTechnical Details",
+        "author": "KishoreShimiker",
+        "posted_time": "9 hours ago",
+        "link": "https://replit.com/bounties/@KishoreShimiker/build-a-very-simple?t="
+    },
+    {
+        "index": "46",
+        "price": "$99.90",
+        "due_days": "due in 3 days",
+        "title": "Trip Advisor Review Counter",
+        "description": "I need to automate the process of counting trip advisor reviews posted to a certain account.  I also need to have the quality of the review recorded.  I need the reviews & quality score to be input into a google sheet.  I need this to happen daily.\n\nAcceptance Criteria\n\nTechnical Details",
+        "author": "JonathanMurrell",
+        "posted_time": "11 hours ago",
+        "link": "https://replit.com/bounties/@JonathanMurrell/trip-advisor-review?t="
+    },
+    {
+        "index": "47",
+        "price": "$45.00",
+        "due_days": "due in 3 days",
+        "title": "openai Whisper x Figma plugin bug - need some help",
+        "description": "We are creating a figma plugin TypeScript app that is using open.ai's Whisper - the goal is to let users control figma with voice commands. I am having some issues with jetpack compiling everything using the watch command.\n\nIf it works out well, long-term work potential.\n\nAcceptance Criteria\nI can run the plugin on local env and have the app create a rectangle on the canvas when whisper transcribes \"create rectangle\" from my voice.\n\nTechnical Details\nBoilerplate Figma app plugin for \"design\" and \"run once\"\nTypeScript\nopen.ai (whisper api)\n\nLink to Project",
+        "author": "dillonaux",
+        "posted_time": "14 hours ago",
+        "link": "https://replit.com/bounties/@dillonaux/openai-whisper-x-fig?t="
+    },
+    {
+        "index": "48",
+        "price": "$900.00",
+        "due_days": "due in 6 days",
+        "title": "Full stack dev needed for Scheduling & Booking feature ",
+        "description": "Noodle is a platform for experts to sell their expertise in the form of chat or in person sessions.\n\nAs part of selling in person sessions, experts need the ability to set their availability.\n\nWe need you to build the UI (design provided) that allows an expert to write daily availability blocks to a Noodle availability endpoint.\n\nAcceptance Criteria\nAvailability UI - Webpage & components built per the design that allows an expert to create available time blocks.\n\nCreation of availability blocks - an expert should be able to create multiple availability time blocks per day and write them to Noodle. They should be able to delete availability time blocks as well.\n\nTechnical Details\nFrontend - React, Typescript, Next.js\nBackend - Node.js, Express\nDatabase - Postgres, TypeORM",
+        "author": "noodleshopsinc",
+        "posted_time": "14 hours ago",
+        "link": "https://replit.com/bounties/@noodleshopsinc/full-stack-dev-neede?t="
+    },
+    {
+        "index": "49",
+        "price": "$180.00",
+        "due_days": "due in 25 days",
+        "title": "Bounties Pack - Roam Research Extension & HackerNews Site Template",
+        "description": "Roam Research Extension and HackerNews Site Template\n\nAcceptance Criteria\nOwed to @TechPandaPro",
+        "author": "lopezhoracio",
+        "posted_time": "1 hour ago",
+        "link": "https://replit.com/bounties/@lopezhoracio/bounties-pack-roam-r?t="
+    },
+    {
+        "index": "50",
+        "price": "$10.00",
+        "due_days": "due in 12 days",
+        "title": "\ud83d\udc25 Twitter Like Follower [NoCode/LowCode]",
+        "description": "TLDR: Looking for the ability to follow a users likes on Twitter.\nE.g. UserX likes 1,000 Tweets, they should show up in my feed beside other Tweets.\n\nThis will be a challenge and will need some fiddling with settings. (Not 100% sure it's possible.)\nI think a hint may be in playing around with some of these settings:\na) ActivityTweet\nb) RankedOrganicTweet\nc) suggestactivitytweet\nd) suggest_activity\ne) suggestedrecycledtweet_inline\nf) suggestedgroupedtweet_hashtag\ng) suggestpyletweet\nh) suggestedrankorganic_tweet\ni) suggestrankedtimeline_tweet\nj) suggestrecycledtweet\nk) suggestsctweet\nl) suggest_recap\nm) suggestwhoto_follow\nn) genericactivityHighlights\n\nThere are various guides that summarise how to mute certain features, one of which is displaying the 'User X liked this' on your feed.\nTheoretically, there should be a way to increase the amount of likes shown in your feed by 1 specific user.\n\nThis could look like:\n-Using the Topics feature to 'Follow' some sort of [Us...",
+        "author": "Bandos1000",
+        "posted_time": "12 hours ago",
+        "link": "https://replit.com/bounties/@Bandos1000/twitter-like-followe?t="
+    },
+    {
+        "index": "51",
+        "price": "$200.00",
+        "due_days": "due in 24 days",
+        "title": "Bounties Pack - Roam Research Extension & HackerNews Site Template",
+        "description": "Roam Research Extension and HackerNews Site Template\n\nAcceptance Criteria\nOwed to @TechPandaPro",
+        "author": "lopezhoracio",
+        "posted_time": "14 hours ago",
+        "link": "https://replit.com/bounties/@lopezhoracio/bounties-pack-roam-r-1?t="
+    },
+    {
+        "index": "52",
+        "price": "$0.90",
+        "due_days": "closed",
+        "title": "Bug: Interactive REPL",
+        "description": "Just a little help with my code",
+        "author": "hdbu",
+        "posted_time": "13 hours ago",
+        "link": "https://replit.com/bounties/@hdbu/bug-interactive-repl?t="
+    },
+    {
+        "index": "53",
+        "price": "$0.90",
+        "due_days": "closed",
+        "title": "Bug: JavaScript Bug",
+        "description": "There is a bug in the JavaScript code on our website that is causing a specific feature to not function properly. We need someone to find and fix this bug.\n\nAcceptance Criteria\n\nThe JavaScript bug causing the feature to not function properly is fixed\nThe feature functions as expected after the fix has been implemented\nThe fix does not cause any other issues or break any other parts of the website\nThe fix is well-documented and easy to understand",
+        "author": "hdbu",
+        "posted_time": "13 hours ago",
+        "link": "https://replit.com/bounties/@hdbu/bug-javascript-bug?t="
+    },
+    {
+        "index": "54",
+        "price": "$90.00",
+        "due_days": "due in 6 days",
+        "title": "Parse a Structured PDF report.",
+        "description": "Our users have to digest a long PDF data report to extract a few pieces of information and make simple addition calculations to complete another task.  We have a Bubble application that utilizes Xano database where the users currently upload and store this pdf report, open it, read it, find the relevant fields, make the manual calculations and then complete their task.  This program should parse and provide the relevant fields as well as the calculated fields.\n\nSample PDF:\nhttps://drive.google.com/file/d/1BDwaWXlWF7Yz0LeI3kpE4sBKJnFEV_9T/view?usp=sharing\n\nAcceptance Criteria\nThe program should have an api to receive the report from Bubble, parse the data and store it in a way that individual fields can be called, and an api to return the needed fields to Bubble.",
+        "author": "FrankieSoriano",
+        "posted_time": "12 hours ago",
+        "link": "https://replit.com/bounties/@FrankieSoriano/parse-a-structured-p?t="
+    },
+    {
+        "index": "55",
+        "price": "$19.80",
+        "due_days": "due in 8 days",
+        "title": "Virtual Muslim Prayer App",
+        "description": "Here is a brief outline of how the app could work:\n\nThe user selects their current location or enters a custom location.\nThe app displays the current local prayer times and the names of the prayers (Fajr, Dhuhr, Asr, Maghrib, Isha).\nThe user can choose to join a virtual prayer session with other users or pray individually.\nIf the user chooses to join a virtual prayer session, the app shows a list of nearby mosques and their prayer times. The user can select a mosque to join the prayer session at the designated time.\nIf the user chooses to pray individually, they can select a prayer from the list and the app will provide an audio recording of the prayer in Arabic with English translation.\nThe app also includes a feature to set reminders for the daily prayer times.\n\nAcceptance Criteria\nThe app should have a functional sign up and login system\nThe app should accurately display the Qibla direction for the user's location\nThe app should display a Hadith or Quranic verse ...",
+        "author": "Sarfrazkhan18",
+        "posted_time": "12 hours ago",
+        "link": "https://replit.com/bounties/@Sarfrazkhan18/virtual-muslim-praye?t="
+    },
+    {
+        "index": "56",
+        "price": "$180.00",
+        "due_days": "due in 13 days",
+        "title": "Create a Sign-in Component",
+        "description": "Business Value\nI want a sign-in component that allows users to connect to my platform using different authentication methods.\n\nAcceptance Criteria\n\nAC0: The sign-in in the component must be done in the front-end using React and in the backend with Python (ideally using Django)\nAC1: The sign-in displays three different authentication methods:\nSocial login using Twitter, Google, and Apple\nPasswordless email\nConnect Wallet (Metamask, Coinbase Wallet, Wallet Connect)\n\nAC2: Given a user authenticates for the first time (so registering) using the Social Login, or passwordless email, then a wallet is created using a custodial wallet API (will define and give Access to the API to create this wallet)\nAC3:  The exact authentication flow will be sent as a Figjam draw in Discord\nAC4: The UI/UX will be sent as a Figma Prototype in Discord",
+        "author": "AlexR71",
+        "posted_time": "13 hours ago",
+        "link": "https://replit.com/bounties/@AlexR71/create-a-sign-in-com?t="
+    },
+    {
+        "index": "57",
+        "price": "$99.00",
+        "due_days": "due in 3 days",
+        "title": "Improvements to Spelling Bee with Friends Game",
+        "description": "Link to Project\nhttps://replit.com/@lakshman111/Spelling-Bee\nThis project allows users who like playing the NYT Spelling Bee game to play it with friends.\n\nLanguages used (and that you will need to know how to use)\nFrontend is in HTML/CSS/Javascript\nBackend is in Python\n\nAcceptance Criteria\nOn the /play page (LINK TO NEW DESIGN: https://share.balsamiq.com/c/cTJVo8rZgDm35giaPQ717a.png), change the \u201cShare\u201d button into a block below the game (the below is inspired from: https://wordplay.com/challenge/new).  I will refer to this as the \u201cChallenge Box\u201d.\n  Line 1 text: Challenge your friends to beat your score:\n  Line 2 text: https://spelling-bee.icemastereric.repl.co/play?id=64\n  Button: \u201cCopy Link To Clipboard\u201d (filled in as the primary button in green).  On click, change the button into \u201cCopied\u201d.  Change back to \u201cCopy Link to Clipboard\u201d after 3 seconds (Loom example showing this animation: https://www.loom.com/share/0bf3e84b5258419cacd8475686d33cfe)\nOn the /play page, below the \u201cChallenge...",
+        "author": "lakshman111",
+        "posted_time": "11 hours ago",
+        "link": "https://replit.com/bounties/@lakshman111/improvements-to-spel?t="
+    },
+    {
+        "index": "58",
+        "price": "$153.00",
+        "due_days": "due in 13 days",
+        "title": "Amazon product reviews summary",
+        "description": "I am planning to see how we can apply OpenAI for say better understanding the voice of a customer and reduce my time to read through myriad of reviews on Amazon.  I need working code and UI based in Python with a simple input interface.\n\nAcceptance Criteria\nA. Create a simple page where the user adds an Amazon product detail page URL as the input. The URL will be in a format such as https://www.amazon.com/dp/B08NG8WFX5/ where B08NG8WFX5 is the product (called \"ASIN\").\nB. From this ASIN, scrap all of Amazon's reviews. Reviews can be found on a separate page such as https://www.amazon.com/product-reviews/B08NG8WFX5/.\nC. Use OpenAI to analyze the reviews.\nD. Summarize the reviews in a specified word length, input by the user (e.g., 200 words or even 20 words).\nE. Summarize reviews in specific groups with strengths and weaknesses.",
+        "author": "mskreplit",
+        "posted_time": "10 hours ago",
+        "link": "https://replit.com/bounties/@mskreplit/amazon-product-revie?t="
+    },
+    {
+        "index": "59",
+        "price": "$45.00",
+        "due_days": "due in 7 days",
+        "title": "Pulling some data using simfin api",
+        "description": "I need someone to use the simfin.com API to create a backtesting app for suggested portfolios. E.g., I can set conditions (P/E lower than 10, and FCF higher than $500m etc), set a date (10th of March 2018), and be able to get a list of stocks + their purchase prices. For extra credit I'd love for the purchase basket (all the stocks defined above) to be rebalanced at defined intervals (monthly/ quarterly/ yearly) if chosen.\n\nAcceptance Criteria\nAbility to input the defined criteria as above and get a table with the results.",
+        "author": "strangeloopcanon",
+        "posted_time": "10 hours ago",
+        "link": "https://replit.com/bounties/@strangeloopcanon/pulling-some-data-us?t="
+    },
+    {
+        "index": "60",
+        "price": "$20.07",
+        "due_days": "due in 13 days",
+        "title": "Enhance Excel Formula Generation App with Authentication, Signing, and Pricing Features with NodeJS",
+        "description": "We are looking for a developer to enhance an existing Excel formula generation app with the following features:\n\nAuthentication: Allow users to log in to the app using their Replit or Google accounts.\nSigning: Allow users to sign in to the app using their accounts.\nPricing: Implement a paywall for advanced formula generation tasks, with the option to purchase credits to use the app.In addition to these features, we would like to train the app to generate formulas for more complex prompts, using the best available OpenAI model. My previous devwloper has left enough room to competw this work.\n\nAcceptance Criteria\nTo qualify for this bounty, you should have experience working with the OpenAI API and implementing authentication and pricing features in web applications.",
+        "author": "Sarfrazkhan18",
+        "posted_time": "10 hours ago",
+        "link": "https://replit.com/bounties/@Sarfrazkhan18/enhance-excel-formul?t="
+    },
+    {
+        "index": "61",
+        "price": "$1.80",
+        "due_days": "due in 3 days",
+        "title": "Data Entry in Form",
+        "description": "I need someone to take some data from websites I will provide and enter it into a form, for a language learning app.\n\nNo need to know the language or any coding experience, I just need a large amount of words around 400-500 words copy pasted",
+        "author": "CoderGautamYT",
+        "posted_time": "9 hours ago",
+        "link": "https://replit.com/bounties/@CoderGautamYT/data-entry-in-form?t="
+    },
+    {
+        "index": "62",
+        "price": "$4.50",
+        "due_days": "due in 13 days",
+        "title": "telegram marketing  auto add member to group. atuo send msg",
+        "description": "Describe the problem you are trying to solve here.\nhere is my code :https://replit.com/@carterwu768210/addmember-telegram#main.py\nhi , i add telegtam sessions to login accounts\nthen i wanna use each account to add members from source group to target group.\nproblem is when i use server IP loop logining too many times . i got error\n\"2023-01-06 13:57:36.182 INFO mtprotosender - _disconnect: Disconnection from 149.154.175.53:443/TcpFull complete!\"\nit means that ,telegram doesn't accept loop login and auto logout all my sessions\n\nAcceptance Criteria\nBe specific about what you want in the solution here.\ni wanna someone to help me to slove this problems ,maybe with porxy.\ni have saw other people who is able to add 2000 members in one group easy , so there must be a solution\nthe add member function is at main.py\ninit .py  i dont use . because i bought all accounts they offer sessions already.\nget_members.py  it help to creat the json in data .so that  main.py can read the j...",
+        "author": "carterwu768210",
+        "posted_time": "16 minutes ago",
+        "link": "https://replit.com/bounties/@carterwu768210/telegram-marketing-a?t="
+    },
+    {
+        "index": "63",
+        "price": "$8.00",
+        "due_days": "due in 1 month",
+        "title": "Making A Game Site Template",
+        "description": "I Need A Site Template For Games That Makes It Easier For People To Work On With Minimal To No Coding Experience. I Also Want It To Be Customed. (Like If Someone Forks It And Changes It, It Still Says Like Part Of So And So)\nAcceptance Criteria\nSkilled IN CSS, HTML and Other Languages.\nTechnical Details\nTo Be Discussed\nTimelines / Milestones\nNo Timeline But Trying To Get Done As Soon As Possible",
+        "author": "UkeBoi",
+        "posted_time": "14 hours ago",
+        "link": "https://replit.com/bounties/@UkeBoi/making-a-game-site-t?t="
+    },
+    {
+        "index": "64",
+        "price": "$45.00",
+        "due_days": "due in 6 days",
+        "title": "Use Slack API to add Titles to everyone in workspace",
+        "description": "I have a Slack workspace with 300+ people, but not everyone has included their Title and Company which is less useful for the community. I want to use the Slack API to fill out this info for them. I'd like to be able to give you a CSV with everyone's info and then have this info get added to our Slack workspace.\n\nAcceptance Criteria\nA script that successfully takes a CSV and adds this information to the appropriate fields on each person's profile in a Slack workspace.\n\nTechnical Details\nWill need to use the Slack API\n\nLink to Project",
+        "author": "DaysiGomez",
+        "posted_time": "14 hours ago",
+        "link": "https://replit.com/bounties/@DaysiGomez/use-slack-api-to-add?t="
+    },
+    {
+        "index": "65",
+        "price": "$67.50",
+        "due_days": "due in 30 days",
+        "title": "MVP web app for students to submit screen/webcam recordings of flashcard reviews",
+        "description": "We'd like to create a basic web app that allows teachers to create sets of 2-sided digital \"flashcards\" and assign them to students; and then allows students to submit a combination screen recording/webcam recording of themselves reviewing the flashcards. The recording should show both what the student is seeing on the screen as the student navigates through the cards (click on a card to show the other side; then click a button to see the next card); and also the student's webcam view as he/she states the answers to questions out loud.\n\nAcceptance Criteria\nAccount creation for teachers (who can create flashcards)\nAccount creation for students (who can view flashcards)\nAbility of teachers to assign a set of flashcards to a student\nAbility of students to see the assignment\nAbility of students to record a flashcard review and submit it to teacher\nNotification for teachers when an assignment is submitted\nWhatever infrastructure is needed to support video storage\n\nFor th...",
+        "author": "MichaelRegnier",
+        "posted_time": "17 hours ago",
+        "link": "https://replit.com/bounties/@MichaelRegnier/mvp-web-app-for-stud?t="
+    },
+    {
+        "index": "66",
+        "price": "$360.00",
+        "due_days": "due in 2 months",
+        "title": "Project Medici, the ultimate AI tool for Founders and their Team to make them Superhuman",
+        "description": "Looking to utilize OpenAI's API to create an AI//JARVIS assistant to optimize founders, employees, and Users' day-to-day professional lives. Think of Project Medici as the ultimate right-hand person who can make a User do more with less based on the Users professional objectives and goals which are aligned with the overall company mission, values, and vision. Project Medici can guide, recommend and aide the user in any type of work decision or item to work on to reach their professional goals.\n\nStory 1 (Weeks 1 & 2)\n\u25cf As a user [User type: Founder], I am able to onboard by directly talking with Project Medici\u2019s chat.\n\u25cf I am able to set/map my business, my team members, and each member\u2019s\nroles/responsibilities.\n\u25cf I am able to answer Project Medici\u2019s \u201ccalibration\u201d questions which then creates a high-level \u201cprofile\u201d of my business, of which Project Medici will use to best understand my company and understand its hierarchy and to perfect its mapping.\n\u25cf I am able to upload my company\u2019s corp...",
+        "author": "JOkun1",
+        "posted_time": "15 hours ago",
+        "link": "https://replit.com/bounties/@JOkun1/project-medici-the-u?t="
+    },
+    {
+        "index": "67",
+        "price": "$18.00",
+        "due_days": "due in 4 days",
+        "title": "Break down a project scope of work into specific coding tasks, languages and deliverables ",
+        "description": "I need help to provide detailed explanations on the programming steps needed to create the project in our SOW. (Will be provided from Notion read-only link)\n\nAcceptance Criteria\nConfident can provide detailed description of steps needed to complete the 3 Phases (design, features & functionality, deployment). Include all languages, systems, libraries, number of programmers and likely timeframe.\nExperience in Project Management\nKnows requirements for WebFlow (Front-end designs), Metamask integrations (Crypto/NFTs integrations) & BackEnd gaming engine design.",
+        "author": "marcandreranger",
+        "posted_time": "20 hours ago",
+        "link": "https://replit.com/bounties/@marcandreranger/break-down-a-project?t="
+    },
+    {
+        "index": "68",
+        "price": "$45.00",
+        "due_days": "due in 2 days",
+        "title": "Find 'like' text concepts in documents using OpenAI  Completion API called by Python",
+        "description": "Given a text snippet of between 10 and 200 words AND a few .txt documents, write Python code to use OpenAI's Text Completion AI to search the .txt documents for concepts or snippets that are 'like' the ones supplied as label examples (if any can be found in these documents)\nInterface should look similar to the below (creating the right prompt is the key, I think - how to include both the snippets and .txt docs as part of the prompt is perhaps the tricky part - but I haven't yet tried)\n\nresponse = openai.Completion.create(\n  model = \"text-davinci-003\",\n  prompt = prompt,\n  temperature = .1,\n  max_tokens = 800,\n  top_p = 1,\n  frequency_penalty = 0,\n  presence_penalty = 0\n)\n\nLink to Project",
+        "author": "YorkvilleDS",
+        "posted_time": "21 hours ago",
+        "link": "https://replit.com/bounties/@YorkvilleDS/find-like-text-conce?t="
+    },
+    {
+        "index": "69",
+        "price": "$450.00",
+        "due_days": "due in 12 days",
+        "title": "GPT-3 Chatbot For Tech Support",
+        "description": "I'm looking for someone to build a GPT-3 chatbot that can answer everyday questions about technology. The chatbot should be accessible through the web and by texting a phone number.\n\nAcceptance Criteria\nChatbot should be able to maintain context of last N messages and answer basic tech questions in a simple, friendly manner\nChatbot should be accessible by texting a specified number\nChatbot should be accessible by through a web-based interface that mimics the UI/UX of a text conversation\n\nTechnical Details\nChatbot should be powered by GPT-3\nBackend should be built in Node.js\nText conversations should go through an existing OpenPhone number\nWebsite should be built in React",
+        "author": "incompl",
+        "posted_time": "20 hours ago",
+        "link": "https://replit.com/bounties/@incompl/gpt-3-chatbot-for-te?t="
+    },
+    {
+        "index": "70",
+        "price": "$90.00",
+        "due_days": "due in 5 days",
+        "title": "Website that creates documents, Google authentication",
+        "description": "user should be able to login via Google authentication. Submit a form with text input. Generate a word document using user input. App should be able to manage documents\n\nAcceptance Criteria\nFull completion\n\nTechnical Details\ngoogle auth\nopen to any dev language\n\nTimelines / Milestones\npayment of full completion.\ndue within one week",
+        "author": "BrandonF7",
+        "posted_time": "23 hours ago",
+        "link": "https://replit.com/bounties/@BrandonF7/website-that-creates?t="
+    },
+    {
+        "index": "71",
+        "price": "$18.00",
+        "due_days": "due in 12 days",
+        "title": "twitter bot using GPT3 and AI",
+        "description": "help me create a twitter bot using openAI API\n\ncontact me for more details\n\nshould be relatively simple",
+        "author": "nathanpratt2",
+        "posted_time": "24 hours ago",
+        "link": "https://replit.com/bounties/@nathanpratt2/twitter-bot-using-gp?t="
+    },
+    {
+        "index": "72",
+        "price": "$180.00",
+        "due_days": "due in 2 days",
+        "title": "Tweet Search - PostgreSQL, Pinecone, OpenAI",
+        "description": "Write code that lets me upload a CSV file filled with tweets and names --> creates a psql database with two columns 'tweets' and 'names'.\n\nThen pass the data through OpenAIs latest embeddings model to generate a series of vectors and store those vectors in a Pinecone Index.\n\nThen let me perform a text search over these vectors and show me the 5 most relevant tweets --> then send those tweets back into a separate psql db.\n\nAcceptance Criteria\n\nTechnical Details\nPostgreSQL\nPython\nPinecone\nOpenAI\n\nLink to Project",
+        "author": "AshPrabaker1",
+        "posted_time": "1 day ago",
+        "link": "https://replit.com/bounties/@AshPrabaker1/tweet-search-postgre?t="
+    },
+    {
+        "index": "73",
+        "price": "$21.60",
+        "due_days": "due in 12 days",
+        "title": "Basic Chat App using Supabase",
+        "description": "I want to build in chat to my web games. I can use socket.io which is okay, but I want to experiment with using Supabase for chat.\n\nAcceptance Criteria\nI want a simple vanilla HTML, CSS, JS application - no frameworks.\nno python, rust, non JS frameworks on back end.\nLog in via supabase auth.\nPresent a list of public rooms or create a new room\nUpdate your username and save to supabase\nJoin a room and chat\nLeave a room and join + create another\nLog out / log in - your username is preserved\nkeep session so if you reload page you are still logged in / out\ncode is Node.js based\ncode is simple to understand and reasonably documented\ncode must be your own and not copied from another project\nrights to code transfer to me upon completion of bounty - however you will be credited if the code is used in a public project\nyou must use Supabase as the instant messaging system\n\nNice to haves:\nrate limiting on messages\nadmin block / remove / ban users\nmobile friendly\nnice UI",
+        "author": "triptych",
+        "posted_time": "19 hours ago",
+        "link": "https://replit.com/bounties/@triptych/basic-chat-app-using?t="
+    },
+    {
+        "index": "74",
+        "price": "$180.00",
+        "due_days": "due in 3 days",
+        "title": "Write script to download files from https://tour.carta.com",
+        "description": "I need a script that uses a headless browser (please use playwright and not selenium or puppeteer) to do the following:\n\nLog in to https://tour.carta.com as a Company Administrator.\nDownload every file for a specific company (an example company in the tour is Meetly).\nSave the files to a zip file that the user of the script can download.\n\nThis is the list of places where you'll find files to download:\n\nCompany > Library (https://tour.carta.team/corporations/7/library/)\nCompany > Data Rooms (https://tour.carta.team/data-rooms/7/#/)\nSecurities > All different types (Shares, Equity Awards, Warrants, Convertibles) > Click individual securities to open the modal > Click \"Documents and notes\" > Download those files\nSecurities > Templates > Document Sets\n\nBe aware that under a section like Securities > Equity Awards there can be multiple tabs (Options, RSAs, RSUs, SARs, CBUs, Profit Interests), so you'll need to visit each of those tabs and download the files for all thos...",
+        "author": "AdsoVonMelk",
+        "posted_time": "19 hours ago",
+        "link": "https://replit.com/bounties/@AdsoVonMelk/write-script-to-down?t="
+    },
+    {
+        "index": "75",
+        "price": "$0.90",
+        "due_days": "closed",
+        "title": " Anything :  threejs, js, html, css, socket io, and p5js ",
+        "description": "Anything you want me to create within my knowledge I am willing to complete or attempt. I am always  down for a challenge.",
+        "author": "JumaAboke",
+        "posted_time": "16 hours ago",
+        "link": "https://replit.com/bounties/@JumaAboke/anything-threejs-js?t="
+    },
+    {
+        "index": "76",
+        "price": "$0.90",
+        "due_days": "closed",
+        "title": "Bug: Website Login Feature",
+        "description": "We are experiencing an issue with our website's login feature. When users try to log in, they are receiving an error message saying that their login credentials are incorrect, even when they are entering the correct information. We need someone to identify the cause of this issue and fix it.\n\nAcceptance Criteria\n\nThe login feature is functional and allows users to log in with the correct credentials\nThe error message no longer appears when users enter correct login credentials\nThe fix does not cause any other issues or break any other parts of the website\nThe fix is well-documented and easy to understand",
+        "author": "hdbu",
+        "posted_time": "17 hours ago",
+        "link": "https://replit.com/bounties/@hdbu/bug-website-login-fe?t="
+    },
+    {
+        "index": "77",
+        "price": "$90.00",
+        "due_days": "due in 13 days",
+        "title": "AI-Powered Chatbot Trained on the content of my blog",
+        "description": "Enable users to get any answers based on the content within the blog. The ChatBot needs to be fine-tuned on the content of the blog.\n\nAcceptance Criteria\nThe main goal is to create a business bot that is able to provide any business-related answer, leveraging GPT-3 and fine-tuning the content on a blog.",
+        "author": "GennaroCuofano",
+        "posted_time": "13 hours ago",
+        "link": "https://replit.com/bounties/@GennaroCuofano/ai-powered-chatbot-t?t="
+    },
+    {
+        "index": "78",
+        "price": "$2.70",
+        "due_days": "closed",
+        "title": "Create script to upload multiple files in site",
+        "description": "I have a site on which I can upload one file at a time through a modal/api.\n\nI would like to create a script on the client side which can upload multiple files the same way. It can be a simple script I can run on the browser Console, or a chrome extension.",
+        "author": "CoderGautamYT",
+        "posted_time": "16 hours ago",
+        "link": "https://replit.com/bounties/@CoderGautamYT/create-script-to-upl?t="
+    },
+    {
+        "index": "79",
+        "price": "$900.00",
+        "due_days": "due in 3 months",
+        "title": "ActivityPub Integration with Minds",
+        "description": "Minds is looking to support ActivityPub in a similar level to Pleroma or Mastodon in order to join the fediverse. Some initial work has been started, which may or may not be helpful.\n\nAcceptance Criteria\n\nMust work in Chrome, Firefox, Safari including mobile web\nMust include near equivalent ActivityPub functionality to Mastodon\nMust reuse as many existing design components as possible and coordinate with Minds team to approve designs and implementation strategy\n\nTechnical Details\n\nhttps://developers.minds.com\n\nLink to Project\n\nhttps://gitlab.com/minds/minds/-/issues/90",
+        "author": "mindsorg",
+        "posted_time": "17 hours ago",
+        "link": "https://replit.com/bounties/@mindsorg/activitypub-integrat?t="
+    },
+    {
+        "index": "80",
+        "price": "$0.90",
+        "due_days": "due in 12 days",
+        "title": "[Discord bot] [Less than 3 minutes] Add a footer to bot",
+        "description": "I need someone to add a footer to my discord bots embed and set the bots about me!\nAcceptance Criteria\nMust have a discord account in the application or linked to your replit account\n\nMUST KNOW DISCOR.JS",
+        "author": "OddGames",
+        "posted_time": "14 hours ago",
+        "link": "https://replit.com/bounties/@OddGames/discord-bot-less-tha?t="
+    },
+    {
+        "index": "81",
+        "price": "$9.00",
+        "due_days": "closed",
+        "title": "Python + Playwright Cron in Docker Container",
+        "description": "I need a Docker container that runs a python script to execute playwright. The docker container should run a cron job inside to run the python script every 5 minutes.\n\nAcceptance Criteria\nA Python script that loads a webpage using Playwright. No logic needs to be executed on the page.\nA Dockerfile to run the python script in a container. It should also run a cron inside the container to run the python script every 5 minutes",
+        "author": "oAkeDCH",
+        "posted_time": "15 hours ago",
+        "link": "https://replit.com/bounties/@oAkeDCH/python-playwright-cr?t="
+    },
+    {
+        "index": "82",
+        "price": "$108.00",
+        "due_days": "due in 2 days",
+        "title": "aws cross account access for users federated via  azure AD ",
+        "description": "as a federated user who is authenticated via sso with 2FA enabled i need to be able to switch between aws accounts within an aws organization.\n\ne.g. a federated user needs to assume role A in master payer account (account #1) and role B sub-account (account #2).\n\nAcceptance Criteria\ntrust relationships must be defined (or checked) between role A and role B\nuser does not have to assume a role via the cli; federated user in question can swap back and forth between role A and role B\nscript can be run locally, or from within the sub account (account #2)\n\nTechnical Details\nusers are authenticated via sso through azure active directory\n2FA through duo\nrole A in account #1 is responsible for collecting data across sub accounts; it is read only\nrole B in account #2 will be responsible for running the script;\norder of operations: federated user (or an application) assumes role B, role B assumes role A, role A gathers all necessary data, federated user (or an application) ass...",
+        "author": "xxyjoel",
+        "posted_time": "13 hours ago",
+        "link": "https://replit.com/bounties/@xxyjoel/aws-cross-account-ac?t="
+    },
+    {
+        "index": "83",
+        "price": "$0.90",
+        "due_days": "closed",
+        "title": "Bug: Mobile Version unstable",
+        "description": "There is a bug in the mobile version of our website that is causing the layout to break and certain elements to overlap. This issue is only present on mobile devices and does not occur on desktop. We need someone to identify and fix this bug.\n\nAcceptance Criteria\n\nThe layout of the mobile version of the website is correct and all elements are displayed properly\nThe overlap issue is resolved\nThe fix does not cause any other issues or break any other parts of the mobile website\nThe fix is well-documented and easy to understand",
+        "author": "hdbu",
+        "posted_time": "12 hours ago",
+        "link": "https://replit.com/bounties/@hdbu/bug-mobile-version-u?t="
+    },
+    {
+        "index": "84",
+        "price": "$180.00",
+        "due_days": "due in 5 days",
+        "title": "Event Selection Web Service",
+        "description": "web application where users can create an event. When event(10 day event) is created users can choose from two options. One, daily email. Second, calendar invite with ten consecutive days. Free users get access to limited list of events. Paid users get access to all events. Collect information on what they want to learn from event. When event is created user can share social media (twitter/Facebook) that they started an event. When event has completed user can share on social media that they completed event.\n\nAcceptance Criteria\nall webpages and backend verified\n\nTechnical Details\nlanding page\ngoogle authentication\nstripe integration\nevents page (two sections; free and paid)\nevent details page - collects information about user (goal of event)\nuser dashboard - lists in progress events\nmanagement page to create/edit/delete events (title and description)\n\nTimelines / Milestones\none week",
+        "author": "BrandonF7",
+        "posted_time": "12 hours ago",
+        "link": "https://replit.com/bounties/@BrandonF7/event-selection-web?t="
+    },
+    {
+        "index": "85",
+        "price": "$0.90",
+        "due_days": "closed",
+        "title": "Feature: Delete Message",
+        "description": "I've implemented this feature already, just need a quick fix.",
+        "author": "hdbu",
+        "posted_time": "11 hours ago",
+        "link": "https://replit.com/bounties/@hdbu/feature-delete-messa?t="
+    },
+    {
+        "index": "86",
+        "price": "$27.00",
+        "due_days": "due in 12 days",
+        "title": "Sawtooth Marketplace Example",
+        "description": "Get this public archive to run on a private Repl\nAcceptance Criteria\n      Can run this example with simple instructions\nTechnical Details\n     I prefer to work in Python and will use this example to build further using the Python SDK\nLink to Project\nhttps://github.com/hyperledger/sawtooth-marketplace",
+        "author": "SamuelSlusher",
+        "posted_time": "10 hours ago",
+        "link": "https://replit.com/bounties/@SamuelSlusher/sawtooth-marketplace?t="
+    },
+    {
+        "index": "87",
+        "price": "$270.00",
+        "due_days": "due in 12 days",
+        "title": "CryptPad Calendar Telegram Bot",
+        "description": "Currently using CryptPad Calendar. Need it connected to a Telegram Bot (2-Way Messaging)\n\nAcceptance Criteria\nThree key features:\n\nDaily Push of {Today} Calendar, including notes within an event (Receive)\nPre-event alert {1h} for all events (Receive)\nCreate Calendar Event from Telegram (Send)\n\nDocs\nCryptPad: https://docs.cryptpad.org/en/\nTG: https://core.telegram.org/bots/api",
+        "author": "hyperion335",
+        "posted_time": "10 hours ago",
+        "link": "https://replit.com/bounties/@hyperion335/cryptpad-calendar-te?t="
+    },
+    {
+        "index": "88",
+        "price": "$0.90",
+        "due_days": "due in 3 days",
+        "title": "Help with canvas [JAVASCRIPT]",
+        "description": "I need some help wih a veerrrt simple thing about js canvas. bekos I am stopiv.\nYou csn earn some free cycles!\n\nGoofy ah typo!",
+        "author": "MNA4",
+        "posted_time": "4 hours ago",
+        "link": "https://replit.com/bounties/@MNA4/help-with-canvas-jav?t="
+    },
+    {
+        "index": "89",
+        "price": "$4.50",
+        "due_days": "due in 13 days",
+        "title": "Need Server Mass DM Tool Discord ",
+        "description": "Need full custom discord mass dm tool. Paying 500 Cycles for that or maybe more!",
+        "author": "ItsLmn5555",
+        "posted_time": "3 hours ago",
+        "link": "https://replit.com/bounties/@ItsLmn5555/need-server-mass-dm?t="
+    },
+    {
+        "index": "90",
+        "price": "$4.50",
+        "due_days": "due in 13 days",
+        "title": "Mass Bot Adder Discord Tool",
+        "description": "Need custom mass bot adder in server tool. Which can add bot to server by solving hCaptcha automatically!",
+        "author": "ItsLmn5555",
+        "posted_time": "3 hours ago",
+        "link": "https://replit.com/bounties/@ItsLmn5555/mass-bot-adder-disco?t="
+    },
+    {
+        "index": "91",
+        "price": "$0.90",
+        "due_days": "due in 13 days",
+        "title": "Bug: Shopping Cart",
+        "description": "There is a bug in the shopping cart feature of our website that is causing the item quantities to not update correctly. When a user increases the quantity of an item in their cart, the total price does not update to reflect the change. We need someone to find and fix this bug.\n\nAcceptance Criteria\n\nThe item quantities in the shopping cart update correctly and the total price reflects the changes\nThe fix does not cause any other issues or break any other parts of the shopping cart feature\nThe fix is well-documented and easy to understand",
+        "author": "hdbu",
+        "posted_time": "1 minute ago",
+        "link": "https://replit.com/bounties/@hdbu/bug-shopping-cart?t="
+    }
+]
