@@ -927,7 +927,7 @@ The Podcast bot should be able to respond to style prompts for the host - e.g. "
 There should also be an ability for an admin to input those prompts, which creates a link that can be sent to a Guest to be interviewed.
 the end product should be a finished podcast ready to be published on a podcasting platform
 a full transcript should also be produced
-show notes should ...",metalburritos,59 minutes ago,https://replit.com/bounties/@metalburritos/podcast-with-ai-host?t=
+show notes should ...",metalburritos,1 hour ago,https://replit.com/bounties/@metalburritos/podcast-with-ai-host?t=
 97,$630.00,due in 13 days,Fake Twitter Post Creator,"People like to laugh and poke fun of situations. What better way than memes? Well, twitter fake ""posts"" could be hilarious of used properly in meme fashion. Well... this is the app! Fake twitter post creator.
 
 Acceptance Criteria
@@ -935,4 +935,4 @@ Create a mini-web-app that allows users to create a Fake Twitter Post – where 
 The app allows the ability to add 1 reply to the initial tweet with similar customization (e.g., message, handle, avatar, # of likes)
 The mini-app pulls in information related to the user inputted via the Twitter API including the profile picture, name, and handle based on an inputted twitter profile
 The look/feel and design of the fake post should mimic what is currently live on twitter, with some subtle differences in colour so that it is apparent it isn't real
-A live preview of the changes are shown to the user, with a watermark/url on the meme fake post (as users will right-click be able to...",jarednxx,9 minutes ago,https://replit.com/bounties/@jarednxx/fake-twitter-post-cr?t=
+A live preview of the changes are shown to the user, with a watermark/url on the meme fake post (as users will right-click be able to...",jarednxx,19 minutes ago,https://replit.com/bounties/@jarednxx/fake-twitter-post-cr?t=
