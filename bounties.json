@@ -876,7 +876,7 @@
         "title": "CryptPad Calendar Telegram Bot",
         "description": "Currently using CryptPad Calendar. Need it connected to a Telegram Bot (2-Way Messaging)\n\nAcceptance Criteria\nThree key features:\n\nDaily Push of {Today} Calendar, including notes within an event (Receive)\nPre-event alert {1h} for all events (Receive)\nCreate Calendar Event from Telegram (Send)\n\nDocs\nCryptPad: https://docs.cryptpad.org/en/\nTG: https://core.telegram.org/bots/api",
         "author": "hyperion335",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@hyperion335/cryptpad-calendar-te?t="
     },
     {
@@ -956,7 +956,7 @@
         "title": "Deploy ML app on AWS",
         "description": "Deploy a simple ML app to AWS.  We have a Whisper AI + DeepL app that translates + transcribes YouTube videos in bulk. We're looking to deploy it to an AWS instance with GPU optimized for this type of work.\n\nAcceptance Criteria\nThe app is successfully running on AWS instance\nThe app is password protected\nThe app is accessible via domain (we will point the domain per your instructions)",
         "author": "AlexZatvor",
-        "posted_time": "56 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@AlexZatvor/deploy-ml-app-on-aws?t="
     }
 ]
