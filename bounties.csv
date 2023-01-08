@@ -882,8 +882,8 @@ TG: https://core.telegram.org/bots/api",hyperion335,17 hours ago,https://replit.
 You csn earn some free cycles!
 
 Goofy ah typo!",MNA4,12 hours ago,https://replit.com/bounties/@MNA4/help-with-canvas-jav?t=
-89,$4.50,due in 13 days,Need Server Mass DM Tool Discord ,Need full custom discord mass dm tool. Paying 500 Cycles for that or maybe more!,ItsLmn5555,11 hours ago,https://replit.com/bounties/@ItsLmn5555/need-server-mass-dm?t=
-90,$4.50,closed,Mass Bot Adder Discord Tool,Need custom mass bot adder in server tool. Which can add bot to server by solving hCaptcha automatically!,ItsLmn5555,10 hours ago,https://replit.com/bounties/@ItsLmn5555/mass-bot-adder-disco?t=
+89,$4.50,closed,Need Server Mass DM Tool Discord ,Need full custom discord mass dm tool. Paying 500 Cycles for that or maybe more!,ItsLmn5555,11 hours ago,https://replit.com/bounties/@ItsLmn5555/need-server-mass-dm?t=
+90,$4.50,closed,Mass Bot Adder Discord Tool,Need custom mass bot adder in server tool. Which can add bot to server by solving hCaptcha automatically!,ItsLmn5555,11 hours ago,https://replit.com/bounties/@ItsLmn5555/mass-bot-adder-disco?t=
 91,$0.90,closed,Bug: Shopping Cart,"There is a bug in the shopping cart feature of our website that is causing the item quantities to not update correctly. When a user increases the quantity of an item in their cart, the total price does not update to reflect the change. We need someone to find and fix this bug.
 
 Acceptance Criteria
@@ -912,7 +912,7 @@ When uploading the data:
 Finish every prompt with a separator \n\n###\n\n
 Finish every completion with ending token
 
-The relevant documentation is here: https://beta.openai.com/docs/api-reference/files/upload and here https://beta.openai.com/docs/api-reference/fine-tunes/create",ElieHabib,3 hours ago,https://replit.com/bounties/@ElieHabib/openapi-training-ui?t=
+The relevant documentation is here: https://beta.openai.com/docs/api-reference/files/upload and here https://beta.openai.com/docs/api-reference/fine-tunes/create",ElieHabib,4 hours ago,https://replit.com/bounties/@ElieHabib/openapi-training-ui?t=
 95,$45.00,due in 13 days,Deploy ML app on AWS,"Deploy a simple ML app to AWS.  We have a Whisper AI + DeepL app that translates + transcribes YouTube videos in bulk. We're looking to deploy it to an AWS instance with GPU optimized for this type of work.
 
 Acceptance Criteria
@@ -927,4 +927,12 @@ The Podcast bot should be able to respond to style prompts for the host - e.g. "
 There should also be an ability for an admin to input those prompts, which creates a link that can be sent to a Guest to be interviewed.
 the end product should be a finished podcast ready to be published on a podcasting platform
 a full transcript should also be produced
-show notes should ...",metalburritos,49 minutes ago,https://replit.com/bounties/@metalburritos/podcast-with-ai-host?t=
+show notes should ...",metalburritos,59 minutes ago,https://replit.com/bounties/@metalburritos/podcast-with-ai-host?t=
+97,$630.00,due in 13 days,Fake Twitter Post Creator,"People like to laugh and poke fun of situations. What better way than memes? Well, twitter fake ""posts"" could be hilarious of used properly in meme fashion. Well... this is the app! Fake twitter post creator.
+
+Acceptance Criteria
+Create a mini-web-app that allows users to create a Fake Twitter Post – where they can customize the handle, message, # of retweets, # of likes etc.
+The app allows the ability to add 1 reply to the initial tweet with similar customization (e.g., message, handle, avatar, # of likes)
+The mini-app pulls in information related to the user inputted via the Twitter API including the profile picture, name, and handle based on an inputted twitter profile
+The look/feel and design of the fake post should mimic what is currently live on twitter, with some subtle differences in colour so that it is apparent it isn't real
+A live preview of the changes are shown to the user, with a watermark/url on the meme fake post (as users will right-click be able to...",jarednxx,9 minutes ago,https://replit.com/bounties/@jarednxx/fake-twitter-post-cr?t=
