@@ -890,10 +890,10 @@ Acceptance Criteria
 
 The item quantities in the shopping cart update correctly and the total price reflects the changes
 The fix does not cause any other issues or break any other parts of the shopping cart feature
-The fix is well-documented and easy to understand",hdbu,9 hours ago,https://replit.com/bounties/@hdbu/bug-shopping-cart?t=
+The fix is well-documented and easy to understand",hdbu,10 hours ago,https://replit.com/bounties/@hdbu/bug-shopping-cart?t=
 92,$10.80,due in 13 days,CarGurus Webscraper,"Trying to learn web scraping.  Want someone to build code (in python) for a scraper that  grabs and saves the model, year, miles, location and price of a specific car model on Cargurus and saves it to a replitdb.  Also want it to print same data to the console.  Should be able to scrape across multiple pages.
 
-Think it is pretty quick if you know beautifulsoup and maybe selenium.  Agnostic on what libraries you use.  Still figuring it out and will learn faster if I can see it done correctly.  Thanks!",mbeek,6 hours ago,https://replit.com/bounties/@mbeek/cargurus-webscraper?t=
+Think it is pretty quick if you know beautifulsoup and maybe selenium.  Agnostic on what libraries you use.  Still figuring it out and will learn faster if I can see it done correctly.  Thanks!",mbeek,7 hours ago,https://replit.com/bounties/@mbeek/cargurus-webscraper?t=
 93,$182.70,due in 3 months,Fictional web shop,"This is an art project. I want a beautiful looking website where people can list fictional products and interact with fictional products in the hope that someone shall create the products.
 
 Acceptance Criteria
@@ -918,7 +918,7 @@ The relevant documentation is here: https://beta.openai.com/docs/api-reference/f
 Acceptance Criteria
 The app is successfully running on AWS instance
 The app is password protected
-The app is accessible via domain (we will point the domain per your instructions)",AlexZatvor,4 hours ago,https://replit.com/bounties/@AlexZatvor/deploy-ml-app-on-aws?t=
+The app is accessible via domain (we will point the domain per your instructions)",AlexZatvor,5 hours ago,https://replit.com/bounties/@AlexZatvor/deploy-ml-app-on-aws?t=
 96,"$1,800.00",due in 12 days,App for Podcast with AI host,"I'd like to make a web app where where a GPT-based AI bot interviews guests and produces a podcast. I believe this should be built using OpenAI's GPT-3 and Whisper models, and trained on transcripts of existing interviews, but I'm open to other approaches.
 
 Acceptance Criteria
@@ -967,4 +967,4 @@ The code has to be clean and well documented
 The UX needs to be minimal and clean:
   Trigger the completion
   Inline load indicator
-  Text return...",amasad,19 minutes ago,https://replit.com/bounties/@amasad/chrome-extension-gpt?t=
+  Text return...",amasad,34 minutes ago,https://replit.com/bounties/@amasad/chrome-extension-gpt?t=
