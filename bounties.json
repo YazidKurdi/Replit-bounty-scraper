@@ -1086,7 +1086,7 @@
         "title": "PDF to HTML pipeline",
         "description": "Convert PDFs to hosted HTML that I can read in Readwise Reader.\n\nAcceptance Criteria\nUse MathPix API to produce the HTML. Allow me to specify the API key. (You should have enough free quota to test out the service, but let me know if that's a problem.)\nAny hosting solution that allows public access to the HTML. GitHub pages is currently working for me.\nIdeally anyone could use the script by giving their own MathPix API key.",
         "author": "ryanmuller2",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@ryanmuller2/pdf-to-html-pipeline?t="
     },
     {
@@ -1146,7 +1146,7 @@
         "title": "Make a port of my Fitbit game to Apple watches",
         "description": "I've recently made and published a game on the Fitbit appstore, called \"Fit Hunt\". It's garnered a small community of hunters, but I think the reach can be extended being ported to Apple's line of watches as Fitbit is slowly dying.\n\nI realise the amount this bounty is asking for may not seem like much, however the game's core mechanics shouldn't take more than a day and you'll have reins over the Apple section of the community.\n\nAcceptance Criteria\nI want a close-enough port of the game on Apple watches, using the same server as the Fitbit one does, with all the core functionality. I'll provide all the details to the game.\n\nHunters must:\nHave some experience with creating apps for Apple watches\nBe able to produce a version ready for publishing on the App store\nProvide the app in a few select languages, with the help of Google translate of course.",
         "author": "codingMASTER398",
-        "posted_time": "5 minutes ago",
+        "posted_time": "15 minutes ago",
         "link": "https://replit.com/bounties/@codingMASTER398/make-a-port-of-my-fi?t="
     }
 ]
