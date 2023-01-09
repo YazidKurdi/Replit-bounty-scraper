@@ -906,20 +906,20 @@ Users can leave fictional reviews
 Users can create product specification table in markdown
 
 For ideas, see Kickstarter",Chronological,14 hours ago,https://replit.com/bounties/@Chronological/fictional-web-shop?t=
-94,$45.00,due in 6 days,OpenAPI Training UI,"I want a python code with simple UI where I can upload a CSV with prompts and completions (2 columns), specify a base-model to fine tune, specify new model name, set other variables (learning rate, epochs, etc), quickly validate the file, upload to OpenAI, run OpenAI fine-tuning, follow progress along the way, and return the fine-tuned model details in the end.
+94,$45.00,due in 5 days,OpenAPI Training UI,"I want a python code with simple UI where I can upload a CSV with prompts and completions (2 columns), specify a base-model to fine tune, specify new model name, set other variables (learning rate, epochs, etc), quickly validate the file, upload to OpenAI, run OpenAI fine-tuning, follow progress along the way, and return the fine-tuned model details in the end.
 
 When uploading the data:
 Finish every prompt with a separator \n\n###\n\n
 Finish every completion with ending token
 
 The relevant documentation is here: https://beta.openai.com/docs/api-reference/files/upload and here https://beta.openai.com/docs/api-reference/fine-tunes/create",ElieHabib,19 hours ago,https://replit.com/bounties/@ElieHabib/openapi-training-ui?t=
-95,$45.00,due in 13 days,Deploy ML app on AWS,"Deploy a simple ML app to AWS.  We have a Whisper AI + DeepL app that translates + transcribes YouTube videos in bulk. We're looking to deploy it to an AWS instance with GPU optimized for this type of work.
+95,$45.00,due in 12 days,Deploy ML app on AWS,"Deploy a simple ML app to AWS.  We have a Whisper AI + DeepL app that translates + transcribes YouTube videos in bulk. We're looking to deploy it to an AWS instance with GPU optimized for this type of work.
 
 Acceptance Criteria
 The app is successfully running on AWS instance
 The app is password protected
-The app is accessible via domain (we will point the domain per your instructions)",AlexZatvor,18 hours ago,https://replit.com/bounties/@AlexZatvor/deploy-ml-app-on-aws?t=
-96,"$1,800.00",due in 15 days,App for Podcast with AI host,"I'd like to make a web app where where a GPT-based AI bot interviews guests and produces a podcast. I believe this should be built using OpenAI's GPT-3 and Whisper models, and trained on transcripts of existing interviews, but I'm open to other approaches.
+The app is accessible via domain (we will point the domain per your instructions)",AlexZatvor,19 hours ago,https://replit.com/bounties/@AlexZatvor/deploy-ml-app-on-aws?t=
+96,"$1,800.00",due in 14 days,App for Podcast with AI host,"I'd like to make a web app where where a GPT-based AI bot interviews guests and produces a podcast. I believe this should be built using OpenAI's GPT-3 and Whisper models, and trained on transcripts of existing interviews, but I'm open to other approaches.
 
 Acceptance Criteria
 Website where someone can sign up to be interviewed
@@ -927,15 +927,15 @@ The Podcast bot should be able to respond to style prompts for the host - e.g. "
 There should also be an ability for an admin to input those prompts, which creates a link that can be sent to a Guest to be interviewed.
 the end product should be a finished podcast ready to be published on a podcasting platform
 a full transcript should also be produced
-show notes should ...",metalburritos,16 hours ago,https://replit.com/bounties/@metalburritos/podcast-with-ai-host?t=
-97,$630.00,due in 13 days,Fake Twitter Post Creator,"People like to laugh and poke fun of situations. What better way than memes? Well, twitter fake ""posts"" could be hilarious of used properly in meme fashion. Well... this is the app! Fake twitter post creator.
+show notes should ...",metalburritos,17 hours ago,https://replit.com/bounties/@metalburritos/podcast-with-ai-host?t=
+97,$630.00,due in 12 days,Fake Twitter Post Creator,"People like to laugh and poke fun of situations. What better way than memes? Well, twitter fake ""posts"" could be hilarious of used properly in meme fashion. Well... this is the app! Fake twitter post creator.
 
 Acceptance Criteria
 Create a mini-web-app that allows users to create a Fake Twitter Post – where they can customize the handle, message, # of retweets, # of likes etc.
 The app allows the ability to add 1 reply to the initial tweet with similar customization (e.g., message, handle, avatar, # of likes)
 The mini-app pulls in information related to the user inputted via the Twitter API including the profile picture, name, and handle based on an inputted twitter profile
 The look/feel and design of the fake post should mimic what is currently live on twitter, with some subtle differences in colour so that it is apparent it isn't real
-A live preview of the changes are shown to the user, with a watermark/url on the meme fake post (as users will right-click be able to...",jarednxx,15 hours ago,https://replit.com/bounties/@jarednxx/fake-twitter-post-cr?t=
+A live preview of the changes are shown to the user, with a watermark/url on the meme fake post (as users will right-click be able to...",jarednxx,16 hours ago,https://replit.com/bounties/@jarednxx/fake-twitter-post-cr?t=
 98,$1.80,closed,Custom Tip Tool for Replit ,"Looking for a Repl that allows me to easily customise my tip for a specific Repl.
 
 Ideal is just a line where I can paste a link to a Repl
@@ -945,7 +945,7 @@ Looks like it has been discussed here and would use Replit GQL: https://ask.repl
 
 Acceptance Criteria
 A Repl that allows me to custom tip (1-10,000) specific Repls.",Bandos1000,15 hours ago,https://replit.com/bounties/@Bandos1000/custom-tip-tool-for?t=
-99,$900.00,due in 3 days,Chrome extension: GPT-3 based GMail completions,"Gmail has a language-model-based completion feature, but it's fairly limited only works for sentences and doesn't compose entire emails.
+99,$900.00,due in 2 days,Chrome extension: GPT-3 based GMail completions,"Gmail has a language-model-based completion feature, but it's fairly limited only works for sentences and doesn't compose entire emails.
 
 I want a completion tool that's more sophisticated that uses OpenAI's GPT-3.
 
@@ -968,7 +968,7 @@ The UX needs to be minimal and clean:
   Trigger the completion
   Inline load indicator
   Text return...",amasad,14 hours ago,https://replit.com/bounties/@amasad/chrome-extension-gpt?t=
-100,$10.00,due in 4 days,🏘️Airbnb DiscountFinder Browser Extension/Overlay,"Airbnb hosts have the option to offer weekly and monthly discounts to attract long term guests.
+100,$10.00,due in 3 days,🏘️Airbnb DiscountFinder Browser Extension/Overlay,"Airbnb hosts have the option to offer weekly and monthly discounts to attract long term guests.
 However, there is no easy way for potential guests (End users searching airbnb) to see the percentage or amount of that discount for stays. (Some hosts offer 5% off, some hosts offer 80% off.)
 Allowing customers to see the discount while browsing will allow them to make better buying decisions. (E.g. I would rather stay in a $200 off place if I'm staying than a $15 off place, even if they are the same ending price.)
 
@@ -981,23 +981,23 @@ https://www.figma.com/file/Z96850eOePOavYljF5G0FP/Airbnb-Discount?node-id=0%3A1&
 
 Acceptance Criteria
 An overlay or browser extension that allows end users (not logged in) to easily see (Bonus: a...",Bandos1000,11 hours ago,https://replit.com/bounties/@Bandos1000/airbnb-discountfinde?t=
-101,$225.00,due in 4 days,Create visualizations for various datasets,"We’re building a dataset of relevant visualizations for various datasets stored in CSV format. We want someone to help accelerate this process by creating high-quality charts.
+101,$225.00,due in 3 days,Create visualizations for various datasets,"We’re building a dataset of relevant visualizations for various datasets stored in CSV format. We want someone to help accelerate this process by creating high-quality charts.
 
 Acceptance Criteria
 Data visualizations use a coherent mark type (line, bar, point, arc, etc.) and display quantitative information with descriptive axis labels, appropriate scale, and readable intervals
 At least one chart generated per CSV file in this repo, although if multiple coherent variations can be produced from a single dataset that would be preferred
 Visualizations are produced using Vega Lite (https://vega.github.io/vega-lite/)
 Visualizations must be styled well / professional-grade, you can find examples at https://vega.github.io/vega-lite/examples/
-Profit!",SeanDoherty6,10 hours ago,https://replit.com/bounties/@SeanDoherty6/create-visualization?t=
+Profit!",SeanDoherty6,11 hours ago,https://replit.com/bounties/@SeanDoherty6/create-visualization?t=
 102,$13.70,due in 4 months,Follow me to get some free cycles!,"All you have to do is follow me to get the cycles, if you are already following me, unfollow me and follow me again",Coder992,14 minutes ago,https://replit.com/bounties/@Coder992/follow-me-to-get-som?t=
-103,$90.00,due in 13 days,Python script to screen scrape complete Ohio Revised Code in PDF and TXT form,"I am looking for a python script which will do the following for both the Ohio Administrative Code and the Ohio Revised Code (the process should be the same, but the starting URL will be different).
+103,$90.00,due in 12 days,Python script to screen scrape complete Ohio Revised Code in PDF and TXT form,"I am looking for a python script which will do the following for both the Ohio Administrative Code and the Ohio Revised Code (the process should be the same, but the starting URL will be different).
 
 1) Go to the root URL -- https://codes.ohio.gov/ohio-revised-code or https://codes.ohio.gov/ohio-administrative-code
 2) Recursively go through each section and subsection.  For example, if you do a depth first search, the first leaf node you hit will be Ohio Revised Code/General Provisions/Chapter 1 Definitions; Rules of Construction / Section 1.01 | Revised Code - citation and designation - General Code /
 3) On the leaf node, you will find a link labeled ""Download Authenticated PDF"".  For example, for the first leaf node, the URL will be https://codes.ohio.gov/assets/laws/revised-code/authenticated/0/1/1.01/6-29-2011/1.01-6-29-2011.pdf
 4) Download the PDF to the computer
 5) convert the PDF to a txt file with the same name.  For example, you will end up with 1.01-6-29-2011.pdf and 1.01-6-2...",EthanArd1,9 hours ago,https://replit.com/bounties/@EthanArd1/python-script-to-scr?t=
-104,$45.00,due in 4 days,Add a credit system to a GPT3 website.,"I made a simple website using gpt3 to output Napoleon's opinion on anything, in french. I want to create a system where users can't use it indefinitely. They should have a limited number of free use (e.g. with a credit system), and later we can add a function allowing them to buy more credits for more demands.
+104,$45.00,due in 3 days,Add a credit system to a GPT3 website.,"I made a simple website using gpt3 to output Napoleon's opinion on anything, in french. I want to create a system where users can't use it indefinitely. They should have a limited number of free use (e.g. with a credit system), and later we can add a function allowing them to buy more credits for more demands.
 
 Acceptance Criteria
 
