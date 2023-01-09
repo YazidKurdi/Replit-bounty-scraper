@@ -1020,7 +1020,7 @@ The fix is well-documented and easy to understand",hdbu,7 hours ago,https://repl
 
 Note that the current app has a server, it has to be made serverless to be supported on Vercel.
 
-Must meet the deadline.",CoderGautamYT,6 hours ago,https://replit.com/bounties/@CoderGautamYT/host-nodejsexpress-a?t=
+Must meet the deadline.",CoderGautamYT,7 hours ago,https://replit.com/bounties/@CoderGautamYT/host-nodejsexpress-a?t=
 107,$4.59,due in 3 days,Add a search preview to a Chrome Extension popup,"I have a chrome extension (V3) popup here where the users can search for a copy of an academic journal article using its title, and the extension will automatically search four sites to find a free copy of the paper. Right now the extension only display the searched URL of the four sites, but I'd like it to (1) highlight the sites where the search yielded exact matches, and (2) display preview of the entire line where there is an exact match to the title of the paper.
 
 Acceptance Criteria
