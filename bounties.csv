@@ -1038,7 +1038,7 @@ https://github.com/Huang-lab/GetFreeCopy",huangk06,8 hours ago,https://replit.co
 Acceptance Criteria
 Use MathPix API to produce the HTML. Allow me to specify the API key. (You should have enough free quota to test out the service, but let me know if that's a problem.)
 Any hosting solution that allows public access to the HTML. GitHub pages is currently working for me.
-Ideally anyone could use the script by giving their own MathPix API key.",ryanmuller2,7 hours ago,https://replit.com/bounties/@ryanmuller2/pdf-to-html-pipeline?t=
+Ideally anyone could use the script by giving their own MathPix API key.",ryanmuller2,8 hours ago,https://replit.com/bounties/@ryanmuller2/pdf-to-html-pipeline?t=
 109,$306.00,due in 5 days,EV Car Simulation,"The Simulation
 
 We want to create a simulation that keeps track of a fleet of 1000 electric vehicles going from a random origin to a random destination, stopping at charging stations along the way.
@@ -1099,4 +1099,4 @@ Reflect the last time the calculation was run
 The site is open source, linking to the code that runs the site
 Ideally, the DAU for each server could be listed as well, in decreasing rank order of the top N
 
-You maybe brand the site however you like, including promoting yourself.",ikirigin,47 minutes ago,https://replit.com/bounties/@ikirigin/mastadon-daily-activ?t=
+You maybe brand the site however you like, including promoting yourself.",ikirigin,57 minutes ago,https://replit.com/bounties/@ikirigin/mastadon-daily-activ?t=

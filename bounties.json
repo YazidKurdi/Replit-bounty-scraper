@@ -1086,7 +1086,7 @@
         "title": "PDF to HTML pipeline",
         "description": "Convert PDFs to hosted HTML that I can read in Readwise Reader.\n\nAcceptance Criteria\nUse MathPix API to produce the HTML. Allow me to specify the API key. (You should have enough free quota to test out the service, but let me know if that's a problem.)\nAny hosting solution that allows public access to the HTML. GitHub pages is currently working for me.\nIdeally anyone could use the script by giving their own MathPix API key.",
         "author": "ryanmuller2",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@ryanmuller2/pdf-to-html-pipeline?t="
     },
     {
@@ -1136,7 +1136,7 @@
         "title": "Mastadon Daily Active User Dashboard",
         "description": "Mastadon is a distributed Twitter alternative that spiked in popularity. The problem is to estimate the size of the communities on an ongoing active basis. There are thousands of servers which users can join. I believe users can be part of multiple servers. The goal is to create a basic metrics dashboard which updates daily with the number of servers being processed and the number of active users on each platform. Don't abuse servers with overly frequent or aggressive polling.\n\nAcceptance Criteria\nWebsite reflects the total daily active users on Mastadon\nAs more days pass, a graph of DAU updates\nReflect the last time the calculation was run\nThe site is open source, linking to the code that runs the site\nIdeally, the DAU for each server could be listed as well, in decreasing rank order of the top N\n\nYou maybe brand the site however you like, including promoting yourself.",
         "author": "ikirigin",
-        "posted_time": "47 minutes ago",
+        "posted_time": "57 minutes ago",
         "link": "https://replit.com/bounties/@ikirigin/mastadon-daily-activ?t="
     }
 ]
