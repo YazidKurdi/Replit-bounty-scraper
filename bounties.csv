@@ -1032,7 +1032,7 @@ This is a Google Chrome extension V3
 
 Link to Project
 The codebase is open source and available here:
-https://github.com/Huang-lab/GetFreeCopy",huangk06,8 hours ago,https://replit.com/bounties/@huangk06/add-a-search-preview?t=
+https://github.com/Huang-lab/GetFreeCopy",huangk06,9 hours ago,https://replit.com/bounties/@huangk06/add-a-search-preview?t=
 108,$54.00,due in 13 days,PDF to HTML pipeline,"Convert PDFs to hosted HTML that I can read in Readwise Reader.
 
 Acceptance Criteria
@@ -1063,7 +1063,7 @@ Vehicle.CurrentLo...",vibo,8 hours ago,https://replit.com/bounties/@vibo/ev-car-
 110,$90.00,due in 5 days,Prompt to presentation ,"Enable a user to generate a business presentation by starting with a few simple prompts.
 
 Acceptance Criteria
-A simple web app that enables users to transform prompts into business presentations.",GennaroCuofano,7 hours ago,https://replit.com/bounties/@GennaroCuofano/prompt-to-presentati?t=
+A simple web app that enables users to transform prompts into business presentations.",GennaroCuofano,8 hours ago,https://replit.com/bounties/@GennaroCuofano/prompt-to-presentati?t=
 111,$360.00,due in 10 days,Q&A from Table data,"Build a Q&A answering app for Tabular data.
 
 User should be able to upload a csv (both training and actual data for prediction) and then use the app to ask Questions and get answers.
@@ -1089,7 +1089,7 @@ Acceptance Criteria
 
 Documentation on how to use the digital.auto playground, including technical/non-technical parts.
 Get started guide which demonstrates how to use the playground.
-Docs must be written with mkdocs, or an actual better alternative.",vibo,2 hours ago,https://replit.com/bounties/@vibo/documentation-for-th?t=
+Docs must be written with mkdocs, or an actual better alternative.",vibo,3 hours ago,https://replit.com/bounties/@vibo/documentation-for-th?t=
 113,$180.00,due in 13 days,Mastadon Daily Active User Dashboard,"Mastadon is a distributed Twitter alternative that spiked in popularity. The problem is to estimate the size of the communities on an ongoing active basis. There are thousands of servers which users can join. I believe users can be part of multiple servers. The goal is to create a basic metrics dashboard which updates daily with the number of servers being processed and the number of active users on each platform. Don't abuse servers with overly frequent or aggressive polling.
 
 Acceptance Criteria
@@ -1100,3 +1100,14 @@ The site is open source, linking to the code that runs the site
 Ideally, the DAU for each server could be listed as well, in decreasing rank order of the top N
 
 You maybe brand the site however you like, including promoting yourself.",ikirigin,2 hours ago,https://replit.com/bounties/@ikirigin/mastadon-daily-activ?t=
+114,$58.50,due in 21 days,Make a port of my Fitbit game to Apple watches,"I've recently made and published a game on the Fitbit appstore, called ""Fit Hunt"". It's garnered a small community of hunters, but I think the reach can be extended being ported to Apple's line of watches as Fitbit is slowly dying.
+
+I realise the amount this bounty is asking for may not seem like much, however the game's core mechanics shouldn't take more than a day and you'll have reins over the Apple section of the community.
+
+Acceptance Criteria
+I want a close-enough port of the game on Apple watches, using the same server as the Fitbit one does, with all the core functionality. I'll provide all the details to the game.
+
+Hunters must:
+Have some experience with creating apps for Apple watches
+Be able to produce a version ready for publishing on the App store
+Provide the app in a few select languages, with the help of Google translate of course.",codingMASTER398,5 minutes ago,https://replit.com/bounties/@codingMASTER398/make-a-port-of-my-fi?t=

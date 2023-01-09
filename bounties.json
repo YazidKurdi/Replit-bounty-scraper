@@ -1076,7 +1076,7 @@
         "title": "Add a search preview to a Chrome Extension popup",
         "description": "I have a chrome extension (V3) popup here where the users can search for a copy of an academic journal article using its title, and the extension will automatically search four sites to find a free copy of the paper. Right now the extension only display the searched URL of the four sites, but I'd like it to (1) highlight the sites where the search yielded exact matches, and (2) display preview of the entire line where there is an exact match to the title of the paper.\n\nAcceptance Criteria\n(1) Highlight the site button if the title search yielded an exact match\n(2) Display the line of the exact match from the target URL\n\nTechnical Details\nThis is a Google Chrome extension V3\n\nLink to Project\nThe codebase is open source and available here:\nhttps://github.com/Huang-lab/GetFreeCopy",
         "author": "huangk06",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@huangk06/add-a-search-preview?t="
     },
     {
@@ -1106,7 +1106,7 @@
         "title": "Prompt to presentation ",
         "description": "Enable a user to generate a business presentation by starting with a few simple prompts.\n\nAcceptance Criteria\nA simple web app that enables users to transform prompts into business presentations.",
         "author": "GennaroCuofano",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/prompt-to-presentati?t="
     },
     {
@@ -1126,7 +1126,7 @@
         "title": "Documentation for the digital.auto playground, both technical/non-technical parts.",
         "description": "We need documentation on how to use the digital.auto playground, including all aspects of prototypes/plugins etc.\n\nI'd like for someone to take a look at the site @ https://digitalauto-dev.netlify.app, and see what it's about. We can then do a video call where I take you through the site and all aspects of it, including the sparse documentation we have.\n\nAcceptance Criteria\n\nDocumentation on how to use the digital.auto playground, including technical/non-technical parts.\nGet started guide which demonstrates how to use the playground.\nDocs must be written with mkdocs, or an actual better alternative.",
         "author": "vibo",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@vibo/documentation-for-th?t="
     },
     {
@@ -1138,5 +1138,15 @@
         "author": "ikirigin",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@ikirigin/mastadon-daily-activ?t="
+    },
+    {
+        "index": "114",
+        "price": "$58.50",
+        "due_days": "due in 21 days",
+        "title": "Make a port of my Fitbit game to Apple watches",
+        "description": "I've recently made and published a game on the Fitbit appstore, called \"Fit Hunt\". It's garnered a small community of hunters, but I think the reach can be extended being ported to Apple's line of watches as Fitbit is slowly dying.\n\nI realise the amount this bounty is asking for may not seem like much, however the game's core mechanics shouldn't take more than a day and you'll have reins over the Apple section of the community.\n\nAcceptance Criteria\nI want a close-enough port of the game on Apple watches, using the same server as the Fitbit one does, with all the core functionality. I'll provide all the details to the game.\n\nHunters must:\nHave some experience with creating apps for Apple watches\nBe able to produce a version ready for publishing on the App store\nProvide the app in a few select languages, with the help of Google translate of course.",
+        "author": "codingMASTER398",
+        "posted_time": "5 minutes ago",
+        "link": "https://replit.com/bounties/@codingMASTER398/make-a-port-of-my-fi?t="
     }
 ]
