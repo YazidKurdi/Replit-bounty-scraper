@@ -935,7 +935,7 @@ Create a mini-web-app that allows users to create a Fake Twitter Post – where 
 The app allows the ability to add 1 reply to the initial tweet with similar customization (e.g., message, handle, avatar, # of likes)
 The mini-app pulls in information related to the user inputted via the Twitter API including the profile picture, name, and handle based on an inputted twitter profile
 The look/feel and design of the fake post should mimic what is currently live on twitter, with some subtle differences in colour so that it is apparent it isn't real
-A live preview of the changes are shown to the user, with a watermark/url on the meme fake post (as users will right-click be able to...",jarednxx,6 hours ago,https://replit.com/bounties/@jarednxx/fake-twitter-post-cr?t=
+A live preview of the changes are shown to the user, with a watermark/url on the meme fake post (as users will right-click be able to...",jarednxx,7 hours ago,https://replit.com/bounties/@jarednxx/fake-twitter-post-cr?t=
 98,$1.80,closed,Custom Tip Tool for Replit ,"Looking for a Repl that allows me to easily customise my tip for a specific Repl.
 
 Ideal is just a line where I can paste a link to a Repl
