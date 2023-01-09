@@ -1127,7 +1127,7 @@ OnlyFans URL
 Number of OnlyFans posts
 Number of OnlyFans likes
 
-Technical Details",NikhilGoel,47 minutes ago,https://replit.com/bounties/@NikhilGoel/link-shortener-scrap?t=
+Technical Details",NikhilGoel,56 minutes ago,https://replit.com/bounties/@NikhilGoel/link-shortener-scrap?t=
 116,$22.50,due in 5 days,Photoshop Plugin Help,"I'm a javascript novice. Trying to make a photoshop plugin that can fetch an image from a url and add it to the current photoshop document. My plugin currently sends a request to dalle2 api and I am able to get a url, but I am unable to add image to current doc. Maybe need to generate session token? I don't know how.
 
 Acceptance Criteria
@@ -1136,7 +1136,7 @@ Add functionality to my code to get the image from the url and place it in the c
 Technical Details
 
 Link to Project
-https://replit.com/join/wyywstdtja-profdl",profDL,43 minutes ago,https://replit.com/bounties/@profDL/photoshop-plugin-hel?t=
+https://replit.com/join/wyywstdtja-profdl",profDL,53 minutes ago,https://replit.com/bounties/@profDL/photoshop-plugin-hel?t=
 117,$45.00,due in 3 days,Whisper Transcript GUI ,"I need a simple App built with already a working script to transcribe using Whisper.
 
 I need there to be a GUI where it can accept a link of the podcast (can be a youtube link, a spotify link, other links for the podcast so it can be downloaded) and then have it downloaded from the link and transcribed into a .txt file with the name of the episode transcribed + ""transcription"" as the file name.
@@ -1146,7 +1146,7 @@ I also would like the script to be done on python and in a way that I can transc
 Acceptance Criteria
 I need someone with a background building an easy/robust GUI on python that can easily finish this part of the script so that I can bulk transcribe episodes of podcasts just by pasting the link in the GUI.
 
-* You will not need to do any coding for the actual transcribing through whisper. I have already done that part. Just need this quick addition done.*",rame001,37 minutes ago,https://replit.com/bounties/@rame001/whisper-transcript-g?t=
+* You will not need to do any coding for the actual transcribing through whisper. I have already done that part. Just need this quick addition done.*",rame001,46 minutes ago,https://replit.com/bounties/@rame001/whisper-transcript-g?t=
 118,$90.00,due in 3 days,Come up with a mechanism ,"Validate the following criteria between Repls -
 
 1) Time difference between the fork of two different repls
@@ -1154,4 +1154,4 @@ I need someone with a background building an easy/robust GUI on python that can 
 3) When given a list of Repls, check to see if the code in main.py is duplicated in any if them
 
 Acceptance Criteria
-Code should be clean, completed and commented. This is super urgent and should ideally be completed in 24 hours.",anshul,22 minutes ago,https://replit.com/bounties/@anshul/come-up-with-a-mecha?t=
+Code should be clean, completed and commented. This is super urgent and should ideally be completed in 24 hours.",anshul,32 minutes ago,https://replit.com/bounties/@anshul/come-up-with-a-mecha?t=
