@@ -1046,7 +1046,7 @@
         "title": "Add a credit system to a GPT3 website.",
         "description": "I made a simple website using gpt3 to output Napoleon's opinion on anything, in french. I want to create a system where users can't use it indefinitely. They should have a limited number of free use (e.g. with a credit system), and later we can add a function allowing them to buy more credits for more demands.\n\nAcceptance Criteria\n\nIdeally, past experience in creating a credit system for website use.\n\nTechnical Details\n\nThe site is made in react js, and uses openAI API. The thing we have to lock after several uses is just the button sending the prompt. There is only one page accessible to users.\n\nLink to Project\nhttps://napoleon.dicitur.repl.co/",
         "author": "Dicitur",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@Dicitur/add-a-credit-system?t="
     },
     {
@@ -1066,7 +1066,7 @@
         "title": "Host NodeJS/Express app on Vercel",
         "description": "I have a Nodejs/Express app running as a Repl. I need someone to host it on Vercel.\n\nNote that the current app has a server, it has to be made serverless to be supported on Vercel.\n\nMust meet the deadline.",
         "author": "CoderGautamYT",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/host-nodejsexpress-a?t="
     },
     {
@@ -1096,7 +1096,7 @@
         "title": "EV Car Simulation",
         "description": "The Simulation\n\nWe want to create a simulation that keeps track of a fleet of 1000 electric vehicles going from a random origin to a random destination, stopping at charging stations along the way.\n\nIt'll have 3 major components, and will track some attributes for each:\n\n1. Vehicle, will have the following attributes:\n\nVehicle.VehicleIdentification.VIN\nRemains constant throughout the lifetime of the vehicle. Can be generated randomly at run-time, or set manually for each of the 1000 vehicles, with the format defined by ISO 3779.\nExample value: 4Y1SL65848Z411439\n\nVehicle.Speed\nSpeed of the vehicle can remain constant (preferable if varied, but not a requirement). If constant, should be different for each vehicle generated randomly.\nExample value: 80km/h\n\nVehicle.CurrentLocation.Latitude\nThe latitude component of the vehicle's location co-ordinates. Should update every time slice depending on the vehicle's current location.\nExample value: 52.519171\n\nVehicle.CurrentLo...",
         "author": "vibo",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@vibo/ev-car-simulation-1?t="
     },
     {
@@ -1136,7 +1136,7 @@
         "title": "Mastadon Daily Active User Dashboard",
         "description": "Mastadon is a distributed Twitter alternative that spiked in popularity. The problem is to estimate the size of the communities on an ongoing active basis. There are thousands of servers which users can join. I believe users can be part of multiple servers. The goal is to create a basic metrics dashboard which updates daily with the number of servers being processed and the number of active users on each platform. Don't abuse servers with overly frequent or aggressive polling.\n\nAcceptance Criteria\nWebsite reflects the total daily active users on Mastadon\nAs more days pass, a graph of DAU updates\nReflect the last time the calculation was run\nThe site is open source, linking to the code that runs the site\nIdeally, the DAU for each server could be listed as well, in decreasing rank order of the top N\n\nYou maybe brand the site however you like, including promoting yourself.",
         "author": "ikirigin",
-        "posted_time": "13 minutes ago",
+        "posted_time": "26 minutes ago",
         "link": "https://replit.com/bounties/@ikirigin/mastadon-daily-activ?t="
     }
 ]
