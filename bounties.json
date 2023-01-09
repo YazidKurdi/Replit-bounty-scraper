@@ -1016,7 +1016,7 @@
         "title": "Create visualizations for various datasets",
         "description": "We\u2019re building a dataset of relevant visualizations for various datasets stored in CSV format. We want someone to help accelerate this process by creating high-quality charts.\n\nAcceptance Criteria\nData visualizations use a coherent mark type (line, bar, point, arc, etc.) and display quantitative information with descriptive axis labels, appropriate scale, and readable intervals\nAt least one chart generated per CSV file in this repo, although if multiple coherent variations can be produced from a single dataset that would be preferred\nVisualizations are produced using Vega Lite (https://vega.github.io/vega-lite/)\nVisualizations must be styled well / professional-grade, you can find examples at https://vega.github.io/vega-lite/examples/\nProfit!",
         "author": "SeanDoherty6",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@SeanDoherty6/create-visualization?t="
     },
     {
@@ -1056,7 +1056,7 @@
         "title": "Bug: Search Function",
         "description": "We are experiencing issues with the search function on our website. When users enter a search query, the results are not relevant and do not match the query. We need someone to identify the issue and fix it so that the search function returns accurate and relevant results.\n\nAcceptance Criteria\n\nThe search function returns accurate and relevant results for all queries\nThe fix does not cause any other issues or break any other parts of the website\nThe fix is well-documented and easy to understand",
         "author": "hdbu",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@hdbu/bug-search-function?t="
     },
     {
@@ -1076,7 +1076,7 @@
         "title": "Add a search preview to a Chrome Extension popup",
         "description": "I have a chrome extension (V3) popup here where the users can search for a copy of an academic journal article using its title, and the extension will automatically search four sites to find a free copy of the paper. Right now the extension only display the searched URL of the four sites, but I'd like it to (1) highlight the sites where the search yielded exact matches, and (2) display preview of the entire line where there is an exact match to the title of the paper.\n\nAcceptance Criteria\n(1) Highlight the site button if the title search yielded an exact match\n(2) Display the line of the exact match from the target URL\n\nTechnical Details\nThis is a Google Chrome extension V3\n\nLink to Project\nThe codebase is open source and available here:\nhttps://github.com/Huang-lab/GetFreeCopy",
         "author": "huangk06",
-        "posted_time": "44 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@huangk06/add-a-search-preview?t="
     },
     {
@@ -1086,7 +1086,7 @@
         "title": "PDF to HTML pipeline",
         "description": "Convert PDFs to hosted HTML that I can read in Readwise Reader.\n\nAcceptance Criteria\nUse MathPix API to produce the HTML. Allow me to specify the API key. (You should have enough free quota to test out the service, but let me know if that's a problem.)\nAny hosting solution that allows public access to the HTML. GitHub pages is currently working for me.\nIdeally anyone could use the script by giving their own MathPix API key.",
         "author": "ryanmuller2",
-        "posted_time": "31 minutes ago",
+        "posted_time": "51 minutes ago",
         "link": "https://replit.com/bounties/@ryanmuller2/pdf-to-html-pipeline?t="
     },
     {
@@ -1096,7 +1096,17 @@
         "title": "EV Car Simulation",
         "description": "The Simulation\n\nWe want to create a simulation that keeps track of a fleet of 1000 electric vehicles going from a random origin to a random destination, stopping at charging stations along the way.\n\nIt'll have 3 major components, and will track some attributes for each:\n\n1. Vehicle, will have the following attributes:\n\nVehicle.VehicleIdentification.VIN\nRemains constant throughout the lifetime of the vehicle. Can be generated randomly at run-time, or set manually for each of the 1000 vehicles, with the format defined by ISO 3779.\nExample value: 4Y1SL65848Z411439\n\nVehicle.Speed\nSpeed of the vehicle can remain constant (preferable if varied, but not a requirement). If constant, should be different for each vehicle generated randomly.\nExample value: 80km/h\n\nVehicle.CurrentLocation.Latitude\nThe latitude component of the vehicle's location co-ordinates. Should update every time slice depending on the vehicle's current location.\nExample value: 52.519171\n\nVehicle.CurrentLo...",
         "author": "vibo",
-        "posted_time": "1 minute ago",
+        "posted_time": "22 minutes ago",
         "link": "https://replit.com/bounties/@vibo/ev-car-simulation-1?t="
+    },
+    {
+        "index": "110",
+        "price": "$90.00",
+        "due_days": "due in 5 days",
+        "title": "Prompt to presentation ",
+        "description": "Enable a user to generate a business presentation by starting with a few simple prompts.\n\nAcceptance Criteria\nA simple web app that enables users to transform prompts into business presentations.",
+        "author": "GennaroCuofano",
+        "posted_time": "3 minutes ago",
+        "link": "https://replit.com/bounties/@GennaroCuofano/prompt-to-presentati?t="
     }
 ]
