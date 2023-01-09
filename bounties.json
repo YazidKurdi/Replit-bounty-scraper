@@ -1006,7 +1006,7 @@
         "title": "\ud83c\udfd8\ufe0fAirbnb DiscountFinder Browser Extension/Overlay",
         "description": "Airbnb hosts have the option to offer weekly and monthly discounts to attract long term guests.\nHowever, there is no easy way for potential guests (End users searching airbnb) to see the percentage or amount of that discount for stays. (Some hosts offer 5% off, some hosts offer 80% off.)\nAllowing customers to see the discount while browsing will allow them to make better buying decisions. (E.g. I would rather stay in a $200 off place if I'm staying than a $15 off place, even if they are the same ending price.)\n\nCurrent State: When searching for a stay 7+ or 30+ days, Users must click into each listing to view the discount amount.\n\nIdeal State: Users can view the discount amount in the browsing card without needing to click into each listing.\n\nFigma page:\nhttps://www.figma.com/file/Z96850eOePOavYljF5G0FP/Airbnb-Discount?node-id=0%3A1&t=EY5nY1fuqAeuTIEV-1\n\nAcceptance Criteria\nAn overlay or browser extension that allows end users (not logged in) to easily see (Bonus: a...",
         "author": "Bandos1000",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/airbnb-discountfinde?t="
     },
     {
@@ -1046,7 +1046,7 @@
         "title": "Add a credit system to a GPT3 website.",
         "description": "I made a simple website using gpt3 to output Napoleon's opinion on anything, in french. I want to create a system where users can't use it indefinitely. They should have a limited number of free use (e.g. with a credit system), and later we can add a function allowing them to buy more credits for more demands.\n\nAcceptance Criteria\n\nIdeally, past experience in creating a credit system for website use.\n\nTechnical Details\n\nThe site is made in react js, and uses openAI API. The thing we have to lock after several uses is just the button sending the prompt. There is only one page accessible to users.\n\nLink to Project\nhttps://napoleon.dicitur.repl.co/",
         "author": "Dicitur",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@Dicitur/add-a-credit-system?t="
     },
     {
@@ -1066,7 +1066,7 @@
         "title": "Host NodeJS/Express app on Vercel",
         "description": "I have a Nodejs/Express app running as a Repl. I need someone to host it on Vercel.\n\nNote that the current app has a server, it has to be made serverless to be supported on Vercel.\n\nMust meet the deadline.",
         "author": "CoderGautamYT",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/host-nodejsexpress-a?t="
     },
     {
@@ -1076,7 +1076,7 @@
         "title": "Add a search preview to a Chrome Extension popup",
         "description": "I have a chrome extension (V3) popup here where the users can search for a copy of an academic journal article using its title, and the extension will automatically search four sites to find a free copy of the paper. Right now the extension only display the searched URL of the four sites, but I'd like it to (1) highlight the sites where the search yielded exact matches, and (2) display preview of the entire line where there is an exact match to the title of the paper.\n\nAcceptance Criteria\n(1) Highlight the site button if the title search yielded an exact match\n(2) Display the line of the exact match from the target URL\n\nTechnical Details\nThis is a Google Chrome extension V3\n\nLink to Project\nThe codebase is open source and available here:\nhttps://github.com/Huang-lab/GetFreeCopy",
         "author": "huangk06",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@huangk06/add-a-search-preview?t="
     },
     {
@@ -1096,7 +1096,7 @@
         "title": "EV Car Simulation",
         "description": "The Simulation\n\nWe want to create a simulation that keeps track of a fleet of 1000 electric vehicles going from a random origin to a random destination, stopping at charging stations along the way.\n\nIt'll have 3 major components, and will track some attributes for each:\n\n1. Vehicle, will have the following attributes:\n\nVehicle.VehicleIdentification.VIN\nRemains constant throughout the lifetime of the vehicle. Can be generated randomly at run-time, or set manually for each of the 1000 vehicles, with the format defined by ISO 3779.\nExample value: 4Y1SL65848Z411439\n\nVehicle.Speed\nSpeed of the vehicle can remain constant (preferable if varied, but not a requirement). If constant, should be different for each vehicle generated randomly.\nExample value: 80km/h\n\nVehicle.CurrentLocation.Latitude\nThe latitude component of the vehicle's location co-ordinates. Should update every time slice depending on the vehicle's current location.\nExample value: 52.519171\n\nVehicle.CurrentLo...",
         "author": "vibo",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@vibo/ev-car-simulation-1?t="
     },
     {
@@ -1106,7 +1106,7 @@
         "title": "Prompt to presentation ",
         "description": "Enable a user to generate a business presentation by starting with a few simple prompts.\n\nAcceptance Criteria\nA simple web app that enables users to transform prompts into business presentations.",
         "author": "GennaroCuofano",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/prompt-to-presentati?t="
     }
 ]
