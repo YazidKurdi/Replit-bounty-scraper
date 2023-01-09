@@ -1076,7 +1076,7 @@
         "title": "Add a search preview to a Chrome Extension popup",
         "description": "I have a chrome extension (V3) popup here where the users can search for a copy of an academic journal article using its title, and the extension will automatically search four sites to find a free copy of the paper. Right now the extension only display the searched URL of the four sites, but I'd like it to (1) highlight the sites where the search yielded exact matches, and (2) display preview of the entire line where there is an exact match to the title of the paper.\n\nAcceptance Criteria\n(1) Highlight the site button if the title search yielded an exact match\n(2) Display the line of the exact match from the target URL\n\nTechnical Details\nThis is a Google Chrome extension V3\n\nLink to Project\nThe codebase is open source and available here:\nhttps://github.com/Huang-lab/GetFreeCopy",
         "author": "huangk06",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@huangk06/add-a-search-preview?t="
     },
     {
@@ -1096,7 +1096,7 @@
         "title": "EV Car Simulation",
         "description": "The Simulation\n\nWe want to create a simulation that keeps track of a fleet of 1000 electric vehicles going from a random origin to a random destination, stopping at charging stations along the way.\n\nIt'll have 3 major components, and will track some attributes for each:\n\n1. Vehicle, will have the following attributes:\n\nVehicle.VehicleIdentification.VIN\nRemains constant throughout the lifetime of the vehicle. Can be generated randomly at run-time, or set manually for each of the 1000 vehicles, with the format defined by ISO 3779.\nExample value: 4Y1SL65848Z411439\n\nVehicle.Speed\nSpeed of the vehicle can remain constant (preferable if varied, but not a requirement). If constant, should be different for each vehicle generated randomly.\nExample value: 80km/h\n\nVehicle.CurrentLocation.Latitude\nThe latitude component of the vehicle's location co-ordinates. Should update every time slice depending on the vehicle's current location.\nExample value: 52.519171\n\nVehicle.CurrentLo...",
         "author": "vibo",
-        "posted_time": "43 minutes ago",
+        "posted_time": "57 minutes ago",
         "link": "https://replit.com/bounties/@vibo/ev-car-simulation-1?t="
     },
     {
@@ -1106,7 +1106,7 @@
         "title": "Prompt to presentation ",
         "description": "Enable a user to generate a business presentation by starting with a few simple prompts.\n\nAcceptance Criteria\nA simple web app that enables users to transform prompts into business presentations.",
         "author": "GennaroCuofano",
-        "posted_time": "25 minutes ago",
+        "posted_time": "39 minutes ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/prompt-to-presentati?t="
     }
 ]
