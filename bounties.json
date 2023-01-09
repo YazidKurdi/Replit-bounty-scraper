@@ -966,7 +966,7 @@
         "title": "App for Podcast with AI host",
         "description": "I'd like to make a web app where where a GPT-based AI bot interviews guests and produces a podcast. I believe this should be built using OpenAI's GPT-3 and Whisper models, and trained on transcripts of existing interviews, but I'm open to other approaches.\n\nAcceptance Criteria\nWebsite where someone can sign up to be interviewed\nThe Podcast bot should be able to respond to style prompts for the host - e.g. \"30 minute interview, focused on the guest's childhood; interviewer is a 45 year old male from Oklahoma with a background in education.\" or \"45 minute interview, wide ranging from sports to entertainment and popular culture; interviewer is a creative 25 year old woman from London\"\nThere should also be an ability for an admin to input those prompts, which creates a link that can be sent to a Guest to be interviewed.\nthe end product should be a finished podcast ready to be published on a podcasting platform\na full transcript should also be produced\nshow notes should ...",
         "author": "metalburritos",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@metalburritos/podcast-with-ai-host?t="
     },
     {
@@ -1016,7 +1016,7 @@
         "title": "Create visualizations for various datasets",
         "description": "We\u2019re building a dataset of relevant visualizations for various datasets stored in CSV format. We want someone to help accelerate this process by creating high-quality charts.\n\nAcceptance Criteria\nData visualizations use a coherent mark type (line, bar, point, arc, etc.) and display quantitative information with descriptive axis labels, appropriate scale, and readable intervals\nAt least one chart generated per CSV file in this repo, although if multiple coherent variations can be produced from a single dataset that would be preferred\nVisualizations are produced using Vega Lite (https://vega.github.io/vega-lite/)\nVisualizations must be styled well / professional-grade, you can find examples at https://vega.github.io/vega-lite/examples/\nProfit!",
         "author": "SeanDoherty6",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@SeanDoherty6/create-visualization?t="
     },
     {
