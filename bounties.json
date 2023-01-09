@@ -1056,7 +1056,7 @@
         "title": "Bug: Search Function",
         "description": "We are experiencing issues with the search function on our website. When users enter a search query, the results are not relevant and do not match the query. We need someone to identify the issue and fix it so that the search function returns accurate and relevant results.\n\nAcceptance Criteria\n\nThe search function returns accurate and relevant results for all queries\nThe fix does not cause any other issues or break any other parts of the website\nThe fix is well-documented and easy to understand",
         "author": "hdbu",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@hdbu/bug-search-function?t="
     },
     {
@@ -1136,7 +1136,7 @@
         "title": "Mastadon Daily Active User Dashboard",
         "description": "Mastadon is a distributed Twitter alternative that spiked in popularity. The problem is to estimate the size of the communities on an ongoing active basis. There are thousands of servers which users can join. I believe users can be part of multiple servers. The goal is to create a basic metrics dashboard which updates daily with the number of servers being processed and the number of active users on each platform. Don't abuse servers with overly frequent or aggressive polling.\n\nAcceptance Criteria\nWebsite reflects the total daily active users on Mastadon\nAs more days pass, a graph of DAU updates\nReflect the last time the calculation was run\nThe site is open source, linking to the code that runs the site\nIdeally, the DAU for each server could be listed as well, in decreasing rank order of the top N\n\nYou maybe brand the site however you like, including promoting yourself.",
         "author": "ikirigin",
-        "posted_time": "57 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@ikirigin/mastadon-daily-activ?t="
     }
 ]

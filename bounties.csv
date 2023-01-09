@@ -1015,7 +1015,7 @@ Acceptance Criteria
 
 The search function returns accurate and relevant results for all queries
 The fix does not cause any other issues or break any other parts of the website
-The fix is well-documented and easy to understand",hdbu,9 hours ago,https://replit.com/bounties/@hdbu/bug-search-function?t=
+The fix is well-documented and easy to understand",hdbu,10 hours ago,https://replit.com/bounties/@hdbu/bug-search-function?t=
 106,$10.00,closed,Host NodeJS/Express app on Vercel,"I have a Nodejs/Express app running as a Repl. I need someone to host it on Vercel.
 
 Note that the current app has a server, it has to be made serverless to be supported on Vercel.
@@ -1099,4 +1099,4 @@ Reflect the last time the calculation was run
 The site is open source, linking to the code that runs the site
 Ideally, the DAU for each server could be listed as well, in decreasing rank order of the top N
 
-You maybe brand the site however you like, including promoting yourself.",ikirigin,57 minutes ago,https://replit.com/bounties/@ikirigin/mastadon-daily-activ?t=
+You maybe brand the site however you like, including promoting yourself.",ikirigin,1 hour ago,https://replit.com/bounties/@ikirigin/mastadon-daily-activ?t=
