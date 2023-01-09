@@ -926,7 +926,7 @@
         "title": "CarGurus Webscraper",
         "description": "Trying to learn web scraping.  Want someone to build code (in python) for a scraper that  grabs and saves the model, year, miles, location and price of a specific car model on Cargurus and saves it to a replitdb.  Also want it to print same data to the console.  Should be able to scrape across multiple pages.\n\nThink it is pretty quick if you know beautifulsoup and maybe selenium.  Agnostic on what libraries you use.  Still figuring it out and will learn faster if I can see it done correctly.  Thanks!",
         "author": "mbeek",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@mbeek/cargurus-webscraper?t="
     },
     {
@@ -936,7 +936,7 @@
         "title": "Fictional web shop",
         "description": "This is an art project. I want a beautiful looking website where people can list fictional products and interact with fictional products in the hope that someone shall create the products.\n\nAcceptance Criteria\n\nUsers can register, sign in.\nUsers can create a listing which has a title, price and a free text field in markdown.\nUsers can include images in the markdown description.\nUsers can comment on product\nUsers can leave fictional reviews\nUsers can create product specification table in markdown\n\nFor ideas, see Kickstarter",
         "author": "Chronological",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@Chronological/fictional-web-shop?t="
     },
     {
@@ -956,7 +956,7 @@
         "title": "Deploy ML app on AWS",
         "description": "Deploy a simple ML app to AWS.  We have a Whisper AI + DeepL app that translates + transcribes YouTube videos in bulk. We're looking to deploy it to an AWS instance with GPU optimized for this type of work.\n\nAcceptance Criteria\nThe app is successfully running on AWS instance\nThe app is password protected\nThe app is accessible via domain (we will point the domain per your instructions)",
         "author": "AlexZatvor",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@AlexZatvor/deploy-ml-app-on-aws?t="
     },
     {
@@ -966,7 +966,7 @@
         "title": "App for Podcast with AI host",
         "description": "I'd like to make a web app where where a GPT-based AI bot interviews guests and produces a podcast. I believe this should be built using OpenAI's GPT-3 and Whisper models, and trained on transcripts of existing interviews, but I'm open to other approaches.\n\nAcceptance Criteria\nWebsite where someone can sign up to be interviewed\nThe Podcast bot should be able to respond to style prompts for the host - e.g. \"30 minute interview, focused on the guest's childhood; interviewer is a 45 year old male from Oklahoma with a background in education.\" or \"45 minute interview, wide ranging from sports to entertainment and popular culture; interviewer is a creative 25 year old woman from London\"\nThere should also be an ability for an admin to input those prompts, which creates a link that can be sent to a Guest to be interviewed.\nthe end product should be a finished podcast ready to be published on a podcasting platform\na full transcript should also be produced\nshow notes should ...",
         "author": "metalburritos",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@metalburritos/podcast-with-ai-host?t="
     },
     {
@@ -1016,7 +1016,7 @@
         "title": "Create visualizations for various datasets",
         "description": "We\u2019re building a dataset of relevant visualizations for various datasets stored in CSV format. We want someone to help accelerate this process by creating high-quality charts.\n\nAcceptance Criteria\nData visualizations use a coherent mark type (line, bar, point, arc, etc.) and display quantitative information with descriptive axis labels, appropriate scale, and readable intervals\nAt least one chart generated per CSV file in this repo, although if multiple coherent variations can be produced from a single dataset that would be preferred\nVisualizations are produced using Vega Lite (https://vega.github.io/vega-lite/)\nVisualizations must be styled well / professional-grade, you can find examples at https://vega.github.io/vega-lite/examples/\nProfit!",
         "author": "SeanDoherty6",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@SeanDoherty6/create-visualization?t="
     },
     {

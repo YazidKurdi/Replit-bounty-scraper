@@ -893,7 +893,7 @@ The fix does not cause any other issues or break any other parts of the shopping
 The fix is well-documented and easy to understand",hdbu,12 hours ago,https://replit.com/bounties/@hdbu/bug-shopping-cart?t=
 92,$10.80,due in 13 days,CarGurus Webscraper,"Trying to learn web scraping.  Want someone to build code (in python) for a scraper that  grabs and saves the model, year, miles, location and price of a specific car model on Cargurus and saves it to a replitdb.  Also want it to print same data to the console.  Should be able to scrape across multiple pages.
 
-Think it is pretty quick if you know beautifulsoup and maybe selenium.  Agnostic on what libraries you use.  Still figuring it out and will learn faster if I can see it done correctly.  Thanks!",mbeek,11 hours ago,https://replit.com/bounties/@mbeek/cargurus-webscraper?t=
+Think it is pretty quick if you know beautifulsoup and maybe selenium.  Agnostic on what libraries you use.  Still figuring it out and will learn faster if I can see it done correctly.  Thanks!",mbeek,12 hours ago,https://replit.com/bounties/@mbeek/cargurus-webscraper?t=
 93,$182.70,due in 3 months,Fictional web shop,"This is an art project. I want a beautiful looking website where people can list fictional products and interact with fictional products in the hope that someone shall create the products.
 
 Acceptance Criteria
@@ -905,7 +905,7 @@ Users can comment on product
 Users can leave fictional reviews
 Users can create product specification table in markdown
 
-For ideas, see Kickstarter",Chronological,10 hours ago,https://replit.com/bounties/@Chronological/fictional-web-shop?t=
+For ideas, see Kickstarter",Chronological,11 hours ago,https://replit.com/bounties/@Chronological/fictional-web-shop?t=
 94,$45.00,due in 6 days,OpenAPI Training UI,"I want a python code with simple UI where I can upload a CSV with prompts and completions (2 columns), specify a base-model to fine tune, specify new model name, set other variables (learning rate, epochs, etc), quickly validate the file, upload to OpenAI, run OpenAI fine-tuning, follow progress along the way, and return the fine-tuned model details in the end.
 
 When uploading the data:
@@ -918,7 +918,7 @@ The relevant documentation is here: https://beta.openai.com/docs/api-reference/f
 Acceptance Criteria
 The app is successfully running on AWS instance
 The app is password protected
-The app is accessible via domain (we will point the domain per your instructions)",AlexZatvor,9 hours ago,https://replit.com/bounties/@AlexZatvor/deploy-ml-app-on-aws?t=
+The app is accessible via domain (we will point the domain per your instructions)",AlexZatvor,10 hours ago,https://replit.com/bounties/@AlexZatvor/deploy-ml-app-on-aws?t=
 96,"$1,800.00",due in 15 days,App for Podcast with AI host,"I'd like to make a web app where where a GPT-based AI bot interviews guests and produces a podcast. I believe this should be built using OpenAI's GPT-3 and Whisper models, and trained on transcripts of existing interviews, but I'm open to other approaches.
 
 Acceptance Criteria
@@ -927,7 +927,7 @@ The Podcast bot should be able to respond to style prompts for the host - e.g. "
 There should also be an ability for an admin to input those prompts, which creates a link that can be sent to a Guest to be interviewed.
 the end product should be a finished podcast ready to be published on a podcasting platform
 a full transcript should also be produced
-show notes should ...",metalburritos,7 hours ago,https://replit.com/bounties/@metalburritos/podcast-with-ai-host?t=
+show notes should ...",metalburritos,8 hours ago,https://replit.com/bounties/@metalburritos/podcast-with-ai-host?t=
 97,$630.00,due in 13 days,Fake Twitter Post Creator,"People like to laugh and poke fun of situations. What better way than memes? Well, twitter fake ""posts"" could be hilarious of used properly in meme fashion. Well... this is the app! Fake twitter post creator.
 
 Acceptance Criteria
@@ -988,5 +988,5 @@ Data visualizations use a coherent mark type (line, bar, point, arc, etc.) and d
 At least one chart generated per CSV file in this repo, although if multiple coherent variations can be produced from a single dataset that would be preferred
 Visualizations are produced using Vega Lite (https://vega.github.io/vega-lite/)
 Visualizations must be styled well / professional-grade, you can find examples at https://vega.github.io/vega-lite/examples/
-Profit!",SeanDoherty6,1 hour ago,https://replit.com/bounties/@SeanDoherty6/create-visualization?t=
+Profit!",SeanDoherty6,2 hours ago,https://replit.com/bounties/@SeanDoherty6/create-visualization?t=
 102,$13.70,due in 4 months,Follow me to get some free cycles!,"All you have to do is follow me to get the cycles, if you are already following me, unfollow me and follow me again",Coder992,14 minutes ago,https://replit.com/bounties/@Coder992/follow-me-to-get-som?t=
