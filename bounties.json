@@ -1076,7 +1076,7 @@
         "title": "Add a search preview to a Chrome Extension popup",
         "description": "I have a chrome extension (V3) popup here where the users can search for a copy of an academic journal article using its title, and the extension will automatically search four sites to find a free copy of the paper. Right now the extension only display the searched URL of the four sites, but I'd like it to (1) highlight the sites where the search yielded exact matches, and (2) display preview of the entire line where there is an exact match to the title of the paper.\n\nAcceptance Criteria\n(1) Highlight the site button if the title search yielded an exact match\n(2) Display the line of the exact match from the target URL\n\nTechnical Details\nThis is a Google Chrome extension V3\n\nLink to Project\nThe codebase is open source and available here:\nhttps://github.com/Huang-lab/GetFreeCopy",
         "author": "huangk06",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@huangk06/add-a-search-preview?t="
     },
     {
@@ -1106,7 +1106,7 @@
         "title": "Prompt to presentation ",
         "description": "Enable a user to generate a business presentation by starting with a few simple prompts.\n\nAcceptance Criteria\nA simple web app that enables users to transform prompts into business presentations.",
         "author": "GennaroCuofano",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/prompt-to-presentati?t="
     }
 ]
