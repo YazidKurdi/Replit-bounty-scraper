@@ -1116,7 +1116,7 @@
         "title": "Q&A from Table data",
         "description": "Build a Q&A answering app for Tabular data.\n\nUser should be able to upload a csv (both training and actual data for prediction) and then use the app to ask Questions and get answers.\n\nAcceptance Criteria\n\nAbility to upload CSV files\nUI to ask questions and get answers.\nWe can discuss if you have more questions\n\nTechnical Details\n\nPinecone.io sample code - https://github.com/pinecone-io/examples/blob/master/questionanswering/tableqa.ipynb\n\nuses https://github.com/google-research/tapas\n\nNext.js or any other framework for building UI",
         "author": "KishoreShimiker",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@KishoreShimiker/qanda-from-table-dat?t="
     },
     {
@@ -1136,7 +1136,7 @@
         "title": "Mastadon Daily Active User Dashboard",
         "description": "Mastadon is a distributed Twitter alternative that spiked in popularity. The problem is to estimate the size of the communities on an ongoing active basis. There are thousands of servers which users can join. I believe users can be part of multiple servers. The goal is to create a basic metrics dashboard which updates daily with the number of servers being processed and the number of active users on each platform. Don't abuse servers with overly frequent or aggressive polling.\n\nAcceptance Criteria\nWebsite reflects the total daily active users on Mastadon\nAs more days pass, a graph of DAU updates\nReflect the last time the calculation was run\nThe site is open source, linking to the code that runs the site\nIdeally, the DAU for each server could be listed as well, in decreasing rank order of the top N\n\nYou maybe brand the site however you like, including promoting yourself.",
         "author": "ikirigin",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@ikirigin/mastadon-daily-activ?t="
     }
 ]
