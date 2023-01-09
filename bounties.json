@@ -1096,7 +1096,7 @@
         "title": "EV Car Simulation",
         "description": "The Simulation\n\nWe want to create a simulation that keeps track of a fleet of 1000 electric vehicles going from a random origin to a random destination, stopping at charging stations along the way.\n\nIt'll have 3 major components, and will track some attributes for each:\n\n1. Vehicle, will have the following attributes:\n\nVehicle.VehicleIdentification.VIN\nRemains constant throughout the lifetime of the vehicle. Can be generated randomly at run-time, or set manually for each of the 1000 vehicles, with the format defined by ISO 3779.\nExample value: 4Y1SL65848Z411439\n\nVehicle.Speed\nSpeed of the vehicle can remain constant (preferable if varied, but not a requirement). If constant, should be different for each vehicle generated randomly.\nExample value: 80km/h\n\nVehicle.CurrentLocation.Latitude\nThe latitude component of the vehicle's location co-ordinates. Should update every time slice depending on the vehicle's current location.\nExample value: 52.519171\n\nVehicle.CurrentLo...",
         "author": "vibo",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@vibo/ev-car-simulation-1?t="
     },
     {
@@ -1146,7 +1146,7 @@
         "title": "Make a port of my Fitbit game to Apple watches",
         "description": "I've recently made and published a game on the Fitbit appstore, called \"Fit Hunt\". It's garnered a small community of hunters, but I think the reach can be extended being ported to Apple's line of watches as Fitbit is slowly dying.\n\nI realise the amount this bounty is asking for may not seem like much, however the game's core mechanics shouldn't take more than a day and you'll have reins over the Apple section of the community.\n\nAcceptance Criteria\nI want a close-enough port of the game on Apple watches, using the same server as the Fitbit one does, with all the core functionality. I'll provide all the details to the game.\n\nHunters must:\nHave some experience with creating apps for Apple watches\nBe able to produce a version ready for publishing on the App store\nProvide the app in a few select languages, with the help of Google translate of course.",
         "author": "codingMASTER398",
-        "posted_time": "31 minutes ago",
+        "posted_time": "46 minutes ago",
         "link": "https://replit.com/bounties/@codingMASTER398/make-a-port-of-my-fi?t="
     },
     {
@@ -1156,7 +1156,7 @@
         "title": "Link shortener scraper",
         "description": "There is a link shortening website, Hoo.Be, that has a large number of creators. All creators have their pages in the format hoo.be/, e.g. https://hoo.be/ashlynclint. These pages then have a number of outbound links to the creator's pages on Instagram, etc. I would like someone to build a scraper that will scrape all pages that have a link to both Instagram and OnlyFans.\n\nAcceptance Criteria\n\nPlease provide a CSV with a row for each creator on Hoo.Be who has both an Instagram and OnlyFans.\n\nThe CSV should contain fields for:\nHoo.Be URL\nInstagram username\nInstagram URL\nInstagram avatar URL\nNumber of Instagram followers\nOnlyFans URL\nNumber of OnlyFans posts\nNumber of OnlyFans likes\n\nTechnical Details",
         "author": "NikhilGoel",
-        "posted_time": "13 minutes ago",
+        "posted_time": "28 minutes ago",
         "link": "https://replit.com/bounties/@NikhilGoel/link-shortener-scrap?t="
     },
     {
@@ -1166,7 +1166,7 @@
         "title": "Photoshop Plugin Help",
         "description": "I'm a javascript novice. Trying to make a photoshop plugin that can fetch an image from a url and add it to the current photoshop document. My plugin currently sends a request to dalle2 api and I am able to get a url, but I am unable to add image to current doc. Maybe need to generate session token? I don't know how.\n\nAcceptance Criteria\nAdd functionality to my code to get the image from the url and place it in the current open document in Photoshop\n\nTechnical Details\n\nLink to Project\nhttps://replit.com/join/wyywstdtja-profdl",
         "author": "profDL",
-        "posted_time": "9 minutes ago",
+        "posted_time": "24 minutes ago",
         "link": "https://replit.com/bounties/@profDL/photoshop-plugin-hel?t="
     },
     {
@@ -1176,7 +1176,17 @@
         "title": "Whisper Transcript GUI ",
         "description": "I need a simple App built with already a working script to transcribe using Whisper.\n\nI need there to be a GUI where it can accept a link of the podcast (can be a youtube link, a spotify link, other links for the podcast so it can be downloaded) and then have it downloaded from the link and transcribed into a .txt file with the name of the episode transcribed + \"transcription\" as the file name.\n\nI also would like the script to be done on python and in a way that I can transcribe episodes on my local computer with my 3070 GPU.\n\nAcceptance Criteria\nI need someone with a background building an easy/robust GUI on python that can easily finish this part of the script so that I can bulk transcribe episodes of podcasts just by pasting the link in the GUI.\n\n* You will not need to do any coding for the actual transcribing through whisper. I have already done that part. Just need this quick addition done.*",
         "author": "rame001",
-        "posted_time": "3 minutes ago",
+        "posted_time": "17 minutes ago",
         "link": "https://replit.com/bounties/@rame001/whisper-transcript-g?t="
+    },
+    {
+        "index": "118",
+        "price": "$90.00",
+        "due_days": "due in 3 days",
+        "title": "Come up with a mechanism ",
+        "description": "Validate the following criteria between Repls -\n\n1) Time difference between the fork of two different repls\n2) Check to see if the main.py file is blank across different repls\n3) When given a list of Repls, check to see if the code in main.py is duplicated in any if them\n\nAcceptance Criteria\nCode should be clean, completed and commented. This is super urgent and should ideally be completed in 24 hours.",
+        "author": "anshul",
+        "posted_time": "3 minutes ago",
+        "link": "https://replit.com/bounties/@anshul/come-up-with-a-mecha?t="
     }
 ]
