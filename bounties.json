@@ -946,7 +946,7 @@
         "title": "OpenAPI Training UI",
         "description": "I want a python code with simple UI where I can upload a CSV with prompts and completions (2 columns), specify a base-model to fine tune, specify new model name, set other variables (learning rate, epochs, etc), quickly validate the file, upload to OpenAI, run OpenAI fine-tuning, follow progress along the way, and return the fine-tuned model details in the end.\n\nWhen uploading the data:\nFinish every prompt with a separator \\n\\n###\\n\\n\nFinish every completion with ending token\n\nThe relevant documentation is here: https://beta.openai.com/docs/api-reference/files/upload and here https://beta.openai.com/docs/api-reference/fine-tunes/create",
         "author": "ElieHabib",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@ElieHabib/openapi-training-ui?t="
     },
     {
@@ -986,7 +986,7 @@
         "title": "Custom Tip Tool for Replit ",
         "description": "Looking for a Repl that allows me to easily customise my tip for a specific Repl.\n\nIdeal is just a line where I can paste a link to a Repl\nThen enter the specific amount of cycles I want to tip, then run it.\n\nLooks like it has been discussed here and would use Replit GQL: https://ask.replit.com/t/custom-tipping-cycles/4595/7?u=bandos1000\n\nAcceptance Criteria\nA Repl that allows me to custom tip (1-10,000) specific Repls.",
         "author": "Bandos1000",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/custom-tip-tool-for?t="
     },
     {
@@ -996,7 +996,7 @@
         "title": "Chrome extension: GPT-3 based GMail completions",
         "description": "Gmail has a language-model-based completion feature, but it's fairly limited only works for sentences and doesn't compose entire emails.\n\nI want a completion tool that's more sophisticated that uses OpenAI's GPT-3.\n\nThe tools should work like the following:\nCan be triggered manually using a shortcut (say control+space)\nThe prompt sent to the model includes the email you're responding to. If the email chain is too long it needs to be truncated.\nCan complete entire emails\nThe extension can be configured with the following settings:\n  The user's OpenAI API Key\n  A custom prompt (with a default prompt as described above)\n  Model type (defaults to text-davinci-003)\n  Max Tokens returned from the model (defaults to 1024)\n  Temperature\n  Stop words with support for newlines (similar to the OpenAI playground)\n\nAcceptance Criteria\n\nThe code has to be clean and well documented\nThe UX needs to be minimal and clean:\n  Trigger the completion\n  Inline load indicator\n  Text return...",
         "author": "amasad",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@amasad/chrome-extension-gpt?t="
     },
     {
@@ -1006,7 +1006,7 @@
         "title": "\ud83c\udfd8\ufe0fAirbnb DiscountFinder Browser Extension/Overlay",
         "description": "Airbnb hosts have the option to offer weekly and monthly discounts to attract long term guests.\nHowever, there is no easy way for potential guests (End users searching airbnb) to see the percentage or amount of that discount for stays. (Some hosts offer 5% off, some hosts offer 80% off.)\nAllowing customers to see the discount while browsing will allow them to make better buying decisions. (E.g. I would rather stay in a $200 off place if I'm staying than a $15 off place, even if they are the same ending price.)\n\nCurrent State: When searching for a stay 7+ or 30+ days, Users must click into each listing to view the discount amount.\n\nIdeal State: Users can view the discount amount in the browsing card without needing to click into each listing.\n\nFigma page:\nhttps://www.figma.com/file/Z96850eOePOavYljF5G0FP/Airbnb-Discount?node-id=0%3A1&t=EY5nY1fuqAeuTIEV-1\n\nAcceptance Criteria\nAn overlay or browser extension that allows end users (not logged in) to easily see (Bonus: a...",
         "author": "Bandos1000",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/airbnb-discountfinde?t="
     },
     {
@@ -1046,7 +1046,7 @@
         "title": "Add a credit system to a GPT3 website.",
         "description": "I made a simple website using gpt3 to output Napoleon's opinion on anything, in french. I want to create a system where users can't use it indefinitely. They should have a limited number of free use (e.g. with a credit system), and later we can add a function allowing them to buy more credits for more demands.\n\nAcceptance Criteria\n\nIdeally, past experience in creating a credit system for website use.\n\nTechnical Details\n\nThe site is made in react js, and uses openAI API. The thing we have to lock after several uses is just the button sending the prompt. There is only one page accessible to users.\n\nLink to Project\nhttps://napoleon.dicitur.repl.co/",
         "author": "Dicitur",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@Dicitur/add-a-credit-system?t="
     }
 ]

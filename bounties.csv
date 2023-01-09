@@ -912,7 +912,7 @@ When uploading the data:
 Finish every prompt with a separator \n\n###\n\n
 Finish every completion with ending token
 
-The relevant documentation is here: https://beta.openai.com/docs/api-reference/files/upload and here https://beta.openai.com/docs/api-reference/fine-tunes/create",ElieHabib,15 hours ago,https://replit.com/bounties/@ElieHabib/openapi-training-ui?t=
+The relevant documentation is here: https://beta.openai.com/docs/api-reference/files/upload and here https://beta.openai.com/docs/api-reference/fine-tunes/create",ElieHabib,16 hours ago,https://replit.com/bounties/@ElieHabib/openapi-training-ui?t=
 95,$45.00,due in 13 days,Deploy ML app on AWS,"Deploy a simple ML app to AWS.  We have a Whisper AI + DeepL app that translates + transcribes YouTube videos in bulk. We're looking to deploy it to an AWS instance with GPU optimized for this type of work.
 
 Acceptance Criteria
@@ -944,7 +944,7 @@ Then enter the specific amount of cycles I want to tip, then run it.
 Looks like it has been discussed here and would use Replit GQL: https://ask.replit.com/t/custom-tipping-cycles/4595/7?u=bandos1000
 
 Acceptance Criteria
-A Repl that allows me to custom tip (1-10,000) specific Repls.",Bandos1000,11 hours ago,https://replit.com/bounties/@Bandos1000/custom-tip-tool-for?t=
+A Repl that allows me to custom tip (1-10,000) specific Repls.",Bandos1000,12 hours ago,https://replit.com/bounties/@Bandos1000/custom-tip-tool-for?t=
 99,$900.00,due in 3 days,Chrome extension: GPT-3 based GMail completions,"Gmail has a language-model-based completion feature, but it's fairly limited only works for sentences and doesn't compose entire emails.
 
 I want a completion tool that's more sophisticated that uses OpenAI's GPT-3.
@@ -967,7 +967,7 @@ The code has to be clean and well documented
 The UX needs to be minimal and clean:
   Trigger the completion
   Inline load indicator
-  Text return...",amasad,10 hours ago,https://replit.com/bounties/@amasad/chrome-extension-gpt?t=
+  Text return...",amasad,11 hours ago,https://replit.com/bounties/@amasad/chrome-extension-gpt?t=
 100,$10.00,due in 4 days,🏘️Airbnb DiscountFinder Browser Extension/Overlay,"Airbnb hosts have the option to offer weekly and monthly discounts to attract long term guests.
 However, there is no easy way for potential guests (End users searching airbnb) to see the percentage or amount of that discount for stays. (Some hosts offer 5% off, some hosts offer 80% off.)
 Allowing customers to see the discount while browsing will allow them to make better buying decisions. (E.g. I would rather stay in a $200 off place if I'm staying than a $15 off place, even if they are the same ending price.)
@@ -980,7 +980,7 @@ Figma page:
 https://www.figma.com/file/Z96850eOePOavYljF5G0FP/Airbnb-Discount?node-id=0%3A1&t=EY5nY1fuqAeuTIEV-1
 
 Acceptance Criteria
-An overlay or browser extension that allows end users (not logged in) to easily see (Bonus: a...",Bandos1000,7 hours ago,https://replit.com/bounties/@Bandos1000/airbnb-discountfinde?t=
+An overlay or browser extension that allows end users (not logged in) to easily see (Bonus: a...",Bandos1000,8 hours ago,https://replit.com/bounties/@Bandos1000/airbnb-discountfinde?t=
 101,$225.00,due in 4 days,Create visualizations for various datasets,"We’re building a dataset of relevant visualizations for various datasets stored in CSV format. We want someone to help accelerate this process by creating high-quality charts.
 
 Acceptance Criteria
@@ -1008,4 +1008,4 @@ Technical Details
 The site is made in react js, and uses openAI API. The thing we have to lock after several uses is just the button sending the prompt. There is only one page accessible to users.
 
 Link to Project
-https://napoleon.dicitur.repl.co/",Dicitur,1 hour ago,https://replit.com/bounties/@Dicitur/add-a-credit-system?t=
+https://napoleon.dicitur.repl.co/",Dicitur,2 hours ago,https://replit.com/bounties/@Dicitur/add-a-credit-system?t=
