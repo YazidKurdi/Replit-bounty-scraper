@@ -1015,7 +1015,7 @@ Acceptance Criteria
 
 The search function returns accurate and relevant results for all queries
 The fix does not cause any other issues or break any other parts of the website
-The fix is well-documented and easy to understand",hdbu,8 hours ago,https://replit.com/bounties/@hdbu/bug-search-function?t=
+The fix is well-documented and easy to understand",hdbu,9 hours ago,https://replit.com/bounties/@hdbu/bug-search-function?t=
 106,$10.00,closed,Host NodeJS/Express app on Vercel,"I have a Nodejs/Express app running as a Repl. I need someone to host it on Vercel.
 
 Note that the current app has a server, it has to be made serverless to be supported on Vercel.
@@ -1080,7 +1080,7 @@ Pinecone.io sample code - https://github.com/pinecone-io/examples/blob/master/qu
 
 uses https://github.com/google-research/tapas
 
-Next.js or any other framework for building UI",KishoreShimiker,54 minutes ago,https://replit.com/bounties/@KishoreShimiker/qanda-from-table-dat?t=
+Next.js or any other framework for building UI",KishoreShimiker,1 hour ago,https://replit.com/bounties/@KishoreShimiker/qanda-from-table-dat?t=
 112,$108.00,due in 5 days,"Documentation for the digital.auto playground, both technical/non-technical parts.","We need documentation on how to use the digital.auto playground, including all aspects of prototypes/plugins etc.
 
 I'd like for someone to take a look at the site @ https://digitalauto-dev.netlify.app, and see what it's about. We can then do a video call where I take you through the site and all aspects of it, including the sparse documentation we have.
@@ -1089,4 +1089,14 @@ Acceptance Criteria
 
 Documentation on how to use the digital.auto playground, including technical/non-technical parts.
 Get started guide which demonstrates how to use the playground.
-Docs must be written with mkdocs, or an actual better alternative.",vibo,45 minutes ago,https://replit.com/bounties/@vibo/documentation-for-th?t=
+Docs must be written with mkdocs, or an actual better alternative.",vibo,1 hour ago,https://replit.com/bounties/@vibo/documentation-for-th?t=
+113,$180.00,due in 13 days,Mastadon Daily Active User Dashboard,"Mastadon is a distributed Twitter alternative that spiked in popularity. The problem is to estimate the size of the communities on an ongoing active basis. There are thousands of servers which users can join. I believe users can be part of multiple servers. The goal is to create a basic metrics dashboard which updates daily with the number of servers being processed and the number of active users on each platform. Don't abuse servers with overly frequent or aggressive polling.
+
+Acceptance Criteria
+Website reflects the total daily active users on Mastadon
+As more days pass, a graph of DAU updates
+Reflect the last time the calculation was run
+The site is open source, linking to the code that runs the site
+Ideally, the DAU for each server could be listed as well, in decreasing rank order of the top N
+
+You maybe brand the site however you like, including promoting yourself.",ikirigin,13 minutes ago,https://replit.com/bounties/@ikirigin/mastadon-daily-activ?t=
