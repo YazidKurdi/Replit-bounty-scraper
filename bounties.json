@@ -1006,7 +1006,7 @@
         "title": "\ud83c\udfd8\ufe0fAirbnb DiscountFinder Browser Extension/Overlay",
         "description": "Airbnb hosts have the option to offer weekly and monthly discounts to attract long term guests.\nHowever, there is no easy way for potential guests (End users searching airbnb) to see the percentage or amount of that discount for stays. (Some hosts offer 5% off, some hosts offer 80% off.)\nAllowing customers to see the discount while browsing will allow them to make better buying decisions. (E.g. I would rather stay in a $200 off place if I'm staying than a $15 off place, even if they are the same ending price.)\n\nCurrent State: When searching for a stay 7+ or 30+ days, Users must click into each listing to view the discount amount.\n\nIdeal State: Users can view the discount amount in the browsing card without needing to click into each listing.\n\nFigma page:\nhttps://www.figma.com/file/Z96850eOePOavYljF5G0FP/Airbnb-Discount?node-id=0%3A1&t=EY5nY1fuqAeuTIEV-1\n\nAcceptance Criteria\nAn overlay or browser extension that allows end users (not logged in) to easily see (Bonus: a...",
         "author": "Bandos1000",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/airbnb-discountfinde?t="
     },
     {
