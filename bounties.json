@@ -976,7 +976,7 @@
         "title": "Fake Twitter Post Creator",
         "description": "People like to laugh and poke fun of situations. What better way than memes? Well, twitter fake \"posts\" could be hilarious of used properly in meme fashion. Well... this is the app! Fake twitter post creator.\n\nAcceptance Criteria\nCreate a mini-web-app that allows users to create a Fake Twitter Post \u2013 where they can customize the handle, message, # of retweets, # of likes etc.\nThe app allows the ability to add 1 reply to the initial tweet with similar customization (e.g., message, handle, avatar, # of likes)\nThe mini-app pulls in information related to the user inputted via the Twitter API including the profile picture, name, and handle based on an inputted twitter profile\nThe look/feel and design of the fake post should mimic what is currently live on twitter, with some subtle differences in colour so that it is apparent it isn't real\nA live preview of the changes are shown to the user, with a watermark/url on the meme fake post (as users will right-click be able to...",
         "author": "jarednxx",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@jarednxx/fake-twitter-post-cr?t="
     },
     {
@@ -1016,7 +1016,7 @@
         "title": "Create visualizations for various datasets",
         "description": "We\u2019re building a dataset of relevant visualizations for various datasets stored in CSV format. We want someone to help accelerate this process by creating high-quality charts.\n\nAcceptance Criteria\nData visualizations use a coherent mark type (line, bar, point, arc, etc.) and display quantitative information with descriptive axis labels, appropriate scale, and readable intervals\nAt least one chart generated per CSV file in this repo, although if multiple coherent variations can be produced from a single dataset that would be preferred\nVisualizations are produced using Vega Lite (https://vega.github.io/vega-lite/)\nVisualizations must be styled well / professional-grade, you can find examples at https://vega.github.io/vega-lite/examples/\nProfit!",
         "author": "SeanDoherty6",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@SeanDoherty6/create-visualization?t="
     },
     {
@@ -1056,7 +1056,7 @@
         "title": "Bug: Search Function",
         "description": "We are experiencing issues with the search function on our website. When users enter a search query, the results are not relevant and do not match the query. We need someone to identify the issue and fix it so that the search function returns accurate and relevant results.\n\nAcceptance Criteria\n\nThe search function returns accurate and relevant results for all queries\nThe fix does not cause any other issues or break any other parts of the website\nThe fix is well-documented and easy to understand",
         "author": "hdbu",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@hdbu/bug-search-function?t="
     },
     {
@@ -1068,5 +1068,15 @@
         "author": "CoderGautamYT",
         "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/host-nodejsexpress-a?t="
+    },
+    {
+        "index": "107",
+        "price": "$4.59",
+        "due_days": "due in 3 days",
+        "title": "Add a search preview to a Chrome Extension popup",
+        "description": "I have a chrome extension (V3) popup here where the users can search for a copy of an academic journal article using its title, and the extension will automatically search four sites to find a free copy of the paper. Right now the extension only display the searched URL of the four sites, but I'd like it to (1) highlight the sites where the search yielded exact matches, and (2) display preview of the entire line where there is an exact match to the title of the paper.\n\nAcceptance Criteria\n(1) Highlight the site button if the title search yielded an exact match\n(2) Display the line of the exact match from the target URL\n\nTechnical Details\nThis is a Google Chrome extension V3\n\nLink to Project\nThe codebase is open source and available here:\nhttps://github.com/Huang-lab/GetFreeCopy",
+        "author": "huangk06",
+        "posted_time": "2 minutes ago",
+        "link": "https://replit.com/bounties/@huangk06/add-a-search-preview?t="
     }
 ]
