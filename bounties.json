@@ -1036,7 +1036,7 @@
         "title": "Python script to screen scrape complete Ohio Revised Code in PDF and TXT form",
         "description": "I am looking for a python script which will do the following for both the Ohio Administrative Code and the Ohio Revised Code (the process should be the same, but the starting URL will be different).\n\n1) Go to the root URL -- https://codes.ohio.gov/ohio-revised-code or https://codes.ohio.gov/ohio-administrative-code\n2) Recursively go through each section and subsection.  For example, if you do a depth first search, the first leaf node you hit will be Ohio Revised Code/General Provisions/Chapter 1 Definitions; Rules of Construction / Section 1.01 | Revised Code - citation and designation - General Code /\n3) On the leaf node, you will find a link labeled \"Download Authenticated PDF\".  For example, for the first leaf node, the URL will be https://codes.ohio.gov/assets/laws/revised-code/authenticated/0/1/1.01/6-29-2011/1.01-6-29-2011.pdf\n4) Download the PDF to the computer\n5) convert the PDF to a txt file with the same name.  For example, you will end up with 1.01-6-29-2011.pdf and 1.01-6-2...",
         "author": "EthanArd1",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@EthanArd1/python-script-to-scr?t="
     },
     {
@@ -1062,7 +1062,7 @@
     {
         "index": "106",
         "price": "$10.00",
-        "due_days": "due in 4 days",
+        "due_days": "closed",
         "title": "Host NodeJS/Express app on Vercel",
         "description": "I have a Nodejs/Express app running as a Repl. I need someone to host it on Vercel.\n\nNote that the current app has a server, it has to be made serverless to be supported on Vercel.\n\nMust meet the deadline.",
         "author": "CoderGautamYT",
@@ -1076,7 +1076,7 @@
         "title": "Add a search preview to a Chrome Extension popup",
         "description": "I have a chrome extension (V3) popup here where the users can search for a copy of an academic journal article using its title, and the extension will automatically search four sites to find a free copy of the paper. Right now the extension only display the searched URL of the four sites, but I'd like it to (1) highlight the sites where the search yielded exact matches, and (2) display preview of the entire line where there is an exact match to the title of the paper.\n\nAcceptance Criteria\n(1) Highlight the site button if the title search yielded an exact match\n(2) Display the line of the exact match from the target URL\n\nTechnical Details\nThis is a Google Chrome extension V3\n\nLink to Project\nThe codebase is open source and available here:\nhttps://github.com/Huang-lab/GetFreeCopy",
         "author": "huangk06",
-        "posted_time": "35 minutes ago",
+        "posted_time": "44 minutes ago",
         "link": "https://replit.com/bounties/@huangk06/add-a-search-preview?t="
     },
     {
@@ -1086,7 +1086,17 @@
         "title": "PDF to HTML pipeline",
         "description": "Convert PDFs to hosted HTML that I can read in Readwise Reader.\n\nAcceptance Criteria\nUse MathPix API to produce the HTML. Allow me to specify the API key. (You should have enough free quota to test out the service, but let me know if that's a problem.)\nAny hosting solution that allows public access to the HTML. GitHub pages is currently working for me.\nIdeally anyone could use the script by giving their own MathPix API key.",
         "author": "ryanmuller2",
-        "posted_time": "22 minutes ago",
+        "posted_time": "31 minutes ago",
         "link": "https://replit.com/bounties/@ryanmuller2/pdf-to-html-pipeline?t="
+    },
+    {
+        "index": "109",
+        "price": "$306.00",
+        "due_days": "due in 5 days",
+        "title": "EV Car Simulation",
+        "description": "The Simulation\n\nWe want to create a simulation that keeps track of a fleet of 1000 electric vehicles going from a random origin to a random destination, stopping at charging stations along the way.\n\nIt'll have 3 major components, and will track some attributes for each:\n\n1. Vehicle, will have the following attributes:\n\nVehicle.VehicleIdentification.VIN\nRemains constant throughout the lifetime of the vehicle. Can be generated randomly at run-time, or set manually for each of the 1000 vehicles, with the format defined by ISO 3779.\nExample value: 4Y1SL65848Z411439\n\nVehicle.Speed\nSpeed of the vehicle can remain constant (preferable if varied, but not a requirement). If constant, should be different for each vehicle generated randomly.\nExample value: 80km/h\n\nVehicle.CurrentLocation.Latitude\nThe latitude component of the vehicle's location co-ordinates. Should update every time slice depending on the vehicle's current location.\nExample value: 52.519171\n\nVehicle.CurrentLo...",
+        "author": "vibo",
+        "posted_time": "1 minute ago",
+        "link": "https://replit.com/bounties/@vibo/ev-car-simulation-1?t="
     }
 ]

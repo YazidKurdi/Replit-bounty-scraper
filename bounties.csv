@@ -996,7 +996,7 @@ Profit!",SeanDoherty6,13 hours ago,https://replit.com/bounties/@SeanDoherty6/cre
 2) Recursively go through each section and subsection.  For example, if you do a depth first search, the first leaf node you hit will be Ohio Revised Code/General Provisions/Chapter 1 Definitions; Rules of Construction / Section 1.01 | Revised Code - citation and designation - General Code /
 3) On the leaf node, you will find a link labeled ""Download Authenticated PDF"".  For example, for the first leaf node, the URL will be https://codes.ohio.gov/assets/laws/revised-code/authenticated/0/1/1.01/6-29-2011/1.01-6-29-2011.pdf
 4) Download the PDF to the computer
-5) convert the PDF to a txt file with the same name.  For example, you will end up with 1.01-6-29-2011.pdf and 1.01-6-2...",EthanArd1,11 hours ago,https://replit.com/bounties/@EthanArd1/python-script-to-scr?t=
+5) convert the PDF to a txt file with the same name.  For example, you will end up with 1.01-6-29-2011.pdf and 1.01-6-2...",EthanArd1,12 hours ago,https://replit.com/bounties/@EthanArd1/python-script-to-scr?t=
 104,$45.00,closed,Add a credit system to a GPT3 website.,"I made a simple website using gpt3 to output Napoleon's opinion on anything, in french. I want to create a system where users can't use it indefinitely. They should have a limited number of free use (e.g. with a credit system), and later we can add a function allowing them to buy more credits for more demands.
 
 Acceptance Criteria
@@ -1016,7 +1016,7 @@ Acceptance Criteria
 The search function returns accurate and relevant results for all queries
 The fix does not cause any other issues or break any other parts of the website
 The fix is well-documented and easy to understand",hdbu,2 hours ago,https://replit.com/bounties/@hdbu/bug-search-function?t=
-106,$10.00,due in 4 days,Host NodeJS/Express app on Vercel,"I have a Nodejs/Express app running as a Repl. I need someone to host it on Vercel.
+106,$10.00,closed,Host NodeJS/Express app on Vercel,"I have a Nodejs/Express app running as a Repl. I need someone to host it on Vercel.
 
 Note that the current app has a server, it has to be made serverless to be supported on Vercel.
 
@@ -1032,10 +1032,31 @@ This is a Google Chrome extension V3
 
 Link to Project
 The codebase is open source and available here:
-https://github.com/Huang-lab/GetFreeCopy",huangk06,35 minutes ago,https://replit.com/bounties/@huangk06/add-a-search-preview?t=
+https://github.com/Huang-lab/GetFreeCopy",huangk06,44 minutes ago,https://replit.com/bounties/@huangk06/add-a-search-preview?t=
 108,$54.00,due in 13 days,PDF to HTML pipeline,"Convert PDFs to hosted HTML that I can read in Readwise Reader.
 
 Acceptance Criteria
 Use MathPix API to produce the HTML. Allow me to specify the API key. (You should have enough free quota to test out the service, but let me know if that's a problem.)
 Any hosting solution that allows public access to the HTML. GitHub pages is currently working for me.
-Ideally anyone could use the script by giving their own MathPix API key.",ryanmuller2,22 minutes ago,https://replit.com/bounties/@ryanmuller2/pdf-to-html-pipeline?t=
+Ideally anyone could use the script by giving their own MathPix API key.",ryanmuller2,31 minutes ago,https://replit.com/bounties/@ryanmuller2/pdf-to-html-pipeline?t=
+109,$306.00,due in 5 days,EV Car Simulation,"The Simulation
+
+We want to create a simulation that keeps track of a fleet of 1000 electric vehicles going from a random origin to a random destination, stopping at charging stations along the way.
+
+It'll have 3 major components, and will track some attributes for each:
+
+1. Vehicle, will have the following attributes:
+
+Vehicle.VehicleIdentification.VIN
+Remains constant throughout the lifetime of the vehicle. Can be generated randomly at run-time, or set manually for each of the 1000 vehicles, with the format defined by ISO 3779.
+Example value: 4Y1SL65848Z411439
+
+Vehicle.Speed
+Speed of the vehicle can remain constant (preferable if varied, but not a requirement). If constant, should be different for each vehicle generated randomly.
+Example value: 80km/h
+
+Vehicle.CurrentLocation.Latitude
+The latitude component of the vehicle's location co-ordinates. Should update every time slice depending on the vehicle's current location.
+Example value: 52.519171
+
+Vehicle.CurrentLo...",vibo,1 minute ago,https://replit.com/bounties/@vibo/ev-car-simulation-1?t=
