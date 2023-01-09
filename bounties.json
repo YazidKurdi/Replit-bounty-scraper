@@ -1056,7 +1056,7 @@
         "title": "Bug: Search Function",
         "description": "We are experiencing issues with the search function on our website. When users enter a search query, the results are not relevant and do not match the query. We need someone to identify the issue and fix it so that the search function returns accurate and relevant results.\n\nAcceptance Criteria\n\nThe search function returns accurate and relevant results for all queries\nThe fix does not cause any other issues or break any other parts of the website\nThe fix is well-documented and easy to understand",
         "author": "hdbu",
-        "posted_time": "56 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@hdbu/bug-search-function?t="
     },
     {
@@ -1066,7 +1066,7 @@
         "title": "Host NodeJS/Express app on Vercel",
         "description": "I have a Nodejs/Express app running as a Repl. I need someone to host it on Vercel.\n\nNote that the current app has a server, it has to be made serverless to be supported on Vercel.\n\nMust meet the deadline.",
         "author": "CoderGautamYT",
-        "posted_time": "46 minutes ago",
+        "posted_time": "55 minutes ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/host-nodejsexpress-a?t="
     }
 ]
