@@ -1080,7 +1080,7 @@ Pinecone.io sample code - https://github.com/pinecone-io/examples/blob/master/qu
 
 uses https://github.com/google-research/tapas
 
-Next.js or any other framework for building UI",KishoreShimiker,3 hours ago,https://replit.com/bounties/@KishoreShimiker/qanda-from-table-dat?t=
+Next.js or any other framework for building UI",KishoreShimiker,4 hours ago,https://replit.com/bounties/@KishoreShimiker/qanda-from-table-dat?t=
 112,$108.00,due in 5 days,"Documentation for the digital.auto playground, both technical/non-technical parts.","We need documentation on how to use the digital.auto playground, including all aspects of prototypes/plugins etc.
 
 I'd like for someone to take a look at the site @ https://digitalauto-dev.netlify.app, and see what it's about. We can then do a video call where I take you through the site and all aspects of it, including the sparse documentation we have.
@@ -1099,7 +1099,7 @@ Reflect the last time the calculation was run
 The site is open source, linking to the code that runs the site
 Ideally, the DAU for each server could be listed as well, in decreasing rank order of the top N
 
-You maybe brand the site however you like, including promoting yourself.",ikirigin,2 hours ago,https://replit.com/bounties/@ikirigin/mastadon-daily-activ?t=
+You maybe brand the site however you like, including promoting yourself.",ikirigin,3 hours ago,https://replit.com/bounties/@ikirigin/mastadon-daily-activ?t=
 114,$58.50,due in 21 days,Make a port of my Fitbit game to Apple watches,"I've recently made and published a game on the Fitbit appstore, called ""Fit Hunt"". It's garnered a small community of hunters, but I think the reach can be extended being ported to Apple's line of watches as Fitbit is slowly dying.
 
 I realise the amount this bounty is asking for may not seem like much, however the game's core mechanics shouldn't take more than a day and you'll have reins over the Apple section of the community.
@@ -1110,7 +1110,7 @@ I want a close-enough port of the game on Apple watches, using the same server a
 Hunters must:
 Have some experience with creating apps for Apple watches
 Be able to produce a version ready for publishing on the App store
-Provide the app in a few select languages, with the help of Google translate of course.",codingMASTER398,46 minutes ago,https://replit.com/bounties/@codingMASTER398/make-a-port-of-my-fi?t=
+Provide the app in a few select languages, with the help of Google translate of course.",codingMASTER398,55 minutes ago,https://replit.com/bounties/@codingMASTER398/make-a-port-of-my-fi?t=
 115,$45.00,due in 3 days,Link shortener scraper,"There is a link shortening website, Hoo.Be, that has a large number of creators. All creators have their pages in the format hoo.be/, e.g. https://hoo.be/ashlynclint. These pages then have a number of outbound links to the creator's pages on Instagram, etc. I would like someone to build a scraper that will scrape all pages that have a link to both Instagram and OnlyFans.
 
 Acceptance Criteria
@@ -1127,7 +1127,7 @@ OnlyFans URL
 Number of OnlyFans posts
 Number of OnlyFans likes
 
-Technical Details",NikhilGoel,28 minutes ago,https://replit.com/bounties/@NikhilGoel/link-shortener-scrap?t=
+Technical Details",NikhilGoel,37 minutes ago,https://replit.com/bounties/@NikhilGoel/link-shortener-scrap?t=
 116,$22.50,due in 5 days,Photoshop Plugin Help,"I'm a javascript novice. Trying to make a photoshop plugin that can fetch an image from a url and add it to the current photoshop document. My plugin currently sends a request to dalle2 api and I am able to get a url, but I am unable to add image to current doc. Maybe need to generate session token? I don't know how.
 
 Acceptance Criteria
@@ -1136,7 +1136,7 @@ Add functionality to my code to get the image from the url and place it in the c
 Technical Details
 
 Link to Project
-https://replit.com/join/wyywstdtja-profdl",profDL,24 minutes ago,https://replit.com/bounties/@profDL/photoshop-plugin-hel?t=
+https://replit.com/join/wyywstdtja-profdl",profDL,33 minutes ago,https://replit.com/bounties/@profDL/photoshop-plugin-hel?t=
 117,$45.00,due in 3 days,Whisper Transcript GUI ,"I need a simple App built with already a working script to transcribe using Whisper.
 
 I need there to be a GUI where it can accept a link of the podcast (can be a youtube link, a spotify link, other links for the podcast so it can be downloaded) and then have it downloaded from the link and transcribed into a .txt file with the name of the episode transcribed + ""transcription"" as the file name.
@@ -1146,7 +1146,7 @@ I also would like the script to be done on python and in a way that I can transc
 Acceptance Criteria
 I need someone with a background building an easy/robust GUI on python that can easily finish this part of the script so that I can bulk transcribe episodes of podcasts just by pasting the link in the GUI.
 
-* You will not need to do any coding for the actual transcribing through whisper. I have already done that part. Just need this quick addition done.*",rame001,17 minutes ago,https://replit.com/bounties/@rame001/whisper-transcript-g?t=
+* You will not need to do any coding for the actual transcribing through whisper. I have already done that part. Just need this quick addition done.*",rame001,27 minutes ago,https://replit.com/bounties/@rame001/whisper-transcript-g?t=
 118,$90.00,due in 3 days,Come up with a mechanism ,"Validate the following criteria between Repls -
 
 1) Time difference between the fork of two different repls
@@ -1154,4 +1154,4 @@ I need someone with a background building an easy/robust GUI on python that can 
 3) When given a list of Repls, check to see if the code in main.py is duplicated in any if them
 
 Acceptance Criteria
-Code should be clean, completed and commented. This is super urgent and should ideally be completed in 24 hours.",anshul,3 minutes ago,https://replit.com/bounties/@anshul/come-up-with-a-mecha?t=
+Code should be clean, completed and commented. This is super urgent and should ideally be completed in 24 hours.",anshul,12 minutes ago,https://replit.com/bounties/@anshul/come-up-with-a-mecha?t=
