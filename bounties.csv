@@ -980,7 +980,7 @@ Figma page:
 https://www.figma.com/file/Z96850eOePOavYljF5G0FP/Airbnb-Discount?node-id=0%3A1&t=EY5nY1fuqAeuTIEV-1
 
 Acceptance Criteria
-An overlay or browser extension that allows end users (not logged in) to easily see (Bonus: a...",Bandos1000,14 hours ago,https://replit.com/bounties/@Bandos1000/airbnb-discountfinde?t=
+An overlay or browser extension that allows end users (not logged in) to easily see (Bonus: a...",Bandos1000,15 hours ago,https://replit.com/bounties/@Bandos1000/airbnb-discountfinde?t=
 101,$225.00,due in 3 days,Create visualizations for various datasets,"We’re building a dataset of relevant visualizations for various datasets stored in CSV format. We want someone to help accelerate this process by creating high-quality charts.
 
 Acceptance Criteria
@@ -1008,7 +1008,7 @@ Technical Details
 The site is made in react js, and uses openAI API. The thing we have to lock after several uses is just the button sending the prompt. There is only one page accessible to users.
 
 Link to Project
-https://napoleon.dicitur.repl.co/",Dicitur,8 hours ago,https://replit.com/bounties/@Dicitur/add-a-credit-system?t=
+https://napoleon.dicitur.repl.co/",Dicitur,9 hours ago,https://replit.com/bounties/@Dicitur/add-a-credit-system?t=
 105,$0.90,closed,Bug: Search Function,"We are experiencing issues with the search function on our website. When users enter a search query, the results are not relevant and do not match the query. We need someone to identify the issue and fix it so that the search function returns accurate and relevant results.
 
 Acceptance Criteria
@@ -1020,7 +1020,7 @@ The fix is well-documented and easy to understand",hdbu,3 hours ago,https://repl
 
 Note that the current app has a server, it has to be made serverless to be supported on Vercel.
 
-Must meet the deadline.",CoderGautamYT,2 hours ago,https://replit.com/bounties/@CoderGautamYT/host-nodejsexpress-a?t=
+Must meet the deadline.",CoderGautamYT,3 hours ago,https://replit.com/bounties/@CoderGautamYT/host-nodejsexpress-a?t=
 107,$4.59,due in 3 days,Add a search preview to a Chrome Extension popup,"I have a chrome extension (V3) popup here where the users can search for a copy of an academic journal article using its title, and the extension will automatically search four sites to find a free copy of the paper. Right now the extension only display the searched URL of the four sites, but I'd like it to (1) highlight the sites where the search yielded exact matches, and (2) display preview of the entire line where there is an exact match to the title of the paper.
 
 Acceptance Criteria
@@ -1038,7 +1038,7 @@ https://github.com/Huang-lab/GetFreeCopy",huangk06,1 hour ago,https://replit.com
 Acceptance Criteria
 Use MathPix API to produce the HTML. Allow me to specify the API key. (You should have enough free quota to test out the service, but let me know if that's a problem.)
 Any hosting solution that allows public access to the HTML. GitHub pages is currently working for me.
-Ideally anyone could use the script by giving their own MathPix API key.",ryanmuller2,51 minutes ago,https://replit.com/bounties/@ryanmuller2/pdf-to-html-pipeline?t=
+Ideally anyone could use the script by giving their own MathPix API key.",ryanmuller2,1 hour ago,https://replit.com/bounties/@ryanmuller2/pdf-to-html-pipeline?t=
 109,$306.00,due in 5 days,EV Car Simulation,"The Simulation
 
 We want to create a simulation that keeps track of a fleet of 1000 electric vehicles going from a random origin to a random destination, stopping at charging stations along the way.
@@ -1059,8 +1059,8 @@ Vehicle.CurrentLocation.Latitude
 The latitude component of the vehicle's location co-ordinates. Should update every time slice depending on the vehicle's current location.
 Example value: 52.519171
 
-Vehicle.CurrentLo...",vibo,22 minutes ago,https://replit.com/bounties/@vibo/ev-car-simulation-1?t=
+Vehicle.CurrentLo...",vibo,43 minutes ago,https://replit.com/bounties/@vibo/ev-car-simulation-1?t=
 110,$90.00,due in 5 days,Prompt to presentation ,"Enable a user to generate a business presentation by starting with a few simple prompts.
 
 Acceptance Criteria
-A simple web app that enables users to transform prompts into business presentations.",GennaroCuofano,3 minutes ago,https://replit.com/bounties/@GennaroCuofano/prompt-to-presentati?t=
+A simple web app that enables users to transform prompts into business presentations.",GennaroCuofano,25 minutes ago,https://replit.com/bounties/@GennaroCuofano/prompt-to-presentati?t=
