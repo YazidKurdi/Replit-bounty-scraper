@@ -1016,7 +1016,7 @@
         "title": "Create visualizations for various datasets",
         "description": "We\u2019re building a dataset of relevant visualizations for various datasets stored in CSV format. We want someone to help accelerate this process by creating high-quality charts.\n\nAcceptance Criteria\nData visualizations use a coherent mark type (line, bar, point, arc, etc.) and display quantitative information with descriptive axis labels, appropriate scale, and readable intervals\nAt least one chart generated per CSV file in this repo, although if multiple coherent variations can be produced from a single dataset that would be preferred\nVisualizations are produced using Vega Lite (https://vega.github.io/vega-lite/)\nVisualizations must be styled well / professional-grade, you can find examples at https://vega.github.io/vega-lite/examples/\nProfit!",
         "author": "SeanDoherty6",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@SeanDoherty6/create-visualization?t="
     },
     {
@@ -1056,7 +1056,7 @@
         "title": "Bug: Search Function",
         "description": "We are experiencing issues with the search function on our website. When users enter a search query, the results are not relevant and do not match the query. We need someone to identify the issue and fix it so that the search function returns accurate and relevant results.\n\nAcceptance Criteria\n\nThe search function returns accurate and relevant results for all queries\nThe fix does not cause any other issues or break any other parts of the website\nThe fix is well-documented and easy to understand",
         "author": "hdbu",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@hdbu/bug-search-function?t="
     },
     {
