@@ -935,7 +935,7 @@ Create a mini-web-app that allows users to create a Fake Twitter Post – where 
 The app allows the ability to add 1 reply to the initial tweet with similar customization (e.g., message, handle, avatar, # of likes)
 The mini-app pulls in information related to the user inputted via the Twitter API including the profile picture, name, and handle based on an inputted twitter profile
 The look/feel and design of the fake post should mimic what is currently live on twitter, with some subtle differences in colour so that it is apparent it isn't real
-A live preview of the changes are shown to the user, with a watermark/url on the meme fake post (as users will right-click be able to...",jarednxx,14 hours ago,https://replit.com/bounties/@jarednxx/fake-twitter-post-cr?t=
+A live preview of the changes are shown to the user, with a watermark/url on the meme fake post (as users will right-click be able to...",jarednxx,15 hours ago,https://replit.com/bounties/@jarednxx/fake-twitter-post-cr?t=
 98,$1.80,closed,Custom Tip Tool for Replit ,"Looking for a Repl that allows me to easily customise my tip for a specific Repl.
 
 Ideal is just a line where I can paste a link to a Repl
@@ -996,7 +996,7 @@ Profit!",SeanDoherty6,9 hours ago,https://replit.com/bounties/@SeanDoherty6/crea
 2) Recursively go through each section and subsection.  For example, if you do a depth first search, the first leaf node you hit will be Ohio Revised Code/General Provisions/Chapter 1 Definitions; Rules of Construction / Section 1.01 | Revised Code - citation and designation - General Code /
 3) On the leaf node, you will find a link labeled ""Download Authenticated PDF"".  For example, for the first leaf node, the URL will be https://codes.ohio.gov/assets/laws/revised-code/authenticated/0/1/1.01/6-29-2011/1.01-6-29-2011.pdf
 4) Download the PDF to the computer
-5) convert the PDF to a txt file with the same name.  For example, you will end up with 1.01-6-29-2011.pdf and 1.01-6-2...",EthanArd1,7 hours ago,https://replit.com/bounties/@EthanArd1/python-script-to-scr?t=
+5) convert the PDF to a txt file with the same name.  For example, you will end up with 1.01-6-29-2011.pdf and 1.01-6-2...",EthanArd1,8 hours ago,https://replit.com/bounties/@EthanArd1/python-script-to-scr?t=
 104,$45.00,due in 4 days,Add a credit system to a GPT3 website.,"I made a simple website using gpt3 to output Napoleon's opinion on anything, in french. I want to create a system where users can't use it indefinitely. They should have a limited number of free use (e.g. with a credit system), and later we can add a function allowing them to buy more credits for more demands.
 
 Acceptance Criteria

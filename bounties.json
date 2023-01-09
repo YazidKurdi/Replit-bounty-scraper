@@ -976,7 +976,7 @@
         "title": "Fake Twitter Post Creator",
         "description": "People like to laugh and poke fun of situations. What better way than memes? Well, twitter fake \"posts\" could be hilarious of used properly in meme fashion. Well... this is the app! Fake twitter post creator.\n\nAcceptance Criteria\nCreate a mini-web-app that allows users to create a Fake Twitter Post \u2013 where they can customize the handle, message, # of retweets, # of likes etc.\nThe app allows the ability to add 1 reply to the initial tweet with similar customization (e.g., message, handle, avatar, # of likes)\nThe mini-app pulls in information related to the user inputted via the Twitter API including the profile picture, name, and handle based on an inputted twitter profile\nThe look/feel and design of the fake post should mimic what is currently live on twitter, with some subtle differences in colour so that it is apparent it isn't real\nA live preview of the changes are shown to the user, with a watermark/url on the meme fake post (as users will right-click be able to...",
         "author": "jarednxx",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@jarednxx/fake-twitter-post-cr?t="
     },
     {
@@ -1036,7 +1036,7 @@
         "title": "Python script to screen scrape complete Ohio Revised Code in PDF and TXT form",
         "description": "I am looking for a python script which will do the following for both the Ohio Administrative Code and the Ohio Revised Code (the process should be the same, but the starting URL will be different).\n\n1) Go to the root URL -- https://codes.ohio.gov/ohio-revised-code or https://codes.ohio.gov/ohio-administrative-code\n2) Recursively go through each section and subsection.  For example, if you do a depth first search, the first leaf node you hit will be Ohio Revised Code/General Provisions/Chapter 1 Definitions; Rules of Construction / Section 1.01 | Revised Code - citation and designation - General Code /\n3) On the leaf node, you will find a link labeled \"Download Authenticated PDF\".  For example, for the first leaf node, the URL will be https://codes.ohio.gov/assets/laws/revised-code/authenticated/0/1/1.01/6-29-2011/1.01-6-29-2011.pdf\n4) Download the PDF to the computer\n5) convert the PDF to a txt file with the same name.  For example, you will end up with 1.01-6-29-2011.pdf and 1.01-6-2...",
         "author": "EthanArd1",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@EthanArd1/python-script-to-scr?t="
     },
     {
