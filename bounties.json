@@ -1036,7 +1036,7 @@
         "title": "Python script to screen scrape complete Ohio Revised Code in PDF and TXT form",
         "description": "I am looking for a python script which will do the following for both the Ohio Administrative Code and the Ohio Revised Code (the process should be the same, but the starting URL will be different).\n\n1) Go to the root URL -- https://codes.ohio.gov/ohio-revised-code or https://codes.ohio.gov/ohio-administrative-code\n2) Recursively go through each section and subsection.  For example, if you do a depth first search, the first leaf node you hit will be Ohio Revised Code/General Provisions/Chapter 1 Definitions; Rules of Construction / Section 1.01 | Revised Code - citation and designation - General Code /\n3) On the leaf node, you will find a link labeled \"Download Authenticated PDF\".  For example, for the first leaf node, the URL will be https://codes.ohio.gov/assets/laws/revised-code/authenticated/0/1/1.01/6-29-2011/1.01-6-29-2011.pdf\n4) Download the PDF to the computer\n5) convert the PDF to a txt file with the same name.  For example, you will end up with 1.01-6-29-2011.pdf and 1.01-6-2...",
         "author": "EthanArd1",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@EthanArd1/python-script-to-scr?t="
     },
     {
