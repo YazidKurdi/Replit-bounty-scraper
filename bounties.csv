@@ -905,7 +905,7 @@ Users can comment on product
 Users can leave fictional reviews
 Users can create product specification table in markdown
 
-For ideas, see Kickstarter",Chronological,13 hours ago,https://replit.com/bounties/@Chronological/fictional-web-shop?t=
+For ideas, see Kickstarter",Chronological,14 hours ago,https://replit.com/bounties/@Chronological/fictional-web-shop?t=
 94,$45.00,due in 6 days,OpenAPI Training UI,"I want a python code with simple UI where I can upload a CSV with prompts and completions (2 columns), specify a base-model to fine tune, specify new model name, set other variables (learning rate, epochs, etc), quickly validate the file, upload to OpenAI, run OpenAI fine-tuning, follow progress along the way, and return the fine-tuned model details in the end.
 
 When uploading the data:
@@ -918,7 +918,7 @@ The relevant documentation is here: https://beta.openai.com/docs/api-reference/f
 Acceptance Criteria
 The app is successfully running on AWS instance
 The app is password protected
-The app is accessible via domain (we will point the domain per your instructions)",AlexZatvor,12 hours ago,https://replit.com/bounties/@AlexZatvor/deploy-ml-app-on-aws?t=
+The app is accessible via domain (we will point the domain per your instructions)",AlexZatvor,13 hours ago,https://replit.com/bounties/@AlexZatvor/deploy-ml-app-on-aws?t=
 96,"$1,800.00",due in 15 days,App for Podcast with AI host,"I'd like to make a web app where where a GPT-based AI bot interviews guests and produces a podcast. I believe this should be built using OpenAI's GPT-3 and Whisper models, and trained on transcripts of existing interviews, but I'm open to other approaches.
 
 Acceptance Criteria
@@ -927,7 +927,7 @@ The Podcast bot should be able to respond to style prompts for the host - e.g. "
 There should also be an ability for an admin to input those prompts, which creates a link that can be sent to a Guest to be interviewed.
 the end product should be a finished podcast ready to be published on a podcasting platform
 a full transcript should also be produced
-show notes should ...",metalburritos,10 hours ago,https://replit.com/bounties/@metalburritos/podcast-with-ai-host?t=
+show notes should ...",metalburritos,11 hours ago,https://replit.com/bounties/@metalburritos/podcast-with-ai-host?t=
 97,$630.00,due in 13 days,Fake Twitter Post Creator,"People like to laugh and poke fun of situations. What better way than memes? Well, twitter fake ""posts"" could be hilarious of used properly in meme fashion. Well... this is the app! Fake twitter post creator.
 
 Acceptance Criteria
@@ -935,7 +935,7 @@ Create a mini-web-app that allows users to create a Fake Twitter Post – where 
 The app allows the ability to add 1 reply to the initial tweet with similar customization (e.g., message, handle, avatar, # of likes)
 The mini-app pulls in information related to the user inputted via the Twitter API including the profile picture, name, and handle based on an inputted twitter profile
 The look/feel and design of the fake post should mimic what is currently live on twitter, with some subtle differences in colour so that it is apparent it isn't real
-A live preview of the changes are shown to the user, with a watermark/url on the meme fake post (as users will right-click be able to...",jarednxx,9 hours ago,https://replit.com/bounties/@jarednxx/fake-twitter-post-cr?t=
+A live preview of the changes are shown to the user, with a watermark/url on the meme fake post (as users will right-click be able to...",jarednxx,10 hours ago,https://replit.com/bounties/@jarednxx/fake-twitter-post-cr?t=
 98,$1.80,closed,Custom Tip Tool for Replit ,"Looking for a Repl that allows me to easily customise my tip for a specific Repl.
 
 Ideal is just a line where I can paste a link to a Repl
@@ -988,7 +988,7 @@ Data visualizations use a coherent mark type (line, bar, point, arc, etc.) and d
 At least one chart generated per CSV file in this repo, although if multiple coherent variations can be produced from a single dataset that would be preferred
 Visualizations are produced using Vega Lite (https://vega.github.io/vega-lite/)
 Visualizations must be styled well / professional-grade, you can find examples at https://vega.github.io/vega-lite/examples/
-Profit!",SeanDoherty6,4 hours ago,https://replit.com/bounties/@SeanDoherty6/create-visualization?t=
+Profit!",SeanDoherty6,5 hours ago,https://replit.com/bounties/@SeanDoherty6/create-visualization?t=
 102,$13.70,due in 4 months,Follow me to get some free cycles!,"All you have to do is follow me to get the cycles, if you are already following me, unfollow me and follow me again",Coder992,14 minutes ago,https://replit.com/bounties/@Coder992/follow-me-to-get-som?t=
 103,$90.00,due in 13 days,Python script to screen scrape complete Ohio Revised Code in PDF and TXT form,"I am looking for a python script which will do the following for both the Ohio Administrative Code and the Ohio Revised Code (the process should be the same, but the starting URL will be different).
 
