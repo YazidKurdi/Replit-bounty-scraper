@@ -918,7 +918,7 @@ The relevant documentation is here: https://beta.openai.com/docs/api-reference/f
 Acceptance Criteria
 The app is successfully running on AWS instance
 The app is password protected
-The app is accessible via domain (we will point the domain per your instructions)",AlexZatvor,13 hours ago,https://replit.com/bounties/@AlexZatvor/deploy-ml-app-on-aws?t=
+The app is accessible via domain (we will point the domain per your instructions)",AlexZatvor,14 hours ago,https://replit.com/bounties/@AlexZatvor/deploy-ml-app-on-aws?t=
 96,"$1,800.00",due in 15 days,App for Podcast with AI host,"I'd like to make a web app where where a GPT-based AI bot interviews guests and produces a podcast. I believe this should be built using OpenAI's GPT-3 and Whisper models, and trained on transcripts of existing interviews, but I'm open to other approaches.
 
 Acceptance Criteria
@@ -967,7 +967,7 @@ The code has to be clean and well documented
 The UX needs to be minimal and clean:
   Trigger the completion
   Inline load indicator
-  Text return...",amasad,9 hours ago,https://replit.com/bounties/@amasad/chrome-extension-gpt?t=
+  Text return...",amasad,10 hours ago,https://replit.com/bounties/@amasad/chrome-extension-gpt?t=
 100,$10.00,due in 4 days,🏘️Airbnb DiscountFinder Browser Extension/Overlay,"Airbnb hosts have the option to offer weekly and monthly discounts to attract long term guests.
 However, there is no easy way for potential guests (End users searching airbnb) to see the percentage or amount of that discount for stays. (Some hosts offer 5% off, some hosts offer 80% off.)
 Allowing customers to see the discount while browsing will allow them to make better buying decisions. (E.g. I would rather stay in a $200 off place if I'm staying than a $15 off place, even if they are the same ending price.)
@@ -1008,4 +1008,4 @@ Technical Details
 The site is made in react js, and uses openAI API. The thing we have to lock after several uses is just the button sending the prompt. There is only one page accessible to users.
 
 Link to Project
-https://napoleon.dicitur.repl.co/",Dicitur,17 minutes ago,https://replit.com/bounties/@Dicitur/add-a-credit-system?t=
+https://napoleon.dicitur.repl.co/",Dicitur,30 minutes ago,https://replit.com/bounties/@Dicitur/add-a-credit-system?t=
