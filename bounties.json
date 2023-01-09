@@ -956,7 +956,7 @@
         "title": "Deploy ML app on AWS",
         "description": "Deploy a simple ML app to AWS.  We have a Whisper AI + DeepL app that translates + transcribes YouTube videos in bulk. We're looking to deploy it to an AWS instance with GPU optimized for this type of work.\n\nAcceptance Criteria\nThe app is successfully running on AWS instance\nThe app is password protected\nThe app is accessible via domain (we will point the domain per your instructions)",
         "author": "AlexZatvor",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@AlexZatvor/deploy-ml-app-on-aws?t="
     },
     {
@@ -966,7 +966,7 @@
         "title": "App for Podcast with AI host",
         "description": "I'd like to make a web app where where a GPT-based AI bot interviews guests and produces a podcast. I believe this should be built using OpenAI's GPT-3 and Whisper models, and trained on transcripts of existing interviews, but I'm open to other approaches.\n\nAcceptance Criteria\nWebsite where someone can sign up to be interviewed\nThe Podcast bot should be able to respond to style prompts for the host - e.g. \"30 minute interview, focused on the guest's childhood; interviewer is a 45 year old male from Oklahoma with a background in education.\" or \"45 minute interview, wide ranging from sports to entertainment and popular culture; interviewer is a creative 25 year old woman from London\"\nThere should also be an ability for an admin to input those prompts, which creates a link that can be sent to a Guest to be interviewed.\nthe end product should be a finished podcast ready to be published on a podcasting platform\na full transcript should also be produced\nshow notes should ...",
         "author": "metalburritos",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@metalburritos/podcast-with-ai-host?t="
     },
     {
@@ -976,7 +976,7 @@
         "title": "Fake Twitter Post Creator",
         "description": "People like to laugh and poke fun of situations. What better way than memes? Well, twitter fake \"posts\" could be hilarious of used properly in meme fashion. Well... this is the app! Fake twitter post creator.\n\nAcceptance Criteria\nCreate a mini-web-app that allows users to create a Fake Twitter Post \u2013 where they can customize the handle, message, # of retweets, # of likes etc.\nThe app allows the ability to add 1 reply to the initial tweet with similar customization (e.g., message, handle, avatar, # of likes)\nThe mini-app pulls in information related to the user inputted via the Twitter API including the profile picture, name, and handle based on an inputted twitter profile\nThe look/feel and design of the fake post should mimic what is currently live on twitter, with some subtle differences in colour so that it is apparent it isn't real\nA live preview of the changes are shown to the user, with a watermark/url on the meme fake post (as users will right-click be able to...",
         "author": "jarednxx",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@jarednxx/fake-twitter-post-cr?t="
     },
     {
@@ -1016,7 +1016,7 @@
         "title": "Create visualizations for various datasets",
         "description": "We\u2019re building a dataset of relevant visualizations for various datasets stored in CSV format. We want someone to help accelerate this process by creating high-quality charts.\n\nAcceptance Criteria\nData visualizations use a coherent mark type (line, bar, point, arc, etc.) and display quantitative information with descriptive axis labels, appropriate scale, and readable intervals\nAt least one chart generated per CSV file in this repo, although if multiple coherent variations can be produced from a single dataset that would be preferred\nVisualizations are produced using Vega Lite (https://vega.github.io/vega-lite/)\nVisualizations must be styled well / professional-grade, you can find examples at https://vega.github.io/vega-lite/examples/\nProfit!",
         "author": "SeanDoherty6",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@SeanDoherty6/create-visualization?t="
     },
     {
