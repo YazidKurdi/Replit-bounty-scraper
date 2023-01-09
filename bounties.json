@@ -1076,7 +1076,7 @@
         "title": "Add a search preview to a Chrome Extension popup",
         "description": "I have a chrome extension (V3) popup here where the users can search for a copy of an academic journal article using its title, and the extension will automatically search four sites to find a free copy of the paper. Right now the extension only display the searched URL of the four sites, but I'd like it to (1) highlight the sites where the search yielded exact matches, and (2) display preview of the entire line where there is an exact match to the title of the paper.\n\nAcceptance Criteria\n(1) Highlight the site button if the title search yielded an exact match\n(2) Display the line of the exact match from the target URL\n\nTechnical Details\nThis is a Google Chrome extension V3\n\nLink to Project\nThe codebase is open source and available here:\nhttps://github.com/Huang-lab/GetFreeCopy",
         "author": "huangk06",
-        "posted_time": "24 minutes ago",
+        "posted_time": "35 minutes ago",
         "link": "https://replit.com/bounties/@huangk06/add-a-search-preview?t="
     },
     {
@@ -1086,7 +1086,7 @@
         "title": "PDF to HTML pipeline",
         "description": "Convert PDFs to hosted HTML that I can read in Readwise Reader.\n\nAcceptance Criteria\nUse MathPix API to produce the HTML. Allow me to specify the API key. (You should have enough free quota to test out the service, but let me know if that's a problem.)\nAny hosting solution that allows public access to the HTML. GitHub pages is currently working for me.\nIdeally anyone could use the script by giving their own MathPix API key.",
         "author": "ryanmuller2",
-        "posted_time": "10 minutes ago",
+        "posted_time": "22 minutes ago",
         "link": "https://replit.com/bounties/@ryanmuller2/pdf-to-html-pipeline?t="
     }
 ]

@@ -1032,10 +1032,10 @@ This is a Google Chrome extension V3
 
 Link to Project
 The codebase is open source and available here:
-https://github.com/Huang-lab/GetFreeCopy",huangk06,24 minutes ago,https://replit.com/bounties/@huangk06/add-a-search-preview?t=
+https://github.com/Huang-lab/GetFreeCopy",huangk06,35 minutes ago,https://replit.com/bounties/@huangk06/add-a-search-preview?t=
 108,$54.00,due in 13 days,PDF to HTML pipeline,"Convert PDFs to hosted HTML that I can read in Readwise Reader.
 
 Acceptance Criteria
 Use MathPix API to produce the HTML. Allow me to specify the API key. (You should have enough free quota to test out the service, but let me know if that's a problem.)
 Any hosting solution that allows public access to the HTML. GitHub pages is currently working for me.
-Ideally anyone could use the script by giving their own MathPix API key.",ryanmuller2,10 minutes ago,https://replit.com/bounties/@ryanmuller2/pdf-to-html-pipeline?t=
+Ideally anyone could use the script by giving their own MathPix API key.",ryanmuller2,22 minutes ago,https://replit.com/bounties/@ryanmuller2/pdf-to-html-pipeline?t=
