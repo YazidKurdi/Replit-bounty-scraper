@@ -1162,7 +1162,7 @@
     {
         "index": "116",
         "price": "$22.50",
-        "due_days": "due in 5 days",
+        "due_days": "due in 4 days",
         "title": "Photoshop Plugin Help",
         "description": "I'm a javascript novice. Trying to make a photoshop plugin that can fetch an image from a url and add it to the current photoshop document. My plugin currently sends a request to dalle2 api and I am able to get a url, but I am unable to add image to current doc. Maybe need to generate session token? I don't know how.\n\nAcceptance Criteria\nAdd functionality to my code to get the image from the url and place it in the current open document in Photoshop\n\nTechnical Details\n\nLink to Project\nhttps://replit.com/join/wyywstdtja-profdl",
         "author": "profDL",
@@ -1172,7 +1172,7 @@
     {
         "index": "117",
         "price": "$45.00",
-        "due_days": "due in 3 days",
+        "due_days": "due in 2 days",
         "title": "Whisper Transcript GUI ",
         "description": "I need a simple App built with already a working script to transcribe using Whisper.\n\nI need there to be a GUI where it can accept a link of the podcast (can be a youtube link, a spotify link, other links for the podcast so it can be downloaded) and then have it downloaded from the link and transcribed into a .txt file with the name of the episode transcribed + \"transcription\" as the file name.\n\nI also would like the script to be done on python and in a way that I can transcribe episodes on my local computer with my 3070 GPU.\n\nAcceptance Criteria\nI need someone with a background building an easy/robust GUI on python that can easily finish this part of the script so that I can bulk transcribe episodes of podcasts just by pasting the link in the GUI.\n\n* You will not need to do any coding for the actual transcribing through whisper. I have already done that part. Just need this quick addition done.*",
         "author": "rame001",
@@ -1182,7 +1182,7 @@
     {
         "index": "118",
         "price": "$90.00",
-        "due_days": "due in 3 days",
+        "due_days": "due in 2 days",
         "title": "Come up with a mechanism ",
         "description": "Validate the following criteria between Repls -\n\n1) Time difference between the fork of two different repls\n2) Check to see if the main.py file is blank across different repls\n3) When given a list of Repls, check to see if the code in main.py is duplicated in any if them\n\nAcceptance Criteria\nCode should be clean, completed and commented. This is super urgent and should ideally be completed in 24 hours.",
         "author": "anshul",
@@ -1192,7 +1192,7 @@
     {
         "index": "119",
         "price": "$45.00",
-        "due_days": "due in 9 days",
+        "due_days": "due in 8 days",
         "title": "Create a simplified maxmypoint.com website clone for Hyatt hotels",
         "description": "Create a simplified version of https://maxmypoint.com/ for Hyatt hotels only. There is no need for a subscription feature or to include other hotel brands like Hilton or Marriot. There is also no need for an email alert or login feature.\n\nThe website should include a blog element for a travel and point-maximizing blog.",
         "author": "GamblingGlobeTrotter",
@@ -1202,7 +1202,7 @@
     {
         "index": "120",
         "price": "$360.00",
-        "due_days": "due in 19 days",
+        "due_days": "due in 18 days",
         "title": "Dictation app that can transcribe text and create properly formatted reports",
         "description": "I want to create a custom dictation app that can transcribe my spoken text into a properly formatted report.\n\nI create formatted technical reports for clients in my current job, about 30-40 times a day.  I use a dictation tool that allows me to freely dictate my findings, but I have to mentally organize my thoughts for a few moments so that I can say everything in the proper sequence. Alternatively,  I can dictate the findings out of order and then spend time manually rearranging and formatting the report. I also have the ability to create basic macros with this tool, where I can say one word or phrase and it will output a pre-completed body of text. However, this macro feature is not very flexible and cannot adjust the output based on the context of the report. Lastly, the current system has no idea if it mistranscribed a word because it doesn't understand the context.\n\nThe app should be able to listen when I click dictate and continue listening even when I switch ...",
         "author": "mokal",
@@ -1212,27 +1212,27 @@
     {
         "index": "121",
         "price": "$504.00",
-        "due_days": "due in 13 days",
+        "due_days": "due in 12 days",
         "title": "Build website/app to recreate uploaded image into new image",
         "description": "Build a website & app where people can upload an image and create a unique AI artwork (via StableDiffusion, MidJourney, Dall-E-2 or other) and generate a new image.\n\nProblem:\nBasically, I am looking to upload a photo, then through the magic of ai, generate a new version of the person in that photo in a different scenario. Example, I upload my picture and then tell the AI to redraw me in Paris, or redraw me as a painting by Van Gogh, or cartoon me like a simpson's cartoon.\n\nAfter I upload the image, I select the criteria for my image, and AI outputs the finished product.\n\nThe user is then able to order that product in any number of formats. As a canvas, on a coffee mug, etc. I will provide the products that will be offered.\n\nUsers will need to sign up or sign in through another platform to use the site. I want the user to also be able to \"save\" the artwork they have generated to their account within the site, so that they can generate artwork at one time, then print ...",
         "author": "crillbill",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@crillbill/build-websiteapp-to?t="
     },
     {
         "index": "122",
         "price": "$450.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Recipe Generator Script",
         "description": "I need a python script that accepts dynamic input from users that want a recipe, and then returns a recipe for them. The input could be a recipe title (like London Broil or vegan pancakes), recipe description (spicy noodle dish), or even a list of ingredients (i have three onions, four cups of broth and a pound of chicken).\nI have API keys for spoonacular and openAI, and am willing to use both.\nAcceptance Criteria\na working python script that prints out a complete and usable recipe based on dynamic user input\nTechnical Details\njust a python script is needed for now.",
         "author": "jtmertes",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@jtmertes/recipe-generator-scr?t="
     },
     {
         "index": "123",
         "price": "$13.50",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Fix chrome extension syntax/bug.",
         "description": "I am trying to build a simple chrome extension that scraps a website profile. I have written most of the code, but have run into a bug, namely a mishap in  v2 vs v3 syntax. Should be a quick fix for anyone with experience in chrome extensions.\nAcceptance Criteria\nExisting application runs, chrome related error is solved.\nTechnical Details\nRunning into issue with service worker registration and session closing. Again I think this is just my lack of understanding of the proper syntax as it\u2019s my first time trying to build an extension.\nLink to Project\nCan share project link individually.",
         "author": "ananthmani",
@@ -1242,7 +1242,7 @@
     {
         "index": "124",
         "price": "$31.50",
-        "due_days": "due in 5 days",
+        "due_days": "due in 4 days",
         "title": "Improve Adobe Illustrator Extension with Vue.js and Nuxt.js",
         "description": "We have a basic adobe illustrator extension, that allows a use to sign in using an API call. We'd like to integrate this app with Nuxt.js, Vue.js and Pinia (https://pinia.vuejs.org/)  to have a full web app.\n\nAcceptance Criteria\nAdd two pages using Nuxt.js and vue.js.\nfirst page should be the existing sign in page, second page should be a redirect displaying the JWT token.",
         "author": "MatthiasRichard",
@@ -1252,11 +1252,11 @@
     {
         "index": "125",
         "price": "$315.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Twitter Auto-Reply API",
         "description": "I require an extension/plug-in API that can be used for my business Twitter account.\n\nThe feature should allow me to edit the content of the tweet and to target specific demographs (ie. Architecture & Construction).\n\nFor example, any tweet containing #architecture automates my account to post a pre-defined tweet in response.",
         "author": "TomHumber",
-        "posted_time": "12 minutes ago",
+        "posted_time": "36 minutes ago",
         "link": "https://replit.com/bounties/@TomHumber/twitter-auto-reply-a?t="
     }
 ]
