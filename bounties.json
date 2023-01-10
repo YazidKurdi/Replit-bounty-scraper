@@ -1126,7 +1126,7 @@
         "title": "Documentation for the digital.auto playground, both technical/non-technical parts.",
         "description": "We need documentation on how to use the digital.auto playground, including all aspects of prototypes/plugins etc.\n\nI'd like for someone to take a look at the site @ https://digitalauto-dev.netlify.app, and see what it's about. We can then do a video call where I take you through the site and all aspects of it, including the sparse documentation we have.\n\nAcceptance Criteria\n\nDocumentation on how to use the digital.auto playground, including technical/non-technical parts.\nGet started guide which demonstrates how to use the playground.\nDocs must be written with mkdocs, or an actual better alternative.",
         "author": "vibo",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@vibo/documentation-for-th?t="
     },
     {
@@ -1136,7 +1136,7 @@
         "title": "Mastadon Daily Active User Dashboard",
         "description": "Mastadon is a distributed Twitter alternative that spiked in popularity. The problem is to estimate the size of the communities on an ongoing active basis. There are thousands of servers which users can join. I believe users can be part of multiple servers. The goal is to create a basic metrics dashboard which updates daily with the number of servers being processed and the number of active users on each platform. Don't abuse servers with overly frequent or aggressive polling.\n\nAcceptance Criteria\nWebsite reflects the total daily active users on Mastadon\nAs more days pass, a graph of DAU updates\nReflect the last time the calculation was run\nThe site is open source, linking to the code that runs the site\nIdeally, the DAU for each server could be listed as well, in decreasing rank order of the top N\n\nYou maybe brand the site however you like, including promoting yourself.",
         "author": "ikirigin",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@ikirigin/mastadon-daily-activ?t="
     },
     {
@@ -1146,7 +1146,7 @@
         "title": "Make a port of my Fitbit game to Apple watches",
         "description": "I've recently made and published a game on the Fitbit appstore, called \"Fit Hunt\". It's garnered a small community of hunters, but I think the reach can be extended being ported to Apple's line of watches as Fitbit is slowly dying.\n\nI realise the amount this bounty is asking for may not seem like much, however the game's core mechanics shouldn't take more than a day and you'll have reins over the Apple section of the community.\n\nAcceptance Criteria\nI want a close-enough port of the game on Apple watches, using the same server as the Fitbit one does, with all the core functionality. I'll provide all the details to the game.\n\nHunters must:\nHave some experience with creating apps for Apple watches\nBe able to produce a version ready for publishing on the App store\nProvide the app in a few select languages, with the help of Google translate of course.",
         "author": "codingMASTER398",
-        "posted_time": "2 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@codingMASTER398/make-a-port-of-my-fi?t="
     },
     {
@@ -1156,7 +1156,7 @@
         "title": "Link shortener scraper",
         "description": "There is a link shortening website, Hoo.Be, that has a large number of creators. All creators have their pages in the format hoo.be/, e.g. https://hoo.be/ashlynclint. These pages then have a number of outbound links to the creator's pages on Instagram, etc. I would like someone to build a scraper that will scrape all pages that have a link to both Instagram and OnlyFans.\n\nAcceptance Criteria\n\nPlease provide a CSV with a row for each creator on Hoo.Be who has both an Instagram and OnlyFans.\n\nThe CSV should contain fields for:\nHoo.Be URL\nInstagram username\nInstagram URL\nInstagram avatar URL\nNumber of Instagram followers\nOnlyFans URL\nNumber of OnlyFans posts\nNumber of OnlyFans likes\n\nTechnical Details",
         "author": "NikhilGoel",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@NikhilGoel/link-shortener-scrap?t="
     },
     {
@@ -1166,7 +1166,7 @@
         "title": "Photoshop Plugin Help",
         "description": "I'm a javascript novice. Trying to make a photoshop plugin that can fetch an image from a url and add it to the current photoshop document. My plugin currently sends a request to dalle2 api and I am able to get a url, but I am unable to add image to current doc. Maybe need to generate session token? I don't know how.\n\nAcceptance Criteria\nAdd functionality to my code to get the image from the url and place it in the current open document in Photoshop\n\nTechnical Details\n\nLink to Project\nhttps://replit.com/join/wyywstdtja-profdl",
         "author": "profDL",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@profDL/photoshop-plugin-hel?t="
     },
     {
@@ -1176,7 +1176,7 @@
         "title": "Whisper Transcript GUI ",
         "description": "I need a simple App built with already a working script to transcribe using Whisper.\n\nI need there to be a GUI where it can accept a link of the podcast (can be a youtube link, a spotify link, other links for the podcast so it can be downloaded) and then have it downloaded from the link and transcribed into a .txt file with the name of the episode transcribed + \"transcription\" as the file name.\n\nI also would like the script to be done on python and in a way that I can transcribe episodes on my local computer with my 3070 GPU.\n\nAcceptance Criteria\nI need someone with a background building an easy/robust GUI on python that can easily finish this part of the script so that I can bulk transcribe episodes of podcasts just by pasting the link in the GUI.\n\n* You will not need to do any coding for the actual transcribing through whisper. I have already done that part. Just need this quick addition done.*",
         "author": "rame001",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@rame001/whisper-transcript-g?t="
     },
     {
@@ -1186,7 +1186,7 @@
         "title": "Come up with a mechanism ",
         "description": "Validate the following criteria between Repls -\n\n1) Time difference between the fork of two different repls\n2) Check to see if the main.py file is blank across different repls\n3) When given a list of Repls, check to see if the code in main.py is duplicated in any if them\n\nAcceptance Criteria\nCode should be clean, completed and commented. This is super urgent and should ideally be completed in 24 hours.",
         "author": "anshul",
-        "posted_time": "1 hour ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@anshul/come-up-with-a-mecha?t="
     },
     {
@@ -1196,7 +1196,27 @@
         "title": "Create a simplified maxmypoint.com website clone for Hyatt hotels",
         "description": "Create a simplified version of https://maxmypoint.com/ for Hyatt hotels only. There is no need for a subscription feature or to include other hotel brands like Hilton or Marriot. There is also no need for an email alert or login feature.\n\nThe website should include a blog element for a travel and point-maximizing blog.",
         "author": "GamblingGlobeTrotter",
-        "posted_time": "25 minutes ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@GamblingGlobeTrotter/create-a-simplified?t="
+    },
+    {
+        "index": "120",
+        "price": "$360.00",
+        "due_days": "due in 19 days",
+        "title": "Dictation app that can transcribe text and create properly formatted reports",
+        "description": "I want to create a custom dictation app that can transcribe my spoken text into a properly formatted report.\n\nI create formatted technical reports for clients in my current job, about 30-40 times a day.  I use a dictation tool that allows me to freely dictate my findings, but I have to mentally organize my thoughts for a few moments so that I can say everything in the proper sequence. Alternatively,  I can dictate the findings out of order and then spend time manually rearranging and formatting the report. I also have the ability to create basic macros with this tool, where I can say one word or phrase and it will output a pre-completed body of text. However, this macro feature is not very flexible and cannot adjust the output based on the context of the report. Lastly, the current system has no idea if it mistranscribed a word because it doesn't understand the context.\n\nThe app should be able to listen when I click dictate and continue listening even when I switch ...",
+        "author": "mokal",
+        "posted_time": "1 hour ago",
+        "link": "https://replit.com/bounties/@mokal/dictation-app-that-c?t="
+    },
+    {
+        "index": "121",
+        "price": "$504.00",
+        "due_days": "due in 13 days",
+        "title": "Build website/app to recreate uploaded image into new image",
+        "description": "Build a website & app where people can upload an image and create a unique AI artwork (via StableDiffusion, MidJourney, Dall-E-2 or other) and generate a new image.\n\nProblem:\nBasically, I am looking to upload a photo, then through the magic of ai, generate a new version of the person in that photo in a different scenario. Example, I upload my picture and then tell the AI to redraw me in Paris, or redraw me as a painting by Van Gogh, or cartoon me like a simpson's cartoon.\n\nAfter I upload the image, I select the criteria for my image, and AI outputs the finished product.\n\nThe user is then able to order that product in any number of formats. As a canvas, on a coffee mug, etc. I will provide the products that will be offered.\n\nUsers will need to sign up or sign in through another platform to use the site. I want the user to also be able to \"save\" the artwork they have generated to their account within the site, so that they can generate artwork at one time, then print ...",
+        "author": "crillbill",
+        "posted_time": "40 minutes ago",
+        "link": "https://replit.com/bounties/@crillbill/build-websiteapp-to?t="
     }
 ]
