@@ -1233,7 +1233,7 @@ Then use the Trinsic dashboard to issue the credential to my email.
 
 Technical Details
 
-Link to Project",ZacharyJones27,5 hours ago,https://replit.com/bounties/@ZacharyJones27/issue-a-credential-w?t=
+Link to Project",ZacharyJones27,6 hours ago,https://replit.com/bounties/@ZacharyJones27/issue-a-credential-w?t=
 130,$225.00,due in 8 days,Python: Using eye tracking to control cursor on Mac,"I have a dual monitor computer and I want to use eye tracking to move my cursor across the two monitors.
 
 Acceptance Criteria
@@ -1251,7 +1251,7 @@ A shopify App based on ChatGPT (Open AI) that will forecast how much inventory w
 By analyzing our sales data, the app needs to predict how much inventory we will need in the future so we can plan our reorders.
 Low-Stock Alerts: We need to be alerted when stock is running low on a particular item so we can reorder before we run out
 
-Technical Details",Ericmuks,4 hours ago,https://replit.com/bounties/@Ericmuks/ai-inventory-analyti?t=
+Technical Details",Ericmuks,5 hours ago,https://replit.com/bounties/@Ericmuks/ai-inventory-analyti?t=
 132,$45.00,due in 3 days,Flutter: Sign in page #supabase #riverpod,"Sign in/up page that authenticates me with supabase auth.
 
 Looks like: https://dribbble.com/shots/14605167/attachments/6297430?mode=media
@@ -1283,4 +1283,4 @@ notsus",ae0,4 hours ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t=
 We currently have a Django-based app that creates Celery tasks to sync the data of each of our accounts using the Selling Partner API. Now, we want to add support for the Sponsored Products API -- a different platform -- to enrich our data.
 
 Acceptance Criteria
-Experience with python, Django and Celery. Nice to have: experience with Amazon's APIs.",SantiagoNestare,3 hours ago,https://replit.com/bounties/@SantiagoNestare/amazon-ads-api-pull?t=
+Experience with python, Django and Celery. Nice to have: experience with Amazon's APIs.",SantiagoNestare,4 hours ago,https://replit.com/bounties/@SantiagoNestare/amazon-ads-api-pull?t=
