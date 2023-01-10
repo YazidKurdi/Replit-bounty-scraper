@@ -1136,7 +1136,7 @@ Add functionality to my code to get the image from the url and place it in the c
 Technical Details
 
 Link to Project
-https://replit.com/join/wyywstdtja-profdl",profDL,13 hours ago,https://replit.com/bounties/@profDL/photoshop-plugin-hel?t=
+https://replit.com/join/wyywstdtja-profdl",profDL,14 hours ago,https://replit.com/bounties/@profDL/photoshop-plugin-hel?t=
 117,$45.00,due in 2 days,Whisper Transcript GUI ,"I need a simple App built with already a working script to transcribe using Whisper.
 
 I need there to be a GUI where it can accept a link of the podcast (can be a youtube link, a spotify link, other links for the podcast so it can be downloaded) and then have it downloaded from the link and transcribed into a .txt file with the name of the episode transcribed + ""transcription"" as the file name.
@@ -1146,7 +1146,7 @@ I also would like the script to be done on python and in a way that I can transc
 Acceptance Criteria
 I need someone with a background building an easy/robust GUI on python that can easily finish this part of the script so that I can bulk transcribe episodes of podcasts just by pasting the link in the GUI.
 
-* You will not need to do any coding for the actual transcribing through whisper. I have already done that part. Just need this quick addition done.*",rame001,13 hours ago,https://replit.com/bounties/@rame001/whisper-transcript-g?t=
+* You will not need to do any coding for the actual transcribing through whisper. I have already done that part. Just need this quick addition done.*",rame001,14 hours ago,https://replit.com/bounties/@rame001/whisper-transcript-g?t=
 118,$90.00,due in 2 days,Come up with a mechanism ,"Validate the following criteria between Repls -
 
 1) Time difference between the fork of two different repls
@@ -1162,7 +1162,7 @@ The website should include a blog element for a travel and point-maximizing blog
 
 I create formatted technical reports for clients in my current job, about 30-40 times a day.  I use a dictation tool that allows me to freely dictate my findings, but I have to mentally organize my thoughts for a few moments so that I can say everything in the proper sequence. Alternatively,  I can dictate the findings out of order and then spend time manually rearranging and formatting the report. I also have the ability to create basic macros with this tool, where I can say one word or phrase and it will output a pre-completed body of text. However, this macro feature is not very flexible and cannot adjust the output based on the context of the report. Lastly, the current system has no idea if it mistranscribed a word because it doesn't understand the context.
 
-The app should be able to listen when I click dictate and continue listening even when I switch ...",mokal,11 hours ago,https://replit.com/bounties/@mokal/dictation-app-that-c?t=
+The app should be able to listen when I click dictate and continue listening even when I switch ...",mokal,12 hours ago,https://replit.com/bounties/@mokal/dictation-app-that-c?t=
 121,$504.00,due in 12 days,Build website/app to recreate uploaded image into new image,"Build a website & app where people can upload an image and create a unique AI artwork (via StableDiffusion, MidJourney, Dall-E-2 or other) and generate a new image.
 
 Problem:
@@ -1185,14 +1185,14 @@ Existing application runs, chrome related error is solved.
 Technical Details
 Running into issue with service worker registration and session closing. Again I think this is just my lack of understanding of the proper syntax as it’s my first time trying to build an extension.
 Link to Project
-Can share project link individually.",ananthmani,7 hours ago,https://replit.com/bounties/@ananthmani/fix-chrome-extension?t=
+Can share project link individually.",ananthmani,8 hours ago,https://replit.com/bounties/@ananthmani/fix-chrome-extension?t=
 124,$31.50,due in 4 days,Improve Adobe Illustrator Extension with Vue.js and Nuxt.js,"We have a basic adobe illustrator extension, that allows a use to sign in using an API call. We'd like to integrate this app with Nuxt.js, Vue.js and Pinia (https://pinia.vuejs.org/)  to have a full web app.
 
 Acceptance Criteria
 Add two pages using Nuxt.js and vue.js.
-first page should be the existing sign in page, second page should be a redirect displaying the JWT token.",MatthiasRichard,5 hours ago,https://replit.com/bounties/@MatthiasRichard/improve-adobe-illust?t=
+first page should be the existing sign in page, second page should be a redirect displaying the JWT token.",MatthiasRichard,6 hours ago,https://replit.com/bounties/@MatthiasRichard/improve-adobe-illust?t=
 125,$315.00,due in 3 days,Twitter Auto-Reply API,"I require an extension/plug-in API that can be used for my business Twitter account.
 
 The feature should allow me to edit the content of the tweet and to target specific demographs (ie. Architecture & Construction).
 
-For example, any tweet containing #architecture automates my account to post a pre-defined tweet in response.",TomHumber,36 minutes ago,https://replit.com/bounties/@TomHumber/twitter-auto-reply-a?t=
+For example, any tweet containing #architecture automates my account to post a pre-defined tweet in response.",TomHumber,1 hour ago,https://replit.com/bounties/@TomHumber/twitter-auto-reply-a?t=
