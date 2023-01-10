@@ -1306,7 +1306,7 @@
         "title": "Python: Using eye tracking to control cursor on Mac",
         "description": "I have a dual monitor computer and I want to use eye tracking to move my cursor across the two monitors.\n\nAcceptance Criteria\nEye tracking moves the cursor on an absolute basis i.e. where my eyes are is where the cursor moves.\nEye tracking moves the cursor on a relative basis i.e. move cursor in the direction of my retina\nCalibration system where a window pops up where it shows \"+\" on the screen and determines what my eyes looks like (across the screens)\n\nTechnical Detail\nHow to move cursor on mac: https://gist.github.com/prafulfillment/16b52a55e676d0aac845451d8a6ec301\nEye retina tracking works with OpenCV",
         "author": "PrafulMathur",
-        "posted_time": "39 minutes ago",
+        "posted_time": "51 minutes ago",
         "link": "https://replit.com/bounties/@PrafulMathur/python-using-eye-tra?t="
     },
     {
@@ -1316,7 +1316,7 @@
         "title": "AI Inventory Analytics ",
         "description": "We are having trouble figuring it out how much inventory we should buy based on our historical sales data for our Shopify Stores.\n\nAcceptance Criteria\nA shopify App based on ChatGPT (Open AI) that will forecast how much inventory we need for our Shopify Stores by analyzing our sales data and identifying trends in demand to help make purchasing decisions.\nBy analyzing our sales data, the app needs to predict how much inventory we will need in the future so we can plan our reorders.\nLow-Stock Alerts: We need to be alerted when stock is running low on a particular item so we can reorder before we run out\n\nTechnical Details",
         "author": "Ericmuks",
-        "posted_time": "14 minutes ago",
+        "posted_time": "26 minutes ago",
         "link": "https://replit.com/bounties/@Ericmuks/ai-inventory-analyti?t="
     },
     {
@@ -1326,7 +1326,7 @@
         "title": "Flutter: Sign in page #supabase #riverpod",
         "description": "Sign in/up page that authenticates me with supabase auth.\n\nLooks like: https://dribbble.com/shots/14605167/attachments/6297430?mode=media\n\nSome updates:\nOn sign up the fields will be: full name, email and it will use OTP to authenticate\nOn login there's only email no password and will use OTP to authenticate\n\nAcceptance Criteria\nAllows me to login via credentials stored in Supabase (email -> OTP, Google/Apple/Facebook social logins)\nAllows me to sign up with email OTP, Google, Apple, & FB\nOn success, route to MyApp() [for now you can make that a \"Hello World\"]\nOn error, show a toast message on top saying \"Invalid Attempt: {reason}\"\n\nTechnical Details\nUse Supabase keys to auth (create a free account)\nUse riverpod for state managment\n\nLink to Project\nCreate a blank project and link me",
         "author": "PrafulMathur",
-        "posted_time": "9 minutes ago",
+        "posted_time": "21 minutes ago",
         "link": "https://replit.com/bounties/@PrafulMathur/flutter-sign-in-page?t="
     },
     {
@@ -1336,7 +1336,7 @@
         "title": "code only a mother could love",
         "description": "cycle transfer for Ghostwriter\n\nAcceptance Criteria\ncycle transfer for Ghostwriter",
         "author": "ToddBenrud",
-        "posted_time": "7 minutes ago",
+        "posted_time": "19 minutes ago",
         "link": "https://replit.com/bounties/@ToddBenrud/code-only-a-mother-c?t="
     }
 ]
