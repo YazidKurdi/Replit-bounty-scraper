@@ -1296,7 +1296,7 @@
         "title": "Issue a Credential with Trinsic API for Twitter Follower",
         "description": "There is no easy way to prove that you follow someone on Twitter. Being able to prove something like a social follow could unlock other user interactions like rewarding true fans for activity while keeping out bots.\n\nAcceptance Criteria\n\nUse the Trinsic API (sign up for free at https://dashboard.trinsic.id/) and the Twitter API to issue a verifiable credential showing that @zjonsee follows @rileyphughes is true, and the date @zjonsee followed @rileyphughes.\n\nThen use the Trinsic dashboard to issue the credential to my email.\n\nTechnical Details\n\nLink to Project",
         "author": "ZacharyJones27",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@ZacharyJones27/issue-a-credential-w?t="
     },
     {
@@ -1316,7 +1316,7 @@
         "title": "AI Inventory Analytics ",
         "description": "We are having trouble figuring it out how much inventory we should buy based on our historical sales data for our Shopify Stores.\n\nAcceptance Criteria\nA shopify App based on ChatGPT (Open AI) that will forecast how much inventory we need for our Shopify Stores by analyzing our sales data and identifying trends in demand to help make purchasing decisions.\nBy analyzing our sales data, the app needs to predict how much inventory we will need in the future so we can plan our reorders.\nLow-Stock Alerts: We need to be alerted when stock is running low on a particular item so we can reorder before we run out\n\nTechnical Details",
         "author": "Ericmuks",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@Ericmuks/ai-inventory-analyti?t="
     },
     {
@@ -1346,7 +1346,7 @@
         "title": "This bounty is a race",
         "description": "First to apply gets the cycles (this is a test).\nnotsus",
         "author": "ae0",
-        "posted_time": "35 minutes ago",
+        "posted_time": "46 minutes ago",
         "link": "https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t="
     },
     {
@@ -1356,7 +1356,7 @@
         "title": "Amazon Ads API Pull",
         "description": "We are looking to pull data from Amazon's Sponsored Products API for all of our Amazon accounts.\n\nWe currently have a Django-based app that creates Celery tasks to sync the data of each of our accounts using the Selling Partner API. Now, we want to add support for the Sponsored Products API -- a different platform -- to enrich our data.\n\nAcceptance Criteria\nExperience with python, Django and Celery. Nice to have: experience with Amazon's APIs.",
         "author": "SantiagoNestare",
-        "posted_time": "22 minutes ago",
+        "posted_time": "32 minutes ago",
         "link": "https://replit.com/bounties/@SantiagoNestare/amazon-ads-api-pull?t="
     }
 ]
