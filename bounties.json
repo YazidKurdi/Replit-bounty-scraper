@@ -1256,7 +1256,7 @@
         "title": "Twitter Auto-Reply API",
         "description": "I require an extension/plug-in API that can be used for my business Twitter account.\n\nThe feature should allow me to edit the content of the tweet and to target specific demographs (ie. Architecture & Construction).\n\nFor example, any tweet containing #architecture automates my account to post a pre-defined tweet in response.",
         "author": "TomHumber",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@TomHumber/twitter-auto-reply-a?t="
     },
     {
@@ -1276,7 +1276,7 @@
         "title": "Mac Automation for Quicktime Image Sequence conversion",
         "description": "Create an Automator Quick Action  that uses the Quicktime Player \"Open Image Sequence\" function to convert the selected folder with an image sequence (numbered DNG files) and saves it as a 25fps ProRes video.\n\nThe audio track, stored as a single WAV in the same folder, should be added using the Quicktime Edit > Add Clip to End function.\n\nAcceptance Criteria\nThe action runs on a folder of image sequences and produces a playable ProRes video with sound on Mac OS Ventura.\n\nNote\nThe recent versions of QuickTime no longer exposes the \"Open Image Sequence\" function to AppleScript, so an alternative approach will be needed.",
         "author": "phraktle",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@phraktle/mac-automation-for-q?t="
     },
     {
@@ -1316,7 +1316,7 @@
         "title": "AI Inventory Analytics ",
         "description": "We are having trouble figuring it out how much inventory we should buy based on our historical sales data for our Shopify Stores.\n\nAcceptance Criteria\nA shopify App based on ChatGPT (Open AI) that will forecast how much inventory we need for our Shopify Stores by analyzing our sales data and identifying trends in demand to help make purchasing decisions.\nBy analyzing our sales data, the app needs to predict how much inventory we will need in the future so we can plan our reorders.\nLow-Stock Alerts: We need to be alerted when stock is running low on a particular item so we can reorder before we run out\n\nTechnical Details",
         "author": "Ericmuks",
-        "posted_time": "48 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@Ericmuks/ai-inventory-analyti?t="
     },
     {
@@ -1326,7 +1326,7 @@
         "title": "Flutter: Sign in page #supabase #riverpod",
         "description": "Sign in/up page that authenticates me with supabase auth.\n\nLooks like: https://dribbble.com/shots/14605167/attachments/6297430?mode=media\n\nSome updates:\nOn sign up the fields will be: full name, email and it will use OTP to authenticate\nOn login there's only email no password and will use OTP to authenticate\n\nAcceptance Criteria\nAllows me to login via credentials stored in Supabase (email -> OTP, Google/Apple/Facebook social logins)\nAllows me to sign up with email OTP, Google, Apple, & FB\nOn success, route to MyApp() [for now you can make that a \"Hello World\"]\nOn error, show a toast message on top saying \"Invalid Attempt: {reason}\"\n\nTechnical Details\nUse Supabase keys to auth (create a free account)\nUse riverpod for state managment\n\nLink to Project\nCreate a blank project and link me",
         "author": "PrafulMathur",
-        "posted_time": "43 minutes ago",
+        "posted_time": "56 minutes ago",
         "link": "https://replit.com/bounties/@PrafulMathur/flutter-sign-in-page?t="
     },
     {
@@ -1336,7 +1336,7 @@
         "title": "code only a mother could love",
         "description": "cycle transfer for Ghostwriter\n\nAcceptance Criteria\ncycle transfer for Ghostwriter",
         "author": "ToddBenrud",
-        "posted_time": "41 minutes ago",
+        "posted_time": "53 minutes ago",
         "link": "https://replit.com/bounties/@ToddBenrud/code-only-a-mother-c?t="
     },
     {
@@ -1346,7 +1346,7 @@
         "title": "This bounty is a race",
         "description": "First to apply gets the cycles (this is a test).\nnotsus",
         "author": "ae0",
-        "posted_time": "2 seconds ago",
+        "posted_time": "12 minutes ago",
         "link": "https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t="
     }
 ]
