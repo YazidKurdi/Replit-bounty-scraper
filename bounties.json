@@ -1156,7 +1156,7 @@
         "title": "Link shortener scraper",
         "description": "There is a link shortening website, Hoo.Be, that has a large number of creators. All creators have their pages in the format hoo.be/, e.g. https://hoo.be/ashlynclint. These pages then have a number of outbound links to the creator's pages on Instagram, etc. I would like someone to build a scraper that will scrape all pages that have a link to both Instagram and OnlyFans.\n\nAcceptance Criteria\n\nPlease provide a CSV with a row for each creator on Hoo.Be who has both an Instagram and OnlyFans.\n\nThe CSV should contain fields for:\nHoo.Be URL\nInstagram username\nInstagram URL\nInstagram avatar URL\nNumber of Instagram followers\nOnlyFans URL\nNumber of OnlyFans posts\nNumber of OnlyFans likes\n\nTechnical Details",
         "author": "NikhilGoel",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@NikhilGoel/link-shortener-scrap?t="
     },
     {
