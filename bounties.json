@@ -1216,7 +1216,7 @@
         "title": "Build website/app to recreate uploaded image into new image",
         "description": "Build a website & app where people can upload an image and create a unique AI artwork (via StableDiffusion, MidJourney, Dall-E-2 or other) and generate a new image.\n\nProblem:\nBasically, I am looking to upload a photo, then through the magic of ai, generate a new version of the person in that photo in a different scenario. Example, I upload my picture and then tell the AI to redraw me in Paris, or redraw me as a painting by Van Gogh, or cartoon me like a simpson's cartoon.\n\nAfter I upload the image, I select the criteria for my image, and AI outputs the finished product.\n\nThe user is then able to order that product in any number of formats. As a canvas, on a coffee mug, etc. I will provide the products that will be offered.\n\nUsers will need to sign up or sign in through another platform to use the site. I want the user to also be able to \"save\" the artwork they have generated to their account within the site, so that they can generate artwork at one time, then print ...",
         "author": "crillbill",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@crillbill/build-websiteapp-to?t="
     },
     {
@@ -1226,7 +1226,7 @@
         "title": "Recipe Generator Script",
         "description": "I need a python script that accepts dynamic input from users that want a recipe, and then returns a recipe for them. The input could be a recipe title (like London Broil or vegan pancakes), recipe description (spicy noodle dish), or even a list of ingredients (i have three onions, four cups of broth and a pound of chicken).\nI have API keys for spoonacular and openAI, and am willing to use both.\nAcceptance Criteria\na working python script that prints out a complete and usable recipe based on dynamic user input\nTechnical Details\njust a python script is needed for now.",
         "author": "jtmertes",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@jtmertes/recipe-generator-scr?t="
     },
     {
@@ -1256,7 +1256,17 @@
         "title": "Twitter Auto-Reply API",
         "description": "I require an extension/plug-in API that can be used for my business Twitter account.\n\nThe feature should allow me to edit the content of the tweet and to target specific demographs (ie. Architecture & Construction).\n\nFor example, any tweet containing #architecture automates my account to post a pre-defined tweet in response.",
         "author": "TomHumber",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@TomHumber/twitter-auto-reply-a?t="
+    },
+    {
+        "index": "126",
+        "price": "$0.90",
+        "due_days": "due in 6 days",
+        "title": "Stumble guys on replit ",
+        "description": "I want now.gg stumble guys to be downloaded and have the files get put on replit, or netlify this would be a great help thanks.\n\nI know that it is not a lot of money but its all i have so if you are bored code away",
+        "author": "TheTopGBugatti",
+        "posted_time": "17 minutes ago",
+        "link": "https://replit.com/bounties/@TheTopGBugatti/stumble-guys-on-repl?t="
     }
 ]
