@@ -1207,7 +1207,7 @@ Acceptance Criteria
 The action runs on a folder of image sequences and produces a playable ProRes video with sound on Mac OS Ventura.
 
 Note
-The recent versions of QuickTime no longer exposes the ""Open Image Sequence"" function to AppleScript, so an alternative approach will be needed.",phraktle,5 hours ago,https://replit.com/bounties/@phraktle/mac-automation-for-q?t=
+The recent versions of QuickTime no longer exposes the ""Open Image Sequence"" function to AppleScript, so an alternative approach will be needed.",phraktle,6 hours ago,https://replit.com/bounties/@phraktle/mac-automation-for-q?t=
 128,$9.99,due in 5 months,"Make a website that creates itself via randomizing variables to make a complex, but very random blog every refresh","Create a website that on refresh has the appearance that it is on a completely different website, or just with different content.
 
 Also I would like it to consist of memes, or of Sun Tzu quotes.
@@ -1243,7 +1243,7 @@ Calibration system where a window pops up where it shows ""+"" on the screen and
 
 Technical Detail
 How to move cursor on mac: https://gist.github.com/prafulfillment/16b52a55e676d0aac845451d8a6ec301
-Eye retina tracking works with OpenCV",PrafulMathur,4 hours ago,https://replit.com/bounties/@PrafulMathur/python-using-eye-tra?t=
+Eye retina tracking works with OpenCV",PrafulMathur,5 hours ago,https://replit.com/bounties/@PrafulMathur/python-using-eye-tra?t=
 131,$225.00,due in 3 days,AI Inventory Analytics ,"We are having trouble figuring it out how much inventory we should buy based on our historical sales data for our Shopify Stores.
 
 Acceptance Criteria
