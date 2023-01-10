@@ -1238,5 +1238,15 @@
         "author": "ananthmani",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@ananthmani/fix-chrome-extension?t="
+    },
+    {
+        "index": "124",
+        "price": "$31.50",
+        "due_days": "due in 5 days",
+        "title": "Improve Adobe Illustrator Extension with Vue.js and Nuxt.js",
+        "description": "We have a basic adobe illustrator extension, that allows a use to sign in using an API call. We'd like to integrate this app with Nuxt.js, Vue.js and Pinia (https://pinia.vuejs.org/)  to have a full web app.\n\nAcceptance Criteria\nAdd two pages using Nuxt.js and vue.js.\nfirst page should be the existing sign in page, second page should be a redirect displaying the JWT token.",
+        "author": "MatthiasRichard",
+        "posted_time": "2 minutes ago",
+        "link": "https://replit.com/bounties/@MatthiasRichard/improve-adobe-illust?t="
     }
 ]

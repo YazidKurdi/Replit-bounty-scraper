@@ -1186,3 +1186,8 @@ Technical Details
 Running into issue with service worker registration and session closing. Again I think this is just my lack of understanding of the proper syntax as it’s my first time trying to build an extension.
 Link to Project
 Can share project link individually.",ananthmani,2 hours ago,https://replit.com/bounties/@ananthmani/fix-chrome-extension?t=
+124,$31.50,due in 5 days,Improve Adobe Illustrator Extension with Vue.js and Nuxt.js,"We have a basic adobe illustrator extension, that allows a use to sign in using an API call. We'd like to integrate this app with Nuxt.js, Vue.js and Pinia (https://pinia.vuejs.org/)  to have a full web app.
+
+Acceptance Criteria
+Add two pages using Nuxt.js and vue.js.
+first page should be the existing sign in page, second page should be a redirect displaying the JWT token.",MatthiasRichard,2 minutes ago,https://replit.com/bounties/@MatthiasRichard/improve-adobe-illust?t=
