@@ -1286,7 +1286,7 @@
         "title": "Make a website that creates itself via randomizing variables to make a complex, but very random blog every refresh",
         "description": "Create a website that on refresh has the appearance that it is on a completely different website, or just with different content.\n\nAlso I would like it to consist of memes, or of Sun Tzu quotes.\nThis is similar to the newer gpt-3 nyt website, but I want it to consist of memes, also I have resources that may be helpful towards your completion of this at the bottom.\n\nWhy?\nI'm making this as a start to a PPO learning algorithm that works with rewards.\nExample: website receives longest interaction so far, receive reward, if user clicks off in 5 seconds under the average interaction length, receive negative reward\nI will be implementing the ppo myself, since asking for that would substantially increase the price of this project, and I am not rich.\n\nReq\nGotta be in PHP, sorry if you have a life but if you choose to make this and you don't have experience in PHP it will be worse than walking on hot coals.\n\nResources\nblogging template ( you may make the appearance different, but read the READM...",
         "author": "Altify-Developm",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@Altify-Developm/make-a-website-that?t="
     },
     {
@@ -1306,7 +1306,7 @@
         "title": "Python: Using eye tracking to control cursor on Mac",
         "description": "I have a dual monitor computer and I want to use eye tracking to move my cursor across the two monitors.\n\nAcceptance Criteria\nEye tracking moves the cursor on an absolute basis i.e. where my eyes are is where the cursor moves.\nEye tracking moves the cursor on a relative basis i.e. move cursor in the direction of my retina\nCalibration system where a window pops up where it shows \"+\" on the screen and determines what my eyes looks like (across the screens)\n\nTechnical Detail\nHow to move cursor on mac: https://gist.github.com/prafulfillment/16b52a55e676d0aac845451d8a6ec301\nEye retina tracking works with OpenCV",
         "author": "PrafulMathur",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@PrafulMathur/python-using-eye-tra?t="
     },
     {
@@ -1326,7 +1326,7 @@
         "title": "Flutter: Sign in page #supabase #riverpod",
         "description": "Sign in/up page that authenticates me with supabase auth.\n\nLooks like: https://dribbble.com/shots/14605167/attachments/6297430?mode=media\n\nSome updates:\nOn sign up the fields will be: full name, email and it will use OTP to authenticate\nOn login there's only email no password and will use OTP to authenticate\n\nAcceptance Criteria\nAllows me to login via credentials stored in Supabase (email -> OTP, Google/Apple/Facebook social logins)\nAllows me to sign up with email OTP, Google, Apple, & FB\nOn success, route to MyApp() [for now you can make that a \"Hello World\"]\nOn error, show a toast message on top saying \"Invalid Attempt: {reason}\"\n\nTechnical Details\nUse Supabase keys to auth (create a free account)\nUse riverpod for state managment\n\nLink to Project\nCreate a blank project and link me",
         "author": "PrafulMathur",
-        "posted_time": "56 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@PrafulMathur/flutter-sign-in-page?t="
     },
     {
@@ -1336,7 +1336,7 @@
         "title": "code only a mother could love",
         "description": "cycle transfer for Ghostwriter\n\nAcceptance Criteria\ncycle transfer for Ghostwriter",
         "author": "ToddBenrud",
-        "posted_time": "53 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@ToddBenrud/code-only-a-mother-c?t="
     },
     {
@@ -1346,7 +1346,17 @@
         "title": "This bounty is a race",
         "description": "First to apply gets the cycles (this is a test).\nnotsus",
         "author": "ae0",
-        "posted_time": "12 minutes ago",
+        "posted_time": "19 minutes ago",
         "link": "https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t="
+    },
+    {
+        "index": "135",
+        "price": "$450.00",
+        "due_days": "due in 1 month",
+        "title": "Amazon Ads API Pull",
+        "description": "We are looking to pull data from Amazon's Sponsored Products API for all of our Amazon accounts.\n\nWe currently have a Django-based app that creates Celery tasks to sync the data of each of our accounts using the Selling Partner API. Now, we want to add support for the Sponsored Products API -- a different platform -- to enrich our data.\n\nAcceptance Criteria\nExperience with python, Django and Celery. Nice to have: experience with Amazon's APIs.",
+        "author": "SantiagoNestare",
+        "posted_time": "5 minutes ago",
+        "link": "https://replit.com/bounties/@SantiagoNestare/amazon-ads-api-pull?t="
     }
 ]

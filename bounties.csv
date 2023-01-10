@@ -1222,7 +1222,7 @@ Req
 Gotta be in PHP, sorry if you have a life but if you choose to make this and you don't have experience in PHP it will be worse than walking on hot coals.
 
 Resources
-blogging template ( you may make the appearance different, but read the READM...",Altify-Developm,2 hours ago,https://replit.com/bounties/@Altify-Developm/make-a-website-that?t=
+blogging template ( you may make the appearance different, but read the READM...",Altify-Developm,3 hours ago,https://replit.com/bounties/@Altify-Developm/make-a-website-that?t=
 129,$45.00,due in 3 days,Issue a Credential with Trinsic API for Twitter Follower,"There is no easy way to prove that you follow someone on Twitter. Being able to prove something like a social follow could unlock other user interactions like rewarding true fans for activity while keeping out bots.
 
 Acceptance Criteria
@@ -1243,7 +1243,7 @@ Calibration system where a window pops up where it shows ""+"" on the screen and
 
 Technical Detail
 How to move cursor on mac: https://gist.github.com/prafulfillment/16b52a55e676d0aac845451d8a6ec301
-Eye retina tracking works with OpenCV",PrafulMathur,1 hour ago,https://replit.com/bounties/@PrafulMathur/python-using-eye-tra?t=
+Eye retina tracking works with OpenCV",PrafulMathur,2 hours ago,https://replit.com/bounties/@PrafulMathur/python-using-eye-tra?t=
 131,$225.00,due in 3 days,AI Inventory Analytics ,"We are having trouble figuring it out how much inventory we should buy based on our historical sales data for our Shopify Stores.
 
 Acceptance Criteria
@@ -1271,10 +1271,16 @@ Use Supabase keys to auth (create a free account)
 Use riverpod for state managment
 
 Link to Project
-Create a blank project and link me",PrafulMathur,56 minutes ago,https://replit.com/bounties/@PrafulMathur/flutter-sign-in-page?t=
+Create a blank project and link me",PrafulMathur,1 hour ago,https://replit.com/bounties/@PrafulMathur/flutter-sign-in-page?t=
 133,$90.00,closed,code only a mother could love,"cycle transfer for Ghostwriter
 
 Acceptance Criteria
-cycle transfer for Ghostwriter",ToddBenrud,53 minutes ago,https://replit.com/bounties/@ToddBenrud/code-only-a-mother-c?t=
+cycle transfer for Ghostwriter",ToddBenrud,1 hour ago,https://replit.com/bounties/@ToddBenrud/code-only-a-mother-c?t=
 134,$0.90,due in 3 days,This bounty is a race,"First to apply gets the cycles (this is a test).
-notsus",ae0,12 minutes ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t=
+notsus",ae0,19 minutes ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t=
+135,$450.00,due in 1 month,Amazon Ads API Pull,"We are looking to pull data from Amazon's Sponsored Products API for all of our Amazon accounts.
+
+We currently have a Django-based app that creates Celery tasks to sync the data of each of our accounts using the Selling Partner API. Now, we want to add support for the Sponsored Products API -- a different platform -- to enrich our data.
+
+Acceptance Criteria
+Experience with python, Django and Celery. Nice to have: experience with Amazon's APIs.",SantiagoNestare,5 minutes ago,https://replit.com/bounties/@SantiagoNestare/amazon-ads-api-pull?t=
