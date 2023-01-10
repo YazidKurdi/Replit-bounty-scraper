@@ -1346,7 +1346,7 @@
         "title": "This bounty is a race",
         "description": "First to apply gets the cycles (this is a test).\nnotsus",
         "author": "ae0",
-        "posted_time": "27 minutes ago",
+        "posted_time": "35 minutes ago",
         "link": "https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t="
     },
     {
@@ -1356,7 +1356,7 @@
         "title": "Amazon Ads API Pull",
         "description": "We are looking to pull data from Amazon's Sponsored Products API for all of our Amazon accounts.\n\nWe currently have a Django-based app that creates Celery tasks to sync the data of each of our accounts using the Selling Partner API. Now, we want to add support for the Sponsored Products API -- a different platform -- to enrich our data.\n\nAcceptance Criteria\nExperience with python, Django and Celery. Nice to have: experience with Amazon's APIs.",
         "author": "SantiagoNestare",
-        "posted_time": "13 minutes ago",
+        "posted_time": "22 minutes ago",
         "link": "https://replit.com/bounties/@SantiagoNestare/amazon-ads-api-pull?t="
     }
 ]

@@ -1277,10 +1277,10 @@ Create a blank project and link me",PrafulMathur,1 hour ago,https://replit.com/b
 Acceptance Criteria
 cycle transfer for Ghostwriter",ToddBenrud,1 hour ago,https://replit.com/bounties/@ToddBenrud/code-only-a-mother-c?t=
 134,$0.90,due in 3 days,This bounty is a race,"First to apply gets the cycles (this is a test).
-notsus",ae0,27 minutes ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t=
+notsus",ae0,35 minutes ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t=
 135,$450.00,due in 29 days,Amazon Ads API Pull,"We are looking to pull data from Amazon's Sponsored Products API for all of our Amazon accounts.
 
 We currently have a Django-based app that creates Celery tasks to sync the data of each of our accounts using the Selling Partner API. Now, we want to add support for the Sponsored Products API -- a different platform -- to enrich our data.
 
 Acceptance Criteria
-Experience with python, Django and Celery. Nice to have: experience with Amazon's APIs.",SantiagoNestare,13 minutes ago,https://replit.com/bounties/@SantiagoNestare/amazon-ads-api-pull?t=
+Experience with python, Django and Celery. Nice to have: experience with Amazon's APIs.",SantiagoNestare,22 minutes ago,https://replit.com/bounties/@SantiagoNestare/amazon-ads-api-pull?t=
