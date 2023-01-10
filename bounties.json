@@ -1286,7 +1286,7 @@
         "title": "Make a website that creates itself via randomizing variables to make a complex, but very random blog every refresh",
         "description": "Create a website that on refresh has the appearance that it is on a completely different website, or just with different content.\n\nAlso I would like it to consist of memes, or of Sun Tzu quotes.\nThis is similar to the newer gpt-3 nyt website, but I want it to consist of memes, also I have resources that may be helpful towards your completion of this at the bottom.\n\nWhy?\nI'm making this as a start to a PPO learning algorithm that works with rewards.\nExample: website receives longest interaction so far, receive reward, if user clicks off in 5 seconds under the average interaction length, receive negative reward\nI will be implementing the ppo myself, since asking for that would substantially increase the price of this project, and I am not rich.\n\nReq\nGotta be in PHP, sorry if you have a life but if you choose to make this and you don't have experience in PHP it will be worse than walking on hot coals.\n\nResources\nblogging template ( you may make the appearance different, but read the READM...",
         "author": "Altify-Developm",
-        "posted_time": "48 minutes ago",
+        "posted_time": "50 minutes ago",
         "link": "https://replit.com/bounties/@Altify-Developm/make-a-website-that?t="
     },
     {
@@ -1296,7 +1296,7 @@
         "title": "Issue a Credential with Trinsic API for Twitter Follower",
         "description": "There is no easy way to prove that you follow someone on Twitter. Being able to prove something like a social follow could unlock other user interactions like rewarding true fans for activity while keeping out bots.\n\nAcceptance Criteria\n\nUse the Trinsic API (sign up for free at https://dashboard.trinsic.id/) and the Twitter API to issue a verifiable credential showing that @zjonsee follows @rileyphughes is true, and the date @zjonsee followed @rileyphughes.\n\nThen use the Trinsic dashboard to issue the credential to my email.\n\nTechnical Details\n\nLink to Project",
         "author": "ZacharyJones27",
-        "posted_time": "25 minutes ago",
+        "posted_time": "27 minutes ago",
         "link": "https://replit.com/bounties/@ZacharyJones27/issue-a-credential-w?t="
     }
 ]
