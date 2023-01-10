@@ -1266,7 +1266,7 @@
         "title": "Stumble guys on replit ",
         "description": "I want now.gg stumble guys to be downloaded and have the files get put on replit, or netlify this would be a great help thanks.\n\nI know that it is not a lot of money but its all i have so if you are bored code away",
         "author": "TheTopGBugatti",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@TheTopGBugatti/stumble-guys-on-repl?t="
     },
     {
@@ -1286,7 +1286,7 @@
         "title": "Make a website that creates itself via randomizing variables to make a complex, but very random blog every refresh",
         "description": "Create a website that on refresh has the appearance that it is on a completely different website, or just with different content.\n\nAlso I would like it to consist of memes, or of Sun Tzu quotes.\nThis is similar to the newer gpt-3 nyt website, but I want it to consist of memes, also I have resources that may be helpful towards your completion of this at the bottom.\n\nWhy?\nI'm making this as a start to a PPO learning algorithm that works with rewards.\nExample: website receives longest interaction so far, receive reward, if user clicks off in 5 seconds under the average interaction length, receive negative reward\nI will be implementing the ppo myself, since asking for that would substantially increase the price of this project, and I am not rich.\n\nReq\nGotta be in PHP, sorry if you have a life but if you choose to make this and you don't have experience in PHP it will be worse than walking on hot coals.\n\nResources\nblogging template ( you may make the appearance different, but read the READM...",
         "author": "Altify-Developm",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@Altify-Developm/make-a-website-that?t="
     },
     {
@@ -1296,7 +1296,7 @@
         "title": "Issue a Credential with Trinsic API for Twitter Follower",
         "description": "There is no easy way to prove that you follow someone on Twitter. Being able to prove something like a social follow could unlock other user interactions like rewarding true fans for activity while keeping out bots.\n\nAcceptance Criteria\n\nUse the Trinsic API (sign up for free at https://dashboard.trinsic.id/) and the Twitter API to issue a verifiable credential showing that @zjonsee follows @rileyphughes is true, and the date @zjonsee followed @rileyphughes.\n\nThen use the Trinsic dashboard to issue the credential to my email.\n\nTechnical Details\n\nLink to Project",
         "author": "ZacharyJones27",
-        "posted_time": "52 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@ZacharyJones27/issue-a-credential-w?t="
     },
     {
@@ -1306,7 +1306,37 @@
         "title": "Python: Using eye tracking to control cursor on Mac",
         "description": "I have a dual monitor computer and I want to use eye tracking to move my cursor across the two monitors.\n\nAcceptance Criteria\nEye tracking moves the cursor on an absolute basis i.e. where my eyes are is where the cursor moves.\nEye tracking moves the cursor on a relative basis i.e. move cursor in the direction of my retina\nCalibration system where a window pops up where it shows \"+\" on the screen and determines what my eyes looks like (across the screens)\n\nTechnical Detail\nHow to move cursor on mac: https://gist.github.com/prafulfillment/16b52a55e676d0aac845451d8a6ec301\nEye retina tracking works with OpenCV",
         "author": "PrafulMathur",
-        "posted_time": "17 minutes ago",
+        "posted_time": "39 minutes ago",
         "link": "https://replit.com/bounties/@PrafulMathur/python-using-eye-tra?t="
+    },
+    {
+        "index": "131",
+        "price": "$225.00",
+        "due_days": "due in 3 days",
+        "title": "AI Inventory Analytics ",
+        "description": "We are having trouble figuring it out how much inventory we should buy based on our historical sales data for our Shopify Stores.\n\nAcceptance Criteria\nA shopify App based on ChatGPT (Open AI) that will forecast how much inventory we need for our Shopify Stores by analyzing our sales data and identifying trends in demand to help make purchasing decisions.\nBy analyzing our sales data, the app needs to predict how much inventory we will need in the future so we can plan our reorders.\nLow-Stock Alerts: We need to be alerted when stock is running low on a particular item so we can reorder before we run out\n\nTechnical Details",
+        "author": "Ericmuks",
+        "posted_time": "14 minutes ago",
+        "link": "https://replit.com/bounties/@Ericmuks/ai-inventory-analyti?t="
+    },
+    {
+        "index": "132",
+        "price": "$45.00",
+        "due_days": "due in 3 days",
+        "title": "Flutter: Sign in page #supabase #riverpod",
+        "description": "Sign in/up page that authenticates me with supabase auth.\n\nLooks like: https://dribbble.com/shots/14605167/attachments/6297430?mode=media\n\nSome updates:\nOn sign up the fields will be: full name, email and it will use OTP to authenticate\nOn login there's only email no password and will use OTP to authenticate\n\nAcceptance Criteria\nAllows me to login via credentials stored in Supabase (email -> OTP, Google/Apple/Facebook social logins)\nAllows me to sign up with email OTP, Google, Apple, & FB\nOn success, route to MyApp() [for now you can make that a \"Hello World\"]\nOn error, show a toast message on top saying \"Invalid Attempt: {reason}\"\n\nTechnical Details\nUse Supabase keys to auth (create a free account)\nUse riverpod for state managment\n\nLink to Project\nCreate a blank project and link me",
+        "author": "PrafulMathur",
+        "posted_time": "9 minutes ago",
+        "link": "https://replit.com/bounties/@PrafulMathur/flutter-sign-in-page?t="
+    },
+    {
+        "index": "133",
+        "price": "$90.00",
+        "due_days": "closed",
+        "title": "code only a mother could love",
+        "description": "cycle transfer for Ghostwriter\n\nAcceptance Criteria\ncycle transfer for Ghostwriter",
+        "author": "ToddBenrud",
+        "posted_time": "7 minutes ago",
+        "link": "https://replit.com/bounties/@ToddBenrud/code-only-a-mother-c?t="
     }
 ]
