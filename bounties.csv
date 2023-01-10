@@ -1111,7 +1111,7 @@ Hunters must:
 Have some experience with creating apps for Apple watches
 Be able to produce a version ready for publishing on the App store
 Provide the app in a few select languages, with the help of Google translate of course.",codingMASTER398,7 hours ago,https://replit.com/bounties/@codingMASTER398/make-a-port-of-my-fi?t=
-115,$45.00,due in 3 days,Link shortener scraper,"There is a link shortening website, Hoo.Be, that has a large number of creators. All creators have their pages in the format hoo.be/, e.g. https://hoo.be/ashlynclint. These pages then have a number of outbound links to the creator's pages on Instagram, etc. I would like someone to build a scraper that will scrape all pages that have a link to both Instagram and OnlyFans.
+115,$45.00,due in 4 days,Link shortener scraper,"There is a link shortening website, Hoo.Be, that has a large number of creators. All creators have their pages in the format hoo.be/, e.g. https://hoo.be/ashlynclint. These pages then have a number of outbound links to the creator's pages on Instagram, etc. I would like someone to build a scraper that will scrape all pages that have a link to both Instagram and OnlyFans.
 
 Acceptance Criteria
 
@@ -1179,3 +1179,10 @@ Acceptance Criteria
 a working python script that prints out a complete and usable recipe based on dynamic user input
 Technical Details
 just a python script is needed for now.",jtmertes,2 hours ago,https://replit.com/bounties/@jtmertes/recipe-generator-scr?t=
+123,$13.50,due in 4 days,Fix chrome extension syntax/bug.,"I am trying to build a simple chrome extension that scraps a website profile. I have written most of the code, but have run into a bug, namely a mishap in  v2 vs v3 syntax. Should be a quick fix for anyone with experience in chrome extensions.
+Acceptance Criteria
+Existing application runs, chrome related error is solved.
+Technical Details
+Running into issue with service worker registration and session closing. Again I think this is just my lack of understanding of the proper syntax as it’s my first time trying to build an extension.
+Link to Project
+Can share project link individually.",ananthmani,11 minutes ago,https://replit.com/bounties/@ananthmani/fix-chrome-extension?t=
