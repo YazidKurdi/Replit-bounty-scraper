@@ -1276,7 +1276,7 @@
         "title": "Mac Automation for Quicktime Image Sequence conversion",
         "description": "Create an Automator Quick Action  that uses the Quicktime Player \"Open Image Sequence\" function to convert the selected folder with an image sequence (numbered DNG files) and saves it as a 25fps ProRes video.\n\nThe audio track, stored as a single WAV in the same folder, should be added using the Quicktime Edit > Add Clip to End function.\n\nAcceptance Criteria\nThe action runs on a folder of image sequences and produces a playable ProRes video with sound on Mac OS Ventura.\n\nNote\nThe recent versions of QuickTime no longer exposes the \"Open Image Sequence\" function to AppleScript, so an alternative approach will be needed.",
         "author": "phraktle",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@phraktle/mac-automation-for-q?t="
     },
     {
