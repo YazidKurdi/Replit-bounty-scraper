@@ -1154,10 +1154,10 @@ I need someone with a background building an easy/robust GUI on python that can 
 3) When given a list of Repls, check to see if the code in main.py is duplicated in any if them
 
 Acceptance Criteria
-Code should be clean, completed and commented. This is super urgent and should ideally be completed in 24 hours.",anshul,10 hours ago,https://replit.com/bounties/@anshul/come-up-with-a-mecha?t=
+Code should be clean, completed and commented. This is super urgent and should ideally be completed in 24 hours.",anshul,11 hours ago,https://replit.com/bounties/@anshul/come-up-with-a-mecha?t=
 119,$45.00,due in 9 days,Create a simplified maxmypoint.com website clone for Hyatt hotels,"Create a simplified version of https://maxmypoint.com/ for Hyatt hotels only. There is no need for a subscription feature or to include other hotel brands like Hilton or Marriot. There is also no need for an email alert or login feature.
 
-The website should include a blog element for a travel and point-maximizing blog.",GamblingGlobeTrotter,9 hours ago,https://replit.com/bounties/@GamblingGlobeTrotter/create-a-simplified?t=
+The website should include a blog element for a travel and point-maximizing blog.",GamblingGlobeTrotter,10 hours ago,https://replit.com/bounties/@GamblingGlobeTrotter/create-a-simplified?t=
 120,$360.00,due in 19 days,Dictation app that can transcribe text and create properly formatted reports,"I want to create a custom dictation app that can transcribe my spoken text into a properly formatted report.
 
 I create formatted technical reports for clients in my current job, about 30-40 times a day.  I use a dictation tool that allows me to freely dictate my findings, but I have to mentally organize my thoughts for a few moments so that I can say everything in the proper sequence. Alternatively,  I can dictate the findings out of order and then spend time manually rearranging and formatting the report. I also have the ability to create basic macros with this tool, where I can say one word or phrase and it will output a pre-completed body of text. However, this macro feature is not very flexible and cannot adjust the output based on the context of the report. Lastly, the current system has no idea if it mistranscribed a word because it doesn't understand the context.
@@ -1190,4 +1190,4 @@ Can share project link individually.",ananthmani,5 hours ago,https://replit.com/
 
 Acceptance Criteria
 Add two pages using Nuxt.js and vue.js.
-first page should be the existing sign in page, second page should be a redirect displaying the JWT token.",MatthiasRichard,2 hours ago,https://replit.com/bounties/@MatthiasRichard/improve-adobe-illust?t=
+first page should be the existing sign in page, second page should be a redirect displaying the JWT token.",MatthiasRichard,3 hours ago,https://replit.com/bounties/@MatthiasRichard/improve-adobe-illust?t=
