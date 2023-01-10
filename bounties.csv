@@ -1185,7 +1185,7 @@ Existing application runs, chrome related error is solved.
 Technical Details
 Running into issue with service worker registration and session closing. Again I think this is just my lack of understanding of the proper syntax as it’s my first time trying to build an extension.
 Link to Project
-Can share project link individually.",ananthmani,12 hours ago,https://replit.com/bounties/@ananthmani/fix-chrome-extension?t=
+Can share project link individually.",ananthmani,13 hours ago,https://replit.com/bounties/@ananthmani/fix-chrome-extension?t=
 124,$31.50,due in 4 days,Improve Adobe Illustrator Extension with Vue.js and Nuxt.js,"We have a basic adobe illustrator extension, that allows a use to sign in using an API call. We'd like to integrate this app with Nuxt.js, Vue.js and Pinia (https://pinia.vuejs.org/)  to have a full web app.
 
 Acceptance Criteria
@@ -1198,7 +1198,7 @@ The feature should allow me to edit the content of the tweet and to target speci
 For example, any tweet containing #architecture automates my account to post a pre-defined tweet in response.",TomHumber,6 hours ago,https://replit.com/bounties/@TomHumber/twitter-auto-reply-a?t=
 126,$0.90,due in 6 days,Stumble guys on replit ,"I want now.gg stumble guys to be downloaded and have the files get put on replit, or netlify this would be a great help thanks.
 
-I know that it is not a lot of money but its all i have so if you are bored code away",TheTopGBugatti,1 hour ago,https://replit.com/bounties/@TheTopGBugatti/stumble-guys-on-repl?t=
+I know that it is not a lot of money but its all i have so if you are bored code away",TheTopGBugatti,2 hours ago,https://replit.com/bounties/@TheTopGBugatti/stumble-guys-on-repl?t=
 127,$180.00,due in 1 month,Mac Automation for Quicktime Image Sequence conversion,"Create an Automator Quick Action  that uses the Quicktime Player ""Open Image Sequence"" function to convert the selected folder with an image sequence (numbered DNG files) and saves it as a 25fps ProRes video.
 
 The audio track, stored as a single WAV in the same folder, should be added using the Quicktime Edit > Add Clip to End function.
@@ -1207,7 +1207,7 @@ Acceptance Criteria
 The action runs on a folder of image sequences and produces a playable ProRes video with sound on Mac OS Ventura.
 
 Note
-The recent versions of QuickTime no longer exposes the ""Open Image Sequence"" function to AppleScript, so an alternative approach will be needed.",phraktle,50 minutes ago,https://replit.com/bounties/@phraktle/mac-automation-for-q?t=
+The recent versions of QuickTime no longer exposes the ""Open Image Sequence"" function to AppleScript, so an alternative approach will be needed.",phraktle,1 hour ago,https://replit.com/bounties/@phraktle/mac-automation-for-q?t=
 128,$9.99,due in 5 months,"Make a website that creates itself via randomizing variables to make a complex, but very random blog every refresh","Create a website that on refresh has the appearance that it is on a completely different website, or just with different content.
 
 Also I would like it to consist of memes, or of Sun Tzu quotes.
@@ -1222,7 +1222,7 @@ Req
 Gotta be in PHP, sorry if you have a life but if you choose to make this and you don't have experience in PHP it will be worse than walking on hot coals.
 
 Resources
-blogging template ( you may make the appearance different, but read the READM...",Altify-Developm,34 minutes ago,https://replit.com/bounties/@Altify-Developm/make-a-website-that?t=
+blogging template ( you may make the appearance different, but read the READM...",Altify-Developm,48 minutes ago,https://replit.com/bounties/@Altify-Developm/make-a-website-that?t=
 129,$45.00,due in 3 days,Issue a Credential with Trinsic API for Twitter Follower,"There is no easy way to prove that you follow someone on Twitter. Being able to prove something like a social follow could unlock other user interactions like rewarding true fans for activity while keeping out bots.
 
 Acceptance Criteria
@@ -1233,4 +1233,4 @@ Then use the Trinsic dashboard to issue the credential to my email.
 
 Technical Details
 
-Link to Project",ZacharyJones27,11 minutes ago,https://replit.com/bounties/@ZacharyJones27/issue-a-credential-w?t=
+Link to Project",ZacharyJones27,25 minutes ago,https://replit.com/bounties/@ZacharyJones27/issue-a-credential-w?t=

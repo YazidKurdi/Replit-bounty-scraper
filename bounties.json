@@ -1236,7 +1236,7 @@
         "title": "Fix chrome extension syntax/bug.",
         "description": "I am trying to build a simple chrome extension that scraps a website profile. I have written most of the code, but have run into a bug, namely a mishap in  v2 vs v3 syntax. Should be a quick fix for anyone with experience in chrome extensions.\nAcceptance Criteria\nExisting application runs, chrome related error is solved.\nTechnical Details\nRunning into issue with service worker registration and session closing. Again I think this is just my lack of understanding of the proper syntax as it\u2019s my first time trying to build an extension.\nLink to Project\nCan share project link individually.",
         "author": "ananthmani",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@ananthmani/fix-chrome-extension?t="
     },
     {
@@ -1266,7 +1266,7 @@
         "title": "Stumble guys on replit ",
         "description": "I want now.gg stumble guys to be downloaded and have the files get put on replit, or netlify this would be a great help thanks.\n\nI know that it is not a lot of money but its all i have so if you are bored code away",
         "author": "TheTopGBugatti",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@TheTopGBugatti/stumble-guys-on-repl?t="
     },
     {
@@ -1276,7 +1276,7 @@
         "title": "Mac Automation for Quicktime Image Sequence conversion",
         "description": "Create an Automator Quick Action  that uses the Quicktime Player \"Open Image Sequence\" function to convert the selected folder with an image sequence (numbered DNG files) and saves it as a 25fps ProRes video.\n\nThe audio track, stored as a single WAV in the same folder, should be added using the Quicktime Edit > Add Clip to End function.\n\nAcceptance Criteria\nThe action runs on a folder of image sequences and produces a playable ProRes video with sound on Mac OS Ventura.\n\nNote\nThe recent versions of QuickTime no longer exposes the \"Open Image Sequence\" function to AppleScript, so an alternative approach will be needed.",
         "author": "phraktle",
-        "posted_time": "50 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@phraktle/mac-automation-for-q?t="
     },
     {
@@ -1286,7 +1286,7 @@
         "title": "Make a website that creates itself via randomizing variables to make a complex, but very random blog every refresh",
         "description": "Create a website that on refresh has the appearance that it is on a completely different website, or just with different content.\n\nAlso I would like it to consist of memes, or of Sun Tzu quotes.\nThis is similar to the newer gpt-3 nyt website, but I want it to consist of memes, also I have resources that may be helpful towards your completion of this at the bottom.\n\nWhy?\nI'm making this as a start to a PPO learning algorithm that works with rewards.\nExample: website receives longest interaction so far, receive reward, if user clicks off in 5 seconds under the average interaction length, receive negative reward\nI will be implementing the ppo myself, since asking for that would substantially increase the price of this project, and I am not rich.\n\nReq\nGotta be in PHP, sorry if you have a life but if you choose to make this and you don't have experience in PHP it will be worse than walking on hot coals.\n\nResources\nblogging template ( you may make the appearance different, but read the READM...",
         "author": "Altify-Developm",
-        "posted_time": "34 minutes ago",
+        "posted_time": "48 minutes ago",
         "link": "https://replit.com/bounties/@Altify-Developm/make-a-website-that?t="
     },
     {
@@ -1296,7 +1296,7 @@
         "title": "Issue a Credential with Trinsic API for Twitter Follower",
         "description": "There is no easy way to prove that you follow someone on Twitter. Being able to prove something like a social follow could unlock other user interactions like rewarding true fans for activity while keeping out bots.\n\nAcceptance Criteria\n\nUse the Trinsic API (sign up for free at https://dashboard.trinsic.id/) and the Twitter API to issue a verifiable credential showing that @zjonsee follows @rileyphughes is true, and the date @zjonsee followed @rileyphughes.\n\nThen use the Trinsic dashboard to issue the credential to my email.\n\nTechnical Details\n\nLink to Project",
         "author": "ZacharyJones27",
-        "posted_time": "11 minutes ago",
+        "posted_time": "25 minutes ago",
         "link": "https://replit.com/bounties/@ZacharyJones27/issue-a-credential-w?t="
     }
 ]
