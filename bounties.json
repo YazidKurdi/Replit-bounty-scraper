@@ -1196,7 +1196,7 @@
         "title": "Create a simplified maxmypoint.com website clone for Hyatt hotels",
         "description": "Create a simplified version of https://maxmypoint.com/ for Hyatt hotels only. There is no need for a subscription feature or to include other hotel brands like Hilton or Marriot. There is also no need for an email alert or login feature.\n\nThe website should include a blog element for a travel and point-maximizing blog.",
         "author": "GamblingGlobeTrotter",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@GamblingGlobeTrotter/create-a-simplified?t="
     },
     {
@@ -1226,7 +1226,7 @@
         "title": "Recipe Generator Script",
         "description": "I need a python script that accepts dynamic input from users that want a recipe, and then returns a recipe for them. The input could be a recipe title (like London Broil or vegan pancakes), recipe description (spicy noodle dish), or even a list of ingredients (i have three onions, four cups of broth and a pound of chicken).\nI have API keys for spoonacular and openAI, and am willing to use both.\nAcceptance Criteria\na working python script that prints out a complete and usable recipe based on dynamic user input\nTechnical Details\njust a python script is needed for now.",
         "author": "jtmertes",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@jtmertes/recipe-generator-scr?t="
     },
     {
@@ -1246,7 +1246,7 @@
         "title": "Improve Adobe Illustrator Extension with Vue.js and Nuxt.js",
         "description": "We have a basic adobe illustrator extension, that allows a use to sign in using an API call. We'd like to integrate this app with Nuxt.js, Vue.js and Pinia (https://pinia.vuejs.org/)  to have a full web app.\n\nAcceptance Criteria\nAdd two pages using Nuxt.js and vue.js.\nfirst page should be the existing sign in page, second page should be a redirect displaying the JWT token.",
         "author": "MatthiasRichard",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@MatthiasRichard/improve-adobe-illust?t="
     },
     {
@@ -1266,7 +1266,7 @@
         "title": "Stumble guys on replit ",
         "description": "I want now.gg stumble guys to be downloaded and have the files get put on replit, or netlify this would be a great help thanks.\n\nI know that it is not a lot of money but its all i have so if you are bored code away",
         "author": "TheTopGBugatti",
-        "posted_time": "43 minutes ago",
+        "posted_time": "56 minutes ago",
         "link": "https://replit.com/bounties/@TheTopGBugatti/stumble-guys-on-repl?t="
     },
     {
@@ -1276,7 +1276,17 @@
         "title": "Mac Automation for Quicktime Image Sequence conversion",
         "description": "Create an Automator Quick Action  that uses the Quicktime Player \"Open Image Sequence\" function to convert the selected folder with an image sequence (numbered DNG files) and saves it as a 25fps ProRes video.\n\nThe audio track, stored as a single WAV in the same folder, should be added using the Quicktime Edit > Add Clip to End function.\n\nAcceptance Criteria\nThe action runs on a folder of image sequences and produces a playable ProRes video with sound on Mac OS Ventura.\n\nNote\nThe recent versions of QuickTime no longer exposes the \"Open Image Sequence\" function to AppleScript, so an alternative approach will be needed.",
         "author": "phraktle",
-        "posted_time": "4 minutes ago",
+        "posted_time": "17 minutes ago",
         "link": "https://replit.com/bounties/@phraktle/mac-automation-for-q?t="
+    },
+    {
+        "index": "128",
+        "price": "$9.99",
+        "due_days": "due in 5 months",
+        "title": "Make a website that creates itself via randomizing variables to make a complex, but very random blog every refresh",
+        "description": "Create a website that on refresh has the appearance that it is on a completely different website, or just with different content.\n\nAlso I would like it to consist of memes, or of Sun Tzu quotes.\nThis is similar to the newer gpt-3 nyt website, but I want it to consist of memes, also I have resources that may be helpful towards your completion of this at the bottom.\n\nWhy?\nI'm making this as a start to a PPO learning algorithm that works with rewards.\nExample: website receives longest interaction so far, receive reward, if user clicks off in 5 seconds under the average interaction length, receive negative reward\nI will be implementing the ppo myself, since asking for that would substantially increase the price of this project, and I am not rich.\n\nReq\nGotta be in PHP, sorry if you have a life but if you choose to make this and you don't have experience in PHP it will be worse than walking on hot coals.\n\nResources\nblogging template ( you may make the appearance different, but read the READM...",
+        "author": "Altify-Developm",
+        "posted_time": "1 minute ago",
+        "link": "https://replit.com/bounties/@Altify-Developm/make-a-website-that?t="
     }
 ]
