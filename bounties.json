@@ -1186,7 +1186,7 @@
         "title": "Come up with a mechanism ",
         "description": "Validate the following criteria between Repls -\n\n1) Time difference between the fork of two different repls\n2) Check to see if the main.py file is blank across different repls\n3) When given a list of Repls, check to see if the code in main.py is duplicated in any if them\n\nAcceptance Criteria\nCode should be clean, completed and commented. This is super urgent and should ideally be completed in 24 hours.",
         "author": "anshul",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@anshul/come-up-with-a-mecha?t="
     },
     {
@@ -1196,7 +1196,7 @@
         "title": "Create a simplified maxmypoint.com website clone for Hyatt hotels",
         "description": "Create a simplified version of https://maxmypoint.com/ for Hyatt hotels only. There is no need for a subscription feature or to include other hotel brands like Hilton or Marriot. There is also no need for an email alert or login feature.\n\nThe website should include a blog element for a travel and point-maximizing blog.",
         "author": "GamblingGlobeTrotter",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@GamblingGlobeTrotter/create-a-simplified?t="
     },
     {
