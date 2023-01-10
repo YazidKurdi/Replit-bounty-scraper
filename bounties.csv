@@ -1099,7 +1099,7 @@ Reflect the last time the calculation was run
 The site is open source, linking to the code that runs the site
 Ideally, the DAU for each server could be listed as well, in decreasing rank order of the top N
 
-You maybe brand the site however you like, including promoting yourself.",ikirigin,6 hours ago,https://replit.com/bounties/@ikirigin/mastadon-daily-activ?t=
+You maybe brand the site however you like, including promoting yourself.",ikirigin,7 hours ago,https://replit.com/bounties/@ikirigin/mastadon-daily-activ?t=
 114,$58.50,due in 21 days,Make a port of my Fitbit game to Apple watches,"I've recently made and published a game on the Fitbit appstore, called ""Fit Hunt"". It's garnered a small community of hunters, but I think the reach can be extended being ported to Apple's line of watches as Fitbit is slowly dying.
 
 I realise the amount this bounty is asking for may not seem like much, however the game's core mechanics shouldn't take more than a day and you'll have reins over the Apple section of the community.
@@ -1127,7 +1127,7 @@ OnlyFans URL
 Number of OnlyFans posts
 Number of OnlyFans likes
 
-Technical Details",NikhilGoel,4 hours ago,https://replit.com/bounties/@NikhilGoel/link-shortener-scrap?t=
+Technical Details",NikhilGoel,5 hours ago,https://replit.com/bounties/@NikhilGoel/link-shortener-scrap?t=
 116,$22.50,due in 5 days,Photoshop Plugin Help,"I'm a javascript novice. Trying to make a photoshop plugin that can fetch an image from a url and add it to the current photoshop document. My plugin currently sends a request to dalle2 api and I am able to get a url, but I am unable to add image to current doc. Maybe need to generate session token? I don't know how.
 
 Acceptance Criteria
@@ -1173,3 +1173,9 @@ After I upload the image, I select the criteria for my image, and AI outputs the
 The user is then able to order that product in any number of formats. As a canvas, on a coffee mug, etc. I will provide the products that will be offered.
 
 Users will need to sign up or sign in through another platform to use the site. I want the user to also be able to ""save"" the artwork they have generated to their account within the site, so that they can generate artwork at one time, then print ...",crillbill,2 hours ago,https://replit.com/bounties/@crillbill/build-websiteapp-to?t=
+122,$450.00,due in 4 days,Recipe Generator Script,"I need a python script that accepts dynamic input from users that want a recipe, and then returns a recipe for them. The input could be a recipe title (like London Broil or vegan pancakes), recipe description (spicy noodle dish), or even a list of ingredients (i have three onions, four cups of broth and a pound of chicken).
+I have API keys for spoonacular and openAI, and am willing to use both.
+Acceptance Criteria
+a working python script that prints out a complete and usable recipe based on dynamic user input
+Technical Details
+just a python script is needed for now.",jtmertes,2 minutes ago,https://replit.com/bounties/@jtmertes/recipe-generator-scr?t=
