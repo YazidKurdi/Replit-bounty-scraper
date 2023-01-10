@@ -1166,7 +1166,7 @@
         "title": "Photoshop Plugin Help",
         "description": "I'm a javascript novice. Trying to make a photoshop plugin that can fetch an image from a url and add it to the current photoshop document. My plugin currently sends a request to dalle2 api and I am able to get a url, but I am unable to add image to current doc. Maybe need to generate session token? I don't know how.\n\nAcceptance Criteria\nAdd functionality to my code to get the image from the url and place it in the current open document in Photoshop\n\nTechnical Details\n\nLink to Project\nhttps://replit.com/join/wyywstdtja-profdl",
         "author": "profDL",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@profDL/photoshop-plugin-hel?t="
     },
     {
@@ -1206,7 +1206,7 @@
         "title": "Dictation app that can transcribe text and create properly formatted reports",
         "description": "I want to create a custom dictation app that can transcribe my spoken text into a properly formatted report.\n\nI create formatted technical reports for clients in my current job, about 30-40 times a day.  I use a dictation tool that allows me to freely dictate my findings, but I have to mentally organize my thoughts for a few moments so that I can say everything in the proper sequence. Alternatively,  I can dictate the findings out of order and then spend time manually rearranging and formatting the report. I also have the ability to create basic macros with this tool, where I can say one word or phrase and it will output a pre-completed body of text. However, this macro feature is not very flexible and cannot adjust the output based on the context of the report. Lastly, the current system has no idea if it mistranscribed a word because it doesn't understand the context.\n\nThe app should be able to listen when I click dictate and continue listening even when I switch ...",
         "author": "mokal",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@mokal/dictation-app-that-c?t="
     },
     {
