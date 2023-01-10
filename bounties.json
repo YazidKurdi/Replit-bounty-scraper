@@ -1236,7 +1236,7 @@
         "title": "Fix chrome extension syntax/bug.",
         "description": "I am trying to build a simple chrome extension that scraps a website profile. I have written most of the code, but have run into a bug, namely a mishap in  v2 vs v3 syntax. Should be a quick fix for anyone with experience in chrome extensions.\nAcceptance Criteria\nExisting application runs, chrome related error is solved.\nTechnical Details\nRunning into issue with service worker registration and session closing. Again I think this is just my lack of understanding of the proper syntax as it\u2019s my first time trying to build an extension.\nLink to Project\nCan share project link individually.",
         "author": "ananthmani",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@ananthmani/fix-chrome-extension?t="
     },
     {
