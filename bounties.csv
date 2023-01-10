@@ -1154,10 +1154,10 @@ I need someone with a background building an easy/robust GUI on python that can 
 3) When given a list of Repls, check to see if the code in main.py is duplicated in any if them
 
 Acceptance Criteria
-Code should be clean, completed and commented. This is super urgent and should ideally be completed in 24 hours.",anshul,13 hours ago,https://replit.com/bounties/@anshul/come-up-with-a-mecha?t=
+Code should be clean, completed and commented. This is super urgent and should ideally be completed in 24 hours.",anshul,14 hours ago,https://replit.com/bounties/@anshul/come-up-with-a-mecha?t=
 119,$45.00,due in 8 days,Create a simplified maxmypoint.com website clone for Hyatt hotels,"Create a simplified version of https://maxmypoint.com/ for Hyatt hotels only. There is no need for a subscription feature or to include other hotel brands like Hilton or Marriot. There is also no need for an email alert or login feature.
 
-The website should include a blog element for a travel and point-maximizing blog.",GamblingGlobeTrotter,12 hours ago,https://replit.com/bounties/@GamblingGlobeTrotter/create-a-simplified?t=
+The website should include a blog element for a travel and point-maximizing blog.",GamblingGlobeTrotter,13 hours ago,https://replit.com/bounties/@GamblingGlobeTrotter/create-a-simplified?t=
 120,$360.00,due in 18 days,Dictation app that can transcribe text and create properly formatted reports,"I want to create a custom dictation app that can transcribe my spoken text into a properly formatted report.
 
 I create formatted technical reports for clients in my current job, about 30-40 times a day.  I use a dictation tool that allows me to freely dictate my findings, but I have to mentally organize my thoughts for a few moments so that I can say everything in the proper sequence. Alternatively,  I can dictate the findings out of order and then spend time manually rearranging and formatting the report. I also have the ability to create basic macros with this tool, where I can say one word or phrase and it will output a pre-completed body of text. However, this macro feature is not very flexible and cannot adjust the output based on the context of the report. Lastly, the current system has no idea if it mistranscribed a word because it doesn't understand the context.
@@ -1172,13 +1172,13 @@ After I upload the image, I select the criteria for my image, and AI outputs the
 
 The user is then able to order that product in any number of formats. As a canvas, on a coffee mug, etc. I will provide the products that will be offered.
 
-Users will need to sign up or sign in through another platform to use the site. I want the user to also be able to ""save"" the artwork they have generated to their account within the site, so that they can generate artwork at one time, then print ...",crillbill,11 hours ago,https://replit.com/bounties/@crillbill/build-websiteapp-to?t=
+Users will need to sign up or sign in through another platform to use the site. I want the user to also be able to ""save"" the artwork they have generated to their account within the site, so that they can generate artwork at one time, then print ...",crillbill,12 hours ago,https://replit.com/bounties/@crillbill/build-websiteapp-to?t=
 122,$450.00,due in 3 days,Recipe Generator Script,"I need a python script that accepts dynamic input from users that want a recipe, and then returns a recipe for them. The input could be a recipe title (like London Broil or vegan pancakes), recipe description (spicy noodle dish), or even a list of ingredients (i have three onions, four cups of broth and a pound of chicken).
 I have API keys for spoonacular and openAI, and am willing to use both.
 Acceptance Criteria
 a working python script that prints out a complete and usable recipe based on dynamic user input
 Technical Details
-just a python script is needed for now.",jtmertes,9 hours ago,https://replit.com/bounties/@jtmertes/recipe-generator-scr?t=
+just a python script is needed for now.",jtmertes,10 hours ago,https://replit.com/bounties/@jtmertes/recipe-generator-scr?t=
 123,$13.50,due in 3 days,Fix chrome extension syntax/bug.,"I am trying to build a simple chrome extension that scraps a website profile. I have written most of the code, but have run into a bug, namely a mishap in  v2 vs v3 syntax. Should be a quick fix for anyone with experience in chrome extensions.
 Acceptance Criteria
 Existing application runs, chrome related error is solved.
@@ -1195,4 +1195,4 @@ first page should be the existing sign in page, second page should be a redirect
 
 The feature should allow me to edit the content of the tweet and to target specific demographs (ie. Architecture & Construction).
 
-For example, any tweet containing #architecture automates my account to post a pre-defined tweet in response.",TomHumber,1 hour ago,https://replit.com/bounties/@TomHumber/twitter-auto-reply-a?t=
+For example, any tweet containing #architecture automates my account to post a pre-defined tweet in response.",TomHumber,2 hours ago,https://replit.com/bounties/@TomHumber/twitter-auto-reply-a?t=
