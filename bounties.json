@@ -1146,7 +1146,7 @@
         "title": "Make a port of my Fitbit game to Apple watches",
         "description": "I've recently made and published a game on the Fitbit appstore, called \"Fit Hunt\". It's garnered a small community of hunters, but I think the reach can be extended being ported to Apple's line of watches as Fitbit is slowly dying.\n\nI realise the amount this bounty is asking for may not seem like much, however the game's core mechanics shouldn't take more than a day and you'll have reins over the Apple section of the community.\n\nAcceptance Criteria\nI want a close-enough port of the game on Apple watches, using the same server as the Fitbit one does, with all the core functionality. I'll provide all the details to the game.\n\nHunters must:\nHave some experience with creating apps for Apple watches\nBe able to produce a version ready for publishing on the App store\nProvide the app in a few select languages, with the help of Google translate of course.",
         "author": "codingMASTER398",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@codingMASTER398/make-a-port-of-my-fi?t="
     },
     {
@@ -1216,7 +1216,7 @@
         "title": "Build website/app to recreate uploaded image into new image",
         "description": "Build a website & app where people can upload an image and create a unique AI artwork (via StableDiffusion, MidJourney, Dall-E-2 or other) and generate a new image.\n\nProblem:\nBasically, I am looking to upload a photo, then through the magic of ai, generate a new version of the person in that photo in a different scenario. Example, I upload my picture and then tell the AI to redraw me in Paris, or redraw me as a painting by Van Gogh, or cartoon me like a simpson's cartoon.\n\nAfter I upload the image, I select the criteria for my image, and AI outputs the finished product.\n\nThe user is then able to order that product in any number of formats. As a canvas, on a coffee mug, etc. I will provide the products that will be offered.\n\nUsers will need to sign up or sign in through another platform to use the site. I want the user to also be able to \"save\" the artwork they have generated to their account within the site, so that they can generate artwork at one time, then print ...",
         "author": "crillbill",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@crillbill/build-websiteapp-to?t="
     }
 ]
