@@ -1216,7 +1216,7 @@
         "title": "Build website/app to recreate uploaded image into new image",
         "description": "Build a website & app where people can upload an image and create a unique AI artwork (via StableDiffusion, MidJourney, Dall-E-2 or other) and generate a new image.\n\nProblem:\nBasically, I am looking to upload a photo, then through the magic of ai, generate a new version of the person in that photo in a different scenario. Example, I upload my picture and then tell the AI to redraw me in Paris, or redraw me as a painting by Van Gogh, or cartoon me like a simpson's cartoon.\n\nAfter I upload the image, I select the criteria for my image, and AI outputs the finished product.\n\nThe user is then able to order that product in any number of formats. As a canvas, on a coffee mug, etc. I will provide the products that will be offered.\n\nUsers will need to sign up or sign in through another platform to use the site. I want the user to also be able to \"save\" the artwork they have generated to their account within the site, so that they can generate artwork at one time, then print ...",
         "author": "crillbill",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@crillbill/build-websiteapp-to?t="
     },
     {
@@ -1256,7 +1256,7 @@
         "title": "Twitter Auto-Reply API",
         "description": "I require an extension/plug-in API that can be used for my business Twitter account.\n\nThe feature should allow me to edit the content of the tweet and to target specific demographs (ie. Architecture & Construction).\n\nFor example, any tweet containing #architecture automates my account to post a pre-defined tweet in response.",
         "author": "TomHumber",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@TomHumber/twitter-auto-reply-a?t="
     },
     {
@@ -1266,7 +1266,7 @@
         "title": "Stumble guys on replit ",
         "description": "I want now.gg stumble guys to be downloaded and have the files get put on replit, or netlify this would be a great help thanks.\n\nI know that it is not a lot of money but its all i have so if you are bored code away",
         "author": "TheTopGBugatti",
-        "posted_time": "56 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@TheTopGBugatti/stumble-guys-on-repl?t="
     },
     {
@@ -1276,7 +1276,7 @@
         "title": "Mac Automation for Quicktime Image Sequence conversion",
         "description": "Create an Automator Quick Action  that uses the Quicktime Player \"Open Image Sequence\" function to convert the selected folder with an image sequence (numbered DNG files) and saves it as a 25fps ProRes video.\n\nThe audio track, stored as a single WAV in the same folder, should be added using the Quicktime Edit > Add Clip to End function.\n\nAcceptance Criteria\nThe action runs on a folder of image sequences and produces a playable ProRes video with sound on Mac OS Ventura.\n\nNote\nThe recent versions of QuickTime no longer exposes the \"Open Image Sequence\" function to AppleScript, so an alternative approach will be needed.",
         "author": "phraktle",
-        "posted_time": "17 minutes ago",
+        "posted_time": "33 minutes ago",
         "link": "https://replit.com/bounties/@phraktle/mac-automation-for-q?t="
     },
     {
@@ -1286,7 +1286,7 @@
         "title": "Make a website that creates itself via randomizing variables to make a complex, but very random blog every refresh",
         "description": "Create a website that on refresh has the appearance that it is on a completely different website, or just with different content.\n\nAlso I would like it to consist of memes, or of Sun Tzu quotes.\nThis is similar to the newer gpt-3 nyt website, but I want it to consist of memes, also I have resources that may be helpful towards your completion of this at the bottom.\n\nWhy?\nI'm making this as a start to a PPO learning algorithm that works with rewards.\nExample: website receives longest interaction so far, receive reward, if user clicks off in 5 seconds under the average interaction length, receive negative reward\nI will be implementing the ppo myself, since asking for that would substantially increase the price of this project, and I am not rich.\n\nReq\nGotta be in PHP, sorry if you have a life but if you choose to make this and you don't have experience in PHP it will be worse than walking on hot coals.\n\nResources\nblogging template ( you may make the appearance different, but read the READM...",
         "author": "Altify-Developm",
-        "posted_time": "1 minute ago",
+        "posted_time": "17 minutes ago",
         "link": "https://replit.com/bounties/@Altify-Developm/make-a-website-that?t="
     }
 ]

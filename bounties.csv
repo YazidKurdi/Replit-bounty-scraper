@@ -1172,7 +1172,7 @@ After I upload the image, I select the criteria for my image, and AI outputs the
 
 The user is then able to order that product in any number of formats. As a canvas, on a coffee mug, etc. I will provide the products that will be offered.
 
-Users will need to sign up or sign in through another platform to use the site. I want the user to also be able to ""save"" the artwork they have generated to their account within the site, so that they can generate artwork at one time, then print ...",crillbill,15 hours ago,https://replit.com/bounties/@crillbill/build-websiteapp-to?t=
+Users will need to sign up or sign in through another platform to use the site. I want the user to also be able to ""save"" the artwork they have generated to their account within the site, so that they can generate artwork at one time, then print ...",crillbill,16 hours ago,https://replit.com/bounties/@crillbill/build-websiteapp-to?t=
 122,$450.00,due in 3 days,Recipe Generator Script,"I need a python script that accepts dynamic input from users that want a recipe, and then returns a recipe for them. The input could be a recipe title (like London Broil or vegan pancakes), recipe description (spicy noodle dish), or even a list of ingredients (i have three onions, four cups of broth and a pound of chicken).
 I have API keys for spoonacular and openAI, and am willing to use both.
 Acceptance Criteria
@@ -1195,10 +1195,10 @@ first page should be the existing sign in page, second page should be a redirect
 
 The feature should allow me to edit the content of the tweet and to target specific demographs (ie. Architecture & Construction).
 
-For example, any tweet containing #architecture automates my account to post a pre-defined tweet in response.",TomHumber,5 hours ago,https://replit.com/bounties/@TomHumber/twitter-auto-reply-a?t=
+For example, any tweet containing #architecture automates my account to post a pre-defined tweet in response.",TomHumber,6 hours ago,https://replit.com/bounties/@TomHumber/twitter-auto-reply-a?t=
 126,$0.90,due in 6 days,Stumble guys on replit ,"I want now.gg stumble guys to be downloaded and have the files get put on replit, or netlify this would be a great help thanks.
 
-I know that it is not a lot of money but its all i have so if you are bored code away",TheTopGBugatti,56 minutes ago,https://replit.com/bounties/@TheTopGBugatti/stumble-guys-on-repl?t=
+I know that it is not a lot of money but its all i have so if you are bored code away",TheTopGBugatti,1 hour ago,https://replit.com/bounties/@TheTopGBugatti/stumble-guys-on-repl?t=
 127,$180.00,due in 1 month,Mac Automation for Quicktime Image Sequence conversion,"Create an Automator Quick Action  that uses the Quicktime Player ""Open Image Sequence"" function to convert the selected folder with an image sequence (numbered DNG files) and saves it as a 25fps ProRes video.
 
 The audio track, stored as a single WAV in the same folder, should be added using the Quicktime Edit > Add Clip to End function.
@@ -1207,7 +1207,7 @@ Acceptance Criteria
 The action runs on a folder of image sequences and produces a playable ProRes video with sound on Mac OS Ventura.
 
 Note
-The recent versions of QuickTime no longer exposes the ""Open Image Sequence"" function to AppleScript, so an alternative approach will be needed.",phraktle,17 minutes ago,https://replit.com/bounties/@phraktle/mac-automation-for-q?t=
+The recent versions of QuickTime no longer exposes the ""Open Image Sequence"" function to AppleScript, so an alternative approach will be needed.",phraktle,33 minutes ago,https://replit.com/bounties/@phraktle/mac-automation-for-q?t=
 128,$9.99,due in 5 months,"Make a website that creates itself via randomizing variables to make a complex, but very random blog every refresh","Create a website that on refresh has the appearance that it is on a completely different website, or just with different content.
 
 Also I would like it to consist of memes, or of Sun Tzu quotes.
@@ -1222,4 +1222,4 @@ Req
 Gotta be in PHP, sorry if you have a life but if you choose to make this and you don't have experience in PHP it will be worse than walking on hot coals.
 
 Resources
-blogging template ( you may make the appearance different, but read the READM...",Altify-Developm,1 minute ago,https://replit.com/bounties/@Altify-Developm/make-a-website-that?t=
+blogging template ( you may make the appearance different, but read the READM...",Altify-Developm,17 minutes ago,https://replit.com/bounties/@Altify-Developm/make-a-website-that?t=
