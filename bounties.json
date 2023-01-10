@@ -1176,7 +1176,7 @@
         "title": "Whisper Transcript GUI ",
         "description": "I need a simple App built with already a working script to transcribe using Whisper.\n\nI need there to be a GUI where it can accept a link of the podcast (can be a youtube link, a spotify link, other links for the podcast so it can be downloaded) and then have it downloaded from the link and transcribed into a .txt file with the name of the episode transcribed + \"transcription\" as the file name.\n\nI also would like the script to be done on python and in a way that I can transcribe episodes on my local computer with my 3070 GPU.\n\nAcceptance Criteria\nI need someone with a background building an easy/robust GUI on python that can easily finish this part of the script so that I can bulk transcribe episodes of podcasts just by pasting the link in the GUI.\n\n* You will not need to do any coding for the actual transcribing through whisper. I have already done that part. Just need this quick addition done.*",
         "author": "rame001",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@rame001/whisper-transcript-g?t="
     },
     {
@@ -1236,7 +1236,7 @@
         "title": "Fix chrome extension syntax/bug.",
         "description": "I am trying to build a simple chrome extension that scraps a website profile. I have written most of the code, but have run into a bug, namely a mishap in  v2 vs v3 syntax. Should be a quick fix for anyone with experience in chrome extensions.\nAcceptance Criteria\nExisting application runs, chrome related error is solved.\nTechnical Details\nRunning into issue with service worker registration and session closing. Again I think this is just my lack of understanding of the proper syntax as it\u2019s my first time trying to build an extension.\nLink to Project\nCan share project link individually.",
         "author": "ananthmani",
-        "posted_time": "21 minutes ago",
+        "posted_time": "30 minutes ago",
         "link": "https://replit.com/bounties/@ananthmani/fix-chrome-extension?t="
     }
 ]
