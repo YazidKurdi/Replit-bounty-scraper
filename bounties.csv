@@ -1172,13 +1172,13 @@ After I upload the image, I select the criteria for my image, and AI outputs the
 
 The user is then able to order that product in any number of formats. As a canvas, on a coffee mug, etc. I will provide the products that will be offered.
 
-Users will need to sign up or sign in through another platform to use the site. I want the user to also be able to ""save"" the artwork they have generated to their account within the site, so that they can generate artwork at one time, then print ...",crillbill,12 hours ago,https://replit.com/bounties/@crillbill/build-websiteapp-to?t=
+Users will need to sign up or sign in through another platform to use the site. I want the user to also be able to ""save"" the artwork they have generated to their account within the site, so that they can generate artwork at one time, then print ...",crillbill,13 hours ago,https://replit.com/bounties/@crillbill/build-websiteapp-to?t=
 122,$450.00,due in 3 days,Recipe Generator Script,"I need a python script that accepts dynamic input from users that want a recipe, and then returns a recipe for them. The input could be a recipe title (like London Broil or vegan pancakes), recipe description (spicy noodle dish), or even a list of ingredients (i have three onions, four cups of broth and a pound of chicken).
 I have API keys for spoonacular and openAI, and am willing to use both.
 Acceptance Criteria
 a working python script that prints out a complete and usable recipe based on dynamic user input
 Technical Details
-just a python script is needed for now.",jtmertes,10 hours ago,https://replit.com/bounties/@jtmertes/recipe-generator-scr?t=
+just a python script is needed for now.",jtmertes,11 hours ago,https://replit.com/bounties/@jtmertes/recipe-generator-scr?t=
 123,$13.50,due in 3 days,Fix chrome extension syntax/bug.,"I am trying to build a simple chrome extension that scraps a website profile. I have written most of the code, but have run into a bug, namely a mishap in  v2 vs v3 syntax. Should be a quick fix for anyone with experience in chrome extensions.
 Acceptance Criteria
 Existing application runs, chrome related error is solved.
