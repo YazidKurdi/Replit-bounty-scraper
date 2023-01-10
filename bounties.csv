@@ -1162,7 +1162,7 @@ The website should include a blog element for a travel and point-maximizing blog
 
 I create formatted technical reports for clients in my current job, about 30-40 times a day.  I use a dictation tool that allows me to freely dictate my findings, but I have to mentally organize my thoughts for a few moments so that I can say everything in the proper sequence. Alternatively,  I can dictate the findings out of order and then spend time manually rearranging and formatting the report. I also have the ability to create basic macros with this tool, where I can say one word or phrase and it will output a pre-completed body of text. However, this macro feature is not very flexible and cannot adjust the output based on the context of the report. Lastly, the current system has no idea if it mistranscribed a word because it doesn't understand the context.
 
-The app should be able to listen when I click dictate and continue listening even when I switch ...",mokal,16 hours ago,https://replit.com/bounties/@mokal/dictation-app-that-c?t=
+The app should be able to listen when I click dictate and continue listening even when I switch ...",mokal,17 hours ago,https://replit.com/bounties/@mokal/dictation-app-that-c?t=
 121,$504.00,due in 12 days,Build website/app to recreate uploaded image into new image,"Build a website & app where people can upload an image and create a unique AI artwork (via StableDiffusion, MidJourney, Dall-E-2 or other) and generate a new image.
 
 Problem:
@@ -1207,7 +1207,7 @@ Acceptance Criteria
 The action runs on a folder of image sequences and produces a playable ProRes video with sound on Mac OS Ventura.
 
 Note
-The recent versions of QuickTime no longer exposes the ""Open Image Sequence"" function to AppleScript, so an alternative approach will be needed.",phraktle,33 minutes ago,https://replit.com/bounties/@phraktle/mac-automation-for-q?t=
+The recent versions of QuickTime no longer exposes the ""Open Image Sequence"" function to AppleScript, so an alternative approach will be needed.",phraktle,50 minutes ago,https://replit.com/bounties/@phraktle/mac-automation-for-q?t=
 128,$9.99,due in 5 months,"Make a website that creates itself via randomizing variables to make a complex, but very random blog every refresh","Create a website that on refresh has the appearance that it is on a completely different website, or just with different content.
 
 Also I would like it to consist of memes, or of Sun Tzu quotes.
@@ -1222,4 +1222,15 @@ Req
 Gotta be in PHP, sorry if you have a life but if you choose to make this and you don't have experience in PHP it will be worse than walking on hot coals.
 
 Resources
-blogging template ( you may make the appearance different, but read the READM...",Altify-Developm,17 minutes ago,https://replit.com/bounties/@Altify-Developm/make-a-website-that?t=
+blogging template ( you may make the appearance different, but read the READM...",Altify-Developm,34 minutes ago,https://replit.com/bounties/@Altify-Developm/make-a-website-that?t=
+129,$45.00,due in 3 days,Issue a Credential with Trinsic API for Twitter Follower,"There is no easy way to prove that you follow someone on Twitter. Being able to prove something like a social follow could unlock other user interactions like rewarding true fans for activity while keeping out bots.
+
+Acceptance Criteria
+
+Use the Trinsic API (sign up for free at https://dashboard.trinsic.id/) and the Twitter API to issue a verifiable credential showing that @zjonsee follows @rileyphughes is true, and the date @zjonsee followed @rileyphughes.
+
+Then use the Trinsic dashboard to issue the credential to my email.
+
+Technical Details
+
+Link to Project",ZacharyJones27,11 minutes ago,https://replit.com/bounties/@ZacharyJones27/issue-a-credential-w?t=
