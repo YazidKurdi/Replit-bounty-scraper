@@ -1206,7 +1206,7 @@
         "title": "Dictation app that can transcribe text and create properly formatted reports",
         "description": "I want to create a custom dictation app that can transcribe my spoken text into a properly formatted report.\n\nI create formatted technical reports for clients in my current job, about 30-40 times a day.  I use a dictation tool that allows me to freely dictate my findings, but I have to mentally organize my thoughts for a few moments so that I can say everything in the proper sequence. Alternatively,  I can dictate the findings out of order and then spend time manually rearranging and formatting the report. I also have the ability to create basic macros with this tool, where I can say one word or phrase and it will output a pre-completed body of text. However, this macro feature is not very flexible and cannot adjust the output based on the context of the report. Lastly, the current system has no idea if it mistranscribed a word because it doesn't understand the context.\n\nThe app should be able to listen when I click dictate and continue listening even when I switch ...",
         "author": "mokal",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@mokal/dictation-app-that-c?t="
     },
     {
@@ -1232,11 +1232,11 @@
     {
         "index": "123",
         "price": "$13.50",
-        "due_days": "due in 3 days",
+        "due_days": "closed",
         "title": "Fix chrome extension syntax/bug.",
         "description": "I am trying to build a simple chrome extension that scraps a website profile. I have written most of the code, but have run into a bug, namely a mishap in  v2 vs v3 syntax. Should be a quick fix for anyone with experience in chrome extensions.\nAcceptance Criteria\nExisting application runs, chrome related error is solved.\nTechnical Details\nRunning into issue with service worker registration and session closing. Again I think this is just my lack of understanding of the proper syntax as it\u2019s my first time trying to build an extension.\nLink to Project\nCan share project link individually.",
         "author": "ananthmani",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@ananthmani/fix-chrome-extension?t="
     },
     {
@@ -1266,7 +1266,17 @@
         "title": "Stumble guys on replit ",
         "description": "I want now.gg stumble guys to be downloaded and have the files get put on replit, or netlify this would be a great help thanks.\n\nI know that it is not a lot of money but its all i have so if you are bored code away",
         "author": "TheTopGBugatti",
-        "posted_time": "17 minutes ago",
+        "posted_time": "43 minutes ago",
         "link": "https://replit.com/bounties/@TheTopGBugatti/stumble-guys-on-repl?t="
+    },
+    {
+        "index": "127",
+        "price": "$180.00",
+        "due_days": "due in 1 month",
+        "title": "Mac Automation for Quicktime Image Sequence conversion",
+        "description": "Create an Automator Quick Action  that uses the Quicktime Player \"Open Image Sequence\" function to convert the selected folder with an image sequence (numbered DNG files) and saves it as a 25fps ProRes video.\n\nThe audio track, stored as a single WAV in the same folder, should be added using the Quicktime Edit > Add Clip to End function.\n\nAcceptance Criteria\nThe action runs on a folder of image sequences and produces a playable ProRes video with sound on Mac OS Ventura.\n\nNote\nThe recent versions of QuickTime no longer exposes the \"Open Image Sequence\" function to AppleScript, so an alternative approach will be needed.",
+        "author": "phraktle",
+        "posted_time": "4 minutes ago",
+        "link": "https://replit.com/bounties/@phraktle/mac-automation-for-q?t="
     }
 ]

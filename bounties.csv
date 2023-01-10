@@ -1162,7 +1162,7 @@ The website should include a blog element for a travel and point-maximizing blog
 
 I create formatted technical reports for clients in my current job, about 30-40 times a day.  I use a dictation tool that allows me to freely dictate my findings, but I have to mentally organize my thoughts for a few moments so that I can say everything in the proper sequence. Alternatively,  I can dictate the findings out of order and then spend time manually rearranging and formatting the report. I also have the ability to create basic macros with this tool, where I can say one word or phrase and it will output a pre-completed body of text. However, this macro feature is not very flexible and cannot adjust the output based on the context of the report. Lastly, the current system has no idea if it mistranscribed a word because it doesn't understand the context.
 
-The app should be able to listen when I click dictate and continue listening even when I switch ...",mokal,15 hours ago,https://replit.com/bounties/@mokal/dictation-app-that-c?t=
+The app should be able to listen when I click dictate and continue listening even when I switch ...",mokal,16 hours ago,https://replit.com/bounties/@mokal/dictation-app-that-c?t=
 121,$504.00,due in 12 days,Build website/app to recreate uploaded image into new image,"Build a website & app where people can upload an image and create a unique AI artwork (via StableDiffusion, MidJourney, Dall-E-2 or other) and generate a new image.
 
 Problem:
@@ -1179,13 +1179,13 @@ Acceptance Criteria
 a working python script that prints out a complete and usable recipe based on dynamic user input
 Technical Details
 just a python script is needed for now.",jtmertes,13 hours ago,https://replit.com/bounties/@jtmertes/recipe-generator-scr?t=
-123,$13.50,due in 3 days,Fix chrome extension syntax/bug.,"I am trying to build a simple chrome extension that scraps a website profile. I have written most of the code, but have run into a bug, namely a mishap in  v2 vs v3 syntax. Should be a quick fix for anyone with experience in chrome extensions.
+123,$13.50,closed,Fix chrome extension syntax/bug.,"I am trying to build a simple chrome extension that scraps a website profile. I have written most of the code, but have run into a bug, namely a mishap in  v2 vs v3 syntax. Should be a quick fix for anyone with experience in chrome extensions.
 Acceptance Criteria
 Existing application runs, chrome related error is solved.
 Technical Details
 Running into issue with service worker registration and session closing. Again I think this is just my lack of understanding of the proper syntax as it’s my first time trying to build an extension.
 Link to Project
-Can share project link individually.",ananthmani,11 hours ago,https://replit.com/bounties/@ananthmani/fix-chrome-extension?t=
+Can share project link individually.",ananthmani,12 hours ago,https://replit.com/bounties/@ananthmani/fix-chrome-extension?t=
 124,$31.50,due in 4 days,Improve Adobe Illustrator Extension with Vue.js and Nuxt.js,"We have a basic adobe illustrator extension, that allows a use to sign in using an API call. We'd like to integrate this app with Nuxt.js, Vue.js and Pinia (https://pinia.vuejs.org/)  to have a full web app.
 
 Acceptance Criteria
@@ -1198,4 +1198,13 @@ The feature should allow me to edit the content of the tweet and to target speci
 For example, any tweet containing #architecture automates my account to post a pre-defined tweet in response.",TomHumber,5 hours ago,https://replit.com/bounties/@TomHumber/twitter-auto-reply-a?t=
 126,$0.90,due in 6 days,Stumble guys on replit ,"I want now.gg stumble guys to be downloaded and have the files get put on replit, or netlify this would be a great help thanks.
 
-I know that it is not a lot of money but its all i have so if you are bored code away",TheTopGBugatti,17 minutes ago,https://replit.com/bounties/@TheTopGBugatti/stumble-guys-on-repl?t=
+I know that it is not a lot of money but its all i have so if you are bored code away",TheTopGBugatti,43 minutes ago,https://replit.com/bounties/@TheTopGBugatti/stumble-guys-on-repl?t=
+127,$180.00,due in 1 month,Mac Automation for Quicktime Image Sequence conversion,"Create an Automator Quick Action  that uses the Quicktime Player ""Open Image Sequence"" function to convert the selected folder with an image sequence (numbered DNG files) and saves it as a 25fps ProRes video.
+
+The audio track, stored as a single WAV in the same folder, should be added using the Quicktime Edit > Add Clip to End function.
+
+Acceptance Criteria
+The action runs on a folder of image sequences and produces a playable ProRes video with sound on Mac OS Ventura.
+
+Note
+The recent versions of QuickTime no longer exposes the ""Open Image Sequence"" function to AppleScript, so an alternative approach will be needed.",phraktle,4 minutes ago,https://replit.com/bounties/@phraktle/mac-automation-for-q?t=
