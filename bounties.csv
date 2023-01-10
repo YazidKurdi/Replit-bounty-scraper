@@ -1198,7 +1198,7 @@ The feature should allow me to edit the content of the tweet and to target speci
 For example, any tweet containing #architecture automates my account to post a pre-defined tweet in response.",TomHumber,8 hours ago,https://replit.com/bounties/@TomHumber/twitter-auto-reply-a?t=
 126,$0.90,due in 6 days,Stumble guys on replit ,"I want now.gg stumble guys to be downloaded and have the files get put on replit, or netlify this would be a great help thanks.
 
-I know that it is not a lot of money but its all i have so if you are bored code away",TheTopGBugatti,3 hours ago,https://replit.com/bounties/@TheTopGBugatti/stumble-guys-on-repl?t=
+I know that it is not a lot of money but its all i have so if you are bored code away",TheTopGBugatti,4 hours ago,https://replit.com/bounties/@TheTopGBugatti/stumble-guys-on-repl?t=
 127,$180.00,due in 1 month,Mac Automation for Quicktime Image Sequence conversion,"Create an Automator Quick Action  that uses the Quicktime Player ""Open Image Sequence"" function to convert the selected folder with an image sequence (numbered DNG files) and saves it as a 25fps ProRes video.
 
 The audio track, stored as a single WAV in the same folder, should be added using the Quicktime Edit > Add Clip to End function.
@@ -1277,10 +1277,10 @@ Create a blank project and link me",PrafulMathur,1 hour ago,https://replit.com/b
 Acceptance Criteria
 cycle transfer for Ghostwriter",ToddBenrud,1 hour ago,https://replit.com/bounties/@ToddBenrud/code-only-a-mother-c?t=
 134,$0.90,due in 3 days,This bounty is a race,"First to apply gets the cycles (this is a test).
-notsus",ae0,19 minutes ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t=
-135,$450.00,due in 1 month,Amazon Ads API Pull,"We are looking to pull data from Amazon's Sponsored Products API for all of our Amazon accounts.
+notsus",ae0,27 minutes ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t=
+135,$450.00,due in 29 days,Amazon Ads API Pull,"We are looking to pull data from Amazon's Sponsored Products API for all of our Amazon accounts.
 
 We currently have a Django-based app that creates Celery tasks to sync the data of each of our accounts using the Selling Partner API. Now, we want to add support for the Sponsored Products API -- a different platform -- to enrich our data.
 
 Acceptance Criteria
-Experience with python, Django and Celery. Nice to have: experience with Amazon's APIs.",SantiagoNestare,5 minutes ago,https://replit.com/bounties/@SantiagoNestare/amazon-ads-api-pull?t=
+Experience with python, Django and Celery. Nice to have: experience with Amazon's APIs.",SantiagoNestare,13 minutes ago,https://replit.com/bounties/@SantiagoNestare/amazon-ads-api-pull?t=
