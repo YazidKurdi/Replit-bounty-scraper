@@ -1172,13 +1172,13 @@ After I upload the image, I select the criteria for my image, and AI outputs the
 
 The user is then able to order that product in any number of formats. As a canvas, on a coffee mug, etc. I will provide the products that will be offered.
 
-Users will need to sign up or sign in through another platform to use the site. I want the user to also be able to ""save"" the artwork they have generated to their account within the site, so that they can generate artwork at one time, then print ...",crillbill,16 hours ago,https://replit.com/bounties/@crillbill/build-websiteapp-to?t=
+Users will need to sign up or sign in through another platform to use the site. I want the user to also be able to ""save"" the artwork they have generated to their account within the site, so that they can generate artwork at one time, then print ...",crillbill,17 hours ago,https://replit.com/bounties/@crillbill/build-websiteapp-to?t=
 122,$450.00,due in 3 days,Recipe Generator Script,"I need a python script that accepts dynamic input from users that want a recipe, and then returns a recipe for them. The input could be a recipe title (like London Broil or vegan pancakes), recipe description (spicy noodle dish), or even a list of ingredients (i have three onions, four cups of broth and a pound of chicken).
 I have API keys for spoonacular and openAI, and am willing to use both.
 Acceptance Criteria
 a working python script that prints out a complete and usable recipe based on dynamic user input
 Technical Details
-just a python script is needed for now.",jtmertes,14 hours ago,https://replit.com/bounties/@jtmertes/recipe-generator-scr?t=
+just a python script is needed for now.",jtmertes,15 hours ago,https://replit.com/bounties/@jtmertes/recipe-generator-scr?t=
 123,$13.50,closed,Fix chrome extension syntax/bug.,"I am trying to build a simple chrome extension that scraps a website profile. I have written most of the code, but have run into a bug, namely a mishap in  v2 vs v3 syntax. Should be a quick fix for anyone with experience in chrome extensions.
 Acceptance Criteria
 Existing application runs, chrome related error is solved.
@@ -1195,7 +1195,7 @@ first page should be the existing sign in page, second page should be a redirect
 
 The feature should allow me to edit the content of the tweet and to target specific demographs (ie. Architecture & Construction).
 
-For example, any tweet containing #architecture automates my account to post a pre-defined tweet in response.",TomHumber,6 hours ago,https://replit.com/bounties/@TomHumber/twitter-auto-reply-a?t=
+For example, any tweet containing #architecture automates my account to post a pre-defined tweet in response.",TomHumber,7 hours ago,https://replit.com/bounties/@TomHumber/twitter-auto-reply-a?t=
 126,$0.90,due in 6 days,Stumble guys on replit ,"I want now.gg stumble guys to be downloaded and have the files get put on replit, or netlify this would be a great help thanks.
 
 I know that it is not a lot of money but its all i have so if you are bored code away",TheTopGBugatti,2 hours ago,https://replit.com/bounties/@TheTopGBugatti/stumble-guys-on-repl?t=
@@ -1207,7 +1207,7 @@ Acceptance Criteria
 The action runs on a folder of image sequences and produces a playable ProRes video with sound on Mac OS Ventura.
 
 Note
-The recent versions of QuickTime no longer exposes the ""Open Image Sequence"" function to AppleScript, so an alternative approach will be needed.",phraktle,1 hour ago,https://replit.com/bounties/@phraktle/mac-automation-for-q?t=
+The recent versions of QuickTime no longer exposes the ""Open Image Sequence"" function to AppleScript, so an alternative approach will be needed.",phraktle,2 hours ago,https://replit.com/bounties/@phraktle/mac-automation-for-q?t=
 128,$9.99,due in 5 months,"Make a website that creates itself via randomizing variables to make a complex, but very random blog every refresh","Create a website that on refresh has the appearance that it is on a completely different website, or just with different content.
 
 Also I would like it to consist of memes, or of Sun Tzu quotes.
@@ -1222,7 +1222,7 @@ Req
 Gotta be in PHP, sorry if you have a life but if you choose to make this and you don't have experience in PHP it will be worse than walking on hot coals.
 
 Resources
-blogging template ( you may make the appearance different, but read the READM...",Altify-Developm,57 minutes ago,https://replit.com/bounties/@Altify-Developm/make-a-website-that?t=
+blogging template ( you may make the appearance different, but read the READM...",Altify-Developm,1 hour ago,https://replit.com/bounties/@Altify-Developm/make-a-website-that?t=
 129,$45.00,due in 3 days,Issue a Credential with Trinsic API for Twitter Follower,"There is no easy way to prove that you follow someone on Twitter. Being able to prove something like a social follow could unlock other user interactions like rewarding true fans for activity while keeping out bots.
 
 Acceptance Criteria
@@ -1233,4 +1233,14 @@ Then use the Trinsic dashboard to issue the credential to my email.
 
 Technical Details
 
-Link to Project",ZacharyJones27,34 minutes ago,https://replit.com/bounties/@ZacharyJones27/issue-a-credential-w?t=
+Link to Project",ZacharyJones27,52 minutes ago,https://replit.com/bounties/@ZacharyJones27/issue-a-credential-w?t=
+130,$225.00,due in 8 days,Python: Using eye tracking to control cursor on Mac,"I have a dual monitor computer and I want to use eye tracking to move my cursor across the two monitors.
+
+Acceptance Criteria
+Eye tracking moves the cursor on an absolute basis i.e. where my eyes are is where the cursor moves.
+Eye tracking moves the cursor on a relative basis i.e. move cursor in the direction of my retina
+Calibration system where a window pops up where it shows ""+"" on the screen and determines what my eyes looks like (across the screens)
+
+Technical Detail
+How to move cursor on mac: https://gist.github.com/prafulfillment/16b52a55e676d0aac845451d8a6ec301
+Eye retina tracking works with OpenCV",PrafulMathur,17 minutes ago,https://replit.com/bounties/@PrafulMathur/python-using-eye-tra?t=
