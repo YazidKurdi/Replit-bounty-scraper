@@ -1226,7 +1226,7 @@
         "title": "Recipe Generator Script",
         "description": "I need a python script that accepts dynamic input from users that want a recipe, and then returns a recipe for them. The input could be a recipe title (like London Broil or vegan pancakes), recipe description (spicy noodle dish), or even a list of ingredients (i have three onions, four cups of broth and a pound of chicken).\nI have API keys for spoonacular and openAI, and am willing to use both.\nAcceptance Criteria\na working python script that prints out a complete and usable recipe based on dynamic user input\nTechnical Details\njust a python script is needed for now.",
         "author": "jtmertes",
-        "posted_time": "9 minutes ago",
+        "posted_time": "17 minutes ago",
         "link": "https://replit.com/bounties/@jtmertes/recipe-generator-scr?t="
     }
 ]
