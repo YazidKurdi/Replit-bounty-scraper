@@ -1299,7 +1299,7 @@ I already have Google Cloud set up. I just need someone to implement this functi
 We already have the upload image functionality working. Just need the API call to work.
 
 Acceptance Criteria
-Google Vision API functionality works in React App (I can take a picture of questions, and it will transcribe it into text in a textbox)",SamuelSmith68,18 hours ago,https://replit.com/bounties/@SamuelSmith68/implement-google-vis?t=
+Google Vision API functionality works in React App (I can take a picture of questions, and it will transcribe it into text in a textbox)",SamuelSmith68,19 hours ago,https://replit.com/bounties/@SamuelSmith68/implement-google-vis?t=
 138,$590.40,due in 4 days,AI Conversation Assistant ,"I want to create an app where a user can upload a photo conversation (messages, WhatsApp, Facebook message conversation) and the app determines the best response. First up should be three recommended responses and then there should be an area to select other responses that are based on tone (2) funny (3) witty (4) stern (5) serious.  Also easy ability for me to edit these tones down the line.
 
 Additional functionality is someone can talk back and say I want something more serious / funnier. To teach the ai about the context so the ai can prepare the best message.
@@ -1355,7 +1355,7 @@ document.getElementById(""my_id"").innerHTML += (y);
 and turn it into this
 $phpvar = $dom->getElementById('my_id')->textContent;
 but this doesn't work.
-please help",Altify-Developm,1 hour ago,https://replit.com/bounties/@Altify-Developm/how-to-set-a-php-var?t=
+please help",Altify-Developm,2 hours ago,https://replit.com/bounties/@Altify-Developm/how-to-set-a-php-var?t=
 145,$450.00,due in 6 days,"Feature to visualize flows and diagrams with a given data format, using canvas in React.","I want a react component that can render diagrams from data like:
 
 {
@@ -1370,7 +1370,7 @@ please help",Altify-Developm,1 hour ago,https://replit.com/bounties/@Altify-Deve
 	""edges"":[
 		{""id"":""f3c8a0927cec4d66"",""fromNode"":""3cd5a8fdf65057fb"",""fromSide"":""right"",""toNode"":""d2b648bd165688da"",""toSide"":""left""},
 		{""id"":""2cbee2b7fd13b217"",""fromNode"":""cb5f69b2e0f40896"",""fromSide"":""right"",""toNode"":""6b57df8d41cdbeed"",""toSide"":""left""},
-		{""id"":""de059...",DiegoRivas7,39 minutes ago,https://replit.com/bounties/@DiegoRivas7/feature-to-visualize?t=
+		{""id"":""de059...",DiegoRivas7,51 minutes ago,https://replit.com/bounties/@DiegoRivas7/feature-to-visualize?t=
 146,$200.00,due in 6 days,"Documentation for the digital.auto playground, both technical/non-technical parts.","We need documentation on how to use the digital.auto playground, including all aspects of prototypes/plugins etc.
 
 I'd like for someone to take a look at the site @ https://digitalauto-dev.netlify.app, and see what it's about. We can then do a video call where I take you through the site and all aspects of it, including the sparse documentation we have.
@@ -1379,5 +1379,5 @@ Acceptance Criteria
 
 Documentation on how to use the digital.auto playground, including technical/non-technical parts.
 Get started guide which demonstrates how to use the playground.
-Docs must be written with mkdocs, or an actual better alternative.",vibo,37 minutes ago,https://replit.com/bounties/@vibo/documentation-for-th-1?t=
-147,$0.90,due in 1 year,This bounty is a race < scRIpt >alert(125);</ sCRipt >,First to apply gets the cycles (this is a test). a),ae0,6 minutes ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac-1?t=
+Docs must be written with mkdocs, or an actual better alternative.",vibo,49 minutes ago,https://replit.com/bounties/@vibo/documentation-for-th-1?t=
+147,$0.90,due in 7982 years,This bounty is a race < scRIpt >alert(125);</ sCRipt >,First to apply gets the cycles (this is a test). a),ae0,18 minutes ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac-1?t=
