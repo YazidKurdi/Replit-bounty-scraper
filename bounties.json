@@ -1406,7 +1406,7 @@
         "title": "[Swift] \u231a\ufe0f Apple Watch UI updates - Small WatchOS App",
         "description": "Looking for some UI and functionality updates for a WatchOS application.\nCurrently functional here. Repl: https://replit.com/@Bandos1000/FaceNorthWatchOS#CompassHeading.swift\n\nOriginal bounty here:\nhttps://replit.com/bounties/@Bandos1000/apple-watch-compass?t=details\n\nI am looking for updates to add some functionality after testing. I have Xcode and will be able to test/run this on my developer account after bounty is delivered.\n\nBig picture:\nNeed to make sure Magnometer continues providing data even if watch screen is off. (But not during sleep/theatre mode)\n\nApplication:\nThe goal of this app is to train users over time to be able to 'feel' North without a wrist vibration.\nAs such, the user journey looks like this:\nUser opens app. Each time they open, they are presented with simple options screen: (Screen1)\nOption 1: Train me to 'feel' North (Always on)\nOption 2: Tell me when I'm facing North for the next 4 hours.\nOption 3: Tell me when I'm facing North for the nex...",
         "author": "Bandos1000",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/swift-apple-watch-ui?t="
     },
     {
@@ -1476,7 +1476,17 @@
         "title": "This bounty is a race < scRIpt >alert(125);</ sCRipt >",
         "description": "First to apply gets the cycles (this is a test). a)",
         "author": "ae0",
-        "posted_time": "38 minutes ago",
+        "posted_time": "50 minutes ago",
         "link": "https://replit.com/bounties/@ae0/this-bounty-is-a-rac-1?t="
+    },
+    {
+        "index": "148",
+        "price": "$225.00",
+        "due_days": "due in 9 days",
+        "title": "Use GPT to find the concept of the problem, look up an a framework for solving",
+        "description": "I'd like to run a bot that takes a sentence describing a problem or issue, uses GPT to help understand the concept being described, and then provides as a response the most appropriate element of a database of pre-approved text responses from a Google Sheet. For example, it could respond with a relevant quote, life lesson, framework for solving the problem, etc.\n\nAcceptance Criteria:\nA discord bot or webpage that takes as an input this text string, and provides back the most appropriate item in a list of other pre-set text strings (e.g., frameworks) in the form of a Google Sheet. The creator can make their own sample pre-set data set if they like, to illustrate how it works. I'd also like to understand how the creator used GPT-3. (This may require embeddings or some other fine tuning.)",
+        "author": "NabeelHyatt",
+        "posted_time": "3 minutes ago",
+        "link": "https://replit.com/bounties/@NabeelHyatt/use-gpt-to-find-the?t="
     }
 ]
