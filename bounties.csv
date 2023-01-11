@@ -1251,7 +1251,7 @@ A shopify App based on ChatGPT (Open AI) that will forecast how much inventory w
 By analyzing our sales data, the app needs to predict how much inventory we will need in the future so we can plan our reorders.
 Low-Stock Alerts: We need to be alerted when stock is running low on a particular item so we can reorder before we run out
 
-Technical Details",Ericmuks,9 hours ago,https://replit.com/bounties/@Ericmuks/ai-inventory-analyti?t=
+Technical Details",Ericmuks,10 hours ago,https://replit.com/bounties/@Ericmuks/ai-inventory-analyti?t=
 132,$45.00,due in 3 days,Flutter: Sign in page #supabase #riverpod,"Sign in/up page that authenticates me with supabase auth.
 
 Looks like: https://dribbble.com/shots/14605167/attachments/6297430?mode=media
@@ -1283,7 +1283,7 @@ notsus",ae0,9 hours ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t=
 We currently have a Django-based app that creates Celery tasks to sync the data of each of our accounts using the Selling Partner API. Now, we want to add support for the Sponsored Products API -- a different platform -- to enrich our data.
 
 Acceptance Criteria
-Experience with python, Django and Celery. Nice to have: experience with Amazon's APIs.",SantiagoNestare,8 hours ago,https://replit.com/bounties/@SantiagoNestare/amazon-ads-api-pull?t=
+Experience with python, Django and Celery. Nice to have: experience with Amazon's APIs.",SantiagoNestare,9 hours ago,https://replit.com/bounties/@SantiagoNestare/amazon-ads-api-pull?t=
 136,$90.00,due in 6 days,Create a podcast webapp that plays podcasts at 0.25x speed,"Sometimes you have 100 hours of free time, but only 25 hours of podcasts to listen to. Instead of listening to your favorite podcasts 4 times each, why not listen once at 0.25x speed?
 
 Acceptance Criteria
@@ -1305,12 +1305,12 @@ Google Vision API functionality works in React App (I can take a picture of ques
 Additional functionality is someone can talk back and say I want something more serious / funnier. To teach the ai about the context so the ai can prepare the best message.
 
 The goal is for people who struggle with flirting and conversation (i.e. anxiety of what to say) and acts as an assisting helping with a response or response prompts. The responses should be based off the semantics of the previous conversation and to try to fit the tone of the conversation and not sound like a robot. Ideally using an AI partner (maybe chatGPT or better solution) that is most trained in con...",ZachSchofel,28 minutes ago,https://replit.com/bounties/@ZachSchofel/ai-conversation-assi?t=
-139,$590.40,due in 11 days,AI Conversation Assistant ,"I want to create an app where a user can upload a photo conversation (messages, WhatsApp, Facebook message conversation) and the app determines the best response. First up should be three recommended responses and then there should be an area to select other responses that are based on tone (2) funny (3) witty (4) stern (5) serious.  Also easy ability for me to edit these tones down the line.
+139,$590.40,due in 8 days,AI Conversation Assistant ,"I want to create an app where a user can upload a photo conversation (messages, WhatsApp, Facebook message conversation) and the app determines the best response. First up should be three recommended responses and then there should be an area to select other responses that are based on tone (2) funny (3) witty (4) stern (5) serious.  Also easy ability for me to edit these tones down the line.
 
 Additional functionality is someone can talk back and say I want something more serious / funnier. To teach the ai about the context so the ai can prepare the best message.
 
 The goal is for people who struggle with flirting and conversation (i.e. anxiety of what to say) and acts as an assisting helping with a response or response prompts. The responses should be based off the semantics of the previous conversation and to try to fit the tone of the conversation and not sound like a robot. Ideally using an AI partner (maybe chatGPT or better solution) that is most trained in con...",Zackman8,1 hour ago,https://replit.com/bounties/@Zackman8/ai-conversation-assi?t=
-140,$10.00,due in 7 days,[Swift] ⌚️ Apple Watch UI updates - Small WatchOS App,"Looking for some UI and functionality updates for a WatchOS application.
+140,$10.00,due in 6 days,[Swift] ⌚️ Apple Watch UI updates - Small WatchOS App,"Looking for some UI and functionality updates for a WatchOS application.
 Currently functional here. Repl: https://replit.com/@Bandos1000/FaceNorthWatchOS#CompassHeading.swift
 
 Original bounty here:
@@ -1327,4 +1327,4 @@ As such, the user journey looks like this:
 User opens app. Each time they open, they are presented with simple options screen: (Screen1)
 Option 1: Train me to 'feel' North (Always on)
 Option 2: Tell me when I'm facing North for the next 4 hours.
-Option 3: Tell me when I'm facing North for the nex...",Bandos1000,17 seconds ago,https://replit.com/bounties/@Bandos1000/swift-apple-watch-ui?t=
+Option 3: Tell me when I'm facing North for the nex...",Bandos1000,9 minutes ago,https://replit.com/bounties/@Bandos1000/swift-apple-watch-ui?t=
