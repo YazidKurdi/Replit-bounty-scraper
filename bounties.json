@@ -1316,7 +1316,7 @@
         "title": "AI Inventory Analytics ",
         "description": "We are having trouble figuring it out how much inventory we should buy based on our historical sales data for our Shopify Stores.\n\nAcceptance Criteria\nA shopify App based on ChatGPT (Open AI) that will forecast how much inventory we need for our Shopify Stores by analyzing our sales data and identifying trends in demand to help make purchasing decisions.\nBy analyzing our sales data, the app needs to predict how much inventory we will need in the future so we can plan our reorders.\nLow-Stock Alerts: We need to be alerted when stock is running low on a particular item so we can reorder before we run out\n\nTechnical Details",
         "author": "Ericmuks",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@Ericmuks/ai-inventory-analyti?t="
     },
     {
@@ -1356,7 +1356,7 @@
         "title": "Amazon Ads API Pull",
         "description": "We are looking to pull data from Amazon's Sponsored Products API for all of our Amazon accounts.\n\nWe currently have a Django-based app that creates Celery tasks to sync the data of each of our accounts using the Selling Partner API. Now, we want to add support for the Sponsored Products API -- a different platform -- to enrich our data.\n\nAcceptance Criteria\nExperience with python, Django and Celery. Nice to have: experience with Amazon's APIs.",
         "author": "SantiagoNestare",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@SantiagoNestare/amazon-ads-api-pull?t="
     },
     {
