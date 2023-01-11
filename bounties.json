@@ -1346,7 +1346,7 @@
         "title": "This bounty is a race",
         "description": "First to apply gets the cycles (this is a test).\nnotsus",
         "author": "ae0",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t="
     },
     {
@@ -1376,7 +1376,7 @@
         "title": "Implement Google Vision API in React app to grab text from an image",
         "description": "I need help implementing Google Vision's API in my React App. I have a feature that I want to use where a student can take a picture of a problem from their computer or somewhere, and the Google Vision API transcribes it into machine-readable text (called OCR). This will then paste the message into a textbox.\n\nI already have Google Cloud set up. I just need someone to implement this functionality within 1 or 2 days.\n\nWe already have the upload image functionality working. Just need the API call to work.\n\nAcceptance Criteria\nGoogle Vision API functionality works in React App (I can take a picture of questions, and it will transcribe it into text in a textbox)",
         "author": "SamuelSmith68",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@SamuelSmith68/implement-google-vis?t="
     },
     {
