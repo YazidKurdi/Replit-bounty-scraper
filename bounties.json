@@ -1326,7 +1326,7 @@
         "title": "Flutter: Sign in page #supabase #riverpod",
         "description": "Sign in/up page that authenticates me with supabase auth.\n\nLooks like: https://dribbble.com/shots/14605167/attachments/6297430?mode=media\n\nSome updates:\nOn sign up the fields will be: full name, email and it will use OTP to authenticate\nOn login there's only email no password and will use OTP to authenticate\n\nAcceptance Criteria\nAllows me to login via credentials stored in Supabase (email -> OTP, Google/Apple/Facebook social logins)\nAllows me to sign up with email OTP, Google, Apple, & FB\nOn success, route to MyApp() [for now you can make that a \"Hello World\"]\nOn error, show a toast message on top saying \"Invalid Attempt: {reason}\"\n\nTechnical Details\nUse Supabase keys to auth (create a free account)\nUse riverpod for state managment\n\nLink to Project\nCreate a blank project and link me",
         "author": "PrafulMathur",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@PrafulMathur/flutter-sign-in-page?t="
     },
     {
@@ -1336,7 +1336,7 @@
         "title": "code only a mother could love",
         "description": "cycle transfer for Ghostwriter\n\nAcceptance Criteria\ncycle transfer for Ghostwriter",
         "author": "ToddBenrud",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@ToddBenrud/code-only-a-mother-c?t="
     },
     {
@@ -1396,7 +1396,7 @@
         "title": "AI Conversation Assistant ",
         "description": "I want to create an app where a user can upload a photo conversation (messages, WhatsApp, Facebook message conversation) and the app determines the best response. First up should be three recommended responses and then there should be an area to select other responses that are based on tone (2) funny (3) witty (4) stern (5) serious.  Also easy ability for me to edit these tones down the line.\n\nAdditional functionality is someone can talk back and say I want something more serious / funnier. To teach the ai about the context so the ai can prepare the best message.\n\nThe goal is for people who struggle with flirting and conversation (i.e. anxiety of what to say) and acts as an assisting helping with a response or response prompts. The responses should be based off the semantics of the previous conversation and to try to fit the tone of the conversation and not sound like a robot. Ideally using an AI partner (maybe chatGPT or better solution) that is most trained in con...",
         "author": "Zackman8",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@Zackman8/ai-conversation-assi?t="
     },
     {
