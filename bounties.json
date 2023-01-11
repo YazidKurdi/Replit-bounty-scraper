@@ -1286,7 +1286,7 @@
         "title": "Make a website that creates itself via randomizing variables to make a complex, but very random blog every refresh",
         "description": "Create a website that on refresh has the appearance that it is on a completely different website, or just with different content.\n\nAlso I would like it to consist of memes, or of Sun Tzu quotes.\nThis is similar to the newer gpt-3 nyt website, but I want it to consist of memes, also I have resources that may be helpful towards your completion of this at the bottom.\n\nWhy?\nI'm making this as a start to a PPO learning algorithm that works with rewards.\nExample: website receives longest interaction so far, receive reward, if user clicks off in 5 seconds under the average interaction length, receive negative reward\nI will be implementing the ppo myself, since asking for that would substantially increase the price of this project, and I am not rich.\n\nReq\nGotta be in PHP, sorry if you have a life but if you choose to make this and you don't have experience in PHP it will be worse than walking on hot coals.\n\nResources\nblogging template ( you may make the appearance different, but read the READM...",
         "author": "Altify-Developm",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@Altify-Developm/make-a-website-that?t="
     },
     {
@@ -1306,7 +1306,7 @@
         "title": "Python: Using eye tracking to control cursor on Mac",
         "description": "I have a dual monitor computer and I want to use eye tracking to move my cursor across the two monitors.\n\nAcceptance Criteria\nEye tracking moves the cursor on an absolute basis i.e. where my eyes are is where the cursor moves.\nEye tracking moves the cursor on a relative basis i.e. move cursor in the direction of my retina\nCalibration system where a window pops up where it shows \"+\" on the screen and determines what my eyes looks like (across the screens)\n\nTechnical Detail\nHow to move cursor on mac: https://gist.github.com/prafulfillment/16b52a55e676d0aac845451d8a6ec301\nEye retina tracking works with OpenCV",
         "author": "PrafulMathur",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@PrafulMathur/python-using-eye-tra?t="
     },
     {
@@ -1326,7 +1326,7 @@
         "title": "Flutter: Sign in page #supabase #riverpod",
         "description": "Sign in/up page that authenticates me with supabase auth.\n\nLooks like: https://dribbble.com/shots/14605167/attachments/6297430?mode=media\n\nSome updates:\nOn sign up the fields will be: full name, email and it will use OTP to authenticate\nOn login there's only email no password and will use OTP to authenticate\n\nAcceptance Criteria\nAllows me to login via credentials stored in Supabase (email -> OTP, Google/Apple/Facebook social logins)\nAllows me to sign up with email OTP, Google, Apple, & FB\nOn success, route to MyApp() [for now you can make that a \"Hello World\"]\nOn error, show a toast message on top saying \"Invalid Attempt: {reason}\"\n\nTechnical Details\nUse Supabase keys to auth (create a free account)\nUse riverpod for state managment\n\nLink to Project\nCreate a blank project and link me",
         "author": "PrafulMathur",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@PrafulMathur/flutter-sign-in-page?t="
     },
     {
@@ -1336,7 +1336,7 @@
         "title": "code only a mother could love",
         "description": "cycle transfer for Ghostwriter\n\nAcceptance Criteria\ncycle transfer for Ghostwriter",
         "author": "ToddBenrud",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@ToddBenrud/code-only-a-mother-c?t="
     },
     {
@@ -1346,7 +1346,7 @@
         "title": "This bounty is a race",
         "description": "First to apply gets the cycles (this is a test).\nnotsus",
         "author": "ae0",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t="
     },
     {
@@ -1358,5 +1358,25 @@
         "author": "SantiagoNestare",
         "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@SantiagoNestare/amazon-ads-api-pull?t="
+    },
+    {
+        "index": "136",
+        "price": "$90.00",
+        "due_days": "due in 6 days",
+        "title": "Create a podcast webapp that plays podcasts at 0.25x speed",
+        "description": "Sometimes you have 100 hours of free time, but only 25 hours of podcasts to listen to. Instead of listening to your favorite podcasts 4 times each, why not listen once at 0.25x speed?\n\nAcceptance Criteria\nAn easy-to-use webapp that lets the user submit their own podcast, and listen back at 0.25x speed.\nUsers can submit podcasts in any way that's easy-to-use, such as via Apple podcast link (e.g.https://podcasts.apple.com/us/podcast/season-2-ep-1-the-cursed-production-of-cyber-cowboys/id1561306479?i=1000578054491)\nUsers should be able to play, pause, rewind 10 seconds, fast-forward 10 seconds, and scrub through the podcast.\nIt would be super cool if you can adjust the playback speed, but it's not really necessary. Another idea-- it would be really awesome if the playback speed slowly oscillated from 0.25x speed to 0.35x speed, and back and forth. Maybe you would get a really slow Doppler effect?\nIn designing the web app, feel free to use as many CSS3 transforms and an...",
+        "author": "dean-yim",
+        "posted_time": "48 minutes ago",
+        "link": "https://replit.com/bounties/@dean-yim/create-a-podcast-web?t="
+    },
+    {
+        "index": "137",
+        "price": "$18.00",
+        "due_days": "due in 4 days",
+        "title": "Implement Google Vision API in React app to grab text from an image",
+        "description": "I need help implementing Google Vision's API in my React App. I have a feature that I want to use where a student can take a picture of a problem from their computer or somewhere, and the Google Vision API transcribes it into machine-readable text (called OCR). This will then paste the message into a textbox.\n\nI already have Google Cloud set up. I just need someone to implement this functionality within 1 or 2 days.\n\nWe already have the upload image functionality working. Just need the API call to work.\n\nAcceptance Criteria\nGoogle Vision API functionality works in React App (I can take a picture of questions, and it will transcribe it into text in a textbox)",
+        "author": "SamuelSmith68",
+        "posted_time": "37 minutes ago",
+        "link": "https://replit.com/bounties/@SamuelSmith68/implement-google-vis?t="
     }
 ]
