@@ -1251,7 +1251,7 @@ A shopify App based on ChatGPT (Open AI) that will forecast how much inventory w
 By analyzing our sales data, the app needs to predict how much inventory we will need in the future so we can plan our reorders.
 Low-Stock Alerts: We need to be alerted when stock is running low on a particular item so we can reorder before we run out
 
-Technical Details",Ericmuks,19 hours ago,https://replit.com/bounties/@Ericmuks/ai-inventory-analyti?t=
+Technical Details",Ericmuks,20 hours ago,https://replit.com/bounties/@Ericmuks/ai-inventory-analyti?t=
 132,$45.00,due in 2 days,Flutter: Sign in page #supabase #riverpod,"Sign in/up page that authenticates me with supabase auth.
 
 Looks like: https://dribbble.com/shots/14605167/attachments/6297430?mode=media
@@ -1283,7 +1283,7 @@ notsus",ae0,19 hours ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t
 We currently have a Django-based app that creates Celery tasks to sync the data of each of our accounts using the Selling Partner API. Now, we want to add support for the Sponsored Products API -- a different platform -- to enrich our data.
 
 Acceptance Criteria
-Experience with python, Django and Celery. Nice to have: experience with Amazon's APIs.",SantiagoNestare,18 hours ago,https://replit.com/bounties/@SantiagoNestare/amazon-ads-api-pull?t=
+Experience with python, Django and Celery. Nice to have: experience with Amazon's APIs.",SantiagoNestare,19 hours ago,https://replit.com/bounties/@SantiagoNestare/amazon-ads-api-pull?t=
 136,$90.00,due in 5 days,Create a podcast webapp that plays podcasts at 0.25x speed,"Sometimes you have 100 hours of free time, but only 25 hours of podcasts to listen to. Instead of listening to your favorite podcasts 4 times each, why not listen once at 0.25x speed?
 
 Acceptance Criteria
@@ -1328,3 +1328,8 @@ User opens app. Each time they open, they are presented with simple options scre
 Option 1: Train me to 'feel' North (Always on)
 Option 2: Tell me when I'm facing North for the next 4 hours.
 Option 3: Tell me when I'm facing North for the nex...",Bandos1000,10 hours ago,https://replit.com/bounties/@Bandos1000/swift-apple-watch-ui?t=
+141,$27.00,due in 5 days,Adjusting original calibration of power meter,"To adjust the power readings of a cycling power meter we need a tool to adjust the factory calibration. This could be done with Bluetooth. When adjusting the original calibration the power readings can be adjusted to higher or lower.
+
+Acceptance Criteria
+You need some knowledge on Bluetooth protocols.
+https://www.bluetooth.com/specifications/specs/cycling-power-profile-1-1/",Lucasden,2 minutes ago,https://replit.com/bounties/@Lucasden/adjusting-original-c?t=
