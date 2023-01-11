@@ -1326,7 +1326,7 @@
         "title": "Flutter: Sign in page #supabase #riverpod",
         "description": "Sign in/up page that authenticates me with supabase auth.\n\nLooks like: https://dribbble.com/shots/14605167/attachments/6297430?mode=media\n\nSome updates:\nOn sign up the fields will be: full name, email and it will use OTP to authenticate\nOn login there's only email no password and will use OTP to authenticate\n\nAcceptance Criteria\nAllows me to login via credentials stored in Supabase (email -> OTP, Google/Apple/Facebook social logins)\nAllows me to sign up with email OTP, Google, Apple, & FB\nOn success, route to MyApp() [for now you can make that a \"Hello World\"]\nOn error, show a toast message on top saying \"Invalid Attempt: {reason}\"\n\nTechnical Details\nUse Supabase keys to auth (create a free account)\nUse riverpod for state managment\n\nLink to Project\nCreate a blank project and link me",
         "author": "PrafulMathur",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@PrafulMathur/flutter-sign-in-page?t="
     },
     {
@@ -1336,7 +1336,7 @@
         "title": "code only a mother could love",
         "description": "cycle transfer for Ghostwriter\n\nAcceptance Criteria\ncycle transfer for Ghostwriter",
         "author": "ToddBenrud",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@ToddBenrud/code-only-a-mother-c?t="
     },
     {
@@ -1356,7 +1356,7 @@
         "title": "Amazon Ads API Pull",
         "description": "We are looking to pull data from Amazon's Sponsored Products API for all of our Amazon accounts.\n\nWe currently have a Django-based app that creates Celery tasks to sync the data of each of our accounts using the Selling Partner API. Now, we want to add support for the Sponsored Products API -- a different platform -- to enrich our data.\n\nAcceptance Criteria\nExperience with python, Django and Celery. Nice to have: experience with Amazon's APIs.",
         "author": "SantiagoNestare",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@SantiagoNestare/amazon-ads-api-pull?t="
     },
     {
@@ -1416,7 +1416,17 @@
         "title": "Adjusting original calibration of power meter",
         "description": "To adjust the power readings of a cycling power meter we need a tool to adjust the factory calibration. This could be done with Bluetooth. When adjusting the original calibration the power readings can be adjusted to higher or lower.\n\nAcceptance Criteria\nYou need some knowledge on Bluetooth protocols.\nhttps://www.bluetooth.com/specifications/specs/cycling-power-profile-1-1/",
         "author": "Lucasden",
-        "posted_time": "49 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@Lucasden/adjusting-original-c?t="
+    },
+    {
+        "index": "142",
+        "price": "$1.26",
+        "due_days": "due in 19 days",
+        "title": "Help me create a custom website in HTML, CSS, and JS.",
+        "description": "Help me create a simple, animated website that is easily customizable. Im only now learning HTML CSS JS so you\u2019ll be doing most of the work\n\nAcceptance Criteria:\nAnimated website with three main sections and one final section at the bottom for contact info,  with a easily editable code.",
+        "author": "GiggaPoggers",
+        "posted_time": "3 minutes ago",
+        "link": "https://replit.com/bounties/@GiggaPoggers/help-me-create-a-cus?t="
     }
 ]
