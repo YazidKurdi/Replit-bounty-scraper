@@ -1291,7 +1291,7 @@ An easy-to-use webapp that lets the user submit their own podcast, and listen ba
 Users can submit podcasts in any way that's easy-to-use, such as via Apple podcast link (e.g.https://podcasts.apple.com/us/podcast/season-2-ep-1-the-cursed-production-of-cyber-cowboys/id1561306479?i=1000578054491)
 Users should be able to play, pause, rewind 10 seconds, fast-forward 10 seconds, and scrub through the podcast.
 It would be super cool if you can adjust the playback speed, but it's not really necessary. Another idea-- it would be really awesome if the playback speed slowly oscillated from 0.25x speed to 0.35x speed, and back and forth. Maybe you would get a really slow Doppler effect?
-In designing the web app, feel free to use as many CSS3 transforms and an...",dean-yim,17 hours ago,https://replit.com/bounties/@dean-yim/create-a-podcast-web?t=
+In designing the web app, feel free to use as many CSS3 transforms and an...",dean-yim,18 hours ago,https://replit.com/bounties/@dean-yim/create-a-podcast-web?t=
 137,$18.00,due in 3 days,Implement Google Vision API in React app to grab text from an image,"I need help implementing Google Vision's API in my React App. I have a feature that I want to use where a student can take a picture of a problem from their computer or somewhere, and the Google Vision API transcribes it into machine-readable text (called OCR). This will then paste the message into a textbox.
 
 I already have Google Cloud set up. I just need someone to implement this functionality within 1 or 2 days.
@@ -1332,11 +1332,11 @@ Option 3: Tell me when I'm facing North for the nex...",Bandos1000,14 hours ago,
 
 Acceptance Criteria
 You need some knowledge on Bluetooth protocols.
-https://www.bluetooth.com/specifications/specs/cycling-power-profile-1-1/",Lucasden,3 hours ago,https://replit.com/bounties/@Lucasden/adjusting-original-c?t=
+https://www.bluetooth.com/specifications/specs/cycling-power-profile-1-1/",Lucasden,4 hours ago,https://replit.com/bounties/@Lucasden/adjusting-original-c?t=
 142,$1.26,due in 19 days,"Help me create a custom website in HTML, CSS, and JS.","Help me create a simple, animated website that is easily customizable. Im only now learning HTML CSS JS so you’ll be doing most of the work
 
 Acceptance Criteria:
-Animated website with three main sections and one final section at the bottom for contact info,  with a easily editable code.",GiggaPoggers,2 hours ago,https://replit.com/bounties/@GiggaPoggers/help-me-create-a-cus?t=
+Animated website with three main sections and one final section at the bottom for contact info,  with a easily editable code.",GiggaPoggers,3 hours ago,https://replit.com/bounties/@GiggaPoggers/help-me-create-a-cus?t=
 143,$45.00,due in 9 days,Small improvements to Next.js / Tailwind web app,"We'd need a couple small changes to a super simple web app, built with Next.js and Tailwind, with a MongoDB database (The Loom vid should give you a pretty good idea - pages are literally just login + sign up + cancel sub + app main).
 
 What the app does, is that it sends a fixed prompt + customer text to OpenAI davinci-003, and gets back the result, and then displays it to our customer.
@@ -1355,4 +1355,4 @@ document.getElementById(""my_id"").innerHTML += (y);
 and turn it into this
 $phpvar = $dom->getElementById('my_id')->textContent;
 but this doesn't work.
-please help",Altify-Developm,2 minutes ago,https://replit.com/bounties/@Altify-Developm/how-to-set-a-php-var?t=
+please help",Altify-Developm,21 minutes ago,https://replit.com/bounties/@Altify-Developm/how-to-set-a-php-var?t=

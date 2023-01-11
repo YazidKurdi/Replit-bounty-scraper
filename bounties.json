@@ -1366,7 +1366,7 @@
         "title": "Create a podcast webapp that plays podcasts at 0.25x speed",
         "description": "Sometimes you have 100 hours of free time, but only 25 hours of podcasts to listen to. Instead of listening to your favorite podcasts 4 times each, why not listen once at 0.25x speed?\n\nAcceptance Criteria\nAn easy-to-use webapp that lets the user submit their own podcast, and listen back at 0.25x speed.\nUsers can submit podcasts in any way that's easy-to-use, such as via Apple podcast link (e.g.https://podcasts.apple.com/us/podcast/season-2-ep-1-the-cursed-production-of-cyber-cowboys/id1561306479?i=1000578054491)\nUsers should be able to play, pause, rewind 10 seconds, fast-forward 10 seconds, and scrub through the podcast.\nIt would be super cool if you can adjust the playback speed, but it's not really necessary. Another idea-- it would be really awesome if the playback speed slowly oscillated from 0.25x speed to 0.35x speed, and back and forth. Maybe you would get a really slow Doppler effect?\nIn designing the web app, feel free to use as many CSS3 transforms and an...",
         "author": "dean-yim",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@dean-yim/create-a-podcast-web?t="
     },
     {
@@ -1416,7 +1416,7 @@
         "title": "Adjusting original calibration of power meter",
         "description": "To adjust the power readings of a cycling power meter we need a tool to adjust the factory calibration. This could be done with Bluetooth. When adjusting the original calibration the power readings can be adjusted to higher or lower.\n\nAcceptance Criteria\nYou need some knowledge on Bluetooth protocols.\nhttps://www.bluetooth.com/specifications/specs/cycling-power-profile-1-1/",
         "author": "Lucasden",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@Lucasden/adjusting-original-c?t="
     },
     {
@@ -1426,7 +1426,7 @@
         "title": "Help me create a custom website in HTML, CSS, and JS.",
         "description": "Help me create a simple, animated website that is easily customizable. Im only now learning HTML CSS JS so you\u2019ll be doing most of the work\n\nAcceptance Criteria:\nAnimated website with three main sections and one final section at the bottom for contact info,  with a easily editable code.",
         "author": "GiggaPoggers",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@GiggaPoggers/help-me-create-a-cus?t="
     },
     {
@@ -1446,7 +1446,7 @@
         "title": "How to set a php variable to a javascript variable",
         "description": "This should not be that hard\nI know that this seems like it should be so easy since PHP \"works\" well with javascript, but I have spent several hours poring over php.net documentation and have been to many geeksforgeeks blogs that are filled of ads and useless information, I just want to be able to take this\ndocument.getElementById(\"my_id\").innerHTML += (y);\nand turn it into this\n$phpvar = $dom->getElementById('my_id')->textContent;\nbut this doesn't work.\nplease help",
         "author": "Altify-Developm",
-        "posted_time": "2 minutes ago",
+        "posted_time": "21 minutes ago",
         "link": "https://replit.com/bounties/@Altify-Developm/how-to-set-a-php-var?t="
     }
 ]
