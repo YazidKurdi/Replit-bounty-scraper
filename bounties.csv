@@ -1277,7 +1277,7 @@ Create a blank project and link me",PrafulMathur,21 hours ago,https://replit.com
 Acceptance Criteria
 cycle transfer for Ghostwriter",ToddBenrud,22 hours ago,https://replit.com/bounties/@ToddBenrud/code-only-a-mother-c?t=
 134,$0.90,due in 2 days,This bounty is a race,"First to apply gets the cycles (this is a test).
-notsus",ae0,21 hours ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t=
+notsus",ae0,22 hours ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t=
 135,$450.00,due in 28 days,Amazon Ads API Pull,"We are looking to pull data from Amazon's Sponsored Products API for all of our Amazon accounts.
 
 We currently have a Django-based app that creates Celery tasks to sync the data of each of our accounts using the Selling Partner API. Now, we want to add support for the Sponsored Products API -- a different platform -- to enrich our data.
@@ -1291,7 +1291,7 @@ An easy-to-use webapp that lets the user submit their own podcast, and listen ba
 Users can submit podcasts in any way that's easy-to-use, such as via Apple podcast link (e.g.https://podcasts.apple.com/us/podcast/season-2-ep-1-the-cursed-production-of-cyber-cowboys/id1561306479?i=1000578054491)
 Users should be able to play, pause, rewind 10 seconds, fast-forward 10 seconds, and scrub through the podcast.
 It would be super cool if you can adjust the playback speed, but it's not really necessary. Another idea-- it would be really awesome if the playback speed slowly oscillated from 0.25x speed to 0.35x speed, and back and forth. Maybe you would get a really slow Doppler effect?
-In designing the web app, feel free to use as many CSS3 transforms and an...",dean-yim,16 hours ago,https://replit.com/bounties/@dean-yim/create-a-podcast-web?t=
+In designing the web app, feel free to use as many CSS3 transforms and an...",dean-yim,17 hours ago,https://replit.com/bounties/@dean-yim/create-a-podcast-web?t=
 137,$18.00,due in 3 days,Implement Google Vision API in React app to grab text from an image,"I need help implementing Google Vision's API in my React App. I have a feature that I want to use where a student can take a picture of a problem from their computer or somewhere, and the Google Vision API transcribes it into machine-readable text (called OCR). This will then paste the message into a textbox.
 
 I already have Google Cloud set up. I just need someone to implement this functionality within 1 or 2 days.
@@ -1299,7 +1299,7 @@ I already have Google Cloud set up. I just need someone to implement this functi
 We already have the upload image functionality working. Just need the API call to work.
 
 Acceptance Criteria
-Google Vision API functionality works in React App (I can take a picture of questions, and it will transcribe it into text in a textbox)",SamuelSmith68,16 hours ago,https://replit.com/bounties/@SamuelSmith68/implement-google-vis?t=
+Google Vision API functionality works in React App (I can take a picture of questions, and it will transcribe it into text in a textbox)",SamuelSmith68,17 hours ago,https://replit.com/bounties/@SamuelSmith68/implement-google-vis?t=
 138,$590.40,due in 4 days,AI Conversation Assistant ,"I want to create an app where a user can upload a photo conversation (messages, WhatsApp, Facebook message conversation) and the app determines the best response. First up should be three recommended responses and then there should be an area to select other responses that are based on tone (2) funny (3) witty (4) stern (5) serious.  Also easy ability for me to edit these tones down the line.
 
 Additional functionality is someone can talk back and say I want something more serious / funnier. To teach the ai about the context so the ai can prepare the best message.
@@ -1332,11 +1332,11 @@ Option 3: Tell me when I'm facing North for the nex...",Bandos1000,13 hours ago,
 
 Acceptance Criteria
 You need some knowledge on Bluetooth protocols.
-https://www.bluetooth.com/specifications/specs/cycling-power-profile-1-1/",Lucasden,2 hours ago,https://replit.com/bounties/@Lucasden/adjusting-original-c?t=
+https://www.bluetooth.com/specifications/specs/cycling-power-profile-1-1/",Lucasden,3 hours ago,https://replit.com/bounties/@Lucasden/adjusting-original-c?t=
 142,$1.26,due in 19 days,"Help me create a custom website in HTML, CSS, and JS.","Help me create a simple, animated website that is easily customizable. Im only now learning HTML CSS JS so you’ll be doing most of the work
 
 Acceptance Criteria:
-Animated website with three main sections and one final section at the bottom for contact info,  with a easily editable code.",GiggaPoggers,1 hour ago,https://replit.com/bounties/@GiggaPoggers/help-me-create-a-cus?t=
+Animated website with three main sections and one final section at the bottom for contact info,  with a easily editable code.",GiggaPoggers,2 hours ago,https://replit.com/bounties/@GiggaPoggers/help-me-create-a-cus?t=
 143,$45.00,due in 9 days,Small improvements to Next.js / Tailwind web app,"We'd need a couple small changes to a super simple web app, built with Next.js and Tailwind, with a MongoDB database (The Loom vid should give you a pretty good idea - pages are literally just login + sign up + cancel sub + app main).
 
 What the app does, is that it sends a fixed prompt + customer text to OpenAI davinci-003, and gets back the result, and then displays it to our customer.
@@ -1348,4 +1348,4 @@ Changes/additions:
 -Change Stripe integration to include taxes (https://stripe.com/en-fi/tax)
 -add some text to pricing plans
 -change pricing from subscription to one-time fee
--add three buttons in the UI that change the prompt. The buttons will be visible to the customer, but the prompt will not. If the original prompt is ""make it pop"", and one of the buttons is pressed, the prompt we use then would be ""make it pop"" + anything we stored behind the button...",PosThor,42 minutes ago,https://replit.com/bounties/@PosThor/small-improvements-t?t=
+-add three buttons in the UI that change the prompt. The buttons will be visible to the customer, but the prompt will not. If the original prompt is ""make it pop"", and one of the buttons is pressed, the prompt we use then would be ""make it pop"" + anything we stored behind the button...",PosThor,1 hour ago,https://replit.com/bounties/@PosThor/small-improvements-t?t=

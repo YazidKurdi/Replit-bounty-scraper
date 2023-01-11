@@ -1346,7 +1346,7 @@
         "title": "This bounty is a race",
         "description": "First to apply gets the cycles (this is a test).\nnotsus",
         "author": "ae0",
-        "posted_time": "21 hours ago",
+        "posted_time": "22 hours ago",
         "link": "https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t="
     },
     {
@@ -1366,7 +1366,7 @@
         "title": "Create a podcast webapp that plays podcasts at 0.25x speed",
         "description": "Sometimes you have 100 hours of free time, but only 25 hours of podcasts to listen to. Instead of listening to your favorite podcasts 4 times each, why not listen once at 0.25x speed?\n\nAcceptance Criteria\nAn easy-to-use webapp that lets the user submit their own podcast, and listen back at 0.25x speed.\nUsers can submit podcasts in any way that's easy-to-use, such as via Apple podcast link (e.g.https://podcasts.apple.com/us/podcast/season-2-ep-1-the-cursed-production-of-cyber-cowboys/id1561306479?i=1000578054491)\nUsers should be able to play, pause, rewind 10 seconds, fast-forward 10 seconds, and scrub through the podcast.\nIt would be super cool if you can adjust the playback speed, but it's not really necessary. Another idea-- it would be really awesome if the playback speed slowly oscillated from 0.25x speed to 0.35x speed, and back and forth. Maybe you would get a really slow Doppler effect?\nIn designing the web app, feel free to use as many CSS3 transforms and an...",
         "author": "dean-yim",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@dean-yim/create-a-podcast-web?t="
     },
     {
@@ -1376,7 +1376,7 @@
         "title": "Implement Google Vision API in React app to grab text from an image",
         "description": "I need help implementing Google Vision's API in my React App. I have a feature that I want to use where a student can take a picture of a problem from their computer or somewhere, and the Google Vision API transcribes it into machine-readable text (called OCR). This will then paste the message into a textbox.\n\nI already have Google Cloud set up. I just need someone to implement this functionality within 1 or 2 days.\n\nWe already have the upload image functionality working. Just need the API call to work.\n\nAcceptance Criteria\nGoogle Vision API functionality works in React App (I can take a picture of questions, and it will transcribe it into text in a textbox)",
         "author": "SamuelSmith68",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@SamuelSmith68/implement-google-vis?t="
     },
     {
@@ -1416,7 +1416,7 @@
         "title": "Adjusting original calibration of power meter",
         "description": "To adjust the power readings of a cycling power meter we need a tool to adjust the factory calibration. This could be done with Bluetooth. When adjusting the original calibration the power readings can be adjusted to higher or lower.\n\nAcceptance Criteria\nYou need some knowledge on Bluetooth protocols.\nhttps://www.bluetooth.com/specifications/specs/cycling-power-profile-1-1/",
         "author": "Lucasden",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@Lucasden/adjusting-original-c?t="
     },
     {
@@ -1426,7 +1426,7 @@
         "title": "Help me create a custom website in HTML, CSS, and JS.",
         "description": "Help me create a simple, animated website that is easily customizable. Im only now learning HTML CSS JS so you\u2019ll be doing most of the work\n\nAcceptance Criteria:\nAnimated website with three main sections and one final section at the bottom for contact info,  with a easily editable code.",
         "author": "GiggaPoggers",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@GiggaPoggers/help-me-create-a-cus?t="
     },
     {
@@ -1436,7 +1436,7 @@
         "title": "Small improvements to Next.js / Tailwind web app",
         "description": "We'd need a couple small changes to a super simple web app, built with Next.js and Tailwind, with a MongoDB database (The Loom vid should give you a pretty good idea - pages are literally just login + sign up + cancel sub + app main).\n\nWhat the app does, is that it sends a fixed prompt + customer text to OpenAI davinci-003, and gets back the result, and then displays it to our customer.\n\nChanges/additions:\n-A simple footer with copyright info and two links\n-A header with a \"Home\" button and perhaps a logo there too\n-Add logo above sign up and login text\n-Change Stripe integration to include taxes (https://stripe.com/en-fi/tax)\n-add some text to pricing plans\n-change pricing from subscription to one-time fee\n-add three buttons in the UI that change the prompt. The buttons will be visible to the customer, but the prompt will not. If the original prompt is \"make it pop\", and one of the buttons is pressed, the prompt we use then would be \"make it pop\" + anything we stored behind the button...",
         "author": "PosThor",
-        "posted_time": "42 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@PosThor/small-improvements-t?t="
     }
 ]
