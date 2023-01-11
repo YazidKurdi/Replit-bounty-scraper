@@ -1366,7 +1366,7 @@
         "title": "Create a podcast webapp that plays podcasts at 0.25x speed",
         "description": "Sometimes you have 100 hours of free time, but only 25 hours of podcasts to listen to. Instead of listening to your favorite podcasts 4 times each, why not listen once at 0.25x speed?\n\nAcceptance Criteria\nAn easy-to-use webapp that lets the user submit their own podcast, and listen back at 0.25x speed.\nUsers can submit podcasts in any way that's easy-to-use, such as via Apple podcast link (e.g.https://podcasts.apple.com/us/podcast/season-2-ep-1-the-cursed-production-of-cyber-cowboys/id1561306479?i=1000578054491)\nUsers should be able to play, pause, rewind 10 seconds, fast-forward 10 seconds, and scrub through the podcast.\nIt would be super cool if you can adjust the playback speed, but it's not really necessary. Another idea-- it would be really awesome if the playback speed slowly oscillated from 0.25x speed to 0.35x speed, and back and forth. Maybe you would get a really slow Doppler effect?\nIn designing the web app, feel free to use as many CSS3 transforms and an...",
         "author": "dean-yim",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@dean-yim/create-a-podcast-web?t="
     },
     {

@@ -1291,7 +1291,7 @@ An easy-to-use webapp that lets the user submit their own podcast, and listen ba
 Users can submit podcasts in any way that's easy-to-use, such as via Apple podcast link (e.g.https://podcasts.apple.com/us/podcast/season-2-ep-1-the-cursed-production-of-cyber-cowboys/id1561306479?i=1000578054491)
 Users should be able to play, pause, rewind 10 seconds, fast-forward 10 seconds, and scrub through the podcast.
 It would be super cool if you can adjust the playback speed, but it's not really necessary. Another idea-- it would be really awesome if the playback speed slowly oscillated from 0.25x speed to 0.35x speed, and back and forth. Maybe you would get a really slow Doppler effect?
-In designing the web app, feel free to use as many CSS3 transforms and an...",dean-yim,5 hours ago,https://replit.com/bounties/@dean-yim/create-a-podcast-web?t=
+In designing the web app, feel free to use as many CSS3 transforms and an...",dean-yim,6 hours ago,https://replit.com/bounties/@dean-yim/create-a-podcast-web?t=
 137,$18.00,due in 4 days,Implement Google Vision API in React app to grab text from an image,"I need help implementing Google Vision's API in my React App. I have a feature that I want to use where a student can take a picture of a problem from their computer or somewhere, and the Google Vision API transcribes it into machine-readable text (called OCR). This will then paste the message into a textbox.
 
 I already have Google Cloud set up. I just need someone to implement this functionality within 1 or 2 days.
