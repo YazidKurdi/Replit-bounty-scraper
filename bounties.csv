@@ -1355,7 +1355,7 @@ document.getElementById(""my_id"").innerHTML += (y);
 and turn it into this
 $phpvar = $dom->getElementById('my_id')->textContent;
 but this doesn't work.
-please help",Altify-Developm,2 hours ago,https://replit.com/bounties/@Altify-Developm/how-to-set-a-php-var?t=
+please help",Altify-Developm,3 hours ago,https://replit.com/bounties/@Altify-Developm/how-to-set-a-php-var?t=
 145,$450.00,due in 6 days,"Feature to visualize flows and diagrams with a given data format, using canvas in React.","I want a react component that can render diagrams from data like:
 
 {
@@ -1384,4 +1384,4 @@ Docs must be written with mkdocs, or an actual better alternative.",vibo,2 hours
 148,$225.00,due in 9 days,"Use GPT to find the concept of the problem, look up an a framework for solving","I'd like to run a bot that takes a sentence describing a problem or issue, uses GPT to help understand the concept being described, and then provides as a response the most appropriate element of a database of pre-approved text responses from a Google Sheet. For example, it could respond with a relevant quote, life lesson, framework for solving the problem, etc.
 
 Acceptance Criteria:
-A discord bot or webpage that takes as an input this text string, and provides back the most appropriate item in a list of other pre-set text strings (e.g., frameworks) in the form of a Google Sheet. The creator can make their own sample pre-set data set if they like, to illustrate how it works. I'd also like to understand how the creator used GPT-3. (This may require embeddings or some other fine tuning.)",NabeelHyatt,19 minutes ago,https://replit.com/bounties/@NabeelHyatt/use-gpt-to-find-the?t=
+A discord bot or webpage that takes as an input this text string, and provides back the most appropriate item in a list of other pre-set text strings (e.g., frameworks) in the form of a Google Sheet. The creator can make their own sample pre-set data set if they like, to illustrate how it works. I'd also like to understand how the creator used GPT-3. (This may require embeddings or some other fine tuning.)",NabeelHyatt,26 minutes ago,https://replit.com/bounties/@NabeelHyatt/use-gpt-to-find-the?t=
