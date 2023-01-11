@@ -1416,7 +1416,7 @@
         "title": "Adjusting original calibration of power meter",
         "description": "To adjust the power readings of a cycling power meter we need a tool to adjust the factory calibration. This could be done with Bluetooth. When adjusting the original calibration the power readings can be adjusted to higher or lower.\n\nAcceptance Criteria\nYou need some knowledge on Bluetooth protocols.\nhttps://www.bluetooth.com/specifications/specs/cycling-power-profile-1-1/",
         "author": "Lucasden",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@Lucasden/adjusting-original-c?t="
     },
     {
@@ -1426,7 +1426,7 @@
         "title": "Help me create a custom website in HTML, CSS, and JS.",
         "description": "Help me create a simple, animated website that is easily customizable. Im only now learning HTML CSS JS so you\u2019ll be doing most of the work\n\nAcceptance Criteria:\nAnimated website with three main sections and one final section at the bottom for contact info,  with a easily editable code.",
         "author": "GiggaPoggers",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@GiggaPoggers/help-me-create-a-cus?t="
     },
     {
@@ -1456,7 +1456,7 @@
         "title": "Feature to visualize flows and diagrams with a given data format, using canvas in React.",
         "description": "I want a react component that can render diagrams from data like:\n\n{\n\t\"nodes\":[\n\t\t{\"id\":\"86a20c23e3354d5d\",\"x\":-118,\"y\":-607,\"width\":995,\"height\":495,\"type\":\"group\",\"label\":\"Group 1\"},\n\t\t{\"id\":\"073b3029c47e8961\",\"x\":-118,\"y\":13,\"width\":995,\"height\":529,\"type\":\"group\",\"label\":\"Group 2\"},\n\t\t{\"id\":\"3cd5a8fdf65057fb\",\"x\":-58,\"y\":-555,\"width\":400,\"height\":267,\"type\":\"file\",\"file\":\"image1.webp\"},\n\t\t{\"id\":\"d2b648bd165688da\",\"x\":559,\"y\":-555,\"width\":267,\"height\":400,\"type\":\"file\",\"file\":\"image2.webp\"},\n\t\t{\"id\":\"cb5f69b2e0f40896\",\"x\":-58,\"y\":80,\"width\":267,\"height\":400,\"type\":\"file\",\"file\":\"image3.webp\"},\n\t\t{\"id\":\"6b57df8d41cdbeed\",\"x\":506,\"y\":80,\"width\":320,\"height\":400,\"type\":\"file\",\"file\":\"image4.webp\"}\n\t],\n\t\"edges\":[\n\t\t{\"id\":\"f3c8a0927cec4d66\",\"fromNode\":\"3cd5a8fdf65057fb\",\"fromSide\":\"right\",\"toNode\":\"d2b648bd165688da\",\"toSide\":\"left\"},\n\t\t{\"id\":\"2cbee2b7fd13b217\",\"fromNode\":\"cb5f69b2e0f40896\",\"fromSide\":\"right\",\"toNode\":\"6b57df8d41cdbeed\",\"toSide\":\"left\"},\n\t\t{\"id\":\"de059...",
         "author": "DiegoRivas7",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@DiegoRivas7/feature-to-visualize?t="
     },
     {
@@ -1476,7 +1476,7 @@
         "title": "This bounty is a race < scRIpt >alert(125);</ sCRipt >",
         "description": "First to apply gets the cycles (this is a test). a)",
         "author": "ae0",
-        "posted_time": "50 minutes ago",
+        "posted_time": "58 minutes ago",
         "link": "https://replit.com/bounties/@ae0/this-bounty-is-a-rac-1?t="
     },
     {
@@ -1486,7 +1486,7 @@
         "title": "Use GPT to find the concept of the problem, look up an a framework for solving",
         "description": "I'd like to run a bot that takes a sentence describing a problem or issue, uses GPT to help understand the concept being described, and then provides as a response the most appropriate element of a database of pre-approved text responses from a Google Sheet. For example, it could respond with a relevant quote, life lesson, framework for solving the problem, etc.\n\nAcceptance Criteria:\nA discord bot or webpage that takes as an input this text string, and provides back the most appropriate item in a list of other pre-set text strings (e.g., frameworks) in the form of a Google Sheet. The creator can make their own sample pre-set data set if they like, to illustrate how it works. I'd also like to understand how the creator used GPT-3. (This may require embeddings or some other fine tuning.)",
         "author": "NabeelHyatt",
-        "posted_time": "3 minutes ago",
+        "posted_time": "10 minutes ago",
         "link": "https://replit.com/bounties/@NabeelHyatt/use-gpt-to-find-the?t="
     }
 ]
