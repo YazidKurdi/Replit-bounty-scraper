@@ -1283,7 +1283,7 @@ notsus",ae0,22 hours ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t
 We currently have a Django-based app that creates Celery tasks to sync the data of each of our accounts using the Selling Partner API. Now, we want to add support for the Sponsored Products API -- a different platform -- to enrich our data.
 
 Acceptance Criteria
-Experience with python, Django and Celery. Nice to have: experience with Amazon's APIs.",SantiagoNestare,21 hours ago,https://replit.com/bounties/@SantiagoNestare/amazon-ads-api-pull?t=
+Experience with python, Django and Celery. Nice to have: experience with Amazon's APIs.",SantiagoNestare,22 hours ago,https://replit.com/bounties/@SantiagoNestare/amazon-ads-api-pull?t=
 136,$90.00,due in 5 days,Create a podcast webapp that plays podcasts at 0.25x speed,"Sometimes you have 100 hours of free time, but only 25 hours of podcasts to listen to. Instead of listening to your favorite podcasts 4 times each, why not listen once at 0.25x speed?
 
 Acceptance Criteria
@@ -1309,7 +1309,7 @@ The goal is for people who struggle with flirting and conversation (i.e. anxiety
 
 Additional functionality is someone can talk back and say I want something more serious / funnier. To teach the ai about the context so the ai can prepare the best message.
 
-The goal is for people who struggle with flirting and conversation (i.e. anxiety of what to say) and acts as an assisting helping with a response or response prompts. The responses should be based off the semantics of the previous conversation and to try to fit the tone of the conversation and not sound like a robot. Ideally using an AI partner (maybe chatGPT or better solution) that is most trained in con...",Zackman8,14 hours ago,https://replit.com/bounties/@Zackman8/ai-conversation-assi?t=
+The goal is for people who struggle with flirting and conversation (i.e. anxiety of what to say) and acts as an assisting helping with a response or response prompts. The responses should be based off the semantics of the previous conversation and to try to fit the tone of the conversation and not sound like a robot. Ideally using an AI partner (maybe chatGPT or better solution) that is most trained in con...",Zackman8,15 hours ago,https://replit.com/bounties/@Zackman8/ai-conversation-assi?t=
 140,$10.00,due in 4 days,[Swift] ⌚️ Apple Watch UI updates - Small WatchOS App,"Looking for some UI and functionality updates for a WatchOS application.
 Currently functional here. Repl: https://replit.com/@Bandos1000/FaceNorthWatchOS#CompassHeading.swift
 
@@ -1327,7 +1327,7 @@ As such, the user journey looks like this:
 User opens app. Each time they open, they are presented with simple options screen: (Screen1)
 Option 1: Train me to 'feel' North (Always on)
 Option 2: Tell me when I'm facing North for the next 4 hours.
-Option 3: Tell me when I'm facing North for the nex...",Bandos1000,13 hours ago,https://replit.com/bounties/@Bandos1000/swift-apple-watch-ui?t=
+Option 3: Tell me when I'm facing North for the nex...",Bandos1000,14 hours ago,https://replit.com/bounties/@Bandos1000/swift-apple-watch-ui?t=
 141,$27.00,due in 5 days,Adjusting original calibration of power meter,"To adjust the power readings of a cycling power meter we need a tool to adjust the factory calibration. This could be done with Bluetooth. When adjusting the original calibration the power readings can be adjusted to higher or lower.
 
 Acceptance Criteria
@@ -1348,4 +1348,11 @@ Changes/additions:
 -Change Stripe integration to include taxes (https://stripe.com/en-fi/tax)
 -add some text to pricing plans
 -change pricing from subscription to one-time fee
--add three buttons in the UI that change the prompt. The buttons will be visible to the customer, but the prompt will not. If the original prompt is ""make it pop"", and one of the buttons is pressed, the prompt we use then would be ""make it pop"" + anything we stored behind the button...",PosThor,1 hour ago,https://replit.com/bounties/@PosThor/small-improvements-t?t=
+-add three buttons in the UI that change the prompt. The buttons will be visible to the customer, but the prompt will not. If the original prompt is ""make it pop"", and one of the buttons is pressed, the prompt we use then would be ""make it pop"" + anything we stored behind the button...",PosThor,2 hours ago,https://replit.com/bounties/@PosThor/small-improvements-t?t=
+144,$0.90,due in 13 days,How to set a php variable to a javascript variable,"This should not be that hard
+I know that this seems like it should be so easy since PHP ""works"" well with javascript, but I have spent several hours poring over php.net documentation and have been to many geeksforgeeks blogs that are filled of ads and useless information, I just want to be able to take this
+document.getElementById(""my_id"").innerHTML += (y);
+and turn it into this
+$phpvar = $dom->getElementById('my_id')->textContent;
+but this doesn't work.
+please help",Altify-Developm,2 minutes ago,https://replit.com/bounties/@Altify-Developm/how-to-set-a-php-var?t=
