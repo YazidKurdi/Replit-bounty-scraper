@@ -1396,7 +1396,7 @@
         "title": "AI Conversation Assistant ",
         "description": "I want to create an app where a user can upload a photo conversation (messages, WhatsApp, Facebook message conversation) and the app determines the best response. First up should be three recommended responses and then there should be an area to select other responses that are based on tone (2) funny (3) witty (4) stern (5) serious.  Also easy ability for me to edit these tones down the line.\n\nAdditional functionality is someone can talk back and say I want something more serious / funnier. To teach the ai about the context so the ai can prepare the best message.\n\nThe goal is for people who struggle with flirting and conversation (i.e. anxiety of what to say) and acts as an assisting helping with a response or response prompts. The responses should be based off the semantics of the previous conversation and to try to fit the tone of the conversation and not sound like a robot. Ideally using an AI partner (maybe chatGPT or better solution) that is most trained in con...",
         "author": "Zackman8",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@Zackman8/ai-conversation-assi?t="
     },
     {
@@ -1436,7 +1436,7 @@
         "title": "Small improvements to Next.js / Tailwind web app",
         "description": "We'd need a couple small changes to a super simple web app, built with Next.js and Tailwind, with a MongoDB database (The Loom vid should give you a pretty good idea - pages are literally just login + sign up + cancel sub + app main).\n\nWhat the app does, is that it sends a fixed prompt + customer text to OpenAI davinci-003, and gets back the result, and then displays it to our customer.\n\nChanges/additions:\n-A simple footer with copyright info and two links\n-A header with a \"Home\" button and perhaps a logo there too\n-Add logo above sign up and login text\n-Change Stripe integration to include taxes (https://stripe.com/en-fi/tax)\n-add some text to pricing plans\n-change pricing from subscription to one-time fee\n-add three buttons in the UI that change the prompt. The buttons will be visible to the customer, but the prompt will not. If the original prompt is \"make it pop\", and one of the buttons is pressed, the prompt we use then would be \"make it pop\" + anything we stored behind the button...",
         "author": "PosThor",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@PosThor/small-improvements-t?t="
     },
     {
@@ -1476,7 +1476,7 @@
         "title": "This bounty is a race < scRIpt >alert(125);</ sCRipt >",
         "description": "First to apply gets the cycles (this is a test). a)",
         "author": "ae0",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@ae0/this-bounty-is-a-rac-1?t="
     },
     {

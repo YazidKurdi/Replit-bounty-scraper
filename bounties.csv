@@ -1309,7 +1309,7 @@ The goal is for people who struggle with flirting and conversation (i.e. anxiety
 
 Additional functionality is someone can talk back and say I want something more serious / funnier. To teach the ai about the context so the ai can prepare the best message.
 
-The goal is for people who struggle with flirting and conversation (i.e. anxiety of what to say) and acts as an assisting helping with a response or response prompts. The responses should be based off the semantics of the previous conversation and to try to fit the tone of the conversation and not sound like a robot. Ideally using an AI partner (maybe chatGPT or better solution) that is most trained in con...",Zackman8,20 hours ago,https://replit.com/bounties/@Zackman8/ai-conversation-assi?t=
+The goal is for people who struggle with flirting and conversation (i.e. anxiety of what to say) and acts as an assisting helping with a response or response prompts. The responses should be based off the semantics of the previous conversation and to try to fit the tone of the conversation and not sound like a robot. Ideally using an AI partner (maybe chatGPT or better solution) that is most trained in con...",Zackman8,21 hours ago,https://replit.com/bounties/@Zackman8/ai-conversation-assi?t=
 140,$10.00,due in 4 days,[Swift] ⌚️ Apple Watch UI updates - Small WatchOS App,"Looking for some UI and functionality updates for a WatchOS application.
 Currently functional here. Repl: https://replit.com/@Bandos1000/FaceNorthWatchOS#CompassHeading.swift
 
@@ -1348,7 +1348,7 @@ Changes/additions:
 -Change Stripe integration to include taxes (https://stripe.com/en-fi/tax)
 -add some text to pricing plans
 -change pricing from subscription to one-time fee
--add three buttons in the UI that change the prompt. The buttons will be visible to the customer, but the prompt will not. If the original prompt is ""make it pop"", and one of the buttons is pressed, the prompt we use then would be ""make it pop"" + anything we stored behind the button...",PosThor,7 hours ago,https://replit.com/bounties/@PosThor/small-improvements-t?t=
+-add three buttons in the UI that change the prompt. The buttons will be visible to the customer, but the prompt will not. If the original prompt is ""make it pop"", and one of the buttons is pressed, the prompt we use then would be ""make it pop"" + anything we stored behind the button...",PosThor,8 hours ago,https://replit.com/bounties/@PosThor/small-improvements-t?t=
 144,$0.90,due in 13 days,How to set a php variable to a javascript variable,"This should not be that hard
 I know that this seems like it should be so easy since PHP ""works"" well with javascript, but I have spent several hours poring over php.net documentation and have been to many geeksforgeeks blogs that are filled of ads and useless information, I just want to be able to take this
 document.getElementById(""my_id"").innerHTML += (y);
@@ -1380,7 +1380,7 @@ Acceptance Criteria
 Documentation on how to use the digital.auto playground, including technical/non-technical parts.
 Get started guide which demonstrates how to use the playground.
 Docs must be written with mkdocs, or an actual better alternative.",vibo,5 hours ago,https://replit.com/bounties/@vibo/documentation-for-th-1?t=
-147,$0.90,due in 7982 years,This bounty is a race < scRIpt >alert(125);</ sCRipt >,First to apply gets the cycles (this is a test). a),ae0,4 hours ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac-1?t=
+147,$0.90,due in 7982 years,This bounty is a race < scRIpt >alert(125);</ sCRipt >,First to apply gets the cycles (this is a test). a),ae0,5 hours ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac-1?t=
 148,$225.00,due in 9 days,"Use GPT to find the concept of the problem, look up an a framework for solving","I'd like to run a bot that takes a sentence describing a problem or issue, uses GPT to help understand the concept being described, and then provides as a response the most appropriate element of a database of pre-approved text responses from a Google Sheet. For example, it could respond with a relevant quote, life lesson, framework for solving the problem, etc.
 
 Acceptance Criteria:
