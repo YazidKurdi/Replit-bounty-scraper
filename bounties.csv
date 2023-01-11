@@ -1243,7 +1243,7 @@ Calibration system where a window pops up where it shows ""+"" on the screen and
 
 Technical Detail
 How to move cursor on mac: https://gist.github.com/prafulfillment/16b52a55e676d0aac845451d8a6ec301
-Eye retina tracking works with OpenCV",PrafulMathur,13 hours ago,https://replit.com/bounties/@PrafulMathur/python-using-eye-tra?t=
+Eye retina tracking works with OpenCV",PrafulMathur,14 hours ago,https://replit.com/bounties/@PrafulMathur/python-using-eye-tra?t=
 131,$225.00,due in 3 days,AI Inventory Analytics ,"We are having trouble figuring it out how much inventory we should buy based on our historical sales data for our Shopify Stores.
 
 Acceptance Criteria
@@ -1291,7 +1291,7 @@ An easy-to-use webapp that lets the user submit their own podcast, and listen ba
 Users can submit podcasts in any way that's easy-to-use, such as via Apple podcast link (e.g.https://podcasts.apple.com/us/podcast/season-2-ep-1-the-cursed-production-of-cyber-cowboys/id1561306479?i=1000578054491)
 Users should be able to play, pause, rewind 10 seconds, fast-forward 10 seconds, and scrub through the podcast.
 It would be super cool if you can adjust the playback speed, but it's not really necessary. Another idea-- it would be really awesome if the playback speed slowly oscillated from 0.25x speed to 0.35x speed, and back and forth. Maybe you would get a really slow Doppler effect?
-In designing the web app, feel free to use as many CSS3 transforms and an...",dean-yim,7 hours ago,https://replit.com/bounties/@dean-yim/create-a-podcast-web?t=
+In designing the web app, feel free to use as many CSS3 transforms and an...",dean-yim,8 hours ago,https://replit.com/bounties/@dean-yim/create-a-podcast-web?t=
 137,$18.00,due in 4 days,Implement Google Vision API in React app to grab text from an image,"I need help implementing Google Vision's API in my React App. I have a feature that I want to use where a student can take a picture of a problem from their computer or somewhere, and the Google Vision API transcribes it into machine-readable text (called OCR). This will then paste the message into a textbox.
 
 I already have Google Cloud set up. I just need someone to implement this functionality within 1 or 2 days.
