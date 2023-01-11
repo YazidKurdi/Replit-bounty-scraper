@@ -1327,16 +1327,16 @@ As such, the user journey looks like this:
 User opens app. Each time they open, they are presented with simple options screen: (Screen1)
 Option 1: Train me to 'feel' North (Always on)
 Option 2: Tell me when I'm facing North for the next 4 hours.
-Option 3: Tell me when I'm facing North for the nex...",Bandos1000,18 hours ago,https://replit.com/bounties/@Bandos1000/swift-apple-watch-ui?t=
+Option 3: Tell me when I'm facing North for the nex...",Bandos1000,19 hours ago,https://replit.com/bounties/@Bandos1000/swift-apple-watch-ui?t=
 141,$27.00,due in 5 days,Adjusting original calibration of power meter,"To adjust the power readings of a cycling power meter we need a tool to adjust the factory calibration. This could be done with Bluetooth. When adjusting the original calibration the power readings can be adjusted to higher or lower.
 
 Acceptance Criteria
 You need some knowledge on Bluetooth protocols.
-https://www.bluetooth.com/specifications/specs/cycling-power-profile-1-1/",Lucasden,8 hours ago,https://replit.com/bounties/@Lucasden/adjusting-original-c?t=
+https://www.bluetooth.com/specifications/specs/cycling-power-profile-1-1/",Lucasden,9 hours ago,https://replit.com/bounties/@Lucasden/adjusting-original-c?t=
 142,$1.26,due in 19 days,"Help me create a custom website in HTML, CSS, and JS.","Help me create a simple, animated website that is easily customizable. Im only now learning HTML CSS JS so you’ll be doing most of the work
 
 Acceptance Criteria:
-Animated website with three main sections and one final section at the bottom for contact info,  with a easily editable code.",GiggaPoggers,7 hours ago,https://replit.com/bounties/@GiggaPoggers/help-me-create-a-cus?t=
+Animated website with three main sections and one final section at the bottom for contact info,  with a easily editable code.",GiggaPoggers,8 hours ago,https://replit.com/bounties/@GiggaPoggers/help-me-create-a-cus?t=
 143,$45.00,due in 9 days,Small improvements to Next.js / Tailwind web app,"We'd need a couple small changes to a super simple web app, built with Next.js and Tailwind, with a MongoDB database (The Loom vid should give you a pretty good idea - pages are literally just login + sign up + cancel sub + app main).
 
 What the app does, is that it sends a fixed prompt + customer text to OpenAI davinci-003, and gets back the result, and then displays it to our customer.
