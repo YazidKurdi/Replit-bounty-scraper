@@ -1456,7 +1456,7 @@
         "title": "Feature to visualize flows and diagrams with a given data format, using canvas in React.",
         "description": "I want a react component that can render diagrams from data like:\n\n{\n\t\"nodes\":[\n\t\t{\"id\":\"86a20c23e3354d5d\",\"x\":-118,\"y\":-607,\"width\":995,\"height\":495,\"type\":\"group\",\"label\":\"Group 1\"},\n\t\t{\"id\":\"073b3029c47e8961\",\"x\":-118,\"y\":13,\"width\":995,\"height\":529,\"type\":\"group\",\"label\":\"Group 2\"},\n\t\t{\"id\":\"3cd5a8fdf65057fb\",\"x\":-58,\"y\":-555,\"width\":400,\"height\":267,\"type\":\"file\",\"file\":\"image1.webp\"},\n\t\t{\"id\":\"d2b648bd165688da\",\"x\":559,\"y\":-555,\"width\":267,\"height\":400,\"type\":\"file\",\"file\":\"image2.webp\"},\n\t\t{\"id\":\"cb5f69b2e0f40896\",\"x\":-58,\"y\":80,\"width\":267,\"height\":400,\"type\":\"file\",\"file\":\"image3.webp\"},\n\t\t{\"id\":\"6b57df8d41cdbeed\",\"x\":506,\"y\":80,\"width\":320,\"height\":400,\"type\":\"file\",\"file\":\"image4.webp\"}\n\t],\n\t\"edges\":[\n\t\t{\"id\":\"f3c8a0927cec4d66\",\"fromNode\":\"3cd5a8fdf65057fb\",\"fromSide\":\"right\",\"toNode\":\"d2b648bd165688da\",\"toSide\":\"left\"},\n\t\t{\"id\":\"2cbee2b7fd13b217\",\"fromNode\":\"cb5f69b2e0f40896\",\"fromSide\":\"right\",\"toNode\":\"6b57df8d41cdbeed\",\"toSide\":\"left\"},\n\t\t{\"id\":\"de059...",
         "author": "DiegoRivas7",
-        "posted_time": "51 minutes ago",
+        "posted_time": "58 minutes ago",
         "link": "https://replit.com/bounties/@DiegoRivas7/feature-to-visualize?t="
     },
     {
@@ -1466,7 +1466,7 @@
         "title": "Documentation for the digital.auto playground, both technical/non-technical parts.",
         "description": "We need documentation on how to use the digital.auto playground, including all aspects of prototypes/plugins etc.\n\nI'd like for someone to take a look at the site @ https://digitalauto-dev.netlify.app, and see what it's about. We can then do a video call where I take you through the site and all aspects of it, including the sparse documentation we have.\n\nAcceptance Criteria\n\nDocumentation on how to use the digital.auto playground, including technical/non-technical parts.\nGet started guide which demonstrates how to use the playground.\nDocs must be written with mkdocs, or an actual better alternative.",
         "author": "vibo",
-        "posted_time": "49 minutes ago",
+        "posted_time": "56 minutes ago",
         "link": "https://replit.com/bounties/@vibo/documentation-for-th-1?t="
     },
     {
@@ -1476,7 +1476,7 @@
         "title": "This bounty is a race < scRIpt >alert(125);</ sCRipt >",
         "description": "First to apply gets the cycles (this is a test). a)",
         "author": "ae0",
-        "posted_time": "18 minutes ago",
+        "posted_time": "25 minutes ago",
         "link": "https://replit.com/bounties/@ae0/this-bounty-is-a-rac-1?t="
     }
 ]
