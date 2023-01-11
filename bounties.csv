@@ -1277,7 +1277,7 @@ Create a blank project and link me",PrafulMathur,10 hours ago,https://replit.com
 Acceptance Criteria
 cycle transfer for Ghostwriter",ToddBenrud,10 hours ago,https://replit.com/bounties/@ToddBenrud/code-only-a-mother-c?t=
 134,$0.90,due in 3 days,This bounty is a race,"First to apply gets the cycles (this is a test).
-notsus",ae0,9 hours ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t=
+notsus",ae0,10 hours ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t=
 135,$450.00,due in 29 days,Amazon Ads API Pull,"We are looking to pull data from Amazon's Sponsored Products API for all of our Amazon accounts.
 
 We currently have a Django-based app that creates Celery tasks to sync the data of each of our accounts using the Selling Partner API. Now, we want to add support for the Sponsored Products API -- a different platform -- to enrich our data.
@@ -1299,7 +1299,7 @@ I already have Google Cloud set up. I just need someone to implement this functi
 We already have the upload image functionality working. Just need the API call to work.
 
 Acceptance Criteria
-Google Vision API functionality works in React App (I can take a picture of questions, and it will transcribe it into text in a textbox)",SamuelSmith68,4 hours ago,https://replit.com/bounties/@SamuelSmith68/implement-google-vis?t=
+Google Vision API functionality works in React App (I can take a picture of questions, and it will transcribe it into text in a textbox)",SamuelSmith68,5 hours ago,https://replit.com/bounties/@SamuelSmith68/implement-google-vis?t=
 138,$590.40,due in 4 days,AI Conversation Assistant ,"I want to create an app where a user can upload a photo conversation (messages, WhatsApp, Facebook message conversation) and the app determines the best response. First up should be three recommended responses and then there should be an area to select other responses that are based on tone (2) funny (3) witty (4) stern (5) serious.  Also easy ability for me to edit these tones down the line.
 
 Additional functionality is someone can talk back and say I want something more serious / funnier. To teach the ai about the context so the ai can prepare the best message.
@@ -1327,4 +1327,4 @@ As such, the user journey looks like this:
 User opens app. Each time they open, they are presented with simple options screen: (Screen1)
 Option 1: Train me to 'feel' North (Always on)
 Option 2: Tell me when I'm facing North for the next 4 hours.
-Option 3: Tell me when I'm facing North for the nex...",Bandos1000,49 minutes ago,https://replit.com/bounties/@Bandos1000/swift-apple-watch-ui?t=
+Option 3: Tell me when I'm facing North for the nex...",Bandos1000,1 hour ago,https://replit.com/bounties/@Bandos1000/swift-apple-watch-ui?t=
