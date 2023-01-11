@@ -1243,7 +1243,7 @@ Calibration system where a window pops up where it shows ""+"" on the screen and
 
 Technical Detail
 How to move cursor on mac: https://gist.github.com/prafulfillment/16b52a55e676d0aac845451d8a6ec301
-Eye retina tracking works with OpenCV",PrafulMathur,18 hours ago,https://replit.com/bounties/@PrafulMathur/python-using-eye-tra?t=
+Eye retina tracking works with OpenCV",PrafulMathur,19 hours ago,https://replit.com/bounties/@PrafulMathur/python-using-eye-tra?t=
 131,$225.00,due in 2 days,AI Inventory Analytics ,"We are having trouble figuring it out how much inventory we should buy based on our historical sales data for our Shopify Stores.
 
 Acceptance Criteria
@@ -1251,7 +1251,7 @@ A shopify App based on ChatGPT (Open AI) that will forecast how much inventory w
 By analyzing our sales data, the app needs to predict how much inventory we will need in the future so we can plan our reorders.
 Low-Stock Alerts: We need to be alerted when stock is running low on a particular item so we can reorder before we run out
 
-Technical Details",Ericmuks,18 hours ago,https://replit.com/bounties/@Ericmuks/ai-inventory-analyti?t=
+Technical Details",Ericmuks,19 hours ago,https://replit.com/bounties/@Ericmuks/ai-inventory-analyti?t=
 132,$45.00,due in 2 days,Flutter: Sign in page #supabase #riverpod,"Sign in/up page that authenticates me with supabase auth.
 
 Looks like: https://dribbble.com/shots/14605167/attachments/6297430?mode=media
@@ -1277,7 +1277,7 @@ Create a blank project and link me",PrafulMathur,18 hours ago,https://replit.com
 Acceptance Criteria
 cycle transfer for Ghostwriter",ToddBenrud,18 hours ago,https://replit.com/bounties/@ToddBenrud/code-only-a-mother-c?t=
 134,$0.90,due in 2 days,This bounty is a race,"First to apply gets the cycles (this is a test).
-notsus",ae0,17 hours ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t=
+notsus",ae0,18 hours ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t=
 135,$450.00,due in 28 days,Amazon Ads API Pull,"We are looking to pull data from Amazon's Sponsored Products API for all of our Amazon accounts.
 
 We currently have a Django-based app that creates Celery tasks to sync the data of each of our accounts using the Selling Partner API. Now, we want to add support for the Sponsored Products API -- a different platform -- to enrich our data.
@@ -1291,7 +1291,7 @@ An easy-to-use webapp that lets the user submit their own podcast, and listen ba
 Users can submit podcasts in any way that's easy-to-use, such as via Apple podcast link (e.g.https://podcasts.apple.com/us/podcast/season-2-ep-1-the-cursed-production-of-cyber-cowboys/id1561306479?i=1000578054491)
 Users should be able to play, pause, rewind 10 seconds, fast-forward 10 seconds, and scrub through the podcast.
 It would be super cool if you can adjust the playback speed, but it's not really necessary. Another idea-- it would be really awesome if the playback speed slowly oscillated from 0.25x speed to 0.35x speed, and back and forth. Maybe you would get a really slow Doppler effect?
-In designing the web app, feel free to use as many CSS3 transforms and an...",dean-yim,12 hours ago,https://replit.com/bounties/@dean-yim/create-a-podcast-web?t=
+In designing the web app, feel free to use as many CSS3 transforms and an...",dean-yim,13 hours ago,https://replit.com/bounties/@dean-yim/create-a-podcast-web?t=
 137,$18.00,due in 3 days,Implement Google Vision API in React app to grab text from an image,"I need help implementing Google Vision's API in my React App. I have a feature that I want to use where a student can take a picture of a problem from their computer or somewhere, and the Google Vision API transcribes it into machine-readable text (called OCR). This will then paste the message into a textbox.
 
 I already have Google Cloud set up. I just need someone to implement this functionality within 1 or 2 days.
@@ -1299,7 +1299,7 @@ I already have Google Cloud set up. I just need someone to implement this functi
 We already have the upload image functionality working. Just need the API call to work.
 
 Acceptance Criteria
-Google Vision API functionality works in React App (I can take a picture of questions, and it will transcribe it into text in a textbox)",SamuelSmith68,12 hours ago,https://replit.com/bounties/@SamuelSmith68/implement-google-vis?t=
+Google Vision API functionality works in React App (I can take a picture of questions, and it will transcribe it into text in a textbox)",SamuelSmith68,13 hours ago,https://replit.com/bounties/@SamuelSmith68/implement-google-vis?t=
 138,$590.40,due in 4 days,AI Conversation Assistant ,"I want to create an app where a user can upload a photo conversation (messages, WhatsApp, Facebook message conversation) and the app determines the best response. First up should be three recommended responses and then there should be an area to select other responses that are based on tone (2) funny (3) witty (4) stern (5) serious.  Also easy ability for me to edit these tones down the line.
 
 Additional functionality is someone can talk back and say I want something more serious / funnier. To teach the ai about the context so the ai can prepare the best message.
