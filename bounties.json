@@ -1396,7 +1396,7 @@
         "title": "AI Conversation Assistant ",
         "description": "I want to create an app where a user can upload a photo conversation (messages, WhatsApp, Facebook message conversation) and the app determines the best response. First up should be three recommended responses and then there should be an area to select other responses that are based on tone (2) funny (3) witty (4) stern (5) serious.  Also easy ability for me to edit these tones down the line.\n\nAdditional functionality is someone can talk back and say I want something more serious / funnier. To teach the ai about the context so the ai can prepare the best message.\n\nThe goal is for people who struggle with flirting and conversation (i.e. anxiety of what to say) and acts as an assisting helping with a response or response prompts. The responses should be based off the semantics of the previous conversation and to try to fit the tone of the conversation and not sound like a robot. Ideally using an AI partner (maybe chatGPT or better solution) that is most trained in con...",
         "author": "Zackman8",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@Zackman8/ai-conversation-assi?t="
     },
     {
@@ -1406,7 +1406,7 @@
         "title": "[Swift] \u231a\ufe0f Apple Watch UI updates - Small WatchOS App",
         "description": "Looking for some UI and functionality updates for a WatchOS application.\nCurrently functional here. Repl: https://replit.com/@Bandos1000/FaceNorthWatchOS#CompassHeading.swift\n\nOriginal bounty here:\nhttps://replit.com/bounties/@Bandos1000/apple-watch-compass?t=details\n\nI am looking for updates to add some functionality after testing. I have Xcode and will be able to test/run this on my developer account after bounty is delivered.\n\nBig picture:\nNeed to make sure Magnometer continues providing data even if watch screen is off. (But not during sleep/theatre mode)\n\nApplication:\nThe goal of this app is to train users over time to be able to 'feel' North without a wrist vibration.\nAs such, the user journey looks like this:\nUser opens app. Each time they open, they are presented with simple options screen: (Screen1)\nOption 1: Train me to 'feel' North (Always on)\nOption 2: Tell me when I'm facing North for the next 4 hours.\nOption 3: Tell me when I'm facing North for the nex...",
         "author": "Bandos1000",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/swift-apple-watch-ui?t="
     },
     {
@@ -1416,7 +1416,7 @@
         "title": "Adjusting original calibration of power meter",
         "description": "To adjust the power readings of a cycling power meter we need a tool to adjust the factory calibration. This could be done with Bluetooth. When adjusting the original calibration the power readings can be adjusted to higher or lower.\n\nAcceptance Criteria\nYou need some knowledge on Bluetooth protocols.\nhttps://www.bluetooth.com/specifications/specs/cycling-power-profile-1-1/",
         "author": "Lucasden",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@Lucasden/adjusting-original-c?t="
     },
     {
@@ -1426,7 +1426,7 @@
         "title": "Help me create a custom website in HTML, CSS, and JS.",
         "description": "Help me create a simple, animated website that is easily customizable. Im only now learning HTML CSS JS so you\u2019ll be doing most of the work\n\nAcceptance Criteria:\nAnimated website with three main sections and one final section at the bottom for contact info,  with a easily editable code.",
         "author": "GiggaPoggers",
-        "posted_time": "3 minutes ago",
+        "posted_time": "29 minutes ago",
         "link": "https://replit.com/bounties/@GiggaPoggers/help-me-create-a-cus?t="
     }
 ]
