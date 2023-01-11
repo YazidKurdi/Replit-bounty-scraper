@@ -1355,7 +1355,7 @@ document.getElementById(""my_id"").innerHTML += (y);
 and turn it into this
 $phpvar = $dom->getElementById('my_id')->textContent;
 but this doesn't work.
-please help",Altify-Developm,4 hours ago,https://replit.com/bounties/@Altify-Developm/how-to-set-a-php-var?t=
+please help",Altify-Developm,5 hours ago,https://replit.com/bounties/@Altify-Developm/how-to-set-a-php-var?t=
 145,$450.00,due in 6 days,"Feature to visualize flows and diagrams with a given data format, using canvas in React.","I want a react component that can render diagrams from data like:
 
 {
