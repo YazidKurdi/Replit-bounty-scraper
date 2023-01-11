@@ -1356,7 +1356,7 @@
         "title": "Amazon Ads API Pull",
         "description": "We are looking to pull data from Amazon's Sponsored Products API for all of our Amazon accounts.\n\nWe currently have a Django-based app that creates Celery tasks to sync the data of each of our accounts using the Selling Partner API. Now, we want to add support for the Sponsored Products API -- a different platform -- to enrich our data.\n\nAcceptance Criteria\nExperience with python, Django and Celery. Nice to have: experience with Amazon's APIs.",
         "author": "SantiagoNestare",
-        "posted_time": "22 hours ago",
+        "posted_time": "23 hours ago",
         "link": "https://replit.com/bounties/@SantiagoNestare/amazon-ads-api-pull?t="
     },
     {
@@ -1446,7 +1446,7 @@
         "title": "How to set a php variable to a javascript variable",
         "description": "This should not be that hard\nI know that this seems like it should be so easy since PHP \"works\" well with javascript, but I have spent several hours poring over php.net documentation and have been to many geeksforgeeks blogs that are filled of ads and useless information, I just want to be able to take this\ndocument.getElementById(\"my_id\").innerHTML += (y);\nand turn it into this\n$phpvar = $dom->getElementById('my_id')->textContent;\nbut this doesn't work.\nplease help",
         "author": "Altify-Developm",
-        "posted_time": "31 minutes ago",
+        "posted_time": "41 minutes ago",
         "link": "https://replit.com/bounties/@Altify-Developm/how-to-set-a-php-var?t="
     }
 ]

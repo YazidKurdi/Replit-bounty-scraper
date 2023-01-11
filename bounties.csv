@@ -1283,7 +1283,7 @@ notsus",ae0,23 hours ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t
 We currently have a Django-based app that creates Celery tasks to sync the data of each of our accounts using the Selling Partner API. Now, we want to add support for the Sponsored Products API -- a different platform -- to enrich our data.
 
 Acceptance Criteria
-Experience with python, Django and Celery. Nice to have: experience with Amazon's APIs.",SantiagoNestare,22 hours ago,https://replit.com/bounties/@SantiagoNestare/amazon-ads-api-pull?t=
+Experience with python, Django and Celery. Nice to have: experience with Amazon's APIs.",SantiagoNestare,23 hours ago,https://replit.com/bounties/@SantiagoNestare/amazon-ads-api-pull?t=
 136,$90.00,due in 5 days,Create a podcast webapp that plays podcasts at 0.25x speed,"Sometimes you have 100 hours of free time, but only 25 hours of podcasts to listen to. Instead of listening to your favorite podcasts 4 times each, why not listen once at 0.25x speed?
 
 Acceptance Criteria
@@ -1355,4 +1355,4 @@ document.getElementById(""my_id"").innerHTML += (y);
 and turn it into this
 $phpvar = $dom->getElementById('my_id')->textContent;
 but this doesn't work.
-please help",Altify-Developm,31 minutes ago,https://replit.com/bounties/@Altify-Developm/how-to-set-a-php-var?t=
+please help",Altify-Developm,41 minutes ago,https://replit.com/bounties/@Altify-Developm/how-to-set-a-php-var?t=
