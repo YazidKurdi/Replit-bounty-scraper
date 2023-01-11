@@ -1234,7 +1234,7 @@ Then use the Trinsic dashboard to issue the credential to my email.
 Technical Details
 
 Link to Project",ZacharyJones27,10 hours ago,https://replit.com/bounties/@ZacharyJones27/issue-a-credential-w?t=
-130,$225.00,due in 8 days,Python: Using eye tracking to control cursor on Mac,"I have a dual monitor computer and I want to use eye tracking to move my cursor across the two monitors.
+130,$225.00,due in 7 days,Python: Using eye tracking to control cursor on Mac,"I have a dual monitor computer and I want to use eye tracking to move my cursor across the two monitors.
 
 Acceptance Criteria
 Eye tracking moves the cursor on an absolute basis i.e. where my eyes are is where the cursor moves.
@@ -1244,7 +1244,7 @@ Calibration system where a window pops up where it shows ""+"" on the screen and
 Technical Detail
 How to move cursor on mac: https://gist.github.com/prafulfillment/16b52a55e676d0aac845451d8a6ec301
 Eye retina tracking works with OpenCV",PrafulMathur,18 hours ago,https://replit.com/bounties/@PrafulMathur/python-using-eye-tra?t=
-131,$225.00,due in 3 days,AI Inventory Analytics ,"We are having trouble figuring it out how much inventory we should buy based on our historical sales data for our Shopify Stores.
+131,$225.00,due in 2 days,AI Inventory Analytics ,"We are having trouble figuring it out how much inventory we should buy based on our historical sales data for our Shopify Stores.
 
 Acceptance Criteria
 A shopify App based on ChatGPT (Open AI) that will forecast how much inventory we need for our Shopify Stores by analyzing our sales data and identifying trends in demand to help make purchasing decisions.
@@ -1252,7 +1252,7 @@ By analyzing our sales data, the app needs to predict how much inventory we will
 Low-Stock Alerts: We need to be alerted when stock is running low on a particular item so we can reorder before we run out
 
 Technical Details",Ericmuks,18 hours ago,https://replit.com/bounties/@Ericmuks/ai-inventory-analyti?t=
-132,$45.00,due in 3 days,Flutter: Sign in page #supabase #riverpod,"Sign in/up page that authenticates me with supabase auth.
+132,$45.00,due in 2 days,Flutter: Sign in page #supabase #riverpod,"Sign in/up page that authenticates me with supabase auth.
 
 Looks like: https://dribbble.com/shots/14605167/attachments/6297430?mode=media
 
@@ -1271,20 +1271,20 @@ Use Supabase keys to auth (create a free account)
 Use riverpod for state managment
 
 Link to Project
-Create a blank project and link me",PrafulMathur,17 hours ago,https://replit.com/bounties/@PrafulMathur/flutter-sign-in-page?t=
+Create a blank project and link me",PrafulMathur,18 hours ago,https://replit.com/bounties/@PrafulMathur/flutter-sign-in-page?t=
 133,$90.00,closed,code only a mother could love,"cycle transfer for Ghostwriter
 
 Acceptance Criteria
-cycle transfer for Ghostwriter",ToddBenrud,17 hours ago,https://replit.com/bounties/@ToddBenrud/code-only-a-mother-c?t=
-134,$0.90,due in 3 days,This bounty is a race,"First to apply gets the cycles (this is a test).
+cycle transfer for Ghostwriter",ToddBenrud,18 hours ago,https://replit.com/bounties/@ToddBenrud/code-only-a-mother-c?t=
+134,$0.90,due in 2 days,This bounty is a race,"First to apply gets the cycles (this is a test).
 notsus",ae0,17 hours ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac?t=
-135,$450.00,due in 29 days,Amazon Ads API Pull,"We are looking to pull data from Amazon's Sponsored Products API for all of our Amazon accounts.
+135,$450.00,due in 28 days,Amazon Ads API Pull,"We are looking to pull data from Amazon's Sponsored Products API for all of our Amazon accounts.
 
 We currently have a Django-based app that creates Celery tasks to sync the data of each of our accounts using the Selling Partner API. Now, we want to add support for the Sponsored Products API -- a different platform -- to enrich our data.
 
 Acceptance Criteria
 Experience with python, Django and Celery. Nice to have: experience with Amazon's APIs.",SantiagoNestare,17 hours ago,https://replit.com/bounties/@SantiagoNestare/amazon-ads-api-pull?t=
-136,$90.00,due in 6 days,Create a podcast webapp that plays podcasts at 0.25x speed,"Sometimes you have 100 hours of free time, but only 25 hours of podcasts to listen to. Instead of listening to your favorite podcasts 4 times each, why not listen once at 0.25x speed?
+136,$90.00,due in 5 days,Create a podcast webapp that plays podcasts at 0.25x speed,"Sometimes you have 100 hours of free time, but only 25 hours of podcasts to listen to. Instead of listening to your favorite podcasts 4 times each, why not listen once at 0.25x speed?
 
 Acceptance Criteria
 An easy-to-use webapp that lets the user submit their own podcast, and listen back at 0.25x speed.
@@ -1292,7 +1292,7 @@ Users can submit podcasts in any way that's easy-to-use, such as via Apple podca
 Users should be able to play, pause, rewind 10 seconds, fast-forward 10 seconds, and scrub through the podcast.
 It would be super cool if you can adjust the playback speed, but it's not really necessary. Another idea-- it would be really awesome if the playback speed slowly oscillated from 0.25x speed to 0.35x speed, and back and forth. Maybe you would get a really slow Doppler effect?
 In designing the web app, feel free to use as many CSS3 transforms and an...",dean-yim,12 hours ago,https://replit.com/bounties/@dean-yim/create-a-podcast-web?t=
-137,$18.00,due in 4 days,Implement Google Vision API in React app to grab text from an image,"I need help implementing Google Vision's API in my React App. I have a feature that I want to use where a student can take a picture of a problem from their computer or somewhere, and the Google Vision API transcribes it into machine-readable text (called OCR). This will then paste the message into a textbox.
+137,$18.00,due in 3 days,Implement Google Vision API in React app to grab text from an image,"I need help implementing Google Vision's API in my React App. I have a feature that I want to use where a student can take a picture of a problem from their computer or somewhere, and the Google Vision API transcribes it into machine-readable text (called OCR). This will then paste the message into a textbox.
 
 I already have Google Cloud set up. I just need someone to implement this functionality within 1 or 2 days.
 
@@ -1305,12 +1305,12 @@ Google Vision API functionality works in React App (I can take a picture of ques
 Additional functionality is someone can talk back and say I want something more serious / funnier. To teach the ai about the context so the ai can prepare the best message.
 
 The goal is for people who struggle with flirting and conversation (i.e. anxiety of what to say) and acts as an assisting helping with a response or response prompts. The responses should be based off the semantics of the previous conversation and to try to fit the tone of the conversation and not sound like a robot. Ideally using an AI partner (maybe chatGPT or better solution) that is most trained in con...",ZachSchofel,28 minutes ago,https://replit.com/bounties/@ZachSchofel/ai-conversation-assi?t=
-139,$590.40,due in 8 days,AI Conversation Assistant ,"I want to create an app where a user can upload a photo conversation (messages, WhatsApp, Facebook message conversation) and the app determines the best response. First up should be three recommended responses and then there should be an area to select other responses that are based on tone (2) funny (3) witty (4) stern (5) serious.  Also easy ability for me to edit these tones down the line.
+139,$590.40,due in 7 days,AI Conversation Assistant ,"I want to create an app where a user can upload a photo conversation (messages, WhatsApp, Facebook message conversation) and the app determines the best response. First up should be three recommended responses and then there should be an area to select other responses that are based on tone (2) funny (3) witty (4) stern (5) serious.  Also easy ability for me to edit these tones down the line.
 
 Additional functionality is someone can talk back and say I want something more serious / funnier. To teach the ai about the context so the ai can prepare the best message.
 
-The goal is for people who struggle with flirting and conversation (i.e. anxiety of what to say) and acts as an assisting helping with a response or response prompts. The responses should be based off the semantics of the previous conversation and to try to fit the tone of the conversation and not sound like a robot. Ideally using an AI partner (maybe chatGPT or better solution) that is most trained in con...",Zackman8,9 hours ago,https://replit.com/bounties/@Zackman8/ai-conversation-assi?t=
-140,$10.00,due in 5 days,[Swift] ⌚️ Apple Watch UI updates - Small WatchOS App,"Looking for some UI and functionality updates for a WatchOS application.
+The goal is for people who struggle with flirting and conversation (i.e. anxiety of what to say) and acts as an assisting helping with a response or response prompts. The responses should be based off the semantics of the previous conversation and to try to fit the tone of the conversation and not sound like a robot. Ideally using an AI partner (maybe chatGPT or better solution) that is most trained in con...",Zackman8,10 hours ago,https://replit.com/bounties/@Zackman8/ai-conversation-assi?t=
+140,$10.00,due in 4 days,[Swift] ⌚️ Apple Watch UI updates - Small WatchOS App,"Looking for some UI and functionality updates for a WatchOS application.
 Currently functional here. Repl: https://replit.com/@Bandos1000/FaceNorthWatchOS#CompassHeading.swift
 
 Original bounty here:
@@ -1327,4 +1327,4 @@ As such, the user journey looks like this:
 User opens app. Each time they open, they are presented with simple options screen: (Screen1)
 Option 1: Train me to 'feel' North (Always on)
 Option 2: Tell me when I'm facing North for the next 4 hours.
-Option 3: Tell me when I'm facing North for the nex...",Bandos1000,8 hours ago,https://replit.com/bounties/@Bandos1000/swift-apple-watch-ui?t=
+Option 3: Tell me when I'm facing North for the nex...",Bandos1000,9 hours ago,https://replit.com/bounties/@Bandos1000/swift-apple-watch-ui?t=
