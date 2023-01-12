@@ -1404,7 +1404,7 @@ Acceptance Criteria
 151,$4.50,due in 5 days,Custom Tip Chrome Extension,"I want to easily be able to tip custom cycles on any repl without having to go to another website or repl.
 
 Acceptance Criteria
-You must be able to create a google chrome browser extension that creates an input and button that fits in with the UI (preferably works with themes) and allows you to tip a custom amount of cycles. I also would like the extension code to be clean and organized (preferably commented). The extension can use jQuery but anything else is prohibited.",goblinjuice,13 hours ago,https://replit.com/bounties/@goblinjuice/custom-tip-chrome-ex?t=
+You must be able to create a google chrome browser extension that creates an input and button that fits in with the UI (preferably works with themes) and allows you to tip a custom amount of cycles. I also would like the extension code to be clean and organized (preferably commented). The extension can use jQuery but anything else is prohibited.",goblinjuice,14 hours ago,https://replit.com/bounties/@goblinjuice/custom-tip-chrome-ex?t=
 152,$45.00,due in 8 days,Calendar of Aeroplan Business Class Award Availability from LAX,"Create a website with a calendar view of standard business and first-class award availability from LAX to major international destinations outside of North America via scraping Air Canada's Aeroplan website.
 
 One should be able to select the month of Feb 2023 and hover over the date Feb 10th and have a dropdown menu of all destinations with bookable business and first-class awards at standard award chart prices.
@@ -1440,7 +1440,7 @@ The model (text-davinci-003 is probably best), has been trained on our company's
    Model type (defaults to text-davinci-003)
    Max Tokens returned from the model (defaults to 1024)
    Temperature
-   Stop words with support for newlines (similar to the OpenAI...",nish-b,8 hours ago,https://replit.com/bounties/@nish-b/chrome-extension-cus?t=
+   Stop words with support for newlines (similar to the OpenAI...",nish-b,9 hours ago,https://replit.com/bounties/@nish-b/chrome-extension-cus?t=
 156,$252.00,due in 6 days,JSON Import / Update from Google Sheets,"Create Registration / Login Page with Google Auth
 
 Create Import data from REST API page including form that includes fields:
@@ -1470,3 +1470,16 @@ First import both of these successfully and try to use them in a file to prove i
 Acceptance Criteria
 Backend hosted on App Engine
 Works",SamuelSmith68,2 hours ago,https://replit.com/bounties/@SamuelSmith68/host-python-backend?t=
+159,$45.00,due in 6 days,Use OpenAI API to properly order thoughts/ideas using Python code to make an argument or a story,"I want to use a Python program to supply GPT3 with a list of ideas/ concepts and have the AI order these logically. Sort of like making an argument or story.
+
+Should be able to take , say 5  concepts which are two or three sentences long (call these mini paragraphs) and put these mini paragraphs in logical order.
+
+Acceptance Criteria
+Python code executing the above task on  3 sample  ""mini paragraph"" series of ideas.  Each series of ideas must contain at least 4 concepts (or 4 mini paragraphs).
+If one or more of the supplied concepts doesn't fit in logically with the others, it should just be left out of the resulting argument. ""Unit testing "" should include a couple of cases where a concept or two is left out because they don't fit. (this might be the tricky part)
+
+The Bounty hunter can likely find / construct lots of examples from articles on line or from tweet threads.",YorkvilleDS,13 minutes ago,https://replit.com/bounties/@YorkvilleDS/use-openai-api-to-pr?t=
+160,$9.00,due in 13 days,Discordpy - call task/send message on interval,"I am attempting to create a Discord bot using Python that checks an API endpoint every x minutes and sends a message if something is different. I have tried a few things but each attempt results in an error
+
+Acceptance Criteria
+A working Discord bot that can call a task every x minutes",--smallguy89--,1 second ago,https://replit.com/bounties/@--smallguy89--/discordpy-call-tasks?t=
