@@ -1556,7 +1556,7 @@
         "title": "Chrome extension: Customer service responder helper using trained GPT-3",
         "description": "We want to make it quick and easy for customer service reps at our company to quickly and easily respond to tickets in ZenDesk.\n\nWe want to build a tool that helps them craft the perfect response to the ticket they are looking at, within seconds, without having to parse through existing template responses.\n\nThe tool should work like the following:\nCan be triggered manually using a shortcut (say control+space).\nThe prompt sent to the model includes the ZenDesk ticket you're responding to. If the ticket chain is too long it needs to be truncated.\nCan complete entire ticket responses.\nThe model (text-davinci-003 is probably best), has been trained on our company's FAQ docs (which we will provide to you)\n   The user's OpenAI API Key\n   A custom prompt (with a default prompt as described above)\n   Model type (defaults to text-davinci-003)\n   Max Tokens returned from the model (defaults to 1024)\n   Temperature\n   Stop words with support for newlines (similar to the OpenAI...",
         "author": "nish-b",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@nish-b/chrome-extension-cus?t="
     },
     {
@@ -1566,7 +1566,17 @@
         "title": "JSON Import / Update from Google Sheets",
         "description": "Create Registration / Login Page with Google Auth\n\nCreate Import data from REST API page including form that includes fields:\nProvide the JSON URL - the URL of the endpoint to import data from\nSpecify the optional parameters such as HTTP method, HTTP headers, URL query string, etc.\nSpecify the fields to be retrieved from the JSON API\nSelect Google Sheets as a destination application, connect your Google account and select a Google Sheets file and a sheet to import JSON data to\nButton to start import\nPopulate Google Sheet with Data with a header row for the column names\nSuccess Indicator\nNote: A sample API and dataset will be provided on acceptance, using the Strapi.io v3 API : https://docs-v3.strapi.io/developer-docs/latest/developer-resources/content-api/content-api.html#endpoints\n\nCreate Update API data from Google Sheets page including form that includes fields:\nGoogle Sheet URL (should be shared as anyone with link)\nHeader columns in Google Sheet\nIdentify primar...",
         "author": "RobertHolliday",
-        "posted_time": "41 minutes ago",
+        "posted_time": "60 minutes ago",
         "link": "https://replit.com/bounties/@RobertHolliday/json-import-update-f?t="
+    },
+    {
+        "index": "157",
+        "price": "$180.00",
+        "due_days": "due in 4 days",
+        "title": "Fix yarn, vite, import errors for some packages",
+        "description": "Here is our repo: https://github.com/uselotus/lotus\nI am trying to import packages like '@uiw/react-codemirror' and sql-formatter. But am getting the error here consistently. I'm clearly missing something.\n\n Internal server error: Failed to resolve import \"sql-formatter\" from \"src/components/Metrics/MetricDetails.tsx\". Does the file exist?\n\nAcceptance Criteria\nFork the repo and create a PR that you can merge in to main once its ready.\nFirst import both of these successfully and try to use them in a file to prove it. In addition please lay out the steps you took to solve this issue and what I can do in the future to download packages consistently while avoiding this.",
+        "author": "MikaelNida",
+        "posted_time": "4 minutes ago",
+        "link": "https://replit.com/bounties/@MikaelNida/fix-yarn-vite-import?t="
     }
 ]

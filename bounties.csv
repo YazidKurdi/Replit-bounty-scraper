@@ -1440,7 +1440,7 @@ The model (text-davinci-003 is probably best), has been trained on our company's
    Model type (defaults to text-davinci-003)
    Max Tokens returned from the model (defaults to 1024)
    Temperature
-   Stop words with support for newlines (similar to the OpenAI...",nish-b,2 hours ago,https://replit.com/bounties/@nish-b/chrome-extension-cus?t=
+   Stop words with support for newlines (similar to the OpenAI...",nish-b,3 hours ago,https://replit.com/bounties/@nish-b/chrome-extension-cus?t=
 156,$252.00,due in 7 days,JSON Import / Update from Google Sheets,"Create Registration / Login Page with Google Auth
 
 Create Import data from REST API page including form that includes fields:
@@ -1456,4 +1456,12 @@ Note: A sample API and dataset will be provided on acceptance, using the Strapi.
 Create Update API data from Google Sheets page including form that includes fields:
 Google Sheet URL (should be shared as anyone with link)
 Header columns in Google Sheet
-Identify primar...",RobertHolliday,41 minutes ago,https://replit.com/bounties/@RobertHolliday/json-import-update-f?t=
+Identify primar...",RobertHolliday,60 minutes ago,https://replit.com/bounties/@RobertHolliday/json-import-update-f?t=
+157,$180.00,due in 4 days,"Fix yarn, vite, import errors for some packages","Here is our repo: https://github.com/uselotus/lotus
+I am trying to import packages like '@uiw/react-codemirror' and sql-formatter. But am getting the error here consistently. I'm clearly missing something.
+
+ Internal server error: Failed to resolve import ""sql-formatter"" from ""src/components/Metrics/MetricDetails.tsx"". Does the file exist?
+
+Acceptance Criteria
+Fork the repo and create a PR that you can merge in to main once its ready.
+First import both of these successfully and try to use them in a file to prove it. In addition please lay out the steps you took to solve this issue and what I can do in the future to download packages consistently while avoiding this.",MikaelNida,4 minutes ago,https://replit.com/bounties/@MikaelNida/fix-yarn-vite-import?t=
