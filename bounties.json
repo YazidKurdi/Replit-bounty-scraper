@@ -1486,7 +1486,7 @@
         "title": "Use GPT to find the concept of the problem, look up an a framework for solving",
         "description": "I'd like to run a bot that takes a sentence describing a problem or issue, uses GPT to help understand the concept being described, and then provides as a response the most appropriate element of a database of pre-approved text responses from a Google Sheet. For example, it could respond with a relevant quote, life lesson, framework for solving the problem, etc.\n\nAcceptance Criteria:\nA discord bot or webpage that takes as an input this text string, and provides back the most appropriate item in a list of other pre-set text strings (e.g., frameworks) in the form of a Google Sheet. The creator can make their own sample pre-set data set if they like, to illustrate how it works. I'd also like to understand how the creator used GPT-3. (This may require embeddings or some other fine tuning.)",
         "author": "NabeelHyatt",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@NabeelHyatt/use-gpt-to-find-the?t="
     },
     {
@@ -1536,7 +1536,7 @@
         "title": "Point of Interest Website integrated with ChatGPT",
         "description": "We are looking to build an interactive travel site enabled by ChatGPT.\n\nThe website should include a home page with an interactive map and search functionality. Content on the website will be tied to specific locations on the map (we have already written the content). Pinpoints on the map will preview the point of interest, and then users can click to view separate pages on the website which will include the provided content. Each individual content page should include an integration with ChatGPT that users can ask questions to. There should be an open text box (very similar to the ChatGPT playground) for users to type in a prompt and for ChatGPT to respond.",
         "author": "JacksonPerry8",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@JacksonPerry8/point-of-interest-we?t="
     },
     {
@@ -1566,7 +1566,7 @@
         "title": "JSON Import / Update from Google Sheets",
         "description": "Create Registration / Login Page with Google Auth\n\nCreate Import data from REST API page including form that includes fields:\nProvide the JSON URL - the URL of the endpoint to import data from\nSpecify the optional parameters such as HTTP method, HTTP headers, URL query string, etc.\nSpecify the fields to be retrieved from the JSON API\nSelect Google Sheets as a destination application, connect your Google account and select a Google Sheets file and a sheet to import JSON data to\nButton to start import\nPopulate Google Sheet with Data with a header row for the column names\nSuccess Indicator\nNote: A sample API and dataset will be provided on acceptance, using the Strapi.io v3 API : https://docs-v3.strapi.io/developer-docs/latest/developer-resources/content-api/content-api.html#endpoints\n\nCreate Update API data from Google Sheets page including form that includes fields:\nGoogle Sheet URL (should be shared as anyone with link)\nHeader columns in Google Sheet\nIdentify primar...",
         "author": "RobertHolliday",
-        "posted_time": "32 minutes ago",
+        "posted_time": "41 minutes ago",
         "link": "https://replit.com/bounties/@RobertHolliday/json-import-update-f?t="
     }
 ]
