@@ -1526,7 +1526,7 @@
         "title": "Calendar of Aeroplan Business Class Award Availability from LAX",
         "description": "Create a website with a calendar view of standard business and first-class award availability from LAX to major international destinations outside of North America via scraping Air Canada's Aeroplan website.\n\nOne should be able to select the month of Feb 2023 and hover over the date Feb 10th and have a dropdown menu of all destinations with bookable business and first-class awards at standard award chart prices.\n\nFinding availability requires going to https://www.aircanada.com/ca/en/aco/home.html and selecting the \"book with aeroplan points\" box, entering LAX as the origin and some other major city like Singapore as the destination for a date and searching.\n\nFor example, if we search LAX to SIN on Feb 10, 2023, we find a flight listed as 87.5k points for business class that departs at 11:00, has 1 stop, takes 25hr55m, and arrives at 04:55 2 days later. But this flight is actually a mixed cabin award that is mostly in economy class so it doesn't count.\nWe also see other business class f...",
         "author": "GamblingGlobeTrotter",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@GamblingGlobeTrotter/calendar-of-aeroplan?t="
     },
     {
@@ -1546,7 +1546,7 @@
         "title": "redesign a landing page. End result should be responsive ",
         "description": "There's a landing page: https://replit.com/@LaurensSchunk/Podreel\nNeed to make some minor changes to it. Here's a screengrab: https://app.usebubbles.com/qJ3Wd8R5UW7g6dr7SkUHdM/nitin-s-video-recording\n\nI'll send the design file over email.\n\nAcceptance Criteria\nMake sure the landing page looks exactly like what's shown in the design file.\nPage should be responsive.\nIn areas where link has to be added, leave it blank and comment it in the code (so it's easier to find).\nI'll send the assets - GIFs and images - over email.",
         "author": "NitinMurali1",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@NitinMurali1/redesign-a-landing-p?t="
     },
     {
@@ -1566,7 +1566,7 @@
         "title": "JSON Import / Update from Google Sheets",
         "description": "Create Registration / Login Page with Google Auth\n\nCreate Import data from REST API page including form that includes fields:\nProvide the JSON URL - the URL of the endpoint to import data from\nSpecify the optional parameters such as HTTP method, HTTP headers, URL query string, etc.\nSpecify the fields to be retrieved from the JSON API\nSelect Google Sheets as a destination application, connect your Google account and select a Google Sheets file and a sheet to import JSON data to\nButton to start import\nPopulate Google Sheet with Data with a header row for the column names\nSuccess Indicator\nNote: A sample API and dataset will be provided on acceptance, using the Strapi.io v3 API : https://docs-v3.strapi.io/developer-docs/latest/developer-resources/content-api/content-api.html#endpoints\n\nCreate Update API data from Google Sheets page including form that includes fields:\nGoogle Sheet URL (should be shared as anyone with link)\nHeader columns in Google Sheet\nIdentify primar...",
         "author": "RobertHolliday",
-        "posted_time": "22 minutes ago",
+        "posted_time": "32 minutes ago",
         "link": "https://replit.com/bounties/@RobertHolliday/json-import-update-f?t="
     }
 ]
