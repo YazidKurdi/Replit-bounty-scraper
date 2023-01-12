@@ -1506,7 +1506,7 @@
         "title": "\u201cLink in Bio\u201d React Native App",
         "description": "I want to make a mobile app to connect my friends and I automatically on all social media platforms.\n\nI want to be able to connect to a friend on this app, and automatically follow on instagram, twitter, TikTok\u2026 etc. The friend would also follow me on those social medias after connecting on this app.\n\nIn order to invite people to connect on this app, a code is required.\n\nAcceptance Criteria\n\u2022 Create an account on the app\n\u2022 Connect with Instagram\n\u2022 Invite Friends with a expiring code\n\u2022 Automatically follow/connect on the app & instagram\n\u2022 Browse my connections list",
         "author": "Accomplice",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@Accomplice/link-in-bio-react-na?t="
     },
     {
@@ -1516,7 +1516,7 @@
         "title": "Custom Tip Chrome Extension",
         "description": "I want to easily be able to tip custom cycles on any repl without having to go to another website or repl.\n\nAcceptance Criteria\nYou must be able to create a google chrome browser extension that creates an input and button that fits in with the UI (preferably works with themes) and allows you to tip a custom amount of cycles. I also would like the extension code to be clean and organized (preferably commented). The extension can use jQuery but anything else is prohibited.",
         "author": "goblinjuice",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@goblinjuice/custom-tip-chrome-ex?t="
     },
     {
@@ -1538,5 +1538,15 @@
         "author": "JacksonPerry8",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@JacksonPerry8/point-of-interest-we?t="
+    },
+    {
+        "index": "154",
+        "price": "$1.80",
+        "due_days": "due in 4 days",
+        "title": "redesign a landing page. End result should be responsive ",
+        "description": "There's a landing page: https://replit.com/@LaurensSchunk/Podreel\nNeed to make some minor changes to it. Here's a screengrab: https://app.usebubbles.com/qJ3Wd8R5UW7g6dr7SkUHdM/nitin-s-video-recording\n\nI'll send the design file over email.\n\nAcceptance Criteria\nMake sure the landing page looks exactly like what's shown in the design file.\nPage should be responsive.\nIn areas where link has to be added, leave it blank and comment it in the code (so it's easier to find).\nI'll send the assets - GIFs and images - over email.",
+        "author": "NitinMurali1",
+        "posted_time": "9 minutes ago",
+        "link": "https://replit.com/bounties/@NitinMurali1/redesign-a-landing-p?t="
     }
 ]
