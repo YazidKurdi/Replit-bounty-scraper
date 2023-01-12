@@ -1556,7 +1556,7 @@
         "title": "Chrome extension: Customer service responder helper using trained GPT-3",
         "description": "We want to make it quick and easy for customer service reps at our company to quickly and easily respond to tickets in ZenDesk.\n\nWe want to build a tool that helps them craft the perfect response to the ticket they are looking at, within seconds, without having to parse through existing template responses.\n\nThe tool should work like the following:\nCan be triggered manually using a shortcut (say control+space).\nThe prompt sent to the model includes the ZenDesk ticket you're responding to. If the ticket chain is too long it needs to be truncated.\nCan complete entire ticket responses.\nThe model (text-davinci-003 is probably best), has been trained on our company's FAQ docs (which we will provide to you)\n   The user's OpenAI API Key\n   A custom prompt (with a default prompt as described above)\n   Model type (defaults to text-davinci-003)\n   Max Tokens returned from the model (defaults to 1024)\n   Temperature\n   Stop words with support for newlines (similar to the OpenAI...",
         "author": "nish-b",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@nish-b/chrome-extension-cus?t="
     },
     {
@@ -1578,5 +1578,15 @@
         "author": "MikaelNida",
         "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@MikaelNida/fix-yarn-vite-import?t="
+    },
+    {
+        "index": "158",
+        "price": "$18.00",
+        "due_days": "due in 3 days",
+        "title": "Host Python backend on Google Cloud App Engine",
+        "description": "We have a GitHub with a Python backend I would like to host on Google Cloud\u2019s servers. I need someone proficient in App Engine to upload it there, and there will be lots more work moving forward with Google Cloud!\n\nAcceptance Criteria\nBackend hosted on App Engine\nWorks",
+        "author": "SamuelSmith68",
+        "posted_time": "7 minutes ago",
+        "link": "https://replit.com/bounties/@SamuelSmith68/host-python-backend?t="
     }
 ]

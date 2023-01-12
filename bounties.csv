@@ -1440,7 +1440,7 @@ The model (text-davinci-003 is probably best), has been trained on our company's
    Model type (defaults to text-davinci-003)
    Max Tokens returned from the model (defaults to 1024)
    Temperature
-   Stop words with support for newlines (similar to the OpenAI...",nish-b,6 hours ago,https://replit.com/bounties/@nish-b/chrome-extension-cus?t=
+   Stop words with support for newlines (similar to the OpenAI...",nish-b,7 hours ago,https://replit.com/bounties/@nish-b/chrome-extension-cus?t=
 156,$252.00,due in 6 days,JSON Import / Update from Google Sheets,"Create Registration / Login Page with Google Auth
 
 Create Import data from REST API page including form that includes fields:
@@ -1465,3 +1465,8 @@ I am trying to import packages like '@uiw/react-codemirror' and sql-formatter. B
 Acceptance Criteria
 Fork the repo and create a PR that you can merge in to main once its ready.
 First import both of these successfully and try to use them in a file to prove it. In addition please lay out the steps you took to solve this issue and what I can do in the future to download packages consistently while avoiding this.",MikaelNida,4 hours ago,https://replit.com/bounties/@MikaelNida/fix-yarn-vite-import?t=
+158,$18.00,due in 3 days,Host Python backend on Google Cloud App Engine,"We have a GitHub with a Python backend I would like to host on Google Cloud’s servers. I need someone proficient in App Engine to upload it there, and there will be lots more work moving forward with Google Cloud!
+
+Acceptance Criteria
+Backend hosted on App Engine
+Works",SamuelSmith68,7 minutes ago,https://replit.com/bounties/@SamuelSmith68/host-python-backend?t=
