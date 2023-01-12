@@ -1496,7 +1496,7 @@
         "title": "[Beginner Bounty] Scrape my website.",
         "description": "Scrape my website (https://hyperhacker.repl.co) and return it's contents into a json file\n\nAcceptance Criteria\nHave no bounties initially completed.",
         "author": "HyperHacker",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@HyperHacker/beginner-bounty-scra?t="
     },
     {
@@ -1506,7 +1506,7 @@
         "title": "\u201cLink in Bio\u201d React Native App",
         "description": "I want to make a mobile app to connect my friends and I automatically on all social media platforms.\n\nI want to be able to connect to a friend on this app, and automatically follow on instagram, twitter, TikTok\u2026 etc. The friend would also follow me on those social medias after connecting on this app.\n\nIn order to invite people to connect on this app, a code is required.\n\nAcceptance Criteria\n\u2022 Create an account on the app\n\u2022 Connect with Instagram\n\u2022 Invite Friends with a expiring code\n\u2022 Automatically follow/connect on the app & instagram\n\u2022 Browse my connections list",
         "author": "Accomplice",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@Accomplice/link-in-bio-react-na?t="
     },
     {
@@ -1516,7 +1516,7 @@
         "title": "Custom Tip Chrome Extension",
         "description": "I want to easily be able to tip custom cycles on any repl without having to go to another website or repl.\n\nAcceptance Criteria\nYou must be able to create a google chrome browser extension that creates an input and button that fits in with the UI (preferably works with themes) and allows you to tip a custom amount of cycles. I also would like the extension code to be clean and organized (preferably commented). The extension can use jQuery but anything else is prohibited.",
         "author": "goblinjuice",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@goblinjuice/custom-tip-chrome-ex?t="
     },
     {
@@ -1576,7 +1576,7 @@
         "title": "Fix yarn, vite, import errors for some packages",
         "description": "Here is our repo: https://github.com/uselotus/lotus\nI am trying to import packages like '@uiw/react-codemirror' and sql-formatter. But am getting the error here consistently. I'm clearly missing something.\n\n Internal server error: Failed to resolve import \"sql-formatter\" from \"src/components/Metrics/MetricDetails.tsx\". Does the file exist?\n\nAcceptance Criteria\nFork the repo and create a PR that you can merge in to main once its ready.\nFirst import both of these successfully and try to use them in a file to prove it. In addition please lay out the steps you took to solve this issue and what I can do in the future to download packages consistently while avoiding this.",
         "author": "MikaelNida",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@MikaelNida/fix-yarn-vite-import?t="
     }
 ]
