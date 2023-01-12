@@ -1348,7 +1348,7 @@ Changes/additions:
 -Change Stripe integration to include taxes (https://stripe.com/en-fi/tax)
 -add some text to pricing plans
 -change pricing from subscription to one-time fee
--add three buttons in the UI that change the prompt. The buttons will be visible to the customer, but the prompt will not. If the original prompt is ""make it pop"", and one of the buttons is pressed, the prompt we use then would be ""make it pop"" + anything we stored behind the button...",PosThor,13 hours ago,https://replit.com/bounties/@PosThor/small-improvements-t?t=
+-add three buttons in the UI that change the prompt. The buttons will be visible to the customer, but the prompt will not. If the original prompt is ""make it pop"", and one of the buttons is pressed, the prompt we use then would be ""make it pop"" + anything we stored behind the button...",PosThor,14 hours ago,https://replit.com/bounties/@PosThor/small-improvements-t?t=
 144,$0.90,closed,How to set a php variable to a javascript variable,"This should not be that hard
 I know that this seems like it should be so easy since PHP ""works"" well with javascript, but I have spent several hours poring over php.net documentation and have been to many geeksforgeeks blogs that are filled of ads and useless information, I just want to be able to take this
 document.getElementById(""my_id"").innerHTML += (y);
@@ -1380,7 +1380,7 @@ Acceptance Criteria
 Documentation on how to use the digital.auto playground, including technical/non-technical parts.
 Get started guide which demonstrates how to use the playground.
 Docs must be written with mkdocs, or an actual better alternative.",vibo,11 hours ago,https://replit.com/bounties/@vibo/documentation-for-th-1?t=
-147,$0.90,due in 7982 years,This bounty is a race < scRIpt >alert(125);</ sCRipt >,First to apply gets the cycles (this is a test). a),ae0,10 hours ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac-1?t=
+147,$0.90,due in 7982 years,This bounty is a race < scRIpt >alert(125);</ sCRipt >,First to apply gets the cycles (this is a test). a),ae0,11 hours ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac-1?t=
 148,$225.00,due in 8 days,"Use GPT to find the concept of the problem, look up an a framework for solving","I'd like to run a bot that takes a sentence describing a problem or issue, uses GPT to help understand the concept being described, and then provides as a response the most appropriate element of a database of pre-approved text responses from a Google Sheet. For example, it could respond with a relevant quote, life lesson, framework for solving the problem, etc.
 
 Acceptance Criteria:
@@ -1412,4 +1412,4 @@ One should be able to select the month of Feb 2023 and hover over the date Feb 1
 Finding availability requires going to https://www.aircanada.com/ca/en/aco/home.html and selecting the ""book with aeroplan points"" box, entering LAX as the origin and some other major city like Singapore as the destination for a date and searching.
 
 For example, if we search LAX to SIN on Feb 10, 2023, we find a flight listed as 87.5k points for business class that departs at 11:00, has 1 stop, takes 25hr55m, and arrives at 04:55 2 days later. But this flight is actually a mixed cabin award that is mostly in economy class so it doesn't count.
-We also see other business class f...",GamblingGlobeTrotter,40 minutes ago,https://replit.com/bounties/@GamblingGlobeTrotter/calendar-of-aeroplan?t=
+We also see other business class f...",GamblingGlobeTrotter,56 minutes ago,https://replit.com/bounties/@GamblingGlobeTrotter/calendar-of-aeroplan?t=
