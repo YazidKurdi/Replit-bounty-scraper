@@ -1456,7 +1456,7 @@
         "title": "Feature to visualize flows and diagrams with a given data format, using canvas in React.",
         "description": "I want a react component that can render diagrams from data like:\n\n{\n\t\"nodes\":[\n\t\t{\"id\":\"86a20c23e3354d5d\",\"x\":-118,\"y\":-607,\"width\":995,\"height\":495,\"type\":\"group\",\"label\":\"Group 1\"},\n\t\t{\"id\":\"073b3029c47e8961\",\"x\":-118,\"y\":13,\"width\":995,\"height\":529,\"type\":\"group\",\"label\":\"Group 2\"},\n\t\t{\"id\":\"3cd5a8fdf65057fb\",\"x\":-58,\"y\":-555,\"width\":400,\"height\":267,\"type\":\"file\",\"file\":\"image1.webp\"},\n\t\t{\"id\":\"d2b648bd165688da\",\"x\":559,\"y\":-555,\"width\":267,\"height\":400,\"type\":\"file\",\"file\":\"image2.webp\"},\n\t\t{\"id\":\"cb5f69b2e0f40896\",\"x\":-58,\"y\":80,\"width\":267,\"height\":400,\"type\":\"file\",\"file\":\"image3.webp\"},\n\t\t{\"id\":\"6b57df8d41cdbeed\",\"x\":506,\"y\":80,\"width\":320,\"height\":400,\"type\":\"file\",\"file\":\"image4.webp\"}\n\t],\n\t\"edges\":[\n\t\t{\"id\":\"f3c8a0927cec4d66\",\"fromNode\":\"3cd5a8fdf65057fb\",\"fromSide\":\"right\",\"toNode\":\"d2b648bd165688da\",\"toSide\":\"left\"},\n\t\t{\"id\":\"2cbee2b7fd13b217\",\"fromNode\":\"cb5f69b2e0f40896\",\"fromSide\":\"right\",\"toNode\":\"6b57df8d41cdbeed\",\"toSide\":\"left\"},\n\t\t{\"id\":\"de059...",
         "author": "DiegoRivas7",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@DiegoRivas7/feature-to-visualize?t="
     },
     {
@@ -1466,7 +1466,7 @@
         "title": "Documentation for the digital.auto playground, both technical/non-technical parts.",
         "description": "We need documentation on how to use the digital.auto playground, including all aspects of prototypes/plugins etc.\n\nI'd like for someone to take a look at the site @ https://digitalauto-dev.netlify.app, and see what it's about. We can then do a video call where I take you through the site and all aspects of it, including the sparse documentation we have.\n\nAcceptance Criteria\n\nDocumentation on how to use the digital.auto playground, including technical/non-technical parts.\nGet started guide which demonstrates how to use the playground.\nDocs must be written with mkdocs, or an actual better alternative.",
         "author": "vibo",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@vibo/documentation-for-th-1?t="
     },
     {
@@ -1496,7 +1496,7 @@
         "title": "[Beginner Bounty] Scrape my website.",
         "description": "Scrape my website (https://hyperhacker.repl.co) and return it's contents into a json file\n\nAcceptance Criteria\nHave no bounties initially completed.",
         "author": "HyperHacker",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@HyperHacker/beginner-bounty-scra?t="
     },
     {
@@ -1506,7 +1506,7 @@
         "title": "\u201cLink in Bio\u201d React Native App",
         "description": "I want to make a mobile app to connect my friends and I automatically on all social media platforms.\n\nI want to be able to connect to a friend on this app, and automatically follow on instagram, twitter, TikTok\u2026 etc. The friend would also follow me on those social medias after connecting on this app.\n\nIn order to invite people to connect on this app, a code is required.\n\nAcceptance Criteria\n\u2022 Create an account on the app\n\u2022 Connect with Instagram\n\u2022 Invite Friends with a expiring code\n\u2022 Automatically follow/connect on the app & instagram\n\u2022 Browse my connections list",
         "author": "Accomplice",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@Accomplice/link-in-bio-react-na?t="
     },
     {
@@ -1516,7 +1516,7 @@
         "title": "Custom Tip Chrome Extension",
         "description": "I want to easily be able to tip custom cycles on any repl without having to go to another website or repl.\n\nAcceptance Criteria\nYou must be able to create a google chrome browser extension that creates an input and button that fits in with the UI (preferably works with themes) and allows you to tip a custom amount of cycles. I also would like the extension code to be clean and organized (preferably commented). The extension can use jQuery but anything else is prohibited.",
         "author": "goblinjuice",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@goblinjuice/custom-tip-chrome-ex?t="
     },
     {
@@ -1546,7 +1546,7 @@
         "title": "redesign a landing page. End result should be responsive ",
         "description": "There's a landing page: https://replit.com/@LaurensSchunk/Podreel\nNeed to make some minor changes to it. Here's a screengrab: https://app.usebubbles.com/qJ3Wd8R5UW7g6dr7SkUHdM/nitin-s-video-recording\n\nI'll send the design file over email.\n\nAcceptance Criteria\nMake sure the landing page looks exactly like what's shown in the design file.\nPage should be responsive.\nIn areas where link has to be added, leave it blank and comment it in the code (so it's easier to find).\nI'll send the assets - GIFs and images - over email.",
         "author": "NitinMurali1",
-        "posted_time": "59 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@NitinMurali1/redesign-a-landing-p?t="
     }
 ]
