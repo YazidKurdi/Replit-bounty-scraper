@@ -1496,7 +1496,7 @@
         "title": "[Beginner Bounty] Scrape my website.",
         "description": "Scrape my website (https://hyperhacker.repl.co) and return it's contents into a json file\n\nAcceptance Criteria\nHave no bounties initially completed.",
         "author": "HyperHacker",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@HyperHacker/beginner-bounty-scra?t="
     },
     {
@@ -1576,7 +1576,7 @@
         "title": "Fix yarn, vite, import errors for some packages",
         "description": "Here is our repo: https://github.com/uselotus/lotus\nI am trying to import packages like '@uiw/react-codemirror' and sql-formatter. But am getting the error here consistently. I'm clearly missing something.\n\n Internal server error: Failed to resolve import \"sql-formatter\" from \"src/components/Metrics/MetricDetails.tsx\". Does the file exist?\n\nAcceptance Criteria\nFork the repo and create a PR that you can merge in to main once its ready.\nFirst import both of these successfully and try to use them in a file to prove it. In addition please lay out the steps you took to solve this issue and what I can do in the future to download packages consistently while avoiding this.",
         "author": "MikaelNida",
-        "posted_time": "21 minutes ago",
+        "posted_time": "29 minutes ago",
         "link": "https://replit.com/bounties/@MikaelNida/fix-yarn-vite-import?t="
     }
 ]
