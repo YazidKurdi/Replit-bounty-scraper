@@ -1616,7 +1616,7 @@
         "title": "Poker bot to give suggestion for next move real time",
         "description": "First time to use Replit bounty, so, not sure I can get refund or not, if no one take this bounty. so, for now I will only pay $50 to get it posted.\nI'm willing to pay $500 total if this worked out.\nAnd I will most likely pay extra in the future to buy more features. (I have lots of ideas to extend this, but too much to put on here)\n\nProblem Description\nPoker hands and actions is very similar like natural language: it is a sequence of either cards or player actions. and the out come is win/lose x amount.\nSo, utilizing existing NLP models like GPT-3 or ChatGPT, with extra poker hands training, we should be able to generate a bot, to take in hand and give a suggestion for optimal move.\nSo, there are several tasks here:\nbased on existing AI NLP model, using poker hands history, to further train the model, so the model can give optimal suggestions.\nthe bot will be a mobile app. it can use mobile phone camera, to watch a computer screen, for online poker playing. and understand what is goin...",
         "author": "HarryLiu12",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@HarryLiu12/poker-bot-to-give-su?t="
     },
     {
@@ -1648,5 +1648,15 @@
         "author": "traconatc",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@traconatc/file-upload-from-web?t="
+    },
+    {
+        "index": "165",
+        "price": "$180.00",
+        "due_days": "due in 6 days",
+        "title": "Sync Strava API data to videocreationdate for Xcode app",
+        "description": "We have an app that will show Strava data like speed, cadence, wattage and heartrate over a video. We need help syncing the Strava data to the video so the time stamps line up. A video with the data will then be generated with this data. A menu to choose which datastreams and in what size and colour the data will be on the video will also need to be made.\n\nThe interface and general framework are already in place.\n\nAcceptance Criteria\nWe are looking for a good Swift coder who can help us with this problem.",
+        "author": "Lucasden",
+        "posted_time": "4 minutes ago",
+        "link": "https://replit.com/bounties/@Lucasden/sync-strava-api-data?t="
     }
 ]

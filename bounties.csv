@@ -1492,7 +1492,7 @@ Poker hands and actions is very similar like natural language: it is a sequence 
 So, utilizing existing NLP models like GPT-3 or ChatGPT, with extra poker hands training, we should be able to generate a bot, to take in hand and give a suggestion for optimal move.
 So, there are several tasks here:
 based on existing AI NLP model, using poker hands history, to further train the model, so the model can give optimal suggestions.
-the bot will be a mobile app. it can use mobile phone camera, to watch a computer screen, for online poker playing. and understand what is goin...",HarryLiu12,2 hours ago,https://replit.com/bounties/@HarryLiu12/poker-bot-to-give-su?t=
+the bot will be a mobile app. it can use mobile phone camera, to watch a computer screen, for online poker playing. and understand what is goin...",HarryLiu12,3 hours ago,https://replit.com/bounties/@HarryLiu12/poker-bot-to-give-su?t=
 162,$13.50,due in 13 days,Convince me you know a lot about Interactive Brokers Python API for TWS. I have a lot of work for you if you do,"We have built an algorithmic trading system for stocks and ETFs. Executing the trades requires some finicky repetitive, highly automatable work with the Interactive Brokers TWS API
 IF you have skills to work with this API I have thousands of dollars worth of projects to execute on that platform.
 
@@ -1507,3 +1507,9 @@ This code will belong to me.",sqcodes,2 hours ago,https://replit.com/bounties/@s
 
 Acceptance Criteria
 Fully compiled code to process a file upload on my website.",traconatc,2 hours ago,https://replit.com/bounties/@traconatc/file-upload-from-web?t=
+165,$180.00,due in 6 days,Sync Strava API data to videocreationdate for Xcode app,"We have an app that will show Strava data like speed, cadence, wattage and heartrate over a video. We need help syncing the Strava data to the video so the time stamps line up. A video with the data will then be generated with this data. A menu to choose which datastreams and in what size and colour the data will be on the video will also need to be made.
+
+The interface and general framework are already in place.
+
+Acceptance Criteria
+We are looking for a good Swift coder who can help us with this problem.",Lucasden,4 minutes ago,https://replit.com/bounties/@Lucasden/sync-strava-api-data?t=
