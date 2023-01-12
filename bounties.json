@@ -1566,7 +1566,7 @@
         "title": "JSON Import / Update from Google Sheets",
         "description": "Create Registration / Login Page with Google Auth\n\nCreate Import data from REST API page including form that includes fields:\nProvide the JSON URL - the URL of the endpoint to import data from\nSpecify the optional parameters such as HTTP method, HTTP headers, URL query string, etc.\nSpecify the fields to be retrieved from the JSON API\nSelect Google Sheets as a destination application, connect your Google account and select a Google Sheets file and a sheet to import JSON data to\nButton to start import\nPopulate Google Sheet with Data with a header row for the column names\nSuccess Indicator\nNote: A sample API and dataset will be provided on acceptance, using the Strapi.io v3 API : https://docs-v3.strapi.io/developer-docs/latest/developer-resources/content-api/content-api.html#endpoints\n\nCreate Update API data from Google Sheets page including form that includes fields:\nGoogle Sheet URL (should be shared as anyone with link)\nHeader columns in Google Sheet\nIdentify primar...",
         "author": "RobertHolliday",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@RobertHolliday/json-import-update-f?t="
     },
     {
@@ -1576,7 +1576,7 @@
         "title": "Fix yarn, vite, import errors for some packages",
         "description": "Here is our repo: https://github.com/uselotus/lotus\nI am trying to import packages like '@uiw/react-codemirror' and sql-formatter. But am getting the error here consistently. I'm clearly missing something.\n\n Internal server error: Failed to resolve import \"sql-formatter\" from \"src/components/Metrics/MetricDetails.tsx\". Does the file exist?\n\nAcceptance Criteria\nFork the repo and create a PR that you can merge in to main once its ready.\nFirst import both of these successfully and try to use them in a file to prove it. In addition please lay out the steps you took to solve this issue and what I can do in the future to download packages consistently while avoiding this.",
         "author": "MikaelNida",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@MikaelNida/fix-yarn-vite-import?t="
     },
     {
@@ -1586,7 +1586,7 @@
         "title": "Host Python backend on Google Cloud App Engine",
         "description": "We have a GitHub with a Python backend I would like to host on Google Cloud\u2019s servers. I need someone proficient in App Engine to upload it there, and there will be lots more work moving forward with Google Cloud!\n\nAcceptance Criteria\nBackend hosted on App Engine\nWorks",
         "author": "SamuelSmith68",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@SamuelSmith68/host-python-backend?t="
     },
     {
@@ -1596,7 +1596,7 @@
         "title": "Use OpenAI API to properly order thoughts/ideas using Python code to make an argument or a story",
         "description": "I want to use a Python program to supply GPT3 with a list of ideas/ concepts and have the AI order these logically. Sort of like making an argument or story.\n\nShould be able to take , say 5  concepts which are two or three sentences long (call these mini paragraphs) and put these mini paragraphs in logical order.\n\nAcceptance Criteria\nPython code executing the above task on  3 sample  \"mini paragraph\" series of ideas.  Each series of ideas must contain at least 4 concepts (or 4 mini paragraphs).\nIf one or more of the supplied concepts doesn't fit in logically with the others, it should just be left out of the resulting argument. \"Unit testing \" should include a couple of cases where a concept or two is left out because they don't fit. (this might be the tricky part)\n\nThe Bounty hunter can likely find / construct lots of examples from articles on line or from tweet threads.",
         "author": "YorkvilleDS",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@YorkvilleDS/use-openai-api-to-pr?t="
     },
     {
@@ -1626,7 +1626,7 @@
         "title": "Convince me you know a lot about Interactive Brokers Python API for TWS. I have a lot of work for you if you do",
         "description": "We have built an algorithmic trading system for stocks and ETFs. Executing the trades requires some finicky repetitive, highly automatable work with the Interactive Brokers TWS API\nIF you have skills to work with this API I have thousands of dollars worth of projects to execute on that platform.\n\nAcceptance Criteria\nDemonstrate via email description, with maybe a couple of code snippets that you are good with this tool and have some time going forward to help on an exciting project. This is just the \"search bounty\"",
         "author": "YorkvilleDS",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@YorkvilleDS/convince-me-you-know?t="
     },
     {
@@ -1656,7 +1656,7 @@
         "title": "Sync Strava API data to videocreationdate for Xcode app",
         "description": "We have an app that will show Strava data like speed, cadence, wattage and heartrate over a video. We need help syncing the Strava data to the video so the time stamps line up. A video with the data will then be generated with this data. A menu to choose which datastreams and in what size and colour the data will be on the video will also need to be made.\n\nThe interface and general framework are already in place.\n\nAcceptance Criteria\nWe are looking for a good Swift coder who can help us with this problem.",
         "author": "Lucasden",
-        "posted_time": "13 minutes ago",
+        "posted_time": "20 minutes ago",
         "link": "https://replit.com/bounties/@Lucasden/sync-strava-api-data?t="
     }
 ]
