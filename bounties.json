@@ -1446,7 +1446,7 @@
         "title": "How to set a php variable to a javascript variable",
         "description": "This should not be that hard\nI know that this seems like it should be so easy since PHP \"works\" well with javascript, but I have spent several hours poring over php.net documentation and have been to many geeksforgeeks blogs that are filled of ads and useless information, I just want to be able to take this\ndocument.getElementById(\"my_id\").innerHTML += (y);\nand turn it into this\n$phpvar = $dom->getElementById('my_id')->textContent;\nbut this doesn't work.\nplease help",
         "author": "Altify-Developm",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@Altify-Developm/how-to-set-a-php-var?t="
     },
     {
@@ -1526,7 +1526,7 @@
         "title": "Calendar of Aeroplan Business Class Award Availability from LAX",
         "description": "Create a website with a calendar view of standard business and first-class award availability from LAX to major international destinations outside of North America via scraping Air Canada's Aeroplan website.\n\nOne should be able to select the month of Feb 2023 and hover over the date Feb 10th and have a dropdown menu of all destinations with bookable business and first-class awards at standard award chart prices.\n\nFinding availability requires going to https://www.aircanada.com/ca/en/aco/home.html and selecting the \"book with aeroplan points\" box, entering LAX as the origin and some other major city like Singapore as the destination for a date and searching.\n\nFor example, if we search LAX to SIN on Feb 10, 2023, we find a flight listed as 87.5k points for business class that departs at 11:00, has 1 stop, takes 25hr55m, and arrives at 04:55 2 days later. But this flight is actually a mixed cabin award that is mostly in economy class so it doesn't count.\nWe also see other business class f...",
         "author": "GamblingGlobeTrotter",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@GamblingGlobeTrotter/calendar-of-aeroplan?t="
     },
     {
