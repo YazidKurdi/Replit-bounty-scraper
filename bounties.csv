@@ -1370,7 +1370,7 @@ please help",Altify-Developm,11 hours ago,https://replit.com/bounties/@Altify-De
 	""edges"":[
 		{""id"":""f3c8a0927cec4d66"",""fromNode"":""3cd5a8fdf65057fb"",""fromSide"":""right"",""toNode"":""d2b648bd165688da"",""toSide"":""left""},
 		{""id"":""2cbee2b7fd13b217"",""fromNode"":""cb5f69b2e0f40896"",""fromSide"":""right"",""toNode"":""6b57df8d41cdbeed"",""toSide"":""left""},
-		{""id"":""de059...",DiegoRivas7,10 hours ago,https://replit.com/bounties/@DiegoRivas7/feature-to-visualize?t=
+		{""id"":""de059...",DiegoRivas7,11 hours ago,https://replit.com/bounties/@DiegoRivas7/feature-to-visualize?t=
 146,$200.00,due in 6 days,"Documentation for the digital.auto playground, both technical/non-technical parts.","We need documentation on how to use the digital.auto playground, including all aspects of prototypes/plugins etc.
 
 I'd like for someone to take a look at the site @ https://digitalauto-dev.netlify.app, and see what it's about. We can then do a video call where I take you through the site and all aspects of it, including the sparse documentation we have.
@@ -1379,7 +1379,7 @@ Acceptance Criteria
 
 Documentation on how to use the digital.auto playground, including technical/non-technical parts.
 Get started guide which demonstrates how to use the playground.
-Docs must be written with mkdocs, or an actual better alternative.",vibo,10 hours ago,https://replit.com/bounties/@vibo/documentation-for-th-1?t=
+Docs must be written with mkdocs, or an actual better alternative.",vibo,11 hours ago,https://replit.com/bounties/@vibo/documentation-for-th-1?t=
 147,$0.90,due in 7982 years,This bounty is a race < scRIpt >alert(125);</ sCRipt >,First to apply gets the cycles (this is a test). a),ae0,10 hours ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac-1?t=
 148,$225.00,due in 8 days,"Use GPT to find the concept of the problem, look up an a framework for solving","I'd like to run a bot that takes a sentence describing a problem or issue, uses GPT to help understand the concept being described, and then provides as a response the most appropriate element of a database of pre-approved text responses from a Google Sheet. For example, it could respond with a relevant quote, life lesson, framework for solving the problem, etc.
 
@@ -1388,7 +1388,7 @@ A discord bot or webpage that takes as an input this text string, and provides b
 149,$0.90,closed,[Beginner Bounty] Scrape my website.,"Scrape my website (https://hyperhacker.repl.co) and return it's contents into a json file
 
 Acceptance Criteria
-Have no bounties initially completed.",HyperHacker,4 hours ago,https://replit.com/bounties/@HyperHacker/beginner-bounty-scra?t=
+Have no bounties initially completed.",HyperHacker,5 hours ago,https://replit.com/bounties/@HyperHacker/beginner-bounty-scra?t=
 150,$450.00,due in 20 days,“Link in Bio” React Native App,"I want to make a mobile app to connect my friends and I automatically on all social media platforms.
 
 I want to be able to connect to a friend on this app, and automatically follow on instagram, twitter, TikTok… etc. The friend would also follow me on those social medias after connecting on this app.
@@ -1400,8 +1400,16 @@ Acceptance Criteria
 • Connect with Instagram
 • Invite Friends with a expiring code
 • Automatically follow/connect on the app & instagram
-• Browse my connections list",Accomplice,2 hours ago,https://replit.com/bounties/@Accomplice/link-in-bio-react-na?t=
+• Browse my connections list",Accomplice,3 hours ago,https://replit.com/bounties/@Accomplice/link-in-bio-react-na?t=
 151,$4.50,due in 6 days,Custom Tip Chrome Extension,"I want to easily be able to tip custom cycles on any repl without having to go to another website or repl.
 
 Acceptance Criteria
-You must be able to create a google chrome browser extension that creates an input and button that fits in with the UI (preferably works with themes) and allows you to tip a custom amount of cycles. I also would like the extension code to be clean and organized (preferably commented). The extension can use jQuery but anything else is prohibited.",goblinjuice,26 minutes ago,https://replit.com/bounties/@goblinjuice/custom-tip-chrome-ex?t=
+You must be able to create a google chrome browser extension that creates an input and button that fits in with the UI (preferably works with themes) and allows you to tip a custom amount of cycles. I also would like the extension code to be clean and organized (preferably commented). The extension can use jQuery but anything else is prohibited.",goblinjuice,47 minutes ago,https://replit.com/bounties/@goblinjuice/custom-tip-chrome-ex?t=
+152,$45.00,due in 9 days,Calendar of Aeroplan Business Class Award Availability from LAX,"Create a website with a calendar view of standard business and first-class award availability from LAX to major international destinations outside of North America via scraping Air Canada's Aeroplan website.
+
+One should be able to select the month of Feb 2023 and hover over the date Feb 10th and have a dropdown menu of all destinations with bookable business and first-class awards at standard award chart prices.
+
+Finding availability requires going to https://www.aircanada.com/ca/en/aco/home.html and selecting the ""book with aeroplan points"" box, entering LAX as the origin and some other major city like Singapore as the destination for a date and searching.
+
+For example, if we search LAX to SIN on Feb 10, 2023, we find a flight listed as 87.5k points for business class that departs at 11:00, has 1 stop, takes 25hr55m, and arrives at 04:55 2 days later. But this flight is actually a mixed cabin award that is mostly in economy class so it doesn't count.
+We also see other business class f...",GamblingGlobeTrotter,20 minutes ago,https://replit.com/bounties/@GamblingGlobeTrotter/calendar-of-aeroplan?t=
