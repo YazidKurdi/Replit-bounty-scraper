@@ -1526,7 +1526,7 @@
         "title": "Calendar of Aeroplan Business Class Award Availability from LAX",
         "description": "Create a website with a calendar view of standard business and first-class award availability from LAX to major international destinations outside of North America via scraping Air Canada's Aeroplan website.\n\nOne should be able to select the month of Feb 2023 and hover over the date Feb 10th and have a dropdown menu of all destinations with bookable business and first-class awards at standard award chart prices.\n\nFinding availability requires going to https://www.aircanada.com/ca/en/aco/home.html and selecting the \"book with aeroplan points\" box, entering LAX as the origin and some other major city like Singapore as the destination for a date and searching.\n\nFor example, if we search LAX to SIN on Feb 10, 2023, we find a flight listed as 87.5k points for business class that departs at 11:00, has 1 stop, takes 25hr55m, and arrives at 04:55 2 days later. But this flight is actually a mixed cabin award that is mostly in economy class so it doesn't count.\nWe also see other business class f...",
         "author": "GamblingGlobeTrotter",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@GamblingGlobeTrotter/calendar-of-aeroplan?t="
     },
     {
@@ -1546,7 +1546,17 @@
         "title": "redesign a landing page. End result should be responsive ",
         "description": "There's a landing page: https://replit.com/@LaurensSchunk/Podreel\nNeed to make some minor changes to it. Here's a screengrab: https://app.usebubbles.com/qJ3Wd8R5UW7g6dr7SkUHdM/nitin-s-video-recording\n\nI'll send the design file over email.\n\nAcceptance Criteria\nMake sure the landing page looks exactly like what's shown in the design file.\nPage should be responsive.\nIn areas where link has to be added, leave it blank and comment it in the code (so it's easier to find).\nI'll send the assets - GIFs and images - over email.",
         "author": "NitinMurali1",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@NitinMurali1/redesign-a-landing-p?t="
+    },
+    {
+        "index": "155",
+        "price": "$135.00",
+        "due_days": "due in 7 days",
+        "title": "Chrome extension: Customer service responder helper using trained GPT-3",
+        "description": "We want to make it quick and easy for customer service reps at our company to quickly and easily respond to tickets in ZenDesk.\n\nWe want to build a tool that helps them craft the perfect response to the ticket they are looking at, within seconds, without having to parse through existing template responses.\n\nThe tool should work like the following:\nCan be triggered manually using a shortcut (say control+space).\nThe prompt sent to the model includes the ZenDesk ticket you're responding to. If the ticket chain is too long it needs to be truncated.\nCan complete entire ticket responses.\nThe model (text-davinci-003 is probably best), has been trained on our company's FAQ docs (which we will provide to you)\n   The user's OpenAI API Key\n   A custom prompt (with a default prompt as described above)\n   Model type (defaults to text-davinci-003)\n   Max Tokens returned from the model (defaults to 1024)\n   Temperature\n   Stop words with support for newlines (similar to the OpenAI...",
+        "author": "nish-b",
+        "posted_time": "9 minutes ago",
+        "link": "https://replit.com/bounties/@nish-b/chrome-extension-cus?t="
     }
 ]
