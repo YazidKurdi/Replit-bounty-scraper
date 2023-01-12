@@ -1506,7 +1506,7 @@ This code will belong to me.",sqcodes,5 hours ago,https://replit.com/bounties/@s
 164,$11.25,due in 3 days,File Upload from Website to Azure Blob,"I am trying to build a form on a website that will take a PDF that is uploaded by a user and save it in my Azure Blob (already created and fully configured). I have the form built in HTML and started to build the C# code that would process that file upload, but am unsure how to proceed. My intent after we get the file upload working is to parse the PDF that is upload and pull down data from it and put it in my SQL database, but that part will be outside of the scope of this effort. I am using VS Code and C# to build this.
 
 Acceptance Criteria
-Fully compiled code to process a file upload on my website.",traconatc,4 hours ago,https://replit.com/bounties/@traconatc/file-upload-from-web?t=
+Fully compiled code to process a file upload on my website.",traconatc,5 hours ago,https://replit.com/bounties/@traconatc/file-upload-from-web?t=
 165,$180.00,due in 6 days,Sync Strava API data to videocreationdate for Xcode app,"We have an app that will show Strava data like speed, cadence, wattage and heartrate over a video. We need help syncing the Strava data to the video so the time stamps line up. A video with the data will then be generated with this data. A menu to choose which datastreams and in what size and colour the data will be on the video will also need to be made.
 
 The interface and general framework are already in place.
@@ -1526,4 +1526,20 @@ Here is how it looks right now
 https://arc53data.s3.amazonaws.com/quickshare/Screenshot%202022-12-16%20at%2012.04.38.png
 I will provide the code for this look
 
-All you have to do is to add a working carousel for mobile version, such that only two recommendations are displayed at a time, similar to the source material",AlexTushynski,4 minutes ago,https://replit.com/bounties/@AlexTushynski/add-carousel-to-web?t=
+All you have to do is to add a working carousel for mobile version, such that only two recommendations are displayed at a time, similar to the source material",AlexTushynski,20 minutes ago,https://replit.com/bounties/@AlexTushynski/add-carousel-to-web?t=
+167,$90.00,due in 19 days,Positive Reinforcement App using OpenAI's GPT-3 and DaVinci-003,"I am building an iOS app that aims to help people who are feeling upset or troubled by providing them with positive reinforcement. The app will use OpenAI's GPT-3 and DaVinci-003 to generate encouraging and understanding responses to the users.
+
+Problem Description:
+Many people struggle to cope with their emotions and often feel alone in their struggles. Our app aims to provide a simple and accessible way for people to receive positive reinforcement and support when they need it most.
+
+Acceptance Criteria:
+The app allows users to input their concerns and receive encouraging and understanding responses from DaVinci-003 through a prebuilt template.
+The app has a clean and visually appealing user interface using the provided UI assets.
+The app functions smoothly and efficiently.
+
+Technical Details:
+The app will be built using Swift
+It will integrate OpenAI's GPT-3 and DaVinci-003
+The app will use a prebuilt template to send the user input to OpenAI and receive the responses.
+
+Qualificatio...",lucaandbiscotti,3 minutes ago,https://replit.com/bounties/@lucaandbiscotti/positive-reinforceme?t=

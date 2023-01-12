@@ -1646,7 +1646,7 @@
         "title": "File Upload from Website to Azure Blob",
         "description": "I am trying to build a form on a website that will take a PDF that is uploaded by a user and save it in my Azure Blob (already created and fully configured). I have the form built in HTML and started to build the C# code that would process that file upload, but am unsure how to proceed. My intent after we get the file upload working is to parse the PDF that is upload and pull down data from it and put it in my SQL database, but that part will be outside of the scope of this effort. I am using VS Code and C# to build this.\n\nAcceptance Criteria\nFully compiled code to process a file upload on my website.",
         "author": "traconatc",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@traconatc/file-upload-from-web?t="
     },
     {
@@ -1666,7 +1666,17 @@
         "title": "Add carousel to web widget",
         "description": "#Problem Description\n\nI have a widget that adds product recommendation cards to a page.\nI need a carousel for mobile version, such that only two recommendations are diplayed at a time\n#Acceptance Criteria\n\nhere is how i want it to look\nhttps://arc53data.s3.amazonaws.com/quickshare/Screenshot%202022-12-05%20at%2016.50.03.png\n\nHere is how it looks right now\nhttps://arc53data.s3.amazonaws.com/quickshare/Screenshot%202022-12-16%20at%2012.04.38.png\nI will provide the code for this look\n\nAll you have to do is to add a working carousel for mobile version, such that only two recommendations are displayed at a time, similar to the source material",
         "author": "AlexTushynski",
-        "posted_time": "4 minutes ago",
+        "posted_time": "20 minutes ago",
         "link": "https://replit.com/bounties/@AlexTushynski/add-carousel-to-web?t="
+    },
+    {
+        "index": "167",
+        "price": "$90.00",
+        "due_days": "due in 19 days",
+        "title": "Positive Reinforcement App using OpenAI's GPT-3 and DaVinci-003",
+        "description": "I am building an iOS app that aims to help people who are feeling upset or troubled by providing them with positive reinforcement. The app will use OpenAI's GPT-3 and DaVinci-003 to generate encouraging and understanding responses to the users.\n\nProblem Description:\nMany people struggle to cope with their emotions and often feel alone in their struggles. Our app aims to provide a simple and accessible way for people to receive positive reinforcement and support when they need it most.\n\nAcceptance Criteria:\nThe app allows users to input their concerns and receive encouraging and understanding responses from DaVinci-003 through a prebuilt template.\nThe app has a clean and visually appealing user interface using the provided UI assets.\nThe app functions smoothly and efficiently.\n\nTechnical Details:\nThe app will be built using Swift\nIt will integrate OpenAI's GPT-3 and DaVinci-003\nThe app will use a prebuilt template to send the user input to OpenAI and receive the responses.\n\nQualificatio...",
+        "author": "lucaandbiscotti",
+        "posted_time": "3 minutes ago",
+        "link": "https://replit.com/bounties/@lucaandbiscotti/positive-reinforceme?t="
     }
 ]
