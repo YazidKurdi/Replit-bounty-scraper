@@ -1440,7 +1440,7 @@ The model (text-davinci-003 is probably best), has been trained on our company's
    Model type (defaults to text-davinci-003)
    Max Tokens returned from the model (defaults to 1024)
    Temperature
-   Stop words with support for newlines (similar to the OpenAI...",nish-b,9 hours ago,https://replit.com/bounties/@nish-b/chrome-extension-cus?t=
+   Stop words with support for newlines (similar to the OpenAI...",nish-b,10 hours ago,https://replit.com/bounties/@nish-b/chrome-extension-cus?t=
 156,$252.00,due in 6 days,JSON Import / Update from Google Sheets,"Create Registration / Login Page with Google Auth
 
 Create Import data from REST API page including form that includes fields:
@@ -1478,11 +1478,11 @@ Acceptance Criteria
 Python code executing the above task on  3 sample  ""mini paragraph"" series of ideas.  Each series of ideas must contain at least 4 concepts (or 4 mini paragraphs).
 If one or more of the supplied concepts doesn't fit in logically with the others, it should just be left out of the resulting argument. ""Unit testing "" should include a couple of cases where a concept or two is left out because they don't fit. (this might be the tricky part)
 
-The Bounty hunter can likely find / construct lots of examples from articles on line or from tweet threads.",YorkvilleDS,44 minutes ago,https://replit.com/bounties/@YorkvilleDS/use-openai-api-to-pr?t=
+The Bounty hunter can likely find / construct lots of examples from articles on line or from tweet threads.",YorkvilleDS,1 hour ago,https://replit.com/bounties/@YorkvilleDS/use-openai-api-to-pr?t=
 160,$9.00,due in 12 days,Discordpy - call task/send message on interval,"I am attempting to create a Discord bot using Python that checks an API endpoint every x minutes and sends a message if something is different. I have tried a few things but each attempt results in an error
 
 Acceptance Criteria
-A working Discord bot that can call a task every x minutes",--smallguy89--,31 minutes ago,https://replit.com/bounties/@--smallguy89--/discordpy-call-tasks?t=
+A working Discord bot that can call a task every x minutes",--smallguy89--,50 minutes ago,https://replit.com/bounties/@--smallguy89--/discordpy-call-tasks?t=
 161,$45.00,due in 1 month,Poker bot to give suggestion for next move real time,"First time to use Replit bounty, so, not sure I can get refund or not, if no one take this bounty. so, for now I will only pay $50 to get it posted.
 I'm willing to pay $500 total if this worked out.
 And I will most likely pay extra in the future to buy more features. (I have lots of ideas to extend this, but too much to put on here)
@@ -1492,4 +1492,9 @@ Poker hands and actions is very similar like natural language: it is a sequence 
 So, utilizing existing NLP models like GPT-3 or ChatGPT, with extra poker hands training, we should be able to generate a bot, to take in hand and give a suggestion for optimal move.
 So, there are several tasks here:
 based on existing AI NLP model, using poker hands history, to further train the model, so the model can give optimal suggestions.
-the bot will be a mobile app. it can use mobile phone camera, to watch a computer screen, for online poker playing. and understand what is goin...",HarryLiu12,6 minutes ago,https://replit.com/bounties/@HarryLiu12/poker-bot-to-give-su?t=
+the bot will be a mobile app. it can use mobile phone camera, to watch a computer screen, for online poker playing. and understand what is goin...",HarryLiu12,25 minutes ago,https://replit.com/bounties/@HarryLiu12/poker-bot-to-give-su?t=
+162,$13.50,due in 13 days,Convince me you know a lot about Interactive Brokers Python API for TWS. I have a lot of work for you if you do,"We have built an algorithmic trading system for stocks and ETFs. Executing the trades requires some finicky repetitive, highly automatable work with the Interactive Brokers TWS API
+IF you have skills to work with this API I have thousands of dollars worth of projects to execute on that platform.
+
+Acceptance Criteria
+Demonstrate via email description, with maybe a couple of code snippets that you are good with this tool and have some time going forward to help on an exciting project. This is just the ""search bounty""",YorkvilleDS,4 minutes ago,https://replit.com/bounties/@YorkvilleDS/convince-me-you-know?t=
