@@ -1536,7 +1536,7 @@
         "title": "Point of Interest Website integrated with ChatGPT",
         "description": "We are looking to build an interactive travel site enabled by ChatGPT.\n\nThe website should include a home page with an interactive map and search functionality. Content on the website will be tied to specific locations on the map (we have already written the content). Pinpoints on the map will preview the point of interest, and then users can click to view separate pages on the website which will include the provided content. Each individual content page should include an integration with ChatGPT that users can ask questions to. There should be an open text box (very similar to the ChatGPT playground) for users to type in a prompt and for ChatGPT to respond.",
         "author": "JacksonPerry8",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@JacksonPerry8/point-of-interest-we?t="
     },
     {
@@ -1586,7 +1586,7 @@
         "title": "Host Python backend on Google Cloud App Engine",
         "description": "We have a GitHub with a Python backend I would like to host on Google Cloud\u2019s servers. I need someone proficient in App Engine to upload it there, and there will be lots more work moving forward with Google Cloud!\n\nAcceptance Criteria\nBackend hosted on App Engine\nWorks",
         "author": "SamuelSmith68",
-        "posted_time": "38 minutes ago",
+        "posted_time": "56 minutes ago",
         "link": "https://replit.com/bounties/@SamuelSmith68/host-python-backend?t="
     }
 ]

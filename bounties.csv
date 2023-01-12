@@ -1415,7 +1415,7 @@ For example, if we search LAX to SIN on Feb 10, 2023, we find a flight listed as
 We also see other business class f...",GamblingGlobeTrotter,12 hours ago,https://replit.com/bounties/@GamblingGlobeTrotter/calendar-of-aeroplan?t=
 153,$25.20,due in 7 days,Point of Interest Website integrated with ChatGPT,"We are looking to build an interactive travel site enabled by ChatGPT.
 
-The website should include a home page with an interactive map and search functionality. Content on the website will be tied to specific locations on the map (we have already written the content). Pinpoints on the map will preview the point of interest, and then users can click to view separate pages on the website which will include the provided content. Each individual content page should include an integration with ChatGPT that users can ask questions to. There should be an open text box (very similar to the ChatGPT playground) for users to type in a prompt and for ChatGPT to respond.",JacksonPerry8,10 hours ago,https://replit.com/bounties/@JacksonPerry8/point-of-interest-we?t=
+The website should include a home page with an interactive map and search functionality. Content on the website will be tied to specific locations on the map (we have already written the content). Pinpoints on the map will preview the point of interest, and then users can click to view separate pages on the website which will include the provided content. Each individual content page should include an integration with ChatGPT that users can ask questions to. There should be an open text box (very similar to the ChatGPT playground) for users to type in a prompt and for ChatGPT to respond.",JacksonPerry8,11 hours ago,https://replit.com/bounties/@JacksonPerry8/point-of-interest-we?t=
 154,$1.80,due in 3 days,redesign a landing page. End result should be responsive ,"There's a landing page: https://replit.com/@LaurensSchunk/Podreel
 Need to make some minor changes to it. Here's a screengrab: https://app.usebubbles.com/qJ3Wd8R5UW7g6dr7SkUHdM/nitin-s-video-recording
 
@@ -1469,4 +1469,4 @@ First import both of these successfully and try to use them in a file to prove i
 
 Acceptance Criteria
 Backend hosted on App Engine
-Works",SamuelSmith68,38 minutes ago,https://replit.com/bounties/@SamuelSmith68/host-python-backend?t=
+Works",SamuelSmith68,56 minutes ago,https://replit.com/bounties/@SamuelSmith68/host-python-backend?t=
