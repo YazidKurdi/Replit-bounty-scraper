@@ -1388,7 +1388,7 @@ A discord bot or webpage that takes as an input this text string, and provides b
 149,$0.90,closed,[Beginner Bounty] Scrape my website.,"Scrape my website (https://hyperhacker.repl.co) and return it's contents into a json file
 
 Acceptance Criteria
-Have no bounties initially completed.",HyperHacker,15 hours ago,https://replit.com/bounties/@HyperHacker/beginner-bounty-scra?t=
+Have no bounties initially completed.",HyperHacker,16 hours ago,https://replit.com/bounties/@HyperHacker/beginner-bounty-scra?t=
 150,$450.00,due in 19 days,“Link in Bio” React Native App,"I want to make a mobile app to connect my friends and I automatically on all social media platforms.
 
 I want to be able to connect to a friend on this app, and automatically follow on instagram, twitter, TikTok… etc. The friend would also follow me on those social medias after connecting on this app.
@@ -1400,11 +1400,11 @@ Acceptance Criteria
 • Connect with Instagram
 • Invite Friends with a expiring code
 • Automatically follow/connect on the app & instagram
-• Browse my connections list",Accomplice,13 hours ago,https://replit.com/bounties/@Accomplice/link-in-bio-react-na?t=
+• Browse my connections list",Accomplice,14 hours ago,https://replit.com/bounties/@Accomplice/link-in-bio-react-na?t=
 151,$4.50,due in 5 days,Custom Tip Chrome Extension,"I want to easily be able to tip custom cycles on any repl without having to go to another website or repl.
 
 Acceptance Criteria
-You must be able to create a google chrome browser extension that creates an input and button that fits in with the UI (preferably works with themes) and allows you to tip a custom amount of cycles. I also would like the extension code to be clean and organized (preferably commented). The extension can use jQuery but anything else is prohibited.",goblinjuice,11 hours ago,https://replit.com/bounties/@goblinjuice/custom-tip-chrome-ex?t=
+You must be able to create a google chrome browser extension that creates an input and button that fits in with the UI (preferably works with themes) and allows you to tip a custom amount of cycles. I also would like the extension code to be clean and organized (preferably commented). The extension can use jQuery but anything else is prohibited.",goblinjuice,12 hours ago,https://replit.com/bounties/@goblinjuice/custom-tip-chrome-ex?t=
 152,$45.00,due in 8 days,Calendar of Aeroplan Business Class Award Availability from LAX,"Create a website with a calendar view of standard business and first-class award availability from LAX to major international destinations outside of North America via scraping Air Canada's Aeroplan website.
 
 One should be able to select the month of Feb 2023 and hover over the date Feb 10th and have a dropdown menu of all destinations with bookable business and first-class awards at standard award chart prices.
@@ -1412,7 +1412,7 @@ One should be able to select the month of Feb 2023 and hover over the date Feb 1
 Finding availability requires going to https://www.aircanada.com/ca/en/aco/home.html and selecting the ""book with aeroplan points"" box, entering LAX as the origin and some other major city like Singapore as the destination for a date and searching.
 
 For example, if we search LAX to SIN on Feb 10, 2023, we find a flight listed as 87.5k points for business class that departs at 11:00, has 1 stop, takes 25hr55m, and arrives at 04:55 2 days later. But this flight is actually a mixed cabin award that is mostly in economy class so it doesn't count.
-We also see other business class f...",GamblingGlobeTrotter,11 hours ago,https://replit.com/bounties/@GamblingGlobeTrotter/calendar-of-aeroplan?t=
+We also see other business class f...",GamblingGlobeTrotter,12 hours ago,https://replit.com/bounties/@GamblingGlobeTrotter/calendar-of-aeroplan?t=
 153,$25.20,due in 7 days,Point of Interest Website integrated with ChatGPT,"We are looking to build an interactive travel site enabled by ChatGPT.
 
 The website should include a home page with an interactive map and search functionality. Content on the website will be tied to specific locations on the map (we have already written the content). Pinpoints on the map will preview the point of interest, and then users can click to view separate pages on the website which will include the provided content. Each individual content page should include an integration with ChatGPT that users can ask questions to. There should be an open text box (very similar to the ChatGPT playground) for users to type in a prompt and for ChatGPT to respond.",JacksonPerry8,10 hours ago,https://replit.com/bounties/@JacksonPerry8/point-of-interest-we?t=
@@ -1425,7 +1425,7 @@ Acceptance Criteria
 Make sure the landing page looks exactly like what's shown in the design file.
 Page should be responsive.
 In areas where link has to be added, leave it blank and comment it in the code (so it's easier to find).
-I'll send the assets - GIFs and images - over email.",NitinMurali1,8 hours ago,https://replit.com/bounties/@NitinMurali1/redesign-a-landing-p?t=
+I'll send the assets - GIFs and images - over email.",NitinMurali1,9 hours ago,https://replit.com/bounties/@NitinMurali1/redesign-a-landing-p?t=
 155,$135.00,due in 6 days,Chrome extension: Customer service responder helper using trained GPT-3,"We want to make it quick and easy for customer service reps at our company to quickly and easily respond to tickets in ZenDesk.
 
 We want to build a tool that helps them craft the perfect response to the ticket they are looking at, within seconds, without having to parse through existing template responses.
@@ -1456,7 +1456,7 @@ Note: A sample API and dataset will be provided on acceptance, using the Strapi.
 Create Update API data from Google Sheets page including form that includes fields:
 Google Sheet URL (should be shared as anyone with link)
 Header columns in Google Sheet
-Identify primar...",RobertHolliday,5 hours ago,https://replit.com/bounties/@RobertHolliday/json-import-update-f?t=
+Identify primar...",RobertHolliday,6 hours ago,https://replit.com/bounties/@RobertHolliday/json-import-update-f?t=
 157,$180.00,due in 3 days,"Fix yarn, vite, import errors for some packages","Here is our repo: https://github.com/uselotus/lotus
 I am trying to import packages like '@uiw/react-codemirror' and sql-formatter. But am getting the error here consistently. I'm clearly missing something.
 
@@ -1464,9 +1464,9 @@ I am trying to import packages like '@uiw/react-codemirror' and sql-formatter. B
 
 Acceptance Criteria
 Fork the repo and create a PR that you can merge in to main once its ready.
-First import both of these successfully and try to use them in a file to prove it. In addition please lay out the steps you took to solve this issue and what I can do in the future to download packages consistently while avoiding this.",MikaelNida,4 hours ago,https://replit.com/bounties/@MikaelNida/fix-yarn-vite-import?t=
+First import both of these successfully and try to use them in a file to prove it. In addition please lay out the steps you took to solve this issue and what I can do in the future to download packages consistently while avoiding this.",MikaelNida,5 hours ago,https://replit.com/bounties/@MikaelNida/fix-yarn-vite-import?t=
 158,$18.00,due in 3 days,Host Python backend on Google Cloud App Engine,"We have a GitHub with a Python backend I would like to host on Google Cloud’s servers. I need someone proficient in App Engine to upload it there, and there will be lots more work moving forward with Google Cloud!
 
 Acceptance Criteria
 Backend hosted on App Engine
-Works",SamuelSmith68,7 minutes ago,https://replit.com/bounties/@SamuelSmith68/host-python-backend?t=
+Works",SamuelSmith68,38 minutes ago,https://replit.com/bounties/@SamuelSmith68/host-python-backend?t=
