@@ -1412,7 +1412,7 @@ One should be able to select the month of Feb 2023 and hover over the date Feb 1
 Finding availability requires going to https://www.aircanada.com/ca/en/aco/home.html and selecting the ""book with aeroplan points"" box, entering LAX as the origin and some other major city like Singapore as the destination for a date and searching.
 
 For example, if we search LAX to SIN on Feb 10, 2023, we find a flight listed as 87.5k points for business class that departs at 11:00, has 1 stop, takes 25hr55m, and arrives at 04:55 2 days later. But this flight is actually a mixed cabin award that is mostly in economy class so it doesn't count.
-We also see other business class f...",GamblingGlobeTrotter,5 hours ago,https://replit.com/bounties/@GamblingGlobeTrotter/calendar-of-aeroplan?t=
+We also see other business class f...",GamblingGlobeTrotter,6 hours ago,https://replit.com/bounties/@GamblingGlobeTrotter/calendar-of-aeroplan?t=
 153,$25.20,due in 8 days,Point of Interest Website integrated with ChatGPT,"We are looking to build an interactive travel site enabled by ChatGPT.
 
 The website should include a home page with an interactive map and search functionality. Content on the website will be tied to specific locations on the map (we have already written the content). Pinpoints on the map will preview the point of interest, and then users can click to view separate pages on the website which will include the provided content. Each individual content page should include an integration with ChatGPT that users can ask questions to. There should be an open text box (very similar to the ChatGPT playground) for users to type in a prompt and for ChatGPT to respond.",JacksonPerry8,4 hours ago,https://replit.com/bounties/@JacksonPerry8/point-of-interest-we?t=
@@ -1425,7 +1425,7 @@ Acceptance Criteria
 Make sure the landing page looks exactly like what's shown in the design file.
 Page should be responsive.
 In areas where link has to be added, leave it blank and comment it in the code (so it's easier to find).
-I'll send the assets - GIFs and images - over email.",NitinMurali1,2 hours ago,https://replit.com/bounties/@NitinMurali1/redesign-a-landing-p?t=
+I'll send the assets - GIFs and images - over email.",NitinMurali1,3 hours ago,https://replit.com/bounties/@NitinMurali1/redesign-a-landing-p?t=
 155,$135.00,due in 7 days,Chrome extension: Customer service responder helper using trained GPT-3,"We want to make it quick and easy for customer service reps at our company to quickly and easily respond to tickets in ZenDesk.
 
 We want to build a tool that helps them craft the perfect response to the ticket they are looking at, within seconds, without having to parse through existing template responses.
@@ -1440,4 +1440,4 @@ The model (text-davinci-003 is probably best), has been trained on our company's
    Model type (defaults to text-davinci-003)
    Max Tokens returned from the model (defaults to 1024)
    Temperature
-   Stop words with support for newlines (similar to the OpenAI...",nish-b,59 minutes ago,https://replit.com/bounties/@nish-b/chrome-extension-cus?t=
+   Stop words with support for newlines (similar to the OpenAI...",nish-b,1 hour ago,https://replit.com/bounties/@nish-b/chrome-extension-cus?t=
