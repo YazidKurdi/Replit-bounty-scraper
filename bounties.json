@@ -1486,7 +1486,7 @@
         "title": "Use GPT to find the concept of the problem, look up an a framework for solving",
         "description": "I'd like to run a bot that takes a sentence describing a problem or issue, uses GPT to help understand the concept being described, and then provides as a response the most appropriate element of a database of pre-approved text responses from a Google Sheet. For example, it could respond with a relevant quote, life lesson, framework for solving the problem, etc.\n\nAcceptance Criteria:\nA discord bot or webpage that takes as an input this text string, and provides back the most appropriate item in a list of other pre-set text strings (e.g., frameworks) in the form of a Google Sheet. The creator can make their own sample pre-set data set if they like, to illustrate how it works. I'd also like to understand how the creator used GPT-3. (This may require embeddings or some other fine tuning.)",
         "author": "NabeelHyatt",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@NabeelHyatt/use-gpt-to-find-the?t="
     },
     {
@@ -1536,7 +1536,7 @@
         "title": "Point of Interest Website integrated with ChatGPT",
         "description": "We are looking to build an interactive travel site enabled by ChatGPT.\n\nThe website should include a home page with an interactive map and search functionality. Content on the website will be tied to specific locations on the map (we have already written the content). Pinpoints on the map will preview the point of interest, and then users can click to view separate pages on the website which will include the provided content. Each individual content page should include an integration with ChatGPT that users can ask questions to. There should be an open text box (very similar to the ChatGPT playground) for users to type in a prompt and for ChatGPT to respond.",
         "author": "JacksonPerry8",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@JacksonPerry8/point-of-interest-we?t="
     },
     {
@@ -1556,7 +1556,7 @@
         "title": "Chrome extension: Customer service responder helper using trained GPT-3",
         "description": "We want to make it quick and easy for customer service reps at our company to quickly and easily respond to tickets in ZenDesk.\n\nWe want to build a tool that helps them craft the perfect response to the ticket they are looking at, within seconds, without having to parse through existing template responses.\n\nThe tool should work like the following:\nCan be triggered manually using a shortcut (say control+space).\nThe prompt sent to the model includes the ZenDesk ticket you're responding to. If the ticket chain is too long it needs to be truncated.\nCan complete entire ticket responses.\nThe model (text-davinci-003 is probably best), has been trained on our company's FAQ docs (which we will provide to you)\n   The user's OpenAI API Key\n   A custom prompt (with a default prompt as described above)\n   Model type (defaults to text-davinci-003)\n   Max Tokens returned from the model (defaults to 1024)\n   Temperature\n   Stop words with support for newlines (similar to the OpenAI...",
         "author": "nish-b",
-        "posted_time": "9 minutes ago",
+        "posted_time": "16 minutes ago",
         "link": "https://replit.com/bounties/@nish-b/chrome-extension-cus?t="
     }
 ]
