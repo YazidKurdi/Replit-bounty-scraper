@@ -1446,7 +1446,7 @@
         "title": "How to set a php variable to a javascript variable",
         "description": "This should not be that hard\nI know that this seems like it should be so easy since PHP \"works\" well with javascript, but I have spent several hours poring over php.net documentation and have been to many geeksforgeeks blogs that are filled of ads and useless information, I just want to be able to take this\ndocument.getElementById(\"my_id\").innerHTML += (y);\nand turn it into this\n$phpvar = $dom->getElementById('my_id')->textContent;\nbut this doesn't work.\nplease help",
         "author": "Altify-Developm",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@Altify-Developm/how-to-set-a-php-var?t="
     },
     {
@@ -1536,7 +1536,7 @@
         "title": "Point of Interest Website integrated with ChatGPT",
         "description": "We are looking to build an interactive travel site enabled by ChatGPT.\n\nThe website should include a home page with an interactive map and search functionality. Content on the website will be tied to specific locations on the map (we have already written the content). Pinpoints on the map will preview the point of interest, and then users can click to view separate pages on the website which will include the provided content. Each individual content page should include an integration with ChatGPT that users can ask questions to. There should be an open text box (very similar to the ChatGPT playground) for users to type in a prompt and for ChatGPT to respond.",
         "author": "JacksonPerry8",
-        "posted_time": "12 minutes ago",
+        "posted_time": "22 minutes ago",
         "link": "https://replit.com/bounties/@JacksonPerry8/point-of-interest-we?t="
     }
 ]

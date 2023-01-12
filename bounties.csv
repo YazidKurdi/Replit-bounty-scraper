@@ -1355,7 +1355,7 @@ document.getElementById(""my_id"").innerHTML += (y);
 and turn it into this
 $phpvar = $dom->getElementById('my_id')->textContent;
 but this doesn't work.
-please help",Altify-Developm,12 hours ago,https://replit.com/bounties/@Altify-Developm/how-to-set-a-php-var?t=
+please help",Altify-Developm,13 hours ago,https://replit.com/bounties/@Altify-Developm/how-to-set-a-php-var?t=
 145,$450.00,due in 6 days,"Feature to visualize flows and diagrams with a given data format, using canvas in React.","I want a react component that can render diagrams from data like:
 
 {
@@ -1415,4 +1415,4 @@ For example, if we search LAX to SIN on Feb 10, 2023, we find a flight listed as
 We also see other business class f...",GamblingGlobeTrotter,1 hour ago,https://replit.com/bounties/@GamblingGlobeTrotter/calendar-of-aeroplan?t=
 153,$25.20,due in 8 days,Point of Interest Website integrated with ChatGPT,"We are looking to build an interactive travel site enabled by ChatGPT.
 
-The website should include a home page with an interactive map and search functionality. Content on the website will be tied to specific locations on the map (we have already written the content). Pinpoints on the map will preview the point of interest, and then users can click to view separate pages on the website which will include the provided content. Each individual content page should include an integration with ChatGPT that users can ask questions to. There should be an open text box (very similar to the ChatGPT playground) for users to type in a prompt and for ChatGPT to respond.",JacksonPerry8,12 minutes ago,https://replit.com/bounties/@JacksonPerry8/point-of-interest-we?t=
+The website should include a home page with an interactive map and search functionality. Content on the website will be tied to specific locations on the map (we have already written the content). Pinpoints on the map will preview the point of interest, and then users can click to view separate pages on the website which will include the provided content. Each individual content page should include an integration with ChatGPT that users can ask questions to. There should be an open text box (very similar to the ChatGPT playground) for users to type in a prompt and for ChatGPT to respond.",JacksonPerry8,22 minutes ago,https://replit.com/bounties/@JacksonPerry8/point-of-interest-we?t=
