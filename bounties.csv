@@ -1482,7 +1482,7 @@ The Bounty hunter can likely find / construct lots of examples from articles on 
 160,$9.00,due in 12 days,Discordpy - call task/send message on interval,"I am attempting to create a Discord bot using Python that checks an API endpoint every x minutes and sends a message if something is different. I have tried a few things but each attempt results in an error
 
 Acceptance Criteria
-A working Discord bot that can call a task every x minutes",--smallguy89--,4 hours ago,https://replit.com/bounties/@--smallguy89--/discordpy-call-tasks?t=
+A working Discord bot that can call a task every x minutes",--smallguy89--,5 hours ago,https://replit.com/bounties/@--smallguy89--/discordpy-call-tasks?t=
 161,$45.00,due in 1 month,Poker bot to give suggestion for next move real time,"First time to use Replit bounty, so, not sure I can get refund or not, if no one take this bounty. so, for now I will only pay $50 to get it posted.
 I'm willing to pay $500 total if this worked out.
 And I will most likely pay extra in the future to buy more features. (I have lots of ideas to extend this, but too much to put on here)
@@ -1502,7 +1502,7 @@ Demonstrate via email description, with maybe a couple of code snippets that you
 https://cookie-clicker.applecoders.repl.co
 
 We will judge completed projects on the end date. Thank you.
-This code will belong to me.",sqcodes,3 hours ago,https://replit.com/bounties/@sqcodes/cookie-clicker-chall?t=
+This code will belong to me.",sqcodes,4 hours ago,https://replit.com/bounties/@sqcodes/cookie-clicker-chall?t=
 164,$11.25,due in 3 days,File Upload from Website to Azure Blob,"I am trying to build a form on a website that will take a PDF that is uploaded by a user and save it in my Azure Blob (already created and fully configured). I have the form built in HTML and started to build the C# code that would process that file upload, but am unsure how to proceed. My intent after we get the file upload working is to parse the PDF that is upload and pull down data from it and put it in my SQL database, but that part will be outside of the scope of this effort. I am using VS Code and C# to build this.
 
 Acceptance Criteria
