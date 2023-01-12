@@ -1384,7 +1384,7 @@ Docs must be written with mkdocs, or an actual better alternative.",vibo,11 hour
 148,$225.00,due in 8 days,"Use GPT to find the concept of the problem, look up an a framework for solving","I'd like to run a bot that takes a sentence describing a problem or issue, uses GPT to help understand the concept being described, and then provides as a response the most appropriate element of a database of pre-approved text responses from a Google Sheet. For example, it could respond with a relevant quote, life lesson, framework for solving the problem, etc.
 
 Acceptance Criteria:
-A discord bot or webpage that takes as an input this text string, and provides back the most appropriate item in a list of other pre-set text strings (e.g., frameworks) in the form of a Google Sheet. The creator can make their own sample pre-set data set if they like, to illustrate how it works. I'd also like to understand how the creator used GPT-3. (This may require embeddings or some other fine tuning.)",NabeelHyatt,9 hours ago,https://replit.com/bounties/@NabeelHyatt/use-gpt-to-find-the?t=
+A discord bot or webpage that takes as an input this text string, and provides back the most appropriate item in a list of other pre-set text strings (e.g., frameworks) in the form of a Google Sheet. The creator can make their own sample pre-set data set if they like, to illustrate how it works. I'd also like to understand how the creator used GPT-3. (This may require embeddings or some other fine tuning.)",NabeelHyatt,10 hours ago,https://replit.com/bounties/@NabeelHyatt/use-gpt-to-find-the?t=
 149,$0.90,closed,[Beginner Bounty] Scrape my website.,"Scrape my website (https://hyperhacker.repl.co) and return it's contents into a json file
 
 Acceptance Criteria
@@ -1404,7 +1404,7 @@ Acceptance Criteria
 151,$4.50,due in 6 days,Custom Tip Chrome Extension,"I want to easily be able to tip custom cycles on any repl without having to go to another website or repl.
 
 Acceptance Criteria
-You must be able to create a google chrome browser extension that creates an input and button that fits in with the UI (preferably works with themes) and allows you to tip a custom amount of cycles. I also would like the extension code to be clean and organized (preferably commented). The extension can use jQuery but anything else is prohibited.",goblinjuice,58 minutes ago,https://replit.com/bounties/@goblinjuice/custom-tip-chrome-ex?t=
+You must be able to create a google chrome browser extension that creates an input and button that fits in with the UI (preferably works with themes) and allows you to tip a custom amount of cycles. I also would like the extension code to be clean and organized (preferably commented). The extension can use jQuery but anything else is prohibited.",goblinjuice,1 hour ago,https://replit.com/bounties/@goblinjuice/custom-tip-chrome-ex?t=
 152,$45.00,due in 9 days,Calendar of Aeroplan Business Class Award Availability from LAX,"Create a website with a calendar view of standard business and first-class award availability from LAX to major international destinations outside of North America via scraping Air Canada's Aeroplan website.
 
 One should be able to select the month of Feb 2023 and hover over the date Feb 10th and have a dropdown menu of all destinations with bookable business and first-class awards at standard award chart prices.
@@ -1412,4 +1412,4 @@ One should be able to select the month of Feb 2023 and hover over the date Feb 1
 Finding availability requires going to https://www.aircanada.com/ca/en/aco/home.html and selecting the ""book with aeroplan points"" box, entering LAX as the origin and some other major city like Singapore as the destination for a date and searching.
 
 For example, if we search LAX to SIN on Feb 10, 2023, we find a flight listed as 87.5k points for business class that departs at 11:00, has 1 stop, takes 25hr55m, and arrives at 04:55 2 days later. But this flight is actually a mixed cabin award that is mostly in economy class so it doesn't count.
-We also see other business class f...",GamblingGlobeTrotter,31 minutes ago,https://replit.com/bounties/@GamblingGlobeTrotter/calendar-of-aeroplan?t=
+We also see other business class f...",GamblingGlobeTrotter,40 minutes ago,https://replit.com/bounties/@GamblingGlobeTrotter/calendar-of-aeroplan?t=
