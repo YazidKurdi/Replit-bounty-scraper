@@ -1526,7 +1526,7 @@
         "title": "Calendar of Aeroplan Business Class Award Availability from LAX",
         "description": "Create a website with a calendar view of standard business and first-class award availability from LAX to major international destinations outside of North America via scraping Air Canada's Aeroplan website.\n\nOne should be able to select the month of Feb 2023 and hover over the date Feb 10th and have a dropdown menu of all destinations with bookable business and first-class awards at standard award chart prices.\n\nFinding availability requires going to https://www.aircanada.com/ca/en/aco/home.html and selecting the \"book with aeroplan points\" box, entering LAX as the origin and some other major city like Singapore as the destination for a date and searching.\n\nFor example, if we search LAX to SIN on Feb 10, 2023, we find a flight listed as 87.5k points for business class that departs at 11:00, has 1 stop, takes 25hr55m, and arrives at 04:55 2 days later. But this flight is actually a mixed cabin award that is mostly in economy class so it doesn't count.\nWe also see other business class f...",
         "author": "GamblingGlobeTrotter",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@GamblingGlobeTrotter/calendar-of-aeroplan?t="
     },
     {
@@ -1546,7 +1546,7 @@
         "title": "redesign a landing page. End result should be responsive ",
         "description": "There's a landing page: https://replit.com/@LaurensSchunk/Podreel\nNeed to make some minor changes to it. Here's a screengrab: https://app.usebubbles.com/qJ3Wd8R5UW7g6dr7SkUHdM/nitin-s-video-recording\n\nI'll send the design file over email.\n\nAcceptance Criteria\nMake sure the landing page looks exactly like what's shown in the design file.\nPage should be responsive.\nIn areas where link has to be added, leave it blank and comment it in the code (so it's easier to find).\nI'll send the assets - GIFs and images - over email.",
         "author": "NitinMurali1",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@NitinMurali1/redesign-a-landing-p?t="
     },
     {
@@ -1566,7 +1566,7 @@
         "title": "JSON Import / Update from Google Sheets",
         "description": "Create Registration / Login Page with Google Auth\n\nCreate Import data from REST API page including form that includes fields:\nProvide the JSON URL - the URL of the endpoint to import data from\nSpecify the optional parameters such as HTTP method, HTTP headers, URL query string, etc.\nSpecify the fields to be retrieved from the JSON API\nSelect Google Sheets as a destination application, connect your Google account and select a Google Sheets file and a sheet to import JSON data to\nButton to start import\nPopulate Google Sheet with Data with a header row for the column names\nSuccess Indicator\nNote: A sample API and dataset will be provided on acceptance, using the Strapi.io v3 API : https://docs-v3.strapi.io/developer-docs/latest/developer-resources/content-api/content-api.html#endpoints\n\nCreate Update API data from Google Sheets page including form that includes fields:\nGoogle Sheet URL (should be shared as anyone with link)\nHeader columns in Google Sheet\nIdentify primar...",
         "author": "RobertHolliday",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@RobertHolliday/json-import-update-f?t="
     },
     {
@@ -1576,7 +1576,7 @@
         "title": "Fix yarn, vite, import errors for some packages",
         "description": "Here is our repo: https://github.com/uselotus/lotus\nI am trying to import packages like '@uiw/react-codemirror' and sql-formatter. But am getting the error here consistently. I'm clearly missing something.\n\n Internal server error: Failed to resolve import \"sql-formatter\" from \"src/components/Metrics/MetricDetails.tsx\". Does the file exist?\n\nAcceptance Criteria\nFork the repo and create a PR that you can merge in to main once its ready.\nFirst import both of these successfully and try to use them in a file to prove it. In addition please lay out the steps you took to solve this issue and what I can do in the future to download packages consistently while avoiding this.",
         "author": "MikaelNida",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@MikaelNida/fix-yarn-vite-import?t="
     },
     {
@@ -1586,7 +1586,7 @@
         "title": "Host Python backend on Google Cloud App Engine",
         "description": "We have a GitHub with a Python backend I would like to host on Google Cloud\u2019s servers. I need someone proficient in App Engine to upload it there, and there will be lots more work moving forward with Google Cloud!\n\nAcceptance Criteria\nBackend hosted on App Engine\nWorks",
         "author": "SamuelSmith68",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@SamuelSmith68/host-python-backend?t="
     },
     {
@@ -1596,17 +1596,17 @@
         "title": "Use OpenAI API to properly order thoughts/ideas using Python code to make an argument or a story",
         "description": "I want to use a Python program to supply GPT3 with a list of ideas/ concepts and have the AI order these logically. Sort of like making an argument or story.\n\nShould be able to take , say 5  concepts which are two or three sentences long (call these mini paragraphs) and put these mini paragraphs in logical order.\n\nAcceptance Criteria\nPython code executing the above task on  3 sample  \"mini paragraph\" series of ideas.  Each series of ideas must contain at least 4 concepts (or 4 mini paragraphs).\nIf one or more of the supplied concepts doesn't fit in logically with the others, it should just be left out of the resulting argument. \"Unit testing \" should include a couple of cases where a concept or two is left out because they don't fit. (this might be the tricky part)\n\nThe Bounty hunter can likely find / construct lots of examples from articles on line or from tweet threads.",
         "author": "YorkvilleDS",
-        "posted_time": "13 minutes ago",
+        "posted_time": "34 minutes ago",
         "link": "https://replit.com/bounties/@YorkvilleDS/use-openai-api-to-pr?t="
     },
     {
         "index": "160",
         "price": "$9.00",
-        "due_days": "due in 13 days",
+        "due_days": "due in 12 days",
         "title": "Discordpy - call task/send message on interval",
         "description": "I am attempting to create a Discord bot using Python that checks an API endpoint every x minutes and sends a message if something is different. I have tried a few things but each attempt results in an error\n\nAcceptance Criteria\nA working Discord bot that can call a task every x minutes",
         "author": "--smallguy89--",
-        "posted_time": "1 second ago",
+        "posted_time": "21 minutes ago",
         "link": "https://replit.com/bounties/@--smallguy89--/discordpy-call-tasks?t="
     }
 ]
