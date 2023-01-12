@@ -1506,10 +1506,10 @@ This code will belong to me.",sqcodes,4 hours ago,https://replit.com/bounties/@s
 164,$11.25,due in 3 days,File Upload from Website to Azure Blob,"I am trying to build a form on a website that will take a PDF that is uploaded by a user and save it in my Azure Blob (already created and fully configured). I have the form built in HTML and started to build the C# code that would process that file upload, but am unsure how to proceed. My intent after we get the file upload working is to parse the PDF that is upload and pull down data from it and put it in my SQL database, but that part will be outside of the scope of this effort. I am using VS Code and C# to build this.
 
 Acceptance Criteria
-Fully compiled code to process a file upload on my website.",traconatc,3 hours ago,https://replit.com/bounties/@traconatc/file-upload-from-web?t=
+Fully compiled code to process a file upload on my website.",traconatc,4 hours ago,https://replit.com/bounties/@traconatc/file-upload-from-web?t=
 165,$180.00,due in 6 days,Sync Strava API data to videocreationdate for Xcode app,"We have an app that will show Strava data like speed, cadence, wattage and heartrate over a video. We need help syncing the Strava data to the video so the time stamps line up. A video with the data will then be generated with this data. A menu to choose which datastreams and in what size and colour the data will be on the video will also need to be made.
 
 The interface and general framework are already in place.
 
 Acceptance Criteria
-We are looking for a good Swift coder who can help us with this problem.",Lucasden,1 hour ago,https://replit.com/bounties/@Lucasden/sync-strava-api-data?t=
+We are looking for a good Swift coder who can help us with this problem.",Lucasden,2 hours ago,https://replit.com/bounties/@Lucasden/sync-strava-api-data?t=
