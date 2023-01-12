@@ -1626,7 +1626,7 @@
         "title": "Convince me you know a lot about Interactive Brokers Python API for TWS. I have a lot of work for you if you do",
         "description": "We have built an algorithmic trading system for stocks and ETFs. Executing the trades requires some finicky repetitive, highly automatable work with the Interactive Brokers TWS API\nIF you have skills to work with this API I have thousands of dollars worth of projects to execute on that platform.\n\nAcceptance Criteria\nDemonstrate via email description, with maybe a couple of code snippets that you are good with this tool and have some time going forward to help on an exciting project. This is just the \"search bounty\"",
         "author": "YorkvilleDS",
-        "posted_time": "45 minutes ago",
+        "posted_time": "59 minutes ago",
         "link": "https://replit.com/bounties/@YorkvilleDS/convince-me-you-know?t="
     },
     {
@@ -1636,7 +1636,7 @@
         "title": "Cookie Clicker Challenge",
         "description": "I am hosting a bounty challenge. I want everybody to attempt to create a cookie clicker like this:\nhttps://cookie-clicker.applecoders.repl.co\n\nWe will judge completed projects on the end date. Thank you.\nThis code will belong to me.",
         "author": "sqcodes",
-        "posted_time": "31 minutes ago",
+        "posted_time": "45 minutes ago",
         "link": "https://replit.com/bounties/@sqcodes/cookie-clicker-chall?t="
     },
     {
@@ -1646,7 +1646,7 @@
         "title": "File Upload from Website to Azure Blob",
         "description": "I am trying to build a form on a website that will take a PDF that is uploaded by a user and save it in my Azure Blob (already created and fully configured). I have the form built in HTML and started to build the C# code that would process that file upload, but am unsure how to proceed. My intent after we get the file upload working is to parse the PDF that is upload and pull down data from it and put it in my SQL database, but that part will be outside of the scope of this effort. I am using VS Code and C# to build this.\n\nAcceptance Criteria\nFully compiled code to process a file upload on my website.",
         "author": "traconatc",
-        "posted_time": "22 minutes ago",
+        "posted_time": "37 minutes ago",
         "link": "https://replit.com/bounties/@traconatc/file-upload-from-web?t="
     }
 ]
