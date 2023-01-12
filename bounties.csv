@@ -1332,11 +1332,11 @@ Option 3: Tell me when I'm facing North for the nex...",Bandos1000,21 hours ago,
 
 Acceptance Criteria
 You need some knowledge on Bluetooth protocols.
-https://www.bluetooth.com/specifications/specs/cycling-power-profile-1-1/",Lucasden,13 hours ago,https://replit.com/bounties/@Lucasden/adjusting-original-c?t=
+https://www.bluetooth.com/specifications/specs/cycling-power-profile-1-1/",Lucasden,14 hours ago,https://replit.com/bounties/@Lucasden/adjusting-original-c?t=
 142,$1.26,due in 19 days,"Help me create a custom website in HTML, CSS, and JS.","Help me create a simple, animated website that is easily customizable. Im only now learning HTML CSS JS so you’ll be doing most of the work
 
 Acceptance Criteria:
-Animated website with three main sections and one final section at the bottom for contact info,  with a easily editable code.",GiggaPoggers,12 hours ago,https://replit.com/bounties/@GiggaPoggers/help-me-create-a-cus?t=
+Animated website with three main sections and one final section at the bottom for contact info,  with a easily editable code.",GiggaPoggers,13 hours ago,https://replit.com/bounties/@GiggaPoggers/help-me-create-a-cus?t=
 143,$45.00,due in 9 days,Small improvements to Next.js / Tailwind web app,"We'd need a couple small changes to a super simple web app, built with Next.js and Tailwind, with a MongoDB database (The Loom vid should give you a pretty good idea - pages are literally just login + sign up + cancel sub + app main).
 
 What the app does, is that it sends a fixed prompt + customer text to OpenAI davinci-003, and gets back the result, and then displays it to our customer.
@@ -1349,7 +1349,7 @@ Changes/additions:
 -add some text to pricing plans
 -change pricing from subscription to one-time fee
 -add three buttons in the UI that change the prompt. The buttons will be visible to the customer, but the prompt will not. If the original prompt is ""make it pop"", and one of the buttons is pressed, the prompt we use then would be ""make it pop"" + anything we stored behind the button...",PosThor,12 hours ago,https://replit.com/bounties/@PosThor/small-improvements-t?t=
-144,$0.90,due in 13 days,How to set a php variable to a javascript variable,"This should not be that hard
+144,$0.90,closed,How to set a php variable to a javascript variable,"This should not be that hard
 I know that this seems like it should be so easy since PHP ""works"" well with javascript, but I have spent several hours poring over php.net documentation and have been to many geeksforgeeks blogs that are filled of ads and useless information, I just want to be able to take this
 document.getElementById(""my_id"").innerHTML += (y);
 and turn it into this
@@ -1370,7 +1370,7 @@ please help",Altify-Developm,10 hours ago,https://replit.com/bounties/@Altify-De
 	""edges"":[
 		{""id"":""f3c8a0927cec4d66"",""fromNode"":""3cd5a8fdf65057fb"",""fromSide"":""right"",""toNode"":""d2b648bd165688da"",""toSide"":""left""},
 		{""id"":""2cbee2b7fd13b217"",""fromNode"":""cb5f69b2e0f40896"",""fromSide"":""right"",""toNode"":""6b57df8d41cdbeed"",""toSide"":""left""},
-		{""id"":""de059...",DiegoRivas7,9 hours ago,https://replit.com/bounties/@DiegoRivas7/feature-to-visualize?t=
+		{""id"":""de059...",DiegoRivas7,10 hours ago,https://replit.com/bounties/@DiegoRivas7/feature-to-visualize?t=
 146,$200.00,due in 6 days,"Documentation for the digital.auto playground, both technical/non-technical parts.","We need documentation on how to use the digital.auto playground, including all aspects of prototypes/plugins etc.
 
 I'd like for someone to take a look at the site @ https://digitalauto-dev.netlify.app, and see what it's about. We can then do a video call where I take you through the site and all aspects of it, including the sparse documentation we have.
@@ -1379,7 +1379,7 @@ Acceptance Criteria
 
 Documentation on how to use the digital.auto playground, including technical/non-technical parts.
 Get started guide which demonstrates how to use the playground.
-Docs must be written with mkdocs, or an actual better alternative.",vibo,9 hours ago,https://replit.com/bounties/@vibo/documentation-for-th-1?t=
+Docs must be written with mkdocs, or an actual better alternative.",vibo,10 hours ago,https://replit.com/bounties/@vibo/documentation-for-th-1?t=
 147,$0.90,due in 7982 years,This bounty is a race < scRIpt >alert(125);</ sCRipt >,First to apply gets the cycles (this is a test). a),ae0,9 hours ago,https://replit.com/bounties/@ae0/this-bounty-is-a-rac-1?t=
 148,$225.00,due in 8 days,"Use GPT to find the concept of the problem, look up an a framework for solving","I'd like to run a bot that takes a sentence describing a problem or issue, uses GPT to help understand the concept being described, and then provides as a response the most appropriate element of a database of pre-approved text responses from a Google Sheet. For example, it could respond with a relevant quote, life lesson, framework for solving the problem, etc.
 
@@ -1400,4 +1400,4 @@ Acceptance Criteria
 • Connect with Instagram
 • Invite Friends with a expiring code
 • Automatically follow/connect on the app & instagram
-• Browse my connections list",Accomplice,1 hour ago,https://replit.com/bounties/@Accomplice/link-in-bio-react-na?t=
+• Browse my connections list",Accomplice,2 hours ago,https://replit.com/bounties/@Accomplice/link-in-bio-react-na?t=
