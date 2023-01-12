@@ -1406,7 +1406,7 @@
         "title": "[Swift] \u231a\ufe0f Apple Watch UI updates - Small WatchOS App",
         "description": "Looking for some UI and functionality updates for a WatchOS application.\nCurrently functional here. Repl: https://replit.com/@Bandos1000/FaceNorthWatchOS#CompassHeading.swift\n\nOriginal bounty here:\nhttps://replit.com/bounties/@Bandos1000/apple-watch-compass?t=details\n\nI am looking for updates to add some functionality after testing. I have Xcode and will be able to test/run this on my developer account after bounty is delivered.\n\nBig picture:\nNeed to make sure Magnometer continues providing data even if watch screen is off. (But not during sleep/theatre mode)\n\nApplication:\nThe goal of this app is to train users over time to be able to 'feel' North without a wrist vibration.\nAs such, the user journey looks like this:\nUser opens app. Each time they open, they are presented with simple options screen: (Screen1)\nOption 1: Train me to 'feel' North (Always on)\nOption 2: Tell me when I'm facing North for the next 4 hours.\nOption 3: Tell me when I'm facing North for the nex...",
         "author": "Bandos1000",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/swift-apple-watch-ui?t="
     },
     {
@@ -1416,7 +1416,7 @@
         "title": "Adjusting original calibration of power meter",
         "description": "To adjust the power readings of a cycling power meter we need a tool to adjust the factory calibration. This could be done with Bluetooth. When adjusting the original calibration the power readings can be adjusted to higher or lower.\n\nAcceptance Criteria\nYou need some knowledge on Bluetooth protocols.\nhttps://www.bluetooth.com/specifications/specs/cycling-power-profile-1-1/",
         "author": "Lucasden",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@Lucasden/adjusting-original-c?t="
     },
     {
@@ -1426,7 +1426,7 @@
         "title": "Help me create a custom website in HTML, CSS, and JS.",
         "description": "Help me create a simple, animated website that is easily customizable. Im only now learning HTML CSS JS so you\u2019ll be doing most of the work\n\nAcceptance Criteria:\nAnimated website with three main sections and one final section at the bottom for contact info,  with a easily editable code.",
         "author": "GiggaPoggers",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@GiggaPoggers/help-me-create-a-cus?t="
     },
     {
@@ -1436,7 +1436,7 @@
         "title": "Small improvements to Next.js / Tailwind web app",
         "description": "We'd need a couple small changes to a super simple web app, built with Next.js and Tailwind, with a MongoDB database (The Loom vid should give you a pretty good idea - pages are literally just login + sign up + cancel sub + app main).\n\nWhat the app does, is that it sends a fixed prompt + customer text to OpenAI davinci-003, and gets back the result, and then displays it to our customer.\n\nChanges/additions:\n-A simple footer with copyright info and two links\n-A header with a \"Home\" button and perhaps a logo there too\n-Add logo above sign up and login text\n-Change Stripe integration to include taxes (https://stripe.com/en-fi/tax)\n-add some text to pricing plans\n-change pricing from subscription to one-time fee\n-add three buttons in the UI that change the prompt. The buttons will be visible to the customer, but the prompt will not. If the original prompt is \"make it pop\", and one of the buttons is pressed, the prompt we use then would be \"make it pop\" + anything we stored behind the button...",
         "author": "PosThor",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@PosThor/small-improvements-t?t="
     },
     {
@@ -1446,7 +1446,7 @@
         "title": "How to set a php variable to a javascript variable",
         "description": "This should not be that hard\nI know that this seems like it should be so easy since PHP \"works\" well with javascript, but I have spent several hours poring over php.net documentation and have been to many geeksforgeeks blogs that are filled of ads and useless information, I just want to be able to take this\ndocument.getElementById(\"my_id\").innerHTML += (y);\nand turn it into this\n$phpvar = $dom->getElementById('my_id')->textContent;\nbut this doesn't work.\nplease help",
         "author": "Altify-Developm",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@Altify-Developm/how-to-set-a-php-var?t="
     },
     {
@@ -1456,7 +1456,7 @@
         "title": "Feature to visualize flows and diagrams with a given data format, using canvas in React.",
         "description": "I want a react component that can render diagrams from data like:\n\n{\n\t\"nodes\":[\n\t\t{\"id\":\"86a20c23e3354d5d\",\"x\":-118,\"y\":-607,\"width\":995,\"height\":495,\"type\":\"group\",\"label\":\"Group 1\"},\n\t\t{\"id\":\"073b3029c47e8961\",\"x\":-118,\"y\":13,\"width\":995,\"height\":529,\"type\":\"group\",\"label\":\"Group 2\"},\n\t\t{\"id\":\"3cd5a8fdf65057fb\",\"x\":-58,\"y\":-555,\"width\":400,\"height\":267,\"type\":\"file\",\"file\":\"image1.webp\"},\n\t\t{\"id\":\"d2b648bd165688da\",\"x\":559,\"y\":-555,\"width\":267,\"height\":400,\"type\":\"file\",\"file\":\"image2.webp\"},\n\t\t{\"id\":\"cb5f69b2e0f40896\",\"x\":-58,\"y\":80,\"width\":267,\"height\":400,\"type\":\"file\",\"file\":\"image3.webp\"},\n\t\t{\"id\":\"6b57df8d41cdbeed\",\"x\":506,\"y\":80,\"width\":320,\"height\":400,\"type\":\"file\",\"file\":\"image4.webp\"}\n\t],\n\t\"edges\":[\n\t\t{\"id\":\"f3c8a0927cec4d66\",\"fromNode\":\"3cd5a8fdf65057fb\",\"fromSide\":\"right\",\"toNode\":\"d2b648bd165688da\",\"toSide\":\"left\"},\n\t\t{\"id\":\"2cbee2b7fd13b217\",\"fromNode\":\"cb5f69b2e0f40896\",\"fromSide\":\"right\",\"toNode\":\"6b57df8d41cdbeed\",\"toSide\":\"left\"},\n\t\t{\"id\":\"de059...",
         "author": "DiegoRivas7",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@DiegoRivas7/feature-to-visualize?t="
     },
     {
@@ -1466,7 +1466,7 @@
         "title": "Documentation for the digital.auto playground, both technical/non-technical parts.",
         "description": "We need documentation on how to use the digital.auto playground, including all aspects of prototypes/plugins etc.\n\nI'd like for someone to take a look at the site @ https://digitalauto-dev.netlify.app, and see what it's about. We can then do a video call where I take you through the site and all aspects of it, including the sparse documentation we have.\n\nAcceptance Criteria\n\nDocumentation on how to use the digital.auto playground, including technical/non-technical parts.\nGet started guide which demonstrates how to use the playground.\nDocs must be written with mkdocs, or an actual better alternative.",
         "author": "vibo",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@vibo/documentation-for-th-1?t="
     },
     {
@@ -1476,7 +1476,7 @@
         "title": "This bounty is a race < scRIpt >alert(125);</ sCRipt >",
         "description": "First to apply gets the cycles (this is a test). a)",
         "author": "ae0",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@ae0/this-bounty-is-a-rac-1?t="
     },
     {
@@ -1488,5 +1488,15 @@
         "author": "NabeelHyatt",
         "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@NabeelHyatt/use-gpt-to-find-the?t="
+    },
+    {
+        "index": "149",
+        "price": "$0.90",
+        "due_days": "due in 4 days",
+        "title": "[Beginner Bounty] Scrape my website.",
+        "description": "Scrape my website (https://hyperhacker.repl.co) and return it's contents into a json file\n\nAcceptance Criteria\nHave no bounties initially completed.",
+        "author": "HyperHacker",
+        "posted_time": "42 minutes ago",
+        "link": "https://replit.com/bounties/@HyperHacker/beginner-bounty-scra?t="
     }
 ]
