@@ -1400,11 +1400,11 @@ Acceptance Criteria
 • Connect with Instagram
 • Invite Friends with a expiring code
 • Automatically follow/connect on the app & instagram
-• Browse my connections list",Accomplice,9 hours ago,https://replit.com/bounties/@Accomplice/link-in-bio-react-na?t=
+• Browse my connections list",Accomplice,10 hours ago,https://replit.com/bounties/@Accomplice/link-in-bio-react-na?t=
 151,$4.50,due in 6 days,Custom Tip Chrome Extension,"I want to easily be able to tip custom cycles on any repl without having to go to another website or repl.
 
 Acceptance Criteria
-You must be able to create a google chrome browser extension that creates an input and button that fits in with the UI (preferably works with themes) and allows you to tip a custom amount of cycles. I also would like the extension code to be clean and organized (preferably commented). The extension can use jQuery but anything else is prohibited.",goblinjuice,7 hours ago,https://replit.com/bounties/@goblinjuice/custom-tip-chrome-ex?t=
+You must be able to create a google chrome browser extension that creates an input and button that fits in with the UI (preferably works with themes) and allows you to tip a custom amount of cycles. I also would like the extension code to be clean and organized (preferably commented). The extension can use jQuery but anything else is prohibited.",goblinjuice,8 hours ago,https://replit.com/bounties/@goblinjuice/custom-tip-chrome-ex?t=
 152,$45.00,due in 9 days,Calendar of Aeroplan Business Class Award Availability from LAX,"Create a website with a calendar view of standard business and first-class award availability from LAX to major international destinations outside of North America via scraping Air Canada's Aeroplan website.
 
 One should be able to select the month of Feb 2023 and hover over the date Feb 10th and have a dropdown menu of all destinations with bookable business and first-class awards at standard award chart prices.
@@ -1456,7 +1456,7 @@ Note: A sample API and dataset will be provided on acceptance, using the Strapi.
 Create Update API data from Google Sheets page including form that includes fields:
 Google Sheet URL (should be shared as anyone with link)
 Header columns in Google Sheet
-Identify primar...",RobertHolliday,60 minutes ago,https://replit.com/bounties/@RobertHolliday/json-import-update-f?t=
+Identify primar...",RobertHolliday,1 hour ago,https://replit.com/bounties/@RobertHolliday/json-import-update-f?t=
 157,$180.00,due in 4 days,"Fix yarn, vite, import errors for some packages","Here is our repo: https://github.com/uselotus/lotus
 I am trying to import packages like '@uiw/react-codemirror' and sql-formatter. But am getting the error here consistently. I'm clearly missing something.
 
@@ -1464,4 +1464,4 @@ I am trying to import packages like '@uiw/react-codemirror' and sql-formatter. B
 
 Acceptance Criteria
 Fork the repo and create a PR that you can merge in to main once its ready.
-First import both of these successfully and try to use them in a file to prove it. In addition please lay out the steps you took to solve this issue and what I can do in the future to download packages consistently while avoiding this.",MikaelNida,4 minutes ago,https://replit.com/bounties/@MikaelNida/fix-yarn-vite-import?t=
+First import both of these successfully and try to use them in a file to prove it. In addition please lay out the steps you took to solve this issue and what I can do in the future to download packages consistently while avoiding this.",MikaelNida,21 minutes ago,https://replit.com/bounties/@MikaelNida/fix-yarn-vite-import?t=
