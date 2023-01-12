@@ -1606,7 +1606,7 @@
         "title": "Discordpy - call task/send message on interval",
         "description": "I am attempting to create a Discord bot using Python that checks an API endpoint every x minutes and sends a message if something is different. I have tried a few things but each attempt results in an error\n\nAcceptance Criteria\nA working Discord bot that can call a task every x minutes",
         "author": "--smallguy89--",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@--smallguy89--/discordpy-call-tasks?t="
     },
     {
@@ -1636,7 +1636,7 @@
         "title": "Cookie Clicker Challenge",
         "description": "I am hosting a bounty challenge. I want everybody to attempt to create a cookie clicker like this:\nhttps://cookie-clicker.applecoders.repl.co\n\nWe will judge completed projects on the end date. Thank you.\nThis code will belong to me.",
         "author": "sqcodes",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@sqcodes/cookie-clicker-chall?t="
     },
     {
@@ -1666,7 +1666,7 @@
         "title": "Add carousel to web widget",
         "description": "#Problem Description\n\nI have a widget that adds product recommendation cards to a page.\nI need a carousel for mobile version, such that only two recommendations are diplayed at a time\n#Acceptance Criteria\n\nhere is how i want it to look\nhttps://arc53data.s3.amazonaws.com/quickshare/Screenshot%202022-12-05%20at%2016.50.03.png\n\nHere is how it looks right now\nhttps://arc53data.s3.amazonaws.com/quickshare/Screenshot%202022-12-16%20at%2012.04.38.png\nI will provide the code for this look\n\nAll you have to do is to add a working carousel for mobile version, such that only two recommendations are displayed at a time, similar to the source material",
         "author": "AlexTushynski",
-        "posted_time": "54 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@AlexTushynski/add-carousel-to-web?t="
     },
     {
@@ -1676,7 +1676,7 @@
         "title": "Positive Reinforcement App using OpenAI's GPT-3 and DaVinci-003",
         "description": "I am building an iOS app that aims to help people who are feeling upset or troubled by providing them with positive reinforcement. The app will use OpenAI's GPT-3 and DaVinci-003 to generate encouraging and understanding responses to the users.\n\nProblem Description:\nMany people struggle to cope with their emotions and often feel alone in their struggles. Our app aims to provide a simple and accessible way for people to receive positive reinforcement and support when they need it most.\n\nAcceptance Criteria:\nThe app allows users to input their concerns and receive encouraging and understanding responses from DaVinci-003 through a prebuilt template.\nThe app has a clean and visually appealing user interface using the provided UI assets.\nThe app functions smoothly and efficiently.\n\nTechnical Details:\nThe app will be built using Swift\nIt will integrate OpenAI's GPT-3 and DaVinci-003\nThe app will use a prebuilt template to send the user input to OpenAI and receive the responses.\n\nQualificatio...",
         "author": "lucaandbiscotti",
-        "posted_time": "36 minutes ago",
+        "posted_time": "46 minutes ago",
         "link": "https://replit.com/bounties/@lucaandbiscotti/positive-reinforceme?t="
     }
 ]
