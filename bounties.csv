@@ -1440,7 +1440,7 @@ The model (text-davinci-003 is probably best), has been trained on our company's
    Model type (defaults to text-davinci-003)
    Max Tokens returned from the model (defaults to 1024)
    Temperature
-   Stop words with support for newlines (similar to the OpenAI...",nish-b,11 hours ago,https://replit.com/bounties/@nish-b/chrome-extension-cus?t=
+   Stop words with support for newlines (similar to the OpenAI...",nish-b,12 hours ago,https://replit.com/bounties/@nish-b/chrome-extension-cus?t=
 156,$252.00,due in 6 days,JSON Import / Update from Google Sheets,"Create Registration / Login Page with Google Auth
 
 Create Import data from REST API page including form that includes fields:
@@ -1506,4 +1506,4 @@ This code will belong to me.",sqcodes,2 hours ago,https://replit.com/bounties/@s
 164,$11.25,due in 3 days,File Upload from Website to Azure Blob,"I am trying to build a form on a website that will take a PDF that is uploaded by a user and save it in my Azure Blob (already created and fully configured). I have the form built in HTML and started to build the C# code that would process that file upload, but am unsure how to proceed. My intent after we get the file upload working is to parse the PDF that is upload and pull down data from it and put it in my SQL database, but that part will be outside of the scope of this effort. I am using VS Code and C# to build this.
 
 Acceptance Criteria
-Fully compiled code to process a file upload on my website.",traconatc,1 hour ago,https://replit.com/bounties/@traconatc/file-upload-from-web?t=
+Fully compiled code to process a file upload on my website.",traconatc,2 hours ago,https://replit.com/bounties/@traconatc/file-upload-from-web?t=

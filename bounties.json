@@ -1556,7 +1556,7 @@
         "title": "Chrome extension: Customer service responder helper using trained GPT-3",
         "description": "We want to make it quick and easy for customer service reps at our company to quickly and easily respond to tickets in ZenDesk.\n\nWe want to build a tool that helps them craft the perfect response to the ticket they are looking at, within seconds, without having to parse through existing template responses.\n\nThe tool should work like the following:\nCan be triggered manually using a shortcut (say control+space).\nThe prompt sent to the model includes the ZenDesk ticket you're responding to. If the ticket chain is too long it needs to be truncated.\nCan complete entire ticket responses.\nThe model (text-davinci-003 is probably best), has been trained on our company's FAQ docs (which we will provide to you)\n   The user's OpenAI API Key\n   A custom prompt (with a default prompt as described above)\n   Model type (defaults to text-davinci-003)\n   Max Tokens returned from the model (defaults to 1024)\n   Temperature\n   Stop words with support for newlines (similar to the OpenAI...",
         "author": "nish-b",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@nish-b/chrome-extension-cus?t="
     },
     {
@@ -1646,7 +1646,7 @@
         "title": "File Upload from Website to Azure Blob",
         "description": "I am trying to build a form on a website that will take a PDF that is uploaded by a user and save it in my Azure Blob (already created and fully configured). I have the form built in HTML and started to build the C# code that would process that file upload, but am unsure how to proceed. My intent after we get the file upload working is to parse the PDF that is upload and pull down data from it and put it in my SQL database, but that part will be outside of the scope of this effort. I am using VS Code and C# to build this.\n\nAcceptance Criteria\nFully compiled code to process a file upload on my website.",
         "author": "traconatc",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@traconatc/file-upload-from-web?t="
     }
 ]
