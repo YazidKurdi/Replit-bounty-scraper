@@ -1492,7 +1492,7 @@ Poker hands and actions is very similar like natural language: it is a sequence 
 So, utilizing existing NLP models like GPT-3 or ChatGPT, with extra poker hands training, we should be able to generate a bot, to take in hand and give a suggestion for optimal move.
 So, there are several tasks here:
 based on existing AI NLP model, using poker hands history, to further train the model, so the model can give optimal suggestions.
-the bot will be a mobile app. it can use mobile phone camera, to watch a computer screen, for online poker playing. and understand what is goin...",HarryLiu12,4 hours ago,https://replit.com/bounties/@HarryLiu12/poker-bot-to-give-su?t=
+the bot will be a mobile app. it can use mobile phone camera, to watch a computer screen, for online poker playing. and understand what is goin...",HarryLiu12,5 hours ago,https://replit.com/bounties/@HarryLiu12/poker-bot-to-give-su?t=
 162,$13.50,due in 13 days,Convince me you know a lot about Interactive Brokers Python API for TWS. I have a lot of work for you if you do,"We have built an algorithmic trading system for stocks and ETFs. Executing the trades requires some finicky repetitive, highly automatable work with the Interactive Brokers TWS API
 IF you have skills to work with this API I have thousands of dollars worth of projects to execute on that platform.
 
