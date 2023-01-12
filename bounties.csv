@@ -1400,11 +1400,11 @@ Acceptance Criteria
 • Connect with Instagram
 • Invite Friends with a expiring code
 • Automatically follow/connect on the app & instagram
-• Browse my connections list",Accomplice,7 hours ago,https://replit.com/bounties/@Accomplice/link-in-bio-react-na?t=
+• Browse my connections list",Accomplice,8 hours ago,https://replit.com/bounties/@Accomplice/link-in-bio-react-na?t=
 151,$4.50,due in 6 days,Custom Tip Chrome Extension,"I want to easily be able to tip custom cycles on any repl without having to go to another website or repl.
 
 Acceptance Criteria
-You must be able to create a google chrome browser extension that creates an input and button that fits in with the UI (preferably works with themes) and allows you to tip a custom amount of cycles. I also would like the extension code to be clean and organized (preferably commented). The extension can use jQuery but anything else is prohibited.",goblinjuice,5 hours ago,https://replit.com/bounties/@goblinjuice/custom-tip-chrome-ex?t=
+You must be able to create a google chrome browser extension that creates an input and button that fits in with the UI (preferably works with themes) and allows you to tip a custom amount of cycles. I also would like the extension code to be clean and organized (preferably commented). The extension can use jQuery but anything else is prohibited.",goblinjuice,6 hours ago,https://replit.com/bounties/@goblinjuice/custom-tip-chrome-ex?t=
 152,$45.00,due in 9 days,Calendar of Aeroplan Business Class Award Availability from LAX,"Create a website with a calendar view of standard business and first-class award availability from LAX to major international destinations outside of North America via scraping Air Canada's Aeroplan website.
 
 One should be able to select the month of Feb 2023 and hover over the date Feb 10th and have a dropdown menu of all destinations with bookable business and first-class awards at standard award chart prices.
@@ -1440,4 +1440,4 @@ The model (text-davinci-003 is probably best), has been trained on our company's
    Model type (defaults to text-davinci-003)
    Max Tokens returned from the model (defaults to 1024)
    Temperature
-   Stop words with support for newlines (similar to the OpenAI...",nish-b,33 minutes ago,https://replit.com/bounties/@nish-b/chrome-extension-cus?t=
+   Stop words with support for newlines (similar to the OpenAI...",nish-b,49 minutes ago,https://replit.com/bounties/@nish-b/chrome-extension-cus?t=

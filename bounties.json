@@ -1506,7 +1506,7 @@
         "title": "\u201cLink in Bio\u201d React Native App",
         "description": "I want to make a mobile app to connect my friends and I automatically on all social media platforms.\n\nI want to be able to connect to a friend on this app, and automatically follow on instagram, twitter, TikTok\u2026 etc. The friend would also follow me on those social medias after connecting on this app.\n\nIn order to invite people to connect on this app, a code is required.\n\nAcceptance Criteria\n\u2022 Create an account on the app\n\u2022 Connect with Instagram\n\u2022 Invite Friends with a expiring code\n\u2022 Automatically follow/connect on the app & instagram\n\u2022 Browse my connections list",
         "author": "Accomplice",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@Accomplice/link-in-bio-react-na?t="
     },
     {
@@ -1516,7 +1516,7 @@
         "title": "Custom Tip Chrome Extension",
         "description": "I want to easily be able to tip custom cycles on any repl without having to go to another website or repl.\n\nAcceptance Criteria\nYou must be able to create a google chrome browser extension that creates an input and button that fits in with the UI (preferably works with themes) and allows you to tip a custom amount of cycles. I also would like the extension code to be clean and organized (preferably commented). The extension can use jQuery but anything else is prohibited.",
         "author": "goblinjuice",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@goblinjuice/custom-tip-chrome-ex?t="
     },
     {
@@ -1556,7 +1556,7 @@
         "title": "Chrome extension: Customer service responder helper using trained GPT-3",
         "description": "We want to make it quick and easy for customer service reps at our company to quickly and easily respond to tickets in ZenDesk.\n\nWe want to build a tool that helps them craft the perfect response to the ticket they are looking at, within seconds, without having to parse through existing template responses.\n\nThe tool should work like the following:\nCan be triggered manually using a shortcut (say control+space).\nThe prompt sent to the model includes the ZenDesk ticket you're responding to. If the ticket chain is too long it needs to be truncated.\nCan complete entire ticket responses.\nThe model (text-davinci-003 is probably best), has been trained on our company's FAQ docs (which we will provide to you)\n   The user's OpenAI API Key\n   A custom prompt (with a default prompt as described above)\n   Model type (defaults to text-davinci-003)\n   Max Tokens returned from the model (defaults to 1024)\n   Temperature\n   Stop words with support for newlines (similar to the OpenAI...",
         "author": "nish-b",
-        "posted_time": "33 minutes ago",
+        "posted_time": "49 minutes ago",
         "link": "https://replit.com/bounties/@nish-b/chrome-extension-cus?t="
     }
 ]
