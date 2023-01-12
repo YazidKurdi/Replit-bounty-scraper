@@ -1456,7 +1456,7 @@ Note: A sample API and dataset will be provided on acceptance, using the Strapi.
 Create Update API data from Google Sheets page including form that includes fields:
 Google Sheet URL (should be shared as anyone with link)
 Header columns in Google Sheet
-Identify primar...",RobertHolliday,9 hours ago,https://replit.com/bounties/@RobertHolliday/json-import-update-f?t=
+Identify primar...",RobertHolliday,10 hours ago,https://replit.com/bounties/@RobertHolliday/json-import-update-f?t=
 157,$180.00,due in 3 days,"Fix yarn, vite, import errors for some packages","Here is our repo: https://github.com/uselotus/lotus
 I am trying to import packages like '@uiw/react-codemirror' and sql-formatter. But am getting the error here consistently. I'm clearly missing something.
 
@@ -1464,12 +1464,12 @@ I am trying to import packages like '@uiw/react-codemirror' and sql-formatter. B
 
 Acceptance Criteria
 Fork the repo and create a PR that you can merge in to main once its ready.
-First import both of these successfully and try to use them in a file to prove it. In addition please lay out the steps you took to solve this issue and what I can do in the future to download packages consistently while avoiding this.",MikaelNida,8 hours ago,https://replit.com/bounties/@MikaelNida/fix-yarn-vite-import?t=
+First import both of these successfully and try to use them in a file to prove it. In addition please lay out the steps you took to solve this issue and what I can do in the future to download packages consistently while avoiding this.",MikaelNida,9 hours ago,https://replit.com/bounties/@MikaelNida/fix-yarn-vite-import?t=
 158,$18.00,due in 3 days,Host Python backend on Google Cloud App Engine,"We have a GitHub with a Python backend I would like to host on Google Cloud’s servers. I need someone proficient in App Engine to upload it there, and there will be lots more work moving forward with Google Cloud!
 
 Acceptance Criteria
 Backend hosted on App Engine
-Works",SamuelSmith68,4 hours ago,https://replit.com/bounties/@SamuelSmith68/host-python-backend?t=
+Works",SamuelSmith68,5 hours ago,https://replit.com/bounties/@SamuelSmith68/host-python-backend?t=
 159,$45.00,due in 6 days,Use OpenAI API to properly order thoughts/ideas using Python code to make an argument or a story,"I want to use a Python program to supply GPT3 with a list of ideas/ concepts and have the AI order these logically. Sort of like making an argument or story.
 
 Should be able to take , say 5  concepts which are two or three sentences long (call these mini paragraphs) and put these mini paragraphs in logical order.
@@ -1478,7 +1478,7 @@ Acceptance Criteria
 Python code executing the above task on  3 sample  ""mini paragraph"" series of ideas.  Each series of ideas must contain at least 4 concepts (or 4 mini paragraphs).
 If one or more of the supplied concepts doesn't fit in logically with the others, it should just be left out of the resulting argument. ""Unit testing "" should include a couple of cases where a concept or two is left out because they don't fit. (this might be the tricky part)
 
-The Bounty hunter can likely find / construct lots of examples from articles on line or from tweet threads.",YorkvilleDS,2 hours ago,https://replit.com/bounties/@YorkvilleDS/use-openai-api-to-pr?t=
+The Bounty hunter can likely find / construct lots of examples from articles on line or from tweet threads.",YorkvilleDS,3 hours ago,https://replit.com/bounties/@YorkvilleDS/use-openai-api-to-pr?t=
 160,$9.00,due in 12 days,Discordpy - call task/send message on interval,"I am attempting to create a Discord bot using Python that checks an API endpoint every x minutes and sends a message if something is different. I have tried a few things but each attempt results in an error
 
 Acceptance Criteria
@@ -1497,7 +1497,7 @@ the bot will be a mobile app. it can use mobile phone camera, to watch a compute
 IF you have skills to work with this API I have thousands of dollars worth of projects to execute on that platform.
 
 Acceptance Criteria
-Demonstrate via email description, with maybe a couple of code snippets that you are good with this tool and have some time going forward to help on an exciting project. This is just the ""search bounty""",YorkvilleDS,1 hour ago,https://replit.com/bounties/@YorkvilleDS/convince-me-you-know?t=
+Demonstrate via email description, with maybe a couple of code snippets that you are good with this tool and have some time going forward to help on an exciting project. This is just the ""search bounty""",YorkvilleDS,2 hours ago,https://replit.com/bounties/@YorkvilleDS/convince-me-you-know?t=
 163,$2.70,due in 6 months,Cookie Clicker Challenge,"I am hosting a bounty challenge. I want everybody to attempt to create a cookie clicker like this:
 https://cookie-clicker.applecoders.repl.co
 
