@@ -1440,7 +1440,7 @@ The model (text-davinci-003 is probably best), has been trained on our company's
    Model type (defaults to text-davinci-003)
    Max Tokens returned from the model (defaults to 1024)
    Temperature
-   Stop words with support for newlines (similar to the OpenAI...",nish-b,10 hours ago,https://replit.com/bounties/@nish-b/chrome-extension-cus?t=
+   Stop words with support for newlines (similar to the OpenAI...",nish-b,11 hours ago,https://replit.com/bounties/@nish-b/chrome-extension-cus?t=
 156,$252.00,due in 6 days,JSON Import / Update from Google Sheets,"Create Registration / Login Page with Google Auth
 
 Create Import data from REST API page including form that includes fields:
@@ -1492,18 +1492,18 @@ Poker hands and actions is very similar like natural language: it is a sequence 
 So, utilizing existing NLP models like GPT-3 or ChatGPT, with extra poker hands training, we should be able to generate a bot, to take in hand and give a suggestion for optimal move.
 So, there are several tasks here:
 based on existing AI NLP model, using poker hands history, to further train the model, so the model can give optimal suggestions.
-the bot will be a mobile app. it can use mobile phone camera, to watch a computer screen, for online poker playing. and understand what is goin...",HarryLiu12,1 hour ago,https://replit.com/bounties/@HarryLiu12/poker-bot-to-give-su?t=
+the bot will be a mobile app. it can use mobile phone camera, to watch a computer screen, for online poker playing. and understand what is goin...",HarryLiu12,2 hours ago,https://replit.com/bounties/@HarryLiu12/poker-bot-to-give-su?t=
 162,$13.50,due in 13 days,Convince me you know a lot about Interactive Brokers Python API for TWS. I have a lot of work for you if you do,"We have built an algorithmic trading system for stocks and ETFs. Executing the trades requires some finicky repetitive, highly automatable work with the Interactive Brokers TWS API
 IF you have skills to work with this API I have thousands of dollars worth of projects to execute on that platform.
 
 Acceptance Criteria
-Demonstrate via email description, with maybe a couple of code snippets that you are good with this tool and have some time going forward to help on an exciting project. This is just the ""search bounty""",YorkvilleDS,59 minutes ago,https://replit.com/bounties/@YorkvilleDS/convince-me-you-know?t=
+Demonstrate via email description, with maybe a couple of code snippets that you are good with this tool and have some time going forward to help on an exciting project. This is just the ""search bounty""",YorkvilleDS,1 hour ago,https://replit.com/bounties/@YorkvilleDS/convince-me-you-know?t=
 163,$2.70,due in 6 months,Cookie Clicker Challenge,"I am hosting a bounty challenge. I want everybody to attempt to create a cookie clicker like this:
 https://cookie-clicker.applecoders.repl.co
 
 We will judge completed projects on the end date. Thank you.
-This code will belong to me.",sqcodes,45 minutes ago,https://replit.com/bounties/@sqcodes/cookie-clicker-chall?t=
+This code will belong to me.",sqcodes,57 minutes ago,https://replit.com/bounties/@sqcodes/cookie-clicker-chall?t=
 164,$11.25,due in 3 days,File Upload from Website to Azure Blob,"I am trying to build a form on a website that will take a PDF that is uploaded by a user and save it in my Azure Blob (already created and fully configured). I have the form built in HTML and started to build the C# code that would process that file upload, but am unsure how to proceed. My intent after we get the file upload working is to parse the PDF that is upload and pull down data from it and put it in my SQL database, but that part will be outside of the scope of this effort. I am using VS Code and C# to build this.
 
 Acceptance Criteria
-Fully compiled code to process a file upload on my website.",traconatc,37 minutes ago,https://replit.com/bounties/@traconatc/file-upload-from-web?t=
+Fully compiled code to process a file upload on my website.",traconatc,49 minutes ago,https://replit.com/bounties/@traconatc/file-upload-from-web?t=

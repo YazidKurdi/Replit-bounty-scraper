@@ -1556,7 +1556,7 @@
         "title": "Chrome extension: Customer service responder helper using trained GPT-3",
         "description": "We want to make it quick and easy for customer service reps at our company to quickly and easily respond to tickets in ZenDesk.\n\nWe want to build a tool that helps them craft the perfect response to the ticket they are looking at, within seconds, without having to parse through existing template responses.\n\nThe tool should work like the following:\nCan be triggered manually using a shortcut (say control+space).\nThe prompt sent to the model includes the ZenDesk ticket you're responding to. If the ticket chain is too long it needs to be truncated.\nCan complete entire ticket responses.\nThe model (text-davinci-003 is probably best), has been trained on our company's FAQ docs (which we will provide to you)\n   The user's OpenAI API Key\n   A custom prompt (with a default prompt as described above)\n   Model type (defaults to text-davinci-003)\n   Max Tokens returned from the model (defaults to 1024)\n   Temperature\n   Stop words with support for newlines (similar to the OpenAI...",
         "author": "nish-b",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@nish-b/chrome-extension-cus?t="
     },
     {
@@ -1616,7 +1616,7 @@
         "title": "Poker bot to give suggestion for next move real time",
         "description": "First time to use Replit bounty, so, not sure I can get refund or not, if no one take this bounty. so, for now I will only pay $50 to get it posted.\nI'm willing to pay $500 total if this worked out.\nAnd I will most likely pay extra in the future to buy more features. (I have lots of ideas to extend this, but too much to put on here)\n\nProblem Description\nPoker hands and actions is very similar like natural language: it is a sequence of either cards or player actions. and the out come is win/lose x amount.\nSo, utilizing existing NLP models like GPT-3 or ChatGPT, with extra poker hands training, we should be able to generate a bot, to take in hand and give a suggestion for optimal move.\nSo, there are several tasks here:\nbased on existing AI NLP model, using poker hands history, to further train the model, so the model can give optimal suggestions.\nthe bot will be a mobile app. it can use mobile phone camera, to watch a computer screen, for online poker playing. and understand what is goin...",
         "author": "HarryLiu12",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@HarryLiu12/poker-bot-to-give-su?t="
     },
     {
@@ -1626,7 +1626,7 @@
         "title": "Convince me you know a lot about Interactive Brokers Python API for TWS. I have a lot of work for you if you do",
         "description": "We have built an algorithmic trading system for stocks and ETFs. Executing the trades requires some finicky repetitive, highly automatable work with the Interactive Brokers TWS API\nIF you have skills to work with this API I have thousands of dollars worth of projects to execute on that platform.\n\nAcceptance Criteria\nDemonstrate via email description, with maybe a couple of code snippets that you are good with this tool and have some time going forward to help on an exciting project. This is just the \"search bounty\"",
         "author": "YorkvilleDS",
-        "posted_time": "59 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@YorkvilleDS/convince-me-you-know?t="
     },
     {
@@ -1636,7 +1636,7 @@
         "title": "Cookie Clicker Challenge",
         "description": "I am hosting a bounty challenge. I want everybody to attempt to create a cookie clicker like this:\nhttps://cookie-clicker.applecoders.repl.co\n\nWe will judge completed projects on the end date. Thank you.\nThis code will belong to me.",
         "author": "sqcodes",
-        "posted_time": "45 minutes ago",
+        "posted_time": "57 minutes ago",
         "link": "https://replit.com/bounties/@sqcodes/cookie-clicker-chall?t="
     },
     {
@@ -1646,7 +1646,7 @@
         "title": "File Upload from Website to Azure Blob",
         "description": "I am trying to build a form on a website that will take a PDF that is uploaded by a user and save it in my Azure Blob (already created and fully configured). I have the form built in HTML and started to build the C# code that would process that file upload, but am unsure how to proceed. My intent after we get the file upload working is to parse the PDF that is upload and pull down data from it and put it in my SQL database, but that part will be outside of the scope of this effort. I am using VS Code and C# to build this.\n\nAcceptance Criteria\nFully compiled code to process a file upload on my website.",
         "author": "traconatc",
-        "posted_time": "37 minutes ago",
+        "posted_time": "49 minutes ago",
         "link": "https://replit.com/bounties/@traconatc/file-upload-from-web?t="
     }
 ]
