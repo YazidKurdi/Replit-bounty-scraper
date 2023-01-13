@@ -1626,7 +1626,7 @@
         "title": "Convince me you know a lot about Interactive Brokers Python API for TWS. I have a lot of work for you if you do",
         "description": "We have built an algorithmic trading system for stocks and ETFs. Executing the trades requires some finicky repetitive, highly automatable work with the Interactive Brokers TWS API\nIF you have skills to work with this API I have thousands of dollars worth of projects to execute on that platform.\n\nAcceptance Criteria\nDemonstrate via email description, with maybe a couple of code snippets that you are good with this tool and have some time going forward to help on an exciting project. This is just the \"search bounty\"",
         "author": "YorkvilleDS",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@YorkvilleDS/convince-me-you-know?t="
     },
     {
@@ -1676,7 +1676,7 @@
         "title": "Positive Reinforcement App using OpenAI's GPT-3 and DaVinci-003",
         "description": "I am building an iOS app that aims to help people who are feeling upset or troubled by providing them with positive reinforcement. The app will use OpenAI's GPT-3 and DaVinci-003 to generate encouraging and understanding responses to the users.\n\nProblem Description:\nMany people struggle to cope with their emotions and often feel alone in their struggles. Our app aims to provide a simple and accessible way for people to receive positive reinforcement and support when they need it most.\n\nAcceptance Criteria:\nThe app allows users to input their concerns and receive encouraging and understanding responses from DaVinci-003 through a prebuilt template.\nThe app has a clean and visually appealing user interface using the provided UI assets.\nThe app functions smoothly and efficiently.\n\nTechnical Details:\nThe app will be built using Swift\nIt will integrate OpenAI's GPT-3 and DaVinci-003\nThe app will use a prebuilt template to send the user input to OpenAI and receive the responses.\n\nQualificatio...",
         "author": "lucaandbiscotti",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@lucaandbiscotti/positive-reinforceme?t="
     },
     {
@@ -1686,7 +1686,7 @@
         "title": "Build a website process where people can upload an image and create a unique AI artwork ",
         "description": "Problem:\nBasically, I am looking to upload a photo, then through the magic of ai, generate a new version of the person in that photo in a different scenario. Example, I upload my picture and then tell the AI to redraw me in the style of Van Gogh, or cartoon me like a simpson's cartoon and spit out my image redone in that style.\n\nAfter I upload the image, I select the criteria for my image, and AI outputs the finished product.\n\nAcceptance, I should be able to upload a photo, create a unique AI artwork (via StableDiffusion, MidJourney, Dall-E-2 or other) in 5 presets to manipulate the photo and show the new image on page.",
         "author": "crillbill",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@crillbill/build-a-website-proc?t="
     },
     {
@@ -1696,7 +1696,7 @@
         "title": "Grid Bounty #0",
         "description": "Gas fees are $0.42 for this.\nFor 420 cycles, design a Microgrid and Perturbation that destroys it inside PowerSystemDynamics.jl simulation, submit. json of grid and execution log to claim bounty.",
         "author": "bmorphism",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@bmorphism/grid-bounty-0?t="
     }
 ]
