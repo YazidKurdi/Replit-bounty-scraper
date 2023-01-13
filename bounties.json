@@ -1696,7 +1696,7 @@
         "title": "Grid Bounty #0",
         "description": "Gas fees are $0.42 for this.\nFor 420 cycles, design a Microgrid and Perturbation that destroys it inside PowerSystemDynamics.jl simulation, submit. json of grid and execution log to claim bounty.",
         "author": "bmorphism",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@bmorphism/grid-bounty-0?t="
     },
     {
@@ -1776,7 +1776,7 @@
         "title": "Giving Cycles To Meh Friend",
         "description": "exdiasasasa s",
         "author": "NotYourMaster",
-        "posted_time": "54 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@NotYourMaster/giving-cycles-to-meh?t="
     },
     {
@@ -1786,7 +1786,7 @@
         "title": "Webpage that can upload file to AWS S3, trigger Lambda and update DOM accordingly",
         "description": "I want to create a web application where users can upload their data and then see summaries of their data and select to do further cleaning and analysis.\n\nI'm comfortable with coding the backend but need someone to create the frontend for interacting with the AWS backend. I've been suggested to do polling and use node.js. It's up to you what solution you'd like to use.\n\nAcceptance Criteria\nUser can upload a file from the webpage to AWS S3 bucket, and trigger an AWS Lambda. The response from the Lambda updates the DOM.",
         "author": "JohnH23",
-        "posted_time": "49 minutes ago",
+        "posted_time": "59 minutes ago",
         "link": "https://replit.com/bounties/@JohnH23/webpage-that-can-upl?t="
     }
 ]
