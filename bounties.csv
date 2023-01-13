@@ -1506,7 +1506,7 @@ This code will belong to me.",sqcodes,9 hours ago,https://replit.com/bounties/@s
 164,$11.25,due in 3 days,File Upload from Website to Azure Blob,"I am trying to build a form on a website that will take a PDF that is uploaded by a user and save it in my Azure Blob (already created and fully configured). I have the form built in HTML and started to build the C# code that would process that file upload, but am unsure how to proceed. My intent after we get the file upload working is to parse the PDF that is upload and pull down data from it and put it in my SQL database, but that part will be outside of the scope of this effort. I am using VS Code and C# to build this.
 
 Acceptance Criteria
-Fully compiled code to process a file upload on my website.",traconatc,8 hours ago,https://replit.com/bounties/@traconatc/file-upload-from-web?t=
+Fully compiled code to process a file upload on my website.",traconatc,9 hours ago,https://replit.com/bounties/@traconatc/file-upload-from-web?t=
 165,$180.00,due in 6 days,Sync Strava API data to videocreationdate for Xcode app,"We have an app that will show Strava data like speed, cadence, wattage and heartrate over a video. We need help syncing the Strava data to the video so the time stamps line up. A video with the data will then be generated with this data. A menu to choose which datastreams and in what size and colour the data will be on the video will also need to be made.
 
 The interface and general framework are already in place.
@@ -1550,4 +1550,4 @@ After I upload the image, I select the criteria for my image, and AI outputs the
 
 Acceptance, I should be able to upload a photo, create a unique AI artwork (via StableDiffusion, MidJourney, Dall-E-2 or other) in 5 presets to manipulate the photo and show the new image on page.",crillbill,3 hours ago,https://replit.com/bounties/@crillbill/build-a-website-proc?t=
 169,$3.78,due in 19 days,Grid Bounty #0,"Gas fees are $0.42 for this.
-For 420 cycles, design a Microgrid and Perturbation that destroys it inside PowerSystemDynamics.jl simulation, submit. json of grid and execution log to claim bounty.",bmorphism,49 minutes ago,https://replit.com/bounties/@bmorphism/grid-bounty-0?t=
+For 420 cycles, design a Microgrid and Perturbation that destroys it inside PowerSystemDynamics.jl simulation, submit. json of grid and execution log to claim bounty.",bmorphism,1 hour ago,https://replit.com/bounties/@bmorphism/grid-bounty-0?t=
