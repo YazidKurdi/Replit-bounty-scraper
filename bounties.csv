@@ -1493,7 +1493,7 @@ So, utilizing existing NLP models like GPT-3 or ChatGPT, with extra poker hands 
 So, there are several tasks here:
 based on existing AI NLP model, using poker hands history, to further train the model, so the model can give optimal suggestions.
 the bot will be a mobile app. it can use mobile phone camera, to watch a computer screen, for online poker playing. and understand what is goin...",HarryLiu12,18 hours ago,https://replit.com/bounties/@HarryLiu12/poker-bot-to-give-su?t=
-162,$13.50,due in 13 days,Convince me you know a lot about Interactive Brokers Python API for TWS. I have a lot of work for you if you do,"We have built an algorithmic trading system for stocks and ETFs. Executing the trades requires some finicky repetitive, highly automatable work with the Interactive Brokers TWS API
+162,$13.50,due in 12 days,Convince me you know a lot about Interactive Brokers Python API for TWS. I have a lot of work for you if you do,"We have built an algorithmic trading system for stocks and ETFs. Executing the trades requires some finicky repetitive, highly automatable work with the Interactive Brokers TWS API
 IF you have skills to work with this API I have thousands of dollars worth of projects to execute on that platform.
 
 Acceptance Criteria
@@ -1503,17 +1503,17 @@ https://cookie-clicker.applecoders.repl.co
 
 We will judge completed projects on the end date. Thank you.
 This code will belong to me.",sqcodes,18 hours ago,https://replit.com/bounties/@sqcodes/cookie-clicker-chall?t=
-164,$11.25,due in 3 days,File Upload from Website to Azure Blob,"I am trying to build a form on a website that will take a PDF that is uploaded by a user and save it in my Azure Blob (already created and fully configured). I have the form built in HTML and started to build the C# code that would process that file upload, but am unsure how to proceed. My intent after we get the file upload working is to parse the PDF that is upload and pull down data from it and put it in my SQL database, but that part will be outside of the scope of this effort. I am using VS Code and C# to build this.
+164,$11.25,due in 2 days,File Upload from Website to Azure Blob,"I am trying to build a form on a website that will take a PDF that is uploaded by a user and save it in my Azure Blob (already created and fully configured). I have the form built in HTML and started to build the C# code that would process that file upload, but am unsure how to proceed. My intent after we get the file upload working is to parse the PDF that is upload and pull down data from it and put it in my SQL database, but that part will be outside of the scope of this effort. I am using VS Code and C# to build this.
 
 Acceptance Criteria
-Fully compiled code to process a file upload on my website.",traconatc,17 hours ago,https://replit.com/bounties/@traconatc/file-upload-from-web?t=
-165,$180.00,due in 6 days,Sync Strava API data to videocreationdate for Xcode app,"We have an app that will show Strava data like speed, cadence, wattage and heartrate over a video. We need help syncing the Strava data to the video so the time stamps line up. A video with the data will then be generated with this data. A menu to choose which datastreams and in what size and colour the data will be on the video will also need to be made.
+Fully compiled code to process a file upload on my website.",traconatc,18 hours ago,https://replit.com/bounties/@traconatc/file-upload-from-web?t=
+165,$180.00,due in 5 days,Sync Strava API data to videocreationdate for Xcode app,"We have an app that will show Strava data like speed, cadence, wattage and heartrate over a video. We need help syncing the Strava data to the video so the time stamps line up. A video with the data will then be generated with this data. A menu to choose which datastreams and in what size and colour the data will be on the video will also need to be made.
 
 The interface and general framework are already in place.
 
 Acceptance Criteria
 We are looking for a good Swift coder who can help us with this problem.",Lucasden,16 hours ago,https://replit.com/bounties/@Lucasden/sync-strava-api-data?t=
-166,$18.00,due in 6 days,Add carousel to web widget,"#Problem Description
+166,$18.00,due in 5 days,Add carousel to web widget,"#Problem Description
 
 I have a widget that adds product recommendation cards to a page.
 I need a carousel for mobile version, such that only two recommendations are diplayed at a time
@@ -1527,7 +1527,7 @@ https://arc53data.s3.amazonaws.com/quickshare/Screenshot%202022-12-16%20at%2012.
 I will provide the code for this look
 
 All you have to do is to add a working carousel for mobile version, such that only two recommendations are displayed at a time, similar to the source material",AlexTushynski,13 hours ago,https://replit.com/bounties/@AlexTushynski/add-carousel-to-web?t=
-167,$90.00,due in 19 days,Positive Reinforcement App using OpenAI's GPT-3 and DaVinci-003,"I am building an iOS app that aims to help people who are feeling upset or troubled by providing them with positive reinforcement. The app will use OpenAI's GPT-3 and DaVinci-003 to generate encouraging and understanding responses to the users.
+167,$90.00,due in 18 days,Positive Reinforcement App using OpenAI's GPT-3 and DaVinci-003,"I am building an iOS app that aims to help people who are feeling upset or troubled by providing them with positive reinforcement. The app will use OpenAI's GPT-3 and DaVinci-003 to generate encouraging and understanding responses to the users.
 
 Problem Description:
 Many people struggle to cope with their emotions and often feel alone in their struggles. Our app aims to provide a simple and accessible way for people to receive positive reinforcement and support when they need it most.
@@ -1543,12 +1543,12 @@ It will integrate OpenAI's GPT-3 and DaVinci-003
 The app will use a prebuilt template to send the user input to OpenAI and receive the responses.
 
 Qualificatio...",lucaandbiscotti,13 hours ago,https://replit.com/bounties/@lucaandbiscotti/positive-reinforceme?t=
-168,$103.50,due in 7 days,Build a website process where people can upload an image and create a unique AI artwork ,"Problem:
+168,$103.50,due in 6 days,Build a website process where people can upload an image and create a unique AI artwork ,"Problem:
 Basically, I am looking to upload a photo, then through the magic of ai, generate a new version of the person in that photo in a different scenario. Example, I upload my picture and then tell the AI to redraw me in the style of Van Gogh, or cartoon me like a simpson's cartoon and spit out my image redone in that style.
 
 After I upload the image, I select the criteria for my image, and AI outputs the finished product.
 
 Acceptance, I should be able to upload a photo, create a unique AI artwork (via StableDiffusion, MidJourney, Dall-E-2 or other) in 5 presets to manipulate the photo and show the new image on page.",crillbill,12 hours ago,https://replit.com/bounties/@crillbill/build-a-website-proc?t=
-169,$3.78,due in 19 days,Grid Bounty #0,"Gas fees are $0.42 for this.
+169,$3.78,due in 18 days,Grid Bounty #0,"Gas fees are $0.42 for this.
 For 420 cycles, design a Microgrid and Perturbation that destroys it inside PowerSystemDynamics.jl simulation, submit. json of grid and execution log to claim bounty.",bmorphism,10 hours ago,https://replit.com/bounties/@bmorphism/grid-bounty-0?t=
-170,$36.00,closed,sohkin wwwdddfc,Hello Please Help me i need help,ItsCrazyKns,2 hours ago,https://replit.com/bounties/@ItsCrazyKns/sohkin-wwwdddfc?t=
+170,$36.00,closed,sohkin wwwdddfc,Hello Please Help me i need help,ItsCrazyKns,3 hours ago,https://replit.com/bounties/@ItsCrazyKns/sohkin-wwwdddfc?t=
