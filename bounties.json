@@ -1666,7 +1666,7 @@
         "title": "Add carousel to web widget",
         "description": "#Problem Description\n\nI have a widget that adds product recommendation cards to a page.\nI need a carousel for mobile version, such that only two recommendations are diplayed at a time\n#Acceptance Criteria\n\nhere is how i want it to look\nhttps://arc53data.s3.amazonaws.com/quickshare/Screenshot%202022-12-05%20at%2016.50.03.png\n\nHere is how it looks right now\nhttps://arc53data.s3.amazonaws.com/quickshare/Screenshot%202022-12-16%20at%2012.04.38.png\nI will provide the code for this look\n\nAll you have to do is to add a working carousel for mobile version, such that only two recommendations are displayed at a time, similar to the source material",
         "author": "AlexTushynski",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@AlexTushynski/add-carousel-to-web?t="
     },
     {
@@ -1708,5 +1708,15 @@
         "author": "ItsCrazyKns",
         "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@ItsCrazyKns/sohkin-wwwdddfc?t="
+    },
+    {
+        "index": "171",
+        "price": "$0.90",
+        "due_days": "due in 3 days",
+        "title": "Making an Simple Website!",
+        "description": "make an website that have blue theme and saying Hello World! Very big\nAcceptance Criteria\nBe fast!",
+        "author": "CICUGaming",
+        "posted_time": "2 minutes ago",
+        "link": "https://replit.com/bounties/@CICUGaming/making-an-simple-web?t="
     }
 ]
