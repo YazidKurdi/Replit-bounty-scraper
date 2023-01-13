@@ -1616,7 +1616,7 @@
         "title": "Poker bot to give suggestion for next move real time",
         "description": "First time to use Replit bounty, so, not sure I can get refund or not, if no one take this bounty. so, for now I will only pay $50 to get it posted.\nI'm willing to pay $500 total if this worked out.\nAnd I will most likely pay extra in the future to buy more features. (I have lots of ideas to extend this, but too much to put on here)\n\nProblem Description\nPoker hands and actions is very similar like natural language: it is a sequence of either cards or player actions. and the out come is win/lose x amount.\nSo, utilizing existing NLP models like GPT-3 or ChatGPT, with extra poker hands training, we should be able to generate a bot, to take in hand and give a suggestion for optimal move.\nSo, there are several tasks here:\nbased on existing AI NLP model, using poker hands history, to further train the model, so the model can give optimal suggestions.\nthe bot will be a mobile app. it can use mobile phone camera, to watch a computer screen, for online poker playing. and understand what is goin...",
         "author": "HarryLiu12",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@HarryLiu12/poker-bot-to-give-su?t="
     },
     {
@@ -1666,7 +1666,7 @@
         "title": "Add carousel to web widget",
         "description": "#Problem Description\n\nI have a widget that adds product recommendation cards to a page.\nI need a carousel for mobile version, such that only two recommendations are diplayed at a time\n#Acceptance Criteria\n\nhere is how i want it to look\nhttps://arc53data.s3.amazonaws.com/quickshare/Screenshot%202022-12-05%20at%2016.50.03.png\n\nHere is how it looks right now\nhttps://arc53data.s3.amazonaws.com/quickshare/Screenshot%202022-12-16%20at%2012.04.38.png\nI will provide the code for this look\n\nAll you have to do is to add a working carousel for mobile version, such that only two recommendations are displayed at a time, similar to the source material",
         "author": "AlexTushynski",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@AlexTushynski/add-carousel-to-web?t="
     },
     {
