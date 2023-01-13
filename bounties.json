@@ -1646,7 +1646,7 @@
         "title": "File Upload from Website to Azure Blob",
         "description": "I am trying to build a form on a website that will take a PDF that is uploaded by a user and save it in my Azure Blob (already created and fully configured). I have the form built in HTML and started to build the C# code that would process that file upload, but am unsure how to proceed. My intent after we get the file upload working is to parse the PDF that is upload and pull down data from it and put it in my SQL database, but that part will be outside of the scope of this effort. I am using VS Code and C# to build this.\n\nAcceptance Criteria\nFully compiled code to process a file upload on my website.",
         "author": "traconatc",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@traconatc/file-upload-from-web?t="
     },
     {
@@ -1656,7 +1656,7 @@
         "title": "Sync Strava API data to videocreationdate for Xcode app",
         "description": "We have an app that will show Strava data like speed, cadence, wattage and heartrate over a video. We need help syncing the Strava data to the video so the time stamps line up. A video with the data will then be generated with this data. A menu to choose which datastreams and in what size and colour the data will be on the video will also need to be made.\n\nThe interface and general framework are already in place.\n\nAcceptance Criteria\nWe are looking for a good Swift coder who can help us with this problem.",
         "author": "Lucasden",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@Lucasden/sync-strava-api-data?t="
     },
     {
