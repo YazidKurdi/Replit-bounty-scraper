@@ -1606,7 +1606,7 @@
         "title": "Discordpy - call task/send message on interval",
         "description": "I am attempting to create a Discord bot using Python that checks an API endpoint every x minutes and sends a message if something is different. I have tried a few things but each attempt results in an error\n\nAcceptance Criteria\nA working Discord bot that can call a task every x minutes",
         "author": "--smallguy89--",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@--smallguy89--/discordpy-call-tasks?t="
     },
     {
@@ -1636,7 +1636,7 @@
         "title": "Cookie Clicker Challenge",
         "description": "I am hosting a bounty challenge. I want everybody to attempt to create a cookie clicker like this:\nhttps://cookie-clicker.applecoders.repl.co\n\nWe will judge completed projects on the end date. Thank you.\nThis code will belong to me.",
         "author": "sqcodes",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@sqcodes/cookie-clicker-chall?t="
     },
     {
@@ -1656,7 +1656,7 @@
         "title": "Sync Strava API data to videocreationdate for Xcode app",
         "description": "We have an app that will show Strava data like speed, cadence, wattage and heartrate over a video. We need help syncing the Strava data to the video so the time stamps line up. A video with the data will then be generated with this data. A menu to choose which datastreams and in what size and colour the data will be on the video will also need to be made.\n\nThe interface and general framework are already in place.\n\nAcceptance Criteria\nWe are looking for a good Swift coder who can help us with this problem.",
         "author": "Lucasden",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@Lucasden/sync-strava-api-data?t="
     },
     {
