@@ -1478,7 +1478,7 @@ Acceptance Criteria
 Python code executing the above task on  3 sample  ""mini paragraph"" series of ideas.  Each series of ideas must contain at least 4 concepts (or 4 mini paragraphs).
 If one or more of the supplied concepts doesn't fit in logically with the others, it should just be left out of the resulting argument. ""Unit testing "" should include a couple of cases where a concept or two is left out because they don't fit. (this might be the tricky part)
 
-The Bounty hunter can likely find / construct lots of examples from articles on line or from tweet threads.",YorkvilleDS,7 hours ago,https://replit.com/bounties/@YorkvilleDS/use-openai-api-to-pr?t=
+The Bounty hunter can likely find / construct lots of examples from articles on line or from tweet threads.",YorkvilleDS,8 hours ago,https://replit.com/bounties/@YorkvilleDS/use-openai-api-to-pr?t=
 160,$9.00,due in 12 days,Discordpy - call task/send message on interval,"I am attempting to create a Discord bot using Python that checks an API endpoint every x minutes and sends a message if something is different. I have tried a few things but each attempt results in an error
 
 Acceptance Criteria
@@ -1492,13 +1492,13 @@ Poker hands and actions is very similar like natural language: it is a sequence 
 So, utilizing existing NLP models like GPT-3 or ChatGPT, with extra poker hands training, we should be able to generate a bot, to take in hand and give a suggestion for optimal move.
 So, there are several tasks here:
 based on existing AI NLP model, using poker hands history, to further train the model, so the model can give optimal suggestions.
-the bot will be a mobile app. it can use mobile phone camera, to watch a computer screen, for online poker playing. and understand what is goin...",HarryLiu12,6 hours ago,https://replit.com/bounties/@HarryLiu12/poker-bot-to-give-su?t=
+the bot will be a mobile app. it can use mobile phone camera, to watch a computer screen, for online poker playing. and understand what is goin...",HarryLiu12,7 hours ago,https://replit.com/bounties/@HarryLiu12/poker-bot-to-give-su?t=
 162,$13.50,due in 13 days,Convince me you know a lot about Interactive Brokers Python API for TWS. I have a lot of work for you if you do,"We have built an algorithmic trading system for stocks and ETFs. Executing the trades requires some finicky repetitive, highly automatable work with the Interactive Brokers TWS API
 IF you have skills to work with this API I have thousands of dollars worth of projects to execute on that platform.
 
 Acceptance Criteria
-Demonstrate via email description, with maybe a couple of code snippets that you are good with this tool and have some time going forward to help on an exciting project. This is just the ""search bounty""",YorkvilleDS,6 hours ago,https://replit.com/bounties/@YorkvilleDS/convince-me-you-know?t=
-163,$2.70,due in 6 months,Cookie Clicker Challenge,"I am hosting a bounty challenge. I want everybody to attempt to create a cookie clicker like this:
+Demonstrate via email description, with maybe a couple of code snippets that you are good with this tool and have some time going forward to help on an exciting project. This is just the ""search bounty""",YorkvilleDS,7 hours ago,https://replit.com/bounties/@YorkvilleDS/convince-me-you-know?t=
+163,$2.70,due in 5 months,Cookie Clicker Challenge,"I am hosting a bounty challenge. I want everybody to attempt to create a cookie clicker like this:
 https://cookie-clicker.applecoders.repl.co
 
 We will judge completed projects on the end date. Thank you.
@@ -1506,13 +1506,13 @@ This code will belong to me.",sqcodes,6 hours ago,https://replit.com/bounties/@s
 164,$11.25,due in 3 days,File Upload from Website to Azure Blob,"I am trying to build a form on a website that will take a PDF that is uploaded by a user and save it in my Azure Blob (already created and fully configured). I have the form built in HTML and started to build the C# code that would process that file upload, but am unsure how to proceed. My intent after we get the file upload working is to parse the PDF that is upload and pull down data from it and put it in my SQL database, but that part will be outside of the scope of this effort. I am using VS Code and C# to build this.
 
 Acceptance Criteria
-Fully compiled code to process a file upload on my website.",traconatc,5 hours ago,https://replit.com/bounties/@traconatc/file-upload-from-web?t=
+Fully compiled code to process a file upload on my website.",traconatc,6 hours ago,https://replit.com/bounties/@traconatc/file-upload-from-web?t=
 165,$180.00,due in 6 days,Sync Strava API data to videocreationdate for Xcode app,"We have an app that will show Strava data like speed, cadence, wattage and heartrate over a video. We need help syncing the Strava data to the video so the time stamps line up. A video with the data will then be generated with this data. A menu to choose which datastreams and in what size and colour the data will be on the video will also need to be made.
 
 The interface and general framework are already in place.
 
 Acceptance Criteria
-We are looking for a good Swift coder who can help us with this problem.",Lucasden,3 hours ago,https://replit.com/bounties/@Lucasden/sync-strava-api-data?t=
+We are looking for a good Swift coder who can help us with this problem.",Lucasden,4 hours ago,https://replit.com/bounties/@Lucasden/sync-strava-api-data?t=
 166,$18.00,due in 6 days,Add carousel to web widget,"#Problem Description
 
 I have a widget that adds product recommendation cards to a page.
@@ -1526,7 +1526,7 @@ Here is how it looks right now
 https://arc53data.s3.amazonaws.com/quickshare/Screenshot%202022-12-16%20at%2012.04.38.png
 I will provide the code for this look
 
-All you have to do is to add a working carousel for mobile version, such that only two recommendations are displayed at a time, similar to the source material",AlexTushynski,1 hour ago,https://replit.com/bounties/@AlexTushynski/add-carousel-to-web?t=
+All you have to do is to add a working carousel for mobile version, such that only two recommendations are displayed at a time, similar to the source material",AlexTushynski,2 hours ago,https://replit.com/bounties/@AlexTushynski/add-carousel-to-web?t=
 167,$90.00,due in 19 days,Positive Reinforcement App using OpenAI's GPT-3 and DaVinci-003,"I am building an iOS app that aims to help people who are feeling upset or troubled by providing them with positive reinforcement. The app will use OpenAI's GPT-3 and DaVinci-003 to generate encouraging and understanding responses to the users.
 
 Problem Description:
@@ -1542,4 +1542,10 @@ The app will be built using Swift
 It will integrate OpenAI's GPT-3 and DaVinci-003
 The app will use a prebuilt template to send the user input to OpenAI and receive the responses.
 
-Qualificatio...",lucaandbiscotti,46 minutes ago,https://replit.com/bounties/@lucaandbiscotti/positive-reinforceme?t=
+Qualificatio...",lucaandbiscotti,2 hours ago,https://replit.com/bounties/@lucaandbiscotti/positive-reinforceme?t=
+168,$103.50,due in 7 days,Build a website process where people can upload an image and create a unique AI artwork ,"Problem:
+Basically, I am looking to upload a photo, then through the magic of ai, generate a new version of the person in that photo in a different scenario. Example, I upload my picture and then tell the AI to redraw me in the style of Van Gogh, or cartoon me like a simpson's cartoon and spit out my image redone in that style.
+
+After I upload the image, I select the criteria for my image, and AI outputs the finished product.
+
+Acceptance, I should be able to upload a photo, create a unique AI artwork (via StableDiffusion, MidJourney, Dall-E-2 or other) in 5 presets to manipulate the photo and show the new image on page.",crillbill,32 minutes ago,https://replit.com/bounties/@crillbill/build-a-website-proc?t=
