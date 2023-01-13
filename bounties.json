@@ -1706,7 +1706,7 @@
         "title": "sohkin wwwdddfc",
         "description": "Hello Please Help me i need help",
         "author": "ItsCrazyKns",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@ItsCrazyKns/sohkin-wwwdddfc?t="
     },
     {
@@ -1716,7 +1716,7 @@
         "title": "Making an Simple Website!",
         "description": "make an website that have blue theme and saying Hello World! Very big\nAcceptance Criteria\nBe fast!",
         "author": "CICUGaming",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@CICUGaming/making-an-simple-web?t="
     },
     {
@@ -1756,7 +1756,7 @@
         "title": "Custom Repl Tipping Script",
         "description": "I would like a custom script that uses Replit GraphQL and allows me to tip a Repl a custom number of cycles (even below 100). The script can be a simple code which I run in the browser dev console, that prompts me to enter the cycles amount.",
         "author": "CoderGautamYT",
-        "posted_time": "44 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/custom-repl-tipping?t="
     },
     {
@@ -1766,7 +1766,7 @@
         "title": "Giving Bribe To My Friend",
         "description": "Giving Bribe To My Friend",
         "author": "NotYourMaster",
-        "posted_time": "32 minutes ago",
+        "posted_time": "49 minutes ago",
         "link": "https://replit.com/bounties/@NotYourMaster/giving-bribe-to-my-f?t="
     },
     {
@@ -1776,7 +1776,7 @@
         "title": "Giving Cycles To Meh Friend",
         "description": "exdiasasasa s",
         "author": "NotYourMaster",
-        "posted_time": "19 minutes ago",
+        "posted_time": "36 minutes ago",
         "link": "https://replit.com/bounties/@NotYourMaster/giving-cycles-to-meh?t="
     },
     {
@@ -1786,7 +1786,7 @@
         "title": "Webpage that can upload file to AWS S3, trigger Lambda and update DOM accordingly",
         "description": "I want to create a web application where users can upload their data and then see summaries of their data and select to do further cleaning and analysis.\n\nI'm comfortable with coding the backend but need someone to create the frontend for interacting with the AWS backend. I've been suggested to do polling and use node.js. It's up to you what solution you'd like to use.\n\nAcceptance Criteria\nUser can upload a file from the webpage to AWS S3 bucket, and trigger an AWS Lambda. The response from the Lambda updates the DOM.",
         "author": "JohnH23",
-        "posted_time": "15 minutes ago",
+        "posted_time": "32 minutes ago",
         "link": "https://replit.com/bounties/@JohnH23/webpage-that-can-upl?t="
     }
 ]
