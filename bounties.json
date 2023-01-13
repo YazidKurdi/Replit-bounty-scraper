@@ -1756,7 +1756,7 @@
         "title": "Custom Repl Tipping Script",
         "description": "I would like a custom script that uses Replit GraphQL and allows me to tip a Repl a custom number of cycles (even below 100). The script can be a simple code which I run in the browser dev console, that prompts me to enter the cycles amount.",
         "author": "CoderGautamYT",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/custom-repl-tipping?t="
     },
     {
@@ -1806,7 +1806,7 @@
         "title": "ChatGPT Frontend",
         "description": "I need somebody to create ChatGPT but in Replit.\nAcceptance Criteria\nPretty much all I want is for it to look like the current ChatGPT site and function like so. (trained, dark mode, chat-like interface, etc.)\nTechnical Details\nHTML, CSS, JS only.",
         "author": "CrownDevelopment",
-        "posted_time": "35 minutes ago",
+        "posted_time": "45 minutes ago",
         "link": "https://replit.com/bounties/@CrownDevelopment/chatgpt-frontend?t="
     }
 ]
