@@ -1756,7 +1756,7 @@
         "title": "Custom Repl Tipping Script",
         "description": "I would like a custom script that uses Replit GraphQL and allows me to tip a Repl a custom number of cycles (even below 100). The script can be a simple code which I run in the browser dev console, that prompts me to enter the cycles amount.",
         "author": "CoderGautamYT",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/custom-repl-tipping?t="
     },
     {
@@ -1786,7 +1786,7 @@
         "title": "Webpage that can upload file to AWS S3, trigger Lambda and update DOM accordingly",
         "description": "I want to create a web application where users can upload their data and then see summaries of their data and select to do further cleaning and analysis.\n\nI'm comfortable with coding the backend but need someone to create the frontend for interacting with the AWS backend. I've been suggested to do polling and use node.js. It's up to you what solution you'd like to use.\n\nAcceptance Criteria\nUser can upload a file from the webpage to AWS S3 bucket, and trigger an AWS Lambda. The response from the Lambda updates the DOM.",
         "author": "JohnH23",
-        "posted_time": "59 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@JohnH23/webpage-that-can-upl?t="
     }
 ]

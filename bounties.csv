@@ -1565,7 +1565,7 @@ so they also get a chance to get cycles!",CICUGaming,2 hours ago,https://replit.
 174,$4.50,due in 13 days,A Working Login Website **stores id & pass**,"A Working Login Website stores id & pass
 In a Pass.txt File
 And Store Data Also save user data also google & discord auth",NotYourMaster,2 hours ago,https://replit.com/bounties/@NotYourMaster/a-working-login-webs?t=
-175,$1.00,due in 4 days,Custom Repl Tipping Script,"I would like a custom script that uses Replit GraphQL and allows me to tip a Repl a custom number of cycles (even below 100). The script can be a simple code which I run in the browser dev console, that prompts me to enter the cycles amount.",CoderGautamYT,1 hour ago,https://replit.com/bounties/@CoderGautamYT/custom-repl-tipping?t=
+175,$1.00,due in 4 days,Custom Repl Tipping Script,"I would like a custom script that uses Replit GraphQL and allows me to tip a Repl a custom number of cycles (even below 100). The script can be a simple code which I run in the browser dev console, that prompts me to enter the cycles amount.",CoderGautamYT,2 hours ago,https://replit.com/bounties/@CoderGautamYT/custom-repl-tipping?t=
 176,$1.80,closed,Giving Bribe To My Friend,Giving Bribe To My Friend,NotYourMaster,1 hour ago,https://replit.com/bounties/@NotYourMaster/giving-bribe-to-my-f?t=
 177,$3.60,due in 3 days,Giving Cycles To Meh Friend,exdiasasasa s,NotYourMaster,1 hour ago,https://replit.com/bounties/@NotYourMaster/giving-cycles-to-meh?t=
 178,$18.00,due in 16 days,"Webpage that can upload file to AWS S3, trigger Lambda and update DOM accordingly","I want to create a web application where users can upload their data and then see summaries of their data and select to do further cleaning and analysis.
@@ -1573,4 +1573,4 @@ And Store Data Also save user data also google & discord auth",NotYourMaster,2 h
 I'm comfortable with coding the backend but need someone to create the frontend for interacting with the AWS backend. I've been suggested to do polling and use node.js. It's up to you what solution you'd like to use.
 
 Acceptance Criteria
-User can upload a file from the webpage to AWS S3 bucket, and trigger an AWS Lambda. The response from the Lambda updates the DOM.",JohnH23,59 minutes ago,https://replit.com/bounties/@JohnH23/webpage-that-can-upl?t=
+User can upload a file from the webpage to AWS S3 bucket, and trigger an AWS Lambda. The response from the Lambda updates the DOM.",JohnH23,1 hour ago,https://replit.com/bounties/@JohnH23/webpage-that-can-upl?t=
