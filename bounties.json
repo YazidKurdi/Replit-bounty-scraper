@@ -1636,7 +1636,7 @@
         "title": "Cookie Clicker Challenge",
         "description": "I am hosting a bounty challenge. I want everybody to attempt to create a cookie clicker like this:\nhttps://cookie-clicker.applecoders.repl.co\n\nWe will judge completed projects on the end date. Thank you.\nThis code will belong to me.",
         "author": "sqcodes",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@sqcodes/cookie-clicker-chall?t="
     },
     {
@@ -1656,7 +1656,7 @@
         "title": "Sync Strava API data to videocreationdate for Xcode app",
         "description": "We have an app that will show Strava data like speed, cadence, wattage and heartrate over a video. We need help syncing the Strava data to the video so the time stamps line up. A video with the data will then be generated with this data. A menu to choose which datastreams and in what size and colour the data will be on the video will also need to be made.\n\nThe interface and general framework are already in place.\n\nAcceptance Criteria\nWe are looking for a good Swift coder who can help us with this problem.",
         "author": "Lucasden",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@Lucasden/sync-strava-api-data?t="
     },
     {
@@ -1686,7 +1686,7 @@
         "title": "Build a website process where people can upload an image and create a unique AI artwork ",
         "description": "Problem:\nBasically, I am looking to upload a photo, then through the magic of ai, generate a new version of the person in that photo in a different scenario. Example, I upload my picture and then tell the AI to redraw me in the style of Van Gogh, or cartoon me like a simpson's cartoon and spit out my image redone in that style.\n\nAfter I upload the image, I select the criteria for my image, and AI outputs the finished product.\n\nAcceptance, I should be able to upload a photo, create a unique AI artwork (via StableDiffusion, MidJourney, Dall-E-2 or other) in 5 presets to manipulate the photo and show the new image on page.",
         "author": "crillbill",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@crillbill/build-a-website-proc?t="
     },
     {
