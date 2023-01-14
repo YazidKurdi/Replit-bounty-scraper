@@ -1786,7 +1786,7 @@
         "title": "Webpage that can upload file to AWS S3, trigger Lambda and update DOM accordingly",
         "description": "I want to create a web application where users can upload their data and then see summaries of their data and select to do further cleaning and analysis.\n\nI'm comfortable with coding the backend but need someone to create the frontend for interacting with the AWS backend. I've been suggested to do polling and use node.js. It's up to you what solution you'd like to use.\n\nAcceptance Criteria\nUser can upload a file from the webpage to AWS S3 bucket, and trigger an AWS Lambda. The response from the Lambda updates the DOM.",
         "author": "JohnH23",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@JohnH23/webpage-that-can-upl?t="
     },
     {
@@ -1858,5 +1858,15 @@
         "author": "NotYourMaster",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@NotYourMaster/a-working-login-webs-1?t="
+    },
+    {
+        "index": "186",
+        "price": "$18.00",
+        "due_days": "due in 4 days",
+        "title": "Convert former Github CEO's Python code file into Javascript - Use no librares & should run in console of any webpage",
+        "description": "Nat Friedman wrote this Python file recently. It drives a web browser using GPT-3, passing in a simplified DOM as part of the prompt.\n\nHere's the file:\nhttps://github.com/nat/natbot/blob/main/natbot.py\n\nI want a simplified DOM - (the browser_content var in the file) - obtained with just JS and no external library (e.g. no playwright lib), and constructed from JS I can run in my console.\n\nAcceptance Criteria\n\nI should be able to paste your JS code into any webpage and have it return a simplified DOM that's identical/near-identical to the browser_content in this python code.\n\nI should be able to run 'click(id)', type('id') etc. just like this python file https://github.com/nat/natbot/blob/f99518d3deee33cb117166049e1c99314080f7e5/natbot.py#L191\n\nThe id's should map the browser content to actual elements. and the actions should act on those elements.\n\nYou do not need to implement the GPT api content.\n\nFor reference: here's how someone did it in ruby: https://github.com/...",
+        "author": "AskProgrammers",
+        "posted_time": "3 minutes ago",
+        "link": "https://replit.com/bounties/@AskProgrammers/convert-former-githu?t="
     }
 ]
