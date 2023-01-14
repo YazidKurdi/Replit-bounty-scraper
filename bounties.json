@@ -1796,7 +1796,7 @@
         "title": "Looking for Good Friends!",
         "description": "Became\nGood friend\nAcceptance Criteria\nPlayful and helpful\nNot just for taking cycle \ud83d\ude00",
         "author": "CICUGaming",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@CICUGaming/looking-for-good-fri?t="
     },
     {
@@ -1826,7 +1826,7 @@
         "title": "Javascript function that returns bond data from https://developer.finra.org/",
         "description": "finra.org maintains an API that returns information (in json) about a particular bond.  The finra API takes a CUSIP such as 45505MJM9 and returns data about the bond.\n\nAcceptance Criteria\nBe specific about what you want in the solution here.\n\nA simple javascript function:\n\n() => getDataFromFinra (cusip) {\n  // authentication\n  //make request to finra api\n  //return data as json object\n}\n\nI should be able to plug in my API Key and secret key into your function and have it work.",
         "author": "AlexSieke",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@AlexSieke/javascript-function?t="
     },
     {
@@ -1856,7 +1856,7 @@
         "title": "A Working Login Website **stores id & pass**",
         "description": "**A Working Login Website stores id & pass\nIn a Pass.txt File\nAnd Store Data Also save user data also google & discord auth\nMUST BE A LOT OF DECORATED & HAS COOL FONT\nSHOULD DO FULL WORK + NOT COPIED +  MEET ALL REQUIREMENT**",
         "author": "NotYourMaster",
-        "posted_time": "54 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@NotYourMaster/a-working-login-webs-1?t="
     }
 ]
