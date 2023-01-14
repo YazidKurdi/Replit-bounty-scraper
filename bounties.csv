@@ -1614,12 +1614,12 @@ The code should remain confidential, and the intellectual property rights for th
 184,$11.25,due in 4 days,C# Script to Parse Specific Piece of Data from a PDF,"I have a PDF document with various text and data that I need parsed. Specifically, there is an identification number, an alphanumeric string of five letters and numbers, that I need to have parsed out of the PDF and returned by the script. It's usually in the same place in every PDF form, but that location may change at some point in the future, so a more robust script and regular expression that could still recognize this unique ID number even if it were in a different place in the document would be most ideal. I have used ChatGPT to write a C# script to do this, and it's almost successful, but the regular expressions I have used need to be amended to be more robust and return the correct data every time. The C# script uses the iText library to accomplish the parsing.
 
 Deliverable
-One (1) C# script that can successfully return the unique ID number from five different PDF files.",traconatc,4 hours ago,https://replit.com/bounties/@traconatc/c-script-to-parse-sp?t=
+One (1) C# script that can successfully return the unique ID number from five different PDF files.",traconatc,5 hours ago,https://replit.com/bounties/@traconatc/c-script-to-parse-sp?t=
 185,$4.05,due in 14 days,A Working Login Website **stores id & pass**,"**A Working Login Website stores id & pass
 In a Pass.txt File
 And Store Data Also save user data also google & discord auth
 MUST BE A LOT OF DECORATED & HAS COOL FONT
-SHOULD DO FULL WORK + NOT COPIED +  MEET ALL REQUIREMENT**",NotYourMaster,2 hours ago,https://replit.com/bounties/@NotYourMaster/a-working-login-webs-1?t=
+SHOULD DO FULL WORK + NOT COPIED +  MEET ALL REQUIREMENT**",NotYourMaster,3 hours ago,https://replit.com/bounties/@NotYourMaster/a-working-login-webs-1?t=
 186,$18.00,due in 4 days,Convert former Github CEO's Python code file into Javascript - Use no librares & should run in console of any webpage,"Nat Friedman wrote this Python file recently. It drives a web browser using GPT-3, passing in a simplified DOM as part of the prompt.
 
 Here's the file:
@@ -1637,7 +1637,7 @@ The id's should map the browser content to actual elements. and the actions shou
 
 You do not need to implement the GPT api content.
 
-For reference: here's how someone did it in ruby: https://github.com/...",AskProgrammers,36 minutes ago,https://replit.com/bounties/@AskProgrammers/convert-former-githu?t=
+For reference: here's how someone did it in ruby: https://github.com/...",AskProgrammers,54 minutes ago,https://replit.com/bounties/@AskProgrammers/convert-former-githu?t=
 187,$225.00,due in 4 days,Looking to add a 3d face to a facemessh with javascript,"I have been playing around with the mediapipe library with facemesh to find the landmark on my face.
 I am looking to not only draw the landscape but do effectively a faceswap
 Acceptance Criteria
@@ -1649,5 +1649,20 @@ See here: https://www.youtube.com/watch?v=-UxIfh2ATOY
 Technical Details
 These 2 links might be helpful:
 https://google.github.io/mediapipe/getting_started/javascript.html
-https://github.com/pjbelo/mediapipe-js-demos",ElieToubiana1,15 minutes ago,https://replit.com/bounties/@ElieToubiana1/looking-to-add-a-3d?t=
-188,$1.80,due in 14 days,"A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied","A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied",NotYourMaster,14 minutes ago,https://replit.com/bounties/@NotYourMaster/a-minecraft-1193-ser?t=
+https://github.com/pjbelo/mediapipe-js-demos",ElieToubiana1,33 minutes ago,https://replit.com/bounties/@ElieToubiana1/looking-to-add-a-3d?t=
+188,$1.80,due in 14 days,"A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied","A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied",NotYourMaster,33 minutes ago,https://replit.com/bounties/@NotYourMaster/a-minecraft-1193-ser?t=
+189,$0.90,closed,Make a bot Discord,"Describe the problem you are trying to solve here.
+Discord
+Acceptance Criteria
+Be specific about what you want in the solution here.",GauravSaran,7 minutes ago,https://replit.com/bounties/@GauravSaran/make-a-bot-discord?t=
+190,$0.90,closed,Make a website with blank black,"fdf
+Acceptance Criteria
+df
+Technical Details
+
+Link to Project",GauravSaran,3 minutes ago,https://replit.com/bounties/@GauravSaran/make-a-website-with?t=
+191,$0.90,due in 14 days,Hmm Code with Egg,"Describe the problem you are trying to solve here.
+Nice
+Acceptance Criteria
+Be specific about what you want in the solution here.
+Good",GauravSaran,8 seconds ago,https://replit.com/bounties/@GauravSaran/hmm-code-with-egg?t=
