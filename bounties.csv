@@ -1573,7 +1573,7 @@ And Store Data Also save user data also google & discord auth",NotYourMaster,14 
 I'm comfortable with coding the backend but need someone to create the frontend for interacting with the AWS backend. I've been suggested to do polling and use node.js. It's up to you what solution you'd like to use.
 
 Acceptance Criteria
-User can upload a file from the webpage to AWS S3 bucket, and trigger an AWS Lambda. The response from the Lambda updates the DOM.",JohnH23,13 hours ago,https://replit.com/bounties/@JohnH23/webpage-that-can-upl?t=
+User can upload a file from the webpage to AWS S3 bucket, and trigger an AWS Lambda. The response from the Lambda updates the DOM.",JohnH23,14 hours ago,https://replit.com/bounties/@JohnH23/webpage-that-can-upl?t=
 179,$39.12,closed,Looking for Good Friends!,"Became
 Good friend
 Acceptance Criteria
@@ -1588,7 +1588,7 @@ HTML, CSS, JS only.",CrownDevelopment,11 hours ago,https://replit.com/bounties/@
 
 Acceptance Criteria
 Replica of Instagram navigation transition, written in Swift with UIKit.
-Touches should be immediately recognized after each transition push/pop.",BrennanErbz,5 hours ago,https://replit.com/bounties/@BrennanErbz/create-ios-swift-tra?t=
+Touches should be immediately recognized after each transition push/pop.",BrennanErbz,6 hours ago,https://replit.com/bounties/@BrennanErbz/create-ios-swift-tra?t=
 182,$90.00,due in 13 days,Javascript function that returns bond data from https://developer.finra.org/,"finra.org maintains an API that returns information (in json) about a particular bond.  The finra API takes a CUSIP such as 45505MJM9 and returns data about the bond.
 
 Acceptance Criteria
@@ -1614,4 +1614,4 @@ The code should remain confidential, and the intellectual property rights for th
 184,$11.25,due in 4 days,C# Script to Parse Specific Piece of Data from a PDF,"I have a PDF document with various text and data that I need parsed. Specifically, there is an identification number, an alphanumeric string of five letters and numbers, that I need to have parsed out of the PDF and returned by the script. It's usually in the same place in every PDF form, but that location may change at some point in the future, so a more robust script and regular expression that could still recognize this unique ID number even if it were in a different place in the document would be most ideal. I have used ChatGPT to write a C# script to do this, and it's almost successful, but the regular expressions I have used need to be amended to be more robust and return the correct data every time. The C# script uses the iText library to accomplish the parsing.
 
 Deliverable
-One (1) C# script that can successfully return the unique ID number from five different PDF files.",traconatc,22 minutes ago,https://replit.com/bounties/@traconatc/c-script-to-parse-sp?t=
+One (1) C# script that can successfully return the unique ID number from five different PDF files.",traconatc,40 minutes ago,https://replit.com/bounties/@traconatc/c-script-to-parse-sp?t=
