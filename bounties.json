@@ -1796,7 +1796,7 @@
         "title": "Looking for Good Friends!",
         "description": "Became\nGood friend\nAcceptance Criteria\nPlayful and helpful\nNot just for taking cycle \ud83d\ude00",
         "author": "CICUGaming",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@CICUGaming/looking-for-good-fri?t="
     },
     {
@@ -1826,7 +1826,7 @@
         "title": "Javascript function that returns bond data from https://developer.finra.org/",
         "description": "finra.org maintains an API that returns information (in json) about a particular bond.  The finra API takes a CUSIP such as 45505MJM9 and returns data about the bond.\n\nAcceptance Criteria\nBe specific about what you want in the solution here.\n\nA simple javascript function:\n\n() => getDataFromFinra (cusip) {\n  // authentication\n  //make request to finra api\n  //return data as json object\n}\n\nI should be able to plug in my API Key and secret key into your function and have it work.",
         "author": "AlexSieke",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@AlexSieke/javascript-function?t="
     },
     {
@@ -1838,5 +1838,15 @@
         "author": "paul2025",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@paul2025/fine-tune-gpt-openai?t="
+    },
+    {
+        "index": "184",
+        "price": "$11.25",
+        "due_days": "due in 4 days",
+        "title": "C# Script to Parse Specific Piece of Data from a PDF",
+        "description": "I have a PDF document with various text and data that I need parsed. Specifically, there is an identification number, an alphanumeric string of five letters and numbers, that I need to have parsed out of the PDF and returned by the script. It's usually in the same place in every PDF form, but that location may change at some point in the future, so a more robust script and regular expression that could still recognize this unique ID number even if it were in a different place in the document would be most ideal. I have used ChatGPT to write a C# script to do this, and it's almost successful, but the regular expressions I have used need to be amended to be more robust and return the correct data every time. The C# script uses the iText library to accomplish the parsing.\n\nDeliverable\nOne (1) C# script that can successfully return the unique ID number from five different PDF files.",
+        "author": "traconatc",
+        "posted_time": "5 minutes ago",
+        "link": "https://replit.com/bounties/@traconatc/c-script-to-parse-sp?t="
     }
 ]
