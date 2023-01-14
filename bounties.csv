@@ -1583,7 +1583,7 @@ Not just for taking cycle 😀",CICUGaming,14 hours ago,https://replit.com/bount
 Acceptance Criteria
 Pretty much all I want is for it to look like the current ChatGPT site and function like so. (trained, dark mode, chat-like interface, etc.)
 Technical Details
-HTML, CSS, JS only.",CrownDevelopment,13 hours ago,https://replit.com/bounties/@CrownDevelopment/chatgpt-frontend?t=
+HTML, CSS, JS only.",CrownDevelopment,14 hours ago,https://replit.com/bounties/@CrownDevelopment/chatgpt-frontend?t=
 181,$90.00,due in 3 days,Create iOS Swift Transition Like Instagram Photos,"Need to create a navigation transition class that is like the transition on Instagram when you tap a user's photo and it goes to the photo detail page.
 
 Acceptance Criteria
@@ -1610,7 +1610,7 @@ Acceptance Criteria:
 The program should have a user interface similar to that of ChatGPT AI, allowing for the submission of legal-related questions and statements.
 The program should have a training interface and fine-tuning process, allowing for the submission of legal cases in PDF format to train the model, which can be stored either locally or in the cloud.
 The program should be well-documented with explanations for each part of the code, making it easy for editing.
-The code should remain confidential, and the intellectual property rights for the code will be transferred upon payment for the commission.",paul2025,4 hours ago,https://replit.com/bounties/@paul2025/fine-tune-gpt-openai?t=
+The code should remain confidential, and the intellectual property rights for the code will be transferred upon payment for the commission.",paul2025,5 hours ago,https://replit.com/bounties/@paul2025/fine-tune-gpt-openai?t=
 184,$11.25,due in 4 days,C# Script to Parse Specific Piece of Data from a PDF,"I have a PDF document with various text and data that I need parsed. Specifically, there is an identification number, an alphanumeric string of five letters and numbers, that I need to have parsed out of the PDF and returned by the script. It's usually in the same place in every PDF form, but that location may change at some point in the future, so a more robust script and regular expression that could still recognize this unique ID number even if it were in a different place in the document would be most ideal. I have used ChatGPT to write a C# script to do this, and it's almost successful, but the regular expressions I have used need to be amended to be more robust and return the correct data every time. The C# script uses the iText library to accomplish the parsing.
 
 Deliverable
@@ -1619,4 +1619,4 @@ One (1) C# script that can successfully return the unique ID number from five di
 In a Pass.txt File
 And Store Data Also save user data also google & discord auth
 MUST BE A LOT OF DECORATED & HAS COOL FONT
-SHOULD DO FULL WORK + NOT COPIED +  MEET ALL REQUIREMENT**",NotYourMaster,36 minutes ago,https://replit.com/bounties/@NotYourMaster/a-working-login-webs-1?t=
+SHOULD DO FULL WORK + NOT COPIED +  MEET ALL REQUIREMENT**",NotYourMaster,54 minutes ago,https://replit.com/bounties/@NotYourMaster/a-working-login-webs-1?t=
