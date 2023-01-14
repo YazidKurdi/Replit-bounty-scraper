@@ -1566,7 +1566,7 @@ so they also get a chance to get cycles!",CICUGaming,14 hours ago,https://replit
 In a Pass.txt File
 And Store Data Also save user data also google & discord auth",NotYourMaster,14 hours ago,https://replit.com/bounties/@NotYourMaster/a-working-login-webs?t=
 175,$1.00,closed,Custom Repl Tipping Script,"I would like a custom script that uses Replit GraphQL and allows me to tip a Repl a custom number of cycles (even below 100). The script can be a simple code which I run in the browser dev console, that prompts me to enter the cycles amount.",CoderGautamYT,14 hours ago,https://replit.com/bounties/@CoderGautamYT/custom-repl-tipping?t=
-176,$1.80,closed,Giving Bribe To My Friend,Giving Bribe To My Friend,NotYourMaster,13 hours ago,https://replit.com/bounties/@NotYourMaster/giving-bribe-to-my-f?t=
+176,$1.80,closed,Giving Bribe To My Friend,Giving Bribe To My Friend,NotYourMaster,14 hours ago,https://replit.com/bounties/@NotYourMaster/giving-bribe-to-my-f?t=
 177,$3.60,due in 3 days,Giving Cycles To Meh Friend,exdiasasasa s,NotYourMaster,4 hours ago,https://replit.com/bounties/@NotYourMaster/giving-cycles-to-meh?t=
 178,$18.00,due in 16 days,"Webpage that can upload file to AWS S3, trigger Lambda and update DOM accordingly","I want to create a web application where users can upload their data and then see summaries of their data and select to do further cleaning and analysis.
 
@@ -1614,4 +1614,4 @@ The code should remain confidential, and the intellectual property rights for th
 184,$11.25,due in 4 days,C# Script to Parse Specific Piece of Data from a PDF,"I have a PDF document with various text and data that I need parsed. Specifically, there is an identification number, an alphanumeric string of five letters and numbers, that I need to have parsed out of the PDF and returned by the script. It's usually in the same place in every PDF form, but that location may change at some point in the future, so a more robust script and regular expression that could still recognize this unique ID number even if it were in a different place in the document would be most ideal. I have used ChatGPT to write a C# script to do this, and it's almost successful, but the regular expressions I have used need to be amended to be more robust and return the correct data every time. The C# script uses the iText library to accomplish the parsing.
 
 Deliverable
-One (1) C# script that can successfully return the unique ID number from five different PDF files.",traconatc,12 minutes ago,https://replit.com/bounties/@traconatc/c-script-to-parse-sp?t=
+One (1) C# script that can successfully return the unique ID number from five different PDF files.",traconatc,22 minutes ago,https://replit.com/bounties/@traconatc/c-script-to-parse-sp?t=
