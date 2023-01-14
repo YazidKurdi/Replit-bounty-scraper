@@ -1996,7 +1996,7 @@
         "title": "Server to book reservations",
         "description": "There are a limited number of indoor tennis court reservations that become available on the city website at midnight 7 days in advance. Write an app that can be configured to reserve 1 evening court automatically on this website:\n\nhttps://www.prospectpark.org/visit-the-park/places-to-go/tennis-center/\n\nMy doctor told me I need to take better care of my heart and to get more cardio. Indoor tennis is one of the few ways to do that in New York winters. I try to stay up and reserve the courts, but can\u2019t always stay up until midnight. And the slots are all booked within minutes.\n\nAcceptance Criteria\nWhen configured with a login, the app should book an evening court (starting at 7pm, 8pm, or 9pm) one week in advance, once that day\u2019s slots become available. The app should be fast enough to succeed before all the slots are gone.",
         "author": "nyc2023",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@nyc2023/server-to-book-reser?t="
     },
     {
@@ -2036,7 +2036,7 @@
         "title": "Install an AI Git Hub",
         "description": "Looking to get the following GitHub installed and setup.\n\nhttps://github.com/shinework/photoshot\n\nWould like fully working product installed and functional.",
         "author": "crillbill",
-        "posted_time": "27 minutes ago",
+        "posted_time": "37 minutes ago",
         "link": "https://replit.com/bounties/@crillbill/install-an-ai-git-hu?t="
     }
 ]
