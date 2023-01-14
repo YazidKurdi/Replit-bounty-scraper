@@ -1976,7 +1976,7 @@
         "title": "webscraper + search to excel",
         "description": "I need a tool / script to get the email and phone number of official companies selling on decathlon, based on a specifc URL.\n\nAcceptance Criteria\nCould be python or something else, to allow me to put in a url, for example https://www.decathlon.co.uk/browse/c0-sports/_/N-2k18jt - then take the names of the sellers in the filter names, search the company up on google, and find email or phone number on their official website - ideal output could be excel or csv.",
         "author": "MichaelBruun-La",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@MichaelBruun-La/webscraper-search-to?t="
     },
     {
@@ -2026,7 +2026,7 @@
         "title": "Chatgp Bot Website ",
         "description": "Looking to create a website using AI\n\nBasically an input page where the user will answer a couple questions and the bot will respond to them.\n\nThese are examples\nhttps://www.giftassistant.io/ this is a bit more complicated, but kind of similar design that I am just looking to have.. very basic.\nhttps://realestate-chatgpt.vercel.app/ this one is like what i am looking for in general, some inputs and then chatgpt will respond.\n\nBasically a few inputs and then a chatgpt will respond.\n\nAcceptance Criteria\n\nId like a working product.",
         "author": "crillbill",
-        "posted_time": "2 minutes ago",
+        "posted_time": "15 minutes ago",
         "link": "https://replit.com/bounties/@crillbill/chatgp-bot-website?t="
     }
 ]
