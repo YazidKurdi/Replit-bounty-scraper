@@ -1786,7 +1786,7 @@
         "title": "Webpage that can upload file to AWS S3, trigger Lambda and update DOM accordingly",
         "description": "I want to create a web application where users can upload their data and then see summaries of their data and select to do further cleaning and analysis.\n\nI'm comfortable with coding the backend but need someone to create the frontend for interacting with the AWS backend. I've been suggested to do polling and use node.js. It's up to you what solution you'd like to use.\n\nAcceptance Criteria\nUser can upload a file from the webpage to AWS S3 bucket, and trigger an AWS Lambda. The response from the Lambda updates the DOM.",
         "author": "JohnH23",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@JohnH23/webpage-that-can-upl?t="
     },
     {
@@ -1816,7 +1816,7 @@
         "title": "Create iOS Swift Transition Like Instagram Photos",
         "description": "Need to create a navigation transition class that is like the transition on Instagram when you tap a user's photo and it goes to the photo detail page.\n\nAcceptance Criteria\nReplica of Instagram navigation transition, written in Swift with UIKit.\nTouches should be immediately recognized after each transition push/pop.",
         "author": "BrennanErbz",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@BrennanErbz/create-ios-swift-tra?t="
     },
     {

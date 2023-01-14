@@ -1573,7 +1573,7 @@ And Store Data Also save user data also google & discord auth",NotYourMaster,13 
 I'm comfortable with coding the backend but need someone to create the frontend for interacting with the AWS backend. I've been suggested to do polling and use node.js. It's up to you what solution you'd like to use.
 
 Acceptance Criteria
-User can upload a file from the webpage to AWS S3 bucket, and trigger an AWS Lambda. The response from the Lambda updates the DOM.",JohnH23,12 hours ago,https://replit.com/bounties/@JohnH23/webpage-that-can-upl?t=
+User can upload a file from the webpage to AWS S3 bucket, and trigger an AWS Lambda. The response from the Lambda updates the DOM.",JohnH23,13 hours ago,https://replit.com/bounties/@JohnH23/webpage-that-can-upl?t=
 179,$39.12,closed,Looking for Good Friends!,"Became
 Good friend
 Acceptance Criteria
@@ -1588,7 +1588,7 @@ HTML, CSS, JS only.",CrownDevelopment,10 hours ago,https://replit.com/bounties/@
 
 Acceptance Criteria
 Replica of Instagram navigation transition, written in Swift with UIKit.
-Touches should be immediately recognized after each transition push/pop.",BrennanErbz,4 hours ago,https://replit.com/bounties/@BrennanErbz/create-ios-swift-tra?t=
+Touches should be immediately recognized after each transition push/pop.",BrennanErbz,5 hours ago,https://replit.com/bounties/@BrennanErbz/create-ios-swift-tra?t=
 182,$90.00,due in 13 days,Javascript function that returns bond data from https://developer.finra.org/,"finra.org maintains an API that returns information (in json) about a particular bond.  The finra API takes a CUSIP such as 45505MJM9 and returns data about the bond.
 
 Acceptance Criteria
