@@ -1852,17 +1852,17 @@
     {
         "index": "185",
         "price": "$4.05",
-        "due_days": "due in 14 days",
+        "due_days": "due in 13 days",
         "title": "A Working Login Website **stores id & pass**",
         "description": "**A Working Login Website stores id & pass\nIn a Pass.txt File\nAnd Store Data Also save user data also google & discord auth\nMUST BE A LOT OF DECORATED & HAS COOL FONT\nSHOULD DO FULL WORK + NOT COPIED +  MEET ALL REQUIREMENT**",
         "author": "NotYourMaster",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@NotYourMaster/a-working-login-webs-1?t="
     },
     {
         "index": "186",
         "price": "$18.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Convert former Github CEO's Python code file into Javascript - Use no librares & should run in console of any webpage",
         "description": "Nat Friedman wrote this Python file recently. It drives a web browser using GPT-3, passing in a simplified DOM as part of the prompt.\n\nHere's the file:\nhttps://github.com/nat/natbot/blob/main/natbot.py\n\nI want a simplified DOM - (the browser_content var in the file) - obtained with just JS and no external library (e.g. no playwright lib), and constructed from JS I can run in my console.\n\nAcceptance Criteria\n\nI should be able to paste your JS code into any webpage and have it return a simplified DOM that's identical/near-identical to the browser_content in this python code.\n\nI should be able to run 'click(id)', type('id') etc. just like this python file https://github.com/nat/natbot/blob/f99518d3deee33cb117166049e1c99314080f7e5/natbot.py#L191\n\nThe id's should map the browser content to actual elements. and the actions should act on those elements.\n\nYou do not need to implement the GPT api content.\n\nFor reference: here's how someone did it in ruby: https://github.com/...",
         "author": "AskProgrammers",
@@ -1872,21 +1872,21 @@
     {
         "index": "187",
         "price": "$225.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Looking to add a 3d face to a facemessh with javascript",
         "description": "I have been playing around with the mediapipe library with facemesh to find the landmark on my face.\nI am looking to not only draw the landscape but do effectively a faceswap\nAcceptance Criteria\nStep 1: Explain how a face can be uploaded .. not sure if it needs to be a 3d model. Ideally just a picture\nStep 2: Once a face is uploaded, open a page and see the face animating as I move my face.\n\nSee here: https://www.youtube.com/watch?v=-UxIfh2ATOY\n\nTechnical Details\nThese 2 links might be helpful:\nhttps://google.github.io/mediapipe/getting_started/javascript.html\nhttps://github.com/pjbelo/mediapipe-js-demos",
         "author": "ElieToubiana1",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@ElieToubiana1/looking-to-add-a-3d?t="
     },
     {
         "index": "188",
         "price": "$1.80",
-        "due_days": "due in 14 days",
+        "due_days": "due in 13 days",
         "title": "A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied",
         "description": "A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied",
         "author": "NotYourMaster",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@NotYourMaster/a-minecraft-1193-ser?t="
     },
     {
@@ -1942,11 +1942,11 @@
     {
         "index": "194",
         "price": "$1.80",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "A Advanced A.I Bot For Minecraft Works In Server",
         "description": "A Advanced A.I Bot For Minecraft Works In Server",
         "author": "NotYourMaster",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@NotYourMaster/a-advanced-ai-bot-fo?t="
     }
 ]
