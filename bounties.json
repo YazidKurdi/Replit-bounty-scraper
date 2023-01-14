@@ -1846,7 +1846,7 @@
         "title": "C# Script to Parse Specific Piece of Data from a PDF",
         "description": "I have a PDF document with various text and data that I need parsed. Specifically, there is an identification number, an alphanumeric string of five letters and numbers, that I need to have parsed out of the PDF and returned by the script. It's usually in the same place in every PDF form, but that location may change at some point in the future, so a more robust script and regular expression that could still recognize this unique ID number even if it were in a different place in the document would be most ideal. I have used ChatGPT to write a C# script to do this, and it's almost successful, but the regular expressions I have used need to be amended to be more robust and return the correct data every time. The C# script uses the iText library to accomplish the parsing.\n\nDeliverable\nOne (1) C# script that can successfully return the unique ID number from five different PDF files.",
         "author": "traconatc",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@traconatc/c-script-to-parse-sp?t="
     },
     {
@@ -1856,7 +1856,7 @@
         "title": "A Working Login Website **stores id & pass**",
         "description": "**A Working Login Website stores id & pass\nIn a Pass.txt File\nAnd Store Data Also save user data also google & discord auth\nMUST BE A LOT OF DECORATED & HAS COOL FONT\nSHOULD DO FULL WORK + NOT COPIED +  MEET ALL REQUIREMENT**",
         "author": "NotYourMaster",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@NotYourMaster/a-working-login-webs-1?t="
     },
     {
@@ -1876,7 +1876,7 @@
         "title": "Looking to add a 3d face to a facemessh with javascript",
         "description": "I have been playing around with the mediapipe library with facemesh to find the landmark on my face.\nI am looking to not only draw the landscape but do effectively a faceswap\nAcceptance Criteria\nStep 1: Explain how a face can be uploaded .. not sure if it needs to be a 3d model. Ideally just a picture\nStep 2: Once a face is uploaded, open a page and see the face animating as I move my face.\n\nSee here: https://www.youtube.com/watch?v=-UxIfh2ATOY\n\nTechnical Details\nThese 2 links might be helpful:\nhttps://google.github.io/mediapipe/getting_started/javascript.html\nhttps://github.com/pjbelo/mediapipe-js-demos",
         "author": "ElieToubiana1",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@ElieToubiana1/looking-to-add-a-3d?t="
     },
     {
@@ -1896,7 +1896,7 @@
         "title": "Make a bot Discord",
         "description": "Describe the problem you are trying to solve here.\nDiscord\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "GauravSaran",
-        "posted_time": "48 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@GauravSaran/make-a-bot-discord?t="
     },
     {
@@ -1906,7 +1906,7 @@
         "title": "Make a website with blank black",
         "description": "fdf\nAcceptance Criteria\ndf\nTechnical Details\n\nLink to Project",
         "author": "GauravSaran",
-        "posted_time": "45 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@GauravSaran/make-a-website-with?t="
     },
     {
@@ -1916,7 +1916,7 @@
         "title": "Hmm Code with Egg",
         "description": "Describe the problem you are trying to solve here.\nNice\nAcceptance Criteria\nBe specific about what you want in the solution here.\nGood",
         "author": "GauravSaran",
-        "posted_time": "42 minutes ago",
+        "posted_time": "57 minutes ago",
         "link": "https://replit.com/bounties/@GauravSaran/hmm-code-with-egg?t="
     },
     {
@@ -1926,7 +1926,7 @@
         "title": "Dc bot that can message ",
         "description": "Describe the problem you are trying to solve here.\nyeia\nAcceptance Criteria\nBe specific about what you want in the solution here.\ni want",
         "author": "GauravSaran",
-        "posted_time": "39 minutes ago",
+        "posted_time": "55 minutes ago",
         "link": "https://replit.com/bounties/@GauravSaran/dc-bot-that-can-mess?t="
     },
     {
@@ -1936,7 +1936,7 @@
         "title": "Do nothing website",
         "description": "its very eaay\nAcceptance Criteria\nMake it!\nTechnical Details\n\nLink to Project",
         "author": "GauravSaran",
-        "posted_time": "36 minutes ago",
+        "posted_time": "52 minutes ago",
         "link": "https://replit.com/bounties/@GauravSaran/do-nothing-website?t="
     }
 ]
