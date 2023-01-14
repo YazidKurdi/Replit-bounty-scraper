@@ -1936,7 +1936,7 @@
         "title": "Do nothing website",
         "description": "its very eaay\nAcceptance Criteria\nMake it!\nTechnical Details\n\nLink to Project",
         "author": "GauravSaran",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@GauravSaran/do-nothing-website?t="
     },
     {
@@ -1996,7 +1996,7 @@
         "title": "Server to book reservations",
         "description": "There are a limited number of indoor tennis court reservations that become available on the city website at midnight 7 days in advance. Write an app that can be configured to reserve 1 evening court automatically on this website:\n\nhttps://www.prospectpark.org/visit-the-park/places-to-go/tennis-center/\n\nMy doctor told me I need to take better care of my heart and to get more cardio. Indoor tennis is one of the few ways to do that in New York winters. I try to stay up and reserve the courts, but can\u2019t always stay up until midnight. And the slots are all booked within minutes.\n\nAcceptance Criteria\nWhen configured with a login, the app should book an evening court (starting at 7pm, 8pm, or 9pm) one week in advance, once that day\u2019s slots become available. The app should be fast enough to succeed before all the slots are gone.",
         "author": "nyc2023",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@nyc2023/server-to-book-reser?t="
     }
 ]
