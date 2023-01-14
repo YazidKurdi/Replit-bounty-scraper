@@ -1756,7 +1756,7 @@
         "title": "Custom Repl Tipping Script",
         "description": "I would like a custom script that uses Replit GraphQL and allows me to tip a Repl a custom number of cycles (even below 100). The script can be a simple code which I run in the browser dev console, that prompts me to enter the cycles amount.",
         "author": "CoderGautamYT",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/custom-repl-tipping?t="
     },
     {
@@ -1846,7 +1846,7 @@
         "title": "C# Script to Parse Specific Piece of Data from a PDF",
         "description": "I have a PDF document with various text and data that I need parsed. Specifically, there is an identification number, an alphanumeric string of five letters and numbers, that I need to have parsed out of the PDF and returned by the script. It's usually in the same place in every PDF form, but that location may change at some point in the future, so a more robust script and regular expression that could still recognize this unique ID number even if it were in a different place in the document would be most ideal. I have used ChatGPT to write a C# script to do this, and it's almost successful, but the regular expressions I have used need to be amended to be more robust and return the correct data every time. The C# script uses the iText library to accomplish the parsing.\n\nDeliverable\nOne (1) C# script that can successfully return the unique ID number from five different PDF files.",
         "author": "traconatc",
-        "posted_time": "5 minutes ago",
+        "posted_time": "12 minutes ago",
         "link": "https://replit.com/bounties/@traconatc/c-script-to-parse-sp?t="
     }
 ]
