@@ -1746,7 +1746,7 @@
         "title": "A Working Login Website **stores id & pass**",
         "description": "A Working Login Website stores id & pass\nIn a Pass.txt File\nAnd Store Data Also save user data also google & discord auth",
         "author": "NotYourMaster",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@NotYourMaster/a-working-login-webs?t="
     },
     {
@@ -1806,7 +1806,7 @@
         "title": "ChatGPT Frontend",
         "description": "I need somebody to create ChatGPT but in Replit.\nAcceptance Criteria\nPretty much all I want is for it to look like the current ChatGPT site and function like so. (trained, dark mode, chat-like interface, etc.)\nTechnical Details\nHTML, CSS, JS only.",
         "author": "CrownDevelopment",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@CrownDevelopment/chatgpt-frontend?t="
     },
     {
@@ -1836,7 +1836,7 @@
         "title": "Fine-tune GPT (OpenAI)",
         "description": "I am requesting the fine-tuning of a GPT-3 model to cater to the legal industry, with a user interface that can provide answers to legal-related questions based on a fine-tuned model and a training interface that allows for the submission of legal cases to fine-tune the model, which can be stored either locally or in the cloud.\n\nAcceptance Criteria:\n\nThe program should have a user interface similar to that of ChatGPT AI, allowing for the submission of legal-related questions and statements.\nThe program should have a training interface and fine-tuning process, allowing for the submission of legal cases in PDF format to train the model, which can be stored either locally or in the cloud.\nThe program should be well-documented with explanations for each part of the code, making it easy for editing.\nThe code should remain confidential, and the intellectual property rights for the code will be transferred upon payment for the commission.",
         "author": "paul2025",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@paul2025/fine-tune-gpt-openai?t="
     },
     {
@@ -1846,7 +1846,7 @@
         "title": "C# Script to Parse Specific Piece of Data from a PDF",
         "description": "I have a PDF document with various text and data that I need parsed. Specifically, there is an identification number, an alphanumeric string of five letters and numbers, that I need to have parsed out of the PDF and returned by the script. It's usually in the same place in every PDF form, but that location may change at some point in the future, so a more robust script and regular expression that could still recognize this unique ID number even if it were in a different place in the document would be most ideal. I have used ChatGPT to write a C# script to do this, and it's almost successful, but the regular expressions I have used need to be amended to be more robust and return the correct data every time. The C# script uses the iText library to accomplish the parsing.\n\nDeliverable\nOne (1) C# script that can successfully return the unique ID number from five different PDF files.",
         "author": "traconatc",
-        "posted_time": "40 minutes ago",
+        "posted_time": "58 minutes ago",
         "link": "https://replit.com/bounties/@traconatc/c-script-to-parse-sp?t="
     }
 ]
