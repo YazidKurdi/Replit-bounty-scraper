@@ -1560,11 +1560,11 @@ Acceptance Criteria
 Make yourself the bot and Don't give the forked bot
 for new bounty Hunters only!
 with 0 to 2 Bounty hunted
-so they also get a chance to get cycles!",CICUGaming,12 hours ago,https://replit.com/bounties/@CICUGaming/make-discord-bot?t=
+so they also get a chance to get cycles!",CICUGaming,13 hours ago,https://replit.com/bounties/@CICUGaming/make-discord-bot?t=
 173,$9.00,closed,Free Repl.it,Im just giving away free repl it. First 3 people get 1k,Randomaaa,5 hours ago,https://replit.com/bounties/@Randomaaa/free-replit?t=
 174,$4.50,due in 13 days,A Working Login Website **stores id & pass**,"A Working Login Website stores id & pass
 In a Pass.txt File
-And Store Data Also save user data also google & discord auth",NotYourMaster,12 hours ago,https://replit.com/bounties/@NotYourMaster/a-working-login-webs?t=
+And Store Data Also save user data also google & discord auth",NotYourMaster,13 hours ago,https://replit.com/bounties/@NotYourMaster/a-working-login-webs?t=
 175,$1.00,closed,Custom Repl Tipping Script,"I would like a custom script that uses Replit GraphQL and allows me to tip a Repl a custom number of cycles (even below 100). The script can be a simple code which I run in the browser dev console, that prompts me to enter the cycles amount.",CoderGautamYT,12 hours ago,https://replit.com/bounties/@CoderGautamYT/custom-repl-tipping?t=
 176,$1.80,closed,Giving Bribe To My Friend,Giving Bribe To My Friend,NotYourMaster,12 hours ago,https://replit.com/bounties/@NotYourMaster/giving-bribe-to-my-f?t=
 177,$3.60,due in 3 days,Giving Cycles To Meh Friend,exdiasasasa s,NotYourMaster,4 hours ago,https://replit.com/bounties/@NotYourMaster/giving-cycles-to-meh?t=
@@ -1573,22 +1573,22 @@ And Store Data Also save user data also google & discord auth",NotYourMaster,12 
 I'm comfortable with coding the backend but need someone to create the frontend for interacting with the AWS backend. I've been suggested to do polling and use node.js. It's up to you what solution you'd like to use.
 
 Acceptance Criteria
-User can upload a file from the webpage to AWS S3 bucket, and trigger an AWS Lambda. The response from the Lambda updates the DOM.",JohnH23,11 hours ago,https://replit.com/bounties/@JohnH23/webpage-that-can-upl?t=
-179,$39.12,due in 3 days,Looking for Good Friends!,"Became
+User can upload a file from the webpage to AWS S3 bucket, and trigger an AWS Lambda. The response from the Lambda updates the DOM.",JohnH23,12 hours ago,https://replit.com/bounties/@JohnH23/webpage-that-can-upl?t=
+179,$39.12,closed,Looking for Good Friends!,"Became
 Good friend
 Acceptance Criteria
 Playful and helpful
-Not just for taking cycle 😀",CICUGaming,10 hours ago,https://replit.com/bounties/@CICUGaming/looking-for-good-fri?t=
+Not just for taking cycle 😀",CICUGaming,11 hours ago,https://replit.com/bounties/@CICUGaming/looking-for-good-fri?t=
 180,$8.45,due in 16 days,ChatGPT Frontend,"I need somebody to create ChatGPT but in Replit.
 Acceptance Criteria
 Pretty much all I want is for it to look like the current ChatGPT site and function like so. (trained, dark mode, chat-like interface, etc.)
 Technical Details
-HTML, CSS, JS only.",CrownDevelopment,9 hours ago,https://replit.com/bounties/@CrownDevelopment/chatgpt-frontend?t=
+HTML, CSS, JS only.",CrownDevelopment,10 hours ago,https://replit.com/bounties/@CrownDevelopment/chatgpt-frontend?t=
 181,$90.00,due in 3 days,Create iOS Swift Transition Like Instagram Photos,"Need to create a navigation transition class that is like the transition on Instagram when you tap a user's photo and it goes to the photo detail page.
 
 Acceptance Criteria
 Replica of Instagram navigation transition, written in Swift with UIKit.
-Touches should be immediately recognized after each transition push/pop.",BrennanErbz,3 hours ago,https://replit.com/bounties/@BrennanErbz/create-ios-swift-tra?t=
+Touches should be immediately recognized after each transition push/pop.",BrennanErbz,4 hours ago,https://replit.com/bounties/@BrennanErbz/create-ios-swift-tra?t=
 182,$90.00,due in 13 days,Javascript function that returns bond data from https://developer.finra.org/,"finra.org maintains an API that returns information (in json) about a particular bond.  The finra API takes a CUSIP such as 45505MJM9 and returns data about the bond.
 
 Acceptance Criteria
@@ -1602,7 +1602,7 @@ A simple javascript function:
   //return data as json object
 }
 
-I should be able to plug in my API Key and secret key into your function and have it work.",AlexSieke,59 minutes ago,https://replit.com/bounties/@AlexSieke/javascript-function?t=
+I should be able to plug in my API Key and secret key into your function and have it work.",AlexSieke,2 hours ago,https://replit.com/bounties/@AlexSieke/javascript-function?t=
 183,$0.90,due in 14 days,Fine-tune GPT (OpenAI),"I am requesting the fine-tuning of a GPT-3 model to cater to the legal industry, with a user interface that can provide answers to legal-related questions based on a fine-tuned model and a training interface that allows for the submission of legal cases to fine-tune the model, which can be stored either locally or in the cloud.
 
 Acceptance Criteria:
@@ -1610,4 +1610,4 @@ Acceptance Criteria:
 The program should have a user interface similar to that of ChatGPT AI, allowing for the submission of legal-related questions and statements.
 The program should have a training interface and fine-tuning process, allowing for the submission of legal cases in PDF format to train the model, which can be stored either locally or in the cloud.
 The program should be well-documented with explanations for each part of the code, making it easy for editing.
-The code should remain confidential, and the intellectual property rights for the code will be transferred upon payment for the commission.",paul2025,6 minutes ago,https://replit.com/bounties/@paul2025/fine-tune-gpt-openai?t=
+The code should remain confidential, and the intellectual property rights for the code will be transferred upon payment for the commission.",paul2025,42 minutes ago,https://replit.com/bounties/@paul2025/fine-tune-gpt-openai?t=
