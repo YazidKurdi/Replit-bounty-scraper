@@ -1796,7 +1796,7 @@
         "title": "Looking for Good Friends!",
         "description": "Became\nGood friend\nAcceptance Criteria\nPlayful and helpful\nNot just for taking cycle \ud83d\ude00",
         "author": "CICUGaming",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@CICUGaming/looking-for-good-fri?t="
     },
     {
@@ -1806,7 +1806,7 @@
         "title": "ChatGPT Frontend",
         "description": "I need somebody to create ChatGPT but in Replit.\nAcceptance Criteria\nPretty much all I want is for it to look like the current ChatGPT site and function like so. (trained, dark mode, chat-like interface, etc.)\nTechnical Details\nHTML, CSS, JS only.",
         "author": "CrownDevelopment",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@CrownDevelopment/chatgpt-frontend?t="
     },
     {
@@ -1826,7 +1826,7 @@
         "title": "Javascript function that returns bond data from https://developer.finra.org/",
         "description": "finra.org maintains an API that returns information (in json) about a particular bond.  The finra API takes a CUSIP such as 45505MJM9 and returns data about the bond.\n\nAcceptance Criteria\nBe specific about what you want in the solution here.\n\nA simple javascript function:\n\n() => getDataFromFinra (cusip) {\n  // authentication\n  //make request to finra api\n  //return data as json object\n}\n\nI should be able to plug in my API Key and secret key into your function and have it work.",
         "author": "AlexSieke",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@AlexSieke/javascript-function?t="
     },
     {
@@ -1866,7 +1866,7 @@
         "title": "Convert former Github CEO's Python code file into Javascript - Use no librares & should run in console of any webpage",
         "description": "Nat Friedman wrote this Python file recently. It drives a web browser using GPT-3, passing in a simplified DOM as part of the prompt.\n\nHere's the file:\nhttps://github.com/nat/natbot/blob/main/natbot.py\n\nI want a simplified DOM - (the browser_content var in the file) - obtained with just JS and no external library (e.g. no playwright lib), and constructed from JS I can run in my console.\n\nAcceptance Criteria\n\nI should be able to paste your JS code into any webpage and have it return a simplified DOM that's identical/near-identical to the browser_content in this python code.\n\nI should be able to run 'click(id)', type('id') etc. just like this python file https://github.com/nat/natbot/blob/f99518d3deee33cb117166049e1c99314080f7e5/natbot.py#L191\n\nThe id's should map the browser content to actual elements. and the actions should act on those elements.\n\nYou do not need to implement the GPT api content.\n\nFor reference: here's how someone did it in ruby: https://github.com/...",
         "author": "AskProgrammers",
-        "posted_time": "10 minutes ago",
+        "posted_time": "18 minutes ago",
         "link": "https://replit.com/bounties/@AskProgrammers/convert-former-githu?t="
     }
 ]
