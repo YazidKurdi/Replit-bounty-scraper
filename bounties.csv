@@ -1793,8 +1793,8 @@ Requirements:
 Build a memory layer for GPT-3 that will be able to carry context over multiple messages similar to ChatGPT
 Ensure that the ""memory"" is packaged in a way that would deliver cost savings (keep overall prompts relatively short as much as possible without losing context)
 Include a function that would evaluate if the current message is part of the same conversation context or the user is starting a new conversation (e.g. evaluate similar...",nyasour,4 hours ago,https://replit.com/bounties/@nyasour/build-a-memory-layer?t=
-216,$4.50,due in 13 days,"A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied","A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied",NotYourMaster,2 hours ago,https://replit.com/bounties/@NotYourMaster/a-minecraft-1193-ser-1?t=
-217,$0.90,closed,This bounty is a/race,aaaaaaa,ae0,2 hours ago,https://replit.com/bounties/@ae0/this-bounty-is-arace?t=
+216,$4.50,due in 13 days,"A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied","A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied",NotYourMaster,3 hours ago,https://replit.com/bounties/@NotYourMaster/a-minecraft-1193-ser-1?t=
+217,$0.90,closed,This bounty is a/race,aaaaaaa,ae0,3 hours ago,https://replit.com/bounties/@ae0/this-bounty-is-arace?t=
 218,$27.00,due in 3 days,Love locks for ever in Paris,"Building a simple website rendering some content, pasting togethers APIS for a very v0 POC
 
 Creating two buttons on the image, giving the user the possibility to save an image, doing a Stripe checkout (let's see how far we go)
@@ -1802,7 +1802,7 @@ Creating two buttons on the image, giving the user the possibility to save an im
 Technical Details
 
 Link to Project",LazareParis,2 hours ago,https://replit.com/bounties/@LazareParis/love-locks-for-ever?t=
-219,$2.70,due in 13 days,Outlook Email Gen Replit,"Need outlook email gen, which can gen 100 accounts or more then in one day.",ItsLmn5555,1 hour ago,https://replit.com/bounties/@ItsLmn5555/outlook-email-gen-re?t=
+219,$2.70,due in 13 days,Outlook Email Gen Replit,"Need outlook email gen, which can gen 100 accounts or more then in one day.",ItsLmn5555,2 hours ago,https://replit.com/bounties/@ItsLmn5555/outlook-email-gen-re?t=
 220,$3.60,due in 13 days,Discord Token Gen,"Discord Token Gen
 100+ Token Per Minute
 VALID TOKENS",NotYourMaster,1 hour ago,https://replit.com/bounties/@NotYourMaster/discord-token-gen?t=
@@ -1820,4 +1820,4 @@ Name of product or service (like ""Nike Free 2.0"" or ""Debt restructuring servi
 Link - user can link to the product or service that we are going to have written ad copy for for the tool to crawl
 Platform - user can choose between a number of buttons, including ""Facebook"", ""LinkedIn"" and ""Google"". This will determine writing style and length of the ad copy output.
 Keywords - free text field where the user can input keywords like the USPs of the service or product, but it doesn't have to be filled out
-Language - choose between a number of languages via buttons (Danish, English, German, S...",Halfdantimm,30 minutes ago,https://replit.com/bounties/@Halfdantimm/ai-tool-based-on-gpt?t=
+Language - choose between a number of languages via buttons (Danish, English, German, S...",Halfdantimm,45 minutes ago,https://replit.com/bounties/@Halfdantimm/ai-tool-based-on-gpt?t=
