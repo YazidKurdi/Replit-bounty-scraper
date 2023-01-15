@@ -2276,7 +2276,7 @@
         "title": "Chrome Extension to scan for GPT Created Content",
         "description": "Looking for a tool that can scan pages for AI-generated content and give the reader a score as they browse.\n\nFor example, I'm browsing https://www.healthline.com/health/mental-health/adhd-myths-debunked?utm_source=ReadNext and should be provided a score in the top right of XX% is written by AI.\n\nTool example: https://gptzero.me\nand scoring method: https://etedward-gptzero-main-zqgfwb.streamlit.app\nTool example #2: https://writer.com/ai-content-detector/\nDesign inspiration: https://chrome.google.com/webstore/detail/trusted-news/nkkghpncidknplmlkgemdoekpckjmlok?hl=en\n\nAcceptance Criteria\nA Chrome extension that provides the user an updated score for each web pages that load.\nWith the exception of banking and other private sites. (Should ignore private sites without user-opt-in.)\nTechnical Details\nLanguage/methodology is not important.\nIdeally the model should work for multiple AI-styles & GPT-tunes.\nIdeally the user does not need to login/take action after install on ...",
         "author": "Bandos1000",
-        "posted_time": "16 minutes ago",
+        "posted_time": "26 minutes ago",
         "link": "https://replit.com/bounties/@Bandos1000/chrome-extension-to?t="
     }
 ]
