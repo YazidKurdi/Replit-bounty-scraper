@@ -1802,7 +1802,7 @@ Creating two buttons on the image, giving the user the possibility to save an im
 Technical Details
 
 Link to Project",LazareParis,11 hours ago,https://replit.com/bounties/@LazareParis/love-locks-for-ever?t=
-219,$2.70,due in 13 days,Outlook Email Gen Replit,"Need outlook email gen, which can gen 100 accounts or more then in one day.",ItsLmn5555,10 hours ago,https://replit.com/bounties/@ItsLmn5555/outlook-email-gen-re?t=
+219,$2.70,due in 13 days,Outlook Email Gen Replit,"Need outlook email gen, which can gen 100 accounts or more then in one day.",ItsLmn5555,11 hours ago,https://replit.com/bounties/@ItsLmn5555/outlook-email-gen-re?t=
 220,$3.60,due in 13 days,Discord Token Gen,"Discord Token Gen
 100+ Token Per Minute
 VALID TOKENS",NotYourMaster,10 hours ago,https://replit.com/bounties/@NotYourMaster/discord-token-gen?t=
@@ -1833,7 +1833,7 @@ User uploads arbitrary file (that can be a large text dataset like a bunch of bl
 Then user can ask questions in a Q&A format like ChatGPT based on that information
 It will also need a very simple user authentication system to save these Chatbots
 
-Please...",JimShook,6 hours ago,https://replit.com/bounties/@JimShook/ai-chatbot-for-perso?t=
+Please...",JimShook,7 hours ago,https://replit.com/bounties/@JimShook/ai-chatbot-for-perso?t=
 224,$135.00,due in 13 days,"Hit an API, do simple parsing + arithmetic, return two integers","I’m a user of Things, the to-do list app by cultured code.
 
 I use a tagging system for 1/ how long each todo takes (5min / 15min / 30min / 60min / 120min) 2/ the priority of the item (High, or nothing)
@@ -1879,4 +1879,25 @@ With the exception of banking and other private sites. (Should ignore private si
 Technical Details
 Language/methodology is not important.
 Ideally the model should work for multiple AI-styles & GPT-tunes.
-Ideally the user does not need to login/take action after install on ...",Bandos1000,46 minutes ago,https://replit.com/bounties/@Bandos1000/chrome-extension-to?t=
+Ideally the user does not need to login/take action after install on ...",Bandos1000,1 hour ago,https://replit.com/bounties/@Bandos1000/chrome-extension-to?t=
+228,$99.00,due in 4 days,Help us finish the Paris / AI Generator Project,"Several missions:
+
+Add a prompt asking for the user to add a few words so his creation is unique. Create a request to GPT-3 to create a ""good"" prompt.
+
+Add the name of the painter below the painting
+
+Add a re-assurance page before clicking on ""save"" (content in Notice)
+
+Connect the Stripe payment page
+
+Create the last page which asks the user for his e-mail, uploads the file to the AR Weave Block-chain, and sends him an e-mail to it. Just set up a personal gmail key for now?
+
+Link to the figma:
+https://www.figma.com/file/LGPGSnI348Q9zWif2yXLvu/Love-without-Locks?node-id=8%3A279&t=iAhKC8Y0qaI4Uk0J-1
+
+Acceptance Criteria - we'll discuss them as before!
+
+Technical Details
+
+Link to Project
+https://replit.com/@LazareParis/react-stable-diffusion-simple-test#src/App.jsx",LazareParis,1 minute ago,https://replit.com/bounties/@LazareParis/help-us-finish-the-p?t=

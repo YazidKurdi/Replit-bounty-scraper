@@ -2196,7 +2196,7 @@
         "title": "Outlook Email Gen Replit",
         "description": "Need outlook email gen, which can gen 100 accounts or more then in one day.",
         "author": "ItsLmn5555",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@ItsLmn5555/outlook-email-gen-re?t="
     },
     {
@@ -2236,7 +2236,7 @@
         "title": "AI Chatbot for personal knowledge repository based on text files",
         "description": "Hi! I would like to create a simple AI tool that allows a user to upload their own content (for example, a large text file) and then the tool creates a chatbot (like ChatGPT) based on that content, for the user. I believe it will use the EmbeddingsAPI?\n\nThe primary use case is for querying your own knowledge base. For example, I have a lot of content that I have saved to my Notion account and would like an easy way to ask it questions instead of having to search through.\n\nThe user experience for the end user will be: upload a .txt file or .csv. Then, the Chatbot is created on a unique URL for that user based on the information in that file.\n\nAcceptance will be a simple, undesigned web application does the following:\n\nUser uploads arbitrary file (that can be a large text dataset like a bunch of blogposts for example)\nThen user can ask questions in a Q&A format like ChatGPT based on that information\nIt will also need a very simple user authentication system to save these Chatbots\n\nPlease...",
         "author": "JimShook",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@JimShook/ai-chatbot-for-perso?t="
     },
     {
@@ -2276,7 +2276,17 @@
         "title": "Chrome Extension to scan for GPT Created Content",
         "description": "Looking for a tool that can scan pages for AI-generated content and give the reader a score as they browse.\n\nFor example, I'm browsing https://www.healthline.com/health/mental-health/adhd-myths-debunked?utm_source=ReadNext and should be provided a score in the top right of XX% is written by AI.\n\nTool example: https://gptzero.me\nand scoring method: https://etedward-gptzero-main-zqgfwb.streamlit.app\nTool example #2: https://writer.com/ai-content-detector/\nDesign inspiration: https://chrome.google.com/webstore/detail/trusted-news/nkkghpncidknplmlkgemdoekpckjmlok?hl=en\n\nAcceptance Criteria\nA Chrome extension that provides the user an updated score for each web pages that load.\nWith the exception of banking and other private sites. (Should ignore private sites without user-opt-in.)\nTechnical Details\nLanguage/methodology is not important.\nIdeally the model should work for multiple AI-styles & GPT-tunes.\nIdeally the user does not need to login/take action after install on ...",
         "author": "Bandos1000",
-        "posted_time": "46 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@Bandos1000/chrome-extension-to?t="
+    },
+    {
+        "index": "228",
+        "price": "$99.00",
+        "due_days": "due in 4 days",
+        "title": "Help us finish the Paris / AI Generator Project",
+        "description": "Several missions:\n\nAdd a prompt asking for the user to add a few words so his creation is unique. Create a request to GPT-3 to create a \"good\" prompt.\n\nAdd the name of the painter below the painting\n\nAdd a re-assurance page before clicking on \"save\" (content in Notice)\n\nConnect the Stripe payment page\n\nCreate the last page which asks the user for his e-mail, uploads the file to the AR Weave Block-chain, and sends him an e-mail to it. Just set up a personal gmail key for now?\n\nLink to the figma:\nhttps://www.figma.com/file/LGPGSnI348Q9zWif2yXLvu/Love-without-Locks?node-id=8%3A279&t=iAhKC8Y0qaI4Uk0J-1\n\nAcceptance Criteria - we'll discuss them as before!\n\nTechnical Details\n\nLink to Project\nhttps://replit.com/@LazareParis/react-stable-diffusion-simple-test#src/App.jsx",
+        "author": "LazareParis",
+        "posted_time": "1 minute ago",
+        "link": "https://replit.com/bounties/@LazareParis/help-us-finish-the-p?t="
     }
 ]
