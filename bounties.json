@@ -2106,7 +2106,7 @@
         "title": "make this cors request in React work for an AI generator",
         "description": "I've set up a free API account on https://stablediffusionapi.com/dashboard and would like to do a post request using axios in Rect to show a generated image\n\nshow a generated image in react when clicking submit, clean code (this code is ugly)\n\nTechnical Details\n\nLink to the repl:\n https://replit.com/@LazareParis/react-stable-diffusion-simple-test?v=1",
         "author": "LazareParis",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@LazareParis/make-this-cors-reque?t="
     },
     {
@@ -2136,7 +2136,7 @@
         "title": "Help me code an AI image generator in React ",
         "description": "Create an API call to Stable Diffusion in React\n\nIt's all here",
         "author": "LazareParis",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@LazareParis/help-me-code-an-ai-i?t="
     },
     {
@@ -2158,5 +2158,25 @@
         "author": "nyasour",
         "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@nyasour/build-a-memory-layer?t="
+    },
+    {
+        "index": "216",
+        "price": "$4.50",
+        "due_days": "due in 14 days",
+        "title": "A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied",
+        "description": "A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied",
+        "author": "NotYourMaster",
+        "posted_time": "6 minutes ago",
+        "link": "https://replit.com/bounties/@NotYourMaster/a-minecraft-1193-ser-1?t="
+    },
+    {
+        "index": "217",
+        "price": "$0.90",
+        "due_days": "closed",
+        "title": "This bounty is a/race",
+        "description": "aaaaaaa",
+        "author": "ae0",
+        "posted_time": "3 minutes ago",
+        "link": "https://replit.com/bounties/@ae0/this-bounty-is-arace?t="
     }
 ]

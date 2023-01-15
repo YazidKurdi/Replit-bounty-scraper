@@ -1757,7 +1757,7 @@ show a generated image in react when clicking submit, clean code (this code is u
 Technical Details
 
 Link to the repl:
- https://replit.com/@LazareParis/react-stable-diffusion-simple-test?v=1",LazareParis,7 hours ago,https://replit.com/bounties/@LazareParis/make-this-cors-reque?t=
+ https://replit.com/@LazareParis/react-stable-diffusion-simple-test?v=1",LazareParis,8 hours ago,https://replit.com/bounties/@LazareParis/make-this-cors-reque?t=
 211,$5.00,due in 4 days,Send me a text whenever a new Replit bounty is posted,"I want to receive an SMS text on my phone whenever a new Replit bounty is posted.
 
 Acceptance Criteria
@@ -1770,7 +1770,7 @@ This should be pretty quick if you've made something like this before.",gabeT123
 Make a Service that SMS whenever there is rainy weather in my area!",CICUGaming,6 hours ago,https://replit.com/bounties/@CICUGaming/make-an-sms-service?t=
 213,$27.00,closed,Help me code an AI image generator in React ,"Create an API call to Stable Diffusion in React
 
-It's all here",LazareParis,3 hours ago,https://replit.com/bounties/@LazareParis/help-me-code-an-ai-i?t=
+It's all here",LazareParis,4 hours ago,https://replit.com/bounties/@LazareParis/help-me-code-an-ai-i?t=
 214,$135.00,due in 4 days,GPT Notes Web App,"The objective of this task is to design and develop a web app with two core functions: 1) a chat-like interface connected to Open AI's GPT-3 API, and 2) a document editor that can save and manage drafts of documents. The web app should be built on Next.js/Typescript, using TailwindCSS (Create T3 App) and the Lexical.dev editor.
 
 Acceptance Criteria
@@ -1793,3 +1793,5 @@ Requirements:
 Build a memory layer for GPT-3 that will be able to carry context over multiple messages similar to ChatGPT
 Ensure that the ""memory"" is packaged in a way that would deliver cost savings (keep overall prompts relatively short as much as possible without losing context)
 Include a function that would evaluate if the current message is part of the same conversation context or the user is starting a new conversation (e.g. evaluate similar...",nyasour,1 hour ago,https://replit.com/bounties/@nyasour/build-a-memory-layer?t=
+216,$4.50,due in 14 days,"A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied","A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied",NotYourMaster,6 minutes ago,https://replit.com/bounties/@NotYourMaster/a-minecraft-1193-ser-1?t=
+217,$0.90,closed,This bounty is a/race,aaaaaaa,ae0,3 minutes ago,https://replit.com/bounties/@ae0/this-bounty-is-arace?t=
