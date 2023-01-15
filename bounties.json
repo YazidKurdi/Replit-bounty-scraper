@@ -2066,7 +2066,7 @@
         "title": "Tutorials for interactive website elements",
         "description": "Create a website with lessons for sprucing up boring websites.\nAcceptance Criteria\nMust be thorough guides on how to add interactive elements to websites such as hover animations, scroll effects, animated cursors, etc.",
         "author": "sosariel",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@sosariel/tutorials-for-intera?t="
     },
     {
@@ -2096,7 +2096,7 @@
         "title": "(roam ext) Create as little friction as possilbe to go from a Roam block to a Replit bounty",
         "description": "I want to go from a roam block to paying for a bounty asap via a roam depot extension.\n#desired background\nfunctional programmer\nTechnical Details\nwritten in clojure",
         "author": "jesse2000",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@jesse2000/roam-ext-create-as-l?t="
     },
     {
@@ -2146,7 +2146,7 @@
         "title": "GPT Notes Web App",
         "description": "The objective of this task is to design and develop a web app with two core functions: 1) a chat-like interface connected to Open AI's GPT-3 API, and 2) a document editor that can save and manage drafts of documents. The web app should be built on Next.js/Typescript, using TailwindCSS (Create T3 App) and the Lexical.dev editor.\n\nAcceptance Criteria\nThe chat-like interface should be able to interact with Open AI's GPT-3 API.\nThe document editor should be able to save and manage drafts of documents.\nThe web app should be built using Create T3 App, and the Lexical.dev editor.\nThe web app should be responsive and fill the entire browser window\nThe web app should be simple, usable, and have a way to toggle between chat and notes\n\nTechnical Details\nChat should query Open AI API\nStack should be T3 + Lexical\nUse Tailwind UI when possible https://tailwindui.com/components\nUse Hero icons for UI https://heroicons.com/\nLexical should have basic styling options and support markd...",
         "author": "aethelyon",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@aethelyon/gpt-notes-web-app?t="
     },
     {
@@ -2156,7 +2156,7 @@
         "title": "Build a Memory Layer for GPT-3",
         "description": "We are looking for an experienced Python developer to build a memory layer for GPT-3 that will enable the model to carry context over multiple messages, similar to ChatGPT. The goal is to package the \"memory\" in a way that would deliver cost savings by keeping overall prompts relatively short without losing context. The developer should also include a function that would evaluate if the current message is part of the same conversation context or if the user is starting a new conversation, for example, by evaluating similarity and relevancy.\n\nRequirements:\n\nBuild a memory layer for GPT-3 that will be able to carry context over multiple messages similar to ChatGPT\nEnsure that the \"memory\" is packaged in a way that would deliver cost savings (keep overall prompts relatively short as much as possible without losing context)\nInclude a function that would evaluate if the current message is part of the same conversation context or the user is starting a new conversation (e.g. evaluate similar...",
         "author": "nyasour",
-        "posted_time": "24 minutes ago",
+        "posted_time": "34 minutes ago",
         "link": "https://replit.com/bounties/@nyasour/build-a-memory-layer?t="
     }
 ]
