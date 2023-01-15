@@ -2126,7 +2126,7 @@
         "title": "Make an SMS service ",
         "description": "It should be free forever service sms\nMake a Service that SMS whenever there is rainy weather in my area!",
         "author": "CICUGaming",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@CICUGaming/make-an-sms-service?t="
     },
     {
@@ -2146,7 +2146,7 @@
         "title": "GPT Notes Web App",
         "description": "The objective of this task is to design and develop a web app with two core functions: 1) a chat-like interface connected to Open AI's GPT-3 API, and 2) a document editor that can save and manage drafts of documents. The web app should be built on Next.js/Typescript, using TailwindCSS (Create T3 App) and the Lexical.dev editor.\n\nAcceptance Criteria\nThe chat-like interface should be able to interact with Open AI's GPT-3 API.\nThe document editor should be able to save and manage drafts of documents.\nThe web app should be built using Create T3 App, and the Lexical.dev editor.\nThe web app should be responsive and fill the entire browser window\nThe web app should be simple, usable, and have a way to toggle between chat and notes\n\nTechnical Details\nChat should query Open AI API\nStack should be T3 + Lexical\nUse Tailwind UI when possible https://tailwindui.com/components\nUse Hero icons for UI https://heroicons.com/\nLexical should have basic styling options and support markd...",
         "author": "aethelyon",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@aethelyon/gpt-notes-web-app?t="
     },
     {
@@ -2156,7 +2156,7 @@
         "title": "Build a Memory Layer for GPT-3",
         "description": "We are looking for an experienced Python developer to build a memory layer for GPT-3 that will enable the model to carry context over multiple messages, similar to ChatGPT. The goal is to package the \"memory\" in a way that would deliver cost savings by keeping overall prompts relatively short without losing context. The developer should also include a function that would evaluate if the current message is part of the same conversation context or if the user is starting a new conversation, for example, by evaluating similarity and relevancy.\n\nRequirements:\n\nBuild a memory layer for GPT-3 that will be able to carry context over multiple messages similar to ChatGPT\nEnsure that the \"memory\" is packaged in a way that would deliver cost savings (keep overall prompts relatively short as much as possible without losing context)\nInclude a function that would evaluate if the current message is part of the same conversation context or the user is starting a new conversation (e.g. evaluate similar...",
         "author": "nyasour",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@nyasour/build-a-memory-layer?t="
     },
     {
@@ -2166,7 +2166,7 @@
         "title": "A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied",
         "description": "A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied",
         "author": "NotYourMaster",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@NotYourMaster/a-minecraft-1193-ser-1?t="
     },
     {
@@ -2176,7 +2176,7 @@
         "title": "This bounty is a/race",
         "description": "aaaaaaa",
         "author": "ae0",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@ae0/this-bounty-is-arace?t="
     },
     {
@@ -2186,7 +2186,7 @@
         "title": "Love locks for ever in Paris",
         "description": "Building a simple website rendering some content, pasting togethers APIS for a very v0 POC\n\nCreating two buttons on the image, giving the user the possibility to save an image, doing a Stripe checkout (let's see how far we go)\n\nTechnical Details\n\nLink to Project",
         "author": "LazareParis",
-        "posted_time": "37 minutes ago",
+        "posted_time": "54 minutes ago",
         "link": "https://replit.com/bounties/@LazareParis/love-locks-for-ever?t="
     },
     {
@@ -2196,7 +2196,7 @@
         "title": "Outlook Email Gen Replit",
         "description": "Need outlook email gen, which can gen 100 accounts or more then in one day.",
         "author": "ItsLmn5555",
-        "posted_time": "10 minutes ago",
+        "posted_time": "27 minutes ago",
         "link": "https://replit.com/bounties/@ItsLmn5555/outlook-email-gen-re?t="
     },
     {
@@ -2206,7 +2206,17 @@
         "title": "Discord Token Gen",
         "description": "Discord Token Gen\n100+ Token Per Minute\nVALID TOKENS",
         "author": "NotYourMaster",
-        "posted_time": "18 seconds ago",
+        "posted_time": "17 minutes ago",
         "link": "https://replit.com/bounties/@NotYourMaster/discord-token-gen?t="
+    },
+    {
+        "index": "221",
+        "price": "$3.60",
+        "due_days": "due in 13 days",
+        "title": "Gmail,Outlook Account Gen",
+        "description": "Gmail,Outlook Account Gen\n30+ Accounts Per Day",
+        "author": "NotYourMaster",
+        "posted_time": "17 minutes ago",
+        "link": "https://replit.com/bounties/@NotYourMaster/gmailoutlook-account?t="
     }
 ]
