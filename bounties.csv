@@ -1793,8 +1793,8 @@ Requirements:
 Build a memory layer for GPT-3 that will be able to carry context over multiple messages similar to ChatGPT
 Ensure that the ""memory"" is packaged in a way that would deliver cost savings (keep overall prompts relatively short as much as possible without losing context)
 Include a function that would evaluate if the current message is part of the same conversation context or the user is starting a new conversation (e.g. evaluate similar...",nyasour,8 hours ago,https://replit.com/bounties/@nyasour/build-a-memory-layer?t=
-216,$4.50,due in 13 days,"A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied","A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied",NotYourMaster,7 hours ago,https://replit.com/bounties/@NotYourMaster/a-minecraft-1193-ser-1?t=
-217,$0.90,closed,This bounty is a/race,aaaaaaa,ae0,7 hours ago,https://replit.com/bounties/@ae0/this-bounty-is-arace?t=
+216,$4.50,due in 13 days,"A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied","A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied",NotYourMaster,8 hours ago,https://replit.com/bounties/@NotYourMaster/a-minecraft-1193-ser-1?t=
+217,$0.90,closed,This bounty is a/race,aaaaaaa,ae0,8 hours ago,https://replit.com/bounties/@ae0/this-bounty-is-arace?t=
 218,$27.00,due in 3 days,Love locks for ever in Paris,"Building a simple website rendering some content, pasting togethers APIS for a very v0 POC
 
 Creating two buttons on the image, giving the user the possibility to save an image, doing a Stripe checkout (let's see how far we go)
@@ -1802,7 +1802,7 @@ Creating two buttons on the image, giving the user the possibility to save an im
 Technical Details
 
 Link to Project",LazareParis,7 hours ago,https://replit.com/bounties/@LazareParis/love-locks-for-ever?t=
-219,$2.70,due in 13 days,Outlook Email Gen Replit,"Need outlook email gen, which can gen 100 accounts or more then in one day.",ItsLmn5555,6 hours ago,https://replit.com/bounties/@ItsLmn5555/outlook-email-gen-re?t=
+219,$2.70,due in 13 days,Outlook Email Gen Replit,"Need outlook email gen, which can gen 100 accounts or more then in one day.",ItsLmn5555,7 hours ago,https://replit.com/bounties/@ItsLmn5555/outlook-email-gen-re?t=
 220,$3.60,due in 13 days,Discord Token Gen,"Discord Token Gen
 100+ Token Per Minute
 VALID TOKENS",NotYourMaster,6 hours ago,https://replit.com/bounties/@NotYourMaster/discord-token-gen?t=
@@ -1833,7 +1833,7 @@ User uploads arbitrary file (that can be a large text dataset like a bunch of bl
 Then user can ask questions in a Q&A format like ChatGPT based on that information
 It will also need a very simple user authentication system to save these Chatbots
 
-Please...",JimShook,2 hours ago,https://replit.com/bounties/@JimShook/ai-chatbot-for-perso?t=
+Please...",JimShook,3 hours ago,https://replit.com/bounties/@JimShook/ai-chatbot-for-perso?t=
 224,$135.00,due in 13 days,"Hit an API, do simple parsing + arithmetic, return two integers","I’m a user of Things, the to-do list app by cultured code.
 
 I use a tagging system for 1/ how long each todo takes (5min / 15min / 30min / 60min / 120min) 2/ the priority of the item (High, or nothing)
@@ -1862,4 +1862,4 @@ Testing via Moralis is free (free signup) and there's basically no way you go ov
 Acceptance Criteria
  ----------------------------------------
  Service must filter out non 'Unstake GMX' transactions from the contract address (Address - 0xA906F338CB21815cBc4Bc87ace9e68c87eF8d8F1)
- Service must be able to filter out transactions lower than a given GMX amount received from th...",sevpants,41 minutes ago,https://replit.com/bounties/@sevpants/set-up-a-webhook-to?t=
+ Service must be able to filter out transactions lower than a given GMX amount received from th...",sevpants,55 minutes ago,https://replit.com/bounties/@sevpants/set-up-a-webhook-to?t=
