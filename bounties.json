@@ -2226,7 +2226,7 @@
         "title": "AI-tool based on GPT to create ad copy (text) based on specific user input",
         "description": "Hi all\n\nI'm working at an marketing agency and we are looking to have made a tool to increase productivity among our consultants when it comes to writing ad copy for clients.\n\nBelow is my idea as to how this should be made, but I'm very open to suggestions as to how we should build this.\n\nI'm imagining a tool - a interface without a login, accessable via link - where the user has the following inputs:\n\nName of product or service (like \"Nike Free 2.0\" or \"Debt restructuring service\")\nLink - user can link to the product or service that we are going to have written ad copy for for the tool to crawl\nPlatform - user can choose between a number of buttons, including \"Facebook\", \"LinkedIn\" and \"Google\". This will determine writing style and length of the ad copy output.\nKeywords - free text field where the user can input keywords like the USPs of the service or product, but it doesn't have to be filled out\nLanguage - choose between a number of languages via buttons (Danish, English, German, S...",
         "author": "Halfdantimm",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@Halfdantimm/ai-tool-based-on-gpt?t="
     },
     {
@@ -2246,7 +2246,7 @@
         "title": "Hit an API, do simple parsing + arithmetic, return two integers",
         "description": "I\u2019m a user of Things, the to-do list app by cultured code.\n\nI use a tagging system for 1/ how long each todo takes (5min / 15min / 30min / 60min / 120min) 2/ the priority of the item (High, or nothing)\n\nI\u2019m looking for a GET REST endpoint that\n1/ hits the Things API\n2/ fetches all the todos in my \u201cToday\u201d list\n3/ adds up the durations of todos\n4/ returns the total duration of all my items in the Today list (including the High items) and the duration of the items that are tagged High\n\nAcceptance Criteria\nReturns\n{\ntotalDuration: 180, // in minutes\ntotalDurationHighPri: 60\n}\n\nExample of a way to hit the Things API\nhttps://github.com/thingsapi/things.py",
         "author": "altimor",
-        "posted_time": "56 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@altimor/hit-an-api-do-simple?t="
     },
     {
@@ -2256,7 +2256,7 @@
         "title": "Set up a webhook to catch Moralis streams for unstaking alerts and send raw data to telegram with python",
         "description": "Moralis is a web3 infrastructure tool that enables developers to integrate web3 into their applications. Moralis Streams is a product that enables developers to listen to real-time blockchain events. GMX is a decentralized perpetual exchange on Arbitrum.\n\nI'm looking to create a replit that listens for real-time events using Moralis' Streams product. I would like someone to create a fastAPI replit instance that receives Unstake GMX transactions from the GMX RewardRouter and broadcasts them to a telegram chat of my choice.\n\nTesting via Moralis is free (free signup) and there's basically no way you go over the free limit during testing if you're filtering transactions correctly\n\nAcceptance Criteria\n ----------------------------------------\n Service must filter out non 'Unstake GMX' transactions from the contract address (Address - 0xA906F338CB21815cBc4Bc87ace9e68c87eF8d8F1)\n Service must be able to filter out transactions lower than a given GMX amount received from th...",
         "author": "sevpants",
-        "posted_time": "31 minutes ago",
+        "posted_time": "41 minutes ago",
         "link": "https://replit.com/bounties/@sevpants/set-up-a-webhook-to?t="
     }
 ]
