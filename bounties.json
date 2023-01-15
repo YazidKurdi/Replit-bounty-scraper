@@ -2036,7 +2036,7 @@
         "title": "Install an AI Git Hub",
         "description": "Looking to get the following GitHub installed and setup.\n\nhttps://github.com/shinework/photoshot\n\nWould like fully working product installed and functional.",
         "author": "crillbill",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@crillbill/install-an-ai-git-hu?t="
     },
     {
@@ -2066,7 +2066,7 @@
         "title": "Tutorials for interactive website elements",
         "description": "Create a website with lessons for sprucing up boring websites.\nAcceptance Criteria\nMust be thorough guides on how to add interactive elements to websites such as hover animations, scroll effects, animated cursors, etc.",
         "author": "sosariel",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@sosariel/tutorials-for-intera?t="
     },
     {
@@ -2096,7 +2096,7 @@
         "title": "(roam ext) Create as little friction as possilbe to go from a Roam block to a Replit bounty",
         "description": "I want to go from a roam block to paying for a bounty asap via a roam depot extension.\n#desired background\nfunctional programmer\nTechnical Details\nwritten in clojure",
         "author": "jesse2000",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@jesse2000/roam-ext-create-as-l?t="
     },
     {
@@ -2116,7 +2116,7 @@
         "title": "Send me a text whenever a new Replit bounty is posted",
         "description": "I want to receive an SMS text on my phone whenever a new Replit bounty is posted.\n\nAcceptance Criteria\n Scrapes the replit bounties page (or uses an API if you can find one)\nDoes not use Twilio or any other paid API to send texts, should be free forever\nUses the email and smtp libraries instead\n\nThis should be pretty quick if you've made something like this before.",
         "author": "gabeT123",
-        "posted_time": "52 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@gabeT123/send-me-a-text-whene?t="
     },
     {
@@ -2126,7 +2126,7 @@
         "title": "Make an SMS service ",
         "description": "It should be free forever service sms\nMake a Service that SMS whenever there is rainy weather in my area!",
         "author": "CICUGaming",
-        "posted_time": "14 minutes ago",
+        "posted_time": "24 minutes ago",
         "link": "https://replit.com/bounties/@CICUGaming/make-an-sms-service?t="
     }
 ]
