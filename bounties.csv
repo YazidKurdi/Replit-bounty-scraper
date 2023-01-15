@@ -1805,9 +1805,9 @@ Link to Project",LazareParis,10 hours ago,https://replit.com/bounties/@LazarePar
 219,$2.70,due in 13 days,Outlook Email Gen Replit,"Need outlook email gen, which can gen 100 accounts or more then in one day.",ItsLmn5555,10 hours ago,https://replit.com/bounties/@ItsLmn5555/outlook-email-gen-re?t=
 220,$3.60,due in 13 days,Discord Token Gen,"Discord Token Gen
 100+ Token Per Minute
-VALID TOKENS",NotYourMaster,9 hours ago,https://replit.com/bounties/@NotYourMaster/discord-token-gen?t=
+VALID TOKENS",NotYourMaster,10 hours ago,https://replit.com/bounties/@NotYourMaster/discord-token-gen?t=
 221,$3.60,due in 13 days,"Gmail,Outlook Account Gen","Gmail,Outlook Account Gen
-30+ Accounts Per Day",NotYourMaster,9 hours ago,https://replit.com/bounties/@NotYourMaster/gmailoutlook-account?t=
+30+ Accounts Per Day",NotYourMaster,10 hours ago,https://replit.com/bounties/@NotYourMaster/gmailoutlook-account?t=
 222,$360.00,due in 13 days,AI-tool based on GPT to create ad copy (text) based on specific user input,"Hi all
 
 I'm working at an marketing agency and we are looking to have made a tool to increase productivity among our consultants when it comes to writing ad copy for clients.
@@ -1852,7 +1852,7 @@ totalDurationHighPri: 60
 }
 
 Example of a way to hit the Things API
-https://github.com/thingsapi/things.py",altimor,4 hours ago,https://replit.com/bounties/@altimor/hit-an-api-do-simple?t=
+https://github.com/thingsapi/things.py",altimor,5 hours ago,https://replit.com/bounties/@altimor/hit-an-api-do-simple?t=
 225,$90.00,due in 13 days,Set up a webhook to catch Moralis streams for unstaking alerts and send raw data to telegram with python,"Moralis is a web3 infrastructure tool that enables developers to integrate web3 into their applications. Moralis Streams is a product that enables developers to listen to real-time blockchain events. GMX is a decentralized perpetual exchange on Arbitrum.
 
 I'm looking to create a replit that listens for real-time events using Moralis' Streams product. I would like someone to create a fastAPI replit instance that receives Unstake GMX transactions from the GMX RewardRouter and broadcasts them to a telegram chat of my choice.
@@ -1863,8 +1863,8 @@ Acceptance Criteria
  ----------------------------------------
  Service must filter out non 'Unstake GMX' transactions from the contract address (Address - 0xA906F338CB21815cBc4Bc87ace9e68c87eF8d8F1)
  Service must be able to filter out transactions lower than a given GMX amount received from th...",sevpants,4 hours ago,https://replit.com/bounties/@sevpants/set-up-a-webhook-to?t=
-226,$10.00,closed,Free 1k Cycles First person to apply,First  to  apply takes the 1k Cycle,Randomaaa,2 hours ago,https://replit.com/bounties/@Randomaaa/free-1k-cycles-first?t=
-227,$27.00,due in 6 days,Chrome Extension to scan for GPT Created Content,"Looking for a tool that can scan pages for AI-generated content and give the reader a score as they browse.
+226,$10.00,closed,Free 1k Cycles First person to apply,First  to  apply takes the 1k Cycle,Randomaaa,3 hours ago,https://replit.com/bounties/@Randomaaa/free-1k-cycles-first?t=
+227,$27.00,due in 9 days,Chrome Extension to scan for GPT Created Content,"Looking for a tool that can scan pages for AI-generated content and give the reader a score as they browse.
 
 For example, I'm browsing https://www.healthline.com/health/mental-health/adhd-myths-debunked?utm_source=ReadNext and should be provided a score in the top right of XX% is written by AI.
 
@@ -1879,4 +1879,4 @@ With the exception of banking and other private sites. (Should ignore private si
 Technical Details
 Language/methodology is not important.
 Ideally the model should work for multiple AI-styles & GPT-tunes.
-Ideally the user does not need to login/take action after install on ...",Bandos1000,1 minute ago,https://replit.com/bounties/@Bandos1000/chrome-extension-to?t=
+Ideally the user does not need to login/take action after install on ...",Bandos1000,16 minutes ago,https://replit.com/bounties/@Bandos1000/chrome-extension-to?t=
