@@ -1785,14 +1785,14 @@ Chat should query Open AI API
 Stack should be T3 + Lexical
 Use Tailwind UI when possible https://tailwindui.com/components
 Use Hero icons for UI https://heroicons.com/
-Lexical should have basic styling options and support markd...",aethelyon,4 hours ago,https://replit.com/bounties/@aethelyon/gpt-notes-web-app?t=
+Lexical should have basic styling options and support markd...",aethelyon,5 hours ago,https://replit.com/bounties/@aethelyon/gpt-notes-web-app?t=
 215,$90.00,due in 3 days,Build a Memory Layer for GPT-3,"We are looking for an experienced Python developer to build a memory layer for GPT-3 that will enable the model to carry context over multiple messages, similar to ChatGPT. The goal is to package the ""memory"" in a way that would deliver cost savings by keeping overall prompts relatively short without losing context. The developer should also include a function that would evaluate if the current message is part of the same conversation context or if the user is starting a new conversation, for example, by evaluating similarity and relevancy.
 
 Requirements:
 
 Build a memory layer for GPT-3 that will be able to carry context over multiple messages similar to ChatGPT
 Ensure that the ""memory"" is packaged in a way that would deliver cost savings (keep overall prompts relatively short as much as possible without losing context)
-Include a function that would evaluate if the current message is part of the same conversation context or the user is starting a new conversation (e.g. evaluate similar...",nyasour,3 hours ago,https://replit.com/bounties/@nyasour/build-a-memory-layer?t=
+Include a function that would evaluate if the current message is part of the same conversation context or the user is starting a new conversation (e.g. evaluate similar...",nyasour,4 hours ago,https://replit.com/bounties/@nyasour/build-a-memory-layer?t=
 216,$4.50,due in 13 days,"A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied","A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied",NotYourMaster,2 hours ago,https://replit.com/bounties/@NotYourMaster/a-minecraft-1193-ser-1?t=
 217,$0.90,closed,This bounty is a/race,aaaaaaa,ae0,2 hours ago,https://replit.com/bounties/@ae0/this-bounty-is-arace?t=
 218,$27.00,due in 3 days,Love locks for ever in Paris,"Building a simple website rendering some content, pasting togethers APIS for a very v0 POC
@@ -1805,9 +1805,9 @@ Link to Project",LazareParis,2 hours ago,https://replit.com/bounties/@LazarePari
 219,$2.70,due in 13 days,Outlook Email Gen Replit,"Need outlook email gen, which can gen 100 accounts or more then in one day.",ItsLmn5555,1 hour ago,https://replit.com/bounties/@ItsLmn5555/outlook-email-gen-re?t=
 220,$3.60,due in 13 days,Discord Token Gen,"Discord Token Gen
 100+ Token Per Minute
-VALID TOKENS",NotYourMaster,58 minutes ago,https://replit.com/bounties/@NotYourMaster/discord-token-gen?t=
+VALID TOKENS",NotYourMaster,1 hour ago,https://replit.com/bounties/@NotYourMaster/discord-token-gen?t=
 221,$3.60,due in 13 days,"Gmail,Outlook Account Gen","Gmail,Outlook Account Gen
-30+ Accounts Per Day",NotYourMaster,58 minutes ago,https://replit.com/bounties/@NotYourMaster/gmailoutlook-account?t=
+30+ Accounts Per Day",NotYourMaster,1 hour ago,https://replit.com/bounties/@NotYourMaster/gmailoutlook-account?t=
 222,$360.00,due in 13 days,AI-tool based on GPT to create ad copy (text) based on specific user input,"Hi all
 
 I'm working at an marketing agency and we are looking to have made a tool to increase productivity among our consultants when it comes to writing ad copy for clients.
@@ -1820,4 +1820,4 @@ Name of product or service (like ""Nike Free 2.0"" or ""Debt restructuring servi
 Link - user can link to the product or service that we are going to have written ad copy for for the tool to crawl
 Platform - user can choose between a number of buttons, including ""Facebook"", ""LinkedIn"" and ""Google"". This will determine writing style and length of the ad copy output.
 Keywords - free text field where the user can input keywords like the USPs of the service or product, but it doesn't have to be filled out
-Language - choose between a number of languages via buttons (Danish, English, German, S...",Halfdantimm,20 minutes ago,https://replit.com/bounties/@Halfdantimm/ai-tool-based-on-gpt?t=
+Language - choose between a number of languages via buttons (Danish, English, German, S...",Halfdantimm,30 minutes ago,https://replit.com/bounties/@Halfdantimm/ai-tool-based-on-gpt?t=
