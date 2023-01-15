@@ -2186,7 +2186,7 @@
         "title": "Love locks for ever in Paris",
         "description": "Building a simple website rendering some content, pasting togethers APIS for a very v0 POC\n\nCreating two buttons on the image, giving the user the possibility to save an image, doing a Stripe checkout (let's see how far we go)\n\nTechnical Details\n\nLink to Project",
         "author": "LazareParis",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@LazareParis/love-locks-for-ever?t="
     },
     {
@@ -2256,7 +2256,7 @@
         "title": "Set up a webhook to catch Moralis streams for unstaking alerts and send raw data to telegram with python",
         "description": "Moralis is a web3 infrastructure tool that enables developers to integrate web3 into their applications. Moralis Streams is a product that enables developers to listen to real-time blockchain events. GMX is a decentralized perpetual exchange on Arbitrum.\n\nI'm looking to create a replit that listens for real-time events using Moralis' Streams product. I would like someone to create a fastAPI replit instance that receives Unstake GMX transactions from the GMX RewardRouter and broadcasts them to a telegram chat of my choice.\n\nTesting via Moralis is free (free signup) and there's basically no way you go over the free limit during testing if you're filtering transactions correctly\n\nAcceptance Criteria\n ----------------------------------------\n Service must filter out non 'Unstake GMX' transactions from the contract address (Address - 0xA906F338CB21815cBc4Bc87ace9e68c87eF8d8F1)\n Service must be able to filter out transactions lower than a given GMX amount received from th...",
         "author": "sevpants",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@sevpants/set-up-a-webhook-to?t="
     },
     {
