@@ -2046,7 +2046,7 @@
         "title": "Binance.us Crypto Arbitrage Bot",
         "description": "A crypto arbitrage bot using binance.US api\n\nPreferably in node.js, please contact me through discord or email ([email\u00a0protected])",
         "author": "HendersonYang",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@HendersonYang/binanceus-crypto-arb?t="
     },
     {
@@ -2066,7 +2066,7 @@
         "title": "Tutorials for interactive website elements",
         "description": "Create a website with lessons for sprucing up boring websites.\nAcceptance Criteria\nMust be thorough guides on how to add interactive elements to websites such as hover animations, scroll effects, animated cursors, etc.",
         "author": "sosariel",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@sosariel/tutorials-for-intera?t="
     },
     {
@@ -2106,7 +2106,17 @@
         "title": "make this cors request in React work for an AI generator",
         "description": "I've set up a free API account on https://stablediffusionapi.com/dashboard and would like to do a post request using axios in Rect to show a generated image\n\nshow a generated image in react when clicking submit, clean code (this code is ugly)\n\nTechnical Details\n\nLink to the repl:\n https://replit.com/@LazareParis/react-stable-diffusion-simple-test?v=1",
         "author": "LazareParis",
-        "posted_time": "49 minutes ago",
+        "posted_time": "56 minutes ago",
         "link": "https://replit.com/bounties/@LazareParis/make-this-cors-reque?t="
+    },
+    {
+        "index": "211",
+        "price": "$5.00",
+        "due_days": "due in 4 days",
+        "title": "Send me a text whenever a new Replit bounty is posted",
+        "description": "I want to receive an SMS text on my phone whenever a new Replit bounty is posted.\n\nAcceptance Criteria\n Scrapes the replit bounties page (or uses an API if you can find one)\nDoes not use Twilio or any other paid API to send texts, should be free forever\nUses the email and smtp libraries instead\n\nThis should be pretty quick if you've made something like this before.",
+        "author": "gabeT123",
+        "posted_time": "3 minutes ago",
+        "link": "https://replit.com/bounties/@gabeT123/send-me-a-text-whene?t="
     }
 ]
