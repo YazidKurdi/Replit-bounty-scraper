@@ -2156,7 +2156,7 @@
         "title": "Build a Memory Layer for GPT-3",
         "description": "We are looking for an experienced Python developer to build a memory layer for GPT-3 that will enable the model to carry context over multiple messages, similar to ChatGPT. The goal is to package the \"memory\" in a way that would deliver cost savings by keeping overall prompts relatively short without losing context. The developer should also include a function that would evaluate if the current message is part of the same conversation context or if the user is starting a new conversation, for example, by evaluating similarity and relevancy.\n\nRequirements:\n\nBuild a memory layer for GPT-3 that will be able to carry context over multiple messages similar to ChatGPT\nEnsure that the \"memory\" is packaged in a way that would deliver cost savings (keep overall prompts relatively short as much as possible without losing context)\nInclude a function that would evaluate if the current message is part of the same conversation context or the user is starting a new conversation (e.g. evaluate similar...",
         "author": "nyasour",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@nyasour/build-a-memory-layer?t="
     },
     {
@@ -2226,7 +2226,7 @@
         "title": "AI-tool based on GPT to create ad copy (text) based on specific user input",
         "description": "Hi all\n\nI'm working at an marketing agency and we are looking to have made a tool to increase productivity among our consultants when it comes to writing ad copy for clients.\n\nBelow is my idea as to how this should be made, but I'm very open to suggestions as to how we should build this.\n\nI'm imagining a tool - a interface without a login, accessable via link - where the user has the following inputs:\n\nName of product or service (like \"Nike Free 2.0\" or \"Debt restructuring service\")\nLink - user can link to the product or service that we are going to have written ad copy for for the tool to crawl\nPlatform - user can choose between a number of buttons, including \"Facebook\", \"LinkedIn\" and \"Google\". This will determine writing style and length of the ad copy output.\nKeywords - free text field where the user can input keywords like the USPs of the service or product, but it doesn't have to be filled out\nLanguage - choose between a number of languages via buttons (Danish, English, German, S...",
         "author": "Halfdantimm",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@Halfdantimm/ai-tool-based-on-gpt?t="
     },
     {
@@ -2238,5 +2238,15 @@
         "author": "JimShook",
         "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@JimShook/ai-chatbot-for-perso?t="
+    },
+    {
+        "index": "224",
+        "price": "$135.00",
+        "due_days": "due in 13 days",
+        "title": "Hit an API, do simple parsing + arithmetic, return two integers",
+        "description": "I\u2019m a user of Things, the to-do list app by cultured code.\n\nI use a tagging system for 1/ how long each todo takes (5min / 15min / 30min / 60min / 120min) 2/ the priority of the item (High, or nothing)\n\nI\u2019m looking for a GET REST endpoint that\n1/ hits the Things API\n2/ fetches all the todos in my \u201cToday\u201d list\n3/ adds up the durations of todos\n4/ returns the total duration of all my items in the Today list (including the High items) and the duration of the items that are tagged High\n\nAcceptance Criteria\nReturns\n{\ntotalDuration: 180, // in minutes\ntotalDurationHighPri: 60\n}\n\nExample of a way to hit the Things API\nhttps://github.com/thingsapi/things.py",
+        "author": "altimor",
+        "posted_time": "5 minutes ago",
+        "link": "https://replit.com/bounties/@altimor/hit-an-api-do-simple?t="
     }
 ]

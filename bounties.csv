@@ -1792,7 +1792,7 @@ Requirements:
 
 Build a memory layer for GPT-3 that will be able to carry context over multiple messages similar to ChatGPT
 Ensure that the ""memory"" is packaged in a way that would deliver cost savings (keep overall prompts relatively short as much as possible without losing context)
-Include a function that would evaluate if the current message is part of the same conversation context or the user is starting a new conversation (e.g. evaluate similar...",nyasour,7 hours ago,https://replit.com/bounties/@nyasour/build-a-memory-layer?t=
+Include a function that would evaluate if the current message is part of the same conversation context or the user is starting a new conversation (e.g. evaluate similar...",nyasour,8 hours ago,https://replit.com/bounties/@nyasour/build-a-memory-layer?t=
 216,$4.50,due in 13 days,"A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied","A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied",NotYourMaster,6 hours ago,https://replit.com/bounties/@NotYourMaster/a-minecraft-1193-ser-1?t=
 217,$0.90,closed,This bounty is a/race,aaaaaaa,ae0,6 hours ago,https://replit.com/bounties/@ae0/this-bounty-is-arace?t=
 218,$27.00,due in 3 days,Love locks for ever in Paris,"Building a simple website rendering some content, pasting togethers APIS for a very v0 POC
@@ -1820,7 +1820,7 @@ Name of product or service (like ""Nike Free 2.0"" or ""Debt restructuring servi
 Link - user can link to the product or service that we are going to have written ad copy for for the tool to crawl
 Platform - user can choose between a number of buttons, including ""Facebook"", ""LinkedIn"" and ""Google"". This will determine writing style and length of the ad copy output.
 Keywords - free text field where the user can input keywords like the USPs of the service or product, but it doesn't have to be filled out
-Language - choose between a number of languages via buttons (Danish, English, German, S...",Halfdantimm,4 hours ago,https://replit.com/bounties/@Halfdantimm/ai-tool-based-on-gpt?t=
+Language - choose between a number of languages via buttons (Danish, English, German, S...",Halfdantimm,5 hours ago,https://replit.com/bounties/@Halfdantimm/ai-tool-based-on-gpt?t=
 223,$450.00,due in 3 days,AI Chatbot for personal knowledge repository based on text files,"Hi! I would like to create a simple AI tool that allows a user to upload their own content (for example, a large text file) and then the tool creates a chatbot (like ChatGPT) based on that content, for the user. I believe it will use the EmbeddingsAPI?
 
 The primary use case is for querying your own knowledge base. For example, I have a lot of content that I have saved to my Notion account and would like an easy way to ask it questions instead of having to search through.
@@ -1834,3 +1834,22 @@ Then user can ask questions in a Q&A format like ChatGPT based on that informati
 It will also need a very simple user authentication system to save these Chatbots
 
 Please...",JimShook,1 hour ago,https://replit.com/bounties/@JimShook/ai-chatbot-for-perso?t=
+224,$135.00,due in 13 days,"Hit an API, do simple parsing + arithmetic, return two integers","I’m a user of Things, the to-do list app by cultured code.
+
+I use a tagging system for 1/ how long each todo takes (5min / 15min / 30min / 60min / 120min) 2/ the priority of the item (High, or nothing)
+
+I’m looking for a GET REST endpoint that
+1/ hits the Things API
+2/ fetches all the todos in my “Today” list
+3/ adds up the durations of todos
+4/ returns the total duration of all my items in the Today list (including the High items) and the duration of the items that are tagged High
+
+Acceptance Criteria
+Returns
+{
+totalDuration: 180, // in minutes
+totalDurationHighPri: 60
+}
+
+Example of a way to hit the Things API
+https://github.com/thingsapi/things.py",altimor,5 minutes ago,https://replit.com/bounties/@altimor/hit-an-api-do-simple?t=
