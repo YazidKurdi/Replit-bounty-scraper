@@ -1793,5 +1793,5 @@ Requirements:
 Build a memory layer for GPT-3 that will be able to carry context over multiple messages similar to ChatGPT
 Ensure that the ""memory"" is packaged in a way that would deliver cost savings (keep overall prompts relatively short as much as possible without losing context)
 Include a function that would evaluate if the current message is part of the same conversation context or the user is starting a new conversation (e.g. evaluate similar...",nyasour,1 hour ago,https://replit.com/bounties/@nyasour/build-a-memory-layer?t=
-216,$4.50,due in 14 days,"A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied","A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied",NotYourMaster,6 minutes ago,https://replit.com/bounties/@NotYourMaster/a-minecraft-1193-ser-1?t=
-217,$0.90,closed,This bounty is a/race,aaaaaaa,ae0,3 minutes ago,https://replit.com/bounties/@ae0/this-bounty-is-arace?t=
+216,$4.50,due in 14 days,"A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied","A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied",NotYourMaster,15 minutes ago,https://replit.com/bounties/@NotYourMaster/a-minecraft-1193-ser-1?t=
+217,$0.90,closed,This bounty is a/race,aaaaaaa,ae0,12 minutes ago,https://replit.com/bounties/@ae0/this-bounty-is-arace?t=
