@@ -2116,7 +2116,7 @@
         "title": "Send me a text whenever a new Replit bounty is posted",
         "description": "I want to receive an SMS text on my phone whenever a new Replit bounty is posted.\n\nAcceptance Criteria\n Scrapes the replit bounties page (or uses an API if you can find one)\nDoes not use Twilio or any other paid API to send texts, should be free forever\nUses the email and smtp libraries instead\n\nThis should be pretty quick if you've made something like this before.",
         "author": "gabeT123",
-        "posted_time": "17 minutes ago",
+        "posted_time": "32 minutes ago",
         "link": "https://replit.com/bounties/@gabeT123/send-me-a-text-whene?t="
     }
 ]
