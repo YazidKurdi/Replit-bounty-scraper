@@ -1792,4 +1792,4 @@ Requirements:
 
 Build a memory layer for GPT-3 that will be able to carry context over multiple messages similar to ChatGPT
 Ensure that the ""memory"" is packaged in a way that would deliver cost savings (keep overall prompts relatively short as much as possible without losing context)
-Include a function that would evaluate if the current message is part of the same conversation context or the user is starting a new conversation (e.g. evaluate similar...",nyasour,15 minutes ago,https://replit.com/bounties/@nyasour/build-a-memory-layer?t=
+Include a function that would evaluate if the current message is part of the same conversation context or the user is starting a new conversation (e.g. evaluate similar...",nyasour,24 minutes ago,https://replit.com/bounties/@nyasour/build-a-memory-layer?t=
