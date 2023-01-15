@@ -1986,7 +1986,7 @@
         "title": "A bot which can send email through discord ",
         "description": "There are 2 channels name Lmn and ethan then a person who claimed staff apply ticket will use an command .email [user email to whome applied] and the message when a person infornt repliied so the specific email should be arrived in a channel which webhook is accosiated in code\n\nHey I want a bot like we can send email from discord, if any body applied for staff so we can email through discord and if he replied then one channel can be created and his reply will appear there",
         "author": "Deezy99",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@Deezy99/a-bot-which-can-send?t="
     },
     {
@@ -1996,7 +1996,7 @@
         "title": "Server to book reservations",
         "description": "There are a limited number of indoor tennis court reservations that become available on the city website at midnight 7 days in advance. Write an app that can be configured to reserve 1 evening court automatically on this website:\n\nhttps://www.prospectpark.org/visit-the-park/places-to-go/tennis-center/\n\nMy doctor told me I need to take better care of my heart and to get more cardio. Indoor tennis is one of the few ways to do that in New York winters. I try to stay up and reserve the courts, but can\u2019t always stay up until midnight. And the slots are all booked within minutes.\n\nAcceptance Criteria\nWhen configured with a login, the app should book an evening court (starting at 7pm, 8pm, or 9pm) one week in advance, once that day\u2019s slots become available. The app should be fast enough to succeed before all the slots are gone.",
         "author": "nyc2023",
-        "posted_time": "7 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@nyc2023/server-to-book-reser?t="
     },
     {
@@ -2006,7 +2006,7 @@
         "title": "(illpay$45orMore) A Website Shop Like Sellix Or atshop.io (And a waytocheck purchases)",
         "description": "I need a website where people can add things to cart and buy,\n\nAnd i need a Admin Panel to check who purchased\n\n45$ Wont be the all that your paid you will be paid more depending on how good it is but 45$ is Minimum",
         "author": "Randomaaa",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@Randomaaa/illpaydollar45ormore?t="
     },
     {
@@ -2016,7 +2016,7 @@
         "title": "(illpay$45orMore) A Website Shop Like Sellix Or atshop.io (And a waytocheck purchases)",
         "description": "Message me using discord - Sloe#2227\n\nI need a website where people can add things to cart and buy,\n\nAnd i need a Admin Panel to check who purchased\n\n45$ Wont be the all that your paid you will be paid more depending on how good it is but 45$ is Minimum",
         "author": "Randomaaa",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@Randomaaa/illpaydollar45ormore-1?t="
     },
     {
@@ -2026,7 +2026,7 @@
         "title": "Chatgp Bot Website ",
         "description": "Looking to create a website using AI\n\nBasically an input page where the user will answer a couple questions and the bot will respond to them.\n\nThese are examples\nhttps://www.giftassistant.io/ this is a bit more complicated, but kind of similar design that I am just looking to have.. very basic.\nhttps://realestate-chatgpt.vercel.app/ this one is like what i am looking for in general, some inputs and then chatgpt will respond.\n\nBasically a few inputs and then a chatgpt will respond.\n\nAcceptance Criteria\n\nId like a working product.",
         "author": "crillbill",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@crillbill/chatgp-bot-website?t="
     },
     {
@@ -2036,17 +2036,47 @@
         "title": "Install an AI Git Hub",
         "description": "Looking to get the following GitHub installed and setup.\n\nhttps://github.com/shinework/photoshot\n\nWould like fully working product installed and functional.",
         "author": "crillbill",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@crillbill/install-an-ai-git-hu?t="
     },
     {
         "index": "204",
         "price": "$2.70",
-        "due_days": "due in 5 days",
+        "due_days": "closed",
         "title": "Binance.us Crypto Arbitrage Bot",
         "description": "A crypto arbitrage bot using binance.US api\n\nPreferably in node.js, please contact me through discord or email ([email\u00a0protected])",
         "author": "HendersonYang",
-        "posted_time": "24 minutes ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@HendersonYang/binanceus-crypto-arb?t="
+    },
+    {
+        "index": "205",
+        "price": "$1.00",
+        "due_days": "due in 13 days",
+        "title": "[Simple] Add 2 tags to site",
+        "description": "I need someone to add 2 more tags to my website search options (games.odd.gay) we already have everything setup I just was unable to do it.\n\nAcceptance Criteria\nMust have their discord linked on their profile or username and tag in messages\nMust have prior experience with HTML, CSS, and JS",
+        "author": "OddGames",
+        "posted_time": "1 hour ago",
+        "link": "https://replit.com/bounties/@OddGames/simple-add-2-tags-to?t="
+    },
+    {
+        "index": "206",
+        "price": "$180.00",
+        "due_days": "due in 15 days",
+        "title": "Tutorials for interactive website elements",
+        "description": "Create a website with lessons for sprucing up boring websites.\nAcceptance Criteria\nMust be thorough guides on how to add interactive elements to websites such as hover animations, scroll effects, animated cursors, etc.",
+        "author": "sosariel",
+        "posted_time": "49 minutes ago",
+        "link": "https://replit.com/bounties/@sosariel/tutorials-for-intera?t="
+    },
+    {
+        "index": "207",
+        "price": "$4.20",
+        "due_days": "due in 5 days",
+        "title": "Bounty Raffle",
+        "description": "Wanted to test out posting bounties,\nwill pick out the winner at random!",
+        "author": "eefh1",
+        "posted_time": "39 minutes ago",
+        "link": "https://replit.com/bounties/@eefh1/bounty-raffle?t="
     }
 ]
