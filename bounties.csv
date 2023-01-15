@@ -1737,14 +1737,14 @@ Must have prior experience with HTML, CSS, and JS",OddGames,4 hours ago,https://
 Acceptance Criteria
 Must be thorough guides on how to add interactive elements to websites such as hover animations, scroll effects, animated cursors, etc.",sosariel,4 hours ago,https://replit.com/bounties/@sosariel/tutorials-for-intera?t=
 207,$4.20,due in 5 days,Bounty Raffle,"Wanted to test out posting bounties,
-will pick out the winner at random!",eefh1,3 hours ago,https://replit.com/bounties/@eefh1/bounty-raffle?t=
+will pick out the winner at random!",eefh1,4 hours ago,https://replit.com/bounties/@eefh1/bounty-raffle?t=
 208,$140.40,due in 4 days,A script to pull media download URL given Instagram post link,"I need a script that takes as input an Instagram link
 
 eg:
 https://www.instagram.com/p/Cmhg1zjj3Y5/
 https://www.instagram.com/reel/Ci9EbmYD-kY/
 
-and returns a link to download the piece of media. It should work with both reels and regular posts, and images and videos.",rocketmanw,2 hours ago,https://replit.com/bounties/@rocketmanw/a-script-to-pull-med?t=
+and returns a link to download the piece of media. It should work with both reels and regular posts, and images and videos.",rocketmanw,3 hours ago,https://replit.com/bounties/@rocketmanw/a-script-to-pull-med?t=
 209,$225.00,due in 4 months,(roam ext) Create as little friction as possilbe to go from a Roam block to a Replit bounty,"I want to go from a roam block to paying for a bounty asap via a roam depot extension.
 #desired background
 functional programmer
@@ -1757,7 +1757,7 @@ show a generated image in react when clicking submit, clean code (this code is u
 Technical Details
 
 Link to the repl:
- https://replit.com/@LazareParis/react-stable-diffusion-simple-test?v=1",LazareParis,56 minutes ago,https://replit.com/bounties/@LazareParis/make-this-cors-reque?t=
+ https://replit.com/@LazareParis/react-stable-diffusion-simple-test?v=1",LazareParis,1 hour ago,https://replit.com/bounties/@LazareParis/make-this-cors-reque?t=
 211,$5.00,due in 4 days,Send me a text whenever a new Replit bounty is posted,"I want to receive an SMS text on my phone whenever a new Replit bounty is posted.
 
 Acceptance Criteria
@@ -1765,4 +1765,4 @@ Acceptance Criteria
 Does not use Twilio or any other paid API to send texts, should be free forever
 Uses the email and smtp libraries instead
 
-This should be pretty quick if you've made something like this before.",gabeT123,3 minutes ago,https://replit.com/bounties/@gabeT123/send-me-a-text-whene?t=
+This should be pretty quick if you've made something like this before.",gabeT123,17 minutes ago,https://replit.com/bounties/@gabeT123/send-me-a-text-whene?t=

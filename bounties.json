@@ -2076,7 +2076,7 @@
         "title": "Bounty Raffle",
         "description": "Wanted to test out posting bounties,\nwill pick out the winner at random!",
         "author": "eefh1",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@eefh1/bounty-raffle?t="
     },
     {
@@ -2086,7 +2086,7 @@
         "title": "A script to pull media download URL given Instagram post link",
         "description": "I need a script that takes as input an Instagram link\n\neg:\nhttps://www.instagram.com/p/Cmhg1zjj3Y5/\nhttps://www.instagram.com/reel/Ci9EbmYD-kY/\n\nand returns a link to download the piece of media. It should work with both reels and regular posts, and images and videos.",
         "author": "rocketmanw",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@rocketmanw/a-script-to-pull-med?t="
     },
     {
@@ -2106,7 +2106,7 @@
         "title": "make this cors request in React work for an AI generator",
         "description": "I've set up a free API account on https://stablediffusionapi.com/dashboard and would like to do a post request using axios in Rect to show a generated image\n\nshow a generated image in react when clicking submit, clean code (this code is ugly)\n\nTechnical Details\n\nLink to the repl:\n https://replit.com/@LazareParis/react-stable-diffusion-simple-test?v=1",
         "author": "LazareParis",
-        "posted_time": "56 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@LazareParis/make-this-cors-reque?t="
     },
     {
@@ -2116,7 +2116,7 @@
         "title": "Send me a text whenever a new Replit bounty is posted",
         "description": "I want to receive an SMS text on my phone whenever a new Replit bounty is posted.\n\nAcceptance Criteria\n Scrapes the replit bounties page (or uses an API if you can find one)\nDoes not use Twilio or any other paid API to send texts, should be free forever\nUses the email and smtp libraries instead\n\nThis should be pretty quick if you've made something like this before.",
         "author": "gabeT123",
-        "posted_time": "3 minutes ago",
+        "posted_time": "17 minutes ago",
         "link": "https://replit.com/bounties/@gabeT123/send-me-a-text-whene?t="
     }
 ]
