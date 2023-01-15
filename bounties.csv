@@ -1802,7 +1802,7 @@ Creating two buttons on the image, giving the user the possibility to save an im
 Technical Details
 
 Link to Project",LazareParis,10 hours ago,https://replit.com/bounties/@LazareParis/love-locks-for-ever?t=
-219,$2.70,due in 13 days,Outlook Email Gen Replit,"Need outlook email gen, which can gen 100 accounts or more then in one day.",ItsLmn5555,9 hours ago,https://replit.com/bounties/@ItsLmn5555/outlook-email-gen-re?t=
+219,$2.70,due in 13 days,Outlook Email Gen Replit,"Need outlook email gen, which can gen 100 accounts or more then in one day.",ItsLmn5555,10 hours ago,https://replit.com/bounties/@ItsLmn5555/outlook-email-gen-re?t=
 220,$3.60,due in 13 days,Discord Token Gen,"Discord Token Gen
 100+ Token Per Minute
 VALID TOKENS",NotYourMaster,9 hours ago,https://replit.com/bounties/@NotYourMaster/discord-token-gen?t=
@@ -1833,7 +1833,7 @@ User uploads arbitrary file (that can be a large text dataset like a bunch of bl
 Then user can ask questions in a Q&A format like ChatGPT based on that information
 It will also need a very simple user authentication system to save these Chatbots
 
-Please...",JimShook,5 hours ago,https://replit.com/bounties/@JimShook/ai-chatbot-for-perso?t=
+Please...",JimShook,6 hours ago,https://replit.com/bounties/@JimShook/ai-chatbot-for-perso?t=
 224,$135.00,due in 13 days,"Hit an API, do simple parsing + arithmetic, return two integers","I’m a user of Things, the to-do list app by cultured code.
 
 I use a tagging system for 1/ how long each todo takes (5min / 15min / 30min / 60min / 120min) 2/ the priority of the item (High, or nothing)
@@ -1864,3 +1864,19 @@ Acceptance Criteria
  Service must filter out non 'Unstake GMX' transactions from the contract address (Address - 0xA906F338CB21815cBc4Bc87ace9e68c87eF8d8F1)
  Service must be able to filter out transactions lower than a given GMX amount received from th...",sevpants,4 hours ago,https://replit.com/bounties/@sevpants/set-up-a-webhook-to?t=
 226,$10.00,closed,Free 1k Cycles First person to apply,First  to  apply takes the 1k Cycle,Randomaaa,2 hours ago,https://replit.com/bounties/@Randomaaa/free-1k-cycles-first?t=
+227,$27.00,due in 6 days,Chrome Extension to scan for GPT Created Content,"Looking for a tool that can scan pages for AI-generated content and give the reader a score as they browse.
+
+For example, I'm browsing https://www.healthline.com/health/mental-health/adhd-myths-debunked?utm_source=ReadNext and should be provided a score in the top right of XX% is written by AI.
+
+Tool example: https://gptzero.me
+and scoring method: https://etedward-gptzero-main-zqgfwb.streamlit.app
+Tool example #2: https://writer.com/ai-content-detector/
+Design inspiration: https://chrome.google.com/webstore/detail/trusted-news/nkkghpncidknplmlkgemdoekpckjmlok?hl=en
+
+Acceptance Criteria
+A Chrome extension that provides the user an updated score for each web pages that load.
+With the exception of banking and other private sites. (Should ignore private sites without user-opt-in.)
+Technical Details
+Language/methodology is not important.
+Ideally the model should work for multiple AI-styles & GPT-tunes.
+Ideally the user does not need to login/take action after install on ...",Bandos1000,1 minute ago,https://replit.com/bounties/@Bandos1000/chrome-extension-to?t=
