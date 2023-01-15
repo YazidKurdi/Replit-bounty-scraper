@@ -2176,7 +2176,7 @@
         "title": "This bounty is a/race",
         "description": "aaaaaaa",
         "author": "ae0",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@ae0/this-bounty-is-arace?t="
     },
     {
@@ -2196,7 +2196,7 @@
         "title": "Outlook Email Gen Replit",
         "description": "Need outlook email gen, which can gen 100 accounts or more then in one day.",
         "author": "ItsLmn5555",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@ItsLmn5555/outlook-email-gen-re?t="
     },
     {
@@ -2236,7 +2236,7 @@
         "title": "AI Chatbot for personal knowledge repository based on text files",
         "description": "Hi! I would like to create a simple AI tool that allows a user to upload their own content (for example, a large text file) and then the tool creates a chatbot (like ChatGPT) based on that content, for the user. I believe it will use the EmbeddingsAPI?\n\nThe primary use case is for querying your own knowledge base. For example, I have a lot of content that I have saved to my Notion account and would like an easy way to ask it questions instead of having to search through.\n\nThe user experience for the end user will be: upload a .txt file or .csv. Then, the Chatbot is created on a unique URL for that user based on the information in that file.\n\nAcceptance will be a simple, undesigned web application does the following:\n\nUser uploads arbitrary file (that can be a large text dataset like a bunch of blogposts for example)\nThen user can ask questions in a Q&A format like ChatGPT based on that information\nIt will also need a very simple user authentication system to save these Chatbots\n\nPlease...",
         "author": "JimShook",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@JimShook/ai-chatbot-for-perso?t="
     },
     {
@@ -2266,7 +2266,7 @@
         "title": "Free 1k Cycles First person to apply",
         "description": "First  to  apply takes the 1k Cycle",
         "author": "Randomaaa",
-        "posted_time": "5 minutes ago",
+        "posted_time": "20 minutes ago",
         "link": "https://replit.com/bounties/@Randomaaa/free-1k-cycles-first?t="
     }
 ]
