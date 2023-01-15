@@ -2056,7 +2056,7 @@
         "title": "[Simple] Add 2 tags to site",
         "description": "I need someone to add 2 more tags to my website search options (games.odd.gay) we already have everything setup I just was unable to do it.\n\nAcceptance Criteria\nMust have their discord linked on their profile or username and tag in messages\nMust have prior experience with HTML, CSS, and JS",
         "author": "OddGames",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@OddGames/simple-add-2-tags-to?t="
     },
     {
@@ -2106,7 +2106,7 @@
         "title": "make this cors request in React work for an AI generator",
         "description": "I've set up a free API account on https://stablediffusionapi.com/dashboard and would like to do a post request using axios in Rect to show a generated image\n\nshow a generated image in react when clicking submit, clean code (this code is ugly)\n\nTechnical Details\n\nLink to the repl:\n https://replit.com/@LazareParis/react-stable-diffusion-simple-test?v=1",
         "author": "LazareParis",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@LazareParis/make-this-cors-reque?t="
     },
     {
@@ -2116,7 +2116,17 @@
         "title": "Send me a text whenever a new Replit bounty is posted",
         "description": "I want to receive an SMS text on my phone whenever a new Replit bounty is posted.\n\nAcceptance Criteria\n Scrapes the replit bounties page (or uses an API if you can find one)\nDoes not use Twilio or any other paid API to send texts, should be free forever\nUses the email and smtp libraries instead\n\nThis should be pretty quick if you've made something like this before.",
         "author": "gabeT123",
-        "posted_time": "32 minutes ago",
+        "posted_time": "42 minutes ago",
         "link": "https://replit.com/bounties/@gabeT123/send-me-a-text-whene?t="
+    },
+    {
+        "index": "212",
+        "price": "$2.00",
+        "due_days": "due in 4 days",
+        "title": "Make an SMS service ",
+        "description": "It should be free forever service sms\nMake a Service that SMS whenever there is rainy weather in my area!",
+        "author": "CICUGaming",
+        "posted_time": "5 minutes ago",
+        "link": "https://replit.com/bounties/@CICUGaming/make-an-sms-service?t="
     }
 ]
