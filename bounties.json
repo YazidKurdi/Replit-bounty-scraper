@@ -2206,7 +2206,7 @@
         "title": "Discord Token Gen",
         "description": "Discord Token Gen\n100+ Token Per Minute\nVALID TOKENS",
         "author": "NotYourMaster",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@NotYourMaster/discord-token-gen?t="
     },
     {
@@ -2216,7 +2216,7 @@
         "title": "Gmail,Outlook Account Gen",
         "description": "Gmail,Outlook Account Gen\n30+ Accounts Per Day",
         "author": "NotYourMaster",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@NotYourMaster/gmailoutlook-account?t="
     },
     {
@@ -2228,5 +2228,15 @@
         "author": "Halfdantimm",
         "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@Halfdantimm/ai-tool-based-on-gpt?t="
+    },
+    {
+        "index": "223",
+        "price": "$450.00",
+        "due_days": "due in 3 days",
+        "title": "AI Chatbot for personal knowledge repository based on text files",
+        "description": "Hi! I would like to create a simple AI tool that allows a user to upload their own content (for example, a large text file) and then the tool creates a chatbot (like ChatGPT) based on that content, for the user. I believe it will use the EmbeddingsAPI?\n\nThe primary use case is for querying your own knowledge base. For example, I have a lot of content that I have saved to my Notion account and would like an easy way to ask it questions instead of having to search through.\n\nThe user experience for the end user will be: upload a .txt file or .csv. Then, the Chatbot is created on a unique URL for that user based on the information in that file.\n\nAcceptance will be a simple, undesigned web application does the following:\n\nUser uploads arbitrary file (that can be a large text dataset like a bunch of blogposts for example)\nThen user can ask questions in a Q&A format like ChatGPT based on that information\nIt will also need a very simple user authentication system to save these Chatbots\n\nPlease...",
+        "author": "JimShook",
+        "posted_time": "8 minutes ago",
+        "link": "https://replit.com/bounties/@JimShook/ai-chatbot-for-perso?t="
     }
 ]
