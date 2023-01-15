@@ -2226,7 +2226,7 @@
         "title": "AI-tool based on GPT to create ad copy (text) based on specific user input",
         "description": "Hi all\n\nI'm working at an marketing agency and we are looking to have made a tool to increase productivity among our consultants when it comes to writing ad copy for clients.\n\nBelow is my idea as to how this should be made, but I'm very open to suggestions as to how we should build this.\n\nI'm imagining a tool - a interface without a login, accessable via link - where the user has the following inputs:\n\nName of product or service (like \"Nike Free 2.0\" or \"Debt restructuring service\")\nLink - user can link to the product or service that we are going to have written ad copy for for the tool to crawl\nPlatform - user can choose between a number of buttons, including \"Facebook\", \"LinkedIn\" and \"Google\". This will determine writing style and length of the ad copy output.\nKeywords - free text field where the user can input keywords like the USPs of the service or product, but it doesn't have to be filled out\nLanguage - choose between a number of languages via buttons (Danish, English, German, S...",
         "author": "Halfdantimm",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@Halfdantimm/ai-tool-based-on-gpt?t="
     },
     {
@@ -2258,5 +2258,15 @@
         "author": "sevpants",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@sevpants/set-up-a-webhook-to?t="
+    },
+    {
+        "index": "226",
+        "price": "$10.00",
+        "due_days": "closed",
+        "title": "Free 1k Cycles First person to apply",
+        "description": "First  to  apply takes the 1k Cycle",
+        "author": "Randomaaa",
+        "posted_time": "5 minutes ago",
+        "link": "https://replit.com/bounties/@Randomaaa/free-1k-cycles-first?t="
     }
 ]
