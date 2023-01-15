@@ -1749,7 +1749,7 @@ and returns a link to download the piece of media. It should work with both reel
 #desired background
 functional programmer
 Technical Details
-written in clojure",jesse2000,8 hours ago,https://replit.com/bounties/@jesse2000/roam-ext-create-as-l?t=
+written in clojure",jesse2000,9 hours ago,https://replit.com/bounties/@jesse2000/roam-ext-create-as-l?t=
 210,$27.00,due in 4 days,make this cors request in React work for an AI generator,"I've set up a free API account on https://stablediffusionapi.com/dashboard and would like to do a post request using axios in Rect to show a generated image
 
 show a generated image in react when clicking submit, clean code (this code is ugly)
@@ -1785,13 +1785,13 @@ Chat should query Open AI API
 Stack should be T3 + Lexical
 Use Tailwind UI when possible https://tailwindui.com/components
 Use Hero icons for UI https://heroicons.com/
-Lexical should have basic styling options and support markd...",aethelyon,2 hours ago,https://replit.com/bounties/@aethelyon/gpt-notes-web-app?t=
+Lexical should have basic styling options and support markd...",aethelyon,3 hours ago,https://replit.com/bounties/@aethelyon/gpt-notes-web-app?t=
 215,$90.00,due in 4 days,Build a Memory Layer for GPT-3,"We are looking for an experienced Python developer to build a memory layer for GPT-3 that will enable the model to carry context over multiple messages, similar to ChatGPT. The goal is to package the ""memory"" in a way that would deliver cost savings by keeping overall prompts relatively short without losing context. The developer should also include a function that would evaluate if the current message is part of the same conversation context or if the user is starting a new conversation, for example, by evaluating similarity and relevancy.
 
 Requirements:
 
 Build a memory layer for GPT-3 that will be able to carry context over multiple messages similar to ChatGPT
 Ensure that the ""memory"" is packaged in a way that would deliver cost savings (keep overall prompts relatively short as much as possible without losing context)
-Include a function that would evaluate if the current message is part of the same conversation context or the user is starting a new conversation (e.g. evaluate similar...",nyasour,1 hour ago,https://replit.com/bounties/@nyasour/build-a-memory-layer?t=
-216,$4.50,due in 14 days,"A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied","A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied",NotYourMaster,15 minutes ago,https://replit.com/bounties/@NotYourMaster/a-minecraft-1193-ser-1?t=
-217,$0.90,closed,This bounty is a/race,aaaaaaa,ae0,12 minutes ago,https://replit.com/bounties/@ae0/this-bounty-is-arace?t=
+Include a function that would evaluate if the current message is part of the same conversation context or the user is starting a new conversation (e.g. evaluate similar...",nyasour,2 hours ago,https://replit.com/bounties/@nyasour/build-a-memory-layer?t=
+216,$4.50,due in 14 days,"A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied","A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied",NotYourMaster,25 minutes ago,https://replit.com/bounties/@NotYourMaster/a-minecraft-1193-ser-1?t=
+217,$0.90,closed,This bounty is a/race,aaaaaaa,ae0,23 minutes ago,https://replit.com/bounties/@ae0/this-bounty-is-arace?t=
