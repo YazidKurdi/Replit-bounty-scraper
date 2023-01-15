@@ -2116,7 +2116,7 @@
         "title": "Send me a text whenever a new Replit bounty is posted",
         "description": "I want to receive an SMS text on my phone whenever a new Replit bounty is posted.\n\nAcceptance Criteria\n Scrapes the replit bounties page (or uses an API if you can find one)\nDoes not use Twilio or any other paid API to send texts, should be free forever\nUses the email and smtp libraries instead\n\nThis should be pretty quick if you've made something like this before.",
         "author": "gabeT123",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@gabeT123/send-me-a-text-whene?t="
     },
     {
@@ -2136,7 +2136,7 @@
         "title": "Help me code an AI image generator in React ",
         "description": "Create an API call to Stable Diffusion in React\n\nIt's all here",
         "author": "LazareParis",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@LazareParis/help-me-code-an-ai-i?t="
     },
     {
@@ -2166,7 +2166,7 @@
         "title": "A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied",
         "description": "A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied",
         "author": "NotYourMaster",
-        "posted_time": "47 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@NotYourMaster/a-minecraft-1193-ser-1?t="
     },
     {
@@ -2176,7 +2176,7 @@
         "title": "This bounty is a/race",
         "description": "aaaaaaa",
         "author": "ae0",
-        "posted_time": "44 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@ae0/this-bounty-is-arace?t="
     },
     {
@@ -2186,7 +2186,27 @@
         "title": "Love locks for ever in Paris",
         "description": "Building a simple website rendering some content, pasting togethers APIS for a very v0 POC\n\nCreating two buttons on the image, giving the user the possibility to save an image, doing a Stripe checkout (let's see how far we go)\n\nTechnical Details\n\nLink to Project",
         "author": "LazareParis",
-        "posted_time": "7 minutes ago",
+        "posted_time": "37 minutes ago",
         "link": "https://replit.com/bounties/@LazareParis/love-locks-for-ever?t="
+    },
+    {
+        "index": "219",
+        "price": "$2.70",
+        "due_days": "due in 13 days",
+        "title": "Outlook Email Gen Replit",
+        "description": "Need outlook email gen, which can gen 100 accounts or more then in one day.",
+        "author": "ItsLmn5555",
+        "posted_time": "10 minutes ago",
+        "link": "https://replit.com/bounties/@ItsLmn5555/outlook-email-gen-re?t="
+    },
+    {
+        "index": "220",
+        "price": "$3.60",
+        "due_days": "due in 13 days",
+        "title": "Discord Token Gen",
+        "description": "Discord Token Gen\n100+ Token Per Minute\nVALID TOKENS",
+        "author": "NotYourMaster",
+        "posted_time": "18 seconds ago",
+        "link": "https://replit.com/bounties/@NotYourMaster/discord-token-gen?t="
     }
 ]

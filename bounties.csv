@@ -1765,12 +1765,12 @@ Acceptance Criteria
 Does not use Twilio or any other paid API to send texts, should be free forever
 Uses the email and smtp libraries instead
 
-This should be pretty quick if you've made something like this before.",gabeT123,7 hours ago,https://replit.com/bounties/@gabeT123/send-me-a-text-whene?t=
+This should be pretty quick if you've made something like this before.",gabeT123,8 hours ago,https://replit.com/bounties/@gabeT123/send-me-a-text-whene?t=
 212,$2.00,due in 3 days,Make an SMS service ,"It should be free forever service sms
 Make a Service that SMS whenever there is rainy weather in my area!",CICUGaming,7 hours ago,https://replit.com/bounties/@CICUGaming/make-an-sms-service?t=
 213,$27.00,closed,Help me code an AI image generator in React ,"Create an API call to Stable Diffusion in React
 
-It's all here",LazareParis,4 hours ago,https://replit.com/bounties/@LazareParis/help-me-code-an-ai-i?t=
+It's all here",LazareParis,5 hours ago,https://replit.com/bounties/@LazareParis/help-me-code-an-ai-i?t=
 214,$135.00,due in 3 days,GPT Notes Web App,"The objective of this task is to design and develop a web app with two core functions: 1) a chat-like interface connected to Open AI's GPT-3 API, and 2) a document editor that can save and manage drafts of documents. The web app should be built on Next.js/Typescript, using TailwindCSS (Create T3 App) and the Lexical.dev editor.
 
 Acceptance Criteria
@@ -1793,12 +1793,16 @@ Requirements:
 Build a memory layer for GPT-3 that will be able to carry context over multiple messages similar to ChatGPT
 Ensure that the ""memory"" is packaged in a way that would deliver cost savings (keep overall prompts relatively short as much as possible without losing context)
 Include a function that would evaluate if the current message is part of the same conversation context or the user is starting a new conversation (e.g. evaluate similar...",nyasour,2 hours ago,https://replit.com/bounties/@nyasour/build-a-memory-layer?t=
-216,$4.50,due in 13 days,"A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied","A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied",NotYourMaster,47 minutes ago,https://replit.com/bounties/@NotYourMaster/a-minecraft-1193-ser-1?t=
-217,$0.90,closed,This bounty is a/race,aaaaaaa,ae0,44 minutes ago,https://replit.com/bounties/@ae0/this-bounty-is-arace?t=
+216,$4.50,due in 13 days,"A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied","A Minecraft 1.19.3 Server On Repl.it No Ngrok , can have playit , Not Copied",NotYourMaster,1 hour ago,https://replit.com/bounties/@NotYourMaster/a-minecraft-1193-ser-1?t=
+217,$0.90,closed,This bounty is a/race,aaaaaaa,ae0,1 hour ago,https://replit.com/bounties/@ae0/this-bounty-is-arace?t=
 218,$27.00,due in 3 days,Love locks for ever in Paris,"Building a simple website rendering some content, pasting togethers APIS for a very v0 POC
 
 Creating two buttons on the image, giving the user the possibility to save an image, doing a Stripe checkout (let's see how far we go)
 
 Technical Details
 
-Link to Project",LazareParis,7 minutes ago,https://replit.com/bounties/@LazareParis/love-locks-for-ever?t=
+Link to Project",LazareParis,37 minutes ago,https://replit.com/bounties/@LazareParis/love-locks-for-ever?t=
+219,$2.70,due in 13 days,Outlook Email Gen Replit,"Need outlook email gen, which can gen 100 accounts or more then in one day.",ItsLmn5555,10 minutes ago,https://replit.com/bounties/@ItsLmn5555/outlook-email-gen-re?t=
+220,$3.60,due in 13 days,Discord Token Gen,"Discord Token Gen
+100+ Token Per Minute
+VALID TOKENS",NotYourMaster,18 seconds ago,https://replit.com/bounties/@NotYourMaster/discord-token-gen?t=
