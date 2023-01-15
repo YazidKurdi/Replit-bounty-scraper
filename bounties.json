@@ -2116,7 +2116,7 @@
         "title": "Send me a text whenever a new Replit bounty is posted",
         "description": "I want to receive an SMS text on my phone whenever a new Replit bounty is posted.\n\nAcceptance Criteria\n Scrapes the replit bounties page (or uses an API if you can find one)\nDoes not use Twilio or any other paid API to send texts, should be free forever\nUses the email and smtp libraries instead\n\nThis should be pretty quick if you've made something like this before.",
         "author": "gabeT123",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@gabeT123/send-me-a-text-whene?t="
     },
     {
@@ -2138,5 +2138,15 @@
         "author": "LazareParis",
         "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@LazareParis/help-me-code-an-ai-i?t="
+    },
+    {
+        "index": "214",
+        "price": "$135.00",
+        "due_days": "due in 4 days",
+        "title": "GPT Notes Web App",
+        "description": "The objective of this task is to design and develop a web app with two core functions: 1) a chat-like interface connected to Open AI's GPT-3 API, and 2) a document editor that can save and manage drafts of documents. The web app should be built on Next.js/Typescript, using TailwindCSS (Create T3 App) and the Lexical.dev editor.\n\nAcceptance Criteria\nThe chat-like interface should be able to interact with Open AI's GPT-3 API.\nThe document editor should be able to save and manage drafts of documents.\nThe web app should be built using Create T3 App, and the Lexical.dev editor.\nThe web app should be responsive and fill the entire browser window\nThe web app should be simple, usable, and have a way to toggle between chat and notes\n\nTechnical Details\nChat should query Open AI API\nStack should be T3 + Lexical\nUse Tailwind UI when possible https://tailwindui.com/components\nUse Hero icons for UI https://heroicons.com/\nLexical should have basic styling options and support markd...",
+        "author": "aethelyon",
+        "posted_time": "5 minutes ago",
+        "link": "https://replit.com/bounties/@aethelyon/gpt-notes-web-app?t="
     }
 ]
