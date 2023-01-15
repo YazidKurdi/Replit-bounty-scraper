@@ -2056,7 +2056,7 @@
         "title": "[Simple] Add 2 tags to site",
         "description": "I need someone to add 2 more tags to my website search options (games.odd.gay) we already have everything setup I just was unable to do it.\n\nAcceptance Criteria\nMust have their discord linked on their profile or username and tag in messages\nMust have prior experience with HTML, CSS, and JS",
         "author": "OddGames",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@OddGames/simple-add-2-tags-to?t="
     },
     {
@@ -2106,7 +2106,7 @@
         "title": "make this cors request in React work for an AI generator",
         "description": "I've set up a free API account on https://stablediffusionapi.com/dashboard and would like to do a post request using axios in Rect to show a generated image\n\nshow a generated image in react when clicking submit, clean code (this code is ugly)\n\nTechnical Details\n\nLink to the repl:\n https://replit.com/@LazareParis/react-stable-diffusion-simple-test?v=1",
         "author": "LazareParis",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@LazareParis/make-this-cors-reque?t="
     },
     {
@@ -2136,7 +2136,7 @@
         "title": "Help me code an AI image generator in React ",
         "description": "Create an API call to Stable Diffusion in React\n\nIt's all here",
         "author": "LazareParis",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@LazareParis/help-me-code-an-ai-i?t="
     },
     {
@@ -2146,7 +2146,7 @@
         "title": "GPT Notes Web App",
         "description": "The objective of this task is to design and develop a web app with two core functions: 1) a chat-like interface connected to Open AI's GPT-3 API, and 2) a document editor that can save and manage drafts of documents. The web app should be built on Next.js/Typescript, using TailwindCSS (Create T3 App) and the Lexical.dev editor.\n\nAcceptance Criteria\nThe chat-like interface should be able to interact with Open AI's GPT-3 API.\nThe document editor should be able to save and manage drafts of documents.\nThe web app should be built using Create T3 App, and the Lexical.dev editor.\nThe web app should be responsive and fill the entire browser window\nThe web app should be simple, usable, and have a way to toggle between chat and notes\n\nTechnical Details\nChat should query Open AI API\nStack should be T3 + Lexical\nUse Tailwind UI when possible https://tailwindui.com/components\nUse Hero icons for UI https://heroicons.com/\nLexical should have basic styling options and support markd...",
         "author": "aethelyon",
-        "posted_time": "5 minutes ago",
+        "posted_time": "17 minutes ago",
         "link": "https://replit.com/bounties/@aethelyon/gpt-notes-web-app?t="
     }
 ]
