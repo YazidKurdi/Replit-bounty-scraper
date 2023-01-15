@@ -2156,7 +2156,7 @@
         "title": "Build a Memory Layer for GPT-3",
         "description": "We are looking for an experienced Python developer to build a memory layer for GPT-3 that will enable the model to carry context over multiple messages, similar to ChatGPT. The goal is to package the \"memory\" in a way that would deliver cost savings by keeping overall prompts relatively short without losing context. The developer should also include a function that would evaluate if the current message is part of the same conversation context or if the user is starting a new conversation, for example, by evaluating similarity and relevancy.\n\nRequirements:\n\nBuild a memory layer for GPT-3 that will be able to carry context over multiple messages similar to ChatGPT\nEnsure that the \"memory\" is packaged in a way that would deliver cost savings (keep overall prompts relatively short as much as possible without losing context)\nInclude a function that would evaluate if the current message is part of the same conversation context or the user is starting a new conversation (e.g. evaluate similar...",
         "author": "nyasour",
-        "posted_time": "48 minutes ago",
+        "posted_time": "60 minutes ago",
         "link": "https://replit.com/bounties/@nyasour/build-a-memory-layer?t="
     }
 ]
