@@ -1947,12 +1947,12 @@ Some other key notes. This is in Australia, so you may need to use a VPN to acce
 
 If you think you can build this, please reach out and I would love to discuss. There will be a bit more nuance with the betting strategy but the crux is a tool that can place bets automatically based on an input.
 
-Looking forward to working with someone!",YouReachITeach4,10 hours ago,https://replit.com/bounties/@YouReachITeach4/automatically-place?t=
+Looking forward to working with someone!",YouReachITeach4,11 hours ago,https://replit.com/bounties/@YouReachITeach4/automatically-place?t=
 239,$45.00,due in 3 days,convert word document (with text classification) into json file for ML,"I want to use ML to create better writing outputs for an organization. To do this, I want to fine-tune the model with a file of what 'good' and 'bad' examples of writing are, and assign a score to each writing example. I will provide a large word document with: examples, 'good' or 'bad' label, score.
 
 -The JSON file accurately reflects the examples provided in word, their sentence and paragraph structure, spaces, bullet points and any hierarchies (lists, etc) that are key data structures.
 -The JSON file captures the score assigned to each example.
--The JSON file can be uploaded and readable to OpenAI fine-tuning system.",Populista,9 hours ago,https://replit.com/bounties/@Populista/convert-word-documen?t=
+-The JSON file can be uploaded and readable to OpenAI fine-tuning system.",Populista,10 hours ago,https://replit.com/bounties/@Populista/convert-word-documen?t=
 240,$54.00,due in 3 days,Phython script to search input field and send email depending on result.,"I have a Magento store that loses it's index from time to time (still trying to find reason). I have a Better Uptime alert to alert me if a page is in a certain state.
 
 The monitor goes to a specific url,
@@ -2018,7 +2018,7 @@ The application should be able to retrieve availability from the cl...",NathanLa
 I need a page redesigned
 Acceptance Criteria
 Be specific about what you want in the solution here.
-Contact me on discord",fatty121,3 hours ago,https://replit.com/bounties/@fatty121/redesign-page-for-me?t=
+Contact me on discord",fatty121,4 hours ago,https://replit.com/bounties/@fatty121/redesign-page-for-me?t=
 247,$225.00,due in 5 days,Use Browser-based Vision AI SDK + ChatGPT for Demo App that Modifies Prompt based on detected emotion,"I am interested in getting a POC demo application that modifies the prompt to Open AI's ChatGPT to the real-time detected emotional state of a user via a Vision AI SDK.  In other words, imagine using the emotional state of the user as a feedback loop and input to the text that OpenAI generates.
 
 The app should work something like this:
@@ -2034,4 +2034,4 @@ Respond in json matching Sanity's portable text
 Support for a range of inputs including Text, links, styling (bold, italic), headers, lists (bullet, numbered), and images.
 
 Technical Details
-Use node.js, express.js",gehrigk,23 minutes ago,https://replit.com/bounties/@gehrigk/function-to-convert?t=
+Use node.js, express.js",gehrigk,38 minutes ago,https://replit.com/bounties/@gehrigk/function-to-convert?t=
