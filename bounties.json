@@ -2436,7 +2436,7 @@
         "title": "Custom Notion Domains",
         "description": "Looking to have a Notion page pushed to Replit to a custom domain. (Or Replit domain)\nThis has been done with Vercel and Netlify, but I would love it to be done with Replt.\n\nHere is a Notion page to use for testing: https://visage-bdf.notion.site/Notion-Competition-2023-a98fcf89859a47209cdcaab89d34a4d8\n\nSome key features I'm looking for:\nEasy Setup. New users should be able to 1) Fork the Repl, 2) Paste their notion link or PageID at a pre-specified spot and 3) Use a Repl link to share or link it to their custom domain.\nOther key features:\n.css file for easy editing of Notion features if users decide\nSEO friendly\nSlug conversion (e.g. links should read as page titles.)\n\nExamples:\nhttps://gist.github.com/mayneyao/b9fefc9625b76f70488e5d8c2a99315d\nhttps://github.com/leoncvlt/loconotion\nhttps://gist.github.com/mayneyao/b9fefc9625b76f70488e5d8c2a99315d\n\nAcceptance Criteria\nA functional Repl in which I can paste a notion link and run, then see my notion page displayed. I ...",
         "author": "Bandos1000",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/custom-notion-domain?t="
     },
     {
@@ -2488,5 +2488,15 @@
         "author": "gehrigk",
         "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@gehrigk/function-to-convert?t="
+    },
+    {
+        "index": "249",
+        "price": "$18.00",
+        "due_days": "due in 13 days",
+        "title": "Joke Video Generator Tool",
+        "description": "I want a simple program built in Node.js, that generates a short video from a joke.\n\nAcceptance Criteria\nJoke text is stored in a txt file\nBackground audio from .mp3 file is played in the video\nBackground video from .mp4 file is shown in the video\nJoke text is shown in the video, centered, and has a nice animation, for example in a question joke, the question should be shown first, then the answer. The words also need to be animated, kind of like this: https://www.youtube.com/shorts/vcW8WRR9Rpk\nJoke is spoken aloud using Amazon Polly TTS API, I have an API key and some working code already for this, and can provide if needed.",
+        "author": "CoderGautamYT",
+        "posted_time": "2 minutes ago",
+        "link": "https://replit.com/bounties/@CoderGautamYT/joke-video-generator?t="
     }
 ]

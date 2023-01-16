@@ -2001,7 +2001,7 @@ https://github.com/leoncvlt/loconotion
 https://gist.github.com/mayneyao/b9fefc9625b76f70488e5d8c2a99315d
 
 Acceptance Criteria
-A functional Repl in which I can paste a notion link and run, then see my notion page displayed. I ...",Bandos1000,6 hours ago,https://replit.com/bounties/@Bandos1000/custom-notion-domain?t=
+A functional Repl in which I can paste a notion link and run, then see my notion page displayed. I ...",Bandos1000,7 hours ago,https://replit.com/bounties/@Bandos1000/custom-notion-domain?t=
 244,$90.00,due in 3 days,Recreate this background animation with javascript or css,"I need some custom code to recreate the background mouse animation from thisisdash.com in webflow. Essentially I will have a grid in of squares built in webflow and we need to change animate the outline color of the square on hover, find the surrounding squares, randomly choose some and highlight those.
 Acceptance Criteria
 Experience creating similar animations.
@@ -2035,3 +2035,11 @@ Support for a range of inputs including Text, links, styling (bold, italic), hea
 
 Technical Details
 Use node.js, express.js",gehrigk,1 hour ago,https://replit.com/bounties/@gehrigk/function-to-convert?t=
+249,$18.00,due in 13 days,Joke Video Generator Tool,"I want a simple program built in Node.js, that generates a short video from a joke.
+
+Acceptance Criteria
+Joke text is stored in a txt file
+Background audio from .mp3 file is played in the video
+Background video from .mp4 file is shown in the video
+Joke text is shown in the video, centered, and has a nice animation, for example in a question joke, the question should be shown first, then the answer. The words also need to be animated, kind of like this: https://www.youtube.com/shorts/vcW8WRR9Rpk
+Joke is spoken aloud using Amazon Polly TTS API, I have an API key and some working code already for this, and can provide if needed.",CoderGautamYT,2 minutes ago,https://replit.com/bounties/@CoderGautamYT/joke-video-generator?t=
