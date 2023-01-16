@@ -2356,7 +2356,7 @@
         "title": "Text to chart",
         "description": "Enable users to transform data into charts with an NLP input and choose among 2-3 chart options to pick from.\n\nAcceptance Criteria\nA simple interface where the user type text with data in a box, and that is transformed into 2-3 types of charts the user can pick from.\n\nTechnical Details\nI'll give you specific details as the application is accepted.",
         "author": "GennaroCuofano",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/text-to-chart?t="
     },
     {
