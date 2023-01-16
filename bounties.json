@@ -2196,7 +2196,7 @@
         "title": "Outlook Email Gen Replit",
         "description": "Need outlook email gen, which can gen 100 accounts or more then in one day.",
         "author": "ItsLmn5555",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@ItsLmn5555/outlook-email-gen-re?t="
     },
     {
@@ -2206,7 +2206,7 @@
         "title": "Discord Token Gen",
         "description": "Discord Token Gen\n100+ Token Per Minute\nVALID TOKENS",
         "author": "NotYourMaster",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@NotYourMaster/discord-token-gen?t="
     },
     {
@@ -2216,7 +2216,7 @@
         "title": "Gmail,Outlook Account Gen",
         "description": "Gmail,Outlook Account Gen\n30+ Accounts Per Day",
         "author": "NotYourMaster",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@NotYourMaster/gmailoutlook-account?t="
     },
     {
@@ -2236,7 +2236,7 @@
         "title": "AI Chatbot for personal knowledge repository based on text files",
         "description": "Hi! I would like to create a simple AI tool that allows a user to upload their own content (for example, a large text file) and then the tool creates a chatbot (like ChatGPT) based on that content, for the user. I believe it will use the EmbeddingsAPI?\n\nThe primary use case is for querying your own knowledge base. For example, I have a lot of content that I have saved to my Notion account and would like an easy way to ask it questions instead of having to search through.\n\nThe user experience for the end user will be: upload a .txt file or .csv. Then, the Chatbot is created on a unique URL for that user based on the information in that file.\n\nAcceptance will be a simple, undesigned web application does the following:\n\nUser uploads arbitrary file (that can be a large text dataset like a bunch of blogposts for example)\nThen user can ask questions in a Q&A format like ChatGPT based on that information\nIt will also need a very simple user authentication system to save these Chatbots\n\nPlease...",
         "author": "JimShook",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@JimShook/ai-chatbot-for-perso?t="
     },
     {
@@ -2246,7 +2246,7 @@
         "title": "Hit an API, do simple parsing + arithmetic, return two integers",
         "description": "I\u2019m a user of Things, the to-do list app by cultured code.\n\nI use a tagging system for 1/ how long each todo takes (5min / 15min / 30min / 60min / 120min) 2/ the priority of the item (High, or nothing)\n\nI\u2019m looking for a GET REST endpoint that\n1/ hits the Things API\n2/ fetches all the todos in my \u201cToday\u201d list\n3/ adds up the durations of todos\n4/ returns the total duration of all my items in the Today list (including the High items) and the duration of the items that are tagged High\n\nAcceptance Criteria\nReturns\n{\ntotalDuration: 180, // in minutes\ntotalDurationHighPri: 60\n}\n\nExample of a way to hit the Things API\nhttps://github.com/thingsapi/things.py",
         "author": "altimor",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@altimor/hit-an-api-do-simple?t="
     },
     {
@@ -2256,7 +2256,7 @@
         "title": "Set up a webhook to catch Moralis streams for unstaking alerts and send raw data to telegram with python",
         "description": "Moralis is a web3 infrastructure tool that enables developers to integrate web3 into their applications. Moralis Streams is a product that enables developers to listen to real-time blockchain events. GMX is a decentralized perpetual exchange on Arbitrum.\n\nI'm looking to create a replit that listens for real-time events using Moralis' Streams product. I would like someone to create a fastAPI replit instance that receives Unstake GMX transactions from the GMX RewardRouter and broadcasts them to a telegram chat of my choice.\n\nTesting via Moralis is free (free signup) and there's basically no way you go over the free limit during testing if you're filtering transactions correctly\n\nAcceptance Criteria\n ----------------------------------------\n Service must filter out non 'Unstake GMX' transactions from the contract address (Address - 0xA906F338CB21815cBc4Bc87ace9e68c87eF8d8F1)\n Service must be able to filter out transactions lower than a given GMX amount received from th...",
         "author": "sevpants",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@sevpants/set-up-a-webhook-to?t="
     },
     {
@@ -2266,7 +2266,7 @@
         "title": "Free 1k Cycles First person to apply",
         "description": "First  to  apply takes the 1k Cycle",
         "author": "Randomaaa",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@Randomaaa/free-1k-cycles-first?t="
     },
     {
@@ -2276,7 +2276,7 @@
         "title": "Chrome Extension to scan for GPT Created Content",
         "description": "Looking for a tool that can scan pages for AI-generated content and give the reader a score as they browse.\n\nFor example, I'm browsing https://www.healthline.com/health/mental-health/adhd-myths-debunked?utm_source=ReadNext and should be provided a score in the top right of XX% is written by AI.\n\nTool example: https://gptzero.me\nand scoring method: https://etedward-gptzero-main-zqgfwb.streamlit.app\nTool example #2: https://writer.com/ai-content-detector/\nDesign inspiration: https://chrome.google.com/webstore/detail/trusted-news/nkkghpncidknplmlkgemdoekpckjmlok?hl=en\n\nAcceptance Criteria\nA Chrome extension that provides the user an updated score for each web pages that load.\nWith the exception of banking and other private sites. (Should ignore private sites without user-opt-in.)\nTechnical Details\nLanguage/methodology is not important.\nIdeally the model should work for multiple AI-styles & GPT-tunes.\nIdeally the user does not need to login/take action after install on ...",
         "author": "Bandos1000",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/chrome-extension-to?t="
     },
     {
@@ -2286,7 +2286,7 @@
         "title": "Help us finish the Paris / AI Generator Project",
         "description": "Several missions:\n\nAdd a prompt asking for the user to add a few words so his creation is unique. Create a request to GPT-3 to create a \"good\" prompt.\n\nAdd the name of the painter below the painting\n\nAdd a re-assurance page before clicking on \"save\" (content in Notice)\n\nConnect the Stripe payment page\n\nCreate the last page which asks the user for his e-mail, uploads the file to the AR Weave Block-chain, and sends him an e-mail to it. Just set up a personal gmail key for now?\n\nLink to the figma:\nhttps://www.figma.com/file/LGPGSnI348Q9zWif2yXLvu/Love-without-Locks?node-id=8%3A279&t=iAhKC8Y0qaI4Uk0J-1\n\nAcceptance Criteria - we'll discuss them as before!\n\nTechnical Details\n\nLink to Project\nhttps://replit.com/@LazareParis/react-stable-diffusion-simple-test#src/App.jsx",
         "author": "LazareParis",
-        "posted_time": "45 minutes ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@LazareParis/help-us-finish-the-p?t="
     }
 ]
