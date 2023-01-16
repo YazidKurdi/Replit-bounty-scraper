@@ -2008,12 +2008,12 @@ Experience creating similar animations.
 Technical Details
 I can create the html and css structure in webflow, need the code to help animate the hover state of the square and surrounding squares.
 Link to Project
-https://thisisdash.com/",JimmyElphick1,4 hours ago,https://replit.com/bounties/@JimmyElphick1/recreate-this-backgr?t=
+https://thisisdash.com/",JimmyElphick1,5 hours ago,https://replit.com/bounties/@JimmyElphick1/recreate-this-backgr?t=
 245,$36.00,due in 3 days,create AI-assisted calendaring application (opportunity to open source),"The goal is to use LangChain – an increasingly popular framework for building LLM applications – more here: https://github.com/hwchase17/langchain – to create a simple web application that allows a user to generate a routine scheduling process email. The application will take as input an email thread where a request for scheduling help is made. The process will involve making an API call to the client's calendar (initially Calendly) to retrieve availability, using a language model with a few-shot prompt (specified by the user) to generate an email based on the availability, and then using the Calendly API to block the times offered. The application should be able to be called via an API from a Chrome extension to be used in-line.
 
 Acceptance Criteria
 The application should be able to accept a user's personal Calendly API access_token as part of setup.  (In the future we can implement Calendly OAuth)
-The application should be able to retrieve availability from the cl...",NathanLabenz,4 hours ago,https://replit.com/bounties/@NathanLabenz/create-ai-assisted-c?t=
+The application should be able to retrieve availability from the cl...",NathanLabenz,5 hours ago,https://replit.com/bounties/@NathanLabenz/create-ai-assisted-c?t=
 246,$3.60,due in 12 days,Redesign Page for me with css,"Describe the problem you are trying to solve here.
 I need a page redesigned
 Acceptance Criteria
@@ -2034,4 +2034,4 @@ Respond in json matching Sanity's portable text
 Support for a range of inputs including Text, links, styling (bold, italic), headers, lists (bullet, numbered), and images.
 
 Technical Details
-Use node.js, express.js",gehrigk,54 minutes ago,https://replit.com/bounties/@gehrigk/function-to-convert?t=
+Use node.js, express.js",gehrigk,1 hour ago,https://replit.com/bounties/@gehrigk/function-to-convert?t=
