@@ -1929,7 +1929,7 @@ Acceptance Criteria
 A simple interface where the user type text with data in a box, and that is transformed into 2-3 types of charts the user can pick from.
 
 Technical Details
-I'll give you specific details as the application is accepted.",GennaroCuofano,8 hours ago,https://replit.com/bounties/@GennaroCuofano/text-to-chart?t=
+I'll give you specific details as the application is accepted.",GennaroCuofano,9 hours ago,https://replit.com/bounties/@GennaroCuofano/text-to-chart?t=
 236,$7.65,due in 13 days,Discord Token Gen 100+ Token Per Minute VALID TOKENS,"Discord Token Gen
 100+ Token Per Minute
 VALID TOKENS",NotYourMaster,6 hours ago,https://replit.com/bounties/@NotYourMaster/discord-token-gen-10?t=
@@ -1975,11 +1975,30 @@ Acceptance Criteria
 Technical Details
 Python
 Auto run ever 10 minutes
-Send email",tembalanco,3 hours ago,https://replit.com/bounties/@tembalanco/phython-script-to-se?t=
+Send email",tembalanco,4 hours ago,https://replit.com/bounties/@tembalanco/phython-script-to-se?t=
 241,$23.40,due in 13 days,DC TOKen gen ,DC TOKen gen,NotYourMaster,20 minutes ago,https://replit.com/bounties/@NotYourMaster/dc-token-gen?t=
 242,$18.00,due in 13 days,"Break down a project scope of work into specific coding tasks, languages (most adapted) and deliverables","I need help to provide detailed explanations on the programming steps needed to create the project in our SOW. (Will be provided from Notion read-only link)
 
 Acceptance Criteria
 Confident can provide detailed description of steps needed to complete the 3 Phases (design, features & functionality, deployment). Include all languages, systems, libraries, number of programmers and likely timeframe.
 Experience in Project Management
-Knows requirements for WebFlow (Front-end designs), Metamask integrations (Crypto/NFTs integrations) & BackEnd gaming engine design.",marcandreranger,25 minutes ago,https://replit.com/bounties/@marcandreranger/break-down-a-project-1?t=
+Knows requirements for WebFlow (Front-end designs), Metamask integrations (Crypto/NFTs integrations) & BackEnd gaming engine design.",marcandreranger,51 minutes ago,https://replit.com/bounties/@marcandreranger/break-down-a-project-1?t=
+243,$10.00,due in 3 days,Custom Notion Domains,"Looking to have a Notion page pushed to Replit to a custom domain. (Or Replit domain)
+This has been done with Vercel and Netlify, but I would love it to be done with Replt.
+
+Here is a Notion page to use for testing: https://visage-bdf.notion.site/Notion-Competition-2023-a98fcf89859a47209cdcaab89d34a4d8
+
+Some key features I'm looking for:
+Easy Setup. New users should be able to 1) Fork the Repl, 2) Paste their notion link or PageID at a pre-specified spot and 3) Use a Repl link to share or link it to their custom domain.
+Other key features:
+.css file for easy editing of Notion features if users decide
+SEO friendly
+Slug conversion (e.g. links should read as page titles.)
+
+Examples:
+https://gist.github.com/mayneyao/b9fefc9625b76f70488e5d8c2a99315d
+https://github.com/leoncvlt/loconotion
+https://gist.github.com/mayneyao/b9fefc9625b76f70488e5d8c2a99315d
+
+Acceptance Criteria
+A functional Repl in which I can paste a notion link and run, then see my notion page displayed. I ...",Bandos1000,16 minutes ago,https://replit.com/bounties/@Bandos1000/custom-notion-domain?t=
