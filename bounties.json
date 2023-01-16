@@ -2356,7 +2356,7 @@
         "title": "Text to chart",
         "description": "Enable users to transform data into charts with an NLP input and choose among 2-3 chart options to pick from.\n\nAcceptance Criteria\nA simple interface where the user type text with data in a box, and that is transformed into 2-3 types of charts the user can pick from.\n\nTechnical Details\nI'll give you specific details as the application is accepted.",
         "author": "GennaroCuofano",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/text-to-chart?t="
     },
     {
@@ -2386,7 +2386,7 @@
         "title": "Automatically place bets based on suggested bets from a website",
         "description": "Hi,\n\nI need a tool to place bets when certain opportunities are live. I have a scraper that will track when an arbitrage opportunity exists. When this occur, I will need a bot to go to two different betting websites and place a bet on both sides of the market to lock in a profit no matter the outcome.\n\nSome other key notes. This is in Australia, so you may need to use a VPN to access the bookmakers website. There will be eight bookmakers that the bot will need to be able to login, navigate to the bet and place a bet. I am willing to cover any additional hosting costs that would be required.\n\nIf you think you can build this, please reach out and I would love to discuss. There will be a bit more nuance with the betting strategy but the crux is a tool that can place bets automatically based on an input.\n\nLooking forward to working with someone!",
         "author": "YouReachITeach4",
-        "posted_time": "8 minutes ago",
+        "posted_time": "16 minutes ago",
         "link": "https://replit.com/bounties/@YouReachITeach4/automatically-place?t="
     }
 ]
