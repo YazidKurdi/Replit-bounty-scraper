@@ -2256,7 +2256,7 @@
         "title": "Set up a webhook to catch Moralis streams for unstaking alerts and send raw data to telegram with python",
         "description": "Moralis is a web3 infrastructure tool that enables developers to integrate web3 into their applications. Moralis Streams is a product that enables developers to listen to real-time blockchain events. GMX is a decentralized perpetual exchange on Arbitrum.\n\nI'm looking to create a replit that listens for real-time events using Moralis' Streams product. I would like someone to create a fastAPI replit instance that receives Unstake GMX transactions from the GMX RewardRouter and broadcasts them to a telegram chat of my choice.\n\nTesting via Moralis is free (free signup) and there's basically no way you go over the free limit during testing if you're filtering transactions correctly\n\nAcceptance Criteria\n ----------------------------------------\n Service must filter out non 'Unstake GMX' transactions from the contract address (Address - 0xA906F338CB21815cBc4Bc87ace9e68c87eF8d8F1)\n Service must be able to filter out transactions lower than a given GMX amount received from th...",
         "author": "sevpants",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@sevpants/set-up-a-webhook-to?t="
     },
     {
@@ -2276,7 +2276,7 @@
         "title": "Chrome Extension to scan for GPT Created Content",
         "description": "Looking for a tool that can scan pages for AI-generated content and give the reader a score as they browse.\n\nFor example, I'm browsing https://www.healthline.com/health/mental-health/adhd-myths-debunked?utm_source=ReadNext and should be provided a score in the top right of XX% is written by AI.\n\nTool example: https://gptzero.me\nand scoring method: https://etedward-gptzero-main-zqgfwb.streamlit.app\nTool example #2: https://writer.com/ai-content-detector/\nDesign inspiration: https://chrome.google.com/webstore/detail/trusted-news/nkkghpncidknplmlkgemdoekpckjmlok?hl=en\n\nAcceptance Criteria\nA Chrome extension that provides the user an updated score for each web pages that load.\nWith the exception of banking and other private sites. (Should ignore private sites without user-opt-in.)\nTechnical Details\nLanguage/methodology is not important.\nIdeally the model should work for multiple AI-styles & GPT-tunes.\nIdeally the user does not need to login/take action after install on ...",
         "author": "Bandos1000",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/chrome-extension-to?t="
     },
     {
@@ -2286,7 +2286,7 @@
         "title": "Help us finish the Paris / AI Generator Project",
         "description": "Several missions:\n\nAdd a prompt asking for the user to add a few words so his creation is unique. Create a request to GPT-3 to create a \"good\" prompt.\n\nAdd the name of the painter below the painting\n\nAdd a re-assurance page before clicking on \"save\" (content in Notice)\n\nConnect the Stripe payment page\n\nCreate the last page which asks the user for his e-mail, uploads the file to the AR Weave Block-chain, and sends him an e-mail to it. Just set up a personal gmail key for now?\n\nLink to the figma:\nhttps://www.figma.com/file/LGPGSnI348Q9zWif2yXLvu/Love-without-Locks?node-id=8%3A279&t=iAhKC8Y0qaI4Uk0J-1\n\nAcceptance Criteria - we'll discuss them as before!\n\nTechnical Details\n\nLink to Project\nhttps://replit.com/@LazareParis/react-stable-diffusion-simple-test#src/App.jsx",
         "author": "LazareParis",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@LazareParis/help-us-finish-the-p?t="
     },
     {
