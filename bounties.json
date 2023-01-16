@@ -2376,7 +2376,17 @@
         "title": "scrape hotel descriptions and aggregated review score for Israel from booking.com",
         "description": "I need all the data from Booking.com for Israel (maybe other locations later) about properties in Israel see https://www.booking.com/hotel/il/royal-beach-tel-aviv.en-us.html for example.\n\nproperty name, overall score (no need for specific reviews), and hotel description (the paragraph about the property). Hotels and apartments are all needed.\n\nAcceptance Criteria\nIt's a few thousand of those so a CSV file with the fields name,score,description paragraph would be good enough.",
         "author": "YaronOliker",
-        "posted_time": "53 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@YaronOliker/scrape-hotel-descrip?t="
+    },
+    {
+        "index": "238",
+        "price": "$45.00",
+        "due_days": "due in 11 days",
+        "title": "Automatically place bets based on suggested bets from a website",
+        "description": "Hi,\n\nI need a tool to place bets when certain opportunities are live. I have a scraper that will track when an arbitrage opportunity exists. When this occur, I will need a bot to go to two different betting websites and place a bet on both sides of the market to lock in a profit no matter the outcome.\n\nSome other key notes. This is in Australia, so you may need to use a VPN to access the bookmakers website. There will be eight bookmakers that the bot will need to be able to login, navigate to the bet and place a bet. I am willing to cover any additional hosting costs that would be required.\n\nIf you think you can build this, please reach out and I would love to discuss. There will be a bit more nuance with the betting strategy but the crux is a tool that can place bets automatically based on an input.\n\nLooking forward to working with someone!",
+        "author": "YouReachITeach4",
+        "posted_time": "8 minutes ago",
+        "link": "https://replit.com/bounties/@YouReachITeach4/automatically-place?t="
     }
 ]
