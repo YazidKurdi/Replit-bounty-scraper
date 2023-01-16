@@ -2396,7 +2396,7 @@
         "title": "convert word document (with text classification) into json file for ML",
         "description": "I want to use ML to create better writing outputs for an organization. To do this, I want to fine-tune the model with a file of what 'good' and 'bad' examples of writing are, and assign a score to each writing example. I will provide a large word document with: examples, 'good' or 'bad' label, score.\n\n-The JSON file accurately reflects the examples provided in word, their sentence and paragraph structure, spaces, bullet points and any hierarchies (lists, etc) that are key data structures.\n-The JSON file captures the score assigned to each example.\n-The JSON file can be uploaded and readable to OpenAI fine-tuning system.",
         "author": "Populista",
-        "posted_time": "52 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@Populista/convert-word-documen?t="
     },
     {
@@ -2406,7 +2406,7 @@
         "title": "Phython script to search input field and send email depending on result.",
         "description": "I have a Magento store that loses it's index from time to time (still trying to find reason). I have a Better Uptime alert to alert me if a page is in a certain state.\n\nThe monitor goes to a specific url,\n\nand if the text on the page states:\nWE CAN'T FIND PRODUCTS MATCHING THE SELECTION\n\nThen it sends me an alert, and I re-index my products, bringing my inventory back kon the site.\n\nThe problem is that that page often gets cached. So I need a way to auto search a particular phrase to ensure index is active.\n\nThis python script would go to the home page:\nhttps://mystore.com/ in in the search box search for  a product like \"4,210,064,801\" and if the search result is\nWE CAN'T FIND PRODUCTS MATCHING THE SELECTION\n\nIt would send me an email.\n\nAcceptance Criteria\n\nTechnical Details\nPython\nAuto run ever 10 minutes\nSend email",
         "author": "tembalanco",
-        "posted_time": "35 minutes ago",
+        "posted_time": "51 minutes ago",
         "link": "https://replit.com/bounties/@tembalanco/phython-script-to-se?t="
     }
 ]
