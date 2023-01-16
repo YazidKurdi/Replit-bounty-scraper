@@ -1900,7 +1900,7 @@ Acceptance Criteria - we'll discuss them as before!
 Technical Details
 
 Link to Project
-https://replit.com/@LazareParis/react-stable-diffusion-simple-test#src/App.jsx",LazareParis,11 hours ago,https://replit.com/bounties/@LazareParis/help-us-finish-the-p?t=
+https://replit.com/@LazareParis/react-stable-diffusion-simple-test#src/App.jsx",LazareParis,12 hours ago,https://replit.com/bounties/@LazareParis/help-us-finish-the-p?t=
 229,$4.50,closed,Design me a page in html/css,"I would like you to design a page in html/css for me (Contact me on discord so I can give all the info)
 Acceptance Criteria
 I will give you the things I want on the page and would like you to design it within the deadline I have.
@@ -1929,7 +1929,13 @@ Acceptance Criteria
 A simple interface where the user type text with data in a box, and that is transformed into 2-3 types of charts the user can pick from.
 
 Technical Details
-I'll give you specific details as the application is accepted.",GennaroCuofano,2 hours ago,https://replit.com/bounties/@GennaroCuofano/text-to-chart?t=
+I'll give you specific details as the application is accepted.",GennaroCuofano,3 hours ago,https://replit.com/bounties/@GennaroCuofano/text-to-chart?t=
 236,$7.65,due in 14 days,Discord Token Gen 100+ Token Per Minute VALID TOKENS,"Discord Token Gen
 100+ Token Per Minute
 VALID TOKENS",NotYourMaster,2 hours ago,https://replit.com/bounties/@NotYourMaster/discord-token-gen-10?t=
+237,$27.00,due in 4 days,scrape hotel descriptions and aggregated review score for Israel from booking.com,"I need all the data from Booking.com for Israel (maybe other locations later) about properties in Israel see https://www.booking.com/hotel/il/royal-beach-tel-aviv.en-us.html for example.
+
+property name, overall score (no need for specific reviews), and hotel description (the paragraph about the property). Hotels and apartments are all needed.
+
+Acceptance Criteria
+It's a few thousand of those so a CSV file with the fields name,score,description paragraph would be good enough.",YaronOliker,5 minutes ago,https://replit.com/bounties/@YaronOliker/scrape-hotel-descrip?t=
