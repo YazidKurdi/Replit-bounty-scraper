@@ -2356,7 +2356,7 @@
         "title": "Text to chart",
         "description": "Enable users to transform data into charts with an NLP input and choose among 2-3 chart options to pick from.\n\nAcceptance Criteria\nA simple interface where the user type text with data in a box, and that is transformed into 2-3 types of charts the user can pick from.\n\nTechnical Details\nI'll give you specific details as the application is accepted.",
         "author": "GennaroCuofano",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/text-to-chart?t="
     },
     {
@@ -2366,7 +2366,7 @@
         "title": "Discord Token Gen 100+ Token Per Minute VALID TOKENS",
         "description": "Discord Token Gen\n100+ Token Per Minute\nVALID TOKENS",
         "author": "NotYourMaster",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@NotYourMaster/discord-token-gen-10?t="
     },
     {
@@ -2386,7 +2386,27 @@
         "title": "Automatically place bets based on suggested bets from a website",
         "description": "Hi,\n\nI need a tool to place bets when certain opportunities are live. I have a scraper that will track when an arbitrage opportunity exists. When this occur, I will need a bot to go to two different betting websites and place a bet on both sides of the market to lock in a profit no matter the outcome.\n\nSome other key notes. This is in Australia, so you may need to use a VPN to access the bookmakers website. There will be eight bookmakers that the bot will need to be able to login, navigate to the bet and place a bet. I am willing to cover any additional hosting costs that would be required.\n\nIf you think you can build this, please reach out and I would love to discuss. There will be a bit more nuance with the betting strategy but the crux is a tool that can place bets automatically based on an input.\n\nLooking forward to working with someone!",
         "author": "YouReachITeach4",
-        "posted_time": "49 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@YouReachITeach4/automatically-place?t="
+    },
+    {
+        "index": "239",
+        "price": "$45.00",
+        "due_days": "due in 3 days",
+        "title": "convert word document (with text classification) into json file for ML",
+        "description": "I want to use ML to create better writing outputs for an organization. To do this, I want to fine-tune the model with a file of what 'good' and 'bad' examples of writing are, and assign a score to each writing example. I will provide a large word document with: examples, 'good' or 'bad' label, score.\n\n-The JSON file accurately reflects the examples provided in word, their sentence and paragraph structure, spaces, bullet points and any hierarchies (lists, etc) that are key data structures.\n-The JSON file captures the score assigned to each example.\n-The JSON file can be uploaded and readable to OpenAI fine-tuning system.",
+        "author": "Populista",
+        "posted_time": "26 minutes ago",
+        "link": "https://replit.com/bounties/@Populista/convert-word-documen?t="
+    },
+    {
+        "index": "240",
+        "price": "$54.00",
+        "due_days": "due in 3 days",
+        "title": "Phython script to search input field and send email depending on result.",
+        "description": "I have a Magento store that loses it's index from time to time (still trying to find reason). I have a Better Uptime alert to alert me if a page is in a certain state.\n\nThe monitor goes to a specific url,\n\nand if the text on the page states:\nWE CAN'T FIND PRODUCTS MATCHING THE SELECTION\n\nThen it sends me an alert, and I re-index my products, bringing my inventory back kon the site.\n\nThe problem is that that page often gets cached. So I need a way to auto search a particular phrase to ensure index is active.\n\nThis python script would go to the home page:\nhttps://mystore.com/ in in the search box search for  a product like \"4,210,064,801\" and if the search result is\nWE CAN'T FIND PRODUCTS MATCHING THE SELECTION\n\nIt would send me an email.\n\nAcceptance Criteria\n\nTechnical Details\nPython\nAuto run ever 10 minutes\nSend email",
+        "author": "tembalanco",
+        "posted_time": "9 minutes ago",
+        "link": "https://replit.com/bounties/@tembalanco/phython-script-to-se?t="
     }
 ]
