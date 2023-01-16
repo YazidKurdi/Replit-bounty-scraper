@@ -2001,7 +2001,7 @@ https://github.com/leoncvlt/loconotion
 https://gist.github.com/mayneyao/b9fefc9625b76f70488e5d8c2a99315d
 
 Acceptance Criteria
-A functional Repl in which I can paste a notion link and run, then see my notion page displayed. I ...",Bandos1000,5 hours ago,https://replit.com/bounties/@Bandos1000/custom-notion-domain?t=
+A functional Repl in which I can paste a notion link and run, then see my notion page displayed. I ...",Bandos1000,6 hours ago,https://replit.com/bounties/@Bandos1000/custom-notion-domain?t=
 244,$90.00,due in 3 days,Recreate this background animation with javascript or css,"I need some custom code to recreate the background mouse animation from thisisdash.com in webflow. Essentially I will have a grid in of squares built in webflow and we need to change animate the outline color of the square on hover, find the surrounding squares, randomly choose some and highlight those.
 Acceptance Criteria
 Experience creating similar animations.
@@ -2034,4 +2034,4 @@ Respond in json matching Sanity's portable text
 Support for a range of inputs including Text, links, styling (bold, italic), headers, lists (bullet, numbered), and images.
 
 Technical Details
-Use node.js, express.js",gehrigk,13 minutes ago,https://replit.com/bounties/@gehrigk/function-to-convert?t=
+Use node.js, express.js",gehrigk,23 minutes ago,https://replit.com/bounties/@gehrigk/function-to-convert?t=
