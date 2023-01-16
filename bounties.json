@@ -2246,7 +2246,7 @@
         "title": "Hit an API, do simple parsing + arithmetic, return two integers",
         "description": "I\u2019m a user of Things, the to-do list app by cultured code.\n\nI use a tagging system for 1/ how long each todo takes (5min / 15min / 30min / 60min / 120min) 2/ the priority of the item (High, or nothing)\n\nI\u2019m looking for a GET REST endpoint that\n1/ hits the Things API\n2/ fetches all the todos in my \u201cToday\u201d list\n3/ adds up the durations of todos\n4/ returns the total duration of all my items in the Today list (including the High items) and the duration of the items that are tagged High\n\nAcceptance Criteria\nReturns\n{\ntotalDuration: 180, // in minutes\ntotalDurationHighPri: 60\n}\n\nExample of a way to hit the Things API\nhttps://github.com/thingsapi/things.py",
         "author": "altimor",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@altimor/hit-an-api-do-simple?t="
     },
     {
@@ -2266,7 +2266,7 @@
         "title": "Free 1k Cycles First person to apply",
         "description": "First  to  apply takes the 1k Cycle",
         "author": "Randomaaa",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@Randomaaa/free-1k-cycles-first?t="
     },
     {
@@ -2336,7 +2336,7 @@
         "title": "Make a program that saves changes to a local file when it is updated on a repl",
         "description": "As the title says",
         "author": "EpicCodeWizard2",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/make-a-program-that-1?t="
     }
 ]
