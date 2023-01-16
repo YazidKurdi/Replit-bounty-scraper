@@ -2446,7 +2446,7 @@
         "title": "Recreate this background animation with javascript or css",
         "description": "I need some custom code to recreate the background mouse animation from thisisdash.com in webflow. Essentially I will have a grid in of squares built in webflow and we need to change animate the outline color of the square on hover, find the surrounding squares, randomly choose some and highlight those.\nAcceptance Criteria\nExperience creating similar animations.\nTechnical Details\nI can create the html and css structure in webflow, need the code to help animate the hover state of the square and surrounding squares.\nLink to Project\nhttps://thisisdash.com/",
         "author": "JimmyElphick1",
-        "posted_time": "44 minutes ago",
+        "posted_time": "51 minutes ago",
         "link": "https://replit.com/bounties/@JimmyElphick1/recreate-this-backgr?t="
     },
     {
@@ -2456,7 +2456,7 @@
         "title": "create AI-assisted calendaring application (opportunity to open source)",
         "description": "The goal is to use LangChain \u2013\u00a0an increasingly popular framework for building LLM applications\u00a0\u2013\u00a0more here: https://github.com/hwchase17/langchain \u2013\u00a0to create a simple web application that allows a user to generate a routine scheduling process email. The application will take as input an email thread where a request for scheduling help is made. The process will involve making an API call to the client's calendar (initially Calendly) to retrieve availability, using a language model with a few-shot prompt (specified by the user) to generate an email based on the availability, and then using the Calendly API to block the times offered. The application should be able to be called via an API from a Chrome extension to be used in-line.\n\nAcceptance Criteria\nThe application should be able to accept a user's personal Calendly API access_token as part of setup.  (In the future we can implement Calendly OAuth)\nThe application should be able to retrieve availability from the cl...",
         "author": "NathanLabenz",
-        "posted_time": "43 minutes ago",
+        "posted_time": "50 minutes ago",
         "link": "https://replit.com/bounties/@NathanLabenz/create-ai-assisted-c?t="
     },
     {
@@ -2466,7 +2466,7 @@
         "title": "Redesign Page for me with css",
         "description": "Describe the problem you are trying to solve here.\nI need a page redesigned\nAcceptance Criteria\nBe specific about what you want in the solution here.\nContact me on discord",
         "author": "fatty121",
-        "posted_time": "3 minutes ago",
+        "posted_time": "10 minutes ago",
         "link": "https://replit.com/bounties/@fatty121/redesign-page-for-me?t="
     }
 ]
