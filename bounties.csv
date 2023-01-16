@@ -1852,7 +1852,7 @@ totalDurationHighPri: 60
 }
 
 Example of a way to hit the Things API
-https://github.com/thingsapi/things.py",altimor,9 hours ago,https://replit.com/bounties/@altimor/hit-an-api-do-simple?t=
+https://github.com/thingsapi/things.py",altimor,10 hours ago,https://replit.com/bounties/@altimor/hit-an-api-do-simple?t=
 225,$90.00,due in 13 days,Set up a webhook to catch Moralis streams for unstaking alerts and send raw data to telegram with python,"Moralis is a web3 infrastructure tool that enables developers to integrate web3 into their applications. Moralis Streams is a product that enables developers to listen to real-time blockchain events. GMX is a decentralized perpetual exchange on Arbitrum.
 
 I'm looking to create a replit that listens for real-time events using Moralis' Streams product. I would like someone to create a fastAPI replit instance that receives Unstake GMX transactions from the GMX RewardRouter and broadcasts them to a telegram chat of my choice.
@@ -1863,7 +1863,7 @@ Acceptance Criteria
  ----------------------------------------
  Service must filter out non 'Unstake GMX' transactions from the contract address (Address - 0xA906F338CB21815cBc4Bc87ace9e68c87eF8d8F1)
  Service must be able to filter out transactions lower than a given GMX amount received from th...",sevpants,9 hours ago,https://replit.com/bounties/@sevpants/set-up-a-webhook-to?t=
-226,$10.00,closed,Free 1k Cycles First person to apply,First  to  apply takes the 1k Cycle,Randomaaa,7 hours ago,https://replit.com/bounties/@Randomaaa/free-1k-cycles-first?t=
+226,$10.00,closed,Free 1k Cycles First person to apply,First  to  apply takes the 1k Cycle,Randomaaa,8 hours ago,https://replit.com/bounties/@Randomaaa/free-1k-cycles-first?t=
 227,$27.00,due in 9 days,Chrome Extension to scan for GPT Created Content,"Looking for a tool that can scan pages for AI-generated content and give the reader a score as they browse.
 
 For example, I'm browsing https://www.healthline.com/health/mental-health/adhd-myths-debunked?utm_source=ReadNext and should be provided a score in the top right of XX% is written by AI.
@@ -1905,3 +1905,9 @@ https://replit.com/@LazareParis/react-stable-diffusion-simple-test#src/App.jsx",
 Acceptance Criteria
 I will give you the things I want on the page and would like you to design it within the deadline I have.
 Contact me on discord for more info so I can give you the job",fatty121,2 hours ago,https://replit.com/bounties/@fatty121/design-me-a-page-in?t=
+230,$0.90,due in 4 days,Test bounty lol,"Describe the problem you are trying to solve here.
+
+Acceptance Criteria
+Be specific about what you want in the solution here.
+
+Very weird problem.",EpicCodeWizard2,43 seconds ago,https://replit.com/bounties/@EpicCodeWizard2/test-bounty-lol?t=
