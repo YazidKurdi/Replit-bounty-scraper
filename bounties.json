@@ -2266,7 +2266,7 @@
         "title": "Free 1k Cycles First person to apply",
         "description": "First  to  apply takes the 1k Cycle",
         "author": "Randomaaa",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@Randomaaa/free-1k-cycles-first?t="
     },
     {
@@ -2338,5 +2338,15 @@
         "author": "EpicCodeWizard2",
         "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/make-a-program-that-1?t="
+    },
+    {
+        "index": "234",
+        "price": "$18.00",
+        "due_days": "due in 4 days",
+        "title": "Discord Application Bot",
+        "description": "Tired of using website bots to run applications for our Discord community. We just need a simple way to send out questions via DM and receive back answers in a channel.\n\nAcceptance Criteria\nWe are looking to use our own bot to run code that you create, that will allow the bot to DM applicant a series of questions, and will then send results back to us in a channel where we can vote. There are several bots JUST like this but littered with their own branding, we want our own and dont want to f up the coding to remove branding.",
+        "author": "joneb32",
+        "posted_time": "4 minutes ago",
+        "link": "https://replit.com/bounties/@joneb32/discord-application?t="
     }
 ]
