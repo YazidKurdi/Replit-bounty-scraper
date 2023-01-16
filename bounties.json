@@ -2356,7 +2356,7 @@
         "title": "Text to chart",
         "description": "Enable users to transform data into charts with an NLP input and choose among 2-3 chart options to pick from.\n\nAcceptance Criteria\nA simple interface where the user type text with data in a box, and that is transformed into 2-3 types of charts the user can pick from.\n\nTechnical Details\nI'll give you specific details as the application is accepted.",
         "author": "GennaroCuofano",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/text-to-chart?t="
     },
     {
@@ -2406,7 +2406,7 @@
         "title": "Phython script to search input field and send email depending on result.",
         "description": "I have a Magento store that loses it's index from time to time (still trying to find reason). I have a Better Uptime alert to alert me if a page is in a certain state.\n\nThe monitor goes to a specific url,\n\nand if the text on the page states:\nWE CAN'T FIND PRODUCTS MATCHING THE SELECTION\n\nThen it sends me an alert, and I re-index my products, bringing my inventory back kon the site.\n\nThe problem is that that page often gets cached. So I need a way to auto search a particular phrase to ensure index is active.\n\nThis python script would go to the home page:\nhttps://mystore.com/ in in the search box search for  a product like \"4,210,064,801\" and if the search result is\nWE CAN'T FIND PRODUCTS MATCHING THE SELECTION\n\nIt would send me an email.\n\nAcceptance Criteria\n\nTechnical Details\nPython\nAuto run ever 10 minutes\nSend email",
         "author": "tembalanco",
-        "posted_time": "51 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@tembalanco/phython-script-to-se?t="
     }
 ]
