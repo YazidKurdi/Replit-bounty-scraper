@@ -1910,19 +1910,19 @@ Contact me on discord for more info so I can give you the job",fatty121,11 hours
 Acceptance Criteria
 Be specific about what you want in the solution here.
 
-Very weird problem.",EpicCodeWizard2,11 hours ago,https://replit.com/bounties/@EpicCodeWizard2/test-bounty-lol?t=
+Very weird problem.",EpicCodeWizard2,12 hours ago,https://replit.com/bounties/@EpicCodeWizard2/test-bounty-lol?t=
 231,$0.90,closed,test bounty again,"Describe the problem you are trying to solve here.
 
 Acceptance Criteria
 Be specific about what you want in the solution here.
 
-the weirdest issue of them all - nothing",EpicCodeWizard2,11 hours ago,https://replit.com/bounties/@EpicCodeWizard2/test-bounty-again?t=
-232,$0.90,closed,Make a program that saves changes to a local file when it is updated on a repl,As the title says,EpicCodeWizard2,11 hours ago,https://replit.com/bounties/@EpicCodeWizard2/make-a-program-that?t=
+the weirdest issue of them all - nothing",EpicCodeWizard2,12 hours ago,https://replit.com/bounties/@EpicCodeWizard2/test-bounty-again?t=
+232,$0.90,closed,Make a program that saves changes to a local file when it is updated on a repl,As the title says,EpicCodeWizard2,12 hours ago,https://replit.com/bounties/@EpicCodeWizard2/make-a-program-that?t=
 233,$0.90,closed,Make a program that saves changes to a local file when it is updated on a repl,As the title says,EpicCodeWizard2,11 hours ago,https://replit.com/bounties/@EpicCodeWizard2/make-a-program-that-1?t=
 234,$18.00,due in 3 days,Discord Application Bot,"Tired of using website bots to run applications for our Discord community. We just need a simple way to send out questions via DM and receive back answers in a channel.
 
 Acceptance Criteria
-We are looking to use our own bot to run code that you create, that will allow the bot to DM applicant a series of questions, and will then send results back to us in a channel where we can vote. There are several bots JUST like this but littered with their own branding, we want our own and dont want to f up the coding to remove branding.",joneb32,8 hours ago,https://replit.com/bounties/@joneb32/discord-application?t=
+We are looking to use our own bot to run code that you create, that will allow the bot to DM applicant a series of questions, and will then send results back to us in a channel where we can vote. There are several bots JUST like this but littered with their own branding, we want our own and dont want to f up the coding to remove branding.",joneb32,9 hours ago,https://replit.com/bounties/@joneb32/discord-application?t=
 235,$90.00,due in 3 days,Text to chart,"Enable users to transform data into charts with an NLP input and choose among 2-3 chart options to pick from.
 
 Acceptance Criteria
@@ -1938,7 +1938,7 @@ VALID TOKENS",NotYourMaster,6 hours ago,https://replit.com/bounties/@NotYourMast
 property name, overall score (no need for specific reviews), and hotel description (the paragraph about the property). Hotels and apartments are all needed.
 
 Acceptance Criteria
-It's a few thousand of those so a CSV file with the fields name,score,description paragraph would be good enough.",YaronOliker,4 hours ago,https://replit.com/bounties/@YaronOliker/scrape-hotel-descrip?t=
+It's a few thousand of those so a CSV file with the fields name,score,description paragraph would be good enough.",YaronOliker,5 hours ago,https://replit.com/bounties/@YaronOliker/scrape-hotel-descrip?t=
 238,$45.00,due in 10 days,Automatically place bets based on suggested bets from a website,"Hi,
 
 I need a tool to place bets when certain opportunities are live. I have a scraper that will track when an arbitrage opportunity exists. When this occur, I will need a bot to go to two different betting websites and place a bet on both sides of the market to lock in a profit no matter the outcome.
@@ -1947,12 +1947,12 @@ Some other key notes. This is in Australia, so you may need to use a VPN to acce
 
 If you think you can build this, please reach out and I would love to discuss. There will be a bit more nuance with the betting strategy but the crux is a tool that can place bets automatically based on an input.
 
-Looking forward to working with someone!",YouReachITeach4,3 hours ago,https://replit.com/bounties/@YouReachITeach4/automatically-place?t=
+Looking forward to working with someone!",YouReachITeach4,4 hours ago,https://replit.com/bounties/@YouReachITeach4/automatically-place?t=
 239,$45.00,due in 3 days,convert word document (with text classification) into json file for ML,"I want to use ML to create better writing outputs for an organization. To do this, I want to fine-tune the model with a file of what 'good' and 'bad' examples of writing are, and assign a score to each writing example. I will provide a large word document with: examples, 'good' or 'bad' label, score.
 
 -The JSON file accurately reflects the examples provided in word, their sentence and paragraph structure, spaces, bullet points and any hierarchies (lists, etc) that are key data structures.
 -The JSON file captures the score assigned to each example.
--The JSON file can be uploaded and readable to OpenAI fine-tuning system.",Populista,2 hours ago,https://replit.com/bounties/@Populista/convert-word-documen?t=
+-The JSON file can be uploaded and readable to OpenAI fine-tuning system.",Populista,3 hours ago,https://replit.com/bounties/@Populista/convert-word-documen?t=
 240,$54.00,due in 3 days,Phython script to search input field and send email depending on result.,"I have a Magento store that loses it's index from time to time (still trying to find reason). I have a Better Uptime alert to alert me if a page is in a certain state.
 
 The monitor goes to a specific url,
