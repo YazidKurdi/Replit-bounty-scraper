@@ -2226,7 +2226,7 @@
         "title": "AI-tool based on GPT to create ad copy (text) based on specific user input",
         "description": "Hi all\n\nI'm working at an marketing agency and we are looking to have made a tool to increase productivity among our consultants when it comes to writing ad copy for clients.\n\nBelow is my idea as to how this should be made, but I'm very open to suggestions as to how we should build this.\n\nI'm imagining a tool - a interface without a login, accessable via link - where the user has the following inputs:\n\nName of product or service (like \"Nike Free 2.0\" or \"Debt restructuring service\")\nLink - user can link to the product or service that we are going to have written ad copy for for the tool to crawl\nPlatform - user can choose between a number of buttons, including \"Facebook\", \"LinkedIn\" and \"Google\". This will determine writing style and length of the ad copy output.\nKeywords - free text field where the user can input keywords like the USPs of the service or product, but it doesn't have to be filled out\nLanguage - choose between a number of languages via buttons (Danish, English, German, S...",
         "author": "Halfdantimm",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@Halfdantimm/ai-tool-based-on-gpt?t="
     },
     {
@@ -2236,7 +2236,7 @@
         "title": "AI Chatbot for personal knowledge repository based on text files",
         "description": "Hi! I would like to create a simple AI tool that allows a user to upload their own content (for example, a large text file) and then the tool creates a chatbot (like ChatGPT) based on that content, for the user. I believe it will use the EmbeddingsAPI?\n\nThe primary use case is for querying your own knowledge base. For example, I have a lot of content that I have saved to my Notion account and would like an easy way to ask it questions instead of having to search through.\n\nThe user experience for the end user will be: upload a .txt file or .csv. Then, the Chatbot is created on a unique URL for that user based on the information in that file.\n\nAcceptance will be a simple, undesigned web application does the following:\n\nUser uploads arbitrary file (that can be a large text dataset like a bunch of blogposts for example)\nThen user can ask questions in a Q&A format like ChatGPT based on that information\nIt will also need a very simple user authentication system to save these Chatbots\n\nPlease...",
         "author": "JimShook",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@JimShook/ai-chatbot-for-perso?t="
     },
     {
@@ -2296,7 +2296,7 @@
         "title": "Design me a page in html/css",
         "description": "I would like you to design a page in html/css for me (Contact me on discord so I can give all the info)\nAcceptance Criteria\nI will give you the things I want on the page and would like you to design it within the deadline I have.\nContact me on discord for more info so I can give you the job",
         "author": "fatty121",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@fatty121/design-me-a-page-in?t="
     }
 ]
