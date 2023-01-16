@@ -2406,7 +2406,7 @@
         "title": "Phython script to search input field and send email depending on result.",
         "description": "I have a Magento store that loses it's index from time to time (still trying to find reason). I have a Better Uptime alert to alert me if a page is in a certain state.\n\nThe monitor goes to a specific url,\n\nand if the text on the page states:\nWE CAN'T FIND PRODUCTS MATCHING THE SELECTION\n\nThen it sends me an alert, and I re-index my products, bringing my inventory back kon the site.\n\nThe problem is that that page often gets cached. So I need a way to auto search a particular phrase to ensure index is active.\n\nThis python script would go to the home page:\nhttps://mystore.com/ in in the search box search for  a product like \"4,210,064,801\" and if the search result is\nWE CAN'T FIND PRODUCTS MATCHING THE SELECTION\n\nIt would send me an email.\n\nAcceptance Criteria\n\nTechnical Details\nPython\nAuto run ever 10 minutes\nSend email",
         "author": "tembalanco",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@tembalanco/phython-script-to-se?t="
     },
     {
@@ -2426,7 +2426,7 @@
         "title": "Break down a project scope of work into specific coding tasks, languages (most adapted) and deliverables",
         "description": "I need help to provide detailed explanations on the programming steps needed to create the project in our SOW. (Will be provided from Notion read-only link)\n\nAcceptance Criteria\nConfident can provide detailed description of steps needed to complete the 3 Phases (design, features & functionality, deployment). Include all languages, systems, libraries, number of programmers and likely timeframe.\nExperience in Project Management\nKnows requirements for WebFlow (Front-end designs), Metamask integrations (Crypto/NFTs integrations) & BackEnd gaming engine design.",
         "author": "marcandreranger",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@marcandreranger/break-down-a-project-1?t="
     },
     {
