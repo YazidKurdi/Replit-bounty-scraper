@@ -2075,3 +2075,16 @@ There is an SDK kit on the website, and they recommend C++
 I am also happy to learn; teach me how you did it.
 
 In return, I could teach you some DJing.",MyCool-DJ,2 hours ago,https://replit.com/bounties/@MyCool-DJ/vdj-plugin-dj-tool?t=
+254,$630.00,due in 28 days,Chat-GPT based finance and tax web app,"I want to create a web app of an AI financial and tax advisor based on GPT-3 trained dataset.
+
+Acceptance Criteria
+Front end: HTML, CSS, and JavaScript or React based – whichever is the developer’s strength.  Backend using Python and the Flask framework.
+Fully functioning site connected to chat-gpt and has the features mentioned below
+Prompt memory: retain previous similar prompts from other users in memory
+
+Technical Details
+Prior experience with GPT-3 and web apps
+
+Landing page: this will be a simple interface featuring a prompt box for the user to ask their question, a navigation menu, login/sign-up buttons, email subscription input, three buttons underneath the prompt box that will be linked to other pages within the web app. When the user hits submit for the AI prompt, the chat-gpt response will be shown on a new page
+
+Response page: on the left side of the page the user can continue to chat with the AI. On the right side of the page will be a summary of the ke...",thehousegit,23 seconds ago,https://replit.com/bounties/@thehousegit/chat-gpt-based-finan?t=
