@@ -2626,7 +2626,7 @@
         "title": "AI writer chrome extension",
         "description": "I would like to create an AI Writer Chrome Extension using GPT-3.\n\nIt should mainly have 3 features:\n\nAutocomplete (complete text while typing)\nGrammar (allow user to select some text and AI writes it a different way with better grammar, punctuation etc)\nTone (allow user to select some text, and input a tone, and AI writes it in that tone)\n\nThe app should work in most html ``s on any website, and also it must support Gmail and Google Docs most notably. User must be able to enable/disable extension as they wish.\n\nUsers will get a 1 week free trial, then have to pay $10 a month to continue the service. For payments you can use the Stripe API. I can provide the API key for GPT or Stripe.",
         "author": "CoderGautamYT",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/ai-writer-chrome-ext?t="
     },
     {
