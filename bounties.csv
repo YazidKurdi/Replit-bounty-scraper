@@ -2111,7 +2111,7 @@ Input URL and get all pages (eg. http://www.paulgraham.com/articles.html)
 Convert pages into JSON file compatible with Open AI
 Create fine-tune with Open AI (https://beta.openai.com/docs/guides/fine-tuning)",aethelyon,8 hours ago,https://replit.com/bounties/@aethelyon/openai-fine-tune-wit?t=
 257,$1.89,due in 13 days,Make a minecraft server with non changeable ip. (ip must not change anytime),"Make a minecraft server with non changeable ip. (ip must not change anytime)
-And dm me after applying :- Just A Kartik#2735",KartikCodez,4 hours ago,https://replit.com/bounties/@KartikCodez/make-a-minecraft-ser?t=
+And dm me after applying :- Just A Kartik#2735",KartikCodez,5 hours ago,https://replit.com/bounties/@KartikCodez/make-a-minecraft-ser?t=
 258,$18.00,due in 14 days,Script to identify and contact researchers | Node/Python + Hunter.io + GPT,"I want to reach out to relevant researchers via email. The source of potential researchers to contact is an email that contains paper alerts from google scholar. I want to contact all researchers from that email via email with a dynamic template that applauds them for their work and asks for more info.
 
 Acceptance Criteria
@@ -2129,7 +2129,7 @@ Home page: Shows a view of popular questions currently neatly as cards, would be
 
 Login / Signup: Users should be able to use either email or google to log in or sign up. Users will receive 10 free credits per month, which can be used to answer questions. A balance of a user's credits will be shown in the navbar once logged in. After a user signs up, there will be a short onboarding screen where users are prompted to set their username, avatar, and bio.
 
-Settings view: There is an option to open this view from the navbar, if a user is signed in. It should have options to modify a user’s usernam...",CoderGautamYT,46 minutes ago,https://replit.com/bounties/@CoderGautamYT/quora-app-with-gpt-3?t=
+Settings view: There is an option to open this view from the navbar, if a user is signed in. It should have options to modify a user’s usernam...",CoderGautamYT,1 hour ago,https://replit.com/bounties/@CoderGautamYT/quora-app-with-gpt-3?t=
 260,$22.50,due in 28 days,GPT-3 Google Docs addon,"I would like to create a Google Docs addon for GPT-3.
 
  It should mainly have 2 features:
@@ -2137,4 +2137,4 @@ Autocomplete (complete text while their typing)
 Grammar (allow user to select some text and AI writes it a different way with better grammar punctuation etc)
 Tone (allow user to select some text, and input a tone, and AI writes it in that tone)
 
-Users will get a 1 week free trial, then have to pay $10 a month to continue the service. For payments you can use the Stripe API. The app must be coded in JavaScript, and I can provide the API key for GPT or Stripe.",CoderGautamYT,8 minutes ago,https://replit.com/bounties/@CoderGautamYT/gpt-3-google-docs-ad?t=
+Users will get a 1 week free trial, then have to pay $10 a month to continue the service. For payments you can use the Stripe API. The app must be coded in JavaScript, and I can provide the API key for GPT or Stripe.",CoderGautamYT,24 minutes ago,https://replit.com/bounties/@CoderGautamYT/gpt-3-google-docs-ad?t=
