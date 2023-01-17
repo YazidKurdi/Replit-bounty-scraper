@@ -2042,7 +2042,7 @@ Joke text is stored in a txt file
 Background audio from .mp3 file is played in the video
 Background video from .mp4 file is shown in the video
 Joke text is shown in the video, centered, and has a nice animation, for example in a question joke, the question should be shown first, then the answer. The words also need to be animated, kind of like this: https://www.youtube.com/shorts/vcW8WRR9Rpk
-Joke is spoken aloud using Amazon Polly TTS API, I have an API key and some working code already for this, and can provide if needed.",CoderGautamYT,10 hours ago,https://replit.com/bounties/@CoderGautamYT/joke-video-generator?t=
+Joke is spoken aloud using Amazon Polly TTS API, I have an API key and some working code already for this, and can provide if needed.",CoderGautamYT,11 hours ago,https://replit.com/bounties/@CoderGautamYT/joke-video-generator?t=
 250,$1.35,closed,Fix Swordbattle.io Hall Of Fame Border,"I'm having an issue with my code and the H1 border I have for each players surrounding information is too close to the edge of the screen and I need it to be away from the edge of the screen.
 
 Acceptance Criteria
@@ -2053,8 +2053,8 @@ Talk to me through email: [email protected]
 OR
 
 Add me on discord: sketchxcoding#2620",AstralRBX,10 hours ago,https://replit.com/bounties/@AstralRBX/fix-swordbattleio-ha?t=
-251,$1.22,closed,For EpicCodeWizard to do,This bounty information is on discord,AstralRBX,9 hours ago,https://replit.com/bounties/@AstralRBX/for-epiccodewizard-t?t=
-252,$1.00,closed,also for epiccodewizard,you got the info on discord,AstralRBX,8 hours ago,https://replit.com/bounties/@AstralRBX/also-for-epiccodewiz?t=
+251,$1.22,closed,For EpicCodeWizard to do,This bounty information is on discord,AstralRBX,10 hours ago,https://replit.com/bounties/@AstralRBX/for-epiccodewizard-t?t=
+252,$1.00,closed,also for epiccodewizard,you got the info on discord,AstralRBX,9 hours ago,https://replit.com/bounties/@AstralRBX/also-for-epiccodewiz?t=
 253,$50.00,due in 2 months,VDJ Plugin (DJ tool),"* I am a DJ. I can not mix video without affecting audio on scratch mode. *
 
 Solution
@@ -2074,7 +2074,7 @@ There is an SDK kit on the website, and they recommend C++
 
 I am also happy to learn; teach me how you did it.
 
-In return, I could teach you some DJing.",MyCool-DJ,7 hours ago,https://replit.com/bounties/@MyCool-DJ/vdj-plugin-dj-tool?t=
+In return, I could teach you some DJing.",MyCool-DJ,8 hours ago,https://replit.com/bounties/@MyCool-DJ/vdj-plugin-dj-tool?t=
 254,$630.00,due in 28 days,Chat-GPT based finance and tax web app,"I want to create a web app of an AI financial and tax advisor based on GPT-3 trained dataset.
 
 Acceptance Criteria
@@ -2087,7 +2087,7 @@ Prior experience with GPT-3 and web apps
 
 Landing page: this will be a simple interface featuring a prompt box for the user to ask their question, a navigation menu, login/sign-up buttons, email subscription input, three buttons underneath the prompt box that will be linked to other pages within the web app. When the user hits submit for the AI prompt, the chat-gpt response will be shown on a new page
 
-Response page: on the left side of the page the user can continue to chat with the AI. On the right side of the page will be a summary of the ke...",thehousegit,5 hours ago,https://replit.com/bounties/@thehousegit/chat-gpt-based-finan?t=
+Response page: on the left side of the page the user can continue to chat with the AI. On the right side of the page will be a summary of the ke...",thehousegit,6 hours ago,https://replit.com/bounties/@thehousegit/chat-gpt-based-finan?t=
 255,$45.00,due in 4 days,Outreach tool,"I am attempting to create an outreach tool (via Instagram) to OnlyFans creators who have OnlyFans pages at http://www.onlyfans.com/. They cannot be contacted on OnlyFans, but they can be contacted on other sites like Instagram. Nearly every OnlyFans creator has an Instagram page, often with the same username, e.g. http://www.instagram.com/
 
 So - I am trying to create a repository of creators with the following fields per creator:
