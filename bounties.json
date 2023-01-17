@@ -2606,7 +2606,7 @@
         "title": "GPT-3 Google Docs addon",
         "description": "I would like to create a Google Docs addon for GPT-3.\n\n It should mainly have 2 features:\nAutocomplete (complete text while their typing)\nGrammar (allow user to select some text and AI writes it a different way with better grammar punctuation etc)\nTone (allow user to select some text, and input a tone, and AI writes it in that tone)\n\nUsers will get a 1 week free trial, then have to pay $10 a month to continue the service. For payments you can use the Stripe API. The app must be coded in JavaScript, and I can provide the API key for GPT or Stripe.",
         "author": "CoderGautamYT",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/gpt-3-google-docs-ad?t="
     },
     {
@@ -2636,17 +2636,27 @@
         "title": "AI Writer Chrome Extension",
         "description": "I would like to create an AI Writer Chrome Extension using GPT-3.\n\nIt should mainly have 3 features:\n\nAutocomplete (complete text while typing)\nGrammar (allow user to select some text and AI writes it a different way with better grammar, punctuation etc)\nTone (allow user to select some text, and input a tone, and AI writes it in that tone)\n\nThe app should work in most html s on any website, also it must support Gmail and Google Docs. User must be able to enable/disable extension as they wish.\n\nUsers should have to sign in via google to use the extension, and usage data for all the users should be stored in a database. The code should be secure and follow good coding practices.",
         "author": "CoderGautamYT",
-        "posted_time": "19 minutes ago",
+        "posted_time": "34 minutes ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/ai-writer-chrome-ext-1?t="
     },
     {
         "index": "264",
         "price": "$50.00",
-        "due_days": "due in 13 days",
+        "due_days": "closed",
         "title": "AI Writing Chrome extension",
         "description": "I would like to create an AI Writer Chrome Extension using GPT-3.\n\nIt should mainly have 3 features:\n\nAutocomplete (complete text while typing)\nGrammar (allow user to select some text and AI writes it a different way with better grammar, punctuation etc)\nTone (allow user to select some text, and input a tone, and AI writes it in that tone)\nThe app should work in most html s on any website, also it must support Gmail and Google Docs. User must be able to enable/disable extension as they wish.\n\nUsers should have to sign in via google to use the extension, and usage data for all the users should be stored in a database. The code should be secure and follow good coding practices.",
         "author": "CoderGautamYT",
-        "posted_time": "18 minutes ago",
+        "posted_time": "32 minutes ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/ai-writing-chrome-ex?t="
+    },
+    {
+        "index": "265",
+        "price": "$100.00",
+        "due_days": "due in 20 days",
+        "title": "GPT-3 AI Writer Chrome Extension",
+        "description": "I would like to create an AI Writer Chrome Extension using GPT-3.\n\nIt should mainly have 3 features:\n\nAutocomplete (complete text while typing)\nGrammar (allow user to select some text and AI writes it a different way with better grammar, punctuation etc)\nTone (allow user to select some text, and input a tone, and AI writes it in that tone)\n\nThe app should work in most textareas on any website, also it must support Gmail and Google Docs. User must be able to enable/disable extension as they wish.\n\nUsers should have to sign in via google to use the extension, and usage data for all the users should be stored in a database. The code should be secure and follow good coding practices.\n\nMust finish within the due date.",
+        "author": "CoderGautamYT",
+        "posted_time": "13 minutes ago",
+        "link": "https://replit.com/bounties/@CoderGautamYT/gpt-3-ai-writer-chro?t="
     }
 ]
