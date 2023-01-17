@@ -2486,7 +2486,7 @@
         "title": "Function to convert Notion page to portable text",
         "description": "We pull data from Notion pages and want to convert the JSON data received to portable text.\n\nAcceptance Criteria\nReceive a request that includes a Notion page from Notion JS API\nRespond in json matching Sanity's portable text\nSupport for a range of inputs including Text, links, styling (bold, italic), headers, lists (bullet, numbered), and images.\n\nTechnical Details\nUse node.js, express.js",
         "author": "gehrigk",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@gehrigk/function-to-convert?t="
     },
     {
