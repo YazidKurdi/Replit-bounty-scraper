@@ -2042,7 +2042,7 @@ Joke text is stored in a txt file
 Background audio from .mp3 file is played in the video
 Background video from .mp4 file is shown in the video
 Joke text is shown in the video, centered, and has a nice animation, for example in a question joke, the question should be shown first, then the answer. The words also need to be animated, kind of like this: https://www.youtube.com/shorts/vcW8WRR9Rpk
-Joke is spoken aloud using Amazon Polly TTS API, I have an API key and some working code already for this, and can provide if needed.",CoderGautamYT,13 hours ago,https://replit.com/bounties/@CoderGautamYT/joke-video-generator?t=
+Joke is spoken aloud using Amazon Polly TTS API, I have an API key and some working code already for this, and can provide if needed.",CoderGautamYT,14 hours ago,https://replit.com/bounties/@CoderGautamYT/joke-video-generator?t=
 250,$1.35,closed,Fix Swordbattle.io Hall Of Fame Border,"I'm having an issue with my code and the H1 border I have for each players surrounding information is too close to the edge of the screen and I need it to be away from the edge of the screen.
 
 Acceptance Criteria
@@ -2052,8 +2052,8 @@ Talk to me through email: [email protected]
 
 OR
 
-Add me on discord: sketchxcoding#2620",AstralRBX,13 hours ago,https://replit.com/bounties/@AstralRBX/fix-swordbattleio-ha?t=
-251,$1.22,closed,For EpicCodeWizard to do,This bounty information is on discord,AstralRBX,12 hours ago,https://replit.com/bounties/@AstralRBX/for-epiccodewizard-t?t=
+Add me on discord: sketchxcoding#2620",AstralRBX,14 hours ago,https://replit.com/bounties/@AstralRBX/fix-swordbattleio-ha?t=
+251,$1.22,closed,For EpicCodeWizard to do,This bounty information is on discord,AstralRBX,13 hours ago,https://replit.com/bounties/@AstralRBX/for-epiccodewizard-t?t=
 252,$1.00,closed,also for epiccodewizard,you got the info on discord,AstralRBX,12 hours ago,https://replit.com/bounties/@AstralRBX/also-for-epiccodewiz?t=
 253,$50.00,due in 2 months,VDJ Plugin (DJ tool),"* I am a DJ. I can not mix video without affecting audio on scratch mode. *
 
@@ -2074,7 +2074,7 @@ There is an SDK kit on the website, and they recommend C++
 
 I am also happy to learn; teach me how you did it.
 
-In return, I could teach you some DJing.",MyCool-DJ,10 hours ago,https://replit.com/bounties/@MyCool-DJ/vdj-plugin-dj-tool?t=
+In return, I could teach you some DJing.",MyCool-DJ,11 hours ago,https://replit.com/bounties/@MyCool-DJ/vdj-plugin-dj-tool?t=
 254,$630.00,due in 27 days,Chat-GPT based finance and tax web app,"I want to create a web app of an AI financial and tax advisor based on GPT-3 trained dataset.
 
 Acceptance Criteria
@@ -2103,13 +2103,13 @@ Number of OnlyFans likes
 You can create this repository through one or more of the following methods:
 Scrape every possible OnlyFans username, and then check to see if an Instagram with the same exact username exists.
 Do the same with every OnlyFans page linked from the pages of https://onlyfinder.com/ and then either use the linked Instagram or assume the same username.
-Scrape every instance of Hoo.Be/ urls which lin...",RabbitEars22,8 hours ago,https://replit.com/bounties/@RabbitEars22/outreach-tool?t=
+Scrape every instance of Hoo.Be/ urls which lin...",RabbitEars22,9 hours ago,https://replit.com/bounties/@RabbitEars22/outreach-tool?t=
 256,$45.00,due in 3 days,OpenAI Fine Tune with Blog,"Create a python script that extracts content from a URL, converts it to JSON, and creates a fine-tune model.
 
 Acceptance Criteria
 Input URL and get all pages (eg. http://www.paulgraham.com/articles.html)
 Convert pages into JSON file compatible with Open AI
-Create fine-tune with Open AI (https://beta.openai.com/docs/guides/fine-tuning)",aethelyon,5 hours ago,https://replit.com/bounties/@aethelyon/openai-fine-tune-wit?t=
+Create fine-tune with Open AI (https://beta.openai.com/docs/guides/fine-tuning)",aethelyon,6 hours ago,https://replit.com/bounties/@aethelyon/openai-fine-tune-wit?t=
 257,$1.89,due in 13 days,Make a minecraft server with non changeable ip. (ip must not change anytime),"Make a minecraft server with non changeable ip. (ip must not change anytime)
 And dm me after applying :- Just A Kartik#2735",KartikCodez,2 hours ago,https://replit.com/bounties/@KartikCodez/make-a-minecraft-ser?t=
 258,$18.00,due in 14 days,Script to identify and contact researchers | Node/Python + Hunter.io + GPT,"I want to reach out to relevant researchers via email. The source of potential researchers to contact is an email that contains paper alerts from google scholar. I want to contact all researchers from that email via email with a dynamic template that applauds them for their work and asks for more info.
@@ -2121,4 +2121,4 @@ Technical Details
 Find emails given a name : Hunter.io (You will get an API key from me)
 Flask/FastAPI (Python) or Node-Express (Typescript) for the webserver
 Example HTML of email: https://gist.github.com/tdsone/ccbd56c0820da749d29d938e2e478cc7
-Example screenshot of email:https://tsone.notion....",tsone,1 hour ago,https://replit.com/bounties/@tsone/script-to-identify-a?t=
+Example screenshot of email:https://tsone.notion....",tsone,2 hours ago,https://replit.com/bounties/@tsone/script-to-identify-a?t=

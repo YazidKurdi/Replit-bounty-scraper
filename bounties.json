@@ -2496,7 +2496,7 @@
         "title": "Joke Video Generator Tool",
         "description": "I want a simple program built in Node.js, that generates a short video from a joke.\n\nAcceptance Criteria\nJoke text is stored in a txt file\nBackground audio from .mp3 file is played in the video\nBackground video from .mp4 file is shown in the video\nJoke text is shown in the video, centered, and has a nice animation, for example in a question joke, the question should be shown first, then the answer. The words also need to be animated, kind of like this: https://www.youtube.com/shorts/vcW8WRR9Rpk\nJoke is spoken aloud using Amazon Polly TTS API, I have an API key and some working code already for this, and can provide if needed.",
         "author": "CoderGautamYT",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/joke-video-generator?t="
     },
     {
@@ -2506,7 +2506,7 @@
         "title": "Fix Swordbattle.io Hall Of Fame Border",
         "description": "I'm having an issue with my code and the H1 border I have for each players surrounding information is too close to the edge of the screen and I need it to be away from the edge of the screen.\n\nAcceptance Criteria\nI want all player's information around all the borders away from the edge of the screen.\n\nTalk to me through email: [email\u00a0protected]\n\nOR\n\nAdd me on discord: sketchxcoding#2620",
         "author": "AstralRBX",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@AstralRBX/fix-swordbattleio-ha?t="
     },
     {
@@ -2516,7 +2516,7 @@
         "title": "For EpicCodeWizard to do",
         "description": "This bounty information is on discord",
         "author": "AstralRBX",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@AstralRBX/for-epiccodewizard-t?t="
     },
     {
@@ -2536,7 +2536,7 @@
         "title": "VDJ Plugin (DJ tool)",
         "description": "* I am a DJ. I can not mix video without affecting audio on scratch mode. *\n\nSolution\n\nUsing 2 video streams and muting one track, mix the other while in sync, one video is muted, and the audio stays unaffected.\n\nI have got this to work without code. I can set this up manually. It should only take a pro about an hour, but if someone wants to learn and take longer, still apply.\n\nI have a patent description for this \u2014 also an example video.\n\nThere is an SDK kit on the website, and they recommend C++\n(Maybe with Ghostwriter, you can convert the code if C++ is not your thing)\n\n[Virtual DJ site] (https://www.virtualdj.com/wiki/Developers)\n\n*You do not need a controller; this costs nothing; VDJ is free and open-sourced.\n\nI am also happy to learn; teach me how you did it.\n\nIn return, I could teach you some DJing.",
         "author": "MyCool-DJ",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@MyCool-DJ/vdj-plugin-dj-tool?t="
     },
     {
@@ -2556,7 +2556,7 @@
         "title": "Outreach tool",
         "description": "I am attempting to create an outreach tool (via Instagram) to OnlyFans creators who have OnlyFans pages at http://www.onlyfans.com/. They cannot be contacted on OnlyFans, but they can be contacted on other sites like Instagram. Nearly every OnlyFans creator has an Instagram page, often with the same username, e.g. http://www.instagram.com/\n\nSo - I am trying to create a repository of creators with the following fields per creator:\n\nInstagram URL\nInstagram Avatar URL\nNumber of Instagram followers\nOnlyFans URL\nOnlyFans Avatar URL\nNumber of OnlyFans posts\nNumber of OnlyFans likes\n\nYou can create this repository through one or more of the following methods:\nScrape every possible OnlyFans username, and then check to see if an Instagram with the same exact username exists.\nDo the same with every OnlyFans page linked from the pages of https://onlyfinder.com/ and then either use the linked Instagram or assume the same username.\nScrape every instance of Hoo.Be/ urls which lin...",
         "author": "RabbitEars22",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@RabbitEars22/outreach-tool?t="
     },
     {
@@ -2566,7 +2566,7 @@
         "title": "OpenAI Fine Tune with Blog",
         "description": "Create a python script that extracts content from a URL, converts it to JSON, and creates a fine-tune model.\n\nAcceptance Criteria\nInput URL and get all pages (eg. http://www.paulgraham.com/articles.html)\nConvert pages into JSON file compatible with Open AI\nCreate fine-tune with Open AI (https://beta.openai.com/docs/guides/fine-tuning)",
         "author": "aethelyon",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@aethelyon/openai-fine-tune-wit?t="
     },
     {
@@ -2586,7 +2586,7 @@
         "title": "Script to identify and contact researchers | Node/Python + Hunter.io + GPT",
         "description": "I want to reach out to relevant researchers via email. The source of potential researchers to contact is an email that contains paper alerts from google scholar. I want to contact all researchers from that email via email with a dynamic template that applauds them for their work and asks for more info.\n\nAcceptance Criteria\nA webserver in python or node (typescript) that accepts an email body and returns a list of researchers with their email addresses as well as html formatted text to reach out to each researcher. I will give you a number of test emails and will hold out a number of  further emails that I will very your solution against (think of it as the private test set).\n\nTechnical Details\nFind emails given a name : Hunter.io (You will get an API key from me)\nFlask/FastAPI (Python) or Node-Express (Typescript) for the webserver\nExample HTML of email: https://gist.github.com/tdsone/ccbd56c0820da749d29d938e2e478cc7\nExample screenshot of email:https://tsone.notion....",
         "author": "tsone",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@tsone/script-to-identify-a?t="
     }
 ]
