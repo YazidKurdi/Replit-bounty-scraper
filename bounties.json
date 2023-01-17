@@ -2496,7 +2496,7 @@
         "title": "Joke Video Generator Tool",
         "description": "I want a simple program built in Node.js, that generates a short video from a joke.\n\nAcceptance Criteria\nJoke text is stored in a txt file\nBackground audio from .mp3 file is played in the video\nBackground video from .mp4 file is shown in the video\nJoke text is shown in the video, centered, and has a nice animation, for example in a question joke, the question should be shown first, then the answer. The words also need to be animated, kind of like this: https://www.youtube.com/shorts/vcW8WRR9Rpk\nJoke is spoken aloud using Amazon Polly TTS API, I have an API key and some working code already for this, and can provide if needed.",
         "author": "CoderGautamYT",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/joke-video-generator?t="
     },
     {
@@ -2576,7 +2576,7 @@
         "title": "Make a minecraft server with non changeable ip. (ip must not change anytime)",
         "description": "Make a minecraft server with non changeable ip. (ip must not change anytime)\nAnd dm me after applying :- Just A Kartik#2735",
         "author": "KartikCodez",
-        "posted_time": "54 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@KartikCodez/make-a-minecraft-ser?t="
     },
     {
@@ -2586,7 +2586,7 @@
         "title": "Script to identify and contact researchers | Node/Python + Hunter.io + GPT",
         "description": "I want to reach out to relevant researchers via email. The source of potential researchers to contact is an email that contains paper alerts from google scholar. I want to contact all researchers from that email via email with a dynamic template that applauds them for their work and asks for more info.\n\nAcceptance Criteria\nA webserver in python or node (typescript) that accepts an email body and returns a list of researchers with their email addresses as well as html formatted text to reach out to each researcher. I will give you a number of test emails and will hold out a number of  further emails that I will very your solution against (think of it as the private test set).\n\nTechnical Details\nFind emails given a name : Hunter.io (You will get an API key from me)\nFlask/FastAPI (Python) or Node-Express (Typescript) for the webserver\nExample HTML of email: https://gist.github.com/tdsone/ccbd56c0820da749d29d938e2e478cc7\nExample screenshot of email:https://tsone.notion....",
         "author": "tsone",
-        "posted_time": "9 minutes ago",
+        "posted_time": "16 minutes ago",
         "link": "https://replit.com/bounties/@tsone/script-to-identify-a?t="
     }
 ]
