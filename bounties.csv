@@ -2018,7 +2018,7 @@ The application should be able to retrieve availability from the cl...",NathanLa
 I need a page redesigned
 Acceptance Criteria
 Be specific about what you want in the solution here.
-Contact me on discord",fatty121,10 hours ago,https://replit.com/bounties/@fatty121/redesign-page-for-me?t=
+Contact me on discord",fatty121,11 hours ago,https://replit.com/bounties/@fatty121/redesign-page-for-me?t=
 247,$225.00,due in 4 days,Use Browser-based Vision AI SDK + ChatGPT for Demo App that Modifies Prompt based on detected emotion,"I am interested in getting a POC demo application that modifies the prompt to Open AI's ChatGPT to the real-time detected emotional state of a user via a Vision AI SDK.  In other words, imagine using the emotional state of the user as a feedback loop and input to the text that OpenAI generates.
 
 The app should work something like this:
@@ -2034,7 +2034,7 @@ Respond in json matching Sanity's portable text
 Support for a range of inputs including Text, links, styling (bold, italic), headers, lists (bullet, numbered), and images.
 
 Technical Details
-Use node.js, express.js",gehrigk,7 hours ago,https://replit.com/bounties/@gehrigk/function-to-convert?t=
+Use node.js, express.js",gehrigk,8 hours ago,https://replit.com/bounties/@gehrigk/function-to-convert?t=
 249,$18.00,due in 13 days,Joke Video Generator Tool,"I want a simple program built in Node.js, that generates a short video from a joke.
 
 Acceptance Criteria
@@ -2103,4 +2103,4 @@ Number of OnlyFans likes
 You can create this repository through one or more of the following methods:
 Scrape every possible OnlyFans username, and then check to see if an Instagram with the same exact username exists.
 Do the same with every OnlyFans page linked from the pages of https://onlyfinder.com/ and then either use the linked Instagram or assume the same username.
-Scrape every instance of Hoo.Be/ urls which lin...",RabbitEars22,33 minutes ago,https://replit.com/bounties/@RabbitEars22/outreach-tool?t=
+Scrape every instance of Hoo.Be/ urls which lin...",RabbitEars22,49 minutes ago,https://replit.com/bounties/@RabbitEars22/outreach-tool?t=

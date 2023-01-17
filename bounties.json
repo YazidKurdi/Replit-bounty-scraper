@@ -2466,7 +2466,7 @@
         "title": "Redesign Page for me with css",
         "description": "Describe the problem you are trying to solve here.\nI need a page redesigned\nAcceptance Criteria\nBe specific about what you want in the solution here.\nContact me on discord",
         "author": "fatty121",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@fatty121/redesign-page-for-me?t="
     },
     {
@@ -2486,7 +2486,7 @@
         "title": "Function to convert Notion page to portable text",
         "description": "We pull data from Notion pages and want to convert the JSON data received to portable text.\n\nAcceptance Criteria\nReceive a request that includes a Notion page from Notion JS API\nRespond in json matching Sanity's portable text\nSupport for a range of inputs including Text, links, styling (bold, italic), headers, lists (bullet, numbered), and images.\n\nTechnical Details\nUse node.js, express.js",
         "author": "gehrigk",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@gehrigk/function-to-convert?t="
     },
     {
@@ -2556,7 +2556,7 @@
         "title": "Outreach tool",
         "description": "I am attempting to create an outreach tool (via Instagram) to OnlyFans creators who have OnlyFans pages at http://www.onlyfans.com/. They cannot be contacted on OnlyFans, but they can be contacted on other sites like Instagram. Nearly every OnlyFans creator has an Instagram page, often with the same username, e.g. http://www.instagram.com/\n\nSo - I am trying to create a repository of creators with the following fields per creator:\n\nInstagram URL\nInstagram Avatar URL\nNumber of Instagram followers\nOnlyFans URL\nOnlyFans Avatar URL\nNumber of OnlyFans posts\nNumber of OnlyFans likes\n\nYou can create this repository through one or more of the following methods:\nScrape every possible OnlyFans username, and then check to see if an Instagram with the same exact username exists.\nDo the same with every OnlyFans page linked from the pages of https://onlyfinder.com/ and then either use the linked Instagram or assume the same username.\nScrape every instance of Hoo.Be/ urls which lin...",
         "author": "RabbitEars22",
-        "posted_time": "33 minutes ago",
+        "posted_time": "49 minutes ago",
         "link": "https://replit.com/bounties/@RabbitEars22/outreach-tool?t="
     }
 ]
