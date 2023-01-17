@@ -2546,7 +2546,7 @@
         "title": "Chat-GPT based finance and tax web app",
         "description": "I want to create a web app of an AI financial and tax advisor based on GPT-3 trained dataset.\n\nAcceptance Criteria\nFront end: HTML, CSS, and JavaScript or React based \u2013 whichever is the developer\u2019s strength.  Backend using Python and the Flask framework.\nFully functioning site connected to chat-gpt and has the features mentioned below\nPrompt memory: retain previous similar prompts from other users in memory\n\nTechnical Details\nPrior experience with GPT-3 and web apps\n\nLanding page: this will be a simple interface featuring a prompt box for the user to ask their question, a navigation menu, login/sign-up buttons, email subscription input, three buttons underneath the prompt box that will be linked to other pages within the web app. When the user hits submit for the AI prompt, the chat-gpt response will be shown on a new page\n\nResponse page: on the left side of the page the user can continue to chat with the AI. On the right side of the page will be a summary of the ke...",
         "author": "thehousegit",
-        "posted_time": "23 seconds ago",
+        "posted_time": "10 minutes ago",
         "link": "https://replit.com/bounties/@thehousegit/chat-gpt-based-finan?t="
     }
 ]
