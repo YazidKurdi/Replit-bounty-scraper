@@ -2496,7 +2496,7 @@
         "title": "Joke Video Generator Tool",
         "description": "I want a simple program built in Node.js, that generates a short video from a joke.\n\nAcceptance Criteria\nJoke text is stored in a txt file\nBackground audio from .mp3 file is played in the video\nBackground video from .mp4 file is shown in the video\nJoke text is shown in the video, centered, and has a nice animation, for example in a question joke, the question should be shown first, then the answer. The words also need to be animated, kind of like this: https://www.youtube.com/shorts/vcW8WRR9Rpk\nJoke is spoken aloud using Amazon Polly TTS API, I have an API key and some working code already for this, and can provide if needed.",
         "author": "CoderGautamYT",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/joke-video-generator?t="
     },
     {
@@ -2516,7 +2516,7 @@
         "title": "For EpicCodeWizard to do",
         "description": "This bounty information is on discord",
         "author": "AstralRBX",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@AstralRBX/for-epiccodewizard-t?t="
     },
     {
@@ -2526,7 +2526,7 @@
         "title": "also for epiccodewizard",
         "description": "you got the info on discord",
         "author": "AstralRBX",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@AstralRBX/also-for-epiccodewiz?t="
     },
     {
@@ -2536,7 +2536,7 @@
         "title": "VDJ Plugin (DJ tool)",
         "description": "* I am a DJ. I can not mix video without affecting audio on scratch mode. *\n\nSolution\n\nUsing 2 video streams and muting one track, mix the other while in sync, one video is muted, and the audio stays unaffected.\n\nI have got this to work without code. I can set this up manually. It should only take a pro about an hour, but if someone wants to learn and take longer, still apply.\n\nI have a patent description for this \u2014 also an example video.\n\nThere is an SDK kit on the website, and they recommend C++\n(Maybe with Ghostwriter, you can convert the code if C++ is not your thing)\n\n[Virtual DJ site] (https://www.virtualdj.com/wiki/Developers)\n\n*You do not need a controller; this costs nothing; VDJ is free and open-sourced.\n\nI am also happy to learn; teach me how you did it.\n\nIn return, I could teach you some DJing.",
         "author": "MyCool-DJ",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@MyCool-DJ/vdj-plugin-dj-tool?t="
     },
     {
@@ -2546,7 +2546,7 @@
         "title": "Chat-GPT based finance and tax web app",
         "description": "I want to create a web app of an AI financial and tax advisor based on GPT-3 trained dataset.\n\nAcceptance Criteria\nFront end: HTML, CSS, and JavaScript or React based \u2013 whichever is the developer\u2019s strength.  Backend using Python and the Flask framework.\nFully functioning site connected to chat-gpt and has the features mentioned below\nPrompt memory: retain previous similar prompts from other users in memory\n\nTechnical Details\nPrior experience with GPT-3 and web apps\n\nLanding page: this will be a simple interface featuring a prompt box for the user to ask their question, a navigation menu, login/sign-up buttons, email subscription input, three buttons underneath the prompt box that will be linked to other pages within the web app. When the user hits submit for the AI prompt, the chat-gpt response will be shown on a new page\n\nResponse page: on the left side of the page the user can continue to chat with the AI. On the right side of the page will be a summary of the ke...",
         "author": "thehousegit",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@thehousegit/chat-gpt-based-finan?t="
     },
     {
@@ -2568,5 +2568,15 @@
         "author": "aethelyon",
         "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@aethelyon/openai-fine-tune-wit?t="
+    },
+    {
+        "index": "257",
+        "price": "$1.89",
+        "due_days": "due in 14 days",
+        "title": "Make a minecraft server with non changeable ip. (ip must not change anytime)",
+        "description": "Make a minecraft server with non changeable ip. (ip must not change anytime)\nAnd dm me after applying :- Just A Kartik#2735",
+        "author": "KartikCodez",
+        "posted_time": "2 minutes ago",
+        "link": "https://replit.com/bounties/@KartikCodez/make-a-minecraft-ser?t="
     }
 ]
