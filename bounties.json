@@ -2556,7 +2556,7 @@
         "title": "Outreach tool",
         "description": "I am attempting to create an outreach tool (via Instagram) to OnlyFans creators who have OnlyFans pages at http://www.onlyfans.com/. They cannot be contacted on OnlyFans, but they can be contacted on other sites like Instagram. Nearly every OnlyFans creator has an Instagram page, often with the same username, e.g. http://www.instagram.com/\n\nSo - I am trying to create a repository of creators with the following fields per creator:\n\nInstagram URL\nInstagram Avatar URL\nNumber of Instagram followers\nOnlyFans URL\nOnlyFans Avatar URL\nNumber of OnlyFans posts\nNumber of OnlyFans likes\n\nYou can create this repository through one or more of the following methods:\nScrape every possible OnlyFans username, and then check to see if an Instagram with the same exact username exists.\nDo the same with every OnlyFans page linked from the pages of https://onlyfinder.com/ and then either use the linked Instagram or assume the same username.\nScrape every instance of Hoo.Be/ urls which lin...",
         "author": "RabbitEars22",
-        "posted_time": "24 minutes ago",
+        "posted_time": "33 minutes ago",
         "link": "https://replit.com/bounties/@RabbitEars22/outreach-tool?t="
     }
 ]
