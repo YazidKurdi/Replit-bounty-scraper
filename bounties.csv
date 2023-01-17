@@ -2103,7 +2103,7 @@ Number of OnlyFans likes
 You can create this repository through one or more of the following methods:
 Scrape every possible OnlyFans username, and then check to see if an Instagram with the same exact username exists.
 Do the same with every OnlyFans page linked from the pages of https://onlyfinder.com/ and then either use the linked Instagram or assume the same username.
-Scrape every instance of Hoo.Be/ urls which lin...",RabbitEars22,13 hours ago,https://replit.com/bounties/@RabbitEars22/outreach-tool?t=
+Scrape every instance of Hoo.Be/ urls which lin...",RabbitEars22,14 hours ago,https://replit.com/bounties/@RabbitEars22/outreach-tool?t=
 256,$45.00,due in 3 days,OpenAI Fine Tune with Blog,"Create a python script that extracts content from a URL, converts it to JSON, and creates a fine-tune model.
 
 Acceptance Criteria
@@ -2157,4 +2157,4 @@ Tone (allow user to select some text, and input a tone, and AI writes it in that
 
 The app should work in most html ``s on any website, and also it must support Gmail and Google Docs most notably. User must be able to enable/disable extension as they wish.
 
-Users will get a 1 week free trial, then have to pay $10 a month to continue the service. For payments you can use the Stripe API. I can provide the API key for GPT or Stripe.",CoderGautamYT,1 hour ago,https://replit.com/bounties/@CoderGautamYT/ai-writer-chrome-ext?t=
+Users will get a 1 week free trial, then have to pay $10 a month to continue the service. For payments you can use the Stripe API. I can provide the API key for GPT or Stripe.",CoderGautamYT,2 hours ago,https://replit.com/bounties/@CoderGautamYT/ai-writer-chrome-ext?t=
