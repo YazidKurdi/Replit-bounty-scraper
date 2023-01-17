@@ -2536,7 +2536,7 @@
         "title": "VDJ Plugin (DJ tool)",
         "description": "* I am a DJ. I can not mix video without affecting audio on scratch mode. *\n\nSolution\n\nUsing 2 video streams and muting one track, mix the other while in sync, one video is muted, and the audio stays unaffected.\n\nI have got this to work without code. I can set this up manually. It should only take a pro about an hour, but if someone wants to learn and take longer, still apply.\n\nI have a patent description for this \u2014 also an example video.\n\nThere is an SDK kit on the website, and they recommend C++\n(Maybe with Ghostwriter, you can convert the code if C++ is not your thing)\n\n[Virtual DJ site] (https://www.virtualdj.com/wiki/Developers)\n\n*You do not need a controller; this costs nothing; VDJ is free and open-sourced.\n\nI am also happy to learn; teach me how you did it.\n\nIn return, I could teach you some DJing.",
         "author": "MyCool-DJ",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@MyCool-DJ/vdj-plugin-dj-tool?t="
     },
     {
