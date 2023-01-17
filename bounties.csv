@@ -2109,7 +2109,7 @@ Scrape every instance of Hoo.Be/ urls which lin...",RabbitEars22,7 hours ago,htt
 Acceptance Criteria
 Input URL and get all pages (eg. http://www.paulgraham.com/articles.html)
 Convert pages into JSON file compatible with Open AI
-Create fine-tune with Open AI (https://beta.openai.com/docs/guides/fine-tuning)",aethelyon,4 hours ago,https://replit.com/bounties/@aethelyon/openai-fine-tune-wit?t=
+Create fine-tune with Open AI (https://beta.openai.com/docs/guides/fine-tuning)",aethelyon,5 hours ago,https://replit.com/bounties/@aethelyon/openai-fine-tune-wit?t=
 257,$1.89,due in 14 days,Make a minecraft server with non changeable ip. (ip must not change anytime),"Make a minecraft server with non changeable ip. (ip must not change anytime)
 And dm me after applying :- Just A Kartik#2735",KartikCodez,1 hour ago,https://replit.com/bounties/@KartikCodez/make-a-minecraft-ser?t=
 258,$18.00,due in 15 days,Script to identify and contact researchers | Node/Python + Hunter.io + GPT,"I want to reach out to relevant researchers via email. The source of potential researchers to contact is an email that contains paper alerts from google scholar. I want to contact all researchers from that email via email with a dynamic template that applauds them for their work and asks for more info.
@@ -2121,4 +2121,4 @@ Technical Details
 Find emails given a name : Hunter.io (You will get an API key from me)
 Flask/FastAPI (Python) or Node-Express (Typescript) for the webserver
 Example HTML of email: https://gist.github.com/tdsone/ccbd56c0820da749d29d938e2e478cc7
-Example screenshot of email:https://tsone.notion....",tsone,24 minutes ago,https://replit.com/bounties/@tsone/script-to-identify-a?t=
+Example screenshot of email:https://tsone.notion....",tsone,32 minutes ago,https://replit.com/bounties/@tsone/script-to-identify-a?t=
