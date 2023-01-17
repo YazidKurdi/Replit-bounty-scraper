@@ -2035,7 +2035,7 @@ Support for a range of inputs including Text, links, styling (bold, italic), hea
 
 Technical Details
 Use node.js, express.js",gehrigk,14 hours ago,https://replit.com/bounties/@gehrigk/function-to-convert?t=
-249,$18.00,due in 13 days,Joke Video Generator Tool,"I want a simple program built in Node.js, that generates a short video from a joke.
+249,$18.00,due in 12 days,Joke Video Generator Tool,"I want a simple program built in Node.js, that generates a short video from a joke.
 
 Acceptance Criteria
 Joke text is stored in a txt file
@@ -2054,7 +2054,7 @@ OR
 
 Add me on discord: sketchxcoding#2620",AstralRBX,13 hours ago,https://replit.com/bounties/@AstralRBX/fix-swordbattleio-ha?t=
 251,$1.22,closed,For EpicCodeWizard to do,This bounty information is on discord,AstralRBX,12 hours ago,https://replit.com/bounties/@AstralRBX/for-epiccodewizard-t?t=
-252,$1.00,closed,also for epiccodewizard,you got the info on discord,AstralRBX,11 hours ago,https://replit.com/bounties/@AstralRBX/also-for-epiccodewiz?t=
+252,$1.00,closed,also for epiccodewizard,you got the info on discord,AstralRBX,12 hours ago,https://replit.com/bounties/@AstralRBX/also-for-epiccodewiz?t=
 253,$50.00,due in 2 months,VDJ Plugin (DJ tool),"* I am a DJ. I can not mix video without affecting audio on scratch mode. *
 
 Solution
@@ -2075,7 +2075,7 @@ There is an SDK kit on the website, and they recommend C++
 I am also happy to learn; teach me how you did it.
 
 In return, I could teach you some DJing.",MyCool-DJ,10 hours ago,https://replit.com/bounties/@MyCool-DJ/vdj-plugin-dj-tool?t=
-254,$630.00,due in 28 days,Chat-GPT based finance and tax web app,"I want to create a web app of an AI financial and tax advisor based on GPT-3 trained dataset.
+254,$630.00,due in 27 days,Chat-GPT based finance and tax web app,"I want to create a web app of an AI financial and tax advisor based on GPT-3 trained dataset.
 
 Acceptance Criteria
 Front end: HTML, CSS, and JavaScript or React based – whichever is the developer’s strength.  Backend using Python and the Flask framework.
@@ -2087,8 +2087,8 @@ Prior experience with GPT-3 and web apps
 
 Landing page: this will be a simple interface featuring a prompt box for the user to ask their question, a navigation menu, login/sign-up buttons, email subscription input, three buttons underneath the prompt box that will be linked to other pages within the web app. When the user hits submit for the AI prompt, the chat-gpt response will be shown on a new page
 
-Response page: on the left side of the page the user can continue to chat with the AI. On the right side of the page will be a summary of the ke...",thehousegit,8 hours ago,https://replit.com/bounties/@thehousegit/chat-gpt-based-finan?t=
-255,$45.00,due in 4 days,Outreach tool,"I am attempting to create an outreach tool (via Instagram) to OnlyFans creators who have OnlyFans pages at http://www.onlyfans.com/. They cannot be contacted on OnlyFans, but they can be contacted on other sites like Instagram. Nearly every OnlyFans creator has an Instagram page, often with the same username, e.g. http://www.instagram.com/
+Response page: on the left side of the page the user can continue to chat with the AI. On the right side of the page will be a summary of the ke...",thehousegit,9 hours ago,https://replit.com/bounties/@thehousegit/chat-gpt-based-finan?t=
+255,$45.00,due in 3 days,Outreach tool,"I am attempting to create an outreach tool (via Instagram) to OnlyFans creators who have OnlyFans pages at http://www.onlyfans.com/. They cannot be contacted on OnlyFans, but they can be contacted on other sites like Instagram. Nearly every OnlyFans creator has an Instagram page, often with the same username, e.g. http://www.instagram.com/
 
 So - I am trying to create a repository of creators with the following fields per creator:
 
@@ -2104,15 +2104,15 @@ You can create this repository through one or more of the following methods:
 Scrape every possible OnlyFans username, and then check to see if an Instagram with the same exact username exists.
 Do the same with every OnlyFans page linked from the pages of https://onlyfinder.com/ and then either use the linked Instagram or assume the same username.
 Scrape every instance of Hoo.Be/ urls which lin...",RabbitEars22,8 hours ago,https://replit.com/bounties/@RabbitEars22/outreach-tool?t=
-256,$45.00,due in 4 days,OpenAI Fine Tune with Blog,"Create a python script that extracts content from a URL, converts it to JSON, and creates a fine-tune model.
+256,$45.00,due in 3 days,OpenAI Fine Tune with Blog,"Create a python script that extracts content from a URL, converts it to JSON, and creates a fine-tune model.
 
 Acceptance Criteria
 Input URL and get all pages (eg. http://www.paulgraham.com/articles.html)
 Convert pages into JSON file compatible with Open AI
 Create fine-tune with Open AI (https://beta.openai.com/docs/guides/fine-tuning)",aethelyon,5 hours ago,https://replit.com/bounties/@aethelyon/openai-fine-tune-wit?t=
-257,$1.89,due in 14 days,Make a minecraft server with non changeable ip. (ip must not change anytime),"Make a minecraft server with non changeable ip. (ip must not change anytime)
-And dm me after applying :- Just A Kartik#2735",KartikCodez,1 hour ago,https://replit.com/bounties/@KartikCodez/make-a-minecraft-ser?t=
-258,$18.00,due in 15 days,Script to identify and contact researchers | Node/Python + Hunter.io + GPT,"I want to reach out to relevant researchers via email. The source of potential researchers to contact is an email that contains paper alerts from google scholar. I want to contact all researchers from that email via email with a dynamic template that applauds them for their work and asks for more info.
+257,$1.89,due in 13 days,Make a minecraft server with non changeable ip. (ip must not change anytime),"Make a minecraft server with non changeable ip. (ip must not change anytime)
+And dm me after applying :- Just A Kartik#2735",KartikCodez,2 hours ago,https://replit.com/bounties/@KartikCodez/make-a-minecraft-ser?t=
+258,$18.00,due in 14 days,Script to identify and contact researchers | Node/Python + Hunter.io + GPT,"I want to reach out to relevant researchers via email. The source of potential researchers to contact is an email that contains paper alerts from google scholar. I want to contact all researchers from that email via email with a dynamic template that applauds them for their work and asks for more info.
 
 Acceptance Criteria
 A webserver in python or node (typescript) that accepts an email body and returns a list of researchers with their email addresses as well as html formatted text to reach out to each researcher. I will give you a number of test emails and will hold out a number of  further emails that I will very your solution against (think of it as the private test set).
@@ -2121,4 +2121,4 @@ Technical Details
 Find emails given a name : Hunter.io (You will get an API key from me)
 Flask/FastAPI (Python) or Node-Express (Typescript) for the webserver
 Example HTML of email: https://gist.github.com/tdsone/ccbd56c0820da749d29d938e2e478cc7
-Example screenshot of email:https://tsone.notion....",tsone,41 minutes ago,https://replit.com/bounties/@tsone/script-to-identify-a?t=
+Example screenshot of email:https://tsone.notion....",tsone,1 hour ago,https://replit.com/bounties/@tsone/script-to-identify-a?t=
