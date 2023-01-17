@@ -2556,7 +2556,7 @@
         "title": "Outreach tool",
         "description": "I am attempting to create an outreach tool (via Instagram) to OnlyFans creators who have OnlyFans pages at http://www.onlyfans.com/. They cannot be contacted on OnlyFans, but they can be contacted on other sites like Instagram. Nearly every OnlyFans creator has an Instagram page, often with the same username, e.g. http://www.instagram.com/\n\nSo - I am trying to create a repository of creators with the following fields per creator:\n\nInstagram URL\nInstagram Avatar URL\nNumber of Instagram followers\nOnlyFans URL\nOnlyFans Avatar URL\nNumber of OnlyFans posts\nNumber of OnlyFans likes\n\nYou can create this repository through one or more of the following methods:\nScrape every possible OnlyFans username, and then check to see if an Instagram with the same exact username exists.\nDo the same with every OnlyFans page linked from the pages of https://onlyfinder.com/ and then either use the linked Instagram or assume the same username.\nScrape every instance of Hoo.Be/ urls which lin...",
         "author": "RabbitEars22",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@RabbitEars22/outreach-tool?t="
     },
     {
@@ -2586,7 +2586,7 @@
         "title": "Script to identify and contact researchers | Node/Python + Hunter.io + GPT",
         "description": "I want to reach out to relevant researchers via email. The source of potential researchers to contact is an email that contains paper alerts from google scholar. I want to contact all researchers from that email via email with a dynamic template that applauds them for their work and asks for more info.\n\nAcceptance Criteria\nA webserver in python or node (typescript) that accepts an email body and returns a list of researchers with their email addresses as well as html formatted text to reach out to each researcher. I will give you a number of test emails and will hold out a number of  further emails that I will very your solution against (think of it as the private test set).\n\nTechnical Details\nFind emails given a name : Hunter.io (You will get an API key from me)\nFlask/FastAPI (Python) or Node-Express (Typescript) for the webserver\nExample HTML of email: https://gist.github.com/tdsone/ccbd56c0820da749d29d938e2e478cc7\nExample screenshot of email:https://tsone.notion....",
         "author": "tsone",
-        "posted_time": "32 minutes ago",
+        "posted_time": "41 minutes ago",
         "link": "https://replit.com/bounties/@tsone/script-to-identify-a?t="
     }
 ]
