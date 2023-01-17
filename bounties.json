@@ -2486,7 +2486,7 @@
         "title": "Function to convert Notion page to portable text",
         "description": "We pull data from Notion pages and want to convert the JSON data received to portable text.\n\nAcceptance Criteria\nReceive a request that includes a Notion page from Notion JS API\nRespond in json matching Sanity's portable text\nSupport for a range of inputs including Text, links, styling (bold, italic), headers, lists (bullet, numbered), and images.\n\nTechnical Details\nUse node.js, express.js",
         "author": "gehrigk",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@gehrigk/function-to-convert?t="
     },
     {
@@ -2526,7 +2526,7 @@
         "title": "also for epiccodewizard",
         "description": "you got the info on discord",
         "author": "AstralRBX",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@AstralRBX/also-for-epiccodewiz?t="
     },
     {
@@ -2566,7 +2566,7 @@
         "title": "OpenAI Fine Tune with Blog",
         "description": "Create a python script that extracts content from a URL, converts it to JSON, and creates a fine-tune model.\n\nAcceptance Criteria\nInput URL and get all pages (eg. http://www.paulgraham.com/articles.html)\nConvert pages into JSON file compatible with Open AI\nCreate fine-tune with Open AI (https://beta.openai.com/docs/guides/fine-tuning)",
         "author": "aethelyon",
-        "posted_time": "42 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@aethelyon/openai-fine-tune-wit?t="
     }
 ]

@@ -2034,7 +2034,7 @@ Respond in json matching Sanity's portable text
 Support for a range of inputs including Text, links, styling (bold, italic), headers, lists (bullet, numbered), and images.
 
 Technical Details
-Use node.js, express.js",gehrigk,10 hours ago,https://replit.com/bounties/@gehrigk/function-to-convert?t=
+Use node.js, express.js",gehrigk,11 hours ago,https://replit.com/bounties/@gehrigk/function-to-convert?t=
 249,$18.00,due in 13 days,Joke Video Generator Tool,"I want a simple program built in Node.js, that generates a short video from a joke.
 
 Acceptance Criteria
@@ -2054,7 +2054,7 @@ OR
 
 Add me on discord: sketchxcoding#2620",AstralRBX,9 hours ago,https://replit.com/bounties/@AstralRBX/fix-swordbattleio-ha?t=
 251,$1.22,closed,For EpicCodeWizard to do,This bounty information is on discord,AstralRBX,8 hours ago,https://replit.com/bounties/@AstralRBX/for-epiccodewizard-t?t=
-252,$1.00,closed,also for epiccodewizard,you got the info on discord,AstralRBX,7 hours ago,https://replit.com/bounties/@AstralRBX/also-for-epiccodewiz?t=
+252,$1.00,closed,also for epiccodewizard,you got the info on discord,AstralRBX,8 hours ago,https://replit.com/bounties/@AstralRBX/also-for-epiccodewiz?t=
 253,$50.00,due in 2 months,VDJ Plugin (DJ tool),"* I am a DJ. I can not mix video without affecting audio on scratch mode. *
 
 Solution
@@ -2109,4 +2109,4 @@ Scrape every instance of Hoo.Be/ urls which lin...",RabbitEars22,4 hours ago,htt
 Acceptance Criteria
 Input URL and get all pages (eg. http://www.paulgraham.com/articles.html)
 Convert pages into JSON file compatible with Open AI
-Create fine-tune with Open AI (https://beta.openai.com/docs/guides/fine-tuning)",aethelyon,42 minutes ago,https://replit.com/bounties/@aethelyon/openai-fine-tune-wit?t=
+Create fine-tune with Open AI (https://beta.openai.com/docs/guides/fine-tuning)",aethelyon,1 hour ago,https://replit.com/bounties/@aethelyon/openai-fine-tune-wit?t=
