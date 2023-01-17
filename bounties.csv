@@ -2157,7 +2157,7 @@ Tone (allow user to select some text, and input a tone, and AI writes it in that
 
 The app should work in most html ``s on any website, and also it must support Gmail and Google Docs most notably. User must be able to enable/disable extension as they wish.
 
-Users will get a 1 week free trial, then have to pay $10 a month to continue the service. For payments you can use the Stripe API. I can provide the API key for GPT or Stripe.",CoderGautamYT,6 hours ago,https://replit.com/bounties/@CoderGautamYT/ai-writer-chrome-ext?t=
+Users will get a 1 week free trial, then have to pay $10 a month to continue the service. For payments you can use the Stripe API. I can provide the API key for GPT or Stripe.",CoderGautamYT,7 hours ago,https://replit.com/bounties/@CoderGautamYT/ai-writer-chrome-ext?t=
 263,$50.00,closed,AI Writer Chrome Extension,"I would like to create an AI Writer Chrome Extension using GPT-3.
 
 It should mainly have 3 features:
@@ -2179,7 +2179,7 @@ Tone (allow user to select some text, and input a tone, and AI writes it in that
 The app should work in most html s on any website, also it must support Gmail and Google Docs. User must be able to enable/disable extension as they wish.
 
 Users should have to sign in via google to use the extension, and usage data for all the users should be stored in a database. The code should be secure and follow good coding practices.",CoderGautamYT,3 hours ago,https://replit.com/bounties/@CoderGautamYT/ai-writing-chrome-ex?t=
-265,$100.00,due in 20 days,GPT-3 AI Writer Chrome Extension,"I would like to create an AI Writer Chrome Extension using GPT-3.
+265,$100.00,due in 19 days,GPT-3 AI Writer Chrome Extension,"I would like to create an AI Writer Chrome Extension using GPT-3.
 
 It should mainly have 3 features:
 
@@ -2192,3 +2192,4 @@ The app should work in most textareas on any website, also it must support Gmail
 Users should have to sign in via google to use the extension, and usage data for all the users should be stored in a database. The code should be secure and follow good coding practices.
 
 Must finish within the due date.",CoderGautamYT,3 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt-3-ai-writer-chro?t=
+266,$18.00,due in 13 days,Swordbattle Hall Of Fame,Create a hall of fame with swordbattle's best players,CoderGautamYT,15 seconds ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-hall-of?t=
