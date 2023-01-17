@@ -2109,7 +2109,7 @@ Scrape every instance of Hoo.Be/ urls which lin...",RabbitEars22,15 hours ago,ht
 Acceptance Criteria
 Input URL and get all pages (eg. http://www.paulgraham.com/articles.html)
 Convert pages into JSON file compatible with Open AI
-Create fine-tune with Open AI (https://beta.openai.com/docs/guides/fine-tuning)",aethelyon,12 hours ago,https://replit.com/bounties/@aethelyon/openai-fine-tune-wit?t=
+Create fine-tune with Open AI (https://beta.openai.com/docs/guides/fine-tuning)",aethelyon,13 hours ago,https://replit.com/bounties/@aethelyon/openai-fine-tune-wit?t=
 257,$1.89,due in 13 days,Make a minecraft server with non changeable ip. (ip must not change anytime),"Make a minecraft server with non changeable ip. (ip must not change anytime)
 And dm me after applying :- Just A Kartik#2735",KartikCodez,9 hours ago,https://replit.com/bounties/@KartikCodez/make-a-minecraft-ser?t=
 258,$18.00,due in 14 days,Script to identify and contact researchers | Node/Python + Hunter.io + GPT,"I want to reach out to relevant researchers via email. The source of potential researchers to contact is an email that contains paper alerts from google scholar. I want to contact all researchers from that email via email with a dynamic template that applauds them for their work and asks for more info.
@@ -2121,7 +2121,7 @@ Technical Details
 Find emails given a name : Hunter.io (You will get an API key from me)
 Flask/FastAPI (Python) or Node-Express (Typescript) for the webserver
 Example HTML of email: https://gist.github.com/tdsone/ccbd56c0820da749d29d938e2e478cc7
-Example screenshot of email:https://tsone.notion....",tsone,8 hours ago,https://replit.com/bounties/@tsone/script-to-identify-a?t=
+Example screenshot of email:https://tsone.notion....",tsone,9 hours ago,https://replit.com/bounties/@tsone/script-to-identify-a?t=
 259,$360.00,closed,Quora App with GPT-3,"I want to build an app similar to Quora, where users can ask and answer questions, plus with GPT-3 that also answers questions! The app must be in React + Node.js or Next.js!!!
 
 Acceptance Criteria
@@ -2129,7 +2129,7 @@ Home page: Shows a view of popular questions currently neatly as cards, would be
 
 Login / Signup: Users should be able to use either email or google to log in or sign up. Users will receive 10 free credits per month, which can be used to answer questions. A balance of a user's credits will be shown in the navbar once logged in. After a user signs up, there will be a short onboarding screen where users are prompted to set their username, avatar, and bio.
 
-Settings view: There is an option to open this view from the navbar, if a user is signed in. It should have options to modify a user’s usernam...",CoderGautamYT,5 hours ago,https://replit.com/bounties/@CoderGautamYT/quora-app-with-gpt-3?t=
+Settings view: There is an option to open this view from the navbar, if a user is signed in. It should have options to modify a user’s usernam...",CoderGautamYT,6 hours ago,https://replit.com/bounties/@CoderGautamYT/quora-app-with-gpt-3?t=
 260,$22.50,closed,GPT-3 Google Docs addon,"I would like to create a Google Docs addon for GPT-3.
 
  It should mainly have 2 features:
