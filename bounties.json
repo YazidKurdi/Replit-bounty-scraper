@@ -2566,7 +2566,7 @@
         "title": "OpenAI Fine Tune with Blog",
         "description": "Create a python script that extracts content from a URL, converts it to JSON, and creates a fine-tune model.\n\nAcceptance Criteria\nInput URL and get all pages (eg. http://www.paulgraham.com/articles.html)\nConvert pages into JSON file compatible with Open AI\nCreate fine-tune with Open AI (https://beta.openai.com/docs/guides/fine-tuning)",
         "author": "aethelyon",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@aethelyon/openai-fine-tune-wit?t="
     },
     {
@@ -2586,7 +2586,7 @@
         "title": "Script to identify and contact researchers | Node/Python + Hunter.io + GPT",
         "description": "I want to reach out to relevant researchers via email. The source of potential researchers to contact is an email that contains paper alerts from google scholar. I want to contact all researchers from that email via email with a dynamic template that applauds them for their work and asks for more info.\n\nAcceptance Criteria\nA webserver in python or node (typescript) that accepts an email body and returns a list of researchers with their email addresses as well as html formatted text to reach out to each researcher. I will give you a number of test emails and will hold out a number of  further emails that I will very your solution against (think of it as the private test set).\n\nTechnical Details\nFind emails given a name : Hunter.io (You will get an API key from me)\nFlask/FastAPI (Python) or Node-Express (Typescript) for the webserver\nExample HTML of email: https://gist.github.com/tdsone/ccbd56c0820da749d29d938e2e478cc7\nExample screenshot of email:https://tsone.notion....",
         "author": "tsone",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@tsone/script-to-identify-a?t="
     },
     {
@@ -2596,7 +2596,7 @@
         "title": "Quora App with GPT-3",
         "description": "I want to build an app similar to Quora, where users can ask and answer questions, plus with GPT-3 that also answers questions! The app must be in React + Node.js or Next.js!!!\n\nAcceptance Criteria\nHome page: Shows a view of popular questions currently neatly as cards, would be nice if it looks similar to quora's home page.  Would be nice if the user was recommended questions that they can answer. There should be a navbar with options to log in / sign up.\n\nLogin / Signup: Users should be able to use either email or google to log in or sign up. Users will receive 10 free credits per month, which can be used to answer questions. A balance of a user's credits will be shown in the navbar once logged in. After a user signs up, there will be a short onboarding screen where users are prompted to set their username, avatar, and bio.\n\nSettings view: There is an option to open this view from the navbar, if a user is signed in. It should have options to modify a user\u2019s usernam...",
         "author": "CoderGautamYT",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/quora-app-with-gpt-3?t="
     },
     {
@@ -2636,7 +2636,7 @@
         "title": "AI Writer Chrome Extension",
         "description": "I would like to create an AI Writer Chrome Extension using GPT-3.\n\nIt should mainly have 3 features:\n\nAutocomplete (complete text while typing)\nGrammar (allow user to select some text and AI writes it a different way with better grammar, punctuation etc)\nTone (allow user to select some text, and input a tone, and AI writes it in that tone)\n\nThe app should work in most html s on any website, also it must support Gmail and Google Docs. User must be able to enable/disable extension as they wish.\n\nUsers should have to sign in via google to use the extension, and usage data for all the users should be stored in a database. The code should be secure and follow good coding practices.",
         "author": "CoderGautamYT",
-        "posted_time": "43 minutes ago",
+        "posted_time": "53 minutes ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/ai-writer-chrome-ext-1?t="
     },
     {
@@ -2646,7 +2646,7 @@
         "title": "AI Writing Chrome extension",
         "description": "I would like to create an AI Writer Chrome Extension using GPT-3.\n\nIt should mainly have 3 features:\n\nAutocomplete (complete text while typing)\nGrammar (allow user to select some text and AI writes it a different way with better grammar, punctuation etc)\nTone (allow user to select some text, and input a tone, and AI writes it in that tone)\nThe app should work in most html s on any website, also it must support Gmail and Google Docs. User must be able to enable/disable extension as they wish.\n\nUsers should have to sign in via google to use the extension, and usage data for all the users should be stored in a database. The code should be secure and follow good coding practices.",
         "author": "CoderGautamYT",
-        "posted_time": "42 minutes ago",
+        "posted_time": "52 minutes ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/ai-writing-chrome-ex?t="
     },
     {
@@ -2656,7 +2656,7 @@
         "title": "GPT-3 AI Writer Chrome Extension",
         "description": "I would like to create an AI Writer Chrome Extension using GPT-3.\n\nIt should mainly have 3 features:\n\nAutocomplete (complete text while typing)\nGrammar (allow user to select some text and AI writes it a different way with better grammar, punctuation etc)\nTone (allow user to select some text, and input a tone, and AI writes it in that tone)\n\nThe app should work in most textareas on any website, also it must support Gmail and Google Docs. User must be able to enable/disable extension as they wish.\n\nUsers should have to sign in via google to use the extension, and usage data for all the users should be stored in a database. The code should be secure and follow good coding practices.\n\nMust finish within the due date.",
         "author": "CoderGautamYT",
-        "posted_time": "23 minutes ago",
+        "posted_time": "32 minutes ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/gpt-3-ai-writer-chro?t="
     }
 ]
