@@ -2566,7 +2566,7 @@
         "title": "OpenAI Fine Tune with Blog",
         "description": "Create a python script that extracts content from a URL, converts it to JSON, and creates a fine-tune model.\n\nAcceptance Criteria\nInput URL and get all pages (eg. http://www.paulgraham.com/articles.html)\nConvert pages into JSON file compatible with Open AI\nCreate fine-tune with Open AI (https://beta.openai.com/docs/guides/fine-tuning)",
         "author": "aethelyon",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@aethelyon/openai-fine-tune-wit?t="
     },
     {
@@ -2576,7 +2576,7 @@
         "title": "Make a minecraft server with non changeable ip. (ip must not change anytime)",
         "description": "Make a minecraft server with non changeable ip. (ip must not change anytime)\nAnd dm me after applying :- Just A Kartik#2735",
         "author": "KartikCodez",
-        "posted_time": "11 minutes ago",
+        "posted_time": "18 minutes ago",
         "link": "https://replit.com/bounties/@KartikCodez/make-a-minecraft-ser?t="
     }
 ]
