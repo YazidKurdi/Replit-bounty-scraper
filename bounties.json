@@ -2616,7 +2616,7 @@
         "title": "GPT-3 Google Docs Addon",
         "description": "I would like to create a Google Docs addon for GPT-3.\n\nIt should mainly have 3 features:\n\nAutocomplete (complete text while their typing)\nGrammar (allow user to select some text and AI writes it a different way with better grammar punctuation etc)\nTone (allow user to select some text, and input a tone, and AI writes it in that tone)\n\nUsers will get a 1 week free trial, then have to pay $10 a month to continue the service. For payments you can use the Stripe API. The app must be coded in JavaScript, and I can provide the API key for GPT or Stripe.",
         "author": "CoderGautamYT",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/gpt-3-google-docs-ad-1?t="
     },
     {
@@ -2676,7 +2676,7 @@
         "title": "JS Perlin noise",
         "description": "I would like the terrain to be generated with Perlin noise.\n\nAcceptance Criteria\nTerrain generated with Perlin noise, I have built one in python but I'm not as familiar with js. Id be ok with using packages or anyway to get this done.",
         "author": "YellowSquash262",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@YellowSquash262/js-perlin-noise?t="
     },
     {
@@ -2706,7 +2706,7 @@
         "title": "Vue.js: Generate Adobe Illustrator extension boilerplate with sign in and home screen",
         "description": "The goal of the bounty is to develop an Adobe Illustrator extension (adobe CEP) with Vue.js, and add a sign in screen which redirects to a home screen.\n\nI'd like to use this:\nhttps://github.com/hyperbrew/bolt-cep\nhttps://github.com/Adobe-CEP/CEP-Resources\n\nSo the goal is to generate a new app with this library (vue mode), and add two screen:\nLogin: fill in password, email, and post to our API to get a JWT\nHome: once logged in, being redirected to a different page (and different vue component) displaying the signed in user's info (returned by the API)\nUser data should be stored within a Pinia (https://pinia.vuejs.org) store\n\nTo validate the bounty, it should be possible to open the extension within Adobe Illustrator and login through our API.",
         "author": "MatthiasRichard",
-        "posted_time": "47 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@MatthiasRichard/vuejs-generate-adobe?t="
     }
 ]
