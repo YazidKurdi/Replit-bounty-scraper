@@ -2756,7 +2756,7 @@
         "title": "Create a Javascript Tutorial from existing videos and notes",
         "description": "We have an existing Javascript playlist of ~100 videos with associated PDF notes. This playlist needs to be converted into a Javascript tutorial using this documentation (https://building-templates.davidatreplit.repl.co/) and the PDF notes need to be converted into markdown files. This does not require any coding knowledge per se but feel free to write a program to automate this conversion into Tutorials.\n\nAs a bonus incentive, you'll get to work directly with CodeWithHarry on this!\n\nAcceptance Criteria\nA complete Javascript playlist with all 100 lessons and associated Repls.",
         "author": "anshul",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@anshul/create-a-javascript?t="
     },
     {
