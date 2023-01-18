@@ -2196,7 +2196,7 @@ Must finish within the due date.",CoderGautamYT,22 hours ago,https://replit.com/
 267,$1.17,closed,JS Perlin noise,"I would like the terrain to be generated with Perlin noise.
 
 Acceptance Criteria
-Terrain generated with Perlin noise, I have built one in python but I'm not as familiar with js. Id be ok with using packages or anyway to get this done.",YellowSquash262,19 hours ago,https://replit.com/bounties/@YellowSquash262/js-perlin-noise?t=
+Terrain generated with Perlin noise, I have built one in python but I'm not as familiar with js. Id be ok with using packages or anyway to get this done.",YellowSquash262,20 hours ago,https://replit.com/bounties/@YellowSquash262/js-perlin-noise?t=
 268,$18.00,due in 3 days,Plaid -> Foursquare API,"I'd like a simple web tool.
 
 The page should use Plaid to allow a user to login with their bank. For our example we will use an American Express credit card.
@@ -2237,7 +2237,7 @@ Acceptance Criteria
 
 Your solution should be written in Python (since the people using this are mostly Pythonistas). I should be able to easily run this and launch a web UI where I can select a model from HuggingFace, and have a UI experience that's hard to distinguish from the OpenAI playground.
 
-At minimum you should be able to load models locally. For extra credit, consider adding support for remotely inferencing models on huggingface, modal, replicate, cohere, etc.",natfriedman,12 hours ago,https://replit.com/bounties/@natfriedman/openai-playground-fo?t=
+At minimum you should be able to load models locally. For extra credit, consider adding support for remotely inferencing models on huggingface, modal, replicate, cohere, etc.",natfriedman,13 hours ago,https://replit.com/bounties/@natfriedman/openai-playground-fo?t=
 272,$54.00,due in 6 days,Docusaurus with Firebase Auth,"Users should have access to a complete authentication experience (specifics in acceptance criteria).
 
 An unauthenticated user should be able to see no documentation pages, but have access to the blog, and all pages. Should be a button that switches login / logout functionality based on authentication status.
