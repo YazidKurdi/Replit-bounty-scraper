@@ -2756,7 +2756,7 @@
         "title": "Create a Javascript Tutorial from existing videos and notes",
         "description": "We have an existing Javascript playlist of ~100 videos with associated PDF notes. This playlist needs to be converted into a Javascript tutorial using this documentation (https://building-templates.davidatreplit.repl.co/) and the PDF notes need to be converted into markdown files. This does not require any coding knowledge per se but feel free to write a program to automate this conversion into Tutorials.\n\nAs a bonus incentive, you'll get to work directly with CodeWithHarry on this!\n\nAcceptance Criteria\nA complete Javascript playlist with all 100 lessons and associated Repls.",
         "author": "anshul",
-        "posted_time": "56 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@anshul/create-a-javascript?t="
     },
     {
@@ -2766,7 +2766,7 @@
         "title": "Basic Plaid setup",
         "description": "Create an extremely basic web app that uses Plaid to allow a user to log in to their financial institution. Make sure the access token is saved in an easy to access database.\n\nJust put blank variables for the client id and secret and I will enter those in when evaluating",
         "author": "MitchellTroyano",
-        "posted_time": "33 minutes ago",
+        "posted_time": "40 minutes ago",
         "link": "https://replit.com/bounties/@MitchellTroyano/basic-plaid-setup?t="
     }
 ]
