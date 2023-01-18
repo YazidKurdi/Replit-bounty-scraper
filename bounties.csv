@@ -2121,7 +2121,7 @@ Technical Details
 Find emails given a name : Hunter.io (You will get an API key from me)
 Flask/FastAPI (Python) or Node-Express (Typescript) for the webserver
 Example HTML of email: https://gist.github.com/tdsone/ccbd56c0820da749d29d938e2e478cc7
-Example screenshot of email:https://tsone.notion....",tsone,15 hours ago,https://replit.com/bounties/@tsone/script-to-identify-a?t=
+Example screenshot of email:https://tsone.notion....",tsone,16 hours ago,https://replit.com/bounties/@tsone/script-to-identify-a?t=
 259,$360.00,closed,Quora App with GPT-3,"I want to build an app similar to Quora, where users can ask and answer questions, plus with GPT-3 that also answers questions! The app must be in React + Node.js or Next.js!!!
 
 Acceptance Criteria
@@ -2129,7 +2129,7 @@ Home page: Shows a view of popular questions currently neatly as cards, would be
 
 Login / Signup: Users should be able to use either email or google to log in or sign up. Users will receive 10 free credits per month, which can be used to answer questions. A balance of a user's credits will be shown in the navbar once logged in. After a user signs up, there will be a short onboarding screen where users are prompted to set their username, avatar, and bio.
 
-Settings view: There is an option to open this view from the navbar, if a user is signed in. It should have options to modify a user’s usernam...",CoderGautamYT,12 hours ago,https://replit.com/bounties/@CoderGautamYT/quora-app-with-gpt-3?t=
+Settings view: There is an option to open this view from the navbar, if a user is signed in. It should have options to modify a user’s usernam...",CoderGautamYT,13 hours ago,https://replit.com/bounties/@CoderGautamYT/quora-app-with-gpt-3?t=
 260,$22.50,closed,GPT-3 Google Docs addon,"I would like to create a Google Docs addon for GPT-3.
 
  It should mainly have 2 features:
@@ -2137,7 +2137,7 @@ Autocomplete (complete text while their typing)
 Grammar (allow user to select some text and AI writes it a different way with better grammar punctuation etc)
 Tone (allow user to select some text, and input a tone, and AI writes it in that tone)
 
-Users will get a 1 week free trial, then have to pay $10 a month to continue the service. For payments you can use the Stripe API. The app must be coded in JavaScript, and I can provide the API key for GPT or Stripe.",CoderGautamYT,11 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt-3-google-docs-ad?t=
+Users will get a 1 week free trial, then have to pay $10 a month to continue the service. For payments you can use the Stripe API. The app must be coded in JavaScript, and I can provide the API key for GPT or Stripe.",CoderGautamYT,12 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt-3-google-docs-ad?t=
 261,$45.00,closed,GPT-3 Google Docs Addon,"I would like to create a Google Docs addon for GPT-3.
 
 It should mainly have 3 features:
@@ -2157,7 +2157,7 @@ Tone (allow user to select some text, and input a tone, and AI writes it in that
 
 The app should work in most html ``s on any website, and also it must support Gmail and Google Docs most notably. User must be able to enable/disable extension as they wish.
 
-Users will get a 1 week free trial, then have to pay $10 a month to continue the service. For payments you can use the Stripe API. I can provide the API key for GPT or Stripe.",CoderGautamYT,10 hours ago,https://replit.com/bounties/@CoderGautamYT/ai-writer-chrome-ext?t=
+Users will get a 1 week free trial, then have to pay $10 a month to continue the service. For payments you can use the Stripe API. I can provide the API key for GPT or Stripe.",CoderGautamYT,11 hours ago,https://replit.com/bounties/@CoderGautamYT/ai-writer-chrome-ext?t=
 263,$50.00,closed,AI Writer Chrome Extension,"I would like to create an AI Writer Chrome Extension using GPT-3.
 
 It should mainly have 3 features:
@@ -2168,7 +2168,7 @@ Tone (allow user to select some text, and input a tone, and AI writes it in that
 
 The app should work in most html s on any website, also it must support Gmail and Google Docs. User must be able to enable/disable extension as they wish.
 
-Users should have to sign in via google to use the extension, and usage data for all the users should be stored in a database. The code should be secure and follow good coding practices.",CoderGautamYT,6 hours ago,https://replit.com/bounties/@CoderGautamYT/ai-writer-chrome-ext-1?t=
+Users should have to sign in via google to use the extension, and usage data for all the users should be stored in a database. The code should be secure and follow good coding practices.",CoderGautamYT,7 hours ago,https://replit.com/bounties/@CoderGautamYT/ai-writer-chrome-ext-1?t=
 264,$50.00,closed,AI Writing Chrome extension,"I would like to create an AI Writer Chrome Extension using GPT-3.
 
 It should mainly have 3 features:
@@ -2178,8 +2178,8 @@ Grammar (allow user to select some text and AI writes it a different way with be
 Tone (allow user to select some text, and input a tone, and AI writes it in that tone)
 The app should work in most html s on any website, also it must support Gmail and Google Docs. User must be able to enable/disable extension as they wish.
 
-Users should have to sign in via google to use the extension, and usage data for all the users should be stored in a database. The code should be secure and follow good coding practices.",CoderGautamYT,6 hours ago,https://replit.com/bounties/@CoderGautamYT/ai-writing-chrome-ex?t=
-265,$100.00,due in 16 days,GPT-3 AI Writer Chrome Extension,"I would like to create an AI Writer Chrome Extension using GPT-3.
+Users should have to sign in via google to use the extension, and usage data for all the users should be stored in a database. The code should be secure and follow good coding practices.",CoderGautamYT,7 hours ago,https://replit.com/bounties/@CoderGautamYT/ai-writing-chrome-ex?t=
+265,$100.00,due in 1 month,GPT-3 AI Writer Chrome Extension,"I would like to create an AI Writer Chrome Extension using GPT-3.
 
 It should mainly have 3 features:
 
@@ -2191,9 +2191,9 @@ The app should work in most textareas on any website, also it must support Gmail
 
 Users should have to sign in via google to use the extension, and usage data for all the users should be stored in a database. The code should be secure and follow good coding practices.
 
-Must finish within the due date.",CoderGautamYT,6 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt-3-ai-writer-chro?t=
-266,$18.00,due in 13 days,Swordbattle Hall Of Fame,Create a hall of fame with swordbattle's best players,CoderGautamYT,3 hours ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-hall-of?t=
-267,$1.17,due in 13 days,JS Perlin noise,"I would like the terrain to be generated with Perlin noise.
+Must finish within the due date.",CoderGautamYT,7 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt-3-ai-writer-chro?t=
+266,$18.00,due in 13 days,Swordbattle Hall Of Fame,Create a hall of fame with swordbattle's best players,CoderGautamYT,4 hours ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-hall-of?t=
+267,$1.17,closed,JS Perlin noise,"I would like the terrain to be generated with Perlin noise.
 
 Acceptance Criteria
-Terrain generated with Perlin noise, I have built one in python but I'm not as familiar with js. Id be ok with using packages or anyway to get this done.",YellowSquash262,40 minutes ago,https://replit.com/bounties/@YellowSquash262/js-perlin-noise?t=
+Terrain generated with Perlin noise, I have built one in python but I'm not as familiar with js. Id be ok with using packages or anyway to get this done.",YellowSquash262,1 hour ago,https://replit.com/bounties/@YellowSquash262/js-perlin-noise?t=
