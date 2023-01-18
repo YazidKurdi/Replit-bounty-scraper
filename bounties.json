@@ -2676,7 +2676,7 @@
         "title": "JS Perlin noise",
         "description": "I would like the terrain to be generated with Perlin noise.\n\nAcceptance Criteria\nTerrain generated with Perlin noise, I have built one in python but I'm not as familiar with js. Id be ok with using packages or anyway to get this done.",
         "author": "YellowSquash262",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@YellowSquash262/js-perlin-noise?t="
     },
     {
@@ -2716,7 +2716,7 @@
         "title": "Playground for local models",
         "description": "The goal is to create a web UI like the OpenAI playground that can be used to test your own models (e.g. a T5 finetune). This would require having all the nice UI features of the OpenAI playground, including:\n\nmodel selection\ngeneration parameter selection (temp, max length, etc).\nstop sequence, start text, restart text\nthe ability to show probabilities\ngreen text that behaves like the OpenAI green text\nundo / regenerate buttons\nsaving/loading presets\n\nAcceptance Criteria\n\nYour solution should be written in Python (since the people using this are mostly Pythonistas). I should be able to easily run this and launch a web UI where I can select a model from HuggingFace, and have a UI experience that's hard to distinguish from the OpenAI playground.\n\nAt minimum you should be able to load models locally. For extra credit, consider adding support for remotely inferencing models on huggingface, modal, replicate, cohere, etc.",
         "author": "natfriedman",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@natfriedman/openai-playground-fo?t="
     },
     {
