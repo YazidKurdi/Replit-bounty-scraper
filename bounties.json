@@ -2666,7 +2666,7 @@
         "title": "Swordbattle Hall Of Fame",
         "description": "Create a hall of fame with swordbattle's best players",
         "author": "CoderGautamYT",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/swordbattle-hall-of?t="
     },
     {
@@ -2686,7 +2686,7 @@
         "title": "Plaid -> Foursquare API",
         "description": "I'd like a simple web tool.\n\nThe page should use Plaid to allow a user to login with their bank. For our example we will use an American Express credit card.\n\nOnce the user logs in, you will need to load every transaction.\n\nLook up each merchant sing Foursquare's POI API. Filter out anything not categorized as a restaurant or bar\n\nPlease print an HTML table with merchant, date, amount, and Foursquare URL.",
         "author": "RabbitEars22",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@RabbitEars22/plaid-greater-foursq?t="
     },
     {
