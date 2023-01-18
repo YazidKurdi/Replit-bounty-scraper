@@ -2686,7 +2686,7 @@
         "title": "Plaid -> Foursquare API",
         "description": "I'd like a simple web tool.\n\nThe page should use Plaid to allow a user to login with their bank. For our example we will use an American Express credit card.\n\nOnce the user logs in, you will need to load every transaction.\n\nLook up each merchant sing Foursquare's POI API. Filter out anything not categorized as a restaurant or bar\n\nPlease print an HTML table with merchant, date, amount, and Foursquare URL.",
         "author": "RabbitEars22",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@RabbitEars22/plaid-greater-foursq?t="
     },
     {
@@ -2706,7 +2706,7 @@
         "title": "Vue.js: Generate Adobe Illustrator extension boilerplate with sign in and home screen",
         "description": "The goal of the bounty is to develop an Adobe Illustrator extension (adobe CEP) with Vue.js, and add a sign in screen which redirects to a home screen.\n\nI'd like to use this:\nhttps://github.com/hyperbrew/bolt-cep\nhttps://github.com/Adobe-CEP/CEP-Resources\n\nSo the goal is to generate a new app with this library (vue mode), and add two screen:\nLogin: fill in password, email, and post to our API to get a JWT\nHome: once logged in, being redirected to a different page (and different vue component) displaying the signed in user's info (returned by the API)\nUser data should be stored within a Pinia (https://pinia.vuejs.org) store\n\nTo validate the bounty, it should be possible to open the extension within Adobe Illustrator and login through our API.",
         "author": "MatthiasRichard",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@MatthiasRichard/vuejs-generate-adobe?t="
     },
     {
@@ -2746,7 +2746,7 @@
         "title": "Discord.js Bot to Create Tasks in Asana",
         "description": "tl;dr: Create a Discord bot that can be used to create and assign tasks in Asana.\n\nCreate a Discord bot which can listen in all channels of a Discord server simultaneously. The workflow is as follows:\n\nwhen you type /asana the bot responds with two buttons:\n  Create Task\n  View Asana\n\n> Note that the bot should only be visible to the person who typed /asana, as much as possible, until the end when the task is announced to the channel\n\nIf you click \"View Asana\" your browser is opened to https://asana.com\nIf you click \"Create Task\" the bot replies and asks what you want to name the task\nYou type in what you want to name the task\nThe bot makes an API call to Asana to collect all of your Projects\nThe bot presents you with a Dropdown Select Menu to pick your project\nThe bot makes an API call to Asana to collect all of your team members\nThe bot presents you with a Dropdown Select Menu to pick who to assign it to\nThe bot presents you some text that shows the task name, the...",
         "author": "cryppadotta",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@cryppadotta/discordjs-bot-to-cre?t="
     },
     {
@@ -2756,7 +2756,7 @@
         "title": "Create a Javascript Tutorial from existing videos and notes",
         "description": "We have an existing Javascript playlist of ~100 videos with associated PDF notes. This playlist needs to be converted into a Javascript tutorial using this documentation (https://building-templates.davidatreplit.repl.co/) and the PDF notes need to be converted into markdown files. This does not require any coding knowledge per se but feel free to write a program to automate this conversion into Tutorials.\n\nAs a bonus incentive, you'll get to work directly with CodeWithHarry on this!\n\nAcceptance Criteria\nA complete Javascript playlist with all 100 lessons and associated Repls.",
         "author": "anshul",
-        "posted_time": "38 minutes ago",
+        "posted_time": "49 minutes ago",
         "link": "https://replit.com/bounties/@anshul/create-a-javascript?t="
     },
     {
@@ -2766,7 +2766,7 @@
         "title": "Basic Plaid setup",
         "description": "Create an extremely basic web app that uses Plaid to allow a user to log in to their financial institution. Make sure the access token is saved in an easy to access database.\n\nJust put blank variables for the client id and secret and I will enter those in when evaluating",
         "author": "MitchellTroyano",
-        "posted_time": "15 minutes ago",
+        "posted_time": "26 minutes ago",
         "link": "https://replit.com/bounties/@MitchellTroyano/basic-plaid-setup?t="
     }
 ]
