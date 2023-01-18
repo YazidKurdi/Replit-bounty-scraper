@@ -2237,7 +2237,7 @@ Acceptance Criteria
 
 Your solution should be written in Python (since the people using this are mostly Pythonistas). I should be able to easily run this and launch a web UI where I can select a model from HuggingFace, and have a UI experience that's hard to distinguish from the OpenAI playground.
 
-At minimum you should be able to load models locally. For extra credit, consider adding support for remotely inferencing models on huggingface, modal, replicate, cohere, etc.",natfriedman,13 hours ago,https://replit.com/bounties/@natfriedman/openai-playground-fo?t=
+At minimum you should be able to load models locally. For extra credit, consider adding support for remotely inferencing models on huggingface, modal, replicate, cohere, etc.",natfriedman,14 hours ago,https://replit.com/bounties/@natfriedman/openai-playground-fo?t=
 272,$54.00,due in 6 days,Docusaurus with Firebase Auth,"Users should have access to a complete authentication experience (specifics in acceptance criteria).
 
 An unauthenticated user should be able to see no documentation pages, but have access to the blog, and all pages. Should be a button that switches login / logout functionality based on authentication status.
@@ -2310,4 +2310,28 @@ Acceptance Criteria
 Functionality of the web interface and chatbot
 Quality of the user interface and user experience
 Proper use of the MQTT server and messaging functionality
-Proper implementation...",KaiHoeffner,34 minutes ago,https://replit.com/bounties/@KaiHoeffner/mqtt-based-chat-web?t=
+Proper implementation...",KaiHoeffner,49 minutes ago,https://replit.com/bounties/@KaiHoeffner/mqtt-based-chat-web?t=
+278,$450.00,due in 3 days,fine tune GPT for QA against Evernote library,"I would like to have a fine-tuned LLM on an Evernote library for chatbot style question answering that runs in local environment.
+
+Easy, except: I can’t provide you with the Evernote library and the library can’t leave the local environment. Library is approx 25000 words. The local environment has a mac intel CPU and an AMD 32gb GPU (sorry… no silicon or nvidia .)
+
+You’ll create an OS X app interface that allows for file picking of Evernote library, storage and interacting with chatbot.
+
+Optional ($250 bonus): model accurately Reports references to training dataset
+
+Possible second phase ($tbd): optimization for silicon chipset.
+
+Possible third phase ($tbd): creation of webapp (much easier)
+
+Price is for phase 1 alone. Negotiable.
+
+Acceptance Criteria
+
+Benchmarking local app performance against unit test library (approx 25000 words)
+
+(Screen share ok) evaluation of model performance in local environment
+
+Technical Details
+
+As above. Please request additional specs.
+...",ts2013,9 minutes ago,https://replit.com/bounties/@ts2013/fine-tune-gpt-for-qa?t=
