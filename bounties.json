@@ -2636,7 +2636,7 @@
         "title": "AI Writer Chrome Extension",
         "description": "I would like to create an AI Writer Chrome Extension using GPT-3.\n\nIt should mainly have 3 features:\n\nAutocomplete (complete text while typing)\nGrammar (allow user to select some text and AI writes it a different way with better grammar, punctuation etc)\nTone (allow user to select some text, and input a tone, and AI writes it in that tone)\n\nThe app should work in most html s on any website, also it must support Gmail and Google Docs. User must be able to enable/disable extension as they wish.\n\nUsers should have to sign in via google to use the extension, and usage data for all the users should be stored in a database. The code should be secure and follow good coding practices.",
         "author": "CoderGautamYT",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/ai-writer-chrome-ext-1?t="
     },
     {
@@ -2646,7 +2646,7 @@
         "title": "AI Writing Chrome extension",
         "description": "I would like to create an AI Writer Chrome Extension using GPT-3.\n\nIt should mainly have 3 features:\n\nAutocomplete (complete text while typing)\nGrammar (allow user to select some text and AI writes it a different way with better grammar, punctuation etc)\nTone (allow user to select some text, and input a tone, and AI writes it in that tone)\nThe app should work in most html s on any website, also it must support Gmail and Google Docs. User must be able to enable/disable extension as they wish.\n\nUsers should have to sign in via google to use the extension, and usage data for all the users should be stored in a database. The code should be secure and follow good coding practices.",
         "author": "CoderGautamYT",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/ai-writing-chrome-ex?t="
     },
     {
@@ -2666,7 +2666,7 @@
         "title": "Swordbattle Hall Of Fame",
         "description": "Create a hall of fame with swordbattle's best players",
         "author": "CoderGautamYT",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/swordbattle-hall-of?t="
     },
     {
@@ -2716,7 +2716,7 @@
         "title": "Playground for local models",
         "description": "The goal is to create a web UI like the OpenAI playground that can be used to test your own models (e.g. a T5 finetune). This would require having all the nice UI features of the OpenAI playground, including:\n\nmodel selection\ngeneration parameter selection (temp, max length, etc).\nstop sequence, start text, restart text\nthe ability to show probabilities\ngreen text that behaves like the OpenAI green text\nundo / regenerate buttons\nsaving/loading presets\n\nAcceptance Criteria\n\nYour solution should be written in Python (since the people using this are mostly Pythonistas). I should be able to easily run this and launch a web UI where I can select a model from HuggingFace, and have a UI experience that's hard to distinguish from the OpenAI playground.\n\nAt minimum you should be able to load models locally. For extra credit, consider adding support for remotely inferencing models on huggingface, modal, replicate, cohere, etc.",
         "author": "natfriedman",
-        "posted_time": "32 minutes ago",
+        "posted_time": "47 minutes ago",
         "link": "https://replit.com/bounties/@natfriedman/openai-playground-fo?t="
     }
 ]

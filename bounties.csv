@@ -2168,7 +2168,7 @@ Tone (allow user to select some text, and input a tone, and AI writes it in that
 
 The app should work in most html s on any website, also it must support Gmail and Google Docs. User must be able to enable/disable extension as they wish.
 
-Users should have to sign in via google to use the extension, and usage data for all the users should be stored in a database. The code should be secure and follow good coding practices.",CoderGautamYT,13 hours ago,https://replit.com/bounties/@CoderGautamYT/ai-writer-chrome-ext-1?t=
+Users should have to sign in via google to use the extension, and usage data for all the users should be stored in a database. The code should be secure and follow good coding practices.",CoderGautamYT,14 hours ago,https://replit.com/bounties/@CoderGautamYT/ai-writer-chrome-ext-1?t=
 264,$50.00,closed,AI Writing Chrome extension,"I would like to create an AI Writer Chrome Extension using GPT-3.
 
 It should mainly have 3 features:
@@ -2178,7 +2178,7 @@ Grammar (allow user to select some text and AI writes it a different way with be
 Tone (allow user to select some text, and input a tone, and AI writes it in that tone)
 The app should work in most html s on any website, also it must support Gmail and Google Docs. User must be able to enable/disable extension as they wish.
 
-Users should have to sign in via google to use the extension, and usage data for all the users should be stored in a database. The code should be secure and follow good coding practices.",CoderGautamYT,13 hours ago,https://replit.com/bounties/@CoderGautamYT/ai-writing-chrome-ex?t=
+Users should have to sign in via google to use the extension, and usage data for all the users should be stored in a database. The code should be secure and follow good coding practices.",CoderGautamYT,14 hours ago,https://replit.com/bounties/@CoderGautamYT/ai-writing-chrome-ex?t=
 265,$100.00,due in 1 month,GPT-3 AI Writer Chrome Extension,"I would like to create an AI Writer Chrome Extension using GPT-3.
 
 It should mainly have 3 features:
@@ -2192,7 +2192,7 @@ The app should work in most textareas on any website, also it must support Gmail
 Users should have to sign in via google to use the extension, and usage data for all the users should be stored in a database. The code should be secure and follow good coding practices.
 
 Must finish within the due date.",CoderGautamYT,13 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt-3-ai-writer-chro?t=
-266,$18.00,due in 13 days,Swordbattle Hall Of Fame,Create a hall of fame with swordbattle's best players,CoderGautamYT,10 hours ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-hall-of?t=
+266,$18.00,due in 13 days,Swordbattle Hall Of Fame,Create a hall of fame with swordbattle's best players,CoderGautamYT,11 hours ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-hall-of?t=
 267,$1.17,closed,JS Perlin noise,"I would like the terrain to be generated with Perlin noise.
 
 Acceptance Criteria
@@ -2237,4 +2237,4 @@ Acceptance Criteria
 
 Your solution should be written in Python (since the people using this are mostly Pythonistas). I should be able to easily run this and launch a web UI where I can select a model from HuggingFace, and have a UI experience that's hard to distinguish from the OpenAI playground.
 
-At minimum you should be able to load models locally. For extra credit, consider adding support for remotely inferencing models on huggingface, modal, replicate, cohere, etc.",natfriedman,32 minutes ago,https://replit.com/bounties/@natfriedman/openai-playground-fo?t=
+At minimum you should be able to load models locally. For extra credit, consider adding support for remotely inferencing models on huggingface, modal, replicate, cohere, etc.",natfriedman,47 minutes ago,https://replit.com/bounties/@natfriedman/openai-playground-fo?t=
