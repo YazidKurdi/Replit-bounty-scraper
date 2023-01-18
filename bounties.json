@@ -2686,7 +2686,7 @@
         "title": "Plaid -> Foursquare API",
         "description": "I'd like a simple web tool.\n\nThe page should use Plaid to allow a user to login with their bank. For our example we will use an American Express credit card.\n\nOnce the user logs in, you will need to load every transaction.\n\nLook up each merchant sing Foursquare's POI API. Filter out anything not categorized as a restaurant or bar\n\nPlease print an HTML table with merchant, date, amount, and Foursquare URL.",
         "author": "RabbitEars22",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@RabbitEars22/plaid-greater-foursq?t="
     },
     {
@@ -2706,7 +2706,7 @@
         "title": "Vue.js: Generate Adobe Illustrator extension boilerplate with sign in and home screen",
         "description": "The goal of the bounty is to develop an Adobe Illustrator extension (adobe CEP) with Vue.js, and add a sign in screen which redirects to a home screen.\n\nI'd like to use this:\nhttps://github.com/hyperbrew/bolt-cep\nhttps://github.com/Adobe-CEP/CEP-Resources\n\nSo the goal is to generate a new app with this library (vue mode), and add two screen:\nLogin: fill in password, email, and post to our API to get a JWT\nHome: once logged in, being redirected to a different page (and different vue component) displaying the signed in user's info (returned by the API)\nUser data should be stored within a Pinia (https://pinia.vuejs.org) store\n\nTo validate the bounty, it should be possible to open the extension within Adobe Illustrator and login through our API.",
         "author": "MatthiasRichard",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@MatthiasRichard/vuejs-generate-adobe?t="
     },
     {
