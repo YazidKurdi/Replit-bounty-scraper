@@ -2210,7 +2210,7 @@ Please print an HTML table with merchant, date, amount, and Foursquare URL.",Rab
 I want a page coded in html/css for me, and I will show u an already existing page of the website so you get an idea of what the theme should look like
 Also, I am looking for a CSS designer to do multiple projects for me. If you do good on this one, I will give you more higher paying work
 
-Contact me on discord if you applied @ fatty#9276",fatty121,14 hours ago,https://replit.com/bounties/@fatty121/design-and-code-a-pa?t=
+Contact me on discord if you applied @ fatty#9276",fatty121,15 hours ago,https://replit.com/bounties/@fatty121/design-and-code-a-pa?t=
 270,$22.50,closed,Vue.js: Generate Adobe Illustrator extension boilerplate with sign in and home screen,"The goal of the bounty is to develop an Adobe Illustrator extension (adobe CEP) with Vue.js, and add a sign in screen which redirects to a home screen.
 
 I'd like to use this:
@@ -2222,7 +2222,7 @@ Login: fill in password, email, and post to our API to get a JWT
 Home: once logged in, being redirected to a different page (and different vue component) displaying the signed in user's info (returned by the API)
 User data should be stored within a Pinia (https://pinia.vuejs.org) store
 
-To validate the bounty, it should be possible to open the extension within Adobe Illustrator and login through our API.",MatthiasRichard,13 hours ago,https://replit.com/bounties/@MatthiasRichard/vuejs-generate-adobe?t=
+To validate the bounty, it should be possible to open the extension within Adobe Illustrator and login through our API.",MatthiasRichard,14 hours ago,https://replit.com/bounties/@MatthiasRichard/vuejs-generate-adobe?t=
 271,"$1,260.00",due in 12 days,Playground for local models,"The goal is to create a web UI like the OpenAI playground that can be used to test your own models (e.g. a T5 finetune). This would require having all the nice UI features of the OpenAI playground, including:
 
 model selection
@@ -2283,7 +2283,7 @@ The bot makes an API call to Asana to collect all of your Projects
 The bot presents you with a Dropdown Select Menu to pick your project
 The bot makes an API call to Asana to collect all of your team members
 The bot presents you with a Dropdown Select Menu to pick who to assign it to
-The bot presents you some text that shows the task name, the...",cryppadotta,2 hours ago,https://replit.com/bounties/@cryppadotta/discordjs-bot-to-cre?t=
+The bot presents you some text that shows the task name, the...",cryppadotta,3 hours ago,https://replit.com/bounties/@cryppadotta/discordjs-bot-to-cre?t=
 275,$198.00,due in 12 days,Create a Javascript Tutorial from existing videos and notes,"We have an existing Javascript playlist of ~100 videos with associated PDF notes. This playlist needs to be converted into a Javascript tutorial using this documentation (https://building-templates.davidatreplit.repl.co/) and the PDF notes need to be converted into markdown files. This does not require any coding knowledge per se but feel free to write a program to automate this conversion into Tutorials.
 
 As a bonus incentive, you'll get to work directly with CodeWithHarry on this!
