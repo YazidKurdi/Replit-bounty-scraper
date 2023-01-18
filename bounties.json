@@ -2676,7 +2676,7 @@
         "title": "JS Perlin noise",
         "description": "I would like the terrain to be generated with Perlin noise.\n\nAcceptance Criteria\nTerrain generated with Perlin noise, I have built one in python but I'm not as familiar with js. Id be ok with using packages or anyway to get this done.",
         "author": "YellowSquash262",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@YellowSquash262/js-perlin-noise?t="
     },
     {
@@ -2716,7 +2716,7 @@
         "title": "Playground for local models",
         "description": "The goal is to create a web UI like the OpenAI playground that can be used to test your own models (e.g. a T5 finetune). This would require having all the nice UI features of the OpenAI playground, including:\n\nmodel selection\ngeneration parameter selection (temp, max length, etc).\nstop sequence, start text, restart text\nthe ability to show probabilities\ngreen text that behaves like the OpenAI green text\nundo / regenerate buttons\nsaving/loading presets\n\nAcceptance Criteria\n\nYour solution should be written in Python (since the people using this are mostly Pythonistas). I should be able to easily run this and launch a web UI where I can select a model from HuggingFace, and have a UI experience that's hard to distinguish from the OpenAI playground.\n\nAt minimum you should be able to load models locally. For extra credit, consider adding support for remotely inferencing models on huggingface, modal, replicate, cohere, etc.",
         "author": "natfriedman",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@natfriedman/openai-playground-fo?t="
     },
     {
@@ -2746,7 +2746,7 @@
         "title": "Discord.js Bot to Create Tasks in Asana",
         "description": "tl;dr: Create a Discord bot that can be used to create and assign tasks in Asana.\n\nCreate a Discord bot which can listen in all channels of a Discord server simultaneously. The workflow is as follows:\n\nwhen you type /asana the bot responds with two buttons:\n  Create Task\n  View Asana\n\n> Note that the bot should only be visible to the person who typed /asana, as much as possible, until the end when the task is announced to the channel\n\nIf you click \"View Asana\" your browser is opened to https://asana.com\nIf you click \"Create Task\" the bot replies and asks what you want to name the task\nYou type in what you want to name the task\nThe bot makes an API call to Asana to collect all of your Projects\nThe bot presents you with a Dropdown Select Menu to pick your project\nThe bot makes an API call to Asana to collect all of your team members\nThe bot presents you with a Dropdown Select Menu to pick who to assign it to\nThe bot presents you some text that shows the task name, the...",
         "author": "cryppadotta",
-        "posted_time": "43 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@cryppadotta/discordjs-bot-to-cre?t="
     },
     {
@@ -2756,7 +2756,7 @@
         "title": "Create a Javascript Tutorial from existing videos and notes",
         "description": "We have an existing Javascript playlist of ~100 videos with associated PDF notes. This playlist needs to be converted into a Javascript tutorial using this documentation (https://building-templates.davidatreplit.repl.co/) and the PDF notes need to be converted into markdown files. This does not require any coding knowledge per se but feel free to write a program to automate this conversion into Tutorials.\n\nAs a bonus incentive, you'll get to work directly with CodeWithHarry on this!\n\nAcceptance Criteria\nA complete Javascript playlist with all 100 lessons and associated Repls.",
         "author": "anshul",
-        "posted_time": "2 minutes ago",
+        "posted_time": "19 minutes ago",
         "link": "https://replit.com/bounties/@anshul/create-a-javascript?t="
     }
 ]
