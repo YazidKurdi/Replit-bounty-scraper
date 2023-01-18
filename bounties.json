@@ -2626,7 +2626,7 @@
         "title": "AI writer chrome extension",
         "description": "I would like to create an AI Writer Chrome Extension using GPT-3.\n\nIt should mainly have 3 features:\n\nAutocomplete (complete text while typing)\nGrammar (allow user to select some text and AI writes it a different way with better grammar, punctuation etc)\nTone (allow user to select some text, and input a tone, and AI writes it in that tone)\n\nThe app should work in most html ``s on any website, and also it must support Gmail and Google Docs most notably. User must be able to enable/disable extension as they wish.\n\nUsers will get a 1 week free trial, then have to pay $10 a month to continue the service. For payments you can use the Stripe API. I can provide the API key for GPT or Stripe.",
         "author": "CoderGautamYT",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/ai-writer-chrome-ext?t="
     },
     {
@@ -2716,7 +2716,7 @@
         "title": "Playground for local models",
         "description": "The goal is to create a web UI like the OpenAI playground that can be used to test your own models (e.g. a T5 finetune). This would require having all the nice UI features of the OpenAI playground, including:\n\nmodel selection\ngeneration parameter selection (temp, max length, etc).\nstop sequence, start text, restart text\nthe ability to show probabilities\ngreen text that behaves like the OpenAI green text\nundo / regenerate buttons\nsaving/loading presets\n\nAcceptance Criteria\n\nYour solution should be written in Python (since the people using this are mostly Pythonistas). I should be able to easily run this and launch a web UI where I can select a model from HuggingFace, and have a UI experience that's hard to distinguish from the OpenAI playground.\n\nAt minimum you should be able to load models locally. For extra credit, consider adding support for remotely inferencing models on huggingface, modal, replicate, cohere, etc.",
         "author": "natfriedman",
-        "posted_time": "7 minutes ago",
+        "posted_time": "16 minutes ago",
         "link": "https://replit.com/bounties/@natfriedman/openai-playground-fo?t="
     }
 ]

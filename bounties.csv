@@ -2157,7 +2157,7 @@ Tone (allow user to select some text, and input a tone, and AI writes it in that
 
 The app should work in most html ``s on any website, and also it must support Gmail and Google Docs most notably. User must be able to enable/disable extension as they wish.
 
-Users will get a 1 week free trial, then have to pay $10 a month to continue the service. For payments you can use the Stripe API. I can provide the API key for GPT or Stripe.",CoderGautamYT,16 hours ago,https://replit.com/bounties/@CoderGautamYT/ai-writer-chrome-ext?t=
+Users will get a 1 week free trial, then have to pay $10 a month to continue the service. For payments you can use the Stripe API. I can provide the API key for GPT or Stripe.",CoderGautamYT,17 hours ago,https://replit.com/bounties/@CoderGautamYT/ai-writer-chrome-ext?t=
 263,$50.00,closed,AI Writer Chrome Extension,"I would like to create an AI Writer Chrome Extension using GPT-3.
 
 It should mainly have 3 features:
@@ -2237,4 +2237,4 @@ Acceptance Criteria
 
 Your solution should be written in Python (since the people using this are mostly Pythonistas). I should be able to easily run this and launch a web UI where I can select a model from HuggingFace, and have a UI experience that's hard to distinguish from the OpenAI playground.
 
-At minimum you should be able to load models locally. For extra credit, consider adding support for remotely inferencing models on huggingface, modal, replicate, cohere, etc.",natfriedman,7 minutes ago,https://replit.com/bounties/@natfriedman/openai-playground-fo?t=
+At minimum you should be able to load models locally. For extra credit, consider adding support for remotely inferencing models on huggingface, modal, replicate, cohere, etc.",natfriedman,16 minutes ago,https://replit.com/bounties/@natfriedman/openai-playground-fo?t=
