@@ -2616,7 +2616,7 @@
         "title": "GPT-3 Google Docs Addon",
         "description": "I would like to create a Google Docs addon for GPT-3.\n\nIt should mainly have 3 features:\n\nAutocomplete (complete text while their typing)\nGrammar (allow user to select some text and AI writes it a different way with better grammar punctuation etc)\nTone (allow user to select some text, and input a tone, and AI writes it in that tone)\n\nUsers will get a 1 week free trial, then have to pay $10 a month to continue the service. For payments you can use the Stripe API. The app must be coded in JavaScript, and I can provide the API key for GPT or Stripe.",
         "author": "CoderGautamYT",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/gpt-3-google-docs-ad-1?t="
     },
     {
@@ -2676,7 +2676,17 @@
         "title": "JS Perlin noise",
         "description": "I would like the terrain to be generated with Perlin noise.\n\nAcceptance Criteria\nTerrain generated with Perlin noise, I have built one in python but I'm not as familiar with js. Id be ok with using packages or anyway to get this done.",
         "author": "YellowSquash262",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@YellowSquash262/js-perlin-noise?t="
+    },
+    {
+        "index": "268",
+        "price": "$18.00",
+        "due_days": "due in 4 days",
+        "title": "Plaid -> Foursquare API",
+        "description": "I'd like a simple web tool.\n\nThe page should use Plaid to allow a user to login with their bank. For our example we will use an American Express credit card.\n\nOnce the user logs in, you will need to load every transaction.\n\nLook up each merchant sing Foursquare's POI API. Filter out anything not categorized as a restaurant or bar\n\nPlease print an HTML table with merchant, date, amount, and Foursquare URL.",
+        "author": "RabbitEars22",
+        "posted_time": "8 minutes ago",
+        "link": "https://replit.com/bounties/@RabbitEars22/plaid-greater-foursq?t="
     }
 ]

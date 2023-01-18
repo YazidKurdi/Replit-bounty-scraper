@@ -2146,7 +2146,7 @@ Autocomplete (complete text while their typing)
 Grammar (allow user to select some text and AI writes it a different way with better grammar punctuation etc)
 Tone (allow user to select some text, and input a tone, and AI writes it in that tone)
 
-Users will get a 1 week free trial, then have to pay $10 a month to continue the service. For payments you can use the Stripe API. The app must be coded in JavaScript, and I can provide the API key for GPT or Stripe.",CoderGautamYT,13 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt-3-google-docs-ad-1?t=
+Users will get a 1 week free trial, then have to pay $10 a month to continue the service. For payments you can use the Stripe API. The app must be coded in JavaScript, and I can provide the API key for GPT or Stripe.",CoderGautamYT,14 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt-3-google-docs-ad-1?t=
 262,$100.00,closed,AI writer chrome extension,"I would like to create an AI Writer Chrome Extension using GPT-3.
 
 It should mainly have 3 features:
@@ -2196,4 +2196,13 @@ Must finish within the due date.",CoderGautamYT,9 hours ago,https://replit.com/b
 267,$1.17,closed,JS Perlin noise,"I would like the terrain to be generated with Perlin noise.
 
 Acceptance Criteria
-Terrain generated with Perlin noise, I have built one in python but I'm not as familiar with js. Id be ok with using packages or anyway to get this done.",YellowSquash262,3 hours ago,https://replit.com/bounties/@YellowSquash262/js-perlin-noise?t=
+Terrain generated with Perlin noise, I have built one in python but I'm not as familiar with js. Id be ok with using packages or anyway to get this done.",YellowSquash262,4 hours ago,https://replit.com/bounties/@YellowSquash262/js-perlin-noise?t=
+268,$18.00,due in 4 days,Plaid -> Foursquare API,"I'd like a simple web tool.
+
+The page should use Plaid to allow a user to login with their bank. For our example we will use an American Express credit card.
+
+Once the user logs in, you will need to load every transaction.
+
+Look up each merchant sing Foursquare's POI API. Filter out anything not categorized as a restaurant or bar
+
+Please print an HTML table with merchant, date, amount, and Foursquare URL.",RabbitEars22,8 minutes ago,https://replit.com/bounties/@RabbitEars22/plaid-greater-foursq?t=
