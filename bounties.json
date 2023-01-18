@@ -2656,7 +2656,7 @@
         "title": "GPT-3 AI Writer Chrome Extension",
         "description": "I would like to create an AI Writer Chrome Extension using GPT-3.\n\nIt should mainly have 3 features:\n\nAutocomplete (complete text while typing)\nGrammar (allow user to select some text and AI writes it a different way with better grammar, punctuation etc)\nTone (allow user to select some text, and input a tone, and AI writes it in that tone)\n\nThe app should work in most textareas on any website, also it must support Gmail and Google Docs. User must be able to enable/disable extension as they wish.\n\nUsers should have to sign in via google to use the extension, and usage data for all the users should be stored in a database. The code should be secure and follow good coding practices.\n\nMust finish within the due date.",
         "author": "CoderGautamYT",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/gpt-3-ai-writer-chro?t="
     },
     {
@@ -2696,7 +2696,7 @@
         "title": "Design And Code A Page In HTML/CSS with a specific theme/style",
         "description": "Describe the problem you are trying to solve here.\nI want a page coded in html/css for me, and I will show u an already existing page of the website so you get an idea of what the theme should look like\nAlso, I am looking for a CSS designer to do multiple projects for me. If you do good on this one, I will give you more higher paying work\n\nContact me on discord if you applied @ fatty#9276",
         "author": "fatty121",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@fatty121/design-and-code-a-pa?t="
     },
     {
@@ -2706,7 +2706,7 @@
         "title": "Vue.js: Generate Adobe Illustrator extension boilerplate with sign in and home screen",
         "description": "The goal of the bounty is to develop an Adobe Illustrator extension (adobe CEP) with Vue.js, and add a sign in screen which redirects to a home screen.\n\nI'd like to use this:\nhttps://github.com/hyperbrew/bolt-cep\nhttps://github.com/Adobe-CEP/CEP-Resources\n\nSo the goal is to generate a new app with this library (vue mode), and add two screen:\nLogin: fill in password, email, and post to our API to get a JWT\nHome: once logged in, being redirected to a different page (and different vue component) displaying the signed in user's info (returned by the API)\nUser data should be stored within a Pinia (https://pinia.vuejs.org) store\n\nTo validate the bounty, it should be possible to open the extension within Adobe Illustrator and login through our API.",
         "author": "MatthiasRichard",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@MatthiasRichard/vuejs-generate-adobe?t="
     },
     {
@@ -2728,5 +2728,15 @@
         "author": "mosesju",
         "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@mosesju/docusaurus-with-fire?t="
+    },
+    {
+        "index": "273",
+        "price": "$180.00",
+        "due_days": "due in 6 days",
+        "title": "Cloneable Zapier + AI workflow templates",
+        "description": "I'm running some AI experiments using Zapier. The aim is to build a bunch of use cases e.g. Build your own Email summariser + draft replies, or Create your own AI avatar app - It's possible to do this with Zapier (I have done a few)... And then let anyone clone the template or read the how-to.\n\nI'm looking for someone to help develop ideas, build them with Zapier + AI (OpenAI integration, APIs, webhooks, Replicate etc), offer the templates for free and do a simple text and image write-up for each project.\n\nThis is an ongoing role and we can discuss pay as such.\n\nAcceptance Criteria\nImportant - please send me a workflow you have built with Zapier (bonus points if integrating with AI), say what it does and how, show screenshots of the workflow.\nYou must be very knowledgeable of Zapier. How it works, what's possible, what the limits are etc.\nYou must be self-sufficient, coming up with an idea by scrolling twitter, testing if it's possible, and building it. Without need...",
+        "author": "bentossell",
+        "posted_time": "28 seconds ago",
+        "link": "https://replit.com/bounties/@bentossell/cloneable-zapier-ai?t="
     }
 ]
