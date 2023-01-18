@@ -2696,7 +2696,7 @@
         "title": "Design And Code A Page In HTML/CSS with a specific theme/style",
         "description": "Describe the problem you are trying to solve here.\nI want a page coded in html/css for me, and I will show u an already existing page of the website so you get an idea of what the theme should look like\nAlso, I am looking for a CSS designer to do multiple projects for me. If you do good on this one, I will give you more higher paying work\n\nContact me on discord if you applied @ fatty#9276",
         "author": "fatty121",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@fatty121/design-and-code-a-pa?t="
     },
     {
@@ -2706,7 +2706,7 @@
         "title": "Vue.js: Generate Adobe Illustrator extension boilerplate with sign in and home screen",
         "description": "The goal of the bounty is to develop an Adobe Illustrator extension (adobe CEP) with Vue.js, and add a sign in screen which redirects to a home screen.\n\nI'd like to use this:\nhttps://github.com/hyperbrew/bolt-cep\nhttps://github.com/Adobe-CEP/CEP-Resources\n\nSo the goal is to generate a new app with this library (vue mode), and add two screen:\nLogin: fill in password, email, and post to our API to get a JWT\nHome: once logged in, being redirected to a different page (and different vue component) displaying the signed in user's info (returned by the API)\nUser data should be stored within a Pinia (https://pinia.vuejs.org) store\n\nTo validate the bounty, it should be possible to open the extension within Adobe Illustrator and login through our API.",
         "author": "MatthiasRichard",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@MatthiasRichard/vuejs-generate-adobe?t="
     },
     {
@@ -2746,7 +2746,7 @@
         "title": "Discord.js Bot to Create Tasks in Asana",
         "description": "tl;dr: Create a Discord bot that can be used to create and assign tasks in Asana.\n\nCreate a Discord bot which can listen in all channels of a Discord server simultaneously. The workflow is as follows:\n\nwhen you type /asana the bot responds with two buttons:\n  Create Task\n  View Asana\n\n> Note that the bot should only be visible to the person who typed /asana, as much as possible, until the end when the task is announced to the channel\n\nIf you click \"View Asana\" your browser is opened to https://asana.com\nIf you click \"Create Task\" the bot replies and asks what you want to name the task\nYou type in what you want to name the task\nThe bot makes an API call to Asana to collect all of your Projects\nThe bot presents you with a Dropdown Select Menu to pick your project\nThe bot makes an API call to Asana to collect all of your team members\nThe bot presents you with a Dropdown Select Menu to pick who to assign it to\nThe bot presents you some text that shows the task name, the...",
         "author": "cryppadotta",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@cryppadotta/discordjs-bot-to-cre?t="
     },
     {
@@ -2786,7 +2786,7 @@
         "title": "fine tune GPT for QA against Evernote library",
         "description": "I would like to have a fine-tuned LLM on an Evernote library for chatbot style question answering that runs in local environment.\n\nEasy, except: I can\u2019t provide you with the Evernote library and the library can\u2019t leave the local environment. Library is approx 25000 words. The local environment has a mac intel CPU and an AMD 32gb GPU (sorry\u2026 no silicon or nvidia .)\n\nYou\u2019ll create an OS X app interface that allows for file picking of Evernote library, storage and interacting with chatbot.\n\nOptional ($250 bonus): model accurately Reports references to training dataset\n\nPossible second phase ($tbd): optimization for silicon chipset.\n\nPossible third phase ($tbd): creation of webapp (much easier)\n\nPrice is for phase 1 alone. Negotiable.\n\nAcceptance Criteria\n\nBenchmarking local app performance against unit test library (approx 25000 words)\n\n(Screen share ok) evaluation of model performance in local environment\n\nTechnical Details\n\nAs above. Please request additional specs.\n...",
         "author": "ts2013",
-        "posted_time": "34 minutes ago",
+        "posted_time": "43 minutes ago",
         "link": "https://replit.com/bounties/@ts2013/fine-tune-gpt-for-qa?t="
     }
 ]
