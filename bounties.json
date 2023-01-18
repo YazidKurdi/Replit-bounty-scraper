@@ -2596,7 +2596,7 @@
         "title": "Quora App with GPT-3",
         "description": "I want to build an app similar to Quora, where users can ask and answer questions, plus with GPT-3 that also answers questions! The app must be in React + Node.js or Next.js!!!\n\nAcceptance Criteria\nHome page: Shows a view of popular questions currently neatly as cards, would be nice if it looks similar to quora's home page.  Would be nice if the user was recommended questions that they can answer. There should be a navbar with options to log in / sign up.\n\nLogin / Signup: Users should be able to use either email or google to log in or sign up. Users will receive 10 free credits per month, which can be used to answer questions. A balance of a user's credits will be shown in the navbar once logged in. After a user signs up, there will be a short onboarding screen where users are prompted to set their username, avatar, and bio.\n\nSettings view: There is an option to open this view from the navbar, if a user is signed in. It should have options to modify a user\u2019s usernam...",
         "author": "CoderGautamYT",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/quora-app-with-gpt-3?t="
     },
     {
