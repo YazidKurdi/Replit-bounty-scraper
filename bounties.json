@@ -2702,7 +2702,7 @@
     {
         "index": "270",
         "price": "$22.50",
-        "due_days": "due in 11 days",
+        "due_days": "closed",
         "title": "Vue.js: Generate Adobe Illustrator extension boilerplate with sign in and home screen",
         "description": "The goal of the bounty is to develop an Adobe Illustrator extension (adobe CEP) with Vue.js, and add a sign in screen which redirects to a home screen.\n\nI'd like to use this:\nhttps://github.com/hyperbrew/bolt-cep\nhttps://github.com/Adobe-CEP/CEP-Resources\n\nSo the goal is to generate a new app with this library (vue mode), and add two screen:\nLogin: fill in password, email, and post to our API to get a JWT\nHome: once logged in, being redirected to a different page (and different vue component) displaying the signed in user's info (returned by the API)\nUser data should be stored within a Pinia (https://pinia.vuejs.org) store\n\nTo validate the bounty, it should be possible to open the extension within Adobe Illustrator and login through our API.",
         "author": "MatthiasRichard",
@@ -2718,5 +2718,15 @@
         "author": "natfriedman",
         "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@natfriedman/openai-playground-fo?t="
+    },
+    {
+        "index": "272",
+        "price": "$54.00",
+        "due_days": "due in 7 days",
+        "title": "Docusaurus with Firebase Auth",
+        "description": "Users should have access to a complete authentication experience (specifics in acceptance criteria).\n\nAn unauthenticated user should be able to see no documentation pages, but have access to the blog, and all pages. Should be a button that switches login / logout functionality based on authentication status.\n\nPlease use firebase authentication. In the repo, there is a .env file for your convenience.\n\nAcceptance Criteria\nA user can register an account\nA user is automatically logged in after registration\nA user can login to their account using either email/password, Google, Facebook\nA user is redirected to /docs/intro upon logging in\nA user can press a button to login or logout based on their authentication status\nA user can update password\nAn unauthenticated user can view all pages, and blogs, but nothing in the /docs folder\nAn authenticated user can view all pages on the site, including /docs\n\nTechnical Details\nYou can use this repo to fork, and submit a pull reques...",
+        "author": "mosesju",
+        "posted_time": "7 minutes ago",
+        "link": "https://replit.com/bounties/@mosesju/docusaurus-with-fire?t="
     }
 ]
