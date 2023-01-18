@@ -2656,7 +2656,7 @@
         "title": "GPT-3 AI Writer Chrome Extension",
         "description": "I would like to create an AI Writer Chrome Extension using GPT-3.\n\nIt should mainly have 3 features:\n\nAutocomplete (complete text while typing)\nGrammar (allow user to select some text and AI writes it a different way with better grammar, punctuation etc)\nTone (allow user to select some text, and input a tone, and AI writes it in that tone)\n\nThe app should work in most textareas on any website, also it must support Gmail and Google Docs. User must be able to enable/disable extension as they wish.\n\nUsers should have to sign in via google to use the extension, and usage data for all the users should be stored in a database. The code should be secure and follow good coding practices.\n\nMust finish within the due date.",
         "author": "CoderGautamYT",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/gpt-3-ai-writer-chro?t="
     },
     {
@@ -2696,7 +2696,7 @@
         "title": "Design And Code A Page In HTML/CSS with a specific theme/style",
         "description": "Describe the problem you are trying to solve here.\nI want a page coded in html/css for me, and I will show u an already existing page of the website so you get an idea of what the theme should look like\nAlso, I am looking for a CSS designer to do multiple projects for me. If you do good on this one, I will give you more higher paying work\n\nContact me on discord if you applied @ fatty#9276",
         "author": "fatty121",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@fatty121/design-and-code-a-pa?t="
     },
     {
@@ -2726,7 +2726,7 @@
         "title": "Docusaurus with Firebase Auth",
         "description": "Users should have access to a complete authentication experience (specifics in acceptance criteria).\n\nAn unauthenticated user should be able to see no documentation pages, but have access to the blog, and all pages. Should be a button that switches login / logout functionality based on authentication status.\n\nPlease use firebase authentication. In the repo, there is a .env file for your convenience.\n\nAcceptance Criteria\nA user can register an account\nA user is automatically logged in after registration\nA user can login to their account using either email/password, Google, Facebook\nA user is redirected to /docs/intro upon logging in\nA user can press a button to login or logout based on their authentication status\nA user can update password\nAn unauthenticated user can view all pages, and blogs, but nothing in the /docs folder\nAn authenticated user can view all pages on the site, including /docs\n\nTechnical Details\nYou can use this repo to fork, and submit a pull reques...",
         "author": "mosesju",
-        "posted_time": "53 minutes ago",
+        "posted_time": "60 minutes ago",
         "link": "https://replit.com/bounties/@mosesju/docusaurus-with-fire?t="
     }
 ]
