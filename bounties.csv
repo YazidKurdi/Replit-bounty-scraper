@@ -2191,7 +2191,7 @@ The app should work in most textareas on any website, also it must support Gmail
 
 Users should have to sign in via google to use the extension, and usage data for all the users should be stored in a database. The code should be secure and follow good coding practices.
 
-Must finish within the due date.",CoderGautamYT,21 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt-3-ai-writer-chro?t=
+Must finish within the due date.",CoderGautamYT,22 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt-3-ai-writer-chro?t=
 266,$18.00,due in 12 days,Swordbattle Hall Of Fame,Create a hall of fame with swordbattle's best players,CoderGautamYT,19 hours ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-hall-of?t=
 267,$1.17,closed,JS Perlin noise,"I would like the terrain to be generated with Perlin noise.
 
@@ -2210,7 +2210,7 @@ Please print an HTML table with merchant, date, amount, and Foursquare URL.",Rab
 I want a page coded in html/css for me, and I will show u an already existing page of the website so you get an idea of what the theme should look like
 Also, I am looking for a CSS designer to do multiple projects for me. If you do good on this one, I will give you more higher paying work
 
-Contact me on discord if you applied @ fatty#9276",fatty121,12 hours ago,https://replit.com/bounties/@fatty121/design-and-code-a-pa?t=
+Contact me on discord if you applied @ fatty#9276",fatty121,13 hours ago,https://replit.com/bounties/@fatty121/design-and-code-a-pa?t=
 270,$22.50,closed,Vue.js: Generate Adobe Illustrator extension boilerplate with sign in and home screen,"The goal of the bounty is to develop an Adobe Illustrator extension (adobe CEP) with Vue.js, and add a sign in screen which redirects to a home screen.
 
 I'd like to use this:
@@ -2222,7 +2222,7 @@ Login: fill in password, email, and post to our API to get a JWT
 Home: once logged in, being redirected to a different page (and different vue component) displaying the signed in user's info (returned by the API)
 User data should be stored within a Pinia (https://pinia.vuejs.org) store
 
-To validate the bounty, it should be possible to open the extension within Adobe Illustrator and login through our API.",MatthiasRichard,11 hours ago,https://replit.com/bounties/@MatthiasRichard/vuejs-generate-adobe?t=
+To validate the bounty, it should be possible to open the extension within Adobe Illustrator and login through our API.",MatthiasRichard,12 hours ago,https://replit.com/bounties/@MatthiasRichard/vuejs-generate-adobe?t=
 271,"$1,260.00",due in 12 days,Playground for local models,"The goal is to create a web UI like the OpenAI playground that can be used to test your own models (e.g. a T5 finetune). This would require having all the nice UI features of the OpenAI playground, including:
 
 model selection
@@ -2283,4 +2283,4 @@ The bot makes an API call to Asana to collect all of your Projects
 The bot presents you with a Dropdown Select Menu to pick your project
 The bot makes an API call to Asana to collect all of your team members
 The bot presents you with a Dropdown Select Menu to pick who to assign it to
-The bot presents you some text that shows the task name, the...",cryppadotta,23 minutes ago,https://replit.com/bounties/@cryppadotta/discordjs-bot-to-cre?t=
+The bot presents you some text that shows the task name, the...",cryppadotta,33 minutes ago,https://replit.com/bounties/@cryppadotta/discordjs-bot-to-cre?t=
