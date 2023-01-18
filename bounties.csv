@@ -2146,7 +2146,7 @@ Autocomplete (complete text while their typing)
 Grammar (allow user to select some text and AI writes it a different way with better grammar punctuation etc)
 Tone (allow user to select some text, and input a tone, and AI writes it in that tone)
 
-Users will get a 1 week free trial, then have to pay $10 a month to continue the service. For payments you can use the Stripe API. The app must be coded in JavaScript, and I can provide the API key for GPT or Stripe.",CoderGautamYT,14 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt-3-google-docs-ad-1?t=
+Users will get a 1 week free trial, then have to pay $10 a month to continue the service. For payments you can use the Stripe API. The app must be coded in JavaScript, and I can provide the API key for GPT or Stripe.",CoderGautamYT,15 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt-3-google-docs-ad-1?t=
 262,$100.00,closed,AI writer chrome extension,"I would like to create an AI Writer Chrome Extension using GPT-3.
 
 It should mainly have 3 features:
@@ -2196,7 +2196,7 @@ Must finish within the due date.",CoderGautamYT,10 hours ago,https://replit.com/
 267,$1.17,closed,JS Perlin noise,"I would like the terrain to be generated with Perlin noise.
 
 Acceptance Criteria
-Terrain generated with Perlin noise, I have built one in python but I'm not as familiar with js. Id be ok with using packages or anyway to get this done.",YellowSquash262,4 hours ago,https://replit.com/bounties/@YellowSquash262/js-perlin-noise?t=
+Terrain generated with Perlin noise, I have built one in python but I'm not as familiar with js. Id be ok with using packages or anyway to get this done.",YellowSquash262,5 hours ago,https://replit.com/bounties/@YellowSquash262/js-perlin-noise?t=
 268,$18.00,due in 4 days,Plaid -> Foursquare API,"I'd like a simple web tool.
 
 The page should use Plaid to allow a user to login with their bank. For our example we will use an American Express credit card.
@@ -2205,9 +2205,21 @@ Once the user logs in, you will need to load every transaction.
 
 Look up each merchant sing Foursquare's POI API. Filter out anything not categorized as a restaurant or bar
 
-Please print an HTML table with merchant, date, amount, and Foursquare URL.",RabbitEars22,53 minutes ago,https://replit.com/bounties/@RabbitEars22/plaid-greater-foursq?t=
+Please print an HTML table with merchant, date, amount, and Foursquare URL.",RabbitEars22,1 hour ago,https://replit.com/bounties/@RabbitEars22/plaid-greater-foursq?t=
 269,$4.00,due in 4 days,Design And Code A Page In HTML/CSS with a specific theme/style,"Describe the problem you are trying to solve here.
 I want a page coded in html/css for me, and I will show u an already existing page of the website so you get an idea of what the theme should look like
 Also, I am looking for a CSS designer to do multiple projects for me. If you do good on this one, I will give you more higher paying work
 
-Contact me on discord if you applied @ fatty#9276",fatty121,42 minutes ago,https://replit.com/bounties/@fatty121/design-and-code-a-pa?t=
+Contact me on discord if you applied @ fatty#9276",fatty121,1 hour ago,https://replit.com/bounties/@fatty121/design-and-code-a-pa?t=
+270,$22.50,due in 11 days,Vue.js: Generate Adobe Illustrator extension boilerplate with sign in and home screen,"The goal of the bounty is to develop an Adobe Illustrator extension (adobe CEP) with Vue.js, and add a sign in screen which redirects to a home screen.
+
+I'd like to use this:
+https://github.com/hyperbrew/bolt-cep
+https://github.com/Adobe-CEP/CEP-Resources
+
+So the goal is to generate a new app with this library (vue mode), and add two screen:
+Login: fill in password, email, and post to our API to get a JWT
+Home: once logged in, being redirected to a different page (and different vue component) displaying the signed in user's info (returned by the API)
+User data should be stored within a Pinia (https://pinia.vuejs.org) store
+
+To validate the bounty, it should be possible to open the extension within Adobe Illustrator and login through our API.",MatthiasRichard,6 minutes ago,https://replit.com/bounties/@MatthiasRichard/vuejs-generate-adobe?t=
