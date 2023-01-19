@@ -2361,13 +2361,13 @@ Create a service that would work and I could test it out.
 
 Technical Details
 
-Link to Project",Tarzelf,8 hours ago,https://replit.com/bounties/@Tarzelf/can-someone-help-me?t=
+Link to Project",Tarzelf,9 hours ago,https://replit.com/bounties/@Tarzelf/can-someone-help-me?t=
 281,$4.50,due in 25 days,VPS Status viewer,"Describe the problem you are trying to solve here.
 So I have alot of vps hertzner and digital ocean and i require a discord bot to monitor all of them or any vps i add to it
 Acceptance Criteria
 Be specific about what you want in the solution here.
 
-A working discord bot that tracks and provides info in a discord server",GuArDiAnops,7 hours ago,https://replit.com/bounties/@GuArDiAnops/vps-status-viewer?t=
+A working discord bot that tracks and provides info in a discord server",GuArDiAnops,8 hours ago,https://replit.com/bounties/@GuArDiAnops/vps-status-viewer?t=
 282,$630.00,due in 7 days,Implement OpenAI's component library in React.,"I really like OpenAI's style and its UI components, and want to use them in my own React apps.
 
 I need composable React+Typescript components for the following:
@@ -2393,7 +2393,7 @@ Acceptance Criteria
 Must have built composable and actively used React components before.",vibo,6 hours ago,https://replit.com/bounties/@vibo/implement-openais-co?t=
 283,$15.30,closed,Create a python code that prints the meaning of life,"The program should answer the final question.
 Acceptance Criteria
-The answer to everything.",YaronOliker,4 hours ago,https://replit.com/bounties/@YaronOliker/create-a-python-code?t=
+The answer to everything.",YaronOliker,5 hours ago,https://replit.com/bounties/@YaronOliker/create-a-python-code?t=
 284,$45.00,due in 3 days,"Using Headless UI, create a styled Popover component and position it with Popper","I need a Popover component for React that looks like this: https://imgur.com/a/YQHdUfD
 
 Please use Headless UI https://headlessui.com/react/popover to create it. It should have 3 buttons labeled ""Archive"", ""Share"", and ""Delete"". See the image for reference.
@@ -2413,3 +2413,17 @@ The clickable elements of the popover like ""Archive"", ""Share"", and ""Delete"
 The buttons should have a hover effect like the example on the Popover page found here: https://headlessui.com/react/popover
 
 Thanks!",deebarizo,4 hours ago,https://replit.com/bounties/@deebarizo/using-headless-ui-cr?t=
+285,$300.00,due in 24 days,"Kahoot, Quizizz, and Edpuzzle Answer Website","Description
+Create a dynamic website on replit that provides Kahoot answers, Edpuzzle answers and autocomplete, and Quizizz answers for users - in a similar (or exact same) way as the cheat websites https://quizit.online, https://schoolcheats.net, and https://cheatnetwork.eu do.
+It also must have a nice, clean, and easy to use UI (like the sites mentioned above).
+It should also have various slots for google ads to be in on every page except the main page.
+Acceptance Criteria
+Should have decent experience with cheat websites
+Must be capable of getting it done
+
+Additional Details
+Some cheat websites to refer to are:
+https://quizit.online
+https://schoolcheats.net
+https://cheatnetwork.eu
+It is fine with me if more time is needed.",Retrospicer,17 minutes ago,https://replit.com/bounties/@Retrospicer/kahoot-quizizz-and-e?t=
