@@ -2346,7 +2346,7 @@ After the backend functions have been completed, an updated csv file will be ret
 As you can probably tell, I am a new developer. I need your help to guide me on how to connect the frontend to the backend as well.
 
 Acceptance Criteria
-Someone experienced building webapps and has a good eye for minimalist design.",mdotbaig,15 hours ago,https://replit.com/bounties/@mdotbaig/simple-frontend-ui-f?t=
+Someone experienced building webapps and has a good eye for minimalist design.",mdotbaig,16 hours ago,https://replit.com/bounties/@mdotbaig/simple-frontend-ui-f?t=
 280,$13.50,due in 13 days,Can someone help me create mid layer that would allow me to send messages to Midjourney discord bot and download its pictures?,"Currently I have mid-journey paid API can be commercially used but they haven't exposed any of their endpoints yet.
 
 The only way to leverage midjourney model and its service is by using its discord BOT interface.
@@ -2390,7 +2390,7 @@ You can assume every react app using these components will be using Tailwind.
 My test for this would be if I could implement the OpenAI playground exactly like it is using basic flexbox and these components.
 
 Acceptance Criteria
-Must have built composable and actively used React components before.",vibo,11 hours ago,https://replit.com/bounties/@vibo/implement-openais-co?t=
+Must have built composable and actively used React components before.",vibo,12 hours ago,https://replit.com/bounties/@vibo/implement-openais-co?t=
 283,$15.30,closed,Create a python code that prints the meaning of life,"The program should answer the final question.
 Acceptance Criteria
 The answer to everything.",YaronOliker,10 hours ago,https://replit.com/bounties/@YaronOliker/create-a-python-code?t=
@@ -2412,7 +2412,7 @@ The clickable elements of the popover like ""Archive"", ""Share"", and ""Delete"
 
 The buttons should have a hover effect like the example on the Popover page found here: https://headlessui.com/react/popover
 
-Thanks!",deebarizo,9 hours ago,https://replit.com/bounties/@deebarizo/using-headless-ui-cr?t=
+Thanks!",deebarizo,10 hours ago,https://replit.com/bounties/@deebarizo/using-headless-ui-cr?t=
 285,$300.00,due in 23 days,"Kahoot, Quizizz, and Edpuzzle Answer Website","Description
 Create a dynamic website on replit that provides Kahoot answers, Edpuzzle answers and autocomplete, and Quizizz answers for users - in a similar (or exact same) way as the cheat websites https://quizit.online, https://schoolcheats.net, and https://cheatnetwork.eu do.
 It also must have a nice, clean, and easy to use UI (like the sites mentioned above).
@@ -2433,7 +2433,7 @@ Acceptance Criteria
 VERY HIGH.",NotYourMaster,17 minutes ago,https://replit.com/bounties/@NotYourMaster/discord-valid-token?t=
 287,$450.00,due in 6 days,LinkedIn Integration,"Aggregate 1st degree LinkedIn connections to specific person from multiple profiles.
 
-Ex - person A, B and C work together.  They want to recruit person D to work with them.  Compile all the shared connections to person D for A, B and C.",moravitz,2 hours ago,https://replit.com/bounties/@moravitz/linkedin-integration?t=
+Ex - person A, B and C work together.  They want to recruit person D to work with them.  Compile all the shared connections to person D for A, B and C.",moravitz,3 hours ago,https://replit.com/bounties/@moravitz/linkedin-integration?t=
 288,$45.00,due in 3 days,Investment Memo,"Create an AI bot to generate an investment memo based on website URL or description including company overview, the problem the company solves, the product, the target users, the traction and the funding to date
 
 Acceptance Criteria
@@ -2459,4 +2459,4 @@ The VSCode extension should open as a sidebar, and first display all of today's 
 There is also a Graph with hours coded in last 7 days, and also a calendar view showing how much time was spent each day in a month (month should be changeable), and you can click on any day to see more stats on that day.
 
 BONUS (1,000 cycles extra): Google Ads or any other ad provider integration",CoderGautamYT,2 hours ago,https://replit.com/bounties/@CoderGautamYT/vscode-stats-extensi?t=
-291,$72.00,closed,.rar IS HUMAN NOT ROBOT STOP ASKING ARE YOU HUMAN,.rar IS HUMAN NOT ROBOT STOP ASKING ARE YOU HUMAN,MSOPYT,31 minutes ago,https://replit.com/bounties/@MSOPYT/rar-is-human-not-rob?t=
+291,$72.00,closed,.rar IS HUMAN NOT ROBOT STOP ASKING ARE YOU HUMAN,.rar IS HUMAN NOT ROBOT STOP ASKING ARE YOU HUMAN,MSOPYT,53 minutes ago,https://replit.com/bounties/@MSOPYT/rar-is-human-not-rob?t=
