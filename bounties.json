@@ -2896,7 +2896,7 @@
         "title": "Investment Memo",
         "description": "Create an AI bot to generate an investment memo based on website URL or description including company overview, the problem the company solves, the product, the target users, the traction and the funding to date\n\nAcceptance Criteria\nneeds to use LangChain and OpenAI on backend\n\nTechnical Details\nideally send example of past bot or work leveraging langchain",
         "author": "gracevelyn77",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@gracevelyn77/investment-memo?t="
     },
     {
@@ -2908,5 +2908,15 @@
         "author": "CoderGautamYT",
         "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/vscode-stats-extensi?t="
+    },
+    {
+        "index": "291",
+        "price": "$72.00",
+        "due_days": "due in 13 days",
+        "title": ".rar IS HUMAN NOT ROBOT STOP ASKING ARE YOU HUMAN",
+        "description": ".rar IS HUMAN NOT ROBOT STOP ASKING ARE YOU HUMAN",
+        "author": "MSOPYT",
+        "posted_time": "3 minutes ago",
+        "link": "https://replit.com/bounties/@MSOPYT/rar-is-human-not-rob?t="
     }
 ]
