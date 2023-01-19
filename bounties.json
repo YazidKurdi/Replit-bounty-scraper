@@ -2716,7 +2716,7 @@
         "title": "Playground for local models",
         "description": "The goal is to create a web UI like the OpenAI playground that can be used to test your own models (e.g. a T5 finetune). This would require having all the nice UI features of the OpenAI playground, including:\n\nmodel selection\ngeneration parameter selection (temp, max length, etc).\nstop sequence, start text, restart text\nthe ability to show probabilities\ngreen text that behaves like the OpenAI green text\nundo / regenerate buttons\nsaving/loading presets\n\nAcceptance Criteria\n\nYour solution should be written in Python (since the people using this are mostly Pythonistas). I should be able to easily run this and launch a web UI where I can select a model from HuggingFace, and have a UI experience that's hard to distinguish from the OpenAI playground.\n\nAt minimum you should be able to load models locally. For extra credit, consider adding support for remotely inferencing models on huggingface, modal, replicate, cohere, etc.",
         "author": "natfriedman",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@natfriedman/openai-playground-fo?t="
     },
     {
@@ -2796,7 +2796,7 @@
         "title": "Simple frontend UI for my web app",
         "description": "I need someone to build a shallow front-end of my web application. The front end should involve a clean design, taking into account modern design best practices. Here are the critical features:\n\nThe user should be able to log in using a password. For now I just need to password restrict it for myself while I am in development stage.\nThe user should be able to submit a .csv file\nThe csv file should then be delivered to a function in my Java backend.\n\nAfter the backend functions have been completed, an updated csv file will be returned to the user. The user must be able to then click a button to download the resulting csv.\n\nAs you can probably tell, I am a new developer. I need your help to guide me on how to connect the frontend to the backend as well.\n\nAcceptance Criteria\nSomeone experienced building webapps and has a good eye for minimalist design.",
         "author": "mdotbaig",
-        "posted_time": "3 minutes ago",
+        "posted_time": "21 minutes ago",
         "link": "https://replit.com/bounties/@mdotbaig/simple-frontend-ui-f?t="
     }
 ]
