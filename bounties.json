@@ -2826,7 +2826,7 @@
         "title": "Implement OpenAI's component library in React.",
         "description": "I really like OpenAI's style and its UI components, and want to use them in my own React apps.\n\nI need composable React+Typescript components for the following:\n\nButton, with all the variants, with props for adding both icons, text, tooltips etc.\nSlider\nDropdown\nSelect\nTag Input.\nInput with Checkbox\nText Editor\nTimeline\n\nComponent Requirement\nComponents should have typed props.\nComponents can be styled with tailwind, or modularized css/scss.\nThey can use any external library that doesn't depend on global scripts/stylesheet injection.\nYou can assume every react app using these components will be using Tailwind.\n\nMy test for this would be if I could implement the OpenAI playground exactly like it is using basic flexbox and these components.\n\nAcceptance Criteria\nMust have built composable and actively used React components before.",
         "author": "vibo",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@vibo/implement-openais-co?t="
     },
     {
@@ -2846,7 +2846,7 @@
         "title": "Using Headless UI, create a styled Popover component and position it with Popper",
         "description": "I need a Popover component for React that looks like this: https://imgur.com/a/YQHdUfD\n\nPlease use Headless UI https://headlessui.com/react/popover to create it. It should have 3 buttons labeled \"Archive\", \"Share\", and \"Delete\". See the image for reference.\n\nThen, use Popper to position it according to the image.\nhttps://headlessui.com/react/popover#positioning-the-panel\nhttps://popper.js.org/\n\nAcceptance Criteria\n\nIt matches the image and it has popover behavior.\n\nTechnical Details\n\nThe clickable elements of the popover like \"Archive\", \"Share\", and \"Delete\" should be HTML buttons.\n\nThe buttons should have a hover effect like the example on the Popover page found here: https://headlessui.com/react/popover\n\nThanks!",
         "author": "deebarizo",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@deebarizo/using-headless-ui-cr?t="
     },
     {
@@ -2876,7 +2876,7 @@
         "title": "LinkedIn Integration",
         "description": "Aggregate 1st degree LinkedIn connections to specific person from multiple profiles.\n\nEx - person A, B and C work together.  They want to recruit person D to work with them.  Compile all the shared connections to person D for A, B and C.",
         "author": "moravitz",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@moravitz/linkedin-integration?t="
     },
     {
@@ -2926,7 +2926,7 @@
         "title": "AI image generator based on photograph inputs",
         "description": "We dont have a UI for generating AI outputs based on photograph inputs\nAcceptance Criteria\nExperience in working with AI tool APIs\nTechnical Details\nPeople will be able to upload up to 5 photos on this portal and the AI platform (API provided by us) will generate different versions of the photographs.",
         "author": "RamonBerrios",
-        "posted_time": "9 minutes ago",
+        "posted_time": "16 minutes ago",
         "link": "https://replit.com/bounties/@RamonBerrios/ai-image-generator-b?t="
     }
 ]

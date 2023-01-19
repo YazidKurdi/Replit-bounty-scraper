@@ -2390,7 +2390,7 @@ You can assume every react app using these components will be using Tailwind.
 My test for this would be if I could implement the OpenAI playground exactly like it is using basic flexbox and these components.
 
 Acceptance Criteria
-Must have built composable and actively used React components before.",vibo,12 hours ago,https://replit.com/bounties/@vibo/implement-openais-co?t=
+Must have built composable and actively used React components before.",vibo,13 hours ago,https://replit.com/bounties/@vibo/implement-openais-co?t=
 283,$15.30,closed,Create a python code that prints the meaning of life,"The program should answer the final question.
 Acceptance Criteria
 The answer to everything.",YaronOliker,11 hours ago,https://replit.com/bounties/@YaronOliker/create-a-python-code?t=
@@ -2412,7 +2412,7 @@ The clickable elements of the popover like ""Archive"", ""Share"", and ""Delete"
 
 The buttons should have a hover effect like the example on the Popover page found here: https://headlessui.com/react/popover
 
-Thanks!",deebarizo,10 hours ago,https://replit.com/bounties/@deebarizo/using-headless-ui-cr?t=
+Thanks!",deebarizo,11 hours ago,https://replit.com/bounties/@deebarizo/using-headless-ui-cr?t=
 285,$300.00,due in 23 days,"Kahoot, Quizizz, and Edpuzzle Answer Website","Description
 Create a dynamic website on replit that provides Kahoot answers, Edpuzzle answers and autocomplete, and Quizizz answers for users - in a similar (or exact same) way as the cheat websites https://quizit.online, https://schoolcheats.net, and https://cheatnetwork.eu do.
 It also must have a nice, clean, and easy to use UI (like the sites mentioned above).
@@ -2433,7 +2433,7 @@ Acceptance Criteria
 VERY HIGH.",NotYourMaster,17 minutes ago,https://replit.com/bounties/@NotYourMaster/discord-valid-token?t=
 287,$450.00,due in 6 days,LinkedIn Integration,"Aggregate 1st degree LinkedIn connections to specific person from multiple profiles.
 
-Ex - person A, B and C work together.  They want to recruit person D to work with them.  Compile all the shared connections to person D for A, B and C.",moravitz,3 hours ago,https://replit.com/bounties/@moravitz/linkedin-integration?t=
+Ex - person A, B and C work together.  They want to recruit person D to work with them.  Compile all the shared connections to person D for A, B and C.",moravitz,4 hours ago,https://replit.com/bounties/@moravitz/linkedin-integration?t=
 288,$45.00,due in 3 days,Investment Memo,"Create an AI bot to generate an investment memo based on website URL or description including company overview, the problem the company solves, the product, the target users, the traction and the funding to date
 
 Acceptance Criteria
@@ -2464,4 +2464,4 @@ BONUS (1,000 cycles extra): Google Ads or any other ad provider integration",Cod
 Acceptance Criteria
 Experience in working with AI tool APIs
 Technical Details
-People will be able to upload up to 5 photos on this portal and the AI platform (API provided by us) will generate different versions of the photographs.",RamonBerrios,9 minutes ago,https://replit.com/bounties/@RamonBerrios/ai-image-generator-b?t=
+People will be able to upload up to 5 photos on this portal and the AI platform (API provided by us) will generate different versions of the photographs.",RamonBerrios,16 minutes ago,https://replit.com/bounties/@RamonBerrios/ai-image-generator-b?t=
