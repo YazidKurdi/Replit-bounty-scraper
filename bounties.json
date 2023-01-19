@@ -2786,7 +2786,7 @@
         "title": "fine tune GPT for QA against Evernote library",
         "description": "I would like to have a fine-tuned LLM on an Evernote library for chatbot style question answering that runs in local environment.\n\nEasy, except: I can\u2019t provide you with the Evernote library and the library can\u2019t leave the local environment. Library is approx 25000 words. The local environment has a mac intel CPU and an AMD 32gb GPU (sorry\u2026 no silicon or nvidia .)\n\nYou\u2019ll create an OS X app interface that allows for file picking of Evernote library, storage and interacting with chatbot.\n\nOptional ($250 bonus): model accurately Reports references to training dataset\n\nPossible second phase ($tbd): optimization for silicon chipset.\n\nPossible third phase ($tbd): creation of webapp (much easier)\n\nPrice is for phase 1 alone. Negotiable.\n\nAcceptance Criteria\n\nBenchmarking local app performance against unit test library (approx 25000 words)\n\n(Screen share ok) evaluation of model performance in local environment\n\nTechnical Details\n\nAs above. Please request additional specs.\n...",
         "author": "ts2013",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@ts2013/fine-tune-gpt-for-qa?t="
     },
     {
@@ -2836,7 +2836,7 @@
         "title": "Create a python code that prints the meaning of life",
         "description": "The program should answer the final question.\nAcceptance Criteria\nThe answer to everything.",
         "author": "YaronOliker",
-        "posted_time": "55 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@YaronOliker/create-a-python-code?t="
     },
     {
@@ -2846,7 +2846,7 @@
         "title": "Using Headless UI, create a styled Popover component and position it with Popper",
         "description": "I need a Popover component for React that looks like this: https://imgur.com/a/YQHdUfD\n\nPlease use Headless UI https://headlessui.com/react/popover to create it. It should have 3 buttons labeled \"Archive\", \"Share\", and \"Delete\". See the image for reference.\n\nThen, use Popper to position it according to the image.\nhttps://headlessui.com/react/popover#positioning-the-panel\nhttps://popper.js.org/\n\nAcceptance Criteria\n\nIt matches the image and it has popover behavior.\n\nTechnical Details\n\nThe clickable elements of the popover like \"Archive\", \"Share\", and \"Delete\" should be HTML buttons.\n\nThe buttons should have a hover effect like the example on the Popover page found here: https://headlessui.com/react/popover\n\nThanks!",
         "author": "deebarizo",
-        "posted_time": "30 minutes ago",
+        "posted_time": "39 minutes ago",
         "link": "https://replit.com/bounties/@deebarizo/using-headless-ui-cr?t="
     }
 ]

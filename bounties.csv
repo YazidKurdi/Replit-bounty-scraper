@@ -2334,7 +2334,7 @@ Benchmarking local app performance against unit test library (approx 25000 words
 Technical Details
 
 As above. Please request additional specs.
-...",ts2013,11 hours ago,https://replit.com/bounties/@ts2013/fine-tune-gpt-for-qa?t=
+...",ts2013,12 hours ago,https://replit.com/bounties/@ts2013/fine-tune-gpt-for-qa?t=
 279,$50.00,due in 4 days,Simple frontend UI for my web app,"I need someone to build a shallow front-end of my web application. The front end should involve a clean design, taking into account modern design best practices. Here are the critical features:
 
 The user should be able to log in using a password. For now I just need to password restrict it for myself while I am in development stage.
@@ -2393,7 +2393,7 @@ Acceptance Criteria
 Must have built composable and actively used React components before.",vibo,3 hours ago,https://replit.com/bounties/@vibo/implement-openais-co?t=
 283,$15.30,closed,Create a python code that prints the meaning of life,"The program should answer the final question.
 Acceptance Criteria
-The answer to everything.",YaronOliker,55 minutes ago,https://replit.com/bounties/@YaronOliker/create-a-python-code?t=
+The answer to everything.",YaronOliker,1 hour ago,https://replit.com/bounties/@YaronOliker/create-a-python-code?t=
 284,$45.00,due in 4 days,"Using Headless UI, create a styled Popover component and position it with Popper","I need a Popover component for React that looks like this: https://imgur.com/a/YQHdUfD
 
 Please use Headless UI https://headlessui.com/react/popover to create it. It should have 3 buttons labeled ""Archive"", ""Share"", and ""Delete"". See the image for reference.
@@ -2412,4 +2412,4 @@ The clickable elements of the popover like ""Archive"", ""Share"", and ""Delete"
 
 The buttons should have a hover effect like the example on the Popover page found here: https://headlessui.com/react/popover
 
-Thanks!",deebarizo,30 minutes ago,https://replit.com/bounties/@deebarizo/using-headless-ui-cr?t=
+Thanks!",deebarizo,39 minutes ago,https://replit.com/bounties/@deebarizo/using-headless-ui-cr?t=
