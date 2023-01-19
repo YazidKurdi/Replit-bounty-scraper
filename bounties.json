@@ -2806,7 +2806,7 @@
         "title": "Can someone help me create mid layer that would allow me to send messages to Midjourney discord bot and download its pictures?",
         "description": "Currently I have mid-journey paid API can be commercially used but they haven't exposed any of their endpoints yet.\n\nThe only way to leverage midjourney model and its service is by using its discord BOT interface.\n\nI need a temporary solution that would allow me pass the prompt in as well as listen to its reply in Node.js.\n\nYou are welcomed to use Discord.js to handle the communication\n\nAcceptance Criteria\n\nCreate a service that would work and I could test it out.\n\nTechnical Details\n\nLink to Project",
         "author": "Tarzelf",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@Tarzelf/can-someone-help-me?t="
     },
     {
@@ -2816,7 +2816,7 @@
         "title": "VPS Status viewer",
         "description": "Describe the problem you are trying to solve here.\nSo I have alot of vps hertzner and digital ocean and i require a discord bot to monitor all of them or any vps i add to it\nAcceptance Criteria\nBe specific about what you want in the solution here.\n\nA working discord bot that tracks and provides info in a discord server",
         "author": "GuArDiAnops",
-        "posted_time": "14 minutes ago",
+        "posted_time": "32 minutes ago",
         "link": "https://replit.com/bounties/@GuArDiAnops/vps-status-viewer?t="
     }
 ]
