@@ -2726,7 +2726,7 @@
         "title": "Docusaurus with Firebase Auth",
         "description": "Users should have access to a complete authentication experience (specifics in acceptance criteria).\n\nAn unauthenticated user should be able to see no documentation pages, but have access to the blog, and all pages. Should be a button that switches login / logout functionality based on authentication status.\n\nPlease use firebase authentication. In the repo, there is a .env file for your convenience.\n\nAcceptance Criteria\nA user can register an account\nA user is automatically logged in after registration\nA user can login to their account using either email/password, Google, Facebook\nA user is redirected to /docs/intro upon logging in\nA user can press a button to login or logout based on their authentication status\nA user can update password\nAn unauthenticated user can view all pages, and blogs, but nothing in the /docs folder\nAn authenticated user can view all pages on the site, including /docs\n\nTechnical Details\nYou can use this repo to fork, and submit a pull reques...",
         "author": "mosesju",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@mosesju/docusaurus-with-fire?t="
     },
     {
@@ -2736,7 +2736,7 @@
         "title": "Cloneable Zapier + AI workflow templates",
         "description": "I'm running some AI experiments using Zapier. The aim is to build a bunch of use cases e.g. Build your own Email summariser + draft replies, or Create your own AI avatar app - It's possible to do this with Zapier (I have done a few)... And then let anyone clone the template or read the how-to.\n\nI'm looking for someone to help develop ideas, build them with Zapier + AI (OpenAI integration, APIs, webhooks, Replicate etc), offer the templates for free and do a simple text and image write-up for each project.\n\nThis is an ongoing role and we can discuss pay as such.\n\nAcceptance Criteria\nImportant - please send me a workflow you have built with Zapier (bonus points if integrating with AI), say what it does and how, show screenshots of the workflow.\nYou must be very knowledgeable of Zapier. How it works, what's possible, what the limits are etc.\nYou must be self-sufficient, coming up with an idea by scrolling twitter, testing if it's possible, and building it. Without need...",
         "author": "bentossell",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@bentossell/cloneable-zapier-ai?t="
     },
     {
@@ -2756,7 +2756,7 @@
         "title": "Create a Javascript Tutorial from existing videos and notes",
         "description": "We have an existing Javascript playlist of ~100 videos with associated PDF notes. This playlist needs to be converted into a Javascript tutorial using this documentation (https://building-templates.davidatreplit.repl.co/) and the PDF notes need to be converted into markdown files. This does not require any coding knowledge per se but feel free to write a program to automate this conversion into Tutorials.\n\nAs a bonus incentive, you'll get to work directly with CodeWithHarry on this!\n\nAcceptance Criteria\nA complete Javascript playlist with all 100 lessons and associated Repls.",
         "author": "anshul",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@anshul/create-a-javascript?t="
     },
     {
@@ -2786,7 +2786,7 @@
         "title": "fine tune GPT for QA against Evernote library",
         "description": "I would like to have a fine-tuned LLM on an Evernote library for chatbot style question answering that runs in local environment.\n\nEasy, except: I can\u2019t provide you with the Evernote library and the library can\u2019t leave the local environment. Library is approx 25000 words. The local environment has a mac intel CPU and an AMD 32gb GPU (sorry\u2026 no silicon or nvidia .)\n\nYou\u2019ll create an OS X app interface that allows for file picking of Evernote library, storage and interacting with chatbot.\n\nOptional ($250 bonus): model accurately Reports references to training dataset\n\nPossible second phase ($tbd): optimization for silicon chipset.\n\nPossible third phase ($tbd): creation of webapp (much easier)\n\nPrice is for phase 1 alone. Negotiable.\n\nAcceptance Criteria\n\nBenchmarking local app performance against unit test library (approx 25000 words)\n\n(Screen share ok) evaluation of model performance in local environment\n\nTechnical Details\n\nAs above. Please request additional specs.\n...",
         "author": "ts2013",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@ts2013/fine-tune-gpt-for-qa?t="
     },
     {
@@ -2796,7 +2796,7 @@
         "title": "Simple frontend UI for my web app",
         "description": "I need someone to build a shallow front-end of my web application. The front end should involve a clean design, taking into account modern design best practices. Here are the critical features:\n\nThe user should be able to log in using a password. For now I just need to password restrict it for myself while I am in development stage.\nThe user should be able to submit a .csv file\nThe csv file should then be delivered to a function in my Java backend.\n\nAfter the backend functions have been completed, an updated csv file will be returned to the user. The user must be able to then click a button to download the resulting csv.\n\nAs you can probably tell, I am a new developer. I need your help to guide me on how to connect the frontend to the backend as well.\n\nAcceptance Criteria\nSomeone experienced building webapps and has a good eye for minimalist design.",
         "author": "mdotbaig",
-        "posted_time": "21 minutes ago",
+        "posted_time": "40 minutes ago",
         "link": "https://replit.com/bounties/@mdotbaig/simple-frontend-ui-f?t="
     }
 ]
