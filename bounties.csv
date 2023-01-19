@@ -2289,7 +2289,7 @@ The bot presents you some text that shows the task name, the...",cryppadotta,15 
 As a bonus incentive, you'll get to work directly with CodeWithHarry on this!
 
 Acceptance Criteria
-A complete Javascript playlist with all 100 lessons and associated Repls.",anshul,14 hours ago,https://replit.com/bounties/@anshul/create-a-javascript?t=
+A complete Javascript playlist with all 100 lessons and associated Repls.",anshul,15 hours ago,https://replit.com/bounties/@anshul/create-a-javascript?t=
 276,$67.50,closed,Basic Plaid setup,"Create an extremely basic web app that uses Plaid to allow a user to log in to their financial institution. Make sure the access token is saved in an easy to access database.
 
 Just put blank variables for the client id and secret and I will enter those in when evaluating",MitchellTroyano,14 hours ago,https://replit.com/bounties/@MitchellTroyano/basic-plaid-setup?t=
@@ -2334,7 +2334,7 @@ Benchmarking local app performance against unit test library (approx 25000 words
 Technical Details
 
 As above. Please request additional specs.
-...",ts2013,10 hours ago,https://replit.com/bounties/@ts2013/fine-tune-gpt-for-qa?t=
+...",ts2013,11 hours ago,https://replit.com/bounties/@ts2013/fine-tune-gpt-for-qa?t=
 279,$50.00,due in 4 days,Simple frontend UI for my web app,"I need someone to build a shallow front-end of my web application. The front end should involve a clean design, taking into account modern design best practices. Here are the critical features:
 
 The user should be able to log in using a password. For now I just need to password restrict it for myself while I am in development stage.
@@ -2346,7 +2346,7 @@ After the backend functions have been completed, an updated csv file will be ret
 As you can probably tell, I am a new developer. I need your help to guide me on how to connect the frontend to the backend as well.
 
 Acceptance Criteria
-Someone experienced building webapps and has a good eye for minimalist design.",mdotbaig,5 hours ago,https://replit.com/bounties/@mdotbaig/simple-frontend-ui-f?t=
+Someone experienced building webapps and has a good eye for minimalist design.",mdotbaig,6 hours ago,https://replit.com/bounties/@mdotbaig/simple-frontend-ui-f?t=
 280,$13.50,due in 14 days,Can someone help me create mid layer that would allow me to send messages to Midjourney discord bot and download its pictures?,"Currently I have mid-journey paid API can be commercially used but they haven't exposed any of their endpoints yet.
 
 The only way to leverage midjourney model and its service is by using its discord BOT interface.
@@ -2390,4 +2390,7 @@ You can assume every react app using these components will be using Tailwind.
 My test for this would be if I could implement the OpenAI playground exactly like it is using basic flexbox and these components.
 
 Acceptance Criteria
-Must have built composable and actively used React components before.",vibo,1 hour ago,https://replit.com/bounties/@vibo/implement-openais-co?t=
+Must have built composable and actively used React components before.",vibo,2 hours ago,https://replit.com/bounties/@vibo/implement-openais-co?t=
+283,$15.30,due in 14 days,Create a python code that prints the meaning of life,"The program should answer the final question.
+Acceptance Criteria
+The answer to everything.",YaronOliker,3 minutes ago,https://replit.com/bounties/@YaronOliker/create-a-python-code?t=
