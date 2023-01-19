@@ -2786,7 +2786,7 @@
         "title": "fine tune GPT for QA against Evernote library",
         "description": "I would like to have a fine-tuned LLM on an Evernote library for chatbot style question answering that runs in local environment.\n\nEasy, except: I can\u2019t provide you with the Evernote library and the library can\u2019t leave the local environment. Library is approx 25000 words. The local environment has a mac intel CPU and an AMD 32gb GPU (sorry\u2026 no silicon or nvidia .)\n\nYou\u2019ll create an OS X app interface that allows for file picking of Evernote library, storage and interacting with chatbot.\n\nOptional ($250 bonus): model accurately Reports references to training dataset\n\nPossible second phase ($tbd): optimization for silicon chipset.\n\nPossible third phase ($tbd): creation of webapp (much easier)\n\nPrice is for phase 1 alone. Negotiable.\n\nAcceptance Criteria\n\nBenchmarking local app performance against unit test library (approx 25000 words)\n\n(Screen share ok) evaluation of model performance in local environment\n\nTechnical Details\n\nAs above. Please request additional specs.\n...",
         "author": "ts2013",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@ts2013/fine-tune-gpt-for-qa?t="
     },
     {
@@ -2796,7 +2796,7 @@
         "title": "Simple frontend UI for my web app",
         "description": "I need someone to build a shallow front-end of my web application. The front end should involve a clean design, taking into account modern design best practices. Here are the critical features:\n\nThe user should be able to log in using a password. For now I just need to password restrict it for myself while I am in development stage.\nThe user should be able to submit a .csv file\nThe csv file should then be delivered to a function in my Java backend.\n\nAfter the backend functions have been completed, an updated csv file will be returned to the user. The user must be able to then click a button to download the resulting csv.\n\nAs you can probably tell, I am a new developer. I need your help to guide me on how to connect the frontend to the backend as well.\n\nAcceptance Criteria\nSomeone experienced building webapps and has a good eye for minimalist design.",
         "author": "mdotbaig",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/simple-frontend-ui-f?t="
     },
     {
@@ -2826,7 +2826,7 @@
         "title": "Implement OpenAI's component library in React.",
         "description": "I really like OpenAI's style and its UI components, and want to use them in my own React apps.\n\nI need composable React+Typescript components for the following:\n\nButton, with all the variants, with props for adding both icons, text, tooltips etc.\nSlider\nDropdown\nSelect\nTag Input.\nInput with Checkbox\nText Editor\nTimeline\n\nComponent Requirement\nComponents should have typed props.\nComponents can be styled with tailwind, or modularized css/scss.\nThey can use any external library that doesn't depend on global scripts/stylesheet injection.\nYou can assume every react app using these components will be using Tailwind.\n\nMy test for this would be if I could implement the OpenAI playground exactly like it is using basic flexbox and these components.\n\nAcceptance Criteria\nMust have built composable and actively used React components before.",
         "author": "vibo",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@vibo/implement-openais-co?t="
     },
     {
@@ -2846,7 +2846,7 @@
         "title": "Using Headless UI, create a styled Popover component and position it with Popper",
         "description": "I need a Popover component for React that looks like this: https://imgur.com/a/YQHdUfD\n\nPlease use Headless UI https://headlessui.com/react/popover to create it. It should have 3 buttons labeled \"Archive\", \"Share\", and \"Delete\". See the image for reference.\n\nThen, use Popper to position it according to the image.\nhttps://headlessui.com/react/popover#positioning-the-panel\nhttps://popper.js.org/\n\nAcceptance Criteria\n\nIt matches the image and it has popover behavior.\n\nTechnical Details\n\nThe clickable elements of the popover like \"Archive\", \"Share\", and \"Delete\" should be HTML buttons.\n\nThe buttons should have a hover effect like the example on the Popover page found here: https://headlessui.com/react/popover\n\nThanks!",
         "author": "deebarizo",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@deebarizo/using-headless-ui-cr?t="
     },
     {
@@ -2856,7 +2856,7 @@
         "title": "Kahoot, Quizizz, and Edpuzzle Answer Website",
         "description": "Description\nCreate a dynamic website on replit that provides Kahoot answers, Edpuzzle answers and autocomplete, and Quizizz answers for users - in a similar (or exact same) way as the cheat websites https://quizit.online, https://schoolcheats.net, and https://cheatnetwork.eu do.\nIt also must have a nice, clean, and easy to use UI (like the sites mentioned above).\nIt should also have various slots for google ads to be in on every page except the main page.\nAcceptance Criteria\nShould have decent experience with cheat websites\nMust be capable of getting it done\n\nAdditional Details\nSome cheat websites to refer to are:\nhttps://quizit.online\nhttps://schoolcheats.net\nhttps://cheatnetwork.eu\nIt is fine with me if more time is needed.",
         "author": "Retrospicer",
-        "posted_time": "17 minutes ago",
+        "posted_time": "33 minutes ago",
         "link": "https://replit.com/bounties/@Retrospicer/kahoot-quizizz-and-e?t="
     }
 ]
