@@ -2292,7 +2292,7 @@ Acceptance Criteria
 A complete Javascript playlist with all 100 lessons and associated Repls.",anshul,16 hours ago,https://replit.com/bounties/@anshul/create-a-javascript?t=
 276,$67.50,closed,Basic Plaid setup,"Create an extremely basic web app that uses Plaid to allow a user to log in to their financial institution. Make sure the access token is saved in an easy to access database.
 
-Just put blank variables for the client id and secret and I will enter those in when evaluating",MitchellTroyano,15 hours ago,https://replit.com/bounties/@MitchellTroyano/basic-plaid-setup?t=
+Just put blank variables for the client id and secret and I will enter those in when evaluating",MitchellTroyano,16 hours ago,https://replit.com/bounties/@MitchellTroyano/basic-plaid-setup?t=
 277,$180.00,due in 22 days,MQTT-based Chat Web Interface ,"Create a web interface for an MQTT-based chat system that allows users to login and participate in real-time conversations.
 Utilize a free MQTT server, such as HiveMQ, to handle the messaging functionality.
 Create a chatbot that is able to read and respond to messages within the chat system.
@@ -2310,7 +2310,7 @@ Acceptance Criteria
 Functionality of the web interface and chatbot
 Quality of the user interface and user experience
 Proper use of the MQTT server and messaging functionality
-Proper implementation...",KaiHoeffner,12 hours ago,https://replit.com/bounties/@KaiHoeffner/mqtt-based-chat-web?t=
+Proper implementation...",KaiHoeffner,13 hours ago,https://replit.com/bounties/@KaiHoeffner/mqtt-based-chat-web?t=
 278,$450.00,due in 3 days,fine tune GPT for QA against Evernote library,"I would like to have a fine-tuned LLM on an Evernote library for chatbot style question answering that runs in local environment.
 
 Easy, except: I can’t provide you with the Evernote library and the library can’t leave the local environment. Library is approx 25000 words. The local environment has a mac intel CPU and an AMD 32gb GPU (sorry… no silicon or nvidia .)
@@ -2412,4 +2412,4 @@ The clickable elements of the popover like ""Archive"", ""Share"", and ""Delete"
 
 The buttons should have a hover effect like the example on the Popover page found here: https://headlessui.com/react/popover
 
-Thanks!",deebarizo,49 minutes ago,https://replit.com/bounties/@deebarizo/using-headless-ui-cr?t=
+Thanks!",deebarizo,59 minutes ago,https://replit.com/bounties/@deebarizo/using-headless-ui-cr?t=
