@@ -2906,7 +2906,7 @@
         "title": "VSCode Stats Extension",
         "description": "I spend hours every day coding on VSCode. I wish there was a way to track my time and lines of code typed each day.\n\nAcceptance Criteria\nA Visual Studio Code extension that tracks these 2 stats\nTime coded each day\nLines of code typed each day (along with lines of code for each of the languages which was typed)\n\nThe VSCode extension should open as a sidebar, and first display all of today's stats in an appealing format. Users will be able to change the date as well, to see how much they coded on any day.\n\nThere is also a Graph with hours coded in last 7 days, and also a calendar view showing how much time was spent each day in a month (month should be changeable), and you can click on any day to see more stats on that day.\n\nBONUS (1,000 cycles extra): Google Ads or any other ad provider integration",
         "author": "CoderGautamYT",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/vscode-stats-extensi?t="
     },
     {
