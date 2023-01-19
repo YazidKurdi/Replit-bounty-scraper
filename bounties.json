@@ -2896,7 +2896,7 @@
         "title": "Investment Memo",
         "description": "Create an AI bot to generate an investment memo based on website URL or description including company overview, the problem the company solves, the product, the target users, the traction and the funding to date\n\nAcceptance Criteria\nneeds to use LangChain and OpenAI on backend\n\nTechnical Details\nideally send example of past bot or work leveraging langchain",
         "author": "gracevelyn77",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@gracevelyn77/investment-memo?t="
     },
     {
@@ -2926,7 +2926,7 @@
         "title": "AI image generator based on photograph inputs",
         "description": "We dont have a UI for generating AI outputs based on photograph inputs\nAcceptance Criteria\nExperience in working with AI tool APIs\nTechnical Details\nPeople will be able to upload up to 5 photos on this portal and the AI platform (API provided by us) will generate different versions of the photographs.",
         "author": "RamonBerrios",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@RamonBerrios/ai-image-generator-b?t="
     },
     {
@@ -2936,7 +2936,7 @@
         "title": "Vue2 Component that shows an animation of a client communicating with server",
         "description": "Vue2 component that shows an animated client / server diagram based on a \"state\" that gets passed in\n\nprops:\n state (enum consisting of sending / receiving / completed / etc)\n\nSee here for schematic and full list of states:\nhttps://jamboard.google.com/d/18DOGW8M9ATEt-3rguhAPQv5pblkAAVGqgX8dPJHPI/edit?usp=sharing\n\nAcceptance Criteria\n1) it works\n2) it's understandable and can be tweaked and modified by us OR if it's an insane ball of mud we go back and forth on tweaks until it looks right\n\nTechnical Details\nTwo additional considerations that may come up down the line (see Jamboard)\nWe may want to rotate it for mobile\nWe may want to add more boxes to the diagram\n\nI'm not an HTML animation expert, but it feels like vanilla HTML/JS/CSS + grid/flex would do the trick. Don't think we need canvas or SVG or anything beyond that... But happy to chat implementation details if you feel otherwise.\n\nLink to Project\nhttps://jamboard.google.com/d/18DOGW8M9ATEt-3rguhAPQv5pblkAAVGqg...",
         "author": "anguspmitchell",
-        "posted_time": "51 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@anguspmitchell/vue2-component-that?t="
     }
 ]
