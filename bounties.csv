@@ -2310,7 +2310,7 @@ Acceptance Criteria
 Functionality of the web interface and chatbot
 Quality of the user interface and user experience
 Proper use of the MQTT server and messaging functionality
-Proper implementation...",KaiHoeffner,7 hours ago,https://replit.com/bounties/@KaiHoeffner/mqtt-based-chat-web?t=
+Proper implementation...",KaiHoeffner,8 hours ago,https://replit.com/bounties/@KaiHoeffner/mqtt-based-chat-web?t=
 278,$450.00,due in 3 days,fine tune GPT for QA against Evernote library,"I would like to have a fine-tuned LLM on an Evernote library for chatbot style question answering that runs in local environment.
 
 Easy, except: I can’t provide you with the Evernote library and the library can’t leave the local environment. Library is approx 25000 words. The local environment has a mac intel CPU and an AMD 32gb GPU (sorry… no silicon or nvidia .)
@@ -2347,7 +2347,7 @@ As you can probably tell, I am a new developer. I need your help to guide me on 
 
 Acceptance Criteria
 Someone experienced building webapps and has a good eye for minimalist design.",mdotbaig,2 hours ago,https://replit.com/bounties/@mdotbaig/simple-frontend-ui-f?t=
-280,$13.50,due in 15 days,Can someone help me create mid layer that would allow me to send messages to Midjourney discord bot and download its pictures?,"Currently I have mid-journey paid API can be commercially used but they haven't exposed any of their endpoints yet.
+280,$13.50,due in 14 days,Can someone help me create mid layer that would allow me to send messages to Midjourney discord bot and download its pictures?,"Currently I have mid-journey paid API can be commercially used but they haven't exposed any of their endpoints yet.
 
 The only way to leverage midjourney model and its service is by using its discord BOT interface.
 
@@ -2361,4 +2361,4 @@ Create a service that would work and I could test it out.
 
 Technical Details
 
-Link to Project",Tarzelf,7 minutes ago,https://replit.com/bounties/@Tarzelf/can-someone-help-me?t=
+Link to Project",Tarzelf,15 minutes ago,https://replit.com/bounties/@Tarzelf/can-someone-help-me?t=
