@@ -2283,7 +2283,7 @@ The bot makes an API call to Asana to collect all of your Projects
 The bot presents you with a Dropdown Select Menu to pick your project
 The bot makes an API call to Asana to collect all of your team members
 The bot presents you with a Dropdown Select Menu to pick who to assign it to
-The bot presents you some text that shows the task name, the...",cryppadotta,13 hours ago,https://replit.com/bounties/@cryppadotta/discordjs-bot-to-cre?t=
+The bot presents you some text that shows the task name, the...",cryppadotta,14 hours ago,https://replit.com/bounties/@cryppadotta/discordjs-bot-to-cre?t=
 275,$198.00,due in 12 days,Create a Javascript Tutorial from existing videos and notes,"We have an existing Javascript playlist of ~100 videos with associated PDF notes. This playlist needs to be converted into a Javascript tutorial using this documentation (https://building-templates.davidatreplit.repl.co/) and the PDF notes need to be converted into markdown files. This does not require any coding knowledge per se but feel free to write a program to automate this conversion into Tutorials.
 
 As a bonus incentive, you'll get to work directly with CodeWithHarry on this!
@@ -2292,7 +2292,7 @@ Acceptance Criteria
 A complete Javascript playlist with all 100 lessons and associated Repls.",anshul,13 hours ago,https://replit.com/bounties/@anshul/create-a-javascript?t=
 276,$67.50,closed,Basic Plaid setup,"Create an extremely basic web app that uses Plaid to allow a user to log in to their financial institution. Make sure the access token is saved in an easy to access database.
 
-Just put blank variables for the client id and secret and I will enter those in when evaluating",MitchellTroyano,12 hours ago,https://replit.com/bounties/@MitchellTroyano/basic-plaid-setup?t=
+Just put blank variables for the client id and secret and I will enter those in when evaluating",MitchellTroyano,13 hours ago,https://replit.com/bounties/@MitchellTroyano/basic-plaid-setup?t=
 277,$180.00,due in 22 days,MQTT-based Chat Web Interface ,"Create a web interface for an MQTT-based chat system that allows users to login and participate in real-time conversations.
 Utilize a free MQTT server, such as HiveMQ, to handle the messaging functionality.
 Create a chatbot that is able to read and respond to messages within the chat system.
@@ -2367,4 +2367,4 @@ So I have alot of vps hertzner and digital ocean and i require a discord bot to 
 Acceptance Criteria
 Be specific about what you want in the solution here.
 
-A working discord bot that tracks and provides info in a discord server",GuArDiAnops,54 minutes ago,https://replit.com/bounties/@GuArDiAnops/vps-status-viewer?t=
+A working discord bot that tracks and provides info in a discord server",GuArDiAnops,1 hour ago,https://replit.com/bounties/@GuArDiAnops/vps-status-viewer?t=
