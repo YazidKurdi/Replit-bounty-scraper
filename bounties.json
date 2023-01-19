@@ -2786,7 +2786,7 @@
         "title": "fine tune GPT for QA against Evernote library",
         "description": "I would like to have a fine-tuned LLM on an Evernote library for chatbot style question answering that runs in local environment.\n\nEasy, except: I can\u2019t provide you with the Evernote library and the library can\u2019t leave the local environment. Library is approx 25000 words. The local environment has a mac intel CPU and an AMD 32gb GPU (sorry\u2026 no silicon or nvidia .)\n\nYou\u2019ll create an OS X app interface that allows for file picking of Evernote library, storage and interacting with chatbot.\n\nOptional ($250 bonus): model accurately Reports references to training dataset\n\nPossible second phase ($tbd): optimization for silicon chipset.\n\nPossible third phase ($tbd): creation of webapp (much easier)\n\nPrice is for phase 1 alone. Negotiable.\n\nAcceptance Criteria\n\nBenchmarking local app performance against unit test library (approx 25000 words)\n\n(Screen share ok) evaluation of model performance in local environment\n\nTechnical Details\n\nAs above. Please request additional specs.\n...",
         "author": "ts2013",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@ts2013/fine-tune-gpt-for-qa?t="
     },
     {
@@ -2856,7 +2856,7 @@
         "title": "Kahoot, Quizizz, and Edpuzzle Answer Website",
         "description": "Description\nCreate a dynamic website on replit that provides Kahoot answers, Edpuzzle answers and autocomplete, and Quizizz answers for users - in a similar (or exact same) way as the cheat websites https://quizit.online, https://schoolcheats.net, and https://cheatnetwork.eu do.\nIt also must have a nice, clean, and easy to use UI (like the sites mentioned above).\nIt should also have various slots for google ads to be in on every page except the main page.\nAcceptance Criteria\nShould have decent experience with cheat websites\nMust be capable of getting it done\n\nAdditional Details\nSome cheat websites to refer to are:\nhttps://quizit.online\nhttps://schoolcheats.net\nhttps://cheatnetwork.eu\nIt is fine with me if more time is needed.",
         "author": "Retrospicer",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@Retrospicer/kahoot-quizizz-and-e?t="
     },
     {
