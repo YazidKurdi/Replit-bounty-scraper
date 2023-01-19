@@ -2746,7 +2746,7 @@
         "title": "Discord.js Bot to Create Tasks in Asana",
         "description": "tl;dr: Create a Discord bot that can be used to create and assign tasks in Asana.\n\nCreate a Discord bot which can listen in all channels of a Discord server simultaneously. The workflow is as follows:\n\nwhen you type /asana the bot responds with two buttons:\n  Create Task\n  View Asana\n\n> Note that the bot should only be visible to the person who typed /asana, as much as possible, until the end when the task is announced to the channel\n\nIf you click \"View Asana\" your browser is opened to https://asana.com\nIf you click \"Create Task\" the bot replies and asks what you want to name the task\nYou type in what you want to name the task\nThe bot makes an API call to Asana to collect all of your Projects\nThe bot presents you with a Dropdown Select Menu to pick your project\nThe bot makes an API call to Asana to collect all of your team members\nThe bot presents you with a Dropdown Select Menu to pick who to assign it to\nThe bot presents you some text that shows the task name, the...",
         "author": "cryppadotta",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@cryppadotta/discordjs-bot-to-cre?t="
     },
     {
@@ -2806,7 +2806,17 @@
         "title": "Can someone help me create mid layer that would allow me to send messages to Midjourney discord bot and download its pictures?",
         "description": "Currently I have mid-journey paid API can be commercially used but they haven't exposed any of their endpoints yet.\n\nThe only way to leverage midjourney model and its service is by using its discord BOT interface.\n\nI need a temporary solution that would allow me pass the prompt in as well as listen to its reply in Node.js.\n\nYou are welcomed to use Discord.js to handle the communication\n\nAcceptance Criteria\n\nCreate a service that would work and I could test it out.\n\nTechnical Details\n\nLink to Project",
         "author": "Tarzelf",
-        "posted_time": "56 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@Tarzelf/can-someone-help-me?t="
+    },
+    {
+        "index": "281",
+        "price": "$4.50",
+        "due_days": "due in 26 days",
+        "title": "VPS Status viewer",
+        "description": "Describe the problem you are trying to solve here.\nSo I have alot of vps hertzner and digital ocean and i require a discord bot to monitor all of them or any vps i add to it\nAcceptance Criteria\nBe specific about what you want in the solution here.\n\nA working discord bot that tracks and provides info in a discord server",
+        "author": "GuArDiAnops",
+        "posted_time": "4 minutes ago",
+        "link": "https://replit.com/bounties/@GuArDiAnops/vps-status-viewer?t="
     }
 ]
