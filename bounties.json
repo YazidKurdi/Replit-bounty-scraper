@@ -2786,7 +2786,7 @@
         "title": "fine tune GPT for QA against Evernote library",
         "description": "I would like to have a fine-tuned LLM on an Evernote library for chatbot style question answering that runs in local environment.\n\nEasy, except: I can\u2019t provide you with the Evernote library and the library can\u2019t leave the local environment. Library is approx 25000 words. The local environment has a mac intel CPU and an AMD 32gb GPU (sorry\u2026 no silicon or nvidia .)\n\nYou\u2019ll create an OS X app interface that allows for file picking of Evernote library, storage and interacting with chatbot.\n\nOptional ($250 bonus): model accurately Reports references to training dataset\n\nPossible second phase ($tbd): optimization for silicon chipset.\n\nPossible third phase ($tbd): creation of webapp (much easier)\n\nPrice is for phase 1 alone. Negotiable.\n\nAcceptance Criteria\n\nBenchmarking local app performance against unit test library (approx 25000 words)\n\n(Screen share ok) evaluation of model performance in local environment\n\nTechnical Details\n\nAs above. Please request additional specs.\n...",
         "author": "ts2013",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@ts2013/fine-tune-gpt-for-qa?t="
     },
     {
@@ -2826,7 +2826,7 @@
         "title": "Implement OpenAI's component library in React.",
         "description": "I really like OpenAI's style and its UI components, and want to use them in my own React apps.\n\nI need composable React+Typescript components for the following:\n\nButton, with all the variants, with props for adding both icons, text, tooltips etc.\nSlider\nDropdown\nSelect\nTag Input.\nInput with Checkbox\nText Editor\nTimeline\n\nComponent Requirement\nComponents should have typed props.\nComponents can be styled with tailwind, or modularized css/scss.\nThey can use any external library that doesn't depend on global scripts/stylesheet injection.\nYou can assume every react app using these components will be using Tailwind.\n\nMy test for this would be if I could implement the OpenAI playground exactly like it is using basic flexbox and these components.\n\nAcceptance Criteria\nMust have built composable and actively used React components before.",
         "author": "vibo",
-        "posted_time": "33 minutes ago",
+        "posted_time": "45 minutes ago",
         "link": "https://replit.com/bounties/@vibo/implement-openais-co?t="
     }
 ]

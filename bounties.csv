@@ -2334,7 +2334,7 @@ Benchmarking local app performance against unit test library (approx 25000 words
 Technical Details
 
 As above. Please request additional specs.
-...",ts2013,9 hours ago,https://replit.com/bounties/@ts2013/fine-tune-gpt-for-qa?t=
+...",ts2013,10 hours ago,https://replit.com/bounties/@ts2013/fine-tune-gpt-for-qa?t=
 279,$50.00,due in 4 days,Simple frontend UI for my web app,"I need someone to build a shallow front-end of my web application. The front end should involve a clean design, taking into account modern design best practices. Here are the critical features:
 
 The user should be able to log in using a password. For now I just need to password restrict it for myself while I am in development stage.
@@ -2390,4 +2390,4 @@ You can assume every react app using these components will be using Tailwind.
 My test for this would be if I could implement the OpenAI playground exactly like it is using basic flexbox and these components.
 
 Acceptance Criteria
-Must have built composable and actively used React components before.",vibo,33 minutes ago,https://replit.com/bounties/@vibo/implement-openais-co?t=
+Must have built composable and actively used React components before.",vibo,45 minutes ago,https://replit.com/bounties/@vibo/implement-openais-co?t=
