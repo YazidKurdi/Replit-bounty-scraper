@@ -2237,7 +2237,7 @@ Acceptance Criteria
 
 Your solution should be written in Python (since the people using this are mostly Pythonistas). I should be able to easily run this and launch a web UI where I can select a model from HuggingFace, and have a UI experience that's hard to distinguish from the OpenAI playground.
 
-At minimum you should be able to load models locally. For extra credit, consider adding support for remotely inferencing models on huggingface, modal, replicate, cohere, etc.",natfriedman,20 hours ago,https://replit.com/bounties/@natfriedman/openai-playground-fo?t=
+At minimum you should be able to load models locally. For extra credit, consider adding support for remotely inferencing models on huggingface, modal, replicate, cohere, etc.",natfriedman,21 hours ago,https://replit.com/bounties/@natfriedman/openai-playground-fo?t=
 272,$54.00,due in 6 days,Docusaurus with Firebase Auth,"Users should have access to a complete authentication experience (specifics in acceptance criteria).
 
 An unauthenticated user should be able to see no documentation pages, but have access to the blog, and all pages. Should be a button that switches login / logout functionality based on authentication status.
@@ -2361,4 +2361,4 @@ Create a service that would work and I could test it out.
 
 Technical Details
 
-Link to Project",Tarzelf,15 minutes ago,https://replit.com/bounties/@Tarzelf/can-someone-help-me?t=
+Link to Project",Tarzelf,31 minutes ago,https://replit.com/bounties/@Tarzelf/can-someone-help-me?t=

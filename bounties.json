@@ -2716,7 +2716,7 @@
         "title": "Playground for local models",
         "description": "The goal is to create a web UI like the OpenAI playground that can be used to test your own models (e.g. a T5 finetune). This would require having all the nice UI features of the OpenAI playground, including:\n\nmodel selection\ngeneration parameter selection (temp, max length, etc).\nstop sequence, start text, restart text\nthe ability to show probabilities\ngreen text that behaves like the OpenAI green text\nundo / regenerate buttons\nsaving/loading presets\n\nAcceptance Criteria\n\nYour solution should be written in Python (since the people using this are mostly Pythonistas). I should be able to easily run this and launch a web UI where I can select a model from HuggingFace, and have a UI experience that's hard to distinguish from the OpenAI playground.\n\nAt minimum you should be able to load models locally. For extra credit, consider adding support for remotely inferencing models on huggingface, modal, replicate, cohere, etc.",
         "author": "natfriedman",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@natfriedman/openai-playground-fo?t="
     },
     {
@@ -2806,7 +2806,7 @@
         "title": "Can someone help me create mid layer that would allow me to send messages to Midjourney discord bot and download its pictures?",
         "description": "Currently I have mid-journey paid API can be commercially used but they haven't exposed any of their endpoints yet.\n\nThe only way to leverage midjourney model and its service is by using its discord BOT interface.\n\nI need a temporary solution that would allow me pass the prompt in as well as listen to its reply in Node.js.\n\nYou are welcomed to use Discord.js to handle the communication\n\nAcceptance Criteria\n\nCreate a service that would work and I could test it out.\n\nTechnical Details\n\nLink to Project",
         "author": "Tarzelf",
-        "posted_time": "15 minutes ago",
+        "posted_time": "31 minutes ago",
         "link": "https://replit.com/bounties/@Tarzelf/can-someone-help-me?t="
     }
 ]
