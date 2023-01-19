@@ -2346,7 +2346,7 @@ After the backend functions have been completed, an updated csv file will be ret
 As you can probably tell, I am a new developer. I need your help to guide me on how to connect the frontend to the backend as well.
 
 Acceptance Criteria
-Someone experienced building webapps and has a good eye for minimalist design.",mdotbaig,14 hours ago,https://replit.com/bounties/@mdotbaig/simple-frontend-ui-f?t=
+Someone experienced building webapps and has a good eye for minimalist design.",mdotbaig,15 hours ago,https://replit.com/bounties/@mdotbaig/simple-frontend-ui-f?t=
 280,$13.50,due in 13 days,Can someone help me create mid layer that would allow me to send messages to Midjourney discord bot and download its pictures?,"Currently I have mid-journey paid API can be commercially used but they haven't exposed any of their endpoints yet.
 
 The only way to leverage midjourney model and its service is by using its discord BOT interface.
@@ -2367,7 +2367,7 @@ So I have alot of vps hertzner and digital ocean and i require a discord bot to 
 Acceptance Criteria
 Be specific about what you want in the solution here.
 
-A working discord bot that tracks and provides info in a discord server",GuArDiAnops,11 hours ago,https://replit.com/bounties/@GuArDiAnops/vps-status-viewer?t=
+A working discord bot that tracks and provides info in a discord server",GuArDiAnops,12 hours ago,https://replit.com/bounties/@GuArDiAnops/vps-status-viewer?t=
 282,$630.00,due in 7 days,Implement OpenAI's component library in React.,"I really like OpenAI's style and its UI components, and want to use them in my own React apps.
 
 I need composable React+Typescript components for the following:
@@ -2390,7 +2390,7 @@ You can assume every react app using these components will be using Tailwind.
 My test for this would be if I could implement the OpenAI playground exactly like it is using basic flexbox and these components.
 
 Acceptance Criteria
-Must have built composable and actively used React components before.",vibo,10 hours ago,https://replit.com/bounties/@vibo/implement-openais-co?t=
+Must have built composable and actively used React components before.",vibo,11 hours ago,https://replit.com/bounties/@vibo/implement-openais-co?t=
 283,$15.30,closed,Create a python code that prints the meaning of life,"The program should answer the final question.
 Acceptance Criteria
 The answer to everything.",YaronOliker,9 hours ago,https://replit.com/bounties/@YaronOliker/create-a-python-code?t=
@@ -2412,7 +2412,7 @@ The clickable elements of the popover like ""Archive"", ""Share"", and ""Delete"
 
 The buttons should have a hover effect like the example on the Popover page found here: https://headlessui.com/react/popover
 
-Thanks!",deebarizo,8 hours ago,https://replit.com/bounties/@deebarizo/using-headless-ui-cr?t=
+Thanks!",deebarizo,9 hours ago,https://replit.com/bounties/@deebarizo/using-headless-ui-cr?t=
 285,$300.00,due in 23 days,"Kahoot, Quizizz, and Edpuzzle Answer Website","Description
 Create a dynamic website on replit that provides Kahoot answers, Edpuzzle answers and autocomplete, and Quizizz answers for users - in a similar (or exact same) way as the cheat websites https://quizit.online, https://schoolcheats.net, and https://cheatnetwork.eu do.
 It also must have a nice, clean, and easy to use UI (like the sites mentioned above).
@@ -2446,7 +2446,7 @@ Acceptance Criteria
 needs to use LangChain and OpenAI on backend
 
 Technical Details
-ideally send example of past bot or work leveraging langchain",gracevelyn77,57 minutes ago,https://replit.com/bounties/@gracevelyn77/investment-memo?t=
+ideally send example of past bot or work leveraging langchain",gracevelyn77,1 hour ago,https://replit.com/bounties/@gracevelyn77/investment-memo?t=
 290,$50.00,due in 12 days,VSCode Stats Extension,"I spend hours every day coding on VSCode. I wish there was a way to track my time and lines of code typed each day.
 
 Acceptance Criteria
@@ -2458,4 +2458,4 @@ The VSCode extension should open as a sidebar, and first display all of today's 
 
 There is also a Graph with hours coded in last 7 days, and also a calendar view showing how much time was spent each day in a month (month should be changeable), and you can click on any day to see more stats on that day.
 
-BONUS (1,000 cycles extra): Google Ads or any other ad provider integration",CoderGautamYT,53 minutes ago,https://replit.com/bounties/@CoderGautamYT/vscode-stats-extensi?t=
+BONUS (1,000 cycles extra): Google Ads or any other ad provider integration",CoderGautamYT,1 hour ago,https://replit.com/bounties/@CoderGautamYT/vscode-stats-extensi?t=
