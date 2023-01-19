@@ -2806,7 +2806,7 @@
         "title": "Can someone help me create mid layer that would allow me to send messages to Midjourney discord bot and download its pictures?",
         "description": "Currently I have mid-journey paid API can be commercially used but they haven't exposed any of their endpoints yet.\n\nThe only way to leverage midjourney model and its service is by using its discord BOT interface.\n\nI need a temporary solution that would allow me pass the prompt in as well as listen to its reply in Node.js.\n\nYou are welcomed to use Discord.js to handle the communication\n\nAcceptance Criteria\n\nCreate a service that would work and I could test it out.\n\nTechnical Details\n\nLink to Project",
         "author": "Tarzelf",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@Tarzelf/can-someone-help-me?t="
     },
     {
@@ -2826,7 +2826,7 @@
         "title": "Implement OpenAI's component library in React.",
         "description": "I really like OpenAI's style and its UI components, and want to use them in my own React apps.\n\nI need composable React+Typescript components for the following:\n\nButton, with all the variants, with props for adding both icons, text, tooltips etc.\nSlider\nDropdown\nSelect\nTag Input.\nInput with Checkbox\nText Editor\nTimeline\n\nComponent Requirement\nComponents should have typed props.\nComponents can be styled with tailwind, or modularized css/scss.\nThey can use any external library that doesn't depend on global scripts/stylesheet injection.\nYou can assume every react app using these components will be using Tailwind.\n\nMy test for this would be if I could implement the OpenAI playground exactly like it is using basic flexbox and these components.\n\nAcceptance Criteria\nMust have built composable and actively used React components before.",
         "author": "vibo",
-        "posted_time": "4 minutes ago",
+        "posted_time": "19 minutes ago",
         "link": "https://replit.com/bounties/@vibo/implement-openais-co?t="
     }
 ]
