@@ -2776,7 +2776,7 @@
         "title": "MQTT-based Chat Web Interface ",
         "description": "Create a web interface for an MQTT-based chat system that allows users to login and participate in real-time conversations.\nUtilize a free MQTT server, such as HiveMQ, to handle the messaging functionality.\nCreate a chatbot that is able to read and respond to messages within the chat system.\nImplement polling functionality with custom fields, such as asking users what type of food they would like to order for lunch.\nAllow users to save polls as templates, such as asking where they would like to go for lunch (options A/B/C/D).\n\nTechnical Details\n\nA functional web interface for an MQTT-based chat system that includes a chatbot and polling functionality with the ability to save polls as templates.\nThe code should be well-documented and easy to understand.\nBackend in Python\n\nAcceptance Criteria\n\nFunctionality of the web interface and chatbot\nQuality of the user interface and user experience\nProper use of the MQTT server and messaging functionality\nProper implementation...",
         "author": "KaiHoeffner",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@KaiHoeffner/mqtt-based-chat-web?t="
     },
     {
@@ -2796,7 +2796,7 @@
         "title": "Simple frontend UI for my web app",
         "description": "I need someone to build a shallow front-end of my web application. The front end should involve a clean design, taking into account modern design best practices. Here are the critical features:\n\nThe user should be able to log in using a password. For now I just need to password restrict it for myself while I am in development stage.\nThe user should be able to submit a .csv file\nThe csv file should then be delivered to a function in my Java backend.\n\nAfter the backend functions have been completed, an updated csv file will be returned to the user. The user must be able to then click a button to download the resulting csv.\n\nAs you can probably tell, I am a new developer. I need your help to guide me on how to connect the frontend to the backend as well.\n\nAcceptance Criteria\nSomeone experienced building webapps and has a good eye for minimalist design.",
         "author": "mdotbaig",
-        "posted_time": "56 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@mdotbaig/simple-frontend-ui-f?t="
     }
 ]
