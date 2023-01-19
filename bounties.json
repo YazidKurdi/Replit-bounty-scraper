@@ -2752,7 +2752,7 @@
     {
         "index": "275",
         "price": "$198.00",
-        "due_days": "due in 12 days",
+        "due_days": "due in 11 days",
         "title": "Create a Javascript Tutorial from existing videos and notes",
         "description": "We have an existing Javascript playlist of ~100 videos with associated PDF notes. This playlist needs to be converted into a Javascript tutorial using this documentation (https://building-templates.davidatreplit.repl.co/) and the PDF notes need to be converted into markdown files. This does not require any coding knowledge per se but feel free to write a program to automate this conversion into Tutorials.\n\nAs a bonus incentive, you'll get to work directly with CodeWithHarry on this!\n\nAcceptance Criteria\nA complete Javascript playlist with all 100 lessons and associated Repls.",
         "author": "anshul",
@@ -2772,7 +2772,7 @@
     {
         "index": "277",
         "price": "$180.00",
-        "due_days": "due in 22 days",
+        "due_days": "due in 21 days",
         "title": "MQTT-based Chat Web Interface ",
         "description": "Create a web interface for an MQTT-based chat system that allows users to login and participate in real-time conversations.\nUtilize a free MQTT server, such as HiveMQ, to handle the messaging functionality.\nCreate a chatbot that is able to read and respond to messages within the chat system.\nImplement polling functionality with custom fields, such as asking users what type of food they would like to order for lunch.\nAllow users to save polls as templates, such as asking where they would like to go for lunch (options A/B/C/D).\n\nTechnical Details\n\nA functional web interface for an MQTT-based chat system that includes a chatbot and polling functionality with the ability to save polls as templates.\nThe code should be well-documented and easy to understand.\nBackend in Python\n\nAcceptance Criteria\n\nFunctionality of the web interface and chatbot\nQuality of the user interface and user experience\nProper use of the MQTT server and messaging functionality\nProper implementation...",
         "author": "KaiHoeffner",
@@ -2782,7 +2782,7 @@
     {
         "index": "278",
         "price": "$450.00",
-        "due_days": "due in 3 days",
+        "due_days": "due in 2 days",
         "title": "fine tune GPT for QA against Evernote library",
         "description": "I would like to have a fine-tuned LLM on an Evernote library for chatbot style question answering that runs in local environment.\n\nEasy, except: I can\u2019t provide you with the Evernote library and the library can\u2019t leave the local environment. Library is approx 25000 words. The local environment has a mac intel CPU and an AMD 32gb GPU (sorry\u2026 no silicon or nvidia .)\n\nYou\u2019ll create an OS X app interface that allows for file picking of Evernote library, storage and interacting with chatbot.\n\nOptional ($250 bonus): model accurately Reports references to training dataset\n\nPossible second phase ($tbd): optimization for silicon chipset.\n\nPossible third phase ($tbd): creation of webapp (much easier)\n\nPrice is for phase 1 alone. Negotiable.\n\nAcceptance Criteria\n\nBenchmarking local app performance against unit test library (approx 25000 words)\n\n(Screen share ok) evaluation of model performance in local environment\n\nTechnical Details\n\nAs above. Please request additional specs.\n...",
         "author": "ts2013",
@@ -2792,7 +2792,7 @@
     {
         "index": "279",
         "price": "$50.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Simple frontend UI for my web app",
         "description": "I need someone to build a shallow front-end of my web application. The front end should involve a clean design, taking into account modern design best practices. Here are the critical features:\n\nThe user should be able to log in using a password. For now I just need to password restrict it for myself while I am in development stage.\nThe user should be able to submit a .csv file\nThe csv file should then be delivered to a function in my Java backend.\n\nAfter the backend functions have been completed, an updated csv file will be returned to the user. The user must be able to then click a button to download the resulting csv.\n\nAs you can probably tell, I am a new developer. I need your help to guide me on how to connect the frontend to the backend as well.\n\nAcceptance Criteria\nSomeone experienced building webapps and has a good eye for minimalist design.",
         "author": "mdotbaig",
@@ -2802,27 +2802,27 @@
     {
         "index": "280",
         "price": "$13.50",
-        "due_days": "due in 14 days",
+        "due_days": "due in 13 days",
         "title": "Can someone help me create mid layer that would allow me to send messages to Midjourney discord bot and download its pictures?",
         "description": "Currently I have mid-journey paid API can be commercially used but they haven't exposed any of their endpoints yet.\n\nThe only way to leverage midjourney model and its service is by using its discord BOT interface.\n\nI need a temporary solution that would allow me pass the prompt in as well as listen to its reply in Node.js.\n\nYou are welcomed to use Discord.js to handle the communication\n\nAcceptance Criteria\n\nCreate a service that would work and I could test it out.\n\nTechnical Details\n\nLink to Project",
         "author": "Tarzelf",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@Tarzelf/can-someone-help-me?t="
     },
     {
         "index": "281",
         "price": "$4.50",
-        "due_days": "due in 26 days",
+        "due_days": "due in 25 days",
         "title": "VPS Status viewer",
         "description": "Describe the problem you are trying to solve here.\nSo I have alot of vps hertzner and digital ocean and i require a discord bot to monitor all of them or any vps i add to it\nAcceptance Criteria\nBe specific about what you want in the solution here.\n\nA working discord bot that tracks and provides info in a discord server",
         "author": "GuArDiAnops",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@GuArDiAnops/vps-status-viewer?t="
     },
     {
         "index": "282",
         "price": "$630.00",
-        "due_days": "due in 8 days",
+        "due_days": "due in 7 days",
         "title": "Implement OpenAI's component library in React.",
         "description": "I really like OpenAI's style and its UI components, and want to use them in my own React apps.\n\nI need composable React+Typescript components for the following:\n\nButton, with all the variants, with props for adding both icons, text, tooltips etc.\nSlider\nDropdown\nSelect\nTag Input.\nInput with Checkbox\nText Editor\nTimeline\n\nComponent Requirement\nComponents should have typed props.\nComponents can be styled with tailwind, or modularized css/scss.\nThey can use any external library that doesn't depend on global scripts/stylesheet injection.\nYou can assume every react app using these components will be using Tailwind.\n\nMy test for this would be if I could implement the OpenAI playground exactly like it is using basic flexbox and these components.\n\nAcceptance Criteria\nMust have built composable and actively used React components before.",
         "author": "vibo",
@@ -2836,13 +2836,13 @@
         "title": "Create a python code that prints the meaning of life",
         "description": "The program should answer the final question.\nAcceptance Criteria\nThe answer to everything.",
         "author": "YaronOliker",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@YaronOliker/create-a-python-code?t="
     },
     {
         "index": "284",
         "price": "$45.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Using Headless UI, create a styled Popover component and position it with Popper",
         "description": "I need a Popover component for React that looks like this: https://imgur.com/a/YQHdUfD\n\nPlease use Headless UI https://headlessui.com/react/popover to create it. It should have 3 buttons labeled \"Archive\", \"Share\", and \"Delete\". See the image for reference.\n\nThen, use Popper to position it according to the image.\nhttps://headlessui.com/react/popover#positioning-the-panel\nhttps://popper.js.org/\n\nAcceptance Criteria\n\nIt matches the image and it has popover behavior.\n\nTechnical Details\n\nThe clickable elements of the popover like \"Archive\", \"Share\", and \"Delete\" should be HTML buttons.\n\nThe buttons should have a hover effect like the example on the Popover page found here: https://headlessui.com/react/popover\n\nThanks!",
         "author": "deebarizo",
