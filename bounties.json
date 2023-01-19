@@ -2766,7 +2766,7 @@
         "title": "Basic Plaid setup",
         "description": "Create an extremely basic web app that uses Plaid to allow a user to log in to their financial institution. Make sure the access token is saved in an easy to access database.\n\nJust put blank variables for the client id and secret and I will enter those in when evaluating",
         "author": "MitchellTroyano",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@MitchellTroyano/basic-plaid-setup?t="
     },
     {

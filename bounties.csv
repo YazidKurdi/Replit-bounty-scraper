@@ -2292,7 +2292,7 @@ Acceptance Criteria
 A complete Javascript playlist with all 100 lessons and associated Repls.",anshul,17 hours ago,https://replit.com/bounties/@anshul/create-a-javascript?t=
 276,$67.50,closed,Basic Plaid setup,"Create an extremely basic web app that uses Plaid to allow a user to log in to their financial institution. Make sure the access token is saved in an easy to access database.
 
-Just put blank variables for the client id and secret and I will enter those in when evaluating",MitchellTroyano,16 hours ago,https://replit.com/bounties/@MitchellTroyano/basic-plaid-setup?t=
+Just put blank variables for the client id and secret and I will enter those in when evaluating",MitchellTroyano,17 hours ago,https://replit.com/bounties/@MitchellTroyano/basic-plaid-setup?t=
 277,$180.00,due in 22 days,MQTT-based Chat Web Interface ,"Create a web interface for an MQTT-based chat system that allows users to login and participate in real-time conversations.
 Utilize a free MQTT server, such as HiveMQ, to handle the messaging functionality.
 Create a chatbot that is able to read and respond to messages within the chat system.
