@@ -2334,7 +2334,7 @@ Benchmarking local app performance against unit test library (approx 25000 words
 Technical Details
 
 As above. Please request additional specs.
-...",ts2013,19 hours ago,https://replit.com/bounties/@ts2013/fine-tune-gpt-for-qa?t=
+...",ts2013,20 hours ago,https://replit.com/bounties/@ts2013/fine-tune-gpt-for-qa?t=
 279,$50.00,due in 3 days,Simple frontend UI for my web app,"I need someone to build a shallow front-end of my web application. The front end should involve a clean design, taking into account modern design best practices. Here are the critical features:
 
 The user should be able to log in using a password. For now I just need to password restrict it for myself while I am in development stage.
@@ -2433,7 +2433,7 @@ Acceptance Criteria
 VERY HIGH.",NotYourMaster,17 minutes ago,https://replit.com/bounties/@NotYourMaster/discord-valid-token?t=
 287,$450.00,due in 6 days,LinkedIn Integration,"Aggregate 1st degree LinkedIn connections to specific person from multiple profiles.
 
-Ex - person A, B and C work together.  They want to recruit person D to work with them.  Compile all the shared connections to person D for A, B and C.",moravitz,1 hour ago,https://replit.com/bounties/@moravitz/linkedin-integration?t=
+Ex - person A, B and C work together.  They want to recruit person D to work with them.  Compile all the shared connections to person D for A, B and C.",moravitz,2 hours ago,https://replit.com/bounties/@moravitz/linkedin-integration?t=
 288,$45.00,due in 3 days,Investment Memo,"Create an AI bot to generate an investment memo based on website URL or description including company overview, the problem the company solves, the product, the target users, the traction and the funding to date
 
 Acceptance Criteria
@@ -2447,7 +2447,7 @@ needs to use LangChain and OpenAI on backend
 
 Technical Details
 ideally send example of past bot or work leveraging langchain",gracevelyn77,1 hour ago,https://replit.com/bounties/@gracevelyn77/investment-memo?t=
-290,$50.00,due in 12 days,VSCode Stats Extension,"I spend hours every day coding on VSCode. I wish there was a way to track my time and lines of code typed each day.
+290,$50.00,due in 11 days,VSCode Stats Extension,"I spend hours every day coding on VSCode. I wish there was a way to track my time and lines of code typed each day.
 
 Acceptance Criteria
 A Visual Studio Code extension that tracks these 2 stats

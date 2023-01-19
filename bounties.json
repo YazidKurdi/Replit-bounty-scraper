@@ -2786,7 +2786,7 @@
         "title": "fine tune GPT for QA against Evernote library",
         "description": "I would like to have a fine-tuned LLM on an Evernote library for chatbot style question answering that runs in local environment.\n\nEasy, except: I can\u2019t provide you with the Evernote library and the library can\u2019t leave the local environment. Library is approx 25000 words. The local environment has a mac intel CPU and an AMD 32gb GPU (sorry\u2026 no silicon or nvidia .)\n\nYou\u2019ll create an OS X app interface that allows for file picking of Evernote library, storage and interacting with chatbot.\n\nOptional ($250 bonus): model accurately Reports references to training dataset\n\nPossible second phase ($tbd): optimization for silicon chipset.\n\nPossible third phase ($tbd): creation of webapp (much easier)\n\nPrice is for phase 1 alone. Negotiable.\n\nAcceptance Criteria\n\nBenchmarking local app performance against unit test library (approx 25000 words)\n\n(Screen share ok) evaluation of model performance in local environment\n\nTechnical Details\n\nAs above. Please request additional specs.\n...",
         "author": "ts2013",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@ts2013/fine-tune-gpt-for-qa?t="
     },
     {
@@ -2876,7 +2876,7 @@
         "title": "LinkedIn Integration",
         "description": "Aggregate 1st degree LinkedIn connections to specific person from multiple profiles.\n\nEx - person A, B and C work together.  They want to recruit person D to work with them.  Compile all the shared connections to person D for A, B and C.",
         "author": "moravitz",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@moravitz/linkedin-integration?t="
     },
     {
@@ -2902,7 +2902,7 @@
     {
         "index": "290",
         "price": "$50.00",
-        "due_days": "due in 12 days",
+        "due_days": "due in 11 days",
         "title": "VSCode Stats Extension",
         "description": "I spend hours every day coding on VSCode. I wish there was a way to track my time and lines of code typed each day.\n\nAcceptance Criteria\nA Visual Studio Code extension that tracks these 2 stats\nTime coded each day\nLines of code typed each day (along with lines of code for each of the languages which was typed)\n\nThe VSCode extension should open as a sidebar, and first display all of today's stats in an appealing format. Users will be able to change the date as well, to see how much they coded on any day.\n\nThere is also a Graph with hours coded in last 7 days, and also a calendar view showing how much time was spent each day in a month (month should be changeable), and you can click on any day to see more stats on that day.\n\nBONUS (1,000 cycles extra): Google Ads or any other ad provider integration",
         "author": "CoderGautamYT",
