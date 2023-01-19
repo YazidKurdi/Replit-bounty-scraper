@@ -2806,7 +2806,7 @@
         "title": "Can someone help me create mid layer that would allow me to send messages to Midjourney discord bot and download its pictures?",
         "description": "Currently I have mid-journey paid API can be commercially used but they haven't exposed any of their endpoints yet.\n\nThe only way to leverage midjourney model and its service is by using its discord BOT interface.\n\nI need a temporary solution that would allow me pass the prompt in as well as listen to its reply in Node.js.\n\nYou are welcomed to use Discord.js to handle the communication\n\nAcceptance Criteria\n\nCreate a service that would work and I could test it out.\n\nTechnical Details\n\nLink to Project",
         "author": "Tarzelf",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@Tarzelf/can-someone-help-me?t="
     },
     {
@@ -2836,7 +2836,7 @@
         "title": "Create a python code that prints the meaning of life",
         "description": "The program should answer the final question.\nAcceptance Criteria\nThe answer to everything.",
         "author": "YaronOliker",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@YaronOliker/create-a-python-code?t="
     },
     {
@@ -2872,11 +2872,11 @@
     {
         "index": "287",
         "price": "$450.00",
-        "due_days": "due in 7 days",
+        "due_days": "due in 6 days",
         "title": "LinkedIn Integration",
         "description": "Aggregate 1st degree LinkedIn connections to specific person from multiple profiles.\n\nEx - person A, B and C work together.  They want to recruit person D to work with them.  Compile all the shared connections to person D for A, B and C.",
         "author": "moravitz",
-        "posted_time": "57 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@moravitz/linkedin-integration?t="
     },
     {
@@ -2896,7 +2896,7 @@
         "title": "Investment Memo",
         "description": "Create an AI bot to generate an investment memo based on website URL or description including company overview, the problem the company solves, the product, the target users, the traction and the funding to date\n\nAcceptance Criteria\nneeds to use LangChain and OpenAI on backend\n\nTechnical Details\nideally send example of past bot or work leveraging langchain",
         "author": "gracevelyn77",
-        "posted_time": "40 minutes ago",
+        "posted_time": "57 minutes ago",
         "link": "https://replit.com/bounties/@gracevelyn77/investment-memo?t="
     },
     {
@@ -2906,7 +2906,7 @@
         "title": "VSCode Stats Extension",
         "description": "I spend hours every day coding on VSCode. I wish there was a way to track my time and lines of code typed each day.\n\nAcceptance Criteria\nA Visual Studio Code extension that tracks these 2 stats\nTime coded each day\nLines of code typed each day (along with lines of code for each of the languages which was typed)\n\nThe VSCode extension should open as a sidebar, and first display all of today's stats in an appealing format. Users will be able to change the date as well, to see how much they coded on any day.\n\nThere is also a Graph with hours coded in last 7 days, and also a calendar view showing how much time was spent each day in a month (month should be changeable), and you can click on any day to see more stats on that day.\n\nBONUS (1,000 cycles extra): Google Ads or any other ad provider integration",
         "author": "CoderGautamYT",
-        "posted_time": "37 minutes ago",
+        "posted_time": "53 minutes ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/vscode-stats-extensi?t="
     }
 ]

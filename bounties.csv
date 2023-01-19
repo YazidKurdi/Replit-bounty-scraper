@@ -2361,7 +2361,7 @@ Create a service that would work and I could test it out.
 
 Technical Details
 
-Link to Project",Tarzelf,12 hours ago,https://replit.com/bounties/@Tarzelf/can-someone-help-me?t=
+Link to Project",Tarzelf,13 hours ago,https://replit.com/bounties/@Tarzelf/can-someone-help-me?t=
 281,$4.50,due in 25 days,VPS Status viewer,"Describe the problem you are trying to solve here.
 So I have alot of vps hertzner and digital ocean and i require a discord bot to monitor all of them or any vps i add to it
 Acceptance Criteria
@@ -2393,7 +2393,7 @@ Acceptance Criteria
 Must have built composable and actively used React components before.",vibo,10 hours ago,https://replit.com/bounties/@vibo/implement-openais-co?t=
 283,$15.30,closed,Create a python code that prints the meaning of life,"The program should answer the final question.
 Acceptance Criteria
-The answer to everything.",YaronOliker,8 hours ago,https://replit.com/bounties/@YaronOliker/create-a-python-code?t=
+The answer to everything.",YaronOliker,9 hours ago,https://replit.com/bounties/@YaronOliker/create-a-python-code?t=
 284,$45.00,due in 3 days,"Using Headless UI, create a styled Popover component and position it with Popper","I need a Popover component for React that looks like this: https://imgur.com/a/YQHdUfD
 
 Please use Headless UI https://headlessui.com/react/popover to create it. It should have 3 buttons labeled ""Archive"", ""Share"", and ""Delete"". See the image for reference.
@@ -2431,9 +2431,9 @@ It is fine with me if more time is needed.",Retrospicer,2 hours ago,https://repl
 
 Acceptance Criteria
 VERY HIGH.",NotYourMaster,17 minutes ago,https://replit.com/bounties/@NotYourMaster/discord-valid-token?t=
-287,$450.00,due in 7 days,LinkedIn Integration,"Aggregate 1st degree LinkedIn connections to specific person from multiple profiles.
+287,$450.00,due in 6 days,LinkedIn Integration,"Aggregate 1st degree LinkedIn connections to specific person from multiple profiles.
 
-Ex - person A, B and C work together.  They want to recruit person D to work with them.  Compile all the shared connections to person D for A, B and C.",moravitz,57 minutes ago,https://replit.com/bounties/@moravitz/linkedin-integration?t=
+Ex - person A, B and C work together.  They want to recruit person D to work with them.  Compile all the shared connections to person D for A, B and C.",moravitz,1 hour ago,https://replit.com/bounties/@moravitz/linkedin-integration?t=
 288,$45.00,due in 3 days,Investment Memo,"Create an AI bot to generate an investment memo based on website URL or description including company overview, the problem the company solves, the product, the target users, the traction and the funding to date
 
 Acceptance Criteria
@@ -2446,7 +2446,7 @@ Acceptance Criteria
 needs to use LangChain and OpenAI on backend
 
 Technical Details
-ideally send example of past bot or work leveraging langchain",gracevelyn77,40 minutes ago,https://replit.com/bounties/@gracevelyn77/investment-memo?t=
+ideally send example of past bot or work leveraging langchain",gracevelyn77,57 minutes ago,https://replit.com/bounties/@gracevelyn77/investment-memo?t=
 290,$50.00,due in 12 days,VSCode Stats Extension,"I spend hours every day coding on VSCode. I wish there was a way to track my time and lines of code typed each day.
 
 Acceptance Criteria
@@ -2458,4 +2458,4 @@ The VSCode extension should open as a sidebar, and first display all of today's 
 
 There is also a Graph with hours coded in last 7 days, and also a calendar view showing how much time was spent each day in a month (month should be changeable), and you can click on any day to see more stats on that day.
 
-BONUS (1,000 cycles extra): Google Ads or any other ad provider integration",CoderGautamYT,37 minutes ago,https://replit.com/bounties/@CoderGautamYT/vscode-stats-extensi?t=
+BONUS (1,000 cycles extra): Google Ads or any other ad provider integration",CoderGautamYT,53 minutes ago,https://replit.com/bounties/@CoderGautamYT/vscode-stats-extensi?t=
