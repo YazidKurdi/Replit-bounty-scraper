@@ -2210,7 +2210,7 @@ Please print an HTML table with merchant, date, amount, and Foursquare URL.",Rab
 I want a page coded in html/css for me, and I will show u an already existing page of the website so you get an idea of what the theme should look like
 Also, I am looking for a CSS designer to do multiple projects for me. If you do good on this one, I will give you more higher paying work
 
-Contact me on discord if you applied @ fatty#9276",fatty121,20 hours ago,https://replit.com/bounties/@fatty121/design-and-code-a-pa?t=
+Contact me on discord if you applied @ fatty#9276",fatty121,21 hours ago,https://replit.com/bounties/@fatty121/design-and-code-a-pa?t=
 270,$22.50,closed,Vue.js: Generate Adobe Illustrator extension boilerplate with sign in and home screen,"The goal of the bounty is to develop an Adobe Illustrator extension (adobe CEP) with Vue.js, and add a sign in screen which redirects to a home screen.
 
 I'd like to use this:
@@ -2222,7 +2222,7 @@ Login: fill in password, email, and post to our API to get a JWT
 Home: once logged in, being redirected to a different page (and different vue component) displaying the signed in user's info (returned by the API)
 User data should be stored within a Pinia (https://pinia.vuejs.org) store
 
-To validate the bounty, it should be possible to open the extension within Adobe Illustrator and login through our API.",MatthiasRichard,19 hours ago,https://replit.com/bounties/@MatthiasRichard/vuejs-generate-adobe?t=
+To validate the bounty, it should be possible to open the extension within Adobe Illustrator and login through our API.",MatthiasRichard,20 hours ago,https://replit.com/bounties/@MatthiasRichard/vuejs-generate-adobe?t=
 271,"$1,260.00",due in 12 days,Playground for local models,"The goal is to create a web UI like the OpenAI playground that can be used to test your own models (e.g. a T5 finetune). This would require having all the nice UI features of the OpenAI playground, including:
 
 model selection
@@ -2237,7 +2237,7 @@ Acceptance Criteria
 
 Your solution should be written in Python (since the people using this are mostly Pythonistas). I should be able to easily run this and launch a web UI where I can select a model from HuggingFace, and have a UI experience that's hard to distinguish from the OpenAI playground.
 
-At minimum you should be able to load models locally. For extra credit, consider adding support for remotely inferencing models on huggingface, modal, replicate, cohere, etc.",natfriedman,16 hours ago,https://replit.com/bounties/@natfriedman/openai-playground-fo?t=
+At minimum you should be able to load models locally. For extra credit, consider adding support for remotely inferencing models on huggingface, modal, replicate, cohere, etc.",natfriedman,18 hours ago,https://replit.com/bounties/@natfriedman/openai-playground-fo?t=
 272,$54.00,due in 6 days,Docusaurus with Firebase Auth,"Users should have access to a complete authentication experience (specifics in acceptance criteria).
 
 An unauthenticated user should be able to see no documentation pages, but have access to the blog, and all pages. Should be a button that switches login / logout functionality based on authentication status.
@@ -2255,7 +2255,7 @@ An unauthenticated user can view all pages, and blogs, but nothing in the /docs 
 An authenticated user can view all pages on the site, including /docs
 
 Technical Details
-You can use this repo to fork, and submit a pull reques...",mosesju,15 hours ago,https://replit.com/bounties/@mosesju/docusaurus-with-fire?t=
+You can use this repo to fork, and submit a pull reques...",mosesju,16 hours ago,https://replit.com/bounties/@mosesju/docusaurus-with-fire?t=
 273,$180.00,due in 6 days,Cloneable Zapier + AI workflow templates,"I'm running some AI experiments using Zapier. The aim is to build a bunch of use cases e.g. Build your own Email summariser + draft replies, or Create your own AI avatar app - It's possible to do this with Zapier (I have done a few)... And then let anyone clone the template or read the how-to.
 
 I'm looking for someone to help develop ideas, build them with Zapier + AI (OpenAI integration, APIs, webhooks, Replicate etc), offer the templates for free and do a simple text and image write-up for each project.
@@ -2265,7 +2265,7 @@ This is an ongoing role and we can discuss pay as such.
 Acceptance Criteria
 Important - please send me a workflow you have built with Zapier (bonus points if integrating with AI), say what it does and how, show screenshots of the workflow.
 You must be very knowledgeable of Zapier. How it works, what's possible, what the limits are etc.
-You must be self-sufficient, coming up with an idea by scrolling twitter, testing if it's possible, and building it. Without need...",bentossell,10 hours ago,https://replit.com/bounties/@bentossell/cloneable-zapier-ai?t=
+You must be self-sufficient, coming up with an idea by scrolling twitter, testing if it's possible, and building it. Without need...",bentossell,11 hours ago,https://replit.com/bounties/@bentossell/cloneable-zapier-ai?t=
 274,$801.00,due in 13 days,Discord.js Bot to Create Tasks in Asana,"tl;dr: Create a Discord bot that can be used to create and assign tasks in Asana.
 
 Create a Discord bot which can listen in all channels of a Discord server simultaneously. The workflow is as follows:
@@ -2283,16 +2283,16 @@ The bot makes an API call to Asana to collect all of your Projects
 The bot presents you with a Dropdown Select Menu to pick your project
 The bot makes an API call to Asana to collect all of your team members
 The bot presents you with a Dropdown Select Menu to pick who to assign it to
-The bot presents you some text that shows the task name, the...",cryppadotta,8 hours ago,https://replit.com/bounties/@cryppadotta/discordjs-bot-to-cre?t=
+The bot presents you some text that shows the task name, the...",cryppadotta,9 hours ago,https://replit.com/bounties/@cryppadotta/discordjs-bot-to-cre?t=
 275,$198.00,due in 12 days,Create a Javascript Tutorial from existing videos and notes,"We have an existing Javascript playlist of ~100 videos with associated PDF notes. This playlist needs to be converted into a Javascript tutorial using this documentation (https://building-templates.davidatreplit.repl.co/) and the PDF notes need to be converted into markdown files. This does not require any coding knowledge per se but feel free to write a program to automate this conversion into Tutorials.
 
 As a bonus incentive, you'll get to work directly with CodeWithHarry on this!
 
 Acceptance Criteria
-A complete Javascript playlist with all 100 lessons and associated Repls.",anshul,7 hours ago,https://replit.com/bounties/@anshul/create-a-javascript?t=
+A complete Javascript playlist with all 100 lessons and associated Repls.",anshul,8 hours ago,https://replit.com/bounties/@anshul/create-a-javascript?t=
 276,$67.50,closed,Basic Plaid setup,"Create an extremely basic web app that uses Plaid to allow a user to log in to their financial institution. Make sure the access token is saved in an easy to access database.
 
-Just put blank variables for the client id and secret and I will enter those in when evaluating",MitchellTroyano,7 hours ago,https://replit.com/bounties/@MitchellTroyano/basic-plaid-setup?t=
+Just put blank variables for the client id and secret and I will enter those in when evaluating",MitchellTroyano,8 hours ago,https://replit.com/bounties/@MitchellTroyano/basic-plaid-setup?t=
 277,$180.00,due in 22 days,MQTT-based Chat Web Interface ,"Create a web interface for an MQTT-based chat system that allows users to login and participate in real-time conversations.
 Utilize a free MQTT server, such as HiveMQ, to handle the messaging functionality.
 Create a chatbot that is able to read and respond to messages within the chat system.
@@ -2310,7 +2310,7 @@ Acceptance Criteria
 Functionality of the web interface and chatbot
 Quality of the user interface and user experience
 Proper use of the MQTT server and messaging functionality
-Proper implementation...",KaiHoeffner,3 hours ago,https://replit.com/bounties/@KaiHoeffner/mqtt-based-chat-web?t=
+Proper implementation...",KaiHoeffner,5 hours ago,https://replit.com/bounties/@KaiHoeffner/mqtt-based-chat-web?t=
 278,$450.00,due in 3 days,fine tune GPT for QA against Evernote library,"I would like to have a fine-tuned LLM on an Evernote library for chatbot style question answering that runs in local environment.
 
 Easy, except: I can’t provide you with the Evernote library and the library can’t leave the local environment. Library is approx 25000 words. The local environment has a mac intel CPU and an AMD 32gb GPU (sorry… no silicon or nvidia .)
@@ -2334,4 +2334,4 @@ Benchmarking local app performance against unit test library (approx 25000 words
 Technical Details
 
 As above. Please request additional specs.
-...",ts2013,3 hours ago,https://replit.com/bounties/@ts2013/fine-tune-gpt-for-qa?t=
+...",ts2013,4 hours ago,https://replit.com/bounties/@ts2013/fine-tune-gpt-for-qa?t=
