@@ -2310,7 +2310,7 @@ Acceptance Criteria
 Functionality of the web interface and chatbot
 Quality of the user interface and user experience
 Proper use of the MQTT server and messaging functionality
-Proper implementation...",KaiHoeffner,18 hours ago,https://replit.com/bounties/@KaiHoeffner/mqtt-based-chat-web?t=
+Proper implementation...",KaiHoeffner,19 hours ago,https://replit.com/bounties/@KaiHoeffner/mqtt-based-chat-web?t=
 278,$450.00,due in 2 days,fine tune GPT for QA against Evernote library,"I would like to have a fine-tuned LLM on an Evernote library for chatbot style question answering that runs in local environment.
 
 Easy, except: I can’t provide you with the Evernote library and the library can’t leave the local environment. Library is approx 25000 words. The local environment has a mac intel CPU and an AMD 32gb GPU (sorry… no silicon or nvidia .)
