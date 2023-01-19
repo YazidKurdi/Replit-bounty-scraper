@@ -2806,7 +2806,7 @@
         "title": "Can someone help me create mid layer that would allow me to send messages to Midjourney discord bot and download its pictures?",
         "description": "Currently I have mid-journey paid API can be commercially used but they haven't exposed any of their endpoints yet.\n\nThe only way to leverage midjourney model and its service is by using its discord BOT interface.\n\nI need a temporary solution that would allow me pass the prompt in as well as listen to its reply in Node.js.\n\nYou are welcomed to use Discord.js to handle the communication\n\nAcceptance Criteria\n\nCreate a service that would work and I could test it out.\n\nTechnical Details\n\nLink to Project",
         "author": "Tarzelf",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@Tarzelf/can-someone-help-me?t="
     },
     {
@@ -2816,7 +2816,7 @@
         "title": "VPS Status viewer",
         "description": "Describe the problem you are trying to solve here.\nSo I have alot of vps hertzner and digital ocean and i require a discord bot to monitor all of them or any vps i add to it\nAcceptance Criteria\nBe specific about what you want in the solution here.\n\nA working discord bot that tracks and provides info in a discord server",
         "author": "GuArDiAnops",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@GuArDiAnops/vps-status-viewer?t="
     },
     {
@@ -2836,7 +2836,7 @@
         "title": "Create a python code that prints the meaning of life",
         "description": "The program should answer the final question.\nAcceptance Criteria\nThe answer to everything.",
         "author": "YaronOliker",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@YaronOliker/create-a-python-code?t="
     },
     {
@@ -2916,7 +2916,17 @@
         "title": ".rar IS HUMAN NOT ROBOT STOP ASKING ARE YOU HUMAN",
         "description": ".rar IS HUMAN NOT ROBOT STOP ASKING ARE YOU HUMAN",
         "author": "MSOPYT",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@MSOPYT/rar-is-human-not-rob?t="
+    },
+    {
+        "index": "292",
+        "price": "$450.00",
+        "due_days": "due in 3 days",
+        "title": "AI image generator based on photograph inputs",
+        "description": "We dont have a UI for generating AI outputs based on photograph inputs\nAcceptance Criteria\nExperience in working with AI tool APIs\nTechnical Details\nPeople will be able to upload up to 5 photos on this portal and the AI platform (API provided by us) will generate different versions of the photographs.",
+        "author": "RamonBerrios",
+        "posted_time": "1 minute ago",
+        "link": "https://replit.com/bounties/@RamonBerrios/ai-image-generator-b?t="
     }
 ]
