@@ -2846,7 +2846,7 @@
         "title": "Using Headless UI, create a styled Popover component and position it with Popper",
         "description": "I need a Popover component for React that looks like this: https://imgur.com/a/YQHdUfD\n\nPlease use Headless UI https://headlessui.com/react/popover to create it. It should have 3 buttons labeled \"Archive\", \"Share\", and \"Delete\". See the image for reference.\n\nThen, use Popper to position it according to the image.\nhttps://headlessui.com/react/popover#positioning-the-panel\nhttps://popper.js.org/\n\nAcceptance Criteria\n\nIt matches the image and it has popover behavior.\n\nTechnical Details\n\nThe clickable elements of the popover like \"Archive\", \"Share\", and \"Delete\" should be HTML buttons.\n\nThe buttons should have a hover effect like the example on the Popover page found here: https://headlessui.com/react/popover\n\nThanks!",
         "author": "deebarizo",
-        "posted_time": "39 minutes ago",
+        "posted_time": "49 minutes ago",
         "link": "https://replit.com/bounties/@deebarizo/using-headless-ui-cr?t="
     }
 ]
