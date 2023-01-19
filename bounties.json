@@ -2906,7 +2906,7 @@
         "title": "VSCode Stats Extension",
         "description": "I spend hours every day coding on VSCode. I wish there was a way to track my time and lines of code typed each day.\n\nAcceptance Criteria\nA Visual Studio Code extension that tracks these 2 stats\nTime coded each day\nLines of code typed each day (along with lines of code for each of the languages which was typed)\n\nThe VSCode extension should open as a sidebar, and first display all of today's stats in an appealing format. Users will be able to change the date as well, to see how much they coded on any day.\n\nThere is also a Graph with hours coded in last 7 days, and also a calendar view showing how much time was spent each day in a month (month should be changeable), and you can click on any day to see more stats on that day.\n\nBONUS (1,000 cycles extra): Google Ads or any other ad provider integration",
         "author": "CoderGautamYT",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/vscode-stats-extensi?t="
     },
     {
@@ -2946,7 +2946,17 @@
         "title": "Create an Interactive Quiz/Trivia Website",
         "description": "Create a dynamic interactive quiz/trivia website similar to Gimkit and Blooket where any teachers (or anybody else) can make accounts using their emails or google sign-in, create trivia quizzes, have students join the live quiz with a join code (and choose an avatar and 1 in-game powerup), and in the end be able to display the top 5 winners (like Kahoot) and view analytics on the results (e.g. which questions the students got right and wrong and the overall class percentage that got each question right).\nThere should also be a nice and smooth UI, with light and dark modes.\nOn the teacher's side of the quiz:\nOnce the teacher (users) logs in, and creates a trivia/quiz deck and adds their first question, the teachers should be able to choose the number of answers per question, choose the number of points given per question, and they should be able to add the question and a picture to the question slide (just like kahoot, etc.). Later, when the teacher wants to play the...",
         "author": "Retrospicer",
-        "posted_time": "24 minutes ago",
+        "posted_time": "34 minutes ago",
         "link": "https://replit.com/bounties/@Retrospicer/create-an-interactiv?t="
+    },
+    {
+        "index": "295",
+        "price": "$45.00",
+        "due_days": "due in 3 days",
+        "title": "Add button to chrome extension for Gmail, GPT",
+        "description": "We've made a chrome extension that uses GPT to write your emails for you. Steps to use:\ndownload the extension.\ngo to gmail, click compose and some context points in gmail's draft window.\nselect your text, right click and choose generate email.\nText is sent as prompt to GPT API and output is injected into Gmail DOM.\n\nInstead of right clicking and choosing generate email, we want a simple button that appears whenever the Gmail draft window is opened. You type in context text in the window, click the button which then calls the API. The button should be our extension's logo.\n\nAcceptance Criteria\nButton should have correct placement, functionality. Specifications can be discussed privately.\n\nTechnical Details\nIt is a chrome extension V3. Must be built using JS, HTML and CSS.",
+        "author": "ShubhKathuria",
+        "posted_time": "6 minutes ago",
+        "link": "https://replit.com/bounties/@ShubhKathuria/add-button-to-chrome?t="
     }
 ]
