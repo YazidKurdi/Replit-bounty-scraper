@@ -2776,7 +2776,7 @@
         "title": "MQTT-based Chat Web Interface ",
         "description": "Create a web interface for an MQTT-based chat system that allows users to login and participate in real-time conversations.\nUtilize a free MQTT server, such as HiveMQ, to handle the messaging functionality.\nCreate a chatbot that is able to read and respond to messages within the chat system.\nImplement polling functionality with custom fields, such as asking users what type of food they would like to order for lunch.\nAllow users to save polls as templates, such as asking where they would like to go for lunch (options A/B/C/D).\n\nTechnical Details\n\nA functional web interface for an MQTT-based chat system that includes a chatbot and polling functionality with the ability to save polls as templates.\nThe code should be well-documented and easy to understand.\nBackend in Python\n\nAcceptance Criteria\n\nFunctionality of the web interface and chatbot\nQuality of the user interface and user experience\nProper use of the MQTT server and messaging functionality\nProper implementation...",
         "author": "KaiHoeffner",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@KaiHoeffner/mqtt-based-chat-web?t="
     },
     {
@@ -2818,5 +2818,15 @@
         "author": "GuArDiAnops",
         "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@GuArDiAnops/vps-status-viewer?t="
+    },
+    {
+        "index": "282",
+        "price": "$630.00",
+        "due_days": "due in 8 days",
+        "title": "Implement OpenAI's component library in React.",
+        "description": "I really like OpenAI's style and its UI components, and want to use them in my own React apps.\n\nI need composable React+Typescript components for the following:\n\nButton, with all the variants, with props for adding both icons, text, tooltips etc.\nSlider\nDropdown\nSelect\nTag Input.\nInput with Checkbox\nText Editor\nTimeline\n\nComponent Requirement\nComponents should have typed props.\nComponents can be styled with tailwind, or modularized css/scss.\nThey can use any external library that doesn't depend on global scripts/stylesheet injection.\nYou can assume every react app using these components will be using Tailwind.\n\nMy test for this would be if I could implement the OpenAI playground exactly like it is using basic flexbox and these components.\n\nAcceptance Criteria\nMust have built composable and actively used React components before.",
+        "author": "vibo",
+        "posted_time": "4 minutes ago",
+        "link": "https://replit.com/bounties/@vibo/implement-openais-co?t="
     }
 ]

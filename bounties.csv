@@ -2310,7 +2310,7 @@ Acceptance Criteria
 Functionality of the web interface and chatbot
 Quality of the user interface and user experience
 Proper use of the MQTT server and messaging functionality
-Proper implementation...",KaiHoeffner,9 hours ago,https://replit.com/bounties/@KaiHoeffner/mqtt-based-chat-web?t=
+Proper implementation...",KaiHoeffner,10 hours ago,https://replit.com/bounties/@KaiHoeffner/mqtt-based-chat-web?t=
 278,$450.00,due in 3 days,fine tune GPT for QA against Evernote library,"I would like to have a fine-tuned LLM on an Evernote library for chatbot style question answering that runs in local environment.
 
 Easy, except: I can’t provide you with the Evernote library and the library can’t leave the local environment. Library is approx 25000 words. The local environment has a mac intel CPU and an AMD 32gb GPU (sorry… no silicon or nvidia .)
@@ -2368,3 +2368,26 @@ Acceptance Criteria
 Be specific about what you want in the solution here.
 
 A working discord bot that tracks and provides info in a discord server",GuArDiAnops,1 hour ago,https://replit.com/bounties/@GuArDiAnops/vps-status-viewer?t=
+282,$630.00,due in 8 days,Implement OpenAI's component library in React.,"I really like OpenAI's style and its UI components, and want to use them in my own React apps.
+
+I need composable React+Typescript components for the following:
+
+Button, with all the variants, with props for adding both icons, text, tooltips etc.
+Slider
+Dropdown
+Select
+Tag Input.
+Input with Checkbox
+Text Editor
+Timeline
+
+Component Requirement
+Components should have typed props.
+Components can be styled with tailwind, or modularized css/scss.
+They can use any external library that doesn't depend on global scripts/stylesheet injection.
+You can assume every react app using these components will be using Tailwind.
+
+My test for this would be if I could implement the OpenAI playground exactly like it is using basic flexbox and these components.
+
+Acceptance Criteria
+Must have built composable and actively used React components before.",vibo,4 minutes ago,https://replit.com/bounties/@vibo/implement-openais-co?t=
