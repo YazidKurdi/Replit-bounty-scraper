@@ -2766,7 +2766,7 @@
         "title": "Basic Plaid setup",
         "description": "Create an extremely basic web app that uses Plaid to allow a user to log in to their financial institution. Make sure the access token is saved in an easy to access database.\n\nJust put blank variables for the client id and secret and I will enter those in when evaluating",
         "author": "MitchellTroyano",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@MitchellTroyano/basic-plaid-setup?t="
     },
     {
@@ -2776,7 +2776,7 @@
         "title": "MQTT-based Chat Web Interface ",
         "description": "Create a web interface for an MQTT-based chat system that allows users to login and participate in real-time conversations.\nUtilize a free MQTT server, such as HiveMQ, to handle the messaging functionality.\nCreate a chatbot that is able to read and respond to messages within the chat system.\nImplement polling functionality with custom fields, such as asking users what type of food they would like to order for lunch.\nAllow users to save polls as templates, such as asking where they would like to go for lunch (options A/B/C/D).\n\nTechnical Details\n\nA functional web interface for an MQTT-based chat system that includes a chatbot and polling functionality with the ability to save polls as templates.\nThe code should be well-documented and easy to understand.\nBackend in Python\n\nAcceptance Criteria\n\nFunctionality of the web interface and chatbot\nQuality of the user interface and user experience\nProper use of the MQTT server and messaging functionality\nProper implementation...",
         "author": "KaiHoeffner",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@KaiHoeffner/mqtt-based-chat-web?t="
     },
     {
@@ -2852,7 +2852,7 @@
     {
         "index": "285",
         "price": "$300.00",
-        "due_days": "due in 24 days",
+        "due_days": "due in 23 days",
         "title": "Kahoot, Quizizz, and Edpuzzle Answer Website",
         "description": "Description\nCreate a dynamic website on replit that provides Kahoot answers, Edpuzzle answers and autocomplete, and Quizizz answers for users - in a similar (or exact same) way as the cheat websites https://quizit.online, https://schoolcheats.net, and https://cheatnetwork.eu do.\nIt also must have a nice, clean, and easy to use UI (like the sites mentioned above).\nIt should also have various slots for google ads to be in on every page except the main page.\nAcceptance Criteria\nShould have decent experience with cheat websites\nMust be capable of getting it done\n\nAdditional Details\nSome cheat websites to refer to are:\nhttps://quizit.online\nhttps://schoolcheats.net\nhttps://cheatnetwork.eu\nIt is fine with me if more time is needed.",
         "author": "Retrospicer",

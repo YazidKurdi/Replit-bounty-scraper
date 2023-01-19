@@ -2292,7 +2292,7 @@ Acceptance Criteria
 A complete Javascript playlist with all 100 lessons and associated Repls.",anshul,19 hours ago,https://replit.com/bounties/@anshul/create-a-javascript?t=
 276,$67.50,closed,Basic Plaid setup,"Create an extremely basic web app that uses Plaid to allow a user to log in to their financial institution. Make sure the access token is saved in an easy to access database.
 
-Just put blank variables for the client id and secret and I will enter those in when evaluating",MitchellTroyano,20 hours ago,https://replit.com/bounties/@MitchellTroyano/basic-plaid-setup?t=
+Just put blank variables for the client id and secret and I will enter those in when evaluating",MitchellTroyano,21 hours ago,https://replit.com/bounties/@MitchellTroyano/basic-plaid-setup?t=
 277,$180.00,due in 21 days,MQTT-based Chat Web Interface ,"Create a web interface for an MQTT-based chat system that allows users to login and participate in real-time conversations.
 Utilize a free MQTT server, such as HiveMQ, to handle the messaging functionality.
 Create a chatbot that is able to read and respond to messages within the chat system.
@@ -2310,7 +2310,7 @@ Acceptance Criteria
 Functionality of the web interface and chatbot
 Quality of the user interface and user experience
 Proper use of the MQTT server and messaging functionality
-Proper implementation...",KaiHoeffner,17 hours ago,https://replit.com/bounties/@KaiHoeffner/mqtt-based-chat-web?t=
+Proper implementation...",KaiHoeffner,18 hours ago,https://replit.com/bounties/@KaiHoeffner/mqtt-based-chat-web?t=
 278,$450.00,due in 2 days,fine tune GPT for QA against Evernote library,"I would like to have a fine-tuned LLM on an Evernote library for chatbot style question answering that runs in local environment.
 
 Easy, except: I can’t provide you with the Evernote library and the library can’t leave the local environment. Library is approx 25000 words. The local environment has a mac intel CPU and an AMD 32gb GPU (sorry… no silicon or nvidia .)
@@ -2413,7 +2413,7 @@ The clickable elements of the popover like ""Archive"", ""Share"", and ""Delete"
 The buttons should have a hover effect like the example on the Popover page found here: https://headlessui.com/react/popover
 
 Thanks!",deebarizo,6 hours ago,https://replit.com/bounties/@deebarizo/using-headless-ui-cr?t=
-285,$300.00,due in 24 days,"Kahoot, Quizizz, and Edpuzzle Answer Website","Description
+285,$300.00,due in 23 days,"Kahoot, Quizizz, and Edpuzzle Answer Website","Description
 Create a dynamic website on replit that provides Kahoot answers, Edpuzzle answers and autocomplete, and Quizizz answers for users - in a similar (or exact same) way as the cheat websites https://quizit.online, https://schoolcheats.net, and https://cheatnetwork.eu do.
 It also must have a nice, clean, and easy to use UI (like the sites mentioned above).
 It should also have various slots for google ads to be in on every page except the main page.
