@@ -2806,7 +2806,7 @@
         "title": "Can someone help me create mid layer that would allow me to send messages to Midjourney discord bot and download its pictures?",
         "description": "Currently I have mid-journey paid API can be commercially used but they haven't exposed any of their endpoints yet.\n\nThe only way to leverage midjourney model and its service is by using its discord BOT interface.\n\nI need a temporary solution that would allow me pass the prompt in as well as listen to its reply in Node.js.\n\nYou are welcomed to use Discord.js to handle the communication\n\nAcceptance Criteria\n\nCreate a service that would work and I could test it out.\n\nTechnical Details\n\nLink to Project",
         "author": "Tarzelf",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@Tarzelf/can-someone-help-me?t="
     },
     {
@@ -2816,7 +2816,7 @@
         "title": "VPS Status viewer",
         "description": "Describe the problem you are trying to solve here.\nSo I have alot of vps hertzner and digital ocean and i require a discord bot to monitor all of them or any vps i add to it\nAcceptance Criteria\nBe specific about what you want in the solution here.\n\nA working discord bot that tracks and provides info in a discord server",
         "author": "GuArDiAnops",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@GuArDiAnops/vps-status-viewer?t="
     },
     {
@@ -2836,7 +2836,7 @@
         "title": "Create a python code that prints the meaning of life",
         "description": "The program should answer the final question.\nAcceptance Criteria\nThe answer to everything.",
         "author": "YaronOliker",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@YaronOliker/create-a-python-code?t="
     },
     {
@@ -2926,7 +2926,7 @@
         "title": "AI image generator based on photograph inputs",
         "description": "We dont have a UI for generating AI outputs based on photograph inputs\nAcceptance Criteria\nExperience in working with AI tool APIs\nTechnical Details\nPeople will be able to upload up to 5 photos on this portal and the AI platform (API provided by us) will generate different versions of the photographs.",
         "author": "RamonBerrios",
-        "posted_time": "43 minutes ago",
+        "posted_time": "59 minutes ago",
         "link": "https://replit.com/bounties/@RamonBerrios/ai-image-generator-b?t="
     },
     {
@@ -2936,7 +2936,7 @@
         "title": "Vue2 Component that shows an animation of a client communicating with server",
         "description": "Vue2 component that shows an animated client / server diagram based on a \"state\" that gets passed in\n\nprops:\n state (enum consisting of sending / receiving / completed / etc)\n\nSee here for schematic and full list of states:\nhttps://jamboard.google.com/d/18DOGW8M9ATEt-3rguhAPQv5pblkAAVGqgX8dPJHPI/edit?usp=sharing\n\nAcceptance Criteria\n1) it works\n2) it's understandable and can be tweaked and modified by us OR if it's an insane ball of mud we go back and forth on tweaks until it looks right\n\nTechnical Details\nTwo additional considerations that may come up down the line (see Jamboard)\nWe may want to rotate it for mobile\nWe may want to add more boxes to the diagram\n\nI'm not an HTML animation expert, but it feels like vanilla HTML/JS/CSS + grid/flex would do the trick. Don't think we need canvas or SVG or anything beyond that... But happy to chat implementation details if you feel otherwise.\n\nLink to Project\nhttps://jamboard.google.com/d/18DOGW8M9ATEt-3rguhAPQv5pblkAAVGqg...",
         "author": "anguspmitchell",
-        "posted_time": "10 minutes ago",
+        "posted_time": "27 minutes ago",
         "link": "https://replit.com/bounties/@anguspmitchell/vue2-component-that?t="
     }
 ]
