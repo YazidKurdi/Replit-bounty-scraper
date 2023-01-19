@@ -2222,7 +2222,7 @@ Login: fill in password, email, and post to our API to get a JWT
 Home: once logged in, being redirected to a different page (and different vue component) displaying the signed in user's info (returned by the API)
 User data should be stored within a Pinia (https://pinia.vuejs.org) store
 
-To validate the bounty, it should be possible to open the extension within Adobe Illustrator and login through our API.",MatthiasRichard,21 hours ago,https://replit.com/bounties/@MatthiasRichard/vuejs-generate-adobe?t=
+To validate the bounty, it should be possible to open the extension within Adobe Illustrator and login through our API.",MatthiasRichard,22 hours ago,https://replit.com/bounties/@MatthiasRichard/vuejs-generate-adobe?t=
 271,"$1,260.00",due in 12 days,Playground for local models,"The goal is to create a web UI like the OpenAI playground that can be used to test your own models (e.g. a T5 finetune). This would require having all the nice UI features of the OpenAI playground, including:
 
 model selection
@@ -2346,4 +2346,4 @@ After the backend functions have been completed, an updated csv file will be ret
 As you can probably tell, I am a new developer. I need your help to guide me on how to connect the frontend to the backend as well.
 
 Acceptance Criteria
-Someone experienced building webapps and has a good eye for minimalist design.",mdotbaig,40 minutes ago,https://replit.com/bounties/@mdotbaig/simple-frontend-ui-f?t=
+Someone experienced building webapps and has a good eye for minimalist design.",mdotbaig,48 minutes ago,https://replit.com/bounties/@mdotbaig/simple-frontend-ui-f?t=

@@ -2706,7 +2706,7 @@
         "title": "Vue.js: Generate Adobe Illustrator extension boilerplate with sign in and home screen",
         "description": "The goal of the bounty is to develop an Adobe Illustrator extension (adobe CEP) with Vue.js, and add a sign in screen which redirects to a home screen.\n\nI'd like to use this:\nhttps://github.com/hyperbrew/bolt-cep\nhttps://github.com/Adobe-CEP/CEP-Resources\n\nSo the goal is to generate a new app with this library (vue mode), and add two screen:\nLogin: fill in password, email, and post to our API to get a JWT\nHome: once logged in, being redirected to a different page (and different vue component) displaying the signed in user's info (returned by the API)\nUser data should be stored within a Pinia (https://pinia.vuejs.org) store\n\nTo validate the bounty, it should be possible to open the extension within Adobe Illustrator and login through our API.",
         "author": "MatthiasRichard",
-        "posted_time": "21 hours ago",
+        "posted_time": "22 hours ago",
         "link": "https://replit.com/bounties/@MatthiasRichard/vuejs-generate-adobe?t="
     },
     {
@@ -2796,7 +2796,7 @@
         "title": "Simple frontend UI for my web app",
         "description": "I need someone to build a shallow front-end of my web application. The front end should involve a clean design, taking into account modern design best practices. Here are the critical features:\n\nThe user should be able to log in using a password. For now I just need to password restrict it for myself while I am in development stage.\nThe user should be able to submit a .csv file\nThe csv file should then be delivered to a function in my Java backend.\n\nAfter the backend functions have been completed, an updated csv file will be returned to the user. The user must be able to then click a button to download the resulting csv.\n\nAs you can probably tell, I am a new developer. I need your help to guide me on how to connect the frontend to the backend as well.\n\nAcceptance Criteria\nSomeone experienced building webapps and has a good eye for minimalist design.",
         "author": "mdotbaig",
-        "posted_time": "40 minutes ago",
+        "posted_time": "48 minutes ago",
         "link": "https://replit.com/bounties/@mdotbaig/simple-frontend-ui-f?t="
     }
 ]
