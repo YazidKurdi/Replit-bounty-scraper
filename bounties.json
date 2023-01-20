@@ -2892,7 +2892,7 @@
     {
         "index": "289",
         "price": "$90.00",
-        "due_days": "due in 3 days",
+        "due_days": "due in 2 days",
         "title": "Investment Memo",
         "description": "Create an AI bot to generate an investment memo based on website URL or description including company overview, the problem the company solves, the product, the target users, the traction and the funding to date\n\nAcceptance Criteria\nneeds to use LangChain and OpenAI on backend\n\nTechnical Details\nideally send example of past bot or work leveraging langchain",
         "author": "gracevelyn77",
@@ -2922,7 +2922,7 @@
     {
         "index": "292",
         "price": "$450.00",
-        "due_days": "due in 3 days",
+        "due_days": "due in 2 days",
         "title": "AI image generator based on photograph inputs",
         "description": "We dont have a UI for generating AI outputs based on photograph inputs\nAcceptance Criteria\nExperience in working with AI tool APIs\nTechnical Details\nPeople will be able to upload up to 5 photos on this portal and the AI platform (API provided by us) will generate different versions of the photographs.",
         "author": "RamonBerrios",
@@ -2932,11 +2932,11 @@
     {
         "index": "293",
         "price": "$360.00",
-        "due_days": "due in 3 days",
+        "due_days": "due in 2 days",
         "title": "Vue2 Component that shows an animation of a client communicating with server",
         "description": "Vue2 component that shows an animated client / server diagram based on a \"state\" that gets passed in\n\nprops:\n state (enum consisting of sending / receiving / completed / etc)\n\nSee here for schematic and full list of states:\nhttps://jamboard.google.com/d/18DOGW8M9ATEt-3rguhAPQv5pblkAAVGqgX8dPJHPI/edit?usp=sharing\n\nAcceptance Criteria\n1) it works\n2) it's understandable and can be tweaked and modified by us OR if it's an insane ball of mud we go back and forth on tweaks until it looks right\n\nTechnical Details\nTwo additional considerations that may come up down the line (see Jamboard)\nWe may want to rotate it for mobile\nWe may want to add more boxes to the diagram\n\nI'm not an HTML animation expert, but it feels like vanilla HTML/JS/CSS + grid/flex would do the trick. Don't think we need canvas or SVG or anything beyond that... But happy to chat implementation details if you feel otherwise.\n\nLink to Project\nhttps://jamboard.google.com/d/18DOGW8M9ATEt-3rguhAPQv5pblkAAVGqg...",
         "author": "anguspmitchell",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@anguspmitchell/vue2-component-that?t="
     },
     {
@@ -2952,7 +2952,7 @@
     {
         "index": "295",
         "price": "$45.00",
-        "due_days": "due in 3 days",
+        "due_days": "due in 2 days",
         "title": "Add button to chrome extension for Gmail, GPT",
         "description": "We've made a chrome extension that uses GPT to write your emails for you. Steps to use:\ndownload the extension.\ngo to gmail, click compose and some context points in gmail's draft window.\nselect your text, right click and choose generate email.\nText is sent as prompt to GPT API and output is injected into Gmail DOM.\n\nInstead of right clicking and choosing generate email, we want a simple button that appears whenever the Gmail draft window is opened. You type in context text in the window, click the button which then calls the API. The button should be our extension's logo.\n\nAcceptance Criteria\nButton should have correct placement, functionality. Specifications can be discussed privately.\n\nTechnical Details\nIt is a chrome extension V3. Must be built using JS, HTML and CSS.",
         "author": "ShubhKathuria",
@@ -2962,27 +2962,27 @@
     {
         "index": "296",
         "price": "$45.00",
-        "due_days": "due in 11 days",
+        "due_days": "due in 10 days",
         "title": "GPT Autocomplete Google Docs Addon",
         "description": "I need a simple Google Docs addon, which uses GPT-3 to autocomplete  text while typing. Similar to Github Copilot but for Google Docs.\n\nI should be able to enter my OpenAI API key in the backend, which should be stored securely without users being able to see it.",
         "author": "CoderGautamYT",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/gpt-autocomplete-goo?t="
     },
     {
         "index": "297",
         "price": "$45.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Bring Github Repo Into Replit (and make it work)",
         "description": "There's a github repo that I' d like to bring into Replit. I don't want to bother messing around with VScode/Heroku to deploy it since it's just a small project i'd like to test.\n\nI've attempted to pull the repo into Replit, but there are some errors based on some of the requirements to install. I'm sick of trouble shooting/googling and just hoping someone that understands what's going on can help get it running in Replit (I'm not terribly exerienced in coding)\n\nI forked the repo here\nhttps://github.com/kylelegare/askmybook\n\nThe program processes a pdf then uses OpenAIs embeddings which you can use the interface in the app for semantic search of the PDF.\n\nThere's a demo running here https://serene-meadow-46170.herokuapp.com/ (its trained on the Gumroad help docs)\n\nI'd like this running in Replit so i can just substitute my own PDF and have the same interface that allows me to search my specific documents.\n\nTechnical Details\nIt might be helpful to know there are s...",
         "author": "KyleLegare",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@KyleLegare/bring-github-repo-in?t="
     },
     {
         "index": "298",
         "price": "$100.00",
-        "due_days": "due in 13 days",
+        "due_days": "due in 12 days",
         "title": "Set up API between GPT and Adalo no-code app. ",
         "description": "- I am using Adalo to build a mobile app. I would like one of the screens in my app to be a chat window with an GPT playground prompt. I am fluent in Adalo, but have no idea how to connect to openAI api.\n\nAcceptance Criteria - be fluent in api\u2019s and have a knowledge of Adalo and OpenAI\n\nTechnical Details",
         "author": "zfg4qy465p",
@@ -2992,11 +2992,11 @@
     {
         "index": "299",
         "price": "$450.00",
-        "due_days": "due in 14 days",
+        "due_days": "due in 13 days",
         "title": "Chrome extension that makes an HTTP request",
         "description": "I want a Chrome extension that can make arbitrary HTTP requests to the Farcaster API (https://farcasterxyz.notion.site/Merkle-v2-API-Documentation-c19a9494383a4ce0bd28db6d44d99ea8).\n\nAcceptance Criteria\n\nThe extension would have a a single screen that has three editable text inputs:\n\nThe API endpoint being requested\nThe parameters being appended to the request\nThe bearer token\n\nThere should be a submit button and a confirmation or error text for each request.\n\nIt should be able to be edited and then make a new request but clicking submit again.\n\nThe extension should be able to work on any webpage (since it's not reading information from the page itself).\n\nIt should work for this API request assuming the bearer token is correct:\n\ncurl -X 'GET' \\\n  'https://api.farcaster.xyz/v2/cast?hash=0x321712dc8eccc5d2be38e38c1ef0c8916c49949a80ffe20ec5752bb23ea4d86f' \\\n  -H 'accept: application/json' \\\n  -H 'authorization: Bearer '\n\nI can provide access to the Farcaster API if yo...",
         "author": "danromero",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@danromero/chrome-extension-tha?t="
     }
 ]
