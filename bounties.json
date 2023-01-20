@@ -2986,7 +2986,7 @@
         "title": "Set up API between GPT and Adalo no-code app. ",
         "description": "- I am using Adalo to build a mobile app. I would like one of the screens in my app to be a chat window with an GPT playground prompt. I am fluent in Adalo, but have no idea how to connect to openAI api.\n\nAcceptance Criteria - be fluent in api\u2019s and have a knowledge of Adalo and OpenAI\n\nTechnical Details",
         "author": "zfg4qy465p",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@zfg4qy465p/set-up-api-between-o?t="
     },
     {
@@ -3016,7 +3016,7 @@
         "title": "create a gaming site for me and first person gets 135 cycles",
         "description": "I need a gaming site for me\n\nAcceptance Criteria\nanything is acceptable",
         "author": "shototodoroki0",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@shototodoroki0/create-a-gaming-site?t="
     },
     {
@@ -3062,11 +3062,21 @@
     {
         "index": "306",
         "price": "$15.30",
-        "due_days": "due in 13 days",
+        "due_days": "closed",
         "title": "send me nitro classic for 1.5k Cycles",
         "description": "My credit card is tripping :/ so someone send me Nitro classic and ill send you 1.5k, please be fr Sloe#2227\n\nSloe#2227 - Discord",
         "author": "Randomaaa",
-        "posted_time": "21 minutes ago",
+        "posted_time": "30 minutes ago",
         "link": "https://replit.com/bounties/@Randomaaa/send-me-nitro-classi?t="
+    },
+    {
+        "index": "307",
+        "price": "$2.25",
+        "due_days": "due in 7 days",
+        "title": "Mix between auto hot key script and pythpn",
+        "description": "Hi, i got an AHK script, and i want to combine it with python file.\n\nAcceptance Criteria\ni want the soulotion to be an guide (like a .txt file of what you did and how)",
+        "author": "origaming1",
+        "posted_time": "6 minutes ago",
+        "link": "https://replit.com/bounties/@origaming1/mix-between-auto-hot?t="
     }
 ]
