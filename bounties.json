@@ -2988,5 +2988,15 @@
         "author": "zfg4qy465p",
         "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@zfg4qy465p/set-up-api-between-o?t="
+    },
+    {
+        "index": "299",
+        "price": "$450.00",
+        "due_days": "due in 14 days",
+        "title": "Chrome extension that makes an HTTP request",
+        "description": "I want a Chrome extension that can make arbitrary HTTP requests to the Farcaster API (https://farcasterxyz.notion.site/Merkle-v2-API-Documentation-c19a9494383a4ce0bd28db6d44d99ea8).\n\nAcceptance Criteria\n\nThe extension would have a a single screen that has three editable text inputs:\n\nThe API endpoint being requested\nThe parameters being appended to the request\nThe bearer token\n\nThere should be a submit button and a confirmation or error text for each request.\n\nIt should be able to be edited and then make a new request but clicking submit again.\n\nThe extension should be able to work on any webpage (since it's not reading information from the page itself).\n\nIt should work for this API request assuming the bearer token is correct:\n\ncurl -X 'GET' \\\n  'https://api.farcaster.xyz/v2/cast?hash=0x321712dc8eccc5d2be38e38c1ef0c8916c49949a80ffe20ec5752bb23ea4d86f' \\\n  -H 'accept: application/json' \\\n  -H 'authorization: Bearer '\n\nI can provide access to the Farcaster API if yo...",
+        "author": "danromero",
+        "posted_time": "7 minutes ago",
+        "link": "https://replit.com/bounties/@danromero/chrome-extension-tha?t="
     }
 ]
