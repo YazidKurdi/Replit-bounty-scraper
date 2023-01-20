@@ -2505,7 +2505,7 @@ Technical Details
 It is a chrome extension V3. Must be built using JS, HTML and CSS.",ShubhKathuria,15 hours ago,https://replit.com/bounties/@ShubhKathuria/add-button-to-chrome?t=
 296,$45.00,due in 10 days,GPT Autocomplete Google Docs Addon,"I need a simple Google Docs addon, which uses GPT-3 to autocomplete  text while typing. Similar to Github Copilot but for Google Docs.
 
-I should be able to enter my OpenAI API key in the backend, which should be stored securely without users being able to see it.",CoderGautamYT,14 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt-autocomplete-goo?t=
+I should be able to enter my OpenAI API key in the backend, which should be stored securely without users being able to see it.",CoderGautamYT,15 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt-autocomplete-goo?t=
 297,$45.00,due in 3 days,Bring Github Repo Into Replit (and make it work),"There's a github repo that I' d like to bring into Replit. I don't want to bother messing around with VScode/Heroku to deploy it since it's just a small project i'd like to test.
 
 I've attempted to pull the repo into Replit, but there are some errors based on some of the requirements to install. I'm sick of trouble shooting/googling and just hoping someone that understands what's going on can help get it running in Replit (I'm not terribly exerienced in coding)
@@ -2520,7 +2520,7 @@ There's a demo running here https://serene-meadow-46170.herokuapp.com/ (its trai
 I'd like this running in Replit so i can just substitute my own PDF and have the same interface that allows me to search my specific documents.
 
 Technical Details
-It might be helpful to know there are s...",KyleLegare,14 hours ago,https://replit.com/bounties/@KyleLegare/bring-github-repo-in?t=
+It might be helpful to know there are s...",KyleLegare,15 hours ago,https://replit.com/bounties/@KyleLegare/bring-github-repo-in?t=
 298,$100.00,due in 12 days,Set up API between GPT and Adalo no-code app. ,"- I am using Adalo to build a mobile app. I would like one of the screens in my app to be a chat window with an GPT playground prompt. I am fluent in Adalo, but have no idea how to connect to openAI api.
 
 Acceptance Criteria - be fluent in api’s and have a knowledge of Adalo and OpenAI
@@ -2549,9 +2549,9 @@ curl -X 'GET' \
   -H 'accept: application/json' \
   -H 'authorization: Bearer '
 
-I can provide access to the Farcaster API if yo...",danromero,7 hours ago,https://replit.com/bounties/@danromero/chrome-extension-tha?t=
+I can provide access to the Farcaster API if yo...",danromero,8 hours ago,https://replit.com/bounties/@danromero/chrome-extension-tha?t=
 300,$0.90,due in 6 days,OpenAI Playground Frontend,"I need someone to make my a frontend for the OpenAI Playground.
 Acceptance Criteria
 I only want to use the da-vinci 003 model, no need for Codex or any other models. Simply a one-on-one interface for it.
 Technical Details
-Any language may be used. All I want is for the user to ask the AI a prompt, and for the AI to respond in a certain way. All text should be editable, the user's prompt and the AI. Also, contextual conversations should not be enabled.",CrownDevelopment,30 minutes ago,https://replit.com/bounties/@CrownDevelopment/openai-playground-fr?t=
+Any language may be used. All I want is for the user to ask the AI a prompt, and for the AI to respond in a certain way. All text should be editable, the user's prompt and the AI. Also, contextual conversations should not be enabled.",CrownDevelopment,46 minutes ago,https://replit.com/bounties/@CrownDevelopment/openai-playground-fr?t=
