@@ -2986,7 +2986,7 @@
         "title": "Set up API between GPT and Adalo no-code app. ",
         "description": "- I am using Adalo to build a mobile app. I would like one of the screens in my app to be a chat window with an GPT playground prompt. I am fluent in Adalo, but have no idea how to connect to openAI api.\n\nAcceptance Criteria - be fluent in api\u2019s and have a knowledge of Adalo and OpenAI\n\nTechnical Details",
         "author": "zfg4qy465p",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@zfg4qy465p/set-up-api-between-o?t="
     },
     {
@@ -3016,7 +3016,7 @@
         "title": "create a gaming site for me and first person gets 135 cycles",
         "description": "I need a gaming site for me\n\nAcceptance Criteria\nanything is acceptable",
         "author": "shototodoroki0",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@shototodoroki0/create-a-gaming-site?t="
     },
     {
@@ -3046,7 +3046,7 @@
         "title": "Twitter Bot 9 different accounts / API... Post Scheduling ",
         "description": "I need someone to help with this twitter \"bot\"\n\nI have 9 different accounts and would like to set up and scheduling system for their threads.\n\nPython, HTML, & Javascript needed",
         "author": "nathanpratt2",
-        "posted_time": "59 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@nathanpratt2/twitter-bot-9-differ?t="
     },
     {
@@ -3056,7 +3056,7 @@
         "title": "Extend OpenCamLib to find the smallest cutter that can fit at each point on a surface.",
         "description": "Extend the OpenCAMLib to provide a function that uses DropCutter to find the smallest ball cutter (from a discrete set of defined cutters) that will touch the surface of a solid at each point on its surface.\n\nhttps://github.com/aewallin/opencamlib\n\nAcceptance Criteria\n\nFork the OpenCamLib repository and create a branch in the forked repo with the new capability.\nProvide a script that will pass (1) a STL file from the local filesystem to the new OpenCamLib function and (2) a list of 2-10 BallCutter diameters. Test collection should be 0.5, 1, 2, 4, 8, 12, and 25mm.\nOutput the results using a data structure of your choice.\nAlso output a graphical representation (an image) of the largest BallCutter that can be used to touch the surface of the part at each point. Use a different color for each size BallCutter. If no BallCutter can reach the surface at a given point, color the point black.\nYou can consider a BallCutter to be \"touching\" the surface if it is within 0.01mm...",
         "author": "apowellgt",
-        "posted_time": "16 minutes ago",
+        "posted_time": "26 minutes ago",
         "link": "https://replit.com/bounties/@apowellgt/extend-opencamlib-to?t="
     }
 ]
