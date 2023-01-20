@@ -2433,7 +2433,7 @@ Acceptance Criteria
 VERY HIGH.",NotYourMaster,17 minutes ago,https://replit.com/bounties/@NotYourMaster/discord-valid-token?t=
 287,$450.00,due in 6 days,LinkedIn Integration,"Aggregate 1st degree LinkedIn connections to specific person from multiple profiles.
 
-Ex - person A, B and C work together.  They want to recruit person D to work with them.  Compile all the shared connections to person D for A, B and C.",moravitz,11 hours ago,https://replit.com/bounties/@moravitz/linkedin-integration?t=
+Ex - person A, B and C work together.  They want to recruit person D to work with them.  Compile all the shared connections to person D for A, B and C.",moravitz,12 hours ago,https://replit.com/bounties/@moravitz/linkedin-integration?t=
 288,$45.00,due in 3 days,Investment Memo,"Create an AI bot to generate an investment memo based on website URL or description including company overview, the problem the company solves, the product, the target users, the traction and the funding to date
 
 Acceptance Criteria
@@ -2485,7 +2485,7 @@ We may want to add more boxes to the diagram
 I'm not an HTML animation expert, but it feels like vanilla HTML/JS/CSS + grid/flex would do the trick. Don't think we need canvas or SVG or anything beyond that... But happy to chat implementation details if you feel otherwise.
 
 Link to Project
-https://jamboard.google.com/d/18DOGW8M9ATEt-3rguhAPQv5pblkAAVGqg...",anguspmitchell,7 hours ago,https://replit.com/bounties/@anguspmitchell/vue2-component-that?t=
+https://jamboard.google.com/d/18DOGW8M9ATEt-3rguhAPQv5pblkAAVGqg...",anguspmitchell,8 hours ago,https://replit.com/bounties/@anguspmitchell/vue2-component-that?t=
 294,$300.00,due in 1 month,Create an Interactive Quiz/Trivia Website,"Create a dynamic interactive quiz/trivia website similar to Gimkit and Blooket where any teachers (or anybody else) can make accounts using their emails or google sign-in, create trivia quizzes, have students join the live quiz with a join code (and choose an avatar and 1 in-game powerup), and in the end be able to display the top 5 winners (like Kahoot) and view analytics on the results (e.g. which questions the students got right and wrong and the overall class percentage that got each question right).
 There should also be a nice and smooth UI, with light and dark modes.
 On the teacher's side of the quiz:
@@ -2502,7 +2502,7 @@ Acceptance Criteria
 Button should have correct placement, functionality. Specifications can be discussed privately.
 
 Technical Details
-It is a chrome extension V3. Must be built using JS, HTML and CSS.",ShubhKathuria,3 hours ago,https://replit.com/bounties/@ShubhKathuria/add-button-to-chrome?t=
+It is a chrome extension V3. Must be built using JS, HTML and CSS.",ShubhKathuria,4 hours ago,https://replit.com/bounties/@ShubhKathuria/add-button-to-chrome?t=
 296,$45.00,due in 11 days,GPT Autocomplete Google Docs Addon,"I need a simple Google Docs addon, which uses GPT-3 to autocomplete  text while typing. Similar to Github Copilot but for Google Docs.
 
 I should be able to enter my OpenAI API key in the backend, which should be stored securely without users being able to see it.",CoderGautamYT,3 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt-autocomplete-goo?t=
@@ -2525,4 +2525,4 @@ It might be helpful to know there are s...",KyleLegare,3 hours ago,https://repli
 
 Acceptance Criteria - be fluent in api’s and have a knowledge of Adalo and OpenAI
 
-Technical Details",zfg4qy465p,2 minutes ago,https://replit.com/bounties/@zfg4qy465p/set-up-api-between-o?t=
+Technical Details",zfg4qy465p,21 minutes ago,https://replit.com/bounties/@zfg4qy465p/set-up-api-between-o?t=
