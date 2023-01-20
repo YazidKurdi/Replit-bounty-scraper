@@ -2505,7 +2505,7 @@ Technical Details
 It is a chrome extension V3. Must be built using JS, HTML and CSS.",ShubhKathuria,21 hours ago,https://replit.com/bounties/@ShubhKathuria/add-button-to-chrome?t=
 296,$45.00,due in 10 days,GPT Autocomplete Google Docs Addon,"I need a simple Google Docs addon, which uses GPT-3 to autocomplete  text while typing. Similar to Github Copilot but for Google Docs.
 
-I should be able to enter my OpenAI API key in the backend, which should be stored securely without users being able to see it.",CoderGautamYT,21 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt-autocomplete-goo?t=
+I should be able to enter my OpenAI API key in the backend, which should be stored securely without users being able to see it.",CoderGautamYT,22 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt-autocomplete-goo?t=
 297,$45.00,due in 3 days,Bring Github Repo Into Replit (and make it work),"There's a github repo that I' d like to bring into Replit. I don't want to bother messing around with VScode/Heroku to deploy it since it's just a small project i'd like to test.
 
 I've attempted to pull the repo into Replit, but there are some errors based on some of the requirements to install. I'm sick of trouble shooting/googling and just hoping someone that understands what's going on can help get it running in Replit (I'm not terribly exerienced in coding)
@@ -2520,7 +2520,7 @@ There's a demo running here https://serene-meadow-46170.herokuapp.com/ (its trai
 I'd like this running in Replit so i can just substitute my own PDF and have the same interface that allows me to search my specific documents.
 
 Technical Details
-It might be helpful to know there are s...",KyleLegare,21 hours ago,https://replit.com/bounties/@KyleLegare/bring-github-repo-in?t=
+It might be helpful to know there are s...",KyleLegare,22 hours ago,https://replit.com/bounties/@KyleLegare/bring-github-repo-in?t=
 298,$100.00,due in 12 days,Set up API between GPT and Adalo no-code app. ,"- I am using Adalo to build a mobile app. I would like one of the screens in my app to be a chat window with an GPT playground prompt. I am fluent in Adalo, but have no idea how to connect to openAI api.
 
 Acceptance Criteria - be fluent in api’s and have a knowledge of Adalo and OpenAI
@@ -2549,17 +2549,17 @@ curl -X 'GET' \
   -H 'accept: application/json' \
   -H 'authorization: Bearer '
 
-I can provide access to the Farcaster API if yo...",danromero,14 hours ago,https://replit.com/bounties/@danromero/chrome-extension-tha?t=
+I can provide access to the Farcaster API if yo...",danromero,15 hours ago,https://replit.com/bounties/@danromero/chrome-extension-tha?t=
 300,$0.90,due in 6 days,OpenAI Playground Frontend,"I need someone to make my a frontend for the OpenAI Playground.
 Acceptance Criteria
 I only want to use the da-vinci 003 model, no need for Codex or any other models. Simply a one-on-one interface for it.
 Technical Details
-Any language may be used. All I want is for the user to ask the AI a prompt, and for the AI to respond in a certain way. All text should be editable, the user's prompt and the AI. Also, contextual conversations should not be enabled.",CrownDevelopment,7 hours ago,https://replit.com/bounties/@CrownDevelopment/openai-playground-fr?t=
+Any language may be used. All I want is for the user to ask the AI a prompt, and for the AI to respond in a certain way. All text should be editable, the user's prompt and the AI. Also, contextual conversations should not be enabled.",CrownDevelopment,8 hours ago,https://replit.com/bounties/@CrownDevelopment/openai-playground-fr?t=
 301,$1.35,due in 12 days,create a gaming site for me and first person gets 135 cycles,"I need a gaming site for me
 
 Acceptance Criteria
 anything is acceptable",shototodoroki0,5 hours ago,https://replit.com/bounties/@shototodoroki0/create-a-gaming-site?t=
-302,$5.00,closed,First Applicant = Free 5$ (Upload a Random Repl),Free 5$ for the first to apply,Randomaaa,4 hours ago,https://replit.com/bounties/@Randomaaa/first-applicant-free?t=
+302,$5.00,closed,First Applicant = Free 5$ (Upload a Random Repl),Free 5$ for the first to apply,Randomaaa,5 hours ago,https://replit.com/bounties/@Randomaaa/first-applicant-free?t=
 303,$4.50,due in 1 month,Cookie Clicker App,"I want a fully functioning cookie clicker app
 
 Acceptance Criteria
@@ -2568,7 +2568,7 @@ I want you to create cookieclicker.applecoders.repl.co in an android app.",sqcod
 
 I have 9 different accounts and would like to set up and scheduling system for their threads.
 
-Python, HTML, & Javascript needed",nathanpratt2,1 hour ago,https://replit.com/bounties/@nathanpratt2/twitter-bot-9-differ?t=
+Python, HTML, & Javascript needed",nathanpratt2,2 hours ago,https://replit.com/bounties/@nathanpratt2/twitter-bot-9-differ?t=
 305,$450.00,due in 5 days,Extend OpenCamLib to find the smallest cutter that can fit at each point on a surface.,"Extend the OpenCAMLib to provide a function that uses DropCutter to find the smallest ball cutter (from a discrete set of defined cutters) that will touch the surface of a solid at each point on its surface.
 
 https://github.com/aewallin/opencamlib
@@ -2579,4 +2579,4 @@ Fork the OpenCamLib repository and create a branch in the forked repo with the n
 Provide a script that will pass (1) a STL file from the local filesystem to the new OpenCamLib function and (2) a list of 2-10 BallCutter diameters. Test collection should be 0.5, 1, 2, 4, 8, 12, and 25mm.
 Output the results using a data structure of your choice.
 Also output a graphical representation (an image) of the largest BallCutter that can be used to touch the surface of the part at each point. Use a different color for each size BallCutter. If no BallCutter can reach the surface at a given point, color the point black.
-You can consider a BallCutter to be ""touching"" the surface if it is within 0.01mm...",apowellgt,36 minutes ago,https://replit.com/bounties/@apowellgt/extend-opencamlib-to?t=
+You can consider a BallCutter to be ""touching"" the surface if it is within 0.01mm...",apowellgt,52 minutes ago,https://replit.com/bounties/@apowellgt/extend-opencamlib-to?t=
