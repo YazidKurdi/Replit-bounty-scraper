@@ -2966,7 +2966,7 @@
         "title": "GPT Autocomplete Google Docs Addon",
         "description": "I need a simple Google Docs addon, which uses GPT-3 to autocomplete  text while typing. Similar to Github Copilot but for Google Docs.\n\nI should be able to enter my OpenAI API key in the backend, which should be stored securely without users being able to see it.",
         "author": "CoderGautamYT",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/gpt-autocomplete-goo?t="
     },
     {
@@ -2976,7 +2976,7 @@
         "title": "Bring Github Repo Into Replit (and make it work)",
         "description": "There's a github repo that I' d like to bring into Replit. I don't want to bother messing around with VScode/Heroku to deploy it since it's just a small project i'd like to test.\n\nI've attempted to pull the repo into Replit, but there are some errors based on some of the requirements to install. I'm sick of trouble shooting/googling and just hoping someone that understands what's going on can help get it running in Replit (I'm not terribly exerienced in coding)\n\nI forked the repo here\nhttps://github.com/kylelegare/askmybook\n\nThe program processes a pdf then uses OpenAIs embeddings which you can use the interface in the app for semantic search of the PDF.\n\nThere's a demo running here https://serene-meadow-46170.herokuapp.com/ (its trained on the Gumroad help docs)\n\nI'd like this running in Replit so i can just substitute my own PDF and have the same interface that allows me to search my specific documents.\n\nTechnical Details\nIt might be helpful to know there are s...",
         "author": "KyleLegare",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@KyleLegare/bring-github-repo-in?t="
     },
     {
