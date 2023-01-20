@@ -2554,4 +2554,4 @@ I can provide access to the Farcaster API if yo...",danromero,7 hours ago,https:
 Acceptance Criteria
 I only want to use the da-vinci 003 model, no need for Codex or any other models. Simply a one-on-one interface for it.
 Technical Details
-Any language may be used. All I want is for the user to ask the AI a prompt, and for the AI to respond in a certain way. All text should be editable, the user's prompt and the AI. Also, contextual conversations should not be enabled.",CrownDevelopment,58 seconds ago,https://replit.com/bounties/@CrownDevelopment/openai-playground-fr?t=
+Any language may be used. All I want is for the user to ask the AI a prompt, and for the AI to respond in a certain way. All text should be editable, the user's prompt and the AI. Also, contextual conversations should not be enabled.",CrownDevelopment,10 minutes ago,https://replit.com/bounties/@CrownDevelopment/openai-playground-fr?t=
