@@ -2906,7 +2906,7 @@
         "title": "VSCode Stats Extension",
         "description": "I spend hours every day coding on VSCode. I wish there was a way to track my time and lines of code typed each day.\n\nAcceptance Criteria\nA Visual Studio Code extension that tracks these 2 stats\nTime coded each day\nLines of code typed each day (along with lines of code for each of the languages which was typed)\n\nThe VSCode extension should open as a sidebar, and first display all of today's stats in an appealing format. Users will be able to change the date as well, to see how much they coded on any day.\n\nThere is also a Graph with hours coded in last 7 days, and also a calendar view showing how much time was spent each day in a month (month should be changeable), and you can click on any day to see more stats on that day.\n\nBONUS (1,000 cycles extra): Google Ads or any other ad provider integration",
         "author": "CoderGautamYT",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/vscode-stats-extensi?t="
     },
     {
@@ -2946,7 +2946,7 @@
         "title": "Create an Interactive Quiz/Trivia Website",
         "description": "Create a dynamic interactive quiz/trivia website similar to Gimkit and Blooket where any teachers (or anybody else) can make accounts using their emails or google sign-in, create trivia quizzes, have students join the live quiz with a join code (and choose an avatar and 1 in-game powerup), and in the end be able to display the top 5 winners (like Kahoot) and view analytics on the results (e.g. which questions the students got right and wrong and the overall class percentage that got each question right).\nThere should also be a nice and smooth UI, with light and dark modes.\nOn the teacher's side of the quiz:\nOnce the teacher (users) logs in, and creates a trivia/quiz deck and adds their first question, the teachers should be able to choose the number of answers per question, choose the number of points given per question, and they should be able to add the question and a picture to the question slide (just like kahoot, etc.). Later, when the teacher wants to play the...",
         "author": "Retrospicer",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@Retrospicer/create-an-interactiv?t="
     },
     {
@@ -2996,7 +2996,7 @@
         "title": "Chrome extension that makes an HTTP request",
         "description": "I want a Chrome extension that can make arbitrary HTTP requests to the Farcaster API (https://farcasterxyz.notion.site/Merkle-v2-API-Documentation-c19a9494383a4ce0bd28db6d44d99ea8).\n\nAcceptance Criteria\n\nThe extension would have a a single screen that has three editable text inputs:\n\nThe API endpoint being requested\nThe parameters being appended to the request\nThe bearer token\n\nThere should be a submit button and a confirmation or error text for each request.\n\nIt should be able to be edited and then make a new request but clicking submit again.\n\nThe extension should be able to work on any webpage (since it's not reading information from the page itself).\n\nIt should work for this API request assuming the bearer token is correct:\n\ncurl -X 'GET' \\\n  'https://api.farcaster.xyz/v2/cast?hash=0x321712dc8eccc5d2be38e38c1ef0c8916c49949a80ffe20ec5752bb23ea4d86f' \\\n  -H 'accept: application/json' \\\n  -H 'authorization: Bearer '\n\nI can provide access to the Farcaster API if yo...",
         "author": "danromero",
-        "posted_time": "16 minutes ago",
+        "posted_time": "26 minutes ago",
         "link": "https://replit.com/bounties/@danromero/chrome-extension-tha?t="
     }
 ]
