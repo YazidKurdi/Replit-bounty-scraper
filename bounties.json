@@ -2966,7 +2966,7 @@
         "title": "GPT Autocomplete Google Docs Addon",
         "description": "I need a simple Google Docs addon, which uses GPT-3 to autocomplete  text while typing. Similar to Github Copilot but for Google Docs.\n\nI should be able to enter my OpenAI API key in the backend, which should be stored securely without users being able to see it.",
         "author": "CoderGautamYT",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/gpt-autocomplete-goo?t="
     },
     {
@@ -2976,7 +2976,7 @@
         "title": "Bring Github Repo Into Replit (and make it work)",
         "description": "There's a github repo that I' d like to bring into Replit. I don't want to bother messing around with VScode/Heroku to deploy it since it's just a small project i'd like to test.\n\nI've attempted to pull the repo into Replit, but there are some errors based on some of the requirements to install. I'm sick of trouble shooting/googling and just hoping someone that understands what's going on can help get it running in Replit (I'm not terribly exerienced in coding)\n\nI forked the repo here\nhttps://github.com/kylelegare/askmybook\n\nThe program processes a pdf then uses OpenAIs embeddings which you can use the interface in the app for semantic search of the PDF.\n\nThere's a demo running here https://serene-meadow-46170.herokuapp.com/ (its trained on the Gumroad help docs)\n\nI'd like this running in Replit so i can just substitute my own PDF and have the same interface that allows me to search my specific documents.\n\nTechnical Details\nIt might be helpful to know there are s...",
         "author": "KyleLegare",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@KyleLegare/bring-github-repo-in?t="
     },
     {
@@ -2996,7 +2996,7 @@
         "title": "Chrome extension that makes an HTTP request",
         "description": "I want a Chrome extension that can make arbitrary HTTP requests to the Farcaster API (https://farcasterxyz.notion.site/Merkle-v2-API-Documentation-c19a9494383a4ce0bd28db6d44d99ea8).\n\nAcceptance Criteria\n\nThe extension would have a a single screen that has three editable text inputs:\n\nThe API endpoint being requested\nThe parameters being appended to the request\nThe bearer token\n\nThere should be a submit button and a confirmation or error text for each request.\n\nIt should be able to be edited and then make a new request but clicking submit again.\n\nThe extension should be able to work on any webpage (since it's not reading information from the page itself).\n\nIt should work for this API request assuming the bearer token is correct:\n\ncurl -X 'GET' \\\n  'https://api.farcaster.xyz/v2/cast?hash=0x321712dc8eccc5d2be38e38c1ef0c8916c49949a80ffe20ec5752bb23ea4d86f' \\\n  -H 'accept: application/json' \\\n  -H 'authorization: Bearer '\n\nI can provide access to the Farcaster API if yo...",
         "author": "danromero",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@danromero/chrome-extension-tha?t="
     },
     {
@@ -3006,7 +3006,7 @@
         "title": "OpenAI Playground Frontend",
         "description": "I need someone to make my a frontend for the OpenAI Playground.\nAcceptance Criteria\nI only want to use the da-vinci 003 model, no need for Codex or any other models. Simply a one-on-one interface for it.\nTechnical Details\nAny language may be used. All I want is for the user to ask the AI a prompt, and for the AI to respond in a certain way. All text should be editable, the user's prompt and the AI. Also, contextual conversations should not be enabled.",
         "author": "CrownDevelopment",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@CrownDevelopment/openai-playground-fr?t="
     },
     {
@@ -3016,7 +3016,7 @@
         "title": "create a gaming site for me and first person gets 135 cycles",
         "description": "I need a gaming site for me\n\nAcceptance Criteria\nanything is acceptable",
         "author": "shototodoroki0",
-        "posted_time": "41 minutes ago",
+        "posted_time": "59 minutes ago",
         "link": "https://replit.com/bounties/@shototodoroki0/create-a-gaming-site?t="
     },
     {
@@ -3026,7 +3026,7 @@
         "title": "First Applicant = Free 5$ (Upload a Random Repl)",
         "description": "Free 5$ for the first to apply",
         "author": "Randomaaa",
-        "posted_time": "24 minutes ago",
+        "posted_time": "42 minutes ago",
         "link": "https://replit.com/bounties/@Randomaaa/first-applicant-free?t="
     }
 ]
