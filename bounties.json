@@ -2986,7 +2986,7 @@
         "title": "Set up API between GPT and Adalo no-code app. ",
         "description": "- I am using Adalo to build a mobile app. I would like one of the screens in my app to be a chat window with an GPT playground prompt. I am fluent in Adalo, but have no idea how to connect to openAI api.\n\nAcceptance Criteria - be fluent in api\u2019s and have a knowledge of Adalo and OpenAI\n\nTechnical Details",
         "author": "zfg4qy465p",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@zfg4qy465p/set-up-api-between-o?t="
     },
     {
@@ -3016,7 +3016,7 @@
         "title": "create a gaming site for me and first person gets 135 cycles",
         "description": "I need a gaming site for me\n\nAcceptance Criteria\nanything is acceptable",
         "author": "shototodoroki0",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@shototodoroki0/create-a-gaming-site?t="
     },
     {
@@ -3038,5 +3038,15 @@
         "author": "sqcodes",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@sqcodes/cookie-clicker-app?t="
+    },
+    {
+        "index": "304",
+        "price": "$18.00",
+        "due_days": "due in 6 days",
+        "title": "Twitter Bot 9 different accounts / API... Post Scheduling ",
+        "description": "I need someone to help with this twitter \"bot\"\n\nI have 9 different accounts and would like to set up and scheduling system for their threads.\n\nPython, HTML, & Javascript needed",
+        "author": "nathanpratt2",
+        "posted_time": "9 minutes ago",
+        "link": "https://replit.com/bounties/@nathanpratt2/twitter-bot-9-differ?t="
     }
 ]
