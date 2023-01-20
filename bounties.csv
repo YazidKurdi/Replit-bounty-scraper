@@ -2412,7 +2412,7 @@ The clickable elements of the popover like ""Archive"", ""Share"", and ""Delete"
 
 The buttons should have a hover effect like the example on the Popover page found here: https://headlessui.com/react/popover
 
-Thanks!",deebarizo,15 hours ago,https://replit.com/bounties/@deebarizo/using-headless-ui-cr?t=
+Thanks!",deebarizo,16 hours ago,https://replit.com/bounties/@deebarizo/using-headless-ui-cr?t=
 285,$300.00,due in 23 days,"Kahoot, Quizizz, and Edpuzzle Answer Website","Description
 Create a dynamic website on replit that provides Kahoot answers, Edpuzzle answers and autocomplete, and Quizizz answers for users - in a similar (or exact same) way as the cheat websites https://quizit.online, https://schoolcheats.net, and https://cheatnetwork.eu do.
 It also must have a nice, clean, and easy to use UI (like the sites mentioned above).
@@ -2433,7 +2433,7 @@ Acceptance Criteria
 VERY HIGH.",NotYourMaster,17 minutes ago,https://replit.com/bounties/@NotYourMaster/discord-valid-token?t=
 287,$450.00,due in 6 days,LinkedIn Integration,"Aggregate 1st degree LinkedIn connections to specific person from multiple profiles.
 
-Ex - person A, B and C work together.  They want to recruit person D to work with them.  Compile all the shared connections to person D for A, B and C.",moravitz,8 hours ago,https://replit.com/bounties/@moravitz/linkedin-integration?t=
+Ex - person A, B and C work together.  They want to recruit person D to work with them.  Compile all the shared connections to person D for A, B and C.",moravitz,9 hours ago,https://replit.com/bounties/@moravitz/linkedin-integration?t=
 288,$45.00,due in 3 days,Investment Memo,"Create an AI bot to generate an investment memo based on website URL or description including company overview, the problem the company solves, the product, the target users, the traction and the funding to date
 
 Acceptance Criteria
@@ -2446,7 +2446,7 @@ Acceptance Criteria
 needs to use LangChain and OpenAI on backend
 
 Technical Details
-ideally send example of past bot or work leveraging langchain",gracevelyn77,8 hours ago,https://replit.com/bounties/@gracevelyn77/investment-memo?t=
+ideally send example of past bot or work leveraging langchain",gracevelyn77,9 hours ago,https://replit.com/bounties/@gracevelyn77/investment-memo?t=
 290,$50.00,closed,VSCode Stats Extension,"I spend hours every day coding on VSCode. I wish there was a way to track my time and lines of code typed each day.
 
 Acceptance Criteria
@@ -2464,7 +2464,7 @@ BONUS (1,000 cycles extra): Google Ads or any other ad provider integration",Cod
 Acceptance Criteria
 Experience in working with AI tool APIs
 Technical Details
-People will be able to upload up to 5 photos on this portal and the AI platform (API provided by us) will generate different versions of the photographs.",RamonBerrios,5 hours ago,https://replit.com/bounties/@RamonBerrios/ai-image-generator-b?t=
+People will be able to upload up to 5 photos on this portal and the AI platform (API provided by us) will generate different versions of the photographs.",RamonBerrios,6 hours ago,https://replit.com/bounties/@RamonBerrios/ai-image-generator-b?t=
 293,$360.00,due in 3 days,Vue2 Component that shows an animation of a client communicating with server,"Vue2 component that shows an animated client / server diagram based on a ""state"" that gets passed in
 
 props:
@@ -2485,11 +2485,11 @@ We may want to add more boxes to the diagram
 I'm not an HTML animation expert, but it feels like vanilla HTML/JS/CSS + grid/flex would do the trick. Don't think we need canvas or SVG or anything beyond that... But happy to chat implementation details if you feel otherwise.
 
 Link to Project
-https://jamboard.google.com/d/18DOGW8M9ATEt-3rguhAPQv5pblkAAVGqg...",anguspmitchell,4 hours ago,https://replit.com/bounties/@anguspmitchell/vue2-component-that?t=
+https://jamboard.google.com/d/18DOGW8M9ATEt-3rguhAPQv5pblkAAVGqg...",anguspmitchell,5 hours ago,https://replit.com/bounties/@anguspmitchell/vue2-component-that?t=
 294,$300.00,due in 1 month,Create an Interactive Quiz/Trivia Website,"Create a dynamic interactive quiz/trivia website similar to Gimkit and Blooket where any teachers (or anybody else) can make accounts using their emails or google sign-in, create trivia quizzes, have students join the live quiz with a join code (and choose an avatar and 1 in-game powerup), and in the end be able to display the top 5 winners (like Kahoot) and view analytics on the results (e.g. which questions the students got right and wrong and the overall class percentage that got each question right).
 There should also be a nice and smooth UI, with light and dark modes.
 On the teacher's side of the quiz:
-Once the teacher (users) logs in, and creates a trivia/quiz deck and adds their first question, the teachers should be able to choose the number of answers per question, choose the number of points given per question, and they should be able to add the question and a picture to the question slide (just like kahoot, etc.). Later, when the teacher wants to play the...",Retrospicer,34 minutes ago,https://replit.com/bounties/@Retrospicer/create-an-interactiv?t=
+Once the teacher (users) logs in, and creates a trivia/quiz deck and adds their first question, the teachers should be able to choose the number of answers per question, choose the number of points given per question, and they should be able to add the question and a picture to the question slide (just like kahoot, etc.). Later, when the teacher wants to play the...",Retrospicer,1 hour ago,https://replit.com/bounties/@Retrospicer/create-an-interactiv?t=
 295,$45.00,due in 3 days,"Add button to chrome extension for Gmail, GPT","We've made a chrome extension that uses GPT to write your emails for you. Steps to use:
 download the extension.
 go to gmail, click compose and some context points in gmail's draft window.
@@ -2502,4 +2502,22 @@ Acceptance Criteria
 Button should have correct placement, functionality. Specifications can be discussed privately.
 
 Technical Details
-It is a chrome extension V3. Must be built using JS, HTML and CSS.",ShubhKathuria,6 minutes ago,https://replit.com/bounties/@ShubhKathuria/add-button-to-chrome?t=
+It is a chrome extension V3. Must be built using JS, HTML and CSS.",ShubhKathuria,58 minutes ago,https://replit.com/bounties/@ShubhKathuria/add-button-to-chrome?t=
+296,$45.00,due in 11 days,GPT Autocomplete Google Docs Addon,"I need a simple Google Docs addon, which uses GPT-3 to autocomplete  text while typing. Similar to Github Copilot but for Google Docs.
+
+I should be able to enter my OpenAI API key in the backend, which should be stored securely without users being able to see it.",CoderGautamYT,20 minutes ago,https://replit.com/bounties/@CoderGautamYT/gpt-autocomplete-goo?t=
+297,$45.00,due in 4 days,Bring Github Repo Into Replit (and make it work),"There's a github repo that I' d like to bring into Replit. I don't want to bother messing around with VScode/Heroku to deploy it since it's just a small project i'd like to test.
+
+I've attempted to pull the repo into Replit, but there are some errors based on some of the requirements to install. I'm sick of trouble shooting/googling and just hoping someone that understands what's going on can help get it running in Replit (I'm not terribly exerienced in coding)
+
+I forked the repo here
+https://github.com/kylelegare/askmybook
+
+The program processes a pdf then uses OpenAIs embeddings which you can use the interface in the app for semantic search of the PDF.
+
+There's a demo running here https://serene-meadow-46170.herokuapp.com/ (its trained on the Gumroad help docs)
+
+I'd like this running in Replit so i can just substitute my own PDF and have the same interface that allows me to search my specific documents.
+
+Technical Details
+It might be helpful to know there are s...",KyleLegare,17 minutes ago,https://replit.com/bounties/@KyleLegare/bring-github-repo-in?t=
