@@ -2956,7 +2956,7 @@
         "title": "Add button to chrome extension for Gmail, GPT",
         "description": "We've made a chrome extension that uses GPT to write your emails for you. Steps to use:\ndownload the extension.\ngo to gmail, click compose and some context points in gmail's draft window.\nselect your text, right click and choose generate email.\nText is sent as prompt to GPT API and output is injected into Gmail DOM.\n\nInstead of right clicking and choosing generate email, we want a simple button that appears whenever the Gmail draft window is opened. You type in context text in the window, click the button which then calls the API. The button should be our extension's logo.\n\nAcceptance Criteria\nButton should have correct placement, functionality. Specifications can be discussed privately.\n\nTechnical Details\nIt is a chrome extension V3. Must be built using JS, HTML and CSS.",
         "author": "ShubhKathuria",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@ShubhKathuria/add-button-to-chrome?t="
     },
     {
@@ -3016,7 +3016,7 @@
         "title": "create a gaming site for me and first person gets 135 cycles",
         "description": "I need a gaming site for me\n\nAcceptance Criteria\nanything is acceptable",
         "author": "shototodoroki0",
-        "posted_time": "59 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@shototodoroki0/create-a-gaming-site?t="
     },
     {
@@ -3026,7 +3026,17 @@
         "title": "First Applicant = Free 5$ (Upload a Random Repl)",
         "description": "Free 5$ for the first to apply",
         "author": "Randomaaa",
-        "posted_time": "42 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@Randomaaa/first-applicant-free?t="
+    },
+    {
+        "index": "303",
+        "price": "$4.50",
+        "due_days": "due in 1 month",
+        "title": "Cookie Clicker App",
+        "description": "I want a fully functioning cookie clicker app\n\nAcceptance Criteria\nI want you to create cookieclicker.applecoders.repl.co in an android app.",
+        "author": "sqcodes",
+        "posted_time": "17 minutes ago",
+        "link": "https://replit.com/bounties/@sqcodes/cookie-clicker-app?t="
     }
 ]
