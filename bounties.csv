@@ -2489,7 +2489,7 @@ https://jamboard.google.com/d/18DOGW8M9ATEt-3rguhAPQv5pblkAAVGqg...",anguspmitch
 294,$300.00,due in 1 month,Create an Interactive Quiz/Trivia Website,"Create a dynamic interactive quiz/trivia website similar to Gimkit and Blooket where any teachers (or anybody else) can make accounts using their emails or google sign-in, create trivia quizzes, have students join the live quiz with a join code (and choose an avatar and 1 in-game powerup), and in the end be able to display the top 5 winners (like Kahoot) and view analytics on the results (e.g. which questions the students got right and wrong and the overall class percentage that got each question right).
 There should also be a nice and smooth UI, with light and dark modes.
 On the teacher's side of the quiz:
-Once the teacher (users) logs in, and creates a trivia/quiz deck and adds their first question, the teachers should be able to choose the number of answers per question, choose the number of points given per question, and they should be able to add the question and a picture to the question slide (just like kahoot, etc.). Later, when the teacher wants to play the...",Retrospicer,20 hours ago,https://replit.com/bounties/@Retrospicer/create-an-interactiv?t=
+Once the teacher (users) logs in, and creates a trivia/quiz deck and adds their first question, the teachers should be able to choose the number of answers per question, choose the number of points given per question, and they should be able to add the question and a picture to the question slide (just like kahoot, etc.). Later, when the teacher wants to play the...",Retrospicer,21 hours ago,https://replit.com/bounties/@Retrospicer/create-an-interactiv?t=
 295,$45.00,due in 2 days,"Add button to chrome extension for Gmail, GPT","We've made a chrome extension that uses GPT to write your emails for you. Steps to use:
 download the extension.
 go to gmail, click compose and some context points in gmail's draft window.
@@ -2563,4 +2563,4 @@ anything is acceptable",shototodoroki0,3 hours ago,https://replit.com/bounties/@
 303,$4.50,due in 1 month,Cookie Clicker App,"I want a fully functioning cookie clicker app
 
 Acceptance Criteria
-I want you to create cookieclicker.applecoders.repl.co in an android app.",sqcodes,1 hour ago,https://replit.com/bounties/@sqcodes/cookie-clicker-app?t=
+I want you to create cookieclicker.applecoders.repl.co in an android app.",sqcodes,2 hours ago,https://replit.com/bounties/@sqcodes/cookie-clicker-app?t=
