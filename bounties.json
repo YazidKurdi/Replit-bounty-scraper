@@ -3036,7 +3036,7 @@
         "title": "Cookie Clicker App",
         "description": "I want a fully functioning cookie clicker app\n\nAcceptance Criteria\nI want you to create cookieclicker.applecoders.repl.co in an android app.",
         "author": "sqcodes",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@sqcodes/cookie-clicker-app?t="
     },
     {
@@ -3056,7 +3056,7 @@
         "title": "Extend OpenCamLib to find the smallest cutter that can fit at each point on a surface.",
         "description": "Extend the OpenCAMLib to provide a function that uses DropCutter to find the smallest ball cutter (from a discrete set of defined cutters) that will touch the surface of a solid at each point on its surface.\n\nhttps://github.com/aewallin/opencamlib\n\nAcceptance Criteria\n\nFork the OpenCamLib repository and create a branch in the forked repo with the new capability.\nProvide a script that will pass (1) a STL file from the local filesystem to the new OpenCamLib function and (2) a list of 2-10 BallCutter diameters. Test collection should be 0.5, 1, 2, 4, 8, 12, and 25mm.\nOutput the results using a data structure of your choice.\nAlso output a graphical representation (an image) of the largest BallCutter that can be used to touch the surface of the part at each point. Use a different color for each size BallCutter. If no BallCutter can reach the surface at a given point, color the point black.\nYou can consider a BallCutter to be \"touching\" the surface if it is within 0.01mm...",
         "author": "apowellgt",
-        "posted_time": "26 minutes ago",
+        "posted_time": "36 minutes ago",
         "link": "https://replit.com/bounties/@apowellgt/extend-opencamlib-to?t="
     }
 ]
