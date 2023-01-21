@@ -2617,8 +2617,8 @@ work with gpt index Lang chain and serpapi
 
 Rapid cadence of work is expected",ts2013,12 hours ago,https://replit.com/bounties/@ts2013/webapp-gptindex-lang?t=
 313,$252.00,closed,"Measurement real size of object python using algorithm, not using available library","Measurement real size of object python using algorithm with focal length, distance, not using available library such as OpenCv,...",rithist,10 hours ago,https://replit.com/bounties/@rithist/measurement-real-siz?t=
-314,$0.90,closed,rar should get Verified Hunter,rar should get Verified Hunter,MSOPYT,6 hours ago,https://replit.com/bounties/@MSOPYT/rar-should-get-verif?t=
-315,$0.90,closed,rar should get Verified Hunter 2,rar should get Verified Hunter 2,MSOPYT,6 hours ago,https://replit.com/bounties/@MSOPYT/rar-should-get-verif-1?t=
+314,$0.90,closed,rar should get Verified Hunter,rar should get Verified Hunter,MSOPYT,7 hours ago,https://replit.com/bounties/@MSOPYT/rar-should-get-verif?t=
+315,$0.90,closed,rar should get Verified Hunter 2,rar should get Verified Hunter 2,MSOPYT,7 hours ago,https://replit.com/bounties/@MSOPYT/rar-should-get-verif-1?t=
 316,$0.90,closed,rar should get Verified Hunter 2 ,rar should get Verified Hunter 2,MSOPYT,6 hours ago,https://replit.com/bounties/@MSOPYT/rar-should-get-verif-2?t=
 317,$0.90,closed,rar should get Verified Hunter 3,rar should get Verified Hunter 3,MSOPYT,6 hours ago,https://replit.com/bounties/@MSOPYT/rar-should-get-verif-3?t=
 318,$0.90,closed,rar should get Verified Hunter 4,rar should get Verified Hunter 4,MSOPYT,6 hours ago,https://replit.com/bounties/@MSOPYT/rar-should-get-verif-4?t=
@@ -2631,4 +2631,29 @@ Be specific about what you want in the solution here.",fatty121,6 hours ago,http
 322,$7.00,due in 9 days,Design Page for me,"Describe the problem you are trying to solve here.
 I have a CSS page I need designed and coded in html/css
 Acceptance Criteria
-Be specific about what you want in the solution here.",fatty121,21 minutes ago,https://replit.com/bounties/@fatty121/design-page-for-me?t=
+Be specific about what you want in the solution here.",fatty121,35 minutes ago,https://replit.com/bounties/@fatty121/design-page-for-me?t=
+323,$3.00,due in 3 days,Repl's with the highest runs ,"Please create a Repl that shows the Repls with the highest amount of runs, or the highest amount of tips.
+
+Users should be able to press run, and have a dropdown that allows them to sort by:
+Highest # of runs
+Highest # of Tips
+
+They should be able to also filter by:
+All Time
+Last 12 months
+Last 6 months
+Last 3 months
+
+2 drop-downs or Radio selectors. (Your choice)
+1 to filter by either Tips or Runs
+1 to filter by time.
+
+Ideal Display:
+Repl Name (&Link) | Creator Name(&Link) | Amount of Runs or Tips
+Bookie0 Version 2 | @Bookie0 | 54 Runs
+The Quotes Place | @STCollier | 2,500 Runs
+Acceptance Criteria
+A functioning Repl that shows the highest Repls in terms of runs or Tips.
+It should also probably exclude Repls created by the official @replit account.
+
+//You can publish this from your own Repl after you've created it if you want the tips/runs, just give me some credit for the concept lol.",Bandos1000,3 minutes ago,https://replit.com/bounties/@Bandos1000/show-repls-with-the?t=
