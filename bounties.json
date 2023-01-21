@@ -3056,7 +3056,7 @@
         "title": "Extend OpenCamLib to find the smallest cutter that can fit at each point on a surface.",
         "description": "Extend the OpenCAMLib to provide a function that uses DropCutter to find the smallest ball cutter (from a discrete set of defined cutters) that will touch the surface of a solid at each point on its surface.\n\nhttps://github.com/aewallin/opencamlib\n\nAcceptance Criteria\n\nFork the OpenCamLib repository and create a branch in the forked repo with the new capability.\nProvide a script that will pass (1) a STL file from the local filesystem to the new OpenCamLib function and (2) a list of 2-10 BallCutter diameters. Test collection should be 0.5, 1, 2, 4, 8, 12, and 25mm.\nOutput the results using a data structure of your choice.\nAlso output a graphical representation (an image) of the largest BallCutter that can be used to touch the surface of the part at each point. Use a different color for each size BallCutter. If no BallCutter can reach the surface at a given point, color the point black.\nYou can consider a BallCutter to be \"touching\" the surface if it is within 0.01mm...",
         "author": "apowellgt",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@apowellgt/extend-opencamlib-to?t="
     },
     {
@@ -3066,7 +3066,7 @@
         "title": "send me nitro classic for 1.5k Cycles",
         "description": "My credit card is tripping :/ so someone send me Nitro classic and ill send you 1.5k, please be fr Sloe#2227\n\nSloe#2227 - Discord",
         "author": "Randomaaa",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@Randomaaa/send-me-nitro-classi?t="
     },
     {
@@ -3096,7 +3096,7 @@
         "title": "Send me 10$ Btc,Ltc,Eth for 25$",
         "description": "Send me 10$ in Crypto for 25$\n\nLol i need crypto\n\nSloe#2227  Message me on discord",
         "author": "Randomaaa",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@Randomaaa/send-me-10dollarbtcl?t="
     },
     {
@@ -3106,7 +3106,7 @@
         "title": "Use GPT to use AI to summarise, get answers to questions, and find information from a custom data source",
         "description": "I would like to recreate HubermanAI (https://huberman.rile.yt) for custom content.  HubemanAI is bit more complex as it pulls data from a podcast. I would like to create the same thing but for data sources including PDFs.\n\nAcceptance Criteria\n\nImport large PDFs and text docs and index them to GPT\nCreate a front end  site similar to HubermanAI and allow users to prompt the GPT engine and show search results\nAdd a feature that allows user to upload new data sources",
         "author": "0xanthony",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@0xanthony/use-gpt-to-use-ai-to?t="
     },
     {
@@ -3116,7 +3116,7 @@
         "title": "Get Ahead of the : Free Cycles",
         "description": "\"Get ahead of the game with Free Cycles\"",
         "author": "MSOPYT",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@MSOPYT/get-ahead-of-the-fre?t="
     },
     {
