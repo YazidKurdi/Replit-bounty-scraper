@@ -2627,7 +2627,7 @@ Rapid cadence of work is expected",ts2013,12 hours ago,https://replit.com/bounti
 Fix my html code a bit
 Acceptance Criteria
 Be specific about what you want in the solution here.",fatty121,11 hours ago,https://replit.com/bounties/@fatty121/fix-html-code?t=
-321,$0.90,closed,Free 100 Cycles for 3 people who apply,Free 100 Cycles for 3 people who apply,Randomaaa,8 hours ago,https://replit.com/bounties/@Randomaaa/free-100-cycles-for?t=
+321,$0.90,closed,Free 100 Cycles for 3 people who apply,Free 100 Cycles for 3 people who apply,Randomaaa,9 hours ago,https://replit.com/bounties/@Randomaaa/free-100-cycles-for?t=
 322,$7.00,due in 9 days,Design Page for me,"Describe the problem you are trying to solve here.
 I have a CSS page I need designed and coded in html/css
 Acceptance Criteria
@@ -2685,7 +2685,7 @@ The project should work as expected in the readme file from the original repo.
 Technical Details
 
 Link to Project
-https://replit.com/@FelipeAbello/node-chatgpt-api#index.js",FelipeAbello,4 hours ago,https://replit.com/bounties/@FelipeAbello/add-github-repo-to-r?t=
+https://replit.com/@FelipeAbello/node-chatgpt-api#index.js",FelipeAbello,5 hours ago,https://replit.com/bounties/@FelipeAbello/add-github-repo-to-r?t=
 326,$7.00,closed,🏷️ Replit TagLister,"I'd like to see a list of users with specific tags. (Tag options: https://ask.replit.com/t/profile-tag-options/5784/3)
 E.g.
 Content Creator:
@@ -2738,7 +2738,7 @@ Vite
 Vercel
 Localhost
 CORS configuration and troubleshooting
-API calls and integration with vue app.",asherhunt2,3 hours ago,https://replit.com/bounties/@asherhunt2/help-getting-firebas?t=
+API calls and integration with vue app.",asherhunt2,4 hours ago,https://replit.com/bounties/@asherhunt2/help-getting-firebas?t=
 329,$180.00,due in 5 days,Custom OpenAI Chatbot,"I'd like a custom chatbot, using OpenAI's davinci model, that is finely tuned on a training set based on a game show.
 
 I can provide a sample data set to build against, but the app must be able to ingest updated data post-delivery of the bounty.
@@ -2757,4 +2757,4 @@ Must be able to be run in replit!",AaronLaRue,3 hours ago,https://replit.com/bou
 You can also opt to write an iOS application instead of Android. However, I think iOS will be much harder since iOS disallows background video, you'll have to work around it by either 1) publishing on a sideloading app store, so not officially downloadable or 2) using a zoom-like technique where the video is in a small screen in the corner on top of the current application. Thus, I think Android will be easier; however, if your expertise is Swift or you want to adapt the linked repo, I am also open to this.
 
 Acceptance Criteria
-An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the cam...",AJGupta,3 minutes ago,https://replit.com/bounties/@AJGupta/background-blink-tra?t=
+An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the cam...",AJGupta,14 minutes ago,https://replit.com/bounties/@AJGupta/background-blink-tra?t=
