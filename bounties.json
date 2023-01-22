@@ -3376,7 +3376,7 @@
         "title": "Join a game making coop - make a web game as a 'resume' application ",
         "description": "I'm starting a web game building coop. I'm looking for a lead programmer who has skills with node.js , game making, vanilla web tech, and networking like sockets.io\nThis bounty is basically an application to help start this coop. You will build a simple web game that runs on node, uses canvas in some way and sockets.io ( or just plain websockets )\n\nThe goal is not the repl. The goal is that if you successfully create this game you demonstrate your desire to join a new web game making coop here on Replit.  I have many plans and not enough time. I need folks who I can depend on to create games and build fun stuff. We can work out on a task basis getting compensated in cycles.\n\nAcceptance Criteria\nBe specific about what you want in the solution here.\n\nThis is a repl-based \"resume\" where you show off your Node.js + sockets + web dev + game making skills. Build any kind of game you like. Make it modest, but COMPLETE. Not a tech demo. A full, simple, web based node.js ser...",
         "author": "triptych",
-        "posted_time": "14 seconds ago",
+        "posted_time": "8 minutes ago",
         "link": "https://replit.com/bounties/@triptych/join-a-game-making-c?t="
     }
 ]
