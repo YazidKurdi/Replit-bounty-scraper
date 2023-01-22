@@ -2621,17 +2621,17 @@ Rapid cadence of work is expected",ts2013,12 hours ago,https://replit.com/bounti
 315,$0.90,closed,rar should get Verified Hunter 2,rar should get Verified Hunter 2,MSOPYT,7 hours ago,https://replit.com/bounties/@MSOPYT/rar-should-get-verif-1?t=
 316,$0.90,closed,rar should get Verified Hunter 2 ,rar should get Verified Hunter 2,MSOPYT,7 hours ago,https://replit.com/bounties/@MSOPYT/rar-should-get-verif-2?t=
 317,$0.90,closed,rar should get Verified Hunter 3,rar should get Verified Hunter 3,MSOPYT,7 hours ago,https://replit.com/bounties/@MSOPYT/rar-should-get-verif-3?t=
-318,$0.90,closed,rar should get Verified Hunter 4,rar should get Verified Hunter 4,MSOPYT,7 hours ago,https://replit.com/bounties/@MSOPYT/rar-should-get-verif-4?t=
-319,$0.90,due in 13 days,rar should get Verified Hunter 5,rar should get Verified Hunter 5,MSOPYT,7 hours ago,https://replit.com/bounties/@MSOPYT/rar-should-get-verif-5?t=
+318,$0.90,closed,rar should get Verified Hunter 4,rar should get Verified Hunter 4,MSOPYT,8 hours ago,https://replit.com/bounties/@MSOPYT/rar-should-get-verif-4?t=
+319,$0.90,due in 13 days,rar should get Verified Hunter 5,rar should get Verified Hunter 5,MSOPYT,8 hours ago,https://replit.com/bounties/@MSOPYT/rar-should-get-verif-5?t=
 320,$1.80,due in 13 days,Fix html code,"Describe the problem you are trying to solve here.
 Fix my html code a bit
 Acceptance Criteria
-Be specific about what you want in the solution here.",fatty121,7 hours ago,https://replit.com/bounties/@fatty121/fix-html-code?t=
-321,$0.90,closed,Free 100 Cycles for 3 people who apply,Free 100 Cycles for 3 people who apply,Randomaaa,4 hours ago,https://replit.com/bounties/@Randomaaa/free-100-cycles-for?t=
+Be specific about what you want in the solution here.",fatty121,8 hours ago,https://replit.com/bounties/@fatty121/fix-html-code?t=
+321,$0.90,closed,Free 100 Cycles for 3 people who apply,Free 100 Cycles for 3 people who apply,Randomaaa,5 hours ago,https://replit.com/bounties/@Randomaaa/free-100-cycles-for?t=
 322,$7.00,due in 9 days,Design Page for me,"Describe the problem you are trying to solve here.
 I have a CSS page I need designed and coded in html/css
 Acceptance Criteria
-Be specific about what you want in the solution here.",fatty121,1 hour ago,https://replit.com/bounties/@fatty121/design-page-for-me?t=
+Be specific about what you want in the solution here.",fatty121,2 hours ago,https://replit.com/bounties/@fatty121/design-page-for-me?t=
 323,$3.00,due in 3 days,Repl's with the highest runs ,"Please create a Repl that shows the Repls with the highest amount of runs, or the highest amount of tips.
 
 Users should be able to press run, and have a dropdown that allows them to sort by:
@@ -2656,4 +2656,67 @@ Acceptance Criteria
 A functioning Repl that shows the highest Repls in terms of runs or Tips.
 It should also probably exclude Repls created by the official @replit account.
 
-//You can publish this from your own Repl after you've created it if you want the tips/runs, just give me some credit for the concept lol.",Bandos1000,33 minutes ago,https://replit.com/bounties/@Bandos1000/show-repls-with-the?t=
+//You can publish this from your own Repl after you've created it if you want the tips/runs, just give me some credit for the concept lol.",Bandos1000,1 hour ago,https://replit.com/bounties/@Bandos1000/show-repls-with-the?t=
+324,$5.00,due in 3 days,🐣 10 Year Retweeter ,"Wouldn't it be cool to see the Tweet that had the most likes 10 years ago today?
+I think so.
+
+Looking for a bot that will automatically Quote Tweet the most liked tweet from 10 years ago today each day.
+
+I should be able to hook the delivered code or Repl up to a Twitter bot. *Unsure of how this works
+
+The bot should search each day, and quote tweet the most liked tweet from exactly 10 years ago today.
+E.g. Today at 9am it should quote tweet the most liked tweet from 21 Jan 2012.
+Tomorrow at 9am it should quote tweet the most liked tweet from 22 Jan 2012.
+etc etc
+
+Acceptance Criteria
+Code ready to be hooked up to a twitter automation/bot of some sort and start tweeting on the day it's hooked up.
+
+Project Goal
+Prevent cultural/internet amnesia. If you have any other filters (other than likes) that we could use, that would rock.
+
+I can attribute you on the finished project if you want.",Bandos1000,54 minutes ago,https://replit.com/bounties/@Bandos1000/10-year-retweeter?t=
+325,$9.00,due in 4 days,Add github repo to replit and make it work,"I need to add the following github repo to a replit and I need it to work:
+https://github.com/waylaidwanderer/node-chatgpt-api
+
+Acceptance Criteria
+The project should work as expected in the readme file from the original repo.
+
+Technical Details
+
+Link to Project
+https://replit.com/@FelipeAbello/node-chatgpt-api#index.js",FelipeAbello,41 minutes ago,https://replit.com/bounties/@FelipeAbello/add-github-repo-to-r?t=
+326,$7.00,due in 4 days,🏷️ Replit TagLister,"I'd like to see a list of users with specific tags. (Tag options: https://ask.replit.com/t/profile-tag-options/5784/3)
+E.g.
+Content Creator:
+Username1 (Hyperlinked)
+Username2 (Hyperlinked)
+
+Patron:
+Username1 (Hyperlinked)
+Username2 (Hyperlinked)
+
+Etc.
+
+Bonus: >Fold out style or expand to click tags should expand and show users, but I'm also fine with a a bit of scrolling.
+
+This should not include the 'Hacker' tag or any other tag with over 50 users.
+
+Acceptance Criteria
+A page of lists of users with specific tags, each user should be hyperlinked to their profile.
+
+You can publish this as your own Repl, or I can host it. I will give you credit in the description.
+
+Bonus f/200 Tip,  Show a list of users with over 4 tags (Are there any?)",Bandos1000,28 minutes ago,https://replit.com/bounties/@Bandos1000/tagfinder3000?t=
+327,$22.50,due in 13 days,Implement Auth0 in an Astro template,"I want to integrate Auth0 authentication into my astro.build application.
+There's not a straightforward pre-built way to do this yet, so I'm hoping the developer community can help me out.
+
+Acceptance Criteria
+Using a fork of this template https://replit.com/@triptych/Astro-Latest?v=1
+create a template that has  'sign up/login ', 'logged in' , 'logged out' pages using Auth0 (  https://auth0.com/ )
+
+The logged in page should show something about the user fetched from the Auth0 site such as the username or id.
+
+Please use the node.js level of integration - nothing like next.js or anything. This is meant to work for an Astro instance. ( https://astro.build )
+
+Please use simple, basic code that's well documented, with a Readme.md file that contains steps to configure the Auth0 application to work for this repl.",triptych,27 minutes ago,https://replit.com/bounties/@triptych/implement-auth0-in-a?t=

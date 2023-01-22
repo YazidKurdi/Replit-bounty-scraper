@@ -3186,7 +3186,7 @@
         "title": "rar should get Verified Hunter 4",
         "description": "rar should get Verified Hunter 4",
         "author": "MSOPYT",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@MSOPYT/rar-should-get-verif-4?t="
     },
     {
@@ -3196,7 +3196,7 @@
         "title": "rar should get Verified Hunter 5",
         "description": "rar should get Verified Hunter 5",
         "author": "MSOPYT",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@MSOPYT/rar-should-get-verif-5?t="
     },
     {
@@ -3206,7 +3206,7 @@
         "title": "Fix html code",
         "description": "Describe the problem you are trying to solve here.\nFix my html code a bit\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "fatty121",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@fatty121/fix-html-code?t="
     },
     {
@@ -3216,7 +3216,7 @@
         "title": "Free 100 Cycles for 3 people who apply",
         "description": "Free 100 Cycles for 3 people who apply",
         "author": "Randomaaa",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@Randomaaa/free-100-cycles-for?t="
     },
     {
@@ -3226,7 +3226,7 @@
         "title": "Design Page for me",
         "description": "Describe the problem you are trying to solve here.\nI have a CSS page I need designed and coded in html/css\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "fatty121",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@fatty121/design-page-for-me?t="
     },
     {
@@ -3236,7 +3236,47 @@
         "title": "Repl's with the highest runs ",
         "description": "Please create a Repl that shows the Repls with the highest amount of runs, or the highest amount of tips.\n\nUsers should be able to press run, and have a dropdown that allows them to sort by:\nHighest # of runs\nHighest # of Tips\n\nThey should be able to also filter by:\nAll Time\nLast 12 months\nLast 6 months\nLast 3 months\n\n2 drop-downs or Radio selectors. (Your choice)\n1 to filter by either Tips or Runs\n1 to filter by time.\n\nIdeal Display:\nRepl Name (&Link) | Creator Name(&Link) | Amount of Runs or Tips\nBookie0 Version 2 | @Bookie0 | 54 Runs\nThe Quotes Place | @STCollier | 2,500 Runs\nAcceptance Criteria\nA functioning Repl that shows the highest Repls in terms of runs or Tips.\nIt should also probably exclude Repls created by the official @replit account.\n\n//You can publish this from your own Repl after you've created it if you want the tips/runs, just give me some credit for the concept lol.",
         "author": "Bandos1000",
-        "posted_time": "33 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@Bandos1000/show-repls-with-the?t="
+    },
+    {
+        "index": "324",
+        "price": "$5.00",
+        "due_days": "due in 3 days",
+        "title": "\ud83d\udc23 10 Year Retweeter ",
+        "description": "Wouldn't it be cool to see the Tweet that had the most likes 10 years ago today?\nI think so.\n\nLooking for a bot that will automatically Quote Tweet the most liked tweet from 10 years ago today each day.\n\nI should be able to hook the delivered code or Repl up to a Twitter bot. *Unsure of how this works\n\nThe bot should search each day, and quote tweet the most liked tweet from exactly 10 years ago today.\nE.g. Today at 9am it should quote tweet the most liked tweet from 21 Jan 2012.\nTomorrow at 9am it should quote tweet the most liked tweet from 22 Jan 2012.\netc etc\n\nAcceptance Criteria\nCode ready to be hooked up to a twitter automation/bot of some sort and start tweeting on the day it's hooked up.\n\nProject Goal\nPrevent cultural/internet amnesia. If you have any other filters (other than likes) that we could use, that would rock.\n\nI can attribute you on the finished project if you want.",
+        "author": "Bandos1000",
+        "posted_time": "54 minutes ago",
+        "link": "https://replit.com/bounties/@Bandos1000/10-year-retweeter?t="
+    },
+    {
+        "index": "325",
+        "price": "$9.00",
+        "due_days": "due in 4 days",
+        "title": "Add github repo to replit and make it work",
+        "description": "I need to add the following github repo to a replit and I need it to work:\nhttps://github.com/waylaidwanderer/node-chatgpt-api\n\nAcceptance Criteria\nThe project should work as expected in the readme file from the original repo.\n\nTechnical Details\n\nLink to Project\nhttps://replit.com/@FelipeAbello/node-chatgpt-api#index.js",
+        "author": "FelipeAbello",
+        "posted_time": "41 minutes ago",
+        "link": "https://replit.com/bounties/@FelipeAbello/add-github-repo-to-r?t="
+    },
+    {
+        "index": "326",
+        "price": "$7.00",
+        "due_days": "due in 4 days",
+        "title": "\ud83c\udff7\ufe0f Replit TagLister",
+        "description": "I'd like to see a list of users with specific tags. (Tag options: https://ask.replit.com/t/profile-tag-options/5784/3)\nE.g.\nContent Creator:\nUsername1 (Hyperlinked)\nUsername2 (Hyperlinked)\n\nPatron:\nUsername1 (Hyperlinked)\nUsername2 (Hyperlinked)\n\nEtc.\n\nBonus: >Fold out style or expand to click tags should expand and show users, but I'm also fine with a a bit of scrolling.\n\nThis should not include the 'Hacker' tag or any other tag with over 50 users.\n\nAcceptance Criteria\nA page of lists of users with specific tags, each user should be hyperlinked to their profile.\n\nYou can publish this as your own Repl, or I can host it. I will give you credit in the description.\n\nBonus f/200 Tip,  Show a list of users with over 4 tags (Are there any?)",
+        "author": "Bandos1000",
+        "posted_time": "28 minutes ago",
+        "link": "https://replit.com/bounties/@Bandos1000/tagfinder3000?t="
+    },
+    {
+        "index": "327",
+        "price": "$22.50",
+        "due_days": "due in 13 days",
+        "title": "Implement Auth0 in an Astro template",
+        "description": "I want to integrate Auth0 authentication into my astro.build application.\nThere's not a straightforward pre-built way to do this yet, so I'm hoping the developer community can help me out.\n\nAcceptance Criteria\nUsing a fork of this template https://replit.com/@triptych/Astro-Latest?v=1\ncreate a template that has  'sign up/login ', 'logged in' , 'logged out' pages using Auth0 (  https://auth0.com/ )\n\nThe logged in page should show something about the user fetched from the Auth0 site such as the username or id.\n\nPlease use the node.js level of integration - nothing like next.js or anything. This is meant to work for an Astro instance. ( https://astro.build )\n\nPlease use simple, basic code that's well documented, with a Readme.md file that contains steps to configure the Auth0 application to work for this repl.",
+        "author": "triptych",
+        "posted_time": "27 minutes ago",
+        "link": "https://replit.com/bounties/@triptych/implement-auth0-in-a?t="
     }
 ]
