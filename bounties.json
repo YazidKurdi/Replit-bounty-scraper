@@ -3386,7 +3386,7 @@
         "title": "CSS-only Emoji animation \ud83e\uddde\u200d\u2642\ufe0f",
         "description": "Looking for a genie \ud83e\uddde\u200d\u2642\ufe0f to float around the edges of my webpage as the user uses it.\n(and if the user taps/clicks on it, it 'pops'/vanishes. https://codepen.io/carlcamera/pen/KmEPJZ looks neat if it can outline the genie.)\n\nThis should be able to use principles from here: https://www.kirupa.com/html5/emoji.htm\n(Except the genie should not follow the mouse, it should just 'float' around the edges of mobile and desktop screens. Note the genie is 'imported' in unicode, not from a library.)\n\nAcceptance Criteria\nA genie that floats around the edges of the screen as the user uses the site on mobile and desktop, it should be in Pure CSS. (No HTML/No JS)\nIt should have some sort of fun/slight animation (poof) when tapped or clicked.",
         "author": "Bandos1000",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/css-only-genie-anima?t="
     },
     {
