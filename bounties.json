@@ -3276,7 +3276,7 @@
         "title": "Implement Auth0 in an Astro template",
         "description": "I want to integrate Auth0 authentication into my astro.build application.\nThere's not a straightforward pre-built way to do this yet, so I'm hoping the developer community can help me out.\n\nAcceptance Criteria\nUsing a fork of this template https://replit.com/@triptych/Astro-Latest?v=1\ncreate a template that has  'sign up/login ', 'logged in' , 'logged out' pages using Auth0 (  https://auth0.com/ )\n\nThe logged in page should show something about the user fetched from the Auth0 site such as the username or id.\n\nPlease use the node.js level of integration - nothing like next.js or anything. This is meant to work for an Astro instance. ( https://astro.build )\n\nPlease use simple, basic code that's well documented, with a Readme.md file that contains steps to configure the Auth0 application to work for this repl.",
         "author": "triptych",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@triptych/implement-auth0-in-a?t="
     },
     {
@@ -3316,7 +3316,7 @@
         "title": "Food Cart Ingredient Checker",
         "description": "A chrome extension where I put in ingredients that I don't like. Then, it goes through my current Instacart/Amazon Fresh page (it could be a list of products or it could be my cart or it could be a store name, and it goes through all of the products in advance), and finds each of those food\bs on ingredient websites and scrapes the ingredients, and flags foods with user-specified bad ingredient, for instance, \"cashew\".\n\nThis may require translation from another language. For instance, with this product: https://www.instacart.com/store/hmart/products/2597283 instacart does not show any ingredients, and you'll have to find it in an external website and translate it, then search it.\n\nAcceptance Criteria\nI want a working Chrome extension that does the above. If you have another methodology to do this or want to build a webapp instead, I am also happy to entertain those ideas.",
         "author": "AJGupta",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/food-cart-ingredient?t="
     },
     {

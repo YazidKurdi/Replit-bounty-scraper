@@ -2719,7 +2719,7 @@ The logged in page should show something about the user fetched from the Auth0 s
 
 Please use the node.js level of integration - nothing like next.js or anything. This is meant to work for an Astro instance. ( https://astro.build )
 
-Please use simple, basic code that's well documented, with a Readme.md file that contains steps to configure the Auth0 application to work for this repl.",triptych,17 hours ago,https://replit.com/bounties/@triptych/implement-auth0-in-a?t=
+Please use simple, basic code that's well documented, with a Readme.md file that contains steps to configure the Auth0 application to work for this repl.",triptych,18 hours ago,https://replit.com/bounties/@triptych/implement-auth0-in-a?t=
 328,$22.50,due in 3 days,Help getting Firebase cloud functions working with Serpapi using  Vue/Vite/Localhost/Vercel.,"#Problem
 The problem is that I am unable to get Firebase cloud functions working with my vue/vite/localhost setup. I am experiencing CORS issues and am unable to establish a ""hello world"" moment with the cloud functions. This is preventing me from being able to make server-side API calls via cloud functions in my vue application.
 
@@ -2763,7 +2763,7 @@ An Android app I can install the .apk of on my Samsung phone (and is ideally in-
 This may require translation from another language. For instance, with this product: https://www.instacart.com/store/hmart/products/2597283 instacart does not show any ingredients, and you'll have to find it in an external website and translate it, then search it.
 
 Acceptance Criteria
-I want a working Chrome extension that does the above. If you have another methodology to do this or want to build a webapp instead, I am also happy to entertain those ideas.",AJGupta,12 hours ago,https://replit.com/bounties/@AJGupta/food-cart-ingredient?t=
+I want a working Chrome extension that does the above. If you have another methodology to do this or want to build a webapp instead, I am also happy to entertain those ideas.",AJGupta,13 hours ago,https://replit.com/bounties/@AJGupta/food-cart-ingredient?t=
 332,$27.00,due in 5 days,Decompress .tar.gz File in Browser in Typescript,"When I use typescript and un-tar a binary file in my browser, the size comes out incorrect. You can see the two test files here:  https://us-east-1.console.aws.amazon.com/s3/buckets/test-targz -- one compressed and one decompressed. When I untar the compressed file, I want to get exactly the first file but I don't, and the size is even incorrect.
 
 Acceptance Criteria
