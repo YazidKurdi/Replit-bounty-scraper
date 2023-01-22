@@ -3356,7 +3356,17 @@
         "title": "Modify Car simulation to respawn cars after a configurable period of time.",
         "description": "Modify an existing simulation for EVs and charging stations, adding the option to respawn cars that run out of battery, after a set time. The time must be configurable in a config file given to the simulator.",
         "author": "vibo",
-        "posted_time": "49 minutes ago",
+        "posted_time": "59 minutes ago",
         "link": "https://replit.com/bounties/@vibo/modify-car-simulatio?t="
+    },
+    {
+        "index": "336",
+        "price": "$1,800.00",
+        "due_days": "due in 6 days",
+        "title": "Jife: Japanese Interior Design Generator",
+        "description": "Jife is an AI-powered webapp that provides new interior design ideas in seconds, based on Japanese interior design. With Jife, users can upload a photo of their room and get new interior ideas instantly. It will generate several interior design variations for free initially and then offer additional features with a paid subscription plan.\n\nFor free, the webapp allows users to upload a photo of their room and generate 5 interior design variations. The app allows users to generate for a variety of room types by default including living room, bedroom, bathroom, kitchen by default.\n\nThe webapp offers a monthly subscription plan for $29 that includes unlimited renders, the ability to keep originals and renders private, additional room types), virtual staging mode and a commercial usage license for 1 person. The subscription will unlock the dining room, study room, office, gaming room, outdoor, patio, genkan, toilets, attic.\n\nThe app also offers a professional subscriptio...",
+        "author": "GetInference",
+        "posted_time": "49 seconds ago",
+        "link": "https://replit.com/bounties/@GetInference/jife-japanese-interi?t="
     }
 ]
