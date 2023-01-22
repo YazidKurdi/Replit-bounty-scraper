@@ -3256,7 +3256,7 @@
         "title": "Add github repo to replit and make it work",
         "description": "I need to add the following github repo to a replit and I need it to work:\nhttps://github.com/waylaidwanderer/node-chatgpt-api\n\nAcceptance Criteria\nThe project should work as expected in the readme file from the original repo.\n\nTechnical Details\n\nLink to Project\nhttps://replit.com/@FelipeAbello/node-chatgpt-api#index.js",
         "author": "FelipeAbello",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@FelipeAbello/add-github-repo-to-r?t="
     },
     {
@@ -3346,7 +3346,7 @@
         "title": "Responsive Landing Page",
         "description": "I'd like someone to create a responsive landing page for this [Figma Prototype]\n(https://www.figma.com/proto/6sDGEBQi5EwRNzhGTB4EEc/Landing-page?node-id=1%3A2)\n\nAcceptance Criteria\n\nRepl with web code that looks like figma landing page\n\nTechnical Details\nMust be responsive on mobile\nPreferably use CSS flexbox for styling\nIt will be integrated to a react app (components preferred0\n\nLink to Project\n[Figma Prototype]\n(https://www.figma.com/proto/6sDGEBQi5EwRNzhGTB4EEc/Landing-page?node-id=1%3A2)",
         "author": "oreog",
-        "posted_time": "49 minutes ago",
+        "posted_time": "59 minutes ago",
         "link": "https://replit.com/bounties/@oreog/responsive-landing-p?t="
     }
 ]
