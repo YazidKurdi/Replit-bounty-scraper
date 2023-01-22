@@ -3296,7 +3296,7 @@
         "title": "Custom OpenAI Chatbot",
         "description": "I'd like a custom chatbot, using OpenAI's davinci model, that is finely tuned on a training set based on a game show.\n\nI can provide a sample data set to build against, but the app must be able to ingest updated data post-delivery of the bounty.\n\nAcceptance Criteria\nThe app has a basic interface. This can be text based, it does not need a UI.\nThe app allows the user to add their openAI API key, which is used to power the app\nThe app allows for the uploading of a CSV file to fine tune the openAI models.\nThe app allows the end user to select between the default davinci model and a fine-tuned model stored in the openAI account (Based on the keys entered) to be used for asking questions and answers\nOnce the openAI API keys are entered, and the model is selected, the user can enter prompts & receive responses back.\n\nTechnical Details\nMust be able to be run in replit!",
         "author": "AaronLaRue",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@AaronLaRue/custom-openai-chatbo?t="
     },
     {
@@ -3306,7 +3306,7 @@
         "title": "Background Blink Tracker for Android",
         "description": "I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on mobile.\n\nYou can also opt to write an iOS application instead of Android. However, I think iOS will be much harder since iOS disallows background video, you'll have to work around it by either 1) publishing on a sideloading app store, so not officially downloadable or 2) using a zoom-like technique where the video is in a small screen in the corner on top of the current application. Thus, I think Android will be easier; however, if your expertise is Swift or you want to adapt the linked repo, I am also open to this.\n\nAcceptance Criteria\nAn Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the cam...",
         "author": "AJGupta",
-        "posted_time": "28 minutes ago",
+        "posted_time": "42 minutes ago",
         "link": "https://replit.com/bounties/@AJGupta/background-blink-tra?t="
     }
 ]
