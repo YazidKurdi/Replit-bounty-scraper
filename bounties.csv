@@ -2775,7 +2775,7 @@ There is more elaboration on the problem here: https://stackoverflow.com/questio
 The real size is 1.428 kB. Using tar-stream gives a file that is 20.48 kB, pako gives 9.847 kB or 10.240 kB. The size doesn't even match up.
 
 Link to Project
-You can see some code snippets here: https://stackoverflow.com/questions/75105921/tar-gz-...",AJGupta,16 hours ago,https://replit.com/bounties/@AJGupta/decompress-targz-fil?t=
+You can see some code snippets here: https://stackoverflow.com/questions/75105921/tar-gz-...",AJGupta,17 hours ago,https://replit.com/bounties/@AJGupta/decompress-targz-fil?t=
 333,$0.90,due in 3 days,(freebie) Make Something Cool!,"Description
 This is a freebie, it’s not first come first serve (see below)
 Create a cool project in any programming language you like! Must be a new Repl.
@@ -2816,7 +2816,7 @@ The goal is not the repl. The goal is that if you successfully create this game 
 Acceptance Criteria
 Be specific about what you want in the solution here.
 
-This is a repl-based ""resume"" where you show off your Node.js + sockets + web dev + game making skills. Build any kind of game you like. Make it modest, but COMPLETE. Not a tech demo. A full, simple, web based node.js ser...",triptych,3 hours ago,https://replit.com/bounties/@triptych/join-a-game-making-c?t=
+This is a repl-based ""resume"" where you show off your Node.js + sockets + web dev + game making skills. Build any kind of game you like. Make it modest, but COMPLETE. Not a tech demo. A full, simple, web based node.js ser...",triptych,4 hours ago,https://replit.com/bounties/@triptych/join-a-game-making-c?t=
 338,$2.00,due in 3 days,CSS-only Emoji animation 🧞‍♂️,"Looking for a genie 🧞‍♂️ to float around the edges of my webpage as the user uses it.
 (and if the user taps/clicks on it, it 'pops'/vanishes. https://codepen.io/carlcamera/pen/KmEPJZ looks neat if it can outline the genie.)
 
