@@ -3296,7 +3296,7 @@
         "title": "Custom OpenAI Chatbot",
         "description": "I'd like a custom chatbot, using OpenAI's davinci model, that is finely tuned on a training set based on a game show.\n\nI can provide a sample data set to build against, but the app must be able to ingest updated data post-delivery of the bounty.\n\nAcceptance Criteria\nThe app has a basic interface. This can be text based, it does not need a UI.\nThe app allows the user to add their openAI API key, which is used to power the app\nThe app allows for the uploading of a CSV file to fine tune the openAI models.\nThe app allows the end user to select between the default davinci model and a fine-tuned model stored in the openAI account (Based on the keys entered) to be used for asking questions and answers\nOnce the openAI API keys are entered, and the model is selected, the user can enter prompts & receive responses back.\n\nTechnical Details\nMust be able to be run in replit!",
         "author": "AaronLaRue",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@AaronLaRue/custom-openai-chatbo?t="
     },
     {
@@ -3306,7 +3306,7 @@
         "title": "Background Blink Tracker for Android",
         "description": "I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on mobile.\n\nYou can also opt to write an iOS application instead of Android. However, I think iOS will be much harder since iOS disallows background video, you'll have to work around it by either 1) publishing on a sideloading app store, so not officially downloadable or 2) using a zoom-like technique where the video is in a small screen in the corner on top of the current application. Thus, I think Android will be easier; however, if your expertise is Swift or you want to adapt the linked repo, I am also open to this.\n\nAcceptance Criteria\nAn Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the cam...",
         "author": "AJGupta",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/background-blink-tra?t="
     },
     {
@@ -3326,7 +3326,7 @@
         "title": "Decompress .tar.gz File in Browser in Typescript",
         "description": "When I use typescript and un-tar a binary file in my browser, the size comes out incorrect. You can see the two test files here:  https://us-east-1.console.aws.amazon.com/s3/buckets/test-targz -- one compressed and one decompressed. When I untar the compressed file, I want to get exactly the first file but I don't, and the size is even incorrect.\n\nAcceptance Criteria\nYou should be able to decompress the linked .tar.gz file into the linked decompressed file, with the same size and contents, in localforage.\n\nTechnical Details\nThere is more elaboration on the problem here: https://stackoverflow.com/questions/75105921/tar-gz-decompression-with-ts-results-in-different-files-in-the-browser?noredirect=1#comment132567618_75105921\n\nThe real size is 1.428 kB. Using tar-stream gives a file that is 20.48 kB, pako gives 9.847 kB or 10.240 kB. The size doesn't even match up.\n\nLink to Project\nYou can see some code snippets here: https://stackoverflow.com/questions/75105921/tar-gz-...",
         "author": "AJGupta",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/decompress-targz-fil?t="
     },
     {
