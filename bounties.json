@@ -3226,7 +3226,7 @@
         "title": "Design Page for me",
         "description": "Describe the problem you are trying to solve here.\nI have a CSS page I need designed and coded in html/css\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "fatty121",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@fatty121/design-page-for-me?t="
     },
     {
@@ -3306,7 +3306,17 @@
         "title": "Background Blink Tracker for Android",
         "description": "I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on mobile.\n\nYou can also opt to write an iOS application instead of Android. However, I think iOS will be much harder since iOS disallows background video, you'll have to work around it by either 1) publishing on a sideloading app store, so not officially downloadable or 2) using a zoom-like technique where the video is in a small screen in the corner on top of the current application. Thus, I think Android will be easier; however, if your expertise is Swift or you want to adapt the linked repo, I am also open to this.\n\nAcceptance Criteria\nAn Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the cam...",
         "author": "AJGupta",
-        "posted_time": "42 minutes ago",
+        "posted_time": "56 minutes ago",
         "link": "https://replit.com/bounties/@AJGupta/background-blink-tra?t="
+    },
+    {
+        "index": "331",
+        "price": "$135.00",
+        "due_days": "due in 29 days",
+        "title": "Food Cart Ingredient Checker",
+        "description": "A chrome extension where I put in ingredients that I don't like. Then, it goes through my current Instacart/Amazon Fresh page (it could be a list of products or it could be my cart or it could be a store name, and it goes through all of the products in advance), and finds each of those food\bs on ingredient websites and scrapes the ingredients, and flags foods with user-specified bad ingredient, for instance, \"cashew\".\n\nThis may require translation from another language. For instance, with this product: https://www.instacart.com/store/hmart/products/2597283 instacart does not show any ingredients, and you'll have to find it in an external website and translate it, then search it.\n\nAcceptance Criteria\nI want a working Chrome extension that does the above. If you have another methodology to do this or want to build a webapp instead, I am also happy to entertain those ideas.",
+        "author": "AJGupta",
+        "posted_time": "2 minutes ago",
+        "link": "https://replit.com/bounties/@AJGupta/food-cart-ingredient?t="
     }
 ]
