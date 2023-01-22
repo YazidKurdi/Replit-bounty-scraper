@@ -2676,7 +2676,7 @@ Project Goal
 Prevent cultural/internet amnesia. If you have any other filters (other than likes) that we could use, that would rock.
 
 I can attribute you on the finished project if you want.",Bandos1000,10 hours ago,https://replit.com/bounties/@Bandos1000/10-year-retweeter?t=
-325,$9.00,due in 4 days,Add github repo to replit and make it work,"I need to add the following github repo to a replit and I need it to work:
+325,$9.00,due in 3 days,Add github repo to replit and make it work,"I need to add the following github repo to a replit and I need it to work:
 https://github.com/waylaidwanderer/node-chatgpt-api
 
 Acceptance Criteria
@@ -2708,7 +2708,7 @@ A page of lists of users with specific tags, each user should be hyperlinked to 
 You can publish this as your own Repl, or I can host it. I will give you credit in the description.
 
 Bonus f/200 Tip,  Show a list of users with over 4 tags (Are there any?)",Bandos1000,12 hours ago,https://replit.com/bounties/@Bandos1000/tagfinder3000?t=
-327,$22.50,due in 13 days,Implement Auth0 in an Astro template,"I want to integrate Auth0 authentication into my astro.build application.
+327,$22.50,due in 12 days,Implement Auth0 in an Astro template,"I want to integrate Auth0 authentication into my astro.build application.
 There's not a straightforward pre-built way to do this yet, so I'm hoping the developer community can help me out.
 
 Acceptance Criteria
@@ -2720,7 +2720,7 @@ The logged in page should show something about the user fetched from the Auth0 s
 Please use the node.js level of integration - nothing like next.js or anything. This is meant to work for an Astro instance. ( https://astro.build )
 
 Please use simple, basic code that's well documented, with a Readme.md file that contains steps to configure the Auth0 application to work for this repl.",triptych,12 hours ago,https://replit.com/bounties/@triptych/implement-auth0-in-a?t=
-328,$22.50,due in 4 days,Help getting Firebase cloud functions working with Serpapi using  Vue/Vite/Localhost/Vercel.,"#Problem
+328,$22.50,due in 3 days,Help getting Firebase cloud functions working with Serpapi using  Vue/Vite/Localhost/Vercel.,"#Problem
 The problem is that I am unable to get Firebase cloud functions working with my vue/vite/localhost setup. I am experiencing CORS issues and am unable to establish a ""hello world"" moment with the cloud functions. This is preventing me from being able to make server-side API calls via cloud functions in my vue application.
 
 Acceptance Criteria
@@ -2739,7 +2739,7 @@ Vercel
 Localhost
 CORS configuration and troubleshooting
 API calls and integration with vue app.",asherhunt2,11 hours ago,https://replit.com/bounties/@asherhunt2/help-getting-firebas?t=
-329,$180.00,due in 5 days,Custom OpenAI Chatbot,"I'd like a custom chatbot, using OpenAI's davinci model, that is finely tuned on a training set based on a game show.
+329,$180.00,due in 4 days,Custom OpenAI Chatbot,"I'd like a custom chatbot, using OpenAI's davinci model, that is finely tuned on a training set based on a game show.
 
 I can provide a sample data set to build against, but the app must be able to ingest updated data post-delivery of the bounty.
 
@@ -2751,20 +2751,20 @@ The app allows the end user to select between the default davinci model and a fi
 Once the openAI API keys are entered, and the model is selected, the user can enter prompts & receive responses back.
 
 Technical Details
-Must be able to be run in replit!",AaronLaRue,10 hours ago,https://replit.com/bounties/@AaronLaRue/custom-openai-chatbo?t=
-330,$135.00,due in 28 days,Background Blink Tracker for Android,"I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on mobile.
+Must be able to be run in replit!",AaronLaRue,11 hours ago,https://replit.com/bounties/@AaronLaRue/custom-openai-chatbo?t=
+330,$135.00,due in 27 days,Background Blink Tracker for Android,"I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on mobile.
 
 You can also opt to write an iOS application instead of Android. However, I think iOS will be much harder since iOS disallows background video, you'll have to work around it by either 1) publishing on a sideloading app store, so not officially downloadable or 2) using a zoom-like technique where the video is in a small screen in the corner on top of the current application. Thus, I think Android will be easier; however, if your expertise is Swift or you want to adapt the linked repo, I am also open to this.
 
 Acceptance Criteria
-An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the cam...",AJGupta,7 hours ago,https://replit.com/bounties/@AJGupta/background-blink-tra?t=
-331,$135.00,due in 29 days,Food Cart Ingredient Checker,"A chrome extension where I put in ingredients that I don't like. Then, it goes through my current Instacart/Amazon Fresh page (it could be a list of products or it could be my cart or it could be a store name, and it goes through all of the products in advance), and finds each of those foods on ingredient websites and scrapes the ingredients, and flags foods with user-specified bad ingredient, for instance, ""cashew"".
+An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the cam...",AJGupta,8 hours ago,https://replit.com/bounties/@AJGupta/background-blink-tra?t=
+331,$135.00,due in 28 days,Food Cart Ingredient Checker,"A chrome extension where I put in ingredients that I don't like. Then, it goes through my current Instacart/Amazon Fresh page (it could be a list of products or it could be my cart or it could be a store name, and it goes through all of the products in advance), and finds each of those foods on ingredient websites and scrapes the ingredients, and flags foods with user-specified bad ingredient, for instance, ""cashew"".
 
 This may require translation from another language. For instance, with this product: https://www.instacart.com/store/hmart/products/2597283 instacart does not show any ingredients, and you'll have to find it in an external website and translate it, then search it.
 
 Acceptance Criteria
 I want a working Chrome extension that does the above. If you have another methodology to do this or want to build a webapp instead, I am also happy to entertain those ideas.",AJGupta,7 hours ago,https://replit.com/bounties/@AJGupta/food-cart-ingredient?t=
-332,$27.00,due in 6 days,Decompress .tar.gz File in Browser in Typescript,"When I use typescript and un-tar a binary file in my browser, the size comes out incorrect. You can see the two test files here:  https://us-east-1.console.aws.amazon.com/s3/buckets/test-targz -- one compressed and one decompressed. When I untar the compressed file, I want to get exactly the first file but I don't, and the size is even incorrect.
+332,$27.00,due in 5 days,Decompress .tar.gz File in Browser in Typescript,"When I use typescript and un-tar a binary file in my browser, the size comes out incorrect. You can see the two test files here:  https://us-east-1.console.aws.amazon.com/s3/buckets/test-targz -- one compressed and one decompressed. When I untar the compressed file, I want to get exactly the first file but I don't, and the size is even incorrect.
 
 Acceptance Criteria
 You should be able to decompress the linked .tar.gz file into the linked decompressed file, with the same size and contents, in localforage.
@@ -2775,8 +2775,8 @@ There is more elaboration on the problem here: https://stackoverflow.com/questio
 The real size is 1.428 kB. Using tar-stream gives a file that is 20.48 kB, pako gives 9.847 kB or 10.240 kB. The size doesn't even match up.
 
 Link to Project
-You can see some code snippets here: https://stackoverflow.com/questions/75105921/tar-gz-...",AJGupta,6 hours ago,https://replit.com/bounties/@AJGupta/decompress-targz-fil?t=
-333,$0.90,due in 4 days,(freebie) Make Something Cool!,"Description
+You can see some code snippets here: https://stackoverflow.com/questions/75105921/tar-gz-...",AJGupta,7 hours ago,https://replit.com/bounties/@AJGupta/decompress-targz-fil?t=
+333,$0.90,due in 3 days,(freebie) Make Something Cool!,"Description
 This is a freebie, it’s not first come first serve (see below)
 Create a cool project in any programming language you like! Must be a new Repl.
 
@@ -2799,4 +2799,4 @@ It will be integrated to a react app (components preferred0
 
 Link to Project
 [Figma Prototype]
-(https://www.figma.com/proto/6sDGEBQi5EwRNzhGTB4EEc/Landing-page?node-id=1%3A2)",oreog,2 hours ago,https://replit.com/bounties/@oreog/responsive-landing-p?t=
+(https://www.figma.com/proto/6sDGEBQi5EwRNzhGTB4EEc/Landing-page?node-id=1%3A2)",oreog,3 hours ago,https://replit.com/bounties/@oreog/responsive-landing-p?t=

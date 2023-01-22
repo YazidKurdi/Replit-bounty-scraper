@@ -3252,7 +3252,7 @@
     {
         "index": "325",
         "price": "$9.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Add github repo to replit and make it work",
         "description": "I need to add the following github repo to a replit and I need it to work:\nhttps://github.com/waylaidwanderer/node-chatgpt-api\n\nAcceptance Criteria\nThe project should work as expected in the readme file from the original repo.\n\nTechnical Details\n\nLink to Project\nhttps://replit.com/@FelipeAbello/node-chatgpt-api#index.js",
         "author": "FelipeAbello",
@@ -3272,7 +3272,7 @@
     {
         "index": "327",
         "price": "$22.50",
-        "due_days": "due in 13 days",
+        "due_days": "due in 12 days",
         "title": "Implement Auth0 in an Astro template",
         "description": "I want to integrate Auth0 authentication into my astro.build application.\nThere's not a straightforward pre-built way to do this yet, so I'm hoping the developer community can help me out.\n\nAcceptance Criteria\nUsing a fork of this template https://replit.com/@triptych/Astro-Latest?v=1\ncreate a template that has  'sign up/login ', 'logged in' , 'logged out' pages using Auth0 (  https://auth0.com/ )\n\nThe logged in page should show something about the user fetched from the Auth0 site such as the username or id.\n\nPlease use the node.js level of integration - nothing like next.js or anything. This is meant to work for an Astro instance. ( https://astro.build )\n\nPlease use simple, basic code that's well documented, with a Readme.md file that contains steps to configure the Auth0 application to work for this repl.",
         "author": "triptych",
@@ -3282,7 +3282,7 @@
     {
         "index": "328",
         "price": "$22.50",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Help getting Firebase cloud functions working with Serpapi using  Vue/Vite/Localhost/Vercel.",
         "description": "#Problem\nThe problem is that I am unable to get Firebase cloud functions working with my vue/vite/localhost setup. I am experiencing CORS issues and am unable to establish a \"hello world\" moment with the cloud functions. This is preventing me from being able to make server-side API calls via cloud functions in my vue application.\n\nAcceptance Criteria\nSuccessfully deploy a working cloud function on Firebase that sends/receives requests to Serpapi.\nHelp resolve CORS issues with localhost and establish a connection between the cloud function and my Vue app. This should also work when deployed to Vercel.\nAble to make server-side API calls via cloud functions using my vue app\nProvide clear documentation on how to reproduce the setup\n\nTechnical Details\n\nFirebase cloud functions\nVue.js\nSerpapi\nVite\nVercel\nLocalhost\nCORS configuration and troubleshooting\nAPI calls and integration with vue app.",
         "author": "asherhunt2",
@@ -3292,27 +3292,27 @@
     {
         "index": "329",
         "price": "$180.00",
-        "due_days": "due in 5 days",
+        "due_days": "due in 4 days",
         "title": "Custom OpenAI Chatbot",
         "description": "I'd like a custom chatbot, using OpenAI's davinci model, that is finely tuned on a training set based on a game show.\n\nI can provide a sample data set to build against, but the app must be able to ingest updated data post-delivery of the bounty.\n\nAcceptance Criteria\nThe app has a basic interface. This can be text based, it does not need a UI.\nThe app allows the user to add their openAI API key, which is used to power the app\nThe app allows for the uploading of a CSV file to fine tune the openAI models.\nThe app allows the end user to select between the default davinci model and a fine-tuned model stored in the openAI account (Based on the keys entered) to be used for asking questions and answers\nOnce the openAI API keys are entered, and the model is selected, the user can enter prompts & receive responses back.\n\nTechnical Details\nMust be able to be run in replit!",
         "author": "AaronLaRue",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@AaronLaRue/custom-openai-chatbo?t="
     },
     {
         "index": "330",
         "price": "$135.00",
-        "due_days": "due in 28 days",
+        "due_days": "due in 27 days",
         "title": "Background Blink Tracker for Android",
         "description": "I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on mobile.\n\nYou can also opt to write an iOS application instead of Android. However, I think iOS will be much harder since iOS disallows background video, you'll have to work around it by either 1) publishing on a sideloading app store, so not officially downloadable or 2) using a zoom-like technique where the video is in a small screen in the corner on top of the current application. Thus, I think Android will be easier; however, if your expertise is Swift or you want to adapt the linked repo, I am also open to this.\n\nAcceptance Criteria\nAn Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the cam...",
         "author": "AJGupta",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/background-blink-tra?t="
     },
     {
         "index": "331",
         "price": "$135.00",
-        "due_days": "due in 29 days",
+        "due_days": "due in 28 days",
         "title": "Food Cart Ingredient Checker",
         "description": "A chrome extension where I put in ingredients that I don't like. Then, it goes through my current Instacart/Amazon Fresh page (it could be a list of products or it could be my cart or it could be a store name, and it goes through all of the products in advance), and finds each of those food\bs on ingredient websites and scrapes the ingredients, and flags foods with user-specified bad ingredient, for instance, \"cashew\".\n\nThis may require translation from another language. For instance, with this product: https://www.instacart.com/store/hmart/products/2597283 instacart does not show any ingredients, and you'll have to find it in an external website and translate it, then search it.\n\nAcceptance Criteria\nI want a working Chrome extension that does the above. If you have another methodology to do this or want to build a webapp instead, I am also happy to entertain those ideas.",
         "author": "AJGupta",
@@ -3322,17 +3322,17 @@
     {
         "index": "332",
         "price": "$27.00",
-        "due_days": "due in 6 days",
+        "due_days": "due in 5 days",
         "title": "Decompress .tar.gz File in Browser in Typescript",
         "description": "When I use typescript and un-tar a binary file in my browser, the size comes out incorrect. You can see the two test files here:  https://us-east-1.console.aws.amazon.com/s3/buckets/test-targz -- one compressed and one decompressed. When I untar the compressed file, I want to get exactly the first file but I don't, and the size is even incorrect.\n\nAcceptance Criteria\nYou should be able to decompress the linked .tar.gz file into the linked decompressed file, with the same size and contents, in localforage.\n\nTechnical Details\nThere is more elaboration on the problem here: https://stackoverflow.com/questions/75105921/tar-gz-decompression-with-ts-results-in-different-files-in-the-browser?noredirect=1#comment132567618_75105921\n\nThe real size is 1.428 kB. Using tar-stream gives a file that is 20.48 kB, pako gives 9.847 kB or 10.240 kB. The size doesn't even match up.\n\nLink to Project\nYou can see some code snippets here: https://stackoverflow.com/questions/75105921/tar-gz-...",
         "author": "AJGupta",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/decompress-targz-fil?t="
     },
     {
         "index": "333",
         "price": "$0.90",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "(freebie) Make Something Cool!",
         "description": "Description\nThis is a freebie, it\u2019s not first come first serve (see below)\nCreate a cool project in any programming language you like! Must be a new Repl.\n\nAcceptance Criteria\nMust create an interesting project, of my liking. It is not first come first serve, I\u2019ll give you some hints on things I may appreciate more:)\nLanguages I like: HTML, CSS (especially style sheets), C++, LOLCODE, and some others that you may know! (Note: it can be in any language, not just the ones listed here)\nSomething interesting, creative, and original.\nModern look (for HTML/CSS stuff)",
         "author": "EarthRulerr",
@@ -3346,7 +3346,7 @@
         "title": "Responsive Landing Page",
         "description": "I'd like someone to create a responsive landing page for this [Figma Prototype]\n(https://www.figma.com/proto/6sDGEBQi5EwRNzhGTB4EEc/Landing-page?node-id=1%3A2)\n\nAcceptance Criteria\n\nRepl with web code that looks like figma landing page\n\nTechnical Details\nMust be responsive on mobile\nPreferably use CSS flexbox for styling\nIt will be integrated to a react app (components preferred0\n\nLink to Project\n[Figma Prototype]\n(https://www.figma.com/proto/6sDGEBQi5EwRNzhGTB4EEc/Landing-page?node-id=1%3A2)",
         "author": "oreog",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@oreog/responsive-landing-p?t="
     }
 ]
