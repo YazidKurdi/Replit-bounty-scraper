@@ -3286,7 +3286,7 @@
         "title": "Help getting Firebase cloud functions working with Serpapi using  Vue/Vite/Localhost/Vercel.",
         "description": "#Problem\nThe problem is that I am unable to get Firebase cloud functions working with my vue/vite/localhost setup. I am experiencing CORS issues and am unable to establish a \"hello world\" moment with the cloud functions. This is preventing me from being able to make server-side API calls via cloud functions in my vue application.\n\nAcceptance Criteria\nSuccessfully deploy a working cloud function on Firebase that sends/receives requests to Serpapi.\nHelp resolve CORS issues with localhost and establish a connection between the cloud function and my Vue app. This should also work when deployed to Vercel.\nAble to make server-side API calls via cloud functions using my vue app\nProvide clear documentation on how to reproduce the setup\n\nTechnical Details\n\nFirebase cloud functions\nVue.js\nSerpapi\nVite\nVercel\nLocalhost\nCORS configuration and troubleshooting\nAPI calls and integration with vue app.",
         "author": "asherhunt2",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@asherhunt2/help-getting-firebas?t="
     },
     {
@@ -3346,7 +3346,7 @@
         "title": "Responsive Landing Page",
         "description": "I'd like someone to create a responsive landing page for this [Figma Prototype]\n(https://www.figma.com/proto/6sDGEBQi5EwRNzhGTB4EEc/Landing-page?node-id=1%3A2)\n\nAcceptance Criteria\n\nRepl with web code that looks like figma landing page\n\nTechnical Details\nMust be responsive on mobile\nPreferably use CSS flexbox for styling\nIt will be integrated to a react app (components preferred0\n\nLink to Project\n[Figma Prototype]\n(https://www.figma.com/proto/6sDGEBQi5EwRNzhGTB4EEc/Landing-page?node-id=1%3A2)",
         "author": "oreog",
-        "posted_time": "41 minutes ago",
+        "posted_time": "49 minutes ago",
         "link": "https://replit.com/bounties/@oreog/responsive-landing-p?t="
     }
 ]
