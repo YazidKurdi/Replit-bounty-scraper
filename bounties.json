@@ -3326,7 +3326,7 @@
         "title": "Decompress .tar.gz File in Browser in Typescript",
         "description": "When I use typescript and un-tar a binary file in my browser, the size comes out incorrect. You can see the two test files here:  https://us-east-1.console.aws.amazon.com/s3/buckets/test-targz -- one compressed and one decompressed. When I untar the compressed file, I want to get exactly the first file but I don't, and the size is even incorrect.\n\nAcceptance Criteria\nYou should be able to decompress the linked .tar.gz file into the linked decompressed file, with the same size and contents, in localforage.\n\nTechnical Details\nThere is more elaboration on the problem here: https://stackoverflow.com/questions/75105921/tar-gz-decompression-with-ts-results-in-different-files-in-the-browser?noredirect=1#comment132567618_75105921\n\nThe real size is 1.428 kB. Using tar-stream gives a file that is 20.48 kB, pako gives 9.847 kB or 10.240 kB. The size doesn't even match up.\n\nLink to Project\nYou can see some code snippets here: https://stackoverflow.com/questions/75105921/tar-gz-...",
         "author": "AJGupta",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/decompress-targz-fil?t="
     },
     {
@@ -3376,7 +3376,7 @@
         "title": "Join a game making coop - make a web game as a 'resume' application ",
         "description": "I'm starting a web game building coop. I'm looking for a lead programmer who has skills with node.js , game making, vanilla web tech, and networking like sockets.io\nThis bounty is basically an application to help start this coop. You will build a simple web game that runs on node, uses canvas in some way and sockets.io ( or just plain websockets )\n\nThe goal is not the repl. The goal is that if you successfully create this game you demonstrate your desire to join a new web game making coop here on Replit.  I have many plans and not enough time. I need folks who I can depend on to create games and build fun stuff. We can work out on a task basis getting compensated in cycles.\n\nAcceptance Criteria\nBe specific about what you want in the solution here.\n\nThis is a repl-based \"resume\" where you show off your Node.js + sockets + web dev + game making skills. Build any kind of game you like. Make it modest, but COMPLETE. Not a tech demo. A full, simple, web based node.js ser...",
         "author": "triptych",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@triptych/join-a-game-making-c?t="
     },
     {
@@ -3406,7 +3406,7 @@
         "title": "Create a web app that connects to your audible account and pulls only your clips into mp3. ",
         "description": "Currently there is no direct way that lets you connect your audible account and extract all your audible clips.\n\nAcceptance Criteria\nI am looking for a developer that can develop a basic web app  that  connects to audible account then be able to pull ONLY the clips of all the audiobooks in the library.\nOnce that's done and tested, there will be additional features added into the app.\nLooking to retain a skilled developer for on-going work on this project.",
         "author": "Danar8",
-        "posted_time": "6 minutes ago",
+        "posted_time": "20 minutes ago",
         "link": "https://replit.com/bounties/@Danar8/create-a-web-app-tha?t="
     }
 ]
