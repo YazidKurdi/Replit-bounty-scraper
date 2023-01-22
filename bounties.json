@@ -3296,7 +3296,7 @@
         "title": "Custom OpenAI Chatbot",
         "description": "I'd like a custom chatbot, using OpenAI's davinci model, that is finely tuned on a training set based on a game show.\n\nI can provide a sample data set to build against, but the app must be able to ingest updated data post-delivery of the bounty.\n\nAcceptance Criteria\nThe app has a basic interface. This can be text based, it does not need a UI.\nThe app allows the user to add their openAI API key, which is used to power the app\nThe app allows for the uploading of a CSV file to fine tune the openAI models.\nThe app allows the end user to select between the default davinci model and a fine-tuned model stored in the openAI account (Based on the keys entered) to be used for asking questions and answers\nOnce the openAI API keys are entered, and the model is selected, the user can enter prompts & receive responses back.\n\nTechnical Details\nMust be able to be run in replit!",
         "author": "AaronLaRue",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@AaronLaRue/custom-openai-chatbo?t="
     },
     {
@@ -3306,7 +3306,7 @@
         "title": "Background Blink Tracker for Android",
         "description": "I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on mobile.\n\nYou can also opt to write an iOS application instead of Android. However, I think iOS will be much harder since iOS disallows background video, you'll have to work around it by either 1) publishing on a sideloading app store, so not officially downloadable or 2) using a zoom-like technique where the video is in a small screen in the corner on top of the current application. Thus, I think Android will be easier; however, if your expertise is Swift or you want to adapt the linked repo, I am also open to this.\n\nAcceptance Criteria\nAn Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the cam...",
         "author": "AJGupta",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/background-blink-tra?t="
     },
     {
@@ -3326,7 +3326,7 @@
         "title": "Decompress .tar.gz File in Browser in Typescript",
         "description": "When I use typescript and un-tar a binary file in my browser, the size comes out incorrect. You can see the two test files here:  https://us-east-1.console.aws.amazon.com/s3/buckets/test-targz -- one compressed and one decompressed. When I untar the compressed file, I want to get exactly the first file but I don't, and the size is even incorrect.\n\nAcceptance Criteria\nYou should be able to decompress the linked .tar.gz file into the linked decompressed file, with the same size and contents, in localforage.\n\nTechnical Details\nThere is more elaboration on the problem here: https://stackoverflow.com/questions/75105921/tar-gz-decompression-with-ts-results-in-different-files-in-the-browser?noredirect=1#comment132567618_75105921\n\nThe real size is 1.428 kB. Using tar-stream gives a file that is 20.48 kB, pako gives 9.847 kB or 10.240 kB. The size doesn't even match up.\n\nLink to Project\nYou can see some code snippets here: https://stackoverflow.com/questions/75105921/tar-gz-...",
         "author": "AJGupta",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/decompress-targz-fil?t="
     },
     {
@@ -3376,7 +3376,17 @@
         "title": "Join a game making coop - make a web game as a 'resume' application ",
         "description": "I'm starting a web game building coop. I'm looking for a lead programmer who has skills with node.js , game making, vanilla web tech, and networking like sockets.io\nThis bounty is basically an application to help start this coop. You will build a simple web game that runs on node, uses canvas in some way and sockets.io ( or just plain websockets )\n\nThe goal is not the repl. The goal is that if you successfully create this game you demonstrate your desire to join a new web game making coop here on Replit.  I have many plans and not enough time. I need folks who I can depend on to create games and build fun stuff. We can work out on a task basis getting compensated in cycles.\n\nAcceptance Criteria\nBe specific about what you want in the solution here.\n\nThis is a repl-based \"resume\" where you show off your Node.js + sockets + web dev + game making skills. Build any kind of game you like. Make it modest, but COMPLETE. Not a tech demo. A full, simple, web based node.js ser...",
         "author": "triptych",
-        "posted_time": "17 minutes ago",
+        "posted_time": "31 minutes ago",
         "link": "https://replit.com/bounties/@triptych/join-a-game-making-c?t="
+    },
+    {
+        "index": "338",
+        "price": "$2.00",
+        "due_days": "due in 3 days",
+        "title": "CSS-only Emoji animation \ud83e\uddde\u200d\u2642\ufe0f",
+        "description": "Looking for a genie \ud83e\uddde\u200d\u2642\ufe0f to float around the edges of my webpage as the user uses it.\n(and if the user taps/clicks on it, it 'pops'/vanishes. https://codepen.io/carlcamera/pen/KmEPJZ looks neat if it can outline the genie.)\n\nThis should be able to use principles from here: https://www.kirupa.com/html5/emoji.htm\n(Except the genie should not follow the mouse, it should just 'float' around the edges of mobile and desktop screens. Note the genie is 'imported' in unicode, not from a library.)\n\nAcceptance Criteria\nA genie that floats around the edges of the screen as the user uses the site on mobile and desktop, it should be in Pure CSS. (No HTML/No JS)\nIt should have some sort of fun/slight animation (poof) when tapped or clicked.",
+        "author": "Bandos1000",
+        "posted_time": "10 minutes ago",
+        "link": "https://replit.com/bounties/@Bandos1000/css-only-genie-anima?t="
     }
 ]
