@@ -2685,7 +2685,7 @@ The project should work as expected in the readme file from the original repo.
 Technical Details
 
 Link to Project
-https://replit.com/@FelipeAbello/node-chatgpt-api#index.js",FelipeAbello,5 hours ago,https://replit.com/bounties/@FelipeAbello/add-github-repo-to-r?t=
+https://replit.com/@FelipeAbello/node-chatgpt-api#index.js",FelipeAbello,6 hours ago,https://replit.com/bounties/@FelipeAbello/add-github-repo-to-r?t=
 326,$7.00,closed,🏷️ Replit TagLister,"I'd like to see a list of users with specific tags. (Tag options: https://ask.replit.com/t/profile-tag-options/5784/3)
 E.g.
 Content Creator:
@@ -2763,7 +2763,7 @@ An Android app I can install the .apk of on my Samsung phone (and is ideally in-
 This may require translation from another language. For instance, with this product: https://www.instacart.com/store/hmart/products/2597283 instacart does not show any ingredients, and you'll have to find it in an external website and translate it, then search it.
 
 Acceptance Criteria
-I want a working Chrome extension that does the above. If you have another methodology to do this or want to build a webapp instead, I am also happy to entertain those ideas.",AJGupta,13 minutes ago,https://replit.com/bounties/@AJGupta/food-cart-ingredient?t=
+I want a working Chrome extension that does the above. If you have another methodology to do this or want to build a webapp instead, I am also happy to entertain those ideas.",AJGupta,22 minutes ago,https://replit.com/bounties/@AJGupta/food-cart-ingredient?t=
 332,$27.00,due in 6 days,Decompress .tar.gz File in Browser in Typescript,"When I use typescript and un-tar a binary file in my browser, the size comes out incorrect. You can see the two test files here:  https://us-east-1.console.aws.amazon.com/s3/buckets/test-targz -- one compressed and one decompressed. When I untar the compressed file, I want to get exactly the first file but I don't, and the size is even incorrect.
 
 Acceptance Criteria
@@ -2775,4 +2775,4 @@ There is more elaboration on the problem here: https://stackoverflow.com/questio
 The real size is 1.428 kB. Using tar-stream gives a file that is 20.48 kB, pako gives 9.847 kB or 10.240 kB. The size doesn't even match up.
 
 Link to Project
-You can see some code snippets here: https://stackoverflow.com/questions/75105921/tar-gz-...",AJGupta,46 seconds ago,https://replit.com/bounties/@AJGupta/decompress-targz-fil?t=
+You can see some code snippets here: https://stackoverflow.com/questions/75105921/tar-gz-...",AJGupta,11 minutes ago,https://replit.com/bounties/@AJGupta/decompress-targz-fil?t=

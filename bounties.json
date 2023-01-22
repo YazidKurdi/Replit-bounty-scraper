@@ -3256,7 +3256,7 @@
         "title": "Add github repo to replit and make it work",
         "description": "I need to add the following github repo to a replit and I need it to work:\nhttps://github.com/waylaidwanderer/node-chatgpt-api\n\nAcceptance Criteria\nThe project should work as expected in the readme file from the original repo.\n\nTechnical Details\n\nLink to Project\nhttps://replit.com/@FelipeAbello/node-chatgpt-api#index.js",
         "author": "FelipeAbello",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@FelipeAbello/add-github-repo-to-r?t="
     },
     {
@@ -3316,7 +3316,7 @@
         "title": "Food Cart Ingredient Checker",
         "description": "A chrome extension where I put in ingredients that I don't like. Then, it goes through my current Instacart/Amazon Fresh page (it could be a list of products or it could be my cart or it could be a store name, and it goes through all of the products in advance), and finds each of those food\bs on ingredient websites and scrapes the ingredients, and flags foods with user-specified bad ingredient, for instance, \"cashew\".\n\nThis may require translation from another language. For instance, with this product: https://www.instacart.com/store/hmart/products/2597283 instacart does not show any ingredients, and you'll have to find it in an external website and translate it, then search it.\n\nAcceptance Criteria\nI want a working Chrome extension that does the above. If you have another methodology to do this or want to build a webapp instead, I am also happy to entertain those ideas.",
         "author": "AJGupta",
-        "posted_time": "13 minutes ago",
+        "posted_time": "22 minutes ago",
         "link": "https://replit.com/bounties/@AJGupta/food-cart-ingredient?t="
     },
     {
@@ -3326,7 +3326,7 @@
         "title": "Decompress .tar.gz File in Browser in Typescript",
         "description": "When I use typescript and un-tar a binary file in my browser, the size comes out incorrect. You can see the two test files here:  https://us-east-1.console.aws.amazon.com/s3/buckets/test-targz -- one compressed and one decompressed. When I untar the compressed file, I want to get exactly the first file but I don't, and the size is even incorrect.\n\nAcceptance Criteria\nYou should be able to decompress the linked .tar.gz file into the linked decompressed file, with the same size and contents, in localforage.\n\nTechnical Details\nThere is more elaboration on the problem here: https://stackoverflow.com/questions/75105921/tar-gz-decompression-with-ts-results-in-different-files-in-the-browser?noredirect=1#comment132567618_75105921\n\nThe real size is 1.428 kB. Using tar-stream gives a file that is 20.48 kB, pako gives 9.847 kB or 10.240 kB. The size doesn't even match up.\n\nLink to Project\nYou can see some code snippets here: https://stackoverflow.com/questions/75105921/tar-gz-...",
         "author": "AJGupta",
-        "posted_time": "46 seconds ago",
+        "posted_time": "11 minutes ago",
         "link": "https://replit.com/bounties/@AJGupta/decompress-targz-fil?t="
     }
 ]
