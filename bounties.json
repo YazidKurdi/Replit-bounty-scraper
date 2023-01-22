@@ -3266,7 +3266,7 @@
         "title": "\ud83c\udff7\ufe0f Replit TagLister",
         "description": "I'd like to see a list of users with specific tags. (Tag options: https://ask.replit.com/t/profile-tag-options/5784/3)\nE.g.\nContent Creator:\nUsername1 (Hyperlinked)\nUsername2 (Hyperlinked)\n\nPatron:\nUsername1 (Hyperlinked)\nUsername2 (Hyperlinked)\n\nEtc.\n\nBonus: >Fold out style or expand to click tags should expand and show users, but I'm also fine with a a bit of scrolling.\n\nThis should not include the 'Hacker' tag or any other tag with over 50 users.\n\nAcceptance Criteria\nA page of lists of users with specific tags, each user should be hyperlinked to their profile.\n\nYou can publish this as your own Repl, or I can host it. I will give you credit in the description.\n\nBonus f/200 Tip,  Show a list of users with over 4 tags (Are there any?)",
         "author": "Bandos1000",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/tagfinder3000?t="
     },
     {
@@ -3276,7 +3276,7 @@
         "title": "Implement Auth0 in an Astro template",
         "description": "I want to integrate Auth0 authentication into my astro.build application.\nThere's not a straightforward pre-built way to do this yet, so I'm hoping the developer community can help me out.\n\nAcceptance Criteria\nUsing a fork of this template https://replit.com/@triptych/Astro-Latest?v=1\ncreate a template that has  'sign up/login ', 'logged in' , 'logged out' pages using Auth0 (  https://auth0.com/ )\n\nThe logged in page should show something about the user fetched from the Auth0 site such as the username or id.\n\nPlease use the node.js level of integration - nothing like next.js or anything. This is meant to work for an Astro instance. ( https://astro.build )\n\nPlease use simple, basic code that's well documented, with a Readme.md file that contains steps to configure the Auth0 application to work for this repl.",
         "author": "triptych",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@triptych/implement-auth0-in-a?t="
     },
     {
@@ -3316,7 +3316,7 @@
         "title": "Food Cart Ingredient Checker",
         "description": "A chrome extension where I put in ingredients that I don't like. Then, it goes through my current Instacart/Amazon Fresh page (it could be a list of products or it could be my cart or it could be a store name, and it goes through all of the products in advance), and finds each of those food\bs on ingredient websites and scrapes the ingredients, and flags foods with user-specified bad ingredient, for instance, \"cashew\".\n\nThis may require translation from another language. For instance, with this product: https://www.instacart.com/store/hmart/products/2597283 instacart does not show any ingredients, and you'll have to find it in an external website and translate it, then search it.\n\nAcceptance Criteria\nI want a working Chrome extension that does the above. If you have another methodology to do this or want to build a webapp instead, I am also happy to entertain those ideas.",
         "author": "AJGupta",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/food-cart-ingredient?t="
     },
     {
@@ -3328,5 +3328,15 @@
         "author": "AJGupta",
         "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@AJGupta/decompress-targz-fil?t="
+    },
+    {
+        "index": "333",
+        "price": "$0.90",
+        "due_days": "due in 8 days",
+        "title": "(freebie) Make Something Cool!",
+        "description": "Description\nThis is a freebie, it\u2019s not first come first serve (see below)\nCreate a cool project in any programming language you like! Must be a new Repl.\n\nAcceptance Criteria\nMust create an interesting project, of my liking. It is not first come first serve, I\u2019ll give you some hints on things I may appreciate more:)\nLanguages I like: HTML, CSS (especially style sheets), C++, LOLCODE, and some others that you may know! (Note: it can be in any language, not just the ones listed here)\nSomething interesting, creative, and original.\nModern look (for HTML/CSS stuff)",
+        "author": "EarthRulerr",
+        "posted_time": "2 minutes ago",
+        "link": "https://replit.com/bounties/@EarthRulerr/freebie-make-somethi?t="
     }
 ]

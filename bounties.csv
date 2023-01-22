@@ -2707,7 +2707,7 @@ A page of lists of users with specific tags, each user should be hyperlinked to 
 
 You can publish this as your own Repl, or I can host it. I will give you credit in the description.
 
-Bonus f/200 Tip,  Show a list of users with over 4 tags (Are there any?)",Bandos1000,6 hours ago,https://replit.com/bounties/@Bandos1000/tagfinder3000?t=
+Bonus f/200 Tip,  Show a list of users with over 4 tags (Are there any?)",Bandos1000,7 hours ago,https://replit.com/bounties/@Bandos1000/tagfinder3000?t=
 327,$22.50,due in 13 days,Implement Auth0 in an Astro template,"I want to integrate Auth0 authentication into my astro.build application.
 There's not a straightforward pre-built way to do this yet, so I'm hoping the developer community can help me out.
 
@@ -2719,7 +2719,7 @@ The logged in page should show something about the user fetched from the Auth0 s
 
 Please use the node.js level of integration - nothing like next.js or anything. This is meant to work for an Astro instance. ( https://astro.build )
 
-Please use simple, basic code that's well documented, with a Readme.md file that contains steps to configure the Auth0 application to work for this repl.",triptych,6 hours ago,https://replit.com/bounties/@triptych/implement-auth0-in-a?t=
+Please use simple, basic code that's well documented, with a Readme.md file that contains steps to configure the Auth0 application to work for this repl.",triptych,7 hours ago,https://replit.com/bounties/@triptych/implement-auth0-in-a?t=
 328,$22.50,due in 4 days,Help getting Firebase cloud functions working with Serpapi using  Vue/Vite/Localhost/Vercel.,"#Problem
 The problem is that I am unable to get Firebase cloud functions working with my vue/vite/localhost setup. I am experiencing CORS issues and am unable to establish a ""hello world"" moment with the cloud functions. This is preventing me from being able to make server-side API calls via cloud functions in my vue application.
 
@@ -2763,7 +2763,7 @@ An Android app I can install the .apk of on my Samsung phone (and is ideally in-
 This may require translation from another language. For instance, with this product: https://www.instacart.com/store/hmart/products/2597283 instacart does not show any ingredients, and you'll have to find it in an external website and translate it, then search it.
 
 Acceptance Criteria
-I want a working Chrome extension that does the above. If you have another methodology to do this or want to build a webapp instead, I am also happy to entertain those ideas.",AJGupta,1 hour ago,https://replit.com/bounties/@AJGupta/food-cart-ingredient?t=
+I want a working Chrome extension that does the above. If you have another methodology to do this or want to build a webapp instead, I am also happy to entertain those ideas.",AJGupta,2 hours ago,https://replit.com/bounties/@AJGupta/food-cart-ingredient?t=
 332,$27.00,due in 6 days,Decompress .tar.gz File in Browser in Typescript,"When I use typescript and un-tar a binary file in my browser, the size comes out incorrect. You can see the two test files here:  https://us-east-1.console.aws.amazon.com/s3/buckets/test-targz -- one compressed and one decompressed. When I untar the compressed file, I want to get exactly the first file but I don't, and the size is even incorrect.
 
 Acceptance Criteria
@@ -2776,3 +2776,12 @@ The real size is 1.428 kB. Using tar-stream gives a file that is 20.48 kB, pako 
 
 Link to Project
 You can see some code snippets here: https://stackoverflow.com/questions/75105921/tar-gz-...",AJGupta,1 hour ago,https://replit.com/bounties/@AJGupta/decompress-targz-fil?t=
+333,$0.90,due in 8 days,(freebie) Make Something Cool!,"Description
+This is a freebie, it’s not first come first serve (see below)
+Create a cool project in any programming language you like! Must be a new Repl.
+
+Acceptance Criteria
+Must create an interesting project, of my liking. It is not first come first serve, I’ll give you some hints on things I may appreciate more:)
+Languages I like: HTML, CSS (especially style sheets), C++, LOLCODE, and some others that you may know! (Note: it can be in any language, not just the ones listed here)
+Something interesting, creative, and original.
+Modern look (for HTML/CSS stuff)",EarthRulerr,2 minutes ago,https://replit.com/bounties/@EarthRulerr/freebie-make-somethi?t=
