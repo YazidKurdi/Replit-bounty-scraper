@@ -2738,7 +2738,7 @@ Vite
 Vercel
 Localhost
 CORS configuration and troubleshooting
-API calls and integration with vue app.",asherhunt2,17 hours ago,https://replit.com/bounties/@asherhunt2/help-getting-firebas?t=
+API calls and integration with vue app.",asherhunt2,18 hours ago,https://replit.com/bounties/@asherhunt2/help-getting-firebas?t=
 329,$180.00,due in 4 days,Custom OpenAI Chatbot,"I'd like a custom chatbot, using OpenAI's davinci model, that is finely tuned on a training set based on a game show.
 
 I can provide a sample data set to build against, but the app must be able to ingest updated data post-delivery of the bounty.
@@ -2808,3 +2808,12 @@ For free, the webapp allows users to upload a photo of their room and generate 5
 The webapp offers a monthly subscription plan for $29 that includes unlimited renders, the ability to keep originals and renders private, additional room types), virtual staging mode and a commercial usage license for 1 person. The subscription will unlock the dining room, study room, office, gaming room, outdoor, patio, genkan, toilets, attic.
 
 The app also offers a professional subscriptio...",GetInference,5 hours ago,https://replit.com/bounties/@GetInference/jife-japanese-interi?t=
+337,$22.50,due in 13 days,Join a game making coop - make a web game as a 'resume' application ,"I'm starting a web game building coop. I'm looking for a lead programmer who has skills with node.js , game making, vanilla web tech, and networking like sockets.io
+This bounty is basically an application to help start this coop. You will build a simple web game that runs on node, uses canvas in some way and sockets.io ( or just plain websockets )
+
+The goal is not the repl. The goal is that if you successfully create this game you demonstrate your desire to join a new web game making coop here on Replit.  I have many plans and not enough time. I need folks who I can depend on to create games and build fun stuff. We can work out on a task basis getting compensated in cycles.
+
+Acceptance Criteria
+Be specific about what you want in the solution here.
+
+This is a repl-based ""resume"" where you show off your Node.js + sockets + web dev + game making skills. Build any kind of game you like. Make it modest, but COMPLETE. Not a tech demo. A full, simple, web based node.js ser...",triptych,14 seconds ago,https://replit.com/bounties/@triptych/join-a-game-making-c?t=
