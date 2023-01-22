@@ -2686,7 +2686,7 @@ Technical Details
 
 Link to Project
 https://replit.com/@FelipeAbello/node-chatgpt-api#index.js",FelipeAbello,3 hours ago,https://replit.com/bounties/@FelipeAbello/add-github-repo-to-r?t=
-326,$7.00,due in 4 days,🏷️ Replit TagLister,"I'd like to see a list of users with specific tags. (Tag options: https://ask.replit.com/t/profile-tag-options/5784/3)
+326,$7.00,closed,🏷️ Replit TagLister,"I'd like to see a list of users with specific tags. (Tag options: https://ask.replit.com/t/profile-tag-options/5784/3)
 E.g.
 Content Creator:
 Username1 (Hyperlinked)
@@ -2751,4 +2751,4 @@ The app allows the end user to select between the default davinci model and a fi
 Once the openAI API keys are entered, and the model is selected, the user can enter prompts & receive responses back.
 
 Technical Details
-Must be able to be run in replit!",AaronLaRue,1 hour ago,https://replit.com/bounties/@AaronLaRue/custom-openai-chatbo?t=
+Must be able to be run in replit!",AaronLaRue,2 hours ago,https://replit.com/bounties/@AaronLaRue/custom-openai-chatbo?t=

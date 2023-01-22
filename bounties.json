@@ -3262,7 +3262,7 @@
     {
         "index": "326",
         "price": "$7.00",
-        "due_days": "due in 4 days",
+        "due_days": "closed",
         "title": "\ud83c\udff7\ufe0f Replit TagLister",
         "description": "I'd like to see a list of users with specific tags. (Tag options: https://ask.replit.com/t/profile-tag-options/5784/3)\nE.g.\nContent Creator:\nUsername1 (Hyperlinked)\nUsername2 (Hyperlinked)\n\nPatron:\nUsername1 (Hyperlinked)\nUsername2 (Hyperlinked)\n\nEtc.\n\nBonus: >Fold out style or expand to click tags should expand and show users, but I'm also fine with a a bit of scrolling.\n\nThis should not include the 'Hacker' tag or any other tag with over 50 users.\n\nAcceptance Criteria\nA page of lists of users with specific tags, each user should be hyperlinked to their profile.\n\nYou can publish this as your own Repl, or I can host it. I will give you credit in the description.\n\nBonus f/200 Tip,  Show a list of users with over 4 tags (Are there any?)",
         "author": "Bandos1000",
@@ -3296,7 +3296,7 @@
         "title": "Custom OpenAI Chatbot",
         "description": "I'd like a custom chatbot, using OpenAI's davinci model, that is finely tuned on a training set based on a game show.\n\nI can provide a sample data set to build against, but the app must be able to ingest updated data post-delivery of the bounty.\n\nAcceptance Criteria\nThe app has a basic interface. This can be text based, it does not need a UI.\nThe app allows the user to add their openAI API key, which is used to power the app\nThe app allows for the uploading of a CSV file to fine tune the openAI models.\nThe app allows the end user to select between the default davinci model and a fine-tuned model stored in the openAI account (Based on the keys entered) to be used for asking questions and answers\nOnce the openAI API keys are entered, and the model is selected, the user can enter prompts & receive responses back.\n\nTechnical Details\nMust be able to be run in replit!",
         "author": "AaronLaRue",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@AaronLaRue/custom-openai-chatbo?t="
     }
 ]
