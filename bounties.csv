@@ -2757,4 +2757,4 @@ Must be able to be run in replit!",AaronLaRue,3 hours ago,https://replit.com/bou
 You can also opt to write an iOS application instead of Android. However, I think iOS will be much harder since iOS disallows background video, you'll have to work around it by either 1) publishing on a sideloading app store, so not officially downloadable or 2) using a zoom-like technique where the video is in a small screen in the corner on top of the current application. Thus, I think Android will be easier; however, if your expertise is Swift or you want to adapt the linked repo, I am also open to this.
 
 Acceptance Criteria
-An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the cam...",AJGupta,14 minutes ago,https://replit.com/bounties/@AJGupta/background-blink-tra?t=
+An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the cam...",AJGupta,21 minutes ago,https://replit.com/bounties/@AJGupta/background-blink-tra?t=
