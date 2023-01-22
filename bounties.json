@@ -3246,7 +3246,7 @@
         "title": "\ud83d\udc23 10 Year Retweeter ",
         "description": "Wouldn't it be cool to see the Tweet that had the most likes 10 years ago today?\nI think so.\n\nLooking for a bot that will automatically Quote Tweet the most liked tweet from 10 years ago today each day.\n\nI should be able to hook the delivered code or Repl up to a Twitter bot. *Unsure of how this works\n\nThe bot should search each day, and quote tweet the most liked tweet from exactly 10 years ago today.\nE.g. Today at 9am it should quote tweet the most liked tweet from 21 Jan 2012.\nTomorrow at 9am it should quote tweet the most liked tweet from 22 Jan 2012.\netc etc\n\nAcceptance Criteria\nCode ready to be hooked up to a twitter automation/bot of some sort and start tweeting on the day it's hooked up.\n\nProject Goal\nPrevent cultural/internet amnesia. If you have any other filters (other than likes) that we could use, that would rock.\n\nI can attribute you on the finished project if you want.",
         "author": "Bandos1000",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/10-year-retweeter?t="
     },
     {
@@ -3286,7 +3286,7 @@
         "title": "Help getting Firebase cloud functions working with Serpapi using  Vue/Vite/Localhost/Vercel.",
         "description": "#Problem\nThe problem is that I am unable to get Firebase cloud functions working with my vue/vite/localhost setup. I am experiencing CORS issues and am unable to establish a \"hello world\" moment with the cloud functions. This is preventing me from being able to make server-side API calls via cloud functions in my vue application.\n\nAcceptance Criteria\nSuccessfully deploy a working cloud function on Firebase that sends/receives requests to Serpapi.\nHelp resolve CORS issues with localhost and establish a connection between the cloud function and my Vue app. This should also work when deployed to Vercel.\nAble to make server-side API calls via cloud functions using my vue app\nProvide clear documentation on how to reproduce the setup\n\nTechnical Details\n\nFirebase cloud functions\nVue.js\nSerpapi\nVite\nVercel\nLocalhost\nCORS configuration and troubleshooting\nAPI calls and integration with vue app.",
         "author": "asherhunt2",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@asherhunt2/help-getting-firebas?t="
     },
     {
@@ -3302,11 +3302,11 @@
     {
         "index": "330",
         "price": "$135.00",
-        "due_days": "due in 19 days",
+        "due_days": "due in 28 days",
         "title": "Background Blink Tracker for Android",
         "description": "I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on mobile.\n\nYou can also opt to write an iOS application instead of Android. However, I think iOS will be much harder since iOS disallows background video, you'll have to work around it by either 1) publishing on a sideloading app store, so not officially downloadable or 2) using a zoom-like technique where the video is in a small screen in the corner on top of the current application. Thus, I think Android will be easier; however, if your expertise is Swift or you want to adapt the linked repo, I am also open to this.\n\nAcceptance Criteria\nAn Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the cam...",
         "author": "AJGupta",
-        "posted_time": "56 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@AJGupta/background-blink-tra?t="
     },
     {
@@ -3316,7 +3316,17 @@
         "title": "Food Cart Ingredient Checker",
         "description": "A chrome extension where I put in ingredients that I don't like. Then, it goes through my current Instacart/Amazon Fresh page (it could be a list of products or it could be my cart or it could be a store name, and it goes through all of the products in advance), and finds each of those food\bs on ingredient websites and scrapes the ingredients, and flags foods with user-specified bad ingredient, for instance, \"cashew\".\n\nThis may require translation from another language. For instance, with this product: https://www.instacart.com/store/hmart/products/2597283 instacart does not show any ingredients, and you'll have to find it in an external website and translate it, then search it.\n\nAcceptance Criteria\nI want a working Chrome extension that does the above. If you have another methodology to do this or want to build a webapp instead, I am also happy to entertain those ideas.",
         "author": "AJGupta",
-        "posted_time": "2 minutes ago",
+        "posted_time": "13 minutes ago",
         "link": "https://replit.com/bounties/@AJGupta/food-cart-ingredient?t="
+    },
+    {
+        "index": "332",
+        "price": "$27.00",
+        "due_days": "due in 6 days",
+        "title": "Decompress .tar.gz File in Browser in Typescript",
+        "description": "When I use typescript and un-tar a binary file in my browser, the size comes out incorrect. You can see the two test files here:  https://us-east-1.console.aws.amazon.com/s3/buckets/test-targz -- one compressed and one decompressed. When I untar the compressed file, I want to get exactly the first file but I don't, and the size is even incorrect.\n\nAcceptance Criteria\nYou should be able to decompress the linked .tar.gz file into the linked decompressed file, with the same size and contents, in localforage.\n\nTechnical Details\nThere is more elaboration on the problem here: https://stackoverflow.com/questions/75105921/tar-gz-decompression-with-ts-results-in-different-files-in-the-browser?noredirect=1#comment132567618_75105921\n\nThe real size is 1.428 kB. Using tar-stream gives a file that is 20.48 kB, pako gives 9.847 kB or 10.240 kB. The size doesn't even match up.\n\nLink to Project\nYou can see some code snippets here: https://stackoverflow.com/questions/75105921/tar-gz-...",
+        "author": "AJGupta",
+        "posted_time": "46 seconds ago",
+        "link": "https://replit.com/bounties/@AJGupta/decompress-targz-fil?t="
     }
 ]
