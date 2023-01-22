@@ -3342,11 +3342,11 @@
     {
         "index": "334",
         "price": "$63.00",
-        "due_days": "due in 4 days",
+        "due_days": "closed",
         "title": "Responsive Landing Page",
         "description": "I'd like someone to create a responsive landing page for this [Figma Prototype]\n(https://www.figma.com/proto/6sDGEBQi5EwRNzhGTB4EEc/Landing-page?node-id=1%3A2)\n\nAcceptance Criteria\n\nRepl with web code that looks like figma landing page\n\nTechnical Details\nMust be responsive on mobile\nPreferably use CSS flexbox for styling\nIt will be integrated to a react app (components preferred0\n\nLink to Project\n[Figma Prototype]\n(https://www.figma.com/proto/6sDGEBQi5EwRNzhGTB4EEc/Landing-page?node-id=1%3A2)",
         "author": "oreog",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@oreog/responsive-landing-p?t="
     }
 ]
