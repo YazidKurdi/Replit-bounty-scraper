@@ -3246,7 +3246,7 @@
         "title": "\ud83d\udc23 10 Year Retweeter ",
         "description": "Wouldn't it be cool to see the Tweet that had the most likes 10 years ago today?\nI think so.\n\nLooking for a bot that will automatically Quote Tweet the most liked tweet from 10 years ago today each day.\n\nI should be able to hook the delivered code or Repl up to a Twitter bot. *Unsure of how this works\n\nThe bot should search each day, and quote tweet the most liked tweet from exactly 10 years ago today.\nE.g. Today at 9am it should quote tweet the most liked tweet from 21 Jan 2012.\nTomorrow at 9am it should quote tweet the most liked tweet from 22 Jan 2012.\netc etc\n\nAcceptance Criteria\nCode ready to be hooked up to a twitter automation/bot of some sort and start tweeting on the day it's hooked up.\n\nProject Goal\nPrevent cultural/internet amnesia. If you have any other filters (other than likes) that we could use, that would rock.\n\nI can attribute you on the finished project if you want.",
         "author": "Bandos1000",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/10-year-retweeter?t="
     },
     {
@@ -3316,7 +3316,7 @@
         "title": "Food Cart Ingredient Checker",
         "description": "A chrome extension where I put in ingredients that I don't like. Then, it goes through my current Instacart/Amazon Fresh page (it could be a list of products or it could be my cart or it could be a store name, and it goes through all of the products in advance), and finds each of those food\bs on ingredient websites and scrapes the ingredients, and flags foods with user-specified bad ingredient, for instance, \"cashew\".\n\nThis may require translation from another language. For instance, with this product: https://www.instacart.com/store/hmart/products/2597283 instacart does not show any ingredients, and you'll have to find it in an external website and translate it, then search it.\n\nAcceptance Criteria\nI want a working Chrome extension that does the above. If you have another methodology to do this or want to build a webapp instead, I am also happy to entertain those ideas.",
         "author": "AJGupta",
-        "posted_time": "50 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@AJGupta/food-cart-ingredient?t="
     },
     {
@@ -3326,7 +3326,7 @@
         "title": "Decompress .tar.gz File in Browser in Typescript",
         "description": "When I use typescript and un-tar a binary file in my browser, the size comes out incorrect. You can see the two test files here:  https://us-east-1.console.aws.amazon.com/s3/buckets/test-targz -- one compressed and one decompressed. When I untar the compressed file, I want to get exactly the first file but I don't, and the size is even incorrect.\n\nAcceptance Criteria\nYou should be able to decompress the linked .tar.gz file into the linked decompressed file, with the same size and contents, in localforage.\n\nTechnical Details\nThere is more elaboration on the problem here: https://stackoverflow.com/questions/75105921/tar-gz-decompression-with-ts-results-in-different-files-in-the-browser?noredirect=1#comment132567618_75105921\n\nThe real size is 1.428 kB. Using tar-stream gives a file that is 20.48 kB, pako gives 9.847 kB or 10.240 kB. The size doesn't even match up.\n\nLink to Project\nYou can see some code snippets here: https://stackoverflow.com/questions/75105921/tar-gz-...",
         "author": "AJGupta",
-        "posted_time": "38 minutes ago",
+        "posted_time": "56 minutes ago",
         "link": "https://replit.com/bounties/@AJGupta/decompress-targz-fil?t="
     }
 ]
