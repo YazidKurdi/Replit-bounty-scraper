@@ -3286,7 +3286,7 @@
         "title": "Help getting Firebase cloud functions working with Serpapi using  Vue/Vite/Localhost/Vercel.",
         "description": "#Problem\nThe problem is that I am unable to get Firebase cloud functions working with my vue/vite/localhost setup. I am experiencing CORS issues and am unable to establish a \"hello world\" moment with the cloud functions. This is preventing me from being able to make server-side API calls via cloud functions in my vue application.\n\nAcceptance Criteria\nSuccessfully deploy a working cloud function on Firebase that sends/receives requests to Serpapi.\nHelp resolve CORS issues with localhost and establish a connection between the cloud function and my Vue app. This should also work when deployed to Vercel.\nAble to make server-side API calls via cloud functions using my vue app\nProvide clear documentation on how to reproduce the setup\n\nTechnical Details\n\nFirebase cloud functions\nVue.js\nSerpapi\nVite\nVercel\nLocalhost\nCORS configuration and troubleshooting\nAPI calls and integration with vue app.",
         "author": "asherhunt2",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@asherhunt2/help-getting-firebas?t="
     },
     {
@@ -3356,7 +3356,7 @@
         "title": "Modify Car simulation to respawn cars after a configurable period of time.",
         "description": "Modify an existing simulation for EVs and charging stations, adding the option to respawn cars that run out of battery, after a set time. The time must be configurable in a config file given to the simulator.",
         "author": "vibo",
-        "posted_time": "42 minutes ago",
+        "posted_time": "49 minutes ago",
         "link": "https://replit.com/bounties/@vibo/modify-car-simulatio?t="
     }
 ]
