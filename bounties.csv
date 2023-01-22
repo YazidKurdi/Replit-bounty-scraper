@@ -2763,7 +2763,7 @@ An Android app I can install the .apk of on my Samsung phone (and is ideally in-
 This may require translation from another language. For instance, with this product: https://www.instacart.com/store/hmart/products/2597283 instacart does not show any ingredients, and you'll have to find it in an external website and translate it, then search it.
 
 Acceptance Criteria
-I want a working Chrome extension that does the above. If you have another methodology to do this or want to build a webapp instead, I am also happy to entertain those ideas.",AJGupta,14 hours ago,https://replit.com/bounties/@AJGupta/food-cart-ingredient?t=
+I want a working Chrome extension that does the above. If you have another methodology to do this or want to build a webapp instead, I am also happy to entertain those ideas.",AJGupta,15 hours ago,https://replit.com/bounties/@AJGupta/food-cart-ingredient?t=
 332,$27.00,due in 5 days,Decompress .tar.gz File in Browser in Typescript,"When I use typescript and un-tar a binary file in my browser, the size comes out incorrect. You can see the two test files here:  https://us-east-1.console.aws.amazon.com/s3/buckets/test-targz -- one compressed and one decompressed. When I untar the compressed file, I want to get exactly the first file but I don't, and the size is even incorrect.
 
 Acceptance Criteria
@@ -2825,7 +2825,7 @@ This should be able to use principles from here: https://www.kirupa.com/html5/em
 
 Acceptance Criteria
 A genie that floats around the edges of the screen as the user uses the site on mobile and desktop, it should be in Pure CSS. (No HTML/No JS)
-It should have some sort of fun/slight animation (poof) when tapped or clicked.",Bandos1000,46 minutes ago,https://replit.com/bounties/@Bandos1000/css-only-genie-anima?t=
+It should have some sort of fun/slight animation (poof) when tapped or clicked.",Bandos1000,56 minutes ago,https://replit.com/bounties/@Bandos1000/css-only-genie-anima?t=
 339,$18.00,due in 4 days,Scrape a craigslist page into a list and refresh every X hours; Notify via email when new items are added/posted,"Trying to find a stroller on Craigslist and get notified (by email, or text) whenever a new post was added
 
 Acceptance Criteria
@@ -2835,4 +2835,4 @@ Location in Craigslist
 Search line in Craigslist
 Frequency of refresh (e.g., every day, every 4 hours)
 
-Code must be tested on a random email prior to delivery.",GOEA,33 minutes ago,https://replit.com/bounties/@GOEA/scrape-a-craigslist?t=
+Code must be tested on a random email prior to delivery.",GOEA,43 minutes ago,https://replit.com/bounties/@GOEA/scrape-a-craigslist?t=
