@@ -3316,7 +3316,7 @@
         "title": "Food Cart Ingredient Checker",
         "description": "A chrome extension where I put in ingredients that I don't like. Then, it goes through my current Instacart/Amazon Fresh page (it could be a list of products or it could be my cart or it could be a store name, and it goes through all of the products in advance), and finds each of those food\bs on ingredient websites and scrapes the ingredients, and flags foods with user-specified bad ingredient, for instance, \"cashew\".\n\nThis may require translation from another language. For instance, with this product: https://www.instacart.com/store/hmart/products/2597283 instacart does not show any ingredients, and you'll have to find it in an external website and translate it, then search it.\n\nAcceptance Criteria\nI want a working Chrome extension that does the above. If you have another methodology to do this or want to build a webapp instead, I am also happy to entertain those ideas.",
         "author": "AJGupta",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/food-cart-ingredient?t="
     },
     {
@@ -3406,7 +3406,7 @@
         "title": "Create a web app that connects to your audible account and pulls only your clips into mp3. ",
         "description": "Currently there is no direct way that lets you connect your audible account and extract all your audible clips.\n\nAcceptance Criteria\nI am looking for a developer that can develop a basic web app  that  connects to audible account then be able to pull ONLY the clips of all the audiobooks in the library.\nOnce that's done and tested, there will be additional features added into the app.\nLooking to retain a skilled developer for on-going work on this project.",
         "author": "Danar8",
-        "posted_time": "56 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@Danar8/create-a-web-app-tha?t="
     }
 ]
