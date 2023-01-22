@@ -2656,7 +2656,7 @@ Acceptance Criteria
 A functioning Repl that shows the highest Repls in terms of runs or Tips.
 It should also probably exclude Repls created by the official @replit account.
 
-//You can publish this from your own Repl after you've created it if you want the tips/runs, just give me some credit for the concept lol.",Bandos1000,5 hours ago,https://replit.com/bounties/@Bandos1000/show-repls-with-the?t=
+//You can publish this from your own Repl after you've created it if you want the tips/runs, just give me some credit for the concept lol.",Bandos1000,6 hours ago,https://replit.com/bounties/@Bandos1000/show-repls-with-the?t=
 324,$5.00,due in 3 days,🐣 10 Year Retweeter ,"Wouldn't it be cool to see the Tweet that had the most likes 10 years ago today?
 I think so.
 
@@ -2707,7 +2707,7 @@ A page of lists of users with specific tags, each user should be hyperlinked to 
 
 You can publish this as your own Repl, or I can host it. I will give you credit in the description.
 
-Bonus f/200 Tip,  Show a list of users with over 4 tags (Are there any?)",Bandos1000,4 hours ago,https://replit.com/bounties/@Bandos1000/tagfinder3000?t=
+Bonus f/200 Tip,  Show a list of users with over 4 tags (Are there any?)",Bandos1000,5 hours ago,https://replit.com/bounties/@Bandos1000/tagfinder3000?t=
 327,$22.50,due in 13 days,Implement Auth0 in an Astro template,"I want to integrate Auth0 authentication into my astro.build application.
 There's not a straightforward pre-built way to do this yet, so I'm hoping the developer community can help me out.
 
@@ -2719,7 +2719,7 @@ The logged in page should show something about the user fetched from the Auth0 s
 
 Please use the node.js level of integration - nothing like next.js or anything. This is meant to work for an Astro instance. ( https://astro.build )
 
-Please use simple, basic code that's well documented, with a Readme.md file that contains steps to configure the Auth0 application to work for this repl.",triptych,4 hours ago,https://replit.com/bounties/@triptych/implement-auth0-in-a?t=
+Please use simple, basic code that's well documented, with a Readme.md file that contains steps to configure the Auth0 application to work for this repl.",triptych,5 hours ago,https://replit.com/bounties/@triptych/implement-auth0-in-a?t=
 328,$22.50,due in 4 days,Help getting Firebase cloud functions working with Serpapi using  Vue/Vite/Localhost/Vercel.,"#Problem
 The problem is that I am unable to get Firebase cloud functions working with my vue/vite/localhost setup. I am experiencing CORS issues and am unable to establish a ""hello world"" moment with the cloud functions. This is preventing me from being able to make server-side API calls via cloud functions in my vue application.
 
@@ -2757,4 +2757,4 @@ Must be able to be run in replit!",AaronLaRue,3 hours ago,https://replit.com/bou
 You can also opt to write an iOS application instead of Android. However, I think iOS will be much harder since iOS disallows background video, you'll have to work around it by either 1) publishing on a sideloading app store, so not officially downloadable or 2) using a zoom-like technique where the video is in a small screen in the corner on top of the current application. Thus, I think Android will be easier; however, if your expertise is Swift or you want to adapt the linked repo, I am also open to this.
 
 Acceptance Criteria
-An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the cam...",AJGupta,21 minutes ago,https://replit.com/bounties/@AJGupta/background-blink-tra?t=
+An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the cam...",AJGupta,28 minutes ago,https://replit.com/bounties/@AJGupta/background-blink-tra?t=
