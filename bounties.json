@@ -3396,7 +3396,7 @@
         "title": "Scrape a craigslist page into a list and refresh every X hours; Notify via email when new items are added/posted",
         "description": "Trying to find a stroller on Craigslist and get notified (by email, or text) whenever a new post was added\n\nAcceptance Criteria\nRunning code that executes the above, with an interface to change / set the following:\nEmail/s to send notification to\nLocation in Craigslist\nSearch line in Craigslist\nFrequency of refresh (e.g., every day, every 4 hours)\n\nCode must be tested on a random email prior to delivery.",
         "author": "GOEA",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@GOEA/scrape-a-craigslist?t="
     },
     {
@@ -3406,7 +3406,7 @@
         "title": "Create a web app that connects to your audible account and pulls only your clips into mp3. ",
         "description": "Currently there is no direct way that lets you connect your audible account and extract all your audible clips.\n\nAcceptance Criteria\nI am looking for a developer that can develop a basic web app  that  connects to audible account then be able to pull ONLY the clips of all the audiobooks in the library.\nOnce that's done and tested, there will be additional features added into the app.\nLooking to retain a skilled developer for on-going work on this project.",
         "author": "Danar8",
-        "posted_time": "47 minutes ago",
+        "posted_time": "56 minutes ago",
         "link": "https://replit.com/bounties/@Danar8/create-a-web-app-tha?t="
     }
 ]
