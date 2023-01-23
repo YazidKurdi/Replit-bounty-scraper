@@ -2867,7 +2867,7 @@ If it doesn't actually end up on Trending, that's fine. It does not need to get 
 I'm using rpyc between two files client.py and server.py.
 This works well on my local machine but on replit I get the error ConnectionRefusedError: [Errno 111] Connection refused.
 
-I'll offer $10 to anyone who can fix my issue",sevaus,10 hours ago,https://replit.com/bounties/@sevaus/fix-my-rpyc-issue?t=
+I'll offer $10 to anyone who can fix my issue",sevaus,11 hours ago,https://replit.com/bounties/@sevaus/fix-my-rpyc-issue?t=
 345,$45.00,due in 3 days,Create simple interface that loads files into ChatGPT Fine-tuning,"I want to use ChatGPT to generate responses that honour specific formats and language based on my industry. To do this I want to fine-tune the model on my own dataset that specifies possible response formats. The Problem is that the fine-tuning function as is requires coding knowledge (I do not have).  The solution should look like a simple interface where I can select a file (JSON) from my desktop and it will load into the fine-tuning dataset for my openAI account.
 
 The acceptance criteria is:
@@ -2877,7 +2877,7 @@ I am able to generate ChatGPT completions that honour or apply the dataset in th
 
 Acceptance Criteria:
 When a message is sent, have it appear with the username on other devices.
-Use node.js.",Ajh499,4 hours ago,https://replit.com/bounties/@Ajh499/make-chat-messages-a?t=
+Use node.js.",Ajh499,5 hours ago,https://replit.com/bounties/@Ajh499/make-chat-messages-a?t=
 347,$45.00,due in 10 days,Create a python library to log all Request activities,"I would like to get all the API calls and responses going through my python application.
 
 Acceptance Criteria
@@ -2889,4 +2889,27 @@ Both the request and response data is sent to another server for logging
 
 Technical Details
 Works on python 2 and 3
-Works with the Requests library built into python",AhmadSadeddin1,2 minutes ago,https://replit.com/bounties/@AhmadSadeddin1/create-a-python-libr?t=
+Works with the Requests library built into python",AhmadSadeddin1,17 minutes ago,https://replit.com/bounties/@AhmadSadeddin1/create-a-python-libr?t=
+348,$200.00,due in 5 days,Simple private app for e-commerce platform,"Problem to be Solved
+
+TiendaNube, a platform similar to Shopify, needs an app that can remind potential buyers to pay for their orders via WhatsApp if they abandon their cart. You can find more information on their APIs at the following link: https://tiendanube.github.io/api-documentation/intro
+
+Proposed Solution
+
+Create a private app for TiendaNube that enables user/store registration and installs three webhooks for the store: order creation, order update, and order paid. The app will listen to these webhooks and send a reminder to the potential buyer via WhatsApp using Twilio if an order is created but not paid within 24 hours.
+
+Note that the Twilio integration will not be your responsibility and your job will end by notifying our endpoint of an abandoned order (24 hours after creation without payment).
+
+Acceptance Criteria
+
+The app is functional and allows for user/store registration
+The three webhooks (order creation, order update, order paid) are properly installed and functioning...",mattpatagon,12 minutes ago,https://replit.com/bounties/@mattpatagon/simple-private-app-f?t=
+349,$450.00,due in 9 days,Zappier ChatGPT prototype,"Datagran.io is a company specialized in data workflows. We have this idea of creating a new feature which is the zappier.com ChatGPT for data workflows. This bounty is to get help finishing the prototype taking in mind that as a CEO I have other many tasks to accomplish.
+
+Acceptance Criteria
+Anyone who can proove sufficient experience building flask applications.
+
+Technical Details
+At this point all the foundations of the projects are laid out. It is a python flask application that uses HTML, CSS and JS. It is already connected to OpenAI and you can write and receive prompts.
+Now we need to create a staged prototype where we will use a SupabaseDB to injest data from and we will send the data as an ouptut to a CSV file. That said the challenge is:
+1) We will only have one option initially where we will injest the data from. Initially it will just be a SupabaseDB. For that we need to create a SupabaseDB as a test Database and make the Chat ask the user for the credent...",mendezcar,11 minutes ago,https://replit.com/bounties/@mendezcar/zappier-chatgpt-prot?t=
