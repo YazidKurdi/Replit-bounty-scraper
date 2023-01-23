@@ -3416,7 +3416,7 @@
         "title": "Caribbean World Series interactive Player Dashboard",
         "description": "The Caribbean world series is about to start, with eight teams competing from eight different leagues. I need an interactive website that pulls in each player's stats during their respective winter ball season to reach the Caribbean world series and past statistics pulled from Baseball reference\n\nAcceptance Criteria\nA list of leagues and teams can be found here make sure to include all statistics for the team and individual players that is availble\n\nTechnical Details\nThis will be a standalone project, so any coding language and data storage solutions are acceptable, with clear guidelines on adding or refreshing data in the future.\n\nTimelines / Milestones\nThe target release is Feb 1st, if completed on 1/27 will add a 50% bonus.",
         "author": "MicheasYimam",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@MicheasYimam/caribbean-world-seri?t="
     },
     {
@@ -3456,7 +3456,7 @@
         "title": "Create simple interface that loads files into ChatGPT Fine-tuning",
         "description": "I want to use ChatGPT to generate responses that honour specific formats and language based on my industry. To do this I want to fine-tune the model on my own dataset that specifies possible response formats. The Problem is that the fine-tuning function as is requires coding knowledge (I do not have).  The solution should look like a simple interface where I can select a file (JSON) from my desktop and it will load into the fine-tuning dataset for my openAI account.\n\nThe acceptance criteria is:\nthat I am able to select the file and add it to the dataset by clicking buttons (upload, add, confirm) rather than via coding. (I am able to install and run scripts but I can't code)\nI am able to generate ChatGPT completions that honour or apply the dataset in the fine-tuning model",
         "author": "Populista",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@Populista/create-simple-interf?t="
     },
     {
@@ -3468,5 +3468,15 @@
         "author": "Ajh499",
         "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@Ajh499/make-chat-messages-a?t="
+    },
+    {
+        "index": "347",
+        "price": "$45.00",
+        "due_days": "due in 10 days",
+        "title": "Create a python library to log all Request activities",
+        "description": "I would like to get all the API calls and responses going through my python application.\n\nAcceptance Criteria\nI need to log all API requests made in a python application and to send those requests to another server I'm logging these requests.\nThe solution should happen automatically to all API calls, and not something a developer needs to add to each call.\nAll request types are captured: GET, POST, DELETE, UPDATE, etc.\nThe request and response data is captured\nBoth the request and response data is sent to another server for logging\n\nTechnical Details\nWorks on python 2 and 3\nWorks with the Requests library built into python",
+        "author": "AhmadSadeddin1",
+        "posted_time": "2 minutes ago",
+        "link": "https://replit.com/bounties/@AhmadSadeddin1/create-a-python-libr?t="
     }
 ]

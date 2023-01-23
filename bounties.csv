@@ -2851,7 +2851,7 @@ Technical Details
 This will be a standalone project, so any coding language and data storage solutions are acceptable, with clear guidelines on adding or refreshing data in the future.
 
 Timelines / Milestones
-The target release is Feb 1st, if completed on 1/27 will add a 50% bonus.",MicheasYimam,16 hours ago,https://replit.com/bounties/@MicheasYimam/caribbean-world-seri?t=
+The target release is Feb 1st, if completed on 1/27 will add a 50% bonus.",MicheasYimam,17 hours ago,https://replit.com/bounties/@MicheasYimam/caribbean-world-seri?t=
 342,$1.00,due in 3 days,Deploy Unblocker to Hostinger,"I created my own Unblocker Frontend for Ultraviolet Proxy, and I want to host it with Hostinger. My problem is that I have no idea how to do that at all.
 Acceptance Criteria
 Just help me make it function completely and import the files to Hostinger.
@@ -2872,9 +2872,21 @@ I'll offer $10 to anyone who can fix my issue",sevaus,10 hours ago,https://repli
 
 The acceptance criteria is:
 that I am able to select the file and add it to the dataset by clicking buttons (upload, add, confirm) rather than via coding. (I am able to install and run scripts but I can't code)
-I am able to generate ChatGPT completions that honour or apply the dataset in the fine-tuning model",Populista,6 hours ago,https://replit.com/bounties/@Populista/create-simple-interf?t=
+I am able to generate ChatGPT completions that honour or apply the dataset in the fine-tuning model",Populista,7 hours ago,https://replit.com/bounties/@Populista/create-simple-interf?t=
 346,$9.00,due in 28 days,Make chat messages appear on other users screen in node.js,"I have an already somewhat responsive chat site where I used HTML, CSS, and jQuery. I have a system so that when you send a message, it'll appear in the chatbox, but it won't show on other devices. I'm using the node.js framework.
 
 Acceptance Criteria:
 When a message is sent, have it appear with the username on other devices.
 Use node.js.",Ajh499,4 hours ago,https://replit.com/bounties/@Ajh499/make-chat-messages-a?t=
+347,$45.00,due in 10 days,Create a python library to log all Request activities,"I would like to get all the API calls and responses going through my python application.
+
+Acceptance Criteria
+I need to log all API requests made in a python application and to send those requests to another server I'm logging these requests.
+The solution should happen automatically to all API calls, and not something a developer needs to add to each call.
+All request types are captured: GET, POST, DELETE, UPDATE, etc.
+The request and response data is captured
+Both the request and response data is sent to another server for logging
+
+Technical Details
+Works on python 2 and 3
+Works with the Requests library built into python",AhmadSadeddin1,2 minutes ago,https://replit.com/bounties/@AhmadSadeddin1/create-a-python-libr?t=
