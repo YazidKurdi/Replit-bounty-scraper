@@ -3396,7 +3396,7 @@
         "title": "Scrape a craigslist page into a list and refresh every X hours; Notify via email when new items are added/posted",
         "description": "Trying to find a stroller on Craigslist and get notified (by email, or text) whenever a new post was added\n\nAcceptance Criteria\nRunning code that executes the above, with an interface to change / set the following:\nEmail/s to send notification to\nLocation in Craigslist\nSearch line in Craigslist\nFrequency of refresh (e.g., every day, every 4 hours)\n\nCode must be tested on a random email prior to delivery.",
         "author": "GOEA",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@GOEA/scrape-a-craigslist?t="
     },
     {
@@ -3436,7 +3436,7 @@
         "title": "The Next VIRAL Post to get on Trending",
         "description": "Hey there Bounty Hunters! I want you to create an idea for, and also program, the next viral post to get on Trending! The competition is fierce so good luck!\n\nAcceptance Criteria:\nMust be reasonable, not trolling. (I will accept stupid, but only if it is a funny stupid.)\nIf it doesn't actually end up on Trending, that's fine. It does not need to get on Trending for me to accept it.",
         "author": "d31337",
-        "posted_time": "45 minutes ago",
+        "posted_time": "57 minutes ago",
         "link": "https://replit.com/bounties/@d31337/the-next-viral-post?t="
     }
 ]
