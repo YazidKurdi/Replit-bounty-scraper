@@ -3386,7 +3386,7 @@
         "title": "CSS-only Emoji animation \ud83e\uddde\u200d\u2642\ufe0f",
         "description": "Looking for a genie \ud83e\uddde\u200d\u2642\ufe0f to float around the edges of my webpage as the user uses it.\n(and if the user taps/clicks on it, it 'pops'/vanishes. https://codepen.io/carlcamera/pen/KmEPJZ looks neat if it can outline the genie.)\n\nThis should be able to use principles from here: https://www.kirupa.com/html5/emoji.htm\n(Except the genie should not follow the mouse, it should just 'float' around the edges of mobile and desktop screens. Note the genie is 'imported' in unicode, not from a library.)\n\nAcceptance Criteria\nA genie that floats around the edges of the screen as the user uses the site on mobile and desktop, it should be in Pure CSS. (No HTML/No JS)\nIt should have some sort of fun/slight animation (poof) when tapped or clicked.",
         "author": "Bandos1000",
-        "posted_time": "21 hours ago",
+        "posted_time": "22 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/css-only-genie-anima?t="
     },
     {
@@ -3406,7 +3406,7 @@
         "title": "Create a web app that connects to your audible account and pulls only your clips into mp3. ",
         "description": "Currently there is no direct way that lets you connect your audible account and extract all your audible clips.\n\nAcceptance Criteria\nI am looking for a developer that can develop a basic web app  that  connects to audible account then be able to pull ONLY the clips of all the audiobooks in the library.\nOnce that's done and tested, there will be additional features added into the app.\nLooking to retain a skilled developer for on-going work on this project.",
         "author": "Danar8",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@Danar8/create-a-web-app-tha?t="
     },
     {
@@ -3426,7 +3426,7 @@
         "title": "Deploy Unblocker to Hostinger",
         "description": "I created my own Unblocker Frontend for Ultraviolet Proxy, and I want to host it with Hostinger. My problem is that I have no idea how to do that at all.\nAcceptance Criteria\nJust help me make it function completely and import the files to Hostinger.\nTechnical Details\nFiles, Coding Languages, etc can be found in the Repl \"OrbitalUpd\" on my profile.",
         "author": "CrownDevelopment",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@CrownDevelopment/deploy-unblocker-to?t="
     },
     {
@@ -3436,7 +3436,7 @@
         "title": "The Next VIRAL Post to get on Trending",
         "description": "Hey there Bounty Hunters! I want you to create an idea for, and also program, the next viral post to get on Trending! The competition is fierce so good luck!\n\nAcceptance Criteria:\nMust be reasonable, not trolling. (I will accept stupid, but only if it is a funny stupid.)\nIf it doesn't actually end up on Trending, that's fine. It does not need to get on Trending for me to accept it.",
         "author": "d31337",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@d31337/the-next-viral-post?t="
     },
     {
