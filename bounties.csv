@@ -2800,7 +2800,7 @@ It will be integrated to a react app (components preferred0
 Link to Project
 [Figma Prototype]
 (https://www.figma.com/proto/6sDGEBQi5EwRNzhGTB4EEc/Landing-page?node-id=1%3A2)",oreog,21 hours ago,https://replit.com/bounties/@oreog/responsive-landing-p?t=
-335,$30.00,due in 3 days,Modify Car simulation to respawn cars after a configurable period of time.,"Modify an existing simulation for EVs and charging stations, adding the option to respawn cars that run out of battery, after a set time. The time must be configurable in a config file given to the simulator.",vibo,18 hours ago,https://replit.com/bounties/@vibo/modify-car-simulatio?t=
+335,$30.00,closed,Modify Car simulation to respawn cars after a configurable period of time.,"Modify an existing simulation for EVs and charging stations, adding the option to respawn cars that run out of battery, after a set time. The time must be configurable in a config file given to the simulator.",vibo,18 hours ago,https://replit.com/bounties/@vibo/modify-car-simulatio?t=
 336,"$1,800.00",due in 26 days,Jife: Japanese Interior Design Generator,"Jife is an AI-powered webapp that provides new interior design ideas in seconds, based on Japanese interior design. With Jife, users can upload a photo of their room and get new interior ideas instantly. It will generate several interior design variations for free initially and then offer additional features with a paid subscription plan.
 
 For free, the webapp allows users to upload a photo of their room and generate 5 interior design variations. The app allows users to generate for a variety of room types by default including living room, bedroom, bathroom, kitchen by default.
@@ -2816,7 +2816,7 @@ The goal is not the repl. The goal is that if you successfully create this game 
 Acceptance Criteria
 Be specific about what you want in the solution here.
 
-This is a repl-based ""resume"" where you show off your Node.js + sockets + web dev + game making skills. Build any kind of game you like. Make it modest, but COMPLETE. Not a tech demo. A full, simple, web based node.js ser...",triptych,12 hours ago,https://replit.com/bounties/@triptych/join-a-game-making-c?t=
+This is a repl-based ""resume"" where you show off your Node.js + sockets + web dev + game making skills. Build any kind of game you like. Make it modest, but COMPLETE. Not a tech demo. A full, simple, web based node.js ser...",triptych,13 hours ago,https://replit.com/bounties/@triptych/join-a-game-making-c?t=
 338,$2.00,closed,CSS-only Emoji animation 🧞‍♂️,"Looking for a genie 🧞‍♂️ to float around the edges of my webpage as the user uses it.
 (and if the user taps/clicks on it, it 'pops'/vanishes. https://codepen.io/carlcamera/pen/KmEPJZ looks neat if it can outline the genie.)
 
