@@ -3376,7 +3376,7 @@
         "title": "Join a game making coop - make a web game as a 'resume' application ",
         "description": "I'm starting a web game building coop. I'm looking for a lead programmer who has skills with node.js , game making, vanilla web tech, and networking like sockets.io\nThis bounty is basically an application to help start this coop. You will build a simple web game that runs on node, uses canvas in some way and sockets.io ( or just plain websockets )\n\nThe goal is not the repl. The goal is that if you successfully create this game you demonstrate your desire to join a new web game making coop here on Replit.  I have many plans and not enough time. I need folks who I can depend on to create games and build fun stuff. We can work out on a task basis getting compensated in cycles.\n\nAcceptance Criteria\nBe specific about what you want in the solution here.\n\nThis is a repl-based \"resume\" where you show off your Node.js + sockets + web dev + game making skills. Build any kind of game you like. Make it modest, but COMPLETE. Not a tech demo. A full, simple, web based node.js ser...",
         "author": "triptych",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@triptych/join-a-game-making-c?t="
     },
     {
@@ -3446,7 +3446,7 @@
         "title": "Fix my rpyc issue",
         "description": "Hi,\n\nI'm using rpyc between two files client.py and server.py.\nThis works well on my local machine but on replit I get the error ConnectionRefusedError: [Errno 111] Connection refused.\n\nI'll offer $10 to anyone who can fix my issue",
         "author": "sevaus",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@sevaus/fix-my-rpyc-issue?t="
     }
 ]
