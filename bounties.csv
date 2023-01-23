@@ -2775,7 +2775,7 @@ There is more elaboration on the problem here: https://stackoverflow.com/questio
 The real size is 1.428 kB. Using tar-stream gives a file that is 20.48 kB, pako gives 9.847 kB or 10.240 kB. The size doesn't even match up.
 
 Link to Project
-You can see some code snippets here: https://stackoverflow.com/questions/75105921/tar-gz-...",AJGupta,18 hours ago,https://replit.com/bounties/@AJGupta/decompress-targz-fil?t=
+You can see some code snippets here: https://stackoverflow.com/questions/75105921/tar-gz-...",AJGupta,19 hours ago,https://replit.com/bounties/@AJGupta/decompress-targz-fil?t=
 333,$0.90,due in 3 days,(freebie) Make Something Cool!,"Description
 This is a freebie, it’s not first come first serve (see below)
 Create a cool project in any programming language you like! Must be a new Repl.
@@ -2784,7 +2784,7 @@ Acceptance Criteria
 Must create an interesting project, of my liking. It is not first come first serve, I’ll give you some hints on things I may appreciate more:)
 Languages I like: HTML, CSS (especially style sheets), C++, LOLCODE, and some others that you may know! (Note: it can be in any language, not just the ones listed here)
 Something interesting, creative, and original.
-Modern look (for HTML/CSS stuff)",EarthRulerr,17 hours ago,https://replit.com/bounties/@EarthRulerr/freebie-make-somethi?t=
+Modern look (for HTML/CSS stuff)",EarthRulerr,18 hours ago,https://replit.com/bounties/@EarthRulerr/freebie-make-somethi?t=
 334,$63.00,closed,Responsive Landing Page,"I'd like someone to create a responsive landing page for this [Figma Prototype]
 (https://www.figma.com/proto/6sDGEBQi5EwRNzhGTB4EEc/Landing-page?node-id=1%3A2)
 
@@ -2799,15 +2799,15 @@ It will be integrated to a react app (components preferred0
 
 Link to Project
 [Figma Prototype]
-(https://www.figma.com/proto/6sDGEBQi5EwRNzhGTB4EEc/Landing-page?node-id=1%3A2)",oreog,14 hours ago,https://replit.com/bounties/@oreog/responsive-landing-p?t=
-335,$30.00,due in 3 days,Modify Car simulation to respawn cars after a configurable period of time.,"Modify an existing simulation for EVs and charging stations, adding the option to respawn cars that run out of battery, after a set time. The time must be configurable in a config file given to the simulator.",vibo,11 hours ago,https://replit.com/bounties/@vibo/modify-car-simulatio?t=
+(https://www.figma.com/proto/6sDGEBQi5EwRNzhGTB4EEc/Landing-page?node-id=1%3A2)",oreog,15 hours ago,https://replit.com/bounties/@oreog/responsive-landing-p?t=
+335,$30.00,due in 3 days,Modify Car simulation to respawn cars after a configurable period of time.,"Modify an existing simulation for EVs and charging stations, adding the option to respawn cars that run out of battery, after a set time. The time must be configurable in a config file given to the simulator.",vibo,12 hours ago,https://replit.com/bounties/@vibo/modify-car-simulatio?t=
 336,"$1,800.00",due in 26 days,Jife: Japanese Interior Design Generator,"Jife is an AI-powered webapp that provides new interior design ideas in seconds, based on Japanese interior design. With Jife, users can upload a photo of their room and get new interior ideas instantly. It will generate several interior design variations for free initially and then offer additional features with a paid subscription plan.
 
 For free, the webapp allows users to upload a photo of their room and generate 5 interior design variations. The app allows users to generate for a variety of room types by default including living room, bedroom, bathroom, kitchen by default.
 
 The webapp offers a monthly subscription plan for $29 that includes unlimited renders, the ability to keep originals and renders private, additional room types), virtual staging mode and a commercial usage license for 1 person. The subscription will unlock the dining room, study room, office, gaming room, outdoor, patio, genkan, toilets, attic.
 
-The app also offers a professional subscriptio...",GetInference,10 hours ago,https://replit.com/bounties/@GetInference/jife-japanese-interi?t=
+The app also offers a professional subscriptio...",GetInference,11 hours ago,https://replit.com/bounties/@GetInference/jife-japanese-interi?t=
 337,$22.50,due in 13 days,Join a game making coop - make a web game as a 'resume' application ,"I'm starting a web game building coop. I'm looking for a lead programmer who has skills with node.js , game making, vanilla web tech, and networking like sockets.io
 This bounty is basically an application to help start this coop. You will build a simple web game that runs on node, uses canvas in some way and sockets.io ( or just plain websockets )
 
@@ -2816,7 +2816,7 @@ The goal is not the repl. The goal is that if you successfully create this game 
 Acceptance Criteria
 Be specific about what you want in the solution here.
 
-This is a repl-based ""resume"" where you show off your Node.js + sockets + web dev + game making skills. Build any kind of game you like. Make it modest, but COMPLETE. Not a tech demo. A full, simple, web based node.js ser...",triptych,5 hours ago,https://replit.com/bounties/@triptych/join-a-game-making-c?t=
+This is a repl-based ""resume"" where you show off your Node.js + sockets + web dev + game making skills. Build any kind of game you like. Make it modest, but COMPLETE. Not a tech demo. A full, simple, web based node.js ser...",triptych,6 hours ago,https://replit.com/bounties/@triptych/join-a-game-making-c?t=
 338,$2.00,closed,CSS-only Emoji animation 🧞‍♂️,"Looking for a genie 🧞‍♂️ to float around the edges of my webpage as the user uses it.
 (and if the user taps/clicks on it, it 'pops'/vanishes. https://codepen.io/carlcamera/pen/KmEPJZ looks neat if it can outline the genie.)
 
@@ -2825,7 +2825,7 @@ This should be able to use principles from here: https://www.kirupa.com/html5/em
 
 Acceptance Criteria
 A genie that floats around the edges of the screen as the user uses the site on mobile and desktop, it should be in Pure CSS. (No HTML/No JS)
-It should have some sort of fun/slight animation (poof) when tapped or clicked.",Bandos1000,5 hours ago,https://replit.com/bounties/@Bandos1000/css-only-genie-anima?t=
+It should have some sort of fun/slight animation (poof) when tapped or clicked.",Bandos1000,6 hours ago,https://replit.com/bounties/@Bandos1000/css-only-genie-anima?t=
 339,$18.00,due in 4 days,Scrape a craigslist page into a list and refresh every X hours; Notify via email when new items are added/posted,"Trying to find a stroller on Craigslist and get notified (by email, or text) whenever a new post was added
 
 Acceptance Criteria
@@ -2835,10 +2835,10 @@ Location in Craigslist
 Search line in Craigslist
 Frequency of refresh (e.g., every day, every 4 hours)
 
-Code must be tested on a random email prior to delivery.",GOEA,5 hours ago,https://replit.com/bounties/@GOEA/scrape-a-craigslist?t=
+Code must be tested on a random email prior to delivery.",GOEA,6 hours ago,https://replit.com/bounties/@GOEA/scrape-a-craigslist?t=
 340,$180.00,due in 6 days,Create a web app that connects to your audible account and pulls only your clips into mp3. ,"Currently there is no direct way that lets you connect your audible account and extract all your audible clips.
 
 Acceptance Criteria
 I am looking for a developer that can develop a basic web app  that  connects to audible account then be able to pull ONLY the clips of all the audiobooks in the library.
 Once that's done and tested, there will be additional features added into the app.
-Looking to retain a skilled developer for on-going work on this project.",Danar8,3 hours ago,https://replit.com/bounties/@Danar8/create-a-web-app-tha?t=
+Looking to retain a skilled developer for on-going work on this project.",Danar8,4 hours ago,https://replit.com/bounties/@Danar8/create-a-web-app-tha?t=
