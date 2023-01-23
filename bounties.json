@@ -3416,7 +3416,7 @@
         "title": "Caribbean World Series interactive Player Dashboard",
         "description": "The Caribbean world series is about to start, with eight teams competing from eight different leagues. I need an interactive website that pulls in each player's stats during their respective winter ball season to reach the Caribbean world series and past statistics pulled from Baseball reference\n\nAcceptance Criteria\nA list of leagues and teams can be found here make sure to include all statistics for the team and individual players that is availble\n\nTechnical Details\nThis will be a standalone project, so any coding language and data storage solutions are acceptable, with clear guidelines on adding or refreshing data in the future.\n\nTimelines / Milestones\nThe target release is Feb 1st, if completed on 1/27 will add a 50% bonus.",
         "author": "MicheasYimam",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@MicheasYimam/caribbean-world-seri?t="
     },
     {
@@ -3446,7 +3446,7 @@
         "title": "Fix my rpyc issue",
         "description": "Hi,\n\nI'm using rpyc between two files client.py and server.py.\nThis works well on my local machine but on replit I get the error ConnectionRefusedError: [Errno 111] Connection refused.\n\nI'll offer $10 to anyone who can fix my issue",
         "author": "sevaus",
-        "posted_time": "14 minutes ago",
+        "posted_time": "23 minutes ago",
         "link": "https://replit.com/bounties/@sevaus/fix-my-rpyc-issue?t="
     }
 ]
