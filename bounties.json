@@ -3366,7 +3366,7 @@
         "title": "Jife: Japanese Interior Design Generator",
         "description": "Jife is an AI-powered webapp that provides new interior design ideas in seconds, based on Japanese interior design. With Jife, users can upload a photo of their room and get new interior ideas instantly. It will generate several interior design variations for free initially and then offer additional features with a paid subscription plan.\n\nFor free, the webapp allows users to upload a photo of their room and generate 5 interior design variations. The app allows users to generate for a variety of room types by default including living room, bedroom, bathroom, kitchen by default.\n\nThe webapp offers a monthly subscription plan for $29 that includes unlimited renders, the ability to keep originals and renders private, additional room types), virtual staging mode and a commercial usage license for 1 person. The subscription will unlock the dining room, study room, office, gaming room, outdoor, patio, genkan, toilets, attic.\n\nThe app also offers a professional subscriptio...",
         "author": "GetInference",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@GetInference/jife-japanese-interi?t="
     },
     {
@@ -3376,7 +3376,7 @@
         "title": "Join a game making coop - make a web game as a 'resume' application ",
         "description": "I'm starting a web game building coop. I'm looking for a lead programmer who has skills with node.js , game making, vanilla web tech, and networking like sockets.io\nThis bounty is basically an application to help start this coop. You will build a simple web game that runs on node, uses canvas in some way and sockets.io ( or just plain websockets )\n\nThe goal is not the repl. The goal is that if you successfully create this game you demonstrate your desire to join a new web game making coop here on Replit.  I have many plans and not enough time. I need folks who I can depend on to create games and build fun stuff. We can work out on a task basis getting compensated in cycles.\n\nAcceptance Criteria\nBe specific about what you want in the solution here.\n\nThis is a repl-based \"resume\" where you show off your Node.js + sockets + web dev + game making skills. Build any kind of game you like. Make it modest, but COMPLETE. Not a tech demo. A full, simple, web based node.js ser...",
         "author": "triptych",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@triptych/join-a-game-making-c?t="
     },
     {
