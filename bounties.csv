@@ -2816,7 +2816,7 @@ The goal is not the repl. The goal is that if you successfully create this game 
 Acceptance Criteria
 Be specific about what you want in the solution here.
 
-This is a repl-based ""resume"" where you show off your Node.js + sockets + web dev + game making skills. Build any kind of game you like. Make it modest, but COMPLETE. Not a tech demo. A full, simple, web based node.js ser...",triptych,14 hours ago,https://replit.com/bounties/@triptych/join-a-game-making-c?t=
+This is a repl-based ""resume"" where you show off your Node.js + sockets + web dev + game making skills. Build any kind of game you like. Make it modest, but COMPLETE. Not a tech demo. A full, simple, web based node.js ser...",triptych,15 hours ago,https://replit.com/bounties/@triptych/join-a-game-making-c?t=
 338,$2.00,closed,CSS-only Emoji animation 🧞‍♂️,"Looking for a genie 🧞‍♂️ to float around the edges of my webpage as the user uses it.
 (and if the user taps/clicks on it, it 'pops'/vanishes. https://codepen.io/carlcamera/pen/KmEPJZ looks neat if it can outline the genie.)
 
@@ -2867,4 +2867,4 @@ If it doesn't actually end up on Trending, that's fine. It does not need to get 
 I'm using rpyc between two files client.py and server.py.
 This works well on my local machine but on replit I get the error ConnectionRefusedError: [Errno 111] Connection refused.
 
-I'll offer $10 to anyone who can fix my issue",sevaus,23 minutes ago,https://replit.com/bounties/@sevaus/fix-my-rpyc-issue?t=
+I'll offer $10 to anyone who can fix my issue",sevaus,39 minutes ago,https://replit.com/bounties/@sevaus/fix-my-rpyc-issue?t=
