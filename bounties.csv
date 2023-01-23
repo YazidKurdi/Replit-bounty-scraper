@@ -2825,7 +2825,7 @@ This should be able to use principles from here: https://www.kirupa.com/html5/em
 
 Acceptance Criteria
 A genie that floats around the edges of the screen as the user uses the site on mobile and desktop, it should be in Pure CSS. (No HTML/No JS)
-It should have some sort of fun/slight animation (poof) when tapped or clicked.",Bandos1000,20 hours ago,https://replit.com/bounties/@Bandos1000/css-only-genie-anima?t=
+It should have some sort of fun/slight animation (poof) when tapped or clicked.",Bandos1000,21 hours ago,https://replit.com/bounties/@Bandos1000/css-only-genie-anima?t=
 339,$18.00,due in 3 days,Scrape a craigslist page into a list and refresh every X hours; Notify via email when new items are added/posted,"Trying to find a stroller on Craigslist and get notified (by email, or text) whenever a new post was added
 
 Acceptance Criteria
@@ -2877,4 +2877,4 @@ I am able to generate ChatGPT completions that honour or apply the dataset in th
 
 Acceptance Criteria:
 When a message is sent, have it appear with the username on other devices.
-Use node.js.",Ajh499,57 minutes ago,https://replit.com/bounties/@Ajh499/make-chat-messages-a?t=
+Use node.js.",Ajh499,1 hour ago,https://replit.com/bounties/@Ajh499/make-chat-messages-a?t=
