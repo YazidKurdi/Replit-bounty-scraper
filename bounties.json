@@ -3416,7 +3416,17 @@
         "title": "Caribbean World Series interactive Player Dashboard",
         "description": "The Caribbean world series is about to start, with eight teams competing from eight different leagues. I need an interactive website that pulls in each player's stats during their respective winter ball season to reach the Caribbean world series and past statistics pulled from Baseball reference\n\nAcceptance Criteria\nA list of leagues and teams can be found here make sure to include all statistics for the team and individual players that is availble\n\nTechnical Details\nThis will be a standalone project, so any coding language and data storage solutions are acceptable, with clear guidelines on adding or refreshing data in the future.\n\nTimelines / Milestones\nThe target release is Feb 1st, if completed on 1/27 will add a 50% bonus.",
         "author": "MicheasYimam",
-        "posted_time": "29 minutes ago",
+        "posted_time": "41 minutes ago",
         "link": "https://replit.com/bounties/@MicheasYimam/caribbean-world-seri?t="
+    },
+    {
+        "index": "342",
+        "price": "$1.00",
+        "due_days": "due in 4 days",
+        "title": "Deploy Unblocker to Hostinger",
+        "description": "I created my own Unblocker Frontend for Ultraviolet Proxy, and I want to host it with Hostinger. My problem is that I have no idea how to do that at all.\nAcceptance Criteria\nJust help me make it function completely and import the files to Hostinger.\nTechnical Details\nFiles, Coding Languages, etc can be found in the Repl \"OrbitalUpd\" on my profile.",
+        "author": "CrownDevelopment",
+        "posted_time": "7 minutes ago",
+        "link": "https://replit.com/bounties/@CrownDevelopment/deploy-unblocker-to?t="
     }
 ]
