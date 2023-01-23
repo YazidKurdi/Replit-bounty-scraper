@@ -3366,7 +3366,7 @@
         "title": "Jife: Japanese Interior Design Generator",
         "description": "Jife is an AI-powered webapp that provides new interior design ideas in seconds, based on Japanese interior design. With Jife, users can upload a photo of their room and get new interior ideas instantly. It will generate several interior design variations for free initially and then offer additional features with a paid subscription plan.\n\nFor free, the webapp allows users to upload a photo of their room and generate 5 interior design variations. The app allows users to generate for a variety of room types by default including living room, bedroom, bathroom, kitchen by default.\n\nThe webapp offers a monthly subscription plan for $29 that includes unlimited renders, the ability to keep originals and renders private, additional room types), virtual staging mode and a commercial usage license for 1 person. The subscription will unlock the dining room, study room, office, gaming room, outdoor, patio, genkan, toilets, attic.\n\nThe app also offers a professional subscriptio...",
         "author": "GetInference",
-        "posted_time": "24 hours ago",
+        "posted_time": "1 day ago",
         "link": "https://replit.com/bounties/@GetInference/jife-japanese-interi?t="
     },
     {
@@ -3396,7 +3396,7 @@
         "title": "Scrape a craigslist page into a list and refresh every X hours; Notify via email when new items are added/posted",
         "description": "Trying to find a stroller on Craigslist and get notified (by email, or text) whenever a new post was added\n\nAcceptance Criteria\nRunning code that executes the above, with an interface to change / set the following:\nEmail/s to send notification to\nLocation in Craigslist\nSearch line in Craigslist\nFrequency of refresh (e.g., every day, every 4 hours)\n\nCode must be tested on a random email prior to delivery.",
         "author": "GOEA",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@GOEA/scrape-a-craigslist?t="
     },
     {
