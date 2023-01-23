@@ -3496,7 +3496,7 @@
         "title": "Zappier ChatGPT prototype",
         "description": "Datagran.io is a company specialized in data workflows. We have this idea of creating a new feature which is the zappier.com ChatGPT for data workflows. This bounty is to get help finishing the prototype taking in mind that as a CEO I have other many tasks to accomplish.\n\nAcceptance Criteria\nAnyone who can proove sufficient experience building flask applications.\n\nTechnical Details\nAt this point all the foundations of the projects are laid out. It is a python flask application that uses HTML, CSS and JS. It is already connected to OpenAI and you can write and receive prompts.\nNow we need to create a staged prototype where we will use a SupabaseDB to injest data from and we will send the data as an ouptut to a CSV file. That said the challenge is:\n1) We will only have one option initially where we will injest the data from. Initially it will just be a SupabaseDB. For that we need to create a SupabaseDB as a test Database and make the Chat ask the user for the credent...",
         "author": "mendezcar",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@mendezcar/zappier-chatgpt-prot?t="
     },
     {
@@ -3506,7 +3506,7 @@
         "title": "Deploy unblocker to hostgator",
         "description": "I have an unblocker, I want to deploy it to Hostgator. However, I don't know how to do it. Please help\nAcceptance Criteria\nHelp me make it work.",
         "author": "CrownDevelopment",
-        "posted_time": "56 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@CrownDevelopment/deploy-unblocker-to-1?t="
     },
     {
@@ -3516,7 +3516,7 @@
         "title": "Set up Google Adsense on Discourse forum",
         "description": "Need someone to help me set up the Discourse Adplugin on my forum, implementing Google Adsense.\n\nMy forum is https://forum.codergautam.dev/\n\nPreferred if the hunter has experience with using the Discourse Ad plugin, and experience with using Google Adsense.",
         "author": "CoderGautamYT",
-        "posted_time": "5 minutes ago",
+        "posted_time": "13 minutes ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/set-up-google-ads-on?t="
     }
 ]
