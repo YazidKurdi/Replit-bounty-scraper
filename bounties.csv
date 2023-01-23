@@ -2835,7 +2835,7 @@ Location in Craigslist
 Search line in Craigslist
 Frequency of refresh (e.g., every day, every 4 hours)
 
-Code must be tested on a random email prior to delivery.",GOEA,13 hours ago,https://replit.com/bounties/@GOEA/scrape-a-craigslist?t=
+Code must be tested on a random email prior to delivery.",GOEA,14 hours ago,https://replit.com/bounties/@GOEA/scrape-a-craigslist?t=
 340,$180.00,due in 6 days,Create a web app that connects to your audible account and pulls only your clips into mp3. ,"Currently there is no direct way that lets you connect your audible account and extract all your audible clips.
 
 Acceptance Criteria
@@ -2867,4 +2867,4 @@ If it doesn't actually end up on Trending, that's fine. It does not need to get 
 I'm using rpyc between two files client.py and server.py.
 This works well on my local machine but on replit I get the error ConnectionRefusedError: [Errno 111] Connection refused.
 
-I'll offer $10 to anyone who can fix my issue",sevaus,3 minutes ago,https://replit.com/bounties/@sevaus/fix-my-rpyc-issue?t=
+I'll offer $10 to anyone who can fix my issue",sevaus,14 minutes ago,https://replit.com/bounties/@sevaus/fix-my-rpyc-issue?t=

@@ -3396,7 +3396,7 @@
         "title": "Scrape a craigslist page into a list and refresh every X hours; Notify via email when new items are added/posted",
         "description": "Trying to find a stroller on Craigslist and get notified (by email, or text) whenever a new post was added\n\nAcceptance Criteria\nRunning code that executes the above, with an interface to change / set the following:\nEmail/s to send notification to\nLocation in Craigslist\nSearch line in Craigslist\nFrequency of refresh (e.g., every day, every 4 hours)\n\nCode must be tested on a random email prior to delivery.",
         "author": "GOEA",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@GOEA/scrape-a-craigslist?t="
     },
     {
@@ -3446,7 +3446,7 @@
         "title": "Fix my rpyc issue",
         "description": "Hi,\n\nI'm using rpyc between two files client.py and server.py.\nThis works well on my local machine but on replit I get the error ConnectionRefusedError: [Errno 111] Connection refused.\n\nI'll offer $10 to anyone who can fix my issue",
         "author": "sevaus",
-        "posted_time": "3 minutes ago",
+        "posted_time": "14 minutes ago",
         "link": "https://replit.com/bounties/@sevaus/fix-my-rpyc-issue?t="
     }
 ]
