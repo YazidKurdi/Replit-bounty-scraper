@@ -2851,7 +2851,7 @@ Technical Details
 This will be a standalone project, so any coding language and data storage solutions are acceptable, with clear guidelines on adding or refreshing data in the future.
 
 Timelines / Milestones
-The target release is Feb 1st, if completed on 1/27 will add a 50% bonus.",MicheasYimam,17 hours ago,https://replit.com/bounties/@MicheasYimam/caribbean-world-seri?t=
+The target release is Feb 1st, if completed on 1/27 will add a 50% bonus.",MicheasYimam,18 hours ago,https://replit.com/bounties/@MicheasYimam/caribbean-world-seri?t=
 342,$1.00,due in 3 days,Deploy Unblocker to Hostinger,"I created my own Unblocker Frontend for Ultraviolet Proxy, and I want to host it with Hostinger. My problem is that I have no idea how to do that at all.
 Acceptance Criteria
 Just help me make it function completely and import the files to Hostinger.
@@ -2872,7 +2872,7 @@ I'll offer $10 to anyone who can fix my issue",sevaus,11 hours ago,https://repli
 
 The acceptance criteria is:
 that I am able to select the file and add it to the dataset by clicking buttons (upload, add, confirm) rather than via coding. (I am able to install and run scripts but I can't code)
-I am able to generate ChatGPT completions that honour or apply the dataset in the fine-tuning model",Populista,7 hours ago,https://replit.com/bounties/@Populista/create-simple-interf?t=
+I am able to generate ChatGPT completions that honour or apply the dataset in the fine-tuning model",Populista,8 hours ago,https://replit.com/bounties/@Populista/create-simple-interf?t=
 346,$9.00,due in 28 days,Make chat messages appear on other users screen in node.js,"I have an already somewhat responsive chat site where I used HTML, CSS, and jQuery. I have a system so that when you send a message, it'll appear in the chatbox, but it won't show on other devices. I'm using the node.js framework.
 
 Acceptance Criteria:
@@ -2889,7 +2889,7 @@ Both the request and response data is sent to another server for logging
 
 Technical Details
 Works on python 2 and 3
-Works with the Requests library built into python",AhmadSadeddin1,53 minutes ago,https://replit.com/bounties/@AhmadSadeddin1/create-a-python-libr?t=
+Works with the Requests library built into python",AhmadSadeddin1,1 hour ago,https://replit.com/bounties/@AhmadSadeddin1/create-a-python-libr?t=
 348,$200.00,due in 3 days,Simple private app for e-commerce platform,"Problem to be Solved
 
 TiendaNube, a platform similar to Shopify, needs an app that can remind potential buyers to pay for their orders via WhatsApp if they abandon their cart. You can find more information on their APIs at the following link: https://tiendanube.github.io/api-documentation/intro
@@ -2903,7 +2903,7 @@ Note that the Twilio integration will not be your responsibility and your job wi
 Acceptance Criteria
 
 The app is functional and allows for user/store registration
-The three webhooks (order creation, order update, order paid) are properly installed and functioning...",mattpatagon,48 minutes ago,https://replit.com/bounties/@mattpatagon/simple-private-app-f?t=
+The three webhooks (order creation, order update, order paid) are properly installed and functioning...",mattpatagon,58 minutes ago,https://replit.com/bounties/@mattpatagon/simple-private-app-f?t=
 349,$450.00,due in 9 days,Zappier ChatGPT prototype,"Datagran.io is a company specialized in data workflows. We have this idea of creating a new feature which is the zappier.com ChatGPT for data workflows. This bounty is to get help finishing the prototype taking in mind that as a CEO I have other many tasks to accomplish.
 
 Acceptance Criteria
@@ -2912,7 +2912,7 @@ Anyone who can proove sufficient experience building flask applications.
 Technical Details
 At this point all the foundations of the projects are laid out. It is a python flask application that uses HTML, CSS and JS. It is already connected to OpenAI and you can write and receive prompts.
 Now we need to create a staged prototype where we will use a SupabaseDB to injest data from and we will send the data as an ouptut to a CSV file. That said the challenge is:
-1) We will only have one option initially where we will injest the data from. Initially it will just be a SupabaseDB. For that we need to create a SupabaseDB as a test Database and make the Chat ask the user for the credent...",mendezcar,47 minutes ago,https://replit.com/bounties/@mendezcar/zappier-chatgpt-prot?t=
+1) We will only have one option initially where we will injest the data from. Initially it will just be a SupabaseDB. For that we need to create a SupabaseDB as a test Database and make the Chat ask the user for the credent...",mendezcar,57 minutes ago,https://replit.com/bounties/@mendezcar/zappier-chatgpt-prot?t=
 350,$0.90,due in 3 days,Deploy unblocker to hostgator,"I have an unblocker, I want to deploy it to Hostgator. However, I don't know how to do it. Please help
 Acceptance Criteria
-Help me make it work.",CrownDevelopment,14 minutes ago,https://replit.com/bounties/@CrownDevelopment/deploy-unblocker-to-1?t=
+Help me make it work.",CrownDevelopment,24 minutes ago,https://replit.com/bounties/@CrownDevelopment/deploy-unblocker-to-1?t=
