@@ -3396,7 +3396,7 @@
         "title": "Scrape a craigslist page into a list and refresh every X hours; Notify via email when new items are added/posted",
         "description": "Trying to find a stroller on Craigslist and get notified (by email, or text) whenever a new post was added\n\nAcceptance Criteria\nRunning code that executes the above, with an interface to change / set the following:\nEmail/s to send notification to\nLocation in Craigslist\nSearch line in Craigslist\nFrequency of refresh (e.g., every day, every 4 hours)\n\nCode must be tested on a random email prior to delivery.",
         "author": "GOEA",
-        "posted_time": "22 hours ago",
+        "posted_time": "23 hours ago",
         "link": "https://replit.com/bounties/@GOEA/scrape-a-craigslist?t="
     },
     {
