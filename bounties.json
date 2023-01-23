@@ -3396,7 +3396,7 @@
         "title": "Scrape a craigslist page into a list and refresh every X hours; Notify via email when new items are added/posted",
         "description": "Trying to find a stroller on Craigslist and get notified (by email, or text) whenever a new post was added\n\nAcceptance Criteria\nRunning code that executes the above, with an interface to change / set the following:\nEmail/s to send notification to\nLocation in Craigslist\nSearch line in Craigslist\nFrequency of refresh (e.g., every day, every 4 hours)\n\nCode must be tested on a random email prior to delivery.",
         "author": "GOEA",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@GOEA/scrape-a-craigslist?t="
     },
     {
@@ -3426,7 +3426,7 @@
         "title": "Deploy Unblocker to Hostinger",
         "description": "I created my own Unblocker Frontend for Ultraviolet Proxy, and I want to host it with Hostinger. My problem is that I have no idea how to do that at all.\nAcceptance Criteria\nJust help me make it function completely and import the files to Hostinger.\nTechnical Details\nFiles, Coding Languages, etc can be found in the Repl \"OrbitalUpd\" on my profile.",
         "author": "CrownDevelopment",
-        "posted_time": "46 minutes ago",
+        "posted_time": "53 minutes ago",
         "link": "https://replit.com/bounties/@CrownDevelopment/deploy-unblocker-to?t="
     }
 ]
