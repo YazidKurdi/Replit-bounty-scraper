@@ -3426,7 +3426,7 @@
         "title": "Deploy Unblocker to Hostinger",
         "description": "I created my own Unblocker Frontend for Ultraviolet Proxy, and I want to host it with Hostinger. My problem is that I have no idea how to do that at all.\nAcceptance Criteria\nJust help me make it function completely and import the files to Hostinger.\nTechnical Details\nFiles, Coding Languages, etc can be found in the Repl \"OrbitalUpd\" on my profile.",
         "author": "CrownDevelopment",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@CrownDevelopment/deploy-unblocker-to?t="
     },
     {
@@ -3476,7 +3476,7 @@
         "title": "Create a python library to log all Request activities",
         "description": "I would like to get all the API calls and responses going through my python application.\n\nAcceptance Criteria\nI need to log all API requests made in a python application and to send those requests to another server I'm logging these requests.\nThe solution should happen automatically to all API calls, and not something a developer needs to add to each call.\nAll request types are captured: GET, POST, DELETE, UPDATE, etc.\nThe request and response data is captured\nBoth the request and response data is sent to another server for logging\n\nTechnical Details\nWorks on python 2 and 3\nWorks with the Requests library built into python",
         "author": "AhmadSadeddin1",
-        "posted_time": "28 minutes ago",
+        "posted_time": "35 minutes ago",
         "link": "https://replit.com/bounties/@AhmadSadeddin1/create-a-python-libr?t="
     },
     {
@@ -3486,7 +3486,7 @@
         "title": "Simple private app for e-commerce platform",
         "description": "Problem to be Solved\n\nTiendaNube, a platform similar to Shopify, needs an app that can remind potential buyers to pay for their orders via WhatsApp if they abandon their cart. You can find more information on their APIs at the following link: https://tiendanube.github.io/api-documentation/intro\n\nProposed Solution\n\nCreate a private app for TiendaNube that enables user/store registration and installs three webhooks for the store: order creation, order update, and order paid. The app will listen to these webhooks and send a reminder to the potential buyer via WhatsApp using Twilio if an order is created but not paid within 24 hours.\n\nNote that the Twilio integration will not be your responsibility and your job will end by notifying our endpoint of an abandoned order (24 hours after creation without payment).\n\nAcceptance Criteria\n\nThe app is functional and allows for user/store registration\nThe three webhooks (order creation, order update, order paid) are properly installed and functioning...",
         "author": "mattpatagon",
-        "posted_time": "23 minutes ago",
+        "posted_time": "30 minutes ago",
         "link": "https://replit.com/bounties/@mattpatagon/simple-private-app-f?t="
     },
     {
@@ -3496,7 +3496,7 @@
         "title": "Zappier ChatGPT prototype",
         "description": "Datagran.io is a company specialized in data workflows. We have this idea of creating a new feature which is the zappier.com ChatGPT for data workflows. This bounty is to get help finishing the prototype taking in mind that as a CEO I have other many tasks to accomplish.\n\nAcceptance Criteria\nAnyone who can proove sufficient experience building flask applications.\n\nTechnical Details\nAt this point all the foundations of the projects are laid out. It is a python flask application that uses HTML, CSS and JS. It is already connected to OpenAI and you can write and receive prompts.\nNow we need to create a staged prototype where we will use a SupabaseDB to injest data from and we will send the data as an ouptut to a CSV file. That said the challenge is:\n1) We will only have one option initially where we will injest the data from. Initially it will just be a SupabaseDB. For that we need to create a SupabaseDB as a test Database and make the Chat ask the user for the credent...",
         "author": "mendezcar",
-        "posted_time": "22 minutes ago",
+        "posted_time": "30 minutes ago",
         "link": "https://replit.com/bounties/@mendezcar/zappier-chatgpt-prot?t="
     }
 ]
