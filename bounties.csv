@@ -3042,7 +3042,7 @@ has all the payment logic (to be defined)
 3. create account management system
 frontend
 backend
-ad...",JavierAndre,8 hours ago,https://replit.com/bounties/@JavierAndre/build-a-whatsapp-bus?t=
+ad...",JavierAndre,9 hours ago,https://replit.com/bounties/@JavierAndre/build-a-whatsapp-bus?t=
 362,$20.00,due in 3 days,I think the endpoints in my Spring Boot application are unreachable + some JavaScript issues (Speedy response required),"I'm new to coding. I have built a basic Spring Boot application. For some reason the endpoint URLs are not being reached. I need help with a few things:
 
 Check if my Config file is properly set up for CORS
@@ -3092,7 +3092,7 @@ Acceptance Criteria
     The user completes the Captcha
 Technical Details
     Script will probably need to pickup some id tags from elements on the page to be able  to send the correct API calls.
-Link to Project",proales2,4 hours ago,https://replit.com/bounties/@proales2/js-script-to-replay?t=
+Link to Project",proales2,5 hours ago,https://replit.com/bounties/@proales2/js-script-to-replay?t=
 365,$90.00,due in 21 days,Spotify Friends Artist Matcher,"A Chrome extension/website/MacOS application, that finds friends who have listened to a specific artist/song that you specify (by # of occurrences in their public playlists). Useful to find concert buddies/people with similar music tastes. If can get the song/artist via either tracking if you're on a certain song or artist on Spotify (preferred), or by just manually entering in an artist name. This used to be a feature in Spotify but no longer is.
 
 If it is a webapp, a UI where you just sign in with Spotify and then you enter in an artist name, and then it lists the people from your followers/following, ranked by the number of times they have that artist in their public playlists.
@@ -3132,4 +3132,4 @@ If the filter returns more than 10 strategies, it should order all strategies re
 369,"$1,665.00",due in 1 month,A customized version of ChatGPT for the Communications/PR Industry,"#The last time the PR industry was disrupted was the launch of Microsoft Word. It's a very analog sector, and most of the work products are basic -- but still customized -- pieces of writing: press releases, op-eds, media advisories. ChatGPT can produce drafts of these, but they still aren't specific enough to be useful for an individual or a company. By developing a customized version of ChatGPT -- one which effectively guides the user through inputting the right documents and content -- I hope to build a program automates much of the basic writing in the communications sector.
 
 #A simple interface where non-technical users can input relevant documents (.doc and google doc files) and guidance that will allow the customized version of GPT-3 to output more personalized and relevant writing
-#Ideally, I would also like to explore how a voice-to-text function could be plugged in. For instance, could a file from a service like Otter.ai or Rev.com be used as an input",RyanJacobs9,44 minutes ago,https://replit.com/bounties/@RyanJacobs9/a-customized-version?t=
+#Ideally, I would also like to explore how a voice-to-text function could be plugged in. For instance, could a file from a service like Otter.ai or Rev.com be used as an input",RyanJacobs9,54 minutes ago,https://replit.com/bounties/@RyanJacobs9/a-customized-version?t=
