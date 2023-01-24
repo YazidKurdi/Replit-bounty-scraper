@@ -3596,7 +3596,7 @@
         "title": "Typescript + React: Sample Simple Notes app: Repl Auth -> Simple Form -> ReplitDB -> Show Content",
         "description": "I want to learn React + Typescript - I'm PHP, MySQL, Flask, etc. experienced so want an example app, well documented, that goes through a workflow I'm familiar with.\nYou'll be building a very simple example notes app that  follows the flow of Repl Auth -> Simple Form -> ReplitDB -> Show Content.\n\nAcceptance Criteria\nProject doesn't need to be nicely styled in any way, plain html is totally fine for output.\nRepl Auth must only allow users with certain roles to log in (this should be customisable)\nTwo page website in Typescript and React:\n2.a. Simple Form: Contains Title text field, longer text-box for content, image file uploads button, save button\n2.b. View notes: Shows note thumbnails, when clicked shows the title, text and images as uploaded in full screen. Back button takes you to thumbnails. New button takes your to form 2a.\nData is stored in a ReplDB, images are stored in an uploads/username/noteid folder. Data includes Title, Note text, Image upload urls, time...",
         "author": "DavidAtReplit",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@DavidAtReplit/typescript-react-sam?t="
     },
     {
@@ -3606,7 +3606,7 @@
         "title": "Make my domain work with hostgator",
         "description": "I am trying to get my domain to work with my hostgator hosting but I don't know how to do it.\nAcceptance Criteria\nHelp me finish that so my app and domain both work. Domain is from Name.com",
         "author": "CrownDevelopment",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@CrownDevelopment/make-my-domain-work?t="
     },
     {
@@ -3656,7 +3656,7 @@
         "title": "Spotify Friends Artist Matcher",
         "description": "A Chrome extension/website/MacOS application, that finds friends who have listened to a specific artist/song that you specify (by # of occurrences in their public playlists). Useful to find concert buddies/people with similar music tastes. If can get the song/artist via either tracking if you're on a certain song or artist on Spotify (preferred), or by just manually entering in an artist name. This used to be a feature in Spotify but no longer is.\n\nIf it is a webapp, a UI where you just sign in with Spotify and then you enter in an artist name, and then it lists the people from your followers/following, ranked by the number of times they have that artist in their public playlists.\n\nAcceptance Criteria\nIt will have to work and look aesthetic. For instance, mixmello.com is a good example of the kind of Spotify app aesthetic this should have as a website. I will only accept applications that have linked either a GitHub or some other portfolio/resume. The website will b...",
         "author": "AJGupta",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/spotify-friends-arti?t="
     },
     {
@@ -3686,7 +3686,7 @@
         "title": "Basic backtesting tool",
         "description": "I have an idea for a trading strategy that I\u2019d like to backtest, and would like a Python script to allow me to see how it would have performed.\n\nI have detailed the strategy that I am planning to put live, so that you know what needs to happen during the backtest.\n\nThe site is www.darwinex.com and they have trading products called \u2018Darwins\u2019. Each Darwin has a three letter codename e.g. \u2018THA\u2019.\n\nHere is their API documentation:  https://darwinex.github.io/darwin-api-tutorials/ and https://api.darwinex.com/store/\n\nTo start the trading strategy, the system should filter all of the available \u2018Darwins\u2019 by the following criteria:\n\nMonthly divergence of less than -0.19%\nLoss aversion of more than 6\nD-Score of more than 75\nRisk Stability of more than 7\nCapacity of more than 3\n\nIf the filter returns more than 10 strategies, it should order all strategies returned by the D-score (highest number being the best) and should then buy an even amount of the account balance in the te...",
         "author": "BenSwanson2",
-        "posted_time": "19 minutes ago",
+        "posted_time": "34 minutes ago",
         "link": "https://replit.com/bounties/@BenSwanson2/basic-backtesting-to?t="
     }
 ]

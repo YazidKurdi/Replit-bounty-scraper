@@ -3014,10 +3014,10 @@ Repl Auth must only allow users with certain roles to log in (this should be cus
 Two page website in Typescript and React:
 2.a. Simple Form: Contains Title text field, longer text-box for content, image file uploads button, save button
 2.b. View notes: Shows note thumbnails, when clicked shows the title, text and images as uploaded in full screen. Back button takes you to thumbnails. New button takes your to form 2a.
-Data is stored in a ReplDB, images are stored in an uploads/username/noteid folder. Data includes Title, Note text, Image upload urls, time...",DavidAtReplit,7 hours ago,https://replit.com/bounties/@DavidAtReplit/typescript-react-sam?t=
+Data is stored in a ReplDB, images are stored in an uploads/username/noteid folder. Data includes Title, Note text, Image upload urls, time...",DavidAtReplit,8 hours ago,https://replit.com/bounties/@DavidAtReplit/typescript-react-sam?t=
 360,$0.90,due in 13 days,Make my domain work with hostgator,"I am trying to get my domain to work with my hostgator hosting but I don't know how to do it.
 Acceptance Criteria
-Help me finish that so my app and domain both work. Domain is from Name.com",CrownDevelopment,7 hours ago,https://replit.com/bounties/@CrownDevelopment/make-my-domain-work?t=
+Help me finish that so my app and domain both work. Domain is from Name.com",CrownDevelopment,8 hours ago,https://replit.com/bounties/@CrownDevelopment/make-my-domain-work?t=
 361,$1.35,due in 4 months,Build a WhatsApp Business API Chrome Extension,"# Problem Description
 We have a Chrome extension that works on top of whatsapp web, but want to adapt it to go fully into whatsapp's business API. We will be using their Cloup API solution.
 Check out their documentation here: https://developers.facebook.com/docs/whatsapp/cloud-api/get-started-for-bsps
@@ -3098,7 +3098,7 @@ Link to Project",proales2,3 hours ago,https://replit.com/bounties/@proales2/js-s
 If it is a webapp, a UI where you just sign in with Spotify and then you enter in an artist name, and then it lists the people from your followers/following, ranked by the number of times they have that artist in their public playlists.
 
 Acceptance Criteria
-It will have to work and look aesthetic. For instance, mixmello.com is a good example of the kind of Spotify app aesthetic this should have as a website. I will only accept applications that have linked either a GitHub or some other portfolio/resume. The website will b...",AJGupta,2 hours ago,https://replit.com/bounties/@AJGupta/spotify-friends-arti?t=
+It will have to work and look aesthetic. For instance, mixmello.com is a good example of the kind of Spotify app aesthetic this should have as a website. I will only accept applications that have linked either a GitHub or some other portfolio/resume. The website will b...",AJGupta,3 hours ago,https://replit.com/bounties/@AJGupta/spotify-friends-arti?t=
 366,"$1,800.00",due in 1 month,FineBrand: Wordpress AI,"Users have been writing on their blogs for ever so being able to train the model on long-form content and then generate new posts in their voice is a must have.
 I need a wordpress plugin for creators to be able to have their own, personal, custom AI model, based on GPT-3 series that would give high-quality inspiration in line with their brand voice (as opposed to some of the generic AI writing tools out there) that would:
 1- Select the historical posts with the highest level of engagement in priority. The plugin should show the post we'd used and let the user remove what they don't want but keeping in mind the minimum number we would need to fine tune the model . It should also strip out comments from the posts
@@ -3128,4 +3128,4 @@ D-Score of more than 75
 Risk Stability of more than 7
 Capacity of more than 3
 
-If the filter returns more than 10 strategies, it should order all strategies returned by the D-score (highest number being the best) and should then buy an even amount of the account balance in the te...",BenSwanson2,19 minutes ago,https://replit.com/bounties/@BenSwanson2/basic-backtesting-to?t=
+If the filter returns more than 10 strategies, it should order all strategies returned by the D-score (highest number being the best) and should then buy an even amount of the account balance in the te...",BenSwanson2,34 minutes ago,https://replit.com/bounties/@BenSwanson2/basic-backtesting-to?t=
