@@ -3576,7 +3576,7 @@
         "title": "Simple webapp for e-commerce platform",
         "description": "Problem to be Solved\n\nTiendaNube, a platform similar to Shopify, needs an app that can remind potential buyers to pay for their orders via WhatsApp if they abandon their cart. You can find more information on their APIs at the following link: https://tiendanube.github.io/api-documentation/intro\n\nProposed Solution\n\nCreate a private app for TiendaNube that enables user/store registration and installs three webhooks for the store: order creation, order update, and order paid. The app will listen to these webhooks and send a reminder to the potential buyer via WhatsApp using Twilio if an order is created but not paid within 24 hours.\n\nNote that the Twilio integration will not be your responsibility and your job will end by notifying our endpoint of an abandoned order (24 hours after creation without payment).\n\nAcceptance Criteria\n\nThe app is functional and allows for multi-user/multi-store registration. Don't worry about the UI, it just needs to be functional.\nThe three webhooks (order cre...",
         "author": "mattpatagon",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@mattpatagon/simple-webapp-for-e?t="
     },
     {
@@ -3606,7 +3606,7 @@
         "title": "Make my domain work with hostgator",
         "description": "I am trying to get my domain to work with my hostgator hosting but I don't know how to do it.\nAcceptance Criteria\nHelp me finish that so my app and domain both work. Domain is from Name.com",
         "author": "CrownDevelopment",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@CrownDevelopment/make-my-domain-work?t="
     },
     {
@@ -3626,7 +3626,7 @@
         "title": "I think the endpoints in my Spring Boot application are unreachable + some JavaScript issues (Speedy response required)",
         "description": "I'm new to coding. I have built a basic Spring Boot application. For some reason the endpoint URLs are not being reached. I need help with a few things:\n\nCheck if my Config file is properly set up for CORS\nI have two Controllers but it seems the endpoints are not being reached. This is why I'm wondering if CORS is working.\nI have a JavaScript file which is suppose to fetch certain endpoints in corresponding Controllers, but it doesn't seem to be working. I also need you to check if I have it set up properly. Someone provided part of the JavaScript file and I built upon it but I don't know JavaScript I was just trying to figure it out on my own. There are two HTML files associated, which I will also provide.\n\nOnce the issues are fixed, there are a few things that I will need to test to make sure what you have done is actually working.\n\nAcceptance Criteria\nExperienced (skilled) in Java, JavaScript, HTML.\nTechnical Details\nSee above.\nLink to Project\nWill provide the co...",
         "author": "mdotbaig",
-        "posted_time": "59 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@mdotbaig/i-think-the-endpoint?t="
     },
     {
@@ -3636,7 +3636,17 @@
         "title": "Bug fix - JS and Qualtrics [should take 2 minutes for someone with JS skills, literally just debugging a chatgpt answer]] ",
         "description": "I am having trouble with a Javascript code that I plug into in Qualtrics, a survey tool.\n\nI am using this package:\nhttps://github.com/pkmnct/qualtrics-google-map-lat-long\n\nThe issue is that when I drag the marker, the address does not dynamically update on the survey participant's screen. So, if I first enter my address using the autofill, then drag, the participant may be confused about what the address they are entering is.\n\nCan you help me make the address load automatically?\n\nAcceptance Criteria\n\nProducing JS code that makes the text box auto load dynamically.\n\nTechnical Details\nJS only.\n\nChatGPT's advice\n\nIt recommends augmenting the code with the below. This still doesn't dynamically update for the survey participant's textbox. But gets closer.\n\ninitGoogleMapsQuestion(this.questionId, this.getQuestionContainer(), {\n  // Map Options, set these! See Map Options in Option Documentation Section\n  options: {\n    center: {\n      lat: 35.1457,\n      lng: -89.9883,\n  ...",
         "author": "CharlieRafkin",
-        "posted_time": "11 minutes ago",
+        "posted_time": "22 minutes ago",
         "link": "https://replit.com/bounties/@CharlieRafkin/bug-fix-js-and-qualt?t="
+    },
+    {
+        "index": "364",
+        "price": "$18.00",
+        "due_days": "due in 3 days",
+        "title": "JS script to replay an API call on a page",
+        "description": "Want someone to inspect the network traffic on this page when booking a reservation then figure out how to write a JS script to replay the traffic for a new booking. https://www.spotery.com/site/sfrp\nAcceptance Criteria\n    Final script should be possible to book an appointment at a specified time all by itself after:\n    The page is loaded\n    The user drops the script into the Chrome dev tools console\n    The user completes the Captcha\nTechnical Details\n    Script will probably need to pickup some id tags from elements on the page to be able  to send the correct API calls.\nLink to Project",
+        "author": "proales2",
+        "posted_time": "2 minutes ago",
+        "link": "https://replit.com/bounties/@proales2/js-script-to-replay?t="
     }
 ]
