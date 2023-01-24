@@ -3516,7 +3516,7 @@
         "title": "Set up Google Adsense on Discourse forum",
         "description": "Need someone to help me set up the Discourse Adplugin on my forum, implementing Google Adsense.\n\nMy forum is https://forum.codergautam.dev/\n\nPreferred if the hunter has experience with using the Discourse Ad plugin, and experience with using Google Adsense.",
         "author": "CoderGautamYT",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/set-up-google-ads-on?t="
     },
     {
@@ -3546,7 +3546,7 @@
         "title": "UIgesturerecognizer for CAtextLayer in Swift",
         "description": "I want the user to be able to move different textlayers on the screen and record their position to add them to a  video at that position.\n\nAcceptance Criteria\nExperience with Swift",
         "author": "Lucasden",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@Lucasden/uigesturerecognizer?t="
     },
     {
@@ -3616,7 +3616,7 @@
         "title": "Build a WhatsApp Business API Chrome Extension",
         "description": "# Problem Description\nWe have a Chrome extension that works on top of whatsapp web, but want to adapt it to go fully into whatsapp's business API. We will be using their Cloup API solution.\nCheck out their documentation here: https://developers.facebook.com/docs/whatsapp/cloud-api/get-started-for-bsps\n\nThe frontend needs to be heavily adapted to have a whatsapp client to see messages and be able to respond to them.\nThe backend needs to be built from scratch.\nThe website needs to be heavily adapted to include meta's onboarding process.\n\n# Acceptance Criteria\n1. build whatsapp client\nsee messages\nsend messages\nschedule messages (via templates)\nsee different conversations\ncreate templates, send them for meta's verification, use them to send the messages, etc\nsend attachments\nemojis, font formatting, etc...\nmultiple agents can sign in to it\n2. create a new backend\nconnects with whatsapp's APIs\nhas all the payment logic (to be defined)\n3. create account management system\nfrontend\nbackend\nad...",
         "author": "JavierAndre",
-        "posted_time": "28 minutes ago",
+        "posted_time": "38 minutes ago",
         "link": "https://replit.com/bounties/@JavierAndre/build-a-whatsapp-bus?t="
     }
 ]
