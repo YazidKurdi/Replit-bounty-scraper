@@ -3042,7 +3042,7 @@ has all the payment logic (to be defined)
 3. create account management system
 frontend
 backend
-ad...",JavierAndre,6 hours ago,https://replit.com/bounties/@JavierAndre/build-a-whatsapp-bus?t=
+ad...",JavierAndre,7 hours ago,https://replit.com/bounties/@JavierAndre/build-a-whatsapp-bus?t=
 362,$20.00,due in 3 days,I think the endpoints in my Spring Boot application are unreachable + some JavaScript issues (Speedy response required),"I'm new to coding. I have built a basic Spring Boot application. For some reason the endpoint URLs are not being reached. I need help with a few things:
 
 Check if my Config file is properly set up for CORS
@@ -3092,7 +3092,7 @@ Acceptance Criteria
     The user completes the Captcha
 Technical Details
     Script will probably need to pickup some id tags from elements on the page to be able  to send the correct API calls.
-Link to Project",proales2,2 hours ago,https://replit.com/bounties/@proales2/js-script-to-replay?t=
+Link to Project",proales2,3 hours ago,https://replit.com/bounties/@proales2/js-script-to-replay?t=
 365,$90.00,due in 21 days,Spotify Friends Artist Matcher,"A Chrome extension/website/MacOS application, that finds friends who have listened to a specific artist/song that you specify (by # of occurrences in their public playlists). Useful to find concert buddies/people with similar music tastes. If can get the song/artist via either tracking if you're on a certain song or artist on Spotify (preferred), or by just manually entering in an artist name. This used to be a feature in Spotify but no longer is.
 
 If it is a webapp, a UI where you just sign in with Spotify and then you enter in an artist name, and then it lists the people from your followers/following, ranked by the number of times they have that artist in their public playlists.
@@ -3128,4 +3128,4 @@ D-Score of more than 75
 Risk Stability of more than 7
 Capacity of more than 3
 
-If the filter returns more than 10 strategies, it should order all strategies returned by the D-score (highest number being the best) and should then buy an even amount of the account balance in the te...",BenSwanson2,9 minutes ago,https://replit.com/bounties/@BenSwanson2/basic-backtesting-to?t=
+If the filter returns more than 10 strategies, it should order all strategies returned by the D-score (highest number being the best) and should then buy an even amount of the account balance in the te...",BenSwanson2,19 minutes ago,https://replit.com/bounties/@BenSwanson2/basic-backtesting-to?t=
