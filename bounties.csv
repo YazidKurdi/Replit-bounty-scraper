@@ -2981,7 +2981,7 @@ Must meet requirements and not have any bugs.
 Technical Details
 Chrome extension v3.
 
-Link to Project",ShubhKathuria,6 hours ago,https://replit.com/bounties/@ShubhKathuria/stream-data-from-gpt?t=
+Link to Project",ShubhKathuria,7 hours ago,https://replit.com/bounties/@ShubhKathuria/stream-data-from-gpt?t=
 357,$200.00,due in 5 days,Simple webapp for e-commerce platform,"Problem to be Solved
 
 TiendaNube, a platform similar to Shopify, needs an app that can remind potential buyers to pay for their orders via WhatsApp if they abandon their cart. You can find more information on their APIs at the following link: https://tiendanube.github.io/api-documentation/intro
@@ -3014,10 +3014,10 @@ Repl Auth must only allow users with certain roles to log in (this should be cus
 Two page website in Typescript and React:
 2.a. Simple Form: Contains Title text field, longer text-box for content, image file uploads button, save button
 2.b. View notes: Shows note thumbnails, when clicked shows the title, text and images as uploaded in full screen. Back button takes you to thumbnails. New button takes your to form 2a.
-Data is stored in a ReplDB, images are stored in an uploads/username/noteid folder. Data includes Title, Note text, Image upload urls, time...",DavidAtReplit,1 hour ago,https://replit.com/bounties/@DavidAtReplit/typescript-react-sam?t=
+Data is stored in a ReplDB, images are stored in an uploads/username/noteid folder. Data includes Title, Note text, Image upload urls, time...",DavidAtReplit,2 hours ago,https://replit.com/bounties/@DavidAtReplit/typescript-react-sam?t=
 360,$0.90,due in 13 days,Make my domain work with hostgator,"I am trying to get my domain to work with my hostgator hosting but I don't know how to do it.
 Acceptance Criteria
-Help me finish that so my app and domain both work. Domain is from Name.com",CrownDevelopment,1 hour ago,https://replit.com/bounties/@CrownDevelopment/make-my-domain-work?t=
+Help me finish that so my app and domain both work. Domain is from Name.com",CrownDevelopment,2 hours ago,https://replit.com/bounties/@CrownDevelopment/make-my-domain-work?t=
 361,$1.35,due in 4 months,Build a WhatsApp Business API Chrome Extension,"# Problem Description
 We have a Chrome extension that works on top of whatsapp web, but want to adapt it to go fully into whatsapp's business API. We will be using their Cloup API solution.
 Check out their documentation here: https://developers.facebook.com/docs/whatsapp/cloud-api/get-started-for-bsps
@@ -3042,4 +3042,4 @@ has all the payment logic (to be defined)
 3. create account management system
 frontend
 backend
-ad...",JavierAndre,38 minutes ago,https://replit.com/bounties/@JavierAndre/build-a-whatsapp-bus?t=
+ad...",JavierAndre,56 minutes ago,https://replit.com/bounties/@JavierAndre/build-a-whatsapp-bus?t=
