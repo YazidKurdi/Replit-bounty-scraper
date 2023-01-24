@@ -3626,7 +3626,7 @@
         "title": "I think the endpoints in my Spring Boot application are unreachable + some JavaScript issues (Speedy response required)",
         "description": "I'm new to coding. I have built a basic Spring Boot application. For some reason the endpoint URLs are not being reached. I need help with a few things:\n\nCheck if my Config file is properly set up for CORS\nI have two Controllers but it seems the endpoints are not being reached. This is why I'm wondering if CORS is working.\nI have a JavaScript file which is suppose to fetch certain endpoints in corresponding Controllers, but it doesn't seem to be working. I also need you to check if I have it set up properly. Someone provided part of the JavaScript file and I built upon it but I don't know JavaScript I was just trying to figure it out on my own. There are two HTML files associated, which I will also provide.\n\nOnce the issues are fixed, there are a few things that I will need to test to make sure what you have done is actually working.\n\nAcceptance Criteria\nExperienced (skilled) in Java, JavaScript, HTML.\nTechnical Details\nSee above.\nLink to Project\nWill provide the co...",
         "author": "mdotbaig",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/i-think-the-endpoint?t="
     },
     {
@@ -3686,7 +3686,7 @@
         "title": "Basic backtesting tool",
         "description": "I have an idea for a trading strategy that I\u2019d like to backtest, and would like a Python script to allow me to see how it would have performed.\n\nI have detailed the strategy that I am planning to put live, so that you know what needs to happen during the backtest.\n\nThe site is www.darwinex.com and they have trading products called \u2018Darwins\u2019. Each Darwin has a three letter codename e.g. \u2018THA\u2019.\n\nHere is their API documentation:  https://darwinex.github.io/darwin-api-tutorials/ and https://api.darwinex.com/store/\n\nTo start the trading strategy, the system should filter all of the available \u2018Darwins\u2019 by the following criteria:\n\nMonthly divergence of less than -0.19%\nLoss aversion of more than 6\nD-Score of more than 75\nRisk Stability of more than 7\nCapacity of more than 3\n\nIf the filter returns more than 10 strategies, it should order all strategies returned by the D-score (highest number being the best) and should then buy an even amount of the account balance in the te...",
         "author": "BenSwanson2",
-        "posted_time": "1 minute ago",
+        "posted_time": "9 minutes ago",
         "link": "https://replit.com/bounties/@BenSwanson2/basic-backtesting-to?t="
     }
 ]
