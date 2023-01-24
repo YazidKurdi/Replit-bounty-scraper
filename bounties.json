@@ -3456,7 +3456,7 @@
         "title": "Create simple interface that loads files into ChatGPT Fine-tuning",
         "description": "I want to use ChatGPT to generate responses that honour specific formats and language based on my industry. To do this I want to fine-tune the model on my own dataset that specifies possible response formats. The Problem is that the fine-tuning function as is requires coding knowledge (I do not have).  The solution should look like a simple interface where I can select a file (JSON) from my desktop and it will load into the fine-tuning dataset for my openAI account.\n\nThe acceptance criteria is:\nthat I am able to select the file and add it to the dataset by clicking buttons (upload, add, confirm) rather than via coding. (I am able to install and run scripts but I can't code)\nI am able to generate ChatGPT completions that honour or apply the dataset in the fine-tuning model",
         "author": "Populista",
-        "posted_time": "23 hours ago",
+        "posted_time": "24 hours ago",
         "link": "https://replit.com/bounties/@Populista/create-simple-interf?t="
     },
     {
@@ -3516,7 +3516,7 @@
         "title": "Set up Google Adsense on Discourse forum",
         "description": "Need someone to help me set up the Discourse Adplugin on my forum, implementing Google Adsense.\n\nMy forum is https://forum.codergautam.dev/\n\nPreferred if the hunter has experience with using the Discourse Ad plugin, and experience with using Google Adsense.",
         "author": "CoderGautamYT",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/set-up-google-ads-on?t="
     },
     {
@@ -3546,7 +3546,7 @@
         "title": "UIgesturerecognizer for CAtextLayer in Swift",
         "description": "I want the user to be able to move different textlayers on the screen and record their position to add them to a  video at that position.\n\nAcceptance Criteria\nExperience with Swift",
         "author": "Lucasden",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@Lucasden/uigesturerecognizer?t="
     },
     {
