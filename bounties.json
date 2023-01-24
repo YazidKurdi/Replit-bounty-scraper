@@ -3466,7 +3466,7 @@
         "title": "Make chat messages appear on other users screen in node.js",
         "description": "I have an already somewhat responsive chat site where I used HTML, CSS, and jQuery. I have a system so that when you send a message, it'll appear in the chatbox, but it won't show on other devices. I'm using the node.js framework.\n\nAcceptance Criteria:\nWhen a message is sent, have it appear with the username on other devices.\nUse node.js.",
         "author": "Ajh499",
-        "posted_time": "22 hours ago",
+        "posted_time": "23 hours ago",
         "link": "https://replit.com/bounties/@Ajh499/make-chat-messages-a?t="
     },
     {
@@ -3516,7 +3516,7 @@
         "title": "Set up Google Adsense on Discourse forum",
         "description": "Need someone to help me set up the Discourse Adplugin on my forum, implementing Google Adsense.\n\nMy forum is https://forum.codergautam.dev/\n\nPreferred if the hunter has experience with using the Discourse Ad plugin, and experience with using Google Adsense.",
         "author": "CoderGautamYT",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/set-up-google-ads-on?t="
     },
     {
@@ -3566,7 +3566,7 @@
         "title": "Stream data from GPT API and inject into Gmail (chrome extension)",
         "description": "We've built a chrome extension that uses GPT to write emails for you. Steps:\nGo to gmail's draft window.\nType some context that acts as prompt.\nClick the extension button.\nThe response is fetched from the API and injected into Gmail's DOM.\n\nInstead of the response being pasted all at once, we want the email to be typed as it's being generated, letter by letter. Basically, stream the response from the API.\n\nAcceptance Criteria\nMust meet requirements and not have any bugs.\n\nTechnical Details\nChrome extension v3.\n\nLink to Project",
         "author": "ShubhKathuria",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@ShubhKathuria/stream-data-from-gpt?t="
     }
 ]
