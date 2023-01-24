@@ -2995,7 +2995,7 @@ Note that the Twilio integration will not be your responsibility and your job wi
 Acceptance Criteria
 
 The app is functional and allows for multi-user/multi-store registration. Don't worry about the UI, it just needs to be functional.
-The three webhooks (order cre...",mattpatagon,21 minutes ago,https://replit.com/bounties/@mattpatagon/simple-webapp-for-e?t=
+The three webhooks (order cre...",mattpatagon,35 minutes ago,https://replit.com/bounties/@mattpatagon/simple-webapp-for-e?t=
 358,$27.00,due in 3 days,Scrape NBA 2022-23 games to get first basket data,"Hi,
 
 I am looking for an expert scraper to scrape first basket data from the NBA this season.
@@ -3004,4 +3004,14 @@ Essentially, I would be looking to replicate something like this: https://firstb
 
 It would be necessary for the scraper to update with the new games everyday.
 
-Reach out if you have any questions.",YouReachITeach4,18 minutes ago,https://replit.com/bounties/@YouReachITeach4/scrape-nba-2022-23-g?t=
+Reach out if you have any questions.",YouReachITeach4,33 minutes ago,https://replit.com/bounties/@YouReachITeach4/scrape-nba-2022-23-g?t=
+359,$46.15,due in 5 days,Typescript + React: Sample Simple Notes app: Repl Auth -> Simple Form -> ReplitDB -> Show Content,"I want to learn React + Typescript - I'm PHP, MySQL, Flask, etc. experienced so want an example app, well documented, that goes through a workflow I'm familiar with.
+You'll be building a very simple example notes app that  follows the flow of Repl Auth -> Simple Form -> ReplitDB -> Show Content.
+
+Acceptance Criteria
+Project doesn't need to be nicely styled in any way, plain html is totally fine for output.
+Repl Auth must only allow users with certain roles to log in (this should be customisable)
+Two page website in Typescript and React:
+2.a. Simple Form: Contains Title text field, longer text-box for content, image file uploads button, save button
+2.b. View notes: Shows note thumbnails, when clicked shows the title, text and images as uploaded in full screen. Back button takes you to thumbnails. New button takes your to form 2a.
+Data is stored in a ReplDB, images are stored in an uploads/username/noteid folder. Data includes Title, Note text, Image upload urls, time...",DavidAtReplit,1 second ago,https://replit.com/bounties/@DavidAtReplit/typescript-react-sam?t=
