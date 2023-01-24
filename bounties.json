@@ -3546,7 +3546,7 @@
         "title": "UIgesturerecognizer for CAtextLayer in Swift",
         "description": "I want the user to be able to move different textlayers on the screen and record their position to add them to a  video at that position.\n\nAcceptance Criteria\nExperience with Swift",
         "author": "Lucasden",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@Lucasden/uigesturerecognizer?t="
     },
     {
@@ -3616,7 +3616,7 @@
         "title": "Build a WhatsApp Business API Chrome Extension",
         "description": "# Problem Description\nWe have a Chrome extension that works on top of whatsapp web, but want to adapt it to go fully into whatsapp's business API. We will be using their Cloup API solution.\nCheck out their documentation here: https://developers.facebook.com/docs/whatsapp/cloud-api/get-started-for-bsps\n\nThe frontend needs to be heavily adapted to have a whatsapp client to see messages and be able to respond to them.\nThe backend needs to be built from scratch.\nThe website needs to be heavily adapted to include meta's onboarding process.\n\n# Acceptance Criteria\n1. build whatsapp client\nsee messages\nsend messages\nschedule messages (via templates)\nsee different conversations\ncreate templates, send them for meta's verification, use them to send the messages, etc\nsend attachments\nemojis, font formatting, etc...\nmultiple agents can sign in to it\n2. create a new backend\nconnects with whatsapp's APIs\nhas all the payment logic (to be defined)\n3. create account management system\nfrontend\nbackend\nad...",
         "author": "JavierAndre",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@JavierAndre/build-a-whatsapp-bus?t="
     },
     {
@@ -3626,7 +3626,7 @@
         "title": "I think the endpoints in my Spring Boot application are unreachable + some JavaScript issues (Speedy response required)",
         "description": "I'm new to coding. I have built a basic Spring Boot application. For some reason the endpoint URLs are not being reached. I need help with a few things:\n\nCheck if my Config file is properly set up for CORS\nI have two Controllers but it seems the endpoints are not being reached. This is why I'm wondering if CORS is working.\nI have a JavaScript file which is suppose to fetch certain endpoints in corresponding Controllers, but it doesn't seem to be working. I also need you to check if I have it set up properly. Someone provided part of the JavaScript file and I built upon it but I don't know JavaScript I was just trying to figure it out on my own. There are two HTML files associated, which I will also provide.\n\nOnce the issues are fixed, there are a few things that I will need to test to make sure what you have done is actually working.\n\nAcceptance Criteria\nExperienced (skilled) in Java, JavaScript, HTML.\nTechnical Details\nSee above.\nLink to Project\nWill provide the co...",
         "author": "mdotbaig",
-        "posted_time": "35 minutes ago",
+        "posted_time": "44 minutes ago",
         "link": "https://replit.com/bounties/@mdotbaig/i-think-the-endpoint?t="
     }
 ]
