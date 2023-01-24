@@ -2936,7 +2936,7 @@ Some keyboard accessibility is nice, but not a requirement
 
 Link to Project
 
-https://tamagui.dev/",MarcusWood1,8 hours ago,https://replit.com/bounties/@MarcusWood1/build-a-universal-ac?t=
+https://tamagui.dev/",MarcusWood1,9 hours ago,https://replit.com/bounties/@MarcusWood1/build-a-universal-ac?t=
 353,$90.00,due in 4 days,Map address to submarkets,"You are given addresses in a CSV file and you need to write Python code to add a new column called ""Submarket"" that indicates which submarket the address belongs to. In order to do so, you will need to create the boundaries for each submarket based on Google Maps screenshot (please see the link below) of the submarket and apply the rules to map the address to the submarket.
 
 Detailed instructions are here: https://docs.google.com/document/d/1uecSbWx1euNgLPt52Y26ct8MdNAZnivh3C0sedmUE/edit
@@ -3017,7 +3017,7 @@ Two page website in Typescript and React:
 Data is stored in a ReplDB, images are stored in an uploads/username/noteid folder. Data includes Title, Note text, Image upload urls, time...",DavidAtReplit,1 hour ago,https://replit.com/bounties/@DavidAtReplit/typescript-react-sam?t=
 360,$0.90,due in 13 days,Make my domain work with hostgator,"I am trying to get my domain to work with my hostgator hosting but I don't know how to do it.
 Acceptance Criteria
-Help me finish that so my app and domain both work. Domain is from Name.com",CrownDevelopment,47 minutes ago,https://replit.com/bounties/@CrownDevelopment/make-my-domain-work?t=
+Help me finish that so my app and domain both work. Domain is from Name.com",CrownDevelopment,56 minutes ago,https://replit.com/bounties/@CrownDevelopment/make-my-domain-work?t=
 361,$1.35,due in 4 months,Build a WhatsApp Business API Chrome Extension,"# Problem Description
 We have a Chrome extension that works on top of whatsapp web, but want to adapt it to go fully into whatsapp's business API. We will be using their Cloup API solution.
 Check out their documentation here: https://developers.facebook.com/docs/whatsapp/cloud-api/get-started-for-bsps
@@ -3042,4 +3042,4 @@ has all the payment logic (to be defined)
 3. create account management system
 frontend
 backend
-ad...",JavierAndre,10 minutes ago,https://replit.com/bounties/@JavierAndre/build-a-whatsapp-bus?t=
+ad...",JavierAndre,18 minutes ago,https://replit.com/bounties/@JavierAndre/build-a-whatsapp-bus?t=

@@ -3526,7 +3526,7 @@
         "title": "Build a Universal Accordion Component in Tamagui",
         "description": "We're using Tamagui for building a web application. We need an accordion component that will work both in react native and web. The open source repo has one started.\n\nAcceptance Criteria\n\nAccordion component works just like https://chakra-ui.com/docs/components/accordion/usage\nComponent signature should be consistent with the rest of Tamagui's components\nDelivered as either a tamagui starter repo with the component or a PR to their open source repo\n\nTechnical Details\n\nIt has to work on both web and react native using the same code\nSome keyboard accessibility is nice, but not a requirement\n\nLink to Project\n\nhttps://tamagui.dev/",
         "author": "MarcusWood1",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@MarcusWood1/build-a-universal-ac?t="
     },
     {
@@ -3606,7 +3606,7 @@
         "title": "Make my domain work with hostgator",
         "description": "I am trying to get my domain to work with my hostgator hosting but I don't know how to do it.\nAcceptance Criteria\nHelp me finish that so my app and domain both work. Domain is from Name.com",
         "author": "CrownDevelopment",
-        "posted_time": "47 minutes ago",
+        "posted_time": "56 minutes ago",
         "link": "https://replit.com/bounties/@CrownDevelopment/make-my-domain-work?t="
     },
     {
@@ -3616,7 +3616,7 @@
         "title": "Build a WhatsApp Business API Chrome Extension",
         "description": "# Problem Description\nWe have a Chrome extension that works on top of whatsapp web, but want to adapt it to go fully into whatsapp's business API. We will be using their Cloup API solution.\nCheck out their documentation here: https://developers.facebook.com/docs/whatsapp/cloud-api/get-started-for-bsps\n\nThe frontend needs to be heavily adapted to have a whatsapp client to see messages and be able to respond to them.\nThe backend needs to be built from scratch.\nThe website needs to be heavily adapted to include meta's onboarding process.\n\n# Acceptance Criteria\n1. build whatsapp client\nsee messages\nsend messages\nschedule messages (via templates)\nsee different conversations\ncreate templates, send them for meta's verification, use them to send the messages, etc\nsend attachments\nemojis, font formatting, etc...\nmultiple agents can sign in to it\n2. create a new backend\nconnects with whatsapp's APIs\nhas all the payment logic (to be defined)\n3. create account management system\nfrontend\nbackend\nad...",
         "author": "JavierAndre",
-        "posted_time": "10 minutes ago",
+        "posted_time": "18 minutes ago",
         "link": "https://replit.com/bounties/@JavierAndre/build-a-whatsapp-bus?t="
     }
 ]
