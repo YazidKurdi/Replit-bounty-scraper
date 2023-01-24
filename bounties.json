@@ -3516,7 +3516,7 @@
         "title": "Set up Google Adsense on Discourse forum",
         "description": "Need someone to help me set up the Discourse Adplugin on my forum, implementing Google Adsense.\n\nMy forum is https://forum.codergautam.dev/\n\nPreferred if the hunter has experience with using the Discourse Ad plugin, and experience with using Google Adsense.",
         "author": "CoderGautamYT",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/set-up-google-ads-on?t="
     },
     {
@@ -3546,7 +3546,7 @@
         "title": "UIgesturerecognizer for CAtextLayer in Swift",
         "description": "I want the user to be able to move different textlayers on the screen and record their position to add them to a  video at that position.\n\nAcceptance Criteria\nExperience with Swift",
         "author": "Lucasden",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@Lucasden/uigesturerecognizer?t="
     },
     {
@@ -3568,5 +3568,25 @@
         "author": "ShubhKathuria",
         "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@ShubhKathuria/stream-data-from-gpt?t="
+    },
+    {
+        "index": "357",
+        "price": "$200.00",
+        "due_days": "due in 6 days",
+        "title": "Simple webapp for e-commerce platform",
+        "description": "Problem to be Solved\n\nTiendaNube, a platform similar to Shopify, needs an app that can remind potential buyers to pay for their orders via WhatsApp if they abandon their cart. You can find more information on their APIs at the following link: https://tiendanube.github.io/api-documentation/intro\n\nProposed Solution\n\nCreate a private app for TiendaNube that enables user/store registration and installs three webhooks for the store: order creation, order update, and order paid. The app will listen to these webhooks and send a reminder to the potential buyer via WhatsApp using Twilio if an order is created but not paid within 24 hours.\n\nNote that the Twilio integration will not be your responsibility and your job will end by notifying our endpoint of an abandoned order (24 hours after creation without payment).\n\nAcceptance Criteria\n\nThe app is functional and allows for multi-user/multi-store registration. Don't worry about the UI, it just needs to be functional.\nThe three webhooks (order cre...",
+        "author": "mattpatagon",
+        "posted_time": "5 minutes ago",
+        "link": "https://replit.com/bounties/@mattpatagon/simple-webapp-for-e?t="
+    },
+    {
+        "index": "358",
+        "price": "$27.00",
+        "due_days": "due in 3 days",
+        "title": "Scrape NBA 2022-23 games to get first basket data",
+        "description": "Hi,\n\nI am looking for an expert scraper to scrape first basket data from the NBA this season.\n\nEssentially, I would be looking to replicate something like this: https://firstbasketstats.com/. All the data you would need to do this can be found on ESPN when you go to the play-by-play (link to an example: https://www.espn.com/nba/playbyplay/_/gameId/401468861).\n\nIt would be necessary for the scraper to update with the new games everyday.\n\nReach out if you have any questions.",
+        "author": "YouReachITeach4",
+        "posted_time": "2 minutes ago",
+        "link": "https://replit.com/bounties/@YouReachITeach4/scrape-nba-2022-23-g?t="
     }
 ]
