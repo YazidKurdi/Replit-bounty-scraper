@@ -3436,7 +3436,7 @@
         "title": "The Next VIRAL Post to get on Trending",
         "description": "Hey there Bounty Hunters! I want you to create an idea for, and also program, the next viral post to get on Trending! The competition is fierce so good luck!\n\nAcceptance Criteria:\nMust be reasonable, not trolling. (I will accept stupid, but only if it is a funny stupid.)\nIf it doesn't actually end up on Trending, that's fine. It does not need to get on Trending for me to accept it.",
         "author": "d31337",
-        "posted_time": "23 hours ago",
+        "posted_time": "24 hours ago",
         "link": "https://replit.com/bounties/@d31337/the-next-viral-post?t="
     },
     {
@@ -3476,7 +3476,7 @@
         "title": "Create a python library to log all Request activities",
         "description": "I would like to get all the API calls and responses going through my python application.\n\nAcceptance Criteria\nI need to log all API requests made in a python application and to send those requests to another server I'm logging these requests.\nThe solution should happen automatically to all API calls, and not something a developer needs to add to each call.\nAll request types are captured: GET, POST, DELETE, UPDATE, etc.\nThe request and response data is captured\nBoth the request and response data is sent to another server for logging\n\nTechnical Details\nWorks on python 2 and 3\nWorks with the Requests library built into python",
         "author": "AhmadSadeddin1",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@AhmadSadeddin1/create-a-python-libr?t="
     },
     {
