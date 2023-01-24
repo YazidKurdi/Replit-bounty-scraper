@@ -3083,7 +3083,7 @@ initGoogleMapsQuestion(this.questionId, this.getQuestionContainer(), {
     center: {
       lat: 35.1457,
       lng: -89.9883,
-  ...",CharlieRafkin,3 hours ago,https://replit.com/bounties/@CharlieRafkin/bug-fix-js-and-qualt?t=
+  ...",CharlieRafkin,4 hours ago,https://replit.com/bounties/@CharlieRafkin/bug-fix-js-and-qualt?t=
 364,$18.00,due in 3 days,JS script to replay an API call on a page,"Want someone to inspect the network traffic on this page when booking a reservation then figure out how to write a JS script to replay the traffic for a new booking. https://www.spotery.com/site/sfrp
 Acceptance Criteria
     Final script should be possible to book an appointment at a specified time all by itself after:
@@ -3111,7 +3111,7 @@ I need a wordpress plugin for creators to be able to have their own, personal, c
 To see the iOS version of this bounty, see https://replit.com/bounties/@AJGupta/background-blink-tra?t= .
 
 Acceptance Criteria
-An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",AJGupta,2 hours ago,https://replit.com/bounties/@AJGupta/android-background-b?t=
+An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",AJGupta,3 hours ago,https://replit.com/bounties/@AJGupta/android-background-b?t=
 368,$18.00,due in 3 days,Basic backtesting tool,"I have an idea for a trading strategy that I’d like to backtest, and would like a Python script to allow me to see how it would have performed.
 
 I have detailed the strategy that I am planning to put live, so that you know what needs to happen during the backtest.
@@ -3128,4 +3128,4 @@ D-Score of more than 75
 Risk Stability of more than 7
 Capacity of more than 3
 
-If the filter returns more than 10 strategies, it should order all strategies returned by the D-score (highest number being the best) and should then buy an even amount of the account balance in the te...",BenSwanson2,50 minutes ago,https://replit.com/bounties/@BenSwanson2/basic-backtesting-to?t=
+If the filter returns more than 10 strategies, it should order all strategies returned by the D-score (highest number being the best) and should then buy an even amount of the account balance in the te...",BenSwanson2,59 minutes ago,https://replit.com/bounties/@BenSwanson2/basic-backtesting-to?t=
