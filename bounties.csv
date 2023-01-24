@@ -3056,7 +3056,7 @@ Experienced (skilled) in Java, JavaScript, HTML.
 Technical Details
 See above.
 Link to Project
-Will provide the co...",mdotbaig,1 hour ago,https://replit.com/bounties/@mdotbaig/i-think-the-endpoint?t=
+Will provide the co...",mdotbaig,2 hours ago,https://replit.com/bounties/@mdotbaig/i-think-the-endpoint?t=
 363,$27.00,due in 3 days,"Bug fix - JS and Qualtrics [should take 2 minutes for someone with JS skills, literally just debugging a chatgpt answer]] ","I am having trouble with a Javascript code that I plug into in Qualtrics, a survey tool.
 
 I am using this package:
@@ -3083,7 +3083,7 @@ initGoogleMapsQuestion(this.questionId, this.getQuestionContainer(), {
     center: {
       lat: 35.1457,
       lng: -89.9883,
-  ...",CharlieRafkin,37 minutes ago,https://replit.com/bounties/@CharlieRafkin/bug-fix-js-and-qualt?t=
+  ...",CharlieRafkin,47 minutes ago,https://replit.com/bounties/@CharlieRafkin/bug-fix-js-and-qualt?t=
 364,$18.00,due in 3 days,JS script to replay an API call on a page,"Want someone to inspect the network traffic on this page when booking a reservation then figure out how to write a JS script to replay the traffic for a new booking. https://www.spotery.com/site/sfrp
 Acceptance Criteria
     Final script should be possible to book an appointment at a specified time all by itself after:
@@ -3092,4 +3092,10 @@ Acceptance Criteria
     The user completes the Captcha
 Technical Details
     Script will probably need to pickup some id tags from elements on the page to be able  to send the correct API calls.
-Link to Project",proales2,16 minutes ago,https://replit.com/bounties/@proales2/js-script-to-replay?t=
+Link to Project",proales2,26 minutes ago,https://replit.com/bounties/@proales2/js-script-to-replay?t=
+365,$90.00,due in 21 days,Spotify Friends Artist Matcher,"A Chrome extension/website/MacOS application, that finds friends who have listened to a specific artist/song that you specify (by # of occurrences in their public playlists). Useful to find concert buddies/people with similar music tastes. If can get the song/artist via either tracking if you're on a certain song or artist on Spotify (preferred), or by just manually entering in an artist name. This used to be a feature in Spotify but no longer is.
+
+If it is a webapp, a UI where you just sign in with Spotify and then you enter in an artist name, and then it lists the people from your followers/following, ranked by the number of times they have that artist in their public playlists.
+
+Acceptance Criteria
+It will have to work and look aesthetic. For instance, mixmello.com is a good example of the kind of Spotify app aesthetic this should have as a website. I will only accept applications that have linked either a GitHub or some other portfolio/resume. The website will b...",AJGupta,6 minutes ago,https://replit.com/bounties/@AJGupta/spotify-friends-arti?t=
