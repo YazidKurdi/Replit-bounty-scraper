@@ -3466,7 +3466,7 @@
         "title": "Make chat messages appear on other users screen in node.js",
         "description": "I have an already somewhat responsive chat site where I used HTML, CSS, and jQuery. I have a system so that when you send a message, it'll appear in the chatbox, but it won't show on other devices. I'm using the node.js framework.\n\nAcceptance Criteria:\nWhen a message is sent, have it appear with the username on other devices.\nUse node.js.",
         "author": "Ajh499",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@Ajh499/make-chat-messages-a?t="
     },
     {
