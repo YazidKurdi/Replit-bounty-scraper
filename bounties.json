@@ -3576,7 +3576,7 @@
         "title": "Simple webapp for e-commerce platform",
         "description": "Problem to be Solved\n\nTiendaNube, a platform similar to Shopify, needs an app that can remind potential buyers to pay for their orders via WhatsApp if they abandon their cart. You can find more information on their APIs at the following link: https://tiendanube.github.io/api-documentation/intro\n\nProposed Solution\n\nCreate a private app for TiendaNube that enables user/store registration and installs three webhooks for the store: order creation, order update, and order paid. The app will listen to these webhooks and send a reminder to the potential buyer via WhatsApp using Twilio if an order is created but not paid within 24 hours.\n\nNote that the Twilio integration will not be your responsibility and your job will end by notifying our endpoint of an abandoned order (24 hours after creation without payment).\n\nAcceptance Criteria\n\nThe app is functional and allows for multi-user/multi-store registration. Don't worry about the UI, it just needs to be functional.\nThe three webhooks (order cre...",
         "author": "mattpatagon",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@mattpatagon/simple-webapp-for-e?t="
     },
     {
@@ -3586,7 +3586,7 @@
         "title": "Scrape NBA 2022-23 games to get first basket data",
         "description": "Hi,\n\nI am looking for an expert scraper to scrape first basket data from the NBA this season.\n\nEssentially, I would be looking to replicate something like this: https://firstbasketstats.com/. All the data you would need to do this can be found on ESPN when you go to the play-by-play (link to an example: https://www.espn.com/nba/playbyplay/_/gameId/401468861).\n\nIt would be necessary for the scraper to update with the new games everyday.\n\nReach out if you have any questions.",
         "author": "YouReachITeach4",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@YouReachITeach4/scrape-nba-2022-23-g?t="
     },
     {
@@ -3596,7 +3596,7 @@
         "title": "Typescript + React: Sample Simple Notes app: Repl Auth -> Simple Form -> ReplitDB -> Show Content",
         "description": "I want to learn React + Typescript - I'm PHP, MySQL, Flask, etc. experienced so want an example app, well documented, that goes through a workflow I'm familiar with.\nYou'll be building a very simple example notes app that  follows the flow of Repl Auth -> Simple Form -> ReplitDB -> Show Content.\n\nAcceptance Criteria\nProject doesn't need to be nicely styled in any way, plain html is totally fine for output.\nRepl Auth must only allow users with certain roles to log in (this should be customisable)\nTwo page website in Typescript and React:\n2.a. Simple Form: Contains Title text field, longer text-box for content, image file uploads button, save button\n2.b. View notes: Shows note thumbnails, when clicked shows the title, text and images as uploaded in full screen. Back button takes you to thumbnails. New button takes your to form 2a.\nData is stored in a ReplDB, images are stored in an uploads/username/noteid folder. Data includes Title, Note text, Image upload urls, time...",
         "author": "DavidAtReplit",
-        "posted_time": "46 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@DavidAtReplit/typescript-react-sam?t="
     },
     {
@@ -3606,7 +3606,17 @@
         "title": "Make my domain work with hostgator",
         "description": "I am trying to get my domain to work with my hostgator hosting but I don't know how to do it.\nAcceptance Criteria\nHelp me finish that so my app and domain both work. Domain is from Name.com",
         "author": "CrownDevelopment",
-        "posted_time": "31 minutes ago",
+        "posted_time": "47 minutes ago",
         "link": "https://replit.com/bounties/@CrownDevelopment/make-my-domain-work?t="
+    },
+    {
+        "index": "361",
+        "price": "$1.35",
+        "due_days": "due in 4 months",
+        "title": "Build a WhatsApp Business API Chrome Extension",
+        "description": "# Problem Description\nWe have a Chrome extension that works on top of whatsapp web, but want to adapt it to go fully into whatsapp's business API. We will be using their Cloup API solution.\nCheck out their documentation here: https://developers.facebook.com/docs/whatsapp/cloud-api/get-started-for-bsps\n\nThe frontend needs to be heavily adapted to have a whatsapp client to see messages and be able to respond to them.\nThe backend needs to be built from scratch.\nThe website needs to be heavily adapted to include meta's onboarding process.\n\n# Acceptance Criteria\n1. build whatsapp client\nsee messages\nsend messages\nschedule messages (via templates)\nsee different conversations\ncreate templates, send them for meta's verification, use them to send the messages, etc\nsend attachments\nemojis, font formatting, etc...\nmultiple agents can sign in to it\n2. create a new backend\nconnects with whatsapp's APIs\nhas all the payment logic (to be defined)\n3. create account management system\nfrontend\nbackend\nad...",
+        "author": "JavierAndre",
+        "posted_time": "10 minutes ago",
+        "link": "https://replit.com/bounties/@JavierAndre/build-a-whatsapp-bus?t="
     }
 ]
