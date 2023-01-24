@@ -2872,7 +2872,7 @@ I'll offer $10 to anyone who can fix my issue",sevaus,1 day ago,https://replit.c
 
 The acceptance criteria is:
 that I am able to select the file and add it to the dataset by clicking buttons (upload, add, confirm) rather than via coding. (I am able to install and run scripts but I can't code)
-I am able to generate ChatGPT completions that honour or apply the dataset in the fine-tuning model",Populista,21 hours ago,https://replit.com/bounties/@Populista/create-simple-interf?t=
+I am able to generate ChatGPT completions that honour or apply the dataset in the fine-tuning model",Populista,22 hours ago,https://replit.com/bounties/@Populista/create-simple-interf?t=
 346,$9.00,closed,Make chat messages appear on other users screen in node.js,"I have an already somewhat responsive chat site where I used HTML, CSS, and jQuery. I have a system so that when you send a message, it'll appear in the chatbox, but it won't show on other devices. I'm using the node.js framework.
 
 Acceptance Criteria:
@@ -2920,7 +2920,7 @@ Help me make it work.",CrownDevelopment,2 hours ago,https://replit.com/bounties/
 
 My forum is https://forum.codergautam.dev/
 
-Preferred if the hunter has experience with using the Discourse Ad plugin, and experience with using Google Adsense.",CoderGautamYT,13 hours ago,https://replit.com/bounties/@CoderGautamYT/set-up-google-ads-on?t=
+Preferred if the hunter has experience with using the Discourse Ad plugin, and experience with using Google Adsense.",CoderGautamYT,14 hours ago,https://replit.com/bounties/@CoderGautamYT/set-up-google-ads-on?t=
 352,$90.00,due in 4 days,Build a Universal Accordion Component in Tamagui,"We're using Tamagui for building a web application. We need an accordion component that will work both in react native and web. The open source repo has one started.
 
 Acceptance Criteria
@@ -2953,7 +2953,7 @@ https://docs.google.c...",BrianSu5,22 minutes ago,https://replit.com/bounties/@B
 354,$90.00,due in 4 days,UIgesturerecognizer for CAtextLayer in Swift,"I want the user to be able to move different textlayers on the screen and record their position to add them to a  video at that position.
 
 Acceptance Criteria
-Experience with Swift",Lucasden,26 minutes ago,https://replit.com/bounties/@Lucasden/uigesturerecognizer?t=
+Experience with Swift",Lucasden,36 minutes ago,https://replit.com/bounties/@Lucasden/uigesturerecognizer?t=
 355,$90.00,due in 4 days,Map address to submarkets,"You are given addresses in a CSV file and you need to write Python code to add a new column called ""Submarket"" that indicates which submarket the address belongs to. In order to do so, you will need to create the boundaries for each submarket based on Google Maps screenshot (please see the link below) of the submarket and apply the rules to map the address to the submarket.
 
 Detailed instructions are here: https://docs.google.com/document/d/1uecSbWx1euNgLPt52Y26ct8MdNAZnivh3C0sedmUE/edit
@@ -2966,7 +2966,7 @@ Technical Details
 Python code only. May need to use GeoJSON tools and Google Maps API to get lat long of address to check for inclusion in the submarket boundary.
 
 Link to Project
-https://docs.google.c...",bsuper,32 minutes ago,https://replit.com/bounties/@bsuper/map-address-to-subma?t=
+https://docs.google.c...",bsuper,42 minutes ago,https://replit.com/bounties/@bsuper/map-address-to-subma?t=
 356,$22.50,due in 6 days,Stream data from GPT API and inject into Gmail (chrome extension),"We've built a chrome extension that uses GPT to write emails for you. Steps:
 Go to gmail's draft window.
 Type some context that acts as prompt.
@@ -2981,4 +2981,4 @@ Must meet requirements and not have any bugs.
 Technical Details
 Chrome extension v3.
 
-Link to Project",ShubhKathuria,9 minutes ago,https://replit.com/bounties/@ShubhKathuria/stream-data-from-gpt?t=
+Link to Project",ShubhKathuria,19 minutes ago,https://replit.com/bounties/@ShubhKathuria/stream-data-from-gpt?t=
