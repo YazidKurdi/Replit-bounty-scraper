@@ -2903,7 +2903,7 @@ Note that the Twilio integration will not be your responsibility and your job wi
 Acceptance Criteria
 
 The app is functional and allows for user/store registration
-The three webhooks (order creation, order update, order paid) are properly installed and functioning...",mattpatagon,19 hours ago,https://replit.com/bounties/@mattpatagon/simple-private-app-f?t=
+The three webhooks (order creation, order update, order paid) are properly installed and functioning...",mattpatagon,20 hours ago,https://replit.com/bounties/@mattpatagon/simple-private-app-f?t=
 349,$450.00,due in 8 days,Zappier ChatGPT prototype,"Datagran.io is a company specialized in data workflows. We have this idea of creating a new feature which is the zappier.com ChatGPT for data workflows. This bounty is to get help finishing the prototype taking in mind that as a CEO I have other many tasks to accomplish.
 
 Acceptance Criteria
@@ -2912,7 +2912,7 @@ Anyone who can proove sufficient experience building flask applications.
 Technical Details
 At this point all the foundations of the projects are laid out. It is a python flask application that uses HTML, CSS and JS. It is already connected to OpenAI and you can write and receive prompts.
 Now we need to create a staged prototype where we will use a SupabaseDB to injest data from and we will send the data as an ouptut to a CSV file. That said the challenge is:
-1) We will only have one option initially where we will injest the data from. Initially it will just be a SupabaseDB. For that we need to create a SupabaseDB as a test Database and make the Chat ask the user for the credent...",mendezcar,19 hours ago,https://replit.com/bounties/@mendezcar/zappier-chatgpt-prot?t=
+1) We will only have one option initially where we will injest the data from. Initially it will just be a SupabaseDB. For that we need to create a SupabaseDB as a test Database and make the Chat ask the user for the credent...",mendezcar,20 hours ago,https://replit.com/bounties/@mendezcar/zappier-chatgpt-prot?t=
 350,$0.90,due in 3 days,Deploy unblocker to hostgator,"I have an unblocker, I want to deploy it to Hostgator. However, I don't know how to do it. Please help
 Acceptance Criteria
 Help me make it work.",CrownDevelopment,2 hours ago,https://replit.com/bounties/@CrownDevelopment/deploy-unblocker-to-1?t=
@@ -2936,7 +2936,7 @@ Some keyboard accessibility is nice, but not a requirement
 
 Link to Project
 
-https://tamagui.dev/",MarcusWood1,7 hours ago,https://replit.com/bounties/@MarcusWood1/build-a-universal-ac?t=
+https://tamagui.dev/",MarcusWood1,8 hours ago,https://replit.com/bounties/@MarcusWood1/build-a-universal-ac?t=
 353,$90.00,due in 4 days,Map address to submarkets,"You are given addresses in a CSV file and you need to write Python code to add a new column called ""Submarket"" that indicates which submarket the address belongs to. In order to do so, you will need to create the boundaries for each submarket based on Google Maps screenshot (please see the link below) of the submarket and apply the rules to map the address to the submarket.
 
 Detailed instructions are here: https://docs.google.com/document/d/1uecSbWx1euNgLPt52Y26ct8MdNAZnivh3C0sedmUE/edit
@@ -2995,7 +2995,7 @@ Note that the Twilio integration will not be your responsibility and your job wi
 Acceptance Criteria
 
 The app is functional and allows for multi-user/multi-store registration. Don't worry about the UI, it just needs to be functional.
-The three webhooks (order cre...",mattpatagon,35 minutes ago,https://replit.com/bounties/@mattpatagon/simple-webapp-for-e?t=
+The three webhooks (order cre...",mattpatagon,45 minutes ago,https://replit.com/bounties/@mattpatagon/simple-webapp-for-e?t=
 358,$27.00,due in 3 days,Scrape NBA 2022-23 games to get first basket data,"Hi,
 
 I am looking for an expert scraper to scrape first basket data from the NBA this season.
@@ -3004,7 +3004,7 @@ Essentially, I would be looking to replicate something like this: https://firstb
 
 It would be necessary for the scraper to update with the new games everyday.
 
-Reach out if you have any questions.",YouReachITeach4,33 minutes ago,https://replit.com/bounties/@YouReachITeach4/scrape-nba-2022-23-g?t=
+Reach out if you have any questions.",YouReachITeach4,43 minutes ago,https://replit.com/bounties/@YouReachITeach4/scrape-nba-2022-23-g?t=
 359,$46.15,due in 5 days,Typescript + React: Sample Simple Notes app: Repl Auth -> Simple Form -> ReplitDB -> Show Content,"I want to learn React + Typescript - I'm PHP, MySQL, Flask, etc. experienced so want an example app, well documented, that goes through a workflow I'm familiar with.
 You'll be building a very simple example notes app that  follows the flow of Repl Auth -> Simple Form -> ReplitDB -> Show Content.
 
@@ -3014,4 +3014,4 @@ Repl Auth must only allow users with certain roles to log in (this should be cus
 Two page website in Typescript and React:
 2.a. Simple Form: Contains Title text field, longer text-box for content, image file uploads button, save button
 2.b. View notes: Shows note thumbnails, when clicked shows the title, text and images as uploaded in full screen. Back button takes you to thumbnails. New button takes your to form 2a.
-Data is stored in a ReplDB, images are stored in an uploads/username/noteid folder. Data includes Title, Note text, Image upload urls, time...",DavidAtReplit,1 second ago,https://replit.com/bounties/@DavidAtReplit/typescript-react-sam?t=
+Data is stored in a ReplDB, images are stored in an uploads/username/noteid folder. Data includes Title, Note text, Image upload urls, time...",DavidAtReplit,10 minutes ago,https://replit.com/bounties/@DavidAtReplit/typescript-react-sam?t=

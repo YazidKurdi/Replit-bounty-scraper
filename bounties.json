@@ -3486,7 +3486,7 @@
         "title": "Simple private app for e-commerce platform",
         "description": "Problem to be Solved\n\nTiendaNube, a platform similar to Shopify, needs an app that can remind potential buyers to pay for their orders via WhatsApp if they abandon their cart. You can find more information on their APIs at the following link: https://tiendanube.github.io/api-documentation/intro\n\nProposed Solution\n\nCreate a private app for TiendaNube that enables user/store registration and installs three webhooks for the store: order creation, order update, and order paid. The app will listen to these webhooks and send a reminder to the potential buyer via WhatsApp using Twilio if an order is created but not paid within 24 hours.\n\nNote that the Twilio integration will not be your responsibility and your job will end by notifying our endpoint of an abandoned order (24 hours after creation without payment).\n\nAcceptance Criteria\n\nThe app is functional and allows for user/store registration\nThe three webhooks (order creation, order update, order paid) are properly installed and functioning...",
         "author": "mattpatagon",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@mattpatagon/simple-private-app-f?t="
     },
     {
@@ -3496,7 +3496,7 @@
         "title": "Zappier ChatGPT prototype",
         "description": "Datagran.io is a company specialized in data workflows. We have this idea of creating a new feature which is the zappier.com ChatGPT for data workflows. This bounty is to get help finishing the prototype taking in mind that as a CEO I have other many tasks to accomplish.\n\nAcceptance Criteria\nAnyone who can proove sufficient experience building flask applications.\n\nTechnical Details\nAt this point all the foundations of the projects are laid out. It is a python flask application that uses HTML, CSS and JS. It is already connected to OpenAI and you can write and receive prompts.\nNow we need to create a staged prototype where we will use a SupabaseDB to injest data from and we will send the data as an ouptut to a CSV file. That said the challenge is:\n1) We will only have one option initially where we will injest the data from. Initially it will just be a SupabaseDB. For that we need to create a SupabaseDB as a test Database and make the Chat ask the user for the credent...",
         "author": "mendezcar",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@mendezcar/zappier-chatgpt-prot?t="
     },
     {
@@ -3526,7 +3526,7 @@
         "title": "Build a Universal Accordion Component in Tamagui",
         "description": "We're using Tamagui for building a web application. We need an accordion component that will work both in react native and web. The open source repo has one started.\n\nAcceptance Criteria\n\nAccordion component works just like https://chakra-ui.com/docs/components/accordion/usage\nComponent signature should be consistent with the rest of Tamagui's components\nDelivered as either a tamagui starter repo with the component or a PR to their open source repo\n\nTechnical Details\n\nIt has to work on both web and react native using the same code\nSome keyboard accessibility is nice, but not a requirement\n\nLink to Project\n\nhttps://tamagui.dev/",
         "author": "MarcusWood1",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@MarcusWood1/build-a-universal-ac?t="
     },
     {
@@ -3576,7 +3576,7 @@
         "title": "Simple webapp for e-commerce platform",
         "description": "Problem to be Solved\n\nTiendaNube, a platform similar to Shopify, needs an app that can remind potential buyers to pay for their orders via WhatsApp if they abandon their cart. You can find more information on their APIs at the following link: https://tiendanube.github.io/api-documentation/intro\n\nProposed Solution\n\nCreate a private app for TiendaNube that enables user/store registration and installs three webhooks for the store: order creation, order update, and order paid. The app will listen to these webhooks and send a reminder to the potential buyer via WhatsApp using Twilio if an order is created but not paid within 24 hours.\n\nNote that the Twilio integration will not be your responsibility and your job will end by notifying our endpoint of an abandoned order (24 hours after creation without payment).\n\nAcceptance Criteria\n\nThe app is functional and allows for multi-user/multi-store registration. Don't worry about the UI, it just needs to be functional.\nThe three webhooks (order cre...",
         "author": "mattpatagon",
-        "posted_time": "35 minutes ago",
+        "posted_time": "45 minutes ago",
         "link": "https://replit.com/bounties/@mattpatagon/simple-webapp-for-e?t="
     },
     {
@@ -3586,7 +3586,7 @@
         "title": "Scrape NBA 2022-23 games to get first basket data",
         "description": "Hi,\n\nI am looking for an expert scraper to scrape first basket data from the NBA this season.\n\nEssentially, I would be looking to replicate something like this: https://firstbasketstats.com/. All the data you would need to do this can be found on ESPN when you go to the play-by-play (link to an example: https://www.espn.com/nba/playbyplay/_/gameId/401468861).\n\nIt would be necessary for the scraper to update with the new games everyday.\n\nReach out if you have any questions.",
         "author": "YouReachITeach4",
-        "posted_time": "33 minutes ago",
+        "posted_time": "43 minutes ago",
         "link": "https://replit.com/bounties/@YouReachITeach4/scrape-nba-2022-23-g?t="
     },
     {
@@ -3596,7 +3596,7 @@
         "title": "Typescript + React: Sample Simple Notes app: Repl Auth -> Simple Form -> ReplitDB -> Show Content",
         "description": "I want to learn React + Typescript - I'm PHP, MySQL, Flask, etc. experienced so want an example app, well documented, that goes through a workflow I'm familiar with.\nYou'll be building a very simple example notes app that  follows the flow of Repl Auth -> Simple Form -> ReplitDB -> Show Content.\n\nAcceptance Criteria\nProject doesn't need to be nicely styled in any way, plain html is totally fine for output.\nRepl Auth must only allow users with certain roles to log in (this should be customisable)\nTwo page website in Typescript and React:\n2.a. Simple Form: Contains Title text field, longer text-box for content, image file uploads button, save button\n2.b. View notes: Shows note thumbnails, when clicked shows the title, text and images as uploaded in full screen. Back button takes you to thumbnails. New button takes your to form 2a.\nData is stored in a ReplDB, images are stored in an uploads/username/noteid folder. Data includes Title, Note text, Image upload urls, time...",
         "author": "DavidAtReplit",
-        "posted_time": "1 second ago",
+        "posted_time": "10 minutes ago",
         "link": "https://replit.com/bounties/@DavidAtReplit/typescript-react-sam?t="
     }
 ]
