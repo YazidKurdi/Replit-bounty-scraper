@@ -3482,7 +3482,7 @@
     {
         "index": "348",
         "price": "$200.00",
-        "due_days": "due in 6 days",
+        "due_days": "closed",
         "title": "Simple private app for e-commerce platform",
         "description": "Problem to be Solved\n\nTiendaNube, a platform similar to Shopify, needs an app that can remind potential buyers to pay for their orders via WhatsApp if they abandon their cart. You can find more information on their APIs at the following link: https://tiendanube.github.io/api-documentation/intro\n\nProposed Solution\n\nCreate a private app for TiendaNube that enables user/store registration and installs three webhooks for the store: order creation, order update, and order paid. The app will listen to these webhooks and send a reminder to the potential buyer via WhatsApp using Twilio if an order is created but not paid within 24 hours.\n\nNote that the Twilio integration will not be your responsibility and your job will end by notifying our endpoint of an abandoned order (24 hours after creation without payment).\n\nAcceptance Criteria\n\nThe app is functional and allows for user/store registration\nThe three webhooks (order creation, order update, order paid) are properly installed and functioning...",
         "author": "mattpatagon",
@@ -3556,7 +3556,7 @@
         "title": "Map address to submarkets",
         "description": "You are given addresses in a CSV file and you need to write Python code to add a new column called \"Submarket\" that indicates which submarket the address belongs to. In order to do so, you will need to create the boundaries for each submarket based on Google Maps screenshot (please see the link below) of the submarket and apply the rules to map the address to the submarket.\n\nDetailed instructions are here: https://docs.google.com/document/d/1uecSbWx1euNgLPt52Y26ct8MdNAZnivh3C0sedmUE/edit\n\nAcceptance Criteria\nPython code that takes in the CSV file and maps the address to the submarket. The code will output a new CSV file with the original columns along with Submarket as a column.\nA CSV file with the original columns and the newly added Submarket to verify correctness.\n\nTechnical Details\nPython code only. May need to use GeoJSON tools and Google Maps API to get lat long of address to check for inclusion in the submarket boundary.\n\nLink to Project\nhttps://docs.google.c...",
         "author": "bsuper",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@bsuper/map-address-to-subma?t="
     },
     {
