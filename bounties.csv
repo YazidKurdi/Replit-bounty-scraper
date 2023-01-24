@@ -3105,7 +3105,7 @@ I need a wordpress plugin for creators to be able to have their own, personal, c
 2-Let User set up their OpenAI API key
 3-Fine tune the GPT3 model
 4-Offer a way to generate new posts some will be standalone, some thread ideas, depend on user choice (""extend this post"" or ""start from scratch"" type feature)
-5-User will be able to generate 1...",GetInference,3 hours ago,https://replit.com/bounties/@GetInference/finebrand-wordpress?t=
+5-User will be able to generate 1...",GetInference,4 hours ago,https://replit.com/bounties/@GetInference/finebrand-wordpress?t=
 367,$94.50,due in 13 days,Android Background Blink Tracker (No iOS),"I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on Android. It should also show a graph of your historical blink rate (for instance, batched 60 minutes at a time, with a scrollable graph over time).
 
 To see the iOS version of this bounty, see https://replit.com/bounties/@AJGupta/background-blink-tra?t= .
@@ -3132,4 +3132,4 @@ If the filter returns more than 10 strategies, it should order all strategies re
 369,"$1,665.00",due in 1 month,A customized version of ChatGPT for the Communications/PR Industry,"#The last time the PR industry was disrupted was the launch of Microsoft Word. It's a very analog sector, and most of the work products are basic -- but still customized -- pieces of writing: press releases, op-eds, media advisories. ChatGPT can produce drafts of these, but they still aren't specific enough to be useful for an individual or a company. By developing a customized version of ChatGPT -- one which effectively guides the user through inputting the right documents and content -- I hope to build a program automates much of the basic writing in the communications sector.
 
 #A simple interface where non-technical users can input relevant documents (.doc and google doc files) and guidance that will allow the customized version of GPT-3 to output more personalized and relevant writing
-#Ideally, I would also like to explore how a voice-to-text function could be plugged in. For instance, could a file from a service like Otter.ai or Rev.com be used as an input",RyanJacobs9,9 minutes ago,https://replit.com/bounties/@RyanJacobs9/a-customized-version?t=
+#Ideally, I would also like to explore how a voice-to-text function could be plugged in. For instance, could a file from a service like Otter.ai or Rev.com be used as an input",RyanJacobs9,23 minutes ago,https://replit.com/bounties/@RyanJacobs9/a-customized-version?t=
