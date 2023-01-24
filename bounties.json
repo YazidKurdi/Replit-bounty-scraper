@@ -3556,7 +3556,7 @@
         "title": "Map address to submarkets",
         "description": "You are given addresses in a CSV file and you need to write Python code to add a new column called \"Submarket\" that indicates which submarket the address belongs to. In order to do so, you will need to create the boundaries for each submarket based on Google Maps screenshot (please see the link below) of the submarket and apply the rules to map the address to the submarket.\n\nDetailed instructions are here: https://docs.google.com/document/d/1uecSbWx1euNgLPt52Y26ct8MdNAZnivh3C0sedmUE/edit\n\nAcceptance Criteria\nPython code that takes in the CSV file and maps the address to the submarket. The code will output a new CSV file with the original columns along with Submarket as a column.\nA CSV file with the original columns and the newly added Submarket to verify correctness.\n\nTechnical Details\nPython code only. May need to use GeoJSON tools and Google Maps API to get lat long of address to check for inclusion in the submarket boundary.\n\nLink to Project\nhttps://docs.google.c...",
         "author": "bsuper",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@bsuper/map-address-to-subma?t="
     },
     {
