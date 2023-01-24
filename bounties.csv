@@ -3004,7 +3004,7 @@ Essentially, I would be looking to replicate something like this: https://firstb
 
 It would be necessary for the scraper to update with the new games everyday.
 
-Reach out if you have any questions.",YouReachITeach4,6 hours ago,https://replit.com/bounties/@YouReachITeach4/scrape-nba-2022-23-g?t=
+Reach out if you have any questions.",YouReachITeach4,7 hours ago,https://replit.com/bounties/@YouReachITeach4/scrape-nba-2022-23-g?t=
 359,$46.15,due in 5 days,Typescript + React: Sample Simple Notes app: Repl Auth -> Simple Form -> ReplitDB -> Show Content,"I want to learn React + Typescript - I'm PHP, MySQL, Flask, etc. experienced so want an example app, well documented, that goes through a workflow I'm familiar with.
 You'll be building a very simple example notes app that  follows the flow of Repl Auth -> Simple Form -> ReplitDB -> Show Content.
 
@@ -3092,23 +3092,23 @@ Acceptance Criteria
     The user completes the Captcha
 Technical Details
     Script will probably need to pickup some id tags from elements on the page to be able  to send the correct API calls.
-Link to Project",proales2,53 minutes ago,https://replit.com/bounties/@proales2/js-script-to-replay?t=
+Link to Project",proales2,1 hour ago,https://replit.com/bounties/@proales2/js-script-to-replay?t=
 365,$90.00,due in 21 days,Spotify Friends Artist Matcher,"A Chrome extension/website/MacOS application, that finds friends who have listened to a specific artist/song that you specify (by # of occurrences in their public playlists). Useful to find concert buddies/people with similar music tastes. If can get the song/artist via either tracking if you're on a certain song or artist on Spotify (preferred), or by just manually entering in an artist name. This used to be a feature in Spotify but no longer is.
 
 If it is a webapp, a UI where you just sign in with Spotify and then you enter in an artist name, and then it lists the people from your followers/following, ranked by the number of times they have that artist in their public playlists.
 
 Acceptance Criteria
-It will have to work and look aesthetic. For instance, mixmello.com is a good example of the kind of Spotify app aesthetic this should have as a website. I will only accept applications that have linked either a GitHub or some other portfolio/resume. The website will b...",AJGupta,33 minutes ago,https://replit.com/bounties/@AJGupta/spotify-friends-arti?t=
+It will have to work and look aesthetic. For instance, mixmello.com is a good example of the kind of Spotify app aesthetic this should have as a website. I will only accept applications that have linked either a GitHub or some other portfolio/resume. The website will b...",AJGupta,48 minutes ago,https://replit.com/bounties/@AJGupta/spotify-friends-arti?t=
 366,"$1,800.00",due in 1 month,FineBrand: Wordpress AI,"Users have been writing on their blogs for ever so being able to train the model on long-form content and then generate new posts in their voice is a must have.
 I need a wordpress plugin for creators to be able to have their own, personal, custom AI model, based on GPT-3 series that would give high-quality inspiration in line with their brand voice (as opposed to some of the generic AI writing tools out there) that would:
 1- Select the historical posts with the highest level of engagement in priority. The plugin should show the post we'd used and let the user remove what they don't want but keeping in mind the minimum number we would need to fine tune the model . It should also strip out comments from the posts
 2-Let User set up their OpenAI API key
 3-Fine tune the GPT3 model
 4-Offer a way to generate new posts some will be standalone, some thread ideas, depend on user choice (""extend this post"" or ""start from scratch"" type feature)
-5-User will be able to generate 1...",GetInference,26 minutes ago,https://replit.com/bounties/@GetInference/finebrand-wordpress?t=
+5-User will be able to generate 1...",GetInference,41 minutes ago,https://replit.com/bounties/@GetInference/finebrand-wordpress?t=
 367,$94.50,due in 13 days,Android Background Blink Tracker (No iOS),"I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on Android. It should also show a graph of your historical blink rate (for instance, batched 60 minutes at a time, with a scrollable graph over time).
 
 To see the iOS version of this bounty, see https://replit.com/bounties/@AJGupta/background-blink-tra?t= .
 
 Acceptance Criteria
-An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",AJGupta,10 minutes ago,https://replit.com/bounties/@AJGupta/android-background-b?t=
+An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",AJGupta,25 minutes ago,https://replit.com/bounties/@AJGupta/android-background-b?t=
