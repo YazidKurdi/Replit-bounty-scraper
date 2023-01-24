@@ -2966,7 +2966,7 @@ Technical Details
 Python code only. May need to use GeoJSON tools and Google Maps API to get lat long of address to check for inclusion in the submarket boundary.
 
 Link to Project
-https://docs.google.c...",bsuper,5 hours ago,https://replit.com/bounties/@bsuper/map-address-to-subma?t=
+https://docs.google.c...",bsuper,6 hours ago,https://replit.com/bounties/@bsuper/map-address-to-subma?t=
 356,$22.50,due in 5 days,Stream data from GPT API and inject into Gmail (chrome extension),"We've built a chrome extension that uses GPT to write emails for you. Steps:
 Go to gmail's draft window.
 Type some context that acts as prompt.
@@ -2982,7 +2982,7 @@ Technical Details
 Chrome extension v3.
 
 Link to Project",ShubhKathuria,5 hours ago,https://replit.com/bounties/@ShubhKathuria/stream-data-from-gpt?t=
-357,$200.00,due in 6 days,Simple webapp for e-commerce platform,"Problem to be Solved
+357,$200.00,due in 5 days,Simple webapp for e-commerce platform,"Problem to be Solved
 
 TiendaNube, a platform similar to Shopify, needs an app that can remind potential buyers to pay for their orders via WhatsApp if they abandon their cart. You can find more information on their APIs at the following link: https://tiendanube.github.io/api-documentation/intro
 
@@ -2995,7 +2995,7 @@ Note that the Twilio integration will not be your responsibility and your job wi
 Acceptance Criteria
 
 The app is functional and allows for multi-user/multi-store registration. Don't worry about the UI, it just needs to be functional.
-The three webhooks (order cre...",mattpatagon,45 minutes ago,https://replit.com/bounties/@mattpatagon/simple-webapp-for-e?t=
+The three webhooks (order cre...",mattpatagon,55 minutes ago,https://replit.com/bounties/@mattpatagon/simple-webapp-for-e?t=
 358,$27.00,due in 3 days,Scrape NBA 2022-23 games to get first basket data,"Hi,
 
 I am looking for an expert scraper to scrape first basket data from the NBA this season.
@@ -3004,7 +3004,7 @@ Essentially, I would be looking to replicate something like this: https://firstb
 
 It would be necessary for the scraper to update with the new games everyday.
 
-Reach out if you have any questions.",YouReachITeach4,43 minutes ago,https://replit.com/bounties/@YouReachITeach4/scrape-nba-2022-23-g?t=
+Reach out if you have any questions.",YouReachITeach4,52 minutes ago,https://replit.com/bounties/@YouReachITeach4/scrape-nba-2022-23-g?t=
 359,$46.15,due in 5 days,Typescript + React: Sample Simple Notes app: Repl Auth -> Simple Form -> ReplitDB -> Show Content,"I want to learn React + Typescript - I'm PHP, MySQL, Flask, etc. experienced so want an example app, well documented, that goes through a workflow I'm familiar with.
 You'll be building a very simple example notes app that  follows the flow of Repl Auth -> Simple Form -> ReplitDB -> Show Content.
 
@@ -3014,4 +3014,7 @@ Repl Auth must only allow users with certain roles to log in (this should be cus
 Two page website in Typescript and React:
 2.a. Simple Form: Contains Title text field, longer text-box for content, image file uploads button, save button
 2.b. View notes: Shows note thumbnails, when clicked shows the title, text and images as uploaded in full screen. Back button takes you to thumbnails. New button takes your to form 2a.
-Data is stored in a ReplDB, images are stored in an uploads/username/noteid folder. Data includes Title, Note text, Image upload urls, time...",DavidAtReplit,10 minutes ago,https://replit.com/bounties/@DavidAtReplit/typescript-react-sam?t=
+Data is stored in a ReplDB, images are stored in an uploads/username/noteid folder. Data includes Title, Note text, Image upload urls, time...",DavidAtReplit,20 minutes ago,https://replit.com/bounties/@DavidAtReplit/typescript-react-sam?t=
+360,$0.90,due in 13 days,Make my domain work with hostgator,"I am trying to get my domain to work with my hostgator hosting but I don't know how to do it.
+Acceptance Criteria
+Help me finish that so my app and domain both work. Domain is from Name.com",CrownDevelopment,5 minutes ago,https://replit.com/bounties/@CrownDevelopment/make-my-domain-work?t=
