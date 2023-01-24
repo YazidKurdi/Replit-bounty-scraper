@@ -3526,7 +3526,7 @@
         "title": "Build a Universal Accordion Component in Tamagui",
         "description": "We're using Tamagui for building a web application. We need an accordion component that will work both in react native and web. The open source repo has one started.\n\nAcceptance Criteria\n\nAccordion component works just like https://chakra-ui.com/docs/components/accordion/usage\nComponent signature should be consistent with the rest of Tamagui's components\nDelivered as either a tamagui starter repo with the component or a PR to their open source repo\n\nTechnical Details\n\nIt has to work on both web and react native using the same code\nSome keyboard accessibility is nice, but not a requirement\n\nLink to Project\n\nhttps://tamagui.dev/",
         "author": "MarcusWood1",
-        "posted_time": "33 minutes ago",
+        "posted_time": "43 minutes ago",
         "link": "https://replit.com/bounties/@MarcusWood1/build-a-universal-ac?t="
     }
 ]
