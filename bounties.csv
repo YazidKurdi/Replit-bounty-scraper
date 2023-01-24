@@ -3083,7 +3083,7 @@ initGoogleMapsQuestion(this.questionId, this.getQuestionContainer(), {
     center: {
       lat: 35.1457,
       lng: -89.9883,
-  ...",CharlieRafkin,4 hours ago,https://replit.com/bounties/@CharlieRafkin/bug-fix-js-and-qualt?t=
+  ...",CharlieRafkin,5 hours ago,https://replit.com/bounties/@CharlieRafkin/bug-fix-js-and-qualt?t=
 364,$18.00,due in 3 days,JS script to replay an API call on a page,"Want someone to inspect the network traffic on this page when booking a reservation then figure out how to write a JS script to replay the traffic for a new booking. https://www.spotery.com/site/sfrp
 Acceptance Criteria
     Final script should be possible to book an appointment at a specified time all by itself after:
@@ -3111,7 +3111,7 @@ I need a wordpress plugin for creators to be able to have their own, personal, c
 To see the iOS version of this bounty, see https://replit.com/bounties/@AJGupta/background-blink-tra?t= .
 
 Acceptance Criteria
-An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",AJGupta,3 hours ago,https://replit.com/bounties/@AJGupta/android-background-b?t=
+An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",AJGupta,4 hours ago,https://replit.com/bounties/@AJGupta/android-background-b?t=
 368,$18.00,due in 3 days,Basic backtesting tool,"I have an idea for a trading strategy that I’d like to backtest, and would like a Python script to allow me to see how it would have performed.
 
 I have detailed the strategy that I am planning to put live, so that you know what needs to happen during the backtest.
@@ -3132,4 +3132,4 @@ If the filter returns more than 10 strategies, it should order all strategies re
 369,"$1,665.00",due in 1 month,A customized version of ChatGPT for the Communications/PR Industry,"#The last time the PR industry was disrupted was the launch of Microsoft Word. It's a very analog sector, and most of the work products are basic -- but still customized -- pieces of writing: press releases, op-eds, media advisories. ChatGPT can produce drafts of these, but they still aren't specific enough to be useful for an individual or a company. By developing a customized version of ChatGPT -- one which effectively guides the user through inputting the right documents and content -- I hope to build a program automates much of the basic writing in the communications sector.
 
 #A simple interface where non-technical users can input relevant documents (.doc and google doc files) and guidance that will allow the customized version of GPT-3 to output more personalized and relevant writing
-#Ideally, I would also like to explore how a voice-to-text function could be plugged in. For instance, could a file from a service like Otter.ai or Rev.com be used as an input",RyanJacobs9,23 minutes ago,https://replit.com/bounties/@RyanJacobs9/a-customized-version?t=
+#Ideally, I would also like to explore how a voice-to-text function could be plugged in. For instance, could a file from a service like Otter.ai or Rev.com be used as an input",RyanJacobs9,34 minutes ago,https://replit.com/bounties/@RyanJacobs9/a-customized-version?t=
