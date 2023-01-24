@@ -3596,7 +3596,7 @@
         "title": "Typescript + React: Sample Simple Notes app: Repl Auth -> Simple Form -> ReplitDB -> Show Content",
         "description": "I want to learn React + Typescript - I'm PHP, MySQL, Flask, etc. experienced so want an example app, well documented, that goes through a workflow I'm familiar with.\nYou'll be building a very simple example notes app that  follows the flow of Repl Auth -> Simple Form -> ReplitDB -> Show Content.\n\nAcceptance Criteria\nProject doesn't need to be nicely styled in any way, plain html is totally fine for output.\nRepl Auth must only allow users with certain roles to log in (this should be customisable)\nTwo page website in Typescript and React:\n2.a. Simple Form: Contains Title text field, longer text-box for content, image file uploads button, save button\n2.b. View notes: Shows note thumbnails, when clicked shows the title, text and images as uploaded in full screen. Back button takes you to thumbnails. New button takes your to form 2a.\nData is stored in a ReplDB, images are stored in an uploads/username/noteid folder. Data includes Title, Note text, Image upload urls, time...",
         "author": "DavidAtReplit",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@DavidAtReplit/typescript-react-sam?t="
     },
     {
@@ -3616,7 +3616,7 @@
         "title": "Build a WhatsApp Business API Chrome Extension",
         "description": "# Problem Description\nWe have a Chrome extension that works on top of whatsapp web, but want to adapt it to go fully into whatsapp's business API. We will be using their Cloup API solution.\nCheck out their documentation here: https://developers.facebook.com/docs/whatsapp/cloud-api/get-started-for-bsps\n\nThe frontend needs to be heavily adapted to have a whatsapp client to see messages and be able to respond to them.\nThe backend needs to be built from scratch.\nThe website needs to be heavily adapted to include meta's onboarding process.\n\n# Acceptance Criteria\n1. build whatsapp client\nsee messages\nsend messages\nschedule messages (via templates)\nsee different conversations\ncreate templates, send them for meta's verification, use them to send the messages, etc\nsend attachments\nemojis, font formatting, etc...\nmultiple agents can sign in to it\n2. create a new backend\nconnects with whatsapp's APIs\nhas all the payment logic (to be defined)\n3. create account management system\nfrontend\nbackend\nad...",
         "author": "JavierAndre",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@JavierAndre/build-a-whatsapp-bus?t="
     },
     {
@@ -3636,7 +3636,7 @@
         "title": "Bug fix - JS and Qualtrics [should take 2 minutes for someone with JS skills, literally just debugging a chatgpt answer]] ",
         "description": "I am having trouble with a Javascript code that I plug into in Qualtrics, a survey tool.\n\nI am using this package:\nhttps://github.com/pkmnct/qualtrics-google-map-lat-long\n\nThe issue is that when I drag the marker, the address does not dynamically update on the survey participant's screen. So, if I first enter my address using the autofill, then drag, the participant may be confused about what the address they are entering is.\n\nCan you help me make the address load automatically?\n\nAcceptance Criteria\n\nProducing JS code that makes the text box auto load dynamically.\n\nTechnical Details\nJS only.\n\nChatGPT's advice\n\nIt recommends augmenting the code with the below. This still doesn't dynamically update for the survey participant's textbox. But gets closer.\n\ninitGoogleMapsQuestion(this.questionId, this.getQuestionContainer(), {\n  // Map Options, set these! See Map Options in Option Documentation Section\n  options: {\n    center: {\n      lat: 35.1457,\n      lng: -89.9883,\n  ...",
         "author": "CharlieRafkin",
-        "posted_time": "47 minutes ago",
+        "posted_time": "57 minutes ago",
         "link": "https://replit.com/bounties/@CharlieRafkin/bug-fix-js-and-qualt?t="
     },
     {
@@ -3646,7 +3646,7 @@
         "title": "JS script to replay an API call on a page",
         "description": "Want someone to inspect the network traffic on this page when booking a reservation then figure out how to write a JS script to replay the traffic for a new booking. https://www.spotery.com/site/sfrp\nAcceptance Criteria\n    Final script should be possible to book an appointment at a specified time all by itself after:\n    The page is loaded\n    The user drops the script into the Chrome dev tools console\n    The user completes the Captcha\nTechnical Details\n    Script will probably need to pickup some id tags from elements on the page to be able  to send the correct API calls.\nLink to Project",
         "author": "proales2",
-        "posted_time": "26 minutes ago",
+        "posted_time": "36 minutes ago",
         "link": "https://replit.com/bounties/@proales2/js-script-to-replay?t="
     },
     {
@@ -3656,7 +3656,17 @@
         "title": "Spotify Friends Artist Matcher",
         "description": "A Chrome extension/website/MacOS application, that finds friends who have listened to a specific artist/song that you specify (by # of occurrences in their public playlists). Useful to find concert buddies/people with similar music tastes. If can get the song/artist via either tracking if you're on a certain song or artist on Spotify (preferred), or by just manually entering in an artist name. This used to be a feature in Spotify but no longer is.\n\nIf it is a webapp, a UI where you just sign in with Spotify and then you enter in an artist name, and then it lists the people from your followers/following, ranked by the number of times they have that artist in their public playlists.\n\nAcceptance Criteria\nIt will have to work and look aesthetic. For instance, mixmello.com is a good example of the kind of Spotify app aesthetic this should have as a website. I will only accept applications that have linked either a GitHub or some other portfolio/resume. The website will b...",
         "author": "AJGupta",
-        "posted_time": "6 minutes ago",
+        "posted_time": "17 minutes ago",
         "link": "https://replit.com/bounties/@AJGupta/spotify-friends-arti?t="
+    },
+    {
+        "index": "366",
+        "price": "$1,800.00",
+        "due_days": "due in 1 month",
+        "title": "FineBrand: Wordpress AI",
+        "description": "Users have been writing on their blogs for ever so being able to train the model on long-form content and then generate new posts in their voice is a must have.\nI need a wordpress plugin for creators to be able to have their own, personal, custom AI model, based on GPT-3 series that would give high-quality inspiration in line with their brand voice (as opposed to some of the generic AI writing tools out there) that would:\n1- Select the historical posts with the highest level of engagement in priority. The plugin should show the post we'd used and let the user remove what they don't want but keeping in mind the minimum number we would need to fine tune the model . It should also strip out comments from the posts\n2-Let User set up their OpenAI API key\n3-Fine tune the GPT3 model\n4-Offer a way to generate new posts some will be standalone, some thread ideas, depend on user choice (\"extend this post\" or \"start from scratch\" type feature)\n5-User will be able to generate 1...",
+        "author": "GetInference",
+        "posted_time": "9 minutes ago",
+        "link": "https://replit.com/bounties/@GetInference/finebrand-wordpress?t="
     }
 ]
