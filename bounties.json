@@ -3516,7 +3516,7 @@
         "title": "Set up Google Adsense on Discourse forum",
         "description": "Need someone to help me set up the Discourse Adplugin on my forum, implementing Google Adsense.\n\nMy forum is https://forum.codergautam.dev/\n\nPreferred if the hunter has experience with using the Discourse Ad plugin, and experience with using Google Adsense.",
         "author": "CoderGautamYT",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/set-up-google-ads-on?t="
     },
     {
@@ -3596,7 +3596,7 @@
         "title": "Typescript + React: Sample Simple Notes app: Repl Auth -> Simple Form -> ReplitDB -> Show Content",
         "description": "I want to learn React + Typescript - I'm PHP, MySQL, Flask, etc. experienced so want an example app, well documented, that goes through a workflow I'm familiar with.\nYou'll be building a very simple example notes app that  follows the flow of Repl Auth -> Simple Form -> ReplitDB -> Show Content.\n\nAcceptance Criteria\nProject doesn't need to be nicely styled in any way, plain html is totally fine for output.\nRepl Auth must only allow users with certain roles to log in (this should be customisable)\nTwo page website in Typescript and React:\n2.a. Simple Form: Contains Title text field, longer text-box for content, image file uploads button, save button\n2.b. View notes: Shows note thumbnails, when clicked shows the title, text and images as uploaded in full screen. Back button takes you to thumbnails. New button takes your to form 2a.\nData is stored in a ReplDB, images are stored in an uploads/username/noteid folder. Data includes Title, Note text, Image upload urls, time...",
         "author": "DavidAtReplit",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@DavidAtReplit/typescript-react-sam?t="
     },
     {
