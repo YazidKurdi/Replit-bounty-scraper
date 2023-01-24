@@ -3566,7 +3566,7 @@
         "title": "Stream data from GPT API and inject into Gmail (chrome extension)",
         "description": "We've built a chrome extension that uses GPT to write emails for you. Steps:\nGo to gmail's draft window.\nType some context that acts as prompt.\nClick the extension button.\nThe response is fetched from the API and injected into Gmail's DOM.\n\nInstead of the response being pasted all at once, we want the email to be typed as it's being generated, letter by letter. Basically, stream the response from the API.\n\nAcceptance Criteria\nMust meet requirements and not have any bugs.\n\nTechnical Details\nChrome extension v3.\n\nLink to Project",
         "author": "ShubhKathuria",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@ShubhKathuria/stream-data-from-gpt?t="
     },
     {
@@ -3596,7 +3596,7 @@
         "title": "Typescript + React: Sample Simple Notes app: Repl Auth -> Simple Form -> ReplitDB -> Show Content",
         "description": "I want to learn React + Typescript - I'm PHP, MySQL, Flask, etc. experienced so want an example app, well documented, that goes through a workflow I'm familiar with.\nYou'll be building a very simple example notes app that  follows the flow of Repl Auth -> Simple Form -> ReplitDB -> Show Content.\n\nAcceptance Criteria\nProject doesn't need to be nicely styled in any way, plain html is totally fine for output.\nRepl Auth must only allow users with certain roles to log in (this should be customisable)\nTwo page website in Typescript and React:\n2.a. Simple Form: Contains Title text field, longer text-box for content, image file uploads button, save button\n2.b. View notes: Shows note thumbnails, when clicked shows the title, text and images as uploaded in full screen. Back button takes you to thumbnails. New button takes your to form 2a.\nData is stored in a ReplDB, images are stored in an uploads/username/noteid folder. Data includes Title, Note text, Image upload urls, time...",
         "author": "DavidAtReplit",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@DavidAtReplit/typescript-react-sam?t="
     },
     {
@@ -3626,7 +3626,17 @@
         "title": "I think the endpoints in my Spring Boot application are unreachable + some JavaScript issues (Speedy response required)",
         "description": "I'm new to coding. I have built a basic Spring Boot application. For some reason the endpoint URLs are not being reached. I need help with a few things:\n\nCheck if my Config file is properly set up for CORS\nI have two Controllers but it seems the endpoints are not being reached. This is why I'm wondering if CORS is working.\nI have a JavaScript file which is suppose to fetch certain endpoints in corresponding Controllers, but it doesn't seem to be working. I also need you to check if I have it set up properly. Someone provided part of the JavaScript file and I built upon it but I don't know JavaScript I was just trying to figure it out on my own. There are two HTML files associated, which I will also provide.\n\nOnce the issues are fixed, there are a few things that I will need to test to make sure what you have done is actually working.\n\nAcceptance Criteria\nExperienced (skilled) in Java, JavaScript, HTML.\nTechnical Details\nSee above.\nLink to Project\nWill provide the co...",
         "author": "mdotbaig",
-        "posted_time": "44 minutes ago",
+        "posted_time": "59 minutes ago",
         "link": "https://replit.com/bounties/@mdotbaig/i-think-the-endpoint?t="
+    },
+    {
+        "index": "363",
+        "price": "$27.00",
+        "due_days": "due in 3 days",
+        "title": "Bug fix - JS and Qualtrics [should take 2 minutes for someone with JS skills, literally just debugging a chatgpt answer]] ",
+        "description": "I am having trouble with a Javascript code that I plug into in Qualtrics, a survey tool.\n\nI am using this package:\nhttps://github.com/pkmnct/qualtrics-google-map-lat-long\n\nThe issue is that when I drag the marker, the address does not dynamically update on the survey participant's screen. So, if I first enter my address using the autofill, then drag, the participant may be confused about what the address they are entering is.\n\nCan you help me make the address load automatically?\n\nAcceptance Criteria\n\nProducing JS code that makes the text box auto load dynamically.\n\nTechnical Details\nJS only.\n\nChatGPT's advice\n\nIt recommends augmenting the code with the below. This still doesn't dynamically update for the survey participant's textbox. But gets closer.\n\ninitGoogleMapsQuestion(this.questionId, this.getQuestionContainer(), {\n  // Map Options, set these! See Map Options in Option Documentation Section\n  options: {\n    center: {\n      lat: 35.1457,\n      lng: -89.9883,\n  ...",
+        "author": "CharlieRafkin",
+        "posted_time": "11 minutes ago",
+        "link": "https://replit.com/bounties/@CharlieRafkin/bug-fix-js-and-qualt?t="
     }
 ]

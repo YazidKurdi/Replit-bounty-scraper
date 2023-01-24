@@ -2981,7 +2981,7 @@ Must meet requirements and not have any bugs.
 Technical Details
 Chrome extension v3.
 
-Link to Project",ShubhKathuria,9 hours ago,https://replit.com/bounties/@ShubhKathuria/stream-data-from-gpt?t=
+Link to Project",ShubhKathuria,10 hours ago,https://replit.com/bounties/@ShubhKathuria/stream-data-from-gpt?t=
 357,$200.00,due in 5 days,Simple webapp for e-commerce platform,"Problem to be Solved
 
 TiendaNube, a platform similar to Shopify, needs an app that can remind potential buyers to pay for their orders via WhatsApp if they abandon their cart. You can find more information on their APIs at the following link: https://tiendanube.github.io/api-documentation/intro
@@ -3014,7 +3014,7 @@ Repl Auth must only allow users with certain roles to log in (this should be cus
 Two page website in Typescript and React:
 2.a. Simple Form: Contains Title text field, longer text-box for content, image file uploads button, save button
 2.b. View notes: Shows note thumbnails, when clicked shows the title, text and images as uploaded in full screen. Back button takes you to thumbnails. New button takes your to form 2a.
-Data is stored in a ReplDB, images are stored in an uploads/username/noteid folder. Data includes Title, Note text, Image upload urls, time...",DavidAtReplit,4 hours ago,https://replit.com/bounties/@DavidAtReplit/typescript-react-sam?t=
+Data is stored in a ReplDB, images are stored in an uploads/username/noteid folder. Data includes Title, Note text, Image upload urls, time...",DavidAtReplit,5 hours ago,https://replit.com/bounties/@DavidAtReplit/typescript-react-sam?t=
 360,$0.90,due in 13 days,Make my domain work with hostgator,"I am trying to get my domain to work with my hostgator hosting but I don't know how to do it.
 Acceptance Criteria
 Help me finish that so my app and domain both work. Domain is from Name.com",CrownDevelopment,4 hours ago,https://replit.com/bounties/@CrownDevelopment/make-my-domain-work?t=
@@ -3056,4 +3056,31 @@ Experienced (skilled) in Java, JavaScript, HTML.
 Technical Details
 See above.
 Link to Project
-Will provide the co...",mdotbaig,44 minutes ago,https://replit.com/bounties/@mdotbaig/i-think-the-endpoint?t=
+Will provide the co...",mdotbaig,59 minutes ago,https://replit.com/bounties/@mdotbaig/i-think-the-endpoint?t=
+363,$27.00,due in 3 days,"Bug fix - JS and Qualtrics [should take 2 minutes for someone with JS skills, literally just debugging a chatgpt answer]] ","I am having trouble with a Javascript code that I plug into in Qualtrics, a survey tool.
+
+I am using this package:
+https://github.com/pkmnct/qualtrics-google-map-lat-long
+
+The issue is that when I drag the marker, the address does not dynamically update on the survey participant's screen. So, if I first enter my address using the autofill, then drag, the participant may be confused about what the address they are entering is.
+
+Can you help me make the address load automatically?
+
+Acceptance Criteria
+
+Producing JS code that makes the text box auto load dynamically.
+
+Technical Details
+JS only.
+
+ChatGPT's advice
+
+It recommends augmenting the code with the below. This still doesn't dynamically update for the survey participant's textbox. But gets closer.
+
+initGoogleMapsQuestion(this.questionId, this.getQuestionContainer(), {
+  // Map Options, set these! See Map Options in Option Documentation Section
+  options: {
+    center: {
+      lat: 35.1457,
+      lng: -89.9883,
+  ...",CharlieRafkin,11 minutes ago,https://replit.com/bounties/@CharlieRafkin/bug-fix-js-and-qualt?t=
