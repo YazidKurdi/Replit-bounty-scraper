@@ -3476,7 +3476,7 @@
         "title": "Create a python library to log all Request activities",
         "description": "I would like to get all the API calls and responses going through my python application.\n\nAcceptance Criteria\nI need to log all API requests made in a python application and to send those requests to another server I'm logging these requests.\nThe solution should happen automatically to all API calls, and not something a developer needs to add to each call.\nAll request types are captured: GET, POST, DELETE, UPDATE, etc.\nThe request and response data is captured\nBoth the request and response data is sent to another server for logging\n\nTechnical Details\nWorks on python 2 and 3\nWorks with the Requests library built into python",
         "author": "AhmadSadeddin1",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@AhmadSadeddin1/create-a-python-libr?t="
     },
     {
@@ -3526,7 +3526,7 @@
         "title": "Build a Universal Accordion Component in Tamagui",
         "description": "We're using Tamagui for building a web application. We need an accordion component that will work both in react native and web. The open source repo has one started.\n\nAcceptance Criteria\n\nAccordion component works just like https://chakra-ui.com/docs/components/accordion/usage\nComponent signature should be consistent with the rest of Tamagui's components\nDelivered as either a tamagui starter repo with the component or a PR to their open source repo\n\nTechnical Details\n\nIt has to work on both web and react native using the same code\nSome keyboard accessibility is nice, but not a requirement\n\nLink to Project\n\nhttps://tamagui.dev/",
         "author": "MarcusWood1",
-        "posted_time": "8 minutes ago",
+        "posted_time": "21 minutes ago",
         "link": "https://replit.com/bounties/@MarcusWood1/build-a-universal-ac?t="
     }
 ]
