@@ -3042,7 +3042,7 @@ has all the payment logic (to be defined)
 3. create account management system
 frontend
 backend
-ad...",JavierAndre,5 hours ago,https://replit.com/bounties/@JavierAndre/build-a-whatsapp-bus?t=
+ad...",JavierAndre,6 hours ago,https://replit.com/bounties/@JavierAndre/build-a-whatsapp-bus?t=
 362,$20.00,due in 3 days,I think the endpoints in my Spring Boot application are unreachable + some JavaScript issues (Speedy response required),"I'm new to coding. I have built a basic Spring Boot application. For some reason the endpoint URLs are not being reached. I need help with a few things:
 
 Check if my Config file is properly set up for CORS
@@ -3092,7 +3092,7 @@ Acceptance Criteria
     The user completes the Captcha
 Technical Details
     Script will probably need to pickup some id tags from elements on the page to be able  to send the correct API calls.
-Link to Project",proales2,1 hour ago,https://replit.com/bounties/@proales2/js-script-to-replay?t=
+Link to Project",proales2,2 hours ago,https://replit.com/bounties/@proales2/js-script-to-replay?t=
 365,$90.00,due in 21 days,Spotify Friends Artist Matcher,"A Chrome extension/website/MacOS application, that finds friends who have listened to a specific artist/song that you specify (by # of occurrences in their public playlists). Useful to find concert buddies/people with similar music tastes. If can get the song/artist via either tracking if you're on a certain song or artist on Spotify (preferred), or by just manually entering in an artist name. This used to be a feature in Spotify but no longer is.
 
 If it is a webapp, a UI where you just sign in with Spotify and then you enter in an artist name, and then it lists the people from your followers/following, ranked by the number of times they have that artist in their public playlists.
@@ -3105,10 +3105,10 @@ I need a wordpress plugin for creators to be able to have their own, personal, c
 2-Let User set up their OpenAI API key
 3-Fine tune the GPT3 model
 4-Offer a way to generate new posts some will be standalone, some thread ideas, depend on user choice (""extend this post"" or ""start from scratch"" type feature)
-5-User will be able to generate 1...",GetInference,59 minutes ago,https://replit.com/bounties/@GetInference/finebrand-wordpress?t=
+5-User will be able to generate 1...",GetInference,1 hour ago,https://replit.com/bounties/@GetInference/finebrand-wordpress?t=
 367,$94.50,due in 13 days,Android Background Blink Tracker (No iOS),"I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on Android. It should also show a graph of your historical blink rate (for instance, batched 60 minutes at a time, with a scrollable graph over time).
 
 To see the iOS version of this bounty, see https://replit.com/bounties/@AJGupta/background-blink-tra?t= .
 
 Acceptance Criteria
-An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",AJGupta,43 minutes ago,https://replit.com/bounties/@AJGupta/android-background-b?t=
+An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",AJGupta,53 minutes ago,https://replit.com/bounties/@AJGupta/android-background-b?t=

@@ -3616,7 +3616,7 @@
         "title": "Build a WhatsApp Business API Chrome Extension",
         "description": "# Problem Description\nWe have a Chrome extension that works on top of whatsapp web, but want to adapt it to go fully into whatsapp's business API. We will be using their Cloup API solution.\nCheck out their documentation here: https://developers.facebook.com/docs/whatsapp/cloud-api/get-started-for-bsps\n\nThe frontend needs to be heavily adapted to have a whatsapp client to see messages and be able to respond to them.\nThe backend needs to be built from scratch.\nThe website needs to be heavily adapted to include meta's onboarding process.\n\n# Acceptance Criteria\n1. build whatsapp client\nsee messages\nsend messages\nschedule messages (via templates)\nsee different conversations\ncreate templates, send them for meta's verification, use them to send the messages, etc\nsend attachments\nemojis, font formatting, etc...\nmultiple agents can sign in to it\n2. create a new backend\nconnects with whatsapp's APIs\nhas all the payment logic (to be defined)\n3. create account management system\nfrontend\nbackend\nad...",
         "author": "JavierAndre",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@JavierAndre/build-a-whatsapp-bus?t="
     },
     {
@@ -3646,7 +3646,7 @@
         "title": "JS script to replay an API call on a page",
         "description": "Want someone to inspect the network traffic on this page when booking a reservation then figure out how to write a JS script to replay the traffic for a new booking. https://www.spotery.com/site/sfrp\nAcceptance Criteria\n    Final script should be possible to book an appointment at a specified time all by itself after:\n    The page is loaded\n    The user drops the script into the Chrome dev tools console\n    The user completes the Captcha\nTechnical Details\n    Script will probably need to pickup some id tags from elements on the page to be able  to send the correct API calls.\nLink to Project",
         "author": "proales2",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@proales2/js-script-to-replay?t="
     },
     {
@@ -3666,7 +3666,7 @@
         "title": "FineBrand: Wordpress AI",
         "description": "Users have been writing on their blogs for ever so being able to train the model on long-form content and then generate new posts in their voice is a must have.\nI need a wordpress plugin for creators to be able to have their own, personal, custom AI model, based on GPT-3 series that would give high-quality inspiration in line with their brand voice (as opposed to some of the generic AI writing tools out there) that would:\n1- Select the historical posts with the highest level of engagement in priority. The plugin should show the post we'd used and let the user remove what they don't want but keeping in mind the minimum number we would need to fine tune the model . It should also strip out comments from the posts\n2-Let User set up their OpenAI API key\n3-Fine tune the GPT3 model\n4-Offer a way to generate new posts some will be standalone, some thread ideas, depend on user choice (\"extend this post\" or \"start from scratch\" type feature)\n5-User will be able to generate 1...",
         "author": "GetInference",
-        "posted_time": "59 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@GetInference/finebrand-wordpress?t="
     },
     {
@@ -3676,7 +3676,7 @@
         "title": "Android Background Blink Tracker (No iOS)",
         "description": "I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on Android. It should also show a graph of your historical blink rate (for instance, batched 60 minutes at a time, with a scrollable graph over time).\n\nTo see the iOS version of this bounty, see https://replit.com/bounties/@AJGupta/background-blink-tra?t= .\n\nAcceptance Criteria\nAn Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",
         "author": "AJGupta",
-        "posted_time": "43 minutes ago",
+        "posted_time": "53 minutes ago",
         "link": "https://replit.com/bounties/@AJGupta/android-background-b?t="
     }
 ]
