@@ -2867,7 +2867,7 @@ If it doesn't actually end up on Trending, that's fine. It does not need to get 
 I'm using rpyc between two files client.py and server.py.
 This works well on my local machine but on replit I get the error ConnectionRefusedError: [Errno 111] Connection refused.
 
-I'll offer $10 to anyone who can fix my issue",sevaus,22 hours ago,https://replit.com/bounties/@sevaus/fix-my-rpyc-issue?t=
+I'll offer $10 to anyone who can fix my issue",sevaus,23 hours ago,https://replit.com/bounties/@sevaus/fix-my-rpyc-issue?t=
 345,$45.00,due in 3 days,Create simple interface that loads files into ChatGPT Fine-tuning,"I want to use ChatGPT to generate responses that honour specific formats and language based on my industry. To do this I want to fine-tune the model on my own dataset that specifies possible response formats. The Problem is that the fine-tuning function as is requires coding knowledge (I do not have).  The solution should look like a simple interface where I can select a file (JSON) from my desktop and it will load into the fine-tuning dataset for my openAI account.
 
 The acceptance criteria is:
@@ -2877,7 +2877,7 @@ I am able to generate ChatGPT completions that honour or apply the dataset in th
 
 Acceptance Criteria:
 When a message is sent, have it appear with the username on other devices.
-Use node.js.",Ajh499,16 hours ago,https://replit.com/bounties/@Ajh499/make-chat-messages-a?t=
+Use node.js.",Ajh499,17 hours ago,https://replit.com/bounties/@Ajh499/make-chat-messages-a?t=
 347,$45.00,due in 10 days,Create a python library to log all Request activities,"I would like to get all the API calls and responses going through my python application.
 
 Acceptance Criteria
@@ -2921,3 +2921,19 @@ Help me make it work.",CrownDevelopment,2 hours ago,https://replit.com/bounties/
 My forum is https://forum.codergautam.dev/
 
 Preferred if the hunter has experience with using the Discourse Ad plugin, and experience with using Google Adsense.",CoderGautamYT,11 hours ago,https://replit.com/bounties/@CoderGautamYT/set-up-google-ads-on?t=
+352,$90.00,due in 4 days,Build a Universal Accordion Component in Tamagui,"We're using Tamagui for building a web application. We need an accordion component that will work both in react native and web. The open source repo has one started.
+
+Acceptance Criteria
+
+Accordion component works just like https://chakra-ui.com/docs/components/accordion/usage
+Component signature should be consistent with the rest of Tamagui's components
+Delivered as either a tamagui starter repo with the component or a PR to their open source repo
+
+Technical Details
+
+It has to work on both web and react native using the same code
+Some keyboard accessibility is nice, but not a requirement
+
+Link to Project
+
+https://tamagui.dev/",MarcusWood1,8 minutes ago,https://replit.com/bounties/@MarcusWood1/build-a-universal-ac?t=
