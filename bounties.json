@@ -3666,7 +3666,7 @@
         "title": "FineBrand: Wordpress AI",
         "description": "Users have been writing on their blogs for ever so being able to train the model on long-form content and then generate new posts in their voice is a must have.\nI need a wordpress plugin for creators to be able to have their own, personal, custom AI model, based on GPT-3 series that would give high-quality inspiration in line with their brand voice (as opposed to some of the generic AI writing tools out there) that would:\n1- Select the historical posts with the highest level of engagement in priority. The plugin should show the post we'd used and let the user remove what they don't want but keeping in mind the minimum number we would need to fine tune the model . It should also strip out comments from the posts\n2-Let User set up their OpenAI API key\n3-Fine tune the GPT3 model\n4-Offer a way to generate new posts some will be standalone, some thread ideas, depend on user choice (\"extend this post\" or \"start from scratch\" type feature)\n5-User will be able to generate 1...",
         "author": "GetInference",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@GetInference/finebrand-wordpress?t="
     },
     {
@@ -3686,7 +3686,7 @@
         "title": "Basic backtesting tool",
         "description": "I have an idea for a trading strategy that I\u2019d like to backtest, and would like a Python script to allow me to see how it would have performed.\n\nI have detailed the strategy that I am planning to put live, so that you know what needs to happen during the backtest.\n\nThe site is www.darwinex.com and they have trading products called \u2018Darwins\u2019. Each Darwin has a three letter codename e.g. \u2018THA\u2019.\n\nHere is their API documentation:  https://darwinex.github.io/darwin-api-tutorials/ and https://api.darwinex.com/store/\n\nTo start the trading strategy, the system should filter all of the available \u2018Darwins\u2019 by the following criteria:\n\nMonthly divergence of less than -0.19%\nLoss aversion of more than 6\nD-Score of more than 75\nRisk Stability of more than 7\nCapacity of more than 3\n\nIf the filter returns more than 10 strategies, it should order all strategies returned by the D-score (highest number being the best) and should then buy an even amount of the account balance in the te...",
         "author": "BenSwanson2",
-        "posted_time": "34 minutes ago",
+        "posted_time": "50 minutes ago",
         "link": "https://replit.com/bounties/@BenSwanson2/basic-backtesting-to?t="
     }
 ]
