@@ -3014,7 +3014,7 @@ Repl Auth must only allow users with certain roles to log in (this should be cus
 Two page website in Typescript and React:
 2.a. Simple Form: Contains Title text field, longer text-box for content, image file uploads button, save button
 2.b. View notes: Shows note thumbnails, when clicked shows the title, text and images as uploaded in full screen. Back button takes you to thumbnails. New button takes your to form 2a.
-Data is stored in a ReplDB, images are stored in an uploads/username/noteid folder. Data includes Title, Note text, Image upload urls, time...",DavidAtReplit,8 hours ago,https://replit.com/bounties/@DavidAtReplit/typescript-react-sam?t=
+Data is stored in a ReplDB, images are stored in an uploads/username/noteid folder. Data includes Title, Note text, Image upload urls, time...",DavidAtReplit,9 hours ago,https://replit.com/bounties/@DavidAtReplit/typescript-react-sam?t=
 360,$0.90,due in 13 days,Make my domain work with hostgator,"I am trying to get my domain to work with my hostgator hosting but I don't know how to do it.
 Acceptance Criteria
 Help me finish that so my app and domain both work. Domain is from Name.com",CrownDevelopment,8 hours ago,https://replit.com/bounties/@CrownDevelopment/make-my-domain-work?t=
@@ -3042,7 +3042,7 @@ has all the payment logic (to be defined)
 3. create account management system
 frontend
 backend
-ad...",JavierAndre,7 hours ago,https://replit.com/bounties/@JavierAndre/build-a-whatsapp-bus?t=
+ad...",JavierAndre,8 hours ago,https://replit.com/bounties/@JavierAndre/build-a-whatsapp-bus?t=
 362,$20.00,due in 3 days,I think the endpoints in my Spring Boot application are unreachable + some JavaScript issues (Speedy response required),"I'm new to coding. I have built a basic Spring Boot application. For some reason the endpoint URLs are not being reached. I need help with a few things:
 
 Check if my Config file is properly set up for CORS
@@ -3092,7 +3092,7 @@ Acceptance Criteria
     The user completes the Captcha
 Technical Details
     Script will probably need to pickup some id tags from elements on the page to be able  to send the correct API calls.
-Link to Project",proales2,3 hours ago,https://replit.com/bounties/@proales2/js-script-to-replay?t=
+Link to Project",proales2,4 hours ago,https://replit.com/bounties/@proales2/js-script-to-replay?t=
 365,$90.00,due in 21 days,Spotify Friends Artist Matcher,"A Chrome extension/website/MacOS application, that finds friends who have listened to a specific artist/song that you specify (by # of occurrences in their public playlists). Useful to find concert buddies/people with similar music tastes. If can get the song/artist via either tracking if you're on a certain song or artist on Spotify (preferred), or by just manually entering in an artist name. This used to be a feature in Spotify but no longer is.
 
 If it is a webapp, a UI where you just sign in with Spotify and then you enter in an artist name, and then it lists the people from your followers/following, ranked by the number of times they have that artist in their public playlists.

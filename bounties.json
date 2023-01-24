@@ -3596,7 +3596,7 @@
         "title": "Typescript + React: Sample Simple Notes app: Repl Auth -> Simple Form -> ReplitDB -> Show Content",
         "description": "I want to learn React + Typescript - I'm PHP, MySQL, Flask, etc. experienced so want an example app, well documented, that goes through a workflow I'm familiar with.\nYou'll be building a very simple example notes app that  follows the flow of Repl Auth -> Simple Form -> ReplitDB -> Show Content.\n\nAcceptance Criteria\nProject doesn't need to be nicely styled in any way, plain html is totally fine for output.\nRepl Auth must only allow users with certain roles to log in (this should be customisable)\nTwo page website in Typescript and React:\n2.a. Simple Form: Contains Title text field, longer text-box for content, image file uploads button, save button\n2.b. View notes: Shows note thumbnails, when clicked shows the title, text and images as uploaded in full screen. Back button takes you to thumbnails. New button takes your to form 2a.\nData is stored in a ReplDB, images are stored in an uploads/username/noteid folder. Data includes Title, Note text, Image upload urls, time...",
         "author": "DavidAtReplit",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@DavidAtReplit/typescript-react-sam?t="
     },
     {
@@ -3616,7 +3616,7 @@
         "title": "Build a WhatsApp Business API Chrome Extension",
         "description": "# Problem Description\nWe have a Chrome extension that works on top of whatsapp web, but want to adapt it to go fully into whatsapp's business API. We will be using their Cloup API solution.\nCheck out their documentation here: https://developers.facebook.com/docs/whatsapp/cloud-api/get-started-for-bsps\n\nThe frontend needs to be heavily adapted to have a whatsapp client to see messages and be able to respond to them.\nThe backend needs to be built from scratch.\nThe website needs to be heavily adapted to include meta's onboarding process.\n\n# Acceptance Criteria\n1. build whatsapp client\nsee messages\nsend messages\nschedule messages (via templates)\nsee different conversations\ncreate templates, send them for meta's verification, use them to send the messages, etc\nsend attachments\nemojis, font formatting, etc...\nmultiple agents can sign in to it\n2. create a new backend\nconnects with whatsapp's APIs\nhas all the payment logic (to be defined)\n3. create account management system\nfrontend\nbackend\nad...",
         "author": "JavierAndre",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@JavierAndre/build-a-whatsapp-bus?t="
     },
     {
@@ -3646,7 +3646,7 @@
         "title": "JS script to replay an API call on a page",
         "description": "Want someone to inspect the network traffic on this page when booking a reservation then figure out how to write a JS script to replay the traffic for a new booking. https://www.spotery.com/site/sfrp\nAcceptance Criteria\n    Final script should be possible to book an appointment at a specified time all by itself after:\n    The page is loaded\n    The user drops the script into the Chrome dev tools console\n    The user completes the Captcha\nTechnical Details\n    Script will probably need to pickup some id tags from elements on the page to be able  to send the correct API calls.\nLink to Project",
         "author": "proales2",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@proales2/js-script-to-replay?t="
     },
     {
