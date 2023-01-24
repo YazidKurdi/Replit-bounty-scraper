@@ -3526,7 +3526,7 @@
         "title": "Build a Universal Accordion Component in Tamagui",
         "description": "We're using Tamagui for building a web application. We need an accordion component that will work both in react native and web. The open source repo has one started.\n\nAcceptance Criteria\n\nAccordion component works just like https://chakra-ui.com/docs/components/accordion/usage\nComponent signature should be consistent with the rest of Tamagui's components\nDelivered as either a tamagui starter repo with the component or a PR to their open source repo\n\nTechnical Details\n\nIt has to work on both web and react native using the same code\nSome keyboard accessibility is nice, but not a requirement\n\nLink to Project\n\nhttps://tamagui.dev/",
         "author": "MarcusWood1",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@MarcusWood1/build-a-universal-ac?t="
     },
     {
@@ -3576,7 +3576,7 @@
         "title": "Simple webapp for e-commerce platform",
         "description": "Problem to be Solved\n\nTiendaNube, a platform similar to Shopify, needs an app that can remind potential buyers to pay for their orders via WhatsApp if they abandon their cart. You can find more information on their APIs at the following link: https://tiendanube.github.io/api-documentation/intro\n\nProposed Solution\n\nCreate a private app for TiendaNube that enables user/store registration and installs three webhooks for the store: order creation, order update, and order paid. The app will listen to these webhooks and send a reminder to the potential buyer via WhatsApp using Twilio if an order is created but not paid within 24 hours.\n\nNote that the Twilio integration will not be your responsibility and your job will end by notifying our endpoint of an abandoned order (24 hours after creation without payment).\n\nAcceptance Criteria\n\nThe app is functional and allows for multi-user/multi-store registration. Don't worry about the UI, it just needs to be functional.\nThe three webhooks (order cre...",
         "author": "mattpatagon",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@mattpatagon/simple-webapp-for-e?t="
     },
     {
@@ -3586,7 +3586,7 @@
         "title": "Scrape NBA 2022-23 games to get first basket data",
         "description": "Hi,\n\nI am looking for an expert scraper to scrape first basket data from the NBA this season.\n\nEssentially, I would be looking to replicate something like this: https://firstbasketstats.com/. All the data you would need to do this can be found on ESPN when you go to the play-by-play (link to an example: https://www.espn.com/nba/playbyplay/_/gameId/401468861).\n\nIt would be necessary for the scraper to update with the new games everyday.\n\nReach out if you have any questions.",
         "author": "YouReachITeach4",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@YouReachITeach4/scrape-nba-2022-23-g?t="
     },
     {
@@ -3626,7 +3626,7 @@
         "title": "I think the endpoints in my Spring Boot application are unreachable + some JavaScript issues (Speedy response required)",
         "description": "I'm new to coding. I have built a basic Spring Boot application. For some reason the endpoint URLs are not being reached. I need help with a few things:\n\nCheck if my Config file is properly set up for CORS\nI have two Controllers but it seems the endpoints are not being reached. This is why I'm wondering if CORS is working.\nI have a JavaScript file which is suppose to fetch certain endpoints in corresponding Controllers, but it doesn't seem to be working. I also need you to check if I have it set up properly. Someone provided part of the JavaScript file and I built upon it but I don't know JavaScript I was just trying to figure it out on my own. There are two HTML files associated, which I will also provide.\n\nOnce the issues are fixed, there are a few things that I will need to test to make sure what you have done is actually working.\n\nAcceptance Criteria\nExperienced (skilled) in Java, JavaScript, HTML.\nTechnical Details\nSee above.\nLink to Project\nWill provide the co...",
         "author": "mdotbaig",
-        "posted_time": "2 minutes ago",
+        "posted_time": "23 minutes ago",
         "link": "https://replit.com/bounties/@mdotbaig/i-think-the-endpoint?t="
     }
 ]
