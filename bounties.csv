@@ -3004,7 +3004,7 @@ Essentially, I would be looking to replicate something like this: https://firstb
 
 It would be necessary for the scraper to update with the new games everyday.
 
-Reach out if you have any questions.",YouReachITeach4,7 hours ago,https://replit.com/bounties/@YouReachITeach4/scrape-nba-2022-23-g?t=
+Reach out if you have any questions.",YouReachITeach4,8 hours ago,https://replit.com/bounties/@YouReachITeach4/scrape-nba-2022-23-g?t=
 359,$46.15,due in 5 days,Typescript + React: Sample Simple Notes app: Repl Auth -> Simple Form -> ReplitDB -> Show Content,"I want to learn React + Typescript - I'm PHP, MySQL, Flask, etc. experienced so want an example app, well documented, that goes through a workflow I'm familiar with.
 You'll be building a very simple example notes app that  follows the flow of Repl Auth -> Simple Form -> ReplitDB -> Show Content.
 
@@ -3017,7 +3017,7 @@ Two page website in Typescript and React:
 Data is stored in a ReplDB, images are stored in an uploads/username/noteid folder. Data includes Title, Note text, Image upload urls, time...",DavidAtReplit,7 hours ago,https://replit.com/bounties/@DavidAtReplit/typescript-react-sam?t=
 360,$0.90,due in 13 days,Make my domain work with hostgator,"I am trying to get my domain to work with my hostgator hosting but I don't know how to do it.
 Acceptance Criteria
-Help me finish that so my app and domain both work. Domain is from Name.com",CrownDevelopment,6 hours ago,https://replit.com/bounties/@CrownDevelopment/make-my-domain-work?t=
+Help me finish that so my app and domain both work. Domain is from Name.com",CrownDevelopment,7 hours ago,https://replit.com/bounties/@CrownDevelopment/make-my-domain-work?t=
 361,$1.35,due in 4 months,Build a WhatsApp Business API Chrome Extension,"# Problem Description
 We have a Chrome extension that works on top of whatsapp web, but want to adapt it to go fully into whatsapp's business API. We will be using their Cloup API solution.
 Check out their documentation here: https://developers.facebook.com/docs/whatsapp/cloud-api/get-started-for-bsps
@@ -3105,7 +3105,7 @@ I need a wordpress plugin for creators to be able to have their own, personal, c
 2-Let User set up their OpenAI API key
 3-Fine tune the GPT3 model
 4-Offer a way to generate new posts some will be standalone, some thread ideas, depend on user choice (""extend this post"" or ""start from scratch"" type feature)
-5-User will be able to generate 1...",GetInference,1 hour ago,https://replit.com/bounties/@GetInference/finebrand-wordpress?t=
+5-User will be able to generate 1...",GetInference,2 hours ago,https://replit.com/bounties/@GetInference/finebrand-wordpress?t=
 367,$94.50,due in 13 days,Android Background Blink Tracker (No iOS),"I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on Android. It should also show a graph of your historical blink rate (for instance, batched 60 minutes at a time, with a scrollable graph over time).
 
 To see the iOS version of this bounty, see https://replit.com/bounties/@AJGupta/background-blink-tra?t= .

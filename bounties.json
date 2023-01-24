@@ -3586,7 +3586,7 @@
         "title": "Scrape NBA 2022-23 games to get first basket data",
         "description": "Hi,\n\nI am looking for an expert scraper to scrape first basket data from the NBA this season.\n\nEssentially, I would be looking to replicate something like this: https://firstbasketstats.com/. All the data you would need to do this can be found on ESPN when you go to the play-by-play (link to an example: https://www.espn.com/nba/playbyplay/_/gameId/401468861).\n\nIt would be necessary for the scraper to update with the new games everyday.\n\nReach out if you have any questions.",
         "author": "YouReachITeach4",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@YouReachITeach4/scrape-nba-2022-23-g?t="
     },
     {
@@ -3606,7 +3606,7 @@
         "title": "Make my domain work with hostgator",
         "description": "I am trying to get my domain to work with my hostgator hosting but I don't know how to do it.\nAcceptance Criteria\nHelp me finish that so my app and domain both work. Domain is from Name.com",
         "author": "CrownDevelopment",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@CrownDevelopment/make-my-domain-work?t="
     },
     {
@@ -3666,7 +3666,7 @@
         "title": "FineBrand: Wordpress AI",
         "description": "Users have been writing on their blogs for ever so being able to train the model on long-form content and then generate new posts in their voice is a must have.\nI need a wordpress plugin for creators to be able to have their own, personal, custom AI model, based on GPT-3 series that would give high-quality inspiration in line with their brand voice (as opposed to some of the generic AI writing tools out there) that would:\n1- Select the historical posts with the highest level of engagement in priority. The plugin should show the post we'd used and let the user remove what they don't want but keeping in mind the minimum number we would need to fine tune the model . It should also strip out comments from the posts\n2-Let User set up their OpenAI API key\n3-Fine tune the GPT3 model\n4-Offer a way to generate new posts some will be standalone, some thread ideas, depend on user choice (\"extend this post\" or \"start from scratch\" type feature)\n5-User will be able to generate 1...",
         "author": "GetInference",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@GetInference/finebrand-wordpress?t="
     },
     {
