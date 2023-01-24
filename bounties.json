@@ -3476,7 +3476,7 @@
         "title": "Create a python library to log all Request activities",
         "description": "I would like to get all the API calls and responses going through my python application.\n\nAcceptance Criteria\nI need to log all API requests made in a python application and to send those requests to another server I'm logging these requests.\nThe solution should happen automatically to all API calls, and not something a developer needs to add to each call.\nAll request types are captured: GET, POST, DELETE, UPDATE, etc.\nThe request and response data is captured\nBoth the request and response data is sent to another server for logging\n\nTechnical Details\nWorks on python 2 and 3\nWorks with the Requests library built into python",
         "author": "AhmadSadeddin1",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@AhmadSadeddin1/create-a-python-libr?t="
     },
     {
@@ -3528,5 +3528,25 @@
         "author": "MarcusWood1",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@MarcusWood1/build-a-universal-ac?t="
+    },
+    {
+        "index": "353",
+        "price": "$90.00",
+        "due_days": "due in 4 days",
+        "title": "Map address to submarkets",
+        "description": "You are given addresses in a CSV file and you need to write Python code to add a new column called \"Submarket\" that indicates which submarket the address belongs to. In order to do so, you will need to create the boundaries for each submarket based on Google Maps screenshot (please see the link below) of the submarket and apply the rules to map the address to the submarket.\n\nDetailed instructions are here: https://docs.google.com/document/d/1uecSbWx1euNgLPt52Y26ct8MdNAZnivh3C0sedmUE/edit\n\nAcceptance Criteria\nPython code that takes in the CSV file and maps the address to the submarket. The code will output a new CSV file with the original columns along with Submarket as a column.\nA CSV file with the original columns and the newly added Submarket to verify correctness.\n\nTechnical Details\nPython code only. May need to use GeoJSON tools and Google Maps API to get lat long of address to check for inclusion in the submarket boundary.\n\nLink to Project\nhttps://docs.google.c...",
+        "author": "BrianSu5",
+        "posted_time": "12 minutes ago",
+        "link": "https://replit.com/bounties/@BrianSu5/map-address-to-subma?t="
+    },
+    {
+        "index": "354",
+        "price": "$90.00",
+        "due_days": "due in 4 days",
+        "title": "UIgesturerecognizer for CAtextLayer in Swift",
+        "description": "I want the user to be able to move different textlayers on the screen and record their position to add them to a  video at that position.\n\nAcceptance Criteria\nExperience with Swift",
+        "author": "Lucasden",
+        "posted_time": "6 minutes ago",
+        "link": "https://replit.com/bounties/@Lucasden/uigesturerecognizer?t="
     }
 ]
