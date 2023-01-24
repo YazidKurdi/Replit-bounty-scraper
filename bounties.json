@@ -3636,7 +3636,7 @@
         "title": "Bug fix - JS and Qualtrics [should take 2 minutes for someone with JS skills, literally just debugging a chatgpt answer]] ",
         "description": "I am having trouble with a Javascript code that I plug into in Qualtrics, a survey tool.\n\nI am using this package:\nhttps://github.com/pkmnct/qualtrics-google-map-lat-long\n\nThe issue is that when I drag the marker, the address does not dynamically update on the survey participant's screen. So, if I first enter my address using the autofill, then drag, the participant may be confused about what the address they are entering is.\n\nCan you help me make the address load automatically?\n\nAcceptance Criteria\n\nProducing JS code that makes the text box auto load dynamically.\n\nTechnical Details\nJS only.\n\nChatGPT's advice\n\nIt recommends augmenting the code with the below. This still doesn't dynamically update for the survey participant's textbox. But gets closer.\n\ninitGoogleMapsQuestion(this.questionId, this.getQuestionContainer(), {\n  // Map Options, set these! See Map Options in Option Documentation Section\n  options: {\n    center: {\n      lat: 35.1457,\n      lng: -89.9883,\n  ...",
         "author": "CharlieRafkin",
-        "posted_time": "29 minutes ago",
+        "posted_time": "37 minutes ago",
         "link": "https://replit.com/bounties/@CharlieRafkin/bug-fix-js-and-qualt?t="
     },
     {
@@ -3646,7 +3646,7 @@
         "title": "JS script to replay an API call on a page",
         "description": "Want someone to inspect the network traffic on this page when booking a reservation then figure out how to write a JS script to replay the traffic for a new booking. https://www.spotery.com/site/sfrp\nAcceptance Criteria\n    Final script should be possible to book an appointment at a specified time all by itself after:\n    The page is loaded\n    The user drops the script into the Chrome dev tools console\n    The user completes the Captcha\nTechnical Details\n    Script will probably need to pickup some id tags from elements on the page to be able  to send the correct API calls.\nLink to Project",
         "author": "proales2",
-        "posted_time": "9 minutes ago",
+        "posted_time": "16 minutes ago",
         "link": "https://replit.com/bounties/@proales2/js-script-to-replay?t="
     }
 ]
