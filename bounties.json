@@ -3736,7 +3736,7 @@
         "title": "Get endpoint error for Spring Boot Application",
         "description": "Here are errors I am getting when I deploy my app to heroku:\n\n2023-01-25T03:05:11.281135+00:00 heroku[router]: at=error code=H10 desc=\"App crashed\" method=GET path=\"/\"\n\n2023-01-25T03:05:11.485552+00:00 heroku[router]: at=error code=H10 desc=\"App crashed\" method=GET path=\"/favicon.ico\"\n\nAcceptance Criteria\nNeed someone who knows Spring Boot Java and also JavaScript to be able to resolve this issue.",
         "author": "mdotbaig",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/get-endpoint-error-f?t="
     },
     {
@@ -3766,7 +3766,7 @@
         "title": "Make a simple mass discord token changer",
         "description": "Make a simple mass discord token changer which will accept tokens from tokens.txt in email:password:token format and change the token password to a specific/random 8 character and retrieve the new token and store the values in a new txt file in email:newpassword:newtoken format.",
         "author": "gamerspy2234",
-        "posted_time": "31 minutes ago",
+        "posted_time": "41 minutes ago",
         "link": "https://replit.com/bounties/@gamerspy2234/make-a-simple-mass-d?t="
     },
     {
@@ -3776,17 +3776,17 @@
         "title": "Scrape Google Maps to help fight thieves targeting low income families in the USA",
         "description": "People who receive nutrition assistance from the federal government are having their benefits stolen. Many of them leave reviews of the businesses where they experience theft (via ATMs or other card skimming methods). We want to search a list of all EBT retailers (provided) for their Google Maps POI listings, and then search the reviews on those POIs for the presence of the string \"steal\" AND presence of the string \"EBT\"\n\nAcceptance Criteria\n\nMust include record of an attempted search for each row in the list of EBT retailers\nMust include record of a search of the reviews associated with at least one POI for every EBT retailer (there will be plenty of inexact matches)\nMust include the full text of the review (no other metadata, like date of review or reviewer name) that contains both strings \"steal\" and \"EBT\"\nOutput can be CSV or JSON\n\nTechnical Details",
         "author": "AlanWilliams2",
-        "posted_time": "16 minutes ago",
+        "posted_time": "26 minutes ago",
         "link": "https://replit.com/bounties/@AlanWilliams2/scrape-google-maps-t?t="
     },
     {
         "index": "378",
         "price": "$31.50",
-        "due_days": "due in 12 days",
+        "due_days": "due in 10 days",
         "title": "Create a social media post with 100K+ views",
         "description": "Make aitools.fyi go viral!\n\nPost a video/short on TikTok, Instagram, YouTube, and/or Snapchat about how amazing aitools.fyi is(or an informative video) and get over 100K views and get the bounty!\n\nPlease note: North American based audience is preferred for this bounty.\n\nAcceptance Criteria\nYou have to share analytics of the video and the actual video link. The video has to clearly mention aitools.fyi. The website address aitools.fyi should be in the description of the video.",
         "author": "SouthernEast",
-        "posted_time": "3 minutes ago",
+        "posted_time": "13 minutes ago",
         "link": "https://replit.com/bounties/@SouthernEast/create-a-social-medi?t="
     }
 ]
