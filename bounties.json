@@ -3696,7 +3696,7 @@
         "title": "A customized version of ChatGPT for the Communications/PR Industry",
         "description": "#The last time the PR industry was disrupted was the launch of Microsoft Word. It's a very analog sector, and most of the work products are basic -- but still customized -- pieces of writing: press releases, op-eds, media advisories. ChatGPT can produce drafts of these, but they still aren't specific enough to be useful for an individual or a company. By developing a customized version of ChatGPT -- one which effectively guides the user through inputting the right documents and content -- I hope to build a program automates much of the basic writing in the communications sector.\n\n#A simple interface where non-technical users can input relevant documents (.doc and google doc files) and guidance that will allow the customized version of GPT-3 to output more personalized and relevant writing\n#Ideally, I would also like to explore how a voice-to-text function could be plugged in. For instance, could a file from a service like Otter.ai or Rev.com be used as an input",
         "author": "RyanJacobs9",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@RyanJacobs9/a-customized-version?t="
     },
     {
@@ -3776,17 +3776,17 @@
         "title": "Scrape Google Maps to help fight thieves targeting low income families in the USA",
         "description": "People who receive nutrition assistance from the federal government are having their benefits stolen. Many of them leave reviews of the businesses where they experience theft (via ATMs or other card skimming methods). We want to search a list of all EBT retailers (provided) for their Google Maps POI listings, and then search the reviews on those POIs for the presence of the string \"steal\" AND presence of the string \"EBT\"\n\nAcceptance Criteria\n\nMust include record of an attempted search for each row in the list of EBT retailers\nMust include record of a search of the reviews associated with at least one POI for every EBT retailer (there will be plenty of inexact matches)\nMust include the full text of the review (no other metadata, like date of review or reviewer name) that contains both strings \"steal\" and \"EBT\"\nOutput can be CSV or JSON\n\nTechnical Details",
         "author": "AlanWilliams2",
-        "posted_time": "58 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@AlanWilliams2/scrape-google-maps-t?t="
     },
     {
         "index": "378",
         "price": "$31.50",
-        "due_days": "due in 10 days",
+        "due_days": "due in 16 days",
         "title": "Create a social media post with 100K+ views",
         "description": "Make aitools.fyi go viral!\n\nPost a video/short on TikTok, Instagram, YouTube, and/or Snapchat about how amazing aitools.fyi is(or an informative video) and get over 100K views and get the bounty!\n\nPlease note: North American based audience is preferred for this bounty.\n\nAcceptance Criteria\nYou have to share analytics of the video and the actual video link. The video has to clearly mention aitools.fyi. The website address aitools.fyi should be in the description of the video.",
         "author": "SouthernEast",
-        "posted_time": "45 minutes ago",
+        "posted_time": "54 minutes ago",
         "link": "https://replit.com/bounties/@SouthernEast/create-a-social-medi?t="
     }
 ]

@@ -3132,7 +3132,7 @@ If the filter returns more than 10 strategies, it should order all strategies re
 369,"$1,665.00",due in 1 month,A customized version of ChatGPT for the Communications/PR Industry,"#The last time the PR industry was disrupted was the launch of Microsoft Word. It's a very analog sector, and most of the work products are basic -- but still customized -- pieces of writing: press releases, op-eds, media advisories. ChatGPT can produce drafts of these, but they still aren't specific enough to be useful for an individual or a company. By developing a customized version of ChatGPT -- one which effectively guides the user through inputting the right documents and content -- I hope to build a program automates much of the basic writing in the communications sector.
 
 #A simple interface where non-technical users can input relevant documents (.doc and google doc files) and guidance that will allow the customized version of GPT-3 to output more personalized and relevant writing
-#Ideally, I would also like to explore how a voice-to-text function could be plugged in. For instance, could a file from a service like Otter.ai or Rev.com be used as an input",RyanJacobs9,16 hours ago,https://replit.com/bounties/@RyanJacobs9/a-customized-version?t=
+#Ideally, I would also like to explore how a voice-to-text function could be plugged in. For instance, could a file from a service like Otter.ai or Rev.com be used as an input",RyanJacobs9,17 hours ago,https://replit.com/bounties/@RyanJacobs9/a-customized-version?t=
 370,$450.00,due in 1 month,Investment Sourcing AI Tool,"I spend much of my day customizing emails to early stage software companies as a potential investment partner. I'm looking for someone to build a tool powered by Chat GPT that can ingest a target companies LinkedIn and the founders LinkedIn (and leverage my firms investment experience) to write custom emails to founders at scale.
 
 Acceptance Criteria
@@ -3201,12 +3201,12 @@ Must include record of a search of the reviews associated with at least one POI 
 Must include the full text of the review (no other metadata, like date of review or reviewer name) that contains both strings ""steal"" and ""EBT""
 Output can be CSV or JSON
 
-Technical Details",AlanWilliams2,58 minutes ago,https://replit.com/bounties/@AlanWilliams2/scrape-google-maps-t?t=
-378,$31.50,due in 10 days,Create a social media post with 100K+ views,"Make aitools.fyi go viral!
+Technical Details",AlanWilliams2,1 hour ago,https://replit.com/bounties/@AlanWilliams2/scrape-google-maps-t?t=
+378,$31.50,due in 16 days,Create a social media post with 100K+ views,"Make aitools.fyi go viral!
 
 Post a video/short on TikTok, Instagram, YouTube, and/or Snapchat about how amazing aitools.fyi is(or an informative video) and get over 100K views and get the bounty!
 
 Please note: North American based audience is preferred for this bounty.
 
 Acceptance Criteria
-You have to share analytics of the video and the actual video link. The video has to clearly mention aitools.fyi. The website address aitools.fyi should be in the description of the video.",SouthernEast,45 minutes ago,https://replit.com/bounties/@SouthernEast/create-a-social-medi?t=
+You have to share analytics of the video and the actual video link. The video has to clearly mention aitools.fyi. The website address aitools.fyi should be in the description of the video.",SouthernEast,54 minutes ago,https://replit.com/bounties/@SouthernEast/create-a-social-medi?t=
