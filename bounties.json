@@ -3686,7 +3686,7 @@
         "title": "Basic backtesting tool",
         "description": "I have an idea for a trading strategy that I\u2019d like to backtest, and would like a Python script to allow me to see how it would have performed.\n\nI have detailed the strategy that I am planning to put live, so that you know what needs to happen during the backtest.\n\nThe site is www.darwinex.com and they have trading products called \u2018Darwins\u2019. Each Darwin has a three letter codename e.g. \u2018THA\u2019.\n\nHere is their API documentation:  https://darwinex.github.io/darwin-api-tutorials/ and https://api.darwinex.com/store/\n\nTo start the trading strategy, the system should filter all of the available \u2018Darwins\u2019 by the following criteria:\n\nMonthly divergence of less than -0.19%\nLoss aversion of more than 6\nD-Score of more than 75\nRisk Stability of more than 7\nCapacity of more than 3\n\nIf the filter returns more than 10 strategies, it should order all strategies returned by the D-score (highest number being the best) and should then buy an even amount of the account balance in the te...",
         "author": "BenSwanson2",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@BenSwanson2/basic-backtesting-to?t="
     },
     {
@@ -3716,7 +3716,7 @@
         "title": "Homework website: for summaries, outlines, and essays",
         "description": "I'm looking for someone to build a simple website, that uses OpenAI, and has a simple UI (something like ChatGPT welcome screen).\n\nIt's functions would be just: 1) Make summary, 2) Make outline, 3) Write an essay.\nThe input box could receive the pasted text to work with, or a url (for example wikipedia.org/wiki/Elon_Musk)\n\nThen it performs the assigned work and displays it underneath, into the same page. And it has a \"copy\" icon to get the text copied, so that it can then be pasted in a doc.\n\nThe audience of the service is spanish speaking students, and the domain is in spanish, so the main language is going to be spanish for the UI and for the work done.\n\nAcceptance Criteria\n\nTechnical Details\nI already have the domain @godaddy\n\nCode should be commented and readable so it can be expanded in the future, for example to generate images that can complement the text.",
         "author": "PracticAI",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@PracticAI/homework-website-for?t="
     },
     {
@@ -3726,7 +3726,7 @@
         "title": "Edit css stuff for me (already claimed)",
         "description": "Describe the problem you are trying to solve here.\nstuff\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "fatty121",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@fatty121/edit-css-stuff-for-m?t="
     },
     {
