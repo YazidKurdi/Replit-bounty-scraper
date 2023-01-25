@@ -3746,7 +3746,7 @@
         "title": "Interactive landing page built in three.js",
         "description": "Build an interactive website similar to Ethereum Foundation. We need it built in three.js. We want to light up the relationships between the data center graphics and introduce an element of electricity between the relationships. EF site here https://ethereum.foundation. Our design here: https://www.dropbox.com/s/rr103u3wn30kbro/store%20facebook%20cover.jpeg?dl=0. Design files provided upon hiring.\n\nAcceptance Criteria\nA simple landing that animates the Drobox file, built in three.js, that integrates some Electricity in\n\nTechnical Details\nBuilt in three.js, ready to be deployed (via Store Cloud)\n\nTimelines / Milestones\nConcept and technical spec required for hiring\nFast daily iterations to wrap up from there",
         "author": "ChrisMcCoy3",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@ChrisMcCoy3/interactive-landing?t="
     },
     {
@@ -3756,7 +3756,7 @@
         "title": "Twitter Replies Script",
         "description": "I have a Repl that, given a specific Tweet ID, it will call the Twitter API and pull all replies and import them into a csv. However, I want to upgrade this script to be able to:\n\nPull all recent tweets of a twitter account if given a specific twitter handle\nImport all the replies into the current replies.csv file (already made, just need to integrate this properly in the account loop)\nImport all the usernames that retweeted the same tweets into retweets.csv\n\nAcceptance Criteria:\n\nThe script now takes in a Twitter Handle as the main input and will pull tweets of the past day\nThe script will iterate through all these tweets and pull:\nreply tweets and authors into replies.csv\nretweeting accounts into retweets.csv\nBonus: You schedule the repl to run daily",
         "author": "lopezhoracio",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@lopezhoracio/twitter-replies-scri?t="
     },
     {
@@ -3786,7 +3786,7 @@
         "title": "Create a social media post with 100K+ views",
         "description": "Make aitools.fyi go viral!\n\nPost a video/short on TikTok, Instagram, YouTube, and/or Snapchat about how amazing aitools.fyi is(or an informative video) and get over 100K views and get the bounty!\n\nPlease note: North American based audience is preferred for this bounty.\n\nAcceptance Criteria\nYou have to share analytics of the video and the actual video link. The video has to clearly mention aitools.fyi. The website address aitools.fyi should be in the description of the video.",
         "author": "SouthernEast",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@SouthernEast/create-a-social-medi?t="
     },
     {
@@ -3816,7 +3816,7 @@
         "title": "Clone OpenAI Playground & Examples (with Login)",
         "description": "Clone OpenAI playground and examples pages and functionality.\nFree to change theme or use similar theme\nPlayground (include working submit, load preset search list) (dont include model filters, can use defaults)\nExamples (don't need to clone all examples only ten I will provide later)\nExamples Popup (include popup screen that allows you to view example and option to open in playground)\nGoogle signin\n\nAcceptance Criteria\nfront and backend\nmust work on shared hosting",
         "author": "BrandonF7",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@BrandonF7/clone-openai-playgro?t="
     },
     {
