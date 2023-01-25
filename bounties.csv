@@ -3132,7 +3132,7 @@ If the filter returns more than 10 strategies, it should order all strategies re
 369,"$1,665.00",due in 1 month,A customized version of ChatGPT for the Communications/PR Industry,"#The last time the PR industry was disrupted was the launch of Microsoft Word. It's a very analog sector, and most of the work products are basic -- but still customized -- pieces of writing: press releases, op-eds, media advisories. ChatGPT can produce drafts of these, but they still aren't specific enough to be useful for an individual or a company. By developing a customized version of ChatGPT -- one which effectively guides the user through inputting the right documents and content -- I hope to build a program automates much of the basic writing in the communications sector.
 
 #A simple interface where non-technical users can input relevant documents (.doc and google doc files) and guidance that will allow the customized version of GPT-3 to output more personalized and relevant writing
-#Ideally, I would also like to explore how a voice-to-text function could be plugged in. For instance, could a file from a service like Otter.ai or Rev.com be used as an input",RyanJacobs9,15 hours ago,https://replit.com/bounties/@RyanJacobs9/a-customized-version?t=
+#Ideally, I would also like to explore how a voice-to-text function could be plugged in. For instance, could a file from a service like Otter.ai or Rev.com be used as an input",RyanJacobs9,16 hours ago,https://replit.com/bounties/@RyanJacobs9/a-customized-version?t=
 370,$450.00,due in 1 month,Investment Sourcing AI Tool,"I spend much of my day customizing emails to early stage software companies as a potential investment partner. I'm looking for someone to build a tool powered by Chat GPT that can ingest a target companies LinkedIn and the founders LinkedIn (and leverage my firms investment experience) to write custom emails to founders at scale.
 
 Acceptance Criteria
@@ -3191,4 +3191,14 @@ The script will iterate through all these tweets and pull:
 reply tweets and authors into replies.csv
 retweeting accounts into retweets.csv
 Bonus: You schedule the repl to run daily",lopezhoracio,8 hours ago,https://replit.com/bounties/@lopezhoracio/twitter-replies-scri?t=
-376,$2.70,due in 3 days,Make a simple mass discord token changer,Make a simple mass discord token changer which will accept tokens from tokens.txt in email:password:token format and change the token password to a specific/random 8 character and retrieve the new token and store the values in a new txt file in email:newpassword:newtoken format.,gamerspy2234,12 minutes ago,https://replit.com/bounties/@gamerspy2234/make-a-simple-mass-d?t=
+376,$2.70,due in 3 days,Make a simple mass discord token changer,Make a simple mass discord token changer which will accept tokens from tokens.txt in email:password:token format and change the token password to a specific/random 8 character and retrieve the new token and store the values in a new txt file in email:newpassword:newtoken format.,gamerspy2234,21 minutes ago,https://replit.com/bounties/@gamerspy2234/make-a-simple-mass-d?t=
+377,$450.00,due in 3 days,Scrape Google Maps to help fight thieves targeting low income families in the USA,"People who receive nutrition assistance from the federal government are having their benefits stolen. Many of them leave reviews of the businesses where they experience theft (via ATMs or other card skimming methods). We want to search a list of all EBT retailers (provided) for their Google Maps POI listings, and then search the reviews on those POIs for the presence of the string ""steal"" AND presence of the string ""EBT""
+
+Acceptance Criteria
+
+Must include record of an attempted search for each row in the list of EBT retailers
+Must include record of a search of the reviews associated with at least one POI for every EBT retailer (there will be plenty of inexact matches)
+Must include the full text of the review (no other metadata, like date of review or reviewer name) that contains both strings ""steal"" and ""EBT""
+Output can be CSV or JSON
+
+Technical Details",AlanWilliams2,6 minutes ago,https://replit.com/bounties/@AlanWilliams2/scrape-google-maps-t?t=
