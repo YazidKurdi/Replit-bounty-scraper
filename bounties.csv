@@ -3177,7 +3177,7 @@ Built in three.js, ready to be deployed (via Store Cloud)
 
 Timelines / Milestones
 Concept and technical spec required for hiring
-Fast daily iterations to wrap up from there",ChrisMcCoy3,19 hours ago,https://replit.com/bounties/@ChrisMcCoy3/interactive-landing?t=
+Fast daily iterations to wrap up from there",ChrisMcCoy3,20 hours ago,https://replit.com/bounties/@ChrisMcCoy3/interactive-landing?t=
 375,$90.00,due in 15 days,Twitter Replies Script,"I have a Repl that, given a specific Tweet ID, it will call the Twitter API and pull all replies and import them into a csv. However, I want to upgrade this script to be able to:
 
 Pull all recent tweets of a twitter account if given a specific twitter handle
@@ -3190,7 +3190,7 @@ The script now takes in a Twitter Handle as the main input and will pull tweets 
 The script will iterate through all these tweets and pull:
 reply tweets and authors into replies.csv
 retweeting accounts into retweets.csv
-Bonus: You schedule the repl to run daily",lopezhoracio,16 hours ago,https://replit.com/bounties/@lopezhoracio/twitter-replies-scri?t=
+Bonus: You schedule the repl to run daily",lopezhoracio,17 hours ago,https://replit.com/bounties/@lopezhoracio/twitter-replies-scri?t=
 376,$2.70,due in 3 days,Make a simple mass discord token changer,Make a simple mass discord token changer which will accept tokens from tokens.txt in email:password:token format and change the token password to a specific/random 8 character and retrieve the new token and store the values in a new txt file in email:newpassword:newtoken format.,gamerspy2234,9 hours ago,https://replit.com/bounties/@gamerspy2234/make-a-simple-mass-d?t=
 377,$450.00,due in 3 days,Scrape Google Maps to help fight thieves targeting low income families in the USA,"People who receive nutrition assistance from the federal government are having their benefits stolen. Many of them leave reviews of the businesses where they experience theft (via ATMs or other card skimming methods). We want to search a list of all EBT retailers (provided) for their Google Maps POI listings, and then search the reviews on those POIs for the presence of the string ""steal"" AND presence of the string ""EBT""
 
@@ -3209,7 +3209,7 @@ Post a video/short on TikTok, Instagram, YouTube, and/or Snapchat about how amaz
 Please note: North American based audience is preferred for this bounty.
 
 Acceptance Criteria
-You have to share analytics of the video and the actual video link. The video has to clearly mention aitools.fyi. The website address aitools.fyi should be in the description of the video.",SouthernEast,8 hours ago,https://replit.com/bounties/@SouthernEast/create-a-social-medi?t=
+You have to share analytics of the video and the actual video link. The video has to clearly mention aitools.fyi. The website address aitools.fyi should be in the description of the video.",SouthernEast,9 hours ago,https://replit.com/bounties/@SouthernEast/create-a-social-medi?t=
 379,$9.00,due in 3 days,Create a new record in Airtable when a new Trustpilot review comes in,"This is the starting point of a bigger project, but I want to learn what's possible and how it works fist. There is a TrustPilot API which fires when a new review is left. I want that to create a record in Airtable.
 
 Technical Details
