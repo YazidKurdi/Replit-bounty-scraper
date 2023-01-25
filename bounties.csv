@@ -3201,7 +3201,7 @@ Must include record of a search of the reviews associated with at least one POI 
 Must include the full text of the review (no other metadata, like date of review or reviewer name) that contains both strings ""steal"" and ""EBT""
 Output can be CSV or JSON
 
-Technical Details",AlanWilliams2,5 hours ago,https://replit.com/bounties/@AlanWilliams2/scrape-google-maps-t?t=
+Technical Details",AlanWilliams2,6 hours ago,https://replit.com/bounties/@AlanWilliams2/scrape-google-maps-t?t=
 378,$31.50,due in 16 days,Create a social media post with 100K+ views,"Make aitools.fyi go viral!
 
 Post a video/short on TikTok, Instagram, YouTube, and/or Snapchat about how amazing aitools.fyi is(or an informative video) and get over 100K views and get the bounty!
@@ -3228,3 +3228,20 @@ I need someone who can quickly implement this, and can take general guidance and
 
 Link to Project
 Can provide link and details to the person chosen to complete the bounty",GavinYerxa1,2 hours ago,https://replit.com/bounties/@GavinYerxa1/add-a-button-to-a-cu?t=
+381,$90.00,due in 27 days,Clone OpenAI Playground & Examples (with Login),"Clone OpenAI playground and examples pages and functionality.
+Free to change theme or use similar theme
+Playground (include working submit, load preset search list) (dont include model filters, can use defaults)
+Examples (don't need to clone all examples only ten I will provide later)
+Examples Popup (include popup screen that allows you to view example and option to open in playground)
+Google signin
+
+Acceptance Criteria
+front and backend
+must work on shared hosting",BrandonF7,14 minutes ago,https://replit.com/bounties/@BrandonF7/clone-openai-playgro?t=
+382,$9.00,due in 3 days,Discussion on what is possible with Stable Diffusion / Dall-E etc.,"I'm not looking for any code for this first step. I'd just like to know what is possible and then explore from there.
+
+My friend is an artist and creates line drawings from photos. Example here: https://share.cleanshot.com/NyLyFxTN
+
+I'd like to know if it's possible to train a model with lots of his work - i.e. the original photo and the corresponding line drawing - so that a new photo can be uploaded and a line drawing returned.
+
+I'd like this to be on a live website, so if it is possible, I'd like to know all of the steps required.",AndrewShowman,2 minutes ago,https://replit.com/bounties/@AndrewShowman/discussion-on-what-i?t=
