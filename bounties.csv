@@ -3166,7 +3166,7 @@ Be specific about what you want in the solution here.",fatty121,17 hours ago,htt
 2023-01-25T03:05:11.485552+00:00 heroku[router]: at=error code=H10 desc=""App crashed"" method=GET path=""/favicon.ico""
 
 Acceptance Criteria
-Need someone who knows Spring Boot Java and also JavaScript to be able to resolve this issue.",mdotbaig,15 hours ago,https://replit.com/bounties/@mdotbaig/get-endpoint-error-f?t=
+Need someone who knows Spring Boot Java and also JavaScript to be able to resolve this issue.",mdotbaig,16 hours ago,https://replit.com/bounties/@mdotbaig/get-endpoint-error-f?t=
 374,$13.50,due in 4 days,Interactive landing page built in three.js,"Build an interactive website similar to Ethereum Foundation. We need it built in three.js. We want to light up the relationships between the data center graphics and introduce an element of electricity between the relationships. EF site here https://ethereum.foundation. Our design here: https://www.dropbox.com/s/rr103u3wn30kbro/store%20facebook%20cover.jpeg?dl=0. Design files provided upon hiring.
 
 Acceptance Criteria
@@ -3191,7 +3191,7 @@ The script will iterate through all these tweets and pull:
 reply tweets and authors into replies.csv
 retweeting accounts into retweets.csv
 Bonus: You schedule the repl to run daily",lopezhoracio,12 hours ago,https://replit.com/bounties/@lopezhoracio/twitter-replies-scri?t=
-376,$2.70,due in 3 days,Make a simple mass discord token changer,Make a simple mass discord token changer which will accept tokens from tokens.txt in email:password:token format and change the token password to a specific/random 8 character and retrieve the new token and store the values in a new txt file in email:newpassword:newtoken format.,gamerspy2234,4 hours ago,https://replit.com/bounties/@gamerspy2234/make-a-simple-mass-d?t=
+376,$2.70,due in 3 days,Make a simple mass discord token changer,Make a simple mass discord token changer which will accept tokens from tokens.txt in email:password:token format and change the token password to a specific/random 8 character and retrieve the new token and store the values in a new txt file in email:newpassword:newtoken format.,gamerspy2234,5 hours ago,https://replit.com/bounties/@gamerspy2234/make-a-simple-mass-d?t=
 377,$450.00,due in 3 days,Scrape Google Maps to help fight thieves targeting low income families in the USA,"People who receive nutrition assistance from the federal government are having their benefits stolen. Many of them leave reviews of the businesses where they experience theft (via ATMs or other card skimming methods). We want to search a list of all EBT retailers (provided) for their Google Maps POI listings, and then search the reviews on those POIs for the presence of the string ""steal"" AND presence of the string ""EBT""
 
 Acceptance Criteria
@@ -3217,7 +3217,7 @@ Technical Details
 TrustPilot API details here:
 https://documentation-apidocumentation.trustpilot.com/service-reviews-api
 
-I'm new to Replit so please allow for that in your quote as some things may take slightly longer as a result.",AndrewShowman,40 minutes ago,https://replit.com/bounties/@AndrewShowman/create-a-new-record?t=
+I'm new to Replit so please allow for that in your quote as some things may take slightly longer as a result.",AndrewShowman,47 minutes ago,https://replit.com/bounties/@AndrewShowman/create-a-new-record?t=
 380,$67.50,due in 3 days,Add a button to a custom react app built on top of Airtable,"I have an MVP app, that is a react frontend built on top of Airtable (and using Softr to manage login and auth.)
 
 The app has public facing user-profiles. I need to add a button on those public-facing profiles. That's it, literally just a button.
@@ -3227,4 +3227,4 @@ Acceptance Criteria
 I need someone who can quickly implement this, and can take general guidance and turn it into final components. Opportunity for more projects if interested.
 
 Link to Project
-Can provide link and details to the person chosen to complete the bounty",GavinYerxa1,21 minutes ago,https://replit.com/bounties/@GavinYerxa1/add-a-button-to-a-cu?t=
+Can provide link and details to the person chosen to complete the bounty",GavinYerxa1,28 minutes ago,https://replit.com/bounties/@GavinYerxa1/add-a-button-to-a-cu?t=
