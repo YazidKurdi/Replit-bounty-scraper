@@ -3716,7 +3716,7 @@
         "title": "Homework website: for summaries, outlines, and essays",
         "description": "I'm looking for someone to build a simple website, that uses OpenAI, and has a simple UI (something like ChatGPT welcome screen).\n\nIt's functions would be just: 1) Make summary, 2) Make outline, 3) Write an essay.\nThe input box could receive the pasted text to work with, or a url (for example wikipedia.org/wiki/Elon_Musk)\n\nThen it performs the assigned work and displays it underneath, into the same page. And it has a \"copy\" icon to get the text copied, so that it can then be pasted in a doc.\n\nThe audience of the service is spanish speaking students, and the domain is in spanish, so the main language is going to be spanish for the UI and for the work done.\n\nAcceptance Criteria\n\nTechnical Details\nI already have the domain @godaddy\n\nCode should be commented and readable so it can be expanded in the future, for example to generate images that can complement the text.",
         "author": "PracticAI",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@PracticAI/homework-website-for?t="
     },
     {
