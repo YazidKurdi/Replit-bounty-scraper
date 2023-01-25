@@ -3128,7 +3128,7 @@ D-Score of more than 75
 Risk Stability of more than 7
 Capacity of more than 3
 
-If the filter returns more than 10 strategies, it should order all strategies returned by the D-score (highest number being the best) and should then buy an even amount of the account balance in the te...",BenSwanson2,13 hours ago,https://replit.com/bounties/@BenSwanson2/basic-backtesting-to?t=
+If the filter returns more than 10 strategies, it should order all strategies returned by the D-score (highest number being the best) and should then buy an even amount of the account balance in the te...",BenSwanson2,14 hours ago,https://replit.com/bounties/@BenSwanson2/basic-backtesting-to?t=
 369,"$1,665.00",due in 1 month,A customized version of ChatGPT for the Communications/PR Industry,"#The last time the PR industry was disrupted was the launch of Microsoft Word. It's a very analog sector, and most of the work products are basic -- but still customized -- pieces of writing: press releases, op-eds, media advisories. ChatGPT can produce drafts of these, but they still aren't specific enough to be useful for an individual or a company. By developing a customized version of ChatGPT -- one which effectively guides the user through inputting the right documents and content -- I hope to build a program automates much of the basic writing in the communications sector.
 
 #A simple interface where non-technical users can input relevant documents (.doc and google doc files) and guidance that will allow the customized version of GPT-3 to output more personalized and relevant writing
@@ -3154,11 +3154,11 @@ Acceptance Criteria
 Technical Details
 I already have the domain @godaddy
 
-Code should be commented and readable so it can be expanded in the future, for example to generate images that can complement the text.",PracticAI,9 hours ago,https://replit.com/bounties/@PracticAI/homework-website-for?t=
+Code should be commented and readable so it can be expanded in the future, for example to generate images that can complement the text.",PracticAI,10 hours ago,https://replit.com/bounties/@PracticAI/homework-website-for?t=
 372,$2.52,due in 13 days,Edit css stuff for me (already claimed),"Describe the problem you are trying to solve here.
 stuff
 Acceptance Criteria
-Be specific about what you want in the solution here.",fatty121,9 hours ago,https://replit.com/bounties/@fatty121/edit-css-stuff-for-m?t=
+Be specific about what you want in the solution here.",fatty121,10 hours ago,https://replit.com/bounties/@fatty121/edit-css-stuff-for-m?t=
 373,$15.00,due in 4 days,Get endpoint error for Spring Boot Application,"Here are errors I am getting when I deploy my app to heroku:
 
 2023-01-25T03:05:11.281135+00:00 heroku[router]: at=error code=H10 desc=""App crashed"" method=GET path=""/""
