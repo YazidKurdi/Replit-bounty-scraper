@@ -3140,7 +3140,7 @@ Must have experience building AI-based tools with Chat GPT
 
 Technical Details
 TBD",miacone,17 hours ago,https://replit.com/bounties/@miacone/investment-sourcing?t=
-371,$90.00,due in 18 days,"Homework website: for summaries, outlines, and essays","I'm looking for someone to build a simple website, that uses OpenAI, and has a simple UI (something like ChatGPT welcome screen).
+371,$90.00,due in 17 days,"Homework website: for summaries, outlines, and essays","I'm looking for someone to build a simple website, that uses OpenAI, and has a simple UI (something like ChatGPT welcome screen).
 
 It's functions would be just: 1) Make summary, 2) Make outline, 3) Write an essay.
 The input box could receive the pasted text to work with, or a url (for example wikipedia.org/wiki/Elon_Musk)
@@ -3191,7 +3191,7 @@ The script will iterate through all these tweets and pull:
 reply tweets and authors into replies.csv
 retweeting accounts into retweets.csv
 Bonus: You schedule the repl to run daily",lopezhoracio,13 hours ago,https://replit.com/bounties/@lopezhoracio/twitter-replies-scri?t=
-376,$2.70,due in 3 days,Make a simple mass discord token changer,Make a simple mass discord token changer which will accept tokens from tokens.txt in email:password:token format and change the token password to a specific/random 8 character and retrieve the new token and store the values in a new txt file in email:newpassword:newtoken format.,gamerspy2234,5 hours ago,https://replit.com/bounties/@gamerspy2234/make-a-simple-mass-d?t=
+376,$2.70,due in 3 days,Make a simple mass discord token changer,Make a simple mass discord token changer which will accept tokens from tokens.txt in email:password:token format and change the token password to a specific/random 8 character and retrieve the new token and store the values in a new txt file in email:newpassword:newtoken format.,gamerspy2234,6 hours ago,https://replit.com/bounties/@gamerspy2234/make-a-simple-mass-d?t=
 377,$450.00,due in 3 days,Scrape Google Maps to help fight thieves targeting low income families in the USA,"People who receive nutrition assistance from the federal government are having their benefits stolen. Many of them leave reviews of the businesses where they experience theft (via ATMs or other card skimming methods). We want to search a list of all EBT retailers (provided) for their Google Maps POI listings, and then search the reviews on those POIs for the presence of the string ""steal"" AND presence of the string ""EBT""
 
 Acceptance Criteria
