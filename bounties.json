@@ -3606,7 +3606,7 @@
         "title": "Make my domain work with hostgator",
         "description": "I am trying to get my domain to work with my hostgator hosting but I don't know how to do it.\nAcceptance Criteria\nHelp me finish that so my app and domain both work. Domain is from Name.com",
         "author": "CrownDevelopment",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@CrownDevelopment/make-my-domain-work?t="
     },
     {
@@ -3626,7 +3626,7 @@
         "title": "I think the endpoints in my Spring Boot application are unreachable + some JavaScript issues (Speedy response required)",
         "description": "I'm new to coding. I have built a basic Spring Boot application. For some reason the endpoint URLs are not being reached. I need help with a few things:\n\nCheck if my Config file is properly set up for CORS\nI have two Controllers but it seems the endpoints are not being reached. This is why I'm wondering if CORS is working.\nI have a JavaScript file which is suppose to fetch certain endpoints in corresponding Controllers, but it doesn't seem to be working. I also need you to check if I have it set up properly. Someone provided part of the JavaScript file and I built upon it but I don't know JavaScript I was just trying to figure it out on my own. There are two HTML files associated, which I will also provide.\n\nOnce the issues are fixed, there are a few things that I will need to test to make sure what you have done is actually working.\n\nAcceptance Criteria\nExperienced (skilled) in Java, JavaScript, HTML.\nTechnical Details\nSee above.\nLink to Project\nWill provide the co...",
         "author": "mdotbaig",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/i-think-the-endpoint?t="
     },
     {
@@ -3636,7 +3636,7 @@
         "title": "Bug fix - JS and Qualtrics [should take 2 minutes for someone with JS skills, literally just debugging a chatgpt answer]] ",
         "description": "I am having trouble with a Javascript code that I plug into in Qualtrics, a survey tool.\n\nI am using this package:\nhttps://github.com/pkmnct/qualtrics-google-map-lat-long\n\nThe issue is that when I drag the marker, the address does not dynamically update on the survey participant's screen. So, if I first enter my address using the autofill, then drag, the participant may be confused about what the address they are entering is.\n\nCan you help me make the address load automatically?\n\nAcceptance Criteria\n\nProducing JS code that makes the text box auto load dynamically.\n\nTechnical Details\nJS only.\n\nChatGPT's advice\n\nIt recommends augmenting the code with the below. This still doesn't dynamically update for the survey participant's textbox. But gets closer.\n\ninitGoogleMapsQuestion(this.questionId, this.getQuestionContainer(), {\n  // Map Options, set these! See Map Options in Option Documentation Section\n  options: {\n    center: {\n      lat: 35.1457,\n      lng: -89.9883,\n  ...",
         "author": "CharlieRafkin",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@CharlieRafkin/bug-fix-js-and-qualt?t="
     },
     {
@@ -3656,17 +3656,17 @@
         "title": "Spotify Friends Artist Matcher",
         "description": "A Chrome extension/website/MacOS application, that finds friends who have listened to a specific artist/song that you specify (by # of occurrences in their public playlists). Useful to find concert buddies/people with similar music tastes. If can get the song/artist via either tracking if you're on a certain song or artist on Spotify (preferred), or by just manually entering in an artist name. This used to be a feature in Spotify but no longer is.\n\nIf it is a webapp, a UI where you just sign in with Spotify and then you enter in an artist name, and then it lists the people from your followers/following, ranked by the number of times they have that artist in their public playlists.\n\nAcceptance Criteria\nIt will have to work and look aesthetic. For instance, mixmello.com is a good example of the kind of Spotify app aesthetic this should have as a website. I will only accept applications that have linked either a GitHub or some other portfolio/resume. The website will b...",
         "author": "AJGupta",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/spotify-friends-arti?t="
     },
     {
         "index": "366",
         "price": "$1,800.00",
-        "due_days": "due in 1 month",
+        "due_days": "due in 30 days",
         "title": "FineBrand: Wordpress AI",
         "description": "Users have been writing on their blogs for ever so being able to train the model on long-form content and then generate new posts in their voice is a must have.\nI need a wordpress plugin for creators to be able to have their own, personal, custom AI model, based on GPT-3 series that would give high-quality inspiration in line with their brand voice (as opposed to some of the generic AI writing tools out there) that would:\n1- Select the historical posts with the highest level of engagement in priority. The plugin should show the post we'd used and let the user remove what they don't want but keeping in mind the minimum number we would need to fine tune the model . It should also strip out comments from the posts\n2-Let User set up their OpenAI API key\n3-Fine tune the GPT3 model\n4-Offer a way to generate new posts some will be standalone, some thread ideas, depend on user choice (\"extend this post\" or \"start from scratch\" type feature)\n5-User will be able to generate 1...",
         "author": "GetInference",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@GetInference/finebrand-wordpress?t="
     },
     {
@@ -3676,7 +3676,7 @@
         "title": "Android Background Blink Tracker (No iOS)",
         "description": "I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on Android. It should also show a graph of your historical blink rate (for instance, batched 60 minutes at a time, with a scrollable graph over time).\n\nTo see the iOS version of this bounty, see https://replit.com/bounties/@AJGupta/background-blink-tra?t= .\n\nAcceptance Criteria\nAn Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",
         "author": "AJGupta",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/android-background-b?t="
     },
     {
@@ -3686,7 +3686,7 @@
         "title": "Basic backtesting tool",
         "description": "I have an idea for a trading strategy that I\u2019d like to backtest, and would like a Python script to allow me to see how it would have performed.\n\nI have detailed the strategy that I am planning to put live, so that you know what needs to happen during the backtest.\n\nThe site is www.darwinex.com and they have trading products called \u2018Darwins\u2019. Each Darwin has a three letter codename e.g. \u2018THA\u2019.\n\nHere is their API documentation:  https://darwinex.github.io/darwin-api-tutorials/ and https://api.darwinex.com/store/\n\nTo start the trading strategy, the system should filter all of the available \u2018Darwins\u2019 by the following criteria:\n\nMonthly divergence of less than -0.19%\nLoss aversion of more than 6\nD-Score of more than 75\nRisk Stability of more than 7\nCapacity of more than 3\n\nIf the filter returns more than 10 strategies, it should order all strategies returned by the D-score (highest number being the best) and should then buy an even amount of the account balance in the te...",
         "author": "BenSwanson2",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@BenSwanson2/basic-backtesting-to?t="
     },
     {
@@ -3696,7 +3696,7 @@
         "title": "A customized version of ChatGPT for the Communications/PR Industry",
         "description": "#The last time the PR industry was disrupted was the launch of Microsoft Word. It's a very analog sector, and most of the work products are basic -- but still customized -- pieces of writing: press releases, op-eds, media advisories. ChatGPT can produce drafts of these, but they still aren't specific enough to be useful for an individual or a company. By developing a customized version of ChatGPT -- one which effectively guides the user through inputting the right documents and content -- I hope to build a program automates much of the basic writing in the communications sector.\n\n#A simple interface where non-technical users can input relevant documents (.doc and google doc files) and guidance that will allow the customized version of GPT-3 to output more personalized and relevant writing\n#Ideally, I would also like to explore how a voice-to-text function could be plugged in. For instance, could a file from a service like Otter.ai or Rev.com be used as an input",
         "author": "RyanJacobs9",
-        "posted_time": "54 minutes ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@RyanJacobs9/a-customized-version?t="
     }
 ]
