@@ -3736,7 +3736,7 @@
         "title": "Get endpoint error for Spring Boot Application",
         "description": "Here are errors I am getting when I deploy my app to heroku:\n\n2023-01-25T03:05:11.281135+00:00 heroku[router]: at=error code=H10 desc=\"App crashed\" method=GET path=\"/\"\n\n2023-01-25T03:05:11.485552+00:00 heroku[router]: at=error code=H10 desc=\"App crashed\" method=GET path=\"/favicon.ico\"\n\nAcceptance Criteria\nNeed someone who knows Spring Boot Java and also JavaScript to be able to resolve this issue.",
         "author": "mdotbaig",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/get-endpoint-error-f?t="
     },
     {
