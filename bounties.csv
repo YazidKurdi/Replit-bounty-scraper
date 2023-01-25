@@ -3111,7 +3111,7 @@ I need a wordpress plugin for creators to be able to have their own, personal, c
 To see the iOS version of this bounty, see https://replit.com/bounties/@AJGupta/background-blink-tra?t= .
 
 Acceptance Criteria
-An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",AJGupta,8 hours ago,https://replit.com/bounties/@AJGupta/android-background-b?t=
+An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",AJGupta,9 hours ago,https://replit.com/bounties/@AJGupta/android-background-b?t=
 368,$18.00,due in 3 days,Basic backtesting tool,"I have an idea for a trading strategy that I’d like to backtest, and would like a Python script to allow me to see how it would have performed.
 
 I have detailed the strategy that I am planning to put live, so that you know what needs to happen during the backtest.
@@ -3177,4 +3177,4 @@ Built in three.js, ready to be deployed (via Store Cloud)
 
 Timelines / Milestones
 Concept and technical spec required for hiring
-Fast daily iterations to wrap up from there",ChrisMcCoy3,50 minutes ago,https://replit.com/bounties/@ChrisMcCoy3/interactive-landing?t=
+Fast daily iterations to wrap up from there",ChrisMcCoy3,1 hour ago,https://replit.com/bounties/@ChrisMcCoy3/interactive-landing?t=

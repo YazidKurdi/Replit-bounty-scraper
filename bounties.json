@@ -3676,7 +3676,7 @@
         "title": "Android Background Blink Tracker (No iOS)",
         "description": "I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on Android. It should also show a graph of your historical blink rate (for instance, batched 60 minutes at a time, with a scrollable graph over time).\n\nTo see the iOS version of this bounty, see https://replit.com/bounties/@AJGupta/background-blink-tra?t= .\n\nAcceptance Criteria\nAn Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",
         "author": "AJGupta",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/android-background-b?t="
     },
     {
@@ -3746,7 +3746,7 @@
         "title": "Interactive landing page built in three.js",
         "description": "Build an interactive website similar to Ethereum Foundation. We need it built in three.js. We want to light up the relationships between the data center graphics and introduce an element of electricity between the relationships. EF site here https://ethereum.foundation. Our design here: https://www.dropbox.com/s/rr103u3wn30kbro/store%20facebook%20cover.jpeg?dl=0. Design files provided upon hiring.\n\nAcceptance Criteria\nA simple landing that animates the Drobox file, built in three.js, that integrates some Electricity in\n\nTechnical Details\nBuilt in three.js, ready to be deployed (via Store Cloud)\n\nTimelines / Milestones\nConcept and technical spec required for hiring\nFast daily iterations to wrap up from there",
         "author": "ChrisMcCoy3",
-        "posted_time": "50 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@ChrisMcCoy3/interactive-landing?t="
     }
 ]
