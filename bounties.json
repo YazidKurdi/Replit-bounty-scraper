@@ -3736,7 +3736,7 @@
         "title": "Get endpoint error for Spring Boot Application",
         "description": "Here are errors I am getting when I deploy my app to heroku:\n\n2023-01-25T03:05:11.281135+00:00 heroku[router]: at=error code=H10 desc=\"App crashed\" method=GET path=\"/\"\n\n2023-01-25T03:05:11.485552+00:00 heroku[router]: at=error code=H10 desc=\"App crashed\" method=GET path=\"/favicon.ico\"\n\nAcceptance Criteria\nNeed someone who knows Spring Boot Java and also JavaScript to be able to resolve this issue.",
         "author": "mdotbaig",
-        "posted_time": "29 minutes ago",
+        "posted_time": "39 minutes ago",
         "link": "https://replit.com/bounties/@mdotbaig/get-endpoint-error-f?t="
     },
     {
@@ -3746,7 +3746,7 @@
         "title": "Interactive landing page built in three.js",
         "description": "Build an interactive website similar to Ethereum Foundation. We need it built in three.js. We want to light up the relationships between the data center graphics and introduce an element of electricity between the relationships. EF site here https://ethereum.foundation. Our design here: https://www.dropbox.com/s/rr103u3wn30kbro/store%20facebook%20cover.jpeg?dl=0. Design files provided upon hiring.\n\nAcceptance Criteria\nA simple landing that animates the Drobox file, built in three.js, that integrates some Electricity in\n\nTechnical Details\nBuilt in three.js, ready to be deployed (via Store Cloud)\n\nTimelines / Milestones\nConcept and technical spec required for hiring\nFast daily iterations to wrap up from there",
         "author": "ChrisMcCoy3",
-        "posted_time": "4 minutes ago",
+        "posted_time": "14 minutes ago",
         "link": "https://replit.com/bounties/@ChrisMcCoy3/interactive-landing?t="
     }
 ]
