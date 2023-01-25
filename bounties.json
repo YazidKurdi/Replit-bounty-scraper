@@ -3796,7 +3796,7 @@
         "title": "Create a new record in Airtable when a new Trustpilot review comes in",
         "description": "This is the starting point of a bigger project, but I want to learn what's possible and how it works fist. There is a TrustPilot API which fires when a new review is left. I want that to create a record in Airtable.\n\nTechnical Details\n\nTrustPilot API details here:\nhttps://documentation-apidocumentation.trustpilot.com/service-reviews-api\n\nI'm new to Replit so please allow for that in your quote as some things may take slightly longer as a result.",
         "author": "AndrewShowman",
-        "posted_time": "47 minutes ago",
+        "posted_time": "55 minutes ago",
         "link": "https://replit.com/bounties/@AndrewShowman/create-a-new-record?t="
     },
     {
@@ -3806,7 +3806,7 @@
         "title": "Add a button to a custom react app built on top of Airtable",
         "description": "I have an MVP app, that is a react frontend built on top of Airtable (and using Softr to manage login and auth.)\n\nThe app has public facing user-profiles. I need to add a button on those public-facing profiles. That's it, literally just a button.\n\nAcceptance Criteria\n\nI need someone who can quickly implement this, and can take general guidance and turn it into final components. Opportunity for more projects if interested.\n\nLink to Project\nCan provide link and details to the person chosen to complete the bounty",
         "author": "GavinYerxa1",
-        "posted_time": "28 minutes ago",
+        "posted_time": "36 minutes ago",
         "link": "https://replit.com/bounties/@GavinYerxa1/add-a-button-to-a-cu?t="
     }
 ]
