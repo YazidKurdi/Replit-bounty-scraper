@@ -3105,7 +3105,7 @@ I need a wordpress plugin for creators to be able to have their own, personal, c
 2-Let User set up their OpenAI API key
 3-Fine tune the GPT3 model
 4-Offer a way to generate new posts some will be standalone, some thread ideas, depend on user choice (""extend this post"" or ""start from scratch"" type feature)
-5-User will be able to generate 1...",GetInference,11 hours ago,https://replit.com/bounties/@GetInference/finebrand-wordpress?t=
+5-User will be able to generate 1...",GetInference,12 hours ago,https://replit.com/bounties/@GetInference/finebrand-wordpress?t=
 367,$94.50,due in 13 days,Android Background Blink Tracker (No iOS),"I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on Android. It should also show a graph of your historical blink rate (for instance, batched 60 minutes at a time, with a scrollable graph over time).
 
 To see the iOS version of this bounty, see https://replit.com/bounties/@AJGupta/background-blink-tra?t= .
@@ -3128,7 +3128,7 @@ D-Score of more than 75
 Risk Stability of more than 7
 Capacity of more than 3
 
-If the filter returns more than 10 strategies, it should order all strategies returned by the D-score (highest number being the best) and should then buy an even amount of the account balance in the te...",BenSwanson2,9 hours ago,https://replit.com/bounties/@BenSwanson2/basic-backtesting-to?t=
+If the filter returns more than 10 strategies, it should order all strategies returned by the D-score (highest number being the best) and should then buy an even amount of the account balance in the te...",BenSwanson2,10 hours ago,https://replit.com/bounties/@BenSwanson2/basic-backtesting-to?t=
 369,"$1,665.00",due in 1 month,A customized version of ChatGPT for the Communications/PR Industry,"#The last time the PR industry was disrupted was the launch of Microsoft Word. It's a very analog sector, and most of the work products are basic -- but still customized -- pieces of writing: press releases, op-eds, media advisories. ChatGPT can produce drafts of these, but they still aren't specific enough to be useful for an individual or a company. By developing a customized version of ChatGPT -- one which effectively guides the user through inputting the right documents and content -- I hope to build a program automates much of the basic writing in the communications sector.
 
 #A simple interface where non-technical users can input relevant documents (.doc and google doc files) and guidance that will allow the customized version of GPT-3 to output more personalized and relevant writing
@@ -3139,7 +3139,7 @@ Acceptance Criteria
 Must have experience building AI-based tools with Chat GPT
 
 Technical Details
-TBD",miacone,6 hours ago,https://replit.com/bounties/@miacone/investment-sourcing?t=
+TBD",miacone,7 hours ago,https://replit.com/bounties/@miacone/investment-sourcing?t=
 371,$90.00,due in 19 days,"Homework website: for summaries, outlines, and essays","I'm looking for someone to build a simple website, that uses OpenAI, and has a simple UI (something like ChatGPT welcome screen).
 
 It's functions would be just: 1) Make summary, 2) Make outline, 3) Write an essay.
@@ -3154,11 +3154,11 @@ Acceptance Criteria
 Technical Details
 I already have the domain @godaddy
 
-Code should be commented and readable so it can be expanded in the future, for example to generate images that can complement the text.",PracticAI,5 hours ago,https://replit.com/bounties/@PracticAI/homework-website-for?t=
+Code should be commented and readable so it can be expanded in the future, for example to generate images that can complement the text.",PracticAI,6 hours ago,https://replit.com/bounties/@PracticAI/homework-website-for?t=
 372,$2.52,due in 13 days,Edit css stuff for me (already claimed),"Describe the problem you are trying to solve here.
 stuff
 Acceptance Criteria
-Be specific about what you want in the solution here.",fatty121,5 hours ago,https://replit.com/bounties/@fatty121/edit-css-stuff-for-m?t=
+Be specific about what you want in the solution here.",fatty121,6 hours ago,https://replit.com/bounties/@fatty121/edit-css-stuff-for-m?t=
 373,$15.00,due in 4 days,Get endpoint error for Spring Boot Application,"Here are errors I am getting when I deploy my app to heroku:
 
 2023-01-25T03:05:11.281135+00:00 heroku[router]: at=error code=H10 desc=""App crashed"" method=GET path=""/""
@@ -3177,7 +3177,7 @@ Built in three.js, ready to be deployed (via Store Cloud)
 
 Timelines / Milestones
 Concept and technical spec required for hiring
-Fast daily iterations to wrap up from there",ChrisMcCoy3,3 hours ago,https://replit.com/bounties/@ChrisMcCoy3/interactive-landing?t=
+Fast daily iterations to wrap up from there",ChrisMcCoy3,4 hours ago,https://replit.com/bounties/@ChrisMcCoy3/interactive-landing?t=
 375,$90.00,due in 16 days,Twitter Replies Script,"I have a Repl that, given a specific Tweet ID, it will call the Twitter API and pull all replies and import them into a csv. However, I want to upgrade this script to be able to:
 
 Pull all recent tweets of a twitter account if given a specific twitter handle
@@ -3190,4 +3190,4 @@ The script now takes in a Twitter Handle as the main input and will pull tweets 
 The script will iterate through all these tweets and pull:
 reply tweets and authors into replies.csv
 retweeting accounts into retweets.csv
-Bonus: You schedule the repl to run daily",lopezhoracio,44 seconds ago,https://replit.com/bounties/@lopezhoracio/twitter-replies-scri?t=
+Bonus: You schedule the repl to run daily",lopezhoracio,31 minutes ago,https://replit.com/bounties/@lopezhoracio/twitter-replies-scri?t=
