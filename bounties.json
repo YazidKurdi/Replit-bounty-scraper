@@ -3756,7 +3756,7 @@
         "title": "Twitter Replies Script",
         "description": "I have a Repl that, given a specific Tweet ID, it will call the Twitter API and pull all replies and import them into a csv. However, I want to upgrade this script to be able to:\n\nPull all recent tweets of a twitter account if given a specific twitter handle\nImport all the replies into the current replies.csv file (already made, just need to integrate this properly in the account loop)\nImport all the usernames that retweeted the same tweets into retweets.csv\n\nAcceptance Criteria:\n\nThe script now takes in a Twitter Handle as the main input and will pull tweets of the past day\nThe script will iterate through all these tweets and pull:\nreply tweets and authors into replies.csv\nretweeting accounts into retweets.csv\nBonus: You schedule the repl to run daily",
         "author": "lopezhoracio",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@lopezhoracio/twitter-replies-scri?t="
     },
     {
