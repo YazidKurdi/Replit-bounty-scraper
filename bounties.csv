@@ -3166,4 +3166,15 @@ Be specific about what you want in the solution here.",fatty121,2 hours ago,http
 2023-01-25T03:05:11.485552+00:00 heroku[router]: at=error code=H10 desc=""App crashed"" method=GET path=""/favicon.ico""
 
 Acceptance Criteria
-Need someone who knows Spring Boot Java and also JavaScript to be able to resolve this issue.",mdotbaig,22 minutes ago,https://replit.com/bounties/@mdotbaig/get-endpoint-error-f?t=
+Need someone who knows Spring Boot Java and also JavaScript to be able to resolve this issue.",mdotbaig,29 minutes ago,https://replit.com/bounties/@mdotbaig/get-endpoint-error-f?t=
+374,$13.50,due in 6 days,Interactive landing page built in three.js,"Build an interactive website similar to Ethereum Foundation. We need it built in three.js. We want to light up the relationships between the data center graphics and introduce an element of electricity between the relationships. EF site here https://ethereum.foundation. Our design here: https://www.dropbox.com/s/rr103u3wn30kbro/store%20facebook%20cover.jpeg?dl=0. Design files provided upon hiring.
+
+Acceptance Criteria
+A simple landing that animates the Drobox file, built in three.js, that integrates some Electricity in
+
+Technical Details
+Built in three.js, ready to be deployed (via Store Cloud)
+
+Timelines / Milestones
+Concept and technical spec required for hiring
+Fast daily iterations to wrap up from there",ChrisMcCoy3,4 minutes ago,https://replit.com/bounties/@ChrisMcCoy3/interactive-landing?t=
