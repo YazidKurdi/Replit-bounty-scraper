@@ -3756,7 +3756,7 @@
         "title": "Twitter Replies Script",
         "description": "I have a Repl that, given a specific Tweet ID, it will call the Twitter API and pull all replies and import them into a csv. However, I want to upgrade this script to be able to:\n\nPull all recent tweets of a twitter account if given a specific twitter handle\nImport all the replies into the current replies.csv file (already made, just need to integrate this properly in the account loop)\nImport all the usernames that retweeted the same tweets into retweets.csv\n\nAcceptance Criteria:\n\nThe script now takes in a Twitter Handle as the main input and will pull tweets of the past day\nThe script will iterate through all these tweets and pull:\nreply tweets and authors into replies.csv\nretweeting accounts into retweets.csv\nBonus: You schedule the repl to run daily",
         "author": "lopezhoracio",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@lopezhoracio/twitter-replies-scri?t="
     },
     {
@@ -3796,7 +3796,17 @@
         "title": "Create a new record in Airtable when a new Trustpilot review comes in",
         "description": "This is the starting point of a bigger project, but I want to learn what's possible and how it works fist. There is a TrustPilot API which fires when a new review is left. I want that to create a record in Airtable.\n\nTechnical Details\n\nTrustPilot API details here:\nhttps://documentation-apidocumentation.trustpilot.com/service-reviews-api\n\nI'm new to Replit so please allow for that in your quote as some things may take slightly longer as a result.",
         "author": "AndrewShowman",
-        "posted_time": "12 minutes ago",
+        "posted_time": "30 minutes ago",
         "link": "https://replit.com/bounties/@AndrewShowman/create-a-new-record?t="
+    },
+    {
+        "index": "380",
+        "price": "$67.50",
+        "due_days": "due in 3 days",
+        "title": "Add a button to a custom react app built on top of Airtable",
+        "description": "I have an MVP app, that is a react frontend built on top of Airtable (and using Softr to manage login and auth.)\n\nThe app has public facing user-profiles. I need to add a button on those public-facing profiles. That's it, literally just a button.\n\nAcceptance Criteria\n\nI need someone who can quickly implement this, and can take general guidance and turn it into final components. Opportunity for more projects if interested.\n\nLink to Project\nCan provide link and details to the person chosen to complete the bounty",
+        "author": "GavinYerxa1",
+        "posted_time": "12 minutes ago",
+        "link": "https://replit.com/bounties/@GavinYerxa1/add-a-button-to-a-cu?t="
     }
 ]
