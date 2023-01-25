@@ -3098,7 +3098,7 @@ Link to Project",proales2,8 hours ago,https://replit.com/bounties/@proales2/js-s
 If it is a webapp, a UI where you just sign in with Spotify and then you enter in an artist name, and then it lists the people from your followers/following, ranked by the number of times they have that artist in their public playlists.
 
 Acceptance Criteria
-It will have to work and look aesthetic. For instance, mixmello.com is a good example of the kind of Spotify app aesthetic this should have as a website. I will only accept applications that have linked either a GitHub or some other portfolio/resume. The website will b...",AJGupta,8 hours ago,https://replit.com/bounties/@AJGupta/spotify-friends-arti?t=
+It will have to work and look aesthetic. For instance, mixmello.com is a good example of the kind of Spotify app aesthetic this should have as a website. I will only accept applications that have linked either a GitHub or some other portfolio/resume. The website will b...",AJGupta,9 hours ago,https://replit.com/bounties/@AJGupta/spotify-friends-arti?t=
 366,"$1,800.00",due in 30 days,FineBrand: Wordpress AI,"Users have been writing on their blogs for ever so being able to train the model on long-form content and then generate new posts in their voice is a must have.
 I need a wordpress plugin for creators to be able to have their own, personal, custom AI model, based on GPT-3 series that would give high-quality inspiration in line with their brand voice (as opposed to some of the generic AI writing tools out there) that would:
 1- Select the historical posts with the highest level of engagement in priority. The plugin should show the post we'd used and let the user remove what they don't want but keeping in mind the minimum number we would need to fine tune the model . It should also strip out comments from the posts
@@ -3128,7 +3128,7 @@ D-Score of more than 75
 Risk Stability of more than 7
 Capacity of more than 3
 
-If the filter returns more than 10 strategies, it should order all strategies returned by the D-score (highest number being the best) and should then buy an even amount of the account balance in the te...",BenSwanson2,6 hours ago,https://replit.com/bounties/@BenSwanson2/basic-backtesting-to?t=
+If the filter returns more than 10 strategies, it should order all strategies returned by the D-score (highest number being the best) and should then buy an even amount of the account balance in the te...",BenSwanson2,7 hours ago,https://replit.com/bounties/@BenSwanson2/basic-backtesting-to?t=
 369,"$1,665.00",due in 1 month,A customized version of ChatGPT for the Communications/PR Industry,"#The last time the PR industry was disrupted was the launch of Microsoft Word. It's a very analog sector, and most of the work products are basic -- but still customized -- pieces of writing: press releases, op-eds, media advisories. ChatGPT can produce drafts of these, but they still aren't specific enough to be useful for an individual or a company. By developing a customized version of ChatGPT -- one which effectively guides the user through inputting the right documents and content -- I hope to build a program automates much of the basic writing in the communications sector.
 
 #A simple interface where non-technical users can input relevant documents (.doc and google doc files) and guidance that will allow the customized version of GPT-3 to output more personalized and relevant writing
@@ -3154,11 +3154,11 @@ Acceptance Criteria
 Technical Details
 I already have the domain @godaddy
 
-Code should be commented and readable so it can be expanded in the future, for example to generate images that can complement the text.",PracticAI,2 hours ago,https://replit.com/bounties/@PracticAI/homework-website-for?t=
+Code should be commented and readable so it can be expanded in the future, for example to generate images that can complement the text.",PracticAI,3 hours ago,https://replit.com/bounties/@PracticAI/homework-website-for?t=
 372,$2.52,due in 13 days,Edit css stuff for me (already claimed),"Describe the problem you are trying to solve here.
 stuff
 Acceptance Criteria
-Be specific about what you want in the solution here.",fatty121,2 hours ago,https://replit.com/bounties/@fatty121/edit-css-stuff-for-m?t=
+Be specific about what you want in the solution here.",fatty121,3 hours ago,https://replit.com/bounties/@fatty121/edit-css-stuff-for-m?t=
 373,$15.00,due in 4 days,Get endpoint error for Spring Boot Application,"Here are errors I am getting when I deploy my app to heroku:
 
 2023-01-25T03:05:11.281135+00:00 heroku[router]: at=error code=H10 desc=""App crashed"" method=GET path=""/""
@@ -3166,7 +3166,7 @@ Be specific about what you want in the solution here.",fatty121,2 hours ago,http
 2023-01-25T03:05:11.485552+00:00 heroku[router]: at=error code=H10 desc=""App crashed"" method=GET path=""/favicon.ico""
 
 Acceptance Criteria
-Need someone who knows Spring Boot Java and also JavaScript to be able to resolve this issue.",mdotbaig,39 minutes ago,https://replit.com/bounties/@mdotbaig/get-endpoint-error-f?t=
+Need someone who knows Spring Boot Java and also JavaScript to be able to resolve this issue.",mdotbaig,57 minutes ago,https://replit.com/bounties/@mdotbaig/get-endpoint-error-f?t=
 374,$13.50,due in 6 days,Interactive landing page built in three.js,"Build an interactive website similar to Ethereum Foundation. We need it built in three.js. We want to light up the relationships between the data center graphics and introduce an element of electricity between the relationships. EF site here https://ethereum.foundation. Our design here: https://www.dropbox.com/s/rr103u3wn30kbro/store%20facebook%20cover.jpeg?dl=0. Design files provided upon hiring.
 
 Acceptance Criteria
@@ -3177,4 +3177,4 @@ Built in three.js, ready to be deployed (via Store Cloud)
 
 Timelines / Milestones
 Concept and technical spec required for hiring
-Fast daily iterations to wrap up from there",ChrisMcCoy3,14 minutes ago,https://replit.com/bounties/@ChrisMcCoy3/interactive-landing?t=
+Fast daily iterations to wrap up from there",ChrisMcCoy3,31 minutes ago,https://replit.com/bounties/@ChrisMcCoy3/interactive-landing?t=
