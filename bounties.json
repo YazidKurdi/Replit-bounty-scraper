@@ -3736,7 +3736,7 @@
         "title": "Get endpoint error for Spring Boot Application",
         "description": "Here are errors I am getting when I deploy my app to heroku:\n\n2023-01-25T03:05:11.281135+00:00 heroku[router]: at=error code=H10 desc=\"App crashed\" method=GET path=\"/\"\n\n2023-01-25T03:05:11.485552+00:00 heroku[router]: at=error code=H10 desc=\"App crashed\" method=GET path=\"/favicon.ico\"\n\nAcceptance Criteria\nNeed someone who knows Spring Boot Java and also JavaScript to be able to resolve this issue.",
         "author": "mdotbaig",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/get-endpoint-error-f?t="
     },
     {
@@ -3766,7 +3766,7 @@
         "title": "Make a simple mass discord token changer",
         "description": "Make a simple mass discord token changer which will accept tokens from tokens.txt in email:password:token format and change the token password to a specific/random 8 character and retrieve the new token and store the values in a new txt file in email:newpassword:newtoken format.",
         "author": "gamerspy2234",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@gamerspy2234/make-a-simple-mass-d?t="
     },
     {
