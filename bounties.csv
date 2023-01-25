@@ -3154,11 +3154,11 @@ Acceptance Criteria
 Technical Details
 I already have the domain @godaddy
 
-Code should be commented and readable so it can be expanded in the future, for example to generate images that can complement the text.",PracticAI,13 hours ago,https://replit.com/bounties/@PracticAI/homework-website-for?t=
+Code should be commented and readable so it can be expanded in the future, for example to generate images that can complement the text.",PracticAI,14 hours ago,https://replit.com/bounties/@PracticAI/homework-website-for?t=
 372,$2.52,due in 12 days,Edit css stuff for me (already claimed),"Describe the problem you are trying to solve here.
 stuff
 Acceptance Criteria
-Be specific about what you want in the solution here.",fatty121,13 hours ago,https://replit.com/bounties/@fatty121/edit-css-stuff-for-m?t=
+Be specific about what you want in the solution here.",fatty121,14 hours ago,https://replit.com/bounties/@fatty121/edit-css-stuff-for-m?t=
 373,$15.00,due in 3 days,Get endpoint error for Spring Boot Application,"Here are errors I am getting when I deploy my app to heroku:
 
 2023-01-25T03:05:11.281135+00:00 heroku[router]: at=error code=H10 desc=""App crashed"" method=GET path=""/""
@@ -3191,7 +3191,7 @@ The script will iterate through all these tweets and pull:
 reply tweets and authors into replies.csv
 retweeting accounts into retweets.csv
 Bonus: You schedule the repl to run daily",lopezhoracio,8 hours ago,https://replit.com/bounties/@lopezhoracio/twitter-replies-scri?t=
-376,$2.70,due in 3 days,Make a simple mass discord token changer,Make a simple mass discord token changer which will accept tokens from tokens.txt in email:password:token format and change the token password to a specific/random 8 character and retrieve the new token and store the values in a new txt file in email:newpassword:newtoken format.,gamerspy2234,41 minutes ago,https://replit.com/bounties/@gamerspy2234/make-a-simple-mass-d?t=
+376,$2.70,due in 3 days,Make a simple mass discord token changer,Make a simple mass discord token changer which will accept tokens from tokens.txt in email:password:token format and change the token password to a specific/random 8 character and retrieve the new token and store the values in a new txt file in email:newpassword:newtoken format.,gamerspy2234,58 minutes ago,https://replit.com/bounties/@gamerspy2234/make-a-simple-mass-d?t=
 377,$450.00,due in 3 days,Scrape Google Maps to help fight thieves targeting low income families in the USA,"People who receive nutrition assistance from the federal government are having their benefits stolen. Many of them leave reviews of the businesses where they experience theft (via ATMs or other card skimming methods). We want to search a list of all EBT retailers (provided) for their Google Maps POI listings, and then search the reviews on those POIs for the presence of the string ""steal"" AND presence of the string ""EBT""
 
 Acceptance Criteria
@@ -3201,7 +3201,7 @@ Must include record of a search of the reviews associated with at least one POI 
 Must include the full text of the review (no other metadata, like date of review or reviewer name) that contains both strings ""steal"" and ""EBT""
 Output can be CSV or JSON
 
-Technical Details",AlanWilliams2,26 minutes ago,https://replit.com/bounties/@AlanWilliams2/scrape-google-maps-t?t=
+Technical Details",AlanWilliams2,43 minutes ago,https://replit.com/bounties/@AlanWilliams2/scrape-google-maps-t?t=
 378,$31.50,due in 10 days,Create a social media post with 100K+ views,"Make aitools.fyi go viral!
 
 Post a video/short on TikTok, Instagram, YouTube, and/or Snapchat about how amazing aitools.fyi is(or an informative video) and get over 100K views and get the bounty!
@@ -3209,4 +3209,4 @@ Post a video/short on TikTok, Instagram, YouTube, and/or Snapchat about how amaz
 Please note: North American based audience is preferred for this bounty.
 
 Acceptance Criteria
-You have to share analytics of the video and the actual video link. The video has to clearly mention aitools.fyi. The website address aitools.fyi should be in the description of the video.",SouthernEast,13 minutes ago,https://replit.com/bounties/@SouthernEast/create-a-social-medi?t=
+You have to share analytics of the video and the actual video link. The video has to clearly mention aitools.fyi. The website address aitools.fyi should be in the description of the video.",SouthernEast,29 minutes ago,https://replit.com/bounties/@SouthernEast/create-a-social-medi?t=
