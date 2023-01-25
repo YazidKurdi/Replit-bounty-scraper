@@ -3716,7 +3716,7 @@
         "title": "Homework website: for summaries, outlines, and essays",
         "description": "I'm looking for someone to build a simple website, that uses OpenAI, and has a simple UI (something like ChatGPT welcome screen).\n\nIt's functions would be just: 1) Make summary, 2) Make outline, 3) Write an essay.\nThe input box could receive the pasted text to work with, or a url (for example wikipedia.org/wiki/Elon_Musk)\n\nThen it performs the assigned work and displays it underneath, into the same page. And it has a \"copy\" icon to get the text copied, so that it can then be pasted in a doc.\n\nThe audience of the service is spanish speaking students, and the domain is in spanish, so the main language is going to be spanish for the UI and for the work done.\n\nAcceptance Criteria\n\nTechnical Details\nI already have the domain @godaddy\n\nCode should be commented and readable so it can be expanded in the future, for example to generate images that can complement the text.",
         "author": "PracticAI",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@PracticAI/homework-website-for?t="
     },
     {
@@ -3726,7 +3726,7 @@
         "title": "Edit css stuff for me (already claimed)",
         "description": "Describe the problem you are trying to solve here.\nstuff\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "fatty121",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@fatty121/edit-css-stuff-for-m?t="
     },
     {
@@ -3742,11 +3742,11 @@
     {
         "index": "374",
         "price": "$13.50",
-        "due_days": "due in 5 days",
+        "due_days": "due in 4 days",
         "title": "Interactive landing page built in three.js",
         "description": "Build an interactive website similar to Ethereum Foundation. We need it built in three.js. We want to light up the relationships between the data center graphics and introduce an element of electricity between the relationships. EF site here https://ethereum.foundation. Our design here: https://www.dropbox.com/s/rr103u3wn30kbro/store%20facebook%20cover.jpeg?dl=0. Design files provided upon hiring.\n\nAcceptance Criteria\nA simple landing that animates the Drobox file, built in three.js, that integrates some Electricity in\n\nTechnical Details\nBuilt in three.js, ready to be deployed (via Store Cloud)\n\nTimelines / Milestones\nConcept and technical spec required for hiring\nFast daily iterations to wrap up from there",
         "author": "ChrisMcCoy3",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@ChrisMcCoy3/interactive-landing?t="
     },
     {
@@ -3776,7 +3776,7 @@
         "title": "Scrape Google Maps to help fight thieves targeting low income families in the USA",
         "description": "People who receive nutrition assistance from the federal government are having their benefits stolen. Many of them leave reviews of the businesses where they experience theft (via ATMs or other card skimming methods). We want to search a list of all EBT retailers (provided) for their Google Maps POI listings, and then search the reviews on those POIs for the presence of the string \"steal\" AND presence of the string \"EBT\"\n\nAcceptance Criteria\n\nMust include record of an attempted search for each row in the list of EBT retailers\nMust include record of a search of the reviews associated with at least one POI for every EBT retailer (there will be plenty of inexact matches)\nMust include the full text of the review (no other metadata, like date of review or reviewer name) that contains both strings \"steal\" and \"EBT\"\nOutput can be CSV or JSON\n\nTechnical Details",
         "author": "AlanWilliams2",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@AlanWilliams2/scrape-google-maps-t?t="
     },
     {
@@ -3786,7 +3786,7 @@
         "title": "Create a social media post with 100K+ views",
         "description": "Make aitools.fyi go viral!\n\nPost a video/short on TikTok, Instagram, YouTube, and/or Snapchat about how amazing aitools.fyi is(or an informative video) and get over 100K views and get the bounty!\n\nPlease note: North American based audience is preferred for this bounty.\n\nAcceptance Criteria\nYou have to share analytics of the video and the actual video link. The video has to clearly mention aitools.fyi. The website address aitools.fyi should be in the description of the video.",
         "author": "SouthernEast",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@SouthernEast/create-a-social-medi?t="
     }
 ]

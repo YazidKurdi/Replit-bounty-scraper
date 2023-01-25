@@ -3154,11 +3154,11 @@ Acceptance Criteria
 Technical Details
 I already have the domain @godaddy
 
-Code should be commented and readable so it can be expanded in the future, for example to generate images that can complement the text.",PracticAI,14 hours ago,https://replit.com/bounties/@PracticAI/homework-website-for?t=
+Code should be commented and readable so it can be expanded in the future, for example to generate images that can complement the text.",PracticAI,15 hours ago,https://replit.com/bounties/@PracticAI/homework-website-for?t=
 372,$2.52,due in 12 days,Edit css stuff for me (already claimed),"Describe the problem you are trying to solve here.
 stuff
 Acceptance Criteria
-Be specific about what you want in the solution here.",fatty121,14 hours ago,https://replit.com/bounties/@fatty121/edit-css-stuff-for-m?t=
+Be specific about what you want in the solution here.",fatty121,15 hours ago,https://replit.com/bounties/@fatty121/edit-css-stuff-for-m?t=
 373,$15.00,due in 3 days,Get endpoint error for Spring Boot Application,"Here are errors I am getting when I deploy my app to heroku:
 
 2023-01-25T03:05:11.281135+00:00 heroku[router]: at=error code=H10 desc=""App crashed"" method=GET path=""/""
@@ -3167,7 +3167,7 @@ Be specific about what you want in the solution here.",fatty121,14 hours ago,htt
 
 Acceptance Criteria
 Need someone who knows Spring Boot Java and also JavaScript to be able to resolve this issue.",mdotbaig,13 hours ago,https://replit.com/bounties/@mdotbaig/get-endpoint-error-f?t=
-374,$13.50,due in 5 days,Interactive landing page built in three.js,"Build an interactive website similar to Ethereum Foundation. We need it built in three.js. We want to light up the relationships between the data center graphics and introduce an element of electricity between the relationships. EF site here https://ethereum.foundation. Our design here: https://www.dropbox.com/s/rr103u3wn30kbro/store%20facebook%20cover.jpeg?dl=0. Design files provided upon hiring.
+374,$13.50,due in 4 days,Interactive landing page built in three.js,"Build an interactive website similar to Ethereum Foundation. We need it built in three.js. We want to light up the relationships between the data center graphics and introduce an element of electricity between the relationships. EF site here https://ethereum.foundation. Our design here: https://www.dropbox.com/s/rr103u3wn30kbro/store%20facebook%20cover.jpeg?dl=0. Design files provided upon hiring.
 
 Acceptance Criteria
 A simple landing that animates the Drobox file, built in three.js, that integrates some Electricity in
@@ -3177,7 +3177,7 @@ Built in three.js, ready to be deployed (via Store Cloud)
 
 Timelines / Milestones
 Concept and technical spec required for hiring
-Fast daily iterations to wrap up from there",ChrisMcCoy3,12 hours ago,https://replit.com/bounties/@ChrisMcCoy3/interactive-landing?t=
+Fast daily iterations to wrap up from there",ChrisMcCoy3,13 hours ago,https://replit.com/bounties/@ChrisMcCoy3/interactive-landing?t=
 375,$90.00,due in 15 days,Twitter Replies Script,"I have a Repl that, given a specific Tweet ID, it will call the Twitter API and pull all replies and import them into a csv. However, I want to upgrade this script to be able to:
 
 Pull all recent tweets of a twitter account if given a specific twitter handle
@@ -3201,7 +3201,7 @@ Must include record of a search of the reviews associated with at least one POI 
 Must include the full text of the review (no other metadata, like date of review or reviewer name) that contains both strings ""steal"" and ""EBT""
 Output can be CSV or JSON
 
-Technical Details",AlanWilliams2,1 hour ago,https://replit.com/bounties/@AlanWilliams2/scrape-google-maps-t?t=
+Technical Details",AlanWilliams2,2 hours ago,https://replit.com/bounties/@AlanWilliams2/scrape-google-maps-t?t=
 378,$31.50,due in 16 days,Create a social media post with 100K+ views,"Make aitools.fyi go viral!
 
 Post a video/short on TikTok, Instagram, YouTube, and/or Snapchat about how amazing aitools.fyi is(or an informative video) and get over 100K views and get the bounty!
@@ -3209,4 +3209,4 @@ Post a video/short on TikTok, Instagram, YouTube, and/or Snapchat about how amaz
 Please note: North American based audience is preferred for this bounty.
 
 Acceptance Criteria
-You have to share analytics of the video and the actual video link. The video has to clearly mention aitools.fyi. The website address aitools.fyi should be in the description of the video.",SouthernEast,1 hour ago,https://replit.com/bounties/@SouthernEast/create-a-social-medi?t=
+You have to share analytics of the video and the actual video link. The video has to clearly mention aitools.fyi. The website address aitools.fyi should be in the description of the video.",SouthernEast,2 hours ago,https://replit.com/bounties/@SouthernEast/create-a-social-medi?t=
