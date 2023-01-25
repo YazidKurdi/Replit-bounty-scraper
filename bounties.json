@@ -3666,7 +3666,7 @@
         "title": "FineBrand: Wordpress AI",
         "description": "Users have been writing on their blogs for ever so being able to train the model on long-form content and then generate new posts in their voice is a must have.\nI need a wordpress plugin for creators to be able to have their own, personal, custom AI model, based on GPT-3 series that would give high-quality inspiration in line with their brand voice (as opposed to some of the generic AI writing tools out there) that would:\n1- Select the historical posts with the highest level of engagement in priority. The plugin should show the post we'd used and let the user remove what they don't want but keeping in mind the minimum number we would need to fine tune the model . It should also strip out comments from the posts\n2-Let User set up their OpenAI API key\n3-Fine tune the GPT3 model\n4-Offer a way to generate new posts some will be standalone, some thread ideas, depend on user choice (\"extend this post\" or \"start from scratch\" type feature)\n5-User will be able to generate 1...",
         "author": "GetInference",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@GetInference/finebrand-wordpress?t="
     },
     {
@@ -3706,7 +3706,7 @@
         "title": "Investment Sourcing AI Tool",
         "description": "I spend much of my day customizing emails to early stage software companies as a potential investment partner. I'm looking for someone to build a tool powered by Chat GPT that can ingest a target companies LinkedIn and the founders LinkedIn (and leverage my firms investment experience) to write custom emails to founders at scale.\n\nAcceptance Criteria\nMust have experience building AI-based tools with Chat GPT\n\nTechnical Details\nTBD",
         "author": "miacone",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@miacone/investment-sourcing?t="
     },
     {
@@ -3728,5 +3728,15 @@
         "author": "fatty121",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@fatty121/edit-css-stuff-for-m?t="
+    },
+    {
+        "index": "373",
+        "price": "$15.00",
+        "due_days": "due in 4 days",
+        "title": "Get endpoint error for Spring Boot Application",
+        "description": "Here are errors I am getting when I deploy my app to heroku:\n\n2023-01-25T03:05:11.281135+00:00 heroku[router]: at=error code=H10 desc=\"App crashed\" method=GET path=\"/\"\n\n2023-01-25T03:05:11.485552+00:00 heroku[router]: at=error code=H10 desc=\"App crashed\" method=GET path=\"/favicon.ico\"\n\nAcceptance Criteria\nNeed someone who knows Spring Boot Java and also JavaScript to be able to resolve this issue.",
+        "author": "mdotbaig",
+        "posted_time": "14 minutes ago",
+        "link": "https://replit.com/bounties/@mdotbaig/get-endpoint-error-f?t="
     }
 ]
