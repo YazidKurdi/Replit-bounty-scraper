@@ -3166,7 +3166,7 @@ Be specific about what you want in the solution here.",fatty121,5 hours ago,http
 2023-01-25T03:05:11.485552+00:00 heroku[router]: at=error code=H10 desc=""App crashed"" method=GET path=""/favicon.ico""
 
 Acceptance Criteria
-Need someone who knows Spring Boot Java and also JavaScript to be able to resolve this issue.",mdotbaig,3 hours ago,https://replit.com/bounties/@mdotbaig/get-endpoint-error-f?t=
+Need someone who knows Spring Boot Java and also JavaScript to be able to resolve this issue.",mdotbaig,4 hours ago,https://replit.com/bounties/@mdotbaig/get-endpoint-error-f?t=
 374,$13.50,due in 6 days,Interactive landing page built in three.js,"Build an interactive website similar to Ethereum Foundation. We need it built in three.js. We want to light up the relationships between the data center graphics and introduce an element of electricity between the relationships. EF site here https://ethereum.foundation. Our design here: https://www.dropbox.com/s/rr103u3wn30kbro/store%20facebook%20cover.jpeg?dl=0. Design files provided upon hiring.
 
 Acceptance Criteria
@@ -3178,3 +3178,16 @@ Built in three.js, ready to be deployed (via Store Cloud)
 Timelines / Milestones
 Concept and technical spec required for hiring
 Fast daily iterations to wrap up from there",ChrisMcCoy3,3 hours ago,https://replit.com/bounties/@ChrisMcCoy3/interactive-landing?t=
+375,$90.00,due in 16 days,Twitter Replies Script,"I have a Repl that, given a specific Tweet ID, it will call the Twitter API and pull all replies and import them into a csv. However, I want to upgrade this script to be able to:
+
+Pull all recent tweets of a twitter account if given a specific twitter handle
+Import all the replies into the current replies.csv file (already made, just need to integrate this properly in the account loop)
+Import all the usernames that retweeted the same tweets into retweets.csv
+
+Acceptance Criteria:
+
+The script now takes in a Twitter Handle as the main input and will pull tweets of the past day
+The script will iterate through all these tweets and pull:
+reply tweets and authors into replies.csv
+retweeting accounts into retweets.csv
+Bonus: You schedule the repl to run daily",lopezhoracio,44 seconds ago,https://replit.com/bounties/@lopezhoracio/twitter-replies-scri?t=
