@@ -3158,7 +3158,7 @@ Code should be commented and readable so it can be expanded in the future, for e
 372,$2.52,due in 12 days,Edit css stuff for me (already claimed),"Describe the problem you are trying to solve here.
 stuff
 Acceptance Criteria
-Be specific about what you want in the solution here.",fatty121,15 hours ago,https://replit.com/bounties/@fatty121/edit-css-stuff-for-m?t=
+Be specific about what you want in the solution here.",fatty121,16 hours ago,https://replit.com/bounties/@fatty121/edit-css-stuff-for-m?t=
 373,$15.00,closed,Get endpoint error for Spring Boot Application,"Here are errors I am getting when I deploy my app to heroku:
 
 2023-01-25T03:05:11.281135+00:00 heroku[router]: at=error code=H10 desc=""App crashed"" method=GET path=""/""
@@ -3177,7 +3177,7 @@ Built in three.js, ready to be deployed (via Store Cloud)
 
 Timelines / Milestones
 Concept and technical spec required for hiring
-Fast daily iterations to wrap up from there",ChrisMcCoy3,13 hours ago,https://replit.com/bounties/@ChrisMcCoy3/interactive-landing?t=
+Fast daily iterations to wrap up from there",ChrisMcCoy3,14 hours ago,https://replit.com/bounties/@ChrisMcCoy3/interactive-landing?t=
 375,$90.00,due in 15 days,Twitter Replies Script,"I have a Repl that, given a specific Tweet ID, it will call the Twitter API and pull all replies and import them into a csv. However, I want to upgrade this script to be able to:
 
 Pull all recent tweets of a twitter account if given a specific twitter handle
@@ -3201,7 +3201,7 @@ Must include record of a search of the reviews associated with at least one POI 
 Must include the full text of the review (no other metadata, like date of review or reviewer name) that contains both strings ""steal"" and ""EBT""
 Output can be CSV or JSON
 
-Technical Details",AlanWilliams2,2 hours ago,https://replit.com/bounties/@AlanWilliams2/scrape-google-maps-t?t=
+Technical Details",AlanWilliams2,3 hours ago,https://replit.com/bounties/@AlanWilliams2/scrape-google-maps-t?t=
 378,$31.50,due in 16 days,Create a social media post with 100K+ views,"Make aitools.fyi go viral!
 
 Post a video/short on TikTok, Instagram, YouTube, and/or Snapchat about how amazing aitools.fyi is(or an informative video) and get over 100K views and get the bounty!
@@ -3209,4 +3209,4 @@ Post a video/short on TikTok, Instagram, YouTube, and/or Snapchat about how amaz
 Please note: North American based audience is preferred for this bounty.
 
 Acceptance Criteria
-You have to share analytics of the video and the actual video link. The video has to clearly mention aitools.fyi. The website address aitools.fyi should be in the description of the video.",SouthernEast,2 hours ago,https://replit.com/bounties/@SouthernEast/create-a-social-medi?t=
+You have to share analytics of the video and the actual video link. The video has to clearly mention aitools.fyi. The website address aitools.fyi should be in the description of the video.",SouthernEast,3 hours ago,https://replit.com/bounties/@SouthernEast/create-a-social-medi?t=
