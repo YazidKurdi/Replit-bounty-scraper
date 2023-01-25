@@ -3716,7 +3716,7 @@
         "title": "Homework website: for summaries, outlines, and essays",
         "description": "I'm looking for someone to build a simple website, that uses OpenAI, and has a simple UI (something like ChatGPT welcome screen).\n\nIt's functions would be just: 1) Make summary, 2) Make outline, 3) Write an essay.\nThe input box could receive the pasted text to work with, or a url (for example wikipedia.org/wiki/Elon_Musk)\n\nThen it performs the assigned work and displays it underneath, into the same page. And it has a \"copy\" icon to get the text copied, so that it can then be pasted in a doc.\n\nThe audience of the service is spanish speaking students, and the domain is in spanish, so the main language is going to be spanish for the UI and for the work done.\n\nAcceptance Criteria\n\nTechnical Details\nI already have the domain @godaddy\n\nCode should be commented and readable so it can be expanded in the future, for example to generate images that can complement the text.",
         "author": "PracticAI",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@PracticAI/homework-website-for?t="
     },
     {
@@ -3726,7 +3726,7 @@
         "title": "Edit css stuff for me (already claimed)",
         "description": "Describe the problem you are trying to solve here.\nstuff\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "fatty121",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@fatty121/edit-css-stuff-for-m?t="
     },
     {
@@ -3776,7 +3776,7 @@
         "title": "Scrape Google Maps to help fight thieves targeting low income families in the USA",
         "description": "People who receive nutrition assistance from the federal government are having their benefits stolen. Many of them leave reviews of the businesses where they experience theft (via ATMs or other card skimming methods). We want to search a list of all EBT retailers (provided) for their Google Maps POI listings, and then search the reviews on those POIs for the presence of the string \"steal\" AND presence of the string \"EBT\"\n\nAcceptance Criteria\n\nMust include record of an attempted search for each row in the list of EBT retailers\nMust include record of a search of the reviews associated with at least one POI for every EBT retailer (there will be plenty of inexact matches)\nMust include the full text of the review (no other metadata, like date of review or reviewer name) that contains both strings \"steal\" and \"EBT\"\nOutput can be CSV or JSON\n\nTechnical Details",
         "author": "AlanWilliams2",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@AlanWilliams2/scrape-google-maps-t?t="
     },
     {
@@ -3796,7 +3796,7 @@
         "title": "Create a new record in Airtable when a new Trustpilot review comes in",
         "description": "This is the starting point of a bigger project, but I want to learn what's possible and how it works fist. There is a TrustPilot API which fires when a new review is left. I want that to create a record in Airtable.\n\nTechnical Details\n\nTrustPilot API details here:\nhttps://documentation-apidocumentation.trustpilot.com/service-reviews-api\n\nI'm new to Replit so please allow for that in your quote as some things may take slightly longer as a result.",
         "author": "AndrewShowman",
-        "posted_time": "55 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@AndrewShowman/create-a-new-record?t="
     },
     {
@@ -3806,7 +3806,7 @@
         "title": "Add a button to a custom react app built on top of Airtable",
         "description": "I have an MVP app, that is a react frontend built on top of Airtable (and using Softr to manage login and auth.)\n\nThe app has public facing user-profiles. I need to add a button on those public-facing profiles. That's it, literally just a button.\n\nAcceptance Criteria\n\nI need someone who can quickly implement this, and can take general guidance and turn it into final components. Opportunity for more projects if interested.\n\nLink to Project\nCan provide link and details to the person chosen to complete the bounty",
         "author": "GavinYerxa1",
-        "posted_time": "36 minutes ago",
+        "posted_time": "50 minutes ago",
         "link": "https://replit.com/bounties/@GavinYerxa1/add-a-button-to-a-cu?t="
     }
 ]
