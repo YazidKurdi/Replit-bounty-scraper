@@ -3105,7 +3105,7 @@ I need a wordpress plugin for creators to be able to have their own, personal, c
 2-Let User set up their OpenAI API key
 3-Fine tune the GPT3 model
 4-Offer a way to generate new posts some will be standalone, some thread ideas, depend on user choice (""extend this post"" or ""start from scratch"" type feature)
-5-User will be able to generate 1...",GetInference,14 hours ago,https://replit.com/bounties/@GetInference/finebrand-wordpress?t=
+5-User will be able to generate 1...",GetInference,15 hours ago,https://replit.com/bounties/@GetInference/finebrand-wordpress?t=
 367,$94.50,due in 13 days,Android Background Blink Tracker (No iOS),"I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on Android. It should also show a graph of your historical blink rate (for instance, batched 60 minutes at a time, with a scrollable graph over time).
 
 To see the iOS version of this bounty, see https://replit.com/bounties/@AJGupta/background-blink-tra?t= .
@@ -3139,7 +3139,7 @@ Acceptance Criteria
 Must have experience building AI-based tools with Chat GPT
 
 Technical Details
-TBD",miacone,9 hours ago,https://replit.com/bounties/@miacone/investment-sourcing?t=
+TBD",miacone,10 hours ago,https://replit.com/bounties/@miacone/investment-sourcing?t=
 371,$90.00,due in 19 days,"Homework website: for summaries, outlines, and essays","I'm looking for someone to build a simple website, that uses OpenAI, and has a simple UI (something like ChatGPT welcome screen).
 
 It's functions would be just: 1) Make summary, 2) Make outline, 3) Write an essay.
@@ -3190,4 +3190,4 @@ The script now takes in a Twitter Handle as the main input and will pull tweets 
 The script will iterate through all these tweets and pull:
 reply tweets and authors into replies.csv
 retweeting accounts into retweets.csv
-Bonus: You schedule the repl to run daily",lopezhoracio,3 hours ago,https://replit.com/bounties/@lopezhoracio/twitter-replies-scri?t=
+Bonus: You schedule the repl to run daily",lopezhoracio,4 hours ago,https://replit.com/bounties/@lopezhoracio/twitter-replies-scri?t=
