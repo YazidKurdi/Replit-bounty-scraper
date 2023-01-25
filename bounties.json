@@ -3696,7 +3696,7 @@
         "title": "A customized version of ChatGPT for the Communications/PR Industry",
         "description": "#The last time the PR industry was disrupted was the launch of Microsoft Word. It's a very analog sector, and most of the work products are basic -- but still customized -- pieces of writing: press releases, op-eds, media advisories. ChatGPT can produce drafts of these, but they still aren't specific enough to be useful for an individual or a company. By developing a customized version of ChatGPT -- one which effectively guides the user through inputting the right documents and content -- I hope to build a program automates much of the basic writing in the communications sector.\n\n#A simple interface where non-technical users can input relevant documents (.doc and google doc files) and guidance that will allow the customized version of GPT-3 to output more personalized and relevant writing\n#Ideally, I would also like to explore how a voice-to-text function could be plugged in. For instance, could a file from a service like Otter.ai or Rev.com be used as an input",
         "author": "RyanJacobs9",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@RyanJacobs9/a-customized-version?t="
     },
     {
@@ -3706,7 +3706,7 @@
         "title": "Investment Sourcing AI Tool",
         "description": "I spend much of my day customizing emails to early stage software companies as a potential investment partner. I'm looking for someone to build a tool powered by Chat GPT that can ingest a target companies LinkedIn and the founders LinkedIn (and leverage my firms investment experience) to write custom emails to founders at scale.\n\nAcceptance Criteria\nMust have experience building AI-based tools with Chat GPT\n\nTechnical Details\nTBD",
         "author": "miacone",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@miacone/investment-sourcing?t="
     },
     {
@@ -3732,7 +3732,7 @@
     {
         "index": "373",
         "price": "$15.00",
-        "due_days": "due in 3 days",
+        "due_days": "closed",
         "title": "Get endpoint error for Spring Boot Application",
         "description": "Here are errors I am getting when I deploy my app to heroku:\n\n2023-01-25T03:05:11.281135+00:00 heroku[router]: at=error code=H10 desc=\"App crashed\" method=GET path=\"/\"\n\n2023-01-25T03:05:11.485552+00:00 heroku[router]: at=error code=H10 desc=\"App crashed\" method=GET path=\"/favicon.ico\"\n\nAcceptance Criteria\nNeed someone who knows Spring Boot Java and also JavaScript to be able to resolve this issue.",
         "author": "mdotbaig",
@@ -3756,7 +3756,7 @@
         "title": "Twitter Replies Script",
         "description": "I have a Repl that, given a specific Tweet ID, it will call the Twitter API and pull all replies and import them into a csv. However, I want to upgrade this script to be able to:\n\nPull all recent tweets of a twitter account if given a specific twitter handle\nImport all the replies into the current replies.csv file (already made, just need to integrate this properly in the account loop)\nImport all the usernames that retweeted the same tweets into retweets.csv\n\nAcceptance Criteria:\n\nThe script now takes in a Twitter Handle as the main input and will pull tweets of the past day\nThe script will iterate through all these tweets and pull:\nreply tweets and authors into replies.csv\nretweeting accounts into retweets.csv\nBonus: You schedule the repl to run daily",
         "author": "lopezhoracio",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@lopezhoracio/twitter-replies-scri?t="
     },
     {
