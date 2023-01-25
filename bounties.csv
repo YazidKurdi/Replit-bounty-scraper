@@ -3190,4 +3190,4 @@ The script now takes in a Twitter Handle as the main input and will pull tweets 
 The script will iterate through all these tweets and pull:
 reply tweets and authors into replies.csv
 retweeting accounts into retweets.csv
-Bonus: You schedule the repl to run daily",lopezhoracio,54 minutes ago,https://replit.com/bounties/@lopezhoracio/twitter-replies-scri?t=
+Bonus: You schedule the repl to run daily",lopezhoracio,1 hour ago,https://replit.com/bounties/@lopezhoracio/twitter-replies-scri?t=
