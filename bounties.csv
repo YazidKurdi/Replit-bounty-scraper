@@ -3190,7 +3190,7 @@ The script now takes in a Twitter Handle as the main input and will pull tweets 
 The script will iterate through all these tweets and pull:
 reply tweets and authors into replies.csv
 retweeting accounts into retweets.csv
-Bonus: You schedule the repl to run daily",lopezhoracio,14 hours ago,https://replit.com/bounties/@lopezhoracio/twitter-replies-scri?t=
+Bonus: You schedule the repl to run daily",lopezhoracio,15 hours ago,https://replit.com/bounties/@lopezhoracio/twitter-replies-scri?t=
 376,$2.70,due in 3 days,Make a simple mass discord token changer,Make a simple mass discord token changer which will accept tokens from tokens.txt in email:password:token format and change the token password to a specific/random 8 character and retrieve the new token and store the values in a new txt file in email:newpassword:newtoken format.,gamerspy2234,7 hours ago,https://replit.com/bounties/@gamerspy2234/make-a-simple-mass-d?t=
 377,$450.00,due in 3 days,Scrape Google Maps to help fight thieves targeting low income families in the USA,"People who receive nutrition assistance from the federal government are having their benefits stolen. Many of them leave reviews of the businesses where they experience theft (via ATMs or other card skimming methods). We want to search a list of all EBT retailers (provided) for their Google Maps POI listings, and then search the reviews on those POIs for the presence of the string ""steal"" AND presence of the string ""EBT""
 
@@ -3237,7 +3237,7 @@ Google signin
 
 Acceptance Criteria
 front and backend
-must work on shared hosting",BrandonF7,1 hour ago,https://replit.com/bounties/@BrandonF7/clone-openai-playgro?t=
+must work on shared hosting",BrandonF7,2 hours ago,https://replit.com/bounties/@BrandonF7/clone-openai-playgro?t=
 382,$9.00,due in 3 days,Discussion on what is possible with Stable Diffusion / Dall-E etc.,"I'm not looking for any code for this first step. I'd just like to know what is possible and then explore from there.
 
 My friend is an artist and creates line drawings from photos. Example here: https://share.cleanshot.com/NyLyFxTN
@@ -3256,4 +3256,4 @@ Technical Details
 I will pay this amount only if the application is made at least 50% more battery efficient.
 
 Link to Project
-https://github.com/sirkevinwang/Blink",AJGupta,58 minutes ago,https://replit.com/bounties/@AJGupta/make-mac-video-app-m?t=
+https://github.com/sirkevinwang/Blink",AJGupta,1 hour ago,https://replit.com/bounties/@AJGupta/make-mac-video-app-m?t=
