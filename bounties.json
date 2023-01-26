@@ -3886,7 +3886,7 @@
         "title": "API for testing and scoring LLM completions GPT Etc.",
         "description": "Looking for a single endpoint to build testing libraries or manual scoring of responses with larger models. Replacing human review equivalent for simpler response tasks and categorizations.\n\nDoes not necessarily need a GUI can just be an end point with various fetches to OpenAI for example or using other testing frameworks. Should provide option to select best completion, grade 1-10, process batch analysis and summarize. Ideally looking at what the very best libraries and techniques are.\n\nOpen to best simple technical approach. Python or Node.js",
         "author": "pbmangan",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@pbmangan/api-for-testing-and?t="
     },
     {
@@ -3956,7 +3956,7 @@
         "title": "Extract Data using CoinGecko API",
         "description": "Use the CoinGecko API to create a list of every Company on CoinGecko (https://www.coingecko.com/).\n\nPull all of the following fields for each company:\n\nCompany Name\nToken Symbol\nWebsite\nTwitter\nLinkedIn\nMarket Cap\n24 hour Trading Volume\nCirculating Supply\nDate Added\nDate Launched\nDescription\n\nThe output should be a csv with all of this data.\n\nLet's use the repl chat for communication.",
         "author": "MarkErdmann",
-        "posted_time": "31 minutes ago",
+        "posted_time": "41 minutes ago",
         "link": "https://replit.com/bounties/@MarkErdmann/extract-data-using-c?t="
     },
     {
@@ -3966,7 +3966,7 @@
         "title": "Auto-respond to tweets with AI",
         "description": "Interesting people don't get enough interesting replies from AI\n\nAcceptance Criteria\nAn AI, using OpenAI's API, looks for highly popular tweets, and responds to them, using a prompt that the user creates.\n\nThe app should allow a user to:\nAuth with Twitter\nCreate a prompt that the AI will use to reply (ie \"reply with a witty comment in the style of Shakespeare\")\nChoose how many tweets to send out per day\nRun in the background, searching for tweets that are popular\nSpace the tweets out evenly throughout the day\n\nTechnical Details\nNot important to me how the dev decides to build this",
         "author": "anksolado",
-        "posted_time": "4 minutes ago",
+        "posted_time": "13 minutes ago",
         "link": "https://replit.com/bounties/@anksolado/auto-respond-to-twee?t="
     }
 ]
