@@ -3201,7 +3201,7 @@ Must include record of a search of the reviews associated with at least one POI 
 Must include the full text of the review (no other metadata, like date of review or reviewer name) that contains both strings ""steal"" and ""EBT""
 Output can be CSV or JSON
 
-Technical Details",AlanWilliams2,12 hours ago,https://replit.com/bounties/@AlanWilliams2/scrape-google-maps-t?t=
+Technical Details",AlanWilliams2,13 hours ago,https://replit.com/bounties/@AlanWilliams2/scrape-google-maps-t?t=
 378,$31.50,due in 15 days,Create a social media post with 100K+ views,"Make aitools.fyi go viral!
 
 Post a video/short on TikTok, Instagram, YouTube, and/or Snapchat about how amazing aitools.fyi is(or an informative video) and get over 100K views and get the bounty!
@@ -3227,7 +3227,7 @@ Acceptance Criteria
 I need someone who can quickly implement this, and can take general guidance and turn it into final components. Opportunity for more projects if interested.
 
 Link to Project
-Can provide link and details to the person chosen to complete the bounty",GavinYerxa1,8 hours ago,https://replit.com/bounties/@GavinYerxa1/add-a-button-to-a-cu?t=
+Can provide link and details to the person chosen to complete the bounty",GavinYerxa1,9 hours ago,https://replit.com/bounties/@GavinYerxa1/add-a-button-to-a-cu?t=
 381,$90.00,due in 27 days,Clone OpenAI Playground & Examples (with Login),"Clone OpenAI playground and examples pages and functionality.
 Free to change theme or use similar theme
 Playground (include working submit, load preset search list) (dont include model filters, can use defaults)
@@ -3256,12 +3256,12 @@ Technical Details
 I will pay this amount only if the application is made at least 50% more battery efficient.
 
 Link to Project
-https://github.com/sirkevinwang/Blink",AJGupta,6 hours ago,https://replit.com/bounties/@AJGupta/make-mac-video-app-m?t=
+https://github.com/sirkevinwang/Blink",AJGupta,7 hours ago,https://replit.com/bounties/@AJGupta/make-mac-video-app-m?t=
 384,$3.15,due in 4 days,OpenAI GPT3 Playground Frontend,"I need someone to make me an AI app as a frontend for the OpenAI Playground. I will discuss the specific GUI etc when I contact the bounty hunter via email.
 Acceptance Criteria
 Revise it to my liking, make it completely functional, keep the API key in the secrets tab.
 Technical Details
-Any language permitted.",CrownDevelopment,2 hours ago,https://replit.com/bounties/@CrownDevelopment/openai-gpt3-playgrou?t=
+Any language permitted.",CrownDevelopment,3 hours ago,https://replit.com/bounties/@CrownDevelopment/openai-gpt3-playgrou?t=
 385,$27.00,due in 4 days,Fix DB Table Bug and Import Bookmarks into Next.js Supabase Basic Webapp,"I created a website using a Vercel Supabase Authentication Next.js public template. I am having trouble creating a new table row in the Supabase database that should then shows on the webapp.  I would like #1 to fix this bug and create a partner post on the webapp. and #2 to import a list of bookmarks so they each have a partner post on the website. I can provide the github repo, vercel default template, and bookmarks list in csv or firebase. I am also open to a zoom call to expedite the process.
 Acceptance Criteria
 Please have experience in Next.js, Vercel, and databases preferable using Supabase.
@@ -3275,4 +3275,4 @@ Link to Project
 https://roots-partner-gallery.vercel.app/partners/integrations
 Repo: https://github.com/starmorph/roots-partner-gallery
 Vercel Template: https://vercel.com/templates/next.js/supabase-authentication
-Will send bookmarks once we start the project.",starmorph,16 minutes ago,https://replit.com/bounties/@starmorph/fix-db-table-bug-and?t=
+Will send bookmarks once we start the project.",starmorph,28 minutes ago,https://replit.com/bounties/@starmorph/fix-db-table-bug-and?t=

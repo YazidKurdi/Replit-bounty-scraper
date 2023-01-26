@@ -3776,7 +3776,7 @@
         "title": "Scrape Google Maps to help fight thieves targeting low income families in the USA",
         "description": "People who receive nutrition assistance from the federal government are having their benefits stolen. Many of them leave reviews of the businesses where they experience theft (via ATMs or other card skimming methods). We want to search a list of all EBT retailers (provided) for their Google Maps POI listings, and then search the reviews on those POIs for the presence of the string \"steal\" AND presence of the string \"EBT\"\n\nAcceptance Criteria\n\nMust include record of an attempted search for each row in the list of EBT retailers\nMust include record of a search of the reviews associated with at least one POI for every EBT retailer (there will be plenty of inexact matches)\nMust include the full text of the review (no other metadata, like date of review or reviewer name) that contains both strings \"steal\" and \"EBT\"\nOutput can be CSV or JSON\n\nTechnical Details",
         "author": "AlanWilliams2",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@AlanWilliams2/scrape-google-maps-t?t="
     },
     {
@@ -3806,7 +3806,7 @@
         "title": "Add a button to a custom react app built on top of Airtable",
         "description": "I have an MVP app, that is a react frontend built on top of Airtable (and using Softr to manage login and auth.)\n\nThe app has public facing user-profiles. I need to add a button on those public-facing profiles. That's it, literally just a button.\n\nAcceptance Criteria\n\nI need someone who can quickly implement this, and can take general guidance and turn it into final components. Opportunity for more projects if interested.\n\nLink to Project\nCan provide link and details to the person chosen to complete the bounty",
         "author": "GavinYerxa1",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@GavinYerxa1/add-a-button-to-a-cu?t="
     },
     {
@@ -3836,7 +3836,7 @@
         "title": "Make Mac Video App More Efficient (via s3 or Mac M1 chip acceleration)",
         "description": "The application here: https://github.com/sirkevinwang/Blink uses a significant amount of CPU and memory to take video and to run image processing on that video. Make an app that either 1) offloads the image processing to a user's EC2 box or 2) schedules it to happen using the M1 chip's hardware acceleration for videos/the Mac M1's graphics unit.\n\nYou should benchmark average CPU, graphics card, and memory usage of the current app, and the benchmarks for your fixed version of the app.\n\nAcceptance Criteria\nI will only accept applications that 1) have either a Github or a resume/portfolio attached and 2) mention either past experience or a specific plan to make the changes.\n\nTechnical Details\nI will pay this amount only if the application is made at least 50% more battery efficient.\n\nLink to Project\nhttps://github.com/sirkevinwang/Blink",
         "author": "AJGupta",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/make-mac-video-app-m?t="
     },
     {
@@ -3846,7 +3846,7 @@
         "title": "OpenAI GPT3 Playground Frontend",
         "description": "I need someone to make me an AI app as a frontend for the OpenAI Playground. I will discuss the specific GUI etc when I contact the bounty hunter via email.\nAcceptance Criteria\nRevise it to my liking, make it completely functional, keep the API key in the secrets tab.\nTechnical Details\nAny language permitted.",
         "author": "CrownDevelopment",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@CrownDevelopment/openai-gpt3-playgrou?t="
     },
     {
@@ -3856,7 +3856,7 @@
         "title": "Fix DB Table Bug and Import Bookmarks into Next.js Supabase Basic Webapp",
         "description": "I created a website using a Vercel Supabase Authentication Next.js public template. I am having trouble creating a new table row in the Supabase database that should then shows on the webapp.  I would like #1 to fix this bug and create a partner post on the webapp. and #2 to import a list of bookmarks so they each have a partner post on the website. I can provide the github repo, vercel default template, and bookmarks list in csv or firebase. I am also open to a zoom call to expedite the process.\nAcceptance Criteria\nPlease have experience in Next.js, Vercel, and databases preferable using Supabase.\n\nTechnical Details\nVercel\nNext.js\nSupabase\n\nLink to Project\nhttps://roots-partner-gallery.vercel.app/partners/integrations\nRepo: https://github.com/starmorph/roots-partner-gallery\nVercel Template: https://vercel.com/templates/next.js/supabase-authentication\nWill send bookmarks once we start the project.",
         "author": "starmorph",
-        "posted_time": "16 minutes ago",
+        "posted_time": "28 minutes ago",
         "link": "https://replit.com/bounties/@starmorph/fix-db-table-bug-and?t="
     }
 ]
