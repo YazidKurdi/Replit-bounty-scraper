@@ -3339,7 +3339,7 @@ Can run python server code with user's credentials like reading new emails and c
 Preferably allauth library is used.
 
 Acceptance Criteria:
-Code that implements above requirements and screen record of demo",VuBui7,12 hours ago,https://replit.com/bounties/@VuBui7/basic-django-app-wit?t=
+Code that implements above requirements and screen record of demo",VuBui7,13 hours ago,https://replit.com/bounties/@VuBui7/basic-django-app-wit?t=
 391,$6.30,due in 3 days,Flet Lib Python+Flutter runninng Hot Reload on Replit,"Describe the problem you are trying to solve here:
 For the Flet project work with Hot Reload enabled, we have to use command ""flet run main.py"" but when using the flet command, Replit VM starts returning some shared library errors.
 
@@ -3416,7 +3416,7 @@ Description
 
 The output should be a csv with all of this data.
 
-Let's use the repl chat for communication.",MarkErdmann,49 minutes ago,https://replit.com/bounties/@MarkErdmann/extract-data-using-c-1?t=
+Let's use the repl chat for communication.",MarkErdmann,59 minutes ago,https://replit.com/bounties/@MarkErdmann/extract-data-using-c-1?t=
 398,$36.00,due in 3 days,Public Company Events,"Every time a public company I follow adds an event to their calendar (earnings call, analyst/investor day, conference presentation), I would like it to automatically send myself a calendar invite in outlook.
 
 Acceptance Criteria
@@ -3427,7 +3427,7 @@ I should be able to add other people to get the calendar invite
 
 Needs to work on outlook
 
-Technical Details",NateMitchell1,49 minutes ago,https://replit.com/bounties/@NateMitchell1/public-company-event?t=
+Technical Details",NateMitchell1,58 minutes ago,https://replit.com/bounties/@NateMitchell1/public-company-event?t=
 399,$45.00,due in 3 days,Need someone experienced and skilled in Java and Heroku to resolve an issue and write one script,"My project works locally but when I try to upload it to Heroku it gives me the following error: Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'app.email' in value ""${app.email}""
 
 Need help fixing the app issues and make it live on Heroku.
@@ -3437,4 +3437,4 @@ a. Reads a CSV file containing multiple rows of search prompts and uses each pro
 
 b. The script should then calculate the median and average price of the top 10 results pulled from the API.
 
-c. Then it should add the median and average prices to the original CSV file and generate a new CSV file f...",mdotbaig,47 minutes ago,https://replit.com/bounties/@mdotbaig/need-someone-experie?t=
+c. Then it should add the median and average prices to the original CSV file and generate a new CSV file f...",mdotbaig,57 minutes ago,https://replit.com/bounties/@mdotbaig/need-someone-experie?t=
