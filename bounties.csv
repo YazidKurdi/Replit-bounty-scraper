@@ -3217,7 +3217,7 @@ Technical Details
 TrustPilot API details here:
 https://documentation-apidocumentation.trustpilot.com/service-reviews-api
 
-I'm new to Replit so please allow for that in your quote as some things may take slightly longer as a result.",AndrewShowman,9 hours ago,https://replit.com/bounties/@AndrewShowman/create-a-new-record?t=
+I'm new to Replit so please allow for that in your quote as some things may take slightly longer as a result.",AndrewShowman,10 hours ago,https://replit.com/bounties/@AndrewShowman/create-a-new-record?t=
 380,$67.50,due in 3 days,Add a button to a custom react app built on top of Airtable,"I have an MVP app, that is a react frontend built on top of Airtable (and using Softr to manage login and auth.)
 
 The app has public facing user-profiles. I need to add a button on those public-facing profiles. That's it, literally just a button.
@@ -3237,7 +3237,7 @@ Google signin
 
 Acceptance Criteria
 front and backend
-must work on shared hosting",BrandonF7,7 hours ago,https://replit.com/bounties/@BrandonF7/clone-openai-playgro?t=
+must work on shared hosting",BrandonF7,8 hours ago,https://replit.com/bounties/@BrandonF7/clone-openai-playgro?t=
 382,$9.00,due in 3 days,Discussion on what is possible with Stable Diffusion / Dall-E etc.,"I'm not looking for any code for this first step. I'd just like to know what is possible and then explore from there.
 
 My friend is an artist and creates line drawings from photos. Example here: https://share.cleanshot.com/NyLyFxTN
@@ -3275,4 +3275,10 @@ Link to Project
 https://roots-partner-gallery.vercel.app/partners/integrations
 Repo: https://github.com/starmorph/roots-partner-gallery
 Vercel Template: https://vercel.com/templates/next.js/supabase-authentication
-Will send bookmarks once we start the project.",starmorph,44 minutes ago,https://replit.com/bounties/@starmorph/fix-db-table-bug-and?t=
+Will send bookmarks once we start the project.",starmorph,59 minutes ago,https://replit.com/bounties/@starmorph/fix-db-table-bug-and?t=
+386,$80.10,due in 17 days,Static nextjs page,"We're looking to build our homepage using Nextjs to match our available design. The homepage will be static with no backend requirements.
+
+Acceptance Criteria
+• Use NextJS
+• Meet design requirements
+• Support a range of browser sizes",gehrigk,49 seconds ago,https://replit.com/bounties/@gehrigk/static-nextjs-page?t=
