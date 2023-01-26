@@ -3876,7 +3876,7 @@
         "title": "Create Fresh Laravel Jetstream Project",
         "description": "The Job\n\n--\n\nCreate a fresh laravel app instance locally.\n\nAdd Laravel Socialite and connect it to a Twitter app ID that has been created.\n\nAdd login with twitter buttons to /login and /register\n\nTest sign up flow and database table for success user login or creation.\n\nDeploy to digital ocean via a fresh GitHub repo on my account.\n\nThis is the first step in a multi step app development process.\n\nThese are intentionally very simple steps to test bounties as a future way of project delivery and to find a good fit with the right engineer.",
         "author": "louisblythe",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@louisblythe/create-fresh-laravel?t="
     },
     {
@@ -3946,7 +3946,7 @@
         "title": "Knowledge Management Chatbot",
         "description": "Make a question answering chatbot that pulls results from a query from Snowflake and Wikipedia and using Langchain and Streamlit.\n\nThis documentation is a starting point on how to build a question answering chatbot using Langchain.\n\nWe will test the tool with a few questions regarding data in Snowflake and/or Wikipedia.\n\nAcceptance Criteria\n\nThe chatbot should have a simple interface\nWe will provide an API to a CRM dataset in Snowflake containing a list of 100 customers\u2019 names, last transaction date, and last transaction size.\nThe chatbot must be able to generate a proper response regarding data in either Wikipedia or Snowflake, including calculating averages and sums\nThe app must be deployed on Streamlit",
         "author": "altcap",
-        "posted_time": "45 minutes ago",
+        "posted_time": "52 minutes ago",
         "link": "https://replit.com/bounties/@altcap/knowledge-management?t="
     }
 ]
