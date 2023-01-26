@@ -3364,4 +3364,4 @@ Acceptance Criteria
 The chatbot should have a simple interface
 We will provide an API to a CRM dataset in Snowflake containing a list of 100 customers’ names, last transaction date, and last transaction size.
 The chatbot must be able to generate a proper response regarding data in either Wikipedia or Snowflake, including calculating averages and sums
-The app must be deployed on Streamlit",altcap,13 minutes ago,https://replit.com/bounties/@altcap/knowledge-management?t=
+The app must be deployed on Streamlit",altcap,20 minutes ago,https://replit.com/bounties/@altcap/knowledge-management?t=

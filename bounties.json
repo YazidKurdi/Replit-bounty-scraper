@@ -3946,7 +3946,7 @@
         "title": "Knowledge Management Chatbot",
         "description": "Make a question answering chatbot that pulls results from a query from Snowflake and Wikipedia and using Langchain and Streamlit.\n\nThis documentation is a starting point on how to build a question answering chatbot using Langchain.\n\nWe will test the tool with a few questions regarding data in Snowflake and/or Wikipedia.\n\nAcceptance Criteria\n\nThe chatbot should have a simple interface\nWe will provide an API to a CRM dataset in Snowflake containing a list of 100 customers\u2019 names, last transaction date, and last transaction size.\nThe chatbot must be able to generate a proper response regarding data in either Wikipedia or Snowflake, including calculating averages and sums\nThe app must be deployed on Streamlit",
         "author": "altcap",
-        "posted_time": "13 minutes ago",
+        "posted_time": "20 minutes ago",
         "link": "https://replit.com/bounties/@altcap/knowledge-management?t="
     }
 ]
