@@ -3298,7 +3298,7 @@ Deploy to digital ocean via a fresh GitHub repo on my account.
 
 This is the first step in a multi step app development process.
 
-These are intentionally very simple steps to test bounties as a future way of project delivery and to find a good fit with the right engineer.",louisblythe,5 hours ago,https://replit.com/bounties/@louisblythe/create-fresh-laravel?t=
+These are intentionally very simple steps to test bounties as a future way of project delivery and to find a good fit with the right engineer.",louisblythe,6 hours ago,https://replit.com/bounties/@louisblythe/create-fresh-laravel?t=
 388,$225.00,due in 8 days,API for testing and scoring LLM completions GPT Etc.,"Looking for a single endpoint to build testing libraries or manual scoring of responses with larger models. Replacing human review equivalent for simpler response tasks and categorizations.
 
 Does not necessarily need a GUI can just be an end point with various fetches to OpenAI for example or using other testing frameworks. Should provide option to select best completion, grade 1-10, process batch analysis and summarize. Ideally looking at what the very best libraries and techniques are.
@@ -3322,3 +3322,21 @@ The web app successfully generates a response matching the user's preferences
 Technical Details
 
 Timelines / Milestones",tiffunny,1 hour ago,https://replit.com/bounties/@tiffunny/web-app-for-parents?t=
+390,$9.00,due in 7 days,Basic Django App with Google OAuth Integration,"A basic Django application with Google OAuth integrated
+
+Google OAuth integration requirements:
+Credentials type should be Web application
+Scopes should include at least
+  https://www.googleapis.com/auth/gmail.readonly
+  https://www.googleapis.com/auth/gmail.compose
+
+We need a basic Django app set up as the following:
+A log in page with a button that says ""Give Access to Google Account"" styled in TailwindCSS, doesn't need to be fancy
+Clicking on the button shows log in with Google that lists above scopes
+A redirect page for when log in is done, can be basic as showing the logged in public user info
+Can run python server code with user's credentials like reading new emails and creating draft, just need demo of this is working and basic code for it, no specific requirements here
+
+Preferably allauth library is used.
+
+Acceptance Criteria:
+Code that implements above requirements and screen record of demo",VuBui7,11 minutes ago,https://replit.com/bounties/@VuBui7/basic-django-app-wit?t=

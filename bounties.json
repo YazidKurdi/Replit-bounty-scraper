@@ -3876,7 +3876,7 @@
         "title": "Create Fresh Laravel Jetstream Project",
         "description": "The Job\n\n--\n\nCreate a fresh laravel app instance locally.\n\nAdd Laravel Socialite and connect it to a Twitter app ID that has been created.\n\nAdd login with twitter buttons to /login and /register\n\nTest sign up flow and database table for success user login or creation.\n\nDeploy to digital ocean via a fresh GitHub repo on my account.\n\nThis is the first step in a multi step app development process.\n\nThese are intentionally very simple steps to test bounties as a future way of project delivery and to find a good fit with the right engineer.",
         "author": "louisblythe",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@louisblythe/create-fresh-laravel?t="
     },
     {
@@ -3898,5 +3898,15 @@
         "author": "tiffunny",
         "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@tiffunny/web-app-for-parents?t="
+    },
+    {
+        "index": "390",
+        "price": "$9.00",
+        "due_days": "due in 7 days",
+        "title": "Basic Django App with Google OAuth Integration",
+        "description": "A basic Django application with Google OAuth integrated\n\nGoogle OAuth integration requirements:\nCredentials type should be Web application\nScopes should include at least\n  https://www.googleapis.com/auth/gmail.readonly\n  https://www.googleapis.com/auth/gmail.compose\n\nWe need a basic Django app set up as the following:\nA log in page with a button that says \"Give Access to Google Account\" styled in TailwindCSS, doesn't need to be fancy\nClicking on the button shows log in with Google that lists above scopes\nA redirect page for when log in is done, can be basic as showing the logged in public user info\nCan run python server code with user's credentials like reading new emails and creating draft, just need demo of this is working and basic code for it, no specific requirements here\n\nPreferably allauth library is used.\n\nAcceptance Criteria:\nCode that implements above requirements and screen record of demo",
+        "author": "VuBui7",
+        "posted_time": "11 minutes ago",
+        "link": "https://replit.com/bounties/@VuBui7/basic-django-app-wit?t="
     }
 ]
