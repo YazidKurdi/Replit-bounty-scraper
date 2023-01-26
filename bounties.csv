@@ -3298,7 +3298,7 @@ Deploy to digital ocean via a fresh GitHub repo on my account.
 
 This is the first step in a multi step app development process.
 
-These are intentionally very simple steps to test bounties as a future way of project delivery and to find a good fit with the right engineer.",louisblythe,11 hours ago,https://replit.com/bounties/@louisblythe/create-fresh-laravel?t=
+These are intentionally very simple steps to test bounties as a future way of project delivery and to find a good fit with the right engineer.",louisblythe,12 hours ago,https://replit.com/bounties/@louisblythe/create-fresh-laravel?t=
 388,$225.00,due in 7 days,API for testing and scoring LLM completions GPT Etc.,"Looking for a single endpoint to build testing libraries or manual scoring of responses with larger models. Replacing human review equivalent for simpler response tasks and categorizations.
 
 Does not necessarily need a GUI can just be an end point with various fetches to OpenAI for example or using other testing frameworks. Should provide option to select best completion, grade 1-10, process batch analysis and summarize. Ideally looking at what the very best libraries and techniques are.
@@ -3350,4 +3350,4 @@ https://flet.dev/docs/guides/python/hot-reload
 Acceptance Criteria
 Be specific about what you want in the solution here.
 Hot Reload on Flet tested and working without any error on Replit.",gcapedro,2 hours ago,https://replit.com/bounties/@gcapedro/flet-lib-pythonflutt?t=
-392,$13.50,due in 3 days,Ruby: transform SVG to image (png or jpeg),"Given an SVG file, transform it to an image using ruby. The image should be a png or jpeg",MatthiasRichard,31 minutes ago,https://replit.com/bounties/@MatthiasRichard/ruby-transform-svg-t?t=
+392,$13.50,due in 3 days,Ruby: transform SVG to image (png or jpeg),"Given an SVG file, transform it to an image using ruby. The image should be a png or jpeg",MatthiasRichard,47 minutes ago,https://replit.com/bounties/@MatthiasRichard/ruby-transform-svg-t?t=
