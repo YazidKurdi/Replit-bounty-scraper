@@ -3298,12 +3298,12 @@ Deploy to digital ocean via a fresh GitHub repo on my account.
 
 This is the first step in a multi step app development process.
 
-These are intentionally very simple steps to test bounties as a future way of project delivery and to find a good fit with the right engineer.",louisblythe,9 hours ago,https://replit.com/bounties/@louisblythe/create-fresh-laravel?t=
+These are intentionally very simple steps to test bounties as a future way of project delivery and to find a good fit with the right engineer.",louisblythe,10 hours ago,https://replit.com/bounties/@louisblythe/create-fresh-laravel?t=
 388,$225.00,due in 7 days,API for testing and scoring LLM completions GPT Etc.,"Looking for a single endpoint to build testing libraries or manual scoring of responses with larger models. Replacing human review equivalent for simpler response tasks and categorizations.
 
 Does not necessarily need a GUI can just be an end point with various fetches to OpenAI for example or using other testing frameworks. Should provide option to select best completion, grade 1-10, process batch analysis and summarize. Ideally looking at what the very best libraries and techniques are.
 
-Open to best simple technical approach. Python or Node.js",pbmangan,6 hours ago,https://replit.com/bounties/@pbmangan/api-for-testing-and?t=
+Open to best simple technical approach. Python or Node.js",pbmangan,7 hours ago,https://replit.com/bounties/@pbmangan/api-for-testing-and?t=
 389,$810.00,due in 5 days,Web app for parents to generate ChatGPT content to educate their kids,"I am looking to develop a simple web app that allows parents to generate ChatGPT content to educate their kids.
 
 The web app should allow users to click the type of prompt (children's story, homework, and other relevant categories), hit generate, and have an AI return content relevant to kids.
@@ -3321,7 +3321,7 @@ The web app successfully generates a response matching the user's preferences
 
 Technical Details
 
-Timelines / Milestones",tiffunny,5 hours ago,https://replit.com/bounties/@tiffunny/web-app-for-parents?t=
+Timelines / Milestones",tiffunny,6 hours ago,https://replit.com/bounties/@tiffunny/web-app-for-parents?t=
 390,$9.00,due in 6 days,Basic Django App with Google OAuth Integration,"A basic Django application with Google OAuth integrated
 
 Google OAuth integration requirements:
@@ -3340,3 +3340,13 @@ Preferably allauth library is used.
 
 Acceptance Criteria:
 Code that implements above requirements and screen record of demo",VuBui7,4 hours ago,https://replit.com/bounties/@VuBui7/basic-django-app-wit?t=
+391,$6.30,due in 3 days,Flet Lib Python+Flutter runninng Hot Reload on Replit,"Describe the problem you are trying to solve here:
+For the Flet project work with Hot Reload enabled, we have to use command ""flet run main.py"" but when using the flet command, Replit VM starts returning some shared library errors.
+
+Here are some directions:
+https://flet.dev/docs/guides/python/getting-started
+https://flet.dev/docs/guides/python/hot-reload
+
+Acceptance Criteria
+Be specific about what you want in the solution here.
+Hot Reload on Flet tested and working without any error on Replit.",gcapedro,12 minutes ago,https://replit.com/bounties/@gcapedro/flet-lib-pythonflutt?t=

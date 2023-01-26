@@ -3876,7 +3876,7 @@
         "title": "Create Fresh Laravel Jetstream Project",
         "description": "The Job\n\n--\n\nCreate a fresh laravel app instance locally.\n\nAdd Laravel Socialite and connect it to a Twitter app ID that has been created.\n\nAdd login with twitter buttons to /login and /register\n\nTest sign up flow and database table for success user login or creation.\n\nDeploy to digital ocean via a fresh GitHub repo on my account.\n\nThis is the first step in a multi step app development process.\n\nThese are intentionally very simple steps to test bounties as a future way of project delivery and to find a good fit with the right engineer.",
         "author": "louisblythe",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@louisblythe/create-fresh-laravel?t="
     },
     {
@@ -3886,7 +3886,7 @@
         "title": "API for testing and scoring LLM completions GPT Etc.",
         "description": "Looking for a single endpoint to build testing libraries or manual scoring of responses with larger models. Replacing human review equivalent for simpler response tasks and categorizations.\n\nDoes not necessarily need a GUI can just be an end point with various fetches to OpenAI for example or using other testing frameworks. Should provide option to select best completion, grade 1-10, process batch analysis and summarize. Ideally looking at what the very best libraries and techniques are.\n\nOpen to best simple technical approach. Python or Node.js",
         "author": "pbmangan",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@pbmangan/api-for-testing-and?t="
     },
     {
@@ -3896,7 +3896,7 @@
         "title": "Web app for parents to generate ChatGPT content to educate their kids",
         "description": "I am looking to develop a simple web app that allows parents to generate ChatGPT content to educate their kids.\n\nThe web app should allow users to click the type of prompt (children's story, homework, and other relevant categories), hit generate, and have an AI return content relevant to kids.\n\nThere should also be additional, optional fields for users to enter:\n\nGrade level\nCountry\nTime needed to occupy kid\n\nAcceptance Criteria\nFront end and design that is simple and focuses on the form for the user to submit information\nUsers have access to a responsive, clean form and can enter preferences\nThe web app successfully generates a response matching the user's preferences\n\nTechnical Details\n\nTimelines / Milestones",
         "author": "tiffunny",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@tiffunny/web-app-for-parents?t="
     },
     {
@@ -3908,5 +3908,15 @@
         "author": "VuBui7",
         "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@VuBui7/basic-django-app-wit?t="
+    },
+    {
+        "index": "391",
+        "price": "$6.30",
+        "due_days": "due in 3 days",
+        "title": "Flet Lib Python+Flutter runninng Hot Reload on Replit",
+        "description": "Describe the problem you are trying to solve here:\nFor the Flet project work with Hot Reload enabled, we have to use command \"flet run main.py\" but when using the flet command, Replit VM starts returning some shared library errors.\n\nHere are some directions:\nhttps://flet.dev/docs/guides/python/getting-started\nhttps://flet.dev/docs/guides/python/hot-reload\n\nAcceptance Criteria\nBe specific about what you want in the solution here.\nHot Reload on Flet tested and working without any error on Replit.",
+        "author": "gcapedro",
+        "posted_time": "12 minutes ago",
+        "link": "https://replit.com/bounties/@gcapedro/flet-lib-pythonflutt?t="
     }
 ]
