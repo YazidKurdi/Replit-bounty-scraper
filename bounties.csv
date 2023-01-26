@@ -3190,8 +3190,8 @@ The script now takes in a Twitter Handle as the main input and will pull tweets 
 The script will iterate through all these tweets and pull:
 reply tweets and authors into replies.csv
 retweeting accounts into retweets.csv
-Bonus: You schedule the repl to run daily",lopezhoracio,18 hours ago,https://replit.com/bounties/@lopezhoracio/twitter-replies-scri?t=
-376,$2.70,due in 3 days,Make a simple mass discord token changer,Make a simple mass discord token changer which will accept tokens from tokens.txt in email:password:token format and change the token password to a specific/random 8 character and retrieve the new token and store the values in a new txt file in email:newpassword:newtoken format.,gamerspy2234,11 hours ago,https://replit.com/bounties/@gamerspy2234/make-a-simple-mass-d?t=
+Bonus: You schedule the repl to run daily",lopezhoracio,19 hours ago,https://replit.com/bounties/@lopezhoracio/twitter-replies-scri?t=
+376,$2.70,due in 3 days,Make a simple mass discord token changer,Make a simple mass discord token changer which will accept tokens from tokens.txt in email:password:token format and change the token password to a specific/random 8 character and retrieve the new token and store the values in a new txt file in email:newpassword:newtoken format.,gamerspy2234,12 hours ago,https://replit.com/bounties/@gamerspy2234/make-a-simple-mass-d?t=
 377,$450.00,due in 3 days,Scrape Google Maps to help fight thieves targeting low income families in the USA,"People who receive nutrition assistance from the federal government are having their benefits stolen. Many of them leave reviews of the businesses where they experience theft (via ATMs or other card skimming methods). We want to search a list of all EBT retailers (provided) for their Google Maps POI listings, and then search the reviews on those POIs for the presence of the string ""steal"" AND presence of the string ""EBT""
 
 Acceptance Criteria
@@ -3201,7 +3201,7 @@ Must include record of a search of the reviews associated with at least one POI 
 Must include the full text of the review (no other metadata, like date of review or reviewer name) that contains both strings ""steal"" and ""EBT""
 Output can be CSV or JSON
 
-Technical Details",AlanWilliams2,10 hours ago,https://replit.com/bounties/@AlanWilliams2/scrape-google-maps-t?t=
+Technical Details",AlanWilliams2,12 hours ago,https://replit.com/bounties/@AlanWilliams2/scrape-google-maps-t?t=
 378,$31.50,due in 15 days,Create a social media post with 100K+ views,"Make aitools.fyi go viral!
 
 Post a video/short on TikTok, Instagram, YouTube, and/or Snapchat about how amazing aitools.fyi is(or an informative video) and get over 100K views and get the bounty!
@@ -3209,7 +3209,7 @@ Post a video/short on TikTok, Instagram, YouTube, and/or Snapchat about how amaz
 Please note: North American based audience is preferred for this bounty.
 
 Acceptance Criteria
-You have to share analytics of the video and the actual video link. The video has to clearly mention aitools.fyi. The website address aitools.fyi should be in the description of the video.",SouthernEast,10 hours ago,https://replit.com/bounties/@SouthernEast/create-a-social-medi?t=
+You have to share analytics of the video and the actual video link. The video has to clearly mention aitools.fyi. The website address aitools.fyi should be in the description of the video.",SouthernEast,11 hours ago,https://replit.com/bounties/@SouthernEast/create-a-social-medi?t=
 379,$9.00,due in 3 days,Create a new record in Airtable when a new Trustpilot review comes in,"This is the starting point of a bigger project, but I want to learn what's possible and how it works fist. There is a TrustPilot API which fires when a new review is left. I want that to create a record in Airtable.
 
 Technical Details
@@ -3217,7 +3217,7 @@ Technical Details
 TrustPilot API details here:
 https://documentation-apidocumentation.trustpilot.com/service-reviews-api
 
-I'm new to Replit so please allow for that in your quote as some things may take slightly longer as a result.",AndrewShowman,7 hours ago,https://replit.com/bounties/@AndrewShowman/create-a-new-record?t=
+I'm new to Replit so please allow for that in your quote as some things may take slightly longer as a result.",AndrewShowman,8 hours ago,https://replit.com/bounties/@AndrewShowman/create-a-new-record?t=
 380,$67.50,due in 3 days,Add a button to a custom react app built on top of Airtable,"I have an MVP app, that is a react frontend built on top of Airtable (and using Softr to manage login and auth.)
 
 The app has public facing user-profiles. I need to add a button on those public-facing profiles. That's it, literally just a button.
@@ -3227,7 +3227,7 @@ Acceptance Criteria
 I need someone who can quickly implement this, and can take general guidance and turn it into final components. Opportunity for more projects if interested.
 
 Link to Project
-Can provide link and details to the person chosen to complete the bounty",GavinYerxa1,6 hours ago,https://replit.com/bounties/@GavinYerxa1/add-a-button-to-a-cu?t=
+Can provide link and details to the person chosen to complete the bounty",GavinYerxa1,8 hours ago,https://replit.com/bounties/@GavinYerxa1/add-a-button-to-a-cu?t=
 381,$90.00,due in 27 days,Clone OpenAI Playground & Examples (with Login),"Clone OpenAI playground and examples pages and functionality.
 Free to change theme or use similar theme
 Playground (include working submit, load preset search list) (dont include model filters, can use defaults)
@@ -3237,14 +3237,14 @@ Google signin
 
 Acceptance Criteria
 front and backend
-must work on shared hosting",BrandonF7,5 hours ago,https://replit.com/bounties/@BrandonF7/clone-openai-playgro?t=
+must work on shared hosting",BrandonF7,6 hours ago,https://replit.com/bounties/@BrandonF7/clone-openai-playgro?t=
 382,$9.00,due in 3 days,Discussion on what is possible with Stable Diffusion / Dall-E etc.,"I'm not looking for any code for this first step. I'd just like to know what is possible and then explore from there.
 
 My friend is an artist and creates line drawings from photos. Example here: https://share.cleanshot.com/NyLyFxTN
 
 I'd like to know if it's possible to train a model with lots of his work - i.e. the original photo and the corresponding line drawing - so that a new photo can be uploaded and a line drawing returned.
 
-I'd like this to be on a live website, so if it is possible, I'd like to know all of the steps required.",AndrewShowman,5 hours ago,https://replit.com/bounties/@AndrewShowman/discussion-on-what-i?t=
+I'd like this to be on a live website, so if it is possible, I'd like to know all of the steps required.",AndrewShowman,6 hours ago,https://replit.com/bounties/@AndrewShowman/discussion-on-what-i?t=
 383,$103.50,due in 20 days,Make Mac Video App More Efficient (via s3 or Mac M1 chip acceleration),"The application here: https://github.com/sirkevinwang/Blink uses a significant amount of CPU and memory to take video and to run image processing on that video. Make an app that either 1) offloads the image processing to a user's EC2 box or 2) schedules it to happen using the M1 chip's hardware acceleration for videos/the Mac M1's graphics unit.
 
 You should benchmark average CPU, graphics card, and memory usage of the current app, and the benchmarks for your fixed version of the app.
@@ -3256,9 +3256,9 @@ Technical Details
 I will pay this amount only if the application is made at least 50% more battery efficient.
 
 Link to Project
-https://github.com/sirkevinwang/Blink",AJGupta,4 hours ago,https://replit.com/bounties/@AJGupta/make-mac-video-app-m?t=
+https://github.com/sirkevinwang/Blink",AJGupta,6 hours ago,https://replit.com/bounties/@AJGupta/make-mac-video-app-m?t=
 384,$3.15,due in 4 days,OpenAI GPT3 Playground Frontend,"I need someone to make me an AI app as a frontend for the OpenAI Playground. I will discuss the specific GUI etc when I contact the bounty hunter via email.
 Acceptance Criteria
 Revise it to my liking, make it completely functional, keep the API key in the secrets tab.
 Technical Details
-Any language permitted.",CrownDevelopment,20 minutes ago,https://replit.com/bounties/@CrownDevelopment/openai-gpt3-playgrou?t=
+Any language permitted.",CrownDevelopment,2 hours ago,https://replit.com/bounties/@CrownDevelopment/openai-gpt3-playgrou?t=
