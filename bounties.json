@@ -3886,7 +3886,7 @@
         "title": "API for testing and scoring LLM completions GPT Etc.",
         "description": "Looking for a single endpoint to build testing libraries or manual scoring of responses with larger models. Replacing human review equivalent for simpler response tasks and categorizations.\n\nDoes not necessarily need a GUI can just be an end point with various fetches to OpenAI for example or using other testing frameworks. Should provide option to select best completion, grade 1-10, process batch analysis and summarize. Ideally looking at what the very best libraries and techniques are.\n\nOpen to best simple technical approach. Python or Node.js",
         "author": "pbmangan",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@pbmangan/api-for-testing-and?t="
     },
     {
@@ -3926,7 +3926,7 @@
         "title": "Ruby: transform SVG to image (png or jpeg)",
         "description": "Given an SVG file, transform it to an image using ruby. The image should be a png or jpeg",
         "author": "MatthiasRichard",
-        "posted_time": "47 minutes ago",
+        "posted_time": "56 minutes ago",
         "link": "https://replit.com/bounties/@MatthiasRichard/ruby-transform-svg-t?t="
     }
 ]
