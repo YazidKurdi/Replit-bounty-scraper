@@ -3966,7 +3966,7 @@
         "title": "Auto-respond to tweets with AI",
         "description": "Interesting people don't get enough interesting replies from AI\n\nAcceptance Criteria\nAn AI, using OpenAI's API, looks for highly popular tweets, and responds to them, using a prompt that the user creates.\n\nThe app should allow a user to:\nAuth with Twitter\nCreate a prompt that the AI will use to reply (ie \"reply with a witty comment in the style of Shakespeare\")\nChoose how many tweets to send out per day\nRun in the background, searching for tweets that are popular\nSpace the tweets out evenly throughout the day\n\nTechnical Details\nNot important to me how the dev decides to build this",
         "author": "anksolado",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@anksolado/auto-respond-to-twee?t="
     },
     {
@@ -3976,7 +3976,7 @@
         "title": "Extract Data using CoinGecko API",
         "description": "Use the CoinGecko API to create a list of every Company on CoinGecko (https://www.coingecko.com/). The ideal completion date would be today or tomorrow.\n\nPull all of the following fields for each company:\n\nCompany Name\nToken Symbol\nWebsite\nTwitter\nLinkedIn\nMarket Cap\n24 hour Trading Volume\nCirculating Supply\nDate Added\nDate Launched\nDescription\n\nThe output should be a csv with all of this data.\n\nLet's use the repl chat for communication.",
         "author": "MarkErdmann",
-        "posted_time": "59 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@MarkErdmann/extract-data-using-c-1?t="
     },
     {
@@ -3986,7 +3986,7 @@
         "title": "Public Company Events",
         "description": "Every time a public company I follow adds an event to their calendar (earnings call, analyst/investor day, conference presentation), I would like it to automatically send myself a calendar invite in outlook.\n\nAcceptance Criteria\n\nI should be able to add and remove companies at my leisure (single company, or list of companies)\n\nI should be able to add other people to get the calendar invite\n\nNeeds to work on outlook\n\nTechnical Details",
         "author": "NateMitchell1",
-        "posted_time": "58 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@NateMitchell1/public-company-event?t="
     },
     {
@@ -3996,7 +3996,7 @@
         "title": "Need someone experienced and skilled in Java and Heroku to resolve an issue and write one script",
         "description": "My project works locally but when I try to upload it to Heroku it gives me the following error: Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'app.email' in value \"${app.email}\"\n\nNeed help fixing the app issues and make it live on Heroku.\n\nI need someone to write a Java class that does the following:\na. Reads a CSV file containing multiple rows of search prompts and uses each prompt as keywords to run a search on an API. The API can be accessed via a URL that includes the API endpoint, along with any necessary parameters for the specific request. ( I will gain access to this API after the issue in point 1 is resolved. Once I do gain access I will need you to guide on how to properly incorporate it into the code you wrote.)\n\nb. The script should then calculate the median and average price of the top 10 results pulled from the API.\n\nc. Then it should add the median and average prices to the original CSV file and generate a new CSV file f...",
         "author": "mdotbaig",
-        "posted_time": "57 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@mdotbaig/need-someone-experie?t="
     }
 ]
