@@ -3876,7 +3876,7 @@
         "title": "Create Fresh Laravel Jetstream Project",
         "description": "The Job\n\n--\n\nCreate a fresh laravel app instance locally.\n\nAdd Laravel Socialite and connect it to a Twitter app ID that has been created.\n\nAdd login with twitter buttons to /login and /register\n\nTest sign up flow and database table for success user login or creation.\n\nDeploy to digital ocean via a fresh GitHub repo on my account.\n\nThis is the first step in a multi step app development process.\n\nThese are intentionally very simple steps to test bounties as a future way of project delivery and to find a good fit with the right engineer.",
         "author": "louisblythe",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@louisblythe/create-fresh-laravel?t="
     },
     {
@@ -3886,7 +3886,7 @@
         "title": "API for testing and scoring LLM completions GPT Etc.",
         "description": "Looking for a single endpoint to build testing libraries or manual scoring of responses with larger models. Replacing human review equivalent for simpler response tasks and categorizations.\n\nDoes not necessarily need a GUI can just be an end point with various fetches to OpenAI for example or using other testing frameworks. Should provide option to select best completion, grade 1-10, process batch analysis and summarize. Ideally looking at what the very best libraries and techniques are.\n\nOpen to best simple technical approach. Python or Node.js",
         "author": "pbmangan",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@pbmangan/api-for-testing-and?t="
     },
     {
@@ -3936,7 +3936,7 @@
         "title": "Interactive Database Discovery Tool",
         "description": "UX/UI - Connect SQL database to visual\nControl panel auto updates main frame by users chosen variables to manipulate",
         "author": "JackWeston3",
-        "posted_time": "26 minutes ago",
+        "posted_time": "45 minutes ago",
         "link": "https://replit.com/bounties/@JackWeston3/interactive-database?t="
     }
 ]
