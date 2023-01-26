@@ -3244,7 +3244,7 @@ My friend is an artist and creates line drawings from photos. Example here: http
 
 I'd like to know if it's possible to train a model with lots of his work - i.e. the original photo and the corresponding line drawing - so that a new photo can be uploaded and a line drawing returned.
 
-I'd like this to be on a live website, so if it is possible, I'd like to know all of the steps required.",AndrewShowman,17 hours ago,https://replit.com/bounties/@AndrewShowman/discussion-on-what-i?t=
+I'd like this to be on a live website, so if it is possible, I'd like to know all of the steps required.",AndrewShowman,18 hours ago,https://replit.com/bounties/@AndrewShowman/discussion-on-what-i?t=
 383,$103.50,due in 18 days,Make Mac Video App More Efficient (via s3 or Mac M1 chip acceleration),"The application here: https://github.com/sirkevinwang/Blink uses a significant amount of CPU and memory to take video and to run image processing on that video. Make an app that either 1) offloads the image processing to a user's EC2 box or 2) schedules it to happen using the M1 chip's hardware acceleration for videos/the Mac M1's graphics unit.
 
 You should benchmark average CPU, graphics card, and memory usage of the current app, and the benchmarks for your fixed version of the app.
@@ -3339,7 +3339,7 @@ Can run python server code with user's credentials like reading new emails and c
 Preferably allauth library is used.
 
 Acceptance Criteria:
-Code that implements above requirements and screen record of demo",VuBui7,4 hours ago,https://replit.com/bounties/@VuBui7/basic-django-app-wit?t=
+Code that implements above requirements and screen record of demo",VuBui7,5 hours ago,https://replit.com/bounties/@VuBui7/basic-django-app-wit?t=
 391,$6.30,due in 3 days,Flet Lib Python+Flutter runninng Hot Reload on Replit,"Describe the problem you are trying to solve here:
 For the Flet project work with Hot Reload enabled, we have to use command ""flet run main.py"" but when using the flet command, Replit VM starts returning some shared library errors.
 
@@ -3349,4 +3349,4 @@ https://flet.dev/docs/guides/python/hot-reload
 
 Acceptance Criteria
 Be specific about what you want in the solution here.
-Hot Reload on Flet tested and working without any error on Replit.",gcapedro,12 minutes ago,https://replit.com/bounties/@gcapedro/flet-lib-pythonflutt?t=
+Hot Reload on Flet tested and working without any error on Replit.",gcapedro,19 minutes ago,https://replit.com/bounties/@gcapedro/flet-lib-pythonflutt?t=

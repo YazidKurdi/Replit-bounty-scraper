@@ -3826,7 +3826,7 @@
         "title": "Discussion on what is possible with Stable Diffusion / Dall-E etc.",
         "description": "I'm not looking for any code for this first step. I'd just like to know what is possible and then explore from there.\n\nMy friend is an artist and creates line drawings from photos. Example here: https://share.cleanshot.com/NyLyFxTN\n\nI'd like to know if it's possible to train a model with lots of his work - i.e. the original photo and the corresponding line drawing - so that a new photo can be uploaded and a line drawing returned.\n\nI'd like this to be on a live website, so if it is possible, I'd like to know all of the steps required.",
         "author": "AndrewShowman",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/discussion-on-what-i?t="
     },
     {
@@ -3906,7 +3906,7 @@
         "title": "Basic Django App with Google OAuth Integration",
         "description": "A basic Django application with Google OAuth integrated\n\nGoogle OAuth integration requirements:\nCredentials type should be Web application\nScopes should include at least\n  https://www.googleapis.com/auth/gmail.readonly\n  https://www.googleapis.com/auth/gmail.compose\n\nWe need a basic Django app set up as the following:\nA log in page with a button that says \"Give Access to Google Account\" styled in TailwindCSS, doesn't need to be fancy\nClicking on the button shows log in with Google that lists above scopes\nA redirect page for when log in is done, can be basic as showing the logged in public user info\nCan run python server code with user's credentials like reading new emails and creating draft, just need demo of this is working and basic code for it, no specific requirements here\n\nPreferably allauth library is used.\n\nAcceptance Criteria:\nCode that implements above requirements and screen record of demo",
         "author": "VuBui7",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@VuBui7/basic-django-app-wit?t="
     },
     {
@@ -3916,7 +3916,7 @@
         "title": "Flet Lib Python+Flutter runninng Hot Reload on Replit",
         "description": "Describe the problem you are trying to solve here:\nFor the Flet project work with Hot Reload enabled, we have to use command \"flet run main.py\" but when using the flet command, Replit VM starts returning some shared library errors.\n\nHere are some directions:\nhttps://flet.dev/docs/guides/python/getting-started\nhttps://flet.dev/docs/guides/python/hot-reload\n\nAcceptance Criteria\nBe specific about what you want in the solution here.\nHot Reload on Flet tested and working without any error on Replit.",
         "author": "gcapedro",
-        "posted_time": "12 minutes ago",
+        "posted_time": "19 minutes ago",
         "link": "https://replit.com/bounties/@gcapedro/flet-lib-pythonflutt?t="
     }
 ]
