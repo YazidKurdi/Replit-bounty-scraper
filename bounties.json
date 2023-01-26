@@ -3896,7 +3896,7 @@
         "title": "Web app for parents to generate ChatGPT content to educate their kids",
         "description": "I am looking to develop a simple web app that allows parents to generate ChatGPT content to educate their kids.\n\nThe web app should allow users to click the type of prompt (children's story, homework, and other relevant categories), hit generate, and have an AI return content relevant to kids.\n\nThere should also be additional, optional fields for users to enter:\n\nGrade level\nCountry\nTime needed to occupy kid\n\nAcceptance Criteria\nFront end and design that is simple and focuses on the form for the user to submit information\nUsers have access to a responsive, clean form and can enter preferences\nThe web app successfully generates a response matching the user's preferences\n\nTechnical Details\n\nTimelines / Milestones",
         "author": "tiffunny",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@tiffunny/web-app-for-parents?t="
     },
     {
@@ -3936,7 +3936,17 @@
         "title": "Interactive Database Discovery Tool",
         "description": "UX/UI - Connect SQL database to visual\nControl panel auto updates main frame by users chosen variables to manipulate",
         "author": "JackWeston3",
-        "posted_time": "45 minutes ago",
+        "posted_time": "56 minutes ago",
         "link": "https://replit.com/bounties/@JackWeston3/interactive-database?t="
+    },
+    {
+        "index": "394",
+        "price": "$2,500.00",
+        "due_days": "due in 26 days",
+        "title": "Knowledge Management Chatbot",
+        "description": "Make a question answering chatbot that pulls results from a query from Snowflake and Wikipedia and using Langchain and Streamlit.\n\nThis documentation is a starting point on how to build a question answering chatbot using Langchain.\n\nWe will test the tool with a few questions regarding data in Snowflake and/or Wikipedia.\n\nAcceptance Criteria\n\nThe chatbot should have a simple interface\nWe will provide an API to a CRM dataset in Snowflake containing a list of 100 customers\u2019 names, last transaction date, and last transaction size.\nThe chatbot must be able to generate a proper response regarding data in either Wikipedia or Snowflake, including calculating averages and sums\nThe app must be deployed on Streamlit",
+        "author": "altcap",
+        "posted_time": "6 minutes ago",
+        "link": "https://replit.com/bounties/@altcap/knowledge-management?t="
     }
 ]
