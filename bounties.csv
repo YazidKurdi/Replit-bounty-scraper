@@ -3298,7 +3298,7 @@ Deploy to digital ocean via a fresh GitHub repo on my account.
 
 This is the first step in a multi step app development process.
 
-These are intentionally very simple steps to test bounties as a future way of project delivery and to find a good fit with the right engineer.",louisblythe,16 hours ago,https://replit.com/bounties/@louisblythe/create-fresh-laravel?t=
+These are intentionally very simple steps to test bounties as a future way of project delivery and to find a good fit with the right engineer.",louisblythe,17 hours ago,https://replit.com/bounties/@louisblythe/create-fresh-laravel?t=
 388,$225.00,due in 7 days,API for testing and scoring LLM completions GPT Etc.,"Looking for a single endpoint to build testing libraries or manual scoring of responses with larger models. Replacing human review equivalent for simpler response tasks and categorizations.
 
 Does not necessarily need a GUI can just be an end point with various fetches to OpenAI for example or using other testing frameworks. Should provide option to select best completion, grade 1-10, process batch analysis and summarize. Ideally looking at what the very best libraries and techniques are.
@@ -3352,7 +3352,7 @@ Be specific about what you want in the solution here.
 Hot Reload on Flet tested and working without any error on Replit.",gcapedro,7 hours ago,https://replit.com/bounties/@gcapedro/flet-lib-pythonflutt?t=
 392,$13.50,due in 3 days,Ruby: transform SVG to image (png or jpeg),"Given an SVG file, transform it to an image using ruby. The image should be a png or jpeg",MatthiasRichard,6 hours ago,https://replit.com/bounties/@MatthiasRichard/ruby-transform-svg-t?t=
 393,$50.00,due in 3 days,Interactive Database Discovery Tool,"UX/UI - Connect SQL database to visual
-Control panel auto updates main frame by users chosen variables to manipulate",JackWeston3,2 hours ago,https://replit.com/bounties/@JackWeston3/interactive-database?t=
+Control panel auto updates main frame by users chosen variables to manipulate",JackWeston3,3 hours ago,https://replit.com/bounties/@JackWeston3/interactive-database?t=
 394,"$2,500.00",due in 26 days,Knowledge Management Chatbot,"Make a question answering chatbot that pulls results from a query from Snowflake and Wikipedia and using Langchain and Streamlit.
 
 This documentation is a starting point on how to build a question answering chatbot using Langchain.
@@ -3365,7 +3365,7 @@ The chatbot should have a simple interface
 We will provide an API to a CRM dataset in Snowflake containing a list of 100 customers’ names, last transaction date, and last transaction size.
 The chatbot must be able to generate a proper response regarding data in either Wikipedia or Snowflake, including calculating averages and sums
 The app must be deployed on Streamlit",altcap,2 hours ago,https://replit.com/bounties/@altcap/knowledge-management?t=
-395,$45.00,due in 13 days,Extract Data using CoinGecko API,"Use the CoinGecko API to create a list of every Company on CoinGecko (https://www.coingecko.com/).
+395,$45.00,closed,Extract Data using CoinGecko API,"Use the CoinGecko API to create a list of every Company on CoinGecko (https://www.coingecko.com/).
 
 Pull all of the following fields for each company:
 
@@ -3383,4 +3383,18 @@ Description
 
 The output should be a csv with all of this data.
 
-Let's use the repl chat for communication.",MarkErdmann,16 minutes ago,https://replit.com/bounties/@MarkErdmann/extract-data-using-c?t=
+Let's use the repl chat for communication.",MarkErdmann,31 minutes ago,https://replit.com/bounties/@MarkErdmann/extract-data-using-c?t=
+396,$90.00,due in 3 days,Auto-respond to tweets with AI,"Interesting people don't get enough interesting replies from AI
+
+Acceptance Criteria
+An AI, using OpenAI's API, looks for highly popular tweets, and responds to them, using a prompt that the user creates.
+
+The app should allow a user to:
+Auth with Twitter
+Create a prompt that the AI will use to reply (ie ""reply with a witty comment in the style of Shakespeare"")
+Choose how many tweets to send out per day
+Run in the background, searching for tweets that are popular
+Space the tweets out evenly throughout the day
+
+Technical Details
+Not important to me how the dev decides to build this",anksolado,4 minutes ago,https://replit.com/bounties/@anksolado/auto-respond-to-twee?t=
