@@ -3826,7 +3826,7 @@
         "title": "Discussion on what is possible with Stable Diffusion / Dall-E etc.",
         "description": "I'm not looking for any code for this first step. I'd just like to know what is possible and then explore from there.\n\nMy friend is an artist and creates line drawings from photos. Example here: https://share.cleanshot.com/NyLyFxTN\n\nI'd like to know if it's possible to train a model with lots of his work - i.e. the original photo and the corresponding line drawing - so that a new photo can be uploaded and a line drawing returned.\n\nI'd like this to be on a live website, so if it is possible, I'd like to know all of the steps required.",
         "author": "AndrewShowman",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/discussion-on-what-i?t="
     },
     {
@@ -3906,7 +3906,7 @@
         "title": "Basic Django App with Google OAuth Integration",
         "description": "A basic Django application with Google OAuth integrated\n\nGoogle OAuth integration requirements:\nCredentials type should be Web application\nScopes should include at least\n  https://www.googleapis.com/auth/gmail.readonly\n  https://www.googleapis.com/auth/gmail.compose\n\nWe need a basic Django app set up as the following:\nA log in page with a button that says \"Give Access to Google Account\" styled in TailwindCSS, doesn't need to be fancy\nClicking on the button shows log in with Google that lists above scopes\nA redirect page for when log in is done, can be basic as showing the logged in public user info\nCan run python server code with user's credentials like reading new emails and creating draft, just need demo of this is working and basic code for it, no specific requirements here\n\nPreferably allauth library is used.\n\nAcceptance Criteria:\nCode that implements above requirements and screen record of demo",
         "author": "VuBui7",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@VuBui7/basic-django-app-wit?t="
     }
 ]
