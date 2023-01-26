@@ -3796,7 +3796,7 @@
         "title": "Create a new record in Airtable when a new Trustpilot review comes in",
         "description": "This is the starting point of a bigger project, but I want to learn what's possible and how it works fist. There is a TrustPilot API which fires when a new review is left. I want that to create a record in Airtable.\n\nTechnical Details\n\nTrustPilot API details here:\nhttps://documentation-apidocumentation.trustpilot.com/service-reviews-api\n\nI'm new to Replit so please allow for that in your quote as some things may take slightly longer as a result.",
         "author": "AndrewShowman",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/create-a-new-record?t="
     },
     {
@@ -3816,7 +3816,7 @@
         "title": "Clone OpenAI Playground & Examples (with Login)",
         "description": "Clone OpenAI playground and examples pages and functionality.\nFree to change theme or use similar theme\nPlayground (include working submit, load preset search list) (dont include model filters, can use defaults)\nExamples (don't need to clone all examples only ten I will provide later)\nExamples Popup (include popup screen that allows you to view example and option to open in playground)\nGoogle signin\n\nAcceptance Criteria\nfront and backend\nmust work on shared hosting",
         "author": "BrandonF7",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@BrandonF7/clone-openai-playgro?t="
     },
     {
@@ -3876,17 +3876,17 @@
         "title": "Create Fresh Laravel Jetstream Project",
         "description": "The Job\n\n--\n\nCreate a fresh laravel app instance locally.\n\nAdd Laravel Socialite and connect it to a Twitter app ID that has been created.\n\nAdd login with twitter buttons to /login and /register\n\nTest sign up flow and database table for success user login or creation.\n\nDeploy to digital ocean via a fresh GitHub repo on my account.\n\nThis is the first step in a multi step app development process.\n\nThese are intentionally very simple steps to test bounties as a future way of project delivery and to find a good fit with the right engineer.",
         "author": "louisblythe",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@louisblythe/create-fresh-laravel?t="
     },
     {
         "index": "388",
         "price": "$225.00",
-        "due_days": "due in 9 days",
+        "due_days": "due in 8 days",
         "title": "API for testing and scoring LLM completions GPT Etc.",
         "description": "Looking for a single endpoint to build testing libraries or manual scoring of responses with larger models. Replacing human review equivalent for simpler response tasks and categorizations.\n\nDoes not necessarily need a GUI can just be an end point with various fetches to OpenAI for example or using other testing frameworks. Should provide option to select best completion, grade 1-10, process batch analysis and summarize. Ideally looking at what the very best libraries and techniques are.\n\nOpen to best simple technical approach. Python or Node.js",
         "author": "pbmangan",
-        "posted_time": "23 minutes ago",
+        "posted_time": "35 minutes ago",
         "link": "https://replit.com/bounties/@pbmangan/api-for-testing-and?t="
     }
 ]
