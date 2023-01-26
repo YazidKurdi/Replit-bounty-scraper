@@ -3928,5 +3928,15 @@
         "author": "MatthiasRichard",
         "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@MatthiasRichard/ruby-transform-svg-t?t="
+    },
+    {
+        "index": "393",
+        "price": "$50.00",
+        "due_days": "due in 3 days",
+        "title": "Interactive Database Discovery Tool",
+        "description": "UX/UI - Connect SQL database to visual\nControl panel auto updates main frame by users chosen variables to manipulate",
+        "author": "JackWeston3",
+        "posted_time": "8 minutes ago",
+        "link": "https://replit.com/bounties/@JackWeston3/interactive-database?t="
     }
 ]
