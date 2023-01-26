@@ -3766,7 +3766,7 @@
         "title": "Make a simple mass discord token changer",
         "description": "Make a simple mass discord token changer which will accept tokens from tokens.txt in email:password:token format and change the token password to a specific/random 8 character and retrieve the new token and store the values in a new txt file in email:newpassword:newtoken format.",
         "author": "gamerspy2234",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@gamerspy2234/make-a-simple-mass-d?t="
     },
     {
@@ -3786,7 +3786,7 @@
         "title": "Create a social media post with 100K+ views",
         "description": "Make aitools.fyi go viral!\n\nPost a video/short on TikTok, Instagram, YouTube, and/or Snapchat about how amazing aitools.fyi is(or an informative video) and get over 100K views and get the bounty!\n\nPlease note: North American based audience is preferred for this bounty.\n\nAcceptance Criteria\nYou have to share analytics of the video and the actual video link. The video has to clearly mention aitools.fyi. The website address aitools.fyi should be in the description of the video.",
         "author": "SouthernEast",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@SouthernEast/create-a-social-medi?t="
     },
     {
@@ -3796,7 +3796,7 @@
         "title": "Create a new record in Airtable when a new Trustpilot review comes in",
         "description": "This is the starting point of a bigger project, but I want to learn what's possible and how it works fist. There is a TrustPilot API which fires when a new review is left. I want that to create a record in Airtable.\n\nTechnical Details\n\nTrustPilot API details here:\nhttps://documentation-apidocumentation.trustpilot.com/service-reviews-api\n\nI'm new to Replit so please allow for that in your quote as some things may take slightly longer as a result.",
         "author": "AndrewShowman",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/create-a-new-record?t="
     },
     {
@@ -3816,7 +3816,7 @@
         "title": "Clone OpenAI Playground & Examples (with Login)",
         "description": "Clone OpenAI playground and examples pages and functionality.\nFree to change theme or use similar theme\nPlayground (include working submit, load preset search list) (dont include model filters, can use defaults)\nExamples (don't need to clone all examples only ten I will provide later)\nExamples Popup (include popup screen that allows you to view example and option to open in playground)\nGoogle signin\n\nAcceptance Criteria\nfront and backend\nmust work on shared hosting",
         "author": "BrandonF7",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@BrandonF7/clone-openai-playgro?t="
     },
     {
@@ -3826,7 +3826,7 @@
         "title": "Discussion on what is possible with Stable Diffusion / Dall-E etc.",
         "description": "I'm not looking for any code for this first step. I'd just like to know what is possible and then explore from there.\n\nMy friend is an artist and creates line drawings from photos. Example here: https://share.cleanshot.com/NyLyFxTN\n\nI'd like to know if it's possible to train a model with lots of his work - i.e. the original photo and the corresponding line drawing - so that a new photo can be uploaded and a line drawing returned.\n\nI'd like this to be on a live website, so if it is possible, I'd like to know all of the steps required.",
         "author": "AndrewShowman",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/discussion-on-what-i?t="
     },
     {
@@ -3848,5 +3848,15 @@
         "author": "CrownDevelopment",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@CrownDevelopment/openai-gpt3-playgrou?t="
+    },
+    {
+        "index": "385",
+        "price": "$27.00",
+        "due_days": "due in 4 days",
+        "title": "Fix DB Table Bug and Import Bookmarks into Next.js Supabase Basic Webapp",
+        "description": "I created a website using a Vercel Supabase Authentication Next.js public template. I am having trouble creating a new table row in the Supabase database that should then shows on the webapp.  I would like #1 to fix this bug and create a partner post on the webapp. and #2 to import a list of bookmarks so they each have a partner post on the website. I can provide the github repo, vercel default template, and bookmarks list in csv or firebase. I am also open to a zoom call to expedite the process.\nAcceptance Criteria\nPlease have experience in Next.js, Vercel, and databases preferable using Supabase.\n\nTechnical Details\nVercel\nNext.js\nSupabase\n\nLink to Project\nhttps://roots-partner-gallery.vercel.app/partners/integrations\nRepo: https://github.com/starmorph/roots-partner-gallery\nVercel Template: https://vercel.com/templates/next.js/supabase-authentication\nWill send bookmarks once we start the project.",
+        "author": "starmorph",
+        "posted_time": "16 minutes ago",
+        "link": "https://replit.com/bounties/@starmorph/fix-db-table-bug-and?t="
     }
 ]
