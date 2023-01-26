@@ -3261,7 +3261,7 @@ https://github.com/sirkevinwang/Blink",AJGupta,18 hours ago,https://replit.com/b
 Acceptance Criteria
 Revise it to my liking, make it completely functional, keep the API key in the secrets tab.
 Technical Details
-Any language permitted.",CrownDevelopment,13 hours ago,https://replit.com/bounties/@CrownDevelopment/openai-gpt3-playgrou?t=
+Any language permitted.",CrownDevelopment,14 hours ago,https://replit.com/bounties/@CrownDevelopment/openai-gpt3-playgrou?t=
 385,$27.00,due in 3 days,Fix DB Table Bug and Import Bookmarks into Next.js Supabase Basic Webapp,"I created a website using a Vercel Supabase Authentication Next.js public template. I am having trouble creating a new table row in the Supabase database that should then shows on the webapp.  I would like #1 to fix this bug and create a partner post on the webapp. and #2 to import a list of bookmarks so they each have a partner post on the website. I can provide the github repo, vercel default template, and bookmarks list in csv or firebase. I am also open to a zoom call to expedite the process.
 Acceptance Criteria
 Please have experience in Next.js, Vercel, and databases preferable using Supabase.
@@ -3275,13 +3275,13 @@ Link to Project
 https://roots-partner-gallery.vercel.app/partners/integrations
 Repo: https://github.com/starmorph/roots-partner-gallery
 Vercel Template: https://vercel.com/templates/next.js/supabase-authentication
-Will send bookmarks once we start the project.",starmorph,11 hours ago,https://replit.com/bounties/@starmorph/fix-db-table-bug-and?t=
+Will send bookmarks once we start the project.",starmorph,12 hours ago,https://replit.com/bounties/@starmorph/fix-db-table-bug-and?t=
 386,$80.10,due in 16 days,Static nextjs page,"We're looking to build our homepage using Nextjs to match our available design. The homepage will be static with no backend requirements.
 
 Acceptance Criteria
 • Use NextJS
 • Meet design requirements
-• Support a range of browser sizes",gehrigk,10 hours ago,https://replit.com/bounties/@gehrigk/static-nextjs-page?t=
+• Support a range of browser sizes",gehrigk,11 hours ago,https://replit.com/bounties/@gehrigk/static-nextjs-page?t=
 387,$9.00,due in 6 days,Create Fresh Laravel Jetstream Project,"The Job
 
 --
@@ -3349,4 +3349,4 @@ https://flet.dev/docs/guides/python/hot-reload
 
 Acceptance Criteria
 Be specific about what you want in the solution here.
-Hot Reload on Flet tested and working without any error on Replit.",gcapedro,28 minutes ago,https://replit.com/bounties/@gcapedro/flet-lib-pythonflutt?t=
+Hot Reload on Flet tested and working without any error on Replit.",gcapedro,43 minutes ago,https://replit.com/bounties/@gcapedro/flet-lib-pythonflutt?t=
