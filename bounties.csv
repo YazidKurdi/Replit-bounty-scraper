@@ -3339,7 +3339,7 @@ Can run python server code with user's credentials like reading new emails and c
 Preferably allauth library is used.
 
 Acceptance Criteria:
-Code that implements above requirements and screen record of demo",VuBui7,9 hours ago,https://replit.com/bounties/@VuBui7/basic-django-app-wit?t=
+Code that implements above requirements and screen record of demo",VuBui7,10 hours ago,https://replit.com/bounties/@VuBui7/basic-django-app-wit?t=
 391,$6.30,due in 3 days,Flet Lib Python+Flutter runninng Hot Reload on Replit,"Describe the problem you are trying to solve here:
 For the Flet project work with Hot Reload enabled, we have to use command ""flet run main.py"" but when using the flet command, Replit VM starts returning some shared library errors.
 
@@ -3352,7 +3352,7 @@ Be specific about what you want in the solution here.
 Hot Reload on Flet tested and working without any error on Replit.",gcapedro,5 hours ago,https://replit.com/bounties/@gcapedro/flet-lib-pythonflutt?t=
 392,$13.50,due in 3 days,Ruby: transform SVG to image (png or jpeg),"Given an SVG file, transform it to an image using ruby. The image should be a png or jpeg",MatthiasRichard,4 hours ago,https://replit.com/bounties/@MatthiasRichard/ruby-transform-svg-t?t=
 393,$50.00,due in 3 days,Interactive Database Discovery Tool,"UX/UI - Connect SQL database to visual
-Control panel auto updates main frame by users chosen variables to manipulate",JackWeston3,56 minutes ago,https://replit.com/bounties/@JackWeston3/interactive-database?t=
+Control panel auto updates main frame by users chosen variables to manipulate",JackWeston3,1 hour ago,https://replit.com/bounties/@JackWeston3/interactive-database?t=
 394,"$2,500.00",due in 26 days,Knowledge Management Chatbot,"Make a question answering chatbot that pulls results from a query from Snowflake and Wikipedia and using Langchain and Streamlit.
 
 This documentation is a starting point on how to build a question answering chatbot using Langchain.
@@ -3364,4 +3364,4 @@ Acceptance Criteria
 The chatbot should have a simple interface
 We will provide an API to a CRM dataset in Snowflake containing a list of 100 customers’ names, last transaction date, and last transaction size.
 The chatbot must be able to generate a proper response regarding data in either Wikipedia or Snowflake, including calculating averages and sums
-The app must be deployed on Streamlit",altcap,6 minutes ago,https://replit.com/bounties/@altcap/knowledge-management?t=
+The app must be deployed on Streamlit",altcap,13 minutes ago,https://replit.com/bounties/@altcap/knowledge-management?t=
