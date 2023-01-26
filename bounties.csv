@@ -3365,3 +3365,22 @@ The chatbot should have a simple interface
 We will provide an API to a CRM dataset in Snowflake containing a list of 100 customers’ names, last transaction date, and last transaction size.
 The chatbot must be able to generate a proper response regarding data in either Wikipedia or Snowflake, including calculating averages and sums
 The app must be deployed on Streamlit",altcap,1 hour ago,https://replit.com/bounties/@altcap/knowledge-management?t=
+395,$45.00,due in 13 days,Extract Data using CoinGecko API,"Use the CoinGecko API to create a list of every Company on CoinGecko (https://www.coingecko.com/).
+
+Pull all of the following fields for each company:
+
+Company Name
+Token Symbol
+Website
+Twitter
+LinkedIn
+Market Cap
+24 hour Trading Volume
+Circulating Supply
+Date Added
+Date Launched
+Description
+
+The output should be a csv with all of this data.
+
+Let's use the repl chat for communication.",MarkErdmann,19 seconds ago,https://replit.com/bounties/@MarkErdmann/extract-data-using-c?t=

@@ -3948,5 +3948,15 @@
         "author": "altcap",
         "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@altcap/knowledge-management?t="
+    },
+    {
+        "index": "395",
+        "price": "$45.00",
+        "due_days": "due in 13 days",
+        "title": "Extract Data using CoinGecko API",
+        "description": "Use the CoinGecko API to create a list of every Company on CoinGecko (https://www.coingecko.com/).\n\nPull all of the following fields for each company:\n\nCompany Name\nToken Symbol\nWebsite\nTwitter\nLinkedIn\nMarket Cap\n24 hour Trading Volume\nCirculating Supply\nDate Added\nDate Launched\nDescription\n\nThe output should be a csv with all of this data.\n\nLet's use the repl chat for communication.",
+        "author": "MarkErdmann",
+        "posted_time": "19 seconds ago",
+        "link": "https://replit.com/bounties/@MarkErdmann/extract-data-using-c?t="
     }
 ]
