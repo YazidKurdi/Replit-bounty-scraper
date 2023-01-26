@@ -3349,8 +3349,8 @@ https://flet.dev/docs/guides/python/hot-reload
 
 Acceptance Criteria
 Be specific about what you want in the solution here.
-Hot Reload on Flet tested and working without any error on Replit.",gcapedro,8 hours ago,https://replit.com/bounties/@gcapedro/flet-lib-pythonflutt?t=
-392,$13.50,due in 3 days,Ruby: transform SVG to image (png or jpeg),"Given an SVG file, transform it to an image using ruby. The image should be a png or jpeg",MatthiasRichard,7 hours ago,https://replit.com/bounties/@MatthiasRichard/ruby-transform-svg-t?t=
+Hot Reload on Flet tested and working without any error on Replit.",gcapedro,9 hours ago,https://replit.com/bounties/@gcapedro/flet-lib-pythonflutt?t=
+392,$13.50,due in 3 days,Ruby: transform SVG to image (png or jpeg),"Given an SVG file, transform it to an image using ruby. The image should be a png or jpeg",MatthiasRichard,8 hours ago,https://replit.com/bounties/@MatthiasRichard/ruby-transform-svg-t?t=
 393,$50.00,due in 3 days,Interactive Database Discovery Tool,"UX/UI - Connect SQL database to visual
 Control panel auto updates main frame by users chosen variables to manipulate",JackWeston3,4 hours ago,https://replit.com/bounties/@JackWeston3/interactive-database?t=
 394,"$2,500.00",due in 26 days,Knowledge Management Chatbot,"Make a question answering chatbot that pulls results from a query from Snowflake and Wikipedia and using Langchain and Streamlit.
@@ -3364,7 +3364,7 @@ Acceptance Criteria
 The chatbot should have a simple interface
 We will provide an API to a CRM dataset in Snowflake containing a list of 100 customers’ names, last transaction date, and last transaction size.
 The chatbot must be able to generate a proper response regarding data in either Wikipedia or Snowflake, including calculating averages and sums
-The app must be deployed on Streamlit",altcap,3 hours ago,https://replit.com/bounties/@altcap/knowledge-management?t=
+The app must be deployed on Streamlit",altcap,4 hours ago,https://replit.com/bounties/@altcap/knowledge-management?t=
 395,$45.00,closed,Extract Data using CoinGecko API,"Use the CoinGecko API to create a list of every Company on CoinGecko (https://www.coingecko.com/).
 
 Pull all of the following fields for each company:
