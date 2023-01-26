@@ -3245,7 +3245,7 @@ My friend is an artist and creates line drawings from photos. Example here: http
 I'd like to know if it's possible to train a model with lots of his work - i.e. the original photo and the corresponding line drawing - so that a new photo can be uploaded and a line drawing returned.
 
 I'd like this to be on a live website, so if it is possible, I'd like to know all of the steps required.",AndrewShowman,16 hours ago,https://replit.com/bounties/@AndrewShowman/discussion-on-what-i?t=
-383,$103.50,due in 20 days,Make Mac Video App More Efficient (via s3 or Mac M1 chip acceleration),"The application here: https://github.com/sirkevinwang/Blink uses a significant amount of CPU and memory to take video and to run image processing on that video. Make an app that either 1) offloads the image processing to a user's EC2 box or 2) schedules it to happen using the M1 chip's hardware acceleration for videos/the Mac M1's graphics unit.
+383,$103.50,due in 19 days,Make Mac Video App More Efficient (via s3 or Mac M1 chip acceleration),"The application here: https://github.com/sirkevinwang/Blink uses a significant amount of CPU and memory to take video and to run image processing on that video. Make an app that either 1) offloads the image processing to a user's EC2 box or 2) schedules it to happen using the M1 chip's hardware acceleration for videos/the Mac M1's graphics unit.
 
 You should benchmark average CPU, graphics card, and memory usage of the current app, and the benchmarks for your fixed version of the app.
 
@@ -3256,7 +3256,7 @@ Technical Details
 I will pay this amount only if the application is made at least 50% more battery efficient.
 
 Link to Project
-https://github.com/sirkevinwang/Blink",AJGupta,15 hours ago,https://replit.com/bounties/@AJGupta/make-mac-video-app-m?t=
+https://github.com/sirkevinwang/Blink",AJGupta,16 hours ago,https://replit.com/bounties/@AJGupta/make-mac-video-app-m?t=
 384,$3.15,due in 4 days,OpenAI GPT3 Playground Frontend,"I need someone to make me an AI app as a frontend for the OpenAI Playground. I will discuss the specific GUI etc when I contact the bounty hunter via email.
 Acceptance Criteria
 Revise it to my liking, make it completely functional, keep the API key in the secrets tab.
