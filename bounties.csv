@@ -3228,7 +3228,7 @@ I need someone who can quickly implement this, and can take general guidance and
 
 Link to Project
 Can provide link and details to the person chosen to complete the bounty",GavinYerxa1,15 hours ago,https://replit.com/bounties/@GavinYerxa1/add-a-button-to-a-cu?t=
-381,$90.00,due in 27 days,Clone OpenAI Playground & Examples (with Login),"Clone OpenAI playground and examples pages and functionality.
+381,$90.00,due in 26 days,Clone OpenAI Playground & Examples (with Login),"Clone OpenAI playground and examples pages and functionality.
 Free to change theme or use similar theme
 Playground (include working submit, load preset search list) (dont include model filters, can use defaults)
 Examples (don't need to clone all examples only ten I will provide later)
@@ -3238,14 +3238,14 @@ Google signin
 Acceptance Criteria
 front and backend
 must work on shared hosting",BrandonF7,16 hours ago,https://replit.com/bounties/@BrandonF7/clone-openai-playgro?t=
-382,$9.00,due in 3 days,Discussion on what is possible with Stable Diffusion / Dall-E etc.,"I'm not looking for any code for this first step. I'd just like to know what is possible and then explore from there.
+382,$9.00,due in 2 days,Discussion on what is possible with Stable Diffusion / Dall-E etc.,"I'm not looking for any code for this first step. I'd just like to know what is possible and then explore from there.
 
 My friend is an artist and creates line drawings from photos. Example here: https://share.cleanshot.com/NyLyFxTN
 
 I'd like to know if it's possible to train a model with lots of his work - i.e. the original photo and the corresponding line drawing - so that a new photo can be uploaded and a line drawing returned.
 
 I'd like this to be on a live website, so if it is possible, I'd like to know all of the steps required.",AndrewShowman,16 hours ago,https://replit.com/bounties/@AndrewShowman/discussion-on-what-i?t=
-383,$103.50,due in 19 days,Make Mac Video App More Efficient (via s3 or Mac M1 chip acceleration),"The application here: https://github.com/sirkevinwang/Blink uses a significant amount of CPU and memory to take video and to run image processing on that video. Make an app that either 1) offloads the image processing to a user's EC2 box or 2) schedules it to happen using the M1 chip's hardware acceleration for videos/the Mac M1's graphics unit.
+383,$103.50,due in 18 days,Make Mac Video App More Efficient (via s3 or Mac M1 chip acceleration),"The application here: https://github.com/sirkevinwang/Blink uses a significant amount of CPU and memory to take video and to run image processing on that video. Make an app that either 1) offloads the image processing to a user's EC2 box or 2) schedules it to happen using the M1 chip's hardware acceleration for videos/the Mac M1's graphics unit.
 
 You should benchmark average CPU, graphics card, and memory usage of the current app, and the benchmarks for your fixed version of the app.
 
@@ -3257,12 +3257,12 @@ I will pay this amount only if the application is made at least 50% more battery
 
 Link to Project
 https://github.com/sirkevinwang/Blink",AJGupta,16 hours ago,https://replit.com/bounties/@AJGupta/make-mac-video-app-m?t=
-384,$3.15,due in 4 days,OpenAI GPT3 Playground Frontend,"I need someone to make me an AI app as a frontend for the OpenAI Playground. I will discuss the specific GUI etc when I contact the bounty hunter via email.
+384,$3.15,due in 3 days,OpenAI GPT3 Playground Frontend,"I need someone to make me an AI app as a frontend for the OpenAI Playground. I will discuss the specific GUI etc when I contact the bounty hunter via email.
 Acceptance Criteria
 Revise it to my liking, make it completely functional, keep the API key in the secrets tab.
 Technical Details
-Any language permitted.",CrownDevelopment,11 hours ago,https://replit.com/bounties/@CrownDevelopment/openai-gpt3-playgrou?t=
-385,$27.00,due in 4 days,Fix DB Table Bug and Import Bookmarks into Next.js Supabase Basic Webapp,"I created a website using a Vercel Supabase Authentication Next.js public template. I am having trouble creating a new table row in the Supabase database that should then shows on the webapp.  I would like #1 to fix this bug and create a partner post on the webapp. and #2 to import a list of bookmarks so they each have a partner post on the website. I can provide the github repo, vercel default template, and bookmarks list in csv or firebase. I am also open to a zoom call to expedite the process.
+Any language permitted.",CrownDevelopment,12 hours ago,https://replit.com/bounties/@CrownDevelopment/openai-gpt3-playgrou?t=
+385,$27.00,due in 3 days,Fix DB Table Bug and Import Bookmarks into Next.js Supabase Basic Webapp,"I created a website using a Vercel Supabase Authentication Next.js public template. I am having trouble creating a new table row in the Supabase database that should then shows on the webapp.  I would like #1 to fix this bug and create a partner post on the webapp. and #2 to import a list of bookmarks so they each have a partner post on the website. I can provide the github repo, vercel default template, and bookmarks list in csv or firebase. I am also open to a zoom call to expedite the process.
 Acceptance Criteria
 Please have experience in Next.js, Vercel, and databases preferable using Supabase.
 
@@ -3275,14 +3275,14 @@ Link to Project
 https://roots-partner-gallery.vercel.app/partners/integrations
 Repo: https://github.com/starmorph/roots-partner-gallery
 Vercel Template: https://vercel.com/templates/next.js/supabase-authentication
-Will send bookmarks once we start the project.",starmorph,9 hours ago,https://replit.com/bounties/@starmorph/fix-db-table-bug-and?t=
-386,$80.10,due in 17 days,Static nextjs page,"We're looking to build our homepage using Nextjs to match our available design. The homepage will be static with no backend requirements.
+Will send bookmarks once we start the project.",starmorph,10 hours ago,https://replit.com/bounties/@starmorph/fix-db-table-bug-and?t=
+386,$80.10,due in 16 days,Static nextjs page,"We're looking to build our homepage using Nextjs to match our available design. The homepage will be static with no backend requirements.
 
 Acceptance Criteria
 • Use NextJS
 • Meet design requirements
-• Support a range of browser sizes",gehrigk,8 hours ago,https://replit.com/bounties/@gehrigk/static-nextjs-page?t=
-387,$9.00,due in 7 days,Create Fresh Laravel Jetstream Project,"The Job
+• Support a range of browser sizes",gehrigk,9 hours ago,https://replit.com/bounties/@gehrigk/static-nextjs-page?t=
+387,$9.00,due in 6 days,Create Fresh Laravel Jetstream Project,"The Job
 
 --
 
@@ -3299,12 +3299,12 @@ Deploy to digital ocean via a fresh GitHub repo on my account.
 This is the first step in a multi step app development process.
 
 These are intentionally very simple steps to test bounties as a future way of project delivery and to find a good fit with the right engineer.",louisblythe,8 hours ago,https://replit.com/bounties/@louisblythe/create-fresh-laravel?t=
-388,$225.00,due in 8 days,API for testing and scoring LLM completions GPT Etc.,"Looking for a single endpoint to build testing libraries or manual scoring of responses with larger models. Replacing human review equivalent for simpler response tasks and categorizations.
+388,$225.00,due in 7 days,API for testing and scoring LLM completions GPT Etc.,"Looking for a single endpoint to build testing libraries or manual scoring of responses with larger models. Replacing human review equivalent for simpler response tasks and categorizations.
 
 Does not necessarily need a GUI can just be an end point with various fetches to OpenAI for example or using other testing frameworks. Should provide option to select best completion, grade 1-10, process batch analysis and summarize. Ideally looking at what the very best libraries and techniques are.
 
 Open to best simple technical approach. Python or Node.js",pbmangan,5 hours ago,https://replit.com/bounties/@pbmangan/api-for-testing-and?t=
-389,$810.00,due in 6 days,Web app for parents to generate ChatGPT content to educate their kids,"I am looking to develop a simple web app that allows parents to generate ChatGPT content to educate their kids.
+389,$810.00,due in 5 days,Web app for parents to generate ChatGPT content to educate their kids,"I am looking to develop a simple web app that allows parents to generate ChatGPT content to educate their kids.
 
 The web app should allow users to click the type of prompt (children's story, homework, and other relevant categories), hit generate, and have an AI return content relevant to kids.
 
@@ -3322,7 +3322,7 @@ The web app successfully generates a response matching the user's preferences
 Technical Details
 
 Timelines / Milestones",tiffunny,4 hours ago,https://replit.com/bounties/@tiffunny/web-app-for-parents?t=
-390,$9.00,due in 7 days,Basic Django App with Google OAuth Integration,"A basic Django application with Google OAuth integrated
+390,$9.00,due in 6 days,Basic Django App with Google OAuth Integration,"A basic Django application with Google OAuth integrated
 
 Google OAuth integration requirements:
 Credentials type should be Web application
