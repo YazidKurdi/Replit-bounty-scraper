@@ -3806,7 +3806,7 @@
         "title": "Add a button to a custom react app built on top of Airtable",
         "description": "I have an MVP app, that is a react frontend built on top of Airtable (and using Softr to manage login and auth.)\n\nThe app has public facing user-profiles. I need to add a button on those public-facing profiles. That's it, literally just a button.\n\nAcceptance Criteria\n\nI need someone who can quickly implement this, and can take general guidance and turn it into final components. Opportunity for more projects if interested.\n\nLink to Project\nCan provide link and details to the person chosen to complete the bounty",
         "author": "GavinYerxa1",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@GavinYerxa1/add-a-button-to-a-cu?t="
     },
     {
@@ -3836,7 +3836,7 @@
         "title": "Make Mac Video App More Efficient (via s3 or Mac M1 chip acceleration)",
         "description": "The application here: https://github.com/sirkevinwang/Blink uses a significant amount of CPU and memory to take video and to run image processing on that video. Make an app that either 1) offloads the image processing to a user's EC2 box or 2) schedules it to happen using the M1 chip's hardware acceleration for videos/the Mac M1's graphics unit.\n\nYou should benchmark average CPU, graphics card, and memory usage of the current app, and the benchmarks for your fixed version of the app.\n\nAcceptance Criteria\nI will only accept applications that 1) have either a Github or a resume/portfolio attached and 2) mention either past experience or a specific plan to make the changes.\n\nTechnical Details\nI will pay this amount only if the application is made at least 50% more battery efficient.\n\nLink to Project\nhttps://github.com/sirkevinwang/Blink",
         "author": "AJGupta",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/make-mac-video-app-m?t="
     },
     {
@@ -3866,7 +3866,17 @@
         "title": "Static nextjs page",
         "description": "We're looking to build our homepage using Nextjs to match our available design. The homepage will be static with no backend requirements.\n\nAcceptance Criteria\n\u2022 Use NextJS\n\u2022\u00a0Meet design requirements\n\u2022\u00a0Support a range of browser sizes",
         "author": "gehrigk",
-        "posted_time": "16 minutes ago",
+        "posted_time": "25 minutes ago",
         "link": "https://replit.com/bounties/@gehrigk/static-nextjs-page?t="
+    },
+    {
+        "index": "387",
+        "price": "$9.00",
+        "due_days": "due in 7 days",
+        "title": "Create Fresh Laravel Jetstream Project",
+        "description": "The Job\n\n--\n\nCreate a fresh laravel app instance locally.\n\nAdd Laravel Socialite and connect it to a Twitter app ID that has been created.\n\nAdd login with twitter buttons to /login and /register\n\nTest sign up flow and database table for success user login or creation.\n\nDeploy to digital ocean via a fresh GitHub repo on my account.\n\nThis is the first step in a multi step app development process.\n\nThese are intentionally very simple steps to test bounties as a future way of project delivery and to find a good fit with the right engineer.",
+        "author": "louisblythe",
+        "posted_time": "49 seconds ago",
+        "link": "https://replit.com/bounties/@louisblythe/create-fresh-laravel?t="
     }
 ]
