@@ -3896,7 +3896,7 @@
         "title": "Web app for parents to generate ChatGPT content to educate their kids",
         "description": "I am looking to develop a simple web app that allows parents to generate ChatGPT content to educate their kids.\n\nThe web app should allow users to click the type of prompt (children's story, homework, and other relevant categories), hit generate, and have an AI return content relevant to kids.\n\nThere should also be additional, optional fields for users to enter:\n\nGrade level\nCountry\nTime needed to occupy kid\n\nAcceptance Criteria\nFront end and design that is simple and focuses on the form for the user to submit information\nUsers have access to a responsive, clean form and can enter preferences\nThe web app successfully generates a response matching the user's preferences\n\nTechnical Details\n\nTimelines / Milestones",
         "author": "tiffunny",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@tiffunny/web-app-for-parents?t="
     },
     {
@@ -3906,7 +3906,7 @@
         "title": "Basic Django App with Google OAuth Integration",
         "description": "A basic Django application with Google OAuth integrated\n\nGoogle OAuth integration requirements:\nCredentials type should be Web application\nScopes should include at least\n  https://www.googleapis.com/auth/gmail.readonly\n  https://www.googleapis.com/auth/gmail.compose\n\nWe need a basic Django app set up as the following:\nA log in page with a button that says \"Give Access to Google Account\" styled in TailwindCSS, doesn't need to be fancy\nClicking on the button shows log in with Google that lists above scopes\nA redirect page for when log in is done, can be basic as showing the logged in public user info\nCan run python server code with user's credentials like reading new emails and creating draft, just need demo of this is working and basic code for it, no specific requirements here\n\nPreferably allauth library is used.\n\nAcceptance Criteria:\nCode that implements above requirements and screen record of demo",
         "author": "VuBui7",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@VuBui7/basic-django-app-wit?t="
     },
     {
@@ -3926,7 +3926,7 @@
         "title": "Ruby: transform SVG to image (png or jpeg)",
         "description": "Given an SVG file, transform it to an image using ruby. The image should be a png or jpeg",
         "author": "MatthiasRichard",
-        "posted_time": "56 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@MatthiasRichard/ruby-transform-svg-t?t="
     }
 ]

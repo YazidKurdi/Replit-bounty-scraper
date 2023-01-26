@@ -3321,7 +3321,7 @@ The web app successfully generates a response matching the user's preferences
 
 Technical Details
 
-Timelines / Milestones",tiffunny,7 hours ago,https://replit.com/bounties/@tiffunny/web-app-for-parents?t=
+Timelines / Milestones",tiffunny,8 hours ago,https://replit.com/bounties/@tiffunny/web-app-for-parents?t=
 390,$9.00,due in 6 days,Basic Django App with Google OAuth Integration,"A basic Django application with Google OAuth integrated
 
 Google OAuth integration requirements:
@@ -3339,7 +3339,7 @@ Can run python server code with user's credentials like reading new emails and c
 Preferably allauth library is used.
 
 Acceptance Criteria:
-Code that implements above requirements and screen record of demo",VuBui7,6 hours ago,https://replit.com/bounties/@VuBui7/basic-django-app-wit?t=
+Code that implements above requirements and screen record of demo",VuBui7,7 hours ago,https://replit.com/bounties/@VuBui7/basic-django-app-wit?t=
 391,$6.30,due in 3 days,Flet Lib Python+Flutter runninng Hot Reload on Replit,"Describe the problem you are trying to solve here:
 For the Flet project work with Hot Reload enabled, we have to use command ""flet run main.py"" but when using the flet command, Replit VM starts returning some shared library errors.
 
@@ -3350,4 +3350,4 @@ https://flet.dev/docs/guides/python/hot-reload
 Acceptance Criteria
 Be specific about what you want in the solution here.
 Hot Reload on Flet tested and working without any error on Replit.",gcapedro,2 hours ago,https://replit.com/bounties/@gcapedro/flet-lib-pythonflutt?t=
-392,$13.50,due in 3 days,Ruby: transform SVG to image (png or jpeg),"Given an SVG file, transform it to an image using ruby. The image should be a png or jpeg",MatthiasRichard,56 minutes ago,https://replit.com/bounties/@MatthiasRichard/ruby-transform-svg-t?t=
+392,$13.50,due in 3 days,Ruby: transform SVG to image (png or jpeg),"Given an SVG file, transform it to an image using ruby. The image should be a png or jpeg",MatthiasRichard,1 hour ago,https://replit.com/bounties/@MatthiasRichard/ruby-transform-svg-t?t=
