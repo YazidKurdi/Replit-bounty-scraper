@@ -3876,7 +3876,7 @@
         "title": "Create Fresh Laravel Jetstream Project",
         "description": "The Job\n\n--\n\nCreate a fresh laravel app instance locally.\n\nAdd Laravel Socialite and connect it to a Twitter app ID that has been created.\n\nAdd login with twitter buttons to /login and /register\n\nTest sign up flow and database table for success user login or creation.\n\nDeploy to digital ocean via a fresh GitHub repo on my account.\n\nThis is the first step in a multi step app development process.\n\nThese are intentionally very simple steps to test bounties as a future way of project delivery and to find a good fit with the right engineer.",
         "author": "louisblythe",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@louisblythe/create-fresh-laravel?t="
     },
     {
@@ -3916,7 +3916,7 @@
         "title": "Flet Lib Python+Flutter runninng Hot Reload on Replit",
         "description": "Describe the problem you are trying to solve here:\nFor the Flet project work with Hot Reload enabled, we have to use command \"flet run main.py\" but when using the flet command, Replit VM starts returning some shared library errors.\n\nHere are some directions:\nhttps://flet.dev/docs/guides/python/getting-started\nhttps://flet.dev/docs/guides/python/hot-reload\n\nAcceptance Criteria\nBe specific about what you want in the solution here.\nHot Reload on Flet tested and working without any error on Replit.",
         "author": "gcapedro",
-        "posted_time": "43 minutes ago",
+        "posted_time": "58 minutes ago",
         "link": "https://replit.com/bounties/@gcapedro/flet-lib-pythonflutt?t="
     }
 ]
