@@ -3826,7 +3826,7 @@
         "title": "Discussion on what is possible with Stable Diffusion / Dall-E etc.",
         "description": "I'm not looking for any code for this first step. I'd just like to know what is possible and then explore from there.\n\nMy friend is an artist and creates line drawings from photos. Example here: https://share.cleanshot.com/NyLyFxTN\n\nI'd like to know if it's possible to train a model with lots of his work - i.e. the original photo and the corresponding line drawing - so that a new photo can be uploaded and a line drawing returned.\n\nI'd like this to be on a live website, so if it is possible, I'd like to know all of the steps required.",
         "author": "AndrewShowman",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/discussion-on-what-i?t="
     },
     {
@@ -3866,7 +3866,7 @@
         "title": "Static nextjs page",
         "description": "We're looking to build our homepage using Nextjs to match our available design. The homepage will be static with no backend requirements.\n\nAcceptance Criteria\n\u2022 Use NextJS\n\u2022\u00a0Meet design requirements\n\u2022\u00a0Support a range of browser sizes",
         "author": "gehrigk",
-        "posted_time": "9 minutes ago",
+        "posted_time": "16 minutes ago",
         "link": "https://replit.com/bounties/@gehrigk/static-nextjs-page?t="
     }
 ]
