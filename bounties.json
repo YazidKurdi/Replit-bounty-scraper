@@ -3896,7 +3896,7 @@
         "title": "Web app for parents to generate ChatGPT content to educate their kids",
         "description": "I am looking to develop a simple web app that allows parents to generate ChatGPT content to educate their kids.\n\nThe web app should allow users to click the type of prompt (children's story, homework, and other relevant categories), hit generate, and have an AI return content relevant to kids.\n\nThere should also be additional, optional fields for users to enter:\n\nGrade level\nCountry\nTime needed to occupy kid\n\nAcceptance Criteria\nFront end and design that is simple and focuses on the form for the user to submit information\nUsers have access to a responsive, clean form and can enter preferences\nThe web app successfully generates a response matching the user's preferences\n\nTechnical Details\n\nTimelines / Milestones",
         "author": "tiffunny",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@tiffunny/web-app-for-parents?t="
     },
     {
@@ -3906,7 +3906,7 @@
         "title": "Basic Django App with Google OAuth Integration",
         "description": "A basic Django application with Google OAuth integrated\n\nGoogle OAuth integration requirements:\nCredentials type should be Web application\nScopes should include at least\n  https://www.googleapis.com/auth/gmail.readonly\n  https://www.googleapis.com/auth/gmail.compose\n\nWe need a basic Django app set up as the following:\nA log in page with a button that says \"Give Access to Google Account\" styled in TailwindCSS, doesn't need to be fancy\nClicking on the button shows log in with Google that lists above scopes\nA redirect page for when log in is done, can be basic as showing the logged in public user info\nCan run python server code with user's credentials like reading new emails and creating draft, just need demo of this is working and basic code for it, no specific requirements here\n\nPreferably allauth library is used.\n\nAcceptance Criteria:\nCode that implements above requirements and screen record of demo",
         "author": "VuBui7",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@VuBui7/basic-django-app-wit?t="
     },
     {
@@ -3956,7 +3956,7 @@
         "title": "Extract Data using CoinGecko API",
         "description": "Use the CoinGecko API to create a list of every Company on CoinGecko (https://www.coingecko.com/).\n\nPull all of the following fields for each company:\n\nCompany Name\nToken Symbol\nWebsite\nTwitter\nLinkedIn\nMarket Cap\n24 hour Trading Volume\nCirculating Supply\nDate Added\nDate Launched\nDescription\n\nThe output should be a csv with all of this data.\n\nLet's use the repl chat for communication.",
         "author": "MarkErdmann",
-        "posted_time": "41 minutes ago",
+        "posted_time": "50 minutes ago",
         "link": "https://replit.com/bounties/@MarkErdmann/extract-data-using-c?t="
     },
     {
@@ -3966,7 +3966,7 @@
         "title": "Auto-respond to tweets with AI",
         "description": "Interesting people don't get enough interesting replies from AI\n\nAcceptance Criteria\nAn AI, using OpenAI's API, looks for highly popular tweets, and responds to them, using a prompt that the user creates.\n\nThe app should allow a user to:\nAuth with Twitter\nCreate a prompt that the AI will use to reply (ie \"reply with a witty comment in the style of Shakespeare\")\nChoose how many tweets to send out per day\nRun in the background, searching for tweets that are popular\nSpace the tweets out evenly throughout the day\n\nTechnical Details\nNot important to me how the dev decides to build this",
         "author": "anksolado",
-        "posted_time": "13 minutes ago",
+        "posted_time": "23 minutes ago",
         "link": "https://replit.com/bounties/@anksolado/auto-respond-to-twee?t="
     }
 ]

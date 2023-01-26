@@ -3321,7 +3321,7 @@ The web app successfully generates a response matching the user's preferences
 
 Technical Details
 
-Timelines / Milestones",tiffunny,12 hours ago,https://replit.com/bounties/@tiffunny/web-app-for-parents?t=
+Timelines / Milestones",tiffunny,13 hours ago,https://replit.com/bounties/@tiffunny/web-app-for-parents?t=
 390,$9.00,due in 6 days,Basic Django App with Google OAuth Integration,"A basic Django application with Google OAuth integrated
 
 Google OAuth integration requirements:
@@ -3339,7 +3339,7 @@ Can run python server code with user's credentials like reading new emails and c
 Preferably allauth library is used.
 
 Acceptance Criteria:
-Code that implements above requirements and screen record of demo",VuBui7,11 hours ago,https://replit.com/bounties/@VuBui7/basic-django-app-wit?t=
+Code that implements above requirements and screen record of demo",VuBui7,12 hours ago,https://replit.com/bounties/@VuBui7/basic-django-app-wit?t=
 391,$6.30,due in 3 days,Flet Lib Python+Flutter runninng Hot Reload on Replit,"Describe the problem you are trying to solve here:
 For the Flet project work with Hot Reload enabled, we have to use command ""flet run main.py"" but when using the flet command, Replit VM starts returning some shared library errors.
 
@@ -3383,7 +3383,7 @@ Description
 
 The output should be a csv with all of this data.
 
-Let's use the repl chat for communication.",MarkErdmann,41 minutes ago,https://replit.com/bounties/@MarkErdmann/extract-data-using-c?t=
+Let's use the repl chat for communication.",MarkErdmann,50 minutes ago,https://replit.com/bounties/@MarkErdmann/extract-data-using-c?t=
 396,$90.00,due in 3 days,Auto-respond to tweets with AI,"Interesting people don't get enough interesting replies from AI
 
 Acceptance Criteria
@@ -3397,4 +3397,4 @@ Run in the background, searching for tweets that are popular
 Space the tweets out evenly throughout the day
 
 Technical Details
-Not important to me how the dev decides to build this",anksolado,13 minutes ago,https://replit.com/bounties/@anksolado/auto-respond-to-twee?t=
+Not important to me how the dev decides to build this",anksolado,23 minutes ago,https://replit.com/bounties/@anksolado/auto-respond-to-twee?t=
