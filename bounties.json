@@ -3926,7 +3926,7 @@
         "title": "Ruby: transform SVG to image (png or jpeg)",
         "description": "Given an SVG file, transform it to an image using ruby. The image should be a png or jpeg",
         "author": "MatthiasRichard",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@MatthiasRichard/ruby-transform-svg-t?t="
     },
     {
@@ -3936,7 +3936,7 @@
         "title": "Interactive Database Discovery Tool",
         "description": "UX/UI - Connect SQL database to visual\nControl panel auto updates main frame by users chosen variables to manipulate",
         "author": "JackWeston3",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@JackWeston3/interactive-database?t="
     },
     {
@@ -3946,7 +3946,7 @@
         "title": "Knowledge Management Chatbot",
         "description": "Make a question answering chatbot that pulls results from a query from Snowflake and Wikipedia and using Langchain and Streamlit.\n\nThis documentation is a starting point on how to build a question answering chatbot using Langchain.\n\nWe will test the tool with a few questions regarding data in Snowflake and/or Wikipedia.\n\nAcceptance Criteria\n\nThe chatbot should have a simple interface\nWe will provide an API to a CRM dataset in Snowflake containing a list of 100 customers\u2019 names, last transaction date, and last transaction size.\nThe chatbot must be able to generate a proper response regarding data in either Wikipedia or Snowflake, including calculating averages and sums\nThe app must be deployed on Streamlit",
         "author": "altcap",
-        "posted_time": "34 minutes ago",
+        "posted_time": "45 minutes ago",
         "link": "https://replit.com/bounties/@altcap/knowledge-management?t="
     }
 ]
