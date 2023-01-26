@@ -3876,7 +3876,7 @@
         "title": "Create Fresh Laravel Jetstream Project",
         "description": "The Job\n\n--\n\nCreate a fresh laravel app instance locally.\n\nAdd Laravel Socialite and connect it to a Twitter app ID that has been created.\n\nAdd login with twitter buttons to /login and /register\n\nTest sign up flow and database table for success user login or creation.\n\nDeploy to digital ocean via a fresh GitHub repo on my account.\n\nThis is the first step in a multi step app development process.\n\nThese are intentionally very simple steps to test bounties as a future way of project delivery and to find a good fit with the right engineer.",
         "author": "louisblythe",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@louisblythe/create-fresh-laravel?t="
     },
     {
@@ -3926,7 +3926,7 @@
         "title": "Ruby: transform SVG to image (png or jpeg)",
         "description": "Given an SVG file, transform it to an image using ruby. The image should be a png or jpeg",
         "author": "MatthiasRichard",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@MatthiasRichard/ruby-transform-svg-t?t="
     }
 ]
