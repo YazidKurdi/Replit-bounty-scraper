@@ -3886,7 +3886,7 @@
         "title": "API for testing and scoring LLM completions GPT Etc.",
         "description": "Looking for a single endpoint to build testing libraries or manual scoring of responses with larger models. Replacing human review equivalent for simpler response tasks and categorizations.\n\nDoes not necessarily need a GUI can just be an end point with various fetches to OpenAI for example or using other testing frameworks. Should provide option to select best completion, grade 1-10, process batch analysis and summarize. Ideally looking at what the very best libraries and techniques are.\n\nOpen to best simple technical approach. Python or Node.js",
         "author": "pbmangan",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@pbmangan/api-for-testing-and?t="
     },
     {
@@ -3916,7 +3916,7 @@
         "title": "Flet Lib Python+Flutter runninng Hot Reload on Replit",
         "description": "Describe the problem you are trying to solve here:\nFor the Flet project work with Hot Reload enabled, we have to use command \"flet run main.py\" but when using the flet command, Replit VM starts returning some shared library errors.\n\nHere are some directions:\nhttps://flet.dev/docs/guides/python/getting-started\nhttps://flet.dev/docs/guides/python/hot-reload\n\nAcceptance Criteria\nBe specific about what you want in the solution here.\nHot Reload on Flet tested and working without any error on Replit.",
         "author": "gcapedro",
-        "posted_time": "58 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@gcapedro/flet-lib-pythonflutt?t="
     }
 ]
