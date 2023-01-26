@@ -3237,7 +3237,7 @@ Google signin
 
 Acceptance Criteria
 front and backend
-must work on shared hosting",BrandonF7,13 hours ago,https://replit.com/bounties/@BrandonF7/clone-openai-playgro?t=
+must work on shared hosting",BrandonF7,14 hours ago,https://replit.com/bounties/@BrandonF7/clone-openai-playgro?t=
 382,$9.00,due in 3 days,Discussion on what is possible with Stable Diffusion / Dall-E etc.,"I'm not looking for any code for this first step. I'd just like to know what is possible and then explore from there.
 
 My friend is an artist and creates line drawings from photos. Example here: https://share.cleanshot.com/NyLyFxTN
@@ -3303,7 +3303,7 @@ These are intentionally very simple steps to test bounties as a future way of pr
 
 Does not necessarily need a GUI can just be an end point with various fetches to OpenAI for example or using other testing frameworks. Should provide option to select best completion, grade 1-10, process batch analysis and summarize. Ideally looking at what the very best libraries and techniques are.
 
-Open to best simple technical approach. Python or Node.js",pbmangan,2 hours ago,https://replit.com/bounties/@pbmangan/api-for-testing-and?t=
+Open to best simple technical approach. Python or Node.js",pbmangan,3 hours ago,https://replit.com/bounties/@pbmangan/api-for-testing-and?t=
 389,$810.00,due in 6 days,Web app for parents to generate ChatGPT content to educate their kids,"I am looking to develop a simple web app that allows parents to generate ChatGPT content to educate their kids.
 
 The web app should allow users to click the type of prompt (children's story, homework, and other relevant categories), hit generate, and have an AI return content relevant to kids.
@@ -3339,4 +3339,4 @@ Can run python server code with user's credentials like reading new emails and c
 Preferably allauth library is used.
 
 Acceptance Criteria:
-Code that implements above requirements and screen record of demo",VuBui7,11 minutes ago,https://replit.com/bounties/@VuBui7/basic-django-app-wit?t=
+Code that implements above requirements and screen record of demo",VuBui7,21 minutes ago,https://replit.com/bounties/@VuBui7/basic-django-app-wit?t=
