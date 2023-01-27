@@ -4186,7 +4186,7 @@
         "title": "Python based scraper for a webpage ",
         "description": "I want to scrap data from one webpage and dump it in a CSV file.\nTarget Webpage - https://learn.microsoft.com/en-us/azure/purview/supported-classifications\nContent to be scrapped -\nGo to section - \"RegEx Classifications\". This section has around 195 entities and each entity has 5 different properties for it - Attribute Name, Format, Pattern, Checksum, Keywords.  All this information needs to be scraped into a CSV file.\nCSV should have following columns ( I am including the values of the first row as sample)\nAttribute_Name - \"ABA routing number\"\nFormat - \"Nine digits that can be in a formatted or unformatted pattern.\"\nPattern_text - \"\"\nPattern_list - \"two digits in the ranges 00-12, 21-32, 61-72, or 80\",\"two digits\",\"an optional hyphen\",\"four digits\",\"an optional hyphen\",\"a digit\"\nChecksum - \"Yes\"\nKeywordstest - \"Keywordaba_routing\"\nKeywords_list -\n\"aba number\",\"aba#\",\"aba\",\"abarouting#\",\"abaroutingnumber\", \"americanbankassociationrouting#\",\"americanbankassociationro...",
         "author": "netmobz",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@netmobz/python-based-scraper?t="
     },
     {
@@ -4196,7 +4196,7 @@
         "title": "React to HTML v2",
         "description": "Convert 2 React webapps to HTML\n\nAcceptance Criteria\nDeliver HTML zip files",
         "author": "hyperion335",
-        "posted_time": "48 minutes ago",
+        "posted_time": "58 minutes ago",
         "link": "https://replit.com/bounties/@hyperion335/react-to-html-v2?t="
     },
     {
@@ -4206,7 +4206,7 @@
         "title": "(Freebie) First Come First Serve",
         "description": "Make something cool, first come first serve\nFirst to apply with a good reply (telling me what they will make, past experiences, etc) will get it.\n\nNOTE:\n\"I make stuff\" \"i have done this before\" \"i can help you\" and alike applications will be disqualified.",
         "author": "EarthRulerr",
-        "posted_time": "23 minutes ago",
+        "posted_time": "32 minutes ago",
         "link": "https://replit.com/bounties/@EarthRulerr/freebie-first-come-f?t="
     }
 ]
