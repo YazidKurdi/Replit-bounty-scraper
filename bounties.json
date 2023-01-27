@@ -3976,7 +3976,7 @@
         "title": "Extract Data using CoinGecko API",
         "description": "Use the CoinGecko API to create a list of every Company on CoinGecko (https://www.coingecko.com/). The ideal completion date would be today or tomorrow.\n\nPull all of the following fields for each company:\n\nCompany Name\nToken Symbol\nWebsite\nTwitter\nLinkedIn\nMarket Cap\n24 hour Trading Volume\nCirculating Supply\nDate Added\nDate Launched\nDescription\n\nThe output should be a csv with all of this data.\n\nLet's use the repl chat for communication.",
         "author": "MarkErdmann",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@MarkErdmann/extract-data-using-c-1?t="
     },
     {
@@ -3986,7 +3986,7 @@
         "title": "Public Company Events",
         "description": "Every time a public company I follow adds an event to their calendar (earnings call, analyst/investor day, conference presentation), I would like it to automatically send myself a calendar invite in outlook.\n\nAcceptance Criteria\n\nI should be able to add and remove companies at my leisure (single company, or list of companies)\n\nI should be able to add other people to get the calendar invite\n\nNeeds to work on outlook\n\nTechnical Details",
         "author": "NateMitchell1",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@NateMitchell1/public-company-event?t="
     },
     {
@@ -3996,7 +3996,7 @@
         "title": "Need someone experienced and skilled in Java and Heroku to resolve an issue and write one script",
         "description": "My project works locally but when I try to upload it to Heroku it gives me the following error: Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'app.email' in value \"${app.email}\"\n\nNeed help fixing the app issues and make it live on Heroku.\n\nI need someone to write a Java class that does the following:\na. Reads a CSV file containing multiple rows of search prompts and uses each prompt as keywords to run a search on an API. The API can be accessed via a URL that includes the API endpoint, along with any necessary parameters for the specific request. ( I will gain access to this API after the issue in point 1 is resolved. Once I do gain access I will need you to guide on how to properly incorporate it into the code you wrote.)\n\nb. The script should then calculate the median and average price of the top 10 results pulled from the API.\n\nc. Then it should add the median and average prices to the original CSV file and generate a new CSV file f...",
         "author": "mdotbaig",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/need-someone-experie?t="
     },
     {
@@ -4026,7 +4026,7 @@
         "title": "Timed Comments for Youtube",
         "description": "Project Description\nTimed comments for YouTube (like the existing beta which doesn't seem likely to rollout soon). Basically, I want a way to embed YouTube videos and to show an auto-scrolling comments board beneath it, on my Jekyll site. There should be a way to\n1) Use the Youtube API to get the current second that the user is at in the video.\n2) Scrape all of the comments from that video and show them beneath the video. Prioritize timestamped comments, and show the ones closest to the current timestamp first.\n3) It should show each YouTube comment thread in a default-collapsed style, where only the highest rated comment is shown, and there are ways for me to add a comment either to any thread or to the top level. The UI can look like YouTube comments or SoundCloud comments.\n4) It should be possible for me to comment on any thread or post my own comment, and that comment should be posted to Youtube along with the current timestamp that I'm at.\n5) If someone likes or responds, should j...",
         "author": "AJGupta",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/timed-comments-for-y?t="
     },
     {
@@ -4056,7 +4056,7 @@
         "title": "Create a custom text summarization app",
         "description": "I write a popular website/substack that summarizes and synthesizes academic literature related to innovation. There are 50+ articles, each 2000-5000 words, and I write new articles every few weeks. I would like to provide short summaries of each of these articles and stick them on category specific index pages, to help readers navigate the site and decide if they should read an article or not.\n\nI have been using chatGPT to do this. I feed it a block of text between two subject headings and ask it to summarize each block. After I have fed it the entire article, block by block, I ask for a summary of \"everything we have been talking about.\" This works pretty well, but it's too time consuming.\n\nAcceptance Criteria\n\nI am looking for an app that will automate this process. Ideally, I would like to feed in a url from an article on my site and have the app spit out a 4-6 bullet point summary of the article. Behind the scenes, the app is cutting up the article into digesti...",
         "author": "MattClancy",
-        "posted_time": "23 minutes ago",
+        "posted_time": "38 minutes ago",
         "link": "https://replit.com/bounties/@MattClancy/create-a-custom-text?t="
     },
     {
@@ -4066,7 +4066,7 @@
         "title": "Automatic enemy generator for Kaboom.JS",
         "description": "I'd like to make a game but simply don't have the time to create a ton of enemies that players can go up against.\n\nI'd like a function that, when passed an RNG seed, color & type, can generate an enemy made out of a few customisable shapes & add-ons to be placed in the Kaboom.JS world.\n\nThe enemies should be able to:\nInteract with other enemies, walls & other items in the map\nMove at a randomised pace\nHave some sort of a walking, running, attacking, etc. animation\nBe able to attack with a melee weapon, ranged weapon or magic\n\nTheir shapes, sizes & colours should also be vastly unique.\n\nAcceptance Criteria\nPrior experience in making games & tools in Kaboom.JS\nVanilla JavaScript only\nEvery part of an enemy should be able to be customised or left up to the RNG seed.",
         "author": "codingMASTER398",
-        "posted_time": "1 minute ago",
+        "posted_time": "16 minutes ago",
         "link": "https://replit.com/bounties/@codingMASTER398/automatic-enemy-gene?t="
     }
 ]
