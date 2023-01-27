@@ -4142,7 +4142,7 @@
     {
         "index": "414",
         "price": "$270.00",
-        "due_days": "due in 3 days",
+        "due_days": "closed",
         "title": "Convert React to HTML",
         "description": "Have a React app we need converted to HTML\n\nAcceptance Criteria\nMust be delivered in static HTML",
         "author": "hyperion335",
@@ -4186,7 +4186,7 @@
         "title": "Python based scraper for a webpage ",
         "description": "I want to scrap data from one webpage and dump it in a CSV file.\nTarget Webpage - https://learn.microsoft.com/en-us/azure/purview/supported-classifications\nContent to be scrapped -\nGo to section - \"RegEx Classifications\". This section has around 195 entities and each entity has 5 different properties for it - Attribute Name, Format, Pattern, Checksum, Keywords.  All this information needs to be scraped into a CSV file.\nCSV should have following columns ( I am including the values of the first row as sample)\nAttribute_Name - \"ABA routing number\"\nFormat - \"Nine digits that can be in a formatted or unformatted pattern.\"\nPattern_text - \"\"\nPattern_list - \"two digits in the ranges 00-12, 21-32, 61-72, or 80\",\"two digits\",\"an optional hyphen\",\"four digits\",\"an optional hyphen\",\"a digit\"\nChecksum - \"Yes\"\nKeywordstest - \"Keywordaba_routing\"\nKeywords_list -\n\"aba number\",\"aba#\",\"aba\",\"abarouting#\",\"abaroutingnumber\", \"americanbankassociationrouting#\",\"americanbankassociationro...",
         "author": "netmobz",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@netmobz/python-based-scraper?t="
     }
 ]
