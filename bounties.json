@@ -4006,7 +4006,7 @@
         "title": "Improve PDF Generation In Python With Reportlab",
         "description": "We have invoice pdf generation in python but we need this to produce invoices closer to our targeted design which is here. https://imgur.com/a/AVfCvtD\n\nHere is the file in which we do the invoice pdf generation that needs to be upgraded:\nhttps://github.com/uselotus/lotus/blob/main/backend/meteringbilling/invoicepdf.py\n\nHere is the documentation.\nhttps://docs.reportlab.com/reportlab/userguide/ch1_intro/\n\nAcceptance Criteria\nMatch the design of the example PDF including spacing, font sizes, and font type of Alliance. You can use something like WhatFont to further understand the font specifics for the pdf.\n\nTo prove this, you should be able to navigate in the Lotus frontend to Customers tab -> click on a customer -> navigate to Invoices -> click download invoice pdf. Or you can use the invoice pdf API call here https://docs.uselotus.io/api-reference/invoices/get-invoice-pdf to test and show examples (note that once an invoice is generated it won't be regenerated, it wi...",
         "author": "MikaelNida",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@MikaelNida/improve-pdf-generati?t="
     },
     {
@@ -4096,7 +4096,7 @@
         "title": "I want a color changing circle which will move in a clock wise motion",
         "description": "I want to make a color changing circle type thing which will move in a clock wise motion\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "HackerzCodingV2",
-        "posted_time": "19 minutes ago",
+        "posted_time": "28 minutes ago",
         "link": "https://replit.com/bounties/@HackerzCodingV2/i-want-a-color-chang?t="
     }
 ]
