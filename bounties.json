@@ -4136,7 +4136,7 @@
         "title": "facebook public groups scraper using snscrape",
         "description": "Facebook public groups scraping\nAcceptance Criteria\nAbility to pickup facebook group URL from a particular column in excel file\nscrape and return data (historical & date based)  into a csv format\nupload that data into AWS s3\nloop onto the next URL in the excel until all rows finished\nTechnical Details\nNeed a scraper using snscrape that picks up a  URL(public facebook group) from a excel file and scrapes the data(user,text,url,img url and other post fields) in that public group --> store it into AWS s3 bucket",
         "author": "4nuj",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@4nuj/facebook-public-grou?t="
     },
     {
@@ -4156,7 +4156,7 @@
         "title": "Data Compilation Tool (publicly available information)",
         "description": "Looking to create a large and comprehensive data set from publicly available Education information. Majority of data is located on one government statistics site - challenge will be following external links and retrieving specific, publicly available email addresses reliably and at scale.\n\nIdeal final product will consist of a functional, accurate, interactive database that can be searched based on a variety of criteria by end user. Front End build for final product may be included but precise functionality as described above is the acceptance criteria for this product.",
         "author": "fauxform",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@fauxform/data-compilation-too?t="
     },
     {
@@ -4176,7 +4176,7 @@
         "title": "Reach a top score at: DookeyDash (BlockChain game)",
         "description": "Get a top Score at DookeyDash: Blockchain Game\n\nBored Ape launched a blockchain game called: DookeyDash.\n\nI need a pro gamer to reach a high score of 400,000pts or more for me (On Tier1s)\n\nI own couple of access pass (this is token gated). I will delegate a warm wallet so you can play on my passes.\n\nThis is a high skill/reflex based game. You will need to play on a desktop with a Mouse on high DPI and high refresh rate.\n\nNo cheating!!! They will trash the pass if they detect any cheat (worth 4000$+)\n\nIf you are a pro gamer with a proof of high ranking in reaction based games like CS GO and others, you are the person I seek.\n\nMany more bounties on the line if you reach 300,000+ and bonuses for 400,000+.\n\nGame video: https://youtu.be/xS3iFwfin3M\nStreams: https://www.twitch.tv/orangi\n\n*You will need to install Metamask and import the warm delegated wallet in order to play.",
         "author": "marcandreranger",
-        "posted_time": "1 minute ago",
+        "posted_time": "13 minutes ago",
         "link": "https://replit.com/bounties/@marcandreranger/reach-a-top-score-at?t="
     }
 ]
