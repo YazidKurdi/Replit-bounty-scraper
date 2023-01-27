@@ -3559,14 +3559,14 @@ scrape and return data (historical & date based)  into a csv format
 upload that data into AWS s3
 loop onto the next URL in the excel until all rows finished
 Technical Details
-Need a scraper using snscrape that picks up a  URL(public facebook group) from a excel file and scrapes the data(user,text,url,img url and other post fields) in that public group --> store it into AWS s3 bucket",4nuj,7 hours ago,https://replit.com/bounties/@4nuj/facebook-public-grou?t=
+Need a scraper using snscrape that picks up a  URL(public facebook group) from a excel file and scrapes the data(user,text,url,img url and other post fields) in that public group --> store it into AWS s3 bucket",4nuj,8 hours ago,https://replit.com/bounties/@4nuj/facebook-public-grou?t=
 414,$270.00,closed,Convert React to HTML,"Have a React app we need converted to HTML
 
 Acceptance Criteria
 Must be delivered in static HTML",hyperion335,7 hours ago,https://replit.com/bounties/@hyperion335/convert-react-to-htm?t=
 415,$22.50,due in 11 days,Data Compilation Tool (publicly available information),"Looking to create a large and comprehensive data set from publicly available Education information. Majority of data is located on one government statistics site - challenge will be following external links and retrieving specific, publicly available email addresses reliably and at scale.
 
-Ideal final product will consist of a functional, accurate, interactive database that can be searched based on a variety of criteria by end user. Front End build for final product may be included but precise functionality as described above is the acceptance criteria for this product.",fauxform,6 hours ago,https://replit.com/bounties/@fauxform/data-compilation-too?t=
+Ideal final product will consist of a functional, accurate, interactive database that can be searched based on a variety of criteria by end user. Front End build for final product may be included but precise functionality as described above is the acceptance criteria for this product.",fauxform,7 hours ago,https://replit.com/bounties/@fauxform/data-compilation-too?t=
 416,$30.00,due in 3 days,Website Mobile and Navigation fixes (Javascript),"Three minor problems with www.chrisrentsch.com
       Text on root page isn't centered under profile photo in mobile mode (works fine in desktop mode)
       If you navigate into ""projects"" or ""books"" and an image with a white background is displayed on the left, you can't see the back arrow in desktop mode (works fine in mobile mode)
@@ -3612,3 +3612,7 @@ Checksum - ""Yes""
 Keywordstest - ""Keywordaba_routing""
 Keywords_list -
 ""aba number"",""aba#"",""aba"",""abarouting#"",""abaroutingnumber"", ""americanbankassociationrouting#"",""americanbankassociationro...",netmobz,3 hours ago,https://replit.com/bounties/@netmobz/python-based-scraper?t=
+419,$540.00,due in 3 days,React to HTML v2,"Convert 2 React webapps to HTML
+
+Acceptance Criteria
+Deliver HTML zip files",hyperion335,8 minutes ago,https://replit.com/bounties/@hyperion335/react-to-html-v2?t=
