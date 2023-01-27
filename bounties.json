@@ -3956,7 +3956,7 @@
         "title": "Extract Data using CoinGecko API",
         "description": "Use the CoinGecko API to create a list of every Company on CoinGecko (https://www.coingecko.com/).\n\nPull all of the following fields for each company:\n\nCompany Name\nToken Symbol\nWebsite\nTwitter\nLinkedIn\nMarket Cap\n24 hour Trading Volume\nCirculating Supply\nDate Added\nDate Launched\nDescription\n\nThe output should be a csv with all of this data.\n\nLet's use the repl chat for communication.",
         "author": "MarkErdmann",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@MarkErdmann/extract-data-using-c?t="
     },
     {
@@ -4036,7 +4036,7 @@
         "title": "Semantic search for API docs",
         "description": "im looking for help building a semantic search engine for developer docs\nex:\nhttps://developer.salesforce.com/docs\nor\nhttps://www.twilio.com/docs\n\nreference: https://www.pinecone.io/ai-search-use-case/\nguide: https://docs.pinecone.io/docs/semantic-text-search",
         "author": "bs1234",
-        "posted_time": "52 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@bs1234/semantic-search-for?t="
     },
     {
@@ -4046,7 +4046,7 @@
         "title": "Discord Application Code",
         "description": "The current code that I have only allows for one \"application\". User selects button, and responds to bot in DMs, Bot then forwards answers to a new channel and embeds responses.\nAcceptance Criteria\nI need this bot (or a whole new line of code) that can accept requests for up to 4 or 5 different sets of questions/application. Preferred to use Replit DB still. We can DM and figure out exacts, but this should be a super simple edit in my coding (or we can just restart, idc)",
         "author": "joneb32",
-        "posted_time": "46 minutes ago",
+        "posted_time": "56 minutes ago",
         "link": "https://replit.com/bounties/@joneb32/discord-application-1?t="
     }
 ]
