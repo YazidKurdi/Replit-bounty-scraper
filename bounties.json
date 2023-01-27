@@ -3966,13 +3966,13 @@
         "title": "Auto-respond to tweets with AI",
         "description": "Interesting people don't get enough interesting replies from AI\n\nAcceptance Criteria\nAn AI, using OpenAI's API, looks for highly popular tweets, and responds to them, using a prompt that the user creates.\n\nThe app should allow a user to:\nAuth with Twitter\nCreate a prompt that the AI will use to reply (ie \"reply with a witty comment in the style of Shakespeare\")\nChoose how many tweets to send out per day\nRun in the background, searching for tweets that are popular\nSpace the tweets out evenly throughout the day\n\nTechnical Details\nNot important to me how the dev decides to build this",
         "author": "anksolado",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@anksolado/auto-respond-to-twee?t="
     },
     {
         "index": "397",
         "price": "$45.00",
-        "due_days": "due in 4 days",
+        "due_days": "closed",
         "title": "Extract Data using CoinGecko API",
         "description": "Use the CoinGecko API to create a list of every Company on CoinGecko (https://www.coingecko.com/). The ideal completion date would be today or tomorrow.\n\nPull all of the following fields for each company:\n\nCompany Name\nToken Symbol\nWebsite\nTwitter\nLinkedIn\nMarket Cap\n24 hour Trading Volume\nCirculating Supply\nDate Added\nDate Launched\nDescription\n\nThe output should be a csv with all of this data.\n\nLet's use the repl chat for communication.",
         "author": "MarkErdmann",
@@ -4006,7 +4006,7 @@
         "title": "Improve PDF Generation In Python With Reportlab",
         "description": "We have invoice pdf generation in python but we need this to produce invoices closer to our targeted design which is here. https://imgur.com/a/AVfCvtD\n\nHere is the file in which we do the invoice pdf generation that needs to be upgraded:\nhttps://github.com/uselotus/lotus/blob/main/backend/meteringbilling/invoicepdf.py\n\nHere is the documentation.\nhttps://docs.reportlab.com/reportlab/userguide/ch1_intro/\n\nAcceptance Criteria\nMatch the design of the example PDF including spacing, font sizes, and font type of Alliance. You can use something like WhatFont to further understand the font specifics for the pdf.\n\nTo prove this, you should be able to navigate in the Lotus frontend to Customers tab -> click on a customer -> navigate to Invoices -> click download invoice pdf. Or you can use the invoice pdf API call here https://docs.uselotus.io/api-reference/invoices/get-invoice-pdf to test and show examples (note that once an invoice is generated it won't be regenerated, it wi...",
         "author": "MikaelNida",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@MikaelNida/improve-pdf-generati?t="
     },
     {
