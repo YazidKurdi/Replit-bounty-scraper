@@ -4136,7 +4136,7 @@
         "title": "facebook public groups scraper using snscrape",
         "description": "Facebook public groups scraping\nAcceptance Criteria\nAbility to pickup facebook group URL from a particular column in excel file\nscrape and return data (historical & date based)  into a csv format\nupload that data into AWS s3\nloop onto the next URL in the excel until all rows finished\nTechnical Details\nNeed a scraper using snscrape that picks up a  URL(public facebook group) from a excel file and scrapes the data(user,text,url,img url and other post fields) in that public group --> store it into AWS s3 bucket",
         "author": "4nuj",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@4nuj/facebook-public-grou?t="
     },
     {
@@ -4156,7 +4156,7 @@
         "title": "Data Compilation Tool (publicly available information)",
         "description": "Looking to create a large and comprehensive data set from publicly available Education information. Majority of data is located on one government statistics site - challenge will be following external links and retrieving specific, publicly available email addresses reliably and at scale.\n\nIdeal final product will consist of a functional, accurate, interactive database that can be searched based on a variety of criteria by end user. Front End build for final product may be included but precise functionality as described above is the acceptance criteria for this product.",
         "author": "fauxform",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@fauxform/data-compilation-too?t="
     },
     {
