@@ -4176,7 +4176,7 @@
         "title": "Reach a top score at: DookeyDash (BlockChain game)",
         "description": "Get a top Score at DookeyDash: Blockchain Game\n\nBored Ape launched a blockchain game called: DookeyDash.\n\nI need a pro gamer to reach a high score of 400,000pts or more for me (On Tier1s)\n\nI own couple of access pass (this is token gated). I will delegate a warm wallet so you can play on my passes.\n\nThis is a high skill/reflex based game. You will need to play on a desktop with a Mouse on high DPI and high refresh rate.\n\nNo cheating!!! They will trash the pass if they detect any cheat (worth 4000$+)\n\nIf you are a pro gamer with a proof of high ranking in reaction based games like CS GO and others, you are the person I seek.\n\nMany more bounties on the line if you reach 300,000+ and bonuses for 400,000+.\n\nGame video: https://youtu.be/xS3iFwfin3M\nStreams: https://www.twitch.tv/orangi\n\n*You will need to install Metamask and import the warm delegated wallet in order to play.",
         "author": "marcandreranger",
-        "posted_time": "57 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@marcandreranger/reach-a-top-score-at?t="
     },
     {
@@ -4186,7 +4186,7 @@
         "title": "Python based scraper for a webpage ",
         "description": "I want to scrap data from one webpage and dump it in a CSV file.\nTarget Webpage - https://learn.microsoft.com/en-us/azure/purview/supported-classifications\nContent to be scrapped -\nGo to section - \"RegEx Classifications\". This section has around 195 entities and each entity has 5 different properties for it - Attribute Name, Format, Pattern, Checksum, Keywords.  All this information needs to be scraped into a CSV file.\nCSV should have following columns ( I am including the values of the first row as sample)\nAttribute_Name - \"ABA routing number\"\nFormat - \"Nine digits that can be in a formatted or unformatted pattern.\"\nPattern_text - \"\"\nPattern_list - \"two digits in the ranges 00-12, 21-32, 61-72, or 80\",\"two digits\",\"an optional hyphen\",\"four digits\",\"an optional hyphen\",\"a digit\"\nChecksum - \"Yes\"\nKeywordstest - \"Keywordaba_routing\"\nKeywords_list -\n\"aba number\",\"aba#\",\"aba\",\"abarouting#\",\"abaroutingnumber\", \"americanbankassociationrouting#\",\"americanbankassociationro...",
         "author": "netmobz",
-        "posted_time": "27 minutes ago",
+        "posted_time": "37 minutes ago",
         "link": "https://replit.com/bounties/@netmobz/python-based-scraper?t="
     }
 ]
