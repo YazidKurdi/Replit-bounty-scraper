@@ -3482,8 +3482,8 @@ I have been using chatGPT to do this. I feed it a block of text between two subj
 
 Acceptance Criteria
 
-I am looking for an app that will automate this process. Ideally, I would like to feed in a url from an article on my site and have the app spit out a 4-6 bullet point summary of the article. Behind the scenes, the app is cutting up the article into digesti...",MattClancy,38 minutes ago,https://replit.com/bounties/@MattClancy/create-a-custom-text?t=
-406,$55.00,due in 14 days,Automatic enemy generator for Kaboom.JS,"I'd like to make a game but simply don't have the time to create a ton of enemies that players can go up against.
+I am looking for an app that will automate this process. Ideally, I would like to feed in a url from an article on my site and have the app spit out a 4-6 bullet point summary of the article. Behind the scenes, the app is cutting up the article into digesti...",MattClancy,48 minutes ago,https://replit.com/bounties/@MattClancy/create-a-custom-text?t=
+406,$55.00,closed,Automatic enemy generator for Kaboom.JS,"I'd like to make a game but simply don't have the time to create a ton of enemies that players can go up against.
 
 I'd like a function that, when passed an RNG seed, color & type, can generate an enemy made out of a few customisable shapes & add-ons to be placed in the Kaboom.JS world.
 
@@ -3498,4 +3498,13 @@ Their shapes, sizes & colours should also be vastly unique.
 Acceptance Criteria
 Prior experience in making games & tools in Kaboom.JS
 Vanilla JavaScript only
-Every part of an enemy should be able to be customised or left up to the RNG seed.",codingMASTER398,16 minutes ago,https://replit.com/bounties/@codingMASTER398/automatic-enemy-gene?t=
+Every part of an enemy should be able to be customised or left up to the RNG seed.",codingMASTER398,26 minutes ago,https://replit.com/bounties/@codingMASTER398/automatic-enemy-gene?t=
+407,$180.00,due in 9 days,Mac Desktop App,"Macbook Desktop app that replaces the clock in the top right bar with
+
+Number of Hours Left in the Day, Number of Weeks Left in the Quarter, Number of Weeks Left in the Year
+
+Example:
+12 Hours (Today), 8 Weeks (Q1), 48 Weeks (2023)
+
+Acceptance Criteria
+See above",avlok,6 minutes ago,https://replit.com/bounties/@avlok/mac-desktop-app?t=
