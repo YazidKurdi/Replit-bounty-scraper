@@ -3525,7 +3525,7 @@ Be specific about what you want in the solution here.",HackerzCodingV2,7 hours a
 410,$27.00,due in 3 days,Improve bg animation,"Improve the bg animation to be staggered
 
 Acceptance Criteria
-Be specific about what you want in the solution here.",JimmyElphick1,4 hours ago,https://replit.com/bounties/@JimmyElphick1/improve-bg-animation?t=
+Be specific about what you want in the solution here.",JimmyElphick1,5 hours ago,https://replit.com/bounties/@JimmyElphick1/improve-bg-animation?t=
 411,$22.50,due in 3 days,Convert Java method to Javascript,"Convert the following two Java methods into Javascript.
 
     private static String signMessage(String secret, String data) {
@@ -3548,7 +3548,7 @@ Be specific about what you want in the solution here.",JimmyElphick1,4 hours ago
     }
 
 Acceptance Criteria
-Both implementations have to produce identical results for different inputs.  Secret input variable is u...",martin-nginio,3 hours ago,https://replit.com/bounties/@martin-nginio/convert-java-method?t=
+Both implementations have to produce identical results for different inputs.  Secret input variable is u...",martin-nginio,4 hours ago,https://replit.com/bounties/@martin-nginio/convert-java-method?t=
 412,$0.90,due in 13 days,Freebie (Make whatever you want),"Make whatever you want, as long as it does not violate the TOS.
 
 This is a freebie for cycles, and it will be awarded to the person who created the best program or game (wtv you make).",beliefs,2 hours ago,https://replit.com/bounties/@beliefs/freebie-make-whateve?t=
@@ -3559,8 +3559,11 @@ scrape and return data (historical & date based)  into a csv format
 upload that data into AWS s3
 loop onto the next URL in the excel until all rows finished
 Technical Details
-Need a scraper using snscrape that picks up a  URL(public facebook group) from a excel file and scrapes the data(user,text,url,img url and other post fields) in that public group --> store it into AWS s3 bucket",4nuj,53 minutes ago,https://replit.com/bounties/@4nuj/facebook-public-grou?t=
+Need a scraper using snscrape that picks up a  URL(public facebook group) from a excel file and scrapes the data(user,text,url,img url and other post fields) in that public group --> store it into AWS s3 bucket",4nuj,1 hour ago,https://replit.com/bounties/@4nuj/facebook-public-grou?t=
 414,$270.00,due in 3 days,Convert React to HTML,"Have a React app we need converted to HTML
 
 Acceptance Criteria
-Must be delivered in static HTML",hyperion335,32 minutes ago,https://replit.com/bounties/@hyperion335/convert-react-to-htm?t=
+Must be delivered in static HTML",hyperion335,54 minutes ago,https://replit.com/bounties/@hyperion335/convert-react-to-htm?t=
+415,$22.50,due in 13 days,Data Compilation Tool (publicly available information),"Looking to create a large and comprehensive data set from publicly available Education information. Majority of data is located on one government statistics site - challenge will be following external links and retrieving specific, publicly available email addresses reliably and at scale.
+
+Ideal final product will consist of a functional, accurate, interactive database that can be searched based on a variety of criteria by end user. Front End build for final product may be included but precise functionality as described above is the acceptance criteria for this product.",fauxform,14 minutes ago,https://replit.com/bounties/@fauxform/data-compilation-too?t=

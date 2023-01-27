@@ -4106,7 +4106,7 @@
         "title": "Improve bg animation",
         "description": "Improve the bg animation to be staggered\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "JimmyElphick1",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@JimmyElphick1/improve-bg-animation?t="
     },
     {
@@ -4116,7 +4116,7 @@
         "title": "Convert Java method to Javascript",
         "description": "Convert the following two Java methods into Javascript.\n\n    private static String signMessage(String secret, String data) {\n        byte[] key = Base64.getUrlDecoder().decode(secret);\n        byte[] signature = signMessage(key, \"HmacSHA256\", data);\n        return Base64.getEncoder().encodeToString(signature);\n    }\n\n    private static byte[] signMessage(byte[] key, String algorithm, String data) {\n        try {\n            byte[] signature;\n            Mac mac = Mac.getInstance(algorithm);\n            SecretKeySpec keSpec = new SecretKeySpec(key, algorithm);\n            mac.init(keSpec);\n            signature = mac.doFinal(data.getBytes());\n            return signature;\n        } catch (NoSuchAlgorithmException | InvalidKeyException e) {\n            throw new RuntimeException(\"Unable to signe the message: \" + e.getMessage());\n        }\n    }\n\nAcceptance Criteria\nBoth implementations have to produce identical results for different inputs.  Secret input variable is u...",
         "author": "martin-nginio",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@martin-nginio/convert-java-method?t="
     },
     {
@@ -4136,7 +4136,7 @@
         "title": "facebook public groups scraper using snscrape",
         "description": "Facebook public groups scraping\nAcceptance Criteria\nAbility to pickup facebook group URL from a particular column in excel file\nscrape and return data (historical & date based)  into a csv format\nupload that data into AWS s3\nloop onto the next URL in the excel until all rows finished\nTechnical Details\nNeed a scraper using snscrape that picks up a  URL(public facebook group) from a excel file and scrapes the data(user,text,url,img url and other post fields) in that public group --> store it into AWS s3 bucket",
         "author": "4nuj",
-        "posted_time": "53 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@4nuj/facebook-public-grou?t="
     },
     {
@@ -4146,7 +4146,17 @@
         "title": "Convert React to HTML",
         "description": "Have a React app we need converted to HTML\n\nAcceptance Criteria\nMust be delivered in static HTML",
         "author": "hyperion335",
-        "posted_time": "32 minutes ago",
+        "posted_time": "54 minutes ago",
         "link": "https://replit.com/bounties/@hyperion335/convert-react-to-htm?t="
+    },
+    {
+        "index": "415",
+        "price": "$22.50",
+        "due_days": "due in 13 days",
+        "title": "Data Compilation Tool (publicly available information)",
+        "description": "Looking to create a large and comprehensive data set from publicly available Education information. Majority of data is located on one government statistics site - challenge will be following external links and retrieving specific, publicly available email addresses reliably and at scale.\n\nIdeal final product will consist of a functional, accurate, interactive database that can be searched based on a variety of criteria by end user. Front End build for final product may be included but precise functionality as described above is the acceptance criteria for this product.",
+        "author": "fauxform",
+        "posted_time": "14 minutes ago",
+        "link": "https://replit.com/bounties/@fauxform/data-compilation-too?t="
     }
 ]
