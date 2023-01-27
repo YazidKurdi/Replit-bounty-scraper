@@ -3352,7 +3352,7 @@ Be specific about what you want in the solution here.
 Hot Reload on Flet tested and working without any error on Replit.",gcapedro,9 hours ago,https://replit.com/bounties/@gcapedro/flet-lib-pythonflutt?t=
 392,$13.50,due in 3 days,Ruby: transform SVG to image (png or jpeg),"Given an SVG file, transform it to an image using ruby. The image should be a png or jpeg",MatthiasRichard,8 hours ago,https://replit.com/bounties/@MatthiasRichard/ruby-transform-svg-t?t=
 393,$50.00,due in 3 days,Interactive Database Discovery Tool,"UX/UI - Connect SQL database to visual
-Control panel auto updates main frame by users chosen variables to manipulate",JackWeston3,6 hours ago,https://replit.com/bounties/@JackWeston3/interactive-database?t=
+Control panel auto updates main frame by users chosen variables to manipulate",JackWeston3,7 hours ago,https://replit.com/bounties/@JackWeston3/interactive-database?t=
 394,"$2,500.00",due in 26 days,Knowledge Management Chatbot,"Make a question answering chatbot that pulls results from a query from Snowflake and Wikipedia and using Langchain and Streamlit.
 
 This documentation is a starting point on how to build a question answering chatbot using Langchain.
@@ -3364,7 +3364,7 @@ Acceptance Criteria
 The chatbot should have a simple interface
 We will provide an API to a CRM dataset in Snowflake containing a list of 100 customers’ names, last transaction date, and last transaction size.
 The chatbot must be able to generate a proper response regarding data in either Wikipedia or Snowflake, including calculating averages and sums
-The app must be deployed on Streamlit",altcap,5 hours ago,https://replit.com/bounties/@altcap/knowledge-management?t=
+The app must be deployed on Streamlit",altcap,6 hours ago,https://replit.com/bounties/@altcap/knowledge-management?t=
 395,$45.00,closed,Extract Data using CoinGecko API,"Use the CoinGecko API to create a list of every Company on CoinGecko (https://www.coingecko.com/).
 
 Pull all of the following fields for each company:
@@ -3383,7 +3383,7 @@ Description
 
 The output should be a csv with all of this data.
 
-Let's use the repl chat for communication.",MarkErdmann,4 hours ago,https://replit.com/bounties/@MarkErdmann/extract-data-using-c?t=
+Let's use the repl chat for communication.",MarkErdmann,5 hours ago,https://replit.com/bounties/@MarkErdmann/extract-data-using-c?t=
 396,$90.00,due in 3 days,Auto-respond to tweets with AI,"Interesting people don't get enough interesting replies from AI
 
 Acceptance Criteria
@@ -3416,7 +3416,7 @@ Description
 
 The output should be a csv with all of this data.
 
-Let's use the repl chat for communication.",MarkErdmann,3 hours ago,https://replit.com/bounties/@MarkErdmann/extract-data-using-c-1?t=
+Let's use the repl chat for communication.",MarkErdmann,4 hours ago,https://replit.com/bounties/@MarkErdmann/extract-data-using-c-1?t=
 398,$36.00,due in 3 days,Public Company Events,"Every time a public company I follow adds an event to their calendar (earnings call, analyst/investor day, conference presentation), I would like it to automatically send myself a calendar invite in outlook.
 
 Acceptance Criteria
@@ -3427,8 +3427,8 @@ I should be able to add other people to get the calendar invite
 
 Needs to work on outlook
 
-Technical Details",NateMitchell1,3 hours ago,https://replit.com/bounties/@NateMitchell1/public-company-event?t=
-399,$45.00,due in 3 days,Need someone experienced and skilled in Java and Heroku to resolve an issue and write one script,"My project works locally but when I try to upload it to Heroku it gives me the following error: Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'app.email' in value ""${app.email}""
+Technical Details",NateMitchell1,4 hours ago,https://replit.com/bounties/@NateMitchell1/public-company-event?t=
+399,$45.00,due in 4 days,Need someone experienced and skilled in Java and Heroku to resolve an issue and write one script,"My project works locally but when I try to upload it to Heroku it gives me the following error: Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'app.email' in value ""${app.email}""
 
 Need help fixing the app issues and make it live on Heroku.
 
@@ -3437,7 +3437,7 @@ a. Reads a CSV file containing multiple rows of search prompts and uses each pro
 
 b. The script should then calculate the median and average price of the top 10 results pulled from the API.
 
-c. Then it should add the median and average prices to the original CSV file and generate a new CSV file f...",mdotbaig,3 hours ago,https://replit.com/bounties/@mdotbaig/need-someone-experie?t=
+c. Then it should add the median and average prices to the original CSV file and generate a new CSV file f...",mdotbaig,4 hours ago,https://replit.com/bounties/@mdotbaig/need-someone-experie?t=
 400,$180.00,due in 5 days,Improve PDF Generation In Python With Reportlab,"We have invoice pdf generation in python but we need this to produce invoices closer to our targeted design which is here. https://imgur.com/a/AVfCvtD
 
 Here is the file in which we do the invoice pdf generation that needs to be upgraded:
@@ -3449,7 +3449,7 @@ https://docs.reportlab.com/reportlab/userguide/ch1_intro/
 Acceptance Criteria
 Match the design of the example PDF including spacing, font sizes, and font type of Alliance. You can use something like WhatFont to further understand the font specifics for the pdf.
 
-To prove this, you should be able to navigate in the Lotus frontend to Customers tab -> click on a customer -> navigate to Invoices -> click download invoice pdf. Or you can use the invoice pdf API call here https://docs.uselotus.io/api-reference/invoices/get-invoice-pdf to test and show examples (note that once an invoice is generated it won't be regenerated, it wi...",MikaelNida,2 hours ago,https://replit.com/bounties/@MikaelNida/improve-pdf-generati?t=
+To prove this, you should be able to navigate in the Lotus frontend to Customers tab -> click on a customer -> navigate to Invoices -> click download invoice pdf. Or you can use the invoice pdf API call here https://docs.uselotus.io/api-reference/invoices/get-invoice-pdf to test and show examples (note that once an invoice is generated it won't be regenerated, it wi...",MikaelNida,3 hours ago,https://replit.com/bounties/@MikaelNida/improve-pdf-generati?t=
 401,$108.00,due in 9 days,Video Combiner,"I have a set of between 2-10 videos. These videos are of a lecture classroom from different angles. One of the videos has audio. I want a script I can run on a folder of .mp4 files. You should detect the filenames automatically, extract the audio from the one that has audio (we don't know in advance which one it is), and then generate one combined video. This combined video should smartly use heuristics to choose which video to show at that second. One good starting heuristic is that the video with the most movement in those 20 frames should be shown. We don't want it to switch every 20 frames, so if there's a lot of switching, we should also detect that and not switch as often.
 
 I am running MacOS, so it should work on a Mac.
@@ -3457,11 +3457,11 @@ I am running MacOS, so it should work on a Mac.
 Acceptance Criteria
 I will strongly prefer people who provide a clear outline of how they would build it (i.e. some of the tools or algorithms they'd use). I will also prefer people who have Githubs or resumes with past work.
 
-Technical Detai...",AJGupta,1 hour ago,https://replit.com/bounties/@AJGupta/video-combiner?t=
+Technical Detai...",AJGupta,2 hours ago,https://replit.com/bounties/@AJGupta/video-combiner?t=
 402,$198.00,due in 24 days,Timed Comments for Youtube,"Project Description
 Timed comments for YouTube (like the existing beta which doesn't seem likely to rollout soon). Basically, I want a way to embed YouTube videos and to show an auto-scrolling comments board beneath it, on my Jekyll site. There should be a way to
 1) Use the Youtube API to get the current second that the user is at in the video.
 2) Scrape all of the comments from that video and show them beneath the video. Prioritize timestamped comments, and show the ones closest to the current timestamp first.
 3) It should show each YouTube comment thread in a default-collapsed style, where only the highest rated comment is shown, and there are ways for me to add a comment either to any thread or to the top level. The UI can look like YouTube comments or SoundCloud comments.
 4) It should be possible for me to comment on any thread or post my own comment, and that comment should be posted to Youtube along with the current timestamp that I'm at.
-5) If someone likes or responds, should j...",AJGupta,1 hour ago,https://replit.com/bounties/@AJGupta/timed-comments-for-y?t=
+5) If someone likes or responds, should j...",AJGupta,2 hours ago,https://replit.com/bounties/@AJGupta/timed-comments-for-y?t=
