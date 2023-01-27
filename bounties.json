@@ -4066,7 +4066,7 @@
         "title": "Automatic enemy generator for Kaboom.JS",
         "description": "I'd like to make a game but simply don't have the time to create a ton of enemies that players can go up against.\n\nI'd like a function that, when passed an RNG seed, color & type, can generate an enemy made out of a few customisable shapes & add-ons to be placed in the Kaboom.JS world.\n\nThe enemies should be able to:\nInteract with other enemies, walls & other items in the map\nMove at a randomised pace\nHave some sort of a walking, running, attacking, etc. animation\nBe able to attack with a melee weapon, ranged weapon or magic\n\nTheir shapes, sizes & colours should also be vastly unique.\n\nAcceptance Criteria\nPrior experience in making games & tools in Kaboom.JS\nVanilla JavaScript only\nEvery part of an enemy should be able to be customised or left up to the RNG seed.",
         "author": "codingMASTER398",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@codingMASTER398/automatic-enemy-gene?t="
     },
     {
@@ -4106,7 +4106,7 @@
         "title": "Improve bg animation",
         "description": "Improve the bg animation to be staggered\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "JimmyElphick1",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@JimmyElphick1/improve-bg-animation?t="
     },
     {
@@ -4116,7 +4116,7 @@
         "title": "Convert Java method to Javascript",
         "description": "Convert the following two Java methods into Javascript.\n\n    private static String signMessage(String secret, String data) {\n        byte[] key = Base64.getUrlDecoder().decode(secret);\n        byte[] signature = signMessage(key, \"HmacSHA256\", data);\n        return Base64.getEncoder().encodeToString(signature);\n    }\n\n    private static byte[] signMessage(byte[] key, String algorithm, String data) {\n        try {\n            byte[] signature;\n            Mac mac = Mac.getInstance(algorithm);\n            SecretKeySpec keSpec = new SecretKeySpec(key, algorithm);\n            mac.init(keSpec);\n            signature = mac.doFinal(data.getBytes());\n            return signature;\n        } catch (NoSuchAlgorithmException | InvalidKeyException e) {\n            throw new RuntimeException(\"Unable to signe the message: \" + e.getMessage());\n        }\n    }\n\nAcceptance Criteria\nBoth implementations have to produce identical results for different inputs.  Secret input variable is u...",
         "author": "martin-nginio",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@martin-nginio/convert-java-method?t="
     },
     {
@@ -4126,7 +4126,7 @@
         "title": "Freebie (Make whatever you want)",
         "description": "Make whatever you want, as long as it does not violate the TOS.\n\nThis is a freebie for cycles, and it will be awarded to the person who created the best program or game (wtv you make).",
         "author": "beliefs",
-        "posted_time": "41 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@beliefs/freebie-make-whateve?t="
     },
     {
@@ -4136,7 +4136,17 @@
         "title": "facebook public groups scraper using snscrape",
         "description": "Facebook public groups scraping\nAcceptance Criteria\nAbility to pickup facebook group URL from a particular column in excel file\nscrape and return data (historical & date based)  into a csv format\nupload that data into AWS s3\nloop onto the next URL in the excel until all rows finished\nTechnical Details\nNeed a scraper using snscrape that picks up a  URL(public facebook group) from a excel file and scrapes the data(user,text,url,img url and other post fields) in that public group --> store it into AWS s3 bucket",
         "author": "4nuj",
-        "posted_time": "2 minutes ago",
+        "posted_time": "33 minutes ago",
         "link": "https://replit.com/bounties/@4nuj/facebook-public-grou?t="
+    },
+    {
+        "index": "414",
+        "price": "$270.00",
+        "due_days": "due in 3 days",
+        "title": "Convert React to HTML",
+        "description": "Have a React app we need converted to HTML\n\nAcceptance Criteria\nMust be delivered in static HTML",
+        "author": "hyperion335",
+        "posted_time": "13 minutes ago",
+        "link": "https://replit.com/bounties/@hyperion335/convert-react-to-htm?t="
     }
 ]

@@ -3498,7 +3498,7 @@ Their shapes, sizes & colours should also be vastly unique.
 Acceptance Criteria
 Prior experience in making games & tools in Kaboom.JS
 Vanilla JavaScript only
-Every part of an enemy should be able to be customised or left up to the RNG seed.",codingMASTER398,7 hours ago,https://replit.com/bounties/@codingMASTER398/automatic-enemy-gene?t=
+Every part of an enemy should be able to be customised or left up to the RNG seed.",codingMASTER398,8 hours ago,https://replit.com/bounties/@codingMASTER398/automatic-enemy-gene?t=
 407,$180.00,due in 8 days,Mac Desktop App,"Macbook Desktop app that replaces the clock in the top right bar with
 
 Number of Hours Left in the Day, Number of Weeks Left in the Quarter, Number of Weeks Left in the Year
@@ -3525,7 +3525,7 @@ Be specific about what you want in the solution here.",HackerzCodingV2,6 hours a
 410,$27.00,due in 3 days,Improve bg animation,"Improve the bg animation to be staggered
 
 Acceptance Criteria
-Be specific about what you want in the solution here.",JimmyElphick1,3 hours ago,https://replit.com/bounties/@JimmyElphick1/improve-bg-animation?t=
+Be specific about what you want in the solution here.",JimmyElphick1,4 hours ago,https://replit.com/bounties/@JimmyElphick1/improve-bg-animation?t=
 411,$22.50,due in 3 days,Convert Java method to Javascript,"Convert the following two Java methods into Javascript.
 
     private static String signMessage(String secret, String data) {
@@ -3548,10 +3548,10 @@ Be specific about what you want in the solution here.",JimmyElphick1,3 hours ago
     }
 
 Acceptance Criteria
-Both implementations have to produce identical results for different inputs.  Secret input variable is u...",martin-nginio,2 hours ago,https://replit.com/bounties/@martin-nginio/convert-java-method?t=
+Both implementations have to produce identical results for different inputs.  Secret input variable is u...",martin-nginio,3 hours ago,https://replit.com/bounties/@martin-nginio/convert-java-method?t=
 412,$0.90,due in 13 days,Freebie (Make whatever you want),"Make whatever you want, as long as it does not violate the TOS.
 
-This is a freebie for cycles, and it will be awarded to the person who created the best program or game (wtv you make).",beliefs,41 minutes ago,https://replit.com/bounties/@beliefs/freebie-make-whateve?t=
+This is a freebie for cycles, and it will be awarded to the person who created the best program or game (wtv you make).",beliefs,1 hour ago,https://replit.com/bounties/@beliefs/freebie-make-whateve?t=
 413,$90.00,due in 13 days,facebook public groups scraper using snscrape,"Facebook public groups scraping
 Acceptance Criteria
 Ability to pickup facebook group URL from a particular column in excel file
@@ -3559,4 +3559,8 @@ scrape and return data (historical & date based)  into a csv format
 upload that data into AWS s3
 loop onto the next URL in the excel until all rows finished
 Technical Details
-Need a scraper using snscrape that picks up a  URL(public facebook group) from a excel file and scrapes the data(user,text,url,img url and other post fields) in that public group --> store it into AWS s3 bucket",4nuj,2 minutes ago,https://replit.com/bounties/@4nuj/facebook-public-grou?t=
+Need a scraper using snscrape that picks up a  URL(public facebook group) from a excel file and scrapes the data(user,text,url,img url and other post fields) in that public group --> store it into AWS s3 bucket",4nuj,33 minutes ago,https://replit.com/bounties/@4nuj/facebook-public-grou?t=
+414,$270.00,due in 3 days,Convert React to HTML,"Have a React app we need converted to HTML
+
+Acceptance Criteria
+Must be delivered in static HTML",hyperion335,13 minutes ago,https://replit.com/bounties/@hyperion335/convert-react-to-htm?t=
