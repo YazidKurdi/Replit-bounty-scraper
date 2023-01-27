@@ -3507,7 +3507,7 @@ Example:
 12 Hours (Today), 8 Weeks (Q1), 48 Weeks (2023)
 
 Acceptance Criteria
-See above",avlok,7 hours ago,https://replit.com/bounties/@avlok/mac-desktop-app?t=
+See above",avlok,8 hours ago,https://replit.com/bounties/@avlok/mac-desktop-app?t=
 408,$36.00,due in 13 days,Kaboom.JS robot character creator,"I'd like a way for players to create a robot in my (not yet started but brainstorming) game.
 
 The robots need to have animations for things like walking (rolling), panic, looking around, shooting, etc. They should also be able to be customised with a colour, image & hair (for fun).
@@ -3517,11 +3517,11 @@ It should also come with a system where different builds of robots can be equipp
 Acceptance Criteria
 Know how to create Kaboom.js games & tools
 Preferably vanilla JS
-At least one prior bounty completed",codingMASTER398,7 hours ago,https://replit.com/bounties/@codingMASTER398/kaboomjs-robot-chara?t=
+At least one prior bounty completed",codingMASTER398,8 hours ago,https://replit.com/bounties/@codingMASTER398/kaboomjs-robot-chara?t=
 409,$9.00,closed,I want a color changing circle which will move in a clock wise motion,"I want to make a color changing circle type thing which will move in a clock wise motion
 
 Acceptance Criteria
-Be specific about what you want in the solution here.",HackerzCodingV2,6 hours ago,https://replit.com/bounties/@HackerzCodingV2/i-want-a-color-chang?t=
+Be specific about what you want in the solution here.",HackerzCodingV2,7 hours ago,https://replit.com/bounties/@HackerzCodingV2/i-want-a-color-chang?t=
 410,$27.00,due in 3 days,Improve bg animation,"Improve the bg animation to be staggered
 
 Acceptance Criteria
@@ -3551,7 +3551,7 @@ Acceptance Criteria
 Both implementations have to produce identical results for different inputs.  Secret input variable is u...",martin-nginio,3 hours ago,https://replit.com/bounties/@martin-nginio/convert-java-method?t=
 412,$0.90,due in 13 days,Freebie (Make whatever you want),"Make whatever you want, as long as it does not violate the TOS.
 
-This is a freebie for cycles, and it will be awarded to the person who created the best program or game (wtv you make).",beliefs,1 hour ago,https://replit.com/bounties/@beliefs/freebie-make-whateve?t=
+This is a freebie for cycles, and it will be awarded to the person who created the best program or game (wtv you make).",beliefs,2 hours ago,https://replit.com/bounties/@beliefs/freebie-make-whateve?t=
 413,$90.00,due in 13 days,facebook public groups scraper using snscrape,"Facebook public groups scraping
 Acceptance Criteria
 Ability to pickup facebook group URL from a particular column in excel file
@@ -3559,8 +3559,8 @@ scrape and return data (historical & date based)  into a csv format
 upload that data into AWS s3
 loop onto the next URL in the excel until all rows finished
 Technical Details
-Need a scraper using snscrape that picks up a  URL(public facebook group) from a excel file and scrapes the data(user,text,url,img url and other post fields) in that public group --> store it into AWS s3 bucket",4nuj,33 minutes ago,https://replit.com/bounties/@4nuj/facebook-public-grou?t=
+Need a scraper using snscrape that picks up a  URL(public facebook group) from a excel file and scrapes the data(user,text,url,img url and other post fields) in that public group --> store it into AWS s3 bucket",4nuj,53 minutes ago,https://replit.com/bounties/@4nuj/facebook-public-grou?t=
 414,$270.00,due in 3 days,Convert React to HTML,"Have a React app we need converted to HTML
 
 Acceptance Criteria
-Must be delivered in static HTML",hyperion335,13 minutes ago,https://replit.com/bounties/@hyperion335/convert-react-to-htm?t=
+Must be delivered in static HTML",hyperion335,32 minutes ago,https://replit.com/bounties/@hyperion335/convert-react-to-htm?t=
