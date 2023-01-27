@@ -4016,7 +4016,7 @@
         "title": "Video Combiner",
         "description": "I have a set of between 2-10 videos. These videos are of a lecture classroom from different angles. One of the videos has audio. I want a script I can run on a folder of .mp4 files. You should detect the filenames automatically, extract the audio from the one that has audio (we don't know in advance which one it is), and then generate one combined video. This combined video should smartly use heuristics to choose which video to show at that second. One good starting heuristic is that the video with the most movement in those 20 frames should be shown. We don't want it to switch every 20 frames, so if there's a lot of switching, we should also detect that and not switch as often.\n\nI am running MacOS, so it should work on a Mac.\n\nAcceptance Criteria\nI will strongly prefer people who provide a clear outline of how they would build it (i.e. some of the tools or algorithms they'd use). I will also prefer people who have Githubs or resumes with past work.\n\nTechnical Detai...",
         "author": "AJGupta",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/video-combiner?t="
     },
     {
@@ -4036,7 +4036,7 @@
         "title": "Semantic search for API docs",
         "description": "im looking for help building a semantic search engine for developer docs\nex:\nhttps://developer.salesforce.com/docs\nor\nhttps://www.twilio.com/docs\n\nreference: https://www.pinecone.io/ai-search-use-case/\nguide: https://docs.pinecone.io/docs/semantic-text-search",
         "author": "bs1234",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@bs1234/semantic-search-for?t="
     },
     {
@@ -4046,7 +4046,7 @@
         "title": "Discord Application Code",
         "description": "The current code that I have only allows for one \"application\". User selects button, and responds to bot in DMs, Bot then forwards answers to a new channel and embeds responses.\nAcceptance Criteria\nI need this bot (or a whole new line of code) that can accept requests for up to 4 or 5 different sets of questions/application. Preferred to use Replit DB still. We can DM and figure out exacts, but this should be a super simple edit in my coding (or we can just restart, idc)",
         "author": "joneb32",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@joneb32/discord-application-1?t="
     },
     {
@@ -4076,7 +4076,7 @@
         "title": "Mac Desktop App",
         "description": "Macbook Desktop app that replaces the clock in the top right bar with\n\nNumber of Hours Left in the Day, Number of Weeks Left in the Quarter, Number of Weeks Left in the Year\n\nExample:\n12 Hours (Today), 8 Weeks (Q1), 48 Weeks (2023)\n\nAcceptance Criteria\nSee above",
         "author": "avlok",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@avlok/mac-desktop-app?t="
     },
     {
@@ -4086,7 +4086,7 @@
         "title": "Kaboom.JS robot character creator",
         "description": "I'd like a way for players to create a robot in my (not yet started but brainstorming) game.\n\nThe robots need to have animations for things like walking (rolling), panic, looking around, shooting, etc. They should also be able to be customised with a colour, image & hair (for fun).\n\nIt should also come with a system where different builds of robots can be equipped with weapons such as guns, lasers, swords, and other miscellaneous tools. (I'll provide the sprites for them, but if you'd like to then I can invite you to work on it with me)\n\nAcceptance Criteria\nKnow how to create Kaboom.js games & tools\nPreferably vanilla JS\nAt least one prior bounty completed",
         "author": "codingMASTER398",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@codingMASTER398/kaboomjs-robot-chara?t="
     },
     {
@@ -4096,7 +4096,7 @@
         "title": "I want a color changing circle which will move in a clock wise motion",
         "description": "I want to make a color changing circle type thing which will move in a clock wise motion\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "HackerzCodingV2",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@HackerzCodingV2/i-want-a-color-chang?t="
     }
 ]
