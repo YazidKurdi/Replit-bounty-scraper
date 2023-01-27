@@ -4036,7 +4036,7 @@
         "title": "Semantic search for API docs",
         "description": "im looking for help building a semantic search engine for developer docs\nex:\nhttps://developer.salesforce.com/docs\nor\nhttps://www.twilio.com/docs\n\nreference: https://www.pinecone.io/ai-search-use-case/\nguide: https://docs.pinecone.io/docs/semantic-text-search",
         "author": "bs1234",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@bs1234/semantic-search-for?t="
     },
     {
@@ -4046,7 +4046,7 @@
         "title": "Discord Application Code",
         "description": "The current code that I have only allows for one \"application\". User selects button, and responds to bot in DMs, Bot then forwards answers to a new channel and embeds responses.\nAcceptance Criteria\nI need this bot (or a whole new line of code) that can accept requests for up to 4 or 5 different sets of questions/application. Preferred to use Replit DB still. We can DM and figure out exacts, but this should be a super simple edit in my coding (or we can just restart, idc)",
         "author": "joneb32",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@joneb32/discord-application-1?t="
     },
     {
@@ -4076,7 +4076,7 @@
         "title": "Mac Desktop App",
         "description": "Macbook Desktop app that replaces the clock in the top right bar with\n\nNumber of Hours Left in the Day, Number of Weeks Left in the Quarter, Number of Weeks Left in the Year\n\nExample:\n12 Hours (Today), 8 Weeks (Q1), 48 Weeks (2023)\n\nAcceptance Criteria\nSee above",
         "author": "avlok",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@avlok/mac-desktop-app?t="
     },
     {
@@ -4086,7 +4086,7 @@
         "title": "Kaboom.JS robot character creator",
         "description": "I'd like a way for players to create a robot in my (not yet started but brainstorming) game.\n\nThe robots need to have animations for things like walking (rolling), panic, looking around, shooting, etc. They should also be able to be customised with a colour, image & hair (for fun).\n\nIt should also come with a system where different builds of robots can be equipped with weapons such as guns, lasers, swords, and other miscellaneous tools. (I'll provide the sprites for them, but if you'd like to then I can invite you to work on it with me)\n\nAcceptance Criteria\nKnow how to create Kaboom.js games & tools\nPreferably vanilla JS\nAt least one prior bounty completed",
         "author": "codingMASTER398",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@codingMASTER398/kaboomjs-robot-chara?t="
     },
     {
@@ -4096,7 +4096,7 @@
         "title": "I want a color changing circle which will move in a clock wise motion",
         "description": "I want to make a color changing circle type thing which will move in a clock wise motion\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "HackerzCodingV2",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@HackerzCodingV2/i-want-a-color-chang?t="
     },
     {
@@ -4116,7 +4116,7 @@
         "title": "Convert Java method to Javascript",
         "description": "Convert the following two Java methods into Javascript.\n\n    private static String signMessage(String secret, String data) {\n        byte[] key = Base64.getUrlDecoder().decode(secret);\n        byte[] signature = signMessage(key, \"HmacSHA256\", data);\n        return Base64.getEncoder().encodeToString(signature);\n    }\n\n    private static byte[] signMessage(byte[] key, String algorithm, String data) {\n        try {\n            byte[] signature;\n            Mac mac = Mac.getInstance(algorithm);\n            SecretKeySpec keSpec = new SecretKeySpec(key, algorithm);\n            mac.init(keSpec);\n            signature = mac.doFinal(data.getBytes());\n            return signature;\n        } catch (NoSuchAlgorithmException | InvalidKeyException e) {\n            throw new RuntimeException(\"Unable to signe the message: \" + e.getMessage());\n        }\n    }\n\nAcceptance Criteria\nBoth implementations have to produce identical results for different inputs.  Secret input variable is u...",
         "author": "martin-nginio",
-        "posted_time": "58 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@martin-nginio/convert-java-method?t="
     }
 ]
