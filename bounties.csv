@@ -3464,7 +3464,7 @@ Timed comments for YouTube (like the existing beta which doesn't seem likely to 
 2) Scrape all of the comments from that video and show them beneath the video. Prioritize timestamped comments, and show the ones closest to the current timestamp first.
 3) It should show each YouTube comment thread in a default-collapsed style, where only the highest rated comment is shown, and there are ways for me to add a comment either to any thread or to the top level. The UI can look like YouTube comments or SoundCloud comments.
 4) It should be possible for me to comment on any thread or post my own comment, and that comment should be posted to Youtube along with the current timestamp that I'm at.
-5) If someone likes or responds, should j...",AJGupta,7 hours ago,https://replit.com/bounties/@AJGupta/timed-comments-for-y?t=
+5) If someone likes or responds, should j...",AJGupta,8 hours ago,https://replit.com/bounties/@AJGupta/timed-comments-for-y?t=
 403,$270.00,due in 15 days,Semantic search for API docs,"im looking for help building a semantic search engine for developer docs
 ex:
 https://developer.salesforce.com/docs
@@ -3482,7 +3482,7 @@ I have been using chatGPT to do this. I feed it a block of text between two subj
 
 Acceptance Criteria
 
-I am looking for an app that will automate this process. Ideally, I would like to feed in a url from an article on my site and have the app spit out a 4-6 bullet point summary of the article. Behind the scenes, the app is cutting up the article into digesti...",MattClancy,1 hour ago,https://replit.com/bounties/@MattClancy/create-a-custom-text?t=
+I am looking for an app that will automate this process. Ideally, I would like to feed in a url from an article on my site and have the app spit out a 4-6 bullet point summary of the article. Behind the scenes, the app is cutting up the article into digesti...",MattClancy,2 hours ago,https://replit.com/bounties/@MattClancy/create-a-custom-text?t=
 406,$55.00,closed,Automatic enemy generator for Kaboom.JS,"I'd like to make a game but simply don't have the time to create a ton of enemies that players can go up against.
 
 I'd like a function that, when passed an RNG seed, color & type, can generate an enemy made out of a few customisable shapes & add-ons to be placed in the Kaboom.JS world.
@@ -3507,7 +3507,7 @@ Example:
 12 Hours (Today), 8 Weeks (Q1), 48 Weeks (2023)
 
 Acceptance Criteria
-See above",avlok,44 minutes ago,https://replit.com/bounties/@avlok/mac-desktop-app?t=
+See above",avlok,1 hour ago,https://replit.com/bounties/@avlok/mac-desktop-app?t=
 408,$36.00,due in 14 days,Kaboom.JS robot character creator,"I'd like a way for players to create a robot in my (not yet started but brainstorming) game.
 
 The robots need to have animations for things like walking (rolling), panic, looking around, shooting, etc. They should also be able to be customised with a colour, image & hair (for fun).
@@ -3517,4 +3517,8 @@ It should also come with a system where different builds of robots can be equipp
 Acceptance Criteria
 Know how to create Kaboom.js games & tools
 Preferably vanilla JS
-At least one prior bounty completed",codingMASTER398,37 minutes ago,https://replit.com/bounties/@codingMASTER398/kaboomjs-robot-chara?t=
+At least one prior bounty completed",codingMASTER398,58 minutes ago,https://replit.com/bounties/@codingMASTER398/kaboomjs-robot-chara?t=
+409,$9.00,closed,I want a color changing circle which will move in a clock wise motion,"I want to make a color changing circle type thing which will move in a clock wise motion
+
+Acceptance Criteria
+Be specific about what you want in the solution here.",HackerzCodingV2,7 minutes ago,https://replit.com/bounties/@HackerzCodingV2/i-want-a-color-chang?t=
