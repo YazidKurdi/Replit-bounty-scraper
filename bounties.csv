@@ -3457,7 +3457,7 @@ I am running MacOS, so it should work on a Mac.
 Acceptance Criteria
 I will strongly prefer people who provide a clear outline of how they would build it (i.e. some of the tools or algorithms they'd use). I will also prefer people who have Githubs or resumes with past work.
 
-Technical Detai...",AJGupta,5 hours ago,https://replit.com/bounties/@AJGupta/video-combiner?t=
+Technical Detai...",AJGupta,6 hours ago,https://replit.com/bounties/@AJGupta/video-combiner?t=
 402,$198.00,due in 24 days,Timed Comments for Youtube,"Project Description
 Timed comments for YouTube (like the existing beta which doesn't seem likely to rollout soon). Basically, I want a way to embed YouTube videos and to show an auto-scrolling comments board beneath it, on my Jekyll site. There should be a way to
 1) Use the Youtube API to get the current second that the user is at in the video.
@@ -3472,7 +3472,7 @@ or
 https://www.twilio.com/docs
 
 reference: https://www.pinecone.io/ai-search-use-case/
-guide: https://docs.pinecone.io/docs/semantic-text-search",bs1234,1 hour ago,https://replit.com/bounties/@bs1234/semantic-search-for?t=
+guide: https://docs.pinecone.io/docs/semantic-text-search",bs1234,2 hours ago,https://replit.com/bounties/@bs1234/semantic-search-for?t=
 404,$9.00,due in 4 days,Discord Application Code,"The current code that I have only allows for one ""application"". User selects button, and responds to bot in DMs, Bot then forwards answers to a new channel and embeds responses.
 Acceptance Criteria
-I need this bot (or a whole new line of code) that can accept requests for up to 4 or 5 different sets of questions/application. Preferred to use Replit DB still. We can DM and figure out exacts, but this should be a super simple edit in my coding (or we can just restart, idc)",joneb32,1 hour ago,https://replit.com/bounties/@joneb32/discord-application-1?t=
+I need this bot (or a whole new line of code) that can accept requests for up to 4 or 5 different sets of questions/application. Preferred to use Replit DB still. We can DM and figure out exacts, but this should be a super simple edit in my coding (or we can just restart, idc)",joneb32,2 hours ago,https://replit.com/bounties/@joneb32/discord-application-1?t=
