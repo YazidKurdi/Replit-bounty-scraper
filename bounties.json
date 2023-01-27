@@ -4106,7 +4106,7 @@
         "title": "Improve bg animation",
         "description": "Improve the bg animation to be staggered\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "JimmyElphick1",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@JimmyElphick1/improve-bg-animation?t="
     },
     {
@@ -4116,13 +4116,13 @@
         "title": "Convert Java method to Javascript",
         "description": "Convert the following two Java methods into Javascript.\n\n    private static String signMessage(String secret, String data) {\n        byte[] key = Base64.getUrlDecoder().decode(secret);\n        byte[] signature = signMessage(key, \"HmacSHA256\", data);\n        return Base64.getEncoder().encodeToString(signature);\n    }\n\n    private static byte[] signMessage(byte[] key, String algorithm, String data) {\n        try {\n            byte[] signature;\n            Mac mac = Mac.getInstance(algorithm);\n            SecretKeySpec keSpec = new SecretKeySpec(key, algorithm);\n            mac.init(keSpec);\n            signature = mac.doFinal(data.getBytes());\n            return signature;\n        } catch (NoSuchAlgorithmException | InvalidKeyException e) {\n            throw new RuntimeException(\"Unable to signe the message: \" + e.getMessage());\n        }\n    }\n\nAcceptance Criteria\nBoth implementations have to produce identical results for different inputs.  Secret input variable is u...",
         "author": "martin-nginio",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@martin-nginio/convert-java-method?t="
     },
     {
         "index": "412",
         "price": "$0.90",
-        "due_days": "due in 13 days",
+        "due_days": "closed",
         "title": "Freebie (Make whatever you want)",
         "description": "Make whatever you want, as long as it does not violate the TOS.\n\nThis is a freebie for cycles, and it will be awarded to the person who created the best program or game (wtv you make).",
         "author": "beliefs",
