@@ -4066,7 +4066,7 @@
         "title": "Automatic enemy generator for Kaboom.JS",
         "description": "I'd like to make a game but simply don't have the time to create a ton of enemies that players can go up against.\n\nI'd like a function that, when passed an RNG seed, color & type, can generate an enemy made out of a few customisable shapes & add-ons to be placed in the Kaboom.JS world.\n\nThe enemies should be able to:\nInteract with other enemies, walls & other items in the map\nMove at a randomised pace\nHave some sort of a walking, running, attacking, etc. animation\nBe able to attack with a melee weapon, ranged weapon or magic\n\nTheir shapes, sizes & colours should also be vastly unique.\n\nAcceptance Criteria\nPrior experience in making games & tools in Kaboom.JS\nVanilla JavaScript only\nEvery part of an enemy should be able to be customised or left up to the RNG seed.",
         "author": "codingMASTER398",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@codingMASTER398/automatic-enemy-gene?t="
     },
     {
