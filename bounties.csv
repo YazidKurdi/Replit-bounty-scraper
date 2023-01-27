@@ -3457,7 +3457,7 @@ I am running MacOS, so it should work on a Mac.
 Acceptance Criteria
 I will strongly prefer people who provide a clear outline of how they would build it (i.e. some of the tools or algorithms they'd use). I will also prefer people who have Githubs or resumes with past work.
 
-Technical Detai...",AJGupta,10 hours ago,https://replit.com/bounties/@AJGupta/video-combiner?t=
+Technical Detai...",AJGupta,11 hours ago,https://replit.com/bounties/@AJGupta/video-combiner?t=
 402,$198.00,due in 24 days,Timed Comments for Youtube,"Project Description
 Timed comments for YouTube (like the existing beta which doesn't seem likely to rollout soon). Basically, I want a way to embed YouTube videos and to show an auto-scrolling comments board beneath it, on my Jekyll site. There should be a way to
 1) Use the Youtube API to get the current second that the user is at in the video.
@@ -3472,10 +3472,10 @@ or
 https://www.twilio.com/docs
 
 reference: https://www.pinecone.io/ai-search-use-case/
-guide: https://docs.pinecone.io/docs/semantic-text-search",bs1234,6 hours ago,https://replit.com/bounties/@bs1234/semantic-search-for?t=
+guide: https://docs.pinecone.io/docs/semantic-text-search",bs1234,7 hours ago,https://replit.com/bounties/@bs1234/semantic-search-for?t=
 404,$9.00,due in 4 days,Discord Application Code,"The current code that I have only allows for one ""application"". User selects button, and responds to bot in DMs, Bot then forwards answers to a new channel and embeds responses.
 Acceptance Criteria
-I need this bot (or a whole new line of code) that can accept requests for up to 4 or 5 different sets of questions/application. Preferred to use Replit DB still. We can DM and figure out exacts, but this should be a super simple edit in my coding (or we can just restart, idc)",joneb32,6 hours ago,https://replit.com/bounties/@joneb32/discord-application-1?t=
+I need this bot (or a whole new line of code) that can accept requests for up to 4 or 5 different sets of questions/application. Preferred to use Replit DB still. We can DM and figure out exacts, but this should be a super simple edit in my coding (or we can just restart, idc)",joneb32,7 hours ago,https://replit.com/bounties/@joneb32/discord-application-1?t=
 405,$225.00,due in 14 days,Create a custom text summarization app,"I write a popular website/substack that summarizes and synthesizes academic literature related to innovation. There are 50+ articles, each 2000-5000 words, and I write new articles every few weeks. I would like to provide short summaries of each of these articles and stick them on category specific index pages, to help readers navigate the site and decide if they should read an article or not.
 
 I have been using chatGPT to do this. I feed it a block of text between two subject headings and ask it to summarize each block. After I have fed it the entire article, block by block, I ask for a summary of ""everything we have been talking about."" This works pretty well, but it's too time consuming.
@@ -3507,7 +3507,7 @@ Example:
 12 Hours (Today), 8 Weeks (Q1), 48 Weeks (2023)
 
 Acceptance Criteria
-See above",avlok,3 hours ago,https://replit.com/bounties/@avlok/mac-desktop-app?t=
+See above",avlok,4 hours ago,https://replit.com/bounties/@avlok/mac-desktop-app?t=
 408,$36.00,due in 14 days,Kaboom.JS robot character creator,"I'd like a way for players to create a robot in my (not yet started but brainstorming) game.
 
 The robots need to have animations for things like walking (rolling), panic, looking around, shooting, etc. They should also be able to be customised with a colour, image & hair (for fun).
@@ -3517,12 +3517,12 @@ It should also come with a system where different builds of robots can be equipp
 Acceptance Criteria
 Know how to create Kaboom.js games & tools
 Preferably vanilla JS
-At least one prior bounty completed",codingMASTER398,3 hours ago,https://replit.com/bounties/@codingMASTER398/kaboomjs-robot-chara?t=
+At least one prior bounty completed",codingMASTER398,4 hours ago,https://replit.com/bounties/@codingMASTER398/kaboomjs-robot-chara?t=
 409,$9.00,closed,I want a color changing circle which will move in a clock wise motion,"I want to make a color changing circle type thing which will move in a clock wise motion
 
 Acceptance Criteria
-Be specific about what you want in the solution here.",HackerzCodingV2,2 hours ago,https://replit.com/bounties/@HackerzCodingV2/i-want-a-color-chang?t=
+Be specific about what you want in the solution here.",HackerzCodingV2,3 hours ago,https://replit.com/bounties/@HackerzCodingV2/i-want-a-color-chang?t=
 410,$27.00,due in 4 days,Improve bg animation,"Improve the bg animation to be staggered
 
 Acceptance Criteria
-Be specific about what you want in the solution here.",JimmyElphick1,2 minutes ago,https://replit.com/bounties/@JimmyElphick1/improve-bg-animation?t=
+Be specific about what you want in the solution here.",JimmyElphick1,17 minutes ago,https://replit.com/bounties/@JimmyElphick1/improve-bg-animation?t=
