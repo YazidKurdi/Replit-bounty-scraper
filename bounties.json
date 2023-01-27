@@ -4166,7 +4166,7 @@
         "title": "Website Mobile and Navigation fixes (Javascript)",
         "description": "Three minor problems with www.chrisrentsch.com\n      Text on root page isn't centered under profile photo in mobile mode (works fine in desktop mode)\n      If you navigate into \"projects\" or \"books\" and an image with a white background is displayed on the left, you can't see the back arrow in desktop mode (works fine in mobile mode)\n      If you navigate into \"projects\" or \"books\" in mobile mode, the subtitle formatting with slashes // // is all messed up. Look at what it looks like in Desktop mode and make it look like that.\n\nAcceptance Criteria\n     Submit 1 pull request PER FIX please.\n     Each pull request that fixes a problem = 1/3 of funds released.\nTechnical Details\n     See readme on GitHub, link below\nLink to Project\n     https://github.com/rentcp/website2022",
         "author": "rentcp",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@rentcp/website-mobile-and-n?t="
     },
     {
@@ -4196,7 +4196,7 @@
         "title": "React to HTML v2",
         "description": "Convert 2 React webapps to HTML\n\nAcceptance Criteria\nDeliver HTML zip files",
         "author": "hyperion335",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@hyperion335/react-to-html-v2?t="
     },
     {
@@ -4206,7 +4206,7 @@
         "title": "(Freebie) First Come First Serve",
         "description": "Make something cool, first come first serve\nFirst to apply with a good reply (telling me what they will make, past experiences, etc) will get it.\n\nNOTE:\n\"I make stuff\" \"i have done this before\" \"i can help you\" and alike applications will be disqualified.",
         "author": "EarthRulerr",
-        "posted_time": "57 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@EarthRulerr/freebie-first-come-f?t="
     },
     {
@@ -4216,7 +4216,7 @@
         "title": "Obsidian Publish Custom Config",
         "description": "Obsidian Publish site and want to implement custom CSS\n\nAcceptance Criteria\nCustom CSS package\n\nTechnical Details\n\nTimelines / Milestones",
         "author": "genehackmanfan4444",
-        "posted_time": "3 minutes ago",
+        "posted_time": "16 minutes ago",
         "link": "https://replit.com/bounties/@genehackmanfan4444/obsidian-publish-cus?t="
     },
     {
@@ -4226,7 +4226,7 @@
         "title": "React JS Website Sprint - 02",
         "description": "Overhaul and continuous improvement of ReactJS website - expansion of features and addition of new pages\n\nAcceptance Criteria\nDelivered Site\n\nTechnical Details\nTailwind CSS, Sanity IO, React, NextJS, Vercel\n\nTimelines / Milestones",
         "author": "genehackmanfan4444",
-        "posted_time": "17 seconds ago",
+        "posted_time": "13 minutes ago",
         "link": "https://replit.com/bounties/@genehackmanfan4444/react-js-website-spr?t="
     }
 ]
