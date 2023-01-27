@@ -3473,16 +3473,16 @@ https://www.twilio.com/docs
 
 reference: https://www.pinecone.io/ai-search-use-case/
 guide: https://docs.pinecone.io/docs/semantic-text-search",bs1234,9 hours ago,https://replit.com/bounties/@bs1234/semantic-search-for?t=
-404,$9.00,due in 4 days,Discord Application Code,"The current code that I have only allows for one ""application"". User selects button, and responds to bot in DMs, Bot then forwards answers to a new channel and embeds responses.
+404,$9.00,due in 3 days,Discord Application Code,"The current code that I have only allows for one ""application"". User selects button, and responds to bot in DMs, Bot then forwards answers to a new channel and embeds responses.
 Acceptance Criteria
-I need this bot (or a whole new line of code) that can accept requests for up to 4 or 5 different sets of questions/application. Preferred to use Replit DB still. We can DM and figure out exacts, but this should be a super simple edit in my coding (or we can just restart, idc)",joneb32,9 hours ago,https://replit.com/bounties/@joneb32/discord-application-1?t=
-405,$225.00,due in 14 days,Create a custom text summarization app,"I write a popular website/substack that summarizes and synthesizes academic literature related to innovation. There are 50+ articles, each 2000-5000 words, and I write new articles every few weeks. I would like to provide short summaries of each of these articles and stick them on category specific index pages, to help readers navigate the site and decide if they should read an article or not.
+I need this bot (or a whole new line of code) that can accept requests for up to 4 or 5 different sets of questions/application. Preferred to use Replit DB still. We can DM and figure out exacts, but this should be a super simple edit in my coding (or we can just restart, idc)",joneb32,10 hours ago,https://replit.com/bounties/@joneb32/discord-application-1?t=
+405,$225.00,due in 13 days,Create a custom text summarization app,"I write a popular website/substack that summarizes and synthesizes academic literature related to innovation. There are 50+ articles, each 2000-5000 words, and I write new articles every few weeks. I would like to provide short summaries of each of these articles and stick them on category specific index pages, to help readers navigate the site and decide if they should read an article or not.
 
 I have been using chatGPT to do this. I feed it a block of text between two subject headings and ask it to summarize each block. After I have fed it the entire article, block by block, I ask for a summary of ""everything we have been talking about."" This works pretty well, but it's too time consuming.
 
 Acceptance Criteria
 
-I am looking for an app that will automate this process. Ideally, I would like to feed in a url from an article on my site and have the app spit out a 4-6 bullet point summary of the article. Behind the scenes, the app is cutting up the article into digesti...",MattClancy,7 hours ago,https://replit.com/bounties/@MattClancy/create-a-custom-text?t=
+I am looking for an app that will automate this process. Ideally, I would like to feed in a url from an article on my site and have the app spit out a 4-6 bullet point summary of the article. Behind the scenes, the app is cutting up the article into digesti...",MattClancy,8 hours ago,https://replit.com/bounties/@MattClancy/create-a-custom-text?t=
 406,$55.00,closed,Automatic enemy generator for Kaboom.JS,"I'd like to make a game but simply don't have the time to create a ton of enemies that players can go up against.
 
 I'd like a function that, when passed an RNG seed, color & type, can generate an enemy made out of a few customisable shapes & add-ons to be placed in the Kaboom.JS world.
@@ -3499,7 +3499,7 @@ Acceptance Criteria
 Prior experience in making games & tools in Kaboom.JS
 Vanilla JavaScript only
 Every part of an enemy should be able to be customised or left up to the RNG seed.",codingMASTER398,7 hours ago,https://replit.com/bounties/@codingMASTER398/automatic-enemy-gene?t=
-407,$180.00,due in 9 days,Mac Desktop App,"Macbook Desktop app that replaces the clock in the top right bar with
+407,$180.00,due in 8 days,Mac Desktop App,"Macbook Desktop app that replaces the clock in the top right bar with
 
 Number of Hours Left in the Day, Number of Weeks Left in the Quarter, Number of Weeks Left in the Year
 
@@ -3507,8 +3507,8 @@ Example:
 12 Hours (Today), 8 Weeks (Q1), 48 Weeks (2023)
 
 Acceptance Criteria
-See above",avlok,6 hours ago,https://replit.com/bounties/@avlok/mac-desktop-app?t=
-408,$36.00,due in 14 days,Kaboom.JS robot character creator,"I'd like a way for players to create a robot in my (not yet started but brainstorming) game.
+See above",avlok,7 hours ago,https://replit.com/bounties/@avlok/mac-desktop-app?t=
+408,$36.00,due in 13 days,Kaboom.JS robot character creator,"I'd like a way for players to create a robot in my (not yet started but brainstorming) game.
 
 The robots need to have animations for things like walking (rolling), panic, looking around, shooting, etc. They should also be able to be customised with a colour, image & hair (for fun).
 
@@ -3517,16 +3517,16 @@ It should also come with a system where different builds of robots can be equipp
 Acceptance Criteria
 Know how to create Kaboom.js games & tools
 Preferably vanilla JS
-At least one prior bounty completed",codingMASTER398,6 hours ago,https://replit.com/bounties/@codingMASTER398/kaboomjs-robot-chara?t=
+At least one prior bounty completed",codingMASTER398,7 hours ago,https://replit.com/bounties/@codingMASTER398/kaboomjs-robot-chara?t=
 409,$9.00,closed,I want a color changing circle which will move in a clock wise motion,"I want to make a color changing circle type thing which will move in a clock wise motion
 
 Acceptance Criteria
-Be specific about what you want in the solution here.",HackerzCodingV2,5 hours ago,https://replit.com/bounties/@HackerzCodingV2/i-want-a-color-chang?t=
-410,$27.00,due in 4 days,Improve bg animation,"Improve the bg animation to be staggered
+Be specific about what you want in the solution here.",HackerzCodingV2,6 hours ago,https://replit.com/bounties/@HackerzCodingV2/i-want-a-color-chang?t=
+410,$27.00,due in 3 days,Improve bg animation,"Improve the bg animation to be staggered
 
 Acceptance Criteria
 Be specific about what you want in the solution here.",JimmyElphick1,3 hours ago,https://replit.com/bounties/@JimmyElphick1/improve-bg-animation?t=
-411,$22.50,due in 4 days,Convert Java method to Javascript,"Convert the following two Java methods into Javascript.
+411,$22.50,due in 3 days,Convert Java method to Javascript,"Convert the following two Java methods into Javascript.
 
     private static String signMessage(String secret, String data) {
         byte[] key = Base64.getUrlDecoder().decode(secret);
@@ -3549,6 +3549,14 @@ Be specific about what you want in the solution here.",JimmyElphick1,3 hours ago
 
 Acceptance Criteria
 Both implementations have to produce identical results for different inputs.  Secret input variable is u...",martin-nginio,2 hours ago,https://replit.com/bounties/@martin-nginio/convert-java-method?t=
-412,$0.90,due in 14 days,Freebie (Make whatever you want),"Make whatever you want, as long as it does not violate the TOS.
+412,$0.90,due in 13 days,Freebie (Make whatever you want),"Make whatever you want, as long as it does not violate the TOS.
 
-This is a freebie for cycles, and it will be awarded to the person who created the best program or game (wtv you make).",beliefs,18 minutes ago,https://replit.com/bounties/@beliefs/freebie-make-whateve?t=
+This is a freebie for cycles, and it will be awarded to the person who created the best program or game (wtv you make).",beliefs,41 minutes ago,https://replit.com/bounties/@beliefs/freebie-make-whateve?t=
+413,$90.00,due in 13 days,facebook public groups scraper using snscrape,"Facebook public groups scraping
+Acceptance Criteria
+Ability to pickup facebook group URL from a particular column in excel file
+scrape and return data (historical & date based)  into a csv format
+upload that data into AWS s3
+loop onto the next URL in the excel until all rows finished
+Technical Details
+Need a scraper using snscrape that picks up a  URL(public facebook group) from a excel file and scrapes the data(user,text,url,img url and other post fields) in that public group --> store it into AWS s3 bucket",4nuj,2 minutes ago,https://replit.com/bounties/@4nuj/facebook-public-grou?t=

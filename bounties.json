@@ -4042,21 +4042,21 @@
     {
         "index": "404",
         "price": "$9.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Discord Application Code",
         "description": "The current code that I have only allows for one \"application\". User selects button, and responds to bot in DMs, Bot then forwards answers to a new channel and embeds responses.\nAcceptance Criteria\nI need this bot (or a whole new line of code) that can accept requests for up to 4 or 5 different sets of questions/application. Preferred to use Replit DB still. We can DM and figure out exacts, but this should be a super simple edit in my coding (or we can just restart, idc)",
         "author": "joneb32",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@joneb32/discord-application-1?t="
     },
     {
         "index": "405",
         "price": "$225.00",
-        "due_days": "due in 14 days",
+        "due_days": "due in 13 days",
         "title": "Create a custom text summarization app",
         "description": "I write a popular website/substack that summarizes and synthesizes academic literature related to innovation. There are 50+ articles, each 2000-5000 words, and I write new articles every few weeks. I would like to provide short summaries of each of these articles and stick them on category specific index pages, to help readers navigate the site and decide if they should read an article or not.\n\nI have been using chatGPT to do this. I feed it a block of text between two subject headings and ask it to summarize each block. After I have fed it the entire article, block by block, I ask for a summary of \"everything we have been talking about.\" This works pretty well, but it's too time consuming.\n\nAcceptance Criteria\n\nI am looking for an app that will automate this process. Ideally, I would like to feed in a url from an article on my site and have the app spit out a 4-6 bullet point summary of the article. Behind the scenes, the app is cutting up the article into digesti...",
         "author": "MattClancy",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@MattClancy/create-a-custom-text?t="
     },
     {
@@ -4072,21 +4072,21 @@
     {
         "index": "407",
         "price": "$180.00",
-        "due_days": "due in 9 days",
+        "due_days": "due in 8 days",
         "title": "Mac Desktop App",
         "description": "Macbook Desktop app that replaces the clock in the top right bar with\n\nNumber of Hours Left in the Day, Number of Weeks Left in the Quarter, Number of Weeks Left in the Year\n\nExample:\n12 Hours (Today), 8 Weeks (Q1), 48 Weeks (2023)\n\nAcceptance Criteria\nSee above",
         "author": "avlok",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@avlok/mac-desktop-app?t="
     },
     {
         "index": "408",
         "price": "$36.00",
-        "due_days": "due in 14 days",
+        "due_days": "due in 13 days",
         "title": "Kaboom.JS robot character creator",
         "description": "I'd like a way for players to create a robot in my (not yet started but brainstorming) game.\n\nThe robots need to have animations for things like walking (rolling), panic, looking around, shooting, etc. They should also be able to be customised with a colour, image & hair (for fun).\n\nIt should also come with a system where different builds of robots can be equipped with weapons such as guns, lasers, swords, and other miscellaneous tools. (I'll provide the sprites for them, but if you'd like to then I can invite you to work on it with me)\n\nAcceptance Criteria\nKnow how to create Kaboom.js games & tools\nPreferably vanilla JS\nAt least one prior bounty completed",
         "author": "codingMASTER398",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@codingMASTER398/kaboomjs-robot-chara?t="
     },
     {
@@ -4096,13 +4096,13 @@
         "title": "I want a color changing circle which will move in a clock wise motion",
         "description": "I want to make a color changing circle type thing which will move in a clock wise motion\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "HackerzCodingV2",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@HackerzCodingV2/i-want-a-color-chang?t="
     },
     {
         "index": "410",
         "price": "$27.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Improve bg animation",
         "description": "Improve the bg animation to be staggered\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "JimmyElphick1",
@@ -4112,7 +4112,7 @@
     {
         "index": "411",
         "price": "$22.50",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Convert Java method to Javascript",
         "description": "Convert the following two Java methods into Javascript.\n\n    private static String signMessage(String secret, String data) {\n        byte[] key = Base64.getUrlDecoder().decode(secret);\n        byte[] signature = signMessage(key, \"HmacSHA256\", data);\n        return Base64.getEncoder().encodeToString(signature);\n    }\n\n    private static byte[] signMessage(byte[] key, String algorithm, String data) {\n        try {\n            byte[] signature;\n            Mac mac = Mac.getInstance(algorithm);\n            SecretKeySpec keSpec = new SecretKeySpec(key, algorithm);\n            mac.init(keSpec);\n            signature = mac.doFinal(data.getBytes());\n            return signature;\n        } catch (NoSuchAlgorithmException | InvalidKeyException e) {\n            throw new RuntimeException(\"Unable to signe the message: \" + e.getMessage());\n        }\n    }\n\nAcceptance Criteria\nBoth implementations have to produce identical results for different inputs.  Secret input variable is u...",
         "author": "martin-nginio",
@@ -4122,11 +4122,21 @@
     {
         "index": "412",
         "price": "$0.90",
-        "due_days": "due in 14 days",
+        "due_days": "due in 13 days",
         "title": "Freebie (Make whatever you want)",
         "description": "Make whatever you want, as long as it does not violate the TOS.\n\nThis is a freebie for cycles, and it will be awarded to the person who created the best program or game (wtv you make).",
         "author": "beliefs",
-        "posted_time": "18 minutes ago",
+        "posted_time": "41 minutes ago",
         "link": "https://replit.com/bounties/@beliefs/freebie-make-whateve?t="
+    },
+    {
+        "index": "413",
+        "price": "$90.00",
+        "due_days": "due in 13 days",
+        "title": "facebook public groups scraper using snscrape",
+        "description": "Facebook public groups scraping\nAcceptance Criteria\nAbility to pickup facebook group URL from a particular column in excel file\nscrape and return data (historical & date based)  into a csv format\nupload that data into AWS s3\nloop onto the next URL in the excel until all rows finished\nTechnical Details\nNeed a scraper using snscrape that picks up a  URL(public facebook group) from a excel file and scrapes the data(user,text,url,img url and other post fields) in that public group --> store it into AWS s3 bucket",
+        "author": "4nuj",
+        "posted_time": "2 minutes ago",
+        "link": "https://replit.com/bounties/@4nuj/facebook-public-grou?t="
     }
 ]
