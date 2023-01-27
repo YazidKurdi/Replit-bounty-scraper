@@ -4056,7 +4056,7 @@
         "title": "Create a custom text summarization app",
         "description": "I write a popular website/substack that summarizes and synthesizes academic literature related to innovation. There are 50+ articles, each 2000-5000 words, and I write new articles every few weeks. I would like to provide short summaries of each of these articles and stick them on category specific index pages, to help readers navigate the site and decide if they should read an article or not.\n\nI have been using chatGPT to do this. I feed it a block of text between two subject headings and ask it to summarize each block. After I have fed it the entire article, block by block, I ask for a summary of \"everything we have been talking about.\" This works pretty well, but it's too time consuming.\n\nAcceptance Criteria\n\nI am looking for an app that will automate this process. Ideally, I would like to feed in a url from an article on my site and have the app spit out a 4-6 bullet point summary of the article. Behind the scenes, the app is cutting up the article into digesti...",
         "author": "MattClancy",
-        "posted_time": "48 minutes ago",
+        "posted_time": "57 minutes ago",
         "link": "https://replit.com/bounties/@MattClancy/create-a-custom-text?t="
     },
     {
@@ -4066,7 +4066,7 @@
         "title": "Automatic enemy generator for Kaboom.JS",
         "description": "I'd like to make a game but simply don't have the time to create a ton of enemies that players can go up against.\n\nI'd like a function that, when passed an RNG seed, color & type, can generate an enemy made out of a few customisable shapes & add-ons to be placed in the Kaboom.JS world.\n\nThe enemies should be able to:\nInteract with other enemies, walls & other items in the map\nMove at a randomised pace\nHave some sort of a walking, running, attacking, etc. animation\nBe able to attack with a melee weapon, ranged weapon or magic\n\nTheir shapes, sizes & colours should also be vastly unique.\n\nAcceptance Criteria\nPrior experience in making games & tools in Kaboom.JS\nVanilla JavaScript only\nEvery part of an enemy should be able to be customised or left up to the RNG seed.",
         "author": "codingMASTER398",
-        "posted_time": "26 minutes ago",
+        "posted_time": "35 minutes ago",
         "link": "https://replit.com/bounties/@codingMASTER398/automatic-enemy-gene?t="
     },
     {
@@ -4076,7 +4076,17 @@
         "title": "Mac Desktop App",
         "description": "Macbook Desktop app that replaces the clock in the top right bar with\n\nNumber of Hours Left in the Day, Number of Weeks Left in the Quarter, Number of Weeks Left in the Year\n\nExample:\n12 Hours (Today), 8 Weeks (Q1), 48 Weeks (2023)\n\nAcceptance Criteria\nSee above",
         "author": "avlok",
-        "posted_time": "6 minutes ago",
+        "posted_time": "15 minutes ago",
         "link": "https://replit.com/bounties/@avlok/mac-desktop-app?t="
+    },
+    {
+        "index": "408",
+        "price": "$36.00",
+        "due_days": "due in 14 days",
+        "title": "Kaboom.JS robot character creator",
+        "description": "I'd like a way for players to create a robot in my (not yet started but brainstorming) game.\n\nThe robots need to have animations for things like walking (rolling), panic, looking around, shooting, etc. They should also be able to be customised with a colour, image & hair (for fun).\n\nIt should also come with a system where different builds of robots can be equipped with weapons such as guns, lasers, swords, and other miscellaneous tools. (I'll provide the sprites for them, but if you'd like to then I can invite you to work on it with me)\n\nAcceptance Criteria\nKnow how to create Kaboom.js games & tools\nPreferably vanilla JS\nAt least one prior bounty completed",
+        "author": "codingMASTER398",
+        "posted_time": "8 minutes ago",
+        "link": "https://replit.com/bounties/@codingMASTER398/kaboomjs-robot-chara?t="
     }
 ]
