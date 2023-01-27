@@ -3525,7 +3525,7 @@ Be specific about what you want in the solution here.",HackerzCodingV2,5 hours a
 410,$27.00,due in 4 days,Improve bg animation,"Improve the bg animation to be staggered
 
 Acceptance Criteria
-Be specific about what you want in the solution here.",JimmyElphick1,2 hours ago,https://replit.com/bounties/@JimmyElphick1/improve-bg-animation?t=
+Be specific about what you want in the solution here.",JimmyElphick1,3 hours ago,https://replit.com/bounties/@JimmyElphick1/improve-bg-animation?t=
 411,$22.50,due in 4 days,Convert Java method to Javascript,"Convert the following two Java methods into Javascript.
 
     private static String signMessage(String secret, String data) {
@@ -3548,4 +3548,4 @@ Be specific about what you want in the solution here.",JimmyElphick1,2 hours ago
     }
 
 Acceptance Criteria
-Both implementations have to produce identical results for different inputs.  Secret input variable is u...",martin-nginio,1 hour ago,https://replit.com/bounties/@martin-nginio/convert-java-method?t=
+Both implementations have to produce identical results for different inputs.  Secret input variable is u...",martin-nginio,2 hours ago,https://replit.com/bounties/@martin-nginio/convert-java-method?t=
