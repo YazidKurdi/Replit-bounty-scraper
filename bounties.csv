@@ -3449,7 +3449,7 @@ https://docs.reportlab.com/reportlab/userguide/ch1_intro/
 Acceptance Criteria
 Match the design of the example PDF including spacing, font sizes, and font type of Alliance. You can use something like WhatFont to further understand the font specifics for the pdf.
 
-To prove this, you should be able to navigate in the Lotus frontend to Customers tab -> click on a customer -> navigate to Invoices -> click download invoice pdf. Or you can use the invoice pdf API call here https://docs.uselotus.io/api-reference/invoices/get-invoice-pdf to test and show examples (note that once an invoice is generated it won't be regenerated, it wi...",MikaelNida,7 hours ago,https://replit.com/bounties/@MikaelNida/improve-pdf-generati?t=
+To prove this, you should be able to navigate in the Lotus frontend to Customers tab -> click on a customer -> navigate to Invoices -> click download invoice pdf. Or you can use the invoice pdf API call here https://docs.uselotus.io/api-reference/invoices/get-invoice-pdf to test and show examples (note that once an invoice is generated it won't be regenerated, it wi...",MikaelNida,8 hours ago,https://replit.com/bounties/@MikaelNida/improve-pdf-generati?t=
 401,$108.00,due in 9 days,Video Combiner,"I have a set of between 2-10 videos. These videos are of a lecture classroom from different angles. One of the videos has audio. I want a script I can run on a folder of .mp4 files. You should detect the filenames automatically, extract the audio from the one that has audio (we don't know in advance which one it is), and then generate one combined video. This combined video should smartly use heuristics to choose which video to show at that second. One good starting heuristic is that the video with the most movement in those 20 frames should be shown. We don't want it to switch every 20 frames, so if there's a lot of switching, we should also detect that and not switch as often.
 
 I am running MacOS, so it should work on a Mac.
@@ -3482,7 +3482,7 @@ I have been using chatGPT to do this. I feed it a block of text between two subj
 
 Acceptance Criteria
 
-I am looking for an app that will automate this process. Ideally, I would like to feed in a url from an article on my site and have the app spit out a 4-6 bullet point summary of the article. Behind the scenes, the app is cutting up the article into digesti...",MattClancy,57 minutes ago,https://replit.com/bounties/@MattClancy/create-a-custom-text?t=
+I am looking for an app that will automate this process. Ideally, I would like to feed in a url from an article on my site and have the app spit out a 4-6 bullet point summary of the article. Behind the scenes, the app is cutting up the article into digesti...",MattClancy,1 hour ago,https://replit.com/bounties/@MattClancy/create-a-custom-text?t=
 406,$55.00,closed,Automatic enemy generator for Kaboom.JS,"I'd like to make a game but simply don't have the time to create a ton of enemies that players can go up against.
 
 I'd like a function that, when passed an RNG seed, color & type, can generate an enemy made out of a few customisable shapes & add-ons to be placed in the Kaboom.JS world.
@@ -3498,7 +3498,7 @@ Their shapes, sizes & colours should also be vastly unique.
 Acceptance Criteria
 Prior experience in making games & tools in Kaboom.JS
 Vanilla JavaScript only
-Every part of an enemy should be able to be customised or left up to the RNG seed.",codingMASTER398,35 minutes ago,https://replit.com/bounties/@codingMASTER398/automatic-enemy-gene?t=
+Every part of an enemy should be able to be customised or left up to the RNG seed.",codingMASTER398,45 minutes ago,https://replit.com/bounties/@codingMASTER398/automatic-enemy-gene?t=
 407,$180.00,due in 9 days,Mac Desktop App,"Macbook Desktop app that replaces the clock in the top right bar with
 
 Number of Hours Left in the Day, Number of Weeks Left in the Quarter, Number of Weeks Left in the Year
@@ -3507,7 +3507,7 @@ Example:
 12 Hours (Today), 8 Weeks (Q1), 48 Weeks (2023)
 
 Acceptance Criteria
-See above",avlok,15 minutes ago,https://replit.com/bounties/@avlok/mac-desktop-app?t=
+See above",avlok,25 minutes ago,https://replit.com/bounties/@avlok/mac-desktop-app?t=
 408,$36.00,due in 14 days,Kaboom.JS robot character creator,"I'd like a way for players to create a robot in my (not yet started but brainstorming) game.
 
 The robots need to have animations for things like walking (rolling), panic, looking around, shooting, etc. They should also be able to be customised with a colour, image & hair (for fun).
@@ -3517,4 +3517,4 @@ It should also come with a system where different builds of robots can be equipp
 Acceptance Criteria
 Know how to create Kaboom.js games & tools
 Preferably vanilla JS
-At least one prior bounty completed",codingMASTER398,8 minutes ago,https://replit.com/bounties/@codingMASTER398/kaboomjs-robot-chara?t=
+At least one prior bounty completed",codingMASTER398,18 minutes ago,https://replit.com/bounties/@codingMASTER398/kaboomjs-robot-chara?t=

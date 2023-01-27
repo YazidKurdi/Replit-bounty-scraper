@@ -4006,7 +4006,7 @@
         "title": "Improve PDF Generation In Python With Reportlab",
         "description": "We have invoice pdf generation in python but we need this to produce invoices closer to our targeted design which is here. https://imgur.com/a/AVfCvtD\n\nHere is the file in which we do the invoice pdf generation that needs to be upgraded:\nhttps://github.com/uselotus/lotus/blob/main/backend/meteringbilling/invoicepdf.py\n\nHere is the documentation.\nhttps://docs.reportlab.com/reportlab/userguide/ch1_intro/\n\nAcceptance Criteria\nMatch the design of the example PDF including spacing, font sizes, and font type of Alliance. You can use something like WhatFont to further understand the font specifics for the pdf.\n\nTo prove this, you should be able to navigate in the Lotus frontend to Customers tab -> click on a customer -> navigate to Invoices -> click download invoice pdf. Or you can use the invoice pdf API call here https://docs.uselotus.io/api-reference/invoices/get-invoice-pdf to test and show examples (note that once an invoice is generated it won't be regenerated, it wi...",
         "author": "MikaelNida",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@MikaelNida/improve-pdf-generati?t="
     },
     {
@@ -4056,7 +4056,7 @@
         "title": "Create a custom text summarization app",
         "description": "I write a popular website/substack that summarizes and synthesizes academic literature related to innovation. There are 50+ articles, each 2000-5000 words, and I write new articles every few weeks. I would like to provide short summaries of each of these articles and stick them on category specific index pages, to help readers navigate the site and decide if they should read an article or not.\n\nI have been using chatGPT to do this. I feed it a block of text between two subject headings and ask it to summarize each block. After I have fed it the entire article, block by block, I ask for a summary of \"everything we have been talking about.\" This works pretty well, but it's too time consuming.\n\nAcceptance Criteria\n\nI am looking for an app that will automate this process. Ideally, I would like to feed in a url from an article on my site and have the app spit out a 4-6 bullet point summary of the article. Behind the scenes, the app is cutting up the article into digesti...",
         "author": "MattClancy",
-        "posted_time": "57 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@MattClancy/create-a-custom-text?t="
     },
     {
@@ -4066,7 +4066,7 @@
         "title": "Automatic enemy generator for Kaboom.JS",
         "description": "I'd like to make a game but simply don't have the time to create a ton of enemies that players can go up against.\n\nI'd like a function that, when passed an RNG seed, color & type, can generate an enemy made out of a few customisable shapes & add-ons to be placed in the Kaboom.JS world.\n\nThe enemies should be able to:\nInteract with other enemies, walls & other items in the map\nMove at a randomised pace\nHave some sort of a walking, running, attacking, etc. animation\nBe able to attack with a melee weapon, ranged weapon or magic\n\nTheir shapes, sizes & colours should also be vastly unique.\n\nAcceptance Criteria\nPrior experience in making games & tools in Kaboom.JS\nVanilla JavaScript only\nEvery part of an enemy should be able to be customised or left up to the RNG seed.",
         "author": "codingMASTER398",
-        "posted_time": "35 minutes ago",
+        "posted_time": "45 minutes ago",
         "link": "https://replit.com/bounties/@codingMASTER398/automatic-enemy-gene?t="
     },
     {
@@ -4076,7 +4076,7 @@
         "title": "Mac Desktop App",
         "description": "Macbook Desktop app that replaces the clock in the top right bar with\n\nNumber of Hours Left in the Day, Number of Weeks Left in the Quarter, Number of Weeks Left in the Year\n\nExample:\n12 Hours (Today), 8 Weeks (Q1), 48 Weeks (2023)\n\nAcceptance Criteria\nSee above",
         "author": "avlok",
-        "posted_time": "15 minutes ago",
+        "posted_time": "25 minutes ago",
         "link": "https://replit.com/bounties/@avlok/mac-desktop-app?t="
     },
     {
@@ -4086,7 +4086,7 @@
         "title": "Kaboom.JS robot character creator",
         "description": "I'd like a way for players to create a robot in my (not yet started but brainstorming) game.\n\nThe robots need to have animations for things like walking (rolling), panic, looking around, shooting, etc. They should also be able to be customised with a colour, image & hair (for fun).\n\nIt should also come with a system where different builds of robots can be equipped with weapons such as guns, lasers, swords, and other miscellaneous tools. (I'll provide the sprites for them, but if you'd like to then I can invite you to work on it with me)\n\nAcceptance Criteria\nKnow how to create Kaboom.js games & tools\nPreferably vanilla JS\nAt least one prior bounty completed",
         "author": "codingMASTER398",
-        "posted_time": "8 minutes ago",
+        "posted_time": "18 minutes ago",
         "link": "https://replit.com/bounties/@codingMASTER398/kaboomjs-robot-chara?t="
     }
 ]
