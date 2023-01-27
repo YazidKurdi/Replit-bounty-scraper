@@ -3457,7 +3457,7 @@ I am running MacOS, so it should work on a Mac.
 Acceptance Criteria
 I will strongly prefer people who provide a clear outline of how they would build it (i.e. some of the tools or algorithms they'd use). I will also prefer people who have Githubs or resumes with past work.
 
-Technical Detai...",AJGupta,6 hours ago,https://replit.com/bounties/@AJGupta/video-combiner?t=
+Technical Detai...",AJGupta,7 hours ago,https://replit.com/bounties/@AJGupta/video-combiner?t=
 402,$198.00,due in 24 days,Timed Comments for Youtube,"Project Description
 Timed comments for YouTube (like the existing beta which doesn't seem likely to rollout soon). Basically, I want a way to embed YouTube videos and to show an auto-scrolling comments board beneath it, on my Jekyll site. There should be a way to
 1) Use the Youtube API to get the current second that the user is at in the video.
@@ -3472,14 +3472,30 @@ or
 https://www.twilio.com/docs
 
 reference: https://www.pinecone.io/ai-search-use-case/
-guide: https://docs.pinecone.io/docs/semantic-text-search",bs1234,2 hours ago,https://replit.com/bounties/@bs1234/semantic-search-for?t=
+guide: https://docs.pinecone.io/docs/semantic-text-search",bs1234,3 hours ago,https://replit.com/bounties/@bs1234/semantic-search-for?t=
 404,$9.00,due in 4 days,Discord Application Code,"The current code that I have only allows for one ""application"". User selects button, and responds to bot in DMs, Bot then forwards answers to a new channel and embeds responses.
 Acceptance Criteria
-I need this bot (or a whole new line of code) that can accept requests for up to 4 or 5 different sets of questions/application. Preferred to use Replit DB still. We can DM and figure out exacts, but this should be a super simple edit in my coding (or we can just restart, idc)",joneb32,2 hours ago,https://replit.com/bounties/@joneb32/discord-application-1?t=
+I need this bot (or a whole new line of code) that can accept requests for up to 4 or 5 different sets of questions/application. Preferred to use Replit DB still. We can DM and figure out exacts, but this should be a super simple edit in my coding (or we can just restart, idc)",joneb32,3 hours ago,https://replit.com/bounties/@joneb32/discord-application-1?t=
 405,$225.00,due in 14 days,Create a custom text summarization app,"I write a popular website/substack that summarizes and synthesizes academic literature related to innovation. There are 50+ articles, each 2000-5000 words, and I write new articles every few weeks. I would like to provide short summaries of each of these articles and stick them on category specific index pages, to help readers navigate the site and decide if they should read an article or not.
 
 I have been using chatGPT to do this. I feed it a block of text between two subject headings and ask it to summarize each block. After I have fed it the entire article, block by block, I ask for a summary of ""everything we have been talking about."" This works pretty well, but it's too time consuming.
 
 Acceptance Criteria
 
-I am looking for an app that will automate this process. Ideally, I would like to feed in a url from an article on my site and have the app spit out a 4-6 bullet point summary of the article. Behind the scenes, the app is cutting up the article into digesti...",MattClancy,7 minutes ago,https://replit.com/bounties/@MattClancy/create-a-custom-text?t=
+I am looking for an app that will automate this process. Ideally, I would like to feed in a url from an article on my site and have the app spit out a 4-6 bullet point summary of the article. Behind the scenes, the app is cutting up the article into digesti...",MattClancy,23 minutes ago,https://replit.com/bounties/@MattClancy/create-a-custom-text?t=
+406,$55.00,due in 14 days,Automatic enemy generator for Kaboom.JS,"I'd like to make a game but simply don't have the time to create a ton of enemies that players can go up against.
+
+I'd like a function that, when passed an RNG seed, color & type, can generate an enemy made out of a few customisable shapes & add-ons to be placed in the Kaboom.JS world.
+
+The enemies should be able to:
+Interact with other enemies, walls & other items in the map
+Move at a randomised pace
+Have some sort of a walking, running, attacking, etc. animation
+Be able to attack with a melee weapon, ranged weapon or magic
+
+Their shapes, sizes & colours should also be vastly unique.
+
+Acceptance Criteria
+Prior experience in making games & tools in Kaboom.JS
+Vanilla JavaScript only
+Every part of an enemy should be able to be customised or left up to the RNG seed.",codingMASTER398,1 minute ago,https://replit.com/bounties/@codingMASTER398/automatic-enemy-gene?t=

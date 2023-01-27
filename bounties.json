@@ -4016,7 +4016,7 @@
         "title": "Video Combiner",
         "description": "I have a set of between 2-10 videos. These videos are of a lecture classroom from different angles. One of the videos has audio. I want a script I can run on a folder of .mp4 files. You should detect the filenames automatically, extract the audio from the one that has audio (we don't know in advance which one it is), and then generate one combined video. This combined video should smartly use heuristics to choose which video to show at that second. One good starting heuristic is that the video with the most movement in those 20 frames should be shown. We don't want it to switch every 20 frames, so if there's a lot of switching, we should also detect that and not switch as often.\n\nI am running MacOS, so it should work on a Mac.\n\nAcceptance Criteria\nI will strongly prefer people who provide a clear outline of how they would build it (i.e. some of the tools or algorithms they'd use). I will also prefer people who have Githubs or resumes with past work.\n\nTechnical Detai...",
         "author": "AJGupta",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/video-combiner?t="
     },
     {
@@ -4036,7 +4036,7 @@
         "title": "Semantic search for API docs",
         "description": "im looking for help building a semantic search engine for developer docs\nex:\nhttps://developer.salesforce.com/docs\nor\nhttps://www.twilio.com/docs\n\nreference: https://www.pinecone.io/ai-search-use-case/\nguide: https://docs.pinecone.io/docs/semantic-text-search",
         "author": "bs1234",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@bs1234/semantic-search-for?t="
     },
     {
@@ -4046,7 +4046,7 @@
         "title": "Discord Application Code",
         "description": "The current code that I have only allows for one \"application\". User selects button, and responds to bot in DMs, Bot then forwards answers to a new channel and embeds responses.\nAcceptance Criteria\nI need this bot (or a whole new line of code) that can accept requests for up to 4 or 5 different sets of questions/application. Preferred to use Replit DB still. We can DM and figure out exacts, but this should be a super simple edit in my coding (or we can just restart, idc)",
         "author": "joneb32",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@joneb32/discord-application-1?t="
     },
     {
@@ -4056,7 +4056,17 @@
         "title": "Create a custom text summarization app",
         "description": "I write a popular website/substack that summarizes and synthesizes academic literature related to innovation. There are 50+ articles, each 2000-5000 words, and I write new articles every few weeks. I would like to provide short summaries of each of these articles and stick them on category specific index pages, to help readers navigate the site and decide if they should read an article or not.\n\nI have been using chatGPT to do this. I feed it a block of text between two subject headings and ask it to summarize each block. After I have fed it the entire article, block by block, I ask for a summary of \"everything we have been talking about.\" This works pretty well, but it's too time consuming.\n\nAcceptance Criteria\n\nI am looking for an app that will automate this process. Ideally, I would like to feed in a url from an article on my site and have the app spit out a 4-6 bullet point summary of the article. Behind the scenes, the app is cutting up the article into digesti...",
         "author": "MattClancy",
-        "posted_time": "7 minutes ago",
+        "posted_time": "23 minutes ago",
         "link": "https://replit.com/bounties/@MattClancy/create-a-custom-text?t="
+    },
+    {
+        "index": "406",
+        "price": "$55.00",
+        "due_days": "due in 14 days",
+        "title": "Automatic enemy generator for Kaboom.JS",
+        "description": "I'd like to make a game but simply don't have the time to create a ton of enemies that players can go up against.\n\nI'd like a function that, when passed an RNG seed, color & type, can generate an enemy made out of a few customisable shapes & add-ons to be placed in the Kaboom.JS world.\n\nThe enemies should be able to:\nInteract with other enemies, walls & other items in the map\nMove at a randomised pace\nHave some sort of a walking, running, attacking, etc. animation\nBe able to attack with a melee weapon, ranged weapon or magic\n\nTheir shapes, sizes & colours should also be vastly unique.\n\nAcceptance Criteria\nPrior experience in making games & tools in Kaboom.JS\nVanilla JavaScript only\nEvery part of an enemy should be able to be customised or left up to the RNG seed.",
+        "author": "codingMASTER398",
+        "posted_time": "1 minute ago",
+        "link": "https://replit.com/bounties/@codingMASTER398/automatic-enemy-gene?t="
     }
 ]
