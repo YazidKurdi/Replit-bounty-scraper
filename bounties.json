@@ -4066,7 +4066,7 @@
         "title": "Automatic enemy generator for Kaboom.JS",
         "description": "I'd like to make a game but simply don't have the time to create a ton of enemies that players can go up against.\n\nI'd like a function that, when passed an RNG seed, color & type, can generate an enemy made out of a few customisable shapes & add-ons to be placed in the Kaboom.JS world.\n\nThe enemies should be able to:\nInteract with other enemies, walls & other items in the map\nMove at a randomised pace\nHave some sort of a walking, running, attacking, etc. animation\nBe able to attack with a melee weapon, ranged weapon or magic\n\nTheir shapes, sizes & colours should also be vastly unique.\n\nAcceptance Criteria\nPrior experience in making games & tools in Kaboom.JS\nVanilla JavaScript only\nEvery part of an enemy should be able to be customised or left up to the RNG seed.",
         "author": "codingMASTER398",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@codingMASTER398/automatic-enemy-gene?t="
     },
     {
@@ -4116,7 +4116,7 @@
         "title": "Convert Java method to Javascript",
         "description": "Convert the following two Java methods into Javascript.\n\n    private static String signMessage(String secret, String data) {\n        byte[] key = Base64.getUrlDecoder().decode(secret);\n        byte[] signature = signMessage(key, \"HmacSHA256\", data);\n        return Base64.getEncoder().encodeToString(signature);\n    }\n\n    private static byte[] signMessage(byte[] key, String algorithm, String data) {\n        try {\n            byte[] signature;\n            Mac mac = Mac.getInstance(algorithm);\n            SecretKeySpec keSpec = new SecretKeySpec(key, algorithm);\n            mac.init(keSpec);\n            signature = mac.doFinal(data.getBytes());\n            return signature;\n        } catch (NoSuchAlgorithmException | InvalidKeyException e) {\n            throw new RuntimeException(\"Unable to signe the message: \" + e.getMessage());\n        }\n    }\n\nAcceptance Criteria\nBoth implementations have to produce identical results for different inputs.  Secret input variable is u...",
         "author": "martin-nginio",
-        "posted_time": "43 minutes ago",
+        "posted_time": "50 minutes ago",
         "link": "https://replit.com/bounties/@martin-nginio/convert-java-method?t="
     }
 ]
