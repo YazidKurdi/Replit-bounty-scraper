@@ -4286,7 +4286,7 @@
         "title": "Discord AI Bot That Talks to GPT-3",
         "description": "Create a bot (hosted on Replit) that takes in text from a Discord user, then replies with a well-formatted response using GPT-3's API\n\nAcceptance Criteria\nNeed to 'just work' out of the box, with clearly written comments so that future customization is easy, in particular, if we want to switch out the underlying model from something like GPT-3 to some other LLM provider",
         "author": "PacificaTools",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@PacificaTools/discord-ai-bot-that?t="
     },
     {
@@ -4306,7 +4306,7 @@
         "title": "Add mixpanel/GoogleAnalytics to chrome extension ",
         "description": "We've built a chrome extension that uses GPT to write emails for you. Steps:\n\nGo to gmail's draft window.\nType some context that acts as prompt.\nClick the extension button.\n\nThe response is fetched from the API and injected into Gmail's DOM.\nWe want to be able to track certain events, such as every time the extension button is clicked. Mixpanel or Google Analytics tracking needs to be added.\n\nAcceptance Criteria\nmust meet requirements.\n\nTechnical Details\nchrome extension v3.\n\nLink to Project",
         "author": "ShubhKathuria",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@ShubhKathuria/add-mixpanelgooglean?t="
     },
     {
@@ -4326,7 +4326,7 @@
         "title": "I need a node.js discord moderation bot",
         "description": "I need a discord.js moderation bot\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "HackerzCodingV2",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@HackerzCodingV2/i-need-a-nodejs-disc?t="
     },
     {
@@ -4336,7 +4336,7 @@
         "title": "I need a minecraft website with login system",
         "description": "ee sus kartik\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "HackerzCodingV2",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@HackerzCodingV2/i-need-a-minecraft-w?t="
     },
     {
@@ -4516,7 +4516,7 @@
         "title": "DefiLlama adapter adapter",
         "description": "Defillama has a lot of adapters in https://github.com/DefiLlama/DefiLlama-Adapters, for their website and api (defillama.com). I need a standalone wrapper, or modified defilamma sdk, that can run each adapter, get the data out, and send it as a protobuf message to kafka.\nProtobuf definition should be defined including these keys because all the adapters return data that fall under these labels.\n\n['tvl', 'staking', 'pool2', 'borrowed', 'treasury', 'offers', 'vesting'] along with timestamp.\n\nAcceptance Criteria\nA .proto definition\nEither a standalone wrapper or a modified defillama sdk that can send protobuf messages to a kafka broker endpoint. The adapters that connect directly to RPC must run. The adapters that depend on The Graph are optional but may work without any modification.\nReadme on how to run this\nsmall tests (to ensure cli args and options are working correctly)\n\nThe deadline and bounty can be adjusted. Open to offers.",
         "author": "alllie",
-        "posted_time": "48 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@alllie/defilamma-adapter-ad?t="
     },
     {
@@ -4541,6 +4541,16 @@
     },
     {
         "index": "454",
+        "price": "$9.00",
+        "due_days": "closed",
+        "title": "Steam Hours Boosting",
+        "description": "Create me a node js for steam Hours Boosting",
+        "author": "toshiro9117",
+        "posted_time": "Claimed by",
+        "link": ""
+    },
+    {
+        "index": "455",
         "price": "$9.00",
         "due_days": "closed",
         "title": "Steam Hours Boosting",
