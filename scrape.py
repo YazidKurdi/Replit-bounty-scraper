@@ -35,7 +35,10 @@ def scrape_bounties():
         description = div.find('span', {'class': 'css-o4584k'}).text
         author = div.find('a', {'class': 'css-4sa1ap'}).text
         posted_time = div.find_all('span', {'class': 'css-4zs3mz'})[1].text
-        link = f"https://replit.com{div.find('a', {'class': 'css-79kc9w'})['href']}"
+        try:
+            link = f"https://replit.com{div.find('a', {'class': 'css-79kc9w'})['href']}"
+        except:
+            link = ""
 
         # Create a new data frame with the extracted data
         new_row = pd.DataFrame(
