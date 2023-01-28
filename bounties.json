@@ -4306,7 +4306,7 @@
         "title": "Add mixpanel/GoogleAnalytics to chrome extension ",
         "description": "We've built a chrome extension that uses GPT to write emails for you. Steps:\n\nGo to gmail's draft window.\nType some context that acts as prompt.\nClick the extension button.\n\nThe response is fetched from the API and injected into Gmail's DOM.\nWe want to be able to track certain events, such as every time the extension button is clicked. Mixpanel or Google Analytics tracking needs to be added.\n\nAcceptance Criteria\nmust meet requirements.\n\nTechnical Details\nchrome extension v3.\n\nLink to Project",
         "author": "ShubhKathuria",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@ShubhKathuria/add-mixpanelgooglean?t="
     },
     {
@@ -4336,11 +4336,21 @@
         "title": "I need a minecraft website with login system",
         "description": "ee sus kartik\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "HackerzCodingV2",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@HackerzCodingV2/i-need-a-minecraft-w?t="
     },
     {
         "index": "434",
+        "price": "$9.00",
+        "due_days": "closed",
+        "title": "Steam Hours Boosting",
+        "description": "Create me a node js for steam Hours Boosting",
+        "author": "toshiro9117",
+        "posted_time": "Claimed by",
+        "link": ""
+    },
+    {
+        "index": "435",
         "price": "$9.00",
         "due_days": "closed",
         "title": "Steam Hours Boosting",
