@@ -4256,7 +4256,7 @@
         "title": "Bulk Article Creation using GPT-3 API",
         "description": "I would like a bulk GPT-3 text generator.\n\nAcceptance Criteria\nIt should allow me to put in my OpenAI API Key\nIt should take a CSV file as an input\nIt should output a CSV file\nIt should be able to take maximum allowed input\nOutput length should be based on a column in the input csv file, default to 1500 characters\n\nNice to Have\nIt would be great if it was written in ruby on rails and react and hosted on replit",
         "author": "AccountsAdmin",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@AccountsAdmin/bulk-article-creatio?t="
     },
     {
@@ -4266,7 +4266,7 @@
         "title": "Combine next-connect with Astro (Ray)",
         "description": "Problem\nHelp combine next-connect npm package with Astro for easier backend dev.\nThis is meant for ray, but I'll see if others can do it.",
         "author": "sonicx180",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@sonicx180/combine-next-connect?t="
     },
     {
@@ -4456,7 +4456,7 @@
         "title": "this is a test please ignore",
         "description": "this is a test please ignore",
         "author": "Bookie0",
-        "posted_time": "37 minutes ago",
+        "posted_time": "47 minutes ago",
         "link": "https://replit.com/bounties/@Bookie0/this-is-a-test-pleas?t="
     },
     {
@@ -4481,6 +4481,16 @@
     },
     {
         "index": "448",
+        "price": "$9.00",
+        "due_days": "closed",
+        "title": "Steam Hours Boosting",
+        "description": "Create me a node js for steam Hours Boosting",
+        "author": "toshiro9117",
+        "posted_time": "Claimed by",
+        "link": ""
+    },
+    {
+        "index": "449",
         "price": "$9.00",
         "due_days": "closed",
         "title": "Steam Hours Boosting",
