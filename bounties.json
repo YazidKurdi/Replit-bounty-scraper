@@ -4316,7 +4316,7 @@
         "title": "Create model that turns photos into line drawings on a live website. To use a dataset of original photos and corresponding line drawings",
         "description": "My friend is an artist and creates line drawings from photos. Example here: https://share.cleanshot.com/NyLyFxTN\n\n(I have lots more photos and corresponding drawings I can provide to feed a model)\n\nI'd like to have a feature on his website where a user can upload a photo and an example line drawing is returned (ideally PNG so I can put it over a background).\n\nI have no preference on which tools / AI models are used in the background and realise there will be a cost for each image returned.",
         "author": "AndrewShowman",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/create-model-that-tu?t="
     },
     {
@@ -4456,11 +4456,21 @@
         "title": "this is a test please ignore",
         "description": "this is a test please ignore",
         "author": "Bookie0",
-        "posted_time": "17 minutes ago",
+        "posted_time": "28 minutes ago",
         "link": "https://replit.com/bounties/@Bookie0/this-is-a-test-pleas?t="
     },
     {
         "index": "446",
+        "price": "$9.00",
+        "due_days": "closed",
+        "title": "Steam Hours Boosting",
+        "description": "Create me a node js for steam Hours Boosting",
+        "author": "toshiro9117",
+        "posted_time": "Claimed by",
+        "link": ""
+    },
+    {
+        "index": "447",
         "price": "$9.00",
         "due_days": "closed",
         "title": "Steam Hours Boosting",
