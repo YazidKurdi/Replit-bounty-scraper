@@ -4306,7 +4306,7 @@
         "title": "Add mixpanel/GoogleAnalytics to chrome extension ",
         "description": "We've built a chrome extension that uses GPT to write emails for you. Steps:\n\nGo to gmail's draft window.\nType some context that acts as prompt.\nClick the extension button.\n\nThe response is fetched from the API and injected into Gmail's DOM.\nWe want to be able to track certain events, such as every time the extension button is clicked. Mixpanel or Google Analytics tracking needs to be added.\n\nAcceptance Criteria\nmust meet requirements.\n\nTechnical Details\nchrome extension v3.\n\nLink to Project",
         "author": "ShubhKathuria",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@ShubhKathuria/add-mixpanelgooglean?t="
     },
     {
@@ -4326,7 +4326,7 @@
         "title": "I need a node.js discord moderation bot",
         "description": "I need a discord.js moderation bot\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "HackerzCodingV2",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@HackerzCodingV2/i-need-a-nodejs-disc?t="
     },
     {
@@ -4336,7 +4336,7 @@
         "title": "I need a minecraft website with login system",
         "description": "ee sus kartik\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "HackerzCodingV2",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@HackerzCodingV2/i-need-a-minecraft-w?t="
     },
     {
@@ -4676,7 +4676,7 @@
         "title": "System for creating documents to sign and keeping track of them",
         "description": "Please see this flow diagram of how I want this to work:\nhttps://share.cleanshot.com/TVchQJZL\n\nPlease note that the Mechanic API will be handled elsewhere and is being worked on separately. At some point in the next few days I'll be able to give details of this API , but for now you just need to know that an order number will be sent, and customer and order details will be returned.\n\nThis is the Signeasy API which I'd like to use:\nhttps://docs.signeasy.com/docs/getting-started\n\nI have a PDF which I'd like the relevant details filling in, before going off to the customer to be electronically signed. The PDF is the same in all instances, except for the fields which will be filled in from the data entered in Replit.\n\nPlease let me know if you've got any questions.",
         "author": "AndrewShowman",
-        "posted_time": "55 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@AndrewShowman/system-for-creating?t="
     },
     {
@@ -4686,7 +4686,7 @@
         "title": "Find click event inside a website, and modify it (devtools)",
         "description": "I am spending my meager supply of cycles on this. There is a browser extension game called dedalium and they have a shop where you can buy gear boxes, and recently they increased the prices of the boxes to a very large amount. As a little test, i want to see if anyone can find this click event and modify it so i can get the boxes free of charge (note this is not involving real world money in any way. this is not illegal, i am just seeing if anyone can manage this). Their code is very complicated and is going to take a lot of work to find this, so if you do then i will definitely give more cycles than the current payout. I would make sure you know what you are up against before you apply, so i would download the extension and make an account, then get acquainted with the code first.\nAcceptance Criteria\nI want some console js code that will give be a box free. Nobody has done this yet as far as i know ( i am on their discord ) so i would be very impressed if you manag...",
         "author": "ChaosSymmetry",
-        "posted_time": "43 minutes ago",
+        "posted_time": "58 minutes ago",
         "link": "https://replit.com/bounties/@ChaosSymmetry/find-click-event-ins?t="
     },
     {
@@ -4696,7 +4696,7 @@
         "title": "Play a video game for testing",
         "description": "Need a gamer to play my game swordbattle.io, and reach 5,000,000 XP.\n\nYou can check your XP in the game by creating an account, hovering over your name in the top right, and clicking on profile.\n\nNote: you must be a new player, if you've already played swordbattle you are ineligible for this bounty. Please state any gamer skills you might have.",
         "author": "CoderGautamYT",
-        "posted_time": "42 minutes ago",
+        "posted_time": "58 minutes ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/play-a-video-game-fo?t="
     }
 ]
