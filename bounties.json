@@ -4186,7 +4186,7 @@
         "title": "Python based scraper for a webpage ",
         "description": "I want to scrap data from one webpage and dump it in a CSV file.\nTarget Webpage - https://learn.microsoft.com/en-us/azure/purview/supported-classifications\nContent to be scrapped -\nGo to section - \"RegEx Classifications\". This section has around 195 entities and each entity has 5 different properties for it - Attribute Name, Format, Pattern, Checksum, Keywords.  All this information needs to be scraped into a CSV file.\nCSV should have following columns ( I am including the values of the first row as sample)\nAttribute_Name - \"ABA routing number\"\nFormat - \"Nine digits that can be in a formatted or unformatted pattern.\"\nPattern_text - \"\"\nPattern_list - \"two digits in the ranges 00-12, 21-32, 61-72, or 80\",\"two digits\",\"an optional hyphen\",\"four digits\",\"an optional hyphen\",\"a digit\"\nChecksum - \"Yes\"\nKeywordstest - \"Keywordaba_routing\"\nKeywords_list -\n\"aba number\",\"aba#\",\"aba\",\"abarouting#\",\"abaroutingnumber\", \"americanbankassociationrouting#\",\"americanbankassociationro...",
         "author": "netmobz",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@netmobz/python-based-scraper?t="
     },
     {
@@ -4196,7 +4196,7 @@
         "title": "React to HTML v2",
         "description": "Convert 2 React webapps to HTML\n\nAcceptance Criteria\nDeliver HTML zip files",
         "author": "hyperion335",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@hyperion335/react-to-html-v2?t="
     },
     {
@@ -4206,7 +4206,7 @@
         "title": "(Freebie) First Come First Serve",
         "description": "Make something cool, first come first serve\nFirst to apply with a good reply (telling me what they will make, past experiences, etc) will get it.\n\nNOTE:\n\"I make stuff\" \"i have done this before\" \"i can help you\" and alike applications will be disqualified.",
         "author": "EarthRulerr",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@EarthRulerr/freebie-first-come-f?t="
     },
     {
@@ -4216,7 +4216,7 @@
         "title": "Obsidian Publish Custom Config",
         "description": "Obsidian Publish site and want to implement custom CSS\n\nAcceptance Criteria\nCustom CSS package\n\nTechnical Details\n\nTimelines / Milestones",
         "author": "genehackmanfan4444",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@genehackmanfan4444/obsidian-publish-cus?t="
     },
     {
@@ -4226,7 +4226,7 @@
         "title": "React JS Website Sprint - 02",
         "description": "Overhaul and continuous improvement of ReactJS website - expansion of features and addition of new pages\n\nAcceptance Criteria\nDelivered Site\n\nTechnical Details\nTailwind CSS, Sanity IO, React, NextJS, Vercel\n\nTimelines / Milestones",
         "author": "genehackmanfan4444",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@genehackmanfan4444/react-js-website-spr?t="
     },
     {
@@ -4236,7 +4236,7 @@
         "title": "Continuing the airtable project",
         "description": "As discussed over email",
         "author": "AndrewShowman",
-        "posted_time": "1 hour ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/continuing-the-airta?t="
     },
     {
@@ -4246,7 +4246,7 @@
         "title": "Train a model to output answers in a specific style",
         "description": "I\u2019d like to load in lots of previous tickets from our customer service Helpdesk and score them based on how much I want a model to use each style of answer.\n\nI then want a web app where a customer service agent can enter an outline of what they want to say (eg. apologise for the delay. Offer a $10 gift card) and using ChatGPT (or other) it will output a well worded email.",
         "author": "AndrewShowman",
-        "posted_time": "45 minutes ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/train-a-model-to-out?t="
     },
     {
@@ -4256,7 +4256,7 @@
         "title": "Bulk Article Creation using GPT-3 API",
         "description": "I would like a bulk GPT-3 text generator.\n\nAcceptance Criteria\nIt should allow me to put in my OpenAI API Key\nIt should take a CSV file as an input\nIt should output a CSV file\nIt should be able to take maximum allowed input\nOutput length should be based on a column in the input csv file, default to 1500 characters\n\nNice to Have\nIt would be great if it was written in ruby on rails and react and hosted on replit",
         "author": "AccountsAdmin",
-        "posted_time": "28 minutes ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@AccountsAdmin/bulk-article-creatio?t="
     },
     {
@@ -4266,7 +4266,7 @@
         "title": "Combine next-connect with Astro (Ray)",
         "description": "Problem\nHelp combine next-connect npm package with Astro for easier backend dev.\nThis is meant for ray, but I'll see if others can do it.",
         "author": "sonicx180",
-        "posted_time": "28 minutes ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@sonicx180/combine-next-connect?t="
     },
     {
@@ -4276,7 +4276,7 @@
         "title": "Steam Hours Boosting",
         "description": "Create me a node js for steam Hours Boosting",
         "author": "sdjflsdn234f",
-        "posted_time": "13 minutes ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@sdjflsdn234f/steam-hours-boosting?t="
     }
 ]
