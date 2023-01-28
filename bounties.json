@@ -4656,7 +4656,7 @@
         "title": "Webapp that stores PDFs, PNGs from users, extracts text and uses GPT3 for entity extraction",
         "description": "This webapp wants to be a simple MVP. The idea is to use text extraction libraries from PDFs, PNGs and then use GPT3 to extract the entities (company name, tax id, etc). Each user will have a registry of all their invoices that have been uploaded.\nAcceptance Criteria\nUsers can log in, upload their invoices (PDFs, PNGs), text extraction + GPT3 happens automatically and generates an Excel/CSV file where they can easily track their expenses. For prompt engineering you'll receive my help.\nTechnical Details\nText from image/PDF extractions can be done preferably in Python but in any other language that works. OpenAI API can also be called using any language of preference. The frontend has to be minimal for an MVP.\nTimelines / Milestones\nExpected deadline after 7 days of acceptance. If successful, more bounties will be handed to the developer.",
         "author": "GerardGimenez1",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@GerardGimenez1/webapp-that-stores-p?t="
     },
     {
