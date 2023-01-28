@@ -4286,7 +4286,7 @@
         "title": "Discord AI Bot That Talks to GPT-3",
         "description": "Create a bot (hosted on Replit) that takes in text from a Discord user, then replies with a well-formatted response using GPT-3's API\n\nAcceptance Criteria\nNeed to 'just work' out of the box, with clearly written comments so that future customization is easy, in particular, if we want to switch out the underlying model from something like GPT-3 to some other LLM provider",
         "author": "PacificaTools",
-        "posted_time": "21 minutes ago",
+        "posted_time": "32 minutes ago",
         "link": "https://replit.com/bounties/@PacificaTools/discord-ai-bot-that?t="
     }
 ]
