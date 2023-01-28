@@ -3660,7 +3660,7 @@ This is meant for ray, but I'll see if others can do it.",sonicx180,18 hours ago
 428,$90.00,due in 3 days,Discord AI Bot That Talks to GPT-3,"Create a bot (hosted on Replit) that takes in text from a Discord user, then replies with a well-formatted response using GPT-3's API
 
 Acceptance Criteria
-Need to 'just work' out of the box, with clearly written comments so that future customization is easy, in particular, if we want to switch out the underlying model from something like GPT-3 to some other LLM provider",PacificaTools,16 hours ago,https://replit.com/bounties/@PacificaTools/discord-ai-bot-that?t=
+Need to 'just work' out of the box, with clearly written comments so that future customization is easy, in particular, if we want to switch out the underlying model from something like GPT-3 to some other LLM provider",PacificaTools,17 hours ago,https://replit.com/bounties/@PacificaTools/discord-ai-bot-that?t=
 429,$9.00,closed,Steam Hours Boosting,Create me a node js for steam Hours Boosting,toshiro9117,Claimed by,
 430,$10.00,due in 3 days,Add mixpanel/GoogleAnalytics to chrome extension ,"We've built a chrome extension that uses GPT to write emails for you. Steps:
 
@@ -3677,7 +3677,7 @@ must meet requirements.
 Technical Details
 chrome extension v3.
 
-Link to Project",ShubhKathuria,12 hours ago,https://replit.com/bounties/@ShubhKathuria/add-mixpanelgooglean?t=
+Link to Project",ShubhKathuria,13 hours ago,https://replit.com/bounties/@ShubhKathuria/add-mixpanelgooglean?t=
 431,$108.00,due in 3 days,Create model that turns photos into line drawings on a live website. To use a dataset of original photos and corresponding line drawings,"My friend is an artist and creates line drawings from photos. Example here: https://share.cleanshot.com/NyLyFxTN
 
 (I have lots more photos and corresponding drawings I can provide to feed a model)
@@ -3687,11 +3687,11 @@ I'd like to have a feature on his website where a user can upload a photo and an
 I have no preference on which tools / AI models are used in the background and realise there will be a cost for each image returned.",AndrewShowman,10 hours ago,https://replit.com/bounties/@AndrewShowman/create-model-that-tu?t=
 432,$4.50,due in 13 days,I need a node.js discord moderation bot,"I need a discord.js moderation bot
 Acceptance Criteria
-Be specific about what you want in the solution here.",HackerzCodingV2,8 hours ago,https://replit.com/bounties/@HackerzCodingV2/i-need-a-nodejs-disc?t=
+Be specific about what you want in the solution here.",HackerzCodingV2,9 hours ago,https://replit.com/bounties/@HackerzCodingV2/i-need-a-nodejs-disc?t=
 433,$20.00,closed,I need a minecraft website with login system,"ee sus kartik
 
 Acceptance Criteria
-Be specific about what you want in the solution here.",HackerzCodingV2,8 hours ago,https://replit.com/bounties/@HackerzCodingV2/i-need-a-minecraft-w?t=
+Be specific about what you want in the solution here.",HackerzCodingV2,9 hours ago,https://replit.com/bounties/@HackerzCodingV2/i-need-a-minecraft-w?t=
 434,$9.00,closed,Steam Hours Boosting,Create me a node js for steam Hours Boosting,toshiro9117,Claimed by,
 435,$9.00,closed,Steam Hours Boosting,Create me a node js for steam Hours Boosting,toshiro9117,Claimed by,
 436,$9.00,closed,Steam Hours Boosting,Create me a node js for steam Hours Boosting,toshiro9117,Claimed by,
@@ -3740,4 +3740,16 @@ Users can log in, upload their invoices (PDFs, PNGs), text extraction + GPT3 hap
 Technical Details
 Text from image/PDF extractions can be done preferably in Python but in any other language that works. OpenAI API can also be called using any language of preference. The frontend has to be minimal for an MVP.
 Timelines / Milestones
-Expected deadline after 7 days of acceptance. If successful, more bounties will be handed to the developer.",GerardGimenez1,6 minutes ago,https://replit.com/bounties/@GerardGimenez1/webapp-that-stores-p?t=
+Expected deadline after 7 days of acceptance. If successful, more bounties will be handed to the developer.",GerardGimenez1,20 minutes ago,https://replit.com/bounties/@GerardGimenez1/webapp-that-stores-p?t=
+466,$9.00,closed,Steam Hour Booster multi acc,Create me a node js for steam Hours Boosting [muti acc],toshiro9117,Claimed by,
+467,$99.00,due in 6 days,System for creating documents to sign and keeping track of them,"Please see this flow diagram of how I want this to work:
+https://share.cleanshot.com/TVchQJZL
+
+Please note that the Mechanic API will be handled elsewhere and is being worked on separately. At some point in the next few days I'll be able to give details of this API , but for now you just need to know that an order number will be sent, and customer and order details will be returned.
+
+This is the Signeasy API which I'd like to use:
+https://docs.signeasy.com/docs/getting-started
+
+I have a PDF which I'd like the relevant details filling in, before going off to the customer to be electronically signed. The PDF is the same in all instances, except for the fields which will be filled in from the data entered in Replit.
+
+Please let me know if you've got any questions.",AndrewShowman,9 minutes ago,https://replit.com/bounties/@AndrewShowman/system-for-creating?t=
