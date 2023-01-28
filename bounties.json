@@ -4452,11 +4452,21 @@
     {
         "index": "445",
         "price": "$0.90",
-        "due_days": "due in 13 days",
+        "due_days": "closed",
         "title": "this is a test please ignore",
         "description": "this is a test please ignore",
         "author": "Bookie0",
-        "posted_time": "2 minutes ago",
+        "posted_time": "17 minutes ago",
         "link": "https://replit.com/bounties/@Bookie0/this-is-a-test-pleas?t="
+    },
+    {
+        "index": "446",
+        "price": "$9.00",
+        "due_days": "closed",
+        "title": "Steam Hours Boosting",
+        "description": "Create me a node js for steam Hours Boosting",
+        "author": "toshiro9117",
+        "posted_time": "Claimed by",
+        "link": ""
     }
 ]
