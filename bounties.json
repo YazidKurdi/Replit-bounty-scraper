@@ -4246,7 +4246,7 @@
         "title": "Train a model to output answers in a specific style",
         "description": "I\u2019d like to load in lots of previous tickets from our customer service Helpdesk and score them based on how much I want a model to use each style of answer.\n\nI then want a web app where a customer service agent can enter an outline of what they want to say (eg. apologise for the delay. Offer a $10 gift card) and using ChatGPT (or other) it will output a well worded email.",
         "author": "AndrewShowman",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/train-a-model-to-out?t="
     },
     {
@@ -4316,7 +4316,7 @@
         "title": "Create model that turns photos into line drawings on a live website. To use a dataset of original photos and corresponding line drawings",
         "description": "My friend is an artist and creates line drawings from photos. Example here: https://share.cleanshot.com/NyLyFxTN\n\n(I have lots more photos and corresponding drawings I can provide to feed a model)\n\nI'd like to have a feature on his website where a user can upload a photo and an example line drawing is returned (ideally PNG so I can put it over a background).\n\nI have no preference on which tools / AI models are used in the background and realise there will be a cost for each image returned.",
         "author": "AndrewShowman",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/create-model-that-tu?t="
     },
     {
@@ -4351,6 +4351,16 @@
     },
     {
         "index": "435",
+        "price": "$9.00",
+        "due_days": "closed",
+        "title": "Steam Hours Boosting",
+        "description": "Create me a node js for steam Hours Boosting",
+        "author": "toshiro9117",
+        "posted_time": "Claimed by",
+        "link": ""
+    },
+    {
+        "index": "436",
         "price": "$9.00",
         "due_days": "closed",
         "title": "Steam Hours Boosting",
