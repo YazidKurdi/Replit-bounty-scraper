@@ -3733,3 +3733,11 @@ The deadline and bounty can be adjusted. Open to offers.",alllie,3 hours ago,htt
 461,$9.00,closed,Steam Hours Boosting,Create me a node js for steam Hours Boosting,toshiro9117,Claimed by,
 462,$9.00,closed,Steam Hours Boosting,Create me a node js for steam Hours Boosting,toshiro9117,Claimed by,
 463,$9.00,closed,Steam Hours Boosting,Create me a node js for steam Hours Boosting,toshiro9117,Claimed by,
+464,$9.00,closed,Steam Hours Boosting,Create me a node js for steam Hours Boosting,toshiro9117,Claimed by,
+465,$360.00,due in 13 days,"Webapp that stores PDFs, PNGs from users, extracts text and uses GPT3 for entity extraction","This webapp wants to be a simple MVP. The idea is to use text extraction libraries from PDFs, PNGs and then use GPT3 to extract the entities (company name, tax id, etc). Each user will have a registry of all their invoices that have been uploaded.
+Acceptance Criteria
+Users can log in, upload their invoices (PDFs, PNGs), text extraction + GPT3 happens automatically and generates an Excel/CSV file where they can easily track their expenses. For prompt engineering you'll receive my help.
+Technical Details
+Text from image/PDF extractions can be done preferably in Python but in any other language that works. OpenAI API can also be called using any language of preference. The frontend has to be minimal for an MVP.
+Timelines / Milestones
+Expected deadline after 7 days of acceptance. If successful, more bounties will be handed to the developer.",GerardGimenez1,6 minutes ago,https://replit.com/bounties/@GerardGimenez1/webapp-that-stores-p?t=
