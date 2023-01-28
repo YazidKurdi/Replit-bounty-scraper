@@ -4326,7 +4326,7 @@
         "title": "I need a node.js discord moderation bot",
         "description": "I need a discord.js moderation bot\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "HackerzCodingV2",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@HackerzCodingV2/i-need-a-nodejs-disc?t="
     },
     {
@@ -4336,7 +4336,7 @@
         "title": "I need a minecraft website with login system",
         "description": "ee sus kartik\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "HackerzCodingV2",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@HackerzCodingV2/i-need-a-minecraft-w?t="
     },
     {
@@ -4708,5 +4708,15 @@
         "author": "PaytonLee3",
         "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@PaytonLee3/simple-landing-page?t="
+    },
+    {
+        "index": "471",
+        "price": "$45.00",
+        "due_days": "due in 7 days",
+        "title": "Solidity Defi contract that swaps a crypto pair like BTC and ETH",
+        "description": "Write a smart contract that replicates https://docs.quickswap.exchange/reference/smart-contracts/router02/#swapexacttokensfortokens but with the path allowing two different Defi exchanges.\nAcceptance Criteria\n     I deploy the contract and it works.",
+        "author": "GamblingGlobeTrotter",
+        "posted_time": "4 minutes ago",
+        "link": "https://replit.com/bounties/@GamblingGlobeTrotter/solidity-defi-contra?t="
     }
 ]
