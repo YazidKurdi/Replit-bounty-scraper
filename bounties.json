@@ -4316,7 +4316,7 @@
         "title": "Create model that turns photos into line drawings on a live website. To use a dataset of original photos and corresponding line drawings",
         "description": "My friend is an artist and creates line drawings from photos. Example here: https://share.cleanshot.com/NyLyFxTN\n\n(I have lots more photos and corresponding drawings I can provide to feed a model)\n\nI'd like to have a feature on his website where a user can upload a photo and an example line drawing is returned (ideally PNG so I can put it over a background).\n\nI have no preference on which tools / AI models are used in the background and realise there will be a cost for each image returned.",
         "author": "AndrewShowman",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/create-model-that-tu?t="
     },
     {
@@ -4516,7 +4516,7 @@
         "title": "DefiLlama adapter adapter",
         "description": "Defillama has a lot of adapters in https://github.com/DefiLlama/DefiLlama-Adapters, for their website and api (defillama.com). I need a standalone wrapper, or modified defilamma sdk, that can run each adapter, get the data out, and send it as a protobuf message to kafka.\nProtobuf definition should be defined including these keys because all the adapters return data that fall under these labels.\n\n['tvl', 'staking', 'pool2', 'borrowed', 'treasury', 'offers', 'vesting'] along with timestamp.\n\nAcceptance Criteria\nA .proto definition\nEither a standalone wrapper or a modified defillama sdk that can send protobuf messages to a kafka broker endpoint. The adapters that connect directly to RPC must run. The adapters that depend on The Graph are optional but may work without any modification.\nReadme on how to run this\nsmall tests (to ensure cli args and options are working correctly)\n\nThe deadline and bounty can be adjusted. Open to offers.",
         "author": "alllie",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@alllie/defilamma-adapter-ad?t="
     },
     {
@@ -4611,6 +4611,16 @@
     },
     {
         "index": "461",
+        "price": "$9.00",
+        "due_days": "closed",
+        "title": "Steam Hours Boosting",
+        "description": "Create me a node js for steam Hours Boosting",
+        "author": "toshiro9117",
+        "posted_time": "Claimed by",
+        "link": ""
+    },
+    {
+        "index": "462",
         "price": "$9.00",
         "due_days": "closed",
         "title": "Steam Hours Boosting",
