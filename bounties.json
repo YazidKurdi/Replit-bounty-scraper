@@ -4286,7 +4286,7 @@
         "title": "Discord AI Bot That Talks to GPT-3",
         "description": "Create a bot (hosted on Replit) that takes in text from a Discord user, then replies with a well-formatted response using GPT-3's API\n\nAcceptance Criteria\nNeed to 'just work' out of the box, with clearly written comments so that future customization is easy, in particular, if we want to switch out the underlying model from something like GPT-3 to some other LLM provider",
         "author": "PacificaTools",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@PacificaTools/discord-ai-bot-that?t="
     },
     {
@@ -4306,7 +4306,7 @@
         "title": "Add mixpanel/GoogleAnalytics to chrome extension ",
         "description": "We've built a chrome extension that uses GPT to write emails for you. Steps:\n\nGo to gmail's draft window.\nType some context that acts as prompt.\nClick the extension button.\n\nThe response is fetched from the API and injected into Gmail's DOM.\nWe want to be able to track certain events, such as every time the extension button is clicked. Mixpanel or Google Analytics tracking needs to be added.\n\nAcceptance Criteria\nmust meet requirements.\n\nTechnical Details\nchrome extension v3.\n\nLink to Project",
         "author": "ShubhKathuria",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@ShubhKathuria/add-mixpanelgooglean?t="
     },
     {
@@ -4326,7 +4326,7 @@
         "title": "I need a node.js discord moderation bot",
         "description": "I need a discord.js moderation bot\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "HackerzCodingV2",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@HackerzCodingV2/i-need-a-nodejs-disc?t="
     },
     {
@@ -4336,7 +4336,7 @@
         "title": "I need a minecraft website with login system",
         "description": "ee sus kartik\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "HackerzCodingV2",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@HackerzCodingV2/i-need-a-minecraft-w?t="
     },
     {
@@ -4438,5 +4438,25 @@
         "author": "toshiro9117",
         "posted_time": "Claimed by",
         "link": ""
+    },
+    {
+        "index": "444",
+        "price": "$9.00",
+        "due_days": "closed",
+        "title": "Steam Hours Boosting",
+        "description": "Create me a node js for steam Hours Boosting",
+        "author": "toshiro9117",
+        "posted_time": "Claimed by",
+        "link": ""
+    },
+    {
+        "index": "445",
+        "price": "$0.90",
+        "due_days": "due in 13 days",
+        "title": "this is a test please ignore",
+        "description": "this is a test please ignore",
+        "author": "Bookie0",
+        "posted_time": "2 minutes ago",
+        "link": "https://replit.com/bounties/@Bookie0/this-is-a-test-pleas?t="
     }
 ]
