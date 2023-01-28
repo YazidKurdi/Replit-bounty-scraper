@@ -4706,7 +4706,7 @@
         "title": "Simple landing page, with complex background animation",
         "description": "Create a custom landing page with \"animated\" background, preferrably with CSS, and make sure it is mobile friendly.\n\nAcceptance Criteria\nBackground: criteria image\nSnake with text revolves around the screen\nThe \"rays\" spin slowly.\nI would prefer for animation to be achieved via CSS. Video or Gif is also possible, if you convince me that it is better done that way.\nMobile friendly\nButton links to external page.\n(optional) Preferrably use React or Vue.js",
         "author": "PaytonLee3",
-        "posted_time": "60 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@PaytonLee3/simple-landing-page?t="
     }
 ]
