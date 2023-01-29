@@ -3740,7 +3740,7 @@ Users can log in, upload their invoices (PDFs, PNGs), text extraction + GPT3 hap
 Technical Details
 Text from image/PDF extractions can be done preferably in Python but in any other language that works. OpenAI API can also be called using any language of preference. The frontend has to be minimal for an MVP.
 Timelines / Milestones
-Expected deadline after 7 days of acceptance. If successful, more bounties will be handed to the developer.",GerardGimenez1,16 hours ago,https://replit.com/bounties/@GerardGimenez1/webapp-that-stores-p?t=
+Expected deadline after 7 days of acceptance. If successful, more bounties will be handed to the developer.",GerardGimenez1,17 hours ago,https://replit.com/bounties/@GerardGimenez1/webapp-that-stores-p?t=
 466,$9.00,closed,Steam Hour Booster multi acc,Create me a node js for steam Hours Boosting [muti acc],toshiro9117,Claimed by,
 467,$99.00,due in 6 days,System for creating documents to sign and keeping track of them,"Please see this flow diagram of how I want this to work:
 https://share.cleanshot.com/TVchQJZL
@@ -3770,7 +3770,7 @@ The ""rays"" spin slowly.
 I would prefer for animation to be achieved via CSS. Video or Gif is also possible, if you convince me that it is better done that way.
 Mobile friendly
 Button links to external page.
-(optional) Preferrably use React or Vue.js",PaytonLee3,13 hours ago,https://replit.com/bounties/@PaytonLee3/simple-landing-page?t=
+(optional) Preferrably use React or Vue.js",PaytonLee3,14 hours ago,https://replit.com/bounties/@PaytonLee3/simple-landing-page?t=
 471,$45.00,due in 7 days,Solidity Defi contract that swaps a crypto pair like BTC and ETH,"Write a smart contract that replicates https://docs.quickswap.exchange/reference/smart-contracts/router02/#swapexacttokensfortokens but with the path allowing two different Defi exchanges.
 Acceptance Criteria
      I deploy the contract and it works.",GamblingGlobeTrotter,12 hours ago,https://replit.com/bounties/@GamblingGlobeTrotter/solidity-defi-contra?t=
@@ -3780,7 +3780,7 @@ Acceptance Criteria
 Must be implemented as a cron job that runs every 30 minutes (I will host it)
 Must keep the user logged in while running the cron job, and handle cases where the user is logged out
 Must have a way to alert the user if 2FA is required or if the user gets rate limited
-Must be able to deploy directly to AWS EC2 Amazon Linux instance",brwr,8 hours ago,https://replit.com/bounties/@brwr/facebook-keyword-fin?t=
+Must be able to deploy directly to AWS EC2 Amazon Linux instance",brwr,9 hours ago,https://replit.com/bounties/@brwr/facebook-keyword-fin?t=
 473,$108.00,due in 4 days,Pull data from CODAT and save in postgreSQL using SQLAlchemy models in Python,"Define all the sql alchemy models for the following CODAT objects: Accounts, Bills, Bill Credit Notes, Bill Payments, Customers, Direct Costs, Direct Incomes, Invoices, Payments, Journal Entries, Suppliers.
 
 Codat docs: https://docs.codat.io/docs/datamodel-accounting
