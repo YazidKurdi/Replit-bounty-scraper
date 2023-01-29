@@ -3787,7 +3787,7 @@ Codat docs: https://docs.codat.io/docs/datamodel-accounting
 
 Make sure to define the models so they are relational. Many of these objects reference each other.
 
-Then write the code to actually pull these models and save them in a postgreSQL database using SQLalchemy in Python. Make sure that when you query you leverage the modified date to only query rows that are new or have changed and if it's rows that have changed dont add the data to the table, update the existing row",financeguy,4 hours ago,https://replit.com/bounties/@financeguy/pull-data-from-codat?t=
+Then write the code to actually pull these models and save them in a postgreSQL database using SQLalchemy in Python. Make sure that when you query you leverage the modified date to only query rows that are new or have changed and if it's rows that have changed dont add the data to the table, update the existing row",financeguy,5 hours ago,https://replit.com/bounties/@financeguy/pull-data-from-codat?t=
 474,$360.00,due in 13 days,Swift + Python Longterm memory AI integration,"Objective: To enhance the functionality of an existing OpenAI-focused Python repository by integrating it with a SwiftUI project to create a full-end-to-end code assistant AI tool.
 
 Task:
