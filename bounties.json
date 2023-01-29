@@ -4756,7 +4756,7 @@
         "title": "RDP Code for Replit",
         "description": "Generate a code for Remote Desktop Protocol (RDP) that can be executed on the online development platform Replit.",
         "author": "dbbs44gs",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@dbbs44gs/rdp-code-for-replit?t="
     },
     {
@@ -4766,7 +4766,7 @@
         "title": "Save a CSV from Yahoofinance to replit and read it out.",
         "description": "Acceptance Criteria\nread and work with that csv file\n\nTechnical Details\nthe code i have but its made for windows not for online replit\n\nfrom replit import db\nimport csv\nProvides ways to work with large multidimensional arrays\nimport numpy as np\nAllows for further data manipulation and analysis\nimport pandas as pd\nfrom pandas_datareader import data as web # Reads stock data\nimport matplotlib.pyplot as plt # Plotting\nimport matplotlib.dates as mdates # Styling dates\n#matplotlib inline\n\nimport datetime as dt # For defining dates\nimport mplfinance as mpf # Matplotlib finance\n\nFunction that gets a dataframe by providing a ticker and starting date\ndef savetocsvfromyahoo(ticker, syear, smonth, sday, eyear, emonth, eday):\n\nDefines the time periods to use\n    start = dt.datetime(syear, smonth, sday)\n    end = dt.datetime(eyear, emonth, eday)\n\nReads data into a dataframe\n    df = web.DataReader(ticker, 'yahoo', start, end)\n\nSave data to a CSV file\nFor Windows\n    df.to_csv('...",
         "author": "MirexTion",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@MirexTion/save-a-csv-from-yaho?t="
     },
     {
@@ -4786,7 +4786,7 @@
         "title": "Make my Webflow landing page Mobile responsive ",
         "description": "I am a webflow newbie. I created a landing page on there for a product. Need assistance with making it mobile friendly. It's a short one pager. I don't think it will take longer than half hr to an hr of work. Need it done today if possible or max tomorrow.\n--> If we can do it over a zoom call so I see how you get it done, would be helpful so that I know how to get it done in the future.\nAcceptance Criteria\nSomeone who's proficient with webflow.",
         "author": "Danar8",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@Danar8/make-my-webflow-land?t="
     },
     {
@@ -4806,7 +4806,7 @@
         "title": "Need a normal website e",
         "description": "A web\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "HackerzCodingV2",
-        "posted_time": "42 minutes ago",
+        "posted_time": "59 minutes ago",
         "link": "https://replit.com/bounties/@HackerzCodingV2/need-a-normal-websit?t="
     },
     {
@@ -4816,7 +4816,7 @@
         "title": "Podcast webs",
         "description": "Podcast website\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "HackerzCodingV2",
-        "posted_time": "35 minutes ago",
+        "posted_time": "52 minutes ago",
         "link": "https://replit.com/bounties/@HackerzCodingV2/podcast-webs?t="
     },
     {
@@ -4826,7 +4826,7 @@
         "title": "Raadsel webs applicant",
         "description": "Raadzel\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "HackerzCodingV2",
-        "posted_time": "34 minutes ago",
+        "posted_time": "51 minutes ago",
         "link": "https://replit.com/bounties/@HackerzCodingV2/raadsel-webs-applica?t="
     }
 ]
