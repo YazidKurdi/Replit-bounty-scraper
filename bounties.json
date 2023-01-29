@@ -4848,5 +4848,15 @@
         "author": "OddGames",
         "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@OddGames/feedback-on-a-projec?t="
+    },
+    {
+        "index": "485",
+        "price": "$27.00",
+        "due_days": "due in 12 days",
+        "title": "Transcribe & Summarize Proof of Concept",
+        "description": "I would like to utilize whisper to transcribe audio from a meeting.  I would like to utilize GPT-3 to automatically summarize the meeting from the transcript.\n\nIt should support diarization to identify the different speakers.  Below are some resources on solving this.\nhttps://lablab.ai/t/whisper-transcription-and-speaker-identification\nhttps://github.com/openai/whisper/discussions/264\nhttps://huggingface.co/spaces/vumichien/whisper-speaker-diarization\n\nAcceptance Criteria\nIt should allow me to put in my OpenAI API Key\nIt should have a react frontend\nIt should use a postgres DB\nIt should use Ruby on Rails\nIt should save meeting transcripts and summaries\nIt should display meeting transcript and summaries\nIt should provide extraction of any meeting takeaway tasks\nIt should be deployed to replit for testing\n\nNice to Have\nIt would be great to have this be ready to move to being hosted on AWS but this is nice to have not need.",
+        "author": "AccountsAdmin",
+        "posted_time": "5 minutes ago",
+        "link": "https://replit.com/bounties/@AccountsAdmin/transcribe-and-summa?t="
     }
 ]
