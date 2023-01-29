@@ -4746,7 +4746,7 @@
         "title": "Swift + Python Longterm memory AI integration",
         "description": "Objective: To enhance the functionality of an existing OpenAI-focused Python repository by integrating it with a SwiftUI project to create a full-end-to-end code assistant AI tool.\n\nTask:\n\nImplement an existing OpenAI-focused Python repository that stores infinite long-term memory\nIntegrate the repository with a SwiftUI project by looping through the project files and prefetching the text-specific code inside the SwiftUI file (not as swift code but purely text) for loading into the AI model's memory\nCreate a front-end threaded conversation with a trigger to prefetch the folder's contents and store them in the existing \"chat logs\" files from the repository\nAdd a way to specify the prompt & folder in a separate input field at the top of the UI that the model will use to initially reference\nAcceptance Criteria:\n\nUpdate the repo's \"news reporter\" role for the AI and user to be \"expert developer in swift\"\nAdd front-end threaded conversation with a trigger to prefetch the folder's contents a...",
         "author": "DrewAndersen",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@DrewAndersen/swift-python-longter?t="
     },
     {
@@ -4806,7 +4806,27 @@
         "title": "Need a normal website e",
         "description": "A web\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "HackerzCodingV2",
-        "posted_time": "6 minutes ago",
+        "posted_time": "15 minutes ago",
         "link": "https://replit.com/bounties/@HackerzCodingV2/need-a-normal-websit?t="
+    },
+    {
+        "index": "481",
+        "price": "$15.55",
+        "due_days": "closed",
+        "title": "Podcast webs",
+        "description": "Podcast website\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
+        "author": "HackerzCodingV2",
+        "posted_time": "8 minutes ago",
+        "link": "https://replit.com/bounties/@HackerzCodingV2/podcast-webs?t="
+    },
+    {
+        "index": "482",
+        "price": "$5.00",
+        "due_days": "closed",
+        "title": "Raadsel webs applicant",
+        "description": "Raadzel\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
+        "author": "HackerzCodingV2",
+        "posted_time": "7 minutes ago",
+        "link": "https://replit.com/bounties/@HackerzCodingV2/raadsel-webs-applica?t="
     }
 ]
