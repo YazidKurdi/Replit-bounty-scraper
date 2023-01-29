@@ -4746,7 +4746,17 @@
         "title": "Swift + Python Longterm memory AI integration",
         "description": "Objective: To enhance the functionality of an existing OpenAI-focused Python repository by integrating it with a SwiftUI project to create a full-end-to-end code assistant AI tool.\n\nTask:\n\nImplement an existing OpenAI-focused Python repository that stores infinite long-term memory\nIntegrate the repository with a SwiftUI project by looping through the project files and prefetching the text-specific code inside the SwiftUI file (not as swift code but purely text) for loading into the AI model's memory\nCreate a front-end threaded conversation with a trigger to prefetch the folder's contents and store them in the existing \"chat logs\" files from the repository\nAdd a way to specify the prompt & folder in a separate input field at the top of the UI that the model will use to initially reference\nAcceptance Criteria:\n\nUpdate the repo's \"news reporter\" role for the AI and user to be \"expert developer in swift\"\nAdd front-end threaded conversation with a trigger to prefetch the folder's contents a...",
         "author": "DrewAndersen",
-        "posted_time": "33 minutes ago",
+        "posted_time": "40 minutes ago",
         "link": "https://replit.com/bounties/@DrewAndersen/swift-python-longter?t="
+    },
+    {
+        "index": "475",
+        "price": "$9.00",
+        "due_days": "closed",
+        "title": "RDP Code for Replit",
+        "description": "Generate a code for Remote Desktop Protocol (RDP) that can be executed on the online development platform Replit.",
+        "author": "dbbs44gs",
+        "posted_time": "2 minutes ago",
+        "link": "https://replit.com/bounties/@dbbs44gs/rdp-code-for-replit?t="
     }
 ]
