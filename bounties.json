@@ -4736,7 +4736,7 @@
         "title": "Pull data from CODAT and save in postgreSQL using SQLAlchemy models in Python",
         "description": "Define all the sql alchemy models for the following CODAT objects: Accounts, Bills, Bill Credit Notes, Bill Payments, Customers, Direct Costs, Direct Incomes, Invoices, Payments, Journal Entries, Suppliers.\n\nCodat docs: https://docs.codat.io/docs/datamodel-accounting\n\nMake sure to define the models so they are relational. Many of these objects reference each other.\n\nThen write the code to actually pull these models and save them in a postgreSQL database using SQLalchemy in Python. Make sure that when you query you leverage the modified date to only query rows that are new or have changed and if it's rows that have changed dont add the data to the table, update the existing row",
         "author": "financeguy",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@financeguy/pull-data-from-codat?t="
     },
     {
