@@ -3839,7 +3839,7 @@ For Windows
 --> If we can do it over a zoom call so I see how you get it done, would be helpful so that I know how to get it done in the future.
 Acceptance Criteria
 Someone who's proficient with webflow.",Danar8,10 hours ago,https://replit.com/bounties/@Danar8/make-my-webflow-land?t=
-479,$8.10,closed,Discord bot new feature,Add a new ping command to my bot,Lost0Soul,7 hours ago,https://replit.com/bounties/@Lost0Soul/discord-bot-new-feat?t=
+479,$8.10,closed,Discord bot new feature,Add a new ping command to my bot,Lost0Soul,8 hours ago,https://replit.com/bounties/@Lost0Soul/discord-bot-new-feat?t=
 480,$1.00,due in 13 days,Need a normal website e,"A web
 
 Acceptance Criteria
@@ -3855,7 +3855,7 @@ Be specific about what you want in the solution here.",HackerzCodingV2,6 hours a
 483,$5.85,due in 13 days,Need css designed thx,"Describe the problem you are trying to solve here.
 css redesign page
 Acceptance Criteria
-Be specific about what you want in the solution here.",JackWam,4 hours ago,https://replit.com/bounties/@JackWam/need-css-designed-th?t=
+Be specific about what you want in the solution here.",JackWam,5 hours ago,https://replit.com/bounties/@JackWam/need-css-designed-th?t=
 484,$0.90,closed,Feedback on a project (Free Cycles),"I need feedback for one of my projects (https://games.odd.gay)
 
 Acceptance Criteria PLEASE READ
@@ -3880,4 +3880,26 @@ It should provide extraction of any meeting takeaway tasks
 It should be deployed to replit for testing
 
 Nice to Have
-It would be great to have this be ready to move to being hosted on AWS but this is nice to have not need.",AccountsAdmin,5 minutes ago,https://replit.com/bounties/@AccountsAdmin/transcribe-and-summa?t=
+It would be great to have this be ready to move to being hosted on AWS but this is nice to have not need.",AccountsAdmin,15 minutes ago,https://replit.com/bounties/@AccountsAdmin/transcribe-and-summa?t=
+486,$900.00,due in 13 days,Saas application usage,"As a team grows, the number of software applications used also grows. This is to help teams understand which applications all of their employees have logged in and how often they are using those apps.
+
+Connecting Google Workspace and Okta is the best way to do this.
+Acceptance Criteria
+A web application where a user can login with Google or Okta and they are asked for the right permissions.
+Sidebar navigation links (view for each of these links describe below):
+Dashboard
+Applications
+Users
+Settings
+
+Dashboard
+
+Section 1
+A horizontal section at the top that shows:
+New applications. Example text: “5 new employees starting using X application”
+Unused applications. Example text: “There are 20 apps that have not been used in the last 60 days”
+Change in usage. Example text “In the last 3 months, Zoom usage dropped from 100 people to 50 people”
+
+Usage is determined by if a user has logged in, in the last week.
+Section 2
+Below the above horizontal section, there are two ver...",anilcv,3 minutes ago,https://replit.com/bounties/@anilcv/saas-application-usa?t=
