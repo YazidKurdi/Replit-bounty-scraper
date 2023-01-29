@@ -3770,7 +3770,7 @@ The ""rays"" spin slowly.
 I would prefer for animation to be achieved via CSS. Video or Gif is also possible, if you convince me that it is better done that way.
 Mobile friendly
 Button links to external page.
-(optional) Preferrably use React or Vue.js",PaytonLee3,17 hours ago,https://replit.com/bounties/@PaytonLee3/simple-landing-page?t=
+(optional) Preferrably use React or Vue.js",PaytonLee3,18 hours ago,https://replit.com/bounties/@PaytonLee3/simple-landing-page?t=
 471,$45.00,due in 6 days,Solidity Defi contract that swaps a crypto pair like BTC and ETH,"Write a smart contract that replicates https://docs.quickswap.exchange/reference/smart-contracts/router02/#swapexacttokensfortokens but with the path allowing two different Defi exchanges.
 Acceptance Criteria
      I deploy the contract and it works.",GamblingGlobeTrotter,16 hours ago,https://replit.com/bounties/@GamblingGlobeTrotter/solidity-defi-contra?t=
@@ -3780,7 +3780,7 @@ Acceptance Criteria
 Must be implemented as a cron job that runs every 30 minutes (I will host it)
 Must keep the user logged in while running the cron job, and handle cases where the user is logged out
 Must have a way to alert the user if 2FA is required or if the user gets rate limited
-Must be able to deploy directly to AWS EC2 Amazon Linux instance",brwr,12 hours ago,https://replit.com/bounties/@brwr/facebook-keyword-fin?t=
+Must be able to deploy directly to AWS EC2 Amazon Linux instance",brwr,13 hours ago,https://replit.com/bounties/@brwr/facebook-keyword-fin?t=
 473,$108.00,due in 3 days,Pull data from CODAT and save in postgreSQL using SQLAlchemy models in Python,"Define all the sql alchemy models for the following CODAT objects: Accounts, Bills, Bill Credit Notes, Bill Payments, Customers, Direct Costs, Direct Incomes, Invoices, Payments, Journal Entries, Suppliers.
 
 Codat docs: https://docs.codat.io/docs/datamodel-accounting
@@ -3800,7 +3800,7 @@ Acceptance Criteria:
 
 Update the repo's ""news reporter"" role for the AI and user to be ""expert developer in swift""
 Add front-end threaded conversation with a trigger to prefetch the folder's contents a...",DrewAndersen,11 hours ago,https://replit.com/bounties/@DrewAndersen/swift-python-longter?t=
-475,$9.00,closed,RDP Code for Replit,Generate a code for Remote Desktop Protocol (RDP) that can be executed on the online development platform Replit.,dbbs44gs,10 hours ago,https://replit.com/bounties/@dbbs44gs/rdp-code-for-replit?t=
+475,$9.00,closed,RDP Code for Replit,Generate a code for Remote Desktop Protocol (RDP) that can be executed on the online development platform Replit.,dbbs44gs,11 hours ago,https://replit.com/bounties/@dbbs44gs/rdp-code-for-replit?t=
 476,$4.50,due in 3 days,Save a CSV from Yahoofinance to replit and read it out.,"Acceptance Criteria
 read and work with that csv file
 
@@ -3833,9 +3833,9 @@ Reads data into a dataframe
 
 Save data to a CSV file
 For Windows
-    df.to_csv('...",MirexTion,2 hours ago,https://replit.com/bounties/@MirexTion/save-a-csv-from-yaho?t=
+    df.to_csv('...",MirexTion,3 hours ago,https://replit.com/bounties/@MirexTion/save-a-csv-from-yaho?t=
 477,$3.60,due in 13 days,Discord Bot Bounty,i would like a multipurpose discord bot to manage my server,Podcast14,2 hours ago,https://replit.com/bounties/@Podcast14/discord-bot-bounty?t=
 478,$15.75,closed,Make my Webflow landing page Mobile responsive ,"I am a webflow newbie. I created a landing page on there for a product. Need assistance with making it mobile friendly. It's a short one pager. I don't think it will take longer than half hr to an hr of work. Need it done today if possible or max tomorrow.
 --> If we can do it over a zoom call so I see how you get it done, would be helpful so that I know how to get it done in the future.
 Acceptance Criteria
-Someone who's proficient with webflow.",Danar8,1 hour ago,https://replit.com/bounties/@Danar8/make-my-webflow-land?t=
+Someone who's proficient with webflow.",Danar8,2 hours ago,https://replit.com/bounties/@Danar8/make-my-webflow-land?t=
