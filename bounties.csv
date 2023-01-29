@@ -3787,7 +3787,7 @@ Codat docs: https://docs.codat.io/docs/datamodel-accounting
 
 Make sure to define the models so they are relational. Many of these objects reference each other.
 
-Then write the code to actually pull these models and save them in a postgreSQL database using SQLalchemy in Python. Make sure that when you query you leverage the modified date to only query rows that are new or have changed and if it's rows that have changed dont add the data to the table, update the existing row",financeguy,15 hours ago,https://replit.com/bounties/@financeguy/pull-data-from-codat?t=
+Then write the code to actually pull these models and save them in a postgreSQL database using SQLalchemy in Python. Make sure that when you query you leverage the modified date to only query rows that are new or have changed and if it's rows that have changed dont add the data to the table, update the existing row",financeguy,16 hours ago,https://replit.com/bounties/@financeguy/pull-data-from-codat?t=
 474,$360.00,due in 12 days,Swift + Python Longterm memory AI integration,"Objective: To enhance the functionality of an existing OpenAI-focused Python repository by integrating it with a SwiftUI project to create a full-end-to-end code assistant AI tool.
 
 Task:
@@ -3834,7 +3834,7 @@ Reads data into a dataframe
 Save data to a CSV file
 For Windows
     df.to_csv('...",MirexTion,6 hours ago,https://replit.com/bounties/@MirexTion/save-a-csv-from-yaho?t=
-477,$3.60,due in 13 days,Discord Bot Bounty,i would like a multipurpose discord bot to manage my server,Podcast14,5 hours ago,https://replit.com/bounties/@Podcast14/discord-bot-bounty?t=
+477,$3.60,due in 13 days,Discord Bot Bounty,i would like a multipurpose discord bot to manage my server,Podcast14,6 hours ago,https://replit.com/bounties/@Podcast14/discord-bot-bounty?t=
 478,$15.75,closed,Make my Webflow landing page Mobile responsive ,"I am a webflow newbie. I created a landing page on there for a product. Need assistance with making it mobile friendly. It's a short one pager. I don't think it will take longer than half hr to an hr of work. Need it done today if possible or max tomorrow.
 --> If we can do it over a zoom call so I see how you get it done, would be helpful so that I know how to get it done in the future.
 Acceptance Criteria
@@ -3843,12 +3843,12 @@ Someone who's proficient with webflow.",Danar8,5 hours ago,https://replit.com/bo
 480,$1.00,due in 13 days,Need a normal website e,"A web
 
 Acceptance Criteria
-Be specific about what you want in the solution here.",HackerzCodingV2,1 hour ago,https://replit.com/bounties/@HackerzCodingV2/need-a-normal-websit?t=
+Be specific about what you want in the solution here.",HackerzCodingV2,2 hours ago,https://replit.com/bounties/@HackerzCodingV2/need-a-normal-websit?t=
 481,$15.55,closed,Podcast webs,"Podcast website
 
 Acceptance Criteria
-Be specific about what you want in the solution here.",HackerzCodingV2,1 hour ago,https://replit.com/bounties/@HackerzCodingV2/podcast-webs?t=
+Be specific about what you want in the solution here.",HackerzCodingV2,2 hours ago,https://replit.com/bounties/@HackerzCodingV2/podcast-webs?t=
 482,$5.00,closed,Raadsel webs applicant,"Raadzel
 
 Acceptance Criteria
-Be specific about what you want in the solution here.",HackerzCodingV2,1 hour ago,https://replit.com/bounties/@HackerzCodingV2/raadsel-webs-applica?t=
+Be specific about what you want in the solution here.",HackerzCodingV2,2 hours ago,https://replit.com/bounties/@HackerzCodingV2/raadsel-webs-applica?t=
