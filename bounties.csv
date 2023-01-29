@@ -3720,7 +3720,7 @@ Either a standalone wrapper or a modified defillama sdk that can send protobuf m
 Readme on how to run this
 small tests (to ensure cli args and options are working correctly)
 
-The deadline and bounty can be adjusted. Open to offers.",alllie,12 hours ago,https://replit.com/bounties/@alllie/defilamma-adapter-ad?t=
+The deadline and bounty can be adjusted. Open to offers.",alllie,13 hours ago,https://replit.com/bounties/@alllie/defilamma-adapter-ad?t=
 452,$9.00,closed,Steam Hours Boosting,Create me a node js for steam Hours Boosting,toshiro9117,Claimed by,
 453,$9.00,closed,Steam Hours Boosting,Create me a node js for steam Hours Boosting,toshiro9117,Claimed by,
 454,$9.00,closed,Steam Hours Boosting,Create me a node js for steam Hours Boosting,toshiro9117,Claimed by,
@@ -3773,7 +3773,7 @@ Button links to external page.
 (optional) Preferrably use React or Vue.js",PaytonLee3,7 hours ago,https://replit.com/bounties/@PaytonLee3/simple-landing-page?t=
 471,$45.00,due in 7 days,Solidity Defi contract that swaps a crypto pair like BTC and ETH,"Write a smart contract that replicates https://docs.quickswap.exchange/reference/smart-contracts/router02/#swapexacttokensfortokens but with the path allowing two different Defi exchanges.
 Acceptance Criteria
-     I deploy the contract and it works.",GamblingGlobeTrotter,5 hours ago,https://replit.com/bounties/@GamblingGlobeTrotter/solidity-defi-contra?t=
+     I deploy the contract and it works.",GamblingGlobeTrotter,6 hours ago,https://replit.com/bounties/@GamblingGlobeTrotter/solidity-defi-contra?t=
 472,$360.00,due in 7 days,Facebook Keyword Finder,"I need a python/node script that takes in a username/email, password, Facebook group URL, and array of keywords to search for, and returns an array of results that includes the post date, content, and a link to the post.
 
 Acceptance Criteria
@@ -3787,7 +3787,7 @@ Codat docs: https://docs.codat.io/docs/datamodel-accounting
 
 Make sure to define the models so they are relational. Many of these objects reference each other.
 
-Then write the code to actually pull these models and save them in a postgreSQL database using SQLalchemy in Python. Make sure that when you query you leverage the modified date to only query rows that are new or have changed and if it's rows that have changed dont add the data to the table, update the existing row",financeguy,54 minutes ago,https://replit.com/bounties/@financeguy/pull-data-from-codat?t=
+Then write the code to actually pull these models and save them in a postgreSQL database using SQLalchemy in Python. Make sure that when you query you leverage the modified date to only query rows that are new or have changed and if it's rows that have changed dont add the data to the table, update the existing row",financeguy,1 hour ago,https://replit.com/bounties/@financeguy/pull-data-from-codat?t=
 474,$360.00,due in 13 days,Swift + Python Longterm memory AI integration,"Objective: To enhance the functionality of an existing OpenAI-focused Python repository by integrating it with a SwiftUI project to create a full-end-to-end code assistant AI tool.
 
 Task:
@@ -3799,4 +3799,4 @@ Add a way to specify the prompt & folder in a separate input field at the top of
 Acceptance Criteria:
 
 Update the repo's ""news reporter"" role for the AI and user to be ""expert developer in swift""
-Add front-end threaded conversation with a trigger to prefetch the folder's contents a...",DrewAndersen,16 minutes ago,https://replit.com/bounties/@DrewAndersen/swift-python-longter?t=
+Add front-end threaded conversation with a trigger to prefetch the folder's contents a...",DrewAndersen,26 minutes ago,https://replit.com/bounties/@DrewAndersen/swift-python-longter?t=
