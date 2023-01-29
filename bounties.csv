@@ -3787,7 +3787,7 @@ Codat docs: https://docs.codat.io/docs/datamodel-accounting
 
 Make sure to define the models so they are relational. Many of these objects reference each other.
 
-Then write the code to actually pull these models and save them in a postgreSQL database using SQLalchemy in Python. Make sure that when you query you leverage the modified date to only query rows that are new or have changed and if it's rows that have changed dont add the data to the table, update the existing row",financeguy,12 hours ago,https://replit.com/bounties/@financeguy/pull-data-from-codat?t=
+Then write the code to actually pull these models and save them in a postgreSQL database using SQLalchemy in Python. Make sure that when you query you leverage the modified date to only query rows that are new or have changed and if it's rows that have changed dont add the data to the table, update the existing row",financeguy,13 hours ago,https://replit.com/bounties/@financeguy/pull-data-from-codat?t=
 474,$360.00,due in 12 days,Swift + Python Longterm memory AI integration,"Objective: To enhance the functionality of an existing OpenAI-focused Python repository by integrating it with a SwiftUI project to create a full-end-to-end code assistant AI tool.
 
 Task:
@@ -3833,8 +3833,8 @@ Reads data into a dataframe
 
 Save data to a CSV file
 For Windows
-    df.to_csv('...",MirexTion,3 hours ago,https://replit.com/bounties/@MirexTion/save-a-csv-from-yaho?t=
-477,$3.60,due in 13 days,Discord Bot Bounty,i would like a multipurpose discord bot to manage my server,Podcast14,2 hours ago,https://replit.com/bounties/@Podcast14/discord-bot-bounty?t=
+    df.to_csv('...",MirexTion,4 hours ago,https://replit.com/bounties/@MirexTion/save-a-csv-from-yaho?t=
+477,$3.60,due in 13 days,Discord Bot Bounty,i would like a multipurpose discord bot to manage my server,Podcast14,3 hours ago,https://replit.com/bounties/@Podcast14/discord-bot-bounty?t=
 478,$15.75,closed,Make my Webflow landing page Mobile responsive ,"I am a webflow newbie. I created a landing page on there for a product. Need assistance with making it mobile friendly. It's a short one pager. I don't think it will take longer than half hr to an hr of work. Need it done today if possible or max tomorrow.
 --> If we can do it over a zoom call so I see how you get it done, would be helpful so that I know how to get it done in the future.
 Acceptance Criteria
