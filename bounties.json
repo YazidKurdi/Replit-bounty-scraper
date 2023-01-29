@@ -4706,7 +4706,7 @@
         "title": "Simple landing page, with complex background animation",
         "description": "Create a custom landing page with \"animated\" background, preferrably with CSS, and make sure it is mobile friendly.\n\nAcceptance Criteria\nBackground: criteria image\nSnake with text revolves around the screen\nThe \"rays\" spin slowly.\nI would prefer for animation to be achieved via CSS. Video or Gif is also possible, if you convince me that it is better done that way.\nMobile friendly\nButton links to external page.\n(optional) Preferrably use React or Vue.js",
         "author": "PaytonLee3",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@PaytonLee3/simple-landing-page?t="
     },
     {
@@ -4726,7 +4726,7 @@
         "title": "Facebook Keyword Finder",
         "description": "I need a python/node script that takes in a username/email, password, Facebook group URL, and array of keywords to search for, and returns an array of results that includes the post date, content, and a link to the post.\n\nAcceptance Criteria\nMust be implemented as a cron job that runs every 30 minutes (I will host it)\nMust keep the user logged in while running the cron job, and handle cases where the user is logged out\nMust have a way to alert the user if 2FA is required or if the user gets rate limited\nMust be able to deploy directly to AWS EC2 Amazon Linux instance",
         "author": "brwr",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@brwr/facebook-keyword-fin?t="
     },
     {
@@ -4756,7 +4756,7 @@
         "title": "RDP Code for Replit",
         "description": "Generate a code for Remote Desktop Protocol (RDP) that can be executed on the online development platform Replit.",
         "author": "dbbs44gs",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@dbbs44gs/rdp-code-for-replit?t="
     },
     {
@@ -4766,7 +4766,7 @@
         "title": "Save a CSV from Yahoofinance to replit and read it out.",
         "description": "Acceptance Criteria\nread and work with that csv file\n\nTechnical Details\nthe code i have but its made for windows not for online replit\n\nfrom replit import db\nimport csv\nProvides ways to work with large multidimensional arrays\nimport numpy as np\nAllows for further data manipulation and analysis\nimport pandas as pd\nfrom pandas_datareader import data as web # Reads stock data\nimport matplotlib.pyplot as plt # Plotting\nimport matplotlib.dates as mdates # Styling dates\n#matplotlib inline\n\nimport datetime as dt # For defining dates\nimport mplfinance as mpf # Matplotlib finance\n\nFunction that gets a dataframe by providing a ticker and starting date\ndef savetocsvfromyahoo(ticker, syear, smonth, sday, eyear, emonth, eday):\n\nDefines the time periods to use\n    start = dt.datetime(syear, smonth, sday)\n    end = dt.datetime(eyear, emonth, eday)\n\nReads data into a dataframe\n    df = web.DataReader(ticker, 'yahoo', start, end)\n\nSave data to a CSV file\nFor Windows\n    df.to_csv('...",
         "author": "MirexTion",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@MirexTion/save-a-csv-from-yaho?t="
     },
     {
@@ -4776,17 +4776,17 @@
         "title": "Discord Bot Bounty",
         "description": "i would like a multipurpose discord bot to manage my server",
         "author": "Podcast14",
-        "posted_time": "44 minutes ago",
+        "posted_time": "58 minutes ago",
         "link": "https://replit.com/bounties/@Podcast14/discord-bot-bounty?t="
     },
     {
         "index": "478",
         "price": "$15.75",
-        "due_days": "due in 3 days",
+        "due_days": "closed",
         "title": "Make my Webflow landing page Mobile responsive ",
         "description": "I am a webflow newbie. I created a landing page on there for a product. Need assistance with making it mobile friendly. It's a short one pager. I don't think it will take longer than half hr to an hr of work. Need it done today if possible or max tomorrow.\n--> If we can do it over a zoom call so I see how you get it done, would be helpful so that I know how to get it done in the future.\nAcceptance Criteria\nSomeone who's proficient with webflow.",
         "author": "Danar8",
-        "posted_time": "20 minutes ago",
+        "posted_time": "33 minutes ago",
         "link": "https://replit.com/bounties/@Danar8/make-my-webflow-land?t="
     }
 ]
