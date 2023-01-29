@@ -4716,7 +4716,7 @@
         "title": "Solidity Defi contract that swaps a crypto pair like BTC and ETH",
         "description": "Write a smart contract that replicates https://docs.quickswap.exchange/reference/smart-contracts/router02/#swapexacttokensfortokens but with the path allowing two different Defi exchanges.\nAcceptance Criteria\n     I deploy the contract and it works.",
         "author": "GamblingGlobeTrotter",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@GamblingGlobeTrotter/solidity-defi-contra?t="
     },
     {
