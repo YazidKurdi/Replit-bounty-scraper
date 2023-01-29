@@ -4652,7 +4652,7 @@
     {
         "index": "465",
         "price": "$360.00",
-        "due_days": "due in 13 days",
+        "due_days": "due in 12 days",
         "title": "Webapp that stores PDFs, PNGs from users, extracts text and uses GPT3 for entity extraction",
         "description": "This webapp wants to be a simple MVP. The idea is to use text extraction libraries from PDFs, PNGs and then use GPT3 to extract the entities (company name, tax id, etc). Each user will have a registry of all their invoices that have been uploaded.\nAcceptance Criteria\nUsers can log in, upload their invoices (PDFs, PNGs), text extraction + GPT3 happens automatically and generates an Excel/CSV file where they can easily track their expenses. For prompt engineering you'll receive my help.\nTechnical Details\nText from image/PDF extractions can be done preferably in Python but in any other language that works. OpenAI API can also be called using any language of preference. The frontend has to be minimal for an MVP.\nTimelines / Milestones\nExpected deadline after 7 days of acceptance. If successful, more bounties will be handed to the developer.",
         "author": "GerardGimenez1",
@@ -4672,7 +4672,7 @@
     {
         "index": "467",
         "price": "$99.00",
-        "due_days": "due in 6 days",
+        "due_days": "due in 5 days",
         "title": "System for creating documents to sign and keeping track of them",
         "description": "Please see this flow diagram of how I want this to work:\nhttps://share.cleanshot.com/TVchQJZL\n\nPlease note that the Mechanic API will be handled elsewhere and is being worked on separately. At some point in the next few days I'll be able to give details of this API , but for now you just need to know that an order number will be sent, and customer and order details will be returned.\n\nThis is the Signeasy API which I'd like to use:\nhttps://docs.signeasy.com/docs/getting-started\n\nI have a PDF which I'd like the relevant details filling in, before going off to the customer to be electronically signed. The PDF is the same in all instances, except for the fields which will be filled in from the data entered in Replit.\n\nPlease let me know if you've got any questions.",
         "author": "AndrewShowman",
@@ -4682,7 +4682,7 @@
     {
         "index": "468",
         "price": "$3.59",
-        "due_days": "due in 30 days",
+        "due_days": "due in 29 days",
         "title": "Find click event inside a website, and modify it (devtools)",
         "description": "I am spending my meager supply of cycles on this. There is a browser extension game called dedalium and they have a shop where you can buy gear boxes, and recently they increased the prices of the boxes to a very large amount. As a little test, i want to see if anyone can find this click event and modify it so i can get the boxes free of charge (note this is not involving real world money in any way. this is not illegal, i am just seeing if anyone can manage this). Their code is very complicated and is going to take a lot of work to find this, so if you do then i will definitely give more cycles than the current payout. I would make sure you know what you are up against before you apply, so i would download the extension and make an account, then get acquainted with the code first.\nAcceptance Criteria\nI want some console js code that will give be a box free. Nobody has done this yet as far as i know ( i am on their discord ) so i would be very impressed if you manag...",
         "author": "ChaosSymmetry",
@@ -4692,7 +4692,7 @@
     {
         "index": "469",
         "price": "$0.90",
-        "due_days": "due in 8 days",
+        "due_days": "due in 7 days",
         "title": "Play a video game for testing",
         "description": "Need a gamer to play my game swordbattle.io, and reach 5,000,000 XP.\n\nYou can check your XP in the game by creating an account, hovering over your name in the top right, and clicking on profile.\n\nNote: you must be a new player, if you've already played swordbattle you are ineligible for this bounty. Please state any gamer skills you might have.",
         "author": "CoderGautamYT",
@@ -4702,17 +4702,17 @@
     {
         "index": "470",
         "price": "$90.00",
-        "due_days": "due in 10 days",
+        "due_days": "due in 9 days",
         "title": "Simple landing page, with complex background animation",
         "description": "Create a custom landing page with \"animated\" background, preferrably with CSS, and make sure it is mobile friendly.\n\nAcceptance Criteria\nBackground: criteria image\nSnake with text revolves around the screen\nThe \"rays\" spin slowly.\nI would prefer for animation to be achieved via CSS. Video or Gif is also possible, if you convince me that it is better done that way.\nMobile friendly\nButton links to external page.\n(optional) Preferrably use React or Vue.js",
         "author": "PaytonLee3",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@PaytonLee3/simple-landing-page?t="
     },
     {
         "index": "471",
         "price": "$45.00",
-        "due_days": "due in 7 days",
+        "due_days": "due in 6 days",
         "title": "Solidity Defi contract that swaps a crypto pair like BTC and ETH",
         "description": "Write a smart contract that replicates https://docs.quickswap.exchange/reference/smart-contracts/router02/#swapexacttokensfortokens but with the path allowing two different Defi exchanges.\nAcceptance Criteria\n     I deploy the contract and it works.",
         "author": "GamblingGlobeTrotter",
@@ -4722,27 +4722,27 @@
     {
         "index": "472",
         "price": "$360.00",
-        "due_days": "due in 7 days",
+        "due_days": "due in 6 days",
         "title": "Facebook Keyword Finder",
         "description": "I need a python/node script that takes in a username/email, password, Facebook group URL, and array of keywords to search for, and returns an array of results that includes the post date, content, and a link to the post.\n\nAcceptance Criteria\nMust be implemented as a cron job that runs every 30 minutes (I will host it)\nMust keep the user logged in while running the cron job, and handle cases where the user is logged out\nMust have a way to alert the user if 2FA is required or if the user gets rate limited\nMust be able to deploy directly to AWS EC2 Amazon Linux instance",
         "author": "brwr",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@brwr/facebook-keyword-fin?t="
     },
     {
         "index": "473",
         "price": "$108.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Pull data from CODAT and save in postgreSQL using SQLAlchemy models in Python",
         "description": "Define all the sql alchemy models for the following CODAT objects: Accounts, Bills, Bill Credit Notes, Bill Payments, Customers, Direct Costs, Direct Incomes, Invoices, Payments, Journal Entries, Suppliers.\n\nCodat docs: https://docs.codat.io/docs/datamodel-accounting\n\nMake sure to define the models so they are relational. Many of these objects reference each other.\n\nThen write the code to actually pull these models and save them in a postgreSQL database using SQLalchemy in Python. Make sure that when you query you leverage the modified date to only query rows that are new or have changed and if it's rows that have changed dont add the data to the table, update the existing row",
         "author": "financeguy",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@financeguy/pull-data-from-codat?t="
     },
     {
         "index": "474",
         "price": "$360.00",
-        "due_days": "due in 13 days",
+        "due_days": "due in 12 days",
         "title": "Swift + Python Longterm memory AI integration",
         "description": "Objective: To enhance the functionality of an existing OpenAI-focused Python repository by integrating it with a SwiftUI project to create a full-end-to-end code assistant AI tool.\n\nTask:\n\nImplement an existing OpenAI-focused Python repository that stores infinite long-term memory\nIntegrate the repository with a SwiftUI project by looping through the project files and prefetching the text-specific code inside the SwiftUI file (not as swift code but purely text) for loading into the AI model's memory\nCreate a front-end threaded conversation with a trigger to prefetch the folder's contents and store them in the existing \"chat logs\" files from the repository\nAdd a way to specify the prompt & folder in a separate input field at the top of the UI that the model will use to initially reference\nAcceptance Criteria:\n\nUpdate the repo's \"news reporter\" role for the AI and user to be \"expert developer in swift\"\nAdd front-end threaded conversation with a trigger to prefetch the folder's contents a...",
         "author": "DrewAndersen",
