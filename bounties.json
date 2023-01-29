@@ -4456,7 +4456,7 @@
         "title": "this is a test please ignore",
         "description": "this is a test please ignore",
         "author": "Bookie0",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@Bookie0/this-is-a-test-pleas?t="
     },
     {
@@ -4516,7 +4516,7 @@
         "title": "DefiLlama adapter adapter",
         "description": "Defillama has a lot of adapters in https://github.com/DefiLlama/DefiLlama-Adapters, for their website and api (defillama.com). I need a standalone wrapper, or modified defilamma sdk, that can run each adapter, get the data out, and send it as a protobuf message to kafka.\nProtobuf definition should be defined including these keys because all the adapters return data that fall under these labels.\n\n['tvl', 'staking', 'pool2', 'borrowed', 'treasury', 'offers', 'vesting'] along with timestamp.\n\nAcceptance Criteria\nA .proto definition\nEither a standalone wrapper or a modified defillama sdk that can send protobuf messages to a kafka broker endpoint. The adapters that connect directly to RPC must run. The adapters that depend on The Graph are optional but may work without any modification.\nReadme on how to run this\nsmall tests (to ensure cli args and options are working correctly)\n\nThe deadline and bounty can be adjusted. Open to offers.",
         "author": "alllie",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@alllie/defilamma-adapter-ad?t="
     },
     {
@@ -4716,7 +4716,7 @@
         "title": "Solidity Defi contract that swaps a crypto pair like BTC and ETH",
         "description": "Write a smart contract that replicates https://docs.quickswap.exchange/reference/smart-contracts/router02/#swapexacttokensfortokens but with the path allowing two different Defi exchanges.\nAcceptance Criteria\n     I deploy the contract and it works.",
         "author": "GamblingGlobeTrotter",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@GamblingGlobeTrotter/solidity-defi-contra?t="
     },
     {
@@ -4726,7 +4726,17 @@
         "title": "Facebook Keyword Finder",
         "description": "I need a python/node script that takes in a username/email, password, Facebook group URL, and array of keywords to search for, and returns an array of results that includes the post date, content, and a link to the post.\n\nAcceptance Criteria\nMust be implemented as a cron job that runs every 30 minutes (I will host it)\nMust keep the user logged in while running the cron job, and handle cases where the user is logged out\nMust have a way to alert the user if 2FA is required or if the user gets rate limited\nMust be able to deploy directly to AWS EC2 Amazon Linux instance",
         "author": "brwr",
-        "posted_time": "46 minutes ago",
+        "posted_time": "54 minutes ago",
         "link": "https://replit.com/bounties/@brwr/facebook-keyword-fin?t="
+    },
+    {
+        "index": "473",
+        "price": "$108.00",
+        "due_days": "due in 4 days",
+        "title": "Pull data from CODAT and save in postgreSQL using SQLAlchemy models in Python",
+        "description": "Define all the sql alchemy models for the following CODAT objects: Accounts, Bills, Bill Credit Notes, Bill Payments, Customers, Direct Costs, Direct Incomes, Invoices, Payments, Journal Entries, Suppliers.\n\nCodat docs: https://docs.codat.io/docs/datamodel-accounting\n\nMake sure to define the models so they are relational. Many of these objects reference each other.\n\nThen write the code to actually pull these models and save them in a postgreSQL database using SQLalchemy in Python. Make sure that when you query you leverage the modified date to only query rows that are new or have changed and if it's rows that have changed dont add the data to the table, update the existing row",
+        "author": "financeguy",
+        "posted_time": "2 minutes ago",
+        "link": "https://replit.com/bounties/@financeguy/pull-data-from-codat?t="
     }
 ]
