@@ -4686,7 +4686,7 @@
         "title": "Find click event inside a website, and modify it (devtools)",
         "description": "I am spending my meager supply of cycles on this. There is a browser extension game called dedalium and they have a shop where you can buy gear boxes, and recently they increased the prices of the boxes to a very large amount. As a little test, i want to see if anyone can find this click event and modify it so i can get the boxes free of charge (note this is not involving real world money in any way. this is not illegal, i am just seeing if anyone can manage this). Their code is very complicated and is going to take a lot of work to find this, so if you do then i will definitely give more cycles than the current payout. I would make sure you know what you are up against before you apply, so i would download the extension and make an account, then get acquainted with the code first.\nAcceptance Criteria\nI want some console js code that will give be a box free. Nobody has done this yet as far as i know ( i am on their discord ) so i would be very impressed if you manag...",
         "author": "ChaosSymmetry",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@ChaosSymmetry/find-click-event-ins?t="
     },
     {
@@ -4696,7 +4696,7 @@
         "title": "Play a video game for testing",
         "description": "Need a gamer to play my game swordbattle.io, and reach 5,000,000 XP.\n\nYou can check your XP in the game by creating an account, hovering over your name in the top right, and clicking on profile.\n\nNote: you must be a new player, if you've already played swordbattle you are ineligible for this bounty. Please state any gamer skills you might have.",
         "author": "CoderGautamYT",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/play-a-video-game-fo?t="
     },
     {
@@ -4746,7 +4746,7 @@
         "title": "Swift + Python Longterm memory AI integration",
         "description": "Objective: To enhance the functionality of an existing OpenAI-focused Python repository by integrating it with a SwiftUI project to create a full-end-to-end code assistant AI tool.\n\nTask:\n\nImplement an existing OpenAI-focused Python repository that stores infinite long-term memory\nIntegrate the repository with a SwiftUI project by looping through the project files and prefetching the text-specific code inside the SwiftUI file (not as swift code but purely text) for loading into the AI model's memory\nCreate a front-end threaded conversation with a trigger to prefetch the folder's contents and store them in the existing \"chat logs\" files from the repository\nAdd a way to specify the prompt & folder in a separate input field at the top of the UI that the model will use to initially reference\nAcceptance Criteria:\n\nUpdate the repo's \"news reporter\" role for the AI and user to be \"expert developer in swift\"\nAdd front-end threaded conversation with a trigger to prefetch the folder's contents a...",
         "author": "DrewAndersen",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@DrewAndersen/swift-python-longter?t="
     },
     {
