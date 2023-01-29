@@ -4336,7 +4336,7 @@
         "title": "I need a minecraft website with login system",
         "description": "ee sus kartik\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "HackerzCodingV2",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@HackerzCodingV2/i-need-a-minecraft-w?t="
     },
     {
@@ -4726,7 +4726,7 @@
         "title": "Facebook Keyword Finder",
         "description": "I need a python/node script that takes in a username/email, password, Facebook group URL, and array of keywords to search for, and returns an array of results that includes the post date, content, and a link to the post.\n\nAcceptance Criteria\nMust be implemented as a cron job that runs every 30 minutes (I will host it)\nMust keep the user logged in while running the cron job, and handle cases where the user is logged out\nMust have a way to alert the user if 2FA is required or if the user gets rate limited\nMust be able to deploy directly to AWS EC2 Amazon Linux instance",
         "author": "brwr",
-        "posted_time": "11 minutes ago",
+        "posted_time": "28 minutes ago",
         "link": "https://replit.com/bounties/@brwr/facebook-keyword-fin?t="
     }
 ]
