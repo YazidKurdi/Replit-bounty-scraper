@@ -4676,7 +4676,7 @@
         "title": "System for creating documents to sign and keeping track of them",
         "description": "Please see this flow diagram of how I want this to work:\nhttps://share.cleanshot.com/TVchQJZL\n\nPlease note that the Mechanic API will be handled elsewhere and is being worked on separately. At some point in the next few days I'll be able to give details of this API , but for now you just need to know that an order number will be sent, and customer and order details will be returned.\n\nThis is the Signeasy API which I'd like to use:\nhttps://docs.signeasy.com/docs/getting-started\n\nI have a PDF which I'd like the relevant details filling in, before going off to the customer to be electronically signed. The PDF is the same in all instances, except for the fields which will be filled in from the data entered in Replit.\n\nPlease let me know if you've got any questions.",
         "author": "AndrewShowman",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/system-for-creating?t="
     },
     {
