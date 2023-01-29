@@ -4656,7 +4656,7 @@
         "title": "Webapp that stores PDFs, PNGs from users, extracts text and uses GPT3 for entity extraction",
         "description": "This webapp wants to be a simple MVP. The idea is to use text extraction libraries from PDFs, PNGs and then use GPT3 to extract the entities (company name, tax id, etc). Each user will have a registry of all their invoices that have been uploaded.\nAcceptance Criteria\nUsers can log in, upload their invoices (PDFs, PNGs), text extraction + GPT3 happens automatically and generates an Excel/CSV file where they can easily track their expenses. For prompt engineering you'll receive my help.\nTechnical Details\nText from image/PDF extractions can be done preferably in Python but in any other language that works. OpenAI API can also be called using any language of preference. The frontend has to be minimal for an MVP.\nTimelines / Milestones\nExpected deadline after 7 days of acceptance. If successful, more bounties will be handed to the developer.",
         "author": "GerardGimenez1",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@GerardGimenez1/webapp-that-stores-p?t="
     },
     {
@@ -4706,7 +4706,7 @@
         "title": "Simple landing page, with complex background animation",
         "description": "Create a custom landing page with \"animated\" background, preferrably with CSS, and make sure it is mobile friendly.\n\nAcceptance Criteria\nBackground: criteria image\nSnake with text revolves around the screen\nThe \"rays\" spin slowly.\nI would prefer for animation to be achieved via CSS. Video or Gif is also possible, if you convince me that it is better done that way.\nMobile friendly\nButton links to external page.\n(optional) Preferrably use React or Vue.js",
         "author": "PaytonLee3",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@PaytonLee3/simple-landing-page?t="
     },
     {
@@ -4726,7 +4726,7 @@
         "title": "Facebook Keyword Finder",
         "description": "I need a python/node script that takes in a username/email, password, Facebook group URL, and array of keywords to search for, and returns an array of results that includes the post date, content, and a link to the post.\n\nAcceptance Criteria\nMust be implemented as a cron job that runs every 30 minutes (I will host it)\nMust keep the user logged in while running the cron job, and handle cases where the user is logged out\nMust have a way to alert the user if 2FA is required or if the user gets rate limited\nMust be able to deploy directly to AWS EC2 Amazon Linux instance",
         "author": "brwr",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@brwr/facebook-keyword-fin?t="
     },
     {
