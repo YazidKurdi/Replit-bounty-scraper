@@ -4906,7 +4906,7 @@
         "title": "8019 string path",
         "description": "8019 string path\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "HackerzCodingV2",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@HackerzCodingV2/8019-string-path?t="
     },
     {
@@ -4918,5 +4918,15 @@
         "author": "GennaroCuofano",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/web-app-for-business?t="
+    },
+    {
+        "index": "492",
+        "price": "$10.80",
+        "due_days": "due in 21 days",
+        "title": "Discord Bot + Dashboard",
+        "description": "I would like an advanced discord bot with many command features. The most important feature about this bot is it\u2019s help menu. i require its help menu to be displayed nicely and not like many public repls are. main features including moderation, welcome, automod, and invite tracking. but more needed also. alongside this i would like a custom dark mode dashboard to control the bot. eg, welcome message/ logging channels ect. though it should also be able to be managed through commands. i would like it to be both prefix and slash command based. finally i would like it to have a bunch of owner specific commands including serverlist, get an invite using the servers ID, and more.",
+        "author": "Podcast14",
+        "posted_time": "2 minutes ago",
+        "link": "https://replit.com/bounties/@Podcast14/discord-bot-dashboar?t="
     }
 ]
