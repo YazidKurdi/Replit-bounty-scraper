@@ -4946,7 +4946,7 @@
         "title": "Build a Business Directory Web App",
         "description": "This web app is a directory for businesses to create public profile listings showcasing their available job opportunities. They can easily manage their profiles and job postings through their dashboard.\n\nThe admin (myself) will also have a dashboard to oversee the listings, set up claim listings for the directory, edit/delete listings, and create blog posts for the website.\n\nThe Figma UI design for the web app is complete.  Looking for a talented developer with some design experience to bring this project to life.",
         "author": "CBSAI",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@CBSAI/build-a-business-dir?t="
     },
     {
@@ -4956,7 +4956,7 @@
         "title": "Reddit Thread Screenshot Script",
         "description": "Write a python script, which takes in a list of reddit thread links and spits out screenshots (in mobile view) of the main post and the top N (number should be changeable easily) comments.\n\nAcceptance Criteria\nShould accept a CSV of thread links\nShould maintain proper folders for output images, which should be named as main.jpeg, comment1.jpeg, comment2.jpeg and so on.\nShould also output out a JSON which contains the following (named metadata.json):\n\n{\n    \"thread_heading\": \"heading text\",\n    \"thread_body\": \"body text\",\n    \"comments\": [\n        {\n            \"id\": \"comment_1\", // should be the same as the file name in output\n            \"text\": \"comment text\"\n        }\n    ]\n}\n`",
         "author": "harshvardhan-gupta",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@harshvardhan-gupta/reddit-thread-screen?t="
     },
     {
@@ -4966,7 +4966,7 @@
         "title": "ChatGPT voice activated ",
         "description": "I want my code to run off of PyCharm, and I want it to pick up a wake word That I can edit as a variable, then will take my voice turn it into an input and ask ChatGPT that, I can enter my API key in the code and its not a variable. Then I want it to Speak out the result and all of it should run off of PyCharm.",
         "author": "whatisaapple",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@whatisaapple/chatgpt-voice-activa?t="
     },
     {
@@ -5006,7 +5006,7 @@
         "title": "Use Codex/GPT-3 to fine-tune a chat workflow that generates template Python code for authenticating with web3 API (JWT and Biscuits)",
         "description": "I need an expert with OpenAI APIs to build new workflows in GPT-3 or Codex that allow OpenAI to generate boilerplate/template python code  for an end user based on a chat conversation. The end-user will ask to begin writing queries against a new web3 database, and the chatbot will need to generate python to:\n 1) authenticating with the APIs of this new web3 database  (which is complex and requires JWTs) see: https://docs.spaceandtime.io/reference/user-id\n2) fine-tune GPT-3 or Codex to write template python that imports the JDBC driver for this web3 database\n3) fine-tune GPT-3 or Codex to add python code that writes SQL against the database and performs whatever actions the user requests\n\nFor example, the end-user could ask the chatbot, \"write me a python script that connects to Space and Time and inserts a new table with the following fields...\" and then your App will return python code that has template scripts to authenticate with Space and Time, and wraps the dri...",
         "author": "CedricBlair",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@CedricBlair/use-codexgpt-3-to-fi?t="
     },
     {
@@ -5026,7 +5026,7 @@
         "title": "Split string into raw text and keywords",
         "description": "Given one input string containing raw text and arbitrarily-coded keywords, return an array of that string split based on raw text and those keywords.\n\n\"Lorem ipsum dolor sit amet, consectetur #(https://youtu.be/2fDzCWNS3ig) adipiscing elit. Integer ut lacinia magna, et interdum urna.\\n\\nFusce pellentesque, nulla sit amet maximus vehicula, leo sem ^(global/keyword-0.category-1.property-3) tempus odio, quis vestibulum velit tellus eu odio. Morbi ac leo et massa ultrices auctor. Maecenas scelerisque velit sed bibendum tristique.\" => ...\n\n[\n  { type: null, body: \"Lorem ipsum dolor sit amet, consectetur \" },\n  { type: \"#\", body: \"https://youtu.be/2fDzCWNS3ig\" },\n  { type: null, body: \" adipiscing elit. Integer ut lacinia magna, et interdum urna.\\n\\nFusce pellentesque, nulla sit amet maximus vehicula, leo sem \" },\n  { type: \"^\", body: \"global/keyword-0.category-1.property-3\" },\n  { type: null, body: \" tempus odio, quis vestibulum velit tellus eu odio. Morbi ac leo et mas...",
         "author": "ambigoere",
-        "posted_time": "19 minutes ago",
+        "posted_time": "35 minutes ago",
         "link": "https://replit.com/bounties/@ambigoere/split-string-into-ra?t="
     }
 ]
