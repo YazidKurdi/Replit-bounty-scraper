@@ -4906,7 +4906,7 @@
         "title": "8019 string path",
         "description": "8019 string path\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "HackerzCodingV2",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@HackerzCodingV2/8019-string-path?t="
     },
     {
@@ -4936,7 +4936,7 @@
         "title": "Shopify app using new Rust discount functions",
         "description": "Need developer to create simple node/react embedded shopify app that uses the new rust discount functions. It will have a near identical implication to this tutorial but needs some different logic in the rust function that runs on checkout (https://shopify.github.io/workshops/codelabs/functions-volume-discount/index.html?index=./workshops&viewga=UA-82702-93#0)\n\nAcceptance Criteria\n1.) Shop owner can install app\n2.) Shop owner can enable app to run with a checkbox in the app dashboard\n3.) With app enabled shop owner can create discount codes with custom type (explained in tutorial linked above)\n4.) When app enabled the rust function runs on every checkout of their store (no action here, shopify runs this automatically)\n5.) The rust function will only apply custom type discount codes to specific products at checkout based on the conditions defined in one if statement, which will be shared in detail.\n\nTechnical Details\nHere is the shopify documentation on the type of s...",
         "author": "SamuelAbaka-Woo",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@SamuelAbaka-Woo/shopify-app-using-ne?t="
     },
     {
