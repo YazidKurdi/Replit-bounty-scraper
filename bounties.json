@@ -4936,7 +4936,7 @@
         "title": "Shopify app using new Rust discount functions",
         "description": "Need developer to create simple node/react embedded shopify app that uses the new rust discount functions. It will have a near identical implication to this tutorial but needs some different logic in the rust function that runs on checkout (https://shopify.github.io/workshops/codelabs/functions-volume-discount/index.html?index=./workshops&viewga=UA-82702-93#0)\n\nAcceptance Criteria\n1.) Shop owner can install app\n2.) Shop owner can enable app to run with a checkbox in the app dashboard\n3.) With app enabled shop owner can create discount codes with custom type (explained in tutorial linked above)\n4.) When app enabled the rust function runs on every checkout of their store (no action here, shopify runs this automatically)\n5.) The rust function will only apply custom type discount codes to specific products at checkout based on the conditions defined in one if statement, which will be shared in detail.\n\nTechnical Details\nHere is the shopify documentation on the type of s...",
         "author": "SamuelAbaka-Woo",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@SamuelAbaka-Woo/shopify-app-using-ne?t="
     },
     {
@@ -4986,7 +4986,7 @@
         "title": "Fix Image Size - Job Board",
         "description": "The logos of companies/employers are of all kinds of sizes. I want to resize the images so they fit in the div automatically.\n\nTechnical Details\nThe website is built with WordPress and uses a custom job board template.\n\nLink to Project\nExample of a vacancy on my job board: https://opurkwerken.nl/job/verpleegkundige/\nAs you can see the logo does not fit into the div. Probably an easy fix for someone that knows CSS \ud83d\ude05",
         "author": "heinbakker",
-        "posted_time": "43 minutes ago",
+        "posted_time": "52 minutes ago",
         "link": "https://replit.com/bounties/@heinbakker/fix-image-size-job-b?t="
     },
     {
@@ -4996,7 +4996,7 @@
         "title": "Teach me how to query pdfs with HyDe (embeddings + GPT)",
         "description": "Teach me how to use hypothetical document embeddings to query PDFs using GPT 3.\n\nThe documentation for doing this is here: https://langchain.readthedocs.io/en/latest/modules/utils/combinedocsexamples/hyde.html?highlight=HyDE\n\nI've tried to do this but ran into some problems. I'm very much a python beginner and am looking for someone to teach me to do this successfully over a video call.\n\nAcceptance Criteria\n\nPlease come to the call somewhat prepared to walk me through the process. I'll video record the call so I can reference it afterwards.\n\nIf a little prep is done, I don't imagine the call taking more than 15-30 minutes.\n\nTechnical Details\n\nLink to Project",
         "author": "RobHogan2",
-        "posted_time": "11 minutes ago",
+        "posted_time": "21 minutes ago",
         "link": "https://replit.com/bounties/@RobHogan2/teach-me-how-to-quer?t="
     },
     {
@@ -5006,7 +5006,7 @@
         "title": "Use Codex/GPT-3 to fine-tune a chat workflow that generates template Python code for authenticating with web3 API (JWT and Biscuits)",
         "description": "I need an expert with OpenAI APIs to build new workflows in GPT-3 or Codex that allow OpenAI to generate boilerplate/template python code  for an end user based on a chat conversation. The end-user will ask to begin writing queries against a new web3 database, and the chatbot will need to generate python to:\n 1) authenticating with the APIs of this new web3 database  (which is complex and requires JWTs) see: https://docs.spaceandtime.io/reference/user-id\n2) fine-tune GPT-3 or Codex to write template python that imports the JDBC driver for this web3 database\n3) fine-tune GPT-3 or Codex to add python code that writes SQL against the database and performs whatever actions the user requests\n\nFor example, the end-user could ask the chatbot, \"write me a python script that connects to Space and Time and inserts a new table with the following fields...\" and then your App will return python code that has template scripts to authenticate with Space and Time, and wraps the dri...",
         "author": "CedricBlair",
-        "posted_time": "2 minutes ago",
+        "posted_time": "11 minutes ago",
         "link": "https://replit.com/bounties/@CedricBlair/use-codexgpt-3-to-fi?t="
     }
 ]
