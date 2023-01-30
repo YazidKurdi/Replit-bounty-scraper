@@ -4816,7 +4816,7 @@
         "title": "Podcast webs",
         "description": "Podcast website\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "HackerzCodingV2",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@HackerzCodingV2/podcast-webs?t="
     },
     {
@@ -4826,7 +4826,7 @@
         "title": "Raadsel webs applicant",
         "description": "Raadzel\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "HackerzCodingV2",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@HackerzCodingV2/raadsel-webs-applica?t="
     },
     {
@@ -4856,7 +4856,7 @@
         "title": "Transcribe & Summarize Proof of Concept",
         "description": "I would like to utilize whisper to transcribe audio from a meeting.  I would like to utilize GPT-3 to automatically summarize the meeting from the transcript.\n\nIt should support diarization to identify the different speakers.  Below are some resources on solving this.\nhttps://lablab.ai/t/whisper-transcription-and-speaker-identification\nhttps://github.com/openai/whisper/discussions/264\nhttps://huggingface.co/spaces/vumichien/whisper-speaker-diarization\n\nAcceptance Criteria\nIt should allow me to put in my OpenAI API Key\nIt should have a react frontend\nIt should use a postgres DB\nIt should use Ruby on Rails\nIt should save meeting transcripts and summaries\nIt should display meeting transcript and summaries\nIt should provide extraction of any meeting takeaway tasks\nIt should be deployed to replit for testing\n\nNice to Have\nIt would be great to have this be ready to move to being hosted on AWS but this is nice to have not need.",
         "author": "AccountsAdmin",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@AccountsAdmin/transcribe-and-summa?t="
     },
     {
@@ -4866,7 +4866,7 @@
         "title": "Saas application usage",
         "description": "As a team grows, the number of software applications used also grows. This is to help teams understand which applications all of their employees have logged in and how often they are using those apps.\n\nConnecting Google Workspace and Okta is the best way to do this.\nAcceptance Criteria\nA web application where a user can login with Google or Okta and they are asked for the right permissions.\nSidebar navigation links (view for each of these links describe below):\nDashboard\nApplications\nUsers\nSettings\n\nDashboard\n\nSection 1\nA horizontal section at the top that shows:\nNew applications. Example text: \u201c5 new employees starting using X application\u201d\nUnused applications. Example text: \u201cThere are 20 apps that have not been used in the last 60 days\u201d\nChange in usage. Example text \u201cIn the last 3 months, Zoom usage dropped from 100 people to 50 people\u201d\n\nUsage is determined by if a user has logged in, in the last week.\nSection 2\nBelow the above horizontal section, there are two ver...",
         "author": "anilcv",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@anilcv/saas-application-usa?t="
     },
     {
@@ -4886,7 +4886,7 @@
         "title": "OpenAI GPT3 Playground Frontend",
         "description": "already taken\nAcceptance Criteria\n\nTechnical Details",
         "author": "CrownDevelopment",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@CrownDevelopment/openai-gpt3-playgrou-1?t="
     }
 ]
