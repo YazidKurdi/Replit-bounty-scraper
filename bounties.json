@@ -4946,7 +4946,7 @@
         "title": "Build a Business Directory Web App",
         "description": "This web app is a directory for businesses to create public profile listings showcasing their available job opportunities. They can easily manage their profiles and job postings through their dashboard.\n\nThe admin (myself) will also have a dashboard to oversee the listings, set up claim listings for the directory, edit/delete listings, and create blog posts for the website.\n\nThe Figma UI design for the web app is complete.  Looking for a talented developer with some design experience to bring this project to life.",
         "author": "CBSAI",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@CBSAI/build-a-business-dir?t="
     },
     {
@@ -4956,7 +4956,7 @@
         "title": "Reddit Thread Screenshot Script",
         "description": "Write a python script, which takes in a list of reddit thread links and spits out screenshots (in mobile view) of the main post and the top N (number should be changeable easily) comments.\n\nAcceptance Criteria\nShould accept a CSV of thread links\nShould maintain proper folders for output images, which should be named as main.jpeg, comment1.jpeg, comment2.jpeg and so on.\nShould also output out a JSON which contains the following (named metadata.json):\n\n{\n    \"thread_heading\": \"heading text\",\n    \"thread_body\": \"body text\",\n    \"comments\": [\n        {\n            \"id\": \"comment_1\", // should be the same as the file name in output\n            \"text\": \"comment text\"\n        }\n    ]\n}\n`",
         "author": "harshvardhan-gupta",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@harshvardhan-gupta/reddit-thread-screen?t="
     },
     {
@@ -4966,7 +4966,7 @@
         "title": "ChatGPT voice activated ",
         "description": "I want my code to run off of PyCharm, and I want it to pick up a wake word That I can edit as a variable, then will take my voice turn it into an input and ask ChatGPT that, I can enter my API key in the code and its not a variable. Then I want it to Speak out the result and all of it should run off of PyCharm.",
         "author": "whatisaapple",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@whatisaapple/chatgpt-voice-activa?t="
     },
     {
@@ -4982,11 +4982,11 @@
     {
         "index": "498",
         "price": "$2.25",
-        "due_days": "due in 3 days",
+        "due_days": "closed",
         "title": "Fix Image Size - Job Board",
         "description": "The logos of companies/employers are of all kinds of sizes. I want to resize the images so they fit in the div automatically.\n\nTechnical Details\nThe website is built with WordPress and uses a custom job board template.\n\nLink to Project\nExample of a vacancy on my job board: https://opurkwerken.nl/job/verpleegkundige/\nAs you can see the logo does not fit into the div. Probably an easy fix for someone that knows CSS \ud83d\ude05",
         "author": "heinbakker",
-        "posted_time": "2 minutes ago",
+        "posted_time": "16 minutes ago",
         "link": "https://replit.com/bounties/@heinbakker/fix-image-size-job-b?t="
     }
 ]

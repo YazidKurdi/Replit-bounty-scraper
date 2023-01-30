@@ -3946,7 +3946,7 @@ Here is the shopify documentation on the type of s...",SamuelAbaka-Woo,6 hours a
 
 The admin (myself) will also have a dashboard to oversee the listings, set up claim listings for the directory, edit/delete listings, and create blog posts for the website.
 
-The Figma UI design for the web app is complete.  Looking for a talented developer with some design experience to bring this project to life.",CBSAI,5 hours ago,https://replit.com/bounties/@CBSAI/build-a-business-dir?t=
+The Figma UI design for the web app is complete.  Looking for a talented developer with some design experience to bring this project to life.",CBSAI,6 hours ago,https://replit.com/bounties/@CBSAI/build-a-business-dir?t=
 495,$9.01,due in 14 days,Reddit Thread Screenshot Script,"Write a python script, which takes in a list of reddit thread links and spits out screenshots (in mobile view) of the main post and the top N (number should be changeable easily) comments.
 
 Acceptance Criteria
@@ -3964,8 +3964,8 @@ Should also output out a JSON which contains the following (named metadata.json)
         }
     ]
 }
-`",harshvardhan-gupta,2 hours ago,https://replit.com/bounties/@harshvardhan-gupta/reddit-thread-screen?t=
-496,$1.35,due in 3 days,ChatGPT voice activated ,"I want my code to run off of PyCharm, and I want it to pick up a wake word That I can edit as a variable, then will take my voice turn it into an input and ask ChatGPT that, I can enter my API key in the code and its not a variable. Then I want it to Speak out the result and all of it should run off of PyCharm.",whatisaapple,2 hours ago,https://replit.com/bounties/@whatisaapple/chatgpt-voice-activa?t=
+`",harshvardhan-gupta,3 hours ago,https://replit.com/bounties/@harshvardhan-gupta/reddit-thread-screen?t=
+496,$1.35,due in 3 days,ChatGPT voice activated ,"I want my code to run off of PyCharm, and I want it to pick up a wake word That I can edit as a variable, then will take my voice turn it into an input and ask ChatGPT that, I can enter my API key in the code and its not a variable. Then I want it to Speak out the result and all of it should run off of PyCharm.",whatisaapple,3 hours ago,https://replit.com/bounties/@whatisaapple/chatgpt-voice-activa?t=
 497,$0.90,due in 3 days,"[HTML, CSS, JS] 2 Small changes","My site is https://games.odd.gay/ I need the following changes made
 When hovering over a game icon for 1 second it pops up with an info box with a 1-word description
 Fix the bottom of the site where the links are the same as the text so it says words right next to each other
@@ -3973,11 +3973,11 @@ Fix the bottom of the site where the links are the same as the text so it says w
 Acceptance Criteria
 Must have previous experience
 Must have discord linked on profile or in the application",OddGames,2 hours ago,https://replit.com/bounties/@OddGames/html-css-js-2-small?t=
-498,$2.25,due in 3 days,Fix Image Size - Job Board,"The logos of companies/employers are of all kinds of sizes. I want to resize the images so they fit in the div automatically.
+498,$2.25,closed,Fix Image Size - Job Board,"The logos of companies/employers are of all kinds of sizes. I want to resize the images so they fit in the div automatically.
 
 Technical Details
 The website is built with WordPress and uses a custom job board template.
 
 Link to Project
 Example of a vacancy on my job board: https://opurkwerken.nl/job/verpleegkundige/
-As you can see the logo does not fit into the div. Probably an easy fix for someone that knows CSS 😅",heinbakker,2 minutes ago,https://replit.com/bounties/@heinbakker/fix-image-size-job-b?t=
+As you can see the logo does not fit into the div. Probably an easy fix for someone that knows CSS 😅",heinbakker,16 minutes ago,https://replit.com/bounties/@heinbakker/fix-image-size-job-b?t=
