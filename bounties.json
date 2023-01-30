@@ -4916,7 +4916,7 @@
         "title": "web app for business",
         "description": "Automate the workflow from business idea to business plan.\n\nAcceptance Criteria\nOnce the applicant has been chosen, we'll share more details about the entire workflow.\n\nTechnical Details",
         "author": "GennaroCuofano",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/web-app-for-business?t="
     },
     {
@@ -4986,7 +4986,17 @@
         "title": "Fix Image Size - Job Board",
         "description": "The logos of companies/employers are of all kinds of sizes. I want to resize the images so they fit in the div automatically.\n\nTechnical Details\nThe website is built with WordPress and uses a custom job board template.\n\nLink to Project\nExample of a vacancy on my job board: https://opurkwerken.nl/job/verpleegkundige/\nAs you can see the logo does not fit into the div. Probably an easy fix for someone that knows CSS \ud83d\ude05",
         "author": "heinbakker",
-        "posted_time": "28 minutes ago",
+        "posted_time": "35 minutes ago",
         "link": "https://replit.com/bounties/@heinbakker/fix-image-size-job-b?t="
+    },
+    {
+        "index": "499",
+        "price": "$27.00",
+        "due_days": "due in 3 days",
+        "title": "Teach me how to query pdfs with HyDe (embeddings + GPT)",
+        "description": "Teach me how to use hypothetical document embeddings to query PDFs using GPT 3.\n\nThe documentation for doing this is here: https://langchain.readthedocs.io/en/latest/modules/utils/combinedocsexamples/hyde.html?highlight=HyDE\n\nI've tried to do this but ran into some problems. I'm very much a python beginner and am looking for someone to teach me to do this successfully over a video call.\n\nAcceptance Criteria\n\nPlease come to the call somewhat prepared to walk me through the process. I'll video record the call so I can reference it afterwards.\n\nIf a little prep is done, I don't imagine the call taking more than 15-30 minutes.\n\nTechnical Details\n\nLink to Project",
+        "author": "RobHogan2",
+        "posted_time": "4 minutes ago",
+        "link": "https://replit.com/bounties/@RobHogan2/teach-me-how-to-quer?t="
     }
 ]
