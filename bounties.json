@@ -4856,7 +4856,7 @@
         "title": "Transcribe & Summarize Proof of Concept",
         "description": "I would like to utilize whisper to transcribe audio from a meeting.  I would like to utilize GPT-3 to automatically summarize the meeting from the transcript.\n\nIt should support diarization to identify the different speakers.  Below are some resources on solving this.\nhttps://lablab.ai/t/whisper-transcription-and-speaker-identification\nhttps://github.com/openai/whisper/discussions/264\nhttps://huggingface.co/spaces/vumichien/whisper-speaker-diarization\n\nAcceptance Criteria\nIt should allow me to put in my OpenAI API Key\nIt should have a react frontend\nIt should use a postgres DB\nIt should use Ruby on Rails\nIt should save meeting transcripts and summaries\nIt should display meeting transcript and summaries\nIt should provide extraction of any meeting takeaway tasks\nIt should be deployed to replit for testing\n\nNice to Have\nIt would be great to have this be ready to move to being hosted on AWS but this is nice to have not need.",
         "author": "AccountsAdmin",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@AccountsAdmin/transcribe-and-summa?t="
     },
     {
@@ -4876,7 +4876,7 @@
         "title": "[HTML, CSS, JS] 2 Changes to a site",
         "description": "My site is https://games.odd.gay/ I need the following changes made\n\nWhen hovering over a game icon for 1 second it pops up with an info box with a 1-word description\nI need it so when you make a game is clicked instead of opening in a new tab it pops up with an IFrame to the game and under that a description of the game and a close button at top corner and some options below like full screen, mute, etc. below I will provide a quick sketch of the plan\nhttps://ibb.co/DGFrsqh\n\nAcceptance Criteria\nMust have previous experience\nMust have discord linked on profile or in the application",
         "author": "OddGames",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@OddGames/html-css-js-1-simple?t="
     },
     {
@@ -4886,7 +4886,7 @@
         "title": "OpenAI GPT3 Playground Frontend",
         "description": "already taken\nAcceptance Criteria\n\nTechnical Details",
         "author": "CrownDevelopment",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@CrownDevelopment/openai-gpt3-playgrou-1?t="
     },
     {
@@ -4936,7 +4936,7 @@
         "title": "Shopify app using new Rust discount functions",
         "description": "Need developer to create simple node/react embedded shopify app that uses the new rust discount functions. It will have a near identical implication to this tutorial but needs some different logic in the rust function that runs on checkout (https://shopify.github.io/workshops/codelabs/functions-volume-discount/index.html?index=./workshops&viewga=UA-82702-93#0)\n\nAcceptance Criteria\n1.) Shop owner can install app\n2.) Shop owner can enable app to run with a checkbox in the app dashboard\n3.) With app enabled shop owner can create discount codes with custom type (explained in tutorial linked above)\n4.) When app enabled the rust function runs on every checkout of their store (no action here, shopify runs this automatically)\n5.) The rust function will only apply custom type discount codes to specific products at checkout based on the conditions defined in one if statement, which will be shared in detail.\n\nTechnical Details\nHere is the shopify documentation on the type of s...",
         "author": "SamuelAbaka-Woo",
-        "posted_time": "49 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@SamuelAbaka-Woo/shopify-app-using-ne?t="
     },
     {
@@ -4946,7 +4946,7 @@
         "title": "Build a Business Directory Web App",
         "description": "This web app is a directory for businesses to create public profile listings showcasing their available job opportunities. They can easily manage their profiles and job postings through their dashboard.\n\nThe admin (myself) will also have a dashboard to oversee the listings, set up claim listings for the directory, edit/delete listings, and create blog posts for the website.\n\nThe Figma UI design for the web app is complete.  Looking for a talented developer with some design experience to bring this project to life.",
         "author": "CBSAI",
-        "posted_time": "21 minutes ago",
+        "posted_time": "36 minutes ago",
         "link": "https://replit.com/bounties/@CBSAI/build-a-business-dir?t="
     }
 ]
