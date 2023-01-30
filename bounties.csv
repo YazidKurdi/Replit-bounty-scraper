@@ -3930,7 +3930,7 @@ Acceptance Criteria
 Once the applicant has been chosen, we'll share more details about the entire workflow.
 
 Technical Details",GennaroCuofano,13 hours ago,https://replit.com/bounties/@GennaroCuofano/web-app-for-business?t=
-492,$10.80,due in 20 days,Discord Bot + Dashboard,"I would like an advanced discord bot with many command features. The most important feature about this bot is it’s help menu. i require its help menu to be displayed nicely and not like many public repls are. main features including moderation, welcome, automod, and invite tracking. but more needed also. alongside this i would like a custom dark mode dashboard to control the bot. eg, welcome message/ logging channels ect. though it should also be able to be managed through commands. i would like it to be both prefix and slash command based. finally i would like it to have a bunch of owner specific commands including serverlist, get an invite using the servers ID, and more.",Podcast14,11 hours ago,https://replit.com/bounties/@Podcast14/discord-bot-dashboar?t=
+492,$10.80,due in 20 days,Discord Bot + Dashboard,"I would like an advanced discord bot with many command features. The most important feature about this bot is it’s help menu. i require its help menu to be displayed nicely and not like many public repls are. main features including moderation, welcome, automod, and invite tracking. but more needed also. alongside this i would like a custom dark mode dashboard to control the bot. eg, welcome message/ logging channels ect. though it should also be able to be managed through commands. i would like it to be both prefix and slash command based. finally i would like it to have a bunch of owner specific commands including serverlist, get an invite using the servers ID, and more.",Podcast14,12 hours ago,https://replit.com/bounties/@Podcast14/discord-bot-dashboar?t=
 493,$225.00,due in 6 days,Shopify app using new Rust discount functions,"Need developer to create simple node/react embedded shopify app that uses the new rust discount functions. It will have a near identical implication to this tutorial but needs some different logic in the rust function that runs on checkout (https://shopify.github.io/workshops/codelabs/functions-volume-discount/index.html?index=./workshops&viewga=UA-82702-93#0)
 
 Acceptance Criteria
@@ -3980,7 +3980,7 @@ The website is built with WordPress and uses a custom job board template.
 
 Link to Project
 Example of a vacancy on my job board: https://opurkwerken.nl/job/verpleegkundige/
-As you can see the logo does not fit into the div. Probably an easy fix for someone that knows CSS 😅",heinbakker,1 hour ago,https://replit.com/bounties/@heinbakker/fix-image-size-job-b?t=
+As you can see the logo does not fit into the div. Probably an easy fix for someone that knows CSS 😅",heinbakker,2 hours ago,https://replit.com/bounties/@heinbakker/fix-image-size-job-b?t=
 499,$27.00,due in 3 days,Teach me how to query pdfs with HyDe (embeddings + GPT),"Teach me how to use hypothetical document embeddings to query PDFs using GPT 3.
 
 The documentation for doing this is here: https://langchain.readthedocs.io/en/latest/modules/utils/combinedocsexamples/hyde.html?highlight=HyDE
@@ -3995,13 +3995,13 @@ If a little prep is done, I don't imagine the call taking more than 15-30 minute
 
 Technical Details
 
-Link to Project",RobHogan2,47 minutes ago,https://replit.com/bounties/@RobHogan2/teach-me-how-to-quer?t=
+Link to Project",RobHogan2,1 hour ago,https://replit.com/bounties/@RobHogan2/teach-me-how-to-quer?t=
 500,"$1,080.00",due in 28 days,Use Codex/GPT-3 to fine-tune a chat workflow that generates template Python code for authenticating with web3 API (JWT and Biscuits),"I need an expert with OpenAI APIs to build new workflows in GPT-3 or Codex that allow OpenAI to generate boilerplate/template python code  for an end user based on a chat conversation. The end-user will ask to begin writing queries against a new web3 database, and the chatbot will need to generate python to:
  1) authenticating with the APIs of this new web3 database  (which is complex and requires JWTs) see: https://docs.spaceandtime.io/reference/user-id
 2) fine-tune GPT-3 or Codex to write template python that imports the JDBC driver for this web3 database
 3) fine-tune GPT-3 or Codex to add python code that writes SQL against the database and performs whatever actions the user requests
 
-For example, the end-user could ask the chatbot, ""write me a python script that connects to Space and Time and inserts a new table with the following fields..."" and then your App will return python code that has template scripts to authenticate with Space and Time, and wraps the dri...",CedricBlair,37 minutes ago,https://replit.com/bounties/@CedricBlair/use-codexgpt-3-to-fi?t=
+For example, the end-user could ask the chatbot, ""write me a python script that connects to Space and Time and inserts a new table with the following fields..."" and then your App will return python code that has template scripts to authenticate with Space and Time, and wraps the dri...",CedricBlair,53 minutes ago,https://replit.com/bounties/@CedricBlair/use-codexgpt-3-to-fi?t=
 501,$450.00,due in 3 days,Serpapi + GPT + langchain,"Combine serpapi+GPT + langchain in a deployed web app environment to:
 -parse text to detect assertions of facts
 -ajudicate the correct service to search for references supporting/refuting the assertions
@@ -4009,4 +4009,4 @@ For example, the end-user could ask the chatbot, ""write me a python script that
 -cite sources
 Acceptance Criteria
 deployed web app
-Technical Details",ts2013,9 minutes ago,https://replit.com/bounties/@ts2013/serpapi-gpt-langchai?t=
+Technical Details",ts2013,24 minutes ago,https://replit.com/bounties/@ts2013/serpapi-gpt-langchai?t=
