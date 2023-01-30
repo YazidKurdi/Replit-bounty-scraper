@@ -4906,7 +4906,7 @@
         "title": "8019 string path",
         "description": "8019 string path\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "HackerzCodingV2",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@HackerzCodingV2/8019-string-path?t="
     },
     {
@@ -4956,7 +4956,7 @@
         "title": "Reddit Thread Screenshot Script",
         "description": "Write a python script, which takes in a list of reddit thread links and spits out screenshots (in mobile view) of the main post and the top N (number should be changeable easily) comments.\n\nAcceptance Criteria\nShould accept a CSV of thread links\nShould maintain proper folders for output images, which should be named as main.jpeg, comment1.jpeg, comment2.jpeg and so on.\nShould also output out a JSON which contains the following (named metadata.json):\n\n{\n    \"thread_heading\": \"heading text\",\n    \"thread_body\": \"body text\",\n    \"comments\": [\n        {\n            \"id\": \"comment_1\", // should be the same as the file name in output\n            \"text\": \"comment text\"\n        }\n    ]\n}\n`",
         "author": "harshvardhan-gupta",
-        "posted_time": "9 minutes ago",
+        "posted_time": "21 minutes ago",
         "link": "https://replit.com/bounties/@harshvardhan-gupta/reddit-thread-screen?t="
     },
     {
@@ -4966,7 +4966,7 @@
         "title": "ChatGPT voice activated ",
         "description": "I want my code to run off of PyCharm, and I want it to pick up a wake word That I can edit as a variable, then will take my voice turn it into an input and ask ChatGPT that, I can enter my API key in the code and its not a variable. Then I want it to Speak out the result and all of it should run off of PyCharm.",
         "author": "whatisaapple",
-        "posted_time": "2 minutes ago",
+        "posted_time": "13 minutes ago",
         "link": "https://replit.com/bounties/@whatisaapple/chatgpt-voice-activa?t="
     }
 ]
