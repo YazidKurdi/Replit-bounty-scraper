@@ -4876,7 +4876,7 @@
         "title": "[HTML, CSS, JS] 2 Changes to a site",
         "description": "My site is https://games.odd.gay/ I need the following changes made\n\nWhen hovering over a game icon for 1 second it pops up with an info box with a 1-word description\nI need it so when you make a game is clicked instead of opening in a new tab it pops up with an IFrame to the game and under that a description of the game and a close button at top corner and some options below like full screen, mute, etc. below I will provide a quick sketch of the plan\nhttps://ibb.co/DGFrsqh\n\nAcceptance Criteria\nMust have previous experience\nMust have discord linked on profile or in the application",
         "author": "OddGames",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@OddGames/html-css-js-1-simple?t="
     },
     {
@@ -4956,7 +4956,7 @@
         "title": "Reddit Thread Screenshot Script",
         "description": "Write a python script, which takes in a list of reddit thread links and spits out screenshots (in mobile view) of the main post and the top N (number should be changeable easily) comments.\n\nAcceptance Criteria\nShould accept a CSV of thread links\nShould maintain proper folders for output images, which should be named as main.jpeg, comment1.jpeg, comment2.jpeg and so on.\nShould also output out a JSON which contains the following (named metadata.json):\n\n{\n    \"thread_heading\": \"heading text\",\n    \"thread_body\": \"body text\",\n    \"comments\": [\n        {\n            \"id\": \"comment_1\", // should be the same as the file name in output\n            \"text\": \"comment text\"\n        }\n    ]\n}\n`",
         "author": "harshvardhan-gupta",
-        "posted_time": "21 minutes ago",
+        "posted_time": "28 minutes ago",
         "link": "https://replit.com/bounties/@harshvardhan-gupta/reddit-thread-screen?t="
     },
     {
@@ -4966,7 +4966,7 @@
         "title": "ChatGPT voice activated ",
         "description": "I want my code to run off of PyCharm, and I want it to pick up a wake word That I can edit as a variable, then will take my voice turn it into an input and ask ChatGPT that, I can enter my API key in the code and its not a variable. Then I want it to Speak out the result and all of it should run off of PyCharm.",
         "author": "whatisaapple",
-        "posted_time": "13 minutes ago",
+        "posted_time": "21 minutes ago",
         "link": "https://replit.com/bounties/@whatisaapple/chatgpt-voice-activa?t="
     }
 ]
