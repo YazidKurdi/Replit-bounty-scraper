@@ -4946,7 +4946,7 @@
         "title": "Build a Business Directory Web App",
         "description": "This web app is a directory for businesses to create public profile listings showcasing their available job opportunities. They can easily manage their profiles and job postings through their dashboard.\n\nThe admin (myself) will also have a dashboard to oversee the listings, set up claim listings for the directory, edit/delete listings, and create blog posts for the website.\n\nThe Figma UI design for the web app is complete.  Looking for a talented developer with some design experience to bring this project to life.",
         "author": "CBSAI",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@CBSAI/build-a-business-dir?t="
     },
     {
@@ -4956,7 +4956,7 @@
         "title": "Reddit Thread Screenshot Script",
         "description": "Write a python script, which takes in a list of reddit thread links and spits out screenshots (in mobile view) of the main post and the top N (number should be changeable easily) comments.\n\nAcceptance Criteria\nShould accept a CSV of thread links\nShould maintain proper folders for output images, which should be named as main.jpeg, comment1.jpeg, comment2.jpeg and so on.\nShould also output out a JSON which contains the following (named metadata.json):\n\n{\n    \"thread_heading\": \"heading text\",\n    \"thread_body\": \"body text\",\n    \"comments\": [\n        {\n            \"id\": \"comment_1\", // should be the same as the file name in output\n            \"text\": \"comment text\"\n        }\n    ]\n}\n`",
         "author": "harshvardhan-gupta",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@harshvardhan-gupta/reddit-thread-screen?t="
     },
     {
@@ -4966,7 +4966,7 @@
         "title": "ChatGPT voice activated ",
         "description": "I want my code to run off of PyCharm, and I want it to pick up a wake word That I can edit as a variable, then will take my voice turn it into an input and ask ChatGPT that, I can enter my API key in the code and its not a variable. Then I want it to Speak out the result and all of it should run off of PyCharm.",
         "author": "whatisaapple",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@whatisaapple/chatgpt-voice-activa?t="
     },
     {
@@ -4996,7 +4996,7 @@
         "title": "Teach me how to query pdfs with HyDe (embeddings + GPT)",
         "description": "Teach me how to use hypothetical document embeddings to query PDFs using GPT 3.\n\nThe documentation for doing this is here: https://langchain.readthedocs.io/en/latest/modules/utils/combinedocsexamples/hyde.html?highlight=HyDE\n\nI've tried to do this but ran into some problems. I'm very much a python beginner and am looking for someone to teach me to do this successfully over a video call.\n\nAcceptance Criteria\n\nPlease come to the call somewhat prepared to walk me through the process. I'll video record the call so I can reference it afterwards.\n\nIf a little prep is done, I don't imagine the call taking more than 15-30 minutes.\n\nTechnical Details\n\nLink to Project",
         "author": "RobHogan2",
-        "posted_time": "31 minutes ago",
+        "posted_time": "47 minutes ago",
         "link": "https://replit.com/bounties/@RobHogan2/teach-me-how-to-quer?t="
     },
     {
@@ -5006,7 +5006,17 @@
         "title": "Use Codex/GPT-3 to fine-tune a chat workflow that generates template Python code for authenticating with web3 API (JWT and Biscuits)",
         "description": "I need an expert with OpenAI APIs to build new workflows in GPT-3 or Codex that allow OpenAI to generate boilerplate/template python code  for an end user based on a chat conversation. The end-user will ask to begin writing queries against a new web3 database, and the chatbot will need to generate python to:\n 1) authenticating with the APIs of this new web3 database  (which is complex and requires JWTs) see: https://docs.spaceandtime.io/reference/user-id\n2) fine-tune GPT-3 or Codex to write template python that imports the JDBC driver for this web3 database\n3) fine-tune GPT-3 or Codex to add python code that writes SQL against the database and performs whatever actions the user requests\n\nFor example, the end-user could ask the chatbot, \"write me a python script that connects to Space and Time and inserts a new table with the following fields...\" and then your App will return python code that has template scripts to authenticate with Space and Time, and wraps the dri...",
         "author": "CedricBlair",
-        "posted_time": "21 minutes ago",
+        "posted_time": "37 minutes ago",
         "link": "https://replit.com/bounties/@CedricBlair/use-codexgpt-3-to-fi?t="
+    },
+    {
+        "index": "501",
+        "price": "$450.00",
+        "due_days": "due in 3 days",
+        "title": "Serpapi + GPT + langchain",
+        "description": "Combine serpapi+GPT + langchain in a deployed web app environment to:\n-parse text to detect assertions of facts\n-ajudicate the correct service to search for references supporting/refuting the assertions\n-revise the initial assertion based on the reference search\n-cite sources\nAcceptance Criteria\ndeployed web app\nTechnical Details",
+        "author": "ts2013",
+        "posted_time": "9 minutes ago",
+        "link": "https://replit.com/bounties/@ts2013/serpapi-gpt-langchai?t="
     }
 ]

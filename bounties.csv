@@ -3946,7 +3946,7 @@ Here is the shopify documentation on the type of s...",SamuelAbaka-Woo,7 hours a
 
 The admin (myself) will also have a dashboard to oversee the listings, set up claim listings for the directory, edit/delete listings, and create blog posts for the website.
 
-The Figma UI design for the web app is complete.  Looking for a talented developer with some design experience to bring this project to life.",CBSAI,6 hours ago,https://replit.com/bounties/@CBSAI/build-a-business-dir?t=
+The Figma UI design for the web app is complete.  Looking for a talented developer with some design experience to bring this project to life.",CBSAI,7 hours ago,https://replit.com/bounties/@CBSAI/build-a-business-dir?t=
 495,$9.01,due in 14 days,Reddit Thread Screenshot Script,"Write a python script, which takes in a list of reddit thread links and spits out screenshots (in mobile view) of the main post and the top N (number should be changeable easily) comments.
 
 Acceptance Criteria
@@ -3964,8 +3964,8 @@ Should also output out a JSON which contains the following (named metadata.json)
         }
     ]
 }
-`",harshvardhan-gupta,3 hours ago,https://replit.com/bounties/@harshvardhan-gupta/reddit-thread-screen?t=
-496,$1.35,due in 3 days,ChatGPT voice activated ,"I want my code to run off of PyCharm, and I want it to pick up a wake word That I can edit as a variable, then will take my voice turn it into an input and ask ChatGPT that, I can enter my API key in the code and its not a variable. Then I want it to Speak out the result and all of it should run off of PyCharm.",whatisaapple,3 hours ago,https://replit.com/bounties/@whatisaapple/chatgpt-voice-activa?t=
+`",harshvardhan-gupta,4 hours ago,https://replit.com/bounties/@harshvardhan-gupta/reddit-thread-screen?t=
+496,$1.35,due in 3 days,ChatGPT voice activated ,"I want my code to run off of PyCharm, and I want it to pick up a wake word That I can edit as a variable, then will take my voice turn it into an input and ask ChatGPT that, I can enter my API key in the code and its not a variable. Then I want it to Speak out the result and all of it should run off of PyCharm.",whatisaapple,4 hours ago,https://replit.com/bounties/@whatisaapple/chatgpt-voice-activa?t=
 497,$0.90,due in 3 days,"[HTML, CSS, JS] 2 Small changes","My site is https://games.odd.gay/ I need the following changes made
 When hovering over a game icon for 1 second it pops up with an info box with a 1-word description
 Fix the bottom of the site where the links are the same as the text so it says words right next to each other
@@ -3995,10 +3995,18 @@ If a little prep is done, I don't imagine the call taking more than 15-30 minute
 
 Technical Details
 
-Link to Project",RobHogan2,31 minutes ago,https://replit.com/bounties/@RobHogan2/teach-me-how-to-quer?t=
+Link to Project",RobHogan2,47 minutes ago,https://replit.com/bounties/@RobHogan2/teach-me-how-to-quer?t=
 500,"$1,080.00",due in 28 days,Use Codex/GPT-3 to fine-tune a chat workflow that generates template Python code for authenticating with web3 API (JWT and Biscuits),"I need an expert with OpenAI APIs to build new workflows in GPT-3 or Codex that allow OpenAI to generate boilerplate/template python code  for an end user based on a chat conversation. The end-user will ask to begin writing queries against a new web3 database, and the chatbot will need to generate python to:
  1) authenticating with the APIs of this new web3 database  (which is complex and requires JWTs) see: https://docs.spaceandtime.io/reference/user-id
 2) fine-tune GPT-3 or Codex to write template python that imports the JDBC driver for this web3 database
 3) fine-tune GPT-3 or Codex to add python code that writes SQL against the database and performs whatever actions the user requests
 
-For example, the end-user could ask the chatbot, ""write me a python script that connects to Space and Time and inserts a new table with the following fields..."" and then your App will return python code that has template scripts to authenticate with Space and Time, and wraps the dri...",CedricBlair,21 minutes ago,https://replit.com/bounties/@CedricBlair/use-codexgpt-3-to-fi?t=
+For example, the end-user could ask the chatbot, ""write me a python script that connects to Space and Time and inserts a new table with the following fields..."" and then your App will return python code that has template scripts to authenticate with Space and Time, and wraps the dri...",CedricBlair,37 minutes ago,https://replit.com/bounties/@CedricBlair/use-codexgpt-3-to-fi?t=
+501,$450.00,due in 3 days,Serpapi + GPT + langchain,"Combine serpapi+GPT + langchain in a deployed web app environment to:
+-parse text to detect assertions of facts
+-ajudicate the correct service to search for references supporting/refuting the assertions
+-revise the initial assertion based on the reference search
+-cite sources
+Acceptance Criteria
+deployed web app
+Technical Details",ts2013,9 minutes ago,https://replit.com/bounties/@ts2013/serpapi-gpt-langchai?t=
