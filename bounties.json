@@ -4976,7 +4976,17 @@
         "title": "[HTML, CSS, JS] 2 Small changes",
         "description": "My site is https://games.odd.gay/ I need the following changes made\nWhen hovering over a game icon for 1 second it pops up with an info box with a 1-word description\nFix the bottom of the site where the links are the same as the text so it says words right next to each other\n\nAcceptance Criteria\nMust have previous experience\nMust have discord linked on profile or in the application",
         "author": "OddGames",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@OddGames/html-css-js-2-small?t="
+    },
+    {
+        "index": "498",
+        "price": "$2.25",
+        "due_days": "due in 3 days",
+        "title": "Fix Image Size - Job Board",
+        "description": "The logos of companies/employers are of all kinds of sizes. I want to resize the images so they fit in the div automatically.\n\nTechnical Details\nThe website is built with WordPress and uses a custom job board template.\n\nLink to Project\nExample of a vacancy on my job board: https://opurkwerken.nl/job/verpleegkundige/\nAs you can see the logo does not fit into the div. Probably an easy fix for someone that knows CSS \ud83d\ude05",
+        "author": "heinbakker",
+        "posted_time": "2 minutes ago",
+        "link": "https://replit.com/bounties/@heinbakker/fix-image-size-job-b?t="
     }
 ]
