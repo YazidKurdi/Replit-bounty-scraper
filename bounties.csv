@@ -4019,7 +4019,7 @@ Technical Details",ts2013,1 day ago,https://replit.com/bounties/@ts2013/serpapi-
   { type: ""#"", body: ""https://youtu.be/2fDzCWNS3ig"" },
   { type: null, body: "" adipiscing elit. Integer ut lacinia magna, et interdum urna.\n\nFusce pellentesque, nulla sit amet maximus vehicula, leo sem "" },
   { type: ""^"", body: ""global/keyword-0.category-1.property-3"" },
-  { type: null, body: "" tempus odio, quis vestibulum velit tellus eu odio. Morbi ac leo et mas...",ambigoere,23 hours ago,https://replit.com/bounties/@ambigoere/split-string-into-ra?t=
+  { type: null, body: "" tempus odio, quis vestibulum velit tellus eu odio. Morbi ac leo et mas...",ambigoere,24 hours ago,https://replit.com/bounties/@ambigoere/split-string-into-ra?t=
 503,$1.00,due in 5 days,[Only 3 Commands]Make pterodactyl discord bot,"I need you to make a discord bot that use's the Pterodactyl API it needs to have 3 commands
 /create-account (This command will pull up a discord form with the options First Name, Last Name, Email & Username then it will use the API to make an account with a randomised password and will DM the user a Email and password for their account)
 /create-server [Server Type] (Will make a server and take away 1 server slot)
@@ -4079,4 +4079,4 @@ Provide a score based on how impactful the developer's code was to the progressi
 Create a simple web page (domain TBD), that shows the GitHub owner's information, their score, and how they rank
 
 Technical Details
-The app should leverage OpenAI",anksolado,1 hour ago,https://replit.com/bounties/@anksolado/score-engineer-produ?t=
+The app should leverage OpenAI",anksolado,2 hours ago,https://replit.com/bounties/@anksolado/score-engineer-produ?t=
