@@ -4009,7 +4009,7 @@ For example, the end-user could ask the chatbot, ""write me a python script that
 -cite sources
 Acceptance Criteria
 deployed web app
-Technical Details",ts2013,15 hours ago,https://replit.com/bounties/@ts2013/serpapi-gpt-langchai?t=
+Technical Details",ts2013,16 hours ago,https://replit.com/bounties/@ts2013/serpapi-gpt-langchai?t=
 502,$60.00,due in 5 days,Split string into raw text and keywords,"Given one input string containing raw text and arbitrarily-coded keywords, return an array of that string split based on raw text and those keywords.
 
 ""Lorem ipsum dolor sit amet, consectetur #(https://youtu.be/2fDzCWNS3ig) adipiscing elit. Integer ut lacinia magna, et interdum urna.\n\nFusce pellentesque, nulla sit amet maximus vehicula, leo sem ^(global/keyword-0.category-1.property-3) tempus odio, quis vestibulum velit tellus eu odio. Morbi ac leo et massa ultrices auctor. Maecenas scelerisque velit sed bibendum tristique."" => ...
