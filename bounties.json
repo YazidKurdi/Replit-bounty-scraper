@@ -5066,7 +5066,7 @@
         "title": "Free Cycles!!!!",
         "description": "This is free cycles all you have to do to get them is follow my account @whatisaapple and apply for this bounty winners will be picked in 1 week",
         "author": "whatisaapple",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@whatisaapple/free-cycles?t="
     },
     {
@@ -5096,7 +5096,17 @@
         "title": "Chat AI that pulls data from folders (Excel and Word docs) and gives response",
         "description": "Im looking for a simple ChatGPT-style app that will let me ingest a folder of documents. Mainly Excel and Word docs. Once ingested, I can ask a question from the chat box and get a response pulled from the documents.\n\nAcceptance Criteria\nSimple web app on Replit that lets me ask questions and get answers from internal documents I provide.  Ideally I can also upload more documents in the future and have them indexed and searchable. Excel (CSV) and Word (Docx) docs are the main formats I need.\n\nTechnical Details\nIf its possible to have it private, that's a plus. Either through using my own OpenAI API key or some other LLM option.",
         "author": "JakeBlockchain",
-        "posted_time": "34 minutes ago",
+        "posted_time": "43 minutes ago",
         "link": "https://replit.com/bounties/@JakeBlockchain/chat-ai-that-pulls-d?t="
+    },
+    {
+        "index": "510",
+        "price": "$300.00",
+        "due_days": "due in 21 days",
+        "title": "Score engineer productivity using GitHub data + AI",
+        "description": "It is hard to determine how productive an engineer is, based on useless metrics like '# of lines of code committed' or even 'number of commits.'\n\nAcceptance Criteria\nAuth into GitHub\nGet data on the developer's commits\nProvide a score based on how impactful the developer's code was to the progression of the product\nCreate a simple web page (domain TBD), that shows the GitHub owner's information, their score, and how they rank\n\nTechnical Details\nThe app should leverage OpenAI",
+        "author": "anksolado",
+        "posted_time": "5 minutes ago",
+        "link": "https://replit.com/bounties/@anksolado/score-engineer-produ?t="
     }
 ]
