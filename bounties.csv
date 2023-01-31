@@ -4009,7 +4009,7 @@ For example, the end-user could ask the chatbot, ""write me a python script that
 -cite sources
 Acceptance Criteria
 deployed web app
-Technical Details",ts2013,18 hours ago,https://replit.com/bounties/@ts2013/serpapi-gpt-langchai?t=
+Technical Details",ts2013,19 hours ago,https://replit.com/bounties/@ts2013/serpapi-gpt-langchai?t=
 502,$60.00,due in 4 days,Split string into raw text and keywords,"Given one input string containing raw text and arbitrarily-coded keywords, return an array of that string split based on raw text and those keywords.
 
 ""Lorem ipsum dolor sit amet, consectetur #(https://youtu.be/2fDzCWNS3ig) adipiscing elit. Integer ut lacinia magna, et interdum urna.\n\nFusce pellentesque, nulla sit amet maximus vehicula, leo sem ^(global/keyword-0.category-1.property-3) tempus odio, quis vestibulum velit tellus eu odio. Morbi ac leo et massa ultrices auctor. Maecenas scelerisque velit sed bibendum tristique."" => ...
@@ -4038,4 +4038,4 @@ User enters the link to whatever they want to gift + their recipients email or p
 
 The recipient receives a gift message—by email or text—that allows them to accept the gift, and then enter their preferred delivery address (it remains private from the user/sender)
 
-We bill the user/sender for the amount and make the order.",bs1234,4 minutes ago,https://replit.com/bounties/@bs1234/gifting-webapp-help?t=
+We bill the user/sender for the amount and make the order.",bs1234,14 minutes ago,https://replit.com/bounties/@bs1234/gifting-webapp-help?t=

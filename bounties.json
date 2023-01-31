@@ -5016,7 +5016,7 @@
         "title": "Serpapi + GPT + langchain",
         "description": "Combine serpapi+GPT + langchain in a deployed web app environment to:\n-parse text to detect assertions of facts\n-ajudicate the correct service to search for references supporting/refuting the assertions\n-revise the initial assertion based on the reference search\n-cite sources\nAcceptance Criteria\ndeployed web app\nTechnical Details",
         "author": "ts2013",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@ts2013/serpapi-gpt-langchai?t="
     },
     {
@@ -5046,7 +5046,7 @@
         "title": "Gifting webapp: help with realtime preview + automating flow (twilio & mailchimp)",
         "description": "Hi, im building a way to forward people gifts when you dont know their address. Send gifts to friends with only their email or mobile number. steps below.\n\nMost of this is already built out, i need help building a realtime preview of the gift message and integrating twilio for the texts.\n\nHow:\nUser enters the link to whatever they want to gift + their recipients email or phone number.\n\nThe recipient receives a gift message\u2014by email or text\u2014that allows them to accept the gift, and then enter their preferred delivery address (it remains private from the user/sender)\n\nWe bill the user/sender for the amount and make the order.",
         "author": "bs1234",
-        "posted_time": "4 minutes ago",
+        "posted_time": "14 minutes ago",
         "link": "https://replit.com/bounties/@bs1234/gifting-webapp-help?t="
     }
 ]
