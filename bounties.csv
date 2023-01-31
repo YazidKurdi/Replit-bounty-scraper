@@ -4001,7 +4001,7 @@ Link to Project",RobHogan2,24 hours ago,https://replit.com/bounties/@RobHogan2/t
 2) fine-tune GPT-3 or Codex to write template python that imports the JDBC driver for this web3 database
 3) fine-tune GPT-3 or Codex to add python code that writes SQL against the database and performs whatever actions the user requests
 
-For example, the end-user could ask the chatbot, ""write me a python script that connects to Space and Time and inserts a new table with the following fields..."" and then your App will return python code that has template scripts to authenticate with Space and Time, and wraps the dri...",CedricBlair,23 hours ago,https://replit.com/bounties/@CedricBlair/use-codexgpt-3-to-fi?t=
+For example, the end-user could ask the chatbot, ""write me a python script that connects to Space and Time and inserts a new table with the following fields..."" and then your App will return python code that has template scripts to authenticate with Space and Time, and wraps the dri...",CedricBlair,24 hours ago,https://replit.com/bounties/@CedricBlair/use-codexgpt-3-to-fi?t=
 501,$450.00,due in 2 days,Serpapi + GPT + langchain,"Combine serpapi+GPT + langchain in a deployed web app environment to:
 -parse text to detect assertions of facts
 -ajudicate the correct service to search for references supporting/refuting the assertions
@@ -4019,7 +4019,7 @@ Technical Details",ts2013,23 hours ago,https://replit.com/bounties/@ts2013/serpa
   { type: ""#"", body: ""https://youtu.be/2fDzCWNS3ig"" },
   { type: null, body: "" adipiscing elit. Integer ut lacinia magna, et interdum urna.\n\nFusce pellentesque, nulla sit amet maximus vehicula, leo sem "" },
   { type: ""^"", body: ""global/keyword-0.category-1.property-3"" },
-  { type: null, body: "" tempus odio, quis vestibulum velit tellus eu odio. Morbi ac leo et mas...",ambigoere,20 hours ago,https://replit.com/bounties/@ambigoere/split-string-into-ra?t=
+  { type: null, body: "" tempus odio, quis vestibulum velit tellus eu odio. Morbi ac leo et mas...",ambigoere,21 hours ago,https://replit.com/bounties/@ambigoere/split-string-into-ra?t=
 503,$1.00,due in 5 days,[Only 3 Commands]Make pterodactyl discord bot,"I need you to make a discord bot that use's the Pterodactyl API it needs to have 3 commands
 /create-account (This command will pull up a discord form with the options First Name, Last Name, Email & Username then it will use the API to make an account with a randomised password and will DM the user a Email and password for their account)
 /create-server [Server Type] (Will make a server and take away 1 server slot)
