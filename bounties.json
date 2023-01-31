@@ -5016,7 +5016,7 @@
         "title": "Serpapi + GPT + langchain",
         "description": "Combine serpapi+GPT + langchain in a deployed web app environment to:\n-parse text to detect assertions of facts\n-ajudicate the correct service to search for references supporting/refuting the assertions\n-revise the initial assertion based on the reference search\n-cite sources\nAcceptance Criteria\ndeployed web app\nTechnical Details",
         "author": "ts2013",
-        "posted_time": "24 hours ago",
+        "posted_time": "1 day ago",
         "link": "https://replit.com/bounties/@ts2013/serpapi-gpt-langchai?t="
     },
     {
@@ -5026,7 +5026,7 @@
         "title": "Split string into raw text and keywords",
         "description": "Given one input string containing raw text and arbitrarily-coded keywords, return an array of that string split based on raw text and those keywords.\n\n\"Lorem ipsum dolor sit amet, consectetur #(https://youtu.be/2fDzCWNS3ig) adipiscing elit. Integer ut lacinia magna, et interdum urna.\\n\\nFusce pellentesque, nulla sit amet maximus vehicula, leo sem ^(global/keyword-0.category-1.property-3) tempus odio, quis vestibulum velit tellus eu odio. Morbi ac leo et massa ultrices auctor. Maecenas scelerisque velit sed bibendum tristique.\" => ...\n\n[\n  { type: null, body: \"Lorem ipsum dolor sit amet, consectetur \" },\n  { type: \"#\", body: \"https://youtu.be/2fDzCWNS3ig\" },\n  { type: null, body: \" adipiscing elit. Integer ut lacinia magna, et interdum urna.\\n\\nFusce pellentesque, nulla sit amet maximus vehicula, leo sem \" },\n  { type: \"^\", body: \"global/keyword-0.category-1.property-3\" },\n  { type: null, body: \" tempus odio, quis vestibulum velit tellus eu odio. Morbi ac leo et mas...",
         "author": "ambigoere",
-        "posted_time": "21 hours ago",
+        "posted_time": "22 hours ago",
         "link": "https://replit.com/bounties/@ambigoere/split-string-into-ra?t="
     },
     {
@@ -5056,7 +5056,7 @@
         "title": "Data Discovery Tool",
         "description": "Create an interactive front end that filters a large dataset automatically in a minimalistic style that I will provide.\n\nControl Panel will call from a Postgres database and UI will need to be plugged into a webpage on an existing website.",
         "author": "JackWeston3",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@JackWeston3/data-discovery-tool?t="
     },
     {
@@ -5088,5 +5088,15 @@
         "author": "anshul",
         "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@anshul/build-a-javascript-t?t="
+    },
+    {
+        "index": "509",
+        "price": "$90.00",
+        "due_days": "due in 9 days",
+        "title": "Chat AI that pulls data from folders (Excel and Word docs) and gives response",
+        "description": "Im looking for a simple ChatGPT-style app that will let me ingest a folder of documents. Mainly Excel and Word docs. Once ingested, I can ask a question from the chat box and get a response pulled from the documents.\n\nAcceptance Criteria\nSimple web app on Replit that lets me ask questions and get answers from internal documents I provide.  Ideally I can also upload more documents in the future and have them indexed and searchable. Excel (CSV) and Word (Docx) docs are the main formats I need.\n\nTechnical Details\nIf its possible to have it private, that's a plus. Either through using my own OpenAI API key or some other LLM option.",
+        "author": "JakeBlockchain",
+        "posted_time": "10 minutes ago",
+        "link": "https://replit.com/bounties/@JakeBlockchain/chat-ai-that-pulls-d?t="
     }
 ]
