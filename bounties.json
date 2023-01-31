@@ -5026,7 +5026,7 @@
         "title": "Split string into raw text and keywords",
         "description": "Given one input string containing raw text and arbitrarily-coded keywords, return an array of that string split based on raw text and those keywords.\n\n\"Lorem ipsum dolor sit amet, consectetur #(https://youtu.be/2fDzCWNS3ig) adipiscing elit. Integer ut lacinia magna, et interdum urna.\\n\\nFusce pellentesque, nulla sit amet maximus vehicula, leo sem ^(global/keyword-0.category-1.property-3) tempus odio, quis vestibulum velit tellus eu odio. Morbi ac leo et massa ultrices auctor. Maecenas scelerisque velit sed bibendum tristique.\" => ...\n\n[\n  { type: null, body: \"Lorem ipsum dolor sit amet, consectetur \" },\n  { type: \"#\", body: \"https://youtu.be/2fDzCWNS3ig\" },\n  { type: null, body: \" adipiscing elit. Integer ut lacinia magna, et interdum urna.\\n\\nFusce pellentesque, nulla sit amet maximus vehicula, leo sem \" },\n  { type: \"^\", body: \"global/keyword-0.category-1.property-3\" },\n  { type: null, body: \" tempus odio, quis vestibulum velit tellus eu odio. Morbi ac leo et mas...",
         "author": "ambigoere",
-        "posted_time": "24 hours ago",
+        "posted_time": "1 day ago",
         "link": "https://replit.com/bounties/@ambigoere/split-string-into-ra?t="
     },
     {
