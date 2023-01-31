@@ -4080,3 +4080,12 @@ Create a simple web page (domain TBD), that shows the GitHub owner's information
 
 Technical Details
 The app should leverage OpenAI",anksolado,3 hours ago,https://replit.com/bounties/@anksolado/score-engineer-produ?t=
+511,$22.50,due in 12 days,Twitter Bot with ChatGPT Status Updates,"The free public version of ChatGPT is often unavailable for use due to server capacity issues, a source of frustration for new and existing users. To solve this, we'll build a Twitter Bot (I will create and manage the Twitter account credentials) that tweets each time the availability status changes from available > unavailable (placeholder message: ""Sorry, ChatGPT is at capacity, I'll let you now when I'm available again."") and unavailable > available (""ChatGPT is available again!"")
+
+Acceptance Criteria
+
+Code complete, hosted, tested and successfully posting live tweets for both status changes.
+
+Technical Details
+
+I'm a product manager so I'll leave the technical details to you! I've reviewed the ChatGPT API documentation (and asked the question to ChatGPT) and there may be some responses (e.g., ServiceUnavailableError) that return availability status, but this is for the paid version. What we're solving is the availability of ChatGPT's free publicly available ser...",reblickulous,7 minutes ago,https://replit.com/bounties/@reblickulous/twitter-bot-with-cha?t=

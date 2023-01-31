@@ -5108,5 +5108,15 @@
         "author": "anksolado",
         "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@anksolado/score-engineer-produ?t="
+    },
+    {
+        "index": "511",
+        "price": "$22.50",
+        "due_days": "due in 12 days",
+        "title": "Twitter Bot with ChatGPT Status Updates",
+        "description": "The free public version of ChatGPT is often unavailable for use due to server capacity issues, a source of frustration for new and existing users. To solve this, we'll build a Twitter Bot (I will create and manage the Twitter account credentials) that tweets each time the availability status changes from available > unavailable (placeholder message: \"Sorry, ChatGPT is at capacity, I'll let you now when I'm available again.\") and unavailable > available (\"ChatGPT is available again!\")\n\nAcceptance Criteria\n\nCode complete, hosted, tested and successfully posting live tweets for both status changes.\n\nTechnical Details\n\nI'm a product manager so I'll leave the technical details to you! I've reviewed the ChatGPT API documentation (and asked the question to ChatGPT) and there may be some responses (e.g., ServiceUnavailableError) that return availability status, but this is for the paid version. What we're solving is the availability of ChatGPT's free publicly available ser...",
+        "author": "reblickulous",
+        "posted_time": "7 minutes ago",
+        "link": "https://replit.com/bounties/@reblickulous/twitter-bot-with-cha?t="
     }
 ]
