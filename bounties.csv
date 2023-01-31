@@ -3942,12 +3942,12 @@ Acceptance Criteria
 
 Technical Details
 Here is the shopify documentation on the type of s...",SamuelAbaka-Woo,11 hours ago,https://replit.com/bounties/@SamuelAbaka-Woo/shopify-app-using-ne?t=
-494,$189.00,due in 5 days,Build a Business Directory Web App,"This web app is a directory for businesses to create public profile listings showcasing their available job opportunities. They can easily manage their profiles and job postings through their dashboard.
+494,$189.00,due in 4 days,Build a Business Directory Web App,"This web app is a directory for businesses to create public profile listings showcasing their available job opportunities. They can easily manage their profiles and job postings through their dashboard.
 
 The admin (myself) will also have a dashboard to oversee the listings, set up claim listings for the directory, edit/delete listings, and create blog posts for the website.
 
-The Figma UI design for the web app is complete.  Looking for a talented developer with some design experience to bring this project to life.",CBSAI,22 hours ago,https://replit.com/bounties/@CBSAI/build-a-business-dir?t=
-495,$9.01,due in 14 days,Reddit Thread Screenshot Script,"Write a python script, which takes in a list of reddit thread links and spits out screenshots (in mobile view) of the main post and the top N (number should be changeable easily) comments.
+The Figma UI design for the web app is complete.  Looking for a talented developer with some design experience to bring this project to life.",CBSAI,23 hours ago,https://replit.com/bounties/@CBSAI/build-a-business-dir?t=
+495,$9.01,due in 13 days,Reddit Thread Screenshot Script,"Write a python script, which takes in a list of reddit thread links and spits out screenshots (in mobile view) of the main post and the top N (number should be changeable easily) comments.
 
 Acceptance Criteria
 Should accept a CSV of thread links
@@ -3964,8 +3964,8 @@ Should also output out a JSON which contains the following (named metadata.json)
         }
     ]
 }
-`",harshvardhan-gupta,19 hours ago,https://replit.com/bounties/@harshvardhan-gupta/reddit-thread-screen?t=
-496,$1.35,due in 3 days,ChatGPT voice activated ,"I want my code to run off of PyCharm, and I want it to pick up a wake word That I can edit as a variable, then will take my voice turn it into an input and ask ChatGPT that, I can enter my API key in the code and its not a variable. Then I want it to Speak out the result and all of it should run off of PyCharm.",whatisaapple,19 hours ago,https://replit.com/bounties/@whatisaapple/chatgpt-voice-activa?t=
+`",harshvardhan-gupta,20 hours ago,https://replit.com/bounties/@harshvardhan-gupta/reddit-thread-screen?t=
+496,$1.35,due in 2 days,ChatGPT voice activated ,"I want my code to run off of PyCharm, and I want it to pick up a wake word That I can edit as a variable, then will take my voice turn it into an input and ask ChatGPT that, I can enter my API key in the code and its not a variable. Then I want it to Speak out the result and all of it should run off of PyCharm.",whatisaapple,20 hours ago,https://replit.com/bounties/@whatisaapple/chatgpt-voice-activa?t=
 497,$0.90,closed,"[HTML, CSS, JS] 2 Small changes","My site is https://games.odd.gay/ I need the following changes made
 When hovering over a game icon for 1 second it pops up with an info box with a 1-word description
 Fix the bottom of the site where the links are the same as the text so it says words right next to each other
@@ -3981,7 +3981,7 @@ The website is built with WordPress and uses a custom job board template.
 Link to Project
 Example of a vacancy on my job board: https://opurkwerken.nl/job/verpleegkundige/
 As you can see the logo does not fit into the div. Probably an easy fix for someone that knows CSS 😅",heinbakker,17 hours ago,https://replit.com/bounties/@heinbakker/fix-image-size-job-b?t=
-499,$27.00,due in 3 days,Teach me how to query pdfs with HyDe (embeddings + GPT),"Teach me how to use hypothetical document embeddings to query PDFs using GPT 3.
+499,$27.00,due in 2 days,Teach me how to query pdfs with HyDe (embeddings + GPT),"Teach me how to use hypothetical document embeddings to query PDFs using GPT 3.
 
 The documentation for doing this is here: https://langchain.readthedocs.io/en/latest/modules/utils/combinedocsexamples/hyde.html?highlight=HyDE
 
@@ -3996,13 +3996,13 @@ If a little prep is done, I don't imagine the call taking more than 15-30 minute
 Technical Details
 
 Link to Project",RobHogan2,17 hours ago,https://replit.com/bounties/@RobHogan2/teach-me-how-to-quer?t=
-500,"$1,080.00",due in 28 days,Use Codex/GPT-3 to fine-tune a chat workflow that generates template Python code for authenticating with web3 API (JWT and Biscuits),"I need an expert with OpenAI APIs to build new workflows in GPT-3 or Codex that allow OpenAI to generate boilerplate/template python code  for an end user based on a chat conversation. The end-user will ask to begin writing queries against a new web3 database, and the chatbot will need to generate python to:
+500,"$1,080.00",due in 27 days,Use Codex/GPT-3 to fine-tune a chat workflow that generates template Python code for authenticating with web3 API (JWT and Biscuits),"I need an expert with OpenAI APIs to build new workflows in GPT-3 or Codex that allow OpenAI to generate boilerplate/template python code  for an end user based on a chat conversation. The end-user will ask to begin writing queries against a new web3 database, and the chatbot will need to generate python to:
  1) authenticating with the APIs of this new web3 database  (which is complex and requires JWTs) see: https://docs.spaceandtime.io/reference/user-id
 2) fine-tune GPT-3 or Codex to write template python that imports the JDBC driver for this web3 database
 3) fine-tune GPT-3 or Codex to add python code that writes SQL against the database and performs whatever actions the user requests
 
-For example, the end-user could ask the chatbot, ""write me a python script that connects to Space and Time and inserts a new table with the following fields..."" and then your App will return python code that has template scripts to authenticate with Space and Time, and wraps the dri...",CedricBlair,16 hours ago,https://replit.com/bounties/@CedricBlair/use-codexgpt-3-to-fi?t=
-501,$450.00,due in 3 days,Serpapi + GPT + langchain,"Combine serpapi+GPT + langchain in a deployed web app environment to:
+For example, the end-user could ask the chatbot, ""write me a python script that connects to Space and Time and inserts a new table with the following fields..."" and then your App will return python code that has template scripts to authenticate with Space and Time, and wraps the dri...",CedricBlair,17 hours ago,https://replit.com/bounties/@CedricBlair/use-codexgpt-3-to-fi?t=
+501,$450.00,due in 2 days,Serpapi + GPT + langchain,"Combine serpapi+GPT + langchain in a deployed web app environment to:
 -parse text to detect assertions of facts
 -ajudicate the correct service to search for references supporting/refuting the assertions
 -revise the initial assertion based on the reference search
@@ -4010,7 +4010,7 @@ For example, the end-user could ask the chatbot, ""write me a python script that
 Acceptance Criteria
 deployed web app
 Technical Details",ts2013,16 hours ago,https://replit.com/bounties/@ts2013/serpapi-gpt-langchai?t=
-502,$60.00,due in 5 days,Split string into raw text and keywords,"Given one input string containing raw text and arbitrarily-coded keywords, return an array of that string split based on raw text and those keywords.
+502,$60.00,due in 4 days,Split string into raw text and keywords,"Given one input string containing raw text and arbitrarily-coded keywords, return an array of that string split based on raw text and those keywords.
 
 ""Lorem ipsum dolor sit amet, consectetur #(https://youtu.be/2fDzCWNS3ig) adipiscing elit. Integer ut lacinia magna, et interdum urna.\n\nFusce pellentesque, nulla sit amet maximus vehicula, leo sem ^(global/keyword-0.category-1.property-3) tempus odio, quis vestibulum velit tellus eu odio. Morbi ac leo et massa ultrices auctor. Maecenas scelerisque velit sed bibendum tristique."" => ...
 
@@ -4019,8 +4019,8 @@ Technical Details",ts2013,16 hours ago,https://replit.com/bounties/@ts2013/serpa
   { type: ""#"", body: ""https://youtu.be/2fDzCWNS3ig"" },
   { type: null, body: "" adipiscing elit. Integer ut lacinia magna, et interdum urna.\n\nFusce pellentesque, nulla sit amet maximus vehicula, leo sem "" },
   { type: ""^"", body: ""global/keyword-0.category-1.property-3"" },
-  { type: null, body: "" tempus odio, quis vestibulum velit tellus eu odio. Morbi ac leo et mas...",ambigoere,13 hours ago,https://replit.com/bounties/@ambigoere/split-string-into-ra?t=
-503,$1.00,due in 6 days,[Only 3 Commands]Make pterodactyl discord bot,"I need you to make a discord bot that use's the Pterodactyl API it needs to have 3 commands
+  { type: null, body: "" tempus odio, quis vestibulum velit tellus eu odio. Morbi ac leo et mas...",ambigoere,14 hours ago,https://replit.com/bounties/@ambigoere/split-string-into-ra?t=
+503,$1.00,due in 5 days,[Only 3 Commands]Make pterodactyl discord bot,"I need you to make a discord bot that use's the Pterodactyl API it needs to have 3 commands
 /create-account (This command will pull up a discord form with the options First Name, Last Name, Email & Username then it will use the API to make an account with a randomised password and will DM the user a Email and password for their account)
 /create-server [Server Type] (Will make a server and take away 1 server slot)
 /delete-server [Server ID]
