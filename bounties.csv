@@ -4001,7 +4001,7 @@ Link to Project",RobHogan2,23 hours ago,https://replit.com/bounties/@RobHogan2/t
 2) fine-tune GPT-3 or Codex to write template python that imports the JDBC driver for this web3 database
 3) fine-tune GPT-3 or Codex to add python code that writes SQL against the database and performs whatever actions the user requests
 
-For example, the end-user could ask the chatbot, ""write me a python script that connects to Space and Time and inserts a new table with the following fields..."" and then your App will return python code that has template scripts to authenticate with Space and Time, and wraps the dri...",CedricBlair,22 hours ago,https://replit.com/bounties/@CedricBlair/use-codexgpt-3-to-fi?t=
+For example, the end-user could ask the chatbot, ""write me a python script that connects to Space and Time and inserts a new table with the following fields..."" and then your App will return python code that has template scripts to authenticate with Space and Time, and wraps the dri...",CedricBlair,23 hours ago,https://replit.com/bounties/@CedricBlair/use-codexgpt-3-to-fi?t=
 501,$450.00,due in 2 days,Serpapi + GPT + langchain,"Combine serpapi+GPT + langchain in a deployed web app environment to:
 -parse text to detect assertions of facts
 -ajudicate the correct service to search for references supporting/refuting the assertions
@@ -4019,7 +4019,7 @@ Technical Details",ts2013,22 hours ago,https://replit.com/bounties/@ts2013/serpa
   { type: ""#"", body: ""https://youtu.be/2fDzCWNS3ig"" },
   { type: null, body: "" adipiscing elit. Integer ut lacinia magna, et interdum urna.\n\nFusce pellentesque, nulla sit amet maximus vehicula, leo sem "" },
   { type: ""^"", body: ""global/keyword-0.category-1.property-3"" },
-  { type: null, body: "" tempus odio, quis vestibulum velit tellus eu odio. Morbi ac leo et mas...",ambigoere,19 hours ago,https://replit.com/bounties/@ambigoere/split-string-into-ra?t=
+  { type: null, body: "" tempus odio, quis vestibulum velit tellus eu odio. Morbi ac leo et mas...",ambigoere,20 hours ago,https://replit.com/bounties/@ambigoere/split-string-into-ra?t=
 503,$1.00,due in 5 days,[Only 3 Commands]Make pterodactyl discord bot,"I need you to make a discord bot that use's the Pterodactyl API it needs to have 3 commands
 /create-account (This command will pull up a discord form with the options First Name, Last Name, Email & Username then it will use the API to make an account with a randomised password and will DM the user a Email and password for their account)
 /create-server [Server Type] (Will make a server and take away 1 server slot)
@@ -4041,7 +4041,7 @@ The recipient receives a gift message—by email or text—that allows them to a
 We bill the user/sender for the amount and make the order.",bs1234,4 hours ago,https://replit.com/bounties/@bs1234/gifting-webapp-help?t=
 505,$60.00,due in 13 days,Data Discovery Tool,"Create an interactive front end that filters a large dataset automatically in a minimalistic style that I will provide.
 
-Control Panel will call from a Postgres database and UI will need to be plugged into a webpage on an existing website.",JackWeston3,3 hours ago,https://replit.com/bounties/@JackWeston3/data-discovery-tool?t=
+Control Panel will call from a Postgres database and UI will need to be plugged into a webpage on an existing website.",JackWeston3,4 hours ago,https://replit.com/bounties/@JackWeston3/data-discovery-tool?t=
 506,$1.35,due in 13 days,Free Cycles!!!!,This is free cycles all you have to do to get them is follow my account @whatisaapple and apply for this bounty winners will be picked in 1 week,whatisaapple,3 hours ago,https://replit.com/bounties/@whatisaapple/free-cycles?t=
 507,$31.50,due in 26 days,Make aitools.fyi go viral with 100K+ views!,"Make aitools.fyi go viral!
 
