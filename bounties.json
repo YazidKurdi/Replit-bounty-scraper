@@ -4996,7 +4996,7 @@
         "title": "Teach me how to query pdfs with HyDe (embeddings + GPT)",
         "description": "Teach me how to use hypothetical document embeddings to query PDFs using GPT 3.\n\nThe documentation for doing this is here: https://langchain.readthedocs.io/en/latest/modules/utils/combinedocsexamples/hyde.html?highlight=HyDE\n\nI've tried to do this but ran into some problems. I'm very much a python beginner and am looking for someone to teach me to do this successfully over a video call.\n\nAcceptance Criteria\n\nPlease come to the call somewhat prepared to walk me through the process. I'll video record the call so I can reference it afterwards.\n\nIf a little prep is done, I don't imagine the call taking more than 15-30 minutes.\n\nTechnical Details\n\nLink to Project",
         "author": "RobHogan2",
-        "posted_time": "23 hours ago",
+        "posted_time": "24 hours ago",
         "link": "https://replit.com/bounties/@RobHogan2/teach-me-how-to-quer?t="
     },
     {
@@ -5046,7 +5046,7 @@
         "title": "Gifting webapp: help with realtime preview + automating flow (twilio & mailchimp)",
         "description": "Hi, im building a way to forward people gifts when you dont know their address. Send gifts to friends with only their email or mobile number. steps below.\n\nMost of this is already built out, i need help building a realtime preview of the gift message and integrating twilio for the texts.\n\nHow:\nUser enters the link to whatever they want to gift + their recipients email or phone number.\n\nThe recipient receives a gift message\u2014by email or text\u2014that allows them to accept the gift, and then enter their preferred delivery address (it remains private from the user/sender)\n\nWe bill the user/sender for the amount and make the order.",
         "author": "bs1234",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@bs1234/gifting-webapp-help?t="
     },
     {
