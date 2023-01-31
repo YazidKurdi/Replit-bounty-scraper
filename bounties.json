@@ -4986,7 +4986,7 @@
         "title": "Fix Image Size - Job Board",
         "description": "The logos of companies/employers are of all kinds of sizes. I want to resize the images so they fit in the div automatically.\n\nTechnical Details\nThe website is built with WordPress and uses a custom job board template.\n\nLink to Project\nExample of a vacancy on my job board: https://opurkwerken.nl/job/verpleegkundige/\nAs you can see the logo does not fit into the div. Probably an easy fix for someone that knows CSS \ud83d\ude05",
         "author": "heinbakker",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@heinbakker/fix-image-size-job-b?t="
     },
     {
@@ -5036,7 +5036,7 @@
         "title": "[Only 3 Commands]Make pterodactyl discord bot",
         "description": "I need you to make a discord bot that use's the Pterodactyl API it needs to have 3 commands\n/create-account (This command will pull up a discord form with the options First Name, Last Name, Email & Username then it will use the API to make an account with a randomised password and will DM the user a Email and password for their account)\n/create-server [Server Type] (Will make a server and take away 1 server slot)\n/delete-server [Server ID]\n\nAcceptance Criteria\nMust know how to use MYSQL or SQLite\nMust know how to use API's with discord bots\nMust have a discord account linked to their replit profile or in their application (If possible join the replit discord server so I can contact you instantly https://discord.gg/replit)",
         "author": "OddGames",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@OddGames/make-pterodactyl-a-d?t="
     }
 ]
