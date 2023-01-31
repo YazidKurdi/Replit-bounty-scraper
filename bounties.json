@@ -5046,7 +5046,7 @@
         "title": "Gifting webapp: help with realtime preview + automating flow (twilio & mailchimp)",
         "description": "Hi, im building a way to forward people gifts when you dont know their address. Send gifts to friends with only their email or mobile number. steps below.\n\nMost of this is already built out, i need help building a realtime preview of the gift message and integrating twilio for the texts.\n\nHow:\nUser enters the link to whatever they want to gift + their recipients email or phone number.\n\nThe recipient receives a gift message\u2014by email or text\u2014that allows them to accept the gift, and then enter their preferred delivery address (it remains private from the user/sender)\n\nWe bill the user/sender for the amount and make the order.",
         "author": "bs1234",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@bs1234/gifting-webapp-help?t="
     },
     {
@@ -5066,7 +5066,7 @@
         "title": "Free Cycles!!!!",
         "description": "This is free cycles all you have to do to get them is follow my account @whatisaapple and apply for this bounty winners will be picked in 1 week",
         "author": "whatisaapple",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@whatisaapple/free-cycles?t="
     },
     {
@@ -5076,7 +5076,17 @@
         "title": "Make aitools.fyi go viral with 100K+ views!",
         "description": "Make aitools.fyi go viral!\n\nPost a video/short on TikTok, Instagram, YouTube, and/or Snapchat about how amazing aitools.fyi is(or an informative video) and get over 100K views and get the bounty!\n\nPlease note: North American based audience is preferred for this bounty.\n\nAcceptance Criteria\nYou have to share analytics of the video and the actual video link. The video has to clearly mention aitools.fyi. The website address aitools.fyi (https://aitools.fyi for YouTube) should be in the description of the video.\n\nNote: You can upload multiple videos if you like but to get the bounty, one video has to get 100K+ views.",
         "author": "SouthernEast",
-        "posted_time": "37 minutes ago",
+        "posted_time": "50 minutes ago",
         "link": "https://replit.com/bounties/@SouthernEast/make-aitoolsfyi-go-v?t="
+    },
+    {
+        "index": "508",
+        "price": "$243.00",
+        "due_days": "due in 15 days",
+        "title": "Build a Javascript tutorial with 100 lessons",
+        "description": "We want to build a Javascript tutorial on the Learn Hub using content from CodeWithHarry's Youtube playlist (https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR).\n\nYou will need to build ~100 lessons based on this tutorial. This playlist needs to be converted into a Javascript tutorial using this documentation (https://building-templates.davidatreplit.repl.co/) and the PDF notes (which are handwritten) need to be converted into markdown files.\n\nThe bounty hunter should have proficiency in Javascript and understand Hindi. This should ~50 hours.\n\nAs a bonus incentive, you'll get to work directly with CodeWithHarry on this!\n\nAcceptance Criteria\nComplete ~100 lessons in Tutorials format.",
+        "author": "anshul",
+        "posted_time": "2 minutes ago",
+        "link": "https://replit.com/bounties/@anshul/build-a-javascript-t?t="
     }
 ]
