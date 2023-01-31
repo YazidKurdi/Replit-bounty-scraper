@@ -5016,7 +5016,7 @@
         "title": "Serpapi + GPT + langchain",
         "description": "Combine serpapi+GPT + langchain in a deployed web app environment to:\n-parse text to detect assertions of facts\n-ajudicate the correct service to search for references supporting/refuting the assertions\n-revise the initial assertion based on the reference search\n-cite sources\nAcceptance Criteria\ndeployed web app\nTechnical Details",
         "author": "ts2013",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@ts2013/serpapi-gpt-langchai?t="
     },
     {
@@ -5056,7 +5056,7 @@
         "title": "Data Discovery Tool",
         "description": "Create an interactive front end that filters a large dataset automatically in a minimalistic style that I will provide.\n\nControl Panel will call from a Postgres database and UI will need to be plugged into a webpage on an existing website.",
         "author": "JackWeston3",
-        "posted_time": "46 minutes ago",
+        "posted_time": "55 minutes ago",
         "link": "https://replit.com/bounties/@JackWeston3/data-discovery-tool?t="
     },
     {
@@ -5066,7 +5066,7 @@
         "title": "Free Cycles!!!!",
         "description": "This is free cycles all you have to do to get them is follow my account @whatisaapple and apply for this bounty winners will be picked in 1 week",
         "author": "whatisaapple",
-        "posted_time": "17 minutes ago",
+        "posted_time": "25 minutes ago",
         "link": "https://replit.com/bounties/@whatisaapple/free-cycles?t="
     }
 ]
