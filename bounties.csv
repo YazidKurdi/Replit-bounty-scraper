@@ -4001,7 +4001,7 @@ Link to Project",RobHogan2,1 day ago,https://replit.com/bounties/@RobHogan2/teac
 2) fine-tune GPT-3 or Codex to write template python that imports the JDBC driver for this web3 database
 3) fine-tune GPT-3 or Codex to add python code that writes SQL against the database and performs whatever actions the user requests
 
-For example, the end-user could ask the chatbot, ""write me a python script that connects to Space and Time and inserts a new table with the following fields..."" and then your App will return python code that has template scripts to authenticate with Space and Time, and wraps the dri...",CedricBlair,24 hours ago,https://replit.com/bounties/@CedricBlair/use-codexgpt-3-to-fi?t=
+For example, the end-user could ask the chatbot, ""write me a python script that connects to Space and Time and inserts a new table with the following fields..."" and then your App will return python code that has template scripts to authenticate with Space and Time, and wraps the dri...",CedricBlair,1 day ago,https://replit.com/bounties/@CedricBlair/use-codexgpt-3-to-fi?t=
 501,$450.00,due in 2 days,Serpapi + GPT + langchain,"Combine serpapi+GPT + langchain in a deployed web app environment to:
 -parse text to detect assertions of facts
 -ajudicate the correct service to search for references supporting/refuting the assertions
@@ -4009,7 +4009,7 @@ For example, the end-user could ask the chatbot, ""write me a python script that
 -cite sources
 Acceptance Criteria
 deployed web app
-Technical Details",ts2013,23 hours ago,https://replit.com/bounties/@ts2013/serpapi-gpt-langchai?t=
+Technical Details",ts2013,24 hours ago,https://replit.com/bounties/@ts2013/serpapi-gpt-langchai?t=
 502,$60.00,due in 4 days,Split string into raw text and keywords,"Given one input string containing raw text and arbitrarily-coded keywords, return an array of that string split based on raw text and those keywords.
 
 ""Lorem ipsum dolor sit amet, consectetur #(https://youtu.be/2fDzCWNS3ig) adipiscing elit. Integer ut lacinia magna, et interdum urna.\n\nFusce pellentesque, nulla sit amet maximus vehicula, leo sem ^(global/keyword-0.category-1.property-3) tempus odio, quis vestibulum velit tellus eu odio. Morbi ac leo et massa ultrices auctor. Maecenas scelerisque velit sed bibendum tristique."" => ...
@@ -4052,7 +4052,7 @@ Please note: North American based audience is preferred for this bounty.
 Acceptance Criteria
 You have to share analytics of the video and the actual video link. The video has to clearly mention aitools.fyi. The website address aitools.fyi (https://aitools.fyi for YouTube) should be in the description of the video.
 
-Note: You can upload multiple videos if you like but to get the bounty, one video has to get 100K+ views.",SouthernEast,3 hours ago,https://replit.com/bounties/@SouthernEast/make-aitoolsfyi-go-v?t=
+Note: You can upload multiple videos if you like but to get the bounty, one video has to get 100K+ views.",SouthernEast,4 hours ago,https://replit.com/bounties/@SouthernEast/make-aitoolsfyi-go-v?t=
 508,$243.00,due in 15 days,Build a Javascript tutorial with 100 lessons,"We want to build a Javascript tutorial on the Learn Hub using content from CodeWithHarry's Youtube playlist (https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR).
 
 You will need to build ~100 lessons based on this tutorial. This playlist needs to be converted into a Javascript tutorial using this documentation (https://building-templates.davidatreplit.repl.co/) and the PDF notes (which are handwritten) need to be converted into markdown files.
