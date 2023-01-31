@@ -5046,7 +5046,7 @@
         "title": "Gifting webapp: help with realtime preview + automating flow (twilio & mailchimp)",
         "description": "Hi, im building a way to forward people gifts when you dont know their address. Send gifts to friends with only their email or mobile number. steps below.\n\nMost of this is already built out, i need help building a realtime preview of the gift message and integrating twilio for the texts.\n\nHow:\nUser enters the link to whatever they want to gift + their recipients email or phone number.\n\nThe recipient receives a gift message\u2014by email or text\u2014that allows them to accept the gift, and then enter their preferred delivery address (it remains private from the user/sender)\n\nWe bill the user/sender for the amount and make the order.",
         "author": "bs1234",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@bs1234/gifting-webapp-help?t="
     },
     {
@@ -5116,7 +5116,7 @@
         "title": "Twitter Bot with ChatGPT Status Updates",
         "description": "The free public version of ChatGPT is often unavailable for use due to server capacity issues, a source of frustration for new and existing users. To solve this, we'll build a Twitter Bot (I will create and manage the Twitter account credentials) that tweets each time the availability status changes from available > unavailable (placeholder message: \"Sorry, ChatGPT is at capacity, I'll let you now when I'm available again.\") and unavailable > available (\"ChatGPT is available again!\")\n\nAcceptance Criteria\n\nCode complete, hosted, tested and successfully posting live tweets for both status changes.\n\nTechnical Details\n\nI'm a product manager so I'll leave the technical details to you! I've reviewed the ChatGPT API documentation (and asked the question to ChatGPT) and there may be some responses (e.g., ServiceUnavailableError) that return availability status, but this is for the paid version. What we're solving is the availability of ChatGPT's free publicly available ser...",
         "author": "reblickulous",
-        "posted_time": "7 minutes ago",
+        "posted_time": "17 minutes ago",
         "link": "https://replit.com/bounties/@reblickulous/twitter-bot-with-cha?t="
     }
 ]
