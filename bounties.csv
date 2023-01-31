@@ -3946,7 +3946,7 @@ Here is the shopify documentation on the type of s...",SamuelAbaka-Woo,11 hours 
 
 The admin (myself) will also have a dashboard to oversee the listings, set up claim listings for the directory, edit/delete listings, and create blog posts for the website.
 
-The Figma UI design for the web app is complete.  Looking for a talented developer with some design experience to bring this project to life.",CBSAI,17 hours ago,https://replit.com/bounties/@CBSAI/build-a-business-dir?t=
+The Figma UI design for the web app is complete.  Looking for a talented developer with some design experience to bring this project to life.",CBSAI,18 hours ago,https://replit.com/bounties/@CBSAI/build-a-business-dir?t=
 495,$9.01,due in 14 days,Reddit Thread Screenshot Script,"Write a python script, which takes in a list of reddit thread links and spits out screenshots (in mobile view) of the main post and the top N (number should be changeable easily) comments.
 
 Acceptance Criteria
@@ -3964,8 +3964,8 @@ Should also output out a JSON which contains the following (named metadata.json)
         }
     ]
 }
-`",harshvardhan-gupta,14 hours ago,https://replit.com/bounties/@harshvardhan-gupta/reddit-thread-screen?t=
-496,$1.35,due in 3 days,ChatGPT voice activated ,"I want my code to run off of PyCharm, and I want it to pick up a wake word That I can edit as a variable, then will take my voice turn it into an input and ask ChatGPT that, I can enter my API key in the code and its not a variable. Then I want it to Speak out the result and all of it should run off of PyCharm.",whatisaapple,14 hours ago,https://replit.com/bounties/@whatisaapple/chatgpt-voice-activa?t=
+`",harshvardhan-gupta,15 hours ago,https://replit.com/bounties/@harshvardhan-gupta/reddit-thread-screen?t=
+496,$1.35,due in 3 days,ChatGPT voice activated ,"I want my code to run off of PyCharm, and I want it to pick up a wake word That I can edit as a variable, then will take my voice turn it into an input and ask ChatGPT that, I can enter my API key in the code and its not a variable. Then I want it to Speak out the result and all of it should run off of PyCharm.",whatisaapple,15 hours ago,https://replit.com/bounties/@whatisaapple/chatgpt-voice-activa?t=
 497,$0.90,closed,"[HTML, CSS, JS] 2 Small changes","My site is https://games.odd.gay/ I need the following changes made
 When hovering over a game icon for 1 second it pops up with an info box with a 1-word description
 Fix the bottom of the site where the links are the same as the text so it says words right next to each other
@@ -4001,7 +4001,7 @@ Link to Project",RobHogan2,12 hours ago,https://replit.com/bounties/@RobHogan2/t
 2) fine-tune GPT-3 or Codex to write template python that imports the JDBC driver for this web3 database
 3) fine-tune GPT-3 or Codex to add python code that writes SQL against the database and performs whatever actions the user requests
 
-For example, the end-user could ask the chatbot, ""write me a python script that connects to Space and Time and inserts a new table with the following fields..."" and then your App will return python code that has template scripts to authenticate with Space and Time, and wraps the dri...",CedricBlair,11 hours ago,https://replit.com/bounties/@CedricBlair/use-codexgpt-3-to-fi?t=
+For example, the end-user could ask the chatbot, ""write me a python script that connects to Space and Time and inserts a new table with the following fields..."" and then your App will return python code that has template scripts to authenticate with Space and Time, and wraps the dri...",CedricBlair,12 hours ago,https://replit.com/bounties/@CedricBlair/use-codexgpt-3-to-fi?t=
 501,$450.00,due in 3 days,Serpapi + GPT + langchain,"Combine serpapi+GPT + langchain in a deployed web app environment to:
 -parse text to detect assertions of facts
 -ajudicate the correct service to search for references supporting/refuting the assertions
@@ -4019,7 +4019,7 @@ Technical Details",ts2013,11 hours ago,https://replit.com/bounties/@ts2013/serpa
   { type: ""#"", body: ""https://youtu.be/2fDzCWNS3ig"" },
   { type: null, body: "" adipiscing elit. Integer ut lacinia magna, et interdum urna.\n\nFusce pellentesque, nulla sit amet maximus vehicula, leo sem "" },
   { type: ""^"", body: ""global/keyword-0.category-1.property-3"" },
-  { type: null, body: "" tempus odio, quis vestibulum velit tellus eu odio. Morbi ac leo et mas...",ambigoere,8 hours ago,https://replit.com/bounties/@ambigoere/split-string-into-ra?t=
+  { type: null, body: "" tempus odio, quis vestibulum velit tellus eu odio. Morbi ac leo et mas...",ambigoere,9 hours ago,https://replit.com/bounties/@ambigoere/split-string-into-ra?t=
 503,$1.00,due in 6 days,[Only 3 Commands]Make pterodactyl discord bot,"I need you to make a discord bot that use's the Pterodactyl API it needs to have 3 commands
 /create-account (This command will pull up a discord form with the options First Name, Last Name, Email & Username then it will use the API to make an account with a randomised password and will DM the user a Email and password for their account)
 /create-server [Server Type] (Will make a server and take away 1 server slot)
