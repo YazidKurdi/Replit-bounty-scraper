@@ -5046,7 +5046,7 @@
         "title": "Gifting webapp: help with realtime preview + automating flow (twilio & mailchimp)",
         "description": "Hi, im building a way to forward people gifts when you dont know their address. Send gifts to friends with only their email or mobile number. steps below.\n\nMost of this is already built out, i need help building a realtime preview of the gift message and integrating twilio for the texts.\n\nHow:\nUser enters the link to whatever they want to gift + their recipients email or phone number.\n\nThe recipient receives a gift message\u2014by email or text\u2014that allows them to accept the gift, and then enter their preferred delivery address (it remains private from the user/sender)\n\nWe bill the user/sender for the amount and make the order.",
         "author": "bs1234",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@bs1234/gifting-webapp-help?t="
     },
     {
@@ -5096,7 +5096,7 @@
         "title": "Chat AI that pulls data from folders (Excel and Word docs) and gives response",
         "description": "Im looking for a simple ChatGPT-style app that will let me ingest a folder of documents. Mainly Excel and Word docs. Once ingested, I can ask a question from the chat box and get a response pulled from the documents.\n\nAcceptance Criteria\nSimple web app on Replit that lets me ask questions and get answers from internal documents I provide.  Ideally I can also upload more documents in the future and have them indexed and searchable. Excel (CSV) and Word (Docx) docs are the main formats I need.\n\nTechnical Details\nIf its possible to have it private, that's a plus. Either through using my own OpenAI API key or some other LLM option.",
         "author": "JakeBlockchain",
-        "posted_time": "43 minutes ago",
+        "posted_time": "53 minutes ago",
         "link": "https://replit.com/bounties/@JakeBlockchain/chat-ai-that-pulls-d?t="
     },
     {
@@ -5106,7 +5106,7 @@
         "title": "Score engineer productivity using GitHub data + AI",
         "description": "It is hard to determine how productive an engineer is, based on useless metrics like '# of lines of code committed' or even 'number of commits.'\n\nAcceptance Criteria\nAuth into GitHub\nGet data on the developer's commits\nProvide a score based on how impactful the developer's code was to the progression of the product\nCreate a simple web page (domain TBD), that shows the GitHub owner's information, their score, and how they rank\n\nTechnical Details\nThe app should leverage OpenAI",
         "author": "anksolado",
-        "posted_time": "5 minutes ago",
+        "posted_time": "15 minutes ago",
         "link": "https://replit.com/bounties/@anksolado/score-engineer-produ?t="
     }
 ]

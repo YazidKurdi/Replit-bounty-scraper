@@ -4038,7 +4038,7 @@ User enters the link to whatever they want to gift + their recipients email or p
 
 The recipient receives a gift message—by email or text—that allows them to accept the gift, and then enter their preferred delivery address (it remains private from the user/sender)
 
-We bill the user/sender for the amount and make the order.",bs1234,6 hours ago,https://replit.com/bounties/@bs1234/gifting-webapp-help?t=
+We bill the user/sender for the amount and make the order.",bs1234,7 hours ago,https://replit.com/bounties/@bs1234/gifting-webapp-help?t=
 505,$60.00,due in 13 days,Data Discovery Tool,"Create an interactive front end that filters a large dataset automatically in a minimalistic style that I will provide.
 
 Control Panel will call from a Postgres database and UI will need to be plugged into a webpage on an existing website.",JackWeston3,6 hours ago,https://replit.com/bounties/@JackWeston3/data-discovery-tool?t=
@@ -4069,7 +4069,7 @@ Acceptance Criteria
 Simple web app on Replit that lets me ask questions and get answers from internal documents I provide.  Ideally I can also upload more documents in the future and have them indexed and searchable. Excel (CSV) and Word (Docx) docs are the main formats I need.
 
 Technical Details
-If its possible to have it private, that's a plus. Either through using my own OpenAI API key or some other LLM option.",JakeBlockchain,43 minutes ago,https://replit.com/bounties/@JakeBlockchain/chat-ai-that-pulls-d?t=
+If its possible to have it private, that's a plus. Either through using my own OpenAI API key or some other LLM option.",JakeBlockchain,53 minutes ago,https://replit.com/bounties/@JakeBlockchain/chat-ai-that-pulls-d?t=
 510,$300.00,due in 21 days,Score engineer productivity using GitHub data + AI,"It is hard to determine how productive an engineer is, based on useless metrics like '# of lines of code committed' or even 'number of commits.'
 
 Acceptance Criteria
@@ -4079,4 +4079,4 @@ Provide a score based on how impactful the developer's code was to the progressi
 Create a simple web page (domain TBD), that shows the GitHub owner's information, their score, and how they rank
 
 Technical Details
-The app should leverage OpenAI",anksolado,5 minutes ago,https://replit.com/bounties/@anksolado/score-engineer-produ?t=
+The app should leverage OpenAI",anksolado,15 minutes ago,https://replit.com/bounties/@anksolado/score-engineer-produ?t=
