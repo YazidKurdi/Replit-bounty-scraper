@@ -3980,7 +3980,7 @@ The website is built with WordPress and uses a custom job board template.
 
 Link to Project
 Example of a vacancy on my job board: https://opurkwerken.nl/job/verpleegkundige/
-As you can see the logo does not fit into the div. Probably an easy fix for someone that knows CSS 😅",heinbakker,21 hours ago,https://replit.com/bounties/@heinbakker/fix-image-size-job-b?t=
+As you can see the logo does not fit into the div. Probably an easy fix for someone that knows CSS 😅",heinbakker,22 hours ago,https://replit.com/bounties/@heinbakker/fix-image-size-job-b?t=
 499,$27.00,due in 2 days,Teach me how to query pdfs with HyDe (embeddings + GPT),"Teach me how to use hypothetical document embeddings to query PDFs using GPT 3.
 
 The documentation for doing this is here: https://langchain.readthedocs.io/en/latest/modules/utils/combinedocsexamples/hyde.html?highlight=HyDE
@@ -4009,7 +4009,7 @@ For example, the end-user could ask the chatbot, ""write me a python script that
 -cite sources
 Acceptance Criteria
 deployed web app
-Technical Details",ts2013,20 hours ago,https://replit.com/bounties/@ts2013/serpapi-gpt-langchai?t=
+Technical Details",ts2013,21 hours ago,https://replit.com/bounties/@ts2013/serpapi-gpt-langchai?t=
 502,$60.00,due in 4 days,Split string into raw text and keywords,"Given one input string containing raw text and arbitrarily-coded keywords, return an array of that string split based on raw text and those keywords.
 
 ""Lorem ipsum dolor sit amet, consectetur #(https://youtu.be/2fDzCWNS3ig) adipiscing elit. Integer ut lacinia magna, et interdum urna.\n\nFusce pellentesque, nulla sit amet maximus vehicula, leo sem ^(global/keyword-0.category-1.property-3) tempus odio, quis vestibulum velit tellus eu odio. Morbi ac leo et massa ultrices auctor. Maecenas scelerisque velit sed bibendum tristique."" => ...
@@ -4028,7 +4028,7 @@ Technical Details",ts2013,20 hours ago,https://replit.com/bounties/@ts2013/serpa
 Acceptance Criteria
 Must know how to use MYSQL or SQLite
 Must know how to use API's with discord bots
-Must have a discord account linked to their replit profile or in their application (If possible join the replit discord server so I can contact you instantly https://discord.gg/replit)",OddGames,15 hours ago,https://replit.com/bounties/@OddGames/make-pterodactyl-a-d?t=
+Must have a discord account linked to their replit profile or in their application (If possible join the replit discord server so I can contact you instantly https://discord.gg/replit)",OddGames,16 hours ago,https://replit.com/bounties/@OddGames/make-pterodactyl-a-d?t=
 504,$270.00,due in 6 days,Gifting webapp: help with realtime preview + automating flow (twilio & mailchimp),"Hi, im building a way to forward people gifts when you dont know their address. Send gifts to friends with only their email or mobile number. steps below.
 
 Most of this is already built out, i need help building a realtime preview of the gift message and integrating twilio for the texts.
@@ -4052,4 +4052,4 @@ Please note: North American based audience is preferred for this bounty.
 Acceptance Criteria
 You have to share analytics of the video and the actual video link. The video has to clearly mention aitools.fyi. The website address aitools.fyi (https://aitools.fyi for YouTube) should be in the description of the video.
 
-Note: You can upload multiple videos if you like but to get the bounty, one video has to get 100K+ views.",SouthernEast,11 minutes ago,https://replit.com/bounties/@SouthernEast/make-aitoolsfyi-go-v?t=
+Note: You can upload multiple videos if you like but to get the bounty, one video has to get 100K+ views.",SouthernEast,37 minutes ago,https://replit.com/bounties/@SouthernEast/make-aitoolsfyi-go-v?t=
