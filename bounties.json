@@ -5016,7 +5016,7 @@
         "title": "Serpapi + GPT + langchain",
         "description": "Combine serpapi+GPT + langchain in a deployed web app environment to:\n-parse text to detect assertions of facts\n-ajudicate the correct service to search for references supporting/refuting the assertions\n-revise the initial assertion based on the reference search\n-cite sources\nAcceptance Criteria\ndeployed web app\nTechnical Details",
         "author": "ts2013",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@ts2013/serpapi-gpt-langchai?t="
     },
     {
