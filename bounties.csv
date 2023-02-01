@@ -4062,14 +4062,14 @@ The bounty hunter should have proficiency in Javascript and understand Hindi. Th
 As a bonus incentive, you'll get to work directly with CodeWithHarry on this!
 
 Acceptance Criteria
-Complete ~100 lessons in Tutorials format.",anshul,13 hours ago,https://replit.com/bounties/@anshul/build-a-javascript-t?t=
+Complete ~100 lessons in Tutorials format.",anshul,14 hours ago,https://replit.com/bounties/@anshul/build-a-javascript-t?t=
 509,$90.00,due in 9 days,Chat AI that pulls data from folders (Excel and Word docs) and gives response,"Im looking for a simple ChatGPT-style app that will let me ingest a folder of documents. Mainly Excel and Word docs. Once ingested, I can ask a question from the chat box and get a response pulled from the documents.
 
 Acceptance Criteria
 Simple web app on Replit that lets me ask questions and get answers from internal documents I provide.  Ideally I can also upload more documents in the future and have them indexed and searchable. Excel (CSV) and Word (Docx) docs are the main formats I need.
 
 Technical Details
-If its possible to have it private, that's a plus. Either through using my own OpenAI API key or some other LLM option.",JakeBlockchain,10 hours ago,https://replit.com/bounties/@JakeBlockchain/chat-ai-that-pulls-d?t=
+If its possible to have it private, that's a plus. Either through using my own OpenAI API key or some other LLM option.",JakeBlockchain,11 hours ago,https://replit.com/bounties/@JakeBlockchain/chat-ai-that-pulls-d?t=
 510,$300.00,due in 21 days,Score engineer productivity using GitHub data + AI,"It is hard to determine how productive an engineer is, based on useless metrics like '# of lines of code committed' or even 'number of commits.'
 
 Acceptance Criteria
@@ -4138,4 +4138,17 @@ Example game for physics:
 
 Controls:
   A left D right W center thrust SPACE start,
-  C to catch with chopsticks",areyasouka,3 hours ago,https://replit.com/bounties/@areyasouka/spacex-starship-eart?t=
+  C to catch with chopsticks",areyasouka,4 hours ago,https://replit.com/bounties/@areyasouka/spacex-starship-eart?t=
+517,$4.50,due in 11 days,Create a webapp that takes a webflow site and makes it available to host externally,"We want to create a tool that makes webflow CMS sites available to host externally without breaking CMS functionality.
+
+Acceptance Criteria
+Need the following workflow:
+App should take a webflow site URL.
+It should check all CMS items and pages.
+It should link all CMS items to respective pages and link all pages with each other.
+
+Technical Details
+You can check Udesly’s Jamstack implementation. Need something similar.
+
+Timelines / Milestones
+You tell me.",vandonegal,13 minutes ago,https://replit.com/bounties/@vandonegal/create-a-webapp-that?t=
