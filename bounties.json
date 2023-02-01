@@ -5226,7 +5226,7 @@
         "title": "GPT-3 Google Docs Addon",
         "description": "Using Google Apps Script, create an Addon for Google Docs using GPT-3, which has these 3 functions.\n\nGenerate/Complete Text\nRephrase Text\nGrammar Fix\n\nUsers must be able to select some text from their document, and in a sidebar, choose any one of these 3 options, and the new text must be able to be previewed and inserted in the document.\n\nThe OpenAI API key must be stored securely on a backend server. UI must be simple and easy to use.",
         "author": "CoderGautamYT",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/gpt-3-google-docs-ad-2?t="
     },
     {
@@ -5236,7 +5236,7 @@
         "title": "AI Homework website: for summaries, outlines, and essays",
         "description": "I'm looking for someone to build a simple website, that uses AI, and has a simple UI (something like ChatGPT welcome screen).\n\nIt's functions would be just: 1) Make summary, 2) Make outline, 3) Write an essay, 4) Study helper.\nThe input box could receive the pasted text to work with, or a url (for example wikipedia.org/wiki/Elon_Musk). When given a webpage url, it should leave out ads or content that's not part of the article.\n\nThen it performs the assigned work and displays it underneath, into the same page. And it has a \"copy\" icon to get the text copied, so that it can then be pasted in a doc.\n\n1) Make summary: Given a pasted text, article or url, generate a summary of the main points.\n2) Make outline: Given a pasted text, article or url, generate an outline or main points like an index, for example to be used as a bullet point presentation.\n3) Write an essay: User inputs a topic and aproximate lenght, in paragraphs. And interface generates an essay.\n4) Study hel...",
         "author": "PracticAI",
-        "posted_time": "47 minutes ago",
+        "posted_time": "55 minutes ago",
         "link": "https://replit.com/bounties/@PracticAI/ai-homework-website?t="
     },
     {
@@ -5246,7 +5246,7 @@
         "title": "Political Parties Compaign App",
         "description": "The political landscape is constantly evolving, and political parties must stay connected with their voters and understand their needs and preferences. To achieve this goal, the political party needs a comprehensive and user-friendly app that can gather, process, and analyze data about voters.\n\nAcceptance Criteria\nFeatures of the App:\n\nSurveys: Create customizable surveys to gather information about voters' preferences, opinions, and demographic information.\n\nVoter Data Integration: Integrate voter data from public databases, such as voter registration information and voting history, to understand voters' voting patterns and preferences.\n\nPush Notifications: Use push notifications to keep voters informed about political events, campaigns, and other important updates.\n\nEvent Tracking: Track attendance at political events and rallies to gather information about which issues and candidates are most important to voters.\nSocial Media Integration: Integrate popular social...",
         "author": "Sarfrazkhan18",
-        "posted_time": "25 minutes ago",
+        "posted_time": "33 minutes ago",
         "link": "https://replit.com/bounties/@Sarfrazkhan18/political-parties-co?t="
     }
 ]
