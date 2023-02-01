@@ -4107,7 +4107,7 @@ Acceptance Criteria
 Finished Bolt App
 
 Technical Details
-Backend Prisma/Postgres/SQL",genehackmanfan4444,11 hours ago,https://replit.com/bounties/@genehackmanfan4444/quick-slack-bolt-app?t=
+Backend Prisma/Postgres/SQL",genehackmanfan4444,12 hours ago,https://replit.com/bounties/@genehackmanfan4444/quick-slack-bolt-app?t=
 515,$450.00,due in 8 days,Document Classifier,"I would like a Document Classifer built that will use a GPT-3 or ChatGPT model to classify PDF documents into one of the following category of documents:
 
 ARTICLESOFINCORPORATION: Articles of Incorporation for the company.
@@ -4151,7 +4151,7 @@ Technical Details
 You can check Udesly’s Jamstack implementation. Need something similar.
 
 Timelines / Milestones
-You tell me.",vandonegal,6 hours ago,https://replit.com/bounties/@vandonegal/create-a-webapp-that?t=
+You tell me.",vandonegal,7 hours ago,https://replit.com/bounties/@vandonegal/create-a-webapp-that?t=
 518,$90.00,due in 3 days,Fix Github Actions Postman Collection tests,"We run our system with a docker compose file. Right now that file builds but we also want to run postman tests in our github actions workflows. Therefore we need to up the docker compose and run a postman collection on it (with postman tests as part of the collection). We haven't been able to successfully run this with the latest error being: [errored]
      socket hang up
 
@@ -4178,11 +4178,11 @@ must meet UI/UX requirements (will discuss over email).
 Technical Details
 Chrome extension V3.
 
-Link to Project",ShubhKathuria,5 hours ago,https://replit.com/bounties/@ShubhKathuria/use-gpt-and-chrome-e?t=
+Link to Project",ShubhKathuria,6 hours ago,https://replit.com/bounties/@ShubhKathuria/use-gpt-and-chrome-e?t=
 520,$4.50,closed,test onlyyyyy,for testing only,dumbss,5 hours ago,https://replit.com/bounties/@dumbss/test-onlyyyyy?t=
 521,$450.00,due in 27 days,Screen recorder electron app,"I'm looking to build an electron app that does screen recording AND record mouse events outside of the app (i.e during the screen recording). So out of the screen recording we want: a video track, the position of the mouse cursor relative to the video track as X,Y coordinates and, the timing of left click relative to the video track timeline.
 
 The app should work on macOS.
 
 Acceptance Criteria
-A packaged electron app with minimal UI. One button to start screen recording and stop screen recording. At the end of the recording, a window invite the user to select a location to save the video track and the mouse metadata. The video track is saved as an mp4 file, the mouse data is saved as a JSON file.",GuillaumeBonif1,58 minutes ago,https://replit.com/bounties/@GuillaumeBonif1/screen-recorder-elec?t=
+A packaged electron app with minimal UI. One button to start screen recording and stop screen recording. At the end of the recording, a window invite the user to select a location to save the video track and the mouse metadata. The video track is saved as an mp4 file, the mouse data is saved as a JSON file.",GuillaumeBonif1,2 hours ago,https://replit.com/bounties/@GuillaumeBonif1/screen-recorder-elec?t=
