@@ -4218,7 +4218,7 @@ Voter Data Integration: Integrate voter data from public databases, such as vote
 Push Notifications: Use push notifications to keep voters informed about political events, campaigns, and other important updates.
 
 Event Tracking: Track attendance at political events and rallies to gather information about which issues and candidates are most important to voters.
-Social Media Integration: Integrate popular social...",Sarfrazkhan18,3 hours ago,https://replit.com/bounties/@Sarfrazkhan18/political-parties-co?t=
+Social Media Integration: Integrate popular social...",Sarfrazkhan18,4 hours ago,https://replit.com/bounties/@Sarfrazkhan18/political-parties-co?t=
 525,$45.00,due in 6 days,Social Fitness App,"Hi! I'm building a fitness webapp with Nextjs + Supabase called Gambit (app.acidgambit.com). I'm looking to expand the current features to include strava connection (already started the integration), tracking a user's weight progress, tracking a user's 1-rep maxes for bench/squat/deadlift, ability to add a custom workout, a method to have monthly competitions that users can enter and view the leaderboards. Additionally, a ranking system that stacks all the users against eachother, so in their profile they can see their current ranking.
 
 Also: an analytics page with graphs that show progress for the user's 1-rep maxes and weight progress.
@@ -4237,7 +4237,7 @@ Track bodyweight
 T...",acidgambit,2 hours ago,https://replit.com/bounties/@acidgambit/social-fitness-app?t=
 526,$2.70,due in 12 days,ChatGPT Discord.js bot,"I hopefully want to find someone who can make me a Discord bot that when pinged, takes the message content and runs it through either the openai or chatgpt NodeJs package. I’ve tried a few times, but I can’t figure out how to do it.
 
-This is my first time using Bounties, and this is all the cycles I have, so I don’t know if this price is too low. If you can do it however, I’d be very grateful.",ParrotDev,1 hour ago,https://replit.com/bounties/@ParrotDev/chatgpt-discordjs-bo?t=
+This is my first time using Bounties, and this is all the cycles I have, so I don’t know if this price is too low. If you can do it however, I’d be very grateful.",ParrotDev,2 hours ago,https://replit.com/bounties/@ParrotDev/chatgpt-discordjs-bo?t=
 527,$27.00,due in 3 days,.gz compression PR to repo,"When I use typescript and un-tar a binary file in my browser, the size comes out incorrect. You can see the two test files here: https://us-east-1.console.aws.amazon.com/s3/buckets/test-targz -- one compressed and one decompressed. When I untar the compressed file, I want to get exactly the first file but I don't, and the size is even incorrect.
 
 The files total to 1.7GB uncompressed.
@@ -4248,13 +4248,13 @@ You should be able to decompress the linked .tar.gz file into the linked decompr
 Technical Details
 There is more elaboration on the problem here: https://stackoverflow.com/questions/75105921/tar-gz-decompression-with-ts-results-in-different-files-in-the-browser?noredirect=1#comment132567618_75105921
 
-The real size is 1.428 kB. Using tar-stream gives a file that is 20.48 ...",AJGupta,1 hour ago,https://replit.com/bounties/@AJGupta/gz-compression-pr-to?t=
+The real size is 1.428 kB. Using tar-stream gives a file that is 20.48 ...",AJGupta,2 hours ago,https://replit.com/bounties/@AJGupta/gz-compression-pr-to?t=
 528,$450.00,due in 27 days,Electron screen recorder app,"I'm looking to build an electron app that does screen recording AND record mouse events outside of the app (i.e during the screen recording). So out of the screen recording we want: a video track, the position of the mouse cursor relative to the video track as X,Y coordinates and, the timing of left click relative to the video track timeline.
 
 The app should work on macOS.
 
 Acceptance Criteria
-A packaged electron app with minimal UI. One button to start screen recording and stop screen recording. At the end of the recording, a window invite the user to select a location to save the video track and the mouse metadata. The video track is saved as an mp4 file, the mouse data is saved as a JSON file.",GuillaumeBonif1,1 hour ago,https://replit.com/bounties/@GuillaumeBonif1/electron-screen-reco?t=
+A packaged electron app with minimal UI. One button to start screen recording and stop screen recording. At the end of the recording, a window invite the user to select a location to save the video track and the mouse metadata. The video track is saved as an mp4 file, the mouse data is saved as a JSON file.",GuillaumeBonif1,2 hours ago,https://replit.com/bounties/@GuillaumeBonif1/electron-screen-reco?t=
 529,$22.50,due in 4 days,NextJS Webapp Sprint,"Implement remaining features in the webapp. Includes implementing basic algebraic formulas w/ ethereum big number, making API calls, adjusting css (tailwind), etc
 
 Acceptance Criteria
@@ -4262,23 +4262,23 @@ Acceptance Criteria
 Ability to quickly finish tasks, strong technical skills, and is willing to continue contributing to the project
 
 Technical Details
-NextJS, ethers.js, tailwind",chubaeth,1 hour ago,https://replit.com/bounties/@chubaeth/nextjs-webapp-sprint?t=
+NextJS, ethers.js, tailwind",chubaeth,2 hours ago,https://replit.com/bounties/@chubaeth/nextjs-webapp-sprint?t=
 530,$90.00,due in 4 days,Scrape Odd Lots podcast,"I want to scrape the transcripts of the Odd Lots podcast. Some of the episodes can be found at https://www.bloomberg.com/oddlots in the links that begin with ""Transcript: "". I tried, but ran into issues with a Captcha and could not figure out how to get selenium working within a repl. I haven't quite figured out how to find the complete archive of the podcasts yet, but would be ok with a solution that just scrapes the episodes available at the provided link.
 
 Acceptance Criteria
 A web scraper written in Python. I have some experience with bs4 but am open to using other scraping libraries
 The web scraper can successfully be run on the url https://www.bloomberg.com/oddlots and avoid the captcha to return the transcripts of the episodes linked on that page and saves them to a csv.
-The csv schema should be: Speaker | Time | Text. For example, for the transcript found at https://www.bloomberg.com/news/articles/2023-02-01/transcript-viktor-shvets-declares-victory-for-team...",alecfwilson,40 minutes ago,https://replit.com/bounties/@alecfwilson/scrape-odd-lots-podc?t=
+The csv schema should be: Speaker | Time | Text. For example, for the transcript found at https://www.bloomberg.com/news/articles/2023-02-01/transcript-viktor-shvets-declares-victory-for-team...",alecfwilson,53 minutes ago,https://replit.com/bounties/@alecfwilson/scrape-odd-lots-podc?t=
 531,$175.00,due in 10 days,[TRANSLATION] Convert C++ Code Utilizing Various Windows APIs to Python,"IddSampleDriver allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in C++ utilizing Windows APIs. It is also made to be a driver. I would like to convert this to Python and make it a normal program, not a driver. Repo Link: https://github.com/roshkins/IddSampleDriver. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
 I should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Python library (ctypes, win32api, etc).
 
 Future Work
-If all works out well, the bounty hunter may be assigned future bounties with increasing amounts of pay.",EpicCodeWizard2,5 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert?t=
+If all works out well, the bounty hunter may be assigned future bounties with increasing amounts of pay.",EpicCodeWizard2,18 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert?t=
 532,$20.00,due in 8 days,Source Code Humanization,"I have 3 separate JS source files that are currently obfuscated. I would like these three files un-obfuscated and reformatted, with some commenting throughout each that describes the functionality of the code.
 The three files together are a total of 5mb.
 Acceptance Criteria
 3rd party tools are allowed.
 Solution in repl with the 3 files.
-Obviously, comments do not need to be every line, once every 20 lines or so is fine.",i10,1 minute ago,https://replit.com/bounties/@i10/source-code-humaniza?t=
+Obviously, comments do not need to be every line, once every 20 lines or so is fine.",i10,13 minutes ago,https://replit.com/bounties/@i10/source-code-humaniza?t=
