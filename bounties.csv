@@ -4205,7 +4205,7 @@ Then it performs the assigned work and displays it underneath, into the same pag
 1) Make summary: Given a pasted text, article or url, generate a summary of the main points.
 2) Make outline: Given a pasted text, article or url, generate an outline or main points like an index, for example to be used as a bullet point presentation.
 3) Write an essay: User inputs a topic and aproximate lenght, in paragraphs. And interface generates an essay.
-4) Study hel...",PracticAI,3 hours ago,https://replit.com/bounties/@PracticAI/ai-homework-website?t=
+4) Study hel...",PracticAI,4 hours ago,https://replit.com/bounties/@PracticAI/ai-homework-website?t=
 524,$45.00,due in 14 days,Political Parties Compaign App,"The political landscape is constantly evolving, and political parties must stay connected with their voters and understand their needs and preferences. To achieve this goal, the political party needs a comprehensive and user-friendly app that can gather, process, and analyze data about voters.
 
 Acceptance Criteria
@@ -4254,7 +4254,7 @@ The real size is 1.428 kB. Using tar-stream gives a file that is 20.48 ...",AJGu
 The app should work on macOS.
 
 Acceptance Criteria
-A packaged electron app with minimal UI. One button to start screen recording and stop screen recording. At the end of the recording, a window invite the user to select a location to save the video track and the mouse metadata. The video track is saved as an mp4 file, the mouse data is saved as a JSON file.",GuillaumeBonif1,60 minutes ago,https://replit.com/bounties/@GuillaumeBonif1/electron-screen-reco?t=
+A packaged electron app with minimal UI. One button to start screen recording and stop screen recording. At the end of the recording, a window invite the user to select a location to save the video track and the mouse metadata. The video track is saved as an mp4 file, the mouse data is saved as a JSON file.",GuillaumeBonif1,1 hour ago,https://replit.com/bounties/@GuillaumeBonif1/electron-screen-reco?t=
 529,$22.50,due in 4 days,NextJS Webapp Sprint,"Implement remaining features in the webapp. Includes implementing basic algebraic formulas w/ ethereum big number, making API calls, adjusting css (tailwind), etc
 
 Acceptance Criteria
@@ -4262,10 +4262,23 @@ Acceptance Criteria
 Ability to quickly finish tasks, strong technical skills, and is willing to continue contributing to the project
 
 Technical Details
-NextJS, ethers.js, tailwind",chubaeth,58 minutes ago,https://replit.com/bounties/@chubaeth/nextjs-webapp-sprint?t=
+NextJS, ethers.js, tailwind",chubaeth,1 hour ago,https://replit.com/bounties/@chubaeth/nextjs-webapp-sprint?t=
 530,$90.00,due in 4 days,Scrape Odd Lots podcast,"I want to scrape the transcripts of the Odd Lots podcast. Some of the episodes can be found at https://www.bloomberg.com/oddlots in the links that begin with ""Transcript: "". I tried, but ran into issues with a Captcha and could not figure out how to get selenium working within a repl. I haven't quite figured out how to find the complete archive of the podcasts yet, but would be ok with a solution that just scrapes the episodes available at the provided link.
 
 Acceptance Criteria
 A web scraper written in Python. I have some experience with bs4 but am open to using other scraping libraries
 The web scraper can successfully be run on the url https://www.bloomberg.com/oddlots and avoid the captcha to return the transcripts of the episodes linked on that page and saves them to a csv.
-The csv schema should be: Speaker | Time | Text. For example, for the transcript found at https://www.bloomberg.com/news/articles/2023-02-01/transcript-viktor-shvets-declares-victory-for-team...",alecfwilson,19 minutes ago,https://replit.com/bounties/@alecfwilson/scrape-odd-lots-podc?t=
+The csv schema should be: Speaker | Time | Text. For example, for the transcript found at https://www.bloomberg.com/news/articles/2023-02-01/transcript-viktor-shvets-declares-victory-for-team...",alecfwilson,40 minutes ago,https://replit.com/bounties/@alecfwilson/scrape-odd-lots-podc?t=
+531,$175.00,due in 10 days,[TRANSLATION] Convert C++ Code Utilizing Various Windows APIs to Python,"IddSampleDriver allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in C++ utilizing Windows APIs. It is also made to be a driver. I would like to convert this to Python and make it a normal program, not a driver. Repo Link: https://github.com/roshkins/IddSampleDriver. Just convert the code to python. I don't mind it having multiple files or many dependencies.
+
+Acceptance Criteria
+I should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Python library (ctypes, win32api, etc).
+
+Future Work
+If all works out well, the bounty hunter may be assigned future bounties with increasing amounts of pay.",EpicCodeWizard2,5 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert?t=
+532,$20.00,due in 8 days,Source Code Humanization,"I have 3 separate JS source files that are currently obfuscated. I would like these three files un-obfuscated and reformatted, with some commenting throughout each that describes the functionality of the code.
+The three files together are a total of 5mb.
+Acceptance Criteria
+3rd party tools are allowed.
+Solution in repl with the 3 files.
+Obviously, comments do not need to be every line, once every 20 lines or so is fine.",i10,1 minute ago,https://replit.com/bounties/@i10/source-code-humaniza?t=
