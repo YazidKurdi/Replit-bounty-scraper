@@ -5286,7 +5286,7 @@
         "title": "Electron screen recorder app",
         "description": "I'm looking to build an electron app that does screen recording AND record mouse events outside of the app (i.e during the screen recording). So out of the screen recording we want: a video track, the position of the mouse cursor relative to the video track as X,Y coordinates and, the timing of left click relative to the video track timeline.\n\nThe app should work on macOS.\n\nAcceptance Criteria\nA packaged electron app with minimal UI. One button to start screen recording and stop screen recording. At the end of the recording, a window invite the user to select a location to save the video track and the mouse metadata. The video track is saved as an mp4 file, the mouse data is saved as a JSON file.",
         "author": "GuillaumeBonif1",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@GuillaumeBonif1/electron-screen-reco?t="
     },
     {
@@ -5296,7 +5296,7 @@
         "title": "NextJS Webapp Sprint",
         "description": "Implement remaining features in the webapp. Includes implementing basic algebraic formulas w/ ethereum big number, making API calls, adjusting css (tailwind), etc\n\nAcceptance Criteria\n\nAbility to quickly finish tasks, strong technical skills, and is willing to continue contributing to the project\n\nTechnical Details\nNextJS, ethers.js, tailwind",
         "author": "chubaeth",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@chubaeth/nextjs-webapp-sprint?t="
     },
     {
@@ -5336,7 +5336,7 @@
         "title": "[TRANSLATION] Convert C++ Code Utilizing Various Windows APIs to Python",
         "description": "IddSampleDriver allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in C++ utilizing Windows APIs. It is also made to be a driver. I would like to convert this to Python and make it a normal program, not a driver. Repo Link: https://github.com/roshkins/IddSampleDriver. Just convert the code to python. I don't mind it having multiple files or many dependencies.\n\nAcceptance Criteria\nI should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Python library (ctypes, win32api, etc).\n\nFuture Work\nIf all works out well, the bounty hunter may be assigned future bounties with increasing amounts of pay.",
         "author": "EpicCodeWizard2",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/translation-convert-1?t="
     },
     {
