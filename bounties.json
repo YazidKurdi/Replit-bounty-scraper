@@ -5176,7 +5176,7 @@
         "title": "Create a webapp that takes a webflow site and makes it available to host externally",
         "description": "We want to create a tool that makes webflow CMS sites available to host externally without breaking CMS functionality.\n\nAcceptance Criteria\nNeed the following workflow:\nApp should take a webflow site URL.\nIt should check all CMS items and pages.\nIt should link all CMS items to respective pages and link all pages with each other.\n\nTechnical Details\nYou can check Udesly\u2019s Jamstack implementation. Need something similar.\n\nTimelines / Milestones\nYou tell me.",
         "author": "vandonegal",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@vandonegal/create-a-webapp-that?t="
     },
     {
@@ -5216,7 +5216,7 @@
         "title": "Screen recorder electron app",
         "description": "I'm looking to build an electron app that does screen recording AND record mouse events outside of the app (i.e during the screen recording). So out of the screen recording we want: a video track, the position of the mouse cursor relative to the video track as X,Y coordinates and, the timing of left click relative to the video track timeline.\n\nThe app should work on macOS.\n\nAcceptance Criteria\nA packaged electron app with minimal UI. One button to start screen recording and stop screen recording. At the end of the recording, a window invite the user to select a location to save the video track and the mouse metadata. The video track is saved as an mp4 file, the mouse data is saved as a JSON file.",
         "author": "GuillaumeBonif1",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@GuillaumeBonif1/screen-recorder-elec?t="
     },
     {
@@ -5236,7 +5236,7 @@
         "title": "AI Homework website: for summaries, outlines, and essays",
         "description": "I'm looking for someone to build a simple website, that uses AI, and has a simple UI (something like ChatGPT welcome screen).\n\nIt's functions would be just: 1) Make summary, 2) Make outline, 3) Write an essay, 4) Study helper.\nThe input box could receive the pasted text to work with, or a url (for example wikipedia.org/wiki/Elon_Musk). When given a webpage url, it should leave out ads or content that's not part of the article.\n\nThen it performs the assigned work and displays it underneath, into the same page. And it has a \"copy\" icon to get the text copied, so that it can then be pasted in a doc.\n\n1) Make summary: Given a pasted text, article or url, generate a summary of the main points.\n2) Make outline: Given a pasted text, article or url, generate an outline or main points like an index, for example to be used as a bullet point presentation.\n3) Write an essay: User inputs a topic and aproximate lenght, in paragraphs. And interface generates an essay.\n4) Study hel...",
         "author": "PracticAI",
-        "posted_time": "55 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@PracticAI/ai-homework-website?t="
     },
     {
@@ -5246,7 +5246,7 @@
         "title": "Political Parties Compaign App",
         "description": "The political landscape is constantly evolving, and political parties must stay connected with their voters and understand their needs and preferences. To achieve this goal, the political party needs a comprehensive and user-friendly app that can gather, process, and analyze data about voters.\n\nAcceptance Criteria\nFeatures of the App:\n\nSurveys: Create customizable surveys to gather information about voters' preferences, opinions, and demographic information.\n\nVoter Data Integration: Integrate voter data from public databases, such as voter registration information and voting history, to understand voters' voting patterns and preferences.\n\nPush Notifications: Use push notifications to keep voters informed about political events, campaigns, and other important updates.\n\nEvent Tracking: Track attendance at political events and rallies to gather information about which issues and candidates are most important to voters.\nSocial Media Integration: Integrate popular social...",
         "author": "Sarfrazkhan18",
-        "posted_time": "33 minutes ago",
+        "posted_time": "43 minutes ago",
         "link": "https://replit.com/bounties/@Sarfrazkhan18/political-parties-co?t="
     }
 ]
