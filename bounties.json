@@ -5236,7 +5236,7 @@
         "title": "AI Homework website: for summaries, outlines, and essays",
         "description": "I'm looking for someone to build a simple website, that uses AI, and has a simple UI (something like ChatGPT welcome screen).\n\nIt's functions would be just: 1) Make summary, 2) Make outline, 3) Write an essay, 4) Study helper.\nThe input box could receive the pasted text to work with, or a url (for example wikipedia.org/wiki/Elon_Musk). When given a webpage url, it should leave out ads or content that's not part of the article.\n\nThen it performs the assigned work and displays it underneath, into the same page. And it has a \"copy\" icon to get the text copied, so that it can then be pasted in a doc.\n\n1) Make summary: Given a pasted text, article or url, generate a summary of the main points.\n2) Make outline: Given a pasted text, article or url, generate an outline or main points like an index, for example to be used as a bullet point presentation.\n3) Write an essay: User inputs a topic and aproximate lenght, in paragraphs. And interface generates an essay.\n4) Study hel...",
         "author": "PracticAI",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@PracticAI/ai-homework-website?t="
     },
     {
@@ -5256,7 +5256,7 @@
         "title": "Social Fitness App",
         "description": "Hi! I'm building a fitness webapp with Nextjs + Supabase called Gambit (app.acidgambit.com). I'm looking to expand the current features to include strava connection (already started the integration), tracking a user's weight progress, tracking a user's 1-rep maxes for bench/squat/deadlift, ability to add a custom workout, a method to have monthly competitions that users can enter and view the leaderboards. Additionally, a ranking system that stacks all the users against eachother, so in their profile they can see their current ranking.\n\nAlso: an analytics page with graphs that show progress for the user's 1-rep maxes and weight progress.\n\nA streak system that shows if a user is completing at least 1 workout per day, and displays the streak on their profile.\n\nI currently have an active repo for you to work off of.\n\nAcceptance Criteria\nRanking system\nOptimized for mobile view but works on desktop\nAnalytics page\nStreaks\nAbility to add custom workouts\nTrack bodyweight\nT...",
         "author": "acidgambit",
-        "posted_time": "46 minutes ago",
+        "posted_time": "60 minutes ago",
         "link": "https://replit.com/bounties/@acidgambit/social-fitness-app?t="
     },
     {
@@ -5266,7 +5266,37 @@
         "title": "ChatGPT Discord.js bot",
         "description": "I hopefully want to find someone who can make me a Discord bot that when pinged, takes the message content and runs it through either the openai or chatgpt NodeJs package. I\u2019ve tried a few times, but I can\u2019t figure out how to do it.\n\nThis is my first time using Bounties, and this is all the cycles I have, so I don\u2019t know if this price is too low. If you can do it however, I\u2019d be very grateful.",
         "author": "ParrotDev",
-        "posted_time": "1 minute ago",
+        "posted_time": "15 minutes ago",
         "link": "https://replit.com/bounties/@ParrotDev/chatgpt-discordjs-bo?t="
+    },
+    {
+        "index": "527",
+        "price": "$27.00",
+        "due_days": "due in 3 days",
+        "title": ".gz compression PR to repo",
+        "description": "When I use typescript and un-tar a binary file in my browser, the size comes out incorrect. You can see the two test files here: https://us-east-1.console.aws.amazon.com/s3/buckets/test-targz -- one compressed and one decompressed. When I untar the compressed file, I want to get exactly the first file but I don't, and the size is even incorrect.\n\nThe files total to 1.7GB uncompressed.\n\nAcceptance Criteria\nYou should be able to decompress the linked .tar.gz file into the linked decompressed file, with the same size and contents, in localforage. You should also switch to .gz if that is more productive. Make a pr to https://github.com/zk-email-verify/zk-email-verify/ with the fix.\n\nTechnical Details\nThere is more elaboration on the problem here: https://stackoverflow.com/questions/75105921/tar-gz-decompression-with-ts-results-in-different-files-in-the-browser?noredirect=1#comment132567618_75105921\n\nThe real size is 1.428 kB. Using tar-stream gives a file that is 20.48 ...",
+        "author": "AJGupta",
+        "posted_time": "13 minutes ago",
+        "link": "https://replit.com/bounties/@AJGupta/gz-compression-pr-to?t="
+    },
+    {
+        "index": "528",
+        "price": "$450.00",
+        "due_days": "due in 27 days",
+        "title": "Electron screen recorder app",
+        "description": "I'm looking to build an electron app that does screen recording AND record mouse events outside of the app (i.e during the screen recording). So out of the screen recording we want: a video track, the position of the mouse cursor relative to the video track as X,Y coordinates and, the timing of left click relative to the video track timeline.\n\nThe app should work on macOS.\n\nAcceptance Criteria\nA packaged electron app with minimal UI. One button to start screen recording and stop screen recording. At the end of the recording, a window invite the user to select a location to save the video track and the mouse metadata. The video track is saved as an mp4 file, the mouse data is saved as a JSON file.",
+        "author": "GuillaumeBonif1",
+        "posted_time": "12 minutes ago",
+        "link": "https://replit.com/bounties/@GuillaumeBonif1/electron-screen-reco?t="
+    },
+    {
+        "index": "529",
+        "price": "$22.50",
+        "due_days": "due in 4 days",
+        "title": "NextJS Webapp Sprint",
+        "description": "Implement remaining features in the webapp. Includes implementing basic algebraic formulas w/ ethereum big number, making API calls, adjusting css (tailwind), etc\n\nAcceptance Criteria\n\nAbility to quickly finish tasks, strong technical skills, and is willing to continue contributing to the project\n\nTechnical Details\nNextJS, ethers.js, tailwind",
+        "author": "chubaeth",
+        "posted_time": "11 minutes ago",
+        "link": "https://replit.com/bounties/@chubaeth/nextjs-webapp-sprint?t="
     }
 ]

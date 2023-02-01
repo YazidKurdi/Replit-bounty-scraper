@@ -4205,7 +4205,7 @@ Then it performs the assigned work and displays it underneath, into the same pag
 1) Make summary: Given a pasted text, article or url, generate a summary of the main points.
 2) Make outline: Given a pasted text, article or url, generate an outline or main points like an index, for example to be used as a bullet point presentation.
 3) Write an essay: User inputs a topic and aproximate lenght, in paragraphs. And interface generates an essay.
-4) Study hel...",PracticAI,2 hours ago,https://replit.com/bounties/@PracticAI/ai-homework-website?t=
+4) Study hel...",PracticAI,3 hours ago,https://replit.com/bounties/@PracticAI/ai-homework-website?t=
 524,$45.00,due in 14 days,Political Parties Compaign App,"The political landscape is constantly evolving, and political parties must stay connected with their voters and understand their needs and preferences. To achieve this goal, the political party needs a comprehensive and user-friendly app that can gather, process, and analyze data about voters.
 
 Acceptance Criteria
@@ -4234,7 +4234,32 @@ Analytics page
 Streaks
 Ability to add custom workouts
 Track bodyweight
-T...",acidgambit,46 minutes ago,https://replit.com/bounties/@acidgambit/social-fitness-app?t=
+T...",acidgambit,60 minutes ago,https://replit.com/bounties/@acidgambit/social-fitness-app?t=
 526,$2.70,due in 13 days,ChatGPT Discord.js bot,"I hopefully want to find someone who can make me a Discord bot that when pinged, takes the message content and runs it through either the openai or chatgpt NodeJs package. I’ve tried a few times, but I can’t figure out how to do it.
 
-This is my first time using Bounties, and this is all the cycles I have, so I don’t know if this price is too low. If you can do it however, I’d be very grateful.",ParrotDev,1 minute ago,https://replit.com/bounties/@ParrotDev/chatgpt-discordjs-bo?t=
+This is my first time using Bounties, and this is all the cycles I have, so I don’t know if this price is too low. If you can do it however, I’d be very grateful.",ParrotDev,15 minutes ago,https://replit.com/bounties/@ParrotDev/chatgpt-discordjs-bo?t=
+527,$27.00,due in 3 days,.gz compression PR to repo,"When I use typescript and un-tar a binary file in my browser, the size comes out incorrect. You can see the two test files here: https://us-east-1.console.aws.amazon.com/s3/buckets/test-targz -- one compressed and one decompressed. When I untar the compressed file, I want to get exactly the first file but I don't, and the size is even incorrect.
+
+The files total to 1.7GB uncompressed.
+
+Acceptance Criteria
+You should be able to decompress the linked .tar.gz file into the linked decompressed file, with the same size and contents, in localforage. You should also switch to .gz if that is more productive. Make a pr to https://github.com/zk-email-verify/zk-email-verify/ with the fix.
+
+Technical Details
+There is more elaboration on the problem here: https://stackoverflow.com/questions/75105921/tar-gz-decompression-with-ts-results-in-different-files-in-the-browser?noredirect=1#comment132567618_75105921
+
+The real size is 1.428 kB. Using tar-stream gives a file that is 20.48 ...",AJGupta,13 minutes ago,https://replit.com/bounties/@AJGupta/gz-compression-pr-to?t=
+528,$450.00,due in 27 days,Electron screen recorder app,"I'm looking to build an electron app that does screen recording AND record mouse events outside of the app (i.e during the screen recording). So out of the screen recording we want: a video track, the position of the mouse cursor relative to the video track as X,Y coordinates and, the timing of left click relative to the video track timeline.
+
+The app should work on macOS.
+
+Acceptance Criteria
+A packaged electron app with minimal UI. One button to start screen recording and stop screen recording. At the end of the recording, a window invite the user to select a location to save the video track and the mouse metadata. The video track is saved as an mp4 file, the mouse data is saved as a JSON file.",GuillaumeBonif1,12 minutes ago,https://replit.com/bounties/@GuillaumeBonif1/electron-screen-reco?t=
+529,$22.50,due in 4 days,NextJS Webapp Sprint,"Implement remaining features in the webapp. Includes implementing basic algebraic formulas w/ ethereum big number, making API calls, adjusting css (tailwind), etc
+
+Acceptance Criteria
+
+Ability to quickly finish tasks, strong technical skills, and is willing to continue contributing to the project
+
+Technical Details
+NextJS, ethers.js, tailwind",chubaeth,11 minutes ago,https://replit.com/bounties/@chubaeth/nextjs-webapp-sprint?t=
