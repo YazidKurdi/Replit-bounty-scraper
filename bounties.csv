@@ -4107,7 +4107,7 @@ Acceptance Criteria
 Finished Bolt App
 
 Technical Details
-Backend Prisma/Postgres/SQL",genehackmanfan4444,5 hours ago,https://replit.com/bounties/@genehackmanfan4444/quick-slack-bolt-app?t=
+Backend Prisma/Postgres/SQL",genehackmanfan4444,6 hours ago,https://replit.com/bounties/@genehackmanfan4444/quick-slack-bolt-app?t=
 515,$450.00,due in 9 days,Document Classifier,"I would like a Document Classifer built that will use a GPT-3 or ChatGPT model to classify PDF documents into one of the following category of documents:
 
 ARTICLESOFINCORPORATION: Articles of Incorporation for the company.
@@ -4151,4 +4151,17 @@ Technical Details
 You can check Udesly’s Jamstack implementation. Need something similar.
 
 Timelines / Milestones
-You tell me.",vandonegal,13 minutes ago,https://replit.com/bounties/@vandonegal/create-a-webapp-that?t=
+You tell me.",vandonegal,25 minutes ago,https://replit.com/bounties/@vandonegal/create-a-webapp-that?t=
+518,$90.00,due in 4 days,Fix Github Actions Postman Collection tests,"We run our system with a docker compose file. Right now that file builds but we also want to run postman tests in our github actions workflows. Therefore we need to up the docker compose and run a postman collection on it (with postman tests as part of the collection). We haven't been able to successfully run this with the latest error being: [errored]
+     socket hang up
+
+Acceptance Criteria
+
+Submit a PR forked off of this branch (https://github.com/uselotus/lotus/pull/493) where both the Collections Tests and Django/Postgres actions are running correctly. The django.postgres is a similar idea except we want to run cypress tests instead of postman so we need to up the docker compose to do that.
+
+Technical Details
+Must understand docker, docker-compose, postman + newman, github actions
+
+Should be on a mac or linux not windows (we have problems with windows self host at times)
+
+https://github.com/uselotus/lotus/tree/cypress-tests",MikaelNida,3 minutes ago,https://replit.com/bounties/@MikaelNida/fix-github-actions-p?t=

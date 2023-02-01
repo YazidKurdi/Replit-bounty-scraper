@@ -5146,7 +5146,7 @@
         "title": "\u26a1\u26a1Quick Slack Bolt App\u26a1\u26a1 ",
         "description": "Custom quiz bot with ability to ask questions / track answers for users across a variety of topics. Ability to ingest questions/data from Slack/route to table, and perform similar such clerical actions/\n\nAcceptance Criteria\nFinished Bolt App\n\nTechnical Details\nBackend Prisma/Postgres/SQL",
         "author": "genehackmanfan4444",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@genehackmanfan4444/quick-slack-bolt-app?t="
     },
     {
@@ -5176,7 +5176,17 @@
         "title": "Create a webapp that takes a webflow site and makes it available to host externally",
         "description": "We want to create a tool that makes webflow CMS sites available to host externally without breaking CMS functionality.\n\nAcceptance Criteria\nNeed the following workflow:\nApp should take a webflow site URL.\nIt should check all CMS items and pages.\nIt should link all CMS items to respective pages and link all pages with each other.\n\nTechnical Details\nYou can check Udesly\u2019s Jamstack implementation. Need something similar.\n\nTimelines / Milestones\nYou tell me.",
         "author": "vandonegal",
-        "posted_time": "13 minutes ago",
+        "posted_time": "25 minutes ago",
         "link": "https://replit.com/bounties/@vandonegal/create-a-webapp-that?t="
+    },
+    {
+        "index": "518",
+        "price": "$90.00",
+        "due_days": "due in 4 days",
+        "title": "Fix Github Actions Postman Collection tests",
+        "description": "We run our system with a docker compose file. Right now that file builds but we also want to run postman tests in our github actions workflows. Therefore we need to up the docker compose and run a postman collection on it (with postman tests as part of the collection). We haven't been able to successfully run this with the latest error being: [errored]\n     socket hang up\n\nAcceptance Criteria\n\nSubmit a PR forked off of this branch (https://github.com/uselotus/lotus/pull/493) where both the Collections Tests and Django/Postgres actions are running correctly. The django.postgres is a similar idea except we want to run cypress tests instead of postman so we need to up the docker compose to do that.\n\nTechnical Details\nMust understand docker, docker-compose, postman + newman, github actions\n\nShould be on a mac or linux not windows (we have problems with windows self host at times)\n\nhttps://github.com/uselotus/lotus/tree/cypress-tests",
+        "author": "MikaelNida",
+        "posted_time": "3 minutes ago",
+        "link": "https://replit.com/bounties/@MikaelNida/fix-github-actions-p?t="
     }
 ]
