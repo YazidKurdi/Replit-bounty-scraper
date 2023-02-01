@@ -4289,7 +4289,7 @@ I should be able to run the code successfully after installing the dependencies 
 
 Future Work
 If all works out well, the bounty hunter may be assigned future bounties with increasing amounts of pay.",EpicCodeWizard2,5 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-1?t=
-534,$103.50,closed,Steam Trader bot,Would like to ask for a steam trade bot,josekyot,4 hours ago,https://replit.com/bounties/@josekyot/steam-trader-bot?t=
+534,$103.50,closed,Steam Trader bot,Would like to ask for a steam trade bot,josekyot,5 hours ago,https://replit.com/bounties/@josekyot/steam-trader-bot?t=
 535,$270.00,due in 17 days,Video snippet from transcript,"We are looking to create a video highlighting and clipping tool. The tool will allow users to:
 
 Highlight a portion of the transcript of a given video.
@@ -4306,7 +4306,7 @@ We are using React for our frontend and django for the backend. Happy to discuss
 536,$1.35,closed,CSS Loading Animation,"I want someone to remake a CSS spinner animation, I can send the image through communication
 
 Acceptance Criteria
-Javascript and CSS Knowledge",r6nrkcmxvc,2 hours ago,https://replit.com/bounties/@r6nrkcmxvc/css-loading-animatio?t=
+Javascript and CSS Knowledge",r6nrkcmxvc,3 hours ago,https://replit.com/bounties/@r6nrkcmxvc/css-loading-animatio?t=
 537,$1.35,closed,remake quizlet,"joe biden is the problem
 
 Acceptance Criteria
@@ -4319,4 +4319,4 @@ Extension parses pdf and stores it in a database
 Extension takes inputs from the user and the pdf to make an API call to OpenAI and returns the output to the user
 User can edit the presented output and copy the text with a 1-click copy button
 The API input, output, and user edits are uploaded to a database
-Extension is built in a way so that latency isn't crazy (i.e. not too many outside services used + processing done in-browser. This means project will likely mostly be in Javascript)",JoeriLeemans1,9 minutes ago,https://replit.com/bounties/@JoeriLeemans1/build-a-chrome-exten?t=
+Extension is built in a way so that latency isn't crazy (i.e. not too many outside services used + processing done in-browser. This means project will likely mostly be in Javascript)",JoeriLeemans1,18 minutes ago,https://replit.com/bounties/@JoeriLeemans1/build-a-chrome-exten?t=
