@@ -5226,7 +5226,7 @@
         "title": "GPT-3 Google Docs Addon",
         "description": "Using Google Apps Script, create an Addon for Google Docs using GPT-3, which has these 3 functions.\n\nGenerate/Complete Text\nRephrase Text\nGrammar Fix\n\nUsers must be able to select some text from their document, and in a sidebar, choose any one of these 3 options, and the new text must be able to be previewed and inserted in the document.\n\nThe OpenAI API key must be stored securely on a backend server. UI must be simple and easy to use.",
         "author": "CoderGautamYT",
-        "posted_time": "11 minutes ago",
+        "posted_time": "21 minutes ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/gpt-3-google-docs-ad-2?t="
     }
 ]
