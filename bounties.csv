@@ -4180,7 +4180,7 @@ Chrome extension V3.
 
 Link to Project",ShubhKathuria,10 hours ago,https://replit.com/bounties/@ShubhKathuria/use-gpt-and-chrome-e?t=
 520,$4.50,closed,test onlyyyyy,for testing only,dumbss,9 hours ago,https://replit.com/bounties/@dumbss/test-onlyyyyy?t=
-521,$450.00,due in 27 days,Screen recorder electron app,"I'm looking to build an electron app that does screen recording AND record mouse events outside of the app (i.e during the screen recording). So out of the screen recording we want: a video track, the position of the mouse cursor relative to the video track as X,Y coordinates and, the timing of left click relative to the video track timeline.
+521,$450.00,closed,Screen recorder electron app,"I'm looking to build an electron app that does screen recording AND record mouse events outside of the app (i.e during the screen recording). So out of the screen recording we want: a video track, the position of the mouse cursor relative to the video track as X,Y coordinates and, the timing of left click relative to the video track timeline.
 
 The app should work on macOS.
 
@@ -4194,7 +4194,7 @@ Grammar Fix
 
 Users must be able to select some text from their document, and in a sidebar, choose any one of these 3 options, and the new text must be able to be previewed and inserted in the document.
 
-The OpenAI API key must be stored securely on a backend server. UI must be simple and easy to use.",CoderGautamYT,2 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt-3-google-docs-ad-2?t=
+The OpenAI API key must be stored securely on a backend server. UI must be simple and easy to use.",CoderGautamYT,3 hours ago,https://replit.com/bounties/@CoderGautamYT/gpt-3-google-docs-ad-2?t=
 523,$250.20,due in 12 days,"AI Homework website: for summaries, outlines, and essays","I'm looking for someone to build a simple website, that uses AI, and has a simple UI (something like ChatGPT welcome screen).
 
 It's functions would be just: 1) Make summary, 2) Make outline, 3) Write an essay, 4) Study helper.
@@ -4218,7 +4218,7 @@ Voter Data Integration: Integrate voter data from public databases, such as vote
 Push Notifications: Use push notifications to keep voters informed about political events, campaigns, and other important updates.
 
 Event Tracking: Track attendance at political events and rallies to gather information about which issues and candidates are most important to voters.
-Social Media Integration: Integrate popular social...",Sarfrazkhan18,1 hour ago,https://replit.com/bounties/@Sarfrazkhan18/political-parties-co?t=
+Social Media Integration: Integrate popular social...",Sarfrazkhan18,2 hours ago,https://replit.com/bounties/@Sarfrazkhan18/political-parties-co?t=
 525,$45.00,due in 6 days,Social Fitness App,"Hi! I'm building a fitness webapp with Nextjs + Supabase called Gambit (app.acidgambit.com). I'm looking to expand the current features to include strava connection (already started the integration), tracking a user's weight progress, tracking a user's 1-rep maxes for bench/squat/deadlift, ability to add a custom workout, a method to have monthly competitions that users can enter and view the leaderboards. Additionally, a ranking system that stacks all the users against eachother, so in their profile they can see their current ranking.
 
 Also: an analytics page with graphs that show progress for the user's 1-rep maxes and weight progress.
@@ -4234,4 +4234,4 @@ Analytics page
 Streaks
 Ability to add custom workouts
 Track bodyweight
-T...",acidgambit,10 minutes ago,https://replit.com/bounties/@acidgambit/social-fitness-app?t=
+T...",acidgambit,25 minutes ago,https://replit.com/bounties/@acidgambit/social-fitness-app?t=

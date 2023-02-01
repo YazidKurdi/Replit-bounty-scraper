@@ -5212,7 +5212,7 @@
     {
         "index": "521",
         "price": "$450.00",
-        "due_days": "due in 27 days",
+        "due_days": "closed",
         "title": "Screen recorder electron app",
         "description": "I'm looking to build an electron app that does screen recording AND record mouse events outside of the app (i.e during the screen recording). So out of the screen recording we want: a video track, the position of the mouse cursor relative to the video track as X,Y coordinates and, the timing of left click relative to the video track timeline.\n\nThe app should work on macOS.\n\nAcceptance Criteria\nA packaged electron app with minimal UI. One button to start screen recording and stop screen recording. At the end of the recording, a window invite the user to select a location to save the video track and the mouse metadata. The video track is saved as an mp4 file, the mouse data is saved as a JSON file.",
         "author": "GuillaumeBonif1",
@@ -5226,7 +5226,7 @@
         "title": "GPT-3 Google Docs Addon",
         "description": "Using Google Apps Script, create an Addon for Google Docs using GPT-3, which has these 3 functions.\n\nGenerate/Complete Text\nRephrase Text\nGrammar Fix\n\nUsers must be able to select some text from their document, and in a sidebar, choose any one of these 3 options, and the new text must be able to be previewed and inserted in the document.\n\nThe OpenAI API key must be stored securely on a backend server. UI must be simple and easy to use.",
         "author": "CoderGautamYT",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/gpt-3-google-docs-ad-2?t="
     },
     {
@@ -5246,7 +5246,7 @@
         "title": "Political Parties Compaign App",
         "description": "The political landscape is constantly evolving, and political parties must stay connected with their voters and understand their needs and preferences. To achieve this goal, the political party needs a comprehensive and user-friendly app that can gather, process, and analyze data about voters.\n\nAcceptance Criteria\nFeatures of the App:\n\nSurveys: Create customizable surveys to gather information about voters' preferences, opinions, and demographic information.\n\nVoter Data Integration: Integrate voter data from public databases, such as voter registration information and voting history, to understand voters' voting patterns and preferences.\n\nPush Notifications: Use push notifications to keep voters informed about political events, campaigns, and other important updates.\n\nEvent Tracking: Track attendance at political events and rallies to gather information about which issues and candidates are most important to voters.\nSocial Media Integration: Integrate popular social...",
         "author": "Sarfrazkhan18",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@Sarfrazkhan18/political-parties-co?t="
     },
     {
@@ -5256,7 +5256,7 @@
         "title": "Social Fitness App",
         "description": "Hi! I'm building a fitness webapp with Nextjs + Supabase called Gambit (app.acidgambit.com). I'm looking to expand the current features to include strava connection (already started the integration), tracking a user's weight progress, tracking a user's 1-rep maxes for bench/squat/deadlift, ability to add a custom workout, a method to have monthly competitions that users can enter and view the leaderboards. Additionally, a ranking system that stacks all the users against eachother, so in their profile they can see their current ranking.\n\nAlso: an analytics page with graphs that show progress for the user's 1-rep maxes and weight progress.\n\nA streak system that shows if a user is completing at least 1 workout per day, and displays the streak on their profile.\n\nI currently have an active repo for you to work off of.\n\nAcceptance Criteria\nRanking system\nOptimized for mobile view but works on desktop\nAnalytics page\nStreaks\nAbility to add custom workouts\nTrack bodyweight\nT...",
         "author": "acidgambit",
-        "posted_time": "10 minutes ago",
+        "posted_time": "25 minutes ago",
         "link": "https://replit.com/bounties/@acidgambit/social-fitness-app?t="
     }
 ]
