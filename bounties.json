@@ -5126,17 +5126,17 @@
         "title": "Domain name generator",
         "description": "I'm looking for a good domain name for an AI assistant. Would like a quick script that runs a domain name search for all english verbs for which the domain is available (either as .ai or .com, and either directly available, or available as an auction \u2014 unsure how you'd check the latter, but it is a requirement).\n\nWould return a list of domains, sorted by length ascending.\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "altimor",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@altimor/domain-name-generato?t="
     },
     {
         "index": "513",
         "price": "$27.00",
-        "due_days": "due in 5 days",
+        "due_days": "closed",
         "title": "Pick up basketball Sign up app",
         "description": "I am looking for a way to see who is in and who is out each week for our pickup basketball game. We have about 30 people on the list and we take the 1st 15 people to reply yes in a text message or email. It is unruly right now. It would be nice if there was a chat feature too but not necessary. Each person should have their own account or a way for everyone to see who is signed up.\nAcceptance Criteria\nThis is acceptable from 2 directions: 1) An owner (me) sends out a message to X amount of players each week. And 2) The players reply Yes, No, or Maybe. Everyone should be able to see the results.\nTechnical Details\n\nTimelines / Milestones",
         "author": "MattHartman1",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@MattHartman1/pick-up-basketball-s?t="
     },
     {
@@ -5156,7 +5156,7 @@
         "title": "Document Classifier",
         "description": "I would like a Document Classifer built that will use a GPT-3 or ChatGPT model to classify PDF documents into one of the following category of documents:\n\nARTICLESOFINCORPORATION: Articles of Incorporation for the company.\nSTOCKPURCHASEAGREEMENT: A document generated when there is a round of financing a stock is sold to investors.\nRESTRICTEDSTOCKAGREEMENT: A document for when you give stock to employees, contractors, etc.\nSTOCK_PLAN: Stock plan is the plan from which a company grants common shares or options. It outlines the rules that those shares follow.\nOPTION_AGREEMENT: Agreement when you give options to employees or contractors.\nOPTIONEXERCISEAGREEMENT: Document that employees or contractors fill out when they want to exercise (pay) for their options to get the common shares.\nSAFE: Simple Agreement Future Equity\nWARRANT: Warrant to purchase future shares\nBOARD_CONSENT: Board consent agreement\nSHAREHOLDER_CONSENT: Shareholder Consent agreement\nCONVERSION_AGREEMENT: Agreement to con...",
         "author": "GabrielOtte1",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@GabrielOtte1/document-classifier?t="
     },
     {
@@ -5206,7 +5206,7 @@
         "title": "test onlyyyyy",
         "description": "for testing only",
         "author": "dumbss",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@dumbss/test-onlyyyyy?t="
     },
     {
