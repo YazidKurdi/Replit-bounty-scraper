@@ -4288,5 +4288,18 @@ Acceptance Criteria
 I should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Python library (ctypes, win32api, etc).
 
 Future Work
-If all works out well, the bounty hunter may be assigned future bounties with increasing amounts of pay.",EpicCodeWizard2,36 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-1?t=
-534,$103.50,closed,Steam Trader bot,Would like to ask for a steam trade bot,josekyot,21 minutes ago,https://replit.com/bounties/@josekyot/steam-trader-bot?t=
+If all works out well, the bounty hunter may be assigned future bounties with increasing amounts of pay.",EpicCodeWizard2,46 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-1?t=
+534,$103.50,closed,Steam Trader bot,Would like to ask for a steam trade bot,josekyot,31 minutes ago,https://replit.com/bounties/@josekyot/steam-trader-bot?t=
+535,$270.00,due in 17 days,Video snippet from transcript,"We are looking to create a video highlighting and clipping tool. The tool will allow users to:
+
+Highlight a portion of the transcript of a given video.
+Automatically create a clip of the corresponding section of the video.
+Share the created clip with others using a unique link.
+
+Similar to what grain.com has developed.
+
+Acceptance Criteria
+We should be able to run the code successfully after installing the dependencies if any
+
+Technical Details
+We are using React for our frontend and django for the backend. Happy to discuss it in email/call.",JordiBurgues,8 minutes ago,https://replit.com/bounties/@JordiBurgues/video-snippet-from-t?t=
