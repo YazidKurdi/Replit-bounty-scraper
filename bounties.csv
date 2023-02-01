@@ -4262,7 +4262,7 @@ Acceptance Criteria
 Ability to quickly finish tasks, strong technical skills, and is willing to continue contributing to the project
 
 Technical Details
-NextJS, ethers.js, tailwind",chubaeth,6 hours ago,https://replit.com/bounties/@chubaeth/nextjs-webapp-sprint?t=
+NextJS, ethers.js, tailwind",chubaeth,7 hours ago,https://replit.com/bounties/@chubaeth/nextjs-webapp-sprint?t=
 530,$90.00,due in 4 days,Scrape Odd Lots podcast,"I want to scrape the transcripts of the Odd Lots podcast. Some of the episodes can be found at https://www.bloomberg.com/oddlots in the links that begin with ""Transcript: "". I tried, but ran into issues with a Captcha and could not figure out how to get selenium working within a repl. I haven't quite figured out how to find the complete archive of the podcasts yet, but would be ok with a solution that just scrapes the episodes available at the provided link.
 
 Acceptance Criteria
@@ -4288,7 +4288,7 @@ Acceptance Criteria
 I should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Python library (ctypes, win32api, etc).
 
 Future Work
-If all works out well, the bounty hunter may be assigned future bounties with increasing amounts of pay.",EpicCodeWizard2,4 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-1?t=
+If all works out well, the bounty hunter may be assigned future bounties with increasing amounts of pay.",EpicCodeWizard2,5 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-1?t=
 534,$103.50,closed,Steam Trader bot,Would like to ask for a steam trade bot,josekyot,4 hours ago,https://replit.com/bounties/@josekyot/steam-trader-bot?t=
 535,$270.00,due in 17 days,Video snippet from transcript,"We are looking to create a video highlighting and clipping tool. The tool will allow users to:
 
@@ -4311,3 +4311,12 @@ Javascript and CSS Knowledge",r6nrkcmxvc,2 hours ago,https://replit.com/bounties
 
 Acceptance Criteria
 remake quizelt",r6nrkcmxvc,2 hours ago,https://replit.com/bounties/@r6nrkcmxvc/remake-quizlet?t=
+538,$90.00,due in 26 days,Build a Chrome extension,"I'd like to create an experimental OpenAI application to help recruiters become better at personalizing outreach when reaching out to talent. I want to automatically generate personalized messaging within a chrome extension that recruiters can use and track progress by storing data in a database.
+
+Acceptance Criteria
+Extension grabs a downloaded PDF from public LinkedIn or LinkedIn Recruiter
+Extension parses pdf and stores it in a database
+Extension takes inputs from the user and the pdf to make an API call to OpenAI and returns the output to the user
+User can edit the presented output and copy the text with a 1-click copy button
+The API input, output, and user edits are uploaded to a database
+Extension is built in a way so that latency isn't crazy (i.e. not too many outside services used + processing done in-browser. This means project will likely mostly be in Javascript)",JoeriLeemans1,9 minutes ago,https://replit.com/bounties/@JoeriLeemans1/build-a-chrome-exten?t=
