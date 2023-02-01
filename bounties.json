@@ -5146,7 +5146,7 @@
         "title": "\u26a1\u26a1Quick Slack Bolt App\u26a1\u26a1 ",
         "description": "Custom quiz bot with ability to ask questions / track answers for users across a variety of topics. Ability to ingest questions/data from Slack/route to table, and perform similar such clerical actions/\n\nAcceptance Criteria\nFinished Bolt App\n\nTechnical Details\nBackend Prisma/Postgres/SQL",
         "author": "genehackmanfan4444",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@genehackmanfan4444/quick-slack-bolt-app?t="
     },
     {
@@ -5186,7 +5186,7 @@
         "title": "Fix Github Actions Postman Collection tests",
         "description": "We run our system with a docker compose file. Right now that file builds but we also want to run postman tests in our github actions workflows. Therefore we need to up the docker compose and run a postman collection on it (with postman tests as part of the collection). We haven't been able to successfully run this with the latest error being: [errored]\n     socket hang up\n\nAcceptance Criteria\n\nSubmit a PR forked off of this branch (https://github.com/uselotus/lotus/pull/493) where both the Collections Tests and Django/Postgres actions are running correctly. The django.postgres is a similar idea except we want to run cypress tests instead of postman so we need to up the docker compose to do that.\n\nTechnical Details\nMust understand docker, docker-compose, postman + newman, github actions\n\nShould be on a mac or linux not windows (we have problems with windows self host at times)\n\nhttps://github.com/uselotus/lotus/tree/cypress-tests",
         "author": "MikaelNida",
-        "posted_time": "51 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@MikaelNida/fix-github-actions-p?t="
     },
     {
@@ -5196,7 +5196,17 @@
         "title": "use GPT and chrome extension for email replies",
         "description": "We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add replies:\nyou go to a thread and see options for tones (Formal/Casual), Afiirmation (Interested/Not interested), and then click write.\nbased on the context of the message above and the options you choose, a specific prompt should go to the API, which will then generate a response.\nThe response should then be injected into the reply window.\n\nYou have to implement the buttons, reading of the message above, interacting with the API and injecting into gmail.\n\nAcceptance Criteria\nmust meet UI/UX requirements (will discuss over email).\n\nTechnical Details\nChrome extension V3.\n\nLink to Project",
         "author": "ShubhKathuria",
-        "posted_time": "45 minutes ago",
+        "posted_time": "55 minutes ago",
         "link": "https://replit.com/bounties/@ShubhKathuria/use-gpt-and-chrome-e?t="
+    },
+    {
+        "index": "520",
+        "price": "$4.50",
+        "due_days": "due in 14 days",
+        "title": "test onlyyyyy",
+        "description": "for testing only",
+        "author": "dumbss",
+        "posted_time": "6 minutes ago",
+        "link": "https://replit.com/bounties/@dumbss/test-onlyyyyy?t="
     }
 ]
