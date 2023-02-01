@@ -4138,7 +4138,7 @@ Example game for physics:
 
 Controls:
   A left D right W center thrust SPACE start,
-  C to catch with chopsticks",areyasouka,8 hours ago,https://replit.com/bounties/@areyasouka/spacex-starship-eart?t=
+  C to catch with chopsticks",areyasouka,9 hours ago,https://replit.com/bounties/@areyasouka/spacex-starship-eart?t=
 517,$4.50,due in 11 days,Create a webapp that takes a webflow site and makes it available to host externally,"We want to create a tool that makes webflow CMS sites available to host externally without breaking CMS functionality.
 
 Acceptance Criteria
@@ -4164,7 +4164,7 @@ Must understand docker, docker-compose, postman + newman, github actions
 
 Should be on a mac or linux not windows (we have problems with windows self host at times)
 
-https://github.com/uselotus/lotus/tree/cypress-tests",MikaelNida,4 hours ago,https://replit.com/bounties/@MikaelNida/fix-github-actions-p?t=
+https://github.com/uselotus/lotus/tree/cypress-tests",MikaelNida,5 hours ago,https://replit.com/bounties/@MikaelNida/fix-github-actions-p?t=
 519,$50.00,due in 4 days,use GPT and chrome extension for email replies,"We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add replies:
 you go to a thread and see options for tones (Formal/Casual), Afiirmation (Interested/Not interested), and then click write.
 based on the context of the message above and the options you choose, a specific prompt should go to the API, which will then generate a response.
@@ -4178,5 +4178,11 @@ must meet UI/UX requirements (will discuss over email).
 Technical Details
 Chrome extension V3.
 
-Link to Project",ShubhKathuria,4 hours ago,https://replit.com/bounties/@ShubhKathuria/use-gpt-and-chrome-e?t=
+Link to Project",ShubhKathuria,5 hours ago,https://replit.com/bounties/@ShubhKathuria/use-gpt-and-chrome-e?t=
 520,$4.50,closed,test onlyyyyy,for testing only,dumbss,4 hours ago,https://replit.com/bounties/@dumbss/test-onlyyyyy?t=
+521,$450.00,due in 28 days,Screen recorder electron app,"I'm looking to build an electron app that does screen recording AND record mouse events outside of the app (i.e during the screen recording). So out of the screen recording we want: a video track, the position of the mouse cursor relative to the video track as X,Y coordinates and, the timing of left click relative to the video track timeline.
+
+The app should work on macOS.
+
+Acceptance Criteria
+A packaged electron app with minimal UI. One button to start screen recording and stop screen recording. At the end of the recording, a window invite the user to select a location to save the video track and the mouse metadata. The video track is saved as an mp4 file, the mouse data is saved as a JSON file.",GuillaumeBonif1,25 seconds ago,https://replit.com/bounties/@GuillaumeBonif1/screen-recorder-elec?t=
