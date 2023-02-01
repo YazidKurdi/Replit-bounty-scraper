@@ -4052,7 +4052,7 @@ Please note: North American based audience is preferred for this bounty.
 Acceptance Criteria
 You have to share analytics of the video and the actual video link. The video has to clearly mention aitools.fyi. The website address aitools.fyi (https://aitools.fyi for YouTube) should be in the description of the video.
 
-Note: You can upload multiple videos if you like but to get the bounty, one video has to get 100K+ views.",SouthernEast,10 hours ago,https://replit.com/bounties/@SouthernEast/make-aitoolsfyi-go-v?t=
+Note: You can upload multiple videos if you like but to get the bounty, one video has to get 100K+ views.",SouthernEast,11 hours ago,https://replit.com/bounties/@SouthernEast/make-aitoolsfyi-go-v?t=
 508,$243.00,due in 15 days,Build a Javascript tutorial with 100 lessons,"We want to build a Javascript tutorial on the Learn Hub using content from CodeWithHarry's Youtube playlist (https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR).
 
 You will need to build ~100 lessons based on this tutorial. This playlist needs to be converted into a Javascript tutorial using this documentation (https://building-templates.davidatreplit.repl.co/) and the PDF notes (which are handwritten) need to be converted into markdown files.
@@ -4069,7 +4069,7 @@ Acceptance Criteria
 Simple web app on Replit that lets me ask questions and get answers from internal documents I provide.  Ideally I can also upload more documents in the future and have them indexed and searchable. Excel (CSV) and Word (Docx) docs are the main formats I need.
 
 Technical Details
-If its possible to have it private, that's a plus. Either through using my own OpenAI API key or some other LLM option.",JakeBlockchain,6 hours ago,https://replit.com/bounties/@JakeBlockchain/chat-ai-that-pulls-d?t=
+If its possible to have it private, that's a plus. Either through using my own OpenAI API key or some other LLM option.",JakeBlockchain,7 hours ago,https://replit.com/bounties/@JakeBlockchain/chat-ai-that-pulls-d?t=
 510,$300.00,due in 21 days,Score engineer productivity using GitHub data + AI,"It is hard to determine how productive an engineer is, based on useless metrics like '# of lines of code committed' or even 'number of commits.'
 
 Acceptance Criteria
@@ -4088,26 +4088,26 @@ Code complete, hosted, tested and successfully posting live tweets for both stat
 
 Technical Details
 
-I'm a product manager so I'll leave the technical details to you! I've reviewed the ChatGPT API documentation (and asked the question to ChatGPT) and there may be some responses (e.g., ServiceUnavailableError) that return availability status, but this is for the paid version. What we're solving is the availability of ChatGPT's free publicly available ser...",reblickulous,3 hours ago,https://replit.com/bounties/@reblickulous/twitter-bot-with-cha?t=
+I'm a product manager so I'll leave the technical details to you! I've reviewed the ChatGPT API documentation (and asked the question to ChatGPT) and there may be some responses (e.g., ServiceUnavailableError) that return availability status, but this is for the paid version. What we're solving is the availability of ChatGPT's free publicly available ser...",reblickulous,4 hours ago,https://replit.com/bounties/@reblickulous/twitter-bot-with-cha?t=
 512,$225.00,due in 6 days,Domain name generator,"I'm looking for a good domain name for an AI assistant. Would like a quick script that runs a domain name search for all english verbs for which the domain is available (either as .ai or .com, and either directly available, or available as an auction — unsure how you'd check the latter, but it is a requirement).
 
 Would return a list of domains, sorted by length ascending.
 
 Acceptance Criteria
-Be specific about what you want in the solution here.",altimor,2 hours ago,https://replit.com/bounties/@altimor/domain-name-generato?t=
+Be specific about what you want in the solution here.",altimor,3 hours ago,https://replit.com/bounties/@altimor/domain-name-generato?t=
 513,$27.00,due in 6 days,Pick up basketball Sign up app,"I am looking for a way to see who is in and who is out each week for our pickup basketball game. We have about 30 people on the list and we take the 1st 15 people to reply yes in a text message or email. It is unruly right now. It would be nice if there was a chat feature too but not necessary. Each person should have their own account or a way for everyone to see who is signed up.
 Acceptance Criteria
 This is acceptable from 2 directions: 1) An owner (me) sends out a message to X amount of players each week. And 2) The players reply Yes, No, or Maybe. Everyone should be able to see the results.
 Technical Details
 
-Timelines / Milestones",MattHartman1,2 hours ago,https://replit.com/bounties/@MattHartman1/pick-up-basketball-s?t=
+Timelines / Milestones",MattHartman1,3 hours ago,https://replit.com/bounties/@MattHartman1/pick-up-basketball-s?t=
 514,$18.00,due in 4 days,⚡⚡Quick Slack Bolt App⚡⚡ ,"Custom quiz bot with ability to ask questions / track answers for users across a variety of topics. Ability to ingest questions/data from Slack/route to table, and perform similar such clerical actions/
 
 Acceptance Criteria
 Finished Bolt App
 
 Technical Details
-Backend Prisma/Postgres/SQL",genehackmanfan4444,1 hour ago,https://replit.com/bounties/@genehackmanfan4444/quick-slack-bolt-app?t=
+Backend Prisma/Postgres/SQL",genehackmanfan4444,2 hours ago,https://replit.com/bounties/@genehackmanfan4444/quick-slack-bolt-app?t=
 515,$450.00,due in 9 days,Document Classifier,"I would like a Document Classifer built that will use a GPT-3 or ChatGPT model to classify PDF documents into one of the following category of documents:
 
 ARTICLESOFINCORPORATION: Articles of Incorporation for the company.
@@ -4120,4 +4120,22 @@ SAFE: Simple Agreement Future Equity
 WARRANT: Warrant to purchase future shares
 BOARD_CONSENT: Board consent agreement
 SHAREHOLDER_CONSENT: Shareholder Consent agreement
-CONVERSION_AGREEMENT: Agreement to con...",GabrielOtte1,51 minutes ago,https://replit.com/bounties/@GabrielOtte1/document-classifier?t=
+CONVERSION_AGREEMENT: Agreement to con...",GabrielOtte1,2 hours ago,https://replit.com/bounties/@GabrielOtte1/document-classifier?t=
+516,$360.00,due in 27 days,SpaceX Starship Earth Lander Game,"A web based 2d lunar lander like game incorporating the proposed SpaceX Starship landing of two stage reusable rockets.  Can be basic wireframe or simple vector graphics or pixel art as long as it is recognizable.
+
+Acceptance Criteria
+Simple animation of take off and stage separation, second stage floats in orbit while first stage booster returns
+Player lands the booster on launch pad, catching with chopsticks
+Chopsticks rotate and lower booster out of the way
+Player lands upper stage Starship from glide/fall, performing last second flip maneuver and grabbing upper stage Starship with same chopsticks
+If both caught without crash or RUD then player wins, else lose
+
+Second stage flip movement example:
+  https://youtu.be/4rI0-aDyMi8
+
+Example game for physics:
+  https://github.com/jrie/moonlander
+
+Controls:
+  A left D right W center thrust SPACE start,
+  C to catch with chopsticks",areyasouka,20 minutes ago,https://replit.com/bounties/@areyasouka/spacex-starship-eart?t=
