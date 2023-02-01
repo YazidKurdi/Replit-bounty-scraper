@@ -5216,7 +5216,7 @@
         "title": "Screen recorder electron app",
         "description": "I'm looking to build an electron app that does screen recording AND record mouse events outside of the app (i.e during the screen recording). So out of the screen recording we want: a video track, the position of the mouse cursor relative to the video track as X,Y coordinates and, the timing of left click relative to the video track timeline.\n\nThe app should work on macOS.\n\nAcceptance Criteria\nA packaged electron app with minimal UI. One button to start screen recording and stop screen recording. At the end of the recording, a window invite the user to select a location to save the video track and the mouse metadata. The video track is saved as an mp4 file, the mouse data is saved as a JSON file.",
         "author": "GuillaumeBonif1",
-        "posted_time": "25 seconds ago",
+        "posted_time": "7 minutes ago",
         "link": "https://replit.com/bounties/@GuillaumeBonif1/screen-recorder-elec?t="
     }
 ]
