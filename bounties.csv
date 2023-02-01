@@ -4138,7 +4138,7 @@ Example game for physics:
 
 Controls:
   A left D right W center thrust SPACE start,
-  C to catch with chopsticks",areyasouka,5 hours ago,https://replit.com/bounties/@areyasouka/spacex-starship-eart?t=
+  C to catch with chopsticks",areyasouka,6 hours ago,https://replit.com/bounties/@areyasouka/spacex-starship-eart?t=
 517,$4.50,due in 11 days,Create a webapp that takes a webflow site and makes it available to host externally,"We want to create a tool that makes webflow CMS sites available to host externally without breaking CMS functionality.
 
 Acceptance Criteria
@@ -4164,7 +4164,7 @@ Must understand docker, docker-compose, postman + newman, github actions
 
 Should be on a mac or linux not windows (we have problems with windows self host at times)
 
-https://github.com/uselotus/lotus/tree/cypress-tests",MikaelNida,1 hour ago,https://replit.com/bounties/@MikaelNida/fix-github-actions-p?t=
+https://github.com/uselotus/lotus/tree/cypress-tests",MikaelNida,2 hours ago,https://replit.com/bounties/@MikaelNida/fix-github-actions-p?t=
 519,$50.00,due in 4 days,use GPT and chrome extension for email replies,"We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add replies:
 you go to a thread and see options for tones (Formal/Casual), Afiirmation (Interested/Not interested), and then click write.
 based on the context of the message above and the options you choose, a specific prompt should go to the API, which will then generate a response.
@@ -4178,5 +4178,5 @@ must meet UI/UX requirements (will discuss over email).
 Technical Details
 Chrome extension V3.
 
-Link to Project",ShubhKathuria,1 hour ago,https://replit.com/bounties/@ShubhKathuria/use-gpt-and-chrome-e?t=
-520,$4.50,closed,test onlyyyyy,for testing only,dumbss,34 minutes ago,https://replit.com/bounties/@dumbss/test-onlyyyyy?t=
+Link to Project",ShubhKathuria,2 hours ago,https://replit.com/bounties/@ShubhKathuria/use-gpt-and-chrome-e?t=
+520,$4.50,closed,test onlyyyyy,for testing only,dumbss,56 minutes ago,https://replit.com/bounties/@dumbss/test-onlyyyyy?t=
