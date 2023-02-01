@@ -5316,7 +5316,7 @@
         "title": "[TRANSLATION] Convert C++ Code Utilizing Various Windows APIs to Python",
         "description": "IddSampleDriver allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in C++ utilizing Windows APIs. It is also made to be a driver. I would like to convert this to Python and make it a normal program, not a driver. Repo Link: https://github.com/roshkins/IddSampleDriver. Just convert the code to python. I don't mind it having multiple files or many dependencies.\n\nAcceptance Criteria\nI should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Python library (ctypes, win32api, etc).\n\nFuture Work\nIf all works out well, the bounty hunter may be assigned future bounties with increasing amounts of pay.",
         "author": "EpicCodeWizard2",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/translation-convert?t="
     },
     {
@@ -5326,7 +5326,7 @@
         "title": "Source Code Humanization",
         "description": "I have 3 separate JS source files that are currently obfuscated. I would like these three files un-obfuscated and reformatted, with some commenting throughout each that describes the functionality of the code.\nThe three files together are a total of 5mb.\nAcceptance Criteria\n3rd party tools are allowed.\nSolution in repl with the 3 files.\nObviously, comments do not need to be every line, once every 20 lines or so is fine.",
         "author": "i10",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@i10/source-code-humaniza?t="
     },
     {
@@ -5336,7 +5336,7 @@
         "title": "[TRANSLATION] Convert C++ Code Utilizing Various Windows APIs to Python",
         "description": "IddSampleDriver allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in C++ utilizing Windows APIs. It is also made to be a driver. I would like to convert this to Python and make it a normal program, not a driver. Repo Link: https://github.com/roshkins/IddSampleDriver. Just convert the code to python. I don't mind it having multiple files or many dependencies.\n\nAcceptance Criteria\nI should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Python library (ctypes, win32api, etc).\n\nFuture Work\nIf all works out well, the bounty hunter may be assigned future bounties with increasing amounts of pay.",
         "author": "EpicCodeWizard2",
-        "posted_time": "46 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/translation-convert-1?t="
     },
     {
@@ -5346,7 +5346,7 @@
         "title": "Steam Trader bot",
         "description": "Would like to ask for a steam trade bot",
         "author": "josekyot",
-        "posted_time": "31 minutes ago",
+        "posted_time": "47 minutes ago",
         "link": "https://replit.com/bounties/@josekyot/steam-trader-bot?t="
     },
     {
@@ -5356,7 +5356,7 @@
         "title": "Video snippet from transcript",
         "description": "We are looking to create a video highlighting and clipping tool. The tool will allow users to:\n\nHighlight a portion of the transcript of a given video.\nAutomatically create a clip of the corresponding section of the video.\nShare the created clip with others using a unique link.\n\nSimilar to what grain.com has developed.\n\nAcceptance Criteria\nWe should be able to run the code successfully after installing the dependencies if any\n\nTechnical Details\nWe are using React for our frontend and django for the backend. Happy to discuss it in email/call.",
         "author": "JordiBurgues",
-        "posted_time": "8 minutes ago",
+        "posted_time": "24 minutes ago",
         "link": "https://replit.com/bounties/@JordiBurgues/video-snippet-from-t?t="
     }
 ]
