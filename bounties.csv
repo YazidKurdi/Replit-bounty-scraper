@@ -4089,26 +4089,26 @@ Code complete, hosted, tested and successfully posting live tweets for both stat
 Technical Details
 
 I'm a product manager so I'll leave the technical details to you! I've reviewed the ChatGPT API documentation (and asked the question to ChatGPT) and there may be some responses (e.g., ServiceUnavailableError) that return availability status, but this is for the paid version. What we're solving is the availability of ChatGPT's free publicly available ser...",reblickulous,12 hours ago,https://replit.com/bounties/@reblickulous/twitter-bot-with-cha?t=
-512,$225.00,due in 6 days,Domain name generator,"I'm looking for a good domain name for an AI assistant. Would like a quick script that runs a domain name search for all english verbs for which the domain is available (either as .ai or .com, and either directly available, or available as an auction — unsure how you'd check the latter, but it is a requirement).
+512,$225.00,due in 5 days,Domain name generator,"I'm looking for a good domain name for an AI assistant. Would like a quick script that runs a domain name search for all english verbs for which the domain is available (either as .ai or .com, and either directly available, or available as an auction — unsure how you'd check the latter, but it is a requirement).
 
 Would return a list of domains, sorted by length ascending.
 
 Acceptance Criteria
-Be specific about what you want in the solution here.",altimor,11 hours ago,https://replit.com/bounties/@altimor/domain-name-generato?t=
-513,$27.00,due in 6 days,Pick up basketball Sign up app,"I am looking for a way to see who is in and who is out each week for our pickup basketball game. We have about 30 people on the list and we take the 1st 15 people to reply yes in a text message or email. It is unruly right now. It would be nice if there was a chat feature too but not necessary. Each person should have their own account or a way for everyone to see who is signed up.
+Be specific about what you want in the solution here.",altimor,12 hours ago,https://replit.com/bounties/@altimor/domain-name-generato?t=
+513,$27.00,due in 5 days,Pick up basketball Sign up app,"I am looking for a way to see who is in and who is out each week for our pickup basketball game. We have about 30 people on the list and we take the 1st 15 people to reply yes in a text message or email. It is unruly right now. It would be nice if there was a chat feature too but not necessary. Each person should have their own account or a way for everyone to see who is signed up.
 Acceptance Criteria
 This is acceptable from 2 directions: 1) An owner (me) sends out a message to X amount of players each week. And 2) The players reply Yes, No, or Maybe. Everyone should be able to see the results.
 Technical Details
 
-Timelines / Milestones",MattHartman1,11 hours ago,https://replit.com/bounties/@MattHartman1/pick-up-basketball-s?t=
-514,$18.00,due in 4 days,⚡⚡Quick Slack Bolt App⚡⚡ ,"Custom quiz bot with ability to ask questions / track answers for users across a variety of topics. Ability to ingest questions/data from Slack/route to table, and perform similar such clerical actions/
+Timelines / Milestones",MattHartman1,12 hours ago,https://replit.com/bounties/@MattHartman1/pick-up-basketball-s?t=
+514,$18.00,due in 3 days,⚡⚡Quick Slack Bolt App⚡⚡ ,"Custom quiz bot with ability to ask questions / track answers for users across a variety of topics. Ability to ingest questions/data from Slack/route to table, and perform similar such clerical actions/
 
 Acceptance Criteria
 Finished Bolt App
 
 Technical Details
 Backend Prisma/Postgres/SQL",genehackmanfan4444,11 hours ago,https://replit.com/bounties/@genehackmanfan4444/quick-slack-bolt-app?t=
-515,$450.00,due in 9 days,Document Classifier,"I would like a Document Classifer built that will use a GPT-3 or ChatGPT model to classify PDF documents into one of the following category of documents:
+515,$450.00,due in 8 days,Document Classifier,"I would like a Document Classifer built that will use a GPT-3 or ChatGPT model to classify PDF documents into one of the following category of documents:
 
 ARTICLESOFINCORPORATION: Articles of Incorporation for the company.
 STOCKPURCHASEAGREEMENT: A document generated when there is a round of financing a stock is sold to investors.
@@ -4120,8 +4120,8 @@ SAFE: Simple Agreement Future Equity
 WARRANT: Warrant to purchase future shares
 BOARD_CONSENT: Board consent agreement
 SHAREHOLDER_CONSENT: Shareholder Consent agreement
-CONVERSION_AGREEMENT: Agreement to con...",GabrielOtte1,10 hours ago,https://replit.com/bounties/@GabrielOtte1/document-classifier?t=
-516,$360.00,due in 27 days,SpaceX Starship Earth Lander Game,"A web based 2d lunar lander like game incorporating the proposed SpaceX Starship landing of two stage reusable rockets.  Can be basic wireframe or simple vector graphics or pixel art as long as it is recognizable.
+CONVERSION_AGREEMENT: Agreement to con...",GabrielOtte1,11 hours ago,https://replit.com/bounties/@GabrielOtte1/document-classifier?t=
+516,$360.00,due in 26 days,SpaceX Starship Earth Lander Game,"A web based 2d lunar lander like game incorporating the proposed SpaceX Starship landing of two stage reusable rockets.  Can be basic wireframe or simple vector graphics or pixel art as long as it is recognizable.
 
 Acceptance Criteria
 Simple animation of take off and stage separation, second stage floats in orbit while first stage booster returns
@@ -4138,8 +4138,8 @@ Example game for physics:
 
 Controls:
   A left D right W center thrust SPACE start,
-  C to catch with chopsticks",areyasouka,9 hours ago,https://replit.com/bounties/@areyasouka/spacex-starship-eart?t=
-517,$4.50,due in 11 days,Create a webapp that takes a webflow site and makes it available to host externally,"We want to create a tool that makes webflow CMS sites available to host externally without breaking CMS functionality.
+  C to catch with chopsticks",areyasouka,10 hours ago,https://replit.com/bounties/@areyasouka/spacex-starship-eart?t=
+517,$4.50,due in 10 days,Create a webapp that takes a webflow site and makes it available to host externally,"We want to create a tool that makes webflow CMS sites available to host externally without breaking CMS functionality.
 
 Acceptance Criteria
 Need the following workflow:
@@ -4152,7 +4152,7 @@ You can check Udesly’s Jamstack implementation. Need something similar.
 
 Timelines / Milestones
 You tell me.",vandonegal,6 hours ago,https://replit.com/bounties/@vandonegal/create-a-webapp-that?t=
-518,$90.00,due in 4 days,Fix Github Actions Postman Collection tests,"We run our system with a docker compose file. Right now that file builds but we also want to run postman tests in our github actions workflows. Therefore we need to up the docker compose and run a postman collection on it (with postman tests as part of the collection). We haven't been able to successfully run this with the latest error being: [errored]
+518,$90.00,due in 3 days,Fix Github Actions Postman Collection tests,"We run our system with a docker compose file. Right now that file builds but we also want to run postman tests in our github actions workflows. Therefore we need to up the docker compose and run a postman collection on it (with postman tests as part of the collection). We haven't been able to successfully run this with the latest error being: [errored]
      socket hang up
 
 Acceptance Criteria
@@ -4164,8 +4164,8 @@ Must understand docker, docker-compose, postman + newman, github actions
 
 Should be on a mac or linux not windows (we have problems with windows self host at times)
 
-https://github.com/uselotus/lotus/tree/cypress-tests",MikaelNida,5 hours ago,https://replit.com/bounties/@MikaelNida/fix-github-actions-p?t=
-519,$50.00,due in 4 days,use GPT and chrome extension for email replies,"We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add replies:
+https://github.com/uselotus/lotus/tree/cypress-tests",MikaelNida,6 hours ago,https://replit.com/bounties/@MikaelNida/fix-github-actions-p?t=
+519,$50.00,due in 3 days,use GPT and chrome extension for email replies,"We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add replies:
 you go to a thread and see options for tones (Formal/Casual), Afiirmation (Interested/Not interested), and then click write.
 based on the context of the message above and the options you choose, a specific prompt should go to the API, which will then generate a response.
 The response should then be injected into the reply window.
@@ -4179,10 +4179,10 @@ Technical Details
 Chrome extension V3.
 
 Link to Project",ShubhKathuria,5 hours ago,https://replit.com/bounties/@ShubhKathuria/use-gpt-and-chrome-e?t=
-520,$4.50,closed,test onlyyyyy,for testing only,dumbss,4 hours ago,https://replit.com/bounties/@dumbss/test-onlyyyyy?t=
-521,$450.00,due in 28 days,Screen recorder electron app,"I'm looking to build an electron app that does screen recording AND record mouse events outside of the app (i.e during the screen recording). So out of the screen recording we want: a video track, the position of the mouse cursor relative to the video track as X,Y coordinates and, the timing of left click relative to the video track timeline.
+520,$4.50,closed,test onlyyyyy,for testing only,dumbss,5 hours ago,https://replit.com/bounties/@dumbss/test-onlyyyyy?t=
+521,$450.00,due in 27 days,Screen recorder electron app,"I'm looking to build an electron app that does screen recording AND record mouse events outside of the app (i.e during the screen recording). So out of the screen recording we want: a video track, the position of the mouse cursor relative to the video track as X,Y coordinates and, the timing of left click relative to the video track timeline.
 
 The app should work on macOS.
 
 Acceptance Criteria
-A packaged electron app with minimal UI. One button to start screen recording and stop screen recording. At the end of the recording, a window invite the user to select a location to save the video track and the mouse metadata. The video track is saved as an mp4 file, the mouse data is saved as a JSON file.",GuillaumeBonif1,33 minutes ago,https://replit.com/bounties/@GuillaumeBonif1/screen-recorder-elec?t=
+A packaged electron app with minimal UI. One button to start screen recording and stop screen recording. At the end of the recording, a window invite the user to select a location to save the video track and the mouse metadata. The video track is saved as an mp4 file, the mouse data is saved as a JSON file.",GuillaumeBonif1,58 minutes ago,https://replit.com/bounties/@GuillaumeBonif1/screen-recorder-elec?t=
