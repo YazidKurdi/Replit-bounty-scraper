@@ -5316,7 +5316,7 @@
         "title": "[TRANSLATION] Convert C++ Code Utilizing Various Windows APIs to Python",
         "description": "IddSampleDriver allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in C++ utilizing Windows APIs. It is also made to be a driver. I would like to convert this to Python and make it a normal program, not a driver. Repo Link: https://github.com/roshkins/IddSampleDriver. Just convert the code to python. I don't mind it having multiple files or many dependencies.\n\nAcceptance Criteria\nI should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Python library (ctypes, win32api, etc).\n\nFuture Work\nIf all works out well, the bounty hunter may be assigned future bounties with increasing amounts of pay.",
         "author": "EpicCodeWizard2",
-        "posted_time": "41 minutes ago",
+        "posted_time": "52 minutes ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/translation-convert?t="
     },
     {
@@ -5326,17 +5326,17 @@
         "title": "Source Code Humanization",
         "description": "I have 3 separate JS source files that are currently obfuscated. I would like these three files un-obfuscated and reformatted, with some commenting throughout each that describes the functionality of the code.\nThe three files together are a total of 5mb.\nAcceptance Criteria\n3rd party tools are allowed.\nSolution in repl with the 3 files.\nObviously, comments do not need to be every line, once every 20 lines or so is fine.",
         "author": "i10",
-        "posted_time": "37 minutes ago",
+        "posted_time": "48 minutes ago",
         "link": "https://replit.com/bounties/@i10/source-code-humaniza?t="
     },
     {
         "index": "533",
         "price": "$90.00",
-        "due_days": "due in 10 days",
+        "due_days": "due in 9 days",
         "title": "[TRANSLATION] Convert C++ Code Utilizing Various Windows APIs to Python",
         "description": "IddSampleDriver allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in C++ utilizing Windows APIs. It is also made to be a driver. I would like to convert this to Python and make it a normal program, not a driver. Repo Link: https://github.com/roshkins/IddSampleDriver. Just convert the code to python. I don't mind it having multiple files or many dependencies.\n\nAcceptance Criteria\nI should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Python library (ctypes, win32api, etc).\n\nFuture Work\nIf all works out well, the bounty hunter may be assigned future bounties with increasing amounts of pay.",
         "author": "EpicCodeWizard2",
-        "posted_time": "50 seconds ago",
+        "posted_time": "12 minutes ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/translation-convert-1?t="
     }
 ]
