@@ -5156,7 +5156,7 @@
         "title": "Document Classifier",
         "description": "I would like a Document Classifer built that will use a GPT-3 or ChatGPT model to classify PDF documents into one of the following category of documents:\n\nARTICLESOFINCORPORATION: Articles of Incorporation for the company.\nSTOCKPURCHASEAGREEMENT: A document generated when there is a round of financing a stock is sold to investors.\nRESTRICTEDSTOCKAGREEMENT: A document for when you give stock to employees, contractors, etc.\nSTOCK_PLAN: Stock plan is the plan from which a company grants common shares or options. It outlines the rules that those shares follow.\nOPTION_AGREEMENT: Agreement when you give options to employees or contractors.\nOPTIONEXERCISEAGREEMENT: Document that employees or contractors fill out when they want to exercise (pay) for their options to get the common shares.\nSAFE: Simple Agreement Future Equity\nWARRANT: Warrant to purchase future shares\nBOARD_CONSENT: Board consent agreement\nSHAREHOLDER_CONSENT: Shareholder Consent agreement\nCONVERSION_AGREEMENT: Agreement to con...",
         "author": "GabrielOtte1",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@GabrielOtte1/document-classifier?t="
     },
     {
@@ -5206,7 +5206,7 @@
         "title": "test onlyyyyy",
         "description": "for testing only",
         "author": "dumbss",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@dumbss/test-onlyyyyy?t="
     },
     {
@@ -5226,17 +5226,17 @@
         "title": "GPT-3 Google Docs Addon",
         "description": "Using Google Apps Script, create an Addon for Google Docs using GPT-3, which has these 3 functions.\n\nGenerate/Complete Text\nRephrase Text\nGrammar Fix\n\nUsers must be able to select some text from their document, and in a sidebar, choose any one of these 3 options, and the new text must be able to be previewed and inserted in the document.\n\nThe OpenAI API key must be stored securely on a backend server. UI must be simple and easy to use.",
         "author": "CoderGautamYT",
-        "posted_time": "40 minutes ago",
+        "posted_time": "57 minutes ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/gpt-3-google-docs-ad-2?t="
     },
     {
         "index": "523",
         "price": "$250.20",
-        "due_days": "due in 13 days",
+        "due_days": "due in 12 days",
         "title": "AI Homework website: for summaries, outlines, and essays",
         "description": "I'm looking for someone to build a simple website, that uses AI, and has a simple UI (something like ChatGPT welcome screen).\n\nIt's functions would be just: 1) Make summary, 2) Make outline, 3) Write an essay, 4) Study helper.\nThe input box could receive the pasted text to work with, or a url (for example wikipedia.org/wiki/Elon_Musk). When given a webpage url, it should leave out ads or content that's not part of the article.\n\nThen it performs the assigned work and displays it underneath, into the same page. And it has a \"copy\" icon to get the text copied, so that it can then be pasted in a doc.\n\n1) Make summary: Given a pasted text, article or url, generate a summary of the main points.\n2) Make outline: Given a pasted text, article or url, generate an outline or main points like an index, for example to be used as a bullet point presentation.\n3) Write an essay: User inputs a topic and aproximate lenght, in paragraphs. And interface generates an essay.\n4) Study hel...",
         "author": "PracticAI",
-        "posted_time": "5 minutes ago",
+        "posted_time": "22 minutes ago",
         "link": "https://replit.com/bounties/@PracticAI/ai-homework-website?t="
     }
 ]
