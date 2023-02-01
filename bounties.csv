@@ -4151,7 +4151,7 @@ Technical Details
 You can check Udesly’s Jamstack implementation. Need something similar.
 
 Timelines / Milestones
-You tell me.",vandonegal,25 minutes ago,https://replit.com/bounties/@vandonegal/create-a-webapp-that?t=
+You tell me.",vandonegal,33 minutes ago,https://replit.com/bounties/@vandonegal/create-a-webapp-that?t=
 518,$90.00,due in 4 days,Fix Github Actions Postman Collection tests,"We run our system with a docker compose file. Right now that file builds but we also want to run postman tests in our github actions workflows. Therefore we need to up the docker compose and run a postman collection on it (with postman tests as part of the collection). We haven't been able to successfully run this with the latest error being: [errored]
      socket hang up
 
@@ -4164,4 +4164,18 @@ Must understand docker, docker-compose, postman + newman, github actions
 
 Should be on a mac or linux not windows (we have problems with windows self host at times)
 
-https://github.com/uselotus/lotus/tree/cypress-tests",MikaelNida,3 minutes ago,https://replit.com/bounties/@MikaelNida/fix-github-actions-p?t=
+https://github.com/uselotus/lotus/tree/cypress-tests",MikaelNida,11 minutes ago,https://replit.com/bounties/@MikaelNida/fix-github-actions-p?t=
+519,$50.00,due in 4 days,use GPT and chrome extension for email replies,"We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add replies:
+you go to a thread and see options for tones (Formal/Casual), Afiirmation (Interested/Not interested), and then click write.
+based on the context of the message above and the options you choose, a specific prompt should go to the API, which will then generate a response.
+The response should then be injected into the reply window.
+
+You have to implement the buttons, reading of the message above, interacting with the API and injecting into gmail.
+
+Acceptance Criteria
+must meet UI/UX requirements (will discuss over email).
+
+Technical Details
+Chrome extension V3.
+
+Link to Project",ShubhKathuria,5 minutes ago,https://replit.com/bounties/@ShubhKathuria/use-gpt-and-chrome-e?t=
