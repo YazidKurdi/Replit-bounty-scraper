@@ -5176,7 +5176,7 @@
         "title": "Create a webapp that takes a webflow site and makes it available to host externally",
         "description": "We want to create a tool that makes webflow CMS sites available to host externally without breaking CMS functionality.\n\nAcceptance Criteria\nNeed the following workflow:\nApp should take a webflow site URL.\nIt should check all CMS items and pages.\nIt should link all CMS items to respective pages and link all pages with each other.\n\nTechnical Details\nYou can check Udesly\u2019s Jamstack implementation. Need something similar.\n\nTimelines / Milestones\nYou tell me.",
         "author": "vandonegal",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@vandonegal/create-a-webapp-that?t="
     },
     {
@@ -5216,7 +5216,7 @@
         "title": "Screen recorder electron app",
         "description": "I'm looking to build an electron app that does screen recording AND record mouse events outside of the app (i.e during the screen recording). So out of the screen recording we want: a video track, the position of the mouse cursor relative to the video track as X,Y coordinates and, the timing of left click relative to the video track timeline.\n\nThe app should work on macOS.\n\nAcceptance Criteria\nA packaged electron app with minimal UI. One button to start screen recording and stop screen recording. At the end of the recording, a window invite the user to select a location to save the video track and the mouse metadata. The video track is saved as an mp4 file, the mouse data is saved as a JSON file.",
         "author": "GuillaumeBonif1",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@GuillaumeBonif1/screen-recorder-elec?t="
     },
     {
@@ -5256,7 +5256,7 @@
         "title": "Social Fitness App",
         "description": "Hi! I'm building a fitness webapp with Nextjs + Supabase called Gambit (app.acidgambit.com). I'm looking to expand the current features to include strava connection (already started the integration), tracking a user's weight progress, tracking a user's 1-rep maxes for bench/squat/deadlift, ability to add a custom workout, a method to have monthly competitions that users can enter and view the leaderboards. Additionally, a ranking system that stacks all the users against eachother, so in their profile they can see their current ranking.\n\nAlso: an analytics page with graphs that show progress for the user's 1-rep maxes and weight progress.\n\nA streak system that shows if a user is completing at least 1 workout per day, and displays the streak on their profile.\n\nI currently have an active repo for you to work off of.\n\nAcceptance Criteria\nRanking system\nOptimized for mobile view but works on desktop\nAnalytics page\nStreaks\nAbility to add custom workouts\nTrack bodyweight\nT...",
         "author": "acidgambit",
-        "posted_time": "25 minutes ago",
+        "posted_time": "32 minutes ago",
         "link": "https://replit.com/bounties/@acidgambit/social-fitness-app?t="
     }
 ]
