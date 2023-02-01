@@ -5106,7 +5106,7 @@
         "title": "Score engineer productivity using GitHub data + AI",
         "description": "It is hard to determine how productive an engineer is, based on useless metrics like '# of lines of code committed' or even 'number of commits.'\n\nAcceptance Criteria\nAuth into GitHub\nGet data on the developer's commits\nProvide a score based on how impactful the developer's code was to the progression of the product\nCreate a simple web page (domain TBD), that shows the GitHub owner's information, their score, and how they rank\n\nTechnical Details\nThe app should leverage OpenAI",
         "author": "anksolado",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@anksolado/score-engineer-produ?t="
     },
     {
@@ -5116,7 +5116,7 @@
         "title": "Twitter Bot with ChatGPT Status Updates",
         "description": "The free public version of ChatGPT is often unavailable for use due to server capacity issues, a source of frustration for new and existing users. To solve this, we'll build a Twitter Bot (I will create and manage the Twitter account credentials) that tweets each time the availability status changes from available > unavailable (placeholder message: \"Sorry, ChatGPT is at capacity, I'll let you now when I'm available again.\") and unavailable > available (\"ChatGPT is available again!\")\n\nAcceptance Criteria\n\nCode complete, hosted, tested and successfully posting live tweets for both status changes.\n\nTechnical Details\n\nI'm a product manager so I'll leave the technical details to you! I've reviewed the ChatGPT API documentation (and asked the question to ChatGPT) and there may be some responses (e.g., ServiceUnavailableError) that return availability status, but this is for the paid version. What we're solving is the availability of ChatGPT's free publicly available ser...",
         "author": "reblickulous",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@reblickulous/twitter-bot-with-cha?t="
     },
     {
@@ -5126,7 +5126,7 @@
         "title": "Domain name generator",
         "description": "I'm looking for a good domain name for an AI assistant. Would like a quick script that runs a domain name search for all english verbs for which the domain is available (either as .ai or .com, and either directly available, or available as an auction \u2014 unsure how you'd check the latter, but it is a requirement).\n\nWould return a list of domains, sorted by length ascending.\n\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "altimor",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@altimor/domain-name-generato?t="
     },
     {
@@ -5136,7 +5136,7 @@
         "title": "Pick up basketball Sign up app",
         "description": "I am looking for a way to see who is in and who is out each week for our pickup basketball game. We have about 30 people on the list and we take the 1st 15 people to reply yes in a text message or email. It is unruly right now. It would be nice if there was a chat feature too but not necessary. Each person should have their own account or a way for everyone to see who is signed up.\nAcceptance Criteria\nThis is acceptable from 2 directions: 1) An owner (me) sends out a message to X amount of players each week. And 2) The players reply Yes, No, or Maybe. Everyone should be able to see the results.\nTechnical Details\n\nTimelines / Milestones",
         "author": "MattHartman1",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@MattHartman1/pick-up-basketball-s?t="
     },
     {
@@ -5156,7 +5156,7 @@
         "title": "Document Classifier",
         "description": "I would like a Document Classifer built that will use a GPT-3 or ChatGPT model to classify PDF documents into one of the following category of documents:\n\nARTICLESOFINCORPORATION: Articles of Incorporation for the company.\nSTOCKPURCHASEAGREEMENT: A document generated when there is a round of financing a stock is sold to investors.\nRESTRICTEDSTOCKAGREEMENT: A document for when you give stock to employees, contractors, etc.\nSTOCK_PLAN: Stock plan is the plan from which a company grants common shares or options. It outlines the rules that those shares follow.\nOPTION_AGREEMENT: Agreement when you give options to employees or contractors.\nOPTIONEXERCISEAGREEMENT: Document that employees or contractors fill out when they want to exercise (pay) for their options to get the common shares.\nSAFE: Simple Agreement Future Equity\nWARRANT: Warrant to purchase future shares\nBOARD_CONSENT: Board consent agreement\nSHAREHOLDER_CONSENT: Shareholder Consent agreement\nCONVERSION_AGREEMENT: Agreement to con...",
         "author": "GabrielOtte1",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@GabrielOtte1/document-classifier?t="
     },
     {
