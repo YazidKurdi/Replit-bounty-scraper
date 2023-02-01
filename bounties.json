@@ -5176,7 +5176,7 @@
         "title": "Create a webapp that takes a webflow site and makes it available to host externally",
         "description": "We want to create a tool that makes webflow CMS sites available to host externally without breaking CMS functionality.\n\nAcceptance Criteria\nNeed the following workflow:\nApp should take a webflow site URL.\nIt should check all CMS items and pages.\nIt should link all CMS items to respective pages and link all pages with each other.\n\nTechnical Details\nYou can check Udesly\u2019s Jamstack implementation. Need something similar.\n\nTimelines / Milestones\nYou tell me.",
         "author": "vandonegal",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@vandonegal/create-a-webapp-that?t="
     },
     {
@@ -5196,17 +5196,17 @@
         "title": "use GPT and chrome extension for email replies",
         "description": "We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add replies:\nyou go to a thread and see options for tones (Formal/Casual), Afiirmation (Interested/Not interested), and then click write.\nbased on the context of the message above and the options you choose, a specific prompt should go to the API, which will then generate a response.\nThe response should then be injected into the reply window.\n\nYou have to implement the buttons, reading of the message above, interacting with the API and injecting into gmail.\n\nAcceptance Criteria\nmust meet UI/UX requirements (will discuss over email).\n\nTechnical Details\nChrome extension V3.\n\nLink to Project",
         "author": "ShubhKathuria",
-        "posted_time": "55 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@ShubhKathuria/use-gpt-and-chrome-e?t="
     },
     {
         "index": "520",
         "price": "$4.50",
-        "due_days": "due in 14 days",
+        "due_days": "closed",
         "title": "test onlyyyyy",
         "description": "for testing only",
         "author": "dumbss",
-        "posted_time": "6 minutes ago",
+        "posted_time": "16 minutes ago",
         "link": "https://replit.com/bounties/@dumbss/test-onlyyyyy?t="
     }
 ]
