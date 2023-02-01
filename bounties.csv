@@ -4164,7 +4164,7 @@ Must understand docker, docker-compose, postman + newman, github actions
 
 Should be on a mac or linux not windows (we have problems with windows self host at times)
 
-https://github.com/uselotus/lotus/tree/cypress-tests",MikaelNida,40 minutes ago,https://replit.com/bounties/@MikaelNida/fix-github-actions-p?t=
+https://github.com/uselotus/lotus/tree/cypress-tests",MikaelNida,51 minutes ago,https://replit.com/bounties/@MikaelNida/fix-github-actions-p?t=
 519,$50.00,due in 4 days,use GPT and chrome extension for email replies,"We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add replies:
 you go to a thread and see options for tones (Formal/Casual), Afiirmation (Interested/Not interested), and then click write.
 based on the context of the message above and the options you choose, a specific prompt should go to the API, which will then generate a response.
@@ -4178,4 +4178,4 @@ must meet UI/UX requirements (will discuss over email).
 Technical Details
 Chrome extension V3.
 
-Link to Project",ShubhKathuria,34 minutes ago,https://replit.com/bounties/@ShubhKathuria/use-gpt-and-chrome-e?t=
+Link to Project",ShubhKathuria,45 minutes ago,https://replit.com/bounties/@ShubhKathuria/use-gpt-and-chrome-e?t=
