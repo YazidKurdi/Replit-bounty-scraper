@@ -4041,7 +4041,7 @@ The recipient receives a gift message—by email or text—that allows them to a
 We bill the user/sender for the amount and make the order.",bs1234,11 hours ago,https://replit.com/bounties/@bs1234/gifting-webapp-help?t=
 505,$60.00,due in 13 days,Data Discovery Tool,"Create an interactive front end that filters a large dataset automatically in a minimalistic style that I will provide.
 
-Control Panel will call from a Postgres database and UI will need to be plugged into a webpage on an existing website.",JackWeston3,10 hours ago,https://replit.com/bounties/@JackWeston3/data-discovery-tool?t=
+Control Panel will call from a Postgres database and UI will need to be plugged into a webpage on an existing website.",JackWeston3,12 hours ago,https://replit.com/bounties/@JackWeston3/data-discovery-tool?t=
 506,$1.35,due in 13 days,Free Cycles!!!!,This is free cycles all you have to do to get them is follow my account @whatisaapple and apply for this bounty winners will be picked in 1 week,whatisaapple,7 hours ago,https://replit.com/bounties/@whatisaapple/free-cycles?t=
 507,$31.50,due in 26 days,Make aitools.fyi go viral with 100K+ views!,"Make aitools.fyi go viral!
 
@@ -4052,7 +4052,7 @@ Please note: North American based audience is preferred for this bounty.
 Acceptance Criteria
 You have to share analytics of the video and the actual video link. The video has to clearly mention aitools.fyi. The website address aitools.fyi (https://aitools.fyi for YouTube) should be in the description of the video.
 
-Note: You can upload multiple videos if you like but to get the bounty, one video has to get 100K+ views.",SouthernEast,9 hours ago,https://replit.com/bounties/@SouthernEast/make-aitoolsfyi-go-v?t=
+Note: You can upload multiple videos if you like but to get the bounty, one video has to get 100K+ views.",SouthernEast,10 hours ago,https://replit.com/bounties/@SouthernEast/make-aitoolsfyi-go-v?t=
 508,$243.00,due in 15 days,Build a Javascript tutorial with 100 lessons,"We want to build a Javascript tutorial on the Learn Hub using content from CodeWithHarry's Youtube playlist (https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR).
 
 You will need to build ~100 lessons based on this tutorial. This playlist needs to be converted into a Javascript tutorial using this documentation (https://building-templates.davidatreplit.repl.co/) and the PDF notes (which are handwritten) need to be converted into markdown files.
@@ -4062,14 +4062,14 @@ The bounty hunter should have proficiency in Javascript and understand Hindi. Th
 As a bonus incentive, you'll get to work directly with CodeWithHarry on this!
 
 Acceptance Criteria
-Complete ~100 lessons in Tutorials format.",anshul,8 hours ago,https://replit.com/bounties/@anshul/build-a-javascript-t?t=
+Complete ~100 lessons in Tutorials format.",anshul,10 hours ago,https://replit.com/bounties/@anshul/build-a-javascript-t?t=
 509,$90.00,due in 9 days,Chat AI that pulls data from folders (Excel and Word docs) and gives response,"Im looking for a simple ChatGPT-style app that will let me ingest a folder of documents. Mainly Excel and Word docs. Once ingested, I can ask a question from the chat box and get a response pulled from the documents.
 
 Acceptance Criteria
 Simple web app on Replit that lets me ask questions and get answers from internal documents I provide.  Ideally I can also upload more documents in the future and have them indexed and searchable. Excel (CSV) and Word (Docx) docs are the main formats I need.
 
 Technical Details
-If its possible to have it private, that's a plus. Either through using my own OpenAI API key or some other LLM option.",JakeBlockchain,5 hours ago,https://replit.com/bounties/@JakeBlockchain/chat-ai-that-pulls-d?t=
+If its possible to have it private, that's a plus. Either through using my own OpenAI API key or some other LLM option.",JakeBlockchain,6 hours ago,https://replit.com/bounties/@JakeBlockchain/chat-ai-that-pulls-d?t=
 510,$300.00,due in 21 days,Score engineer productivity using GitHub data + AI,"It is hard to determine how productive an engineer is, based on useless metrics like '# of lines of code committed' or even 'number of commits.'
 
 Acceptance Criteria
@@ -4079,7 +4079,7 @@ Provide a score based on how impactful the developer's code was to the progressi
 Create a simple web page (domain TBD), that shows the GitHub owner's information, their score, and how they rank
 
 Technical Details
-The app should leverage OpenAI",anksolado,4 hours ago,https://replit.com/bounties/@anksolado/score-engineer-produ?t=
+The app should leverage OpenAI",anksolado,6 hours ago,https://replit.com/bounties/@anksolado/score-engineer-produ?t=
 511,$22.50,due in 12 days,Twitter Bot with ChatGPT Status Updates,"The free public version of ChatGPT is often unavailable for use due to server capacity issues, a source of frustration for new and existing users. To solve this, we'll build a Twitter Bot (I will create and manage the Twitter account credentials) that tweets each time the availability status changes from available > unavailable (placeholder message: ""Sorry, ChatGPT is at capacity, I'll let you now when I'm available again."") and unavailable > available (""ChatGPT is available again!"")
 
 Acceptance Criteria
@@ -4088,16 +4088,36 @@ Code complete, hosted, tested and successfully posting live tweets for both stat
 
 Technical Details
 
-I'm a product manager so I'll leave the technical details to you! I've reviewed the ChatGPT API documentation (and asked the question to ChatGPT) and there may be some responses (e.g., ServiceUnavailableError) that return availability status, but this is for the paid version. What we're solving is the availability of ChatGPT's free publicly available ser...",reblickulous,1 hour ago,https://replit.com/bounties/@reblickulous/twitter-bot-with-cha?t=
+I'm a product manager so I'll leave the technical details to you! I've reviewed the ChatGPT API documentation (and asked the question to ChatGPT) and there may be some responses (e.g., ServiceUnavailableError) that return availability status, but this is for the paid version. What we're solving is the availability of ChatGPT's free publicly available ser...",reblickulous,3 hours ago,https://replit.com/bounties/@reblickulous/twitter-bot-with-cha?t=
 512,$225.00,due in 6 days,Domain name generator,"I'm looking for a good domain name for an AI assistant. Would like a quick script that runs a domain name search for all english verbs for which the domain is available (either as .ai or .com, and either directly available, or available as an auction — unsure how you'd check the latter, but it is a requirement).
 
 Would return a list of domains, sorted by length ascending.
 
 Acceptance Criteria
-Be specific about what you want in the solution here.",altimor,28 minutes ago,https://replit.com/bounties/@altimor/domain-name-generato?t=
+Be specific about what you want in the solution here.",altimor,2 hours ago,https://replit.com/bounties/@altimor/domain-name-generato?t=
 513,$27.00,due in 6 days,Pick up basketball Sign up app,"I am looking for a way to see who is in and who is out each week for our pickup basketball game. We have about 30 people on the list and we take the 1st 15 people to reply yes in a text message or email. It is unruly right now. It would be nice if there was a chat feature too but not necessary. Each person should have their own account or a way for everyone to see who is signed up.
 Acceptance Criteria
 This is acceptable from 2 directions: 1) An owner (me) sends out a message to X amount of players each week. And 2) The players reply Yes, No, or Maybe. Everyone should be able to see the results.
 Technical Details
 
-Timelines / Milestones",MattHartman1,16 minutes ago,https://replit.com/bounties/@MattHartman1/pick-up-basketball-s?t=
+Timelines / Milestones",MattHartman1,2 hours ago,https://replit.com/bounties/@MattHartman1/pick-up-basketball-s?t=
+514,$18.00,due in 4 days,⚡⚡Quick Slack Bolt App⚡⚡ ,"Custom quiz bot with ability to ask questions / track answers for users across a variety of topics. Ability to ingest questions/data from Slack/route to table, and perform similar such clerical actions/
+
+Acceptance Criteria
+Finished Bolt App
+
+Technical Details
+Backend Prisma/Postgres/SQL",genehackmanfan4444,1 hour ago,https://replit.com/bounties/@genehackmanfan4444/quick-slack-bolt-app?t=
+515,$450.00,due in 9 days,Document Classifier,"I would like a Document Classifer built that will use a GPT-3 or ChatGPT model to classify PDF documents into one of the following category of documents:
+
+ARTICLESOFINCORPORATION: Articles of Incorporation for the company.
+STOCKPURCHASEAGREEMENT: A document generated when there is a round of financing a stock is sold to investors.
+RESTRICTEDSTOCKAGREEMENT: A document for when you give stock to employees, contractors, etc.
+STOCK_PLAN: Stock plan is the plan from which a company grants common shares or options. It outlines the rules that those shares follow.
+OPTION_AGREEMENT: Agreement when you give options to employees or contractors.
+OPTIONEXERCISEAGREEMENT: Document that employees or contractors fill out when they want to exercise (pay) for their options to get the common shares.
+SAFE: Simple Agreement Future Equity
+WARRANT: Warrant to purchase future shares
+BOARD_CONSENT: Board consent agreement
+SHAREHOLDER_CONSENT: Shareholder Consent agreement
+CONVERSION_AGREEMENT: Agreement to con...",GabrielOtte1,51 minutes ago,https://replit.com/bounties/@GabrielOtte1/document-classifier?t=
