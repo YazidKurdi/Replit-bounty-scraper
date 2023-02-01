@@ -4138,7 +4138,7 @@ Example game for physics:
 
 Controls:
   A left D right W center thrust SPACE start,
-  C to catch with chopsticks",areyasouka,12 hours ago,https://replit.com/bounties/@areyasouka/spacex-starship-eart?t=
+  C to catch with chopsticks",areyasouka,13 hours ago,https://replit.com/bounties/@areyasouka/spacex-starship-eart?t=
 517,$4.50,due in 10 days,Create a webapp that takes a webflow site and makes it available to host externally,"We want to create a tool that makes webflow CMS sites available to host externally without breaking CMS functionality.
 
 Acceptance Criteria
@@ -4164,7 +4164,7 @@ Must understand docker, docker-compose, postman + newman, github actions
 
 Should be on a mac or linux not windows (we have problems with windows self host at times)
 
-https://github.com/uselotus/lotus/tree/cypress-tests",MikaelNida,8 hours ago,https://replit.com/bounties/@MikaelNida/fix-github-actions-p?t=
+https://github.com/uselotus/lotus/tree/cypress-tests",MikaelNida,9 hours ago,https://replit.com/bounties/@MikaelNida/fix-github-actions-p?t=
 519,$50.00,due in 3 days,use GPT and chrome extension for email replies,"We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add replies:
 you go to a thread and see options for tones (Formal/Casual), Afiirmation (Interested/Not interested), and then click write.
 based on the context of the message above and the options you choose, a specific prompt should go to the API, which will then generate a response.
@@ -4178,7 +4178,7 @@ must meet UI/UX requirements (will discuss over email).
 Technical Details
 Chrome extension V3.
 
-Link to Project",ShubhKathuria,8 hours ago,https://replit.com/bounties/@ShubhKathuria/use-gpt-and-chrome-e?t=
+Link to Project",ShubhKathuria,9 hours ago,https://replit.com/bounties/@ShubhKathuria/use-gpt-and-chrome-e?t=
 520,$4.50,closed,test onlyyyyy,for testing only,dumbss,8 hours ago,https://replit.com/bounties/@dumbss/test-onlyyyyy?t=
 521,$450.00,due in 27 days,Screen recorder electron app,"I'm looking to build an electron app that does screen recording AND record mouse events outside of the app (i.e during the screen recording). So out of the screen recording we want: a video track, the position of the mouse cursor relative to the video track as X,Y coordinates and, the timing of left click relative to the video track timeline.
 
@@ -4194,7 +4194,7 @@ Grammar Fix
 
 Users must be able to select some text from their document, and in a sidebar, choose any one of these 3 options, and the new text must be able to be previewed and inserted in the document.
 
-The OpenAI API key must be stored securely on a backend server. UI must be simple and easy to use.",CoderGautamYT,57 minutes ago,https://replit.com/bounties/@CoderGautamYT/gpt-3-google-docs-ad-2?t=
+The OpenAI API key must be stored securely on a backend server. UI must be simple and easy to use.",CoderGautamYT,1 hour ago,https://replit.com/bounties/@CoderGautamYT/gpt-3-google-docs-ad-2?t=
 523,$250.20,due in 12 days,"AI Homework website: for summaries, outlines, and essays","I'm looking for someone to build a simple website, that uses AI, and has a simple UI (something like ChatGPT welcome screen).
 
 It's functions would be just: 1) Make summary, 2) Make outline, 3) Write an essay, 4) Study helper.
@@ -4205,4 +4205,17 @@ Then it performs the assigned work and displays it underneath, into the same pag
 1) Make summary: Given a pasted text, article or url, generate a summary of the main points.
 2) Make outline: Given a pasted text, article or url, generate an outline or main points like an index, for example to be used as a bullet point presentation.
 3) Write an essay: User inputs a topic and aproximate lenght, in paragraphs. And interface generates an essay.
-4) Study hel...",PracticAI,22 minutes ago,https://replit.com/bounties/@PracticAI/ai-homework-website?t=
+4) Study hel...",PracticAI,38 minutes ago,https://replit.com/bounties/@PracticAI/ai-homework-website?t=
+524,$45.00,due in 14 days,Political Parties Compaign App,"The political landscape is constantly evolving, and political parties must stay connected with their voters and understand their needs and preferences. To achieve this goal, the political party needs a comprehensive and user-friendly app that can gather, process, and analyze data about voters.
+
+Acceptance Criteria
+Features of the App:
+
+Surveys: Create customizable surveys to gather information about voters' preferences, opinions, and demographic information.
+
+Voter Data Integration: Integrate voter data from public databases, such as voter registration information and voting history, to understand voters' voting patterns and preferences.
+
+Push Notifications: Use push notifications to keep voters informed about political events, campaigns, and other important updates.
+
+Event Tracking: Track attendance at political events and rallies to gather information about which issues and candidates are most important to voters.
+Social Media Integration: Integrate popular social...",Sarfrazkhan18,16 minutes ago,https://replit.com/bounties/@Sarfrazkhan18/political-parties-co?t=
