@@ -5156,7 +5156,7 @@
         "title": "Document Classifier",
         "description": "I would like a Document Classifer built that will use a GPT-3 or ChatGPT model to classify PDF documents into one of the following category of documents:\n\nARTICLESOFINCORPORATION: Articles of Incorporation for the company.\nSTOCKPURCHASEAGREEMENT: A document generated when there is a round of financing a stock is sold to investors.\nRESTRICTEDSTOCKAGREEMENT: A document for when you give stock to employees, contractors, etc.\nSTOCK_PLAN: Stock plan is the plan from which a company grants common shares or options. It outlines the rules that those shares follow.\nOPTION_AGREEMENT: Agreement when you give options to employees or contractors.\nOPTIONEXERCISEAGREEMENT: Document that employees or contractors fill out when they want to exercise (pay) for their options to get the common shares.\nSAFE: Simple Agreement Future Equity\nWARRANT: Warrant to purchase future shares\nBOARD_CONSENT: Board consent agreement\nSHAREHOLDER_CONSENT: Shareholder Consent agreement\nCONVERSION_AGREEMENT: Agreement to con...",
         "author": "GabrielOtte1",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@GabrielOtte1/document-classifier?t="
     },
     {
@@ -5206,7 +5206,7 @@
         "title": "test onlyyyyy",
         "description": "for testing only",
         "author": "dumbss",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@dumbss/test-onlyyyyy?t="
     },
     {
@@ -5246,7 +5246,7 @@
         "title": "Political Parties Compaign App",
         "description": "The political landscape is constantly evolving, and political parties must stay connected with their voters and understand their needs and preferences. To achieve this goal, the political party needs a comprehensive and user-friendly app that can gather, process, and analyze data about voters.\n\nAcceptance Criteria\nFeatures of the App:\n\nSurveys: Create customizable surveys to gather information about voters' preferences, opinions, and demographic information.\n\nVoter Data Integration: Integrate voter data from public databases, such as voter registration information and voting history, to understand voters' voting patterns and preferences.\n\nPush Notifications: Use push notifications to keep voters informed about political events, campaigns, and other important updates.\n\nEvent Tracking: Track attendance at political events and rallies to gather information about which issues and candidates are most important to voters.\nSocial Media Integration: Integrate popular social...",
         "author": "Sarfrazkhan18",
-        "posted_time": "43 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@Sarfrazkhan18/political-parties-co?t="
     }
 ]
