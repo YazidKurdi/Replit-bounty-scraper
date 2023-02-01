@@ -5086,7 +5086,7 @@
         "title": "Build a Javascript tutorial with 100 lessons",
         "description": "We want to build a Javascript tutorial on the Learn Hub using content from CodeWithHarry's Youtube playlist (https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR).\n\nYou will need to build ~100 lessons based on this tutorial. This playlist needs to be converted into a Javascript tutorial using this documentation (https://building-templates.davidatreplit.repl.co/) and the PDF notes (which are handwritten) need to be converted into markdown files.\n\nThe bounty hunter should have proficiency in Javascript and understand Hindi. This should ~50 hours.\n\nAs a bonus incentive, you'll get to work directly with CodeWithHarry on this!\n\nAcceptance Criteria\nComplete ~100 lessons in Tutorials format.",
         "author": "anshul",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@anshul/build-a-javascript-t?t="
     },
     {
@@ -5166,7 +5166,7 @@
         "title": "SpaceX Starship Earth Lander Game",
         "description": "A web based 2d lunar lander like game incorporating the proposed SpaceX Starship landing of two stage reusable rockets.  Can be basic wireframe or simple vector graphics or pixel art as long as it is recognizable.\n\nAcceptance Criteria\nSimple animation of take off and stage separation, second stage floats in orbit while first stage booster returns\nPlayer lands the booster on launch pad, catching with chopsticks\nChopsticks rotate and lower booster out of the way\nPlayer lands upper stage Starship from glide/fall, performing last second flip maneuver and grabbing upper stage Starship with same chopsticks\nIf both caught without crash or RUD then player wins, else lose\n\nSecond stage flip movement example:\n  https://youtu.be/4rI0-aDyMi8\n\nExample game for physics:\n  https://github.com/jrie/moonlander\n\nControls:\n  A left D right W center thrust SPACE start,\n  C to catch with chopsticks",
         "author": "areyasouka",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@areyasouka/spacex-starship-eart?t="
     }
 ]
