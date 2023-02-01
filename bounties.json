@@ -5306,7 +5306,7 @@
         "title": "Scrape Odd Lots podcast",
         "description": "I want to scrape the transcripts of the Odd Lots podcast. Some of the episodes can be found at https://www.bloomberg.com/oddlots in the links that begin with \"Transcript: \". I tried, but ran into issues with a Captcha and could not figure out how to get selenium working within a repl. I haven't quite figured out how to find the complete archive of the podcasts yet, but would be ok with a solution that just scrapes the episodes available at the provided link.\n\nAcceptance Criteria\nA web scraper written in Python. I have some experience with bs4 but am open to using other scraping libraries\nThe web scraper can successfully be run on the url https://www.bloomberg.com/oddlots and avoid the captcha to return the transcripts of the episodes linked on that page and saves them to a csv.\nThe csv schema should be: Speaker | Time | Text. For example, for the transcript found at https://www.bloomberg.com/news/articles/2023-02-01/transcript-viktor-shvets-declares-victory-for-team...",
         "author": "alecfwilson",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@alecfwilson/scrape-odd-lots-podc?t="
     },
     {
@@ -5358,5 +5358,25 @@
         "author": "JordiBurgues",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@JordiBurgues/video-snippet-from-t?t="
+    },
+    {
+        "index": "536",
+        "price": "$1.35",
+        "due_days": "closed",
+        "title": "CSS Loading Animation",
+        "description": "I want someone to remake a CSS spinner animation, I can send the image through communication\n\nAcceptance Criteria\nJavascript and CSS Knowledge",
+        "author": "r6nrkcmxvc",
+        "posted_time": "11 minutes ago",
+        "link": "https://replit.com/bounties/@r6nrkcmxvc/css-loading-animatio?t="
+    },
+    {
+        "index": "537",
+        "price": "$1.35",
+        "due_days": "closed",
+        "title": "remake quizlet",
+        "description": "joe biden is the problem\n\nAcceptance Criteria\nremake quizelt",
+        "author": "r6nrkcmxvc",
+        "posted_time": "5 minutes ago",
+        "link": "https://replit.com/bounties/@r6nrkcmxvc/remake-quizlet?t="
     }
 ]
