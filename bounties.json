@@ -5166,7 +5166,7 @@
         "title": "SpaceX Starship Earth Lander Game",
         "description": "A web based 2d lunar lander like game incorporating the proposed SpaceX Starship landing of two stage reusable rockets.  Can be basic wireframe or simple vector graphics or pixel art as long as it is recognizable.\n\nAcceptance Criteria\nSimple animation of take off and stage separation, second stage floats in orbit while first stage booster returns\nPlayer lands the booster on launch pad, catching with chopsticks\nChopsticks rotate and lower booster out of the way\nPlayer lands upper stage Starship from glide/fall, performing last second flip maneuver and grabbing upper stage Starship with same chopsticks\nIf both caught without crash or RUD then player wins, else lose\n\nSecond stage flip movement example:\n  https://youtu.be/4rI0-aDyMi8\n\nExample game for physics:\n  https://github.com/jrie/moonlander\n\nControls:\n  A left D right W center thrust SPACE start,\n  C to catch with chopsticks",
         "author": "areyasouka",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@areyasouka/spacex-starship-eart?t="
     },
     {
@@ -5186,7 +5186,7 @@
         "title": "Fix Github Actions Postman Collection tests",
         "description": "We run our system with a docker compose file. Right now that file builds but we also want to run postman tests in our github actions workflows. Therefore we need to up the docker compose and run a postman collection on it (with postman tests as part of the collection). We haven't been able to successfully run this with the latest error being: [errored]\n     socket hang up\n\nAcceptance Criteria\n\nSubmit a PR forked off of this branch (https://github.com/uselotus/lotus/pull/493) where both the Collections Tests and Django/Postgres actions are running correctly. The django.postgres is a similar idea except we want to run cypress tests instead of postman so we need to up the docker compose to do that.\n\nTechnical Details\nMust understand docker, docker-compose, postman + newman, github actions\n\nShould be on a mac or linux not windows (we have problems with windows self host at times)\n\nhttps://github.com/uselotus/lotus/tree/cypress-tests",
         "author": "MikaelNida",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@MikaelNida/fix-github-actions-p?t="
     },
     {
@@ -5196,7 +5196,7 @@
         "title": "use GPT and chrome extension for email replies",
         "description": "We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add replies:\nyou go to a thread and see options for tones (Formal/Casual), Afiirmation (Interested/Not interested), and then click write.\nbased on the context of the message above and the options you choose, a specific prompt should go to the API, which will then generate a response.\nThe response should then be injected into the reply window.\n\nYou have to implement the buttons, reading of the message above, interacting with the API and injecting into gmail.\n\nAcceptance Criteria\nmust meet UI/UX requirements (will discuss over email).\n\nTechnical Details\nChrome extension V3.\n\nLink to Project",
         "author": "ShubhKathuria",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@ShubhKathuria/use-gpt-and-chrome-e?t="
     },
     {
@@ -5218,5 +5218,15 @@
         "author": "GuillaumeBonif1",
         "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@GuillaumeBonif1/screen-recorder-elec?t="
+    },
+    {
+        "index": "522",
+        "price": "$45.00",
+        "due_days": "due in 12 days",
+        "title": "GPT-3 Google Docs Addon",
+        "description": "Using Google Apps Script, create an Addon for Google Docs using GPT-3, which has these 3 functions.\n\nGenerate/Complete Text\nRephrase Text\nGrammar Fix\n\nUsers must be able to select some text from their document, and in a sidebar, choose any one of these 3 options, and the new text must be able to be previewed and inserted in the document.\n\nThe OpenAI API key must be stored securely on a backend server. UI must be simple and easy to use.",
+        "author": "CoderGautamYT",
+        "posted_time": "11 minutes ago",
+        "link": "https://replit.com/bounties/@CoderGautamYT/gpt-3-google-docs-ad-2?t="
     }
 ]
