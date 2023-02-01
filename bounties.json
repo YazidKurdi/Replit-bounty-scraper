@@ -5176,7 +5176,7 @@
         "title": "Create a webapp that takes a webflow site and makes it available to host externally",
         "description": "We want to create a tool that makes webflow CMS sites available to host externally without breaking CMS functionality.\n\nAcceptance Criteria\nNeed the following workflow:\nApp should take a webflow site URL.\nIt should check all CMS items and pages.\nIt should link all CMS items to respective pages and link all pages with each other.\n\nTechnical Details\nYou can check Udesly\u2019s Jamstack implementation. Need something similar.\n\nTimelines / Milestones\nYou tell me.",
         "author": "vandonegal",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@vandonegal/create-a-webapp-that?t="
     },
     {
@@ -5216,7 +5216,7 @@
         "title": "Screen recorder electron app",
         "description": "I'm looking to build an electron app that does screen recording AND record mouse events outside of the app (i.e during the screen recording). So out of the screen recording we want: a video track, the position of the mouse cursor relative to the video track as X,Y coordinates and, the timing of left click relative to the video track timeline.\n\nThe app should work on macOS.\n\nAcceptance Criteria\nA packaged electron app with minimal UI. One button to start screen recording and stop screen recording. At the end of the recording, a window invite the user to select a location to save the video track and the mouse metadata. The video track is saved as an mp4 file, the mouse data is saved as a JSON file.",
         "author": "GuillaumeBonif1",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@GuillaumeBonif1/screen-recorder-elec?t="
     },
     {
@@ -5226,7 +5226,17 @@
         "title": "GPT-3 Google Docs Addon",
         "description": "Using Google Apps Script, create an Addon for Google Docs using GPT-3, which has these 3 functions.\n\nGenerate/Complete Text\nRephrase Text\nGrammar Fix\n\nUsers must be able to select some text from their document, and in a sidebar, choose any one of these 3 options, and the new text must be able to be previewed and inserted in the document.\n\nThe OpenAI API key must be stored securely on a backend server. UI must be simple and easy to use.",
         "author": "CoderGautamYT",
-        "posted_time": "30 minutes ago",
+        "posted_time": "40 minutes ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/gpt-3-google-docs-ad-2?t="
+    },
+    {
+        "index": "523",
+        "price": "$250.20",
+        "due_days": "due in 13 days",
+        "title": "AI Homework website: for summaries, outlines, and essays",
+        "description": "I'm looking for someone to build a simple website, that uses AI, and has a simple UI (something like ChatGPT welcome screen).\n\nIt's functions would be just: 1) Make summary, 2) Make outline, 3) Write an essay, 4) Study helper.\nThe input box could receive the pasted text to work with, or a url (for example wikipedia.org/wiki/Elon_Musk). When given a webpage url, it should leave out ads or content that's not part of the article.\n\nThen it performs the assigned work and displays it underneath, into the same page. And it has a \"copy\" icon to get the text copied, so that it can then be pasted in a doc.\n\n1) Make summary: Given a pasted text, article or url, generate a summary of the main points.\n2) Make outline: Given a pasted text, article or url, generate an outline or main points like an index, for example to be used as a bullet point presentation.\n3) Write an essay: User inputs a topic and aproximate lenght, in paragraphs. And interface generates an essay.\n4) Study hel...",
+        "author": "PracticAI",
+        "posted_time": "5 minutes ago",
+        "link": "https://replit.com/bounties/@PracticAI/ai-homework-website?t="
     }
 ]

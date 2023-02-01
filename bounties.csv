@@ -4151,7 +4151,7 @@ Technical Details
 You can check Udesly’s Jamstack implementation. Need something similar.
 
 Timelines / Milestones
-You tell me.",vandonegal,8 hours ago,https://replit.com/bounties/@vandonegal/create-a-webapp-that?t=
+You tell me.",vandonegal,9 hours ago,https://replit.com/bounties/@vandonegal/create-a-webapp-that?t=
 518,$90.00,due in 3 days,Fix Github Actions Postman Collection tests,"We run our system with a docker compose file. Right now that file builds but we also want to run postman tests in our github actions workflows. Therefore we need to up the docker compose and run a postman collection on it (with postman tests as part of the collection). We haven't been able to successfully run this with the latest error being: [errored]
      socket hang up
 
@@ -4185,7 +4185,7 @@ Link to Project",ShubhKathuria,8 hours ago,https://replit.com/bounties/@ShubhKat
 The app should work on macOS.
 
 Acceptance Criteria
-A packaged electron app with minimal UI. One button to start screen recording and stop screen recording. At the end of the recording, a window invite the user to select a location to save the video track and the mouse metadata. The video track is saved as an mp4 file, the mouse data is saved as a JSON file.",GuillaumeBonif1,3 hours ago,https://replit.com/bounties/@GuillaumeBonif1/screen-recorder-elec?t=
+A packaged electron app with minimal UI. One button to start screen recording and stop screen recording. At the end of the recording, a window invite the user to select a location to save the video track and the mouse metadata. The video track is saved as an mp4 file, the mouse data is saved as a JSON file.",GuillaumeBonif1,4 hours ago,https://replit.com/bounties/@GuillaumeBonif1/screen-recorder-elec?t=
 522,$45.00,due in 12 days,GPT-3 Google Docs Addon,"Using Google Apps Script, create an Addon for Google Docs using GPT-3, which has these 3 functions.
 
 Generate/Complete Text
@@ -4194,4 +4194,15 @@ Grammar Fix
 
 Users must be able to select some text from their document, and in a sidebar, choose any one of these 3 options, and the new text must be able to be previewed and inserted in the document.
 
-The OpenAI API key must be stored securely on a backend server. UI must be simple and easy to use.",CoderGautamYT,30 minutes ago,https://replit.com/bounties/@CoderGautamYT/gpt-3-google-docs-ad-2?t=
+The OpenAI API key must be stored securely on a backend server. UI must be simple and easy to use.",CoderGautamYT,40 minutes ago,https://replit.com/bounties/@CoderGautamYT/gpt-3-google-docs-ad-2?t=
+523,$250.20,due in 13 days,"AI Homework website: for summaries, outlines, and essays","I'm looking for someone to build a simple website, that uses AI, and has a simple UI (something like ChatGPT welcome screen).
+
+It's functions would be just: 1) Make summary, 2) Make outline, 3) Write an essay, 4) Study helper.
+The input box could receive the pasted text to work with, or a url (for example wikipedia.org/wiki/Elon_Musk). When given a webpage url, it should leave out ads or content that's not part of the article.
+
+Then it performs the assigned work and displays it underneath, into the same page. And it has a ""copy"" icon to get the text copied, so that it can then be pasted in a doc.
+
+1) Make summary: Given a pasted text, article or url, generate a summary of the main points.
+2) Make outline: Given a pasted text, article or url, generate an outline or main points like an index, for example to be used as a bullet point presentation.
+3) Write an essay: User inputs a topic and aproximate lenght, in paragraphs. And interface generates an essay.
+4) Study hel...",PracticAI,5 minutes ago,https://replit.com/bounties/@PracticAI/ai-homework-website?t=
