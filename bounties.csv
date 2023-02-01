@@ -4138,7 +4138,7 @@ Example game for physics:
 
 Controls:
   A left D right W center thrust SPACE start,
-  C to catch with chopsticks",areyasouka,13 hours ago,https://replit.com/bounties/@areyasouka/spacex-starship-eart?t=
+  C to catch with chopsticks",areyasouka,14 hours ago,https://replit.com/bounties/@areyasouka/spacex-starship-eart?t=
 517,$4.50,due in 10 days,Create a webapp that takes a webflow site and makes it available to host externally,"We want to create a tool that makes webflow CMS sites available to host externally without breaking CMS functionality.
 
 Acceptance Criteria
@@ -4164,7 +4164,7 @@ Must understand docker, docker-compose, postman + newman, github actions
 
 Should be on a mac or linux not windows (we have problems with windows self host at times)
 
-https://github.com/uselotus/lotus/tree/cypress-tests",MikaelNida,9 hours ago,https://replit.com/bounties/@MikaelNida/fix-github-actions-p?t=
+https://github.com/uselotus/lotus/tree/cypress-tests",MikaelNida,10 hours ago,https://replit.com/bounties/@MikaelNida/fix-github-actions-p?t=
 519,$50.00,due in 3 days,use GPT and chrome extension for email replies,"We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add replies:
 you go to a thread and see options for tones (Formal/Casual), Afiirmation (Interested/Not interested), and then click write.
 based on the context of the message above and the options you choose, a specific prompt should go to the API, which will then generate a response.
@@ -4178,7 +4178,7 @@ must meet UI/UX requirements (will discuss over email).
 Technical Details
 Chrome extension V3.
 
-Link to Project",ShubhKathuria,9 hours ago,https://replit.com/bounties/@ShubhKathuria/use-gpt-and-chrome-e?t=
+Link to Project",ShubhKathuria,10 hours ago,https://replit.com/bounties/@ShubhKathuria/use-gpt-and-chrome-e?t=
 520,$4.50,closed,test onlyyyyy,for testing only,dumbss,9 hours ago,https://replit.com/bounties/@dumbss/test-onlyyyyy?t=
 521,$450.00,due in 27 days,Screen recorder electron app,"I'm looking to build an electron app that does screen recording AND record mouse events outside of the app (i.e during the screen recording). So out of the screen recording we want: a video track, the position of the mouse cursor relative to the video track as X,Y coordinates and, the timing of left click relative to the video track timeline.
 
@@ -4186,7 +4186,7 @@ The app should work on macOS.
 
 Acceptance Criteria
 A packaged electron app with minimal UI. One button to start screen recording and stop screen recording. At the end of the recording, a window invite the user to select a location to save the video track and the mouse metadata. The video track is saved as an mp4 file, the mouse data is saved as a JSON file.",GuillaumeBonif1,5 hours ago,https://replit.com/bounties/@GuillaumeBonif1/screen-recorder-elec?t=
-522,$45.00,due in 12 days,GPT-3 Google Docs Addon,"Using Google Apps Script, create an Addon for Google Docs using GPT-3, which has these 3 functions.
+522,$45.00,closed,GPT-3 Google Docs Addon,"Using Google Apps Script, create an Addon for Google Docs using GPT-3, which has these 3 functions.
 
 Generate/Complete Text
 Rephrase Text
@@ -4205,7 +4205,7 @@ Then it performs the assigned work and displays it underneath, into the same pag
 1) Make summary: Given a pasted text, article or url, generate a summary of the main points.
 2) Make outline: Given a pasted text, article or url, generate an outline or main points like an index, for example to be used as a bullet point presentation.
 3) Write an essay: User inputs a topic and aproximate lenght, in paragraphs. And interface generates an essay.
-4) Study hel...",PracticAI,1 hour ago,https://replit.com/bounties/@PracticAI/ai-homework-website?t=
+4) Study hel...",PracticAI,2 hours ago,https://replit.com/bounties/@PracticAI/ai-homework-website?t=
 524,$45.00,due in 14 days,Political Parties Compaign App,"The political landscape is constantly evolving, and political parties must stay connected with their voters and understand their needs and preferences. To achieve this goal, the political party needs a comprehensive and user-friendly app that can gather, process, and analyze data about voters.
 
 Acceptance Criteria
@@ -4219,3 +4219,19 @@ Push Notifications: Use push notifications to keep voters informed about politic
 
 Event Tracking: Track attendance at political events and rallies to gather information about which issues and candidates are most important to voters.
 Social Media Integration: Integrate popular social...",Sarfrazkhan18,1 hour ago,https://replit.com/bounties/@Sarfrazkhan18/political-parties-co?t=
+525,$45.00,due in 6 days,Social Fitness App,"Hi! I'm building a fitness webapp with Nextjs + Supabase called Gambit (app.acidgambit.com). I'm looking to expand the current features to include strava connection (already started the integration), tracking a user's weight progress, tracking a user's 1-rep maxes for bench/squat/deadlift, ability to add a custom workout, a method to have monthly competitions that users can enter and view the leaderboards. Additionally, a ranking system that stacks all the users against eachother, so in their profile they can see their current ranking.
+
+Also: an analytics page with graphs that show progress for the user's 1-rep maxes and weight progress.
+
+A streak system that shows if a user is completing at least 1 workout per day, and displays the streak on their profile.
+
+I currently have an active repo for you to work off of.
+
+Acceptance Criteria
+Ranking system
+Optimized for mobile view but works on desktop
+Analytics page
+Streaks
+Ability to add custom workouts
+Track bodyweight
+T...",acidgambit,10 minutes ago,https://replit.com/bounties/@acidgambit/social-fitness-app?t=
