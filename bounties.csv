@@ -4275,18 +4275,18 @@ Acceptance Criteria
 I should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Python library (ctypes, win32api, etc).
 
 Future Work
-If all works out well, the bounty hunter may be assigned future bounties with increasing amounts of pay.",EpicCodeWizard2,59 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert?t=
+If all works out well, the bounty hunter may be assigned future bounties with increasing amounts of pay.",EpicCodeWizard2,1 hour ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert?t=
 532,$20.00,due in 8 days,Source Code Humanization,"I have 3 separate JS source files that are currently obfuscated. I would like these three files un-obfuscated and reformatted, with some commenting throughout each that describes the functionality of the code.
 The three files together are a total of 5mb.
 Acceptance Criteria
 3rd party tools are allowed.
 Solution in repl with the 3 files.
-Obviously, comments do not need to be every line, once every 20 lines or so is fine.",i10,55 minutes ago,https://replit.com/bounties/@i10/source-code-humaniza?t=
+Obviously, comments do not need to be every line, once every 20 lines or so is fine.",i10,1 hour ago,https://replit.com/bounties/@i10/source-code-humaniza?t=
 533,$90.00,due in 9 days,[TRANSLATION] Convert C++ Code Utilizing Various Windows APIs to Python,"IddSampleDriver allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in C++ utilizing Windows APIs. It is also made to be a driver. I would like to convert this to Python and make it a normal program, not a driver. Repo Link: https://github.com/roshkins/IddSampleDriver. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
 I should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Python library (ctypes, win32api, etc).
 
 Future Work
-If all works out well, the bounty hunter may be assigned future bounties with increasing amounts of pay.",EpicCodeWizard2,19 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-1?t=
-534,$103.50,closed,Steam Trader bot,Would like to ask for a steam trade bot,josekyot,4 minutes ago,https://replit.com/bounties/@josekyot/steam-trader-bot?t=
+If all works out well, the bounty hunter may be assigned future bounties with increasing amounts of pay.",EpicCodeWizard2,27 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-1?t=
+534,$103.50,closed,Steam Trader bot,Would like to ask for a steam trade bot,josekyot,12 minutes ago,https://replit.com/bounties/@josekyot/steam-trader-bot?t=
