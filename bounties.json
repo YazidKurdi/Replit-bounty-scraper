@@ -5076,7 +5076,7 @@
         "title": "Make aitools.fyi go viral with 100K+ views!",
         "description": "Make aitools.fyi go viral!\n\nPost a video/short on TikTok, Instagram, YouTube, and/or Snapchat about how amazing aitools.fyi is(or an informative video) and get over 100K views and get the bounty!\n\nPlease note: North American based audience is preferred for this bounty.\n\nAcceptance Criteria\nYou have to share analytics of the video and the actual video link. The video has to clearly mention aitools.fyi. The website address aitools.fyi (https://aitools.fyi for YouTube) should be in the description of the video.\n\nNote: You can upload multiple videos if you like but to get the bounty, one video has to get 100K+ views.",
         "author": "SouthernEast",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@SouthernEast/make-aitoolsfyi-go-v?t="
     },
     {
@@ -5086,7 +5086,7 @@
         "title": "Build a Javascript tutorial with 100 lessons",
         "description": "We want to build a Javascript tutorial on the Learn Hub using content from CodeWithHarry's Youtube playlist (https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR).\n\nYou will need to build ~100 lessons based on this tutorial. This playlist needs to be converted into a Javascript tutorial using this documentation (https://building-templates.davidatreplit.repl.co/) and the PDF notes (which are handwritten) need to be converted into markdown files.\n\nThe bounty hunter should have proficiency in Javascript and understand Hindi. This should ~50 hours.\n\nAs a bonus incentive, you'll get to work directly with CodeWithHarry on this!\n\nAcceptance Criteria\nComplete ~100 lessons in Tutorials format.",
         "author": "anshul",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@anshul/build-a-javascript-t?t="
     },
     {
@@ -5096,7 +5096,7 @@
         "title": "Chat AI that pulls data from folders (Excel and Word docs) and gives response",
         "description": "Im looking for a simple ChatGPT-style app that will let me ingest a folder of documents. Mainly Excel and Word docs. Once ingested, I can ask a question from the chat box and get a response pulled from the documents.\n\nAcceptance Criteria\nSimple web app on Replit that lets me ask questions and get answers from internal documents I provide.  Ideally I can also upload more documents in the future and have them indexed and searchable. Excel (CSV) and Word (Docx) docs are the main formats I need.\n\nTechnical Details\nIf its possible to have it private, that's a plus. Either through using my own OpenAI API key or some other LLM option.",
         "author": "JakeBlockchain",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@JakeBlockchain/chat-ai-that-pulls-d?t="
     },
     {
@@ -5106,7 +5106,7 @@
         "title": "Score engineer productivity using GitHub data + AI",
         "description": "It is hard to determine how productive an engineer is, based on useless metrics like '# of lines of code committed' or even 'number of commits.'\n\nAcceptance Criteria\nAuth into GitHub\nGet data on the developer's commits\nProvide a score based on how impactful the developer's code was to the progression of the product\nCreate a simple web page (domain TBD), that shows the GitHub owner's information, their score, and how they rank\n\nTechnical Details\nThe app should leverage OpenAI",
         "author": "anksolado",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@anksolado/score-engineer-produ?t="
     },
     {
@@ -5166,7 +5166,7 @@
         "title": "SpaceX Starship Earth Lander Game",
         "description": "A web based 2d lunar lander like game incorporating the proposed SpaceX Starship landing of two stage reusable rockets.  Can be basic wireframe or simple vector graphics or pixel art as long as it is recognizable.\n\nAcceptance Criteria\nSimple animation of take off and stage separation, second stage floats in orbit while first stage booster returns\nPlayer lands the booster on launch pad, catching with chopsticks\nChopsticks rotate and lower booster out of the way\nPlayer lands upper stage Starship from glide/fall, performing last second flip maneuver and grabbing upper stage Starship with same chopsticks\nIf both caught without crash or RUD then player wins, else lose\n\nSecond stage flip movement example:\n  https://youtu.be/4rI0-aDyMi8\n\nExample game for physics:\n  https://github.com/jrie/moonlander\n\nControls:\n  A left D right W center thrust SPACE start,\n  C to catch with chopsticks",
         "author": "areyasouka",
-        "posted_time": "20 minutes ago",
+        "posted_time": "45 minutes ago",
         "link": "https://replit.com/bounties/@areyasouka/spacex-starship-eart?t="
     }
 ]

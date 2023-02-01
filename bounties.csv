@@ -4052,7 +4052,7 @@ Please note: North American based audience is preferred for this bounty.
 Acceptance Criteria
 You have to share analytics of the video and the actual video link. The video has to clearly mention aitools.fyi. The website address aitools.fyi (https://aitools.fyi for YouTube) should be in the description of the video.
 
-Note: You can upload multiple videos if you like but to get the bounty, one video has to get 100K+ views.",SouthernEast,11 hours ago,https://replit.com/bounties/@SouthernEast/make-aitoolsfyi-go-v?t=
+Note: You can upload multiple videos if you like but to get the bounty, one video has to get 100K+ views.",SouthernEast,12 hours ago,https://replit.com/bounties/@SouthernEast/make-aitoolsfyi-go-v?t=
 508,$243.00,due in 15 days,Build a Javascript tutorial with 100 lessons,"We want to build a Javascript tutorial on the Learn Hub using content from CodeWithHarry's Youtube playlist (https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR).
 
 You will need to build ~100 lessons based on this tutorial. This playlist needs to be converted into a Javascript tutorial using this documentation (https://building-templates.davidatreplit.repl.co/) and the PDF notes (which are handwritten) need to be converted into markdown files.
@@ -4062,14 +4062,14 @@ The bounty hunter should have proficiency in Javascript and understand Hindi. Th
 As a bonus incentive, you'll get to work directly with CodeWithHarry on this!
 
 Acceptance Criteria
-Complete ~100 lessons in Tutorials format.",anshul,10 hours ago,https://replit.com/bounties/@anshul/build-a-javascript-t?t=
+Complete ~100 lessons in Tutorials format.",anshul,11 hours ago,https://replit.com/bounties/@anshul/build-a-javascript-t?t=
 509,$90.00,due in 9 days,Chat AI that pulls data from folders (Excel and Word docs) and gives response,"Im looking for a simple ChatGPT-style app that will let me ingest a folder of documents. Mainly Excel and Word docs. Once ingested, I can ask a question from the chat box and get a response pulled from the documents.
 
 Acceptance Criteria
 Simple web app on Replit that lets me ask questions and get answers from internal documents I provide.  Ideally I can also upload more documents in the future and have them indexed and searchable. Excel (CSV) and Word (Docx) docs are the main formats I need.
 
 Technical Details
-If its possible to have it private, that's a plus. Either through using my own OpenAI API key or some other LLM option.",JakeBlockchain,7 hours ago,https://replit.com/bounties/@JakeBlockchain/chat-ai-that-pulls-d?t=
+If its possible to have it private, that's a plus. Either through using my own OpenAI API key or some other LLM option.",JakeBlockchain,8 hours ago,https://replit.com/bounties/@JakeBlockchain/chat-ai-that-pulls-d?t=
 510,$300.00,due in 21 days,Score engineer productivity using GitHub data + AI,"It is hard to determine how productive an engineer is, based on useless metrics like '# of lines of code committed' or even 'number of commits.'
 
 Acceptance Criteria
@@ -4079,7 +4079,7 @@ Provide a score based on how impactful the developer's code was to the progressi
 Create a simple web page (domain TBD), that shows the GitHub owner's information, their score, and how they rank
 
 Technical Details
-The app should leverage OpenAI",anksolado,6 hours ago,https://replit.com/bounties/@anksolado/score-engineer-produ?t=
+The app should leverage OpenAI",anksolado,7 hours ago,https://replit.com/bounties/@anksolado/score-engineer-produ?t=
 511,$22.50,due in 12 days,Twitter Bot with ChatGPT Status Updates,"The free public version of ChatGPT is often unavailable for use due to server capacity issues, a source of frustration for new and existing users. To solve this, we'll build a Twitter Bot (I will create and manage the Twitter account credentials) that tweets each time the availability status changes from available > unavailable (placeholder message: ""Sorry, ChatGPT is at capacity, I'll let you now when I'm available again."") and unavailable > available (""ChatGPT is available again!"")
 
 Acceptance Criteria
@@ -4138,4 +4138,4 @@ Example game for physics:
 
 Controls:
   A left D right W center thrust SPACE start,
-  C to catch with chopsticks",areyasouka,20 minutes ago,https://replit.com/bounties/@areyasouka/spacex-starship-eart?t=
+  C to catch with chopsticks",areyasouka,45 minutes ago,https://replit.com/bounties/@areyasouka/spacex-starship-eart?t=
