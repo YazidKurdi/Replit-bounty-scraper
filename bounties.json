@@ -5446,7 +5446,7 @@
         "title": "web app that converts DocSend link/files to PDF",
         "description": "I want to have a web app created the converts a DocSend link/file into a downloadable PDF\n\nAcceptance Criteria\nI want to host the web app on a website so a user can input their DocSend link and it converts it into a PDF file that the user can download",
         "author": "ber07006",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@ber07006/web-app-that-convert?t="
     },
     {
@@ -5506,7 +5506,7 @@
         "title": "Add authentication to chrome extension",
         "description": "We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add authentication:\n\nif a user is not signed in/has just installed the extension, clicking the extension button takes them to a sign up page. This checking can be implemented through cookies/JWT.\n\nAcceptance Criteria\nmust meet requirements.\n\nTechnical Details\nchrome extension v3.\n\nLink to Project",
         "author": "ShubhKathuria",
-        "posted_time": "38 minutes ago",
+        "posted_time": "48 minutes ago",
         "link": "https://replit.com/bounties/@ShubhKathuria/add-authentication-t?t="
     }
 ]
