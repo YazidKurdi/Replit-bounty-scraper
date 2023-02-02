@@ -5416,7 +5416,7 @@
         "title": "Create a next.js 13 {app/experimental} app that uses vall-e to create text-to-audio ",
         "description": "Acceptance Criteria\nUser can log in\nOnce logged in, user can input an audio/video file and train on vall-e\nOnce trained, user should be able to add text and either get a file or play audio in the generated voice\nI'll need the code, and access to the infrastructure used.\n\nTechnical details:\nhttps://valle-demo.github.io/\npossibly: https://github.com/enhuiz/vall-e",
         "author": "aidantorrence",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a-1?t="
     },
     {
@@ -5476,7 +5476,7 @@
         "title": "create a next.js 13 {app} website that detects whether the input is legitimate",
         "description": "could be a website, business, etc.  should take an input and then determine whether it is legitimate.\n\ne.g. \" is better baller brand legit?\", or \" is walmart legit?\", or \"is shoes.com legit?\"\n\nAcceptance Criteria\nProbably simple GPT3 query\nmust be presentable\ntailwind preferred\nwebpage should accept an input text and respond whether it is legit.",
         "author": "aidantorrence",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a-3?t="
     },
     {
@@ -5486,7 +5486,7 @@
         "title": "next.js 13 { app } AI Pick Up Line generator",
         "description": "Acceptance Criteria\nUses Next.js 13 app\nGenerates pick up lines (using gpt3)\nUser clicks button, and pick up line is generated\nWebsite looks presentable\nTailwind preferred\nI'll need the code :)",
         "author": "aidantorrence",
-        "posted_time": "4 minutes ago",
+        "posted_time": "12 minutes ago",
         "link": "https://replit.com/bounties/@aidantorrence/nextjs-13-app-ai-pic?t="
     }
 ]
