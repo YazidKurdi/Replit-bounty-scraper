@@ -4465,7 +4465,7 @@ A live preview of the changes are shown to the user, with a watermark/url on the
 
 Acceptance Criteria
 everything above.
-(python script, and webpage, and database(whitelist))",origaming1,2 hours ago,https://replit.com/bounties/@origaming1/a-web-page-that-conn?t=
+(python script, and webpage, and database(whitelist))",origaming1,3 hours ago,https://replit.com/bounties/@origaming1/a-web-page-that-conn?t=
 557,$45.00,due in 3 days,Simple NestJS RPC Microservice to wrap Two Wikipedia API Calls,"Create a small NestJS microservice which makes calls to the Wikipedia API to fetch the ids (urls or titles) of popular pages and the structured content of a page given its url or id. Map the result into an array of the main body text (broken roughly if imperfectly into wikipedia paragraphs/sections) and an array of any image urls present on the page.
 
 Acceptance Criteria
@@ -4505,7 +4505,7 @@ Acceptance Crit...",BryanSbriglia,1 hour ago,https://replit.com/bounties/@BryanS
 
 Requirements: Must be experienced in airtable, make.com, and scraping
 
-Technical details:  Happy to provide additional technical details / access after acceptance",GabeB5,58 minutes ago,https://replit.com/bounties/@GabeB5/get-chess-game-pgn-a?t=
+Technical details:  Happy to provide additional technical details / access after acceptance",GabeB5,1 hour ago,https://replit.com/bounties/@GabeB5/get-chess-game-pgn-a?t=
 561,$4.50,due in 5 days,Flipping animation,"I have a project where there are multiple tables. If you click on the cell on a table, the word gets shown/hidden.
 I want a flipping animation to be shown.
 Example table is: https://discipulis.vulcanwm.repl.co/verb/ascendo
@@ -4524,4 +4524,4 @@ Link to Project
 I will add the bounty hunter to the GitHub repo when I select them.
 
 Questions?
-Email me at [email protected] if you have any questions",VulcanWM,8 minutes ago,https://replit.com/bounties/@VulcanWM/flipping-animation?t=
+Email me at [email protected] if you have any questions",VulcanWM,18 minutes ago,https://replit.com/bounties/@VulcanWM/flipping-animation?t=

@@ -5566,7 +5566,7 @@
         "title": "A web page that connects to a python file and database",
         "description": "Hello, i am creating scripts at python and my problem is i need a whitelist, i need a website that when you click on pay with paypal, when payment has been accepted the website will generate a license key and show on the screen, and i want a python script that checking, if the license key is in the license key whitelist. (MUST WORK FOR ANYWHERE AROUND INTERNET (DONT NEED TO BE IN THE SAME FOLDER) AND WORK FOR COUPLE TIMES (I MEAN COUPLE LICENSE KEY)\n\nAcceptance Criteria\neverything above.\n(python script, and webpage, and database(whitelist))",
         "author": "origaming1",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@origaming1/a-web-page-that-conn?t="
     },
     {
@@ -5606,7 +5606,7 @@
         "title": "Get Chess game pgn and embed code from url",
         "description": "Description: I would like an automation (using Make.com), that takes in a webhook (with chess game url, either Lichess.org or Chess.com) and returns both the pgn and embed code as fields (into an airtable). I've attempted to do this with Browse.ai, and think a similar tool would work.\n\nRequirements: Must be experienced in airtable, make.com, and scraping\n\nTechnical details:  Happy to provide additional technical details / access after acceptance",
         "author": "GabeB5",
-        "posted_time": "58 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@GabeB5/get-chess-game-pgn-a?t="
     },
     {
@@ -5616,7 +5616,7 @@
         "title": "Flipping animation",
         "description": "I have a project where there are multiple tables. If you click on the cell on a table, the word gets shown/hidden.\nI want a flipping animation to be shown.\nExample table is: https://discipulis.vulcanwm.repl.co/verb/ascendo\n\nAcceptance Criteria\nI want a flipping animation to be shown when the user clicks on a cell\nI want a half flipping animation to be shown when the user hovers over a cell\nThe animation should work with the tablehideall() and the tableshowall() functions.\nYou need to be able to create a pull request on the GitHub repo to submit the code\nThe flipping animation should work on every browser, and on mobile and laptop\n\nTechnical Details\nThe backend of the website is written in Python, but the flip function is written in Vanilla JS, and you can use JS or CSS to create the animation.\n\nLink to Project\nI will add the bounty hunter to the GitHub repo when I select them.\n\nQuestions?\nEmail me at [email\u00a0protected] if you have any questions",
         "author": "VulcanWM",
-        "posted_time": "8 minutes ago",
+        "posted_time": "18 minutes ago",
         "link": "https://replit.com/bounties/@VulcanWM/flipping-animation?t="
     }
 ]
