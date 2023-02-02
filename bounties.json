@@ -5576,7 +5576,7 @@
         "title": "Simple NestJS RPC Microservice to wrap Two Wikipedia API Calls",
         "description": "Create a small NestJS microservice which makes calls to the Wikipedia API to fetch the ids (urls or titles) of popular pages and the structured content of a page given its url or id. Map the result into an array of the main body text (broken roughly if imperfectly into wikipedia paragraphs/sections) and an array of any image urls present on the page.\n\nAcceptance Criteria\nCode is written in Typescript using the NestJS framework and uses axios to make API calls\nthe NestJS framework can be minimal (no more than a simple skeleton init, with a single RPC Controller and a single service)\nThe RPC controller should expose two methods:\nfetch a list of popular Wikipedia page identifiers (ie id, url, title)\nfetch a full page's structured content using the id or url\nmap the result into an array of text (paragraphs) and an array of image urls\nadd one set of integration tests (a spec file using NestJS TestModule) that actually makes the call out to the real API (we will run this ...",
         "author": "DanBarrett",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@DanBarrett/simple-nestjs-rpc-mi?t="
     },
     {
@@ -5586,7 +5586,7 @@
         "title": "Plaid API into Replit",
         "description": "I would like to configure the Plaid API into my Repl. For this first bounty, I need assistance implementing the Quickstart in the Sandbox environment. There will likely be more bounties to follow.\n\nIf the Plaid API is functional and can pull sample data into my Repl, the bounty has been completed successfully.\n\nPlaid API information can be found here: https://plaid.com/docs/quickstart/. I assume you'll have to create your own account and use your own keys to get started...? Once the project is completed, I will input my own keys. I assume that's the best way to do this, but let me know if you think otherwise.\n\nMy project can be found here: https://replit.com/@JackHanel/Financial-Performance-Dashboard#main.py. If a different template, etc. is needed, just let me know.\n\nIf you can't already tell, I'm new to programming. I think the best way to learn is to try on your own, but I've done that for a couple of weeks now and I can't even figure out the first step of this whole process: Implem...",
         "author": "JackHanel",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@JackHanel/plaid-api-into-repli?t="
     },
     {
@@ -5596,7 +5596,7 @@
         "title": "Add a reference code to a link",
         "description": "I am looking for a tool on a landing page where I can enter a URL then press one of two buttons in order to have one of two reference links added into the URL.\n\nThe entered links will always be in this format:\nhttps://parking.airgarage.com/spot/973/?rentalType=monthly (973 will always be a 3 digit string of numbers, but it will not always be those exact digits).\n\nThe reference code will need to be added between the \"?\" and \"rentalType=monthly\"\nWhen I input the code, I would like to be able to press a button that determines which reference code will be added into the URL. The two buttons should say 'FELIPE' and 'SAMUEL'.\n\nIf I press FELIPE, the reference code to be added is ref=bdr-felipe&\nIf I press SAMUEL, the reference code to be added is ref=bdr-sam&\n\nA completed link will look like this:\nFELIPE: https://parking.airgarage.com/spot/973/?ref=bdr-felipe&rentalType=monthly\nSAMUEL: https://parking.airgarage.com/spot/973/?ref=bdr-sam&rentalType=monthly\n\nAcceptance Crit...",
         "author": "BryanSbriglia",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@BryanSbriglia/add-a-reference-code?t="
     },
     {
@@ -5616,7 +5616,7 @@
         "title": "Flipping animation",
         "description": "I have a project where there are multiple tables. If you click on the cell on a table, the word gets shown/hidden.\nI want a flipping animation to be shown.\nExample table is: https://discipulis.vulcanwm.repl.co/verb/ascendo\n\nAcceptance Criteria\nI want a flipping animation to be shown when the user clicks on a cell\nI want a half flipping animation to be shown when the user hovers over a cell\nThe animation should work with the tablehideall() and the tableshowall() functions.\nYou need to be able to create a pull request on the GitHub repo to submit the code\nThe flipping animation should work on every browser, and on mobile and laptop\n\nTechnical Details\nThe backend of the website is written in Python, but the flip function is written in Vanilla JS, and you can use JS or CSS to create the animation.\n\nLink to Project\nI will add the bounty hunter to the GitHub repo when I select them.\n\nQuestions?\nEmail me at [email\u00a0protected] if you have any questions",
         "author": "VulcanWM",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@VulcanWM/flipping-animation?t="
     },
     {
@@ -5636,7 +5636,7 @@
         "title": "Extend ebean to prepend caller class and line number in SQL comment",
         "description": "Ebean is an ORM for JVM languages. Using performance monitoring tools, it is currently difficult to match a slow query generated by Ebean to the code that generated it.\n\nWe can solve this by optionally (enabled using configuration properties in application.yaml) prepending the caller class and line number in a comment on each generated query.\n\nFor example, instead of select t0.uuid, t0.createdat... we would generate /* MyClass:123 */ select t0.uuid, t0.createdat...\n\nDelivery is a PR against the ebean project (https://github.com/ebean-orm). If not accepted by ebean's maintainers, we'll fork it.\n\nAcceptance Criteria\nCorrectly prepends caller class name and line number to every query when enabled by configuration\nHas no effect if not enabled by configuration\nWorks in both Kotlin and Java projects\nUnit tests cover the core comment behavior and have 100% coverage of newly added lines\n\nLink to Project\nhttps://github.com/ebean-orm",
         "author": "shebson",
-        "posted_time": "44 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@shebson/extend-ebean-to-prep?t="
     }
 ]

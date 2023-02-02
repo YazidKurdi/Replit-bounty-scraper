@@ -4475,7 +4475,7 @@ The RPC controller should expose two methods:
 fetch a list of popular Wikipedia page identifiers (ie id, url, title)
 fetch a full page's structured content using the id or url
 map the result into an array of text (paragraphs) and an array of image urls
-add one set of integration tests (a spec file using NestJS TestModule) that actually makes the call out to the real API (we will run this ...",DanBarrett,3 hours ago,https://replit.com/bounties/@DanBarrett/simple-nestjs-rpc-mi?t=
+add one set of integration tests (a spec file using NestJS TestModule) that actually makes the call out to the real API (we will run this ...",DanBarrett,4 hours ago,https://replit.com/bounties/@DanBarrett/simple-nestjs-rpc-mi?t=
 558,$20.00,due in 4 days,Plaid API into Replit,"I would like to configure the Plaid API into my Repl. For this first bounty, I need assistance implementing the Quickstart in the Sandbox environment. There will likely be more bounties to follow.
 
 If the Plaid API is functional and can pull sample data into my Repl, the bounty has been completed successfully.
@@ -4484,7 +4484,7 @@ Plaid API information can be found here: https://plaid.com/docs/quickstart/. I a
 
 My project can be found here: https://replit.com/@JackHanel/Financial-Performance-Dashboard#main.py. If a different template, etc. is needed, just let me know.
 
-If you can't already tell, I'm new to programming. I think the best way to learn is to try on your own, but I've done that for a couple of weeks now and I can't even figure out the first step of this whole process: Implem...",JackHanel,3 hours ago,https://replit.com/bounties/@JackHanel/plaid-api-into-repli?t=
+If you can't already tell, I'm new to programming. I think the best way to learn is to try on your own, but I've done that for a couple of weeks now and I can't even figure out the first step of this whole process: Implem...",JackHanel,4 hours ago,https://replit.com/bounties/@JackHanel/plaid-api-into-repli?t=
 559,$31.50,due in 7 days,Add a reference code to a link,"I am looking for a tool on a landing page where I can enter a URL then press one of two buttons in order to have one of two reference links added into the URL.
 
 The entered links will always be in this format:
@@ -4500,7 +4500,7 @@ A completed link will look like this:
 FELIPE: https://parking.airgarage.com/spot/973/?ref=bdr-felipe&rentalType=monthly
 SAMUEL: https://parking.airgarage.com/spot/973/?ref=bdr-sam&rentalType=monthly
 
-Acceptance Crit...",BryanSbriglia,3 hours ago,https://replit.com/bounties/@BryanSbriglia/add-a-reference-code?t=
+Acceptance Crit...",BryanSbriglia,4 hours ago,https://replit.com/bounties/@BryanSbriglia/add-a-reference-code?t=
 560,$45.00,due in 3 days,Get Chess game pgn and embed code from url,"Description: I would like an automation (using Make.com), that takes in a webhook (with chess game url, either Lichess.org or Chess.com) and returns both the pgn and embed code as fields (into an airtable). I've attempted to do this with Browse.ai, and think a similar tool would work.
 
 Requirements: Must be experienced in airtable, make.com, and scraping
@@ -4524,7 +4524,7 @@ Link to Project
 I will add the bounty hunter to the GitHub repo when I select them.
 
 Questions?
-Email me at [email protected] if you have any questions",VulcanWM,2 hours ago,https://replit.com/bounties/@VulcanWM/flipping-animation?t=
+Email me at [email protected] if you have any questions",VulcanWM,3 hours ago,https://replit.com/bounties/@VulcanWM/flipping-animation?t=
 562,$3.60,due in 3 months,Make a mirrored.to upload script ( php ),"I want for you to create a PHP insert code that allows you to put in your API key and the filename, and it will upload it to some of the file services on mirrored.to
 
 Acceptance Criteria
@@ -4544,4 +4544,4 @@ Works in both Kotlin and Java projects
 Unit tests cover the core comment behavior and have 100% coverage of newly added lines
 
 Link to Project
-https://github.com/ebean-orm",shebson,44 minutes ago,https://replit.com/bounties/@shebson/extend-ebean-to-prep?t=
+https://github.com/ebean-orm",shebson,1 hour ago,https://replit.com/bounties/@shebson/extend-ebean-to-prep?t=
