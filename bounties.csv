@@ -4381,8 +4381,17 @@ Link a project you think best exemplifies your design skills
 Make sure you leave a way for me to contact you, otherwise I won't be able to learn more!
 
 Acceptance Criteria
-On the /play page (LINK TO NEW DESIGN: https://share.balsamiq.com/c/cTJVo8rZgDm35giaPQ717a.png), change the “Share” button into a block below the game (the belo...",lakshman111,47 minutes ago,https://replit.com/bounties/@lakshman111/improvements-to-spel-1?t=
+On the /play page (LINK TO NEW DESIGN: https://share.balsamiq.com/c/cTJVo8rZgDm35giaPQ717a.png), change the “Share” button into a block below the game (the belo...",lakshman111,1 hour ago,https://replit.com/bounties/@lakshman111/improvements-to-spel-1?t=
 546,$10.00,due in 6 days,create a next.js 13 {app} website that detects whether content is ai-generated,"Acceptance Criteria
 Tailwind preferred
 Must look presentable.
-User should be able to input text and return whether the text is ai-generated.",aidantorrence,4 minutes ago,https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a-2?t=
+User should be able to input text and return whether the text is ai-generated.",aidantorrence,25 minutes ago,https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a-2?t=
+547,$10.00,due in 6 days,create a next.js 13 {app} website that detects whether the input is legitimate,"could be a website, business, etc.  should take an input and then determine whether it is legitimate.
+
+e.g. "" is better baller brand legit?"", or "" is walmart legit?"", or ""is shoes.com legit?""
+
+Acceptance Criteria
+Probably simple GPT3 query
+must be presentable
+tailwind preferred
+webpage should accept an input text and respond whether it is legit.",aidantorrence,17 minutes ago,https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a-3?t=
