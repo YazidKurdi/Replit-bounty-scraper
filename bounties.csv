@@ -4452,7 +4452,7 @@ Users can customize the top right user handle and karma,
 Users can customize the top two posts, specifically votes, posted by name, subreddit part of, comments, image showcased and of course, the headlines text.
 There is a default setup so that the canvas isn't blank
 The look/feel and design of the fake post should mimic what is currently live on reddit, with some subtle differences (e.g., Redddit instead of Reddit) so that it is apparent it isn't real
-A live preview of the changes are shown to the user, with a watermark/url o...",jarednxx,4 hours ago,https://replit.com/bounties/@jarednxx/reddit-parody-and-me-1?t=
+A live preview of the changes are shown to the user, with a watermark/url o...",jarednxx,5 hours ago,https://replit.com/bounties/@jarednxx/reddit-parody-and-me-1?t=
 555,$585.00,due in 12 days,Fake Twitter Post Creator with Mash Monetization,"People like to laugh and poke fun of situations. What better way than memes? Well, twitter fake ""posts"" could be hilarious of used properly in meme fashion. Well... this is the app! Fake twitter post creator.
 
 Acceptance Criteria
@@ -4460,7 +4460,7 @@ Create a mini-web-app that allows users to create a Fake Twitter Post – where 
 The app allows the ability to add 1 reply to the initial tweet with similar customization (e.g., message, handle, avatar, # of likes)
 The mini-app pulls in information related to the user inputted via the Twitter API including the profile picture, name, and handle based on an inputted twitter profile
 The look/feel and design of the fake post should mimic what is currently live on twitter, with some subtle differences in colour so that it is apparent it isn't real
-A live preview of the changes are shown to the user, with a watermark/url on the meme fake post (as users will right-click be able to...",jarednxx,4 hours ago,https://replit.com/bounties/@jarednxx/fake-twitter-post-cr-1?t=
+A live preview of the changes are shown to the user, with a watermark/url on the meme fake post (as users will right-click be able to...",jarednxx,5 hours ago,https://replit.com/bounties/@jarednxx/fake-twitter-post-cr-1?t=
 556,$9.00,due in 13 days,A web page that connects to a python file and database,"Hello, i am creating scripts at python and my problem is i need a whitelist, i need a website that when you click on pay with paypal, when payment has been accepted the website will generate a license key and show on the screen, and i want a python script that checking, if the license key is in the license key whitelist. (MUST WORK FOR ANYWHERE AROUND INTERNET (DONT NEED TO BE IN THE SAME FOLDER) AND WORK FOR COUPLE TIMES (I MEAN COUPLE LICENSE KEY)
 
 Acceptance Criteria
@@ -4500,12 +4500,12 @@ A completed link will look like this:
 FELIPE: https://parking.airgarage.com/spot/973/?ref=bdr-felipe&rentalType=monthly
 SAMUEL: https://parking.airgarage.com/spot/973/?ref=bdr-sam&rentalType=monthly
 
-Acceptance Crit...",BryanSbriglia,2 hours ago,https://replit.com/bounties/@BryanSbriglia/add-a-reference-code?t=
+Acceptance Crit...",BryanSbriglia,3 hours ago,https://replit.com/bounties/@BryanSbriglia/add-a-reference-code?t=
 560,$45.00,due in 3 days,Get Chess game pgn and embed code from url,"Description: I would like an automation (using Make.com), that takes in a webhook (with chess game url, either Lichess.org or Chess.com) and returns both the pgn and embed code as fields (into an airtable). I've attempted to do this with Browse.ai, and think a similar tool would work.
 
 Requirements: Must be experienced in airtable, make.com, and scraping
 
-Technical details:  Happy to provide additional technical details / access after acceptance",GabeB5,2 hours ago,https://replit.com/bounties/@GabeB5/get-chess-game-pgn-a?t=
+Technical details:  Happy to provide additional technical details / access after acceptance",GabeB5,3 hours ago,https://replit.com/bounties/@GabeB5/get-chess-game-pgn-a?t=
 561,$4.50,due in 5 days,Flipping animation,"I have a project where there are multiple tables. If you click on the cell on a table, the word gets shown/hidden.
 I want a flipping animation to be shown.
 Example table is: https://discipulis.vulcanwm.repl.co/verb/ascendo
@@ -4528,4 +4528,20 @@ Email me at [email protected] if you have any questions",VulcanWM,2 hours ago,h
 562,$3.60,due in 3 months,Make a mirrored.to upload script ( php ),"I want for you to create a PHP insert code that allows you to put in your API key and the filename, and it will upload it to some of the file services on mirrored.to
 
 Acceptance Criteria
-must be familiar with PHP",Altify-Developm,54 minutes ago,https://replit.com/bounties/@Altify-Developm/make-a-mirroredto-up?t=
+must be familiar with PHP",Altify-Developm,1 hour ago,https://replit.com/bounties/@Altify-Developm/make-a-mirroredto-up?t=
+563,$108.00,due in 7 days,Extend ebean to prepend caller class and line number in SQL comment,"Ebean is an ORM for JVM languages. Using performance monitoring tools, it is currently difficult to match a slow query generated by Ebean to the code that generated it.
+
+We can solve this by optionally (enabled using configuration properties in application.yaml) prepending the caller class and line number in a comment on each generated query.
+
+For example, instead of select t0.uuid, t0.createdat... we would generate /* MyClass:123 */ select t0.uuid, t0.createdat...
+
+Delivery is a PR against the ebean project (https://github.com/ebean-orm). If not accepted by ebean's maintainers, we'll fork it.
+
+Acceptance Criteria
+Correctly prepends caller class name and line number to every query when enabled by configuration
+Has no effect if not enabled by configuration
+Works in both Kotlin and Java projects
+Unit tests cover the core comment behavior and have 100% coverage of newly added lines
+
+Link to Project
+https://github.com/ebean-orm",shebson,8 minutes ago,https://replit.com/bounties/@shebson/extend-ebean-to-prep?t=
