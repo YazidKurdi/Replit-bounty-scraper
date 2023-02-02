@@ -4443,7 +4443,7 @@ A secret button from our widgets page (details at docs.getmash.com)
 A secret video, potentially a rick-roll experiences (details at docs.getmash.com)
 A donation button using the Mash SDK (details in the NPM package)
 The Wallet Button / Mash details loaded into a repl so folks can contribute (details in the NPM package)
-Ability fo...",jarednxx,11 minutes ago,https://replit.com/bounties/@jarednxx/import-our-npm-packa?t=
+Ability fo...",jarednxx,28 minutes ago,https://replit.com/bounties/@jarednxx/import-our-npm-packa?t=
 554,$585.00,due in 12 days,Reddit Parody & Meme Home Page Creator w/ Mash Monetization,"We want to create a meme builder specifically for a fake reddit home page, hot section, to enable people to create a joke that they want, and easily download + share it. The inspiration is the ""breaking news"" generator. The goal here is to showcase how a mini-app that is fun can monetize premium features.
 
 Acceptance Criteria
@@ -4452,7 +4452,7 @@ Users can customize the top right user handle and karma,
 Users can customize the top two posts, specifically votes, posted by name, subreddit part of, comments, image showcased and of course, the headlines text.
 There is a default setup so that the canvas isn't blank
 The look/feel and design of the fake post should mimic what is currently live on reddit, with some subtle differences (e.g., Redddit instead of Reddit) so that it is apparent it isn't real
-A live preview of the changes are shown to the user, with a watermark/url o...",jarednxx,9 minutes ago,https://replit.com/bounties/@jarednxx/reddit-parody-and-me-1?t=
+A live preview of the changes are shown to the user, with a watermark/url o...",jarednxx,26 minutes ago,https://replit.com/bounties/@jarednxx/reddit-parody-and-me-1?t=
 555,$585.00,due in 12 days,Fake Twitter Post Creator with Mash Monetization,"People like to laugh and poke fun of situations. What better way than memes? Well, twitter fake ""posts"" could be hilarious of used properly in meme fashion. Well... this is the app! Fake twitter post creator.
 
 Acceptance Criteria
@@ -4460,4 +4460,4 @@ Create a mini-web-app that allows users to create a Fake Twitter Post – where 
 The app allows the ability to add 1 reply to the initial tweet with similar customization (e.g., message, handle, avatar, # of likes)
 The mini-app pulls in information related to the user inputted via the Twitter API including the profile picture, name, and handle based on an inputted twitter profile
 The look/feel and design of the fake post should mimic what is currently live on twitter, with some subtle differences in colour so that it is apparent it isn't real
-A live preview of the changes are shown to the user, with a watermark/url on the meme fake post (as users will right-click be able to...",jarednxx,8 minutes ago,https://replit.com/bounties/@jarednxx/fake-twitter-post-cr-1?t=
+A live preview of the changes are shown to the user, with a watermark/url on the meme fake post (as users will right-click be able to...",jarednxx,24 minutes ago,https://replit.com/bounties/@jarednxx/fake-twitter-post-cr-1?t=

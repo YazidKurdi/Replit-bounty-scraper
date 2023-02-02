@@ -5536,7 +5536,7 @@
         "title": "Import our NPM package for auto-updates use on Replit",
         "description": "We want to have our NPM package available for users as a template in Replit with an easy to see view of the experience. You'll import the NPM package from github, and setup a basic page.\n\nDetails are in the documentation here: https://docs.replit.com/programming-ide/using-git-on-replit/import-repository\nPackage is here: https://www.npmjs.com/package/@getmash/client-sdk OR https://github.com/getmash/mash-js\n\nAcceptance Criteria\nImport the NPM package to a template repl with commands/details outlined to setup + configure\nHave it run/work in Replit to do some basic experimentation\nCreate a basic page that includes a few Mash components such as\nA secret button from our widgets page (details at docs.getmash.com)\nA secret video, potentially a rick-roll experiences (details at docs.getmash.com)\nA donation button using the Mash SDK (details in the NPM package)\nThe Wallet Button / Mash details loaded into a repl so folks can contribute (details in the NPM package)\nAbility fo...",
         "author": "jarednxx",
-        "posted_time": "11 minutes ago",
+        "posted_time": "28 minutes ago",
         "link": "https://replit.com/bounties/@jarednxx/import-our-npm-packa?t="
     },
     {
@@ -5546,7 +5546,7 @@
         "title": "Reddit Parody & Meme Home Page Creator w/ Mash Monetization",
         "description": "We want to create a meme builder specifically for a fake reddit home page, hot section, to enable people to create a joke that they want, and easily download + share it. The inspiration is the \"breaking news\" generator. The goal here is to showcase how a mini-app that is fun can monetize premium features.\n\nAcceptance Criteria\nCreate a mini-web-app that allows users to create a Fake Reddit Home Page \u2013 where they can customize specific elements.\nUsers can customize the top right user handle and karma,\nUsers can customize the top two posts, specifically votes, posted by name, subreddit part of, comments, image showcased and of course, the headlines text.\nThere is a default setup so that the canvas isn't blank\nThe look/feel and design of the fake post should mimic what is currently live on reddit, with some subtle differences (e.g., Redddit instead of Reddit) so that it is apparent it isn't real\nA live preview of the changes are shown to the user, with a watermark/url o...",
         "author": "jarednxx",
-        "posted_time": "9 minutes ago",
+        "posted_time": "26 minutes ago",
         "link": "https://replit.com/bounties/@jarednxx/reddit-parody-and-me-1?t="
     },
     {
@@ -5556,7 +5556,7 @@
         "title": "Fake Twitter Post Creator with Mash Monetization",
         "description": "People like to laugh and poke fun of situations. What better way than memes? Well, twitter fake \"posts\" could be hilarious of used properly in meme fashion. Well... this is the app! Fake twitter post creator.\n\nAcceptance Criteria\nCreate a mini-web-app that allows users to create a Fake Twitter Post \u2013 where they can customize the handle, message, # of retweets, # of likes etc.\nThe app allows the ability to add 1 reply to the initial tweet with similar customization (e.g., message, handle, avatar, # of likes)\nThe mini-app pulls in information related to the user inputted via the Twitter API including the profile picture, name, and handle based on an inputted twitter profile\nThe look/feel and design of the fake post should mimic what is currently live on twitter, with some subtle differences in colour so that it is apparent it isn't real\nA live preview of the changes are shown to the user, with a watermark/url on the meme fake post (as users will right-click be able to...",
         "author": "jarednxx",
-        "posted_time": "8 minutes ago",
+        "posted_time": "24 minutes ago",
         "link": "https://replit.com/bounties/@jarednxx/fake-twitter-post-cr-1?t="
     }
 ]
