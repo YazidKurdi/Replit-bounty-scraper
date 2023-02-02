@@ -5486,7 +5486,7 @@
         "title": "next.js 13 { app } AI Pick Up Line generator",
         "description": "Acceptance Criteria\nUses Next.js 13 app\nGenerates pick up lines (using gpt3)\nUser clicks button, and pick up line is generated\nWebsite looks presentable\nTailwind preferred\nI'll need the code :)",
         "author": "aidantorrence",
-        "posted_time": "43 minutes ago",
+        "posted_time": "53 minutes ago",
         "link": "https://replit.com/bounties/@aidantorrence/nextjs-13-app-ai-pic?t="
     },
     {
@@ -5496,7 +5496,7 @@
         "title": "Return order data from the BrightPearl API",
         "description": "I'd like a tool where the user can enter an order number or goods out note and then using the BrightPearl API, the following data is returned:\n\nname, address, order date, items ordered, courier name, tracking link, despatch date, email address.\n\nI'd like it returned as a webhook.\n\nHere are the BrightPearl API docs:\nhttps://api-docs.brightpearl.com/",
         "author": "AndrewShowman",
-        "posted_time": "10 minutes ago",
+        "posted_time": "19 minutes ago",
         "link": "https://replit.com/bounties/@AndrewShowman/return-order-data-fr?t="
     }
 ]
