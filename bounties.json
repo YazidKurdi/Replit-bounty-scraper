@@ -5616,7 +5616,7 @@
         "title": "Flipping animation",
         "description": "I have a project where there are multiple tables. If you click on the cell on a table, the word gets shown/hidden.\nI want a flipping animation to be shown.\nExample table is: https://discipulis.vulcanwm.repl.co/verb/ascendo\n\nAcceptance Criteria\nI want a flipping animation to be shown when the user clicks on a cell\nI want a half flipping animation to be shown when the user hovers over a cell\nThe animation should work with the tablehideall() and the tableshowall() functions.\nYou need to be able to create a pull request on the GitHub repo to submit the code\nThe flipping animation should work on every browser, and on mobile and laptop\n\nTechnical Details\nThe backend of the website is written in Python, but the flip function is written in Vanilla JS, and you can use JS or CSS to create the animation.\n\nLink to Project\nI will add the bounty hunter to the GitHub repo when I select them.\n\nQuestions?\nEmail me at [email\u00a0protected] if you have any questions",
         "author": "VulcanWM",
-        "posted_time": "58 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@VulcanWM/flipping-animation?t="
     },
     {
@@ -5626,7 +5626,7 @@
         "title": "Make a mirrored.to upload script ( php )",
         "description": "I want for you to create a PHP insert code that allows you to put in your API key and the filename, and it will upload it to some of the file services on mirrored.to\n\nAcceptance Criteria\nmust be familiar with PHP",
         "author": "Altify-Developm",
-        "posted_time": "20 minutes ago",
+        "posted_time": "32 minutes ago",
         "link": "https://replit.com/bounties/@Altify-Developm/make-a-mirroredto-up?t="
     }
 ]
