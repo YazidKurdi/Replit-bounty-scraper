@@ -5606,7 +5606,7 @@
         "title": "Get Chess game pgn and embed code from url",
         "description": "Description: I would like an automation (using Make.com), that takes in a webhook (with chess game url, either Lichess.org or Chess.com) and returns both the pgn and embed code as fields (into an airtable). I've attempted to do this with Browse.ai, and think a similar tool would work.\n\nRequirements: Must be experienced in airtable, make.com, and scraping\n\nTechnical details:  Happy to provide additional technical details / access after acceptance",
         "author": "GabeB5",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@GabeB5/get-chess-game-pgn-a?t="
     },
     {
