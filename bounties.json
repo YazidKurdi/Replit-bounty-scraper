@@ -5446,7 +5446,7 @@
         "title": "web app that converts DocSend link/files to PDF",
         "description": "I want to have a web app created the converts a DocSend link/file into a downloadable PDF\n\nAcceptance Criteria\nI want to host the web app on a website so a user can input their DocSend link and it converts it into a PDF file that the user can download",
         "author": "ber07006",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@ber07006/web-app-that-convert?t="
     },
     {
@@ -5466,7 +5466,7 @@
         "title": "create a next.js 13 {app} website that detects whether content is ai-generated",
         "description": "Acceptance Criteria\nTailwind preferred\nMust look presentable.\nUser should be able to input text and return whether the text is ai-generated.",
         "author": "aidantorrence",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a-2?t="
     },
     {
@@ -5526,7 +5526,17 @@
         "title": "Swordbattle v2 packet system - p1",
         "description": "Convert the swordbattle v2 packet system from JSON to binary, and make it more efficient. Post the updated code as a PR on Github.",
         "author": "CoderGautamYT",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-packe?t="
+    },
+    {
+        "index": "553",
+        "price": "$54.00",
+        "due_days": "due in 13 days",
+        "title": "Import our NPM package for auto-updates use on Replit",
+        "description": "We want to have our NPM package available for users as a template in Replit with an easy to see view of the experience. You'll import the NPM package from github, and setup a basic page.\n\nDetails are in the documentation here: https://docs.replit.com/programming-ide/using-git-on-replit/import-repository\nPackage is here: https://www.npmjs.com/package/@getmash/client-sdk OR https://github.com/getmash/mash-js\n\nAcceptance Criteria\nImport the NPM package to a template repl with commands/details outlined to setup + configure\nHave it run/work in Replit to do some basic experimentation\nCreate a basic page that includes a few Mash components such as\nA secret button from our widgets page (details at docs.getmash.com)\nA secret video, potentially a rick-roll experiences (details at docs.getmash.com)\nA donation button using the Mash SDK (details in the NPM package)\nThe Wallet Button / Mash details loaded into a repl so folks can contribute (details in the NPM package)\nAbility fo...",
+        "author": "jarednxx",
+        "posted_time": "1 minute ago",
+        "link": "https://replit.com/bounties/@jarednxx/import-our-npm-packa?t="
     }
 ]

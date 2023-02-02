@@ -4360,7 +4360,7 @@ I'll need the code :)",aidantorrence,10 hours ago,https://replit.com/bounties/@a
 544,$225.00,due in 13 days,web app that converts DocSend link/files to PDF,"I want to have a web app created the converts a DocSend link/file into a downloadable PDF
 
 Acceptance Criteria
-I want to host the web app on a website so a user can input their DocSend link and it converts it into a PDF file that the user can download",ber07006,9 hours ago,https://replit.com/bounties/@ber07006/web-app-that-convert?t=
+I want to host the web app on a website so a user can input their DocSend link and it converts it into a PDF file that the user can download",ber07006,10 hours ago,https://replit.com/bounties/@ber07006/web-app-that-convert?t=
 545,$99.00,due in 7 days,Improvements to Spelling Bee with Friends Game,"Video of me talking over this bounty (easier than reading in my opinion!)
 https://www.loom.com/share/e516dd33d3954418b6f305d6d44da1c9
 
@@ -4385,7 +4385,7 @@ On the /play page (LINK TO NEW DESIGN: https://share.balsamiq.com/c/cTJVo8rZgDm3
 546,$10.00,due in 5 days,create a next.js 13 {app} website that detects whether content is ai-generated,"Acceptance Criteria
 Tailwind preferred
 Must look presentable.
-User should be able to input text and return whether the text is ai-generated.",aidantorrence,8 hours ago,https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a-2?t=
+User should be able to input text and return whether the text is ai-generated.",aidantorrence,9 hours ago,https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a-2?t=
 547,$10.00,due in 5 days,create a next.js 13 {app} website that detects whether the input is legitimate,"could be a website, business, etc.  should take an input and then determine whether it is legitimate.
 
 e.g. "" is better baller brand legit?"", or "" is walmart legit?"", or ""is shoes.com legit?""
@@ -4429,4 +4429,18 @@ Technical Details
 Current setup here: https://www.dropbox.com/scl/fo/kuf5a1w5gzoxrusgl9y1x/h?dl=0&rlkey=mbthrc7h2ndo08etm8vjfzqia
 
 Let me know if you need anything else and can provide additional details.",ChrisYork,3 hours ago,https://replit.com/bounties/@ChrisYork/need-help-with-finis?t=
-552,$45.00,due in 12 days,Swordbattle v2 packet system - p1,"Convert the swordbattle v2 packet system from JSON to binary, and make it more efficient. Post the updated code as a PR on Github.",CoderGautamYT,2 hours ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-packe?t=
+552,$45.00,due in 12 days,Swordbattle v2 packet system - p1,"Convert the swordbattle v2 packet system from JSON to binary, and make it more efficient. Post the updated code as a PR on Github.",CoderGautamYT,3 hours ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-packe?t=
+553,$54.00,due in 13 days,Import our NPM package for auto-updates use on Replit,"We want to have our NPM package available for users as a template in Replit with an easy to see view of the experience. You'll import the NPM package from github, and setup a basic page.
+
+Details are in the documentation here: https://docs.replit.com/programming-ide/using-git-on-replit/import-repository
+Package is here: https://www.npmjs.com/package/@getmash/client-sdk OR https://github.com/getmash/mash-js
+
+Acceptance Criteria
+Import the NPM package to a template repl with commands/details outlined to setup + configure
+Have it run/work in Replit to do some basic experimentation
+Create a basic page that includes a few Mash components such as
+A secret button from our widgets page (details at docs.getmash.com)
+A secret video, potentially a rick-roll experiences (details at docs.getmash.com)
+A donation button using the Mash SDK (details in the NPM package)
+The Wallet Button / Mash details loaded into a repl so folks can contribute (details in the NPM package)
+Ability fo...",jarednxx,1 minute ago,https://replit.com/bounties/@jarednxx/import-our-npm-packa?t=
