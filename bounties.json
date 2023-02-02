@@ -5566,7 +5566,7 @@
         "title": "A web page that connects to a python file and database",
         "description": "Hello, i am creating scripts at python and my problem is i need a whitelist, i need a website that when you click on pay with paypal, when payment has been accepted the website will generate a license key and show on the screen, and i want a python script that checking, if the license key is in the license key whitelist. (MUST WORK FOR ANYWHERE AROUND INTERNET (DONT NEED TO BE IN THE SAME FOLDER) AND WORK FOR COUPLE TIMES (I MEAN COUPLE LICENSE KEY)\n\nAcceptance Criteria\neverything above.\n(python script, and webpage, and database(whitelist))",
         "author": "origaming1",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@origaming1/a-web-page-that-conn?t="
     },
     {
@@ -5646,7 +5646,7 @@
         "title": "Chrome Extension - Shortcut Bug Fix",
         "description": "Our Chrome Extension currently works by loading a search bar when a shortcut 'Command+K' is hit. However, if a web app e.g. Gmail, previously had a function with that same shortcut, our extension overrules this. This is undesirable as it ruins the functionality of many web apps such as Notion, Superhuman and Gmail.\n\nWe would like for the code to be edited such that the web app is given precendence whenever there is a shortcut conflict.\n\nAcceptance Criteria\n\nDeliverable in less than 12 hours.\nEdits the provided code such that the functionality of the chrome extension remains unchanged except for the fact that the chrome extension's shortcut now does not function on web apps where there is a shortcut conflict and instead, the web app shortcut functions as expected.\n\nTechnical Details\n\nReact/JS",
         "author": "AshPrabaker1",
-        "posted_time": "34 minutes ago",
+        "posted_time": "44 minutes ago",
         "link": "https://replit.com/bounties/@AshPrabaker1/chrome-extension-sho?t="
     },
     {
@@ -5656,7 +5656,7 @@
         "title": "Postgres GPT extension",
         "description": "Project Description\n\nDevelop a Postgres extension (pg_gpt) that uses the OpenAI API to generate SQL queries from natural language descriptions and explain SQL queries using natural text. The extension should provide the following functions:\n\ngpt.query('average user age', execute => true) - generates a query and optionally executes it.\ngpt.explain('select * from users') - explains a query in natural language.\ngpt.explain_plan('select * from users') - explains a query plan in natural language.\n\nThe extension should be aware of the current database schema and use it in queries.\n\nAcceptance Criteria\n\nThe extension should take the schema into account when generating queries and generate relevant results. For tests we will use the airlines demo database (https://postgrespro.com/community/demodb).\n\nTechnical Details\n\nThe most straightforward way to implement the extension is to use C and query the OpenAI API using libcurl. Other languages (such as Go or Rust) may also be used. ChatGPT can gen...",
         "author": "StasKelvich",
-        "posted_time": "17 minutes ago",
+        "posted_time": "27 minutes ago",
         "link": "https://replit.com/bounties/@StasKelvich/postgres-gpt-extensi?t="
     }
 ]

@@ -4465,7 +4465,7 @@ A live preview of the changes are shown to the user, with a watermark/url on the
 
 Acceptance Criteria
 everything above.
-(python script, and webpage, and database(whitelist))",origaming1,6 hours ago,https://replit.com/bounties/@origaming1/a-web-page-that-conn?t=
+(python script, and webpage, and database(whitelist))",origaming1,7 hours ago,https://replit.com/bounties/@origaming1/a-web-page-that-conn?t=
 557,$45.00,due in 3 days,Simple NestJS RPC Microservice to wrap Two Wikipedia API Calls,"Create a small NestJS microservice which makes calls to the Wikipedia API to fetch the ids (urls or titles) of popular pages and the structured content of a page given its url or id. Map the result into an array of the main body text (broken roughly if imperfectly into wikipedia paragraphs/sections) and an array of any image urls present on the page.
 
 Acceptance Criteria
@@ -4556,7 +4556,7 @@ Edits the provided code such that the functionality of the chrome extension rema
 
 Technical Details
 
-React/JS",AshPrabaker1,34 minutes ago,https://replit.com/bounties/@AshPrabaker1/chrome-extension-sho?t=
+React/JS",AshPrabaker1,44 minutes ago,https://replit.com/bounties/@AshPrabaker1/chrome-extension-sho?t=
 565,$450.00,due in 3 days,Postgres GPT extension,"Project Description
 
 Develop a Postgres extension (pg_gpt) that uses the OpenAI API to generate SQL queries from natural language descriptions and explain SQL queries using natural text. The extension should provide the following functions:
@@ -4573,4 +4573,4 @@ The extension should take the schema into account when generating queries and ge
 
 Technical Details
 
-The most straightforward way to implement the extension is to use C and query the OpenAI API using libcurl. Other languages (such as Go or Rust) may also be used. ChatGPT can gen...",StasKelvich,17 minutes ago,https://replit.com/bounties/@StasKelvich/postgres-gpt-extensi?t=
+The most straightforward way to implement the extension is to use C and query the OpenAI API using libcurl. Other languages (such as Go or Rust) may also be used. ChatGPT can gen...",StasKelvich,27 minutes ago,https://replit.com/bounties/@StasKelvich/postgres-gpt-extensi?t=
