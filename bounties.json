@@ -5436,7 +5436,7 @@
         "title": "create a chrome extension that asks whether you want to join a meeting 2 minutes prior to start time",
         "description": "Acceptance Criteria\nshould pop up 2 minutes before the meeting time\naccepting the pop up will allow you to auto-join the meeting at the meeting start time.\nintegrates with google calendar\nChrome Manifest v3\nI'll need the code :)",
         "author": "aidantorrence",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/create-a-chrome-exte?t="
     },
     {
@@ -5456,7 +5456,7 @@
         "title": "Improvements to Spelling Bee with Friends Game",
         "description": "Video of me talking over this bounty (easier than reading in my opinion!)\nhttps://www.loom.com/share/e516dd33d3954418b6f305d6d44da1c9\n\nLink to Website You Will Be Adding To\nhttps://spelling-bee.lakshman111.repl.co/\n\nThis website allows users who like playing the NYT Spelling Bee game to play it with friends.\n\nRepl (it's private, but sharing link for when you start the bounty): https://replit.com/@lakshman111/Spelling-Bee\n\nLanguages used (and that you will need to know how to use)\nFrontend is in HTML/CSS/Javascript\nBackend is in Python\n\nWhen applying...\nPlease write how many buttons are below the main game on the /play page, so that I know you read the post :)\nLink a project you think best exemplifies your design skills\nMake sure you leave a way for me to contact you, otherwise I won't be able to learn more!\n\nAcceptance Criteria\nOn the /play page (LINK TO NEW DESIGN: https://share.balsamiq.com/c/cTJVo8rZgDm35giaPQ717a.png), change the \u201cShare\u201d button into a block below the game (the belo...",
         "author": "lakshman111",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@lakshman111/improvements-to-spel-1?t="
     },
     {
@@ -5486,7 +5486,7 @@
         "title": "next.js 13 { app } AI Pick Up Line generator",
         "description": "Acceptance Criteria\nUses Next.js 13 app\nGenerates pick up lines (using gpt3)\nUser clicks button, and pick up line is generated\nWebsite looks presentable\nTailwind preferred\nI'll need the code :)",
         "author": "aidantorrence",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/nextjs-13-app-ai-pic?t="
     },
     {
@@ -5516,7 +5516,7 @@
         "title": "Need help with finishing SQL integration of Missive + Retool + Airtable CRM",
         "description": "I'm trying to create the Retool-Missive integration outlined in this page: https://missiveapp.com/blog/retool-tutorial, but instead of using Google Sheets, my CRM data is in Airtable. I've tried to follow the steps as much as I could, but it doesn't display properly. I'm absolutely clueless when it comes to databases so I'm stuck in this area.\n\nAcceptance Criteria\nIntegration should look like the pic on the page.\nTechnical Details\nCurrent setup here: https://www.dropbox.com/scl/fo/kuf5a1w5gzoxrusgl9y1x/h?dl=0&rlkey=mbthrc7h2ndo08etm8vjfzqia\n\nLet me know if you need anything else and can provide additional details.",
         "author": "ChrisYork",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@ChrisYork/need-help-with-finis?t="
     },
     {
@@ -5526,7 +5526,7 @@
         "title": "Swordbattle v2 packet system - p1",
         "description": "Convert the swordbattle v2 packet system from JSON to binary, and make it more efficient. Post the updated code as a PR on Github.",
         "author": "CoderGautamYT",
-        "posted_time": "45 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-packe?t="
     }
 ]
