@@ -4360,7 +4360,7 @@ I'll need the code :)",aidantorrence,8 hours ago,https://replit.com/bounties/@ai
 544,$225.00,due in 13 days,web app that converts DocSend link/files to PDF,"I want to have a web app created the converts a DocSend link/file into a downloadable PDF
 
 Acceptance Criteria
-I want to host the web app on a website so a user can input their DocSend link and it converts it into a PDF file that the user can download",ber07006,7 hours ago,https://replit.com/bounties/@ber07006/web-app-that-convert?t=
+I want to host the web app on a website so a user can input their DocSend link and it converts it into a PDF file that the user can download",ber07006,8 hours ago,https://replit.com/bounties/@ber07006/web-app-that-convert?t=
 545,$99.00,due in 7 days,Improvements to Spelling Bee with Friends Game,"Video of me talking over this bounty (easier than reading in my opinion!)
 https://www.loom.com/share/e516dd33d3954418b6f305d6d44da1c9
 
@@ -4385,7 +4385,7 @@ On the /play page (LINK TO NEW DESIGN: https://share.balsamiq.com/c/cTJVo8rZgDm3
 546,$10.00,due in 5 days,create a next.js 13 {app} website that detects whether content is ai-generated,"Acceptance Criteria
 Tailwind preferred
 Must look presentable.
-User should be able to input text and return whether the text is ai-generated.",aidantorrence,6 hours ago,https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a-2?t=
+User should be able to input text and return whether the text is ai-generated.",aidantorrence,7 hours ago,https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a-2?t=
 547,$10.00,due in 5 days,create a next.js 13 {app} website that detects whether the input is legitimate,"could be a website, business, etc.  should take an input and then determine whether it is legitimate.
 
 e.g. "" is better baller brand legit?"", or "" is walmart legit?"", or ""is shoes.com legit?""
@@ -4394,7 +4394,7 @@ Acceptance Criteria
 Probably simple GPT3 query
 must be presentable
 tailwind preferred
-webpage should accept an input text and respond whether it is legit.",aidantorrence,6 hours ago,https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a-3?t=
+webpage should accept an input text and respond whether it is legit.",aidantorrence,7 hours ago,https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a-3?t=
 548,$10.00,due in 5 days,next.js 13 { app } AI Pick Up Line generator,"Acceptance Criteria
 Uses Next.js 13 app
 Generates pick up lines (using gpt3)
@@ -4409,7 +4409,7 @@ name, address, order date, items ordered, courier name, tracking link, despatch 
 I'd like it returned as a webhook.
 
 Here are the BrightPearl API docs:
-https://api-docs.brightpearl.com/",AndrewShowman,3 hours ago,https://replit.com/bounties/@AndrewShowman/return-order-data-fr?t=
+https://api-docs.brightpearl.com/",AndrewShowman,4 hours ago,https://replit.com/bounties/@AndrewShowman/return-order-data-fr?t=
 550,$30.00,due in 4 days,Add authentication to chrome extension,"We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add authentication:
 
 if a user is not signed in/has just installed the extension, clicking the extension button takes them to a sign up page. This checking can be implemented through cookies/JWT.
@@ -4420,7 +4420,7 @@ must meet requirements.
 Technical Details
 chrome extension v3.
 
-Link to Project",ShubhKathuria,2 hours ago,https://replit.com/bounties/@ShubhKathuria/add-authentication-t?t=
+Link to Project",ShubhKathuria,3 hours ago,https://replit.com/bounties/@ShubhKathuria/add-authentication-t?t=
 551,$18.00,due in 3 days,Need help with finishing SQL integration of Missive + Retool + Airtable CRM,"I'm trying to create the Retool-Missive integration outlined in this page: https://missiveapp.com/blog/retool-tutorial, but instead of using Google Sheets, my CRM data is in Airtable. I've tried to follow the steps as much as I could, but it doesn't display properly. I'm absolutely clueless when it comes to databases so I'm stuck in this area.
 
 Acceptance Criteria
@@ -4428,5 +4428,5 @@ Integration should look like the pic on the page.
 Technical Details
 Current setup here: https://www.dropbox.com/scl/fo/kuf5a1w5gzoxrusgl9y1x/h?dl=0&rlkey=mbthrc7h2ndo08etm8vjfzqia
 
-Let me know if you need anything else and can provide additional details.",ChrisYork,30 minutes ago,https://replit.com/bounties/@ChrisYork/need-help-with-finis?t=
-552,$45.00,due in 12 days,Swordbattle v2 packet system - p1,"Convert the swordbattle v2 packet system from JSON to binary, and make it more efficient. Post the updated code as a PR on Github.",CoderGautamYT,10 minutes ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-packe?t=
+Let me know if you need anything else and can provide additional details.",ChrisYork,1 hour ago,https://replit.com/bounties/@ChrisYork/need-help-with-finis?t=
+552,$45.00,due in 12 days,Swordbattle v2 packet system - p1,"Convert the swordbattle v2 packet system from JSON to binary, and make it more efficient. Post the updated code as a PR on Github.",CoderGautamYT,45 minutes ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-packe?t=
