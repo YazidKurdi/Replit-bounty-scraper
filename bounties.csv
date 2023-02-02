@@ -4556,7 +4556,7 @@ Edits the provided code such that the functionality of the chrome extension rema
 
 Technical Details
 
-React/JS",AshPrabaker1,17 minutes ago,https://replit.com/bounties/@AshPrabaker1/chrome-extension-sho?t=
+React/JS",AshPrabaker1,25 minutes ago,https://replit.com/bounties/@AshPrabaker1/chrome-extension-sho?t=
 565,$450.00,due in 3 days,Postgres GPT extension,"Project Description
 
 Develop a Postgres extension (pg_gpt) that uses the OpenAI API to generate SQL queries from natural language descriptions and explain SQL queries using natural text. The extension should provide the following functions:
@@ -4573,4 +4573,4 @@ The extension should take the schema into account when generating queries and ge
 
 Technical Details
 
-The most straightforward way to implement the extension is to use C and query the OpenAI API using libcurl. Other languages (such as Go or Rust) may also be used. ChatGPT can gen...",StasKelvich,28 seconds ago,https://replit.com/bounties/@StasKelvich/postgres-gpt-extensi?t=
+The most straightforward way to implement the extension is to use C and query the OpenAI API using libcurl. Other languages (such as Go or Rust) may also be used. ChatGPT can gen...",StasKelvich,8 minutes ago,https://replit.com/bounties/@StasKelvich/postgres-gpt-extensi?t=
