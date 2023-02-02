@@ -5306,7 +5306,7 @@
         "title": "Scrape Odd Lots podcast",
         "description": "I want to scrape the transcripts of the Odd Lots podcast. Some of the episodes can be found at https://www.bloomberg.com/oddlots in the links that begin with \"Transcript: \". I tried, but ran into issues with a Captcha and could not figure out how to get selenium working within a repl. I haven't quite figured out how to find the complete archive of the podcasts yet, but would be ok with a solution that just scrapes the episodes available at the provided link.\n\nAcceptance Criteria\nA web scraper written in Python. I have some experience with bs4 but am open to using other scraping libraries\nThe web scraper can successfully be run on the url https://www.bloomberg.com/oddlots and avoid the captcha to return the transcripts of the episodes linked on that page and saves them to a csv.\nThe csv schema should be: Speaker | Time | Text. For example, for the transcript found at https://www.bloomberg.com/news/articles/2023-02-01/transcript-viktor-shvets-declares-victory-for-team...",
         "author": "alecfwilson",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@alecfwilson/scrape-odd-lots-podc?t="
     },
     {
@@ -5336,7 +5336,7 @@
         "title": "[TRANSLATION] Convert C++ Code Utilizing Various Windows APIs to Python",
         "description": "IddSampleDriver allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in C++ utilizing Windows APIs. It is also made to be a driver. I would like to convert this to Python and make it a normal program, not a driver. Repo Link: https://github.com/roshkins/IddSampleDriver. Just convert the code to python. I don't mind it having multiple files or many dependencies.\n\nAcceptance Criteria\nI should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Python library (ctypes, win32api, etc).\n\nFuture Work\nIf all works out well, the bounty hunter may be assigned future bounties with increasing amounts of pay.",
         "author": "EpicCodeWizard2",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/translation-convert-1?t="
     },
     {
@@ -5356,7 +5356,7 @@
         "title": "Video snippet from transcript",
         "description": "We are looking to create a video highlighting and clipping tool. The tool will allow users to:\n\nHighlight a portion of the transcript of a given video.\nAutomatically create a clip of the corresponding section of the video.\nShare the created clip with others using a unique link.\n\nSimilar to what grain.com has developed.\n\nAcceptance Criteria\nWe should be able to run the code successfully after installing the dependencies if any\n\nTechnical Details\nWe are using React for our frontend and django for the backend. Happy to discuss it in email/call.",
         "author": "JordiBurgues",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@JordiBurgues/video-snippet-from-t?t="
     },
     {
@@ -5396,7 +5396,7 @@
         "title": "A script to convert pdfs to text",
         "description": "I have a directory containing hundreds of PDF files. I want to convert them to text files using Google's Cloud Vision API. I would like to have a script that does the following:\nTake two directory names as input - input-dir, output-dir\nCrawls the input-dir directory to read the pdf files\nConverts the pdf files into the same structure in the output-dir.\nIt should use google json auth through the standard GOOGLEAPPLICATIONCREDENTIALS environment variable.\n\nAcceptance Criteria\nthe script uses python 3.10+\nAny libraries must be specified in a requirements.txt file.\nIt should create a one-to-one mapping between the pdf file and the text file using Google's Cloud Vision API.",
         "author": "cpdwk8kh2w",
-        "posted_time": "37 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@cpdwk8kh2w/a-script-to-convert?t="
     }
 ]
