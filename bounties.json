@@ -5436,7 +5436,7 @@
         "title": "create a chrome extension that asks whether you want to join a meeting 2 minutes prior to start time",
         "description": "Acceptance Criteria\nshould pop up 2 minutes before the meeting time\naccepting the pop up will allow you to auto-join the meeting at the meeting start time.\nintegrates with google calendar\nChrome Manifest v3\nI'll need the code :)",
         "author": "aidantorrence",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/create-a-chrome-exte?t="
     },
     {
@@ -5476,7 +5476,7 @@
         "title": "create a next.js 13 {app} website that detects whether the input is legitimate",
         "description": "could be a website, business, etc.  should take an input and then determine whether it is legitimate.\n\ne.g. \" is better baller brand legit?\", or \" is walmart legit?\", or \"is shoes.com legit?\"\n\nAcceptance Criteria\nProbably simple GPT3 query\nmust be presentable\ntailwind preferred\nwebpage should accept an input text and respond whether it is legit.",
         "author": "aidantorrence",
-        "posted_time": "53 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a-3?t="
     }
 ]
