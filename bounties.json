@@ -5436,7 +5436,7 @@
         "title": "create a chrome extension that asks whether you want to join a meeting 2 minutes prior to start time",
         "description": "Acceptance Criteria\nshould pop up 2 minutes before the meeting time\naccepting the pop up will allow you to auto-join the meeting at the meeting start time.\nintegrates with google calendar\nChrome Manifest v3\nI'll need the code :)",
         "author": "aidantorrence",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/create-a-chrome-exte?t="
     },
     {
@@ -5486,7 +5486,7 @@
         "title": "next.js 13 { app } AI Pick Up Line generator",
         "description": "Acceptance Criteria\nUses Next.js 13 app\nGenerates pick up lines (using gpt3)\nUser clicks button, and pick up line is generated\nWebsite looks presentable\nTailwind preferred\nI'll need the code :)",
         "author": "aidantorrence",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/nextjs-13-app-ai-pic?t="
     },
     {
@@ -5506,7 +5506,7 @@
         "title": "Add authentication to chrome extension",
         "description": "We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add authentication:\n\nif a user is not signed in/has just installed the extension, clicking the extension button takes them to a sign up page. This checking can be implemented through cookies/JWT.\n\nAcceptance Criteria\nmust meet requirements.\n\nTechnical Details\nchrome extension v3.\n\nLink to Project",
         "author": "ShubhKathuria",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@ShubhKathuria/add-authentication-t?t="
     }
 ]
