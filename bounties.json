@@ -5506,7 +5506,7 @@
         "title": "Add authentication to chrome extension",
         "description": "We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add authentication:\n\nif a user is not signed in/has just installed the extension, clicking the extension button takes them to a sign up page. This checking can be implemented through cookies/JWT.\n\nAcceptance Criteria\nmust meet requirements.\n\nTechnical Details\nchrome extension v3.\n\nLink to Project",
         "author": "ShubhKathuria",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@ShubhKathuria/add-authentication-t?t="
     },
     {
@@ -5516,7 +5516,7 @@
         "title": "Need help with finishing SQL integration of Missive + Retool + Airtable CRM",
         "description": "I'm trying to create the Retool-Missive integration outlined in this page: https://missiveapp.com/blog/retool-tutorial, but instead of using Google Sheets, my CRM data is in Airtable. I've tried to follow the steps as much as I could, but it doesn't display properly. I'm absolutely clueless when it comes to databases so I'm stuck in this area.\n\nAcceptance Criteria\nIntegration should look like the pic on the page.\nTechnical Details\nCurrent setup here: https://www.dropbox.com/scl/fo/kuf5a1w5gzoxrusgl9y1x/h?dl=0&rlkey=mbthrc7h2ndo08etm8vjfzqia\n\nLet me know if you need anything else and can provide additional details.",
         "author": "ChrisYork",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@ChrisYork/need-help-with-finis?t="
     },
     {
@@ -5526,7 +5526,7 @@
         "title": "Swordbattle v2 packet system - p1",
         "description": "Convert the swordbattle v2 packet system from JSON to binary, and make it more efficient. Post the updated code as a PR on Github.",
         "author": "CoderGautamYT",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-packe?t="
     },
     {
@@ -5546,7 +5546,7 @@
         "title": "Reddit Parody & Meme Home Page Creator w/ Mash Monetization",
         "description": "We want to create a meme builder specifically for a fake reddit home page, hot section, to enable people to create a joke that they want, and easily download + share it. The inspiration is the \"breaking news\" generator. The goal here is to showcase how a mini-app that is fun can monetize premium features.\n\nAcceptance Criteria\nCreate a mini-web-app that allows users to create a Fake Reddit Home Page \u2013 where they can customize specific elements.\nUsers can customize the top right user handle and karma,\nUsers can customize the top two posts, specifically votes, posted by name, subreddit part of, comments, image showcased and of course, the headlines text.\nThere is a default setup so that the canvas isn't blank\nThe look/feel and design of the fake post should mimic what is currently live on reddit, with some subtle differences (e.g., Redddit instead of Reddit) so that it is apparent it isn't real\nA live preview of the changes are shown to the user, with a watermark/url o...",
         "author": "jarednxx",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@jarednxx/reddit-parody-and-me-1?t="
     },
     {
@@ -5556,7 +5556,7 @@
         "title": "Fake Twitter Post Creator with Mash Monetization",
         "description": "People like to laugh and poke fun of situations. What better way than memes? Well, twitter fake \"posts\" could be hilarious of used properly in meme fashion. Well... this is the app! Fake twitter post creator.\n\nAcceptance Criteria\nCreate a mini-web-app that allows users to create a Fake Twitter Post \u2013 where they can customize the handle, message, # of retweets, # of likes etc.\nThe app allows the ability to add 1 reply to the initial tweet with similar customization (e.g., message, handle, avatar, # of likes)\nThe mini-app pulls in information related to the user inputted via the Twitter API including the profile picture, name, and handle based on an inputted twitter profile\nThe look/feel and design of the fake post should mimic what is currently live on twitter, with some subtle differences in colour so that it is apparent it isn't real\nA live preview of the changes are shown to the user, with a watermark/url on the meme fake post (as users will right-click be able to...",
         "author": "jarednxx",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@jarednxx/fake-twitter-post-cr-1?t="
     },
     {
@@ -5566,7 +5566,37 @@
         "title": "A web page that connects to a python file and database",
         "description": "Hello, i am creating scripts at python and my problem is i need a whitelist, i need a website that when you click on pay with paypal, when payment has been accepted the website will generate a license key and show on the screen, and i want a python script that checking, if the license key is in the license key whitelist. (MUST WORK FOR ANYWHERE AROUND INTERNET (DONT NEED TO BE IN THE SAME FOLDER) AND WORK FOR COUPLE TIMES (I MEAN COUPLE LICENSE KEY)\n\nAcceptance Criteria\neverything above.\n(python script, and webpage, and database(whitelist))",
         "author": "origaming1",
-        "posted_time": "53 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@origaming1/a-web-page-that-conn?t="
+    },
+    {
+        "index": "557",
+        "price": "$45.00",
+        "due_days": "due in 3 days",
+        "title": "Simple NestJS RPC Microservice to wrap Two Wikipedia API Calls",
+        "description": "Create a small NestJS microservice which makes calls to the Wikipedia API to fetch the ids (urls or titles) of popular pages and the structured content of a page given its url or id. Map the result into an array of the main body text (broken roughly if imperfectly into wikipedia paragraphs/sections) and an array of any image urls present on the page.\n\nAcceptance Criteria\nCode is written in Typescript using the NestJS framework and uses axios to make API calls\nthe NestJS framework can be minimal (no more than a simple skeleton init, with a single RPC Controller and a single service)\nThe RPC controller should expose two methods:\nfetch a list of popular Wikipedia page identifiers (ie id, url, title)\nfetch a full page's structured content using the id or url\nmap the result into an array of text (paragraphs) and an array of image urls\nadd one set of integration tests (a spec file using NestJS TestModule) that actually makes the call out to the real API (we will run this ...",
+        "author": "DanBarrett",
+        "posted_time": "9 minutes ago",
+        "link": "https://replit.com/bounties/@DanBarrett/simple-nestjs-rpc-mi?t="
+    },
+    {
+        "index": "558",
+        "price": "$20.00",
+        "due_days": "due in 4 days",
+        "title": "Plaid API into Replit",
+        "description": "I would like to configure the Plaid API into my Repl. For this first bounty, I need assistance implementing the Quickstart in the Sandbox environment. There will likely be more bounties to follow.\n\nIf the Plaid API is functional and can pull sample data into my Repl, the bounty has been completed successfully.\n\nPlaid API information can be found here: https://plaid.com/docs/quickstart/. I assume you'll have to create your own account and use your own keys to get started...? Once the project is completed, I will input my own keys. I assume that's the best way to do this, but let me know if you think otherwise.\n\nMy project can be found here: https://replit.com/@JackHanel/Financial-Performance-Dashboard#main.py. If a different template, etc. is needed, just let me know.\n\nIf you can't already tell, I'm new to programming. I think the best way to learn is to try on your own, but I've done that for a couple of weeks now and I can't even figure out the first step of this whole process: Implem...",
+        "author": "JackHanel",
+        "posted_time": "7 minutes ago",
+        "link": "https://replit.com/bounties/@JackHanel/plaid-api-into-repli?t="
+    },
+    {
+        "index": "559",
+        "price": "$31.50",
+        "due_days": "due in 7 days",
+        "title": "Add a reference code to a link",
+        "description": "I am looking for a tool on a landing page where I can enter a URL then press one of two buttons in order to have one of two reference links added into the URL.\n\nThe entered links will always be in this format:\nhttps://parking.airgarage.com/spot/973/?rentalType=monthly (973 will always be a 3 digit string of numbers, but it will not always be those exact digits).\n\nThe reference code will need to be added between the \"?\" and \"rentalType=monthly\"\nWhen I input the code, I would like to be able to press a button that determines which reference code will be added into the URL. The two buttons should say 'FELIPE' and 'SAMUEL'.\n\nIf I press FELIPE, the reference code to be added is ref=bdr-felipe&\nIf I press SAMUEL, the reference code to be added is ref=bdr-sam&\n\nA completed link will look like this:\nFELIPE: https://parking.airgarage.com/spot/973/?ref=bdr-felipe&rentalType=monthly\nSAMUEL: https://parking.airgarage.com/spot/973/?ref=bdr-sam&rentalType=monthly\n\nAcceptance Crit...",
+        "author": "BryanSbriglia",
+        "posted_time": "42 seconds ago",
+        "link": "https://replit.com/bounties/@BryanSbriglia/add-a-reference-code?t="
     }
 ]
