@@ -5432,17 +5432,17 @@
     {
         "index": "543",
         "price": "$50.00",
-        "due_days": "due in 6 days",
+        "due_days": "due in 5 days",
         "title": "create a chrome extension that asks whether you want to join a meeting 2 minutes prior to start time",
         "description": "Acceptance Criteria\nshould pop up 2 minutes before the meeting time\naccepting the pop up will allow you to auto-join the meeting at the meeting start time.\nintegrates with google calendar\nChrome Manifest v3\nI'll need the code :)",
         "author": "aidantorrence",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/create-a-chrome-exte?t="
     },
     {
         "index": "544",
         "price": "$225.00",
-        "due_days": "due in 14 days",
+        "due_days": "due in 13 days",
         "title": "web app that converts DocSend link/files to PDF",
         "description": "I want to have a web app created the converts a DocSend link/file into a downloadable PDF\n\nAcceptance Criteria\nI want to host the web app on a website so a user can input their DocSend link and it converts it into a PDF file that the user can download",
         "author": "ber07006",
@@ -5452,17 +5452,17 @@
     {
         "index": "545",
         "price": "$99.00",
-        "due_days": "due in 8 days",
+        "due_days": "due in 7 days",
         "title": "Improvements to Spelling Bee with Friends Game",
         "description": "Video of me talking over this bounty (easier than reading in my opinion!)\nhttps://www.loom.com/share/e516dd33d3954418b6f305d6d44da1c9\n\nLink to Website You Will Be Adding To\nhttps://spelling-bee.lakshman111.repl.co/\n\nThis website allows users who like playing the NYT Spelling Bee game to play it with friends.\n\nRepl (it's private, but sharing link for when you start the bounty): https://replit.com/@lakshman111/Spelling-Bee\n\nLanguages used (and that you will need to know how to use)\nFrontend is in HTML/CSS/Javascript\nBackend is in Python\n\nWhen applying...\nPlease write how many buttons are below the main game on the /play page, so that I know you read the post :)\nLink a project you think best exemplifies your design skills\nMake sure you leave a way for me to contact you, otherwise I won't be able to learn more!\n\nAcceptance Criteria\nOn the /play page (LINK TO NEW DESIGN: https://share.balsamiq.com/c/cTJVo8rZgDm35giaPQ717a.png), change the \u201cShare\u201d button into a block below the game (the belo...",
         "author": "lakshman111",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@lakshman111/improvements-to-spel-1?t="
     },
     {
         "index": "546",
         "price": "$10.00",
-        "due_days": "due in 6 days",
+        "due_days": "due in 5 days",
         "title": "create a next.js 13 {app} website that detects whether content is ai-generated",
         "description": "Acceptance Criteria\nTailwind preferred\nMust look presentable.\nUser should be able to input text and return whether the text is ai-generated.",
         "author": "aidantorrence",
@@ -5472,7 +5472,7 @@
     {
         "index": "547",
         "price": "$10.00",
-        "due_days": "due in 6 days",
+        "due_days": "due in 5 days",
         "title": "create a next.js 13 {app} website that detects whether the input is legitimate",
         "description": "could be a website, business, etc.  should take an input and then determine whether it is legitimate.\n\ne.g. \" is better baller brand legit?\", or \" is walmart legit?\", or \"is shoes.com legit?\"\n\nAcceptance Criteria\nProbably simple GPT3 query\nmust be presentable\ntailwind preferred\nwebpage should accept an input text and respond whether it is legit.",
         "author": "aidantorrence",
@@ -5482,17 +5482,17 @@
     {
         "index": "548",
         "price": "$10.00",
-        "due_days": "due in 6 days",
+        "due_days": "due in 5 days",
         "title": "next.js 13 { app } AI Pick Up Line generator",
         "description": "Acceptance Criteria\nUses Next.js 13 app\nGenerates pick up lines (using gpt3)\nUser clicks button, and pick up line is generated\nWebsite looks presentable\nTailwind preferred\nI'll need the code :)",
         "author": "aidantorrence",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/nextjs-13-app-ai-pic?t="
     },
     {
         "index": "549",
         "price": "$45.00",
-        "due_days": "due in 7 days",
+        "due_days": "due in 6 days",
         "title": "Return order data from the BrightPearl API",
         "description": "I'd like a tool where the user can enter an order number or goods out note and then using the BrightPearl API, the following data is returned:\n\nname, address, order date, items ordered, courier name, tracking link, despatch date, email address.\n\nI'd like it returned as a webhook.\n\nHere are the BrightPearl API docs:\nhttps://api-docs.brightpearl.com/",
         "author": "AndrewShowman",
@@ -5502,7 +5502,7 @@
     {
         "index": "550",
         "price": "$30.00",
-        "due_days": "due in 5 days",
+        "due_days": "due in 4 days",
         "title": "Add authentication to chrome extension",
         "description": "We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add authentication:\n\nif a user is not signed in/has just installed the extension, clicking the extension button takes them to a sign up page. This checking can be implemented through cookies/JWT.\n\nAcceptance Criteria\nmust meet requirements.\n\nTechnical Details\nchrome extension v3.\n\nLink to Project",
         "author": "ShubhKathuria",
@@ -5512,11 +5512,21 @@
     {
         "index": "551",
         "price": "$18.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Need help with finishing SQL integration of Missive + Retool + Airtable CRM",
         "description": "I'm trying to create the Retool-Missive integration outlined in this page: https://missiveapp.com/blog/retool-tutorial, but instead of using Google Sheets, my CRM data is in Airtable. I've tried to follow the steps as much as I could, but it doesn't display properly. I'm absolutely clueless when it comes to databases so I'm stuck in this area.\n\nAcceptance Criteria\nIntegration should look like the pic on the page.\nTechnical Details\nCurrent setup here: https://www.dropbox.com/scl/fo/kuf5a1w5gzoxrusgl9y1x/h?dl=0&rlkey=mbthrc7h2ndo08etm8vjfzqia\n\nLet me know if you need anything else and can provide additional details.",
         "author": "ChrisYork",
-        "posted_time": "6 minutes ago",
+        "posted_time": "30 minutes ago",
         "link": "https://replit.com/bounties/@ChrisYork/need-help-with-finis?t="
+    },
+    {
+        "index": "552",
+        "price": "$45.00",
+        "due_days": "due in 12 days",
+        "title": "Swordbattle v2 packet system - p1",
+        "description": "Convert the swordbattle v2 packet system from JSON to binary, and make it more efficient. Post the updated code as a PR on Github.",
+        "author": "CoderGautamYT",
+        "posted_time": "10 minutes ago",
+        "link": "https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-packe?t="
     }
 ]
