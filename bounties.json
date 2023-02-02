@@ -5486,7 +5486,7 @@
         "title": "next.js 13 { app } AI Pick Up Line generator",
         "description": "Acceptance Criteria\nUses Next.js 13 app\nGenerates pick up lines (using gpt3)\nUser clicks button, and pick up line is generated\nWebsite looks presentable\nTailwind preferred\nI'll need the code :)",
         "author": "aidantorrence",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/nextjs-13-app-ai-pic?t="
     },
     {
@@ -5506,7 +5506,7 @@
         "title": "Add authentication to chrome extension",
         "description": "We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add authentication:\n\nif a user is not signed in/has just installed the extension, clicking the extension button takes them to a sign up page. This checking can be implemented through cookies/JWT.\n\nAcceptance Criteria\nmust meet requirements.\n\nTechnical Details\nchrome extension v3.\n\nLink to Project",
         "author": "ShubhKathuria",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@ShubhKathuria/add-authentication-t?t="
     },
     {
@@ -5516,7 +5516,7 @@
         "title": "Need help with finishing SQL integration of Missive + Retool + Airtable CRM",
         "description": "I'm trying to create the Retool-Missive integration outlined in this page: https://missiveapp.com/blog/retool-tutorial, but instead of using Google Sheets, my CRM data is in Airtable. I've tried to follow the steps as much as I could, but it doesn't display properly. I'm absolutely clueless when it comes to databases so I'm stuck in this area.\n\nAcceptance Criteria\nIntegration should look like the pic on the page.\nTechnical Details\nCurrent setup here: https://www.dropbox.com/scl/fo/kuf5a1w5gzoxrusgl9y1x/h?dl=0&rlkey=mbthrc7h2ndo08etm8vjfzqia\n\nLet me know if you need anything else and can provide additional details.",
         "author": "ChrisYork",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@ChrisYork/need-help-with-finis?t="
     },
     {
@@ -5536,7 +5536,7 @@
         "title": "Import our NPM package for auto-updates use on Replit",
         "description": "We want to have our NPM package available for users as a template in Replit with an easy to see view of the experience. You'll import the NPM package from github, and setup a basic page.\n\nDetails are in the documentation here: https://docs.replit.com/programming-ide/using-git-on-replit/import-repository\nPackage is here: https://www.npmjs.com/package/@getmash/client-sdk OR https://github.com/getmash/mash-js\n\nAcceptance Criteria\nImport the NPM package to a template repl with commands/details outlined to setup + configure\nHave it run/work in Replit to do some basic experimentation\nCreate a basic page that includes a few Mash components such as\nA secret button from our widgets page (details at docs.getmash.com)\nA secret video, potentially a rick-roll experiences (details at docs.getmash.com)\nA donation button using the Mash SDK (details in the NPM package)\nThe Wallet Button / Mash details loaded into a repl so folks can contribute (details in the NPM package)\nAbility fo...",
         "author": "jarednxx",
-        "posted_time": "28 minutes ago",
+        "posted_time": "44 minutes ago",
         "link": "https://replit.com/bounties/@jarednxx/import-our-npm-packa?t="
     },
     {
@@ -5546,7 +5546,7 @@
         "title": "Reddit Parody & Meme Home Page Creator w/ Mash Monetization",
         "description": "We want to create a meme builder specifically for a fake reddit home page, hot section, to enable people to create a joke that they want, and easily download + share it. The inspiration is the \"breaking news\" generator. The goal here is to showcase how a mini-app that is fun can monetize premium features.\n\nAcceptance Criteria\nCreate a mini-web-app that allows users to create a Fake Reddit Home Page \u2013 where they can customize specific elements.\nUsers can customize the top right user handle and karma,\nUsers can customize the top two posts, specifically votes, posted by name, subreddit part of, comments, image showcased and of course, the headlines text.\nThere is a default setup so that the canvas isn't blank\nThe look/feel and design of the fake post should mimic what is currently live on reddit, with some subtle differences (e.g., Redddit instead of Reddit) so that it is apparent it isn't real\nA live preview of the changes are shown to the user, with a watermark/url o...",
         "author": "jarednxx",
-        "posted_time": "26 minutes ago",
+        "posted_time": "42 minutes ago",
         "link": "https://replit.com/bounties/@jarednxx/reddit-parody-and-me-1?t="
     },
     {
@@ -5556,7 +5556,17 @@
         "title": "Fake Twitter Post Creator with Mash Monetization",
         "description": "People like to laugh and poke fun of situations. What better way than memes? Well, twitter fake \"posts\" could be hilarious of used properly in meme fashion. Well... this is the app! Fake twitter post creator.\n\nAcceptance Criteria\nCreate a mini-web-app that allows users to create a Fake Twitter Post \u2013 where they can customize the handle, message, # of retweets, # of likes etc.\nThe app allows the ability to add 1 reply to the initial tweet with similar customization (e.g., message, handle, avatar, # of likes)\nThe mini-app pulls in information related to the user inputted via the Twitter API including the profile picture, name, and handle based on an inputted twitter profile\nThe look/feel and design of the fake post should mimic what is currently live on twitter, with some subtle differences in colour so that it is apparent it isn't real\nA live preview of the changes are shown to the user, with a watermark/url on the meme fake post (as users will right-click be able to...",
         "author": "jarednxx",
-        "posted_time": "24 minutes ago",
+        "posted_time": "41 minutes ago",
         "link": "https://replit.com/bounties/@jarednxx/fake-twitter-post-cr-1?t="
+    },
+    {
+        "index": "556",
+        "price": "$9.00",
+        "due_days": "due in 13 days",
+        "title": "A web page that connects to a python file and database",
+        "description": "Hello, i am creating scripts at python and my problem is i need a whitelist, i need a website that when you click on pay with paypal, when payment has been accepted the website will generate a license key and show on the screen, and i want a python script that checking, if the license key is in the license key whitelist. (MUST WORK FOR ANYWHERE AROUND INTERNET (DONT NEED TO BE IN THE SAME FOLDER) AND WORK FOR COUPLE TIMES (I MEAN COUPLE LICENSE KEY)\n\nAcceptance Criteria\neverything above.\n(python script, and webpage, and database(whitelist))",
+        "author": "origaming1",
+        "posted_time": "7 minutes ago",
+        "link": "https://replit.com/bounties/@origaming1/a-web-page-that-conn?t="
     }
 ]
