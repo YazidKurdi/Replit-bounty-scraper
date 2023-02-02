@@ -4465,7 +4465,7 @@ A live preview of the changes are shown to the user, with a watermark/url on the
 
 Acceptance Criteria
 everything above.
-(python script, and webpage, and database(whitelist))",origaming1,4 hours ago,https://replit.com/bounties/@origaming1/a-web-page-that-conn?t=
+(python script, and webpage, and database(whitelist))",origaming1,5 hours ago,https://replit.com/bounties/@origaming1/a-web-page-that-conn?t=
 557,$45.00,due in 3 days,Simple NestJS RPC Microservice to wrap Two Wikipedia API Calls,"Create a small NestJS microservice which makes calls to the Wikipedia API to fetch the ids (urls or titles) of popular pages and the structured content of a page given its url or id. Map the result into an array of the main body text (broken roughly if imperfectly into wikipedia paragraphs/sections) and an array of any image urls present on the page.
 
 Acceptance Criteria
@@ -4544,4 +4544,4 @@ Works in both Kotlin and Java projects
 Unit tests cover the core comment behavior and have 100% coverage of newly added lines
 
 Link to Project
-https://github.com/ebean-orm",shebson,34 minutes ago,https://replit.com/bounties/@shebson/extend-ebean-to-prep?t=
+https://github.com/ebean-orm",shebson,44 minutes ago,https://replit.com/bounties/@shebson/extend-ebean-to-prep?t=
