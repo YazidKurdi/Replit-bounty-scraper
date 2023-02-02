@@ -4268,7 +4268,7 @@ NextJS, ethers.js, tailwind",chubaeth,8 hours ago,https://replit.com/bounties/@c
 Acceptance Criteria
 A web scraper written in Python. I have some experience with bs4 but am open to using other scraping libraries
 The web scraper can successfully be run on the url https://www.bloomberg.com/oddlots and avoid the captcha to return the transcripts of the episodes linked on that page and saves them to a csv.
-The csv schema should be: Speaker | Time | Text. For example, for the transcript found at https://www.bloomberg.com/news/articles/2023-02-01/transcript-viktor-shvets-declares-victory-for-team...",alecfwilson,9 hours ago,https://replit.com/bounties/@alecfwilson/scrape-odd-lots-podc?t=
+The csv schema should be: Speaker | Time | Text. For example, for the transcript found at https://www.bloomberg.com/news/articles/2023-02-01/transcript-viktor-shvets-declares-victory-for-team...",alecfwilson,10 hours ago,https://replit.com/bounties/@alecfwilson/scrape-odd-lots-podc?t=
 531,$175.00,closed,[TRANSLATION] Convert C++ Code Utilizing Various Windows APIs to Python,"IddSampleDriver allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in C++ utilizing Windows APIs. It is also made to be a driver. I would like to convert this to Python and make it a normal program, not a driver. Repo Link: https://github.com/roshkins/IddSampleDriver. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
@@ -4302,7 +4302,7 @@ Acceptance Criteria
 We should be able to run the code successfully after installing the dependencies if any
 
 Technical Details
-We are using React for our frontend and django for the backend. Happy to discuss it in email/call.",JordiBurgues,7 hours ago,https://replit.com/bounties/@JordiBurgues/video-snippet-from-t?t=
+We are using React for our frontend and django for the backend. Happy to discuss it in email/call.",JordiBurgues,8 hours ago,https://replit.com/bounties/@JordiBurgues/video-snippet-from-t?t=
 536,$1.35,closed,CSS Loading Animation,"I want someone to remake a CSS spinner animation, I can send the image through communication
 
 Acceptance Criteria
