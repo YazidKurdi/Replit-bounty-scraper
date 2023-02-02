@@ -5436,7 +5436,7 @@
         "title": "create a chrome extension that asks whether you want to join a meeting 2 minutes prior to start time",
         "description": "Acceptance Criteria\nshould pop up 2 minutes before the meeting time\naccepting the pop up will allow you to auto-join the meeting at the meeting start time.\nintegrates with google calendar\nChrome Manifest v3\nI'll need the code :)",
         "author": "aidantorrence",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/create-a-chrome-exte?t="
     },
     {
@@ -5486,7 +5486,17 @@
         "title": "next.js 13 { app } AI Pick Up Line generator",
         "description": "Acceptance Criteria\nUses Next.js 13 app\nGenerates pick up lines (using gpt3)\nUser clicks button, and pick up line is generated\nWebsite looks presentable\nTailwind preferred\nI'll need the code :)",
         "author": "aidantorrence",
-        "posted_time": "28 minutes ago",
+        "posted_time": "43 minutes ago",
         "link": "https://replit.com/bounties/@aidantorrence/nextjs-13-app-ai-pic?t="
+    },
+    {
+        "index": "549",
+        "price": "$45.00",
+        "due_days": "due in 7 days",
+        "title": "Return order data from the BrightPearl API",
+        "description": "I'd like a tool where the user can enter an order number or goods out note and then using the BrightPearl API, the following data is returned:\n\nname, address, order date, items ordered, courier name, tracking link, despatch date, email address.\n\nI'd like it returned as a webhook.\n\nHere are the BrightPearl API docs:\nhttps://api-docs.brightpearl.com/",
+        "author": "AndrewShowman",
+        "posted_time": "10 minutes ago",
+        "link": "https://replit.com/bounties/@AndrewShowman/return-order-data-fr?t="
     }
 ]
