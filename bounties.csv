@@ -4573,4 +4573,4 @@ The extension should take the schema into account when generating queries and ge
 
 Technical Details
 
-The most straightforward way to implement the extension is to use C and query the OpenAI API using libcurl. Other languages (such as Go or Rust) may also be used. ChatGPT can gen...",StasKelvich,59 minutes ago,https://replit.com/bounties/@StasKelvich/postgres-gpt-extensi?t=
+The most straightforward way to implement the extension is to use C and query the OpenAI API using libcurl. Other languages (such as Go or Rust) may also be used. ChatGPT can gen...",StasKelvich,1 hour ago,https://replit.com/bounties/@StasKelvich/postgres-gpt-extensi?t=

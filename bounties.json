@@ -5656,7 +5656,7 @@
         "title": "Postgres GPT extension",
         "description": "Project Description\n\nDevelop a Postgres extension (pg_gpt) that uses the OpenAI API to generate SQL queries from natural language descriptions and explain SQL queries using natural text. The extension should provide the following functions:\n\ngpt.query('average user age', execute => true) - generates a query and optionally executes it.\ngpt.explain('select * from users') - explains a query in natural language.\ngpt.explain_plan('select * from users') - explains a query plan in natural language.\n\nThe extension should be aware of the current database schema and use it in queries.\n\nAcceptance Criteria\n\nThe extension should take the schema into account when generating queries and generate relevant results. For tests we will use the airlines demo database (https://postgrespro.com/community/demodb).\n\nTechnical Details\n\nThe most straightforward way to implement the extension is to use C and query the OpenAI API using libcurl. Other languages (such as Go or Rust) may also be used. ChatGPT can gen...",
         "author": "StasKelvich",
-        "posted_time": "59 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@StasKelvich/postgres-gpt-extensi?t="
     }
 ]
