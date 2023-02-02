@@ -5406,7 +5406,7 @@
         "title": "Create a next.js 13 {app/experimental} app for popular tweet notifications",
         "description": "Acceptance Criteria\nUses Next.js 13 app\nPings a specific SMS number whenever a twitter user in a set of twitter users {provided} tweets.\nThe home page should display the latest tweets from the set of users in chronological order.\nFor each tweet, there should be an input bar that on submit, you can send a reply to that tweet.\nI'll need the code :)",
         "author": "aidantorrence",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a?t="
     },
     {
@@ -5446,7 +5446,7 @@
         "title": "web app that converts DocSend link/files to PDF",
         "description": "I want to have a web app created the converts a DocSend link/file into a downloadable PDF\n\nAcceptance Criteria\nI want to host the web app on a website so a user can input their DocSend link and it converts it into a PDF file that the user can download",
         "author": "ber07006",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@ber07006/web-app-that-convert?t="
     },
     {
@@ -5466,7 +5466,7 @@
         "title": "create a next.js 13 {app} website that detects whether content is ai-generated",
         "description": "Acceptance Criteria\nTailwind preferred\nMust look presentable.\nUser should be able to input text and return whether the text is ai-generated.",
         "author": "aidantorrence",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a-2?t="
     },
     {
@@ -5478,5 +5478,15 @@
         "author": "aidantorrence",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a-3?t="
+    },
+    {
+        "index": "548",
+        "price": "$10.00",
+        "due_days": "due in 6 days",
+        "title": "next.js 13 { app } AI Pick Up Line generator",
+        "description": "Acceptance Criteria\nUses Next.js 13 app\nGenerates pick up lines (using gpt3)\nUser clicks button, and pick up line is generated\nWebsite looks presentable\nTailwind preferred\nI'll need the code :)",
+        "author": "aidantorrence",
+        "posted_time": "4 minutes ago",
+        "link": "https://replit.com/bounties/@aidantorrence/nextjs-13-app-ai-pic?t="
     }
 ]

@@ -4335,7 +4335,7 @@ Uses Next.js 13 app
 Pings a specific SMS number whenever a twitter user in a set of twitter users {provided} tweets.
 The home page should display the latest tweets from the set of users in chronological order.
 For each tweet, there should be an input bar that on submit, you can send a reply to that tweet.
-I'll need the code :)",aidantorrence,4 hours ago,https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a?t=
+I'll need the code :)",aidantorrence,5 hours ago,https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a?t=
 541,$45.00,due in 12 days,Create a next.js 13 {app/experimental} app that uses vall-e to create text-to-audio ,"Acceptance Criteria
 User can log in
 Once logged in, user can input an audio/video file and train on vall-e
@@ -4360,7 +4360,7 @@ I'll need the code :)",aidantorrence,4 hours ago,https://replit.com/bounties/@ai
 544,$225.00,due in 14 days,web app that converts DocSend link/files to PDF,"I want to have a web app created the converts a DocSend link/file into a downloadable PDF
 
 Acceptance Criteria
-I want to host the web app on a website so a user can input their DocSend link and it converts it into a PDF file that the user can download",ber07006,3 hours ago,https://replit.com/bounties/@ber07006/web-app-that-convert?t=
+I want to host the web app on a website so a user can input their DocSend link and it converts it into a PDF file that the user can download",ber07006,4 hours ago,https://replit.com/bounties/@ber07006/web-app-that-convert?t=
 545,$99.00,due in 8 days,Improvements to Spelling Bee with Friends Game,"Video of me talking over this bounty (easier than reading in my opinion!)
 https://www.loom.com/share/e516dd33d3954418b6f305d6d44da1c9
 
@@ -4385,7 +4385,7 @@ On the /play page (LINK TO NEW DESIGN: https://share.balsamiq.com/c/cTJVo8rZgDm3
 546,$10.00,due in 6 days,create a next.js 13 {app} website that detects whether content is ai-generated,"Acceptance Criteria
 Tailwind preferred
 Must look presentable.
-User should be able to input text and return whether the text is ai-generated.",aidantorrence,2 hours ago,https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a-2?t=
+User should be able to input text and return whether the text is ai-generated.",aidantorrence,3 hours ago,https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a-2?t=
 547,$10.00,due in 6 days,create a next.js 13 {app} website that detects whether the input is legitimate,"could be a website, business, etc.  should take an input and then determine whether it is legitimate.
 
 e.g. "" is better baller brand legit?"", or "" is walmart legit?"", or ""is shoes.com legit?""
@@ -4395,3 +4395,10 @@ Probably simple GPT3 query
 must be presentable
 tailwind preferred
 webpage should accept an input text and respond whether it is legit.",aidantorrence,2 hours ago,https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a-3?t=
+548,$10.00,due in 6 days,next.js 13 { app } AI Pick Up Line generator,"Acceptance Criteria
+Uses Next.js 13 app
+Generates pick up lines (using gpt3)
+User clicks button, and pick up line is generated
+Website looks presentable
+Tailwind preferred
+I'll need the code :)",aidantorrence,4 minutes ago,https://replit.com/bounties/@aidantorrence/nextjs-13-app-ai-pic?t=
