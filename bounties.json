@@ -5566,7 +5566,7 @@
         "title": "A web page that connects to a python file and database",
         "description": "Hello, i am creating scripts at python and my problem is i need a whitelist, i need a website that when you click on pay with paypal, when payment has been accepted the website will generate a license key and show on the screen, and i want a python script that checking, if the license key is in the license key whitelist. (MUST WORK FOR ANYWHERE AROUND INTERNET (DONT NEED TO BE IN THE SAME FOLDER) AND WORK FOR COUPLE TIMES (I MEAN COUPLE LICENSE KEY)\n\nAcceptance Criteria\neverything above.\n(python script, and webpage, and database(whitelist))",
         "author": "origaming1",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@origaming1/a-web-page-that-conn?t="
     },
     {
@@ -5626,7 +5626,7 @@
         "title": "Make a mirrored.to upload script ( php )",
         "description": "I want for you to create a PHP insert code that allows you to put in your API key and the filename, and it will upload it to some of the file services on mirrored.to\n\nAcceptance Criteria\nmust be familiar with PHP",
         "author": "Altify-Developm",
-        "posted_time": "32 minutes ago",
+        "posted_time": "40 minutes ago",
         "link": "https://replit.com/bounties/@Altify-Developm/make-a-mirroredto-up?t="
     }
 ]

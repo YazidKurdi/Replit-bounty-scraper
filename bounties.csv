@@ -4465,7 +4465,7 @@ A live preview of the changes are shown to the user, with a watermark/url on the
 
 Acceptance Criteria
 everything above.
-(python script, and webpage, and database(whitelist))",origaming1,3 hours ago,https://replit.com/bounties/@origaming1/a-web-page-that-conn?t=
+(python script, and webpage, and database(whitelist))",origaming1,4 hours ago,https://replit.com/bounties/@origaming1/a-web-page-that-conn?t=
 557,$45.00,due in 3 days,Simple NestJS RPC Microservice to wrap Two Wikipedia API Calls,"Create a small NestJS microservice which makes calls to the Wikipedia API to fetch the ids (urls or titles) of popular pages and the structured content of a page given its url or id. Map the result into an array of the main body text (broken roughly if imperfectly into wikipedia paragraphs/sections) and an array of any image urls present on the page.
 
 Acceptance Criteria
@@ -4528,4 +4528,4 @@ Email me at [email protected] if you have any questions",VulcanWM,1 hour ago,ht
 562,$3.60,due in 3 months,Make a mirrored.to upload script ( php ),"I want for you to create a PHP insert code that allows you to put in your API key and the filename, and it will upload it to some of the file services on mirrored.to
 
 Acceptance Criteria
-must be familiar with PHP",Altify-Developm,32 minutes ago,https://replit.com/bounties/@Altify-Developm/make-a-mirroredto-up?t=
+must be familiar with PHP",Altify-Developm,40 minutes ago,https://replit.com/bounties/@Altify-Developm/make-a-mirroredto-up?t=
