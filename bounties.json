@@ -5366,7 +5366,7 @@
         "title": "CSS Loading Animation",
         "description": "I want someone to remake a CSS spinner animation, I can send the image through communication\n\nAcceptance Criteria\nJavascript and CSS Knowledge",
         "author": "r6nrkcmxvc",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@r6nrkcmxvc/css-loading-animatio?t="
     },
     {
@@ -5416,7 +5416,7 @@
         "title": "Create a next.js 13 {app/experimental} app that uses vall-e to create text-to-audio ",
         "description": "Acceptance Criteria\nUser can log in\nOnce logged in, user can input an audio/video file and train on vall-e\nOnce trained, user should be able to add text and either get a file or play audio in the generated voice\nI'll need the code, and access to the infrastructure used.\n\nTechnical details:\nhttps://valle-demo.github.io/\npossibly: https://github.com/enhuiz/vall-e",
         "author": "aidantorrence",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a-1?t="
     },
     {
@@ -5446,7 +5446,7 @@
         "title": "web app that converts DocSend link/files to PDF",
         "description": "I want to have a web app created the converts a DocSend link/file into a downloadable PDF\n\nAcceptance Criteria\nI want to host the web app on a website so a user can input their DocSend link and it converts it into a PDF file that the user can download",
         "author": "ber07006",
-        "posted_time": "36 minutes ago",
+        "posted_time": "46 minutes ago",
         "link": "https://replit.com/bounties/@ber07006/web-app-that-convert?t="
     },
     {
@@ -5456,7 +5456,7 @@
         "title": "Improvements to Spelling Bee with Friends Game",
         "description": "Video of me talking over this bounty (easier than reading in my opinion!)\nhttps://www.loom.com/share/e516dd33d3954418b6f305d6d44da1c9\n\nLink to Website You Will Be Adding To\nhttps://spelling-bee.lakshman111.repl.co/\n\nThis website allows users who like playing the NYT Spelling Bee game to play it with friends.\n\nRepl (it's private, but sharing link for when you start the bounty): https://replit.com/@lakshman111/Spelling-Bee\n\nLanguages used (and that you will need to know how to use)\nFrontend is in HTML/CSS/Javascript\nBackend is in Python\n\nWhen applying...\nPlease write how many buttons are below the main game on the /play page, so that I know you read the post :)\nLink a project you think best exemplifies your design skills\nMake sure you leave a way for me to contact you, otherwise I won't be able to learn more!\n\nAcceptance Criteria\nOn the /play page (LINK TO NEW DESIGN: https://share.balsamiq.com/c/cTJVo8rZgDm35giaPQ717a.png), change the \u201cShare\u201d button into a block below the game (the belo...",
         "author": "lakshman111",
-        "posted_time": "18 minutes ago",
+        "posted_time": "28 minutes ago",
         "link": "https://replit.com/bounties/@lakshman111/improvements-to-spel-1?t="
     }
 ]
