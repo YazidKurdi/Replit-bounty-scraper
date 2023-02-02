@@ -5566,7 +5566,7 @@
         "title": "A web page that connects to a python file and database",
         "description": "Hello, i am creating scripts at python and my problem is i need a whitelist, i need a website that when you click on pay with paypal, when payment has been accepted the website will generate a license key and show on the screen, and i want a python script that checking, if the license key is in the license key whitelist. (MUST WORK FOR ANYWHERE AROUND INTERNET (DONT NEED TO BE IN THE SAME FOLDER) AND WORK FOR COUPLE TIMES (I MEAN COUPLE LICENSE KEY)\n\nAcceptance Criteria\neverything above.\n(python script, and webpage, and database(whitelist))",
         "author": "origaming1",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@origaming1/a-web-page-that-conn?t="
     },
     {
@@ -5576,7 +5576,7 @@
         "title": "Simple NestJS RPC Microservice to wrap Two Wikipedia API Calls",
         "description": "Create a small NestJS microservice which makes calls to the Wikipedia API to fetch the ids (urls or titles) of popular pages and the structured content of a page given its url or id. Map the result into an array of the main body text (broken roughly if imperfectly into wikipedia paragraphs/sections) and an array of any image urls present on the page.\n\nAcceptance Criteria\nCode is written in Typescript using the NestJS framework and uses axios to make API calls\nthe NestJS framework can be minimal (no more than a simple skeleton init, with a single RPC Controller and a single service)\nThe RPC controller should expose two methods:\nfetch a list of popular Wikipedia page identifiers (ie id, url, title)\nfetch a full page's structured content using the id or url\nmap the result into an array of text (paragraphs) and an array of image urls\nadd one set of integration tests (a spec file using NestJS TestModule) that actually makes the call out to the real API (we will run this ...",
         "author": "DanBarrett",
-        "posted_time": "9 minutes ago",
+        "posted_time": "22 minutes ago",
         "link": "https://replit.com/bounties/@DanBarrett/simple-nestjs-rpc-mi?t="
     },
     {
@@ -5586,7 +5586,7 @@
         "title": "Plaid API into Replit",
         "description": "I would like to configure the Plaid API into my Repl. For this first bounty, I need assistance implementing the Quickstart in the Sandbox environment. There will likely be more bounties to follow.\n\nIf the Plaid API is functional and can pull sample data into my Repl, the bounty has been completed successfully.\n\nPlaid API information can be found here: https://plaid.com/docs/quickstart/. I assume you'll have to create your own account and use your own keys to get started...? Once the project is completed, I will input my own keys. I assume that's the best way to do this, but let me know if you think otherwise.\n\nMy project can be found here: https://replit.com/@JackHanel/Financial-Performance-Dashboard#main.py. If a different template, etc. is needed, just let me know.\n\nIf you can't already tell, I'm new to programming. I think the best way to learn is to try on your own, but I've done that for a couple of weeks now and I can't even figure out the first step of this whole process: Implem...",
         "author": "JackHanel",
-        "posted_time": "7 minutes ago",
+        "posted_time": "19 minutes ago",
         "link": "https://replit.com/bounties/@JackHanel/plaid-api-into-repli?t="
     },
     {
@@ -5596,7 +5596,17 @@
         "title": "Add a reference code to a link",
         "description": "I am looking for a tool on a landing page where I can enter a URL then press one of two buttons in order to have one of two reference links added into the URL.\n\nThe entered links will always be in this format:\nhttps://parking.airgarage.com/spot/973/?rentalType=monthly (973 will always be a 3 digit string of numbers, but it will not always be those exact digits).\n\nThe reference code will need to be added between the \"?\" and \"rentalType=monthly\"\nWhen I input the code, I would like to be able to press a button that determines which reference code will be added into the URL. The two buttons should say 'FELIPE' and 'SAMUEL'.\n\nIf I press FELIPE, the reference code to be added is ref=bdr-felipe&\nIf I press SAMUEL, the reference code to be added is ref=bdr-sam&\n\nA completed link will look like this:\nFELIPE: https://parking.airgarage.com/spot/973/?ref=bdr-felipe&rentalType=monthly\nSAMUEL: https://parking.airgarage.com/spot/973/?ref=bdr-sam&rentalType=monthly\n\nAcceptance Crit...",
         "author": "BryanSbriglia",
-        "posted_time": "42 seconds ago",
+        "posted_time": "13 minutes ago",
         "link": "https://replit.com/bounties/@BryanSbriglia/add-a-reference-code?t="
+    },
+    {
+        "index": "560",
+        "price": "$45.00",
+        "due_days": "due in 3 days",
+        "title": "Get Chess game pgn and embed code from url",
+        "description": "Description: I would like an automation (using Make.com), that takes in a webhook (with chess game url, either Lichess.org or Chess.com) and returns both the pgn and embed code as fields (into an airtable). I've attempted to do this with Browse.ai, and think a similar tool would work.\n\nRequirements: Must be experienced in airtable, make.com, and scraping\n\nTechnical details:  Happy to provide additional technical details / access after acceptance",
+        "author": "GabeB5",
+        "posted_time": "7 minutes ago",
+        "link": "https://replit.com/bounties/@GabeB5/get-chess-game-pgn-a?t="
     }
 ]
