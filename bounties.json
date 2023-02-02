@@ -5316,7 +5316,7 @@
         "title": "[TRANSLATION] Convert C++ Code Utilizing Various Windows APIs to Python",
         "description": "IddSampleDriver allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in C++ utilizing Windows APIs. It is also made to be a driver. I would like to convert this to Python and make it a normal program, not a driver. Repo Link: https://github.com/roshkins/IddSampleDriver. Just convert the code to python. I don't mind it having multiple files or many dependencies.\n\nAcceptance Criteria\nI should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Python library (ctypes, win32api, etc).\n\nFuture Work\nIf all works out well, the bounty hunter may be assigned future bounties with increasing amounts of pay.",
         "author": "EpicCodeWizard2",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/translation-convert?t="
     },
     {
@@ -5326,7 +5326,7 @@
         "title": "Source Code Humanization",
         "description": "I have 3 separate JS source files that are currently obfuscated. I would like these three files un-obfuscated and reformatted, with some commenting throughout each that describes the functionality of the code.\nThe three files together are a total of 5mb.\nAcceptance Criteria\n3rd party tools are allowed.\nSolution in repl with the 3 files.\nObviously, comments do not need to be every line, once every 20 lines or so is fine.",
         "author": "i10",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@i10/source-code-humaniza?t="
     },
     {
@@ -5346,7 +5346,7 @@
         "title": "Steam Trader bot",
         "description": "Would like to ask for a steam trade bot",
         "author": "josekyot",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@josekyot/steam-trader-bot?t="
     },
     {
@@ -5366,7 +5366,7 @@
         "title": "CSS Loading Animation",
         "description": "I want someone to remake a CSS spinner animation, I can send the image through communication\n\nAcceptance Criteria\nJavascript and CSS Knowledge",
         "author": "r6nrkcmxvc",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@r6nrkcmxvc/css-loading-animatio?t="
     },
     {
@@ -5376,7 +5376,7 @@
         "title": "remake quizlet",
         "description": "joe biden is the problem\n\nAcceptance Criteria\nremake quizelt",
         "author": "r6nrkcmxvc",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@r6nrkcmxvc/remake-quizlet?t="
     },
     {
@@ -5386,7 +5386,7 @@
         "title": "Build a Chrome extension",
         "description": "I'd like to create an experimental OpenAI application to help recruiters become better at personalizing outreach when reaching out to talent. I want to automatically generate personalized messaging within a chrome extension that recruiters can use and track progress by storing data in a database.\n\nAcceptance Criteria\nExtension grabs a downloaded PDF from public LinkedIn or LinkedIn Recruiter\nExtension parses pdf and stores it in a database\nExtension takes inputs from the user and the pdf to make an API call to OpenAI and returns the output to the user\nUser can edit the presented output and copy the text with a 1-click copy button\nThe API input, output, and user edits are uploaded to a database\nExtension is built in a way so that latency isn't crazy (i.e. not too many outside services used + processing done in-browser. This means project will likely mostly be in Javascript)",
         "author": "JoeriLeemans1",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@JoeriLeemans1/build-a-chrome-exten?t="
     },
     {
@@ -5396,7 +5396,7 @@
         "title": "A script to convert pdfs to text",
         "description": "I have a directory containing hundreds of PDF files. I want to convert them to text files using Google's Cloud Vision API. I would like to have a script that does the following:\nTake two directory names as input - input-dir, output-dir\nCrawls the input-dir directory to read the pdf files\nConverts the pdf files into the same structure in the output-dir.\nIt should use google json auth through the standard GOOGLEAPPLICATIONCREDENTIALS environment variable.\n\nAcceptance Criteria\nthe script uses python 3.10+\nAny libraries must be specified in a requirements.txt file.\nIt should create a one-to-one mapping between the pdf file and the text file using Google's Cloud Vision API.",
         "author": "cpdwk8kh2w",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@cpdwk8kh2w/a-script-to-convert?t="
     }
 ]
