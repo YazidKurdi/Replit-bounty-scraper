@@ -4394,7 +4394,7 @@ Acceptance Criteria
 Probably simple GPT3 query
 must be presentable
 tailwind preferred
-webpage should accept an input text and respond whether it is legit.",aidantorrence,9 hours ago,https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a-3?t=
+webpage should accept an input text and respond whether it is legit.",aidantorrence,10 hours ago,https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a-3?t=
 548,$10.00,due in 5 days,next.js 13 { app } AI Pick Up Line generator,"Acceptance Criteria
 Uses Next.js 13 app
 Generates pick up lines (using gpt3)
@@ -4409,7 +4409,7 @@ name, address, order date, items ordered, courier name, tracking link, despatch 
 I'd like it returned as a webhook.
 
 Here are the BrightPearl API docs:
-https://api-docs.brightpearl.com/",AndrewShowman,6 hours ago,https://replit.com/bounties/@AndrewShowman/return-order-data-fr?t=
+https://api-docs.brightpearl.com/",AndrewShowman,7 hours ago,https://replit.com/bounties/@AndrewShowman/return-order-data-fr?t=
 550,$30.00,due in 4 days,Add authentication to chrome extension,"We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add authentication:
 
 if a user is not signed in/has just installed the extension, clicking the extension button takes them to a sign up page. This checking can be implemented through cookies/JWT.
@@ -4452,7 +4452,7 @@ Users can customize the top right user handle and karma,
 Users can customize the top two posts, specifically votes, posted by name, subreddit part of, comments, image showcased and of course, the headlines text.
 There is a default setup so that the canvas isn't blank
 The look/feel and design of the fake post should mimic what is currently live on reddit, with some subtle differences (e.g., Redddit instead of Reddit) so that it is apparent it isn't real
-A live preview of the changes are shown to the user, with a watermark/url o...",jarednxx,59 minutes ago,https://replit.com/bounties/@jarednxx/reddit-parody-and-me-1?t=
+A live preview of the changes are shown to the user, with a watermark/url o...",jarednxx,1 hour ago,https://replit.com/bounties/@jarednxx/reddit-parody-and-me-1?t=
 555,$585.00,due in 12 days,Fake Twitter Post Creator with Mash Monetization,"People like to laugh and poke fun of situations. What better way than memes? Well, twitter fake ""posts"" could be hilarious of used properly in meme fashion. Well... this is the app! Fake twitter post creator.
 
 Acceptance Criteria
@@ -4460,9 +4460,9 @@ Create a mini-web-app that allows users to create a Fake Twitter Post – where 
 The app allows the ability to add 1 reply to the initial tweet with similar customization (e.g., message, handle, avatar, # of likes)
 The mini-app pulls in information related to the user inputted via the Twitter API including the profile picture, name, and handle based on an inputted twitter profile
 The look/feel and design of the fake post should mimic what is currently live on twitter, with some subtle differences in colour so that it is apparent it isn't real
-A live preview of the changes are shown to the user, with a watermark/url on the meme fake post (as users will right-click be able to...",jarednxx,58 minutes ago,https://replit.com/bounties/@jarednxx/fake-twitter-post-cr-1?t=
+A live preview of the changes are shown to the user, with a watermark/url on the meme fake post (as users will right-click be able to...",jarednxx,1 hour ago,https://replit.com/bounties/@jarednxx/fake-twitter-post-cr-1?t=
 556,$9.00,due in 13 days,A web page that connects to a python file and database,"Hello, i am creating scripts at python and my problem is i need a whitelist, i need a website that when you click on pay with paypal, when payment has been accepted the website will generate a license key and show on the screen, and i want a python script that checking, if the license key is in the license key whitelist. (MUST WORK FOR ANYWHERE AROUND INTERNET (DONT NEED TO BE IN THE SAME FOLDER) AND WORK FOR COUPLE TIMES (I MEAN COUPLE LICENSE KEY)
 
 Acceptance Criteria
 everything above.
-(python script, and webpage, and database(whitelist))",origaming1,24 minutes ago,https://replit.com/bounties/@origaming1/a-web-page-that-conn?t=
+(python script, and webpage, and database(whitelist))",origaming1,34 minutes ago,https://replit.com/bounties/@origaming1/a-web-page-that-conn?t=

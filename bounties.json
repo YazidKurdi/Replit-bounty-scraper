@@ -5476,7 +5476,7 @@
         "title": "create a next.js 13 {app} website that detects whether the input is legitimate",
         "description": "could be a website, business, etc.  should take an input and then determine whether it is legitimate.\n\ne.g. \" is better baller brand legit?\", or \" is walmart legit?\", or \"is shoes.com legit?\"\n\nAcceptance Criteria\nProbably simple GPT3 query\nmust be presentable\ntailwind preferred\nwebpage should accept an input text and respond whether it is legit.",
         "author": "aidantorrence",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a-3?t="
     },
     {
@@ -5496,7 +5496,7 @@
         "title": "Return order data from the BrightPearl API",
         "description": "I'd like a tool where the user can enter an order number or goods out note and then using the BrightPearl API, the following data is returned:\n\nname, address, order date, items ordered, courier name, tracking link, despatch date, email address.\n\nI'd like it returned as a webhook.\n\nHere are the BrightPearl API docs:\nhttps://api-docs.brightpearl.com/",
         "author": "AndrewShowman",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/return-order-data-fr?t="
     },
     {
@@ -5546,7 +5546,7 @@
         "title": "Reddit Parody & Meme Home Page Creator w/ Mash Monetization",
         "description": "We want to create a meme builder specifically for a fake reddit home page, hot section, to enable people to create a joke that they want, and easily download + share it. The inspiration is the \"breaking news\" generator. The goal here is to showcase how a mini-app that is fun can monetize premium features.\n\nAcceptance Criteria\nCreate a mini-web-app that allows users to create a Fake Reddit Home Page \u2013 where they can customize specific elements.\nUsers can customize the top right user handle and karma,\nUsers can customize the top two posts, specifically votes, posted by name, subreddit part of, comments, image showcased and of course, the headlines text.\nThere is a default setup so that the canvas isn't blank\nThe look/feel and design of the fake post should mimic what is currently live on reddit, with some subtle differences (e.g., Redddit instead of Reddit) so that it is apparent it isn't real\nA live preview of the changes are shown to the user, with a watermark/url o...",
         "author": "jarednxx",
-        "posted_time": "59 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@jarednxx/reddit-parody-and-me-1?t="
     },
     {
@@ -5556,7 +5556,7 @@
         "title": "Fake Twitter Post Creator with Mash Monetization",
         "description": "People like to laugh and poke fun of situations. What better way than memes? Well, twitter fake \"posts\" could be hilarious of used properly in meme fashion. Well... this is the app! Fake twitter post creator.\n\nAcceptance Criteria\nCreate a mini-web-app that allows users to create a Fake Twitter Post \u2013 where they can customize the handle, message, # of retweets, # of likes etc.\nThe app allows the ability to add 1 reply to the initial tweet with similar customization (e.g., message, handle, avatar, # of likes)\nThe mini-app pulls in information related to the user inputted via the Twitter API including the profile picture, name, and handle based on an inputted twitter profile\nThe look/feel and design of the fake post should mimic what is currently live on twitter, with some subtle differences in colour so that it is apparent it isn't real\nA live preview of the changes are shown to the user, with a watermark/url on the meme fake post (as users will right-click be able to...",
         "author": "jarednxx",
-        "posted_time": "58 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@jarednxx/fake-twitter-post-cr-1?t="
     },
     {
@@ -5566,7 +5566,7 @@
         "title": "A web page that connects to a python file and database",
         "description": "Hello, i am creating scripts at python and my problem is i need a whitelist, i need a website that when you click on pay with paypal, when payment has been accepted the website will generate a license key and show on the screen, and i want a python script that checking, if the license key is in the license key whitelist. (MUST WORK FOR ANYWHERE AROUND INTERNET (DONT NEED TO BE IN THE SAME FOLDER) AND WORK FOR COUPLE TIMES (I MEAN COUPLE LICENSE KEY)\n\nAcceptance Criteria\neverything above.\n(python script, and webpage, and database(whitelist))",
         "author": "origaming1",
-        "posted_time": "24 minutes ago",
+        "posted_time": "34 minutes ago",
         "link": "https://replit.com/bounties/@origaming1/a-web-page-that-conn?t="
     }
 ]
