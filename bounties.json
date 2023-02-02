@@ -5526,7 +5526,7 @@
         "title": "Swordbattle v2 packet system - p1",
         "description": "Convert the swordbattle v2 packet system from JSON to binary, and make it more efficient. Post the updated code as a PR on Github.",
         "author": "CoderGautamYT",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-packe?t="
     },
     {
@@ -5596,7 +5596,7 @@
         "title": "Add a reference code to a link",
         "description": "I am looking for a tool on a landing page where I can enter a URL then press one of two buttons in order to have one of two reference links added into the URL.\n\nThe entered links will always be in this format:\nhttps://parking.airgarage.com/spot/973/?rentalType=monthly (973 will always be a 3 digit string of numbers, but it will not always be those exact digits).\n\nThe reference code will need to be added between the \"?\" and \"rentalType=monthly\"\nWhen I input the code, I would like to be able to press a button that determines which reference code will be added into the URL. The two buttons should say 'FELIPE' and 'SAMUEL'.\n\nIf I press FELIPE, the reference code to be added is ref=bdr-felipe&\nIf I press SAMUEL, the reference code to be added is ref=bdr-sam&\n\nA completed link will look like this:\nFELIPE: https://parking.airgarage.com/spot/973/?ref=bdr-felipe&rentalType=monthly\nSAMUEL: https://parking.airgarage.com/spot/973/?ref=bdr-sam&rentalType=monthly\n\nAcceptance Crit...",
         "author": "BryanSbriglia",
-        "posted_time": "55 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@BryanSbriglia/add-a-reference-code?t="
     },
     {
@@ -5606,7 +5606,17 @@
         "title": "Get Chess game pgn and embed code from url",
         "description": "Description: I would like an automation (using Make.com), that takes in a webhook (with chess game url, either Lichess.org or Chess.com) and returns both the pgn and embed code as fields (into an airtable). I've attempted to do this with Browse.ai, and think a similar tool would work.\n\nRequirements: Must be experienced in airtable, make.com, and scraping\n\nTechnical details:  Happy to provide additional technical details / access after acceptance",
         "author": "GabeB5",
-        "posted_time": "49 minutes ago",
+        "posted_time": "58 minutes ago",
         "link": "https://replit.com/bounties/@GabeB5/get-chess-game-pgn-a?t="
+    },
+    {
+        "index": "561",
+        "price": "$4.50",
+        "due_days": "due in 5 days",
+        "title": "Flipping animation",
+        "description": "I have a project where there are multiple tables. If you click on the cell on a table, the word gets shown/hidden.\nI want a flipping animation to be shown.\nExample table is: https://discipulis.vulcanwm.repl.co/verb/ascendo\n\nAcceptance Criteria\nI want a flipping animation to be shown when the user clicks on a cell\nI want a half flipping animation to be shown when the user hovers over a cell\nThe animation should work with the tablehideall() and the tableshowall() functions.\nYou need to be able to create a pull request on the GitHub repo to submit the code\nThe flipping animation should work on every browser, and on mobile and laptop\n\nTechnical Details\nThe backend of the website is written in Python, but the flip function is written in Vanilla JS, and you can use JS or CSS to create the animation.\n\nLink to Project\nI will add the bounty hunter to the GitHub repo when I select them.\n\nQuestions?\nEmail me at [email\u00a0protected] if you have any questions",
+        "author": "VulcanWM",
+        "posted_time": "8 minutes ago",
+        "link": "https://replit.com/bounties/@VulcanWM/flipping-animation?t="
     }
 ]

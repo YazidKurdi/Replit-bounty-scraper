@@ -4429,7 +4429,7 @@ Technical Details
 Current setup here: https://www.dropbox.com/scl/fo/kuf5a1w5gzoxrusgl9y1x/h?dl=0&rlkey=mbthrc7h2ndo08etm8vjfzqia
 
 Let me know if you need anything else and can provide additional details.",ChrisYork,6 hours ago,https://replit.com/bounties/@ChrisYork/need-help-with-finis?t=
-552,$45.00,due in 12 days,Swordbattle v2 packet system - p1,"Convert the swordbattle v2 packet system from JSON to binary, and make it more efficient. Post the updated code as a PR on Github.",CoderGautamYT,5 hours ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-packe?t=
+552,$45.00,due in 12 days,Swordbattle v2 packet system - p1,"Convert the swordbattle v2 packet system from JSON to binary, and make it more efficient. Post the updated code as a PR on Github.",CoderGautamYT,6 hours ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-packe?t=
 553,$54.00,due in 13 days,Import our NPM package for auto-updates use on Replit,"We want to have our NPM package available for users as a template in Replit with an easy to see view of the experience. You'll import the NPM package from github, and setup a basic page.
 
 Details are in the documentation here: https://docs.replit.com/programming-ide/using-git-on-replit/import-repository
@@ -4500,9 +4500,28 @@ A completed link will look like this:
 FELIPE: https://parking.airgarage.com/spot/973/?ref=bdr-felipe&rentalType=monthly
 SAMUEL: https://parking.airgarage.com/spot/973/?ref=bdr-sam&rentalType=monthly
 
-Acceptance Crit...",BryanSbriglia,55 minutes ago,https://replit.com/bounties/@BryanSbriglia/add-a-reference-code?t=
+Acceptance Crit...",BryanSbriglia,1 hour ago,https://replit.com/bounties/@BryanSbriglia/add-a-reference-code?t=
 560,$45.00,due in 3 days,Get Chess game pgn and embed code from url,"Description: I would like an automation (using Make.com), that takes in a webhook (with chess game url, either Lichess.org or Chess.com) and returns both the pgn and embed code as fields (into an airtable). I've attempted to do this with Browse.ai, and think a similar tool would work.
 
 Requirements: Must be experienced in airtable, make.com, and scraping
 
-Technical details:  Happy to provide additional technical details / access after acceptance",GabeB5,49 minutes ago,https://replit.com/bounties/@GabeB5/get-chess-game-pgn-a?t=
+Technical details:  Happy to provide additional technical details / access after acceptance",GabeB5,58 minutes ago,https://replit.com/bounties/@GabeB5/get-chess-game-pgn-a?t=
+561,$4.50,due in 5 days,Flipping animation,"I have a project where there are multiple tables. If you click on the cell on a table, the word gets shown/hidden.
+I want a flipping animation to be shown.
+Example table is: https://discipulis.vulcanwm.repl.co/verb/ascendo
+
+Acceptance Criteria
+I want a flipping animation to be shown when the user clicks on a cell
+I want a half flipping animation to be shown when the user hovers over a cell
+The animation should work with the tablehideall() and the tableshowall() functions.
+You need to be able to create a pull request on the GitHub repo to submit the code
+The flipping animation should work on every browser, and on mobile and laptop
+
+Technical Details
+The backend of the website is written in Python, but the flip function is written in Vanilla JS, and you can use JS or CSS to create the animation.
+
+Link to Project
+I will add the bounty hunter to the GitHub repo when I select them.
+
+Questions?
+Email me at [email protected] if you have any questions",VulcanWM,8 minutes ago,https://replit.com/bounties/@VulcanWM/flipping-animation?t=
