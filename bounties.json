@@ -5486,7 +5486,7 @@
         "title": "next.js 13 { app } AI Pick Up Line generator",
         "description": "Acceptance Criteria\nUses Next.js 13 app\nGenerates pick up lines (using gpt3)\nUser clicks button, and pick up line is generated\nWebsite looks presentable\nTailwind preferred\nI'll need the code :)",
         "author": "aidantorrence",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/nextjs-13-app-ai-pic?t="
     },
     {
@@ -5536,7 +5536,7 @@
         "title": "Import our NPM package for auto-updates use on Replit",
         "description": "We want to have our NPM package available for users as a template in Replit with an easy to see view of the experience. You'll import the NPM package from github, and setup a basic page.\n\nDetails are in the documentation here: https://docs.replit.com/programming-ide/using-git-on-replit/import-repository\nPackage is here: https://www.npmjs.com/package/@getmash/client-sdk OR https://github.com/getmash/mash-js\n\nAcceptance Criteria\nImport the NPM package to a template repl with commands/details outlined to setup + configure\nHave it run/work in Replit to do some basic experimentation\nCreate a basic page that includes a few Mash components such as\nA secret button from our widgets page (details at docs.getmash.com)\nA secret video, potentially a rick-roll experiences (details at docs.getmash.com)\nA donation button using the Mash SDK (details in the NPM package)\nThe Wallet Button / Mash details loaded into a repl so folks can contribute (details in the NPM package)\nAbility fo...",
         "author": "jarednxx",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@jarednxx/import-our-npm-packa?t="
     },
     {
@@ -5566,7 +5566,7 @@
         "title": "A web page that connects to a python file and database",
         "description": "Hello, i am creating scripts at python and my problem is i need a whitelist, i need a website that when you click on pay with paypal, when payment has been accepted the website will generate a license key and show on the screen, and i want a python script that checking, if the license key is in the license key whitelist. (MUST WORK FOR ANYWHERE AROUND INTERNET (DONT NEED TO BE IN THE SAME FOLDER) AND WORK FOR COUPLE TIMES (I MEAN COUPLE LICENSE KEY)\n\nAcceptance Criteria\neverything above.\n(python script, and webpage, and database(whitelist))",
         "author": "origaming1",
-        "posted_time": "34 minutes ago",
+        "posted_time": "53 minutes ago",
         "link": "https://replit.com/bounties/@origaming1/a-web-page-that-conn?t="
     }
 ]
