@@ -5476,7 +5476,7 @@
         "title": "create a next.js 13 {app} website that detects whether the input is legitimate",
         "description": "could be a website, business, etc.  should take an input and then determine whether it is legitimate.\n\ne.g. \" is better baller brand legit?\", or \" is walmart legit?\", or \"is shoes.com legit?\"\n\nAcceptance Criteria\nProbably simple GPT3 query\nmust be presentable\ntailwind preferred\nwebpage should accept an input text and respond whether it is legit.",
         "author": "aidantorrence",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/create-a-nextjs-13-a-3?t="
     },
     {
@@ -5496,7 +5496,7 @@
         "title": "Return order data from the BrightPearl API",
         "description": "I'd like a tool where the user can enter an order number or goods out note and then using the BrightPearl API, the following data is returned:\n\nname, address, order date, items ordered, courier name, tracking link, despatch date, email address.\n\nI'd like it returned as a webhook.\n\nHere are the BrightPearl API docs:\nhttps://api-docs.brightpearl.com/",
         "author": "AndrewShowman",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/return-order-data-fr?t="
     },
     {
@@ -5508,5 +5508,15 @@
         "author": "ShubhKathuria",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@ShubhKathuria/add-authentication-t?t="
+    },
+    {
+        "index": "551",
+        "price": "$18.00",
+        "due_days": "due in 4 days",
+        "title": "Need help with finishing SQL integration of Missive + Retool + Airtable CRM",
+        "description": "I'm trying to create the Retool-Missive integration outlined in this page: https://missiveapp.com/blog/retool-tutorial, but instead of using Google Sheets, my CRM data is in Airtable. I've tried to follow the steps as much as I could, but it doesn't display properly. I'm absolutely clueless when it comes to databases so I'm stuck in this area.\n\nAcceptance Criteria\nIntegration should look like the pic on the page.\nTechnical Details\nCurrent setup here: https://www.dropbox.com/scl/fo/kuf5a1w5gzoxrusgl9y1x/h?dl=0&rlkey=mbthrc7h2ndo08etm8vjfzqia\n\nLet me know if you need anything else and can provide additional details.",
+        "author": "ChrisYork",
+        "posted_time": "6 minutes ago",
+        "link": "https://replit.com/bounties/@ChrisYork/need-help-with-finis?t="
     }
 ]
