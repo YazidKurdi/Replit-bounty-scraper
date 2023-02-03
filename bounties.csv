@@ -4635,7 +4635,7 @@ any logged in user's screen will be available on a public monitor (e.g. a differ
 on the public monitor, there should be an alert button that sends an sms message to your phone number with a message like ""hey you're not working.""  optional, allow users to write a custom message",aidantorrence,11 hours ago,https://replit.com/bounties/@aidantorrence/public-screen-monito?t=
 572,$6.75,due in 6 days,Write string to file in Android (using Okio and AtomicFile),"I need to write a file to disk in Android. I want to do it with okio and atomicFile. This gist should help? https://gist.github.com/ZacSweers/0dfa1b38f23558cfd1a0a391cfab3542
 Acceptance Criteria
-I want a sample of how to write ""hello world"" to disk in android using okio and writing to an atomic File",IdleIdle,10 hours ago,https://replit.com/bounties/@IdleIdle/write-string-to-file?t=
+I want a sample of how to write ""hello world"" to disk in android using okio and writing to an atomic File",IdleIdle,11 hours ago,https://replit.com/bounties/@IdleIdle/write-string-to-file?t=
 573,$18.00,due in 3 days,Compile Code For Extension,"Hi there I am building a chrome extension but have no idea how to compile some code. I urgently need some help just to compile the code! Docker/JS/React/Python…
 
 Acceptance Criteria
@@ -4644,14 +4644,14 @@ Complete me in the next hour!
 
 Technical Details
 
-Link to Project",AshPrabaker1,8 hours ago,https://replit.com/bounties/@AshPrabaker1/compile-code-for-ext?t=
+Link to Project",AshPrabaker1,9 hours ago,https://replit.com/bounties/@AshPrabaker1/compile-code-for-ext?t=
 574,$16.11,due in 3 days,Opencart 4 - Remove Checkout Fields,"We're launching a shop using Opencart 4 but we need to edit the checkout page so only these fields:
 Name
 Phone Number
 Address
 
 Acceptance Criteria
-Either a plugin that removes this or the edited files from opencart that remove the other fields.",oAkeDCH,8 hours ago,https://replit.com/bounties/@oAkeDCH/opencart-4-remove-ch?t=
+Either a plugin that removes this or the edited files from opencart that remove the other fields.",oAkeDCH,9 hours ago,https://replit.com/bounties/@oAkeDCH/opencart-4-remove-ch?t=
 575,$108.00,due in 13 days,Boilerplate Swift App to demonstrate a security flaw,"I want to build a small swift mobile app (mostly boilerplate) with minimal custom functionality.
 There needs to be a feature that allows the user to sign up for the app, and the user's password needs to be hashed with SHA256 without salts
 There needs to be a commented version of the same feature where we use scrypt to hash the user's password
@@ -4683,7 +4683,7 @@ Technical Details
 I need this solution coded in Python without using Selenium, because it needs to be done in less than one second.
 
 Link to Project
-I just need the code. No need for a Repl.",Klaudioz,2 hours ago,https://replit.com/bounties/@Klaudioz/simple-python-websit?t=
+I just need the code. No need for a Repl.",Klaudioz,3 hours ago,https://replit.com/bounties/@Klaudioz/simple-python-websit?t=
 578,$900.00,due in 6 days,AI tool web app,"We already have a working AI app. Now we just need a front end cleanup and user capabilities. Here is the scope in more detail:
 FEATURE LIST
 
@@ -4696,12 +4696,29 @@ Users need the ability to download images one at a time not just all at once. Wh
 Example CSS
 : background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(image.png);
 Watermarking Images
-All of our photos should be watermarked UNTIL the user hovers over a photo and clicks “Download”. The downloaded asset will be the full resolution version of the asset without a watermark. The purpose of the watermark is to ensure that people don’t just screenshot the images. That behavior would sever...",RamonBerrios,15 minutes ago,https://replit.com/bounties/@RamonBerrios/ai-tool-web-app?t=
-579,$0.90,closed,House in CSS,"make a house in html,css,js without images",Fairies0feast,13 minutes ago,https://replit.com/bounties/@Fairies0feast/house-in-css?t=
+All of our photos should be watermarked UNTIL the user hovers over a photo and clicks “Download”. The downloaded asset will be the full resolution version of the asset without a watermark. The purpose of the watermark is to ensure that people don’t just screenshot the images. That behavior would sever...",RamonBerrios,42 minutes ago,https://replit.com/bounties/@RamonBerrios/ai-tool-web-app?t=
+579,$0.90,closed,House in CSS,"make a house in html,css,js without images",Fairies0feast,40 minutes ago,https://replit.com/bounties/@Fairies0feast/house-in-css?t=
 580,$60.04,due in 13 days,Front end for Existing Auto-Multiplayer share/unshare code,"Simple wireframes and this text to be found in https://replit.com/@DavidAtReplit/DistinctDecimalEmbeds#ui.draw
 
 We have 2x Replit Graph QL Driver code that allows teachers to, en masse, invite multiple people to multiple Repls, and also uninvite them. The use case for this is school-based coursework where the teacher needs to give them access before a lesson or unit of work, and remove access for marking at a later date. This has been done manually, but the wonderful @IanAtReplit has built two Repls that use GraphQL to automate this.
 
 We would like to make this easier for teachers though, so we need a front end that uses ReplDB to store the user's CONNECT_SID as a login process (or extract it from the cookie automatically as in https://replit.com/@IroncladDev/extract-sid), then allows them to create groups, within each group either manually add multiple (repl-link, user-email, user-name) or upload a csv with the same - save this data in Repl db.
 
-Each team should t...",DavidAtReplit,2 minutes ago,https://replit.com/bounties/@DavidAtReplit/front-end-for-existi?t=
+Each team should t...",DavidAtReplit,29 minutes ago,https://replit.com/bounties/@DavidAtReplit/front-end-for-existi?t=
+581,$100.80,due in 3 days,Shopify app new feature,"I have a new edit discount page for when a user clicks into a custom discount code that has already been made in the shopify admin.
+It currently renders a page identical to the create discount page
+
+What I need:
+The ability for the shop owner to see details of the discount code and the ability to delete it on this new 'edit discount page'
+
+Ideally in the future it would mimic the original shopify edit page for normal discounts so the user can edit all the fields. But for MVP just a page where they can see the details of the discount and the ability to delete it would be fine for now.
+
+Acceptance Criteria
+User goes to shopify admin
+User clicks on discounts section
+User clicks on custom discount
+User taken to an edit page where they can see the discount summary and have the ability to delete the discount
+
+Technical Details
+Should be one graphql call to get the discount code and display the deets using components from the create page
+And then one mutation to delete the...",SamuelAbaka-Woo,15 minutes ago,https://replit.com/bounties/@SamuelAbaka-Woo/shopify-app-new-feat?t=

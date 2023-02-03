@@ -5726,7 +5726,7 @@
         "title": "Write string to file in Android (using Okio and AtomicFile)",
         "description": "I need to write a file to disk in Android. I want to do it with okio and atomicFile. This gist should help? https://gist.github.com/ZacSweers/0dfa1b38f23558cfd1a0a391cfab3542\nAcceptance Criteria\nI want a sample of how to write \"hello world\" to disk in android using okio and writing to an atomic File",
         "author": "IdleIdle",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@IdleIdle/write-string-to-file?t="
     },
     {
@@ -5736,7 +5736,7 @@
         "title": "Compile Code For Extension",
         "description": "Hi there I am building a chrome extension but have no idea how to compile some code. I urgently need some help just to compile the code! Docker/JS/React/Python\u2026\n\nAcceptance Criteria\nCode is compiled such that extension is now laodable\nComplete me in the next hour!\n\nTechnical Details\n\nLink to Project",
         "author": "AshPrabaker1",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@AshPrabaker1/compile-code-for-ext?t="
     },
     {
@@ -5746,7 +5746,7 @@
         "title": "Opencart 4 - Remove Checkout Fields",
         "description": "We're launching a shop using Opencart 4 but we need to edit the checkout page so only these fields:\nName\nPhone Number\nAddress\n\nAcceptance Criteria\nEither a plugin that removes this or the edited files from opencart that remove the other fields.",
         "author": "oAkeDCH",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@oAkeDCH/opencart-4-remove-ch?t="
     },
     {
@@ -5776,7 +5776,7 @@
         "title": "Simple Python website scraping",
         "description": "I need to scrape https://instantdomainsearch.com/ and detect one color from the site.\nExample:\nhttps://instantdomainsearch.com/?q=hello.app shows hello.app with color #3286DC (blue)\nhttps://instantdomainsearch.com/?q=hello.app shows hello.com with color #ED004E (red)\n\nApplications showing code/ideas are the best. Also, I'd like to have it today.\n\nAcceptance Criteria\nGet the color for any domain https://instantdomainsearch.com/?q=WEBSITE\n\nTechnical Details\nI need this solution coded in Python without using Selenium, because it needs to be done in less than one second.\n\nLink to Project\nI just need the code. No need for a Repl.",
         "author": "Klaudioz",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@Klaudioz/simple-python-websit?t="
     },
     {
@@ -5786,7 +5786,7 @@
         "title": "AI tool web app",
         "description": "We already have a working AI app. Now we just need a front end cleanup and user capabilities. Here is the scope in more detail:\nFEATURE LIST\n\nSign in / Log In\nUsers will be able to sign up or log in to use the AI tool. For now we won\u2019t worry about a forgot password feature for login. Let\u2019s just get something up and running.\n\nDownloading Individual Images\nUsers need the ability to download images one at a time not just all at once. When the user hovers their cursor over an images we will show a 50% opacity black overlay with the word download written over the asset.\n\nExample CSS\n:\u2028background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(image.png);\nWatermarking Images\nAll of our photos should be watermarked UNTIL the user hovers over a photo and clicks \u201cDownload\u201d. The downloaded asset will be the full resolution version of the asset without a watermark.\u2028The purpose of the watermark is to ensure that people don\u2019t just screenshot the images. That behavior would sever...",
         "author": "RamonBerrios",
-        "posted_time": "15 minutes ago",
+        "posted_time": "42 minutes ago",
         "link": "https://replit.com/bounties/@RamonBerrios/ai-tool-web-app?t="
     },
     {
@@ -5796,7 +5796,7 @@
         "title": "House in CSS",
         "description": "make a house in html,css,js without images",
         "author": "Fairies0feast",
-        "posted_time": "13 minutes ago",
+        "posted_time": "40 minutes ago",
         "link": "https://replit.com/bounties/@Fairies0feast/house-in-css?t="
     },
     {
@@ -5806,7 +5806,17 @@
         "title": "Front end for Existing Auto-Multiplayer share/unshare code",
         "description": "Simple wireframes and this text to be found in https://replit.com/@DavidAtReplit/DistinctDecimalEmbeds#ui.draw\n\nWe have 2x Replit Graph QL Driver code that allows teachers to, en masse, invite multiple people to multiple Repls, and also uninvite them. The use case for this is school-based coursework where the teacher needs to give them access before a lesson or unit of work, and remove access for marking at a later date. This has been done manually, but the wonderful @IanAtReplit has built two Repls that use GraphQL to automate this.\n\nWe would like to make this easier for teachers though, so we need a front end that uses ReplDB to store the user's CONNECT_SID as a login process (or extract it from the cookie automatically as in https://replit.com/@IroncladDev/extract-sid), then allows them to create groups, within each group either manually add multiple (repl-link, user-email, user-name) or upload a csv with the same - save this data in Repl db.\n\nEach team should t...",
         "author": "DavidAtReplit",
-        "posted_time": "2 minutes ago",
+        "posted_time": "29 minutes ago",
         "link": "https://replit.com/bounties/@DavidAtReplit/front-end-for-existi?t="
+    },
+    {
+        "index": "581",
+        "price": "$100.80",
+        "due_days": "due in 3 days",
+        "title": "Shopify app new feature",
+        "description": "I have a new edit discount page for when a user clicks into a custom discount code that has already been made in the shopify admin.\nIt currently renders a page identical to the create discount page\n\nWhat I need:\nThe ability for the shop owner to see details of the discount code and the ability to delete it on this new 'edit discount page'\n\nIdeally in the future it would mimic the original shopify edit page for normal discounts so the user can edit all the fields. But for MVP just a page where they can see the details of the discount and the ability to delete it would be fine for now.\n\nAcceptance Criteria\nUser goes to shopify admin\nUser clicks on discounts section\nUser clicks on custom discount\nUser taken to an edit page where they can see the discount summary and have the ability to delete the discount\n\nTechnical Details\nShould be one graphql call to get the discount code and display the deets using components from the create page\nAnd then one mutation to delete the...",
+        "author": "SamuelAbaka-Woo",
+        "posted_time": "15 minutes ago",
+        "link": "https://replit.com/bounties/@SamuelAbaka-Woo/shopify-app-new-feat?t="
     }
 ]
