@@ -4573,7 +4573,7 @@ The extension should take the schema into account when generating queries and ge
 
 Technical Details
 
-The most straightforward way to implement the extension is to use C and query the OpenAI API using libcurl. Other languages (such as Go or Rust) may also be used. ChatGPT can gen...",StasKelvich,9 hours ago,https://replit.com/bounties/@StasKelvich/postgres-gpt-extensi?t=
+The most straightforward way to implement the extension is to use C and query the OpenAI API using libcurl. Other languages (such as Go or Rust) may also be used. ChatGPT can gen...",StasKelvich,10 hours ago,https://replit.com/bounties/@StasKelvich/postgres-gpt-extensi?t=
 566,$45.00,due in 2 months,"Javascript function, runnable on chrome console, to highlight sentence by sentence on kindle (read.amazon.com).","On read.amazon.com, the web version of kindle. I want to highlight a sentence and toggle to next/previous sentence by space and shift + space respectively.
 
 loom demo: https://www.loom.com/share/33851e5c8c064b56a0777bfb6a472d7a
@@ -4601,7 +4601,7 @@ i want the user to be able to upload a csv file with two columns
 	https://platform.openai.com/docs/guides/embeddings/use-cases
 	create text embeddings, save them and train a model for inference
 a screen for the project to input text to generate a result using the trained inference
-	this should have a share...",ShaneBurkhart,4 hours ago,https://replit.com/bounties/@ShaneBurkhart/web-application-for?t=
+	this should have a share...",ShaneBurkhart,5 hours ago,https://replit.com/bounties/@ShaneBurkhart/web-application-for?t=
 568,$50.00,closed,Get this repo to deploy on Vercel so I can play around with it,"Hi! I forked a website that I want to play around with but can't get it to deploy on Vercel. This is the GitHub repo: https://github.com/juandolealt/winXP
 
 I don't know how to code but am in the process of learning & would love to use this as a base / playground for me to go off of! I just want to get it to deploy successfully, but keep getting a bunch of errors.
@@ -4635,4 +4635,4 @@ any logged in user's screen will be available on a public monitor (e.g. a differ
 on the public monitor, there should be an alert button that sends an sms message to your phone number with a message like ""hey you're not working.""  optional, allow users to write a custom message",aidantorrence,2 hours ago,https://replit.com/bounties/@aidantorrence/public-screen-monito?t=
 572,$6.75,due in 7 days,Write string to file in Android (using Okio and AtomicFile),"I need to write a file to disk in Android. I want to do it with okio and atomicFile. This gist should help? https://gist.github.com/ZacSweers/0dfa1b38f23558cfd1a0a391cfab3542
 Acceptance Criteria
-I want a sample of how to write ""hello world"" to disk in android using okio and writing to an atomic File",IdleIdle,55 minutes ago,https://replit.com/bounties/@IdleIdle/write-string-to-file?t=
+I want a sample of how to write ""hello world"" to disk in android using okio and writing to an atomic File",IdleIdle,1 hour ago,https://replit.com/bounties/@IdleIdle/write-string-to-file?t=
