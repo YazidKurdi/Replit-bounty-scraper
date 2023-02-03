@@ -5746,7 +5746,7 @@
         "title": "Opencart 4 - Remove Checkout Fields",
         "description": "We're launching a shop using Opencart 4 but we need to edit the checkout page so only these fields:\nName\nPhone Number\nAddress\n\nAcceptance Criteria\nEither a plugin that removes this or the edited files from opencart that remove the other fields.",
         "author": "oAkeDCH",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@oAkeDCH/opencart-4-remove-ch?t="
     }
 ]
