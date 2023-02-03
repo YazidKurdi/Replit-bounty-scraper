@@ -4787,7 +4787,7 @@ The Email Template should also be optimized for mobile viewing as well.
 Technical Details
 The current HTML file can be found here: https://replit.com/@Dprevoznik/And-Action#templates/email-template.html
 
-I am really open to a totally new design. I am not married to colors / layout at all. It should be polis...",Dprevoznik,60 minutes ago,https://replit.com/bounties/@Dprevoznik/new-email-template-d?t=
+I am really open to a totally new design. I am not married to colors / layout at all. It should be polis...",Dprevoznik,1 hour ago,https://replit.com/bounties/@Dprevoznik/new-email-template-d?t=
 587,$180.00,due in 11 days,Shopify Product + Literature Scraper,"Shopify Product + Literature Scraper
 Scrape all shopify product and literature available given a shop url.
 Product Requirements
@@ -4805,4 +4805,4 @@ You can get access to shopify store's products via: shop_url/products.json, e.g.
                 url=url,
                 img_url=product""images""[""src""],
             )
-In general this information will directly be able to be extracted from the json file listed in the URL. However, there are some cases like: h...",RaymondYuan2,7 minutes ago,https://replit.com/bounties/@RaymondYuan2/shopify-product-lite?t=
+In general this information will directly be able to be extracted from the json file listed in the URL. However, there are some cases like: h...",RaymondYuan2,17 minutes ago,https://replit.com/bounties/@RaymondYuan2/shopify-product-lite?t=
