@@ -5682,11 +5682,11 @@
     {
         "index": "568",
         "price": "$50.00",
-        "due_days": "due in 6 days",
+        "due_days": "closed",
         "title": "Get this repo to deploy on Vercel so I can play around with it",
         "description": "Hi! I forked a website that I want to play around with but can't get it to deploy on Vercel. This is the GitHub repo: https://github.com/juandolealt/winXP\n\nI don't know how to code but am in the process of learning & would love to use this as a base / playground for me to go off of! I just want to get it to deploy successfully, but keep getting a bunch of errors.\n\nThank you!\n\nAcceptance Criteria\nA pull request (or pull requests) fixing all of the issues in GitHub so that it'll deploy on Vercel (fixing unmet peer dependencies so that there will be no warnings).\nAn explanation for a beginner on why this isn't deploying and what I can do with future projects to ensure I don't run into the same issue! Any resources are incredibly helpful here.",
         "author": "juanderer",
-        "posted_time": "53 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@juanderer/get-this-repo-to-dep?t="
     },
     {
@@ -5696,7 +5696,7 @@
         "title": "reply to emails using gpt3 and chrome extension",
         "description": "We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add replies:\n\nyou go to a thread and see options for tones (Formal/Casual), Afiirmation (Interested/Not interested), and then click write.\nbased on the context of the message above and the options you choose, a specific prompt should go to the API, which will then generate a response.\nThe response should then be injected into the reply window.\nYou have to implement the buttons, reading of the message above, interacting with the API and injecting into gmail.\n\nAcceptance Criteria\nmust meet UI/UX requirements.\n\nTechnical Details\nChrome extension v3.\n\nLink to Project",
         "author": "ShubhKathuria",
-        "posted_time": "50 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@ShubhKathuria/reply-to-emails-usin?t="
     },
     {
@@ -5706,7 +5706,7 @@
         "title": "Create a template repl for building web games",
         "description": "Working with team members to create web based games using replit auth, replit db, socket.io, and express. This bounty is to allow me to compensate them for augmenting an existing repl to become a template for building web based games with login, replit db, etc.\n\nAcceptance Criteria\nThe criteria has been discussed offline.",
         "author": "triptych",
-        "posted_time": "30 minutes ago",
+        "posted_time": "45 minutes ago",
         "link": "https://replit.com/bounties/@triptych/create-a-template-re?t="
     },
     {
@@ -5716,7 +5716,7 @@
         "title": "Public Screen Monitor",
         "description": "Acceptance Criteria\nscreen monitoring website where you login, add your phone number, and you can share your screen.\nany logged in user's screen will be available on a public monitor (e.g. a different route within the web-app).\non the public monitor, there should be an alert button that sends an sms message to your phone number with a message like \"hey you're not working.\"  optional, allow users to write a custom message",
         "author": "aidantorrence",
-        "posted_time": "12 minutes ago",
+        "posted_time": "27 minutes ago",
         "link": "https://replit.com/bounties/@aidantorrence/public-screen-monito?t="
     }
 ]
