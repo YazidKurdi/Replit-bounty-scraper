@@ -4660,7 +4660,7 @@ Acceptance Criteria
 Standard Swift Boilerplate of any mobile app type
 Feature that is a user sign up feature where the user's first name, last name, email and password are used
 The password needs to be hashed and stored in a local database with SHA256 (insecure)
-there needs to be commented functionality that hashes the user password with scrypt (secure version)",AbhayBhargav1,3 hours ago,https://replit.com/bounties/@AbhayBhargav1/boilerplate-swift-ap?t=
+there needs to be commented functionality that hashes the user password with scrypt (secure version)",AbhayBhargav1,4 hours ago,https://replit.com/bounties/@AbhayBhargav1/boilerplate-swift-ap?t=
 576,$450.00,due in 11 days,Financial engine for data analysis,"A financial engine that gathers financials from key sources like https://www.sec.gov/edgar/search-and-access and enables the user to prompt ask data questions and get answers in both text and tables.
 
 Acceptance Criteria
@@ -4683,4 +4683,4 @@ Technical Details
 I need this solution coded in Python without using Selenium, because it needs to be done in less than one second.
 
 Link to Project
-I just need the code. No need for a Repl.",Klaudioz,34 minutes ago,https://replit.com/bounties/@Klaudioz/simple-python-websit?t=
+I just need the code. No need for a Repl.",Klaudioz,44 minutes ago,https://replit.com/bounties/@Klaudioz/simple-python-websit?t=

@@ -5756,7 +5756,7 @@
         "title": "Boilerplate Swift App to demonstrate a security flaw",
         "description": "I want to build a small swift mobile app (mostly boilerplate) with minimal custom functionality.\nThere needs to be a feature that allows the user to sign up for the app, and the user's password needs to be hashed with SHA256 without salts\nThere needs to be a commented version of the same feature where we use scrypt to hash the user's password\n\nAcceptance Criteria\nStandard Swift Boilerplate of any mobile app type\nFeature that is a user sign up feature where the user's first name, last name, email and password are used\nThe password needs to be hashed and stored in a local database with SHA256 (insecure)\nthere needs to be commented functionality that hashes the user password with scrypt (secure version)",
         "author": "AbhayBhargav1",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@AbhayBhargav1/boilerplate-swift-ap?t="
     },
     {
@@ -5776,7 +5776,7 @@
         "title": "Simple Python website scraping",
         "description": "I need to scrape https://instantdomainsearch.com/ and detect one color from the site.\nExample:\nhttps://instantdomainsearch.com/?q=hello.app shows hello.app with color #3286DC (blue)\nhttps://instantdomainsearch.com/?q=hello.app shows hello.com with color #ED004E (red)\n\nApplications showing code/ideas are the best. Also, I'd like to have it today.\n\nAcceptance Criteria\nGet the color for any domain https://instantdomainsearch.com/?q=WEBSITE\n\nTechnical Details\nI need this solution coded in Python without using Selenium, because it needs to be done in less than one second.\n\nLink to Project\nI just need the code. No need for a Repl.",
         "author": "Klaudioz",
-        "posted_time": "34 minutes ago",
+        "posted_time": "44 minutes ago",
         "link": "https://replit.com/bounties/@Klaudioz/simple-python-websit?t="
     }
 ]
