@@ -5652,7 +5652,7 @@
     {
         "index": "565",
         "price": "$450.00",
-        "due_days": "due in 3 days",
+        "due_days": "due in 26 days",
         "title": "Postgres GPT extension",
         "description": "Project Description\n\nDevelop a Postgres extension (pg_gpt) that uses the OpenAI API to generate SQL queries from natural language descriptions and explain SQL queries using natural text. The extension should provide the following functions:\n\ngpt.query('average user age', execute => true) - generates a query and optionally executes it.\ngpt.explain('select * from users') - explains a query in natural language.\ngpt.explain_plan('select * from users') - explains a query plan in natural language.\n\nThe extension should be aware of the current database schema and use it in queries.\n\nAcceptance Criteria\n\nThe extension should take the schema into account when generating queries and generate relevant results. For tests we will use the airlines demo database (https://postgrespro.com/community/demodb).\n\nTechnical Details\n\nThe most straightforward way to implement the extension is to use C and query the OpenAI API using libcurl. Other languages (such as Go or Rust) may also be used. ChatGPT can gen...",
         "author": "StasKelvich",
@@ -5666,7 +5666,7 @@
         "title": "Javascript function, runnable on chrome console, to highlight sentence by sentence on kindle (read.amazon.com).",
         "description": "On read.amazon.com, the web version of kindle. I want to highlight a sentence and toggle to next/previous sentence by space and shift + space respectively.\n\nloom demo: https://www.loom.com/share/33851e5c8c064b56a0777bfb6a472d7a\n\nAcceptance Criteria\nExpected work flow: I load the page, and inspect chrome console and inject the javascript function. I press \"space\" and the first sentence on the page is highlighted.\nI pressed \"space\" again, the second sentence is highlighted and the first sentence is un-highlighted.\nHas to work on read.amazon.com on chrome browser.\n\nPlease comment on this post, or email me [email\u00a0protected] for any clarifications.",
         "author": "ranhoho",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@ranhoho/javascript-function?t="
     },
     {
@@ -5736,7 +5736,7 @@
         "title": "Compile Code For Extension",
         "description": "Hi there I am building a chrome extension but have no idea how to compile some code. I urgently need some help just to compile the code! Docker/JS/React/Python\u2026\n\nAcceptance Criteria\nCode is compiled such that extension is now laodable\nComplete me in the next hour!\n\nTechnical Details\n\nLink to Project",
         "author": "AshPrabaker1",
-        "posted_time": "47 minutes ago",
+        "posted_time": "60 minutes ago",
         "link": "https://replit.com/bounties/@AshPrabaker1/compile-code-for-ext?t="
     },
     {
@@ -5746,7 +5746,7 @@
         "title": "Opencart 4 - Remove Checkout Fields",
         "description": "We're launching a shop using Opencart 4 but we need to edit the checkout page so only these fields:\nName\nPhone Number\nAddress\n\nAcceptance Criteria\nEither a plugin that removes this or the edited files from opencart that remove the other fields.",
         "author": "oAkeDCH",
-        "posted_time": "33 minutes ago",
+        "posted_time": "45 minutes ago",
         "link": "https://replit.com/bounties/@oAkeDCH/opencart-4-remove-ch?t="
     }
 ]

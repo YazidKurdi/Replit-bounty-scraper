@@ -4557,7 +4557,7 @@ Edits the provided code such that the functionality of the chrome extension rema
 Technical Details
 
 React/JS",AshPrabaker1,11 hours ago,https://replit.com/bounties/@AshPrabaker1/chrome-extension-sho?t=
-565,$450.00,due in 3 days,Postgres GPT extension,"Project Description
+565,$450.00,due in 26 days,Postgres GPT extension,"Project Description
 
 Develop a Postgres extension (pg_gpt) that uses the OpenAI API to generate SQL queries from natural language descriptions and explain SQL queries using natural text. The extension should provide the following functions:
 
@@ -4583,7 +4583,7 @@ Expected work flow: I load the page, and inspect chrome console and inject the j
 I pressed ""space"" again, the second sentence is highlighted and the first sentence is un-highlighted.
 Has to work on read.amazon.com on chrome browser.
 
-Please comment on this post, or email me [email protected] for any clarifications.",ranhoho,7 hours ago,https://replit.com/bounties/@ranhoho/javascript-function?t=
+Please comment on this post, or email me [email protected] for any clarifications.",ranhoho,8 hours ago,https://replit.com/bounties/@ranhoho/javascript-function?t=
 567,$135.00,due in 7 days,web application for users to create openai text embedding regression models,"i want a website where users can signup and pay $30/months to create projects where they can upload csv of text and number value pairs. it generates a regression model using open ai text embeddings. they get a simple interface they can share with other to get an estimate of their text input
 
 Acceptance Criteria
@@ -4644,11 +4644,11 @@ Complete me in the next hour!
 
 Technical Details
 
-Link to Project",AshPrabaker1,47 minutes ago,https://replit.com/bounties/@AshPrabaker1/compile-code-for-ext?t=
+Link to Project",AshPrabaker1,60 minutes ago,https://replit.com/bounties/@AshPrabaker1/compile-code-for-ext?t=
 574,$16.11,due in 4 days,Opencart 4 - Remove Checkout Fields,"We're launching a shop using Opencart 4 but we need to edit the checkout page so only these fields:
 Name
 Phone Number
 Address
 
 Acceptance Criteria
-Either a plugin that removes this or the edited files from opencart that remove the other fields.",oAkeDCH,33 minutes ago,https://replit.com/bounties/@oAkeDCH/opencart-4-remove-ch?t=
+Either a plugin that removes this or the edited files from opencart that remove the other fields.",oAkeDCH,45 minutes ago,https://replit.com/bounties/@oAkeDCH/opencart-4-remove-ch?t=
