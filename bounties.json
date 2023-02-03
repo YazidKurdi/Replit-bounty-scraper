@@ -5806,7 +5806,7 @@
         "title": "Front end for Existing Auto-Multiplayer share/unshare code",
         "description": "Simple wireframes and this text to be found in https://replit.com/@DavidAtReplit/DistinctDecimalEmbeds#ui.draw\n\nWe have 2x Replit Graph QL Driver code that allows teachers to, en masse, invite multiple people to multiple Repls, and also uninvite them. The use case for this is school-based coursework where the teacher needs to give them access before a lesson or unit of work, and remove access for marking at a later date. This has been done manually, but the wonderful @IanAtReplit has built two Repls that use GraphQL to automate this.\n\nWe would like to make this easier for teachers though, so we need a front end that uses ReplDB to store the user's CONNECT_SID as a login process (or extract it from the cookie automatically as in https://replit.com/@IroncladDev/extract-sid), then allows them to create groups, within each group either manually add multiple (repl-link, user-email, user-name) or upload a csv with the same - save this data in Repl db.\n\nEach team should t...",
         "author": "DavidAtReplit",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@DavidAtReplit/front-end-for-existi?t="
     },
     {
@@ -5836,7 +5836,7 @@
         "title": "Next.js + React frontend for AI web application",
         "description": "Overview\n\nA simple web application for teachers to create assignments associated with their classrooms\nUsing Next.js, TailwindUI, Vercel, Supabase, custom API for assignment generation\nTeachers will create classrooms to house assignments\nGenerating assignments consumes arbitrary \u2018tokens\u2019 - every account has a starting amount of them.\n\nWhat\u2019s done\n\nBootstrapped web application with Next.js, deployed to Vercel\nSupabase integration for database and authentication\nApp components / pages\n    Basic landing page\n    Sign in / sign up (hidden)\n    Authenticated dashboard landing page\n    New classroom form (needs some styling work)\n    Classroom details and assignment list (needs some styling work)\n\nWhat\u2019s needed\n\nReview mockups for general guidance on sidebar, page styling\nCreate \u201cview / edit classrooms\u201d page that lists classes and can open modals to edit the details of each one\nSidebar class selector should update the context of the dashboard\nCreate /assignments page to list assignments asso...",
         "author": "aavetis",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@aavetis/nextjs-react-fronten?t="
     },
     {
@@ -5866,7 +5866,17 @@
         "title": "New Email Template Design Needed",
         "description": "I have created a AI-powered newsletter service that sends out a daily email containing GPT3 generated advice based on a popular movie quote. The problem is I am not a fan of the HTML + CSS used in the actual email template. I am looking for someone to design a better looking email template, send me the mockup for approval, and then implement the mockup in HTML + CSS.\n\nAcceptance Criteria\nDesign a mockup of the email template for approval and provide it to me\nIf any changes are required, I will try to keep them minimal, please work with me to update them.\nOnce approved, provide the HTML file that should include all CSS required to match the mockup's styling\nThe Email Template should also be optimized for mobile viewing as well.\n\nTechnical Details\nThe current HTML file can be found here: https://replit.com/@Dprevoznik/And-Action#templates/email-template.html\n\nI am really open to a totally new design. I am not married to colors / layout at all. It should be polis...",
         "author": "Dprevoznik",
-        "posted_time": "51 minutes ago",
+        "posted_time": "60 minutes ago",
         "link": "https://replit.com/bounties/@Dprevoznik/new-email-template-d?t="
+    },
+    {
+        "index": "587",
+        "price": "$180.00",
+        "due_days": "due in 11 days",
+        "title": "Shopify Product + Literature Scraper",
+        "description": "Shopify Product + Literature Scraper\nScrape all shopify product and literature available given a shop url.\nProduct Requirements\nYou can get access to shopify store's products via: shop_url/products.json, e.g. https://usehuron.com/products.json. This will give you a list of products, and we need to scrape the following criteria:\n        url = f\"https://{store.shop_url}/products/{product['handle']}\"\n            Product(\n                store_id=store,\n                handle=product[\"handle\"],\n                title=product[\"title\"],\n                bodyhtml=product[\"bodyhtml\"],\n                status=product.get(\"status\", \"active\"),\n                tags=product[\"tags\"],\n                createdat=product[\"createdat\"],\n                updatedat=product[\"updatedat\"],\n                url=url,\n                img_url=product\"images\"[\"src\"],\n            )\nIn general this information will directly be able to be extracted from the json file listed in the URL. However, there are some cases like: h...",
+        "author": "RaymondYuan2",
+        "posted_time": "7 minutes ago",
+        "link": "https://replit.com/bounties/@RaymondYuan2/shopify-product-lite?t="
     }
 ]
