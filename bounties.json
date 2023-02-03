@@ -5716,7 +5716,7 @@
         "title": "Public Screen Monitor",
         "description": "Acceptance Criteria\nscreen monitoring website where you login, add your phone number, and you can share your screen.\nany logged in user's screen will be available on a public monitor (e.g. a different route within the web-app).\non the public monitor, there should be an alert button that sends an sms message to your phone number with a message like \"hey you're not working.\"  optional, allow users to write a custom message",
         "author": "aidantorrence",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/public-screen-monito?t="
     },
     {
@@ -5726,7 +5726,7 @@
         "title": "Write string to file in Android (using Okio and AtomicFile)",
         "description": "I need to write a file to disk in Android. I want to do it with okio and atomicFile. This gist should help? https://gist.github.com/ZacSweers/0dfa1b38f23558cfd1a0a391cfab3542\nAcceptance Criteria\nI want a sample of how to write \"hello world\" to disk in android using okio and writing to an atomic File",
         "author": "IdleIdle",
-        "posted_time": "14 minutes ago",
+        "posted_time": "35 minutes ago",
         "link": "https://replit.com/bounties/@IdleIdle/write-string-to-file?t="
     }
 ]

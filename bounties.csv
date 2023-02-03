@@ -4632,7 +4632,7 @@ The criteria has been discussed offline.",triptych,2 hours ago,https://replit.co
 571,$50.00,due in 13 days,Public Screen Monitor,"Acceptance Criteria
 screen monitoring website where you login, add your phone number, and you can share your screen.
 any logged in user's screen will be available on a public monitor (e.g. a different route within the web-app).
-on the public monitor, there should be an alert button that sends an sms message to your phone number with a message like ""hey you're not working.""  optional, allow users to write a custom message",aidantorrence,1 hour ago,https://replit.com/bounties/@aidantorrence/public-screen-monito?t=
+on the public monitor, there should be an alert button that sends an sms message to your phone number with a message like ""hey you're not working.""  optional, allow users to write a custom message",aidantorrence,2 hours ago,https://replit.com/bounties/@aidantorrence/public-screen-monito?t=
 572,$6.75,due in 7 days,Write string to file in Android (using Okio and AtomicFile),"I need to write a file to disk in Android. I want to do it with okio and atomicFile. This gist should help? https://gist.github.com/ZacSweers/0dfa1b38f23558cfd1a0a391cfab3542
 Acceptance Criteria
-I want a sample of how to write ""hello world"" to disk in android using okio and writing to an atomic File",IdleIdle,14 minutes ago,https://replit.com/bounties/@IdleIdle/write-string-to-file?t=
+I want a sample of how to write ""hello world"" to disk in android using okio and writing to an atomic File",IdleIdle,35 minutes ago,https://replit.com/bounties/@IdleIdle/write-string-to-file?t=
