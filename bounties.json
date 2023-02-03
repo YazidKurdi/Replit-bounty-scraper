@@ -5656,7 +5656,7 @@
         "title": "Postgres GPT extension",
         "description": "Project Description\n\nDevelop a Postgres extension (pg_gpt) that uses the OpenAI API to generate SQL queries from natural language descriptions and explain SQL queries using natural text. The extension should provide the following functions:\n\ngpt.query('average user age', execute => true) - generates a query and optionally executes it.\ngpt.explain('select * from users') - explains a query in natural language.\ngpt.explain_plan('select * from users') - explains a query plan in natural language.\n\nThe extension should be aware of the current database schema and use it in queries.\n\nAcceptance Criteria\n\nThe extension should take the schema into account when generating queries and generate relevant results. For tests we will use the airlines demo database (https://postgrespro.com/community/demodb).\n\nTechnical Details\n\nThe most straightforward way to implement the extension is to use C and query the OpenAI API using libcurl. Other languages (such as Go or Rust) may also be used. ChatGPT can gen...",
         "author": "StasKelvich",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@StasKelvich/postgres-gpt-extensi?t="
     },
     {
@@ -5676,7 +5676,7 @@
         "title": "web application for users to create openai text embedding regression models",
         "description": "i want a website where users can signup and pay $30/months to create projects where they can upload csv of text and number value pairs. it generates a regression model using open ai text embeddings. they get a simple interface they can share with other to get an estimate of their text input\n\nAcceptance Criteria\n\nTechnical Details\nvercel, idc the database. i'm open to other ideas\ntailwind is great for styling. the interface can be basic\nuser login via email and password\nsign up for a subscription for $30 / month\nusers can create projects\nprojects are text regression dataset inferences\ni want the user to be able to upload a csv file with two columns\n\ttext, value\n\tafter upload, implement the regression recipe here for star reviews\n\thttps://platform.openai.com/docs/guides/embeddings/use-cases\n\tcreate text embeddings, save them and train a model for inference\na screen for the project to input text to generate a result using the trained inference\n\tthis should have a share...",
         "author": "ShaneBurkhart",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@ShaneBurkhart/web-application-for?t="
     },
     {
@@ -5706,7 +5706,7 @@
         "title": "Create a template repl for building web games",
         "description": "Working with team members to create web based games using replit auth, replit db, socket.io, and express. This bounty is to allow me to compensate them for augmenting an existing repl to become a template for building web based games with login, replit db, etc.\n\nAcceptance Criteria\nThe criteria has been discussed offline.",
         "author": "triptych",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@triptych/create-a-template-re?t="
     },
     {
@@ -5716,7 +5716,17 @@
         "title": "Public Screen Monitor",
         "description": "Acceptance Criteria\nscreen monitoring website where you login, add your phone number, and you can share your screen.\nany logged in user's screen will be available on a public monitor (e.g. a different route within the web-app).\non the public monitor, there should be an alert button that sends an sms message to your phone number with a message like \"hey you're not working.\"  optional, allow users to write a custom message",
         "author": "aidantorrence",
-        "posted_time": "56 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@aidantorrence/public-screen-monito?t="
+    },
+    {
+        "index": "572",
+        "price": "$6.75",
+        "due_days": "due in 7 days",
+        "title": "Write string to file in Android (using Okio and AtomicFile)",
+        "description": "I need to write a file to disk in Android. I want to do it with okio and atomicFile. This gist should help? https://gist.github.com/ZacSweers/0dfa1b38f23558cfd1a0a391cfab3542\nAcceptance Criteria\nI want a sample of how to write \"hello world\" to disk in android using okio and writing to an atomic File",
+        "author": "IdleIdle",
+        "posted_time": "14 minutes ago",
+        "link": "https://replit.com/bounties/@IdleIdle/write-string-to-file?t="
     }
 ]
