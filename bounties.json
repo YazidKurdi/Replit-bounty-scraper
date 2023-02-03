@@ -5776,7 +5776,7 @@
         "title": "Simple Python website scraping",
         "description": "I need to scrape https://instantdomainsearch.com/ and detect one color from the site.\nExample:\nhttps://instantdomainsearch.com/?q=hello.app shows hello.app with color #3286DC (blue)\nhttps://instantdomainsearch.com/?q=hello.app shows hello.com with color #ED004E (red)\n\nApplications showing code/ideas are the best. Also, I'd like to have it today.\n\nAcceptance Criteria\nGet the color for any domain https://instantdomainsearch.com/?q=WEBSITE\n\nTechnical Details\nI need this solution coded in Python without using Selenium, because it needs to be done in less than one second.\n\nLink to Project\nI just need the code. No need for a Repl.",
         "author": "Klaudioz",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@Klaudioz/simple-python-websit?t="
     },
     {
@@ -5796,7 +5796,7 @@
         "title": "House in CSS",
         "description": "make a house in html,css,js without images",
         "author": "Fairies0feast",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@Fairies0feast/house-in-css?t="
     },
     {
@@ -5836,7 +5836,7 @@
         "title": "Next.js + React frontend for AI web application",
         "description": "Overview\n\nA simple web application for teachers to create assignments associated with their classrooms\nUsing Next.js, TailwindUI, Vercel, Supabase, custom API for assignment generation\nTeachers will create classrooms to house assignments\nGenerating assignments consumes arbitrary \u2018tokens\u2019 - every account has a starting amount of them.\n\nWhat\u2019s done\n\nBootstrapped web application with Next.js, deployed to Vercel\nSupabase integration for database and authentication\nApp components / pages\n    Basic landing page\n    Sign in / sign up (hidden)\n    Authenticated dashboard landing page\n    New classroom form (needs some styling work)\n    Classroom details and assignment list (needs some styling work)\n\nWhat\u2019s needed\n\nReview mockups for general guidance on sidebar, page styling\nCreate \u201cview / edit classrooms\u201d page that lists classes and can open modals to edit the details of each one\nSidebar class selector should update the context of the dashboard\nCreate /assignments page to list assignments asso...",
         "author": "aavetis",
-        "posted_time": "19 minutes ago",
+        "posted_time": "26 minutes ago",
         "link": "https://replit.com/bounties/@aavetis/nextjs-react-fronten?t="
     },
     {
@@ -5846,7 +5846,7 @@
         "title": "Rebuild an existing LowCode Mobile app as Native Mobile app (IOS and Android)",
         "description": "I have a mobile app built on the Bubble.io platform with a mobile wrapper that I need built as a native IOS and Android application so that it will work without internet.  I can provide access to the app, but functionally speaking:  It allows users to create a project, take or upload video/photo/notes and upload to our CRM.  It's very basic.\n\nAcceptance Criteria\nApp to function 100% identical to existing mobile webapp.",
         "author": "FrankieSoriano",
-        "posted_time": "3 minutes ago",
+        "posted_time": "10 minutes ago",
         "link": "https://replit.com/bounties/@FrankieSoriano/rebuild-an-existing?t="
     }
 ]
