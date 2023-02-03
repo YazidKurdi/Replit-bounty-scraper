@@ -4610,7 +4610,7 @@ Thank you!
 
 Acceptance Criteria
 A pull request (or pull requests) fixing all of the issues in GitHub so that it'll deploy on Vercel (fixing unmet peer dependencies so that there will be no warnings).
-An explanation for a beginner on why this isn't deploying and what I can do with future projects to ensure I don't run into the same issue! Any resources are incredibly helpful here.",juanderer,9 hours ago,https://replit.com/bounties/@juanderer/get-this-repo-to-dep?t=
+An explanation for a beginner on why this isn't deploying and what I can do with future projects to ensure I don't run into the same issue! Any resources are incredibly helpful here.",juanderer,10 hours ago,https://replit.com/bounties/@juanderer/get-this-repo-to-dep?t=
 569,$60.00,due in 4 days,reply to emails using gpt3 and chrome extension,"We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add replies:
 
 you go to a thread and see options for tones (Formal/Casual), Afiirmation (Interested/Not interested), and then click write.
@@ -4660,7 +4660,7 @@ Acceptance Criteria
 Standard Swift Boilerplate of any mobile app type
 Feature that is a user sign up feature where the user's first name, last name, email and password are used
 The password needs to be hashed and stored in a local database with SHA256 (insecure)
-there needs to be commented functionality that hashes the user password with scrypt (secure version)",AbhayBhargav1,2 hours ago,https://replit.com/bounties/@AbhayBhargav1/boilerplate-swift-ap?t=
+there needs to be commented functionality that hashes the user password with scrypt (secure version)",AbhayBhargav1,3 hours ago,https://replit.com/bounties/@AbhayBhargav1/boilerplate-swift-ap?t=
 576,$450.00,due in 11 days,Financial engine for data analysis,"A financial engine that gathers financials from key sources like https://www.sec.gov/edgar/search-and-access and enables the user to prompt ask data questions and get answers in both text and tables.
 
 Acceptance Criteria

@@ -5686,7 +5686,7 @@
         "title": "Get this repo to deploy on Vercel so I can play around with it",
         "description": "Hi! I forked a website that I want to play around with but can't get it to deploy on Vercel. This is the GitHub repo: https://github.com/juandolealt/winXP\n\nI don't know how to code but am in the process of learning & would love to use this as a base / playground for me to go off of! I just want to get it to deploy successfully, but keep getting a bunch of errors.\n\nThank you!\n\nAcceptance Criteria\nA pull request (or pull requests) fixing all of the issues in GitHub so that it'll deploy on Vercel (fixing unmet peer dependencies so that there will be no warnings).\nAn explanation for a beginner on why this isn't deploying and what I can do with future projects to ensure I don't run into the same issue! Any resources are incredibly helpful here.",
         "author": "juanderer",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@juanderer/get-this-repo-to-dep?t="
     },
     {
@@ -5756,7 +5756,7 @@
         "title": "Boilerplate Swift App to demonstrate a security flaw",
         "description": "I want to build a small swift mobile app (mostly boilerplate) with minimal custom functionality.\nThere needs to be a feature that allows the user to sign up for the app, and the user's password needs to be hashed with SHA256 without salts\nThere needs to be a commented version of the same feature where we use scrypt to hash the user's password\n\nAcceptance Criteria\nStandard Swift Boilerplate of any mobile app type\nFeature that is a user sign up feature where the user's first name, last name, email and password are used\nThe password needs to be hashed and stored in a local database with SHA256 (insecure)\nthere needs to be commented functionality that hashes the user password with scrypt (secure version)",
         "author": "AbhayBhargav1",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@AbhayBhargav1/boilerplate-swift-ap?t="
     },
     {
