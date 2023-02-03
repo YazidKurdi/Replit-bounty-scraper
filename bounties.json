@@ -5766,7 +5766,17 @@
         "title": "Financial engine for data analysis",
         "description": "A financial engine that gathers financials from key sources like https://www.sec.gov/edgar/search-and-access and enables the user to prompt ask data questions and get answers in both text and tables.\n\nAcceptance Criteria\nThe AI engine accesses the API of the source, reads the financial documents, pulls out critical financial information, and formats it in both text answers and tables.\nBut, as a simple chat interface, it enables the user to ask any financial question related to various companies to get reliable data and information about that.\n\nTechnical Details\nAdvise.",
         "author": "GennaroCuofano",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/financial-engine-for?t="
+    },
+    {
+        "index": "577",
+        "price": "$9.00",
+        "due_days": "due in 3 days",
+        "title": "Simple Python website scraping",
+        "description": "I need to scrape https://instantdomainsearch.com/ and detect one color from the site.\nExample:\nhttps://instantdomainsearch.com/?q=hello.app shows hello.app with color #3286DC (blue)\nhttps://instantdomainsearch.com/?q=hello.app shows hello.com with color #ED004E (red)\n\nApplications showing code/ideas are the best. Also, I'd like to have it today.\n\nAcceptance Criteria\nGet the color for any domain https://instantdomainsearch.com/?q=WEBSITE\n\nTechnical Details\nI need this solution coded in Python without using Selenium, because it needs to be done in less than one second.\n\nLink to Project\nI just need the code. No need for a Repl.",
+        "author": "Klaudioz",
+        "posted_time": "9 minutes ago",
+        "link": "https://replit.com/bounties/@Klaudioz/simple-python-websit?t="
     }
 ]

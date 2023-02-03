@@ -4668,4 +4668,19 @@ The AI engine accesses the API of the source, reads the financial documents, pul
 But, as a simple chat interface, it enables the user to ask any financial question related to various companies to get reliable data and information about that.
 
 Technical Details
-Advise.",GennaroCuofano,1 hour ago,https://replit.com/bounties/@GennaroCuofano/financial-engine-for?t=
+Advise.",GennaroCuofano,2 hours ago,https://replit.com/bounties/@GennaroCuofano/financial-engine-for?t=
+577,$9.00,due in 3 days,Simple Python website scraping,"I need to scrape https://instantdomainsearch.com/ and detect one color from the site.
+Example:
+https://instantdomainsearch.com/?q=hello.app shows hello.app with color #3286DC (blue)
+https://instantdomainsearch.com/?q=hello.app shows hello.com with color #ED004E (red)
+
+Applications showing code/ideas are the best. Also, I'd like to have it today.
+
+Acceptance Criteria
+Get the color for any domain https://instantdomainsearch.com/?q=WEBSITE
+
+Technical Details
+I need this solution coded in Python without using Selenium, because it needs to be done in less than one second.
+
+Link to Project
+I just need the code. No need for a Repl.",Klaudioz,9 minutes ago,https://replit.com/bounties/@Klaudioz/simple-python-websit?t=
