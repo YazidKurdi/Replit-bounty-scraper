@@ -5716,7 +5716,7 @@
         "title": "Public Screen Monitor",
         "description": "Acceptance Criteria\nscreen monitoring website where you login, add your phone number, and you can share your screen.\nany logged in user's screen will be available on a public monitor (e.g. a different route within the web-app).\non the public monitor, there should be an alert button that sends an sms message to your phone number with a message like \"hey you're not working.\"  optional, allow users to write a custom message",
         "author": "aidantorrence",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/public-screen-monito?t="
     },
     {
@@ -5726,7 +5726,7 @@
         "title": "Write string to file in Android (using Okio and AtomicFile)",
         "description": "I need to write a file to disk in Android. I want to do it with okio and atomicFile. This gist should help? https://gist.github.com/ZacSweers/0dfa1b38f23558cfd1a0a391cfab3542\nAcceptance Criteria\nI want a sample of how to write \"hello world\" to disk in android using okio and writing to an atomic File",
         "author": "IdleIdle",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@IdleIdle/write-string-to-file?t="
     },
     {
@@ -5736,7 +5736,7 @@
         "title": "Compile Code For Extension",
         "description": "Hi there I am building a chrome extension but have no idea how to compile some code. I urgently need some help just to compile the code! Docker/JS/React/Python\u2026\n\nAcceptance Criteria\nCode is compiled such that extension is now laodable\nComplete me in the next hour!\n\nTechnical Details\n\nLink to Project",
         "author": "AshPrabaker1",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@AshPrabaker1/compile-code-for-ext?t="
     },
     {
@@ -5746,7 +5746,7 @@
         "title": "Opencart 4 - Remove Checkout Fields",
         "description": "We're launching a shop using Opencart 4 but we need to edit the checkout page so only these fields:\nName\nPhone Number\nAddress\n\nAcceptance Criteria\nEither a plugin that removes this or the edited files from opencart that remove the other fields.",
         "author": "oAkeDCH",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@oAkeDCH/opencart-4-remove-ch?t="
     },
     {
@@ -5766,7 +5766,7 @@
         "title": "Financial engine for data analysis",
         "description": "A financial engine that gathers financials from key sources like https://www.sec.gov/edgar/search-and-access and enables the user to prompt ask data questions and get answers in both text and tables.\n\nAcceptance Criteria\nThe AI engine accesses the API of the source, reads the financial documents, pulls out critical financial information, and formats it in both text answers and tables.\nBut, as a simple chat interface, it enables the user to ask any financial question related to various companies to get reliable data and information about that.\n\nTechnical Details\nAdvise.",
         "author": "GennaroCuofano",
-        "posted_time": "42 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/financial-engine-for?t="
     }
 ]
