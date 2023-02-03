@@ -5586,7 +5586,7 @@
         "title": "Plaid API into Replit",
         "description": "I would like to configure the Plaid API into my Repl. For this first bounty, I need assistance implementing the Quickstart in the Sandbox environment. There will likely be more bounties to follow.\n\nIf the Plaid API is functional and can pull sample data into my Repl, the bounty has been completed successfully.\n\nPlaid API information can be found here: https://plaid.com/docs/quickstart/. I assume you'll have to create your own account and use your own keys to get started...? Once the project is completed, I will input my own keys. I assume that's the best way to do this, but let me know if you think otherwise.\n\nMy project can be found here: https://replit.com/@JackHanel/Financial-Performance-Dashboard#main.py. If a different template, etc. is needed, just let me know.\n\nIf you can't already tell, I'm new to programming. I think the best way to learn is to try on your own, but I've done that for a couple of weeks now and I can't even figure out the first step of this whole process: Implem...",
         "author": "JackHanel",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@JackHanel/plaid-api-into-repli?t="
     },
     {
@@ -5596,7 +5596,7 @@
         "title": "Add a reference code to a link",
         "description": "I am looking for a tool on a landing page where I can enter a URL then press one of two buttons in order to have one of two reference links added into the URL.\n\nThe entered links will always be in this format:\nhttps://parking.airgarage.com/spot/973/?rentalType=monthly (973 will always be a 3 digit string of numbers, but it will not always be those exact digits).\n\nThe reference code will need to be added between the \"?\" and \"rentalType=monthly\"\nWhen I input the code, I would like to be able to press a button that determines which reference code will be added into the URL. The two buttons should say 'FELIPE' and 'SAMUEL'.\n\nIf I press FELIPE, the reference code to be added is ref=bdr-felipe&\nIf I press SAMUEL, the reference code to be added is ref=bdr-sam&\n\nA completed link will look like this:\nFELIPE: https://parking.airgarage.com/spot/973/?ref=bdr-felipe&rentalType=monthly\nSAMUEL: https://parking.airgarage.com/spot/973/?ref=bdr-sam&rentalType=monthly\n\nAcceptance Crit...",
         "author": "BryanSbriglia",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@BryanSbriglia/add-a-reference-code?t="
     },
     {
@@ -5616,7 +5616,7 @@
         "title": "Flipping animation",
         "description": "I have a project where there are multiple tables. If you click on the cell on a table, the word gets shown/hidden.\nI want a flipping animation to be shown.\nExample table is: https://discipulis.vulcanwm.repl.co/verb/ascendo\n\nAcceptance Criteria\nI want a flipping animation to be shown when the user clicks on a cell\nI want a half flipping animation to be shown when the user hovers over a cell\nThe animation should work with the tablehideall() and the tableshowall() functions.\nYou need to be able to create a pull request on the GitHub repo to submit the code\nThe flipping animation should work on every browser, and on mobile and laptop\n\nTechnical Details\nThe backend of the website is written in Python, but the flip function is written in Vanilla JS, and you can use JS or CSS to create the animation.\n\nLink to Project\nI will add the bounty hunter to the GitHub repo when I select them.\n\nQuestions?\nEmail me at [email\u00a0protected] if you have any questions",
         "author": "VulcanWM",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@VulcanWM/flipping-animation?t="
     },
     {
@@ -5656,7 +5656,7 @@
         "title": "Postgres GPT extension",
         "description": "Project Description\n\nDevelop a Postgres extension (pg_gpt) that uses the OpenAI API to generate SQL queries from natural language descriptions and explain SQL queries using natural text. The extension should provide the following functions:\n\ngpt.query('average user age', execute => true) - generates a query and optionally executes it.\ngpt.explain('select * from users') - explains a query in natural language.\ngpt.explain_plan('select * from users') - explains a query plan in natural language.\n\nThe extension should be aware of the current database schema and use it in queries.\n\nAcceptance Criteria\n\nThe extension should take the schema into account when generating queries and generate relevant results. For tests we will use the airlines demo database (https://postgrespro.com/community/demodb).\n\nTechnical Details\n\nThe most straightforward way to implement the extension is to use C and query the OpenAI API using libcurl. Other languages (such as Go or Rust) may also be used. ChatGPT can gen...",
         "author": "StasKelvich",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@StasKelvich/postgres-gpt-extensi?t="
     },
     {
@@ -5676,7 +5676,7 @@
         "title": "web application for users to create openai text embedding regression models",
         "description": "i want a website where users can signup and pay $30/months to create projects where they can upload csv of text and number value pairs. it generates a regression model using open ai text embeddings. they get a simple interface they can share with other to get an estimate of their text input\n\nAcceptance Criteria\n\nTechnical Details\nvercel, idc the database. i'm open to other ideas\ntailwind is great for styling. the interface can be basic\nuser login via email and password\nsign up for a subscription for $30 / month\nusers can create projects\nprojects are text regression dataset inferences\ni want the user to be able to upload a csv file with two columns\n\ttext, value\n\tafter upload, implement the regression recipe here for star reviews\n\thttps://platform.openai.com/docs/guides/embeddings/use-cases\n\tcreate text embeddings, save them and train a model for inference\na screen for the project to input text to generate a result using the trained inference\n\tthis should have a share...",
         "author": "ShaneBurkhart",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@ShaneBurkhart/web-application-for?t="
     }
 ]

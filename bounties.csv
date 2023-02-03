@@ -4484,7 +4484,7 @@ Plaid API information can be found here: https://plaid.com/docs/quickstart/. I a
 
 My project can be found here: https://replit.com/@JackHanel/Financial-Performance-Dashboard#main.py. If a different template, etc. is needed, just let me know.
 
-If you can't already tell, I'm new to programming. I think the best way to learn is to try on your own, but I've done that for a couple of weeks now and I can't even figure out the first step of this whole process: Implem...",JackHanel,11 hours ago,https://replit.com/bounties/@JackHanel/plaid-api-into-repli?t=
+If you can't already tell, I'm new to programming. I think the best way to learn is to try on your own, but I've done that for a couple of weeks now and I can't even figure out the first step of this whole process: Implem...",JackHanel,12 hours ago,https://replit.com/bounties/@JackHanel/plaid-api-into-repli?t=
 559,$31.50,due in 7 days,Add a reference code to a link,"I am looking for a tool on a landing page where I can enter a URL then press one of two buttons in order to have one of two reference links added into the URL.
 
 The entered links will always be in this format:
@@ -4500,7 +4500,7 @@ A completed link will look like this:
 FELIPE: https://parking.airgarage.com/spot/973/?ref=bdr-felipe&rentalType=monthly
 SAMUEL: https://parking.airgarage.com/spot/973/?ref=bdr-sam&rentalType=monthly
 
-Acceptance Crit...",BryanSbriglia,11 hours ago,https://replit.com/bounties/@BryanSbriglia/add-a-reference-code?t=
+Acceptance Crit...",BryanSbriglia,12 hours ago,https://replit.com/bounties/@BryanSbriglia/add-a-reference-code?t=
 560,$45.00,due in 3 days,Get Chess game pgn and embed code from url,"Description: I would like an automation (using Make.com), that takes in a webhook (with chess game url, either Lichess.org or Chess.com) and returns both the pgn and embed code as fields (into an airtable). I've attempted to do this with Browse.ai, and think a similar tool would work.
 
 Requirements: Must be experienced in airtable, make.com, and scraping
@@ -4524,7 +4524,7 @@ Link to Project
 I will add the bounty hunter to the GitHub repo when I select them.
 
 Questions?
-Email me at [email protected] if you have any questions",VulcanWM,10 hours ago,https://replit.com/bounties/@VulcanWM/flipping-animation?t=
+Email me at [email protected] if you have any questions",VulcanWM,11 hours ago,https://replit.com/bounties/@VulcanWM/flipping-animation?t=
 562,$3.60,closed,Make a mirrored.to upload script ( php ),"I want for you to create a PHP insert code that allows you to put in your API key and the filename, and it will upload it to some of the file services on mirrored.to
 
 Acceptance Criteria
@@ -4573,7 +4573,7 @@ The extension should take the schema into account when generating queries and ge
 
 Technical Details
 
-The most straightforward way to implement the extension is to use C and query the OpenAI API using libcurl. Other languages (such as Go or Rust) may also be used. ChatGPT can gen...",StasKelvich,6 hours ago,https://replit.com/bounties/@StasKelvich/postgres-gpt-extensi?t=
+The most straightforward way to implement the extension is to use C and query the OpenAI API using libcurl. Other languages (such as Go or Rust) may also be used. ChatGPT can gen...",StasKelvich,7 hours ago,https://replit.com/bounties/@StasKelvich/postgres-gpt-extensi?t=
 566,$45.00,due in 2 months,"Javascript function, runnable on chrome console, to highlight sentence by sentence on kindle (read.amazon.com).","On read.amazon.com, the web version of kindle. I want to highlight a sentence and toggle to next/previous sentence by space and shift + space respectively.
 
 loom demo: https://www.loom.com/share/33851e5c8c064b56a0777bfb6a472d7a
@@ -4601,4 +4601,4 @@ i want the user to be able to upload a csv file with two columns
 	https://platform.openai.com/docs/guides/embeddings/use-cases
 	create text embeddings, save them and train a model for inference
 a screen for the project to input text to generate a result using the trained inference
-	this should have a share...",ShaneBurkhart,1 hour ago,https://replit.com/bounties/@ShaneBurkhart/web-application-for?t=
+	this should have a share...",ShaneBurkhart,2 hours ago,https://replit.com/bounties/@ShaneBurkhart/web-application-for?t=
