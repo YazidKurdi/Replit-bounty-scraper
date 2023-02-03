@@ -5706,7 +5706,7 @@
         "title": "Create a template repl for building web games",
         "description": "Working with team members to create web based games using replit auth, replit db, socket.io, and express. This bounty is to allow me to compensate them for augmenting an existing repl to become a template for building web based games with login, replit db, etc.\n\nAcceptance Criteria\nThe criteria has been discussed offline.",
         "author": "triptych",
-        "posted_time": "45 minutes ago",
+        "posted_time": "54 minutes ago",
         "link": "https://replit.com/bounties/@triptych/create-a-template-re?t="
     },
     {
@@ -5716,7 +5716,7 @@
         "title": "Public Screen Monitor",
         "description": "Acceptance Criteria\nscreen monitoring website where you login, add your phone number, and you can share your screen.\nany logged in user's screen will be available on a public monitor (e.g. a different route within the web-app).\non the public monitor, there should be an alert button that sends an sms message to your phone number with a message like \"hey you're not working.\"  optional, allow users to write a custom message",
         "author": "aidantorrence",
-        "posted_time": "27 minutes ago",
+        "posted_time": "36 minutes ago",
         "link": "https://replit.com/bounties/@aidantorrence/public-screen-monito?t="
     }
 ]
