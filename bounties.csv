@@ -4505,7 +4505,7 @@ Acceptance Crit...",BryanSbriglia,12 hours ago,https://replit.com/bounties/@Brya
 
 Requirements: Must be experienced in airtable, make.com, and scraping
 
-Technical details:  Happy to provide additional technical details / access after acceptance",GabeB5,11 hours ago,https://replit.com/bounties/@GabeB5/get-chess-game-pgn-a?t=
+Technical details:  Happy to provide additional technical details / access after acceptance",GabeB5,12 hours ago,https://replit.com/bounties/@GabeB5/get-chess-game-pgn-a?t=
 561,$4.50,due in 5 days,Flipping animation,"I have a project where there are multiple tables. If you click on the cell on a table, the word gets shown/hidden.
 I want a flipping animation to be shown.
 Example table is: https://discipulis.vulcanwm.repl.co/verb/ascendo
@@ -4602,3 +4602,26 @@ i want the user to be able to upload a csv file with two columns
 	create text embeddings, save them and train a model for inference
 a screen for the project to input text to generate a result using the trained inference
 	this should have a share...",ShaneBurkhart,2 hours ago,https://replit.com/bounties/@ShaneBurkhart/web-application-for?t=
+568,$50.00,due in 6 days,Get this repo to deploy on Vercel so I can play around with it,"Hi! I forked a website that I want to play around with but can't get it to deploy on Vercel. This is the GitHub repo: https://github.com/juandolealt/winXP
+
+I don't know how to code but am in the process of learning & would love to use this as a base / playground for me to go off of! I just want to get it to deploy successfully, but keep getting a bunch of errors.
+
+Thank you!
+
+Acceptance Criteria
+A pull request (or pull requests) fixing all of the issues in GitHub so that it'll deploy on Vercel (fixing unmet peer dependencies so that there will be no warnings).
+An explanation for a beginner on why this isn't deploying and what I can do with future projects to ensure I don't run into the same issue! Any resources are incredibly helpful here.",juanderer,17 minutes ago,https://replit.com/bounties/@juanderer/get-this-repo-to-dep?t=
+569,$60.00,due in 5 days,reply to emails using gpt3 and chrome extension,"We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add replies:
+
+you go to a thread and see options for tones (Formal/Casual), Afiirmation (Interested/Not interested), and then click write.
+based on the context of the message above and the options you choose, a specific prompt should go to the API, which will then generate a response.
+The response should then be injected into the reply window.
+You have to implement the buttons, reading of the message above, interacting with the API and injecting into gmail.
+
+Acceptance Criteria
+must meet UI/UX requirements.
+
+Technical Details
+Chrome extension v3.
+
+Link to Project",ShubhKathuria,15 minutes ago,https://replit.com/bounties/@ShubhKathuria/reply-to-emails-usin?t=
