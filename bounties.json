@@ -5676,7 +5676,7 @@
         "title": "web application for users to create openai text embedding regression models",
         "description": "i want a website where users can signup and pay $30/months to create projects where they can upload csv of text and number value pairs. it generates a regression model using open ai text embeddings. they get a simple interface they can share with other to get an estimate of their text input\n\nAcceptance Criteria\n\nTechnical Details\nvercel, idc the database. i'm open to other ideas\ntailwind is great for styling. the interface can be basic\nuser login via email and password\nsign up for a subscription for $30 / month\nusers can create projects\nprojects are text regression dataset inferences\ni want the user to be able to upload a csv file with two columns\n\ttext, value\n\tafter upload, implement the regression recipe here for star reviews\n\thttps://platform.openai.com/docs/guides/embeddings/use-cases\n\tcreate text embeddings, save them and train a model for inference\na screen for the project to input text to generate a result using the trained inference\n\tthis should have a share...",
         "author": "ShaneBurkhart",
-        "posted_time": "39 minutes ago",
+        "posted_time": "57 minutes ago",
         "link": "https://replit.com/bounties/@ShaneBurkhart/web-application-for?t="
     }
 ]
