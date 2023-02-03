@@ -4728,4 +4728,28 @@ Problem Description
 FluffyDisplay allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in Swift/Objective C utilizing MacOS APIs. It is also made to be a partial library. I would like to convert this to Python and make it usable through python. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
-I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Python li...",EpicCodeWizard2,43 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-2?t=
+I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Python li...",EpicCodeWizard2,54 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-2?t=
+583,$450.00,due in 6 days,Next.js + React frontend for AI web application,"Overview
+
+A simple web application for teachers to create assignments associated with their classrooms
+Using Next.js, TailwindUI, Vercel, Supabase, custom API for assignment generation
+Teachers will create classrooms to house assignments
+Generating assignments consumes arbitrary ‘tokens’ - every account has a starting amount of them.
+
+What’s done
+
+Bootstrapped web application with Next.js, deployed to Vercel
+Supabase integration for database and authentication
+App components / pages
+    Basic landing page
+    Sign in / sign up (hidden)
+    Authenticated dashboard landing page
+    New classroom form (needs some styling work)
+    Classroom details and assignment list (needs some styling work)
+
+What’s needed
+
+Review mockups for general guidance on sidebar, page styling
+Create “view / edit classrooms” page that lists classes and can open modals to edit the details of each one
+Sidebar class selector should update the context of the dashboard
+Create /assignments page to list assignments asso...",aavetis,11 minutes ago,https://replit.com/bounties/@aavetis/nextjs-react-fronten?t=
