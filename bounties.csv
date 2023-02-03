@@ -4696,15 +4696,15 @@ Users need the ability to download images one at a time not just all at once. Wh
 Example CSS
 : background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(image.png);
 Watermarking Images
-All of our photos should be watermarked UNTIL the user hovers over a photo and clicks “Download”. The downloaded asset will be the full resolution version of the asset without a watermark. The purpose of the watermark is to ensure that people don’t just screenshot the images. That behavior would sever...",RamonBerrios,54 minutes ago,https://replit.com/bounties/@RamonBerrios/ai-tool-web-app?t=
-579,$0.90,closed,House in CSS,"make a house in html,css,js without images",Fairies0feast,51 minutes ago,https://replit.com/bounties/@Fairies0feast/house-in-css?t=
+All of our photos should be watermarked UNTIL the user hovers over a photo and clicks “Download”. The downloaded asset will be the full resolution version of the asset without a watermark. The purpose of the watermark is to ensure that people don’t just screenshot the images. That behavior would sever...",RamonBerrios,1 hour ago,https://replit.com/bounties/@RamonBerrios/ai-tool-web-app?t=
+579,$0.90,closed,House in CSS,"make a house in html,css,js without images",Fairies0feast,58 minutes ago,https://replit.com/bounties/@Fairies0feast/house-in-css?t=
 580,$60.04,due in 13 days,Front end for Existing Auto-Multiplayer share/unshare code,"Simple wireframes and this text to be found in https://replit.com/@DavidAtReplit/DistinctDecimalEmbeds#ui.draw
 
 We have 2x Replit Graph QL Driver code that allows teachers to, en masse, invite multiple people to multiple Repls, and also uninvite them. The use case for this is school-based coursework where the teacher needs to give them access before a lesson or unit of work, and remove access for marking at a later date. This has been done manually, but the wonderful @IanAtReplit has built two Repls that use GraphQL to automate this.
 
 We would like to make this easier for teachers though, so we need a front end that uses ReplDB to store the user's CONNECT_SID as a login process (or extract it from the cookie automatically as in https://replit.com/@IroncladDev/extract-sid), then allows them to create groups, within each group either manually add multiple (repl-link, user-email, user-name) or upload a csv with the same - save this data in Repl db.
 
-Each team should t...",DavidAtReplit,40 minutes ago,https://replit.com/bounties/@DavidAtReplit/front-end-for-existi?t=
+Each team should t...",DavidAtReplit,47 minutes ago,https://replit.com/bounties/@DavidAtReplit/front-end-for-existi?t=
 581,$100.80,due in 3 days,Shopify app new feature,"I have a new edit discount page for when a user clicks into a custom discount code that has already been made in the shopify admin.
 It currently renders a page identical to the create discount page
 
@@ -4721,4 +4721,4 @@ User taken to an edit page where they can see the discount summary and have the 
 
 Technical Details
 Should be one graphql call to get the discount code and display the deets using components from the create page
-And then one mutation to delete the...",SamuelAbaka-Woo,26 minutes ago,https://replit.com/bounties/@SamuelAbaka-Woo/shopify-app-new-feat?t=
+And then one mutation to delete the...",SamuelAbaka-Woo,34 minutes ago,https://replit.com/bounties/@SamuelAbaka-Woo/shopify-app-new-feat?t=
