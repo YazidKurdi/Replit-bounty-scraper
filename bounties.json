@@ -5766,7 +5766,7 @@
         "title": "Financial engine for data analysis",
         "description": "A financial engine that gathers financials from key sources like https://www.sec.gov/edgar/search-and-access and enables the user to prompt ask data questions and get answers in both text and tables.\n\nAcceptance Criteria\nThe AI engine accesses the API of the source, reads the financial documents, pulls out critical financial information, and formats it in both text answers and tables.\nBut, as a simple chat interface, it enables the user to ask any financial question related to various companies to get reliable data and information about that.\n\nTechnical Details\nAdvise.",
         "author": "GennaroCuofano",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/financial-engine-for?t="
     },
     {
@@ -5816,7 +5816,7 @@
         "title": "Shopify app new feature",
         "description": "I have a new edit discount page for when a user clicks into a custom discount code that has already been made in the shopify admin.\nIt currently renders a page identical to the create discount page\n\nWhat I need:\nThe ability for the shop owner to see details of the discount code and the ability to delete it on this new 'edit discount page'\n\nIdeally in the future it would mimic the original shopify edit page for normal discounts so the user can edit all the fields. But for MVP just a page where they can see the details of the discount and the ability to delete it would be fine for now.\n\nAcceptance Criteria\nUser goes to shopify admin\nUser clicks on discounts section\nUser clicks on custom discount\nUser taken to an edit page where they can see the discount summary and have the ability to delete the discount\n\nTechnical Details\nShould be one graphql call to get the discount code and display the deets using components from the create page\nAnd then one mutation to delete the...",
         "author": "SamuelAbaka-Woo",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@SamuelAbaka-Woo/shopify-app-new-feat?t="
     }
 ]
