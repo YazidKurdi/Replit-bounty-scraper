@@ -4601,7 +4601,7 @@ i want the user to be able to upload a csv file with two columns
 	https://platform.openai.com/docs/guides/embeddings/use-cases
 	create text embeddings, save them and train a model for inference
 a screen for the project to input text to generate a result using the trained inference
-	this should have a share...",ShaneBurkhart,10 hours ago,https://replit.com/bounties/@ShaneBurkhart/web-application-for?t=
+	this should have a share...",ShaneBurkhart,11 hours ago,https://replit.com/bounties/@ShaneBurkhart/web-application-for?t=
 568,$50.00,closed,Get this repo to deploy on Vercel so I can play around with it,"Hi! I forked a website that I want to play around with but can't get it to deploy on Vercel. This is the GitHub repo: https://github.com/juandolealt/winXP
 
 I don't know how to code but am in the process of learning & would love to use this as a base / playground for me to go off of! I just want to get it to deploy successfully, but keep getting a bunch of errors.
@@ -4624,11 +4624,11 @@ must meet UI/UX requirements.
 Technical Details
 Chrome extension v3.
 
-Link to Project",ShubhKathuria,8 hours ago,https://replit.com/bounties/@ShubhKathuria/reply-to-emails-usin?t=
+Link to Project",ShubhKathuria,9 hours ago,https://replit.com/bounties/@ShubhKathuria/reply-to-emails-usin?t=
 570,$27.00,due in 12 days,Create a template repl for building web games,"Working with team members to create web based games using replit auth, replit db, socket.io, and express. This bounty is to allow me to compensate them for augmenting an existing repl to become a template for building web based games with login, replit db, etc.
 
 Acceptance Criteria
-The criteria has been discussed offline.",triptych,8 hours ago,https://replit.com/bounties/@triptych/create-a-template-re?t=
+The criteria has been discussed offline.",triptych,9 hours ago,https://replit.com/bounties/@triptych/create-a-template-re?t=
 571,$50.00,due in 12 days,Public Screen Monitor,"Acceptance Criteria
 screen monitoring website where you login, add your phone number, and you can share your screen.
 any logged in user's screen will be available on a public monitor (e.g. a different route within the web-app).
@@ -4668,4 +4668,4 @@ The AI engine accesses the API of the source, reads the financial documents, pul
 But, as a simple chat interface, it enables the user to ask any financial question related to various companies to get reliable data and information about that.
 
 Technical Details
-Advise.",GennaroCuofano,21 minutes ago,https://replit.com/bounties/@GennaroCuofano/financial-engine-for?t=
+Advise.",GennaroCuofano,42 minutes ago,https://replit.com/bounties/@GennaroCuofano/financial-engine-for?t=
