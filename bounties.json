@@ -5836,7 +5836,7 @@
         "title": "Next.js + React frontend for AI web application",
         "description": "Overview\n\nA simple web application for teachers to create assignments associated with their classrooms\nUsing Next.js, TailwindUI, Vercel, Supabase, custom API for assignment generation\nTeachers will create classrooms to house assignments\nGenerating assignments consumes arbitrary \u2018tokens\u2019 - every account has a starting amount of them.\n\nWhat\u2019s done\n\nBootstrapped web application with Next.js, deployed to Vercel\nSupabase integration for database and authentication\nApp components / pages\n    Basic landing page\n    Sign in / sign up (hidden)\n    Authenticated dashboard landing page\n    New classroom form (needs some styling work)\n    Classroom details and assignment list (needs some styling work)\n\nWhat\u2019s needed\n\nReview mockups for general guidance on sidebar, page styling\nCreate \u201cview / edit classrooms\u201d page that lists classes and can open modals to edit the details of each one\nSidebar class selector should update the context of the dashboard\nCreate /assignments page to list assignments asso...",
         "author": "aavetis",
-        "posted_time": "36 minutes ago",
+        "posted_time": "45 minutes ago",
         "link": "https://replit.com/bounties/@aavetis/nextjs-react-fronten?t="
     },
     {
@@ -5846,7 +5846,7 @@
         "title": "Rebuild an existing LowCode Mobile app as Native Mobile app (IOS and Android)",
         "description": "I have a mobile app built on the Bubble.io platform with a mobile wrapper that I need built as a native IOS and Android application so that it will work without internet.  I can provide access to the app, but functionally speaking:  It allows users to create a project, take or upload video/photo/notes and upload to our CRM.  It's very basic.\n\nAcceptance Criteria\nApp to function 100% identical to existing mobile webapp.",
         "author": "FrankieSoriano",
-        "posted_time": "20 minutes ago",
+        "posted_time": "30 minutes ago",
         "link": "https://replit.com/bounties/@FrankieSoriano/rebuild-an-existing?t="
     }
 ]
