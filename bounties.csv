@@ -4628,7 +4628,7 @@ Link to Project",ShubhKathuria,7 hours ago,https://replit.com/bounties/@ShubhKat
 570,$27.00,due in 13 days,Create a template repl for building web games,"Working with team members to create web based games using replit auth, replit db, socket.io, and express. This bounty is to allow me to compensate them for augmenting an existing repl to become a template for building web based games with login, replit db, etc.
 
 Acceptance Criteria
-The criteria has been discussed offline.",triptych,6 hours ago,https://replit.com/bounties/@triptych/create-a-template-re?t=
+The criteria has been discussed offline.",triptych,7 hours ago,https://replit.com/bounties/@triptych/create-a-template-re?t=
 571,$50.00,due in 13 days,Public Screen Monitor,"Acceptance Criteria
 screen monitoring website where you login, add your phone number, and you can share your screen.
 any logged in user's screen will be available on a public monitor (e.g. a different route within the web-app).
@@ -4644,7 +4644,7 @@ Complete me in the next hour!
 
 Technical Details
 
-Link to Project",AshPrabaker1,3 hours ago,https://replit.com/bounties/@AshPrabaker1/compile-code-for-ext?t=
+Link to Project",AshPrabaker1,4 hours ago,https://replit.com/bounties/@AshPrabaker1/compile-code-for-ext?t=
 574,$16.11,due in 4 days,Opencart 4 - Remove Checkout Fields,"We're launching a shop using Opencart 4 but we need to edit the checkout page so only these fields:
 Name
 Phone Number
@@ -4652,3 +4652,12 @@ Address
 
 Acceptance Criteria
 Either a plugin that removes this or the edited files from opencart that remove the other fields.",oAkeDCH,3 hours ago,https://replit.com/bounties/@oAkeDCH/opencart-4-remove-ch?t=
+575,$108.00,due in 14 days,Boilerplate Swift App to demonstrate a security flaw,"I want to build a small swift mobile app (mostly boilerplate) with minimal custom functionality.
+There needs to be a feature that allows the user to sign up for the app, and the user's password needs to be hashed with SHA256 without salts
+There needs to be a commented version of the same feature where we use scrypt to hash the user's password
+
+Acceptance Criteria
+Standard Swift Boilerplate of any mobile app type
+Feature that is a user sign up feature where the user's first name, last name, email and password are used
+The password needs to be hashed and stored in a local database with SHA256 (insecure)
+there needs to be commented functionality that hashes the user password with scrypt (secure version)",AbhayBhargav1,8 minutes ago,https://replit.com/bounties/@AbhayBhargav1/boilerplate-swift-ap?t=

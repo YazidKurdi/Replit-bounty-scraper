@@ -5706,7 +5706,7 @@
         "title": "Create a template repl for building web games",
         "description": "Working with team members to create web based games using replit auth, replit db, socket.io, and express. This bounty is to allow me to compensate them for augmenting an existing repl to become a template for building web based games with login, replit db, etc.\n\nAcceptance Criteria\nThe criteria has been discussed offline.",
         "author": "triptych",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@triptych/create-a-template-re?t="
     },
     {
@@ -5736,7 +5736,7 @@
         "title": "Compile Code For Extension",
         "description": "Hi there I am building a chrome extension but have no idea how to compile some code. I urgently need some help just to compile the code! Docker/JS/React/Python\u2026\n\nAcceptance Criteria\nCode is compiled such that extension is now laodable\nComplete me in the next hour!\n\nTechnical Details\n\nLink to Project",
         "author": "AshPrabaker1",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@AshPrabaker1/compile-code-for-ext?t="
     },
     {
@@ -5748,5 +5748,15 @@
         "author": "oAkeDCH",
         "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@oAkeDCH/opencart-4-remove-ch?t="
+    },
+    {
+        "index": "575",
+        "price": "$108.00",
+        "due_days": "due in 14 days",
+        "title": "Boilerplate Swift App to demonstrate a security flaw",
+        "description": "I want to build a small swift mobile app (mostly boilerplate) with minimal custom functionality.\nThere needs to be a feature that allows the user to sign up for the app, and the user's password needs to be hashed with SHA256 without salts\nThere needs to be a commented version of the same feature where we use scrypt to hash the user's password\n\nAcceptance Criteria\nStandard Swift Boilerplate of any mobile app type\nFeature that is a user sign up feature where the user's first name, last name, email and password are used\nThe password needs to be hashed and stored in a local database with SHA256 (insecure)\nthere needs to be commented functionality that hashes the user password with scrypt (secure version)",
+        "author": "AbhayBhargav1",
+        "posted_time": "8 minutes ago",
+        "link": "https://replit.com/bounties/@AbhayBhargav1/boilerplate-swift-ap?t="
     }
 ]
