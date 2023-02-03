@@ -4632,10 +4632,10 @@ The criteria has been discussed offline.",triptych,7 hours ago,https://replit.co
 571,$50.00,due in 13 days,Public Screen Monitor,"Acceptance Criteria
 screen monitoring website where you login, add your phone number, and you can share your screen.
 any logged in user's screen will be available on a public monitor (e.g. a different route within the web-app).
-on the public monitor, there should be an alert button that sends an sms message to your phone number with a message like ""hey you're not working.""  optional, allow users to write a custom message",aidantorrence,6 hours ago,https://replit.com/bounties/@aidantorrence/public-screen-monito?t=
+on the public monitor, there should be an alert button that sends an sms message to your phone number with a message like ""hey you're not working.""  optional, allow users to write a custom message",aidantorrence,7 hours ago,https://replit.com/bounties/@aidantorrence/public-screen-monito?t=
 572,$6.75,due in 7 days,Write string to file in Android (using Okio and AtomicFile),"I need to write a file to disk in Android. I want to do it with okio and atomicFile. This gist should help? https://gist.github.com/ZacSweers/0dfa1b38f23558cfd1a0a391cfab3542
 Acceptance Criteria
-I want a sample of how to write ""hello world"" to disk in android using okio and writing to an atomic File",IdleIdle,5 hours ago,https://replit.com/bounties/@IdleIdle/write-string-to-file?t=
+I want a sample of how to write ""hello world"" to disk in android using okio and writing to an atomic File",IdleIdle,6 hours ago,https://replit.com/bounties/@IdleIdle/write-string-to-file?t=
 573,$18.00,due in 4 days,Compile Code For Extension,"Hi there I am building a chrome extension but have no idea how to compile some code. I urgently need some help just to compile the code! Docker/JS/React/Python…
 
 Acceptance Criteria
@@ -4651,7 +4651,7 @@ Phone Number
 Address
 
 Acceptance Criteria
-Either a plugin that removes this or the edited files from opencart that remove the other fields.",oAkeDCH,3 hours ago,https://replit.com/bounties/@oAkeDCH/opencart-4-remove-ch?t=
+Either a plugin that removes this or the edited files from opencart that remove the other fields.",oAkeDCH,4 hours ago,https://replit.com/bounties/@oAkeDCH/opencart-4-remove-ch?t=
 575,$108.00,due in 14 days,Boilerplate Swift App to demonstrate a security flaw,"I want to build a small swift mobile app (mostly boilerplate) with minimal custom functionality.
 There needs to be a feature that allows the user to sign up for the app, and the user's password needs to be hashed with SHA256 without salts
 There needs to be a commented version of the same feature where we use scrypt to hash the user's password
@@ -4660,4 +4660,4 @@ Acceptance Criteria
 Standard Swift Boilerplate of any mobile app type
 Feature that is a user sign up feature where the user's first name, last name, email and password are used
 The password needs to be hashed and stored in a local database with SHA256 (insecure)
-there needs to be commented functionality that hashes the user password with scrypt (secure version)",AbhayBhargav1,8 minutes ago,https://replit.com/bounties/@AbhayBhargav1/boilerplate-swift-ap?t=
+there needs to be commented functionality that hashes the user password with scrypt (secure version)",AbhayBhargav1,21 minutes ago,https://replit.com/bounties/@AbhayBhargav1/boilerplate-swift-ap?t=
