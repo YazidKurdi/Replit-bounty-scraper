@@ -5736,7 +5736,7 @@
         "title": "Compile Code For Extension",
         "description": "Hi there I am building a chrome extension but have no idea how to compile some code. I urgently need some help just to compile the code! Docker/JS/React/Python\u2026\n\nAcceptance Criteria\nCode is compiled such that extension is now laodable\nComplete me in the next hour!\n\nTechnical Details\n\nLink to Project",
         "author": "AshPrabaker1",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@AshPrabaker1/compile-code-for-ext?t="
     },
     {
@@ -5816,7 +5816,7 @@
         "title": "Shopify app new feature",
         "description": "I have a new edit discount page for when a user clicks into a custom discount code that has already been made in the shopify admin.\nIt currently renders a page identical to the create discount page\n\nWhat I need:\nThe ability for the shop owner to see details of the discount code and the ability to delete it on this new 'edit discount page'\n\nIdeally in the future it would mimic the original shopify edit page for normal discounts so the user can edit all the fields. But for MVP just a page where they can see the details of the discount and the ability to delete it would be fine for now.\n\nAcceptance Criteria\nUser goes to shopify admin\nUser clicks on discounts section\nUser clicks on custom discount\nUser taken to an edit page where they can see the discount summary and have the ability to delete the discount\n\nTechnical Details\nShould be one graphql call to get the discount code and display the deets using components from the create page\nAnd then one mutation to delete the...",
         "author": "SamuelAbaka-Woo",
-        "posted_time": "47 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@SamuelAbaka-Woo/shopify-app-new-feat?t="
     }
 ]
