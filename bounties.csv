@@ -4806,3 +4806,4 @@ You can get access to shopify store's products via: shop_url/products.json, e.g.
                 img_url=product""images""[""src""],
             )
 In general this information will directly be able to be extracted from the json file listed in the URL. However, there are some cases like: h...",RaymondYuan2,1 hour ago,https://replit.com/bounties/@RaymondYuan2/shopify-product-lite?t=
+588,$45.00,due in 13 days,Swordbattle v2 packet system - p2,Make an efficient binary packet system for swordbattle v2,CoderGautamYT,12 seconds ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-packe-1?t=
