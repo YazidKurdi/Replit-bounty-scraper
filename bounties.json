@@ -5686,7 +5686,7 @@
         "title": "Get this repo to deploy on Vercel so I can play around with it",
         "description": "Hi! I forked a website that I want to play around with but can't get it to deploy on Vercel. This is the GitHub repo: https://github.com/juandolealt/winXP\n\nI don't know how to code but am in the process of learning & would love to use this as a base / playground for me to go off of! I just want to get it to deploy successfully, but keep getting a bunch of errors.\n\nThank you!\n\nAcceptance Criteria\nA pull request (or pull requests) fixing all of the issues in GitHub so that it'll deploy on Vercel (fixing unmet peer dependencies so that there will be no warnings).\nAn explanation for a beginner on why this isn't deploying and what I can do with future projects to ensure I don't run into the same issue! Any resources are incredibly helpful here.",
         "author": "juanderer",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@juanderer/get-this-repo-to-dep?t="
     },
     {
@@ -5696,7 +5696,7 @@
         "title": "reply to emails using gpt3 and chrome extension",
         "description": "We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add replies:\n\nyou go to a thread and see options for tones (Formal/Casual), Afiirmation (Interested/Not interested), and then click write.\nbased on the context of the message above and the options you choose, a specific prompt should go to the API, which will then generate a response.\nThe response should then be injected into the reply window.\nYou have to implement the buttons, reading of the message above, interacting with the API and injecting into gmail.\n\nAcceptance Criteria\nmust meet UI/UX requirements.\n\nTechnical Details\nChrome extension v3.\n\nLink to Project",
         "author": "ShubhKathuria",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@ShubhKathuria/reply-to-emails-usin?t="
     },
     {
@@ -5756,7 +5756,7 @@
         "title": "Boilerplate Swift App to demonstrate a security flaw",
         "description": "I want to build a small swift mobile app (mostly boilerplate) with minimal custom functionality.\nThere needs to be a feature that allows the user to sign up for the app, and the user's password needs to be hashed with SHA256 without salts\nThere needs to be a commented version of the same feature where we use scrypt to hash the user's password\n\nAcceptance Criteria\nStandard Swift Boilerplate of any mobile app type\nFeature that is a user sign up feature where the user's first name, last name, email and password are used\nThe password needs to be hashed and stored in a local database with SHA256 (insecure)\nthere needs to be commented functionality that hashes the user password with scrypt (secure version)",
         "author": "AbhayBhargav1",
-        "posted_time": "30 minutes ago",
+        "posted_time": "40 minutes ago",
         "link": "https://replit.com/bounties/@AbhayBhargav1/boilerplate-swift-ap?t="
     }
 ]
