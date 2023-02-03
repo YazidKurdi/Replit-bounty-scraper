@@ -5706,7 +5706,7 @@
         "title": "Create a template repl for building web games",
         "description": "Working with team members to create web based games using replit auth, replit db, socket.io, and express. This bounty is to allow me to compensate them for augmenting an existing repl to become a template for building web based games with login, replit db, etc.\n\nAcceptance Criteria\nThe criteria has been discussed offline.",
         "author": "triptych",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@triptych/create-a-template-re?t="
     },
     {
@@ -5766,7 +5766,7 @@
         "title": "Financial engine for data analysis",
         "description": "A financial engine that gathers financials from key sources like https://www.sec.gov/edgar/search-and-access and enables the user to prompt ask data questions and get answers in both text and tables.\n\nAcceptance Criteria\nThe AI engine accesses the API of the source, reads the financial documents, pulls out critical financial information, and formats it in both text answers and tables.\nBut, as a simple chat interface, it enables the user to ask any financial question related to various companies to get reliable data and information about that.\n\nTechnical Details\nAdvise.",
         "author": "GennaroCuofano",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/financial-engine-for?t="
     },
     {
@@ -5776,7 +5776,7 @@
         "title": "Simple Python website scraping",
         "description": "I need to scrape https://instantdomainsearch.com/ and detect one color from the site.\nExample:\nhttps://instantdomainsearch.com/?q=hello.app shows hello.app with color #3286DC (blue)\nhttps://instantdomainsearch.com/?q=hello.app shows hello.com with color #ED004E (red)\n\nApplications showing code/ideas are the best. Also, I'd like to have it today.\n\nAcceptance Criteria\nGet the color for any domain https://instantdomainsearch.com/?q=WEBSITE\n\nTechnical Details\nI need this solution coded in Python without using Selenium, because it needs to be done in less than one second.\n\nLink to Project\nI just need the code. No need for a Repl.",
         "author": "Klaudioz",
-        "posted_time": "54 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@Klaudioz/simple-python-websit?t="
     }
 ]
