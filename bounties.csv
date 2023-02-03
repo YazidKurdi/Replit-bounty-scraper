@@ -4683,7 +4683,7 @@ Technical Details
 I need this solution coded in Python without using Selenium, because it needs to be done in less than one second.
 
 Link to Project
-I just need the code. No need for a Repl.",Klaudioz,7 hours ago,https://replit.com/bounties/@Klaudioz/simple-python-websit?t=
+I just need the code. No need for a Repl.",Klaudioz,8 hours ago,https://replit.com/bounties/@Klaudioz/simple-python-websit?t=
 578,$900.00,due in 6 days,AI tool web app,"We already have a working AI app. Now we just need a front end cleanup and user capabilities. Here is the scope in more detail:
 FEATURE LIST
 
@@ -4697,7 +4697,7 @@ Example CSS
 : background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(image.png);
 Watermarking Images
 All of our photos should be watermarked UNTIL the user hovers over a photo and clicks “Download”. The downloaded asset will be the full resolution version of the asset without a watermark. The purpose of the watermark is to ensure that people don’t just screenshot the images. That behavior would sever...",RamonBerrios,6 hours ago,https://replit.com/bounties/@RamonBerrios/ai-tool-web-app?t=
-579,$0.90,closed,House in CSS,"make a house in html,css,js without images",Fairies0feast,5 hours ago,https://replit.com/bounties/@Fairies0feast/house-in-css?t=
+579,$0.90,closed,House in CSS,"make a house in html,css,js without images",Fairies0feast,6 hours ago,https://replit.com/bounties/@Fairies0feast/house-in-css?t=
 580,$60.04,due in 13 days,Front end for Existing Auto-Multiplayer share/unshare code,"Simple wireframes and this text to be found in https://replit.com/@DavidAtReplit/DistinctDecimalEmbeds#ui.draw
 
 We have 2x Replit Graph QL Driver code that allows teachers to, en masse, invite multiple people to multiple Repls, and also uninvite them. The use case for this is school-based coursework where the teacher needs to give them access before a lesson or unit of work, and remove access for marking at a later date. This has been done manually, but the wonderful @IanAtReplit has built two Repls that use GraphQL to automate this.
@@ -4757,3 +4757,22 @@ Create /assignments page to list assignments asso...",aavetis,2 hours ago,https:
 
 Acceptance Criteria
 App to function 100% identical to existing mobile webapp.",FrankieSoriano,2 hours ago,https://replit.com/bounties/@FrankieSoriano/rebuild-an-existing?t=
+585,$130.50,due in 3 days,Add a credentials (email/password) provider using NextAuth to an existing NextJS app,"I have a functioning NextJS app with working authentication using NextAuth with a Google provider. I need to add a second provider with ""Credentials"" email and password. The foundation for NextAuth is already in place.
+
+Acceptance Criteria
+Add the credentials provider that supports email and password sign in with the NextAuth library
+Write a new user record to a postgres database (db already created) for first time users
+Build a simple register form if needed
+
+Technical Details
+Stack:
+TypeScript
+NextJS 12
+NextAuth
+Prisma
+Postgres
+
+Requirements
+Experience with authentication, nextauth, nextjs, prisma and postgres db
+Priority for anyone with relevant experience/projects mentioned
+Will tip more if completed before the deadline.",juancaruiz,4 minutes ago,https://replit.com/bounties/@juancaruiz/add-a-credentials-em?t=

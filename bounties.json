@@ -5776,7 +5776,7 @@
         "title": "Simple Python website scraping",
         "description": "I need to scrape https://instantdomainsearch.com/ and detect one color from the site.\nExample:\nhttps://instantdomainsearch.com/?q=hello.app shows hello.app with color #3286DC (blue)\nhttps://instantdomainsearch.com/?q=hello.app shows hello.com with color #ED004E (red)\n\nApplications showing code/ideas are the best. Also, I'd like to have it today.\n\nAcceptance Criteria\nGet the color for any domain https://instantdomainsearch.com/?q=WEBSITE\n\nTechnical Details\nI need this solution coded in Python without using Selenium, because it needs to be done in less than one second.\n\nLink to Project\nI just need the code. No need for a Repl.",
         "author": "Klaudioz",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@Klaudioz/simple-python-websit?t="
     },
     {
@@ -5796,7 +5796,7 @@
         "title": "House in CSS",
         "description": "make a house in html,css,js without images",
         "author": "Fairies0feast",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@Fairies0feast/house-in-css?t="
     },
     {
@@ -5848,5 +5848,15 @@
         "author": "FrankieSoriano",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@FrankieSoriano/rebuild-an-existing?t="
+    },
+    {
+        "index": "585",
+        "price": "$130.50",
+        "due_days": "due in 3 days",
+        "title": "Add a credentials (email/password) provider using NextAuth to an existing NextJS app",
+        "description": "I have a functioning NextJS app with working authentication using NextAuth with a Google provider. I need to add a second provider with \"Credentials\" email and password. The foundation for NextAuth is already in place.\n\nAcceptance Criteria\nAdd the credentials provider that supports email and password sign in with the NextAuth library\nWrite a new user record to a postgres database (db already created) for first time users\nBuild a simple register form if needed\n\nTechnical Details\nStack:\nTypeScript\nNextJS 12\nNextAuth\nPrisma\nPostgres\n\nRequirements\nExperience with authentication, nextauth, nextjs, prisma and postgres db\nPriority for anyone with relevant experience/projects mentioned\nWill tip more if completed before the deadline.",
+        "author": "juancaruiz",
+        "posted_time": "4 minutes ago",
+        "link": "https://replit.com/bounties/@juancaruiz/add-a-credentials-em?t="
     }
 ]
