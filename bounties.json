@@ -5786,7 +5786,7 @@
         "title": "AI tool web app",
         "description": "We already have a working AI app. Now we just need a front end cleanup and user capabilities. Here is the scope in more detail:\nFEATURE LIST\n\nSign in / Log In\nUsers will be able to sign up or log in to use the AI tool. For now we won\u2019t worry about a forgot password feature for login. Let\u2019s just get something up and running.\n\nDownloading Individual Images\nUsers need the ability to download images one at a time not just all at once. When the user hovers their cursor over an images we will show a 50% opacity black overlay with the word download written over the asset.\n\nExample CSS\n:\u2028background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(image.png);\nWatermarking Images\nAll of our photos should be watermarked UNTIL the user hovers over a photo and clicks \u201cDownload\u201d. The downloaded asset will be the full resolution version of the asset without a watermark.\u2028The purpose of the watermark is to ensure that people don\u2019t just screenshot the images. That behavior would sever...",
         "author": "RamonBerrios",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@RamonBerrios/ai-tool-web-app?t="
     },
     {
@@ -5796,7 +5796,7 @@
         "title": "House in CSS",
         "description": "make a house in html,css,js without images",
         "author": "Fairies0feast",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@Fairies0feast/house-in-css?t="
     },
     {
@@ -5876,7 +5876,7 @@
         "title": "Shopify Product + Literature Scraper",
         "description": "Shopify Product + Literature Scraper\nScrape all shopify product and literature available given a shop url.\nProduct Requirements\nYou can get access to shopify store's products via: shop_url/products.json, e.g. https://usehuron.com/products.json. This will give you a list of products, and we need to scrape the following criteria:\n        url = f\"https://{store.shop_url}/products/{product['handle']}\"\n            Product(\n                store_id=store,\n                handle=product[\"handle\"],\n                title=product[\"title\"],\n                bodyhtml=product[\"bodyhtml\"],\n                status=product.get(\"status\", \"active\"),\n                tags=product[\"tags\"],\n                createdat=product[\"createdat\"],\n                updatedat=product[\"updatedat\"],\n                url=url,\n                img_url=product\"images\"[\"src\"],\n            )\nIn general this information will directly be able to be extracted from the json file listed in the URL. However, there are some cases like: h...",
         "author": "RaymondYuan2",
-        "posted_time": "47 minutes ago",
+        "posted_time": "58 minutes ago",
         "link": "https://replit.com/bounties/@RaymondYuan2/shopify-product-lite?t="
     }
 ]

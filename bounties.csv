@@ -4696,8 +4696,8 @@ Users need the ability to download images one at a time not just all at once. Wh
 Example CSS
 : background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(image.png);
 Watermarking Images
-All of our photos should be watermarked UNTIL the user hovers over a photo and clicks “Download”. The downloaded asset will be the full resolution version of the asset without a watermark. The purpose of the watermark is to ensure that people don’t just screenshot the images. That behavior would sever...",RamonBerrios,7 hours ago,https://replit.com/bounties/@RamonBerrios/ai-tool-web-app?t=
-579,$0.90,closed,House in CSS,"make a house in html,css,js without images",Fairies0feast,7 hours ago,https://replit.com/bounties/@Fairies0feast/house-in-css?t=
+All of our photos should be watermarked UNTIL the user hovers over a photo and clicks “Download”. The downloaded asset will be the full resolution version of the asset without a watermark. The purpose of the watermark is to ensure that people don’t just screenshot the images. That behavior would sever...",RamonBerrios,8 hours ago,https://replit.com/bounties/@RamonBerrios/ai-tool-web-app?t=
+579,$0.90,closed,House in CSS,"make a house in html,css,js without images",Fairies0feast,8 hours ago,https://replit.com/bounties/@Fairies0feast/house-in-css?t=
 580,$60.04,due in 13 days,Front end for Existing Auto-Multiplayer share/unshare code,"Simple wireframes and this text to be found in https://replit.com/@DavidAtReplit/DistinctDecimalEmbeds#ui.draw
 
 We have 2x Replit Graph QL Driver code that allows teachers to, en masse, invite multiple people to multiple Repls, and also uninvite them. The use case for this is school-based coursework where the teacher needs to give them access before a lesson or unit of work, and remove access for marking at a later date. This has been done manually, but the wonderful @IanAtReplit has built two Repls that use GraphQL to automate this.
@@ -4805,4 +4805,4 @@ You can get access to shopify store's products via: shop_url/products.json, e.g.
                 url=url,
                 img_url=product""images""[""src""],
             )
-In general this information will directly be able to be extracted from the json file listed in the URL. However, there are some cases like: h...",RaymondYuan2,47 minutes ago,https://replit.com/bounties/@RaymondYuan2/shopify-product-lite?t=
+In general this information will directly be able to be extracted from the json file listed in the URL. However, there are some cases like: h...",RaymondYuan2,58 minutes ago,https://replit.com/bounties/@RaymondYuan2/shopify-product-lite?t=
