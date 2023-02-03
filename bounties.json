@@ -5756,7 +5756,7 @@
         "title": "Boilerplate Swift App to demonstrate a security flaw",
         "description": "I want to build a small swift mobile app (mostly boilerplate) with minimal custom functionality.\nThere needs to be a feature that allows the user to sign up for the app, and the user's password needs to be hashed with SHA256 without salts\nThere needs to be a commented version of the same feature where we use scrypt to hash the user's password\n\nAcceptance Criteria\nStandard Swift Boilerplate of any mobile app type\nFeature that is a user sign up feature where the user's first name, last name, email and password are used\nThe password needs to be hashed and stored in a local database with SHA256 (insecure)\nthere needs to be commented functionality that hashes the user password with scrypt (secure version)",
         "author": "AbhayBhargav1",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@AbhayBhargav1/boilerplate-swift-ap?t="
     },
     {
@@ -5806,7 +5806,7 @@
         "title": "Front end for Existing Auto-Multiplayer share/unshare code",
         "description": "Simple wireframes and this text to be found in https://replit.com/@DavidAtReplit/DistinctDecimalEmbeds#ui.draw\n\nWe have 2x Replit Graph QL Driver code that allows teachers to, en masse, invite multiple people to multiple Repls, and also uninvite them. The use case for this is school-based coursework where the teacher needs to give them access before a lesson or unit of work, and remove access for marking at a later date. This has been done manually, but the wonderful @IanAtReplit has built two Repls that use GraphQL to automate this.\n\nWe would like to make this easier for teachers though, so we need a front end that uses ReplDB to store the user's CONNECT_SID as a login process (or extract it from the cookie automatically as in https://replit.com/@IroncladDev/extract-sid), then allows them to create groups, within each group either manually add multiple (repl-link, user-email, user-name) or upload a csv with the same - save this data in Repl db.\n\nEach team should t...",
         "author": "DavidAtReplit",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@DavidAtReplit/front-end-for-existi?t="
     },
     {
@@ -5836,7 +5836,7 @@
         "title": "Next.js + React frontend for AI web application",
         "description": "Overview\n\nA simple web application for teachers to create assignments associated with their classrooms\nUsing Next.js, TailwindUI, Vercel, Supabase, custom API for assignment generation\nTeachers will create classrooms to house assignments\nGenerating assignments consumes arbitrary \u2018tokens\u2019 - every account has a starting amount of them.\n\nWhat\u2019s done\n\nBootstrapped web application with Next.js, deployed to Vercel\nSupabase integration for database and authentication\nApp components / pages\n    Basic landing page\n    Sign in / sign up (hidden)\n    Authenticated dashboard landing page\n    New classroom form (needs some styling work)\n    Classroom details and assignment list (needs some styling work)\n\nWhat\u2019s needed\n\nReview mockups for general guidance on sidebar, page styling\nCreate \u201cview / edit classrooms\u201d page that lists classes and can open modals to edit the details of each one\nSidebar class selector should update the context of the dashboard\nCreate /assignments page to list assignments asso...",
         "author": "aavetis",
-        "posted_time": "26 minutes ago",
+        "posted_time": "36 minutes ago",
         "link": "https://replit.com/bounties/@aavetis/nextjs-react-fronten?t="
     },
     {
@@ -5846,7 +5846,7 @@
         "title": "Rebuild an existing LowCode Mobile app as Native Mobile app (IOS and Android)",
         "description": "I have a mobile app built on the Bubble.io platform with a mobile wrapper that I need built as a native IOS and Android application so that it will work without internet.  I can provide access to the app, but functionally speaking:  It allows users to create a project, take or upload video/photo/notes and upload to our CRM.  It's very basic.\n\nAcceptance Criteria\nApp to function 100% identical to existing mobile webapp.",
         "author": "FrankieSoriano",
-        "posted_time": "10 minutes ago",
+        "posted_time": "20 minutes ago",
         "link": "https://replit.com/bounties/@FrankieSoriano/rebuild-an-existing?t="
     }
 ]
