@@ -5756,7 +5756,7 @@
         "title": "Boilerplate Swift App to demonstrate a security flaw",
         "description": "I want to build a small swift mobile app (mostly boilerplate) with minimal custom functionality.\nThere needs to be a feature that allows the user to sign up for the app, and the user's password needs to be hashed with SHA256 without salts\nThere needs to be a commented version of the same feature where we use scrypt to hash the user's password\n\nAcceptance Criteria\nStandard Swift Boilerplate of any mobile app type\nFeature that is a user sign up feature where the user's first name, last name, email and password are used\nThe password needs to be hashed and stored in a local database with SHA256 (insecure)\nthere needs to be commented functionality that hashes the user password with scrypt (secure version)",
         "author": "AbhayBhargav1",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@AbhayBhargav1/boilerplate-swift-ap?t="
     },
     {
@@ -5806,7 +5806,7 @@
         "title": "Front end for Existing Auto-Multiplayer share/unshare code",
         "description": "Simple wireframes and this text to be found in https://replit.com/@DavidAtReplit/DistinctDecimalEmbeds#ui.draw\n\nWe have 2x Replit Graph QL Driver code that allows teachers to, en masse, invite multiple people to multiple Repls, and also uninvite them. The use case for this is school-based coursework where the teacher needs to give them access before a lesson or unit of work, and remove access for marking at a later date. This has been done manually, but the wonderful @IanAtReplit has built two Repls that use GraphQL to automate this.\n\nWe would like to make this easier for teachers though, so we need a front end that uses ReplDB to store the user's CONNECT_SID as a login process (or extract it from the cookie automatically as in https://replit.com/@IroncladDev/extract-sid), then allows them to create groups, within each group either manually add multiple (repl-link, user-email, user-name) or upload a csv with the same - save this data in Repl db.\n\nEach team should t...",
         "author": "DavidAtReplit",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@DavidAtReplit/front-end-for-existi?t="
     },
     {
@@ -5826,7 +5826,7 @@
         "title": "[TRANSLATION] Convert Swift/Objective C Code Utilizing Various MacOS APIs to Python",
         "description": "tl;dr I have 150-200 lines of Swift/Objective C code that need to be converted into Python. It uses some Mac OS APIs to work. Repo Link: https://github.com/tml1024/FluffyDisplay. It is mainly a library that exports one function. I would like that function to be available through Python code. Please include previous bounty work and experience with Mac OS APIs. I will tip up extra for fast work!\n\nProblem Description\nFluffyDisplay allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in Swift/Objective C utilizing MacOS APIs. It is also made to be a partial library. I would like to convert this to Python and make it usable through python. Just convert the code to python. I don't mind it having multiple files or many dependencies.\n\nAcceptance Criteria\nI should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Python li...",
         "author": "EpicCodeWizard2",
-        "posted_time": "7 minutes ago",
+        "posted_time": "20 minutes ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/translation-convert-2?t="
     }
 ]

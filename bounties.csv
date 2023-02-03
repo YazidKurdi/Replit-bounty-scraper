@@ -4660,7 +4660,7 @@ Acceptance Criteria
 Standard Swift Boilerplate of any mobile app type
 Feature that is a user sign up feature where the user's first name, last name, email and password are used
 The password needs to be hashed and stored in a local database with SHA256 (insecure)
-there needs to be commented functionality that hashes the user password with scrypt (secure version)",AbhayBhargav1,7 hours ago,https://replit.com/bounties/@AbhayBhargav1/boilerplate-swift-ap?t=
+there needs to be commented functionality that hashes the user password with scrypt (secure version)",AbhayBhargav1,8 hours ago,https://replit.com/bounties/@AbhayBhargav1/boilerplate-swift-ap?t=
 576,$450.00,due in 11 days,Financial engine for data analysis,"A financial engine that gathers financials from key sources like https://www.sec.gov/edgar/search-and-access and enables the user to prompt ask data questions and get answers in both text and tables.
 
 Acceptance Criteria
@@ -4704,7 +4704,7 @@ We have 2x Replit Graph QL Driver code that allows teachers to, en masse, invite
 
 We would like to make this easier for teachers though, so we need a front end that uses ReplDB to store the user's CONNECT_SID as a login process (or extract it from the cookie automatically as in https://replit.com/@IroncladDev/extract-sid), then allows them to create groups, within each group either manually add multiple (repl-link, user-email, user-name) or upload a csv with the same - save this data in Repl db.
 
-Each team should t...",DavidAtReplit,2 hours ago,https://replit.com/bounties/@DavidAtReplit/front-end-for-existi?t=
+Each team should t...",DavidAtReplit,3 hours ago,https://replit.com/bounties/@DavidAtReplit/front-end-for-existi?t=
 581,$100.80,due in 3 days,Shopify app new feature,"I have a new edit discount page for when a user clicks into a custom discount code that has already been made in the shopify admin.
 It currently renders a page identical to the create discount page
 
@@ -4728,4 +4728,4 @@ Problem Description
 FluffyDisplay allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in Swift/Objective C utilizing MacOS APIs. It is also made to be a partial library. I would like to convert this to Python and make it usable through python. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
-I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Python li...",EpicCodeWizard2,7 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-2?t=
+I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Python li...",EpicCodeWizard2,20 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-2?t=
