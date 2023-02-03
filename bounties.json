@@ -5666,7 +5666,7 @@
         "title": "Javascript function, runnable on chrome console, to highlight sentence by sentence on kindle (read.amazon.com).",
         "description": "On read.amazon.com, the web version of kindle. I want to highlight a sentence and toggle to next/previous sentence by space and shift + space respectively.\n\nloom demo: https://www.loom.com/share/33851e5c8c064b56a0777bfb6a472d7a\n\nAcceptance Criteria\nExpected work flow: I load the page, and inspect chrome console and inject the javascript function. I press \"space\" and the first sentence on the page is highlighted.\nI pressed \"space\" again, the second sentence is highlighted and the first sentence is un-highlighted.\nHas to work on read.amazon.com on chrome browser.\n\nPlease comment on this post, or email me [email\u00a0protected] for any clarifications.",
         "author": "ranhoho",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@ranhoho/javascript-function?t="
     },
     {
