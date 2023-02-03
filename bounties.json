@@ -5766,7 +5766,7 @@
         "title": "Financial engine for data analysis",
         "description": "A financial engine that gathers financials from key sources like https://www.sec.gov/edgar/search-and-access and enables the user to prompt ask data questions and get answers in both text and tables.\n\nAcceptance Criteria\nThe AI engine accesses the API of the source, reads the financial documents, pulls out critical financial information, and formats it in both text answers and tables.\nBut, as a simple chat interface, it enables the user to ask any financial question related to various companies to get reliable data and information about that.\n\nTechnical Details\nAdvise.",
         "author": "GennaroCuofano",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/financial-engine-for?t="
     },
     {
@@ -5816,7 +5816,7 @@
         "title": "Shopify app new feature",
         "description": "I have a new edit discount page for when a user clicks into a custom discount code that has already been made in the shopify admin.\nIt currently renders a page identical to the create discount page\n\nWhat I need:\nThe ability for the shop owner to see details of the discount code and the ability to delete it on this new 'edit discount page'\n\nIdeally in the future it would mimic the original shopify edit page for normal discounts so the user can edit all the fields. But for MVP just a page where they can see the details of the discount and the ability to delete it would be fine for now.\n\nAcceptance Criteria\nUser goes to shopify admin\nUser clicks on discounts section\nUser clicks on custom discount\nUser taken to an edit page where they can see the discount summary and have the ability to delete the discount\n\nTechnical Details\nShould be one graphql call to get the discount code and display the deets using components from the create page\nAnd then one mutation to delete the...",
         "author": "SamuelAbaka-Woo",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@SamuelAbaka-Woo/shopify-app-new-feat?t="
     },
     {
@@ -5826,7 +5826,7 @@
         "title": "[TRANSLATION] Convert Swift/Objective C Code Utilizing Various MacOS APIs to Python",
         "description": "tl;dr I have 150-200 lines of Swift/Objective C code that need to be converted into Python. It uses some Mac OS APIs to work. Repo Link: https://github.com/tml1024/FluffyDisplay. It is mainly a library that exports one function. I would like that function to be available through Python code. Please include previous bounty work and experience with Mac OS APIs. I will tip up extra for fast work!\n\nProblem Description\nFluffyDisplay allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in Swift/Objective C utilizing MacOS APIs. It is also made to be a partial library. I would like to convert this to Python and make it usable through python. Just convert the code to python. I don't mind it having multiple files or many dependencies.\n\nAcceptance Criteria\nI should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Python li...",
         "author": "EpicCodeWizard2",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/translation-convert-2?t="
     },
     {
@@ -5846,7 +5846,7 @@
         "title": "Rebuild an existing LowCode Mobile app as Native Mobile app (IOS and Android)",
         "description": "I have a mobile app built on the Bubble.io platform with a mobile wrapper that I need built as a native IOS and Android application so that it will work without internet.  I can provide access to the app, but functionally speaking:  It allows users to create a project, take or upload video/photo/notes and upload to our CRM.  It's very basic.\n\nAcceptance Criteria\nApp to function 100% identical to existing mobile webapp.",
         "author": "FrankieSoriano",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@FrankieSoriano/rebuild-an-existing?t="
     }
 ]
