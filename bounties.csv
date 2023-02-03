@@ -4573,7 +4573,7 @@ The extension should take the schema into account when generating queries and ge
 
 Technical Details
 
-The most straightforward way to implement the extension is to use C and query the OpenAI API using libcurl. Other languages (such as Go or Rust) may also be used. ChatGPT can gen...",StasKelvich,7 hours ago,https://replit.com/bounties/@StasKelvich/postgres-gpt-extensi?t=
+The most straightforward way to implement the extension is to use C and query the OpenAI API using libcurl. Other languages (such as Go or Rust) may also be used. ChatGPT can gen...",StasKelvich,8 hours ago,https://replit.com/bounties/@StasKelvich/postgres-gpt-extensi?t=
 566,$45.00,due in 2 months,"Javascript function, runnable on chrome console, to highlight sentence by sentence on kindle (read.amazon.com).","On read.amazon.com, the web version of kindle. I want to highlight a sentence and toggle to next/previous sentence by space and shift + space respectively.
 
 loom demo: https://www.loom.com/share/33851e5c8c064b56a0777bfb6a472d7a
@@ -4601,7 +4601,7 @@ i want the user to be able to upload a csv file with two columns
 	https://platform.openai.com/docs/guides/embeddings/use-cases
 	create text embeddings, save them and train a model for inference
 a screen for the project to input text to generate a result using the trained inference
-	this should have a share...",ShaneBurkhart,2 hours ago,https://replit.com/bounties/@ShaneBurkhart/web-application-for?t=
+	this should have a share...",ShaneBurkhart,3 hours ago,https://replit.com/bounties/@ShaneBurkhart/web-application-for?t=
 568,$50.00,due in 6 days,Get this repo to deploy on Vercel so I can play around with it,"Hi! I forked a website that I want to play around with but can't get it to deploy on Vercel. This is the GitHub repo: https://github.com/juandolealt/winXP
 
 I don't know how to code but am in the process of learning & would love to use this as a base / playground for me to go off of! I just want to get it to deploy successfully, but keep getting a bunch of errors.
@@ -4610,7 +4610,7 @@ Thank you!
 
 Acceptance Criteria
 A pull request (or pull requests) fixing all of the issues in GitHub so that it'll deploy on Vercel (fixing unmet peer dependencies so that there will be no warnings).
-An explanation for a beginner on why this isn't deploying and what I can do with future projects to ensure I don't run into the same issue! Any resources are incredibly helpful here.",juanderer,37 minutes ago,https://replit.com/bounties/@juanderer/get-this-repo-to-dep?t=
+An explanation for a beginner on why this isn't deploying and what I can do with future projects to ensure I don't run into the same issue! Any resources are incredibly helpful here.",juanderer,53 minutes ago,https://replit.com/bounties/@juanderer/get-this-repo-to-dep?t=
 569,$60.00,due in 5 days,reply to emails using gpt3 and chrome extension,"We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add replies:
 
 you go to a thread and see options for tones (Formal/Casual), Afiirmation (Interested/Not interested), and then click write.
@@ -4624,8 +4624,12 @@ must meet UI/UX requirements.
 Technical Details
 Chrome extension v3.
 
-Link to Project",ShubhKathuria,34 minutes ago,https://replit.com/bounties/@ShubhKathuria/reply-to-emails-usin?t=
+Link to Project",ShubhKathuria,50 minutes ago,https://replit.com/bounties/@ShubhKathuria/reply-to-emails-usin?t=
 570,$27.00,due in 13 days,Create a template repl for building web games,"Working with team members to create web based games using replit auth, replit db, socket.io, and express. This bounty is to allow me to compensate them for augmenting an existing repl to become a template for building web based games with login, replit db, etc.
 
 Acceptance Criteria
-The criteria has been discussed offline.",triptych,14 minutes ago,https://replit.com/bounties/@triptych/create-a-template-re?t=
+The criteria has been discussed offline.",triptych,30 minutes ago,https://replit.com/bounties/@triptych/create-a-template-re?t=
+571,$50.00,due in 13 days,Public Screen Monitor,"Acceptance Criteria
+screen monitoring website where you login, add your phone number, and you can share your screen.
+any logged in user's screen will be available on a public monitor (e.g. a different route within the web-app).
+on the public monitor, there should be an alert button that sends an sms message to your phone number with a message like ""hey you're not working.""  optional, allow users to write a custom message",aidantorrence,12 minutes ago,https://replit.com/bounties/@aidantorrence/public-screen-monito?t=

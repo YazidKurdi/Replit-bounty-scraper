@@ -5656,7 +5656,7 @@
         "title": "Postgres GPT extension",
         "description": "Project Description\n\nDevelop a Postgres extension (pg_gpt) that uses the OpenAI API to generate SQL queries from natural language descriptions and explain SQL queries using natural text. The extension should provide the following functions:\n\ngpt.query('average user age', execute => true) - generates a query and optionally executes it.\ngpt.explain('select * from users') - explains a query in natural language.\ngpt.explain_plan('select * from users') - explains a query plan in natural language.\n\nThe extension should be aware of the current database schema and use it in queries.\n\nAcceptance Criteria\n\nThe extension should take the schema into account when generating queries and generate relevant results. For tests we will use the airlines demo database (https://postgrespro.com/community/demodb).\n\nTechnical Details\n\nThe most straightforward way to implement the extension is to use C and query the OpenAI API using libcurl. Other languages (such as Go or Rust) may also be used. ChatGPT can gen...",
         "author": "StasKelvich",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@StasKelvich/postgres-gpt-extensi?t="
     },
     {
@@ -5676,7 +5676,7 @@
         "title": "web application for users to create openai text embedding regression models",
         "description": "i want a website where users can signup and pay $30/months to create projects where they can upload csv of text and number value pairs. it generates a regression model using open ai text embeddings. they get a simple interface they can share with other to get an estimate of their text input\n\nAcceptance Criteria\n\nTechnical Details\nvercel, idc the database. i'm open to other ideas\ntailwind is great for styling. the interface can be basic\nuser login via email and password\nsign up for a subscription for $30 / month\nusers can create projects\nprojects are text regression dataset inferences\ni want the user to be able to upload a csv file with two columns\n\ttext, value\n\tafter upload, implement the regression recipe here for star reviews\n\thttps://platform.openai.com/docs/guides/embeddings/use-cases\n\tcreate text embeddings, save them and train a model for inference\na screen for the project to input text to generate a result using the trained inference\n\tthis should have a share...",
         "author": "ShaneBurkhart",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@ShaneBurkhart/web-application-for?t="
     },
     {
@@ -5686,7 +5686,7 @@
         "title": "Get this repo to deploy on Vercel so I can play around with it",
         "description": "Hi! I forked a website that I want to play around with but can't get it to deploy on Vercel. This is the GitHub repo: https://github.com/juandolealt/winXP\n\nI don't know how to code but am in the process of learning & would love to use this as a base / playground for me to go off of! I just want to get it to deploy successfully, but keep getting a bunch of errors.\n\nThank you!\n\nAcceptance Criteria\nA pull request (or pull requests) fixing all of the issues in GitHub so that it'll deploy on Vercel (fixing unmet peer dependencies so that there will be no warnings).\nAn explanation for a beginner on why this isn't deploying and what I can do with future projects to ensure I don't run into the same issue! Any resources are incredibly helpful here.",
         "author": "juanderer",
-        "posted_time": "37 minutes ago",
+        "posted_time": "53 minutes ago",
         "link": "https://replit.com/bounties/@juanderer/get-this-repo-to-dep?t="
     },
     {
@@ -5696,7 +5696,7 @@
         "title": "reply to emails using gpt3 and chrome extension",
         "description": "We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add replies:\n\nyou go to a thread and see options for tones (Formal/Casual), Afiirmation (Interested/Not interested), and then click write.\nbased on the context of the message above and the options you choose, a specific prompt should go to the API, which will then generate a response.\nThe response should then be injected into the reply window.\nYou have to implement the buttons, reading of the message above, interacting with the API and injecting into gmail.\n\nAcceptance Criteria\nmust meet UI/UX requirements.\n\nTechnical Details\nChrome extension v3.\n\nLink to Project",
         "author": "ShubhKathuria",
-        "posted_time": "34 minutes ago",
+        "posted_time": "50 minutes ago",
         "link": "https://replit.com/bounties/@ShubhKathuria/reply-to-emails-usin?t="
     },
     {
@@ -5706,7 +5706,17 @@
         "title": "Create a template repl for building web games",
         "description": "Working with team members to create web based games using replit auth, replit db, socket.io, and express. This bounty is to allow me to compensate them for augmenting an existing repl to become a template for building web based games with login, replit db, etc.\n\nAcceptance Criteria\nThe criteria has been discussed offline.",
         "author": "triptych",
-        "posted_time": "14 minutes ago",
+        "posted_time": "30 minutes ago",
         "link": "https://replit.com/bounties/@triptych/create-a-template-re?t="
+    },
+    {
+        "index": "571",
+        "price": "$50.00",
+        "due_days": "due in 13 days",
+        "title": "Public Screen Monitor",
+        "description": "Acceptance Criteria\nscreen monitoring website where you login, add your phone number, and you can share your screen.\nany logged in user's screen will be available on a public monitor (e.g. a different route within the web-app).\non the public monitor, there should be an alert button that sends an sms message to your phone number with a message like \"hey you're not working.\"  optional, allow users to write a custom message",
+        "author": "aidantorrence",
+        "posted_time": "12 minutes ago",
+        "link": "https://replit.com/bounties/@aidantorrence/public-screen-monito?t="
     }
 ]
