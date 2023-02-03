@@ -4610,7 +4610,7 @@ Thank you!
 
 Acceptance Criteria
 A pull request (or pull requests) fixing all of the issues in GitHub so that it'll deploy on Vercel (fixing unmet peer dependencies so that there will be no warnings).
-An explanation for a beginner on why this isn't deploying and what I can do with future projects to ensure I don't run into the same issue! Any resources are incredibly helpful here.",juanderer,3 hours ago,https://replit.com/bounties/@juanderer/get-this-repo-to-dep?t=
+An explanation for a beginner on why this isn't deploying and what I can do with future projects to ensure I don't run into the same issue! Any resources are incredibly helpful here.",juanderer,4 hours ago,https://replit.com/bounties/@juanderer/get-this-repo-to-dep?t=
 569,$60.00,due in 5 days,reply to emails using gpt3 and chrome extension,"We have a chrome extension that uses GPT3 to generate emails based on a given prompt. As a new feature, we want to add replies:
 
 you go to a thread and see options for tones (Formal/Casual), Afiirmation (Interested/Not interested), and then click write.
@@ -4624,7 +4624,7 @@ must meet UI/UX requirements.
 Technical Details
 Chrome extension v3.
 
-Link to Project",ShubhKathuria,3 hours ago,https://replit.com/bounties/@ShubhKathuria/reply-to-emails-usin?t=
+Link to Project",ShubhKathuria,4 hours ago,https://replit.com/bounties/@ShubhKathuria/reply-to-emails-usin?t=
 570,$27.00,due in 13 days,Create a template repl for building web games,"Working with team members to create web based games using replit auth, replit db, socket.io, and express. This bounty is to allow me to compensate them for augmenting an existing repl to become a template for building web based games with login, replit db, etc.
 
 Acceptance Criteria
@@ -4636,3 +4636,12 @@ on the public monitor, there should be an alert button that sends an sms message
 572,$6.75,due in 7 days,Write string to file in Android (using Okio and AtomicFile),"I need to write a file to disk in Android. I want to do it with okio and atomicFile. This gist should help? https://gist.github.com/ZacSweers/0dfa1b38f23558cfd1a0a391cfab3542
 Acceptance Criteria
 I want a sample of how to write ""hello world"" to disk in android using okio and writing to an atomic File",IdleIdle,2 hours ago,https://replit.com/bounties/@IdleIdle/write-string-to-file?t=
+573,$18.00,due in 4 days,Compile Code For Extension,"Hi there I am building a chrome extension but have no idea how to compile some code. I urgently need some help just to compile the code! Docker/JS/React/Python…
+
+Acceptance Criteria
+Code is compiled such that extension is now laodable
+Complete me in the next hour!
+
+Technical Details
+
+Link to Project",AshPrabaker1,9 minutes ago,https://replit.com/bounties/@AshPrabaker1/compile-code-for-ext?t=
