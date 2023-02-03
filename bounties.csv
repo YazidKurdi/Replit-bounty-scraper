@@ -4696,7 +4696,7 @@ Users need the ability to download images one at a time not just all at once. Wh
 Example CSS
 : background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(image.png);
 Watermarking Images
-All of our photos should be watermarked UNTIL the user hovers over a photo and clicks “Download”. The downloaded asset will be the full resolution version of the asset without a watermark. The purpose of the watermark is to ensure that people don’t just screenshot the images. That behavior would sever...",RamonBerrios,3 hours ago,https://replit.com/bounties/@RamonBerrios/ai-tool-web-app?t=
+All of our photos should be watermarked UNTIL the user hovers over a photo and clicks “Download”. The downloaded asset will be the full resolution version of the asset without a watermark. The purpose of the watermark is to ensure that people don’t just screenshot the images. That behavior would sever...",RamonBerrios,4 hours ago,https://replit.com/bounties/@RamonBerrios/ai-tool-web-app?t=
 579,$0.90,closed,House in CSS,"make a house in html,css,js without images",Fairies0feast,3 hours ago,https://replit.com/bounties/@Fairies0feast/house-in-css?t=
 580,$60.04,due in 13 days,Front end for Existing Auto-Multiplayer share/unshare code,"Simple wireframes and this text to be found in https://replit.com/@DavidAtReplit/DistinctDecimalEmbeds#ui.draw
 
@@ -4728,7 +4728,7 @@ Problem Description
 FluffyDisplay allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in Swift/Objective C utilizing MacOS APIs. It is also made to be a partial library. I would like to convert this to Python and make it usable through python. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
-I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Python li...",EpicCodeWizard2,54 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-2?t=
+I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Python li...",EpicCodeWizard2,1 hour ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-2?t=
 583,$450.00,due in 6 days,Next.js + React frontend for AI web application,"Overview
 
 A simple web application for teachers to create assignments associated with their classrooms
@@ -4752,4 +4752,8 @@ What’s needed
 Review mockups for general guidance on sidebar, page styling
 Create “view / edit classrooms” page that lists classes and can open modals to edit the details of each one
 Sidebar class selector should update the context of the dashboard
-Create /assignments page to list assignments asso...",aavetis,11 minutes ago,https://replit.com/bounties/@aavetis/nextjs-react-fronten?t=
+Create /assignments page to list assignments asso...",aavetis,19 minutes ago,https://replit.com/bounties/@aavetis/nextjs-react-fronten?t=
+584,$225.00,due in 13 days,Rebuild an existing LowCode Mobile app as Native Mobile app (IOS and Android),"I have a mobile app built on the Bubble.io platform with a mobile wrapper that I need built as a native IOS and Android application so that it will work without internet.  I can provide access to the app, but functionally speaking:  It allows users to create a project, take or upload video/photo/notes and upload to our CRM.  It's very basic.
+
+Acceptance Criteria
+App to function 100% identical to existing mobile webapp.",FrankieSoriano,3 minutes ago,https://replit.com/bounties/@FrankieSoriano/rebuild-an-existing?t=
