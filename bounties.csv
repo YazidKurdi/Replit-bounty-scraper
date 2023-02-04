@@ -4728,7 +4728,7 @@ Problem Description
 FluffyDisplay allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in Swift/Objective C utilizing MacOS APIs. It is also made to be a partial library. I would like to convert this to Python and make it usable through python. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
-I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Python li...",EpicCodeWizard2,11 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-2?t=
+I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Python li...",EpicCodeWizard2,12 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-2?t=
 583,$450.00,due in 6 days,Next.js + React frontend for AI web application,"Overview
 
 A simple web application for teachers to create assignments associated with their classrooms
@@ -4756,7 +4756,7 @@ Create /assignments page to list assignments asso...",aavetis,11 hours ago,https
 584,$225.00,due in 13 days,Rebuild an existing LowCode Mobile app as Native Mobile app (IOS and Android),"I have a mobile app built on the Bubble.io platform with a mobile wrapper that I need built as a native IOS and Android application so that it will work without internet.  I can provide access to the app, but functionally speaking:  It allows users to create a project, take or upload video/photo/notes and upload to our CRM.  It's very basic.
 
 Acceptance Criteria
-App to function 100% identical to existing mobile webapp.",FrankieSoriano,10 hours ago,https://replit.com/bounties/@FrankieSoriano/rebuild-an-existing?t=
+App to function 100% identical to existing mobile webapp.",FrankieSoriano,11 hours ago,https://replit.com/bounties/@FrankieSoriano/rebuild-an-existing?t=
 585,$130.50,due in 3 days,Add a credentials (email/password) provider using NextAuth to an existing NextJS app,"I have a functioning NextJS app with working authentication using NextAuth with a Google provider. I need to add a second provider with ""Credentials"" email and password. The foundation for NextAuth is already in place.
 
 Acceptance Criteria
@@ -4775,7 +4775,7 @@ Postgres
 Requirements
 Experience with authentication, nextauth, nextjs, prisma and postgres db
 Priority for anyone with relevant experience/projects mentioned
-Will tip more if completed before the deadline.",juancaruiz,8 hours ago,https://replit.com/bounties/@juancaruiz/add-a-credentials-em?t=
+Will tip more if completed before the deadline.",juancaruiz,9 hours ago,https://replit.com/bounties/@juancaruiz/add-a-credentials-em?t=
 586,$18.00,due in 4 days,New Email Template Design Needed,"I have created a AI-powered newsletter service that sends out a daily email containing GPT3 generated advice based on a popular movie quote. The problem is I am not a fan of the HTML + CSS used in the actual email template. I am looking for someone to design a better looking email template, send me the mockup for approval, and then implement the mockup in HTML + CSS.
 
 Acceptance Criteria
@@ -4805,7 +4805,7 @@ You can get access to shopify store's products via: shop_url/products.json, e.g.
                 url=url,
                 img_url=product""images""[""src""],
             )
-In general this information will directly be able to be extracted from the json file listed in the URL. However, there are some cases like: h...",RaymondYuan2,7 hours ago,https://replit.com/bounties/@RaymondYuan2/shopify-product-lite?t=
+In general this information will directly be able to be extracted from the json file listed in the URL. However, there are some cases like: h...",RaymondYuan2,8 hours ago,https://replit.com/bounties/@RaymondYuan2/shopify-product-lite?t=
 588,$45.00,due in 13 days,Swordbattle v2 packet system - p2,Make an efficient binary packet system for swordbattle v2,CoderGautamYT,6 hours ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-packe-1?t=
 589,$180.00,due in 12 days,Basic Triangle LWJGL and OpenGL OpenXR apk for Quest 2,"I need an OpenXR application written with the LWJGL 3.3 library. Please use OpenGL for the renderer. And it needs to be an android app so that I can run it on quest. It needs views implemented as displacement. It needs to render one triangle in a fixed location that the user can ""move their head around"". Quest Passthrough would be nice but that is not required. I will be verifying with a quest 2 headset.",ParkerDiard,4 hours ago,https://replit.com/bounties/@ParkerDiard/basic-triangle-lwjgl?t=
 590,$90.00,due in 4 days,Seeking someone experienced with Java and working with APIs (need to deliver results within 48 hours of accepting job),"I have already coded a marketplace account deletion notification endpoint in my Controller class. I need you to customize it so it can receive and acknowledge eBay marketplace account deletion/closure notifications. See: https://developer.ebay.com/marketplace-account-deletion#:~:text=Receiving%20and%20acknowledging%20eBay%20marketplace%20account%20deletion/closure%20notifications
@@ -4814,7 +4814,7 @@ Apply an eBay API to my pre-built service class and incorporate 2 functions, one
 
 Please ask me if you have any questions. The application is a Java Spring Boot application, so I need someone skilled in Java and who can deliver within 48 hours.
 
-""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,3 hours ago,https://replit.com/bounties/@mdotbaig/seeking-someone-expe?t=
+""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,4 hours ago,https://replit.com/bounties/@mdotbaig/seeking-someone-expe?t=
 591,$90.00,due in 14 days,Build a simple (boilerplate) app in Angular to demonstrate vulnerability with Strict Contextual Escaping disabled ,"Angular has Strict Contextual Escaping that helps it prevent against XSS
 I need a small, minimal app where this strict-contextual-escaping is disabled
 The idea is to demonstrate this vulnerability to other developers and look at a secure variant of the same
@@ -4823,4 +4823,4 @@ Acceptance Criteria
 Angular application with minimal (basic) functionality where there are some user inputs, etc.
 Use any CSS framework or tailwind - Something that makes the app look presentable is fine. Nothing fancy needed
 The important thing is that the input from the user needs to be consumed and the app must have strict-contextual-escaping disabled
-The user input needs to be in some inline HTML, rendering it vulnerable against XSS",AbhayBhargav1,47 minutes ago,https://replit.com/bounties/@AbhayBhargav1/build-a-simple-boile?t=
+The user input needs to be in some inline HTML, rendering it vulnerable against XSS",AbhayBhargav1,1 hour ago,https://replit.com/bounties/@AbhayBhargav1/build-a-simple-boile?t=
