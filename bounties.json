@@ -5836,7 +5836,7 @@
         "title": "Next.js + React frontend for AI web application",
         "description": "Overview\n\nA simple web application for teachers to create assignments associated with their classrooms\nUsing Next.js, TailwindUI, Vercel, Supabase, custom API for assignment generation\nTeachers will create classrooms to house assignments\nGenerating assignments consumes arbitrary \u2018tokens\u2019 - every account has a starting amount of them.\n\nWhat\u2019s done\n\nBootstrapped web application with Next.js, deployed to Vercel\nSupabase integration for database and authentication\nApp components / pages\n    Basic landing page\n    Sign in / sign up (hidden)\n    Authenticated dashboard landing page\n    New classroom form (needs some styling work)\n    Classroom details and assignment list (needs some styling work)\n\nWhat\u2019s needed\n\nReview mockups for general guidance on sidebar, page styling\nCreate \u201cview / edit classrooms\u201d page that lists classes and can open modals to edit the details of each one\nSidebar class selector should update the context of the dashboard\nCreate /assignments page to list assignments asso...",
         "author": "aavetis",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@aavetis/nextjs-react-fronten?t="
     },
     {
@@ -5916,7 +5916,7 @@
         "title": "Build a simple (boilerplate) app in Angular to demonstrate vulnerability with Strict Contextual Escaping disabled ",
         "description": "Angular has Strict Contextual Escaping that helps it prevent against XSS\nI need a small, minimal app where this strict-contextual-escaping is disabled\nThe idea is to demonstrate this vulnerability to other developers and look at a secure variant of the same\n\nAcceptance Criteria\nAngular application with minimal (basic) functionality where there are some user inputs, etc.\nUse any CSS framework or tailwind - Something that makes the app look presentable is fine. Nothing fancy needed\nThe important thing is that the input from the user needs to be consumed and the app must have strict-contextual-escaping disabled\nThe user input needs to be in some inline HTML, rendering it vulnerable against XSS",
         "author": "AbhayBhargav1",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@AbhayBhargav1/build-a-simple-boile?t="
     },
     {
