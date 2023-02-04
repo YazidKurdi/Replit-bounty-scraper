@@ -5896,7 +5896,7 @@
         "title": "Basic Triangle LWJGL and OpenGL OpenXR apk for Quest 2",
         "description": "I need an OpenXR application written with the LWJGL 3.3 library. Please use OpenGL for the renderer. And it needs to be an android app so that I can run it on quest. It needs views implemented as displacement. It needs to render one triangle in a fixed location that the user can \"move their head around\". Quest Passthrough would be nice but that is not required. I will be verifying with a quest 2 headset.",
         "author": "ParkerDiard",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@ParkerDiard/basic-triangle-lwjgl?t="
     },
     {
