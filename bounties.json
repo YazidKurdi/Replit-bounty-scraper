@@ -5876,7 +5876,7 @@
         "title": "Shopify Product + Literature Scraper",
         "description": "Shopify Product + Literature Scraper\nScrape all shopify product and literature available given a shop url.\nProduct Requirements\nYou can get access to shopify store's products via: shop_url/products.json, e.g. https://usehuron.com/products.json. This will give you a list of products, and we need to scrape the following criteria:\n        url = f\"https://{store.shop_url}/products/{product['handle']}\"\n            Product(\n                store_id=store,\n                handle=product[\"handle\"],\n                title=product[\"title\"],\n                bodyhtml=product[\"bodyhtml\"],\n                status=product.get(\"status\", \"active\"),\n                tags=product[\"tags\"],\n                createdat=product[\"createdat\"],\n                updatedat=product[\"updatedat\"],\n                url=url,\n                img_url=product\"images\"[\"src\"],\n            )\nIn general this information will directly be able to be extracted from the json file listed in the URL. However, there are some cases like: h...",
         "author": "RaymondYuan2",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@RaymondYuan2/shopify-product-lite?t="
     },
     {
@@ -5906,7 +5906,7 @@
         "title": "Seeking someone experienced with Java and working with APIs (need to deliver results within 48 hours of accepting job)",
         "description": "I have already coded a marketplace account deletion notification endpoint in my Controller class. I need you to customize it so it can receive and acknowledge eBay marketplace account deletion/closure notifications. See: https://developer.ebay.com/marketplace-account-deletion#:~:text=Receiving%20and%20acknowledging%20eBay%20marketplace%20account%20deletion/closure%20notifications\n\nApply an eBay API to my pre-built service class and incorporate 2 functions, one that calculates median and one that calculates the mean of the results that we query. Will involve implementing the eBay Finding and Browse APIs to perform certain functions in my service class.\n\nPlease ask me if you have any questions. The application is a Java Spring Boot application, so I need someone skilled in Java and who can deliver within 48 hours.\n\n\"By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.\"",
         "author": "mdotbaig",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/seeking-someone-expe?t="
     },
     {
@@ -5946,7 +5946,17 @@
         "title": "Need an experienced Java developer to set up controller method to receive notifications",
         "description": "I am new to Java and trying to gain access to eBay developers program. It require setting up account deletion notifications: https://developer.ebay.com/marketplace-account-deletion\n\nI've already set up an endpoint in my Controller class:\n\n @RequestMapping(value = \"/challenge\", method = RequestMethod.GET)\n    public ResponseEntity handleChallenge(@RequestParam(\"challenge_code\") String challengeCode) throws Exception {\n\n        // Input validation and error handling\n        if (challengeCode == null || challengeCode.isEmpty()) {\n            return ResponseEntity.badRequest().body(\"challenge_code is required\");\n        }\n\n        // Hash the challenge code, verification token, and endpoint URL together\n        MessageDigest digest = MessageDigest.getInstance(\"SHA-256\");\n        digest.update(challengeCode.getBytes(StandardCharsets.UTF_8));\n        digest.update(verificationToken.getBytes(StandardCharsets.UTF_8));\n        byte[] bytes = digest.digest(endpoint.getBytes(S...",
         "author": "mdotbaig",
-        "posted_time": "46 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@mdotbaig/need-an-experienced?t="
+    },
+    {
+        "index": "595",
+        "price": "$95.40",
+        "due_days": "due in 3 days",
+        "title": "Chrome Exrension Bug Fix & Compile - Urgent",
+        "description": "Our Chrome Extension currently works by loading a search bar when a shortcut 'Command+K' is hit. However, if a web app e.g. Gmail, previously had a function with that same shortcut, our extension overrules this. This is undesirable as it ruins the functionality of many web apps such as Notion, Superhuman and Gmail.\n\nWe would like for the code to be edited such that the web app is given precendence whenever there is a shortcut conflict.\n\nAcceptance Criteria\n\nDeliverable in a few hours\n\nEdits the provided code such that the functionality of the chrome extension remains unchanged except for the fact that the chrome extension's shortcut now does not function on web apps where there is a shortcut conflict and instead, the web app shortcut functions as expected.\n\nCompiles the code and provides the final set of compiled code that's ready to be used as a chrome extension.\n\nTechnical Details\nReact/JS/Docker",
+        "author": "AshPrabaker1",
+        "posted_time": "7 minutes ago",
+        "link": "https://replit.com/bounties/@AshPrabaker1/chrome-exrension-bug?t="
     }
 ]
