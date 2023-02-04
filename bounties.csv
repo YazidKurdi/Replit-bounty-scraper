@@ -4846,7 +4846,7 @@ The files changed are accessible. I can expand a diff for each file to view it
 
 The commit list is visible
 
-The comment threads...",dev2prod,7 hours ago,https://replit.com/bounties/@dev2prod/github-pull-request?t=
+The comment threads...",dev2prod,8 hours ago,https://replit.com/bounties/@dev2prod/github-pull-request?t=
 593,$54.00,due in 13 days,Port avvvatars react lib to Vue 3,"This React library makes it easy to use nice looking avatars in a web app.
 https://github.com/nusu/avvvatars
 
@@ -4870,4 +4870,4 @@ I've already set up an endpoint in my Controller class:
         MessageDigest digest = MessageDigest.getInstance(""SHA-256"");
         digest.update(challengeCode.getBytes(StandardCharsets.UTF_8));
         digest.update(verificationToken.getBytes(StandardCharsets.UTF_8));
-        byte[] bytes = digest.digest(endpoint.getBytes(S...",mdotbaig,36 minutes ago,https://replit.com/bounties/@mdotbaig/need-an-experienced?t=
+        byte[] bytes = digest.digest(endpoint.getBytes(S...",mdotbaig,46 minutes ago,https://replit.com/bounties/@mdotbaig/need-an-experienced?t=

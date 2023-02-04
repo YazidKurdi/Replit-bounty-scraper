@@ -5926,7 +5926,7 @@
         "title": "GitHub Pull Request Viewer in Next.js",
         "description": "I primarily access GitHub through the API, as I work for many different customers and have different tokens for each. However, I would like a way to view a pull request without having to log into accounts. Instead, I'd just like to pull up a page where it fills in the API token for me and replicates the pull request UI.\n\nYour task is to (re)create the pull request page from GitHub (ie. this page - ) using the API alone. Visual fidelity is not required (just use components from any component library, though Primer or Material UI are preferred), nor is all the functionality of the interface.\n\nAcceptance Criteria\n\nI can open /apps///pulls/ to view a pull request. The details are fetched via the API from my GitHub app.\n\nThe page has this info:\n\n    PR title\n\n    PR author\n\n    PR body (description)\n\n    PR status (merged, closed, draft, etc.)\n\nThe files changed are accessible. I can expand a diff for each file to view it\n\nThe commit list is visible\n\nThe comment threads...",
         "author": "dev2prod",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@dev2prod/github-pull-request?t="
     },
     {
@@ -5946,7 +5946,7 @@
         "title": "Need an experienced Java developer to set up controller method to receive notifications",
         "description": "I am new to Java and trying to gain access to eBay developers program. It require setting up account deletion notifications: https://developer.ebay.com/marketplace-account-deletion\n\nI've already set up an endpoint in my Controller class:\n\n @RequestMapping(value = \"/challenge\", method = RequestMethod.GET)\n    public ResponseEntity handleChallenge(@RequestParam(\"challenge_code\") String challengeCode) throws Exception {\n\n        // Input validation and error handling\n        if (challengeCode == null || challengeCode.isEmpty()) {\n            return ResponseEntity.badRequest().body(\"challenge_code is required\");\n        }\n\n        // Hash the challenge code, verification token, and endpoint URL together\n        MessageDigest digest = MessageDigest.getInstance(\"SHA-256\");\n        digest.update(challengeCode.getBytes(StandardCharsets.UTF_8));\n        digest.update(verificationToken.getBytes(StandardCharsets.UTF_8));\n        byte[] bytes = digest.digest(endpoint.getBytes(S...",
         "author": "mdotbaig",
-        "posted_time": "36 minutes ago",
+        "posted_time": "46 minutes ago",
         "link": "https://replit.com/bounties/@mdotbaig/need-an-experienced?t="
     }
 ]
