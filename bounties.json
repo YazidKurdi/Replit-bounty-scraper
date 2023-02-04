@@ -5896,7 +5896,7 @@
         "title": "Basic Triangle LWJGL and OpenGL OpenXR apk for Quest 2",
         "description": "I need an OpenXR application written with the LWJGL 3.3 library. Please use OpenGL for the renderer. And it needs to be an android app so that I can run it on quest. It needs views implemented as displacement. It needs to render one triangle in a fixed location that the user can \"move their head around\". Quest Passthrough would be nice but that is not required. I will be verifying with a quest 2 headset.",
         "author": "ParkerDiard",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@ParkerDiard/basic-triangle-lwjgl?t="
     },
     {
@@ -5956,7 +5956,17 @@
         "title": "Chrome Exrension Bug Fix & Compile - Urgent",
         "description": "Our Chrome Extension currently works by loading a search bar when a shortcut 'Command+K' is hit. However, if a web app e.g. Gmail, previously had a function with that same shortcut, our extension overrules this. This is undesirable as it ruins the functionality of many web apps such as Notion, Superhuman and Gmail.\n\nWe would like for the code to be edited such that the web app is given precendence whenever there is a shortcut conflict.\n\nAcceptance Criteria\n\nDeliverable in a few hours\n\nEdits the provided code such that the functionality of the chrome extension remains unchanged except for the fact that the chrome extension's shortcut now does not function on web apps where there is a shortcut conflict and instead, the web app shortcut functions as expected.\n\nCompiles the code and provides the final set of compiled code that's ready to be used as a chrome extension.\n\nTechnical Details\nReact/JS/Docker",
         "author": "AshPrabaker1",
-        "posted_time": "22 minutes ago",
+        "posted_time": "32 minutes ago",
         "link": "https://replit.com/bounties/@AshPrabaker1/chrome-exrension-bug?t="
+    },
+    {
+        "index": "596",
+        "price": "$50.00",
+        "due_days": "due in 4 days",
+        "title": "Deploy the vall-e machine learning model to the cloud and create an API for usage.",
+        "description": "Acceptance Criteria\nDeploy the vall-e machine learning model to the cloud and create an API for usage.\nDeploy to AWS/GCP or use a service like Replicate\n\nhttps://valle-demo.github.io/\nhttps://github.com/enhuiz/vall-e",
+        "author": "aidantorrence",
+        "posted_time": "2 minutes ago",
+        "link": "https://replit.com/bounties/@aidantorrence/deploy-the-vall-e-ma?t="
     }
 ]
