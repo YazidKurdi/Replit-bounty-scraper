@@ -5836,7 +5836,7 @@
         "title": "Next.js + React frontend for AI web application",
         "description": "Overview\n\nA simple web application for teachers to create assignments associated with their classrooms\nUsing Next.js, TailwindUI, Vercel, Supabase, custom API for assignment generation\nTeachers will create classrooms to house assignments\nGenerating assignments consumes arbitrary \u2018tokens\u2019 - every account has a starting amount of them.\n\nWhat\u2019s done\n\nBootstrapped web application with Next.js, deployed to Vercel\nSupabase integration for database and authentication\nApp components / pages\n    Basic landing page\n    Sign in / sign up (hidden)\n    Authenticated dashboard landing page\n    New classroom form (needs some styling work)\n    Classroom details and assignment list (needs some styling work)\n\nWhat\u2019s needed\n\nReview mockups for general guidance on sidebar, page styling\nCreate \u201cview / edit classrooms\u201d page that lists classes and can open modals to edit the details of each one\nSidebar class selector should update the context of the dashboard\nCreate /assignments page to list assignments asso...",
         "author": "aavetis",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@aavetis/nextjs-react-fronten?t="
     },
     {
@@ -5866,7 +5866,7 @@
         "title": "New Email Template Design Needed",
         "description": "I have created a AI-powered newsletter service that sends out a daily email containing GPT3 generated advice based on a popular movie quote. The problem is I am not a fan of the HTML + CSS used in the actual email template. I am looking for someone to design a better looking email template, send me the mockup for approval, and then implement the mockup in HTML + CSS.\n\nAcceptance Criteria\nDesign a mockup of the email template for approval and provide it to me\nIf any changes are required, I will try to keep them minimal, please work with me to update them.\nOnce approved, provide the HTML file that should include all CSS required to match the mockup's styling\nThe Email Template should also be optimized for mobile viewing as well.\n\nTechnical Details\nThe current HTML file can be found here: https://replit.com/@Dprevoznik/And-Action#templates/email-template.html\n\nI am really open to a totally new design. I am not married to colors / layout at all. It should be polis...",
         "author": "Dprevoznik",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@Dprevoznik/new-email-template-d?t="
     },
     {
@@ -5876,7 +5876,7 @@
         "title": "Shopify Product + Literature Scraper",
         "description": "Shopify Product + Literature Scraper\nScrape all shopify product and literature available given a shop url.\nProduct Requirements\nYou can get access to shopify store's products via: shop_url/products.json, e.g. https://usehuron.com/products.json. This will give you a list of products, and we need to scrape the following criteria:\n        url = f\"https://{store.shop_url}/products/{product['handle']}\"\n            Product(\n                store_id=store,\n                handle=product[\"handle\"],\n                title=product[\"title\"],\n                bodyhtml=product[\"bodyhtml\"],\n                status=product.get(\"status\", \"active\"),\n                tags=product[\"tags\"],\n                createdat=product[\"createdat\"],\n                updatedat=product[\"updatedat\"],\n                url=url,\n                img_url=product\"images\"[\"src\"],\n            )\nIn general this information will directly be able to be extracted from the json file listed in the URL. However, there are some cases like: h...",
         "author": "RaymondYuan2",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@RaymondYuan2/shopify-product-lite?t="
     },
     {
@@ -5886,17 +5886,27 @@
         "title": "Swordbattle v2 packet system - p2",
         "description": "Make an efficient binary packet system for swordbattle v2",
         "author": "CoderGautamYT",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-packe-1?t="
     },
     {
         "index": "589",
         "price": "$180.00",
-        "due_days": "due in 13 days",
+        "due_days": "due in 12 days",
         "title": "Basic Triangle LWJGL and OpenGL OpenXR apk for Quest 2",
         "description": "I need an OpenXR application written with the LWJGL 3.3 library. Please use OpenGL for the renderer. And it needs to be an android app so that I can run it on quest. It needs views implemented as displacement. It needs to render one triangle in a fixed location that the user can \"move their head around\". Quest Passthrough would be nice but that is not required. I will be verifying with a quest 2 headset.",
         "author": "ParkerDiard",
-        "posted_time": "3 minutes ago",
+        "posted_time": "42 minutes ago",
         "link": "https://replit.com/bounties/@ParkerDiard/basic-triangle-lwjgl?t="
+    },
+    {
+        "index": "590",
+        "price": "$90.00",
+        "due_days": "due in 4 days",
+        "title": "Seeking someone experienced with Java and working with APIs (need to deliver results within 48 hours of accepting job)",
+        "description": "I have already coded a marketplace account deletion notification endpoint in my Controller class. I need you to customize it so it can receive and acknowledge eBay marketplace account deletion/closure notifications. See: https://developer.ebay.com/marketplace-account-deletion#:~:text=Receiving%20and%20acknowledging%20eBay%20marketplace%20account%20deletion/closure%20notifications\n\nApply an eBay API to my pre-built service class and incorporate 2 functions, one that calculates median and one that calculates the mean of the results that we query. Will involve implementing the eBay Finding and Browse APIs to perform certain functions in my service class.\n\nPlease ask me if you have any questions. The application is a Java Spring Boot application, so I need someone skilled in Java and who can deliver within 48 hours.\n\n\"By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.\"",
+        "author": "mdotbaig",
+        "posted_time": "12 minutes ago",
+        "link": "https://replit.com/bounties/@mdotbaig/seeking-someone-expe?t="
     }
 ]
