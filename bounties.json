@@ -5846,7 +5846,7 @@
         "title": "Rebuild an existing LowCode Mobile app as Native Mobile app (IOS and Android)",
         "description": "I have a mobile app built on the Bubble.io platform with a mobile wrapper that I need built as a native IOS and Android application so that it will work without internet.  I can provide access to the app, but functionally speaking:  It allows users to create a project, take or upload video/photo/notes and upload to our CRM.  It's very basic.\n\nAcceptance Criteria\nApp to function 100% identical to existing mobile webapp.",
         "author": "FrankieSoriano",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@FrankieSoriano/rebuild-an-existing?t="
     },
     {
@@ -5926,7 +5926,7 @@
         "title": "GitHub Pull Request Viewer in Next.js",
         "description": "I primarily access GitHub through the API, as I work for many different customers and have different tokens for each. However, I would like a way to view a pull request without having to log into accounts. Instead, I'd just like to pull up a page where it fills in the API token for me and replicates the pull request UI.\n\nYour task is to (re)create the pull request page from GitHub (ie. this page - ) using the API alone. Visual fidelity is not required (just use components from any component library, though Primer or Material UI are preferred), nor is all the functionality of the interface.\n\nAcceptance Criteria\n\nI can open /apps///pulls/ to view a pull request. The details are fetched via the API from my GitHub app.\n\nThe page has this info:\n\n    PR title\n\n    PR author\n\n    PR body (description)\n\n    PR status (merged, closed, draft, etc.)\n\nThe files changed are accessible. I can expand a diff for each file to view it\n\nThe commit list is visible\n\nThe comment threads...",
         "author": "dev2prod",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@dev2prod/github-pull-request?t="
     }
 ]
