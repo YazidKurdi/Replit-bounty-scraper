@@ -4923,7 +4923,7 @@ Extra: The extension can be then added to a calendar like Google calendar / Appl
 To see the iOS version of this bounty, see https://replit.com/bounties/@AJGupta/background-blink-tra?t= .
 
 Acceptance Criteria
-An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",AJGupta,2 hours ago,https://replit.com/bounties/@AJGupta/android-background-b-1?t=
+An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",AJGupta,3 hours ago,https://replit.com/bounties/@AJGupta/android-background-b-1?t=
 601,$4.50,due in 13 days,css form designed,"Describe the problem you are trying to solve here.
 Need CSS form designed thx
 Acceptance Criteria
@@ -4937,7 +4937,7 @@ The research is comprehensive and matches the format of a sample that will be pr
 Acceptance Criteria
 
 The research is comprehensive and matches the format of a sample that will be provided",bardia,1 hour ago,https://replit.com/bounties/@bardia/python-research?t=
-604,$20.00,due in 8 days,Build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.,"Can you build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.
+604,$20.00,due in 7 days,Build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.,"Can you build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.
 
 THE OPENAI TEXT CLASSIFIER IS NOT AN API, SIMILARLY TO CHATGPT IT ONLY EXISTS ON A WEB APPLICATION
 
@@ -4947,4 +4947,4 @@ https://platform.openai.com/ai-text-classifier
 
 #Acceptance Criteria
 OpenAI cheat-detection classifier is usable on the website.
-Looks good",aidantorrence,8 minutes ago,https://replit.com/bounties/@aidantorrence/build-a-website-that?t=
+Looks good",aidantorrence,18 minutes ago,https://replit.com/bounties/@aidantorrence/build-a-website-that?t=

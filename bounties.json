@@ -6006,7 +6006,7 @@
         "title": "Android Background Blink Tracker",
         "description": "I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on Android. It should also show a graph of your historical blink rate (for instance, batched 60 minutes at a time, with a scrollable graph over time).\n\nTo see the iOS version of this bounty, see https://replit.com/bounties/@AJGupta/background-blink-tra?t= .\n\nAcceptance Criteria\nAn Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",
         "author": "AJGupta",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/android-background-b-1?t="
     },
     {
@@ -6042,11 +6042,11 @@
     {
         "index": "604",
         "price": "$20.00",
-        "due_days": "due in 8 days",
+        "due_days": "due in 7 days",
         "title": "Build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.",
         "description": "Can you build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.\n\nTHE OPENAI TEXT CLASSIFIER IS NOT AN API, SIMILARLY TO CHATGPT IT ONLY EXISTS ON A WEB APPLICATION\n\nI'm not sure how this works or how possible it is but I think some crafty people may know how to do this given there are ChatGPT chrome extensions that exist in the wild. (e.g. ChatGPT for Google chrome extension w/ source code here: https://github.com/wong2/chatgpt-google-extension)\n\nhttps://platform.openai.com/ai-text-classifier\n\n#Acceptance Criteria\nOpenAI cheat-detection classifier is usable on the website.\nLooks good",
         "author": "aidantorrence",
-        "posted_time": "8 minutes ago",
+        "posted_time": "18 minutes ago",
         "link": "https://replit.com/bounties/@aidantorrence/build-a-website-that?t="
     }
 ]
