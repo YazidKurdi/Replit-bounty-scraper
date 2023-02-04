@@ -4756,7 +4756,7 @@ Create /assignments page to list assignments asso...",aavetis,15 hours ago,https
 584,$225.00,due in 13 days,Rebuild an existing LowCode Mobile app as Native Mobile app (IOS and Android),"I have a mobile app built on the Bubble.io platform with a mobile wrapper that I need built as a native IOS and Android application so that it will work without internet.  I can provide access to the app, but functionally speaking:  It allows users to create a project, take or upload video/photo/notes and upload to our CRM.  It's very basic.
 
 Acceptance Criteria
-App to function 100% identical to existing mobile webapp.",FrankieSoriano,14 hours ago,https://replit.com/bounties/@FrankieSoriano/rebuild-an-existing?t=
+App to function 100% identical to existing mobile webapp.",FrankieSoriano,15 hours ago,https://replit.com/bounties/@FrankieSoriano/rebuild-an-existing?t=
 585,$130.50,due in 3 days,Add a credentials (email/password) provider using NextAuth to an existing NextJS app,"I have a functioning NextJS app with working authentication using NextAuth with a Google provider. I need to add a second provider with ""Credentials"" email and password. The foundation for NextAuth is already in place.
 
 Acceptance Criteria
@@ -4846,4 +4846,4 @@ The files changed are accessible. I can expand a diff for each file to view it
 
 The commit list is visible
 
-The comment threads...",dev2prod,2 hours ago,https://replit.com/bounties/@dev2prod/github-pull-request?t=
+The comment threads...",dev2prod,3 hours ago,https://replit.com/bounties/@dev2prod/github-pull-request?t=
