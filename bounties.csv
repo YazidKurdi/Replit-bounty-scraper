@@ -4752,7 +4752,7 @@ What’s needed
 Review mockups for general guidance on sidebar, page styling
 Create “view / edit classrooms” page that lists classes and can open modals to edit the details of each one
 Sidebar class selector should update the context of the dashboard
-Create /assignments page to list assignments asso...",aavetis,12 hours ago,https://replit.com/bounties/@aavetis/nextjs-react-fronten?t=
+Create /assignments page to list assignments asso...",aavetis,13 hours ago,https://replit.com/bounties/@aavetis/nextjs-react-fronten?t=
 584,$225.00,due in 13 days,Rebuild an existing LowCode Mobile app as Native Mobile app (IOS and Android),"I have a mobile app built on the Bubble.io platform with a mobile wrapper that I need built as a native IOS and Android application so that it will work without internet.  I can provide access to the app, but functionally speaking:  It allows users to create a project, take or upload video/photo/notes and upload to our CRM.  It's very basic.
 
 Acceptance Criteria
@@ -4823,7 +4823,7 @@ Acceptance Criteria
 Angular application with minimal (basic) functionality where there are some user inputs, etc.
 Use any CSS framework or tailwind - Something that makes the app look presentable is fine. Nothing fancy needed
 The important thing is that the input from the user needs to be consumed and the app must have strict-contextual-escaping disabled
-The user input needs to be in some inline HTML, rendering it vulnerable against XSS",AbhayBhargav1,2 hours ago,https://replit.com/bounties/@AbhayBhargav1/build-a-simple-boile?t=
+The user input needs to be in some inline HTML, rendering it vulnerable against XSS",AbhayBhargav1,3 hours ago,https://replit.com/bounties/@AbhayBhargav1/build-a-simple-boile?t=
 592,$450.00,due in 5 days,GitHub Pull Request Viewer in Next.js,"I primarily access GitHub through the API, as I work for many different customers and have different tokens for each. However, I would like a way to view a pull request without having to log into accounts. Instead, I'd just like to pull up a page where it fills in the API token for me and replicates the pull request UI.
 
 Your task is to (re)create the pull request page from GitHub (ie. this page - ) using the API alone. Visual fidelity is not required (just use components from any component library, though Primer or Material UI are preferred), nor is all the functionality of the interface.
@@ -4846,4 +4846,4 @@ The files changed are accessible. I can expand a diff for each file to view it
 
 The commit list is visible
 
-The comment threads...",dev2prod,17 minutes ago,https://replit.com/bounties/@dev2prod/github-pull-request?t=
+The comment threads...",dev2prod,26 minutes ago,https://replit.com/bounties/@dev2prod/github-pull-request?t=
