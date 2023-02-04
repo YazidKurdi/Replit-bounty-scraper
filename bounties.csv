@@ -4697,14 +4697,14 @@ Example CSS
 : background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(image.png);
 Watermarking Images
 All of our photos should be watermarked UNTIL the user hovers over a photo and clicks “Download”. The downloaded asset will be the full resolution version of the asset without a watermark. The purpose of the watermark is to ensure that people don’t just screenshot the images. That behavior would sever...",RamonBerrios,8 hours ago,https://replit.com/bounties/@RamonBerrios/ai-tool-web-app?t=
-579,$0.90,closed,House in CSS,"make a house in html,css,js without images",Fairies0feast,8 hours ago,https://replit.com/bounties/@Fairies0feast/house-in-css?t=
+579,$0.90,closed,House in CSS,"make a house in html,css,js without images",Fairies0feast,9 hours ago,https://replit.com/bounties/@Fairies0feast/house-in-css?t=
 580,$60.04,due in 13 days,Front end for Existing Auto-Multiplayer share/unshare code,"Simple wireframes and this text to be found in https://replit.com/@DavidAtReplit/DistinctDecimalEmbeds#ui.draw
 
 We have 2x Replit Graph QL Driver code that allows teachers to, en masse, invite multiple people to multiple Repls, and also uninvite them. The use case for this is school-based coursework where the teacher needs to give them access before a lesson or unit of work, and remove access for marking at a later date. This has been done manually, but the wonderful @IanAtReplit has built two Repls that use GraphQL to automate this.
 
 We would like to make this easier for teachers though, so we need a front end that uses ReplDB to store the user's CONNECT_SID as a login process (or extract it from the cookie automatically as in https://replit.com/@IroncladDev/extract-sid), then allows them to create groups, within each group either manually add multiple (repl-link, user-email, user-name) or upload a csv with the same - save this data in Repl db.
 
-Each team should t...",DavidAtReplit,8 hours ago,https://replit.com/bounties/@DavidAtReplit/front-end-for-existi?t=
+Each team should t...",DavidAtReplit,9 hours ago,https://replit.com/bounties/@DavidAtReplit/front-end-for-existi?t=
 581,$100.80,due in 3 days,Shopify app new feature,"I have a new edit discount page for when a user clicks into a custom discount code that has already been made in the shopify admin.
 It currently renders a page identical to the create discount page
 
@@ -4721,14 +4721,14 @@ User taken to an edit page where they can see the discount summary and have the 
 
 Technical Details
 Should be one graphql call to get the discount code and display the deets using components from the create page
-And then one mutation to delete the...",SamuelAbaka-Woo,7 hours ago,https://replit.com/bounties/@SamuelAbaka-Woo/shopify-app-new-feat?t=
+And then one mutation to delete the...",SamuelAbaka-Woo,8 hours ago,https://replit.com/bounties/@SamuelAbaka-Woo/shopify-app-new-feat?t=
 582,$80.00,due in 6 days,[TRANSLATION] Convert Swift/Objective C Code Utilizing Various MacOS APIs to Python,"tl;dr I have 150-200 lines of Swift/Objective C code that need to be converted into Python. It uses some Mac OS APIs to work. Repo Link: https://github.com/tml1024/FluffyDisplay. It is mainly a library that exports one function. I would like that function to be available through Python code. Please include previous bounty work and experience with Mac OS APIs. I will tip up extra for fast work!
 
 Problem Description
 FluffyDisplay allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in Swift/Objective C utilizing MacOS APIs. It is also made to be a partial library. I would like to convert this to Python and make it usable through python. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
-I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Python li...",EpicCodeWizard2,5 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-2?t=
+I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Python li...",EpicCodeWizard2,6 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-2?t=
 583,$450.00,due in 6 days,Next.js + React frontend for AI web application,"Overview
 
 A simple web application for teachers to create assignments associated with their classrooms
@@ -4752,11 +4752,11 @@ What’s needed
 Review mockups for general guidance on sidebar, page styling
 Create “view / edit classrooms” page that lists classes and can open modals to edit the details of each one
 Sidebar class selector should update the context of the dashboard
-Create /assignments page to list assignments asso...",aavetis,5 hours ago,https://replit.com/bounties/@aavetis/nextjs-react-fronten?t=
+Create /assignments page to list assignments asso...",aavetis,6 hours ago,https://replit.com/bounties/@aavetis/nextjs-react-fronten?t=
 584,$225.00,due in 13 days,Rebuild an existing LowCode Mobile app as Native Mobile app (IOS and Android),"I have a mobile app built on the Bubble.io platform with a mobile wrapper that I need built as a native IOS and Android application so that it will work without internet.  I can provide access to the app, but functionally speaking:  It allows users to create a project, take or upload video/photo/notes and upload to our CRM.  It's very basic.
 
 Acceptance Criteria
-App to function 100% identical to existing mobile webapp.",FrankieSoriano,4 hours ago,https://replit.com/bounties/@FrankieSoriano/rebuild-an-existing?t=
+App to function 100% identical to existing mobile webapp.",FrankieSoriano,5 hours ago,https://replit.com/bounties/@FrankieSoriano/rebuild-an-existing?t=
 585,$130.50,due in 3 days,Add a credentials (email/password) provider using NextAuth to an existing NextJS app,"I have a functioning NextJS app with working authentication using NextAuth with a Google provider. I need to add a second provider with ""Credentials"" email and password. The foundation for NextAuth is already in place.
 
 Acceptance Criteria
@@ -4775,7 +4775,7 @@ Postgres
 Requirements
 Experience with authentication, nextauth, nextjs, prisma and postgres db
 Priority for anyone with relevant experience/projects mentioned
-Will tip more if completed before the deadline.",juancaruiz,2 hours ago,https://replit.com/bounties/@juancaruiz/add-a-credentials-em?t=
+Will tip more if completed before the deadline.",juancaruiz,3 hours ago,https://replit.com/bounties/@juancaruiz/add-a-credentials-em?t=
 586,$18.00,due in 4 days,New Email Template Design Needed,"I have created a AI-powered newsletter service that sends out a daily email containing GPT3 generated advice based on a popular movie quote. The problem is I am not a fan of the HTML + CSS used in the actual email template. I am looking for someone to design a better looking email template, send me the mockup for approval, and then implement the mockup in HTML + CSS.
 
 Acceptance Criteria
@@ -4787,7 +4787,7 @@ The Email Template should also be optimized for mobile viewing as well.
 Technical Details
 The current HTML file can be found here: https://replit.com/@Dprevoznik/And-Action#templates/email-template.html
 
-I am really open to a totally new design. I am not married to colors / layout at all. It should be polis...",Dprevoznik,2 hours ago,https://replit.com/bounties/@Dprevoznik/new-email-template-d?t=
+I am really open to a totally new design. I am not married to colors / layout at all. It should be polis...",Dprevoznik,3 hours ago,https://replit.com/bounties/@Dprevoznik/new-email-template-d?t=
 587,$180.00,due in 11 days,Shopify Product + Literature Scraper,"Shopify Product + Literature Scraper
 Scrape all shopify product and literature available given a shop url.
 Product Requirements
@@ -4805,5 +4805,5 @@ You can get access to shopify store's products via: shop_url/products.json, e.g.
                 url=url,
                 img_url=product""images""[""src""],
             )
-In general this information will directly be able to be extracted from the json file listed in the URL. However, there are some cases like: h...",RaymondYuan2,1 hour ago,https://replit.com/bounties/@RaymondYuan2/shopify-product-lite?t=
-588,$45.00,due in 13 days,Swordbattle v2 packet system - p2,Make an efficient binary packet system for swordbattle v2,CoderGautamYT,12 seconds ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-packe-1?t=
+In general this information will directly be able to be extracted from the json file listed in the URL. However, there are some cases like: h...",RaymondYuan2,2 hours ago,https://replit.com/bounties/@RaymondYuan2/shopify-product-lite?t=
+588,$45.00,due in 13 days,Swordbattle v2 packet system - p2,Make an efficient binary packet system for swordbattle v2,CoderGautamYT,50 minutes ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-packe-1?t=
