@@ -5986,7 +5986,7 @@
         "title": "SwiftUI: Build a AutoCompleteTextView (Android) equivalent in swiftUI",
         "description": "I currently have a form in iOS/swiftUI with a bunch of text fields\n\nThey look like this\n            TextField(\"Some input\", text: $something).textFieldStyle(.roundedBorder)\n\nI want to be able to have a SwiftUI component that looks/can be styled just like a textField (just in case my designs change in the future). But as the user starts to type, there is a floating window with options that appears and the user typing will effectively filter that list. You can think of it as building a country picker (just text though, no images) of a CountryPickerTextField.\n\nAcceptance Criteria\nYou should deliver the swiftUI struct that ends up looking like a textField but upon clicking on the field, some sort of popup/window/dropdown menu will appear and the user typing will filter that list down.",
         "author": "IdleIdle",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@IdleIdle/swiftui-build-a-auto?t="
     },
     {
@@ -5996,13 +5996,13 @@
         "title": "Build a Google Chrome extension For AI Goal Planning (Using Chat GPT-3)",
         "description": "Looking to make a google chrome extension for achieving goals. The application will give you a plan of how to best achieve your, daily, weekly, monthly or yearly projects or goals.\n\nThe extension will have:\n5 input boxes in order of priority\n\nThe result can be easily shared and saved for later review.\n\nExtra: The extension can be then added to a calendar like Google calendar / Apple calendar.",
         "author": "Frostywatkins",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@Frostywatkins/build-a-google-chrom?t="
     },
     {
         "index": "600",
         "price": "$180.00",
-        "due_days": "due in 17 days",
+        "due_days": "due in 16 days",
         "title": "Android Background Blink Tracker",
         "description": "I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on Android. It should also show a graph of your historical blink rate (for instance, batched 60 minutes at a time, with a scrollable graph over time).\n\nTo see the iOS version of this bounty, see https://replit.com/bounties/@AJGupta/background-blink-tra?t= .\n\nAcceptance Criteria\nAn Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",
         "author": "AJGupta",
@@ -6016,7 +6016,7 @@
         "title": "css form designed",
         "description": "Describe the problem you are trying to solve here.\nNeed CSS form designed thx\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "JackWam",
-        "posted_time": "47 minutes ago",
+        "posted_time": "54 minutes ago",
         "link": "https://replit.com/bounties/@JackWam/css-form-designed?t="
     },
     {
@@ -6026,7 +6026,7 @@
         "title": "JavaScript Research ",
         "description": "I need some research done on a list of JS frameworks and libraries that will be provided\n\nAcceptance Criteria\nThe research is comprehensive and matches the format of a sample that will be provided",
         "author": "bardia",
-        "posted_time": "43 minutes ago",
+        "posted_time": "50 minutes ago",
         "link": "https://replit.com/bounties/@bardia/javascript-research?t="
     },
     {
@@ -6036,7 +6036,7 @@
         "title": "Python Research",
         "description": "I need some research done on a list of Python frameworks and libraries that will be provided\n\nAcceptance Criteria\n\nThe research is comprehensive and matches the format of a sample that will be provided",
         "author": "bardia",
-        "posted_time": "41 minutes ago",
+        "posted_time": "48 minutes ago",
         "link": "https://replit.com/bounties/@bardia/python-research?t="
     }
 ]
