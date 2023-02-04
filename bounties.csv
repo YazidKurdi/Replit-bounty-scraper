@@ -4846,7 +4846,7 @@ The files changed are accessible. I can expand a diff for each file to view it
 
 The commit list is visible
 
-The comment threads...",dev2prod,11 hours ago,https://replit.com/bounties/@dev2prod/github-pull-request?t=
+The comment threads...",dev2prod,12 hours ago,https://replit.com/bounties/@dev2prod/github-pull-request?t=
 593,$54.00,due in 13 days,Port avvvatars react lib to Vue 3,"This React library makes it easy to use nice looking avatars in a web app.
 https://github.com/nusu/avvvatars
 
@@ -4871,7 +4871,7 @@ I've already set up an endpoint in my Controller class:
         digest.update(challengeCode.getBytes(StandardCharsets.UTF_8));
         digest.update(verificationToken.getBytes(StandardCharsets.UTF_8));
         byte[] bytes = digest.digest(endpoint.getBytes(S...",mdotbaig,5 hours ago,https://replit.com/bounties/@mdotbaig/need-an-experienced?t=
-595,$95.40,due in 3 days,Chrome Exrension Bug Fix & Compile - Urgent,"Our Chrome Extension currently works by loading a search bar when a shortcut 'Command+K' is hit. However, if a web app e.g. Gmail, previously had a function with that same shortcut, our extension overrules this. This is undesirable as it ruins the functionality of many web apps such as Notion, Superhuman and Gmail.
+595,$95.40,closed,Chrome Exrension Bug Fix & Compile - Urgent,"Our Chrome Extension currently works by loading a search bar when a shortcut 'Command+K' is hit. However, if a web app e.g. Gmail, previously had a function with that same shortcut, our extension overrules this. This is undesirable as it ruins the functionality of many web apps such as Notion, Superhuman and Gmail.
 
 We would like for the code to be edited such that the web app is given precendence whenever there is a shortcut conflict.
 
@@ -4909,4 +4909,12 @@ They look like this
 I want to be able to have a SwiftUI component that looks/can be styled just like a textField (just in case my designs change in the future). But as the user starts to type, there is a floating window with options that appears and the user typing will effectively filter that list. You can think of it as building a country picker (just text though, no images) of a CountryPickerTextField.
 
 Acceptance Criteria
-You should deliver the swiftUI struct that ends up looking like a textField but upon clicking on the field, some sort of popup/window/dropdown menu will appear and the user typing will filter that list down.",IdleIdle,51 minutes ago,https://replit.com/bounties/@IdleIdle/swiftui-build-a-auto?t=
+You should deliver the swiftUI struct that ends up looking like a textField but upon clicking on the field, some sort of popup/window/dropdown menu will appear and the user typing will filter that list down.",IdleIdle,1 hour ago,https://replit.com/bounties/@IdleIdle/swiftui-build-a-auto?t=
+599,$99.00,due in 6 days,Build a Google Chrome extension For AI Goal Planning (Using Chat GPT-3),"Looking to make a google chrome extension for achieving goals. The application will give you a plan of how to best achieve your, daily, weekly, monthly or yearly projects or goals.
+
+The extension will have:
+5 input boxes in order of priority
+
+The result can be easily shared and saved for later review.
+
+Extra: The extension can be then added to a calendar like Google calendar / Apple calendar.",Frostywatkins,33 seconds ago,https://replit.com/bounties/@Frostywatkins/build-a-google-chrom?t=
