@@ -5956,7 +5956,7 @@
         "title": "Chrome Exrension Bug Fix & Compile - Urgent",
         "description": "Our Chrome Extension currently works by loading a search bar when a shortcut 'Command+K' is hit. However, if a web app e.g. Gmail, previously had a function with that same shortcut, our extension overrules this. This is undesirable as it ruins the functionality of many web apps such as Notion, Superhuman and Gmail.\n\nWe would like for the code to be edited such that the web app is given precendence whenever there is a shortcut conflict.\n\nAcceptance Criteria\n\nDeliverable in a few hours\n\nEdits the provided code such that the functionality of the chrome extension remains unchanged except for the fact that the chrome extension's shortcut now does not function on web apps where there is a shortcut conflict and instead, the web app shortcut functions as expected.\n\nCompiles the code and provides the final set of compiled code that's ready to be used as a chrome extension.\n\nTechnical Details\nReact/JS/Docker",
         "author": "AshPrabaker1",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@AshPrabaker1/chrome-exrension-bug?t="
     },
     {
@@ -5986,7 +5986,7 @@
         "title": "SwiftUI: Build a AutoCompleteTextView (Android) equivalent in swiftUI",
         "description": "I currently have a form in iOS/swiftUI with a bunch of text fields\n\nThey look like this\n            TextField(\"Some input\", text: $something).textFieldStyle(.roundedBorder)\n\nI want to be able to have a SwiftUI component that looks/can be styled just like a textField (just in case my designs change in the future). But as the user starts to type, there is a floating window with options that appears and the user typing will effectively filter that list. You can think of it as building a country picker (just text though, no images) of a CountryPickerTextField.\n\nAcceptance Criteria\nYou should deliver the swiftUI struct that ends up looking like a textField but upon clicking on the field, some sort of popup/window/dropdown menu will appear and the user typing will filter that list down.",
         "author": "IdleIdle",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@IdleIdle/swiftui-build-a-auto?t="
     },
     {
@@ -5996,7 +5996,7 @@
         "title": "Build a Google Chrome extension For AI Goal Planning (Using Chat GPT-3)",
         "description": "Looking to make a google chrome extension for achieving goals. The application will give you a plan of how to best achieve your, daily, weekly, monthly or yearly projects or goals.\n\nThe extension will have:\n5 input boxes in order of priority\n\nThe result can be easily shared and saved for later review.\n\nExtra: The extension can be then added to a calendar like Google calendar / Apple calendar.",
         "author": "Frostywatkins",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@Frostywatkins/build-a-google-chrom?t="
     },
     {

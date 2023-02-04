@@ -4884,7 +4884,7 @@ Edits the provided code such that the functionality of the chrome extension rema
 Compiles the code and provides the final set of compiled code that's ready to be used as a chrome extension.
 
 Technical Details
-React/JS/Docker",AshPrabaker1,8 hours ago,https://replit.com/bounties/@AshPrabaker1/chrome-exrension-bug?t=
+React/JS/Docker",AshPrabaker1,9 hours ago,https://replit.com/bounties/@AshPrabaker1/chrome-exrension-bug?t=
 596,$50.00,due in 4 days,Deploy the vall-e machine learning model to the cloud and create an API for usage.,"Acceptance Criteria
 Deploy the vall-e machine learning model to the cloud and create an API for usage.
 Deploy to AWS/GCP or use a service like Replicate
@@ -4909,7 +4909,7 @@ They look like this
 I want to be able to have a SwiftUI component that looks/can be styled just like a textField (just in case my designs change in the future). But as the user starts to type, there is a floating window with options that appears and the user typing will effectively filter that list. You can think of it as building a country picker (just text though, no images) of a CountryPickerTextField.
 
 Acceptance Criteria
-You should deliver the swiftUI struct that ends up looking like a textField but upon clicking on the field, some sort of popup/window/dropdown menu will appear and the user typing will filter that list down.",IdleIdle,5 hours ago,https://replit.com/bounties/@IdleIdle/swiftui-build-a-auto?t=
+You should deliver the swiftUI struct that ends up looking like a textField but upon clicking on the field, some sort of popup/window/dropdown menu will appear and the user typing will filter that list down.",IdleIdle,6 hours ago,https://replit.com/bounties/@IdleIdle/swiftui-build-a-auto?t=
 599,$99.00,due in 4 days,Build a Google Chrome extension For AI Goal Planning (Using Chat GPT-3),"Looking to make a google chrome extension for achieving goals. The application will give you a plan of how to best achieve your, daily, weekly, monthly or yearly projects or goals.
 
 The extension will have:
@@ -4917,7 +4917,7 @@ The extension will have:
 
 The result can be easily shared and saved for later review.
 
-Extra: The extension can be then added to a calendar like Google calendar / Apple calendar.",Frostywatkins,4 hours ago,https://replit.com/bounties/@Frostywatkins/build-a-google-chrom?t=
+Extra: The extension can be then added to a calendar like Google calendar / Apple calendar.",Frostywatkins,5 hours ago,https://replit.com/bounties/@Frostywatkins/build-a-google-chrom?t=
 600,$180.00,due in 16 days,Android Background Blink Tracker,"I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on Android. It should also show a graph of your historical blink rate (for instance, batched 60 minutes at a time, with a scrollable graph over time).
 
 To see the iOS version of this bounty, see https://replit.com/bounties/@AJGupta/background-blink-tra?t= .
