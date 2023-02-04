@@ -4890,7 +4890,7 @@ Deploy the vall-e machine learning model to the cloud and create an API for usag
 Deploy to AWS/GCP or use a service like Replicate
 
 https://valle-demo.github.io/
-https://github.com/enhuiz/vall-e",aidantorrence,6 hours ago,https://replit.com/bounties/@aidantorrence/deploy-the-vall-e-ma?t=
+https://github.com/enhuiz/vall-e",aidantorrence,7 hours ago,https://replit.com/bounties/@aidantorrence/deploy-the-vall-e-ma?t=
 597,$90.00,due in 13 days,Java Struts (Boilerplate) app that is vulnerable to SQL Injection and throws stack traces,"I want a very simple Apache Struts App that is vulnerable to SQL Injection. This can be (nearly) a boilerplate app, with a register, login and user search feature. The user search feature needs to be vulnerable to SQL Injection. I need this to demonstrate this to developer teams
 The database can be anything - SQLite is good enough. However, it should be vulnerable to SQL Injection
 The other important thing is that when the SQL query fails, it should throw detailed stack traces to the front-end to the user
@@ -4927,11 +4927,11 @@ An Android app I can install the .apk of on my Samsung phone (and is ideally in-
 601,$4.50,due in 13 days,css form designed,"Describe the problem you are trying to solve here.
 Need CSS form designed thx
 Acceptance Criteria
-Be specific about what you want in the solution here.",JackWam,1 hour ago,https://replit.com/bounties/@JackWam/css-form-designed?t=
+Be specific about what you want in the solution here.",JackWam,2 hours ago,https://replit.com/bounties/@JackWam/css-form-designed?t=
 602,$100.00,due in 3 days,JavaScript Research ,"I need some research done on a list of JS frameworks and libraries that will be provided
 
 Acceptance Criteria
-The research is comprehensive and matches the format of a sample that will be provided",bardia,1 hour ago,https://replit.com/bounties/@bardia/javascript-research?t=
+The research is comprehensive and matches the format of a sample that will be provided",bardia,2 hours ago,https://replit.com/bounties/@bardia/javascript-research?t=
 603,$100.00,due in 3 days,Python Research,"I need some research done on a list of Python frameworks and libraries that will be provided
 
 Acceptance Criteria
@@ -4947,4 +4947,4 @@ https://platform.openai.com/ai-text-classifier
 
 #Acceptance Criteria
 OpenAI cheat-detection classifier is usable on the website.
-Looks good",aidantorrence,18 minutes ago,https://replit.com/bounties/@aidantorrence/build-a-website-that?t=
+Looks good",aidantorrence,33 minutes ago,https://replit.com/bounties/@aidantorrence/build-a-website-that?t=
