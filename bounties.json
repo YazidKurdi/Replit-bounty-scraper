@@ -5866,7 +5866,7 @@
         "title": "New Email Template Design Needed",
         "description": "I have created a AI-powered newsletter service that sends out a daily email containing GPT3 generated advice based on a popular movie quote. The problem is I am not a fan of the HTML + CSS used in the actual email template. I am looking for someone to design a better looking email template, send me the mockup for approval, and then implement the mockup in HTML + CSS.\n\nAcceptance Criteria\nDesign a mockup of the email template for approval and provide it to me\nIf any changes are required, I will try to keep them minimal, please work with me to update them.\nOnce approved, provide the HTML file that should include all CSS required to match the mockup's styling\nThe Email Template should also be optimized for mobile viewing as well.\n\nTechnical Details\nThe current HTML file can be found here: https://replit.com/@Dprevoznik/And-Action#templates/email-template.html\n\nI am really open to a totally new design. I am not married to colors / layout at all. It should be polis...",
         "author": "Dprevoznik",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@Dprevoznik/new-email-template-d?t="
     },
     {
@@ -5918,5 +5918,15 @@
         "author": "AbhayBhargav1",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@AbhayBhargav1/build-a-simple-boile?t="
+    },
+    {
+        "index": "592",
+        "price": "$450.00",
+        "due_days": "due in 6 days",
+        "title": "GitHub Pull Request Viewer in Next.js",
+        "description": "I primarily access GitHub through the API, as I work for many different customers and have different tokens for each. However, I would like a way to view a pull request without having to log into accounts. Instead, I'd just like to pull up a page where it fills in the API token for me and replicates the pull request UI.\n\nYour task is to (re)create the pull request page from GitHub (ie. this page - ) using the API alone. Visual fidelity is not required (just use components from any component library, though Primer or Material UI are preferred), nor is all the functionality of the interface.\n\nAcceptance Criteria\n\nI can open /apps///pulls/ to view a pull request. The details are fetched via the API from my GitHub app.\n\nThe page has this info:\n\n    PR title\n\n    PR author\n\n    PR body (description)\n\n    PR status (merged, closed, draft, etc.)\n\nThe files changed are accessible. I can expand a diff for each file to view it\n\nThe commit list is visible\n\nThe comment threads...",
+        "author": "dev2prod",
+        "posted_time": "3 minutes ago",
+        "link": "https://replit.com/bounties/@dev2prod/github-pull-request?t="
     }
 ]
