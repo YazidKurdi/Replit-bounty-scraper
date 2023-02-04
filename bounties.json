@@ -5946,7 +5946,7 @@
         "title": "Need an experienced Java developer to set up controller method to receive notifications",
         "description": "I am new to Java and trying to gain access to eBay developers program. It require setting up account deletion notifications: https://developer.ebay.com/marketplace-account-deletion\n\nI've already set up an endpoint in my Controller class:\n\n @RequestMapping(value = \"/challenge\", method = RequestMethod.GET)\n    public ResponseEntity handleChallenge(@RequestParam(\"challenge_code\") String challengeCode) throws Exception {\n\n        // Input validation and error handling\n        if (challengeCode == null || challengeCode.isEmpty()) {\n            return ResponseEntity.badRequest().body(\"challenge_code is required\");\n        }\n\n        // Hash the challenge code, verification token, and endpoint URL together\n        MessageDigest digest = MessageDigest.getInstance(\"SHA-256\");\n        digest.update(challengeCode.getBytes(StandardCharsets.UTF_8));\n        digest.update(verificationToken.getBytes(StandardCharsets.UTF_8));\n        byte[] bytes = digest.digest(endpoint.getBytes(S...",
         "author": "mdotbaig",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/need-an-experienced?t="
     },
     {
@@ -5976,7 +5976,7 @@
         "title": "Java Struts (Boilerplate) app that is vulnerable to SQL Injection and throws stack traces",
         "description": "I want a very simple Apache Struts App that is vulnerable to SQL Injection. This can be (nearly) a boilerplate app, with a register, login and user search feature. The user search feature needs to be vulnerable to SQL Injection. I need this to demonstrate this to developer teams\nThe database can be anything - SQLite is good enough. However, it should be vulnerable to SQL Injection\nThe other important thing is that when the SQL query fails, it should throw detailed stack traces to the front-end to the user\n\nAcceptance Criteria\nJava Struts App that has 3 features. Register user, login user, Search for users\nBasic Frontend with any framework (bootstrap, bulma, whatever works)\nSearch user functionality should be vulnerable to SQL Injection\nDatabase can be anything including SQLite. However, if you are using MySQL, Postgres, blah, you'll need to give me a Docker Compose file\nFailed SQL Statements should throw a stack trace to the user (debug mode true)",
         "author": "AbhayBhargav1",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@AbhayBhargav1/java-struts-boilerpl?t="
     },
     {
@@ -6016,7 +6016,27 @@
         "title": "css form designed",
         "description": "Describe the problem you are trying to solve here.\nNeed CSS form designed thx\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "JackWam",
-        "posted_time": "1 second ago",
+        "posted_time": "10 minutes ago",
         "link": "https://replit.com/bounties/@JackWam/css-form-designed?t="
+    },
+    {
+        "index": "602",
+        "price": "$100.00",
+        "due_days": "due in 3 days",
+        "title": "JavaScript Research ",
+        "description": "I need some research done on a list of JS frameworks and libraries that will be provided\n\nAcceptance Criteria\nThe research is comprehensive and matches the format of a sample that will be provided",
+        "author": "bardia",
+        "posted_time": "6 minutes ago",
+        "link": "https://replit.com/bounties/@bardia/javascript-research?t="
+    },
+    {
+        "index": "603",
+        "price": "$100.00",
+        "due_days": "due in 3 days",
+        "title": "Python Research",
+        "description": "I need some research done on a list of Python frameworks and libraries that will be provided\n\nAcceptance Criteria\n\nThe research is comprehensive and matches the format of a sample that will be provided",
+        "author": "bardia",
+        "posted_time": "4 minutes ago",
+        "link": "https://replit.com/bounties/@bardia/python-research?t="
     }
 ]

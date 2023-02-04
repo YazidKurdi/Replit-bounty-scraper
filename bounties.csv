@@ -4870,7 +4870,7 @@ I've already set up an endpoint in my Controller class:
         MessageDigest digest = MessageDigest.getInstance(""SHA-256"");
         digest.update(challengeCode.getBytes(StandardCharsets.UTF_8));
         digest.update(verificationToken.getBytes(StandardCharsets.UTF_8));
-        byte[] bytes = digest.digest(endpoint.getBytes(S...",mdotbaig,6 hours ago,https://replit.com/bounties/@mdotbaig/need-an-experienced?t=
+        byte[] bytes = digest.digest(endpoint.getBytes(S...",mdotbaig,7 hours ago,https://replit.com/bounties/@mdotbaig/need-an-experienced?t=
 595,$95.40,closed,Chrome Exrension Bug Fix & Compile - Urgent,"Our Chrome Extension currently works by loading a search bar when a shortcut 'Command+K' is hit. However, if a web app e.g. Gmail, previously had a function with that same shortcut, our extension overrules this. This is undesirable as it ruins the functionality of many web apps such as Notion, Superhuman and Gmail.
 
 We would like for the code to be edited such that the web app is given precendence whenever there is a shortcut conflict.
@@ -4900,7 +4900,7 @@ Java Struts App that has 3 features. Register user, login user, Search for users
 Basic Frontend with any framework (bootstrap, bulma, whatever works)
 Search user functionality should be vulnerable to SQL Injection
 Database can be anything including SQLite. However, if you are using MySQL, Postgres, blah, you'll need to give me a Docker Compose file
-Failed SQL Statements should throw a stack trace to the user (debug mode true)",AbhayBhargav1,3 hours ago,https://replit.com/bounties/@AbhayBhargav1/java-struts-boilerpl?t=
+Failed SQL Statements should throw a stack trace to the user (debug mode true)",AbhayBhargav1,4 hours ago,https://replit.com/bounties/@AbhayBhargav1/java-struts-boilerpl?t=
 598,$18.00,due in 3 days,SwiftUI: Build a AutoCompleteTextView (Android) equivalent in swiftUI,"I currently have a form in iOS/swiftUI with a bunch of text fields
 
 They look like this
@@ -4927,4 +4927,13 @@ An Android app I can install the .apk of on my Samsung phone (and is ideally in-
 601,$4.50,due in 13 days,css form designed,"Describe the problem you are trying to solve here.
 Need CSS form designed thx
 Acceptance Criteria
-Be specific about what you want in the solution here.",JackWam,1 second ago,https://replit.com/bounties/@JackWam/css-form-designed?t=
+Be specific about what you want in the solution here.",JackWam,10 minutes ago,https://replit.com/bounties/@JackWam/css-form-designed?t=
+602,$100.00,due in 3 days,JavaScript Research ,"I need some research done on a list of JS frameworks and libraries that will be provided
+
+Acceptance Criteria
+The research is comprehensive and matches the format of a sample that will be provided",bardia,6 minutes ago,https://replit.com/bounties/@bardia/javascript-research?t=
+603,$100.00,due in 3 days,Python Research,"I need some research done on a list of Python frameworks and libraries that will be provided
+
+Acceptance Criteria
+
+The research is comprehensive and matches the format of a sample that will be provided",bardia,4 minutes ago,https://replit.com/bounties/@bardia/python-research?t=
