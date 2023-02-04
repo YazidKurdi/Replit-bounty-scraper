@@ -5886,7 +5886,7 @@
         "title": "Swordbattle v2 packet system - p2",
         "description": "Make an efficient binary packet system for swordbattle v2",
         "author": "CoderGautamYT",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-packe-1?t="
     },
     {
@@ -5896,7 +5896,7 @@
         "title": "Basic Triangle LWJGL and OpenGL OpenXR apk for Quest 2",
         "description": "I need an OpenXR application written with the LWJGL 3.3 library. Please use OpenGL for the renderer. And it needs to be an android app so that I can run it on quest. It needs views implemented as displacement. It needs to render one triangle in a fixed location that the user can \"move their head around\". Quest Passthrough would be nice but that is not required. I will be verifying with a quest 2 headset.",
         "author": "ParkerDiard",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@ParkerDiard/basic-triangle-lwjgl?t="
     },
     {
@@ -5946,7 +5946,7 @@
         "title": "Need an experienced Java developer to set up controller method to receive notifications",
         "description": "I am new to Java and trying to gain access to eBay developers program. It require setting up account deletion notifications: https://developer.ebay.com/marketplace-account-deletion\n\nI've already set up an endpoint in my Controller class:\n\n @RequestMapping(value = \"/challenge\", method = RequestMethod.GET)\n    public ResponseEntity handleChallenge(@RequestParam(\"challenge_code\") String challengeCode) throws Exception {\n\n        // Input validation and error handling\n        if (challengeCode == null || challengeCode.isEmpty()) {\n            return ResponseEntity.badRequest().body(\"challenge_code is required\");\n        }\n\n        // Hash the challenge code, verification token, and endpoint URL together\n        MessageDigest digest = MessageDigest.getInstance(\"SHA-256\");\n        digest.update(challengeCode.getBytes(StandardCharsets.UTF_8));\n        digest.update(verificationToken.getBytes(StandardCharsets.UTF_8));\n        byte[] bytes = digest.digest(endpoint.getBytes(S...",
         "author": "mdotbaig",
-        "posted_time": "14 minutes ago",
+        "posted_time": "26 minutes ago",
         "link": "https://replit.com/bounties/@mdotbaig/need-an-experienced?t="
     }
 ]
