@@ -4807,7 +4807,7 @@ You can get access to shopify store's products via: shop_url/products.json, e.g.
             )
 In general this information will directly be able to be extracted from the json file listed in the URL. However, there are some cases like: h...",RaymondYuan2,18 hours ago,https://replit.com/bounties/@RaymondYuan2/shopify-product-lite?t=
 588,$45.00,due in 12 days,Swordbattle v2 packet system - p2,Make an efficient binary packet system for swordbattle v2,CoderGautamYT,18 hours ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-packe-1?t=
-589,$180.00,due in 11 days,Basic Triangle LWJGL and OpenGL OpenXR apk for Quest 2,"I need an OpenXR application written with the LWJGL 3.3 library. Please use OpenGL for the renderer. And it needs to be an android app so that I can run it on quest. It needs views implemented as displacement. It needs to render one triangle in a fixed location that the user can ""move their head around"". Quest Passthrough would be nice but that is not required. I will be verifying with a quest 2 headset.",ParkerDiard,16 hours ago,https://replit.com/bounties/@ParkerDiard/basic-triangle-lwjgl?t=
+589,$180.00,due in 11 days,Basic Triangle LWJGL and OpenGL OpenXR apk for Quest 2,"I need an OpenXR application written with the LWJGL 3.3 library. Please use OpenGL for the renderer. And it needs to be an android app so that I can run it on quest. It needs views implemented as displacement. It needs to render one triangle in a fixed location that the user can ""move their head around"". Quest Passthrough would be nice but that is not required. I will be verifying with a quest 2 headset.",ParkerDiard,17 hours ago,https://replit.com/bounties/@ParkerDiard/basic-triangle-lwjgl?t=
 590,$90.00,closed,Seeking someone experienced with Java and working with APIs (need to deliver results within 48 hours of accepting job),"I have already coded a marketplace account deletion notification endpoint in my Controller class. I need you to customize it so it can receive and acknowledge eBay marketplace account deletion/closure notifications. See: https://developer.ebay.com/marketplace-account-deletion#:~:text=Receiving%20and%20acknowledging%20eBay%20marketplace%20account%20deletion/closure%20notifications
 
 Apply an eBay API to my pre-built service class and incorporate 2 functions, one that calculates median and one that calculates the mean of the results that we query. Will involve implementing the eBay Finding and Browse APIs to perform certain functions in my service class.
@@ -4823,7 +4823,7 @@ Acceptance Criteria
 Angular application with minimal (basic) functionality where there are some user inputs, etc.
 Use any CSS framework or tailwind - Something that makes the app look presentable is fine. Nothing fancy needed
 The important thing is that the input from the user needs to be consumed and the app must have strict-contextual-escaping disabled
-The user input needs to be in some inline HTML, rendering it vulnerable against XSS",AbhayBhargav1,13 hours ago,https://replit.com/bounties/@AbhayBhargav1/build-a-simple-boile?t=
+The user input needs to be in some inline HTML, rendering it vulnerable against XSS",AbhayBhargav1,14 hours ago,https://replit.com/bounties/@AbhayBhargav1/build-a-simple-boile?t=
 592,$450.00,due in 4 days,GitHub Pull Request Viewer in Next.js,"I primarily access GitHub through the API, as I work for many different customers and have different tokens for each. However, I would like a way to view a pull request without having to log into accounts. Instead, I'd just like to pull up a page where it fills in the API token for me and replicates the pull request UI.
 
 Your task is to (re)create the pull request page from GitHub (ie. this page - ) using the API alone. Visual fidelity is not required (just use components from any component library, though Primer or Material UI are preferred), nor is all the functionality of the interface.
@@ -4884,7 +4884,7 @@ Edits the provided code such that the functionality of the chrome extension rema
 Compiles the code and provides the final set of compiled code that's ready to be used as a chrome extension.
 
 Technical Details
-React/JS/Docker",AshPrabaker1,3 hours ago,https://replit.com/bounties/@AshPrabaker1/chrome-exrension-bug?t=
+React/JS/Docker",AshPrabaker1,4 hours ago,https://replit.com/bounties/@AshPrabaker1/chrome-exrension-bug?t=
 596,$50.00,due in 4 days,Deploy the vall-e machine learning model to the cloud and create an API for usage.,"Acceptance Criteria
 Deploy the vall-e machine learning model to the cloud and create an API for usage.
 Deploy to AWS/GCP or use a service like Replicate
@@ -4900,7 +4900,7 @@ Java Struts App that has 3 features. Register user, login user, Search for users
 Basic Frontend with any framework (bootstrap, bulma, whatever works)
 Search user functionality should be vulnerable to SQL Injection
 Database can be anything including SQLite. However, if you are using MySQL, Postgres, blah, you'll need to give me a Docker Compose file
-Failed SQL Statements should throw a stack trace to the user (debug mode true)",AbhayBhargav1,1 hour ago,https://replit.com/bounties/@AbhayBhargav1/java-struts-boilerpl?t=
+Failed SQL Statements should throw a stack trace to the user (debug mode true)",AbhayBhargav1,2 hours ago,https://replit.com/bounties/@AbhayBhargav1/java-struts-boilerpl?t=
 598,$18.00,due in 3 days,SwiftUI: Build a AutoCompleteTextView (Android) equivalent in swiftUI,"I currently have a form in iOS/swiftUI with a bunch of text fields
 
 They look like this
@@ -4909,4 +4909,4 @@ They look like this
 I want to be able to have a SwiftUI component that looks/can be styled just like a textField (just in case my designs change in the future). But as the user starts to type, there is a floating window with options that appears and the user typing will effectively filter that list. You can think of it as building a country picker (just text though, no images) of a CountryPickerTextField.
 
 Acceptance Criteria
-You should deliver the swiftUI struct that ends up looking like a textField but upon clicking on the field, some sort of popup/window/dropdown menu will appear and the user typing will filter that list down.",IdleIdle,34 minutes ago,https://replit.com/bounties/@IdleIdle/swiftui-build-a-auto?t=
+You should deliver the swiftUI struct that ends up looking like a textField but upon clicking on the field, some sort of popup/window/dropdown menu will appear and the user typing will filter that list down.",IdleIdle,43 minutes ago,https://replit.com/bounties/@IdleIdle/swiftui-build-a-auto?t=
