@@ -5896,7 +5896,7 @@
         "title": "Basic Triangle LWJGL and OpenGL OpenXR apk for Quest 2",
         "description": "I need an OpenXR application written with the LWJGL 3.3 library. Please use OpenGL for the renderer. And it needs to be an android app so that I can run it on quest. It needs views implemented as displacement. It needs to render one triangle in a fixed location that the user can \"move their head around\". Quest Passthrough would be nice but that is not required. I will be verifying with a quest 2 headset.",
         "author": "ParkerDiard",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@ParkerDiard/basic-triangle-lwjgl?t="
     },
     {
@@ -5906,7 +5906,7 @@
         "title": "Seeking someone experienced with Java and working with APIs (need to deliver results within 48 hours of accepting job)",
         "description": "I have already coded a marketplace account deletion notification endpoint in my Controller class. I need you to customize it so it can receive and acknowledge eBay marketplace account deletion/closure notifications. See: https://developer.ebay.com/marketplace-account-deletion#:~:text=Receiving%20and%20acknowledging%20eBay%20marketplace%20account%20deletion/closure%20notifications\n\nApply an eBay API to my pre-built service class and incorporate 2 functions, one that calculates median and one that calculates the mean of the results that we query. Will involve implementing the eBay Finding and Browse APIs to perform certain functions in my service class.\n\nPlease ask me if you have any questions. The application is a Java Spring Boot application, so I need someone skilled in Java and who can deliver within 48 hours.\n\n\"By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.\"",
         "author": "mdotbaig",
-        "posted_time": "55 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@mdotbaig/seeking-someone-expe?t="
     }
 ]
