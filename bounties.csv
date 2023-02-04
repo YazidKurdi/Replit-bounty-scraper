@@ -4909,4 +4909,4 @@ They look like this
 I want to be able to have a SwiftUI component that looks/can be styled just like a textField (just in case my designs change in the future). But as the user starts to type, there is a floating window with options that appears and the user typing will effectively filter that list. You can think of it as building a country picker (just text though, no images) of a CountryPickerTextField.
 
 Acceptance Criteria
-You should deliver the swiftUI struct that ends up looking like a textField but upon clicking on the field, some sort of popup/window/dropdown menu will appear and the user typing will filter that list down.",IdleIdle,17 minutes ago,https://replit.com/bounties/@IdleIdle/swiftui-build-a-auto?t=
+You should deliver the swiftUI struct that ends up looking like a textField but upon clicking on the field, some sort of popup/window/dropdown menu will appear and the user typing will filter that list down.",IdleIdle,34 minutes ago,https://replit.com/bounties/@IdleIdle/swiftui-build-a-auto?t=
