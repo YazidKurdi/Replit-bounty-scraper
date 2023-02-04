@@ -5846,7 +5846,7 @@
         "title": "Rebuild an existing LowCode Mobile app as Native Mobile app (IOS and Android)",
         "description": "I have a mobile app built on the Bubble.io platform with a mobile wrapper that I need built as a native IOS and Android application so that it will work without internet.  I can provide access to the app, but functionally speaking:  It allows users to create a project, take or upload video/photo/notes and upload to our CRM.  It's very basic.\n\nAcceptance Criteria\nApp to function 100% identical to existing mobile webapp.",
         "author": "FrankieSoriano",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@FrankieSoriano/rebuild-an-existing?t="
     },
     {
@@ -5856,7 +5856,7 @@
         "title": "Add a credentials (email/password) provider using NextAuth to an existing NextJS app",
         "description": "I have a functioning NextJS app with working authentication using NextAuth with a Google provider. I need to add a second provider with \"Credentials\" email and password. The foundation for NextAuth is already in place.\n\nAcceptance Criteria\nAdd the credentials provider that supports email and password sign in with the NextAuth library\nWrite a new user record to a postgres database (db already created) for first time users\nBuild a simple register form if needed\n\nTechnical Details\nStack:\nTypeScript\nNextJS 12\nNextAuth\nPrisma\nPostgres\n\nRequirements\nExperience with authentication, nextauth, nextjs, prisma and postgres db\nPriority for anyone with relevant experience/projects mentioned\nWill tip more if completed before the deadline.",
         "author": "juancaruiz",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@juancaruiz/add-a-credentials-em?t="
     },
     {
@@ -5876,7 +5876,7 @@
         "title": "Shopify Product + Literature Scraper",
         "description": "Shopify Product + Literature Scraper\nScrape all shopify product and literature available given a shop url.\nProduct Requirements\nYou can get access to shopify store's products via: shop_url/products.json, e.g. https://usehuron.com/products.json. This will give you a list of products, and we need to scrape the following criteria:\n        url = f\"https://{store.shop_url}/products/{product['handle']}\"\n            Product(\n                store_id=store,\n                handle=product[\"handle\"],\n                title=product[\"title\"],\n                bodyhtml=product[\"bodyhtml\"],\n                status=product.get(\"status\", \"active\"),\n                tags=product[\"tags\"],\n                createdat=product[\"createdat\"],\n                updatedat=product[\"updatedat\"],\n                url=url,\n                img_url=product\"images\"[\"src\"],\n            )\nIn general this information will directly be able to be extracted from the json file listed in the URL. However, there are some cases like: h...",
         "author": "RaymondYuan2",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@RaymondYuan2/shopify-product-lite?t="
     },
     {
@@ -5906,7 +5906,7 @@
         "title": "Seeking someone experienced with Java and working with APIs (need to deliver results within 48 hours of accepting job)",
         "description": "I have already coded a marketplace account deletion notification endpoint in my Controller class. I need you to customize it so it can receive and acknowledge eBay marketplace account deletion/closure notifications. See: https://developer.ebay.com/marketplace-account-deletion#:~:text=Receiving%20and%20acknowledging%20eBay%20marketplace%20account%20deletion/closure%20notifications\n\nApply an eBay API to my pre-built service class and incorporate 2 functions, one that calculates median and one that calculates the mean of the results that we query. Will involve implementing the eBay Finding and Browse APIs to perform certain functions in my service class.\n\nPlease ask me if you have any questions. The application is a Java Spring Boot application, so I need someone skilled in Java and who can deliver within 48 hours.\n\n\"By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.\"",
         "author": "mdotbaig",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/seeking-someone-expe?t="
     },
     {
@@ -5926,7 +5926,7 @@
         "title": "GitHub Pull Request Viewer in Next.js",
         "description": "I primarily access GitHub through the API, as I work for many different customers and have different tokens for each. However, I would like a way to view a pull request without having to log into accounts. Instead, I'd just like to pull up a page where it fills in the API token for me and replicates the pull request UI.\n\nYour task is to (re)create the pull request page from GitHub (ie. this page - ) using the API alone. Visual fidelity is not required (just use components from any component library, though Primer or Material UI are preferred), nor is all the functionality of the interface.\n\nAcceptance Criteria\n\nI can open /apps///pulls/ to view a pull request. The details are fetched via the API from my GitHub app.\n\nThe page has this info:\n\n    PR title\n\n    PR author\n\n    PR body (description)\n\n    PR status (merged, closed, draft, etc.)\n\nThe files changed are accessible. I can expand a diff for each file to view it\n\nThe commit list is visible\n\nThe comment threads...",
         "author": "dev2prod",
-        "posted_time": "36 minutes ago",
+        "posted_time": "54 minutes ago",
         "link": "https://replit.com/bounties/@dev2prod/github-pull-request?t="
     }
 ]
