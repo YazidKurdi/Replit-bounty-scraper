@@ -4787,7 +4787,7 @@ The Email Template should also be optimized for mobile viewing as well.
 Technical Details
 The current HTML file can be found here: https://replit.com/@Dprevoznik/And-Action#templates/email-template.html
 
-I am really open to a totally new design. I am not married to colors / layout at all. It should be polis...",Dprevoznik,16 hours ago,https://replit.com/bounties/@Dprevoznik/new-email-template-d?t=
+I am really open to a totally new design. I am not married to colors / layout at all. It should be polis...",Dprevoznik,17 hours ago,https://replit.com/bounties/@Dprevoznik/new-email-template-d?t=
 587,$180.00,due in 10 days,Shopify Product + Literature Scraper,"Shopify Product + Literature Scraper
 Scrape all shopify product and literature available given a shop url.
 Product Requirements
@@ -4870,4 +4870,4 @@ I've already set up an endpoint in my Controller class:
         MessageDigest digest = MessageDigest.getInstance(""SHA-256"");
         digest.update(challengeCode.getBytes(StandardCharsets.UTF_8));
         digest.update(verificationToken.getBytes(StandardCharsets.UTF_8));
-        byte[] bytes = digest.digest(endpoint.getBytes(S...",mdotbaig,59 seconds ago,https://replit.com/bounties/@mdotbaig/need-an-experienced?t=
+        byte[] bytes = digest.digest(endpoint.getBytes(S...",mdotbaig,14 minutes ago,https://replit.com/bounties/@mdotbaig/need-an-experienced?t=

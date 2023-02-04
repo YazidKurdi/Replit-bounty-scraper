@@ -5866,7 +5866,7 @@
         "title": "New Email Template Design Needed",
         "description": "I have created a AI-powered newsletter service that sends out a daily email containing GPT3 generated advice based on a popular movie quote. The problem is I am not a fan of the HTML + CSS used in the actual email template. I am looking for someone to design a better looking email template, send me the mockup for approval, and then implement the mockup in HTML + CSS.\n\nAcceptance Criteria\nDesign a mockup of the email template for approval and provide it to me\nIf any changes are required, I will try to keep them minimal, please work with me to update them.\nOnce approved, provide the HTML file that should include all CSS required to match the mockup's styling\nThe Email Template should also be optimized for mobile viewing as well.\n\nTechnical Details\nThe current HTML file can be found here: https://replit.com/@Dprevoznik/And-Action#templates/email-template.html\n\nI am really open to a totally new design. I am not married to colors / layout at all. It should be polis...",
         "author": "Dprevoznik",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@Dprevoznik/new-email-template-d?t="
     },
     {
@@ -5946,7 +5946,7 @@
         "title": "Need an experienced Java developer to set up controller method to receive notifications",
         "description": "I am new to Java and trying to gain access to eBay developers program. It require setting up account deletion notifications: https://developer.ebay.com/marketplace-account-deletion\n\nI've already set up an endpoint in my Controller class:\n\n @RequestMapping(value = \"/challenge\", method = RequestMethod.GET)\n    public ResponseEntity handleChallenge(@RequestParam(\"challenge_code\") String challengeCode) throws Exception {\n\n        // Input validation and error handling\n        if (challengeCode == null || challengeCode.isEmpty()) {\n            return ResponseEntity.badRequest().body(\"challenge_code is required\");\n        }\n\n        // Hash the challenge code, verification token, and endpoint URL together\n        MessageDigest digest = MessageDigest.getInstance(\"SHA-256\");\n        digest.update(challengeCode.getBytes(StandardCharsets.UTF_8));\n        digest.update(verificationToken.getBytes(StandardCharsets.UTF_8));\n        byte[] bytes = digest.digest(endpoint.getBytes(S...",
         "author": "mdotbaig",
-        "posted_time": "59 seconds ago",
+        "posted_time": "14 minutes ago",
         "link": "https://replit.com/bounties/@mdotbaig/need-an-experienced?t="
     }
 ]
