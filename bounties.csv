@@ -4900,7 +4900,7 @@ Java Struts App that has 3 features. Register user, login user, Search for users
 Basic Frontend with any framework (bootstrap, bulma, whatever works)
 Search user functionality should be vulnerable to SQL Injection
 Database can be anything including SQLite. However, if you are using MySQL, Postgres, blah, you'll need to give me a Docker Compose file
-Failed SQL Statements should throw a stack trace to the user (debug mode true)",AbhayBhargav1,4 hours ago,https://replit.com/bounties/@AbhayBhargav1/java-struts-boilerpl?t=
+Failed SQL Statements should throw a stack trace to the user (debug mode true)",AbhayBhargav1,5 hours ago,https://replit.com/bounties/@AbhayBhargav1/java-struts-boilerpl?t=
 598,$18.00,due in 3 days,SwiftUI: Build a AutoCompleteTextView (Android) equivalent in swiftUI,"I currently have a form in iOS/swiftUI with a bunch of text fields
 
 They look like this
@@ -4931,9 +4931,20 @@ Be specific about what you want in the solution here.",JackWam,1 hour ago,https:
 602,$100.00,due in 3 days,JavaScript Research ,"I need some research done on a list of JS frameworks and libraries that will be provided
 
 Acceptance Criteria
-The research is comprehensive and matches the format of a sample that will be provided",bardia,58 minutes ago,https://replit.com/bounties/@bardia/javascript-research?t=
+The research is comprehensive and matches the format of a sample that will be provided",bardia,1 hour ago,https://replit.com/bounties/@bardia/javascript-research?t=
 603,$100.00,due in 3 days,Python Research,"I need some research done on a list of Python frameworks and libraries that will be provided
 
 Acceptance Criteria
 
-The research is comprehensive and matches the format of a sample that will be provided",bardia,56 minutes ago,https://replit.com/bounties/@bardia/python-research?t=
+The research is comprehensive and matches the format of a sample that will be provided",bardia,1 hour ago,https://replit.com/bounties/@bardia/python-research?t=
+604,$20.00,due in 8 days,Build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.,"Can you build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.
+
+THE OPENAI TEXT CLASSIFIER IS NOT AN API, SIMILARLY TO CHATGPT IT ONLY EXISTS ON A WEB APPLICATION
+
+I'm not sure how this works or how possible it is but I think some crafty people may know how to do this given there are ChatGPT chrome extensions that exist in the wild. (e.g. ChatGPT for Google chrome extension w/ source code here: https://github.com/wong2/chatgpt-google-extension)
+
+https://platform.openai.com/ai-text-classifier
+
+#Acceptance Criteria
+OpenAI cheat-detection classifier is usable on the website.
+Looks good",aidantorrence,8 minutes ago,https://replit.com/bounties/@aidantorrence/build-a-website-that?t=
