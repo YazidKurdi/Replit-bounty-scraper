@@ -4853,7 +4853,7 @@ https://github.com/nusu/avvvatars
 I'd like to use it for vue projects
 
 Acceptance Criteria
-100% feature parity with the react lib, and usable in a Vue 3 project in composition and option API.",MatthiasRichard,8 hours ago,https://replit.com/bounties/@MatthiasRichard/port-avvvatars-react?t=
+100% feature parity with the react lib, and usable in a Vue 3 project in composition and option API.",MatthiasRichard,9 hours ago,https://replit.com/bounties/@MatthiasRichard/port-avvvatars-react?t=
 594,$112.50,due in 3 days,Need an experienced Java developer to set up controller method to receive notifications,"I am new to Java and trying to gain access to eBay developers program. It require setting up account deletion notifications: https://developer.ebay.com/marketplace-account-deletion
 
 I've already set up an endpoint in my Controller class:
@@ -4870,7 +4870,7 @@ I've already set up an endpoint in my Controller class:
         MessageDigest digest = MessageDigest.getInstance(""SHA-256"");
         digest.update(challengeCode.getBytes(StandardCharsets.UTF_8));
         digest.update(verificationToken.getBytes(StandardCharsets.UTF_8));
-        byte[] bytes = digest.digest(endpoint.getBytes(S...",mdotbaig,4 hours ago,https://replit.com/bounties/@mdotbaig/need-an-experienced?t=
+        byte[] bytes = digest.digest(endpoint.getBytes(S...",mdotbaig,5 hours ago,https://replit.com/bounties/@mdotbaig/need-an-experienced?t=
 595,$95.40,due in 3 days,Chrome Exrension Bug Fix & Compile - Urgent,"Our Chrome Extension currently works by loading a search bar when a shortcut 'Command+K' is hit. However, if a web app e.g. Gmail, previously had a function with that same shortcut, our extension overrules this. This is undesirable as it ruins the functionality of many web apps such as Notion, Superhuman and Gmail.
 
 We would like for the code to be edited such that the web app is given precendence whenever there is a shortcut conflict.
@@ -4909,4 +4909,4 @@ They look like this
 I want to be able to have a SwiftUI component that looks/can be styled just like a textField (just in case my designs change in the future). But as the user starts to type, there is a floating window with options that appears and the user typing will effectively filter that list. You can think of it as building a country picker (just text though, no images) of a CountryPickerTextField.
 
 Acceptance Criteria
-You should deliver the swiftUI struct that ends up looking like a textField but upon clicking on the field, some sort of popup/window/dropdown menu will appear and the user typing will filter that list down.",IdleIdle,43 minutes ago,https://replit.com/bounties/@IdleIdle/swiftui-build-a-auto?t=
+You should deliver the swiftUI struct that ends up looking like a textField but upon clicking on the field, some sort of popup/window/dropdown menu will appear and the user typing will filter that list down.",IdleIdle,51 minutes ago,https://replit.com/bounties/@IdleIdle/swiftui-build-a-auto?t=
