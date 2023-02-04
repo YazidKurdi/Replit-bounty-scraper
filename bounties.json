@@ -5866,7 +5866,7 @@
         "title": "New Email Template Design Needed",
         "description": "I have created a AI-powered newsletter service that sends out a daily email containing GPT3 generated advice based on a popular movie quote. The problem is I am not a fan of the HTML + CSS used in the actual email template. I am looking for someone to design a better looking email template, send me the mockup for approval, and then implement the mockup in HTML + CSS.\n\nAcceptance Criteria\nDesign a mockup of the email template for approval and provide it to me\nIf any changes are required, I will try to keep them minimal, please work with me to update them.\nOnce approved, provide the HTML file that should include all CSS required to match the mockup's styling\nThe Email Template should also be optimized for mobile viewing as well.\n\nTechnical Details\nThe current HTML file can be found here: https://replit.com/@Dprevoznik/And-Action#templates/email-template.html\n\nI am really open to a totally new design. I am not married to colors / layout at all. It should be polis...",
         "author": "Dprevoznik",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@Dprevoznik/new-email-template-d?t="
     },
     {
@@ -5886,7 +5886,7 @@
         "title": "Swordbattle v2 packet system - p2",
         "description": "Make an efficient binary packet system for swordbattle v2",
         "author": "CoderGautamYT",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-packe-1?t="
     },
     {
@@ -5956,7 +5956,7 @@
         "title": "Chrome Exrension Bug Fix & Compile - Urgent",
         "description": "Our Chrome Extension currently works by loading a search bar when a shortcut 'Command+K' is hit. However, if a web app e.g. Gmail, previously had a function with that same shortcut, our extension overrules this. This is undesirable as it ruins the functionality of many web apps such as Notion, Superhuman and Gmail.\n\nWe would like for the code to be edited such that the web app is given precendence whenever there is a shortcut conflict.\n\nAcceptance Criteria\n\nDeliverable in a few hours\n\nEdits the provided code such that the functionality of the chrome extension remains unchanged except for the fact that the chrome extension's shortcut now does not function on web apps where there is a shortcut conflict and instead, the web app shortcut functions as expected.\n\nCompiles the code and provides the final set of compiled code that's ready to be used as a chrome extension.\n\nTechnical Details\nReact/JS/Docker",
         "author": "AshPrabaker1",
-        "posted_time": "7 minutes ago",
+        "posted_time": "22 minutes ago",
         "link": "https://replit.com/bounties/@AshPrabaker1/chrome-exrension-bug?t="
     }
 ]

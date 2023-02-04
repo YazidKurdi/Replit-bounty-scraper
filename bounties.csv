@@ -4787,7 +4787,7 @@ The Email Template should also be optimized for mobile viewing as well.
 Technical Details
 The current HTML file can be found here: https://replit.com/@Dprevoznik/And-Action#templates/email-template.html
 
-I am really open to a totally new design. I am not married to colors / layout at all. It should be polis...",Dprevoznik,17 hours ago,https://replit.com/bounties/@Dprevoznik/new-email-template-d?t=
+I am really open to a totally new design. I am not married to colors / layout at all. It should be polis...",Dprevoznik,18 hours ago,https://replit.com/bounties/@Dprevoznik/new-email-template-d?t=
 587,$180.00,due in 10 days,Shopify Product + Literature Scraper,"Shopify Product + Literature Scraper
 Scrape all shopify product and literature available given a shop url.
 Product Requirements
@@ -4806,7 +4806,7 @@ You can get access to shopify store's products via: shop_url/products.json, e.g.
                 img_url=product""images""[""src""],
             )
 In general this information will directly be able to be extracted from the json file listed in the URL. However, there are some cases like: h...",RaymondYuan2,17 hours ago,https://replit.com/bounties/@RaymondYuan2/shopify-product-lite?t=
-588,$45.00,due in 12 days,Swordbattle v2 packet system - p2,Make an efficient binary packet system for swordbattle v2,CoderGautamYT,15 hours ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-packe-1?t=
+588,$45.00,due in 12 days,Swordbattle v2 packet system - p2,Make an efficient binary packet system for swordbattle v2,CoderGautamYT,16 hours ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-packe-1?t=
 589,$180.00,due in 11 days,Basic Triangle LWJGL and OpenGL OpenXR apk for Quest 2,"I need an OpenXR application written with the LWJGL 3.3 library. Please use OpenGL for the renderer. And it needs to be an android app so that I can run it on quest. It needs views implemented as displacement. It needs to render one triangle in a fixed location that the user can ""move their head around"". Quest Passthrough would be nice but that is not required. I will be verifying with a quest 2 headset.",ParkerDiard,13 hours ago,https://replit.com/bounties/@ParkerDiard/basic-triangle-lwjgl?t=
 590,$90.00,closed,Seeking someone experienced with Java and working with APIs (need to deliver results within 48 hours of accepting job),"I have already coded a marketplace account deletion notification endpoint in my Controller class. I need you to customize it so it can receive and acknowledge eBay marketplace account deletion/closure notifications. See: https://developer.ebay.com/marketplace-account-deletion#:~:text=Receiving%20and%20acknowledging%20eBay%20marketplace%20account%20deletion/closure%20notifications
 
@@ -4884,4 +4884,4 @@ Edits the provided code such that the functionality of the chrome extension rema
 Compiles the code and provides the final set of compiled code that's ready to be used as a chrome extension.
 
 Technical Details
-React/JS/Docker",AshPrabaker1,7 minutes ago,https://replit.com/bounties/@AshPrabaker1/chrome-exrension-bug?t=
+React/JS/Docker",AshPrabaker1,22 minutes ago,https://replit.com/bounties/@AshPrabaker1/chrome-exrension-bug?t=
