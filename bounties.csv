@@ -4823,4 +4823,4 @@ Acceptance Criteria
 Angular application with minimal (basic) functionality where there are some user inputs, etc.
 Use any CSS framework or tailwind - Something that makes the app look presentable is fine. Nothing fancy needed
 The important thing is that the input from the user needs to be consumed and the app must have strict-contextual-escaping disabled
-The user input needs to be in some inline HTML, rendering it vulnerable against XSS",AbhayBhargav1,37 minutes ago,https://replit.com/bounties/@AbhayBhargav1/build-a-simple-boile?t=
+The user input needs to be in some inline HTML, rendering it vulnerable against XSS",AbhayBhargav1,47 minutes ago,https://replit.com/bounties/@AbhayBhargav1/build-a-simple-boile?t=
