@@ -4814,7 +4814,7 @@ Apply an eBay API to my pre-built service class and incorporate 2 functions, one
 
 Please ask me if you have any questions. The application is a Java Spring Boot application, so I need someone skilled in Java and who can deliver within 48 hours.
 
-""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,15 hours ago,https://replit.com/bounties/@mdotbaig/seeking-someone-expe?t=
+""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,16 hours ago,https://replit.com/bounties/@mdotbaig/seeking-someone-expe?t=
 591,$90.00,due in 13 days,Build a simple (boilerplate) app in Angular to demonstrate vulnerability with Strict Contextual Escaping disabled ,"Angular has Strict Contextual Escaping that helps it prevent against XSS
 I need a small, minimal app where this strict-contextual-escaping is disabled
 The idea is to demonstrate this vulnerability to other developers and look at a secure variant of the same
@@ -4890,7 +4890,7 @@ Deploy the vall-e machine learning model to the cloud and create an API for usag
 Deploy to AWS/GCP or use a service like Replicate
 
 https://valle-demo.github.io/
-https://github.com/enhuiz/vall-e",aidantorrence,2 hours ago,https://replit.com/bounties/@aidantorrence/deploy-the-vall-e-ma?t=
+https://github.com/enhuiz/vall-e",aidantorrence,3 hours ago,https://replit.com/bounties/@aidantorrence/deploy-the-vall-e-ma?t=
 597,$90.00,due in 13 days,Java Struts (Boilerplate) app that is vulnerable to SQL Injection and throws stack traces,"I want a very simple Apache Struts App that is vulnerable to SQL Injection. This can be (nearly) a boilerplate app, with a register, login and user search feature. The user search feature needs to be vulnerable to SQL Injection. I need this to demonstrate this to developer teams
 The database can be anything - SQLite is good enough. However, it should be vulnerable to SQL Injection
 The other important thing is that when the SQL query fails, it should throw detailed stack traces to the front-end to the user
@@ -4900,7 +4900,7 @@ Java Struts App that has 3 features. Register user, login user, Search for users
 Basic Frontend with any framework (bootstrap, bulma, whatever works)
 Search user functionality should be vulnerable to SQL Injection
 Database can be anything including SQLite. However, if you are using MySQL, Postgres, blah, you'll need to give me a Docker Compose file
-Failed SQL Statements should throw a stack trace to the user (debug mode true)",AbhayBhargav1,47 minutes ago,https://replit.com/bounties/@AbhayBhargav1/java-struts-boilerpl?t=
+Failed SQL Statements should throw a stack trace to the user (debug mode true)",AbhayBhargav1,1 hour ago,https://replit.com/bounties/@AbhayBhargav1/java-struts-boilerpl?t=
 598,$18.00,due in 3 days,SwiftUI: Build a AutoCompleteTextView (Android) equivalent in swiftUI,"I currently have a form in iOS/swiftUI with a bunch of text fields
 
 They look like this
@@ -4909,4 +4909,4 @@ They look like this
 I want to be able to have a SwiftUI component that looks/can be styled just like a textField (just in case my designs change in the future). But as the user starts to type, there is a floating window with options that appears and the user typing will effectively filter that list. You can think of it as building a country picker (just text though, no images) of a CountryPickerTextField.
 
 Acceptance Criteria
-You should deliver the swiftUI struct that ends up looking like a textField but upon clicking on the field, some sort of popup/window/dropdown menu will appear and the user typing will filter that list down.",IdleIdle,3 seconds ago,https://replit.com/bounties/@IdleIdle/swiftui-build-a-auto?t=
+You should deliver the swiftUI struct that ends up looking like a textField but upon clicking on the field, some sort of popup/window/dropdown menu will appear and the user typing will filter that list down.",IdleIdle,17 minutes ago,https://replit.com/bounties/@IdleIdle/swiftui-build-a-auto?t=

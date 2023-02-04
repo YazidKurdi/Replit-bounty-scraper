@@ -5906,7 +5906,7 @@
         "title": "Seeking someone experienced with Java and working with APIs (need to deliver results within 48 hours of accepting job)",
         "description": "I have already coded a marketplace account deletion notification endpoint in my Controller class. I need you to customize it so it can receive and acknowledge eBay marketplace account deletion/closure notifications. See: https://developer.ebay.com/marketplace-account-deletion#:~:text=Receiving%20and%20acknowledging%20eBay%20marketplace%20account%20deletion/closure%20notifications\n\nApply an eBay API to my pre-built service class and incorporate 2 functions, one that calculates median and one that calculates the mean of the results that we query. Will involve implementing the eBay Finding and Browse APIs to perform certain functions in my service class.\n\nPlease ask me if you have any questions. The application is a Java Spring Boot application, so I need someone skilled in Java and who can deliver within 48 hours.\n\n\"By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.\"",
         "author": "mdotbaig",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/seeking-someone-expe?t="
     },
     {
@@ -5966,7 +5966,7 @@
         "title": "Deploy the vall-e machine learning model to the cloud and create an API for usage.",
         "description": "Acceptance Criteria\nDeploy the vall-e machine learning model to the cloud and create an API for usage.\nDeploy to AWS/GCP or use a service like Replicate\n\nhttps://valle-demo.github.io/\nhttps://github.com/enhuiz/vall-e",
         "author": "aidantorrence",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/deploy-the-vall-e-ma?t="
     },
     {
@@ -5976,7 +5976,7 @@
         "title": "Java Struts (Boilerplate) app that is vulnerable to SQL Injection and throws stack traces",
         "description": "I want a very simple Apache Struts App that is vulnerable to SQL Injection. This can be (nearly) a boilerplate app, with a register, login and user search feature. The user search feature needs to be vulnerable to SQL Injection. I need this to demonstrate this to developer teams\nThe database can be anything - SQLite is good enough. However, it should be vulnerable to SQL Injection\nThe other important thing is that when the SQL query fails, it should throw detailed stack traces to the front-end to the user\n\nAcceptance Criteria\nJava Struts App that has 3 features. Register user, login user, Search for users\nBasic Frontend with any framework (bootstrap, bulma, whatever works)\nSearch user functionality should be vulnerable to SQL Injection\nDatabase can be anything including SQLite. However, if you are using MySQL, Postgres, blah, you'll need to give me a Docker Compose file\nFailed SQL Statements should throw a stack trace to the user (debug mode true)",
         "author": "AbhayBhargav1",
-        "posted_time": "47 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@AbhayBhargav1/java-struts-boilerpl?t="
     },
     {
@@ -5986,7 +5986,7 @@
         "title": "SwiftUI: Build a AutoCompleteTextView (Android) equivalent in swiftUI",
         "description": "I currently have a form in iOS/swiftUI with a bunch of text fields\n\nThey look like this\n            TextField(\"Some input\", text: $something).textFieldStyle(.roundedBorder)\n\nI want to be able to have a SwiftUI component that looks/can be styled just like a textField (just in case my designs change in the future). But as the user starts to type, there is a floating window with options that appears and the user typing will effectively filter that list. You can think of it as building a country picker (just text though, no images) of a CountryPickerTextField.\n\nAcceptance Criteria\nYou should deliver the swiftUI struct that ends up looking like a textField but upon clicking on the field, some sort of popup/window/dropdown menu will appear and the user typing will filter that list down.",
         "author": "IdleIdle",
-        "posted_time": "3 seconds ago",
+        "posted_time": "17 minutes ago",
         "link": "https://replit.com/bounties/@IdleIdle/swiftui-build-a-auto?t="
     }
 ]
