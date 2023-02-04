@@ -4884,7 +4884,7 @@ Edits the provided code such that the functionality of the chrome extension rema
 Compiles the code and provides the final set of compiled code that's ready to be used as a chrome extension.
 
 Technical Details
-React/JS/Docker",AshPrabaker1,4 hours ago,https://replit.com/bounties/@AshPrabaker1/chrome-exrension-bug?t=
+React/JS/Docker",AshPrabaker1,5 hours ago,https://replit.com/bounties/@AshPrabaker1/chrome-exrension-bug?t=
 596,$50.00,due in 4 days,Deploy the vall-e machine learning model to the cloud and create an API for usage.,"Acceptance Criteria
 Deploy the vall-e machine learning model to the cloud and create an API for usage.
 Deploy to AWS/GCP or use a service like Replicate
@@ -4917,10 +4917,10 @@ The extension will have:
 
 The result can be easily shared and saved for later review.
 
-Extra: The extension can be then added to a calendar like Google calendar / Apple calendar.",Frostywatkins,32 minutes ago,https://replit.com/bounties/@Frostywatkins/build-a-google-chrom?t=
+Extra: The extension can be then added to a calendar like Google calendar / Apple calendar.",Frostywatkins,41 minutes ago,https://replit.com/bounties/@Frostywatkins/build-a-google-chrom?t=
 600,$180.00,due in 17 days,Android Background Blink Tracker,"I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on Android. It should also show a graph of your historical blink rate (for instance, batched 60 minutes at a time, with a scrollable graph over time).
 
 To see the iOS version of this bounty, see https://replit.com/bounties/@AJGupta/background-blink-tra?t= .
 
 Acceptance Criteria
-An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",AJGupta,5 minutes ago,https://replit.com/bounties/@AJGupta/android-background-b-1?t=
+An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",AJGupta,14 minutes ago,https://replit.com/bounties/@AJGupta/android-background-b-1?t=
