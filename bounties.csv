@@ -4775,7 +4775,7 @@ Postgres
 Requirements
 Experience with authentication, nextauth, nextjs, prisma and postgres db
 Priority for anyone with relevant experience/projects mentioned
-Will tip more if completed before the deadline.",juancaruiz,16 hours ago,https://replit.com/bounties/@juancaruiz/add-a-credentials-em?t=
+Will tip more if completed before the deadline.",juancaruiz,17 hours ago,https://replit.com/bounties/@juancaruiz/add-a-credentials-em?t=
 586,$18.00,due in 3 days,New Email Template Design Needed,"I have created a AI-powered newsletter service that sends out a daily email containing GPT3 generated advice based on a popular movie quote. The problem is I am not a fan of the HTML + CSS used in the actual email template. I am looking for someone to design a better looking email template, send me the mockup for approval, and then implement the mockup in HTML + CSS.
 
 Acceptance Criteria
@@ -4805,7 +4805,7 @@ You can get access to shopify store's products via: shop_url/products.json, e.g.
                 url=url,
                 img_url=product""images""[""src""],
             )
-In general this information will directly be able to be extracted from the json file listed in the URL. However, there are some cases like: h...",RaymondYuan2,15 hours ago,https://replit.com/bounties/@RaymondYuan2/shopify-product-lite?t=
+In general this information will directly be able to be extracted from the json file listed in the URL. However, there are some cases like: h...",RaymondYuan2,16 hours ago,https://replit.com/bounties/@RaymondYuan2/shopify-product-lite?t=
 588,$45.00,due in 12 days,Swordbattle v2 packet system - p2,Make an efficient binary packet system for swordbattle v2,CoderGautamYT,14 hours ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-packe-1?t=
 589,$180.00,due in 11 days,Basic Triangle LWJGL and OpenGL OpenXR apk for Quest 2,"I need an OpenXR application written with the LWJGL 3.3 library. Please use OpenGL for the renderer. And it needs to be an android app so that I can run it on quest. It needs views implemented as displacement. It needs to render one triangle in a fixed location that the user can ""move their head around"". Quest Passthrough would be nice but that is not required. I will be verifying with a quest 2 headset.",ParkerDiard,12 hours ago,https://replit.com/bounties/@ParkerDiard/basic-triangle-lwjgl?t=
 590,$90.00,closed,Seeking someone experienced with Java and working with APIs (need to deliver results within 48 hours of accepting job),"I have already coded a marketplace account deletion notification endpoint in my Controller class. I need you to customize it so it can receive and acknowledge eBay marketplace account deletion/closure notifications. See: https://developer.ebay.com/marketplace-account-deletion#:~:text=Receiving%20and%20acknowledging%20eBay%20marketplace%20account%20deletion/closure%20notifications
@@ -4814,7 +4814,7 @@ Apply an eBay API to my pre-built service class and incorporate 2 functions, one
 
 Please ask me if you have any questions. The application is a Java Spring Boot application, so I need someone skilled in Java and who can deliver within 48 hours.
 
-""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,11 hours ago,https://replit.com/bounties/@mdotbaig/seeking-someone-expe?t=
+""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,12 hours ago,https://replit.com/bounties/@mdotbaig/seeking-someone-expe?t=
 591,$90.00,due in 13 days,Build a simple (boilerplate) app in Angular to demonstrate vulnerability with Strict Contextual Escaping disabled ,"Angular has Strict Contextual Escaping that helps it prevent against XSS
 I need a small, minimal app where this strict-contextual-escaping is disabled
 The idea is to demonstrate this vulnerability to other developers and look at a secure variant of the same
@@ -4854,3 +4854,20 @@ I'd like to use it for vue projects
 
 Acceptance Criteria
 100% feature parity with the react lib, and usable in a Vue 3 project in composition and option API.",MatthiasRichard,4 hours ago,https://replit.com/bounties/@MatthiasRichard/port-avvvatars-react?t=
+594,$112.50,due in 3 days,Need an experienced Java developer to set up controller method to receive notifications,"I am new to Java and trying to gain access to eBay developers program. It require setting up account deletion notifications: https://developer.ebay.com/marketplace-account-deletion
+
+I've already set up an endpoint in my Controller class:
+
+ @RequestMapping(value = ""/challenge"", method = RequestMethod.GET)
+    public ResponseEntity handleChallenge(@RequestParam(""challenge_code"") String challengeCode) throws Exception {
+
+        // Input validation and error handling
+        if (challengeCode == null || challengeCode.isEmpty()) {
+            return ResponseEntity.badRequest().body(""challenge_code is required"");
+        }
+
+        // Hash the challenge code, verification token, and endpoint URL together
+        MessageDigest digest = MessageDigest.getInstance(""SHA-256"");
+        digest.update(challengeCode.getBytes(StandardCharsets.UTF_8));
+        digest.update(verificationToken.getBytes(StandardCharsets.UTF_8));
+        byte[] bytes = digest.digest(endpoint.getBytes(S...",mdotbaig,59 seconds ago,https://replit.com/bounties/@mdotbaig/need-an-experienced?t=
