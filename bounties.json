@@ -5916,7 +5916,7 @@
         "title": "Build a simple (boilerplate) app in Angular to demonstrate vulnerability with Strict Contextual Escaping disabled ",
         "description": "Angular has Strict Contextual Escaping that helps it prevent against XSS\nI need a small, minimal app where this strict-contextual-escaping is disabled\nThe idea is to demonstrate this vulnerability to other developers and look at a secure variant of the same\n\nAcceptance Criteria\nAngular application with minimal (basic) functionality where there are some user inputs, etc.\nUse any CSS framework or tailwind - Something that makes the app look presentable is fine. Nothing fancy needed\nThe important thing is that the input from the user needs to be consumed and the app must have strict-contextual-escaping disabled\nThe user input needs to be in some inline HTML, rendering it vulnerable against XSS",
         "author": "AbhayBhargav1",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@AbhayBhargav1/build-a-simple-boile?t="
     },
     {
@@ -5936,7 +5936,7 @@
         "title": "Port avvvatars react lib to Vue 3",
         "description": "This React library makes it easy to use nice looking avatars in a web app.\nhttps://github.com/nusu/avvvatars\n\nI'd like to use it for vue projects\n\nAcceptance Criteria\n100% feature parity with the react lib, and usable in a Vue 3 project in composition and option API.",
         "author": "MatthiasRichard",
-        "posted_time": "23 minutes ago",
+        "posted_time": "33 minutes ago",
         "link": "https://replit.com/bounties/@MatthiasRichard/port-avvvatars-react?t="
     }
 ]
