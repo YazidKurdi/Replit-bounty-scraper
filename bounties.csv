@@ -4823,7 +4823,7 @@ Acceptance Criteria
 Angular application with minimal (basic) functionality where there are some user inputs, etc.
 Use any CSS framework or tailwind - Something that makes the app look presentable is fine. Nothing fancy needed
 The important thing is that the input from the user needs to be consumed and the app must have strict-contextual-escaping disabled
-The user input needs to be in some inline HTML, rendering it vulnerable against XSS",AbhayBhargav1,14 hours ago,https://replit.com/bounties/@AbhayBhargav1/build-a-simple-boile?t=
+The user input needs to be in some inline HTML, rendering it vulnerable against XSS",AbhayBhargav1,15 hours ago,https://replit.com/bounties/@AbhayBhargav1/build-a-simple-boile?t=
 592,$450.00,due in 4 days,GitHub Pull Request Viewer in Next.js,"I primarily access GitHub through the API, as I work for many different customers and have different tokens for each. However, I would like a way to view a pull request without having to log into accounts. Instead, I'd just like to pull up a page where it fills in the API token for me and replicates the pull request UI.
 
 Your task is to (re)create the pull request page from GitHub (ie. this page - ) using the API alone. Visual fidelity is not required (just use components from any component library, though Primer or Material UI are preferred), nor is all the functionality of the interface.
@@ -4853,7 +4853,7 @@ https://github.com/nusu/avvvatars
 I'd like to use it for vue projects
 
 Acceptance Criteria
-100% feature parity with the react lib, and usable in a Vue 3 project in composition and option API.",MatthiasRichard,9 hours ago,https://replit.com/bounties/@MatthiasRichard/port-avvvatars-react?t=
+100% feature parity with the react lib, and usable in a Vue 3 project in composition and option API.",MatthiasRichard,10 hours ago,https://replit.com/bounties/@MatthiasRichard/port-avvvatars-react?t=
 594,$112.50,due in 3 days,Need an experienced Java developer to set up controller method to receive notifications,"I am new to Java and trying to gain access to eBay developers program. It require setting up account deletion notifications: https://developer.ebay.com/marketplace-account-deletion
 
 I've already set up an endpoint in my Controller class:
@@ -4870,7 +4870,7 @@ I've already set up an endpoint in my Controller class:
         MessageDigest digest = MessageDigest.getInstance(""SHA-256"");
         digest.update(challengeCode.getBytes(StandardCharsets.UTF_8));
         digest.update(verificationToken.getBytes(StandardCharsets.UTF_8));
-        byte[] bytes = digest.digest(endpoint.getBytes(S...",mdotbaig,5 hours ago,https://replit.com/bounties/@mdotbaig/need-an-experienced?t=
+        byte[] bytes = digest.digest(endpoint.getBytes(S...",mdotbaig,6 hours ago,https://replit.com/bounties/@mdotbaig/need-an-experienced?t=
 595,$95.40,closed,Chrome Exrension Bug Fix & Compile - Urgent,"Our Chrome Extension currently works by loading a search bar when a shortcut 'Command+K' is hit. However, if a web app e.g. Gmail, previously had a function with that same shortcut, our extension overrules this. This is undesirable as it ruins the functionality of many web apps such as Notion, Superhuman and Gmail.
 
 We would like for the code to be edited such that the web app is given precendence whenever there is a shortcut conflict.
@@ -4900,7 +4900,7 @@ Java Struts App that has 3 features. Register user, login user, Search for users
 Basic Frontend with any framework (bootstrap, bulma, whatever works)
 Search user functionality should be vulnerable to SQL Injection
 Database can be anything including SQLite. However, if you are using MySQL, Postgres, blah, you'll need to give me a Docker Compose file
-Failed SQL Statements should throw a stack trace to the user (debug mode true)",AbhayBhargav1,2 hours ago,https://replit.com/bounties/@AbhayBhargav1/java-struts-boilerpl?t=
+Failed SQL Statements should throw a stack trace to the user (debug mode true)",AbhayBhargav1,3 hours ago,https://replit.com/bounties/@AbhayBhargav1/java-struts-boilerpl?t=
 598,$18.00,due in 3 days,SwiftUI: Build a AutoCompleteTextView (Android) equivalent in swiftUI,"I currently have a form in iOS/swiftUI with a bunch of text fields
 
 They look like this
@@ -4917,10 +4917,10 @@ The extension will have:
 
 The result can be easily shared and saved for later review.
 
-Extra: The extension can be then added to a calendar like Google calendar / Apple calendar.",Frostywatkins,41 minutes ago,https://replit.com/bounties/@Frostywatkins/build-a-google-chrom?t=
+Extra: The extension can be then added to a calendar like Google calendar / Apple calendar.",Frostywatkins,51 minutes ago,https://replit.com/bounties/@Frostywatkins/build-a-google-chrom?t=
 600,$180.00,due in 17 days,Android Background Blink Tracker,"I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on Android. It should also show a graph of your historical blink rate (for instance, batched 60 minutes at a time, with a scrollable graph over time).
 
 To see the iOS version of this bounty, see https://replit.com/bounties/@AJGupta/background-blink-tra?t= .
 
 Acceptance Criteria
-An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",AJGupta,14 minutes ago,https://replit.com/bounties/@AJGupta/android-background-b-1?t=
+An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",AJGupta,23 minutes ago,https://replit.com/bounties/@AJGupta/android-background-b-1?t=
