@@ -4900,4 +4900,4 @@ Java Struts App that has 3 features. Register user, login user, Search for users
 Basic Frontend with any framework (bootstrap, bulma, whatever works)
 Search user functionality should be vulnerable to SQL Injection
 Database can be anything including SQLite. However, if you are using MySQL, Postgres, blah, you'll need to give me a Docker Compose file
-Failed SQL Statements should throw a stack trace to the user (debug mode true)",AbhayBhargav1,2 minutes ago,https://replit.com/bounties/@AbhayBhargav1/java-struts-boilerpl?t=
+Failed SQL Statements should throw a stack trace to the user (debug mode true)",AbhayBhargav1,16 minutes ago,https://replit.com/bounties/@AbhayBhargav1/java-struts-boilerpl?t=
