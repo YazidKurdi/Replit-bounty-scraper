@@ -5956,7 +5956,7 @@
         "title": "Chrome Exrension Bug Fix & Compile - Urgent",
         "description": "Our Chrome Extension currently works by loading a search bar when a shortcut 'Command+K' is hit. However, if a web app e.g. Gmail, previously had a function with that same shortcut, our extension overrules this. This is undesirable as it ruins the functionality of many web apps such as Notion, Superhuman and Gmail.\n\nWe would like for the code to be edited such that the web app is given precendence whenever there is a shortcut conflict.\n\nAcceptance Criteria\n\nDeliverable in a few hours\n\nEdits the provided code such that the functionality of the chrome extension remains unchanged except for the fact that the chrome extension's shortcut now does not function on web apps where there is a shortcut conflict and instead, the web app shortcut functions as expected.\n\nCompiles the code and provides the final set of compiled code that's ready to be used as a chrome extension.\n\nTechnical Details\nReact/JS/Docker",
         "author": "AshPrabaker1",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@AshPrabaker1/chrome-exrension-bug?t="
     },
     {
@@ -6008,5 +6008,15 @@
         "author": "AJGupta",
         "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@AJGupta/android-background-b-1?t="
+    },
+    {
+        "index": "601",
+        "price": "$4.50",
+        "due_days": "due in 13 days",
+        "title": "css form designed",
+        "description": "Describe the problem you are trying to solve here.\nNeed CSS form designed thx\nAcceptance Criteria\nBe specific about what you want in the solution here.",
+        "author": "JackWam",
+        "posted_time": "1 second ago",
+        "link": "https://replit.com/bounties/@JackWam/css-form-designed?t="
     }
 ]
