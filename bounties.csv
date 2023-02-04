@@ -4814,7 +4814,7 @@ Apply an eBay API to my pre-built service class and incorporate 2 functions, one
 
 Please ask me if you have any questions. The application is a Java Spring Boot application, so I need someone skilled in Java and who can deliver within 48 hours.
 
-""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,16 hours ago,https://replit.com/bounties/@mdotbaig/seeking-someone-expe?t=
+""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,17 hours ago,https://replit.com/bounties/@mdotbaig/seeking-someone-expe?t=
 591,$90.00,due in 13 days,Build a simple (boilerplate) app in Angular to demonstrate vulnerability with Strict Contextual Escaping disabled ,"Angular has Strict Contextual Escaping that helps it prevent against XSS
 I need a small, minimal app where this strict-contextual-escaping is disabled
 The idea is to demonstrate this vulnerability to other developers and look at a secure variant of the same
@@ -4890,7 +4890,7 @@ Deploy the vall-e machine learning model to the cloud and create an API for usag
 Deploy to AWS/GCP or use a service like Replicate
 
 https://valle-demo.github.io/
-https://github.com/enhuiz/vall-e",aidantorrence,3 hours ago,https://replit.com/bounties/@aidantorrence/deploy-the-vall-e-ma?t=
+https://github.com/enhuiz/vall-e",aidantorrence,4 hours ago,https://replit.com/bounties/@aidantorrence/deploy-the-vall-e-ma?t=
 597,$90.00,due in 13 days,Java Struts (Boilerplate) app that is vulnerable to SQL Injection and throws stack traces,"I want a very simple Apache Struts App that is vulnerable to SQL Injection. This can be (nearly) a boilerplate app, with a register, login and user search feature. The user search feature needs to be vulnerable to SQL Injection. I need this to demonstrate this to developer teams
 The database can be anything - SQLite is good enough. However, it should be vulnerable to SQL Injection
 The other important thing is that when the SQL query fails, it should throw detailed stack traces to the front-end to the user
@@ -4910,11 +4910,11 @@ I want to be able to have a SwiftUI component that looks/can be styled just like
 
 Acceptance Criteria
 You should deliver the swiftUI struct that ends up looking like a textField but upon clicking on the field, some sort of popup/window/dropdown menu will appear and the user typing will filter that list down.",IdleIdle,1 hour ago,https://replit.com/bounties/@IdleIdle/swiftui-build-a-auto?t=
-599,$99.00,due in 6 days,Build a Google Chrome extension For AI Goal Planning (Using Chat GPT-3),"Looking to make a google chrome extension for achieving goals. The application will give you a plan of how to best achieve your, daily, weekly, monthly or yearly projects or goals.
+599,$99.00,due in 7 days,Build a Google Chrome extension For AI Goal Planning (Using Chat GPT-3),"Looking to make a google chrome extension for achieving goals. The application will give you a plan of how to best achieve your, daily, weekly, monthly or yearly projects or goals.
 
 The extension will have:
 5 input boxes in order of priority
 
 The result can be easily shared and saved for later review.
 
-Extra: The extension can be then added to a calendar like Google calendar / Apple calendar.",Frostywatkins,33 seconds ago,https://replit.com/bounties/@Frostywatkins/build-a-google-chrom?t=
+Extra: The extension can be then added to a calendar like Google calendar / Apple calendar.",Frostywatkins,15 minutes ago,https://replit.com/bounties/@Frostywatkins/build-a-google-chrom?t=

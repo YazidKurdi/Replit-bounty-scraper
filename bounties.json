@@ -5906,7 +5906,7 @@
         "title": "Seeking someone experienced with Java and working with APIs (need to deliver results within 48 hours of accepting job)",
         "description": "I have already coded a marketplace account deletion notification endpoint in my Controller class. I need you to customize it so it can receive and acknowledge eBay marketplace account deletion/closure notifications. See: https://developer.ebay.com/marketplace-account-deletion#:~:text=Receiving%20and%20acknowledging%20eBay%20marketplace%20account%20deletion/closure%20notifications\n\nApply an eBay API to my pre-built service class and incorporate 2 functions, one that calculates median and one that calculates the mean of the results that we query. Will involve implementing the eBay Finding and Browse APIs to perform certain functions in my service class.\n\nPlease ask me if you have any questions. The application is a Java Spring Boot application, so I need someone skilled in Java and who can deliver within 48 hours.\n\n\"By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.\"",
         "author": "mdotbaig",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/seeking-someone-expe?t="
     },
     {
@@ -5966,7 +5966,7 @@
         "title": "Deploy the vall-e machine learning model to the cloud and create an API for usage.",
         "description": "Acceptance Criteria\nDeploy the vall-e machine learning model to the cloud and create an API for usage.\nDeploy to AWS/GCP or use a service like Replicate\n\nhttps://valle-demo.github.io/\nhttps://github.com/enhuiz/vall-e",
         "author": "aidantorrence",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/deploy-the-vall-e-ma?t="
     },
     {
@@ -5992,11 +5992,11 @@
     {
         "index": "599",
         "price": "$99.00",
-        "due_days": "due in 6 days",
+        "due_days": "due in 7 days",
         "title": "Build a Google Chrome extension For AI Goal Planning (Using Chat GPT-3)",
         "description": "Looking to make a google chrome extension for achieving goals. The application will give you a plan of how to best achieve your, daily, weekly, monthly or yearly projects or goals.\n\nThe extension will have:\n5 input boxes in order of priority\n\nThe result can be easily shared and saved for later review.\n\nExtra: The extension can be then added to a calendar like Google calendar / Apple calendar.",
         "author": "Frostywatkins",
-        "posted_time": "33 seconds ago",
+        "posted_time": "15 minutes ago",
         "link": "https://replit.com/bounties/@Frostywatkins/build-a-google-chrom?t="
     }
 ]
