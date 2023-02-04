@@ -5886,7 +5886,7 @@
         "title": "Swordbattle v2 packet system - p2",
         "description": "Make an efficient binary packet system for swordbattle v2",
         "author": "CoderGautamYT",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-packe-1?t="
     },
     {
@@ -5896,7 +5896,7 @@
         "title": "Basic Triangle LWJGL and OpenGL OpenXR apk for Quest 2",
         "description": "I need an OpenXR application written with the LWJGL 3.3 library. Please use OpenGL for the renderer. And it needs to be an android app so that I can run it on quest. It needs views implemented as displacement. It needs to render one triangle in a fixed location that the user can \"move their head around\". Quest Passthrough would be nice but that is not required. I will be verifying with a quest 2 headset.",
         "author": "ParkerDiard",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@ParkerDiard/basic-triangle-lwjgl?t="
     },
     {
@@ -5956,7 +5956,7 @@
         "title": "Chrome Exrension Bug Fix & Compile - Urgent",
         "description": "Our Chrome Extension currently works by loading a search bar when a shortcut 'Command+K' is hit. However, if a web app e.g. Gmail, previously had a function with that same shortcut, our extension overrules this. This is undesirable as it ruins the functionality of many web apps such as Notion, Superhuman and Gmail.\n\nWe would like for the code to be edited such that the web app is given precendence whenever there is a shortcut conflict.\n\nAcceptance Criteria\n\nDeliverable in a few hours\n\nEdits the provided code such that the functionality of the chrome extension remains unchanged except for the fact that the chrome extension's shortcut now does not function on web apps where there is a shortcut conflict and instead, the web app shortcut functions as expected.\n\nCompiles the code and provides the final set of compiled code that's ready to be used as a chrome extension.\n\nTechnical Details\nReact/JS/Docker",
         "author": "AshPrabaker1",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@AshPrabaker1/chrome-exrension-bug?t="
     },
     {
@@ -5976,7 +5976,7 @@
         "title": "Java Struts (Boilerplate) app that is vulnerable to SQL Injection and throws stack traces",
         "description": "I want a very simple Apache Struts App that is vulnerable to SQL Injection. This can be (nearly) a boilerplate app, with a register, login and user search feature. The user search feature needs to be vulnerable to SQL Injection. I need this to demonstrate this to developer teams\nThe database can be anything - SQLite is good enough. However, it should be vulnerable to SQL Injection\nThe other important thing is that when the SQL query fails, it should throw detailed stack traces to the front-end to the user\n\nAcceptance Criteria\nJava Struts App that has 3 features. Register user, login user, Search for users\nBasic Frontend with any framework (bootstrap, bulma, whatever works)\nSearch user functionality should be vulnerable to SQL Injection\nDatabase can be anything including SQLite. However, if you are using MySQL, Postgres, blah, you'll need to give me a Docker Compose file\nFailed SQL Statements should throw a stack trace to the user (debug mode true)",
         "author": "AbhayBhargav1",
-        "posted_time": "16 minutes ago",
+        "posted_time": "28 minutes ago",
         "link": "https://replit.com/bounties/@AbhayBhargav1/java-struts-boilerpl?t="
     }
 ]
