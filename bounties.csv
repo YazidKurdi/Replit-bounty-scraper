@@ -4846,7 +4846,7 @@ The files changed are accessible. I can expand a diff for each file to view it
 
 The commit list is visible
 
-The comment threads...",dev2prod,10 hours ago,https://replit.com/bounties/@dev2prod/github-pull-request?t=
+The comment threads...",dev2prod,11 hours ago,https://replit.com/bounties/@dev2prod/github-pull-request?t=
 593,$54.00,due in 13 days,Port avvvatars react lib to Vue 3,"This React library makes it easy to use nice looking avatars in a web app.
 https://github.com/nusu/avvvatars
 
@@ -4900,4 +4900,13 @@ Java Struts App that has 3 features. Register user, login user, Search for users
 Basic Frontend with any framework (bootstrap, bulma, whatever works)
 Search user functionality should be vulnerable to SQL Injection
 Database can be anything including SQLite. However, if you are using MySQL, Postgres, blah, you'll need to give me a Docker Compose file
-Failed SQL Statements should throw a stack trace to the user (debug mode true)",AbhayBhargav1,37 minutes ago,https://replit.com/bounties/@AbhayBhargav1/java-struts-boilerpl?t=
+Failed SQL Statements should throw a stack trace to the user (debug mode true)",AbhayBhargav1,47 minutes ago,https://replit.com/bounties/@AbhayBhargav1/java-struts-boilerpl?t=
+598,$18.00,due in 3 days,SwiftUI: Build a AutoCompleteTextView (Android) equivalent in swiftUI,"I currently have a form in iOS/swiftUI with a bunch of text fields
+
+They look like this
+            TextField(""Some input"", text: $something).textFieldStyle(.roundedBorder)
+
+I want to be able to have a SwiftUI component that looks/can be styled just like a textField (just in case my designs change in the future). But as the user starts to type, there is a floating window with options that appears and the user typing will effectively filter that list. You can think of it as building a country picker (just text though, no images) of a CountryPickerTextField.
+
+Acceptance Criteria
+You should deliver the swiftUI struct that ends up looking like a textField but upon clicking on the field, some sort of popup/window/dropdown menu will appear and the user typing will filter that list down.",IdleIdle,3 seconds ago,https://replit.com/bounties/@IdleIdle/swiftui-build-a-auto?t=

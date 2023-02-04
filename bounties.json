@@ -5926,7 +5926,7 @@
         "title": "GitHub Pull Request Viewer in Next.js",
         "description": "I primarily access GitHub through the API, as I work for many different customers and have different tokens for each. However, I would like a way to view a pull request without having to log into accounts. Instead, I'd just like to pull up a page where it fills in the API token for me and replicates the pull request UI.\n\nYour task is to (re)create the pull request page from GitHub (ie. this page - ) using the API alone. Visual fidelity is not required (just use components from any component library, though Primer or Material UI are preferred), nor is all the functionality of the interface.\n\nAcceptance Criteria\n\nI can open /apps///pulls/ to view a pull request. The details are fetched via the API from my GitHub app.\n\nThe page has this info:\n\n    PR title\n\n    PR author\n\n    PR body (description)\n\n    PR status (merged, closed, draft, etc.)\n\nThe files changed are accessible. I can expand a diff for each file to view it\n\nThe commit list is visible\n\nThe comment threads...",
         "author": "dev2prod",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@dev2prod/github-pull-request?t="
     },
     {
@@ -5976,7 +5976,17 @@
         "title": "Java Struts (Boilerplate) app that is vulnerable to SQL Injection and throws stack traces",
         "description": "I want a very simple Apache Struts App that is vulnerable to SQL Injection. This can be (nearly) a boilerplate app, with a register, login and user search feature. The user search feature needs to be vulnerable to SQL Injection. I need this to demonstrate this to developer teams\nThe database can be anything - SQLite is good enough. However, it should be vulnerable to SQL Injection\nThe other important thing is that when the SQL query fails, it should throw detailed stack traces to the front-end to the user\n\nAcceptance Criteria\nJava Struts App that has 3 features. Register user, login user, Search for users\nBasic Frontend with any framework (bootstrap, bulma, whatever works)\nSearch user functionality should be vulnerable to SQL Injection\nDatabase can be anything including SQLite. However, if you are using MySQL, Postgres, blah, you'll need to give me a Docker Compose file\nFailed SQL Statements should throw a stack trace to the user (debug mode true)",
         "author": "AbhayBhargav1",
-        "posted_time": "37 minutes ago",
+        "posted_time": "47 minutes ago",
         "link": "https://replit.com/bounties/@AbhayBhargav1/java-struts-boilerpl?t="
+    },
+    {
+        "index": "598",
+        "price": "$18.00",
+        "due_days": "due in 3 days",
+        "title": "SwiftUI: Build a AutoCompleteTextView (Android) equivalent in swiftUI",
+        "description": "I currently have a form in iOS/swiftUI with a bunch of text fields\n\nThey look like this\n            TextField(\"Some input\", text: $something).textFieldStyle(.roundedBorder)\n\nI want to be able to have a SwiftUI component that looks/can be styled just like a textField (just in case my designs change in the future). But as the user starts to type, there is a floating window with options that appears and the user typing will effectively filter that list. You can think of it as building a country picker (just text though, no images) of a CountryPickerTextField.\n\nAcceptance Criteria\nYou should deliver the swiftUI struct that ends up looking like a textField but upon clicking on the field, some sort of popup/window/dropdown menu will appear and the user typing will filter that list down.",
+        "author": "IdleIdle",
+        "posted_time": "3 seconds ago",
+        "link": "https://replit.com/bounties/@IdleIdle/swiftui-build-a-auto?t="
     }
 ]
