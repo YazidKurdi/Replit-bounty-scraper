@@ -5976,7 +5976,7 @@
         "title": "Java Struts (Boilerplate) app that is vulnerable to SQL Injection and throws stack traces",
         "description": "I want a very simple Apache Struts App that is vulnerable to SQL Injection. This can be (nearly) a boilerplate app, with a register, login and user search feature. The user search feature needs to be vulnerable to SQL Injection. I need this to demonstrate this to developer teams\nThe database can be anything - SQLite is good enough. However, it should be vulnerable to SQL Injection\nThe other important thing is that when the SQL query fails, it should throw detailed stack traces to the front-end to the user\n\nAcceptance Criteria\nJava Struts App that has 3 features. Register user, login user, Search for users\nBasic Frontend with any framework (bootstrap, bulma, whatever works)\nSearch user functionality should be vulnerable to SQL Injection\nDatabase can be anything including SQLite. However, if you are using MySQL, Postgres, blah, you'll need to give me a Docker Compose file\nFailed SQL Statements should throw a stack trace to the user (debug mode true)",
         "author": "AbhayBhargav1",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@AbhayBhargav1/java-struts-boilerpl?t="
     },
     {
@@ -6046,7 +6046,7 @@
         "title": "Build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.",
         "description": "Can you build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.\n\nTHE OPENAI TEXT CLASSIFIER IS NOT AN API, SIMILARLY TO CHATGPT IT ONLY EXISTS ON A WEB APPLICATION\n\nI'm not sure how this works or how possible it is but I think some crafty people may know how to do this given there are ChatGPT chrome extensions that exist in the wild. (e.g. ChatGPT for Google chrome extension w/ source code here: https://github.com/wong2/chatgpt-google-extension)\n\nhttps://platform.openai.com/ai-text-classifier\n\n#Acceptance Criteria\nOpenAI cheat-detection classifier is usable on the website.\nLooks good",
         "author": "aidantorrence",
-        "posted_time": "58 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@aidantorrence/build-a-website-that?t="
     }
 ]
