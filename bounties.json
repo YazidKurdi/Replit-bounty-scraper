@@ -6102,7 +6102,7 @@
     {
         "index": "610",
         "price": "$20.00",
-        "due_days": "due in 3 days",
+        "due_days": "closed",
         "title": "Integrate new code into Github repository without affecting current application",
         "description": "I need someone to integrate some code from one directory into my Github repository without affecting the current functionality of my app.\n\nBy accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.",
         "author": "mdotbaig",
