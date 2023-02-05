@@ -6146,7 +6146,7 @@
         "title": "Convert Java method to Javascript2",
         "description": "Convert the following two Java methods into Javascript.\n\nprivate static String signMessage(String secret, String data) {\n    byte[] key = Base64.getUrlDecoder().decode(secret);\n    byte[] signature = signMessage(key, \"HmacSHA256\", data);\n    return Base64.getEncoder().encodeToString(signature);\n}\n\nprivate static byte[] signMessage(byte[] key, String algorithm, String data) {\n    try {\n        byte[] signature;\n        Mac mac = Mac.getInstance(algorithm);\n        SecretKeySpec keSpec = new SecretKeySpec(key, algorithm);\n        mac.init(keSpec);\n        signature = mac.doFinal(data.getBytes());\n        return signature;\n    } catch (NoSuchAlgorithmException | InvalidKeyException e) {\n        throw new RuntimeException(\"Unable to signe the message: \" + e.getMessage());\n    }\n}\n\nAcceptance Criteria\n\nTechnical Details\nBoth implementations have to produce identical results for different inputs. Secret input variable is usually base64 encoded.\nThe Javascript code should...",
         "author": "martin-nginio",
-        "posted_time": "47 minutes ago",
+        "posted_time": "57 minutes ago",
         "link": "https://replit.com/bounties/@martin-nginio/convert-java-method-1?t="
     },
     {
@@ -6156,7 +6156,7 @@
         "title": "Create a setup page in react that allows a new user to connect their accounts with Plaid and Codat",
         "description": "Hi Guys! We're a fast growing startup based in NYC with an already built stack.\n\nWe are looking to build a separate page to allow users to connect their accounts using Codat and Plaid. Then pass the authentication tokens to our backend\nThis will require a little server side work to configure the Plaid and Codat modals as well as pass the authentication tokens back to our fastAPI server to be saved down.\n\nCodat and Plaid have already-built react components, so you just have to embed those in the page\nUser authentication handled by Auth0, make sure the page is authenticated.\n\nDesign can be shared upon accepting application. We will deploy it ourselves on our infrastructure.\n\nCan definitely turn into a repeating gig! Shoot me an application. Please be direct in application and tell us past experience and why you are right applicant for the gig. Look forward to meeting.\n\nWe're trying to move fast so please only apply if you can jump on this this week.",
         "author": "financeguy",
-        "posted_time": "44 minutes ago",
+        "posted_time": "54 minutes ago",
         "link": "https://replit.com/bounties/@financeguy/create-a-setup-page?t="
     },
     {
@@ -6166,7 +6166,7 @@
         "title": "Help me get my python libraries working in AWS Lambda",
         "description": "Need to get python libraries working in AWS lambda.  I have working code that runs on desktop.  Trying to port it over to aws lambda but its puking on not being able to find its libraries or local data.\nAcceptance Criteria\n      Program runs in the cloud\nTechnical Details\n\nLink to Project",
         "author": "TirrellPayton",
-        "posted_time": "19 minutes ago",
+        "posted_time": "29 minutes ago",
         "link": "https://replit.com/bounties/@TirrellPayton/help-me-get-my-pytho?t="
     }
 ]
