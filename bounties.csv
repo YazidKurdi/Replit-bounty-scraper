@@ -4917,7 +4917,7 @@ The extension will have:
 
 The result can be easily shared and saved for later review.
 
-Extra: The extension can be then added to a calendar like Google calendar / Apple calendar.",Frostywatkins,13 hours ago,https://replit.com/bounties/@Frostywatkins/build-a-google-chrom?t=
+Extra: The extension can be then added to a calendar like Google calendar / Apple calendar.",Frostywatkins,14 hours ago,https://replit.com/bounties/@Frostywatkins/build-a-google-chrom?t=
 600,$180.00,due in 16 days,Android Background Blink Tracker,"I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on Android. It should also show a graph of your historical blink rate (for instance, batched 60 minutes at a time, with a scrollable graph over time).
 
 To see the iOS version of this bounty, see https://replit.com/bounties/@AJGupta/background-blink-tra?t= .
@@ -4967,9 +4967,9 @@ Should be very easy to manage e.g. a github action or something with a gui",Samu
 607,$22.50,due in 6 days,Filterable Business News Feed,"Create a daily feed of public company Form 8K reports, press releases, and SEC filings based on these parameters: 1) If the current common stock share price is = 1.0, 2c) Gross margin > 15%, 2d) Working capital > 0. Limit news feed sources to companies trading on the NYSE and NASDAQ.
 
 Acceptance Criteria
-Feed news within 24-hours of public release. Identify the public company name or ticker. Send the news daily to my email.",StuartPeterson,7 hours ago,https://replit.com/bounties/@StuartPeterson/filterable-business?t=
+Feed news within 24-hours of public release. Identify the public company name or ticker. Send the news daily to my email.",StuartPeterson,8 hours ago,https://replit.com/bounties/@StuartPeterson/filterable-business?t=
 608,$9.00,due in 4 days,Add a small feature to my NextJS Dalle-2 generator ,"I have set up a Dalle-2 starter project that already works and emits a single image. I just want it to show more images per query.
 
 This is the basis of the codebase I am using: https://vercel.com/templates/next.js/dall-e
 
-It's a React/NextJS site that with Redist/QStash for managing a queue of requests.",christopherfr24,6 hours ago,https://replit.com/bounties/@christopherfr24/add-a-small-feature?t=
+It's a React/NextJS site that with Redist/QStash for managing a queue of requests.",christopherfr24,7 hours ago,https://replit.com/bounties/@christopherfr24/add-a-small-feature?t=
