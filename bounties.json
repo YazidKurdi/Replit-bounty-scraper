@@ -5986,7 +5986,7 @@
         "title": "SwiftUI: Build a AutoCompleteTextView (Android) equivalent in swiftUI",
         "description": "I currently have a form in iOS/swiftUI with a bunch of text fields\n\nThey look like this\n            TextField(\"Some input\", text: $something).textFieldStyle(.roundedBorder)\n\nI want to be able to have a SwiftUI component that looks/can be styled just like a textField (just in case my designs change in the future). But as the user starts to type, there is a floating window with options that appears and the user typing will effectively filter that list. You can think of it as building a country picker (just text though, no images) of a CountryPickerTextField.\n\nAcceptance Criteria\nYou should deliver the swiftUI struct that ends up looking like a textField but upon clicking on the field, some sort of popup/window/dropdown menu will appear and the user typing will filter that list down.",
         "author": "IdleIdle",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@IdleIdle/swiftui-build-a-auto?t="
     },
     {
@@ -5996,7 +5996,7 @@
         "title": "Build a Google Chrome extension For AI Goal Planning (Using Chat GPT-3)",
         "description": "Looking to make a google chrome extension for achieving goals. The application will give you a plan of how to best achieve your, daily, weekly, monthly or yearly projects or goals.\n\nThe extension will have:\n5 input boxes in order of priority\n\nThe result can be easily shared and saved for later review.\n\nExtra: The extension can be then added to a calendar like Google calendar / Apple calendar.",
         "author": "Frostywatkins",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@Frostywatkins/build-a-google-chrom?t="
     },
     {
@@ -6006,7 +6006,7 @@
         "title": "Android Background Blink Tracker",
         "description": "I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on Android. It should also show a graph of your historical blink rate (for instance, batched 60 minutes at a time, with a scrollable graph over time).\n\nTo see the iOS version of this bounty, see https://replit.com/bounties/@AJGupta/background-blink-tra?t= .\n\nAcceptance Criteria\nAn Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",
         "author": "AJGupta",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/android-background-b-1?t="
     },
     {
@@ -6016,7 +6016,7 @@
         "title": "css form designed",
         "description": "Describe the problem you are trying to solve here.\nNeed CSS form designed thx\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "JackWam",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@JackWam/css-form-designed?t="
     },
     {
@@ -6026,7 +6026,7 @@
         "title": "JavaScript Research ",
         "description": "I need some research done on a list of JS frameworks and libraries that will be provided\n\nAcceptance Criteria\nThe research is comprehensive and matches the format of a sample that will be provided",
         "author": "bardia",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@bardia/javascript-research?t="
     },
     {
@@ -6036,7 +6036,7 @@
         "title": "Python Research",
         "description": "I need some research done on a list of Python frameworks and libraries that will be provided\n\nAcceptance Criteria\n\nThe research is comprehensive and matches the format of a sample that will be provided",
         "author": "bardia",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@bardia/python-research?t="
     },
     {
@@ -6046,7 +6046,37 @@
         "title": "Build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.",
         "description": "Can you build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.\n\nTHE OPENAI TEXT CLASSIFIER IS NOT AN API, SIMILARLY TO CHATGPT IT ONLY EXISTS ON A WEB APPLICATION\n\nI'm not sure how this works or how possible it is but I think some crafty people may know how to do this given there are ChatGPT chrome extensions that exist in the wild. (e.g. ChatGPT for Google chrome extension w/ source code here: https://github.com/wong2/chatgpt-google-extension)\n\nhttps://platform.openai.com/ai-text-classifier\n\n#Acceptance Criteria\nOpenAI cheat-detection classifier is usable on the website.\nLooks good",
         "author": "aidantorrence",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/build-a-website-that?t="
+    },
+    {
+        "index": "605",
+        "price": "$1.50",
+        "due_days": "due in 4 days",
+        "title": "[NodeJS or Python] 24/7 token onliner tool",
+        "description": "I need someone to make me a discord token onliner tool that can take a list of user tokens in a txt file and make them all onliner forever\n\nAcceptance Criteria\nDiscord on profile or in application\nMust be made in NodeJS or Python",
+        "author": "OddGames",
+        "posted_time": "50 minutes ago",
+        "link": "https://replit.com/bounties/@OddGames/nodejs-or-python-247?t="
+    },
+    {
+        "index": "606",
+        "price": "$45.00",
+        "due_days": "due in 14 days",
+        "title": "Create JS based tiktok scraper",
+        "description": "Create tiktok scraper that runs every 15 minutes for a hashtag and saves post information to an airtable\n\nAcceptance Criteria\nScraper runs every 15 minutes\nSearches for new posts for a hashtag\nSaves post information to airtable\nOnly saves posts that don't already exist in airtable\n\nImplementation\nShould run in cloud / serverless\nShould be very easy to manage e.g. a github action or something with a gui",
+        "author": "SamuelAbaka-Woo",
+        "posted_time": "50 minutes ago",
+        "link": "https://replit.com/bounties/@SamuelAbaka-Woo/create-js-based-tikt?t="
+    },
+    {
+        "index": "607",
+        "price": "$22.50",
+        "due_days": "due in 13 days",
+        "title": "Filterable Business News Feed",
+        "description": "Create a daily feed of public company Form 8K reports, press releases, and SEC filings based on these parameters: 1) If the current common stock share price is = 1.0, 2c) Gross margin > 15%, 2d) Working capital > 0. Limit news feed sources to companies trading on the NYSE and NASDAQ.\n\nAcceptance Criteria\nFeed news within 24-hours of public release. Identify the public company name or ticker. Send the news daily to my email.",
+        "author": "StuartPeterson",
+        "posted_time": "4 minutes ago",
+        "link": "https://replit.com/bounties/@StuartPeterson/filterable-business?t="
     }
 ]

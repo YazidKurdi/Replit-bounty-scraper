@@ -4909,7 +4909,7 @@ They look like this
 I want to be able to have a SwiftUI component that looks/can be styled just like a textField (just in case my designs change in the future). But as the user starts to type, there is a floating window with options that appears and the user typing will effectively filter that list. You can think of it as building a country picker (just text though, no images) of a CountryPickerTextField.
 
 Acceptance Criteria
-You should deliver the swiftUI struct that ends up looking like a textField but upon clicking on the field, some sort of popup/window/dropdown menu will appear and the user typing will filter that list down.",IdleIdle,6 hours ago,https://replit.com/bounties/@IdleIdle/swiftui-build-a-auto?t=
+You should deliver the swiftUI struct that ends up looking like a textField but upon clicking on the field, some sort of popup/window/dropdown menu will appear and the user typing will filter that list down.",IdleIdle,7 hours ago,https://replit.com/bounties/@IdleIdle/swiftui-build-a-auto?t=
 599,$99.00,due in 4 days,Build a Google Chrome extension For AI Goal Planning (Using Chat GPT-3),"Looking to make a google chrome extension for achieving goals. The application will give you a plan of how to best achieve your, daily, weekly, monthly or yearly projects or goals.
 
 The extension will have:
@@ -4917,26 +4917,26 @@ The extension will have:
 
 The result can be easily shared and saved for later review.
 
-Extra: The extension can be then added to a calendar like Google calendar / Apple calendar.",Frostywatkins,5 hours ago,https://replit.com/bounties/@Frostywatkins/build-a-google-chrom?t=
+Extra: The extension can be then added to a calendar like Google calendar / Apple calendar.",Frostywatkins,6 hours ago,https://replit.com/bounties/@Frostywatkins/build-a-google-chrom?t=
 600,$180.00,due in 16 days,Android Background Blink Tracker,"I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on Android. It should also show a graph of your historical blink rate (for instance, batched 60 minutes at a time, with a scrollable graph over time).
 
 To see the iOS version of this bounty, see https://replit.com/bounties/@AJGupta/background-blink-tra?t= .
 
 Acceptance Criteria
-An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",AJGupta,5 hours ago,https://replit.com/bounties/@AJGupta/android-background-b-1?t=
+An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",AJGupta,6 hours ago,https://replit.com/bounties/@AJGupta/android-background-b-1?t=
 601,$4.50,due in 13 days,css form designed,"Describe the problem you are trying to solve here.
 Need CSS form designed thx
 Acceptance Criteria
-Be specific about what you want in the solution here.",JackWam,3 hours ago,https://replit.com/bounties/@JackWam/css-form-designed?t=
+Be specific about what you want in the solution here.",JackWam,4 hours ago,https://replit.com/bounties/@JackWam/css-form-designed?t=
 602,$100.00,due in 3 days,JavaScript Research ,"I need some research done on a list of JS frameworks and libraries that will be provided
 
 Acceptance Criteria
-The research is comprehensive and matches the format of a sample that will be provided",bardia,3 hours ago,https://replit.com/bounties/@bardia/javascript-research?t=
+The research is comprehensive and matches the format of a sample that will be provided",bardia,4 hours ago,https://replit.com/bounties/@bardia/javascript-research?t=
 603,$100.00,due in 3 days,Python Research,"I need some research done on a list of Python frameworks and libraries that will be provided
 
 Acceptance Criteria
 
-The research is comprehensive and matches the format of a sample that will be provided",bardia,3 hours ago,https://replit.com/bounties/@bardia/python-research?t=
+The research is comprehensive and matches the format of a sample that will be provided",bardia,4 hours ago,https://replit.com/bounties/@bardia/python-research?t=
 604,$20.00,due in 7 days,Build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.,"Can you build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.
 
 THE OPENAI TEXT CLASSIFIER IS NOT AN API, SIMILARLY TO CHATGPT IT ONLY EXISTS ON A WEB APPLICATION
@@ -4947,4 +4947,24 @@ https://platform.openai.com/ai-text-classifier
 
 #Acceptance Criteria
 OpenAI cheat-detection classifier is usable on the website.
-Looks good",aidantorrence,2 hours ago,https://replit.com/bounties/@aidantorrence/build-a-website-that?t=
+Looks good",aidantorrence,3 hours ago,https://replit.com/bounties/@aidantorrence/build-a-website-that?t=
+605,$1.50,due in 4 days,[NodeJS or Python] 24/7 token onliner tool,"I need someone to make me a discord token onliner tool that can take a list of user tokens in a txt file and make them all onliner forever
+
+Acceptance Criteria
+Discord on profile or in application
+Must be made in NodeJS or Python",OddGames,50 minutes ago,https://replit.com/bounties/@OddGames/nodejs-or-python-247?t=
+606,$45.00,due in 14 days,Create JS based tiktok scraper,"Create tiktok scraper that runs every 15 minutes for a hashtag and saves post information to an airtable
+
+Acceptance Criteria
+Scraper runs every 15 minutes
+Searches for new posts for a hashtag
+Saves post information to airtable
+Only saves posts that don't already exist in airtable
+
+Implementation
+Should run in cloud / serverless
+Should be very easy to manage e.g. a github action or something with a gui",SamuelAbaka-Woo,50 minutes ago,https://replit.com/bounties/@SamuelAbaka-Woo/create-js-based-tikt?t=
+607,$22.50,due in 13 days,Filterable Business News Feed,"Create a daily feed of public company Form 8K reports, press releases, and SEC filings based on these parameters: 1) If the current common stock share price is = 1.0, 2c) Gross margin > 15%, 2d) Working capital > 0. Limit news feed sources to companies trading on the NYSE and NASDAQ.
+
+Acceptance Criteria
+Feed news within 24-hours of public release. Identify the public company name or ticker. Send the news daily to my email.",StuartPeterson,4 minutes ago,https://replit.com/bounties/@StuartPeterson/filterable-business?t=
