@@ -4981,4 +4981,4 @@ When the flip animation was implemented, test mode started acting weird.
 Acceptance Criteria:
 Show all cells should work when test mode is on
 Hide all cells should work when test mode is on
-When enter is pressed in test mode, a flippable cell should be produced, with the colours (red or green)",VulcanWM,41 minutes ago,https://replit.com/bounties/@VulcanWM/fix-test-mode-bug?t=
+When enter is pressed in test mode, a flippable cell should be produced, with the colours (red or green)",VulcanWM,48 minutes ago,https://replit.com/bounties/@VulcanWM/fix-test-mode-bug?t=
