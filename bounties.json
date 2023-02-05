@@ -6026,7 +6026,7 @@
         "title": "JavaScript Research ",
         "description": "I need some research done on a list of JS frameworks and libraries that will be provided\n\nAcceptance Criteria\nThe research is comprehensive and matches the format of a sample that will be provided",
         "author": "bardia",
-        "posted_time": "24 hours ago",
+        "posted_time": "1 day ago",
         "link": "https://replit.com/bounties/@bardia/javascript-research?t="
     },
     {
@@ -6036,7 +6036,7 @@
         "title": "Python Research",
         "description": "I need some research done on a list of Python frameworks and libraries that will be provided\n\nAcceptance Criteria\n\nThe research is comprehensive and matches the format of a sample that will be provided",
         "author": "bardia",
-        "posted_time": "24 hours ago",
+        "posted_time": "1 day ago",
         "link": "https://replit.com/bounties/@bardia/python-research?t="
     },
     {
@@ -6116,7 +6116,7 @@
         "title": "Google Places API pull into a CSV",
         "description": "I want to pull a CSV using the Google Places API. I have the key, you can just use as a placeholder \"insert API key here\" in the code.\n\nThe goal is to create a CSV of gyms and fitness places (workout classes, climbing gyms, etc) in Denver. I tried using ChatGPT for this, but it's not pulling in all of the data correctly. I'll include more in the technical details below. I would prefer for it to pull as much data as possible, so as many columns as can fit. I can cut back from there.\n\nHappy to talk more on Discord about it.\n\nAcceptance Criteria\nI just need  a Python script (that will work in Spyder) that I can use to run locally and produce the CSV.\n\nTechnical Details\nAttaching the script that ChatGPT produced below. The problems with it are it's not filling out url, website, pricelevel, editorialsummary or reviews, and it's also not populating every option -- I'm getting only a list of ~15 gyms when I know there's a lot more in the radius selected.\n\nGoogle Places API...",
         "author": "DonovanDoyle",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@DonovanDoyle/google-places-api-pu?t="
     }
 ]
