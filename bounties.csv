@@ -4967,12 +4967,12 @@ Should be very easy to manage e.g. a github action or something with a gui",Samu
 607,$22.50,due in 5 days,Filterable Business News Feed,"Create a daily feed of public company Form 8K reports, press releases, and SEC filings based on these parameters: 1) If the current common stock share price is = 1.0, 2c) Gross margin > 15%, 2d) Working capital > 0. Limit news feed sources to companies trading on the NYSE and NASDAQ.
 
 Acceptance Criteria
-Feed news within 24-hours of public release. Identify the public company name or ticker. Send the news daily to my email.",StuartPeterson,21 hours ago,https://replit.com/bounties/@StuartPeterson/filterable-business?t=
+Feed news within 24-hours of public release. Identify the public company name or ticker. Send the news daily to my email.",StuartPeterson,22 hours ago,https://replit.com/bounties/@StuartPeterson/filterable-business?t=
 608,$9.00,due in 3 days,Add a small feature to my NextJS Dalle-2 generator ,"I have set up a Dalle-2 starter project that already works and emits a single image. I just want it to show more images per query.
 
 This is the basis of the codebase I am using: https://vercel.com/templates/next.js/dall-e
 
-It's a React/NextJS site that with Redist/QStash for managing a queue of requests.",christopherfr24,20 hours ago,https://replit.com/bounties/@christopherfr24/add-a-small-feature?t=
+It's a React/NextJS site that with Redist/QStash for managing a queue of requests.",christopherfr24,21 hours ago,https://replit.com/bounties/@christopherfr24/add-a-small-feature?t=
 609,$9.00,due in 3 days,Fix Test Mode Bug,"Bounty for @MattDESTROYER
 
 Problem Description:
@@ -4984,7 +4984,7 @@ Hide all cells should work when test mode is on
 When enter is pressed in test mode, a flippable cell should be produced, with the colours (red or green)",VulcanWM,12 hours ago,https://replit.com/bounties/@VulcanWM/fix-test-mode-bug?t=
 610,$20.00,closed,Integrate new code into Github repository without affecting current application,"I need someone to integrate some code from one directory into my Github repository without affecting the current functionality of my app.
 
-By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.",mdotbaig,3 hours ago,https://replit.com/bounties/@mdotbaig/integrate-new-code-i?t=
+By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.",mdotbaig,4 hours ago,https://replit.com/bounties/@mdotbaig/integrate-new-code-i?t=
 611,$22.50,due in 5 days,Google Places API pull into a CSV,"I want to pull a CSV using the Google Places API. I have the key, you can just use as a placeholder ""insert API key here"" in the code.
 
 The goal is to create a CSV of gyms and fitness places (workout classes, climbing gyms, etc) in Denver. I tried using ChatGPT for this, but it's not pulling in all of the data correctly. I'll include more in the technical details below. I would prefer for it to pull as much data as possible, so as many columns as can fit. I can cut back from there.
@@ -5000,4 +5000,14 @@ Attaching the script that ChatGPT produced below. The problems with it are it's 
 Google Places API...",DonovanDoyle,3 hours ago,https://replit.com/bounties/@DonovanDoyle/google-places-api-pu?t=
 612,$45.00,due in 5 days,nextjs app / twilio / vercel ,"a next js app that texts 5 phone numbers using twilio. then redirects the user to a url which i'll supply.
 
-i'm going to use it as a notification channel for some friends",PaulMcKellar,20 minutes ago,https://replit.com/bounties/@PaulMcKellar/nextjs-app-twilio-ve?t=
+i'm going to use it as a notification channel for some friends",PaulMcKellar,35 minutes ago,https://replit.com/bounties/@PaulMcKellar/nextjs-app-twilio-ve?t=
+613,$1.00,due in 13 days,[Fix simple bug] need help fixed a small bug in code,"I have a small bug with my bot and need it fixed fast (at end of day 2/5 PST)
+
+Screenshots of the code and issue:
+https://ibb.co/JCxQPjj
+https://ibb.co/MgMB75j
+https://ibb.co/GQcw7x7
+
+Acceptance Criteria
+Must be able to get this fixed quickly
+Must have discord on profile or in application",OddGames,5 minutes ago,https://replit.com/bounties/@OddGames/fix-simple-bug-need?t=
