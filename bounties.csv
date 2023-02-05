@@ -4984,7 +4984,7 @@ Hide all cells should work when test mode is on
 When enter is pressed in test mode, a flippable cell should be produced, with the colours (red or green)",VulcanWM,9 hours ago,https://replit.com/bounties/@VulcanWM/fix-test-mode-bug?t=
 610,$20.00,due in 3 days,Integrate new code into Github repository without affecting current application,"I need someone to integrate some code from one directory into my Github repository without affecting the current functionality of my app.
 
-By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.",mdotbaig,38 minutes ago,https://replit.com/bounties/@mdotbaig/integrate-new-code-i?t=
+By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.",mdotbaig,45 minutes ago,https://replit.com/bounties/@mdotbaig/integrate-new-code-i?t=
 611,$22.50,due in 5 days,Google Places API pull into a CSV,"I want to pull a CSV using the Google Places API. I have the key, you can just use as a placeholder ""insert API key here"" in the code.
 
 The goal is to create a CSV of gyms and fitness places (workout classes, climbing gyms, etc) in Denver. I tried using ChatGPT for this, but it's not pulling in all of the data correctly. I'll include more in the technical details below. I would prefer for it to pull as much data as possible, so as many columns as can fit. I can cut back from there.
@@ -4997,4 +4997,4 @@ I just need  a Python script (that will work in Spyder) that I can use to run lo
 Technical Details
 Attaching the script that ChatGPT produced below. The problems with it are it's not filling out url, website, pricelevel, editorialsummary or reviews, and it's also not populating every option -- I'm getting only a list of ~15 gyms when I know there's a lot more in the radius selected.
 
-Google Places API...",DonovanDoyle,9 minutes ago,https://replit.com/bounties/@DonovanDoyle/google-places-api-pu?t=
+Google Places API...",DonovanDoyle,16 minutes ago,https://replit.com/bounties/@DonovanDoyle/google-places-api-pu?t=
