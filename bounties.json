@@ -5996,7 +5996,7 @@
         "title": "Build a Google Chrome extension For AI Goal Planning (Using Chat GPT-3)",
         "description": "Looking to make a google chrome extension for achieving goals. The application will give you a plan of how to best achieve your, daily, weekly, monthly or yearly projects or goals.\n\nThe extension will have:\n5 input boxes in order of priority\n\nThe result can be easily shared and saved for later review.\n\nExtra: The extension can be then added to a calendar like Google calendar / Apple calendar.",
         "author": "Frostywatkins",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@Frostywatkins/build-a-google-chrom?t="
     },
     {
@@ -6036,7 +6036,7 @@
         "title": "Python Research",
         "description": "I need some research done on a list of Python frameworks and libraries that will be provided\n\nAcceptance Criteria\n\nThe research is comprehensive and matches the format of a sample that will be provided",
         "author": "bardia",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@bardia/python-research?t="
     },
     {
@@ -6076,7 +6076,7 @@
         "title": "Filterable Business News Feed",
         "description": "Create a daily feed of public company Form 8K reports, press releases, and SEC filings based on these parameters: 1) If the current common stock share price is = 1.0, 2c) Gross margin > 15%, 2d) Working capital > 0. Limit news feed sources to companies trading on the NYSE and NASDAQ.\n\nAcceptance Criteria\nFeed news within 24-hours of public release. Identify the public company name or ticker. Send the news daily to my email.",
         "author": "StuartPeterson",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@StuartPeterson/filterable-business?t="
     },
     {
@@ -6086,7 +6086,7 @@
         "title": "Add a small feature to my NextJS Dalle-2 generator ",
         "description": "I have set up a Dalle-2 starter project that already works and emits a single image. I just want it to show more images per query.\n\nThis is the basis of the codebase I am using: https://vercel.com/templates/next.js/dall-e\n\nIt's a React/NextJS site that with Redist/QStash for managing a queue of requests.",
         "author": "christopherfr24",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@christopherfr24/add-a-small-feature?t="
     }
 ]
