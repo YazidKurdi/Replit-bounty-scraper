@@ -4918,26 +4918,26 @@ The extension will have:
 The result can be easily shared and saved for later review.
 
 Extra: The extension can be then added to a calendar like Google calendar / Apple calendar.",Frostywatkins,16 hours ago,https://replit.com/bounties/@Frostywatkins/build-a-google-chrom?t=
-600,$180.00,due in 16 days,Android Background Blink Tracker,"I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on Android. It should also show a graph of your historical blink rate (for instance, batched 60 minutes at a time, with a scrollable graph over time).
+600,$180.00,due in 15 days,Android Background Blink Tracker,"I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on Android. It should also show a graph of your historical blink rate (for instance, batched 60 minutes at a time, with a scrollable graph over time).
 
 To see the iOS version of this bounty, see https://replit.com/bounties/@AJGupta/background-blink-tra?t= .
 
 Acceptance Criteria
 An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",AJGupta,17 hours ago,https://replit.com/bounties/@AJGupta/android-background-b-1?t=
-601,$4.50,due in 13 days,css form designed,"Describe the problem you are trying to solve here.
+601,$4.50,due in 12 days,css form designed,"Describe the problem you are trying to solve here.
 Need CSS form designed thx
 Acceptance Criteria
-Be specific about what you want in the solution here.",JackWam,15 hours ago,https://replit.com/bounties/@JackWam/css-form-designed?t=
-602,$100.00,due in 3 days,JavaScript Research ,"I need some research done on a list of JS frameworks and libraries that will be provided
+Be specific about what you want in the solution here.",JackWam,16 hours ago,https://replit.com/bounties/@JackWam/css-form-designed?t=
+602,$100.00,due in 2 days,JavaScript Research ,"I need some research done on a list of JS frameworks and libraries that will be provided
 
 Acceptance Criteria
-The research is comprehensive and matches the format of a sample that will be provided",bardia,15 hours ago,https://replit.com/bounties/@bardia/javascript-research?t=
-603,$100.00,due in 3 days,Python Research,"I need some research done on a list of Python frameworks and libraries that will be provided
+The research is comprehensive and matches the format of a sample that will be provided",bardia,16 hours ago,https://replit.com/bounties/@bardia/javascript-research?t=
+603,$100.00,due in 2 days,Python Research,"I need some research done on a list of Python frameworks and libraries that will be provided
 
 Acceptance Criteria
 
-The research is comprehensive and matches the format of a sample that will be provided",bardia,15 hours ago,https://replit.com/bounties/@bardia/python-research?t=
-604,$20.00,due in 7 days,Build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.,"Can you build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.
+The research is comprehensive and matches the format of a sample that will be provided",bardia,16 hours ago,https://replit.com/bounties/@bardia/python-research?t=
+604,$20.00,due in 6 days,Build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.,"Can you build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.
 
 THE OPENAI TEXT CLASSIFIER IS NOT AN API, SIMILARLY TO CHATGPT IT ONLY EXISTS ON A WEB APPLICATION
 
@@ -4947,13 +4947,13 @@ https://platform.openai.com/ai-text-classifier
 
 #Acceptance Criteria
 OpenAI cheat-detection classifier is usable on the website.
-Looks good",aidantorrence,14 hours ago,https://replit.com/bounties/@aidantorrence/build-a-website-that?t=
-605,$1.50,due in 4 days,[NodeJS or Python] 24/7 token onliner tool,"I need someone to make me a discord token onliner tool that can take a list of user tokens in a txt file and make them all onliner forever
+Looks good",aidantorrence,15 hours ago,https://replit.com/bounties/@aidantorrence/build-a-website-that?t=
+605,$1.50,due in 3 days,[NodeJS or Python] 24/7 token onliner tool,"I need someone to make me a discord token onliner tool that can take a list of user tokens in a txt file and make them all onliner forever
 
 Acceptance Criteria
 Discord on profile or in application
 Must be made in NodeJS or Python",OddGames,12 hours ago,https://replit.com/bounties/@OddGames/nodejs-or-python-247?t=
-606,$45.00,due in 14 days,Create JS based tiktok scraper,"Create tiktok scraper that runs every 15 minutes for a hashtag and saves post information to an airtable
+606,$45.00,due in 13 days,Create JS based tiktok scraper,"Create tiktok scraper that runs every 15 minutes for a hashtag and saves post information to an airtable
 
 Acceptance Criteria
 Scraper runs every 15 minutes
@@ -4964,16 +4964,16 @@ Only saves posts that don't already exist in airtable
 Implementation
 Should run in cloud / serverless
 Should be very easy to manage e.g. a github action or something with a gui",SamuelAbaka-Woo,12 hours ago,https://replit.com/bounties/@SamuelAbaka-Woo/create-js-based-tikt?t=
-607,$22.50,due in 6 days,Filterable Business News Feed,"Create a daily feed of public company Form 8K reports, press releases, and SEC filings based on these parameters: 1) If the current common stock share price is = 1.0, 2c) Gross margin > 15%, 2d) Working capital > 0. Limit news feed sources to companies trading on the NYSE and NASDAQ.
+607,$22.50,due in 5 days,Filterable Business News Feed,"Create a daily feed of public company Form 8K reports, press releases, and SEC filings based on these parameters: 1) If the current common stock share price is = 1.0, 2c) Gross margin > 15%, 2d) Working capital > 0. Limit news feed sources to companies trading on the NYSE and NASDAQ.
 
 Acceptance Criteria
 Feed news within 24-hours of public release. Identify the public company name or ticker. Send the news daily to my email.",StuartPeterson,11 hours ago,https://replit.com/bounties/@StuartPeterson/filterable-business?t=
-608,$9.00,due in 4 days,Add a small feature to my NextJS Dalle-2 generator ,"I have set up a Dalle-2 starter project that already works and emits a single image. I just want it to show more images per query.
+608,$9.00,due in 3 days,Add a small feature to my NextJS Dalle-2 generator ,"I have set up a Dalle-2 starter project that already works and emits a single image. I just want it to show more images per query.
 
 This is the basis of the codebase I am using: https://vercel.com/templates/next.js/dall-e
 
-It's a React/NextJS site that with Redist/QStash for managing a queue of requests.",christopherfr24,10 hours ago,https://replit.com/bounties/@christopherfr24/add-a-small-feature?t=
-609,$9.00,due in 4 days,Fix Test Mode Bug,"Bounty for @MattDESTROYER
+It's a React/NextJS site that with Redist/QStash for managing a queue of requests.",christopherfr24,11 hours ago,https://replit.com/bounties/@christopherfr24/add-a-small-feature?t=
+609,$9.00,due in 3 days,Fix Test Mode Bug,"Bounty for @MattDESTROYER
 
 Problem Description:
 When the flip animation was implemented, test mode started acting weird.
@@ -4981,4 +4981,4 @@ When the flip animation was implemented, test mode started acting weird.
 Acceptance Criteria:
 Show all cells should work when test mode is on
 Hide all cells should work when test mode is on
-When enter is pressed in test mode, a flippable cell should be produced, with the colours (red or green)",VulcanWM,1 hour ago,https://replit.com/bounties/@VulcanWM/fix-test-mode-bug?t=
+When enter is pressed in test mode, a flippable cell should be produced, with the colours (red or green)",VulcanWM,2 hours ago,https://replit.com/bounties/@VulcanWM/fix-test-mode-bug?t=
