@@ -5996,7 +5996,7 @@
         "title": "Build a Google Chrome extension For AI Goal Planning (Using Chat GPT-3)",
         "description": "Looking to make a google chrome extension for achieving goals. The application will give you a plan of how to best achieve your, daily, weekly, monthly or yearly projects or goals.\n\nThe extension will have:\n5 input boxes in order of priority\n\nThe result can be easily shared and saved for later review.\n\nExtra: The extension can be then added to a calendar like Google calendar / Apple calendar.",
         "author": "Frostywatkins",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@Frostywatkins/build-a-google-chrom?t="
     },
     {
@@ -6006,7 +6006,7 @@
         "title": "Android Background Blink Tracker",
         "description": "I am looking for a phone app which keeps my phone camera on in the background, and flashes the number of blinks I have per minute on my screen if its below some threshold. I basically want exactly this Mac app: https://github.com/sirkevinwang/Blink on Android. It should also show a graph of your historical blink rate (for instance, batched 60 minutes at a time, with a scrollable graph over time).\n\nTo see the iOS version of this bounty, see https://replit.com/bounties/@AJGupta/background-blink-tra?t= .\n\nAcceptance Criteria\nAn Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",
         "author": "AJGupta",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/android-background-b-1?t="
     },
     {
@@ -6056,7 +6056,7 @@
         "title": "[NodeJS or Python] 24/7 token onliner tool",
         "description": "I need someone to make me a discord token onliner tool that can take a list of user tokens in a txt file and make them all onliner forever\n\nAcceptance Criteria\nDiscord on profile or in application\nMust be made in NodeJS or Python",
         "author": "OddGames",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@OddGames/nodejs-or-python-247?t="
     },
     {
@@ -6066,7 +6066,7 @@
         "title": "Create JS based tiktok scraper",
         "description": "Create tiktok scraper that runs every 15 minutes for a hashtag and saves post information to an airtable\n\nAcceptance Criteria\nScraper runs every 15 minutes\nSearches for new posts for a hashtag\nSaves post information to airtable\nOnly saves posts that don't already exist in airtable\n\nImplementation\nShould run in cloud / serverless\nShould be very easy to manage e.g. a github action or something with a gui",
         "author": "SamuelAbaka-Woo",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@SamuelAbaka-Woo/create-js-based-tikt?t="
     },
     {
@@ -6086,7 +6086,7 @@
         "title": "Add a small feature to my NextJS Dalle-2 generator ",
         "description": "I have set up a Dalle-2 starter project that already works and emits a single image. I just want it to show more images per query.\n\nThis is the basis of the codebase I am using: https://vercel.com/templates/next.js/dall-e\n\nIt's a React/NextJS site that with Redist/QStash for managing a queue of requests.",
         "author": "christopherfr24",
-        "posted_time": "35 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@christopherfr24/add-a-small-feature?t="
     }
 ]
