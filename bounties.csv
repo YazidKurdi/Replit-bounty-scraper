@@ -4973,3 +4973,12 @@ Feed news within 24-hours of public release. Identify the public company name or
 This is the basis of the codebase I am using: https://vercel.com/templates/next.js/dall-e
 
 It's a React/NextJS site that with Redist/QStash for managing a queue of requests.",christopherfr24,9 hours ago,https://replit.com/bounties/@christopherfr24/add-a-small-feature?t=
+609,$9.00,due in 4 days,Fix Test Mode Bug,"Bounty for @MattDESTROYER
+
+Problem Description:
+When the flip animation was implemented, test mode started acting weird.
+
+Acceptance Criteria:
+Show all cells should work when test mode is on
+Hide all cells should work when test mode is on
+When enter is pressed in test mode, a flippable cell should be produced, with the colours (red or green)",VulcanWM,6 minutes ago,https://replit.com/bounties/@VulcanWM/fix-test-mode-bug?t=

@@ -6088,5 +6088,15 @@
         "author": "christopherfr24",
         "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@christopherfr24/add-a-small-feature?t="
+    },
+    {
+        "index": "609",
+        "price": "$9.00",
+        "due_days": "due in 4 days",
+        "title": "Fix Test Mode Bug",
+        "description": "Bounty for @MattDESTROYER\n\nProblem Description:\nWhen the flip animation was implemented, test mode started acting weird.\n\nAcceptance Criteria:\nShow all cells should work when test mode is on\nHide all cells should work when test mode is on\nWhen enter is pressed in test mode, a flippable cell should be produced, with the colours (red or green)",
+        "author": "VulcanWM",
+        "posted_time": "6 minutes ago",
+        "link": "https://replit.com/bounties/@VulcanWM/fix-test-mode-bug?t="
     }
 ]
