@@ -4923,7 +4923,7 @@ Extra: The extension can be then added to a calendar like Google calendar / Appl
 To see the iOS version of this bounty, see https://replit.com/bounties/@AJGupta/background-blink-tra?t= .
 
 Acceptance Criteria
-An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",AJGupta,19 hours ago,https://replit.com/bounties/@AJGupta/android-background-b-1?t=
+An Android app I can install the .apk of on my Samsung phone (and is ideally in-progress for review at the Play store), tracks my blinks in the background via computer vision on the camera, and shows a brief popup on the screen (or other notification) with my blinks if below a threshold. Also logs my blink counts over time to a local database or file. To see the MacOS UI for such an app, check out https://apps.apple.com/us/app/blink-eye-strain-reli...",AJGupta,20 hours ago,https://replit.com/bounties/@AJGupta/android-background-b-1?t=
 601,$4.50,due in 12 days,css form designed,"Describe the problem you are trying to solve here.
 Need CSS form designed thx
 Acceptance Criteria
