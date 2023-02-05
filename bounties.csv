@@ -4997,4 +4997,4 @@ I just need  a Python script (that will work in Spyder) that I can use to run lo
 Technical Details
 Attaching the script that ChatGPT produced below. The problems with it are it's not filling out url, website, pricelevel, editorialsummary or reviews, and it's also not populating every option -- I'm getting only a list of ~15 gyms when I know there's a lot more in the radius selected.
 
-Google Places API...",DonovanDoyle,35 minutes ago,https://replit.com/bounties/@DonovanDoyle/google-places-api-pu?t=
+Google Places API...",DonovanDoyle,45 minutes ago,https://replit.com/bounties/@DonovanDoyle/google-places-api-pu?t=
