@@ -6136,7 +6136,7 @@
         "title": "[Fix simple bug] need help fixed a small bug in code",
         "description": "I have a small bug with my bot and need it fixed fast (at end of day 2/5 PST)\n\nScreenshots of the code and issue:\nhttps://ibb.co/JCxQPjj\nhttps://ibb.co/MgMB75j\nhttps://ibb.co/GQcw7x7\n\nAcceptance Criteria\nMust be able to get this fixed quickly\nMust have discord on profile or in application",
         "author": "OddGames",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@OddGames/fix-simple-bug-need?t="
     },
     {
@@ -6166,7 +6166,7 @@
         "title": "Help me get my python libraries working in AWS Lambda",
         "description": "Need to get python libraries working in AWS lambda.  I have working code that runs on desktop.  Trying to port it over to aws lambda but its puking on not being able to find its libraries or local data.\nAcceptance Criteria\n      Program runs in the cloud\nTechnical Details\n\nLink to Project",
         "author": "TirrellPayton",
-        "posted_time": "38 minutes ago",
+        "posted_time": "49 minutes ago",
         "link": "https://replit.com/bounties/@TirrellPayton/help-me-get-my-pytho?t="
     }
 ]
