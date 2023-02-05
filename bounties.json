@@ -6016,7 +6016,7 @@
         "title": "css form designed",
         "description": "Describe the problem you are trying to solve here.\nNeed CSS form designed thx\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "JackWam",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@JackWam/css-form-designed?t="
     },
     {
@@ -6026,7 +6026,7 @@
         "title": "JavaScript Research ",
         "description": "I need some research done on a list of JS frameworks and libraries that will be provided\n\nAcceptance Criteria\nThe research is comprehensive and matches the format of a sample that will be provided",
         "author": "bardia",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@bardia/javascript-research?t="
     },
     {
@@ -6046,7 +6046,7 @@
         "title": "Build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.",
         "description": "Can you build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.\n\nTHE OPENAI TEXT CLASSIFIER IS NOT AN API, SIMILARLY TO CHATGPT IT ONLY EXISTS ON A WEB APPLICATION\n\nI'm not sure how this works or how possible it is but I think some crafty people may know how to do this given there are ChatGPT chrome extensions that exist in the wild. (e.g. ChatGPT for Google chrome extension w/ source code here: https://github.com/wong2/chatgpt-google-extension)\n\nhttps://platform.openai.com/ai-text-classifier\n\n#Acceptance Criteria\nOpenAI cheat-detection classifier is usable on the website.\nLooks good",
         "author": "aidantorrence",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/build-a-website-that?t="
     },
     {
@@ -6096,7 +6096,7 @@
         "title": "Fix Test Mode Bug",
         "description": "Bounty for @MattDESTROYER\n\nProblem Description:\nWhen the flip animation was implemented, test mode started acting weird.\n\nAcceptance Criteria:\nShow all cells should work when test mode is on\nHide all cells should work when test mode is on\nWhen enter is pressed in test mode, a flippable cell should be produced, with the colours (red or green)",
         "author": "VulcanWM",
-        "posted_time": "15 minutes ago",
+        "posted_time": "30 minutes ago",
         "link": "https://replit.com/bounties/@VulcanWM/fix-test-mode-bug?t="
     }
 ]
