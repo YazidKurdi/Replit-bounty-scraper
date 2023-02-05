@@ -6026,7 +6026,7 @@
         "title": "JavaScript Research ",
         "description": "I need some research done on a list of JS frameworks and libraries that will be provided\n\nAcceptance Criteria\nThe research is comprehensive and matches the format of a sample that will be provided",
         "author": "bardia",
-        "posted_time": "23 hours ago",
+        "posted_time": "24 hours ago",
         "link": "https://replit.com/bounties/@bardia/javascript-research?t="
     },
     {
@@ -6036,7 +6036,7 @@
         "title": "Python Research",
         "description": "I need some research done on a list of Python frameworks and libraries that will be provided\n\nAcceptance Criteria\n\nThe research is comprehensive and matches the format of a sample that will be provided",
         "author": "bardia",
-        "posted_time": "23 hours ago",
+        "posted_time": "24 hours ago",
         "link": "https://replit.com/bounties/@bardia/python-research?t="
     },
     {
@@ -6046,7 +6046,7 @@
         "title": "Build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.",
         "description": "Can you build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.\n\nTHE OPENAI TEXT CLASSIFIER IS NOT AN API, SIMILARLY TO CHATGPT IT ONLY EXISTS ON A WEB APPLICATION\n\nI'm not sure how this works or how possible it is but I think some crafty people may know how to do this given there are ChatGPT chrome extensions that exist in the wild. (e.g. ChatGPT for Google chrome extension w/ source code here: https://github.com/wong2/chatgpt-google-extension)\n\nhttps://platform.openai.com/ai-text-classifier\n\n#Acceptance Criteria\nOpenAI cheat-detection classifier is usable on the website.\nLooks good",
         "author": "aidantorrence",
-        "posted_time": "22 hours ago",
+        "posted_time": "23 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/build-a-website-that?t="
     },
     {
@@ -6096,7 +6096,7 @@
         "title": "Fix Test Mode Bug",
         "description": "Bounty for @MattDESTROYER\n\nProblem Description:\nWhen the flip animation was implemented, test mode started acting weird.\n\nAcceptance Criteria:\nShow all cells should work when test mode is on\nHide all cells should work when test mode is on\nWhen enter is pressed in test mode, a flippable cell should be produced, with the colours (red or green)",
         "author": "VulcanWM",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@VulcanWM/fix-test-mode-bug?t="
     },
     {
@@ -6116,7 +6116,7 @@
         "title": "Google Places API pull into a CSV",
         "description": "I want to pull a CSV using the Google Places API. I have the key, you can just use as a placeholder \"insert API key here\" in the code.\n\nThe goal is to create a CSV of gyms and fitness places (workout classes, climbing gyms, etc) in Denver. I tried using ChatGPT for this, but it's not pulling in all of the data correctly. I'll include more in the technical details below. I would prefer for it to pull as much data as possible, so as many columns as can fit. I can cut back from there.\n\nHappy to talk more on Discord about it.\n\nAcceptance Criteria\nI just need  a Python script (that will work in Spyder) that I can use to run locally and produce the CSV.\n\nTechnical Details\nAttaching the script that ChatGPT produced below. The problems with it are it's not filling out url, website, pricelevel, editorialsummary or reviews, and it's also not populating every option -- I'm getting only a list of ~15 gyms when I know there's a lot more in the radius selected.\n\nGoogle Places API...",
         "author": "DonovanDoyle",
-        "posted_time": "45 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@DonovanDoyle/google-places-api-pu?t="
     }
 ]
