@@ -6056,7 +6056,7 @@
         "title": "[NodeJS or Python] 24/7 token onliner tool",
         "description": "I need someone to make me a discord token onliner tool that can take a list of user tokens in a txt file and make them all onliner forever\n\nAcceptance Criteria\nDiscord on profile or in application\nMust be made in NodeJS or Python",
         "author": "OddGames",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@OddGames/nodejs-or-python-247?t="
     },
     {
@@ -6066,7 +6066,7 @@
         "title": "Create JS based tiktok scraper",
         "description": "Create tiktok scraper that runs every 15 minutes for a hashtag and saves post information to an airtable\n\nAcceptance Criteria\nScraper runs every 15 minutes\nSearches for new posts for a hashtag\nSaves post information to airtable\nOnly saves posts that don't already exist in airtable\n\nImplementation\nShould run in cloud / serverless\nShould be very easy to manage e.g. a github action or something with a gui",
         "author": "SamuelAbaka-Woo",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@SamuelAbaka-Woo/create-js-based-tikt?t="
     },
     {
@@ -6106,7 +6106,7 @@
         "title": "Integrate new code into Github repository without affecting current application",
         "description": "I need someone to integrate some code from one directory into my Github repository without affecting the current functionality of my app.\n\nBy accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.",
         "author": "mdotbaig",
-        "posted_time": "45 minutes ago",
+        "posted_time": "53 minutes ago",
         "link": "https://replit.com/bounties/@mdotbaig/integrate-new-code-i?t="
     },
     {
@@ -6116,7 +6116,7 @@
         "title": "Google Places API pull into a CSV",
         "description": "I want to pull a CSV using the Google Places API. I have the key, you can just use as a placeholder \"insert API key here\" in the code.\n\nThe goal is to create a CSV of gyms and fitness places (workout classes, climbing gyms, etc) in Denver. I tried using ChatGPT for this, but it's not pulling in all of the data correctly. I'll include more in the technical details below. I would prefer for it to pull as much data as possible, so as many columns as can fit. I can cut back from there.\n\nHappy to talk more on Discord about it.\n\nAcceptance Criteria\nI just need  a Python script (that will work in Spyder) that I can use to run locally and produce the CSV.\n\nTechnical Details\nAttaching the script that ChatGPT produced below. The problems with it are it's not filling out url, website, pricelevel, editorialsummary or reviews, and it's also not populating every option -- I'm getting only a list of ~15 gyms when I know there's a lot more in the radius selected.\n\nGoogle Places API...",
         "author": "DonovanDoyle",
-        "posted_time": "16 minutes ago",
+        "posted_time": "25 minutes ago",
         "link": "https://replit.com/bounties/@DonovanDoyle/google-places-api-pu?t="
     }
 ]
