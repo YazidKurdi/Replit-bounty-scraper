@@ -6046,7 +6046,7 @@
         "title": "Build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.",
         "description": "Can you build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.\n\nTHE OPENAI TEXT CLASSIFIER IS NOT AN API, SIMILARLY TO CHATGPT IT ONLY EXISTS ON A WEB APPLICATION\n\nI'm not sure how this works or how possible it is but I think some crafty people may know how to do this given there are ChatGPT chrome extensions that exist in the wild. (e.g. ChatGPT for Google chrome extension w/ source code here: https://github.com/wong2/chatgpt-google-extension)\n\nhttps://platform.openai.com/ai-text-classifier\n\n#Acceptance Criteria\nOpenAI cheat-detection classifier is usable on the website.\nLooks good",
         "author": "aidantorrence",
-        "posted_time": "23 hours ago",
+        "posted_time": "24 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/build-a-website-that?t="
     },
     {
