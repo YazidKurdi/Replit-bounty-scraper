@@ -6118,5 +6118,15 @@
         "author": "DonovanDoyle",
         "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@DonovanDoyle/google-places-api-pu?t="
+    },
+    {
+        "index": "612",
+        "price": "$45.00",
+        "due_days": "due in 5 days",
+        "title": "nextjs app / twilio / vercel ",
+        "description": "a next js app that texts 5 phone numbers using twilio. then redirects the user to a url which i'll supply.\n\ni'm going to use it as a notification channel for some friends",
+        "author": "PaulMcKellar",
+        "posted_time": "4 minutes ago",
+        "link": "https://replit.com/bounties/@PaulMcKellar/nextjs-app-twilio-ve?t="
     }
 ]
