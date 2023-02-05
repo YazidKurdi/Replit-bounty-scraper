@@ -6016,7 +6016,7 @@
         "title": "css form designed",
         "description": "Describe the problem you are trying to solve here.\nNeed CSS form designed thx\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "JackWam",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@JackWam/css-form-designed?t="
     },
     {
@@ -6026,7 +6026,7 @@
         "title": "JavaScript Research ",
         "description": "I need some research done on a list of JS frameworks and libraries that will be provided\n\nAcceptance Criteria\nThe research is comprehensive and matches the format of a sample that will be provided",
         "author": "bardia",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@bardia/javascript-research?t="
     },
     {
@@ -6036,7 +6036,7 @@
         "title": "Python Research",
         "description": "I need some research done on a list of Python frameworks and libraries that will be provided\n\nAcceptance Criteria\n\nThe research is comprehensive and matches the format of a sample that will be provided",
         "author": "bardia",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@bardia/python-research?t="
     },
     {
@@ -6046,7 +6046,7 @@
         "title": "Build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.",
         "description": "Can you build a website that takes the AI detection text-classifier from OpenAI and hosts it on the website.\n\nTHE OPENAI TEXT CLASSIFIER IS NOT AN API, SIMILARLY TO CHATGPT IT ONLY EXISTS ON A WEB APPLICATION\n\nI'm not sure how this works or how possible it is but I think some crafty people may know how to do this given there are ChatGPT chrome extensions that exist in the wild. (e.g. ChatGPT for Google chrome extension w/ source code here: https://github.com/wong2/chatgpt-google-extension)\n\nhttps://platform.openai.com/ai-text-classifier\n\n#Acceptance Criteria\nOpenAI cheat-detection classifier is usable on the website.\nLooks good",
         "author": "aidantorrence",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/build-a-website-that?t="
     },
     {
@@ -6076,7 +6076,7 @@
         "title": "Filterable Business News Feed",
         "description": "Create a daily feed of public company Form 8K reports, press releases, and SEC filings based on these parameters: 1) If the current common stock share price is = 1.0, 2c) Gross margin > 15%, 2d) Working capital > 0. Limit news feed sources to companies trading on the NYSE and NASDAQ.\n\nAcceptance Criteria\nFeed news within 24-hours of public release. Identify the public company name or ticker. Send the news daily to my email.",
         "author": "StuartPeterson",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@StuartPeterson/filterable-business?t="
     },
     {
@@ -6086,7 +6086,7 @@
         "title": "Add a small feature to my NextJS Dalle-2 generator ",
         "description": "I have set up a Dalle-2 starter project that already works and emits a single image. I just want it to show more images per query.\n\nThis is the basis of the codebase I am using: https://vercel.com/templates/next.js/dall-e\n\nIt's a React/NextJS site that with Redist/QStash for managing a queue of requests.",
         "author": "christopherfr24",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@christopherfr24/add-a-small-feature?t="
     }
 ]
