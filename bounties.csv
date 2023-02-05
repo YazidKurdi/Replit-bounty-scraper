@@ -4952,7 +4952,7 @@ Looks good",aidantorrence,8 hours ago,https://replit.com/bounties/@aidantorrence
 
 Acceptance Criteria
 Discord on profile or in application
-Must be made in NodeJS or Python",OddGames,5 hours ago,https://replit.com/bounties/@OddGames/nodejs-or-python-247?t=
+Must be made in NodeJS or Python",OddGames,6 hours ago,https://replit.com/bounties/@OddGames/nodejs-or-python-247?t=
 606,$45.00,due in 14 days,Create JS based tiktok scraper,"Create tiktok scraper that runs every 15 minutes for a hashtag and saves post information to an airtable
 
 Acceptance Criteria
@@ -4963,7 +4963,7 @@ Only saves posts that don't already exist in airtable
 
 Implementation
 Should run in cloud / serverless
-Should be very easy to manage e.g. a github action or something with a gui",SamuelAbaka-Woo,5 hours ago,https://replit.com/bounties/@SamuelAbaka-Woo/create-js-based-tikt?t=
+Should be very easy to manage e.g. a github action or something with a gui",SamuelAbaka-Woo,6 hours ago,https://replit.com/bounties/@SamuelAbaka-Woo/create-js-based-tikt?t=
 607,$22.50,due in 6 days,Filterable Business News Feed,"Create a daily feed of public company Form 8K reports, press releases, and SEC filings based on these parameters: 1) If the current common stock share price is = 1.0, 2c) Gross margin > 15%, 2d) Working capital > 0. Limit news feed sources to companies trading on the NYSE and NASDAQ.
 
 Acceptance Criteria
