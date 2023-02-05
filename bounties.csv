@@ -5000,7 +5000,7 @@ Attaching the script that ChatGPT produced below. The problems with it are it's 
 Google Places API...",DonovanDoyle,4 hours ago,https://replit.com/bounties/@DonovanDoyle/google-places-api-pu?t=
 612,$45.00,due in 5 days,nextjs app / twilio / vercel ,"a next js app that texts 5 phone numbers using twilio. then redirects the user to a url which i'll supply.
 
-i'm going to use it as a notification channel for some friends",PaulMcKellar,54 minutes ago,https://replit.com/bounties/@PaulMcKellar/nextjs-app-twilio-ve?t=
+i'm going to use it as a notification channel for some friends",PaulMcKellar,1 hour ago,https://replit.com/bounties/@PaulMcKellar/nextjs-app-twilio-ve?t=
 613,$1.00,due in 12 days,[Fix simple bug] need help fixed a small bug in code,"I have a small bug with my bot and need it fixed fast (at end of day 2/5 PST)
 
 Screenshots of the code and issue:
@@ -5010,7 +5010,7 @@ https://ibb.co/GQcw7x7
 
 Acceptance Criteria
 Must be able to get this fixed quickly
-Must have discord on profile or in application",OddGames,24 minutes ago,https://replit.com/bounties/@OddGames/fix-simple-bug-need?t=
+Must have discord on profile or in application",OddGames,34 minutes ago,https://replit.com/bounties/@OddGames/fix-simple-bug-need?t=
 614,$20.25,due in 3 days,Convert Java method to Javascript2,"Convert the following two Java methods into Javascript.
 
 private static String signMessage(String secret, String data) {
@@ -5036,7 +5036,7 @@ Acceptance Criteria
 
 Technical Details
 Both implementations have to produce identical results for different inputs. Secret input variable is usually base64 encoded.
-The Javascript code should...",martin-nginio,7 minutes ago,https://replit.com/bounties/@martin-nginio/convert-java-method-1?t=
+The Javascript code should...",martin-nginio,16 minutes ago,https://replit.com/bounties/@martin-nginio/convert-java-method-1?t=
 615,$225.00,due in 3 days,Create a setup page in react that allows a new user to connect their accounts with Plaid and Codat,"Hi Guys! We're a fast growing startup based in NYC with an already built stack.
 
 We are looking to build a separate page to allow users to connect their accounts using Codat and Plaid. Then pass the authentication tokens to our backend
@@ -5049,4 +5049,4 @@ Design can be shared upon accepting application. We will deploy it ourselves on 
 
 Can definitely turn into a repeating gig! Shoot me an application. Please be direct in application and tell us past experience and why you are right applicant for the gig. Look forward to meeting.
 
-We're trying to move fast so please only apply if you can jump on this this week.",financeguy,3 minutes ago,https://replit.com/bounties/@financeguy/create-a-setup-page?t=
+We're trying to move fast so please only apply if you can jump on this this week.",financeguy,13 minutes ago,https://replit.com/bounties/@financeguy/create-a-setup-page?t=
