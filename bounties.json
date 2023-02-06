@@ -6126,7 +6126,7 @@
         "title": "nextjs app / twilio / vercel ",
         "description": "a next js app that texts 5 phone numbers using twilio. then redirects the user to a url which i'll supply.\n\ni'm going to use it as a notification channel for some friends",
         "author": "PaulMcKellar",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@PaulMcKellar/nextjs-app-twilio-ve?t="
     },
     {
@@ -6156,7 +6156,7 @@
         "title": "Create a setup page in react that allows a new user to connect their accounts with Plaid and Codat",
         "description": "Hi Guys! We're a fast growing startup based in NYC with an already built stack.\n\nWe are looking to build a separate page to allow users to connect their accounts using Codat and Plaid. Then pass the authentication tokens to our backend\nThis will require a little server side work to configure the Plaid and Codat modals as well as pass the authentication tokens back to our fastAPI server to be saved down.\n\nCodat and Plaid have already-built react components, so you just have to embed those in the page\nUser authentication handled by Auth0, make sure the page is authenticated.\n\nDesign can be shared upon accepting application. We will deploy it ourselves on our infrastructure.\n\nCan definitely turn into a repeating gig! Shoot me an application. Please be direct in application and tell us past experience and why you are right applicant for the gig. Look forward to meeting.\n\nWe're trying to move fast so please only apply if you can jump on this this week.",
         "author": "financeguy",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@financeguy/create-a-setup-page?t="
     },
     {
@@ -6206,7 +6206,7 @@
         "title": "EV Charging Predictive Mapping Tool  ",
         "description": "Using Census Data for a City or Municipality we want to create a predictive number of EV chargers which will be required by 2030. Goal is to forecast current and future ev charging infrastructure demands. Inputs will be:\n\nNumber of Cars\nPopulation\nEV charger uptake Rate\n\nOutputs will be:\nPDF / Email  report and map area\n\n#can host anywhere (internal use for now) - to be used later externally potentially hosted on wordpress.\n\n3 days",
         "author": "DaveMac28",
-        "posted_time": "53 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@DaveMac28/ev-charging-predicti?t="
     },
     {
@@ -6216,7 +6216,7 @@
         "title": "EV Trip Planning tool to sit on top of Google Maps ",
         "description": "Ev drivers get very nervous about where they will be able to charge. We want to us ML / AL to give then the best route to drive based on how much much energy their EV has at the start of the journey and the end.\n\nInputs would be:\n\nCar Range\nBattery State of Charge\nCharging locations (lat / long)\nTraffic (Google API input)\n\nWant to host on a webpage (Wordpress or Google Could based).\n\nIdeally as a wordpress plugin architecture",
         "author": "DaveMac28",
-        "posted_time": "48 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@DaveMac28/ev-trip-planning-too?t="
     }
 ]
