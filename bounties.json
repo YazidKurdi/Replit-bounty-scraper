@@ -6266,7 +6266,7 @@
         "title": "Create Ai App that surfaces positive or negative comments from our email and call comms with customers and inputs them into a spreadsheet",
         "description": "The aim is to run a large-language model (like ChatGPT3) through our CRM historic communications with customers and pull out either:\n\n(1) Positive comments from customers. E.g \"I love the solution, it helps us so much\"\n(2) Examples when customers aligned with the problem area. E.g \"Yes, this is a big problem for us!\"\n\nThe mediums to run the large-language model through are:\nEmail comms\nZoom video recordings\n\nOnce these comments are identified, they will be output into a spreadsheet with:\nCustomer Name\nCustomer comment\nWhether that comment was positive or aligned with problem area\n\nThe App would run this model each week when new email or video calls are added, and continually add them to the spreadsheet for review.",
         "author": "HHODD",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@HHODD/create-ai-app-that-s?t="
     },
     {
@@ -6316,7 +6316,7 @@
         "title": "Access to Google Bard ",
         "description": "Acceptance Criteria\nI would like to get access to google bard.\nBonus points if it's an api access",
         "author": "aidantorrence",
-        "posted_time": "39 minutes ago",
+        "posted_time": "48 minutes ago",
         "link": "https://replit.com/bounties/@aidantorrence/access-to-google-bar?t="
     },
     {
@@ -6326,7 +6326,7 @@
         "title": "Create a Graph QL Web Application that is a Dashboard for Me (read Desc)",
         "description": "Description\nI would like a Graph QL dashboard website made using Graph QL and HTML. It will have the following features:\nDisplay the amount of runs, likes, and tips of my most descent Repls, along with a \u201ctop Repls\u201d section displaying the statistics of my top or \u201cmost popular\u201d Repls (with the most stats).\n\nAcceptance Criteria\nMust have some style to it and look nice :)\nMust have all the features as posted above.\nI do want your applications to be over the top, include some of your past work, experience, why I should accept you, your past work with this topic, and more!\n\nOther\nContact will strictly be via email ([email\u00a0protected]).\n\nIf you think the price is off I am willing to raise it a few hundreds.",
         "author": "EarthRulerr",
-        "posted_time": "33 minutes ago",
+        "posted_time": "42 minutes ago",
         "link": "https://replit.com/bounties/@EarthRulerr/create-a-graph-ql-we?t="
     },
     {
@@ -6336,7 +6336,7 @@
         "title": "Build an Android component which lets you draw over an ImageView. Must support Pinch to zoom and drag",
         "description": "A view where users can draw over an image using touch. Also, must work accurately with pinch to zoom\nAcceptance Criteria\nShould work something like cleanup pictures feature in the clipdrop app. Just the painting over the images and pinch to zoom.\nShould work on Android and 8 and above.\nWork for Images of all types of aspect ratio.\nNo drawing outside the image view.\n\nWhen you apply, please specify how would you go about approaching the problem. A short one or two lines.\n\nBe specific about what you want in the solution here.",
         "author": "MavNow",
-        "posted_time": "6 minutes ago",
+        "posted_time": "16 minutes ago",
         "link": "https://replit.com/bounties/@MavNow/build-an-android-com?t="
     }
 ]
