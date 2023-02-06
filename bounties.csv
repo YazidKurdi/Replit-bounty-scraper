@@ -5092,7 +5092,7 @@ Ideally as a wordpress plugin architecture",DaveMac28,15 hours ago,https://repli
 622,$1.62,closed,Testing Bounty,"Describe the problem you are trying to solve here.
 Test
 Acceptance Criteria
-Be specific about what you want in the solution here.",user,13 hours ago,https://replit.com/bounties/@user/testing-bounty?t=
+Be specific about what you want in the solution here.",user,14 hours ago,https://replit.com/bounties/@user/testing-bounty?t=
 623,$100.00,due in 12 days,Automatically find and create Youtube short clips from a long-form Youtube video,"Acceptance Criteria
 Tool that receives Youtube video as input
 Outputs Youtube shorts clips based on interesting moments within the video.  Use audio synthesis / caption reading to find interesting moments.
@@ -5116,7 +5116,7 @@ CSV download",HHODD,13 hours ago,https://replit.com/bounties/@HHODD/connect-the-
 
 You can find the Directory theme I'm using here
 
-If you have any questions, I'd be happy to hop on a Zoom call and go through it with you. If you'd like to take a look at the backend, I'd be happy to give you access to the WordPress cPanel.",CBSAI,12 hours ago,https://replit.com/bounties/@CBSAI/customize-installed?t=
+If you have any questions, I'd be happy to hop on a Zoom call and go through it with you. If you'd like to take a look at the backend, I'd be happy to give you access to the WordPress cPanel.",CBSAI,13 hours ago,https://replit.com/bounties/@CBSAI/customize-installed?t=
 626,$450.00,due in 3 days,Create Ai App that surfaces positive or negative comments from our email and call comms with customers and inputs them into a spreadsheet,"The aim is to run a large-language model (like ChatGPT3) through our CRM historic communications with customers and pull out either:
 
 (1) Positive comments from customers. E.g ""I love the solution, it helps us so much""
@@ -5150,4 +5150,4 @@ I would like to be able to use a web service where I can copy and paste the enti
 
 E.g., a GPT-generated response that says I should be aware of X, Y, and Z sketchy terms in the agreement, and maybe here's why I might not want to proceed.
 
-Regarding future development, once those issues are flagged, there's a lot more development that could happen to improve this service in subsequent development, e.g., provide copy-an...",ChristianUlstru,11 minutes ago,https://replit.com/bounties/@ChristianUlstru/ai-that-flags-sus-an?t=
+Regarding future development, once those issues are flagged, there's a lot more development that could happen to improve this service in subsequent development, e.g., provide copy-an...",ChristianUlstru,22 minutes ago,https://replit.com/bounties/@ChristianUlstru/ai-that-flags-sus-an?t=

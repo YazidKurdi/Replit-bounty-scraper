@@ -6226,7 +6226,7 @@
         "title": "Testing Bounty",
         "description": "Describe the problem you are trying to solve here.\nTest\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "user",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@user/testing-bounty?t="
     },
     {
@@ -6256,7 +6256,7 @@
         "title": "Customize Installed WordPress Theme",
         "description": "I'm in need of a full-stack developer to give my WordPress directory theme a custom touch. I'm looking to tailor the directory towards all businesses, so it's not for restaurants anymore. I've put together a Figma file.  It shows the currently installed pages and includes all the changes I need made.\n\nYou can find the Directory theme I'm using here\n\nIf you have any questions, I'd be happy to hop on a Zoom call and go through it with you. If you'd like to take a look at the backend, I'd be happy to give you access to the WordPress cPanel.",
         "author": "CBSAI",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@CBSAI/customize-installed?t="
     },
     {
@@ -6286,7 +6286,7 @@
         "title": "AI that flags sus and sketch Terms of Service and Privacy Policies",
         "description": "I'm always wary of terms of service (ToS) and privacy policies (PP), and I'd like to know if there are any red flags I should be aware of before agreeing to them.\n\nSpecifically if they're collecting any data that I might not want them to and certainly if they're sharing it with third-parties or profiting without my knowledge.\n\nI would like to be able to use a web service where I can copy and paste the entirety of the ToS and/or PP and then get immediate feedback (let's say with assistance from the GPT-3 API endpoint) that highlights up to 5 parts of the ToS/PP that are \"sus\" or \"sketch\" and might make me reconsider accepting them.\n\nE.g., a GPT-generated response that says I should be aware of X, Y, and Z sketchy terms in the agreement, and maybe here's why I might not want to proceed.\n\nRegarding future development, once those issues are flagged, there's a lot more development that could happen to improve this service in subsequent development, e.g., provide copy-an...",
         "author": "ChristianUlstru",
-        "posted_time": "11 minutes ago",
+        "posted_time": "22 minutes ago",
         "link": "https://replit.com/bounties/@ChristianUlstru/ai-that-flags-sus-an?t="
     }
 ]
