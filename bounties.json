@@ -6106,7 +6106,7 @@
         "title": "Integrate new code into Github repository without affecting current application",
         "description": "I need someone to integrate some code from one directory into my Github repository without affecting the current functionality of my app.\n\nBy accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.",
         "author": "mdotbaig",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/integrate-new-code-i?t="
     },
     {
@@ -6116,7 +6116,7 @@
         "title": "Google Places API pull into a CSV",
         "description": "I want to pull a CSV using the Google Places API. I have the key, you can just use as a placeholder \"insert API key here\" in the code.\n\nThe goal is to create a CSV of gyms and fitness places (workout classes, climbing gyms, etc) in Denver. I tried using ChatGPT for this, but it's not pulling in all of the data correctly. I'll include more in the technical details below. I would prefer for it to pull as much data as possible, so as many columns as can fit. I can cut back from there.\n\nHappy to talk more on Discord about it.\n\nAcceptance Criteria\nI just need  a Python script (that will work in Spyder) that I can use to run locally and produce the CSV.\n\nTechnical Details\nAttaching the script that ChatGPT produced below. The problems with it are it's not filling out url, website, pricelevel, editorialsummary or reviews, and it's also not populating every option -- I'm getting only a list of ~15 gyms when I know there's a lot more in the radius selected.\n\nGoogle Places API...",
         "author": "DonovanDoyle",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@DonovanDoyle/google-places-api-pu?t="
     },
     {
@@ -6126,7 +6126,7 @@
         "title": "nextjs app / twilio / vercel ",
         "description": "a next js app that texts 5 phone numbers using twilio. then redirects the user to a url which i'll supply.\n\ni'm going to use it as a notification channel for some friends",
         "author": "PaulMcKellar",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@PaulMcKellar/nextjs-app-twilio-ve?t="
     },
     {
@@ -6136,7 +6136,7 @@
         "title": "[Fix simple bug] need help fixed a small bug in code",
         "description": "I have a small bug with my bot and need it fixed fast (at end of day 2/5 PST)\n\nScreenshots of the code and issue:\nhttps://ibb.co/JCxQPjj\nhttps://ibb.co/MgMB75j\nhttps://ibb.co/GQcw7x7\n\nAcceptance Criteria\nMust be able to get this fixed quickly\nMust have discord on profile or in application",
         "author": "OddGames",
-        "posted_time": "2 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@OddGames/fix-simple-bug-need?t="
     },
     {
@@ -6146,7 +6146,7 @@
         "title": "Convert Java method to Javascript2",
         "description": "Convert the following two Java methods into Javascript.\n\nprivate static String signMessage(String secret, String data) {\n    byte[] key = Base64.getUrlDecoder().decode(secret);\n    byte[] signature = signMessage(key, \"HmacSHA256\", data);\n    return Base64.getEncoder().encodeToString(signature);\n}\n\nprivate static byte[] signMessage(byte[] key, String algorithm, String data) {\n    try {\n        byte[] signature;\n        Mac mac = Mac.getInstance(algorithm);\n        SecretKeySpec keSpec = new SecretKeySpec(key, algorithm);\n        mac.init(keSpec);\n        signature = mac.doFinal(data.getBytes());\n        return signature;\n    } catch (NoSuchAlgorithmException | InvalidKeyException e) {\n        throw new RuntimeException(\"Unable to signe the message: \" + e.getMessage());\n    }\n}\n\nAcceptance Criteria\n\nTechnical Details\nBoth implementations have to produce identical results for different inputs. Secret input variable is usually base64 encoded.\nThe Javascript code should...",
         "author": "martin-nginio",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@martin-nginio/convert-java-method-1?t="
     },
     {
@@ -6156,7 +6156,7 @@
         "title": "Create a setup page in react that allows a new user to connect their accounts with Plaid and Codat",
         "description": "Hi Guys! We're a fast growing startup based in NYC with an already built stack.\n\nWe are looking to build a separate page to allow users to connect their accounts using Codat and Plaid. Then pass the authentication tokens to our backend\nThis will require a little server side work to configure the Plaid and Codat modals as well as pass the authentication tokens back to our fastAPI server to be saved down.\n\nCodat and Plaid have already-built react components, so you just have to embed those in the page\nUser authentication handled by Auth0, make sure the page is authenticated.\n\nDesign can be shared upon accepting application. We will deploy it ourselves on our infrastructure.\n\nCan definitely turn into a repeating gig! Shoot me an application. Please be direct in application and tell us past experience and why you are right applicant for the gig. Look forward to meeting.\n\nWe're trying to move fast so please only apply if you can jump on this this week.",
         "author": "financeguy",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@financeguy/create-a-setup-page?t="
     },
     {
@@ -6166,7 +6166,7 @@
         "title": "Help me get my python libraries working in AWS Lambda",
         "description": "Need to get python libraries working in AWS lambda.  I have working code that runs on desktop.  Trying to port it over to aws lambda but its puking on not being able to find its libraries or local data.\nAcceptance Criteria\n      Program runs in the cloud\nTechnical Details\n\nLink to Project",
         "author": "TirrellPayton",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@TirrellPayton/help-me-get-my-pytho?t="
     },
     {
@@ -6176,7 +6176,7 @@
         "title": "AI newsletter generator",
         "description": "I need an AI to curate industry specific articles that discuss trends. For this AI, I need it to target the automotive industry. It then needs to use those article to generate a email newsletter.",
         "author": "JeremyWilliam15",
-        "posted_time": "38 minutes ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@JeremyWilliam15/ai-newsletter-genera?t="
     },
     {
@@ -6186,7 +6186,7 @@
         "title": "Send me nitro classic for 1.2k cycles!",
         "description": "I'm having some credit card problems and want nitro classic. Once accepted, just send me a gift link.\n\nAcceptance Criteria\nJust a simple nitro gift link.",
         "author": "EpicCodeWizard2",
-        "posted_time": "22 minutes ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/send-me-nitro-classi?t="
     },
     {
@@ -6196,7 +6196,7 @@
         "title": "Send me nitro classic for 1.2k cycles!",
         "description": "I'm having some credit card problems and want nitro classic. Once accepted, just send me a gift link.\n\nAcceptance Criteria\nJust a simple nitro gift link.",
         "author": "EpicCodeWizard2",
-        "posted_time": "18 minutes ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/send-me-nitro-classi-1?t="
     }
 ]
