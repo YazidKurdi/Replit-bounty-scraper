@@ -6266,7 +6266,7 @@
         "title": "Create Ai App that surfaces positive or negative comments from our email and call comms with customers and inputs them into a spreadsheet",
         "description": "The aim is to run a large-language model (like ChatGPT3) through our CRM historic communications with customers and pull out either:\n\n(1) Positive comments from customers. E.g \"I love the solution, it helps us so much\"\n(2) Examples when customers aligned with the problem area. E.g \"Yes, this is a big problem for us!\"\n\nThe mediums to run the large-language model through are:\nEmail comms\nZoom video recordings\n\nOnce these comments are identified, they will be output into a spreadsheet with:\nCustomer Name\nCustomer comment\nWhether that comment was positive or aligned with problem area\n\nThe App would run this model each week when new email or video calls are added, and continually add them to the spreadsheet for review.",
         "author": "HHODD",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@HHODD/create-ai-app-that-s?t="
     },
     {
@@ -6286,7 +6286,7 @@
         "title": "AI that flags sus and sketch Terms of Service and Privacy Policies",
         "description": "I'm always wary of terms of service (ToS) and privacy policies (PP), and I'd like to know if there are any red flags I should be aware of before agreeing to them.\n\nSpecifically if they're collecting any data that I might not want them to and certainly if they're sharing it with third-parties or profiting without my knowledge.\n\nI would like to be able to use a web service where I can copy and paste the entirety of the ToS and/or PP and then get immediate feedback (let's say with assistance from the GPT-3 API endpoint) that highlights up to 5 parts of the ToS/PP that are \"sus\" or \"sketch\" and might make me reconsider accepting them.\n\nE.g., a GPT-generated response that says I should be aware of X, Y, and Z sketchy terms in the agreement, and maybe here's why I might not want to proceed.\n\nRegarding future development, once those issues are flagged, there's a lot more development that could happen to improve this service in subsequent development, e.g., provide copy-an...",
         "author": "ChristianUlstru",
-        "posted_time": "37 minutes ago",
+        "posted_time": "46 minutes ago",
         "link": "https://replit.com/bounties/@ChristianUlstru/ai-that-flags-sus-an?t="
     }
 ]
