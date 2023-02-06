@@ -6226,7 +6226,7 @@
         "title": "Testing Bounty",
         "description": "Describe the problem you are trying to solve here.\nTest\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "user",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@user/testing-bounty?t="
     },
     {
@@ -6236,7 +6236,7 @@
         "title": "Automatically find and create Youtube short clips from a long-form Youtube video",
         "description": "Acceptance Criteria\nTool that receives Youtube video as input\nOutputs Youtube shorts clips based on interesting moments within the video.  Use audio synthesis / caption reading to find interesting moments.\n\nExtra credit:\nAdds captions or other interesting edits",
         "author": "aidantorrence",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/automatically-find-a?t="
     },
     {
@@ -6256,7 +6256,7 @@
         "title": "Customize Installed WordPress Theme",
         "description": "I'm in need of a full-stack developer to give my WordPress directory theme a custom touch. I'm looking to tailor the directory towards all businesses, so it's not for restaurants anymore. I've put together a Figma file.  It shows the currently installed pages and includes all the changes I need made.\n\nYou can find the Directory theme I'm using here\n\nIf you have any questions, I'd be happy to hop on a Zoom call and go through it with you. If you'd like to take a look at the backend, I'd be happy to give you access to the WordPress cPanel.",
         "author": "CBSAI",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@CBSAI/customize-installed?t="
     },
     {
@@ -6268,5 +6268,15 @@
         "author": "HHODD",
         "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@HHODD/create-ai-app-that-s?t="
+    },
+    {
+        "index": "627",
+        "price": "$4.50",
+        "due_days": "due in 13 days",
+        "title": "set a proxy for telethon login",
+        "description": "Describe the problem you are trying to solve here.\ni have build a login by session file at python.\nbut i try to add proxy when  login\nhere is the code of login without proxy\nhttps://replit.com/@carterwu768210/scrapt-members#main.py\nand i bought proxy already (iat proxy photo)\n\nAcceptance Criteria\nBe specific about what you want in the solution here.\nhelp me to bulid a sample of use proxy to login .",
+        "author": "carterwu768210",
+        "posted_time": "5 minutes ago",
+        "link": "https://replit.com/bounties/@carterwu768210/set-a-proxy-for-tele?t="
     }
 ]

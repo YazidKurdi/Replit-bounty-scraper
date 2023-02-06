@@ -5092,13 +5092,13 @@ Ideally as a wordpress plugin architecture",DaveMac28,10 hours ago,https://repli
 622,$1.62,closed,Testing Bounty,"Describe the problem you are trying to solve here.
 Test
 Acceptance Criteria
-Be specific about what you want in the solution here.",user,8 hours ago,https://replit.com/bounties/@user/testing-bounty?t=
+Be specific about what you want in the solution here.",user,9 hours ago,https://replit.com/bounties/@user/testing-bounty?t=
 623,$100.00,due in 12 days,Automatically find and create Youtube short clips from a long-form Youtube video,"Acceptance Criteria
 Tool that receives Youtube video as input
 Outputs Youtube shorts clips based on interesting moments within the video.  Use audio synthesis / caption reading to find interesting moments.
 
 Extra credit:
-Adds captions or other interesting edits",aidantorrence,8 hours ago,https://replit.com/bounties/@aidantorrence/automatically-find-a?t=
+Adds captions or other interesting edits",aidantorrence,9 hours ago,https://replit.com/bounties/@aidantorrence/automatically-find-a?t=
 624,$675.00,due in 6 days,Connect the Storeleads API to the Apollo API to choose and enrich accounts on a weekly loop ,"Acceptance Criteria
 User must be able to log into a screen via a password and username
 User must then be able to choose a cohort of accounts using the same filtering options that are available from Storeleads directly via a simple UI
@@ -5116,7 +5116,7 @@ CSV download",HHODD,8 hours ago,https://replit.com/bounties/@HHODD/connect-the-s
 
 You can find the Directory theme I'm using here
 
-If you have any questions, I'd be happy to hop on a Zoom call and go through it with you. If you'd like to take a look at the backend, I'd be happy to give you access to the WordPress cPanel.",CBSAI,7 hours ago,https://replit.com/bounties/@CBSAI/customize-installed?t=
+If you have any questions, I'd be happy to hop on a Zoom call and go through it with you. If you'd like to take a look at the backend, I'd be happy to give you access to the WordPress cPanel.",CBSAI,8 hours ago,https://replit.com/bounties/@CBSAI/customize-installed?t=
 626,$450.00,due in 3 days,Create Ai App that surfaces positive or negative comments from our email and call comms with customers and inputs them into a spreadsheet,"The aim is to run a large-language model (like ChatGPT3) through our CRM historic communications with customers and pull out either:
 
 (1) Positive comments from customers. E.g ""I love the solution, it helps us so much""
@@ -5132,3 +5132,13 @@ Customer comment
 Whether that comment was positive or aligned with problem area
 
 The App would run this model each week when new email or video calls are added, and continually add them to the spreadsheet for review.",HHODD,3 hours ago,https://replit.com/bounties/@HHODD/create-ai-app-that-s?t=
+627,$4.50,due in 13 days,set a proxy for telethon login,"Describe the problem you are trying to solve here.
+i have build a login by session file at python.
+but i try to add proxy when  login
+here is the code of login without proxy
+https://replit.com/@carterwu768210/scrapt-members#main.py
+and i bought proxy already (iat proxy photo)
+
+Acceptance Criteria
+Be specific about what you want in the solution here.
+help me to bulid a sample of use proxy to login .",carterwu768210,5 minutes ago,https://replit.com/bounties/@carterwu768210/set-a-proxy-for-tele?t=
