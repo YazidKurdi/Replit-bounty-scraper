@@ -4984,7 +4984,7 @@ Hide all cells should work when test mode is on
 When enter is pressed in test mode, a flippable cell should be produced, with the colours (red or green)",VulcanWM,13 hours ago,https://replit.com/bounties/@VulcanWM/fix-test-mode-bug?t=
 610,$20.00,closed,Integrate new code into Github repository without affecting current application,"I need someone to integrate some code from one directory into my Github repository without affecting the current functionality of my app.
 
-By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.",mdotbaig,8 hours ago,https://replit.com/bounties/@mdotbaig/integrate-new-code-i?t=
+By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.",mdotbaig,9 hours ago,https://replit.com/bounties/@mdotbaig/integrate-new-code-i?t=
 611,$22.50,due in 5 days,Google Places API pull into a CSV,"I want to pull a CSV using the Google Places API. I have the key, you can just use as a placeholder ""insert API key here"" in the code.
 
 The goal is to create a CSV of gyms and fitness places (workout classes, climbing gyms, etc) in Denver. I tried using ChatGPT for this, but it's not pulling in all of the data correctly. I'll include more in the technical details below. I would prefer for it to pull as much data as possible, so as many columns as can fit. I can cut back from there.
@@ -5036,7 +5036,7 @@ Acceptance Criteria
 
 Technical Details
 Both implementations have to produce identical results for different inputs. Secret input variable is usually base64 encoded.
-The Javascript code should...",martin-nginio,4 hours ago,https://replit.com/bounties/@martin-nginio/convert-java-method-1?t=
+The Javascript code should...",martin-nginio,5 hours ago,https://replit.com/bounties/@martin-nginio/convert-java-method-1?t=
 615,$225.00,due in 3 days,Create a setup page in react that allows a new user to connect their accounts with Plaid and Codat,"Hi Guys! We're a fast growing startup based in NYC with an already built stack.
 
 We are looking to build a separate page to allow users to connect their accounts using Codat and Plaid. Then pass the authentication tokens to our backend
@@ -5049,7 +5049,7 @@ Design can be shared upon accepting application. We will deploy it ourselves on 
 
 Can definitely turn into a repeating gig! Shoot me an application. Please be direct in application and tell us past experience and why you are right applicant for the gig. Look forward to meeting.
 
-We're trying to move fast so please only apply if you can jump on this this week.",financeguy,4 hours ago,https://replit.com/bounties/@financeguy/create-a-setup-page?t=
+We're trying to move fast so please only apply if you can jump on this this week.",financeguy,5 hours ago,https://replit.com/bounties/@financeguy/create-a-setup-page?t=
 616,$45.00,due in 3 days,Help me get my python libraries working in AWS Lambda,"Need to get python libraries working in AWS lambda.  I have working code that runs on desktop.  Trying to port it over to aws lambda but its puking on not being able to find its libraries or local data.
 Acceptance Criteria
       Program runs in the cloud
