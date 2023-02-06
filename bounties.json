@@ -6236,7 +6236,7 @@
         "title": "Automatically find and create Youtube short clips from a long-form Youtube video",
         "description": "Acceptance Criteria\nTool that receives Youtube video as input\nOutputs Youtube shorts clips based on interesting moments within the video.  Use audio synthesis / caption reading to find interesting moments.\n\nExtra credit:\nAdds captions or other interesting edits",
         "author": "aidantorrence",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/automatically-find-a?t="
     },
     {
@@ -6286,7 +6286,7 @@
         "title": "AI that flags sus and sketch Terms of Service and Privacy Policies",
         "description": "I'm always wary of terms of service (ToS) and privacy policies (PP), and I'd like to know if there are any red flags I should be aware of before agreeing to them.\n\nSpecifically if they're collecting any data that I might not want them to and certainly if they're sharing it with third-parties or profiting without my knowledge.\n\nI would like to be able to use a web service where I can copy and paste the entirety of the ToS and/or PP and then get immediate feedback (let's say with assistance from the GPT-3 API endpoint) that highlights up to 5 parts of the ToS/PP that are \"sus\" or \"sketch\" and might make me reconsider accepting them.\n\nE.g., a GPT-generated response that says I should be aware of X, Y, and Z sketchy terms in the agreement, and maybe here's why I might not want to proceed.\n\nRegarding future development, once those issues are flagged, there's a lot more development that could happen to improve this service in subsequent development, e.g., provide copy-an...",
         "author": "ChristianUlstru",
-        "posted_time": "22 minutes ago",
+        "posted_time": "29 minutes ago",
         "link": "https://replit.com/bounties/@ChristianUlstru/ai-that-flags-sus-an?t="
     }
 ]

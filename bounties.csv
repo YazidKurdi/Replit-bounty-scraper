@@ -5098,7 +5098,7 @@ Tool that receives Youtube video as input
 Outputs Youtube shorts clips based on interesting moments within the video.  Use audio synthesis / caption reading to find interesting moments.
 
 Extra credit:
-Adds captions or other interesting edits",aidantorrence,13 hours ago,https://replit.com/bounties/@aidantorrence/automatically-find-a?t=
+Adds captions or other interesting edits",aidantorrence,14 hours ago,https://replit.com/bounties/@aidantorrence/automatically-find-a?t=
 624,$675.00,due in 6 days,Connect the Storeleads API to the Apollo API to choose and enrich accounts on a weekly loop ,"Acceptance Criteria
 User must be able to log into a screen via a password and username
 User must then be able to choose a cohort of accounts using the same filtering options that are available from Storeleads directly via a simple UI
@@ -5150,4 +5150,4 @@ I would like to be able to use a web service where I can copy and paste the enti
 
 E.g., a GPT-generated response that says I should be aware of X, Y, and Z sketchy terms in the agreement, and maybe here's why I might not want to proceed.
 
-Regarding future development, once those issues are flagged, there's a lot more development that could happen to improve this service in subsequent development, e.g., provide copy-an...",ChristianUlstru,22 minutes ago,https://replit.com/bounties/@ChristianUlstru/ai-that-flags-sus-an?t=
+Regarding future development, once those issues are flagged, there's a lot more development that could happen to improve this service in subsequent development, e.g., provide copy-an...",ChristianUlstru,29 minutes ago,https://replit.com/bounties/@ChristianUlstru/ai-that-flags-sus-an?t=
