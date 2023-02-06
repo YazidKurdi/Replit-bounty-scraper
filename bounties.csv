@@ -5036,7 +5036,7 @@ Acceptance Criteria
 
 Technical Details
 Both implementations have to produce identical results for different inputs. Secret input variable is usually base64 encoded.
-The Javascript code should...",martin-nginio,7 hours ago,https://replit.com/bounties/@martin-nginio/convert-java-method-1?t=
+The Javascript code should...",martin-nginio,8 hours ago,https://replit.com/bounties/@martin-nginio/convert-java-method-1?t=
 615,$225.00,due in 3 days,Create a setup page in react that allows a new user to connect their accounts with Plaid and Codat,"Hi Guys! We're a fast growing startup based in NYC with an already built stack.
 
 We are looking to build a separate page to allow users to connect their accounts using Codat and Plaid. Then pass the authentication tokens to our backend
@@ -5049,7 +5049,7 @@ Design can be shared upon accepting application. We will deploy it ourselves on 
 
 Can definitely turn into a repeating gig! Shoot me an application. Please be direct in application and tell us past experience and why you are right applicant for the gig. Look forward to meeting.
 
-We're trying to move fast so please only apply if you can jump on this this week.",financeguy,7 hours ago,https://replit.com/bounties/@financeguy/create-a-setup-page?t=
+We're trying to move fast so please only apply if you can jump on this this week.",financeguy,8 hours ago,https://replit.com/bounties/@financeguy/create-a-setup-page?t=
 616,$45.00,due in 3 days,Help me get my python libraries working in AWS Lambda,"Need to get python libraries working in AWS lambda.  I have working code that runs on desktop.  Trying to port it over to aws lambda but its puking on not being able to find its libraries or local data.
 Acceptance Criteria
       Program runs in the cloud
@@ -5064,7 +5064,7 @@ Just a simple nitro gift link.",EpicCodeWizard2,6 hours ago,https://replit.com/b
 619,$12.00,closed,Send me nitro classic for 1.2k cycles!,"I'm having some credit card problems and want nitro classic. Once accepted, just send me a gift link.
 
 Acceptance Criteria
-Just a simple nitro gift link.",EpicCodeWizard2,5 hours ago,https://replit.com/bounties/@EpicCodeWizard2/send-me-nitro-classi-1?t=
+Just a simple nitro gift link.",EpicCodeWizard2,6 hours ago,https://replit.com/bounties/@EpicCodeWizard2/send-me-nitro-classi-1?t=
 620,$90.00,due in 7 days,EV Charging Predictive Mapping Tool  ,"Using Census Data for a City or Municipality we want to create a predictive number of EV chargers which will be required by 2030. Goal is to forecast current and future ev charging infrastructure demands. Inputs will be:
 
 Number of Cars
@@ -5092,10 +5092,10 @@ Ideally as a wordpress plugin architecture",DaveMac28,2 hours ago,https://replit
 622,$1.62,closed,Testing Bounty,"Describe the problem you are trying to solve here.
 Test
 Acceptance Criteria
-Be specific about what you want in the solution here.",user,9 minutes ago,https://replit.com/bounties/@user/testing-bounty?t=
+Be specific about what you want in the solution here.",user,28 minutes ago,https://replit.com/bounties/@user/testing-bounty?t=
 623,$100.00,due in 13 days,Automatically find and create Youtube short clips from a long-form Youtube video,"Acceptance Criteria
 Tool that receives Youtube video as input
 Outputs Youtube shorts clips based on interesting moments within the video.  Use audio synthesis / caption reading to find interesting moments.
 
 Extra credit:
-Adds captions or other interesting edits",aidantorrence,3 minutes ago,https://replit.com/bounties/@aidantorrence/automatically-find-a?t=
+Adds captions or other interesting edits",aidantorrence,22 minutes ago,https://replit.com/bounties/@aidantorrence/automatically-find-a?t=

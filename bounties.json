@@ -6146,7 +6146,7 @@
         "title": "Convert Java method to Javascript2",
         "description": "Convert the following two Java methods into Javascript.\n\nprivate static String signMessage(String secret, String data) {\n    byte[] key = Base64.getUrlDecoder().decode(secret);\n    byte[] signature = signMessage(key, \"HmacSHA256\", data);\n    return Base64.getEncoder().encodeToString(signature);\n}\n\nprivate static byte[] signMessage(byte[] key, String algorithm, String data) {\n    try {\n        byte[] signature;\n        Mac mac = Mac.getInstance(algorithm);\n        SecretKeySpec keSpec = new SecretKeySpec(key, algorithm);\n        mac.init(keSpec);\n        signature = mac.doFinal(data.getBytes());\n        return signature;\n    } catch (NoSuchAlgorithmException | InvalidKeyException e) {\n        throw new RuntimeException(\"Unable to signe the message: \" + e.getMessage());\n    }\n}\n\nAcceptance Criteria\n\nTechnical Details\nBoth implementations have to produce identical results for different inputs. Secret input variable is usually base64 encoded.\nThe Javascript code should...",
         "author": "martin-nginio",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@martin-nginio/convert-java-method-1?t="
     },
     {
@@ -6156,7 +6156,7 @@
         "title": "Create a setup page in react that allows a new user to connect their accounts with Plaid and Codat",
         "description": "Hi Guys! We're a fast growing startup based in NYC with an already built stack.\n\nWe are looking to build a separate page to allow users to connect their accounts using Codat and Plaid. Then pass the authentication tokens to our backend\nThis will require a little server side work to configure the Plaid and Codat modals as well as pass the authentication tokens back to our fastAPI server to be saved down.\n\nCodat and Plaid have already-built react components, so you just have to embed those in the page\nUser authentication handled by Auth0, make sure the page is authenticated.\n\nDesign can be shared upon accepting application. We will deploy it ourselves on our infrastructure.\n\nCan definitely turn into a repeating gig! Shoot me an application. Please be direct in application and tell us past experience and why you are right applicant for the gig. Look forward to meeting.\n\nWe're trying to move fast so please only apply if you can jump on this this week.",
         "author": "financeguy",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@financeguy/create-a-setup-page?t="
     },
     {
@@ -6196,7 +6196,7 @@
         "title": "Send me nitro classic for 1.2k cycles!",
         "description": "I'm having some credit card problems and want nitro classic. Once accepted, just send me a gift link.\n\nAcceptance Criteria\nJust a simple nitro gift link.",
         "author": "EpicCodeWizard2",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/send-me-nitro-classi-1?t="
     },
     {
@@ -6226,7 +6226,7 @@
         "title": "Testing Bounty",
         "description": "Describe the problem you are trying to solve here.\nTest\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "user",
-        "posted_time": "9 minutes ago",
+        "posted_time": "28 minutes ago",
         "link": "https://replit.com/bounties/@user/testing-bounty?t="
     },
     {
@@ -6236,7 +6236,7 @@
         "title": "Automatically find and create Youtube short clips from a long-form Youtube video",
         "description": "Acceptance Criteria\nTool that receives Youtube video as input\nOutputs Youtube shorts clips based on interesting moments within the video.  Use audio synthesis / caption reading to find interesting moments.\n\nExtra credit:\nAdds captions or other interesting edits",
         "author": "aidantorrence",
-        "posted_time": "3 minutes ago",
+        "posted_time": "22 minutes ago",
         "link": "https://replit.com/bounties/@aidantorrence/automatically-find-a?t="
     }
 ]
