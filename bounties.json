@@ -6206,7 +6206,7 @@
         "title": "EV Charging Predictive Mapping Tool  ",
         "description": "Using Census Data for a City or Municipality we want to create a predictive number of EV chargers which will be required by 2030. Goal is to forecast current and future ev charging infrastructure demands. Inputs will be:\n\nNumber of Cars\nPopulation\nEV charger uptake Rate\n\nOutputs will be:\nPDF / Email  report and map area\n\n#can host anywhere (internal use for now) - to be used later externally potentially hosted on wordpress.\n\n3 days",
         "author": "DaveMac28",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@DaveMac28/ev-charging-predicti?t="
     },
     {
@@ -6216,7 +6216,7 @@
         "title": "EV Trip Planning tool to sit on top of Google Maps ",
         "description": "Ev drivers get very nervous about where they will be able to charge. We want to us ML / AL to give then the best route to drive based on how much much energy their EV has at the start of the journey and the end.\n\nInputs would be:\n\nCar Range\nBattery State of Charge\nCharging locations (lat / long)\nTraffic (Google API input)\n\nWant to host on a webpage (Wordpress or Google Could based).\n\nIdeally as a wordpress plugin architecture",
         "author": "DaveMac28",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@DaveMac28/ev-trip-planning-too?t="
     },
     {
@@ -6276,7 +6276,7 @@
         "title": "set a proxy for telethon login",
         "description": "Describe the problem you are trying to solve here.\ni have build a login by session file at python.\nbut i try to add proxy when  login\nhere is the code of login without proxy\nhttps://replit.com/@carterwu768210/scrapt-members#main.py\nand i bought proxy already (iat proxy photo)\n\nAcceptance Criteria\nBe specific about what you want in the solution here.\nhelp me to bulid a sample of use proxy to login .",
         "author": "carterwu768210",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@carterwu768210/set-a-proxy-for-tele?t="
     },
     {
@@ -6286,7 +6286,7 @@
         "title": "AI that flags sus and sketch Terms of Service and Privacy Policies",
         "description": "I'm always wary of terms of service (ToS) and privacy policies (PP), and I'd like to know if there are any red flags I should be aware of before agreeing to them.\n\nSpecifically if they're collecting any data that I might not want them to and certainly if they're sharing it with third-parties or profiting without my knowledge.\n\nI would like to be able to use a web service where I can copy and paste the entirety of the ToS and/or PP and then get immediate feedback (let's say with assistance from the GPT-3 API endpoint) that highlights up to 5 parts of the ToS/PP that are \"sus\" or \"sketch\" and might make me reconsider accepting them.\n\nE.g., a GPT-generated response that says I should be aware of X, Y, and Z sketchy terms in the agreement, and maybe here's why I might not want to proceed.\n\nRegarding future development, once those issues are flagged, there's a lot more development that could happen to improve this service in subsequent development, e.g., provide copy-an...",
         "author": "ChristianUlstru",
-        "posted_time": "46 minutes ago",
+        "posted_time": "56 minutes ago",
         "link": "https://replit.com/bounties/@ChristianUlstru/ai-that-flags-sus-an?t="
     }
 ]
