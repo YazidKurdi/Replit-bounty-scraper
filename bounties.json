@@ -6196,7 +6196,7 @@
         "title": "Send me nitro classic for 1.2k cycles!",
         "description": "I'm having some credit card problems and want nitro classic. Once accepted, just send me a gift link.\n\nAcceptance Criteria\nJust a simple nitro gift link.",
         "author": "EpicCodeWizard2",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/send-me-nitro-classi-1?t="
     },
     {
@@ -6246,7 +6246,7 @@
         "title": "Connect the Storeleads API to the Apollo API to choose and enrich accounts on a weekly loop ",
         "description": "Acceptance Criteria\nUser must be able to log into a screen via a password and username\nUser must then be able to choose a cohort of accounts using the same filtering options that are available from Storeleads directly via a simple UI\nOnce the user has chosen the cohort of customers via the storeleads API, user must be able to click \"check how many accounts\" via a button and see how many accounts there are within that cohort (in number)\nUser must then be able to click to enrich those accounts with specific pre-defined roles via the apollo API\nOnce enriched, user must then be able to easily download those enriched accounts via CSV\nUser must then be able to input email to receive weekly updates when more accounts hit the same criteria that was chosen on the first cohort of customers (creating a weekly inflow of new accounts) via email with a link to download CSV\n\nTechnical Details\nStoreleads API\nApollo API\nEmail notifications\nCSV download",
         "author": "HHODD",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@HHODD/connect-the-storelea?t="
     },
     {
@@ -6256,7 +6256,7 @@
         "title": "Customize Installed WordPress Theme",
         "description": "I'm in need of a full-stack developer to give my WordPress directory theme a custom touch. I'm looking to tailor the directory towards all businesses, so it's not for restaurants anymore. I've put together a Figma file.  It shows the currently installed pages and includes all the changes I need made.\n\nYou can find the Directory theme I'm using here\n\nIf you have any questions, I'd be happy to hop on a Zoom call and go through it with you. If you'd like to take a look at the backend, I'd be happy to give you access to the WordPress cPanel.",
         "author": "CBSAI",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@CBSAI/customize-installed?t="
     }
 ]
