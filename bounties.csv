@@ -5092,10 +5092,23 @@ Ideally as a wordpress plugin architecture",DaveMac28,2 hours ago,https://replit
 622,$1.62,closed,Testing Bounty,"Describe the problem you are trying to solve here.
 Test
 Acceptance Criteria
-Be specific about what you want in the solution here.",user,28 minutes ago,https://replit.com/bounties/@user/testing-bounty?t=
+Be specific about what you want in the solution here.",user,49 minutes ago,https://replit.com/bounties/@user/testing-bounty?t=
 623,$100.00,due in 13 days,Automatically find and create Youtube short clips from a long-form Youtube video,"Acceptance Criteria
 Tool that receives Youtube video as input
 Outputs Youtube shorts clips based on interesting moments within the video.  Use audio synthesis / caption reading to find interesting moments.
 
 Extra credit:
-Adds captions or other interesting edits",aidantorrence,22 minutes ago,https://replit.com/bounties/@aidantorrence/automatically-find-a?t=
+Adds captions or other interesting edits",aidantorrence,43 minutes ago,https://replit.com/bounties/@aidantorrence/automatically-find-a?t=
+624,$675.00,due in 7 days,Connect the Storeleads API to the Apollo API to choose and enrich accounts on a weekly loop ,"Acceptance Criteria
+User must be able to log into a screen via a password and username
+User must then be able to choose a cohort of accounts using the same filtering options that are available from Storeleads directly via a simple UI
+Once the user has chosen the cohort of customers via the storeleads API, user must be able to click ""check how many accounts"" via a button and see how many accounts there are within that cohort (in number)
+User must then be able to click to enrich those accounts with specific pre-defined roles via the apollo API
+Once enriched, user must then be able to easily download those enriched accounts via CSV
+User must then be able to input email to receive weekly updates when more accounts hit the same criteria that was chosen on the first cohort of customers (creating a weekly inflow of new accounts) via email with a link to download CSV
+
+Technical Details
+Storeleads API
+Apollo API
+Email notifications
+CSV download",HHODD,34 seconds ago,https://replit.com/bounties/@HHODD/connect-the-storelea?t=

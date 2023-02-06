@@ -6226,7 +6226,7 @@
         "title": "Testing Bounty",
         "description": "Describe the problem you are trying to solve here.\nTest\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "user",
-        "posted_time": "28 minutes ago",
+        "posted_time": "49 minutes ago",
         "link": "https://replit.com/bounties/@user/testing-bounty?t="
     },
     {
@@ -6236,7 +6236,17 @@
         "title": "Automatically find and create Youtube short clips from a long-form Youtube video",
         "description": "Acceptance Criteria\nTool that receives Youtube video as input\nOutputs Youtube shorts clips based on interesting moments within the video.  Use audio synthesis / caption reading to find interesting moments.\n\nExtra credit:\nAdds captions or other interesting edits",
         "author": "aidantorrence",
-        "posted_time": "22 minutes ago",
+        "posted_time": "43 minutes ago",
         "link": "https://replit.com/bounties/@aidantorrence/automatically-find-a?t="
+    },
+    {
+        "index": "624",
+        "price": "$675.00",
+        "due_days": "due in 7 days",
+        "title": "Connect the Storeleads API to the Apollo API to choose and enrich accounts on a weekly loop ",
+        "description": "Acceptance Criteria\nUser must be able to log into a screen via a password and username\nUser must then be able to choose a cohort of accounts using the same filtering options that are available from Storeleads directly via a simple UI\nOnce the user has chosen the cohort of customers via the storeleads API, user must be able to click \"check how many accounts\" via a button and see how many accounts there are within that cohort (in number)\nUser must then be able to click to enrich those accounts with specific pre-defined roles via the apollo API\nOnce enriched, user must then be able to easily download those enriched accounts via CSV\nUser must then be able to input email to receive weekly updates when more accounts hit the same criteria that was chosen on the first cohort of customers (creating a weekly inflow of new accounts) via email with a link to download CSV\n\nTechnical Details\nStoreleads API\nApollo API\nEmail notifications\nCSV download",
+        "author": "HHODD",
+        "posted_time": "34 seconds ago",
+        "link": "https://replit.com/bounties/@HHODD/connect-the-storelea?t="
     }
 ]
