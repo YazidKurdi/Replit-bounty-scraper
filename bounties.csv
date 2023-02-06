@@ -5092,13 +5092,13 @@ Ideally as a wordpress plugin architecture",DaveMac28,17 hours ago,https://repli
 622,$1.62,closed,Testing Bounty,"Describe the problem you are trying to solve here.
 Test
 Acceptance Criteria
-Be specific about what you want in the solution here.",user,15 hours ago,https://replit.com/bounties/@user/testing-bounty?t=
+Be specific about what you want in the solution here.",user,16 hours ago,https://replit.com/bounties/@user/testing-bounty?t=
 623,$100.00,due in 12 days,Automatically find and create Youtube short clips from a long-form Youtube video,"Acceptance Criteria
 Tool that receives Youtube video as input
 Outputs Youtube shorts clips based on interesting moments within the video.  Use audio synthesis / caption reading to find interesting moments.
 
 Extra credit:
-Adds captions or other interesting edits",aidantorrence,15 hours ago,https://replit.com/bounties/@aidantorrence/automatically-find-a?t=
+Adds captions or other interesting edits",aidantorrence,16 hours ago,https://replit.com/bounties/@aidantorrence/automatically-find-a?t=
 624,$675.00,due in 6 days,Connect the Storeleads API to the Apollo API to choose and enrich accounts on a weekly loop ,"Acceptance Criteria
 User must be able to log into a screen via a password and username
 User must then be able to choose a cohort of accounts using the same filtering options that are available from Storeleads directly via a simple UI
@@ -5116,7 +5116,7 @@ CSV download",HHODD,15 hours ago,https://replit.com/bounties/@HHODD/connect-the-
 
 You can find the Directory theme I'm using here
 
-If you have any questions, I'd be happy to hop on a Zoom call and go through it with you. If you'd like to take a look at the backend, I'd be happy to give you access to the WordPress cPanel.",CBSAI,14 hours ago,https://replit.com/bounties/@CBSAI/customize-installed?t=
+If you have any questions, I'd be happy to hop on a Zoom call and go through it with you. If you'd like to take a look at the backend, I'd be happy to give you access to the WordPress cPanel.",CBSAI,15 hours ago,https://replit.com/bounties/@CBSAI/customize-installed?t=
 626,$450.00,due in 3 days,Create Ai App that surfaces positive or negative comments from our email and call comms with customers and inputs them into a spreadsheet,"The aim is to run a large-language model (like ChatGPT3) through our CRM historic communications with customers and pull out either:
 
 (1) Positive comments from customers. E.g ""I love the solution, it helps us so much""
@@ -5151,3 +5151,14 @@ I would like to be able to use a web service where I can copy and paste the enti
 E.g., a GPT-generated response that says I should be aware of X, Y, and Z sketchy terms in the agreement, and maybe here's why I might not want to proceed.
 
 Regarding future development, once those issues are flagged, there's a lot more development that could happen to improve this service in subsequent development, e.g., provide copy-an...",ChristianUlstru,2 hours ago,https://replit.com/bounties/@ChristianUlstru/ai-that-flags-sus-an?t=
+629,$45.00,due in 13 days,WGSL exploding blocks for 2d image editor,"I would love to have a WGSL written for exploding pixels for 2d image editor.
+
+An example i found was here: https://youtu.be/hkSU3fNYXVA?t=713 created in photoshop. But would love to have a shader that I could add any image and then control:
+
+Size of the blocks
+Distance from the original location
+Starting location
+Direction of the blocks at flowing
+Frequency of the blocks
+Offset of the blocks
+Randomization slider so the blocks aren't always in the same position.",JoeBurfitt,7 minutes ago,https://replit.com/bounties/@JoeBurfitt/wgsl-exploding-block?t=
