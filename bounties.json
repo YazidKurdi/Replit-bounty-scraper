@@ -6226,7 +6226,7 @@
         "title": "Testing Bounty",
         "description": "Describe the problem you are trying to solve here.\nTest\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "user",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@user/testing-bounty?t="
     },
     {
@@ -6236,7 +6236,7 @@
         "title": "Automatically find and create Youtube short clips from a long-form Youtube video",
         "description": "Acceptance Criteria\nTool that receives Youtube video as input\nOutputs Youtube shorts clips based on interesting moments within the video.  Use audio synthesis / caption reading to find interesting moments.\n\nExtra credit:\nAdds captions or other interesting edits",
         "author": "aidantorrence",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/automatically-find-a?t="
     },
     {
