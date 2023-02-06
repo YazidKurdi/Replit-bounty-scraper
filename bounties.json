@@ -6166,7 +6166,7 @@
         "title": "Help me get my python libraries working in AWS Lambda",
         "description": "Need to get python libraries working in AWS lambda.  I have working code that runs on desktop.  Trying to port it over to aws lambda but its puking on not being able to find its libraries or local data.\nAcceptance Criteria\n      Program runs in the cloud\nTechnical Details\n\nLink to Project",
         "author": "TirrellPayton",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@TirrellPayton/help-me-get-my-pytho?t="
     },
     {
@@ -6176,7 +6176,7 @@
         "title": "AI newsletter generator",
         "description": "I need an AI to curate industry specific articles that discuss trends. For this AI, I need it to target the automotive industry. It then needs to use those article to generate a email newsletter.",
         "author": "JeremyWilliam15",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@JeremyWilliam15/ai-newsletter-genera?t="
     },
     {
@@ -6256,7 +6256,7 @@
         "title": "Customize Installed WordPress Theme",
         "description": "I'm in need of a full-stack developer to give my WordPress directory theme a custom touch. I'm looking to tailor the directory towards all businesses, so it's not for restaurants anymore. I've put together a Figma file.  It shows the currently installed pages and includes all the changes I need made.\n\nYou can find the Directory theme I'm using here\n\nIf you have any questions, I'd be happy to hop on a Zoom call and go through it with you. If you'd like to take a look at the backend, I'd be happy to give you access to the WordPress cPanel.",
         "author": "CBSAI",
-        "posted_time": "54 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@CBSAI/customize-installed?t="
     }
 ]
