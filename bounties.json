@@ -6286,7 +6286,7 @@
         "title": "AI that flags sus and sketch Terms of Service and Privacy Policies",
         "description": "I'm always wary of terms of service (ToS) and privacy policies (PP), and I'd like to know if there are any red flags I should be aware of before agreeing to them.\n\nSpecifically if they're collecting any data that I might not want them to and certainly if they're sharing it with third-parties or profiting without my knowledge.\n\nI would like to be able to use a web service where I can copy and paste the entirety of the ToS and/or PP and then get immediate feedback (let's say with assistance from the GPT-3 API endpoint) that highlights up to 5 parts of the ToS/PP that are \"sus\" or \"sketch\" and might make me reconsider accepting them.\n\nE.g., a GPT-generated response that says I should be aware of X, Y, and Z sketchy terms in the agreement, and maybe here's why I might not want to proceed.\n\nRegarding future development, once those issues are flagged, there's a lot more development that could happen to improve this service in subsequent development, e.g., provide copy-an...",
         "author": "ChristianUlstru",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@ChristianUlstru/ai-that-flags-sus-an?t="
     },
     {
@@ -6306,7 +6306,7 @@
         "title": "Need a python crash game",
         "description": "I'm looking for someone to recrate the odds for a popular crash game to create a python script that will print a random output for the popular online gambling game known as crash. It should have a 0 house edge with crashing at zero 3% of the time and a max multiplier of 2,500x. Basically when run the code it will give you a random crash game output. Just the point it crashes at",
         "author": "Frrowsty",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@Frrowsty/need-a-python-crash?t="
     },
     {
@@ -6316,7 +6316,7 @@
         "title": "Access to Google Bard ",
         "description": "Acceptance Criteria\nI would like to get access to google bard.\nBonus points if it's an api access",
         "author": "aidantorrence",
-        "posted_time": "28 minutes ago",
+        "posted_time": "39 minutes ago",
         "link": "https://replit.com/bounties/@aidantorrence/access-to-google-bar?t="
     },
     {
@@ -6326,7 +6326,17 @@
         "title": "Create a Graph QL Web Application that is a Dashboard for Me (read Desc)",
         "description": "Description\nI would like a Graph QL dashboard website made using Graph QL and HTML. It will have the following features:\nDisplay the amount of runs, likes, and tips of my most descent Repls, along with a \u201ctop Repls\u201d section displaying the statistics of my top or \u201cmost popular\u201d Repls (with the most stats).\n\nAcceptance Criteria\nMust have some style to it and look nice :)\nMust have all the features as posted above.\nI do want your applications to be over the top, include some of your past work, experience, why I should accept you, your past work with this topic, and more!\n\nOther\nContact will strictly be via email ([email\u00a0protected]).\n\nIf you think the price is off I am willing to raise it a few hundreds.",
         "author": "EarthRulerr",
-        "posted_time": "22 minutes ago",
+        "posted_time": "33 minutes ago",
         "link": "https://replit.com/bounties/@EarthRulerr/create-a-graph-ql-we?t="
+    },
+    {
+        "index": "633",
+        "price": "$99.00",
+        "due_days": "due in 4 days",
+        "title": "Build an Android component which lets you draw over an ImageView. Must support Pinch to zoom and drag",
+        "description": "A view where users can draw over an image using touch. Also, must work accurately with pinch to zoom\nAcceptance Criteria\nShould work something like cleanup pictures feature in the clipdrop app. Just the painting over the images and pinch to zoom.\nShould work on Android and 8 and above.\nWork for Images of all types of aspect ratio.\nNo drawing outside the image view.\n\nWhen you apply, please specify how would you go about approaching the problem. A short one or two lines.\n\nBe specific about what you want in the solution here.",
+        "author": "MavNow",
+        "posted_time": "6 minutes ago",
+        "link": "https://replit.com/bounties/@MavNow/build-an-android-com?t="
     }
 ]
