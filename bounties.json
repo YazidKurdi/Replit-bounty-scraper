@@ -6276,7 +6276,7 @@
         "title": "set a proxy for telethon login",
         "description": "Describe the problem you are trying to solve here.\ni have build a login by session file at python.\nbut i try to add proxy when  login\nhere is the code of login without proxy\nhttps://replit.com/@carterwu768210/scrapt-members#main.py\nand i bought proxy already (iat proxy photo)\n\nAcceptance Criteria\nBe specific about what you want in the solution here.\nhelp me to bulid a sample of use proxy to login .",
         "author": "carterwu768210",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@carterwu768210/set-a-proxy-for-tele?t="
     },
     {
@@ -6296,7 +6296,7 @@
         "title": "WGSL exploding blocks for 2d image editor",
         "description": "I would love to have a WGSL written for exploding pixels for 2d image editor.\n\nAn example i found was here: https://youtu.be/hkSU3fNYXVA?t=713 created in photoshop. But would love to have a shader that I could add any image and then control:\n\nSize of the blocks\nDistance from the original location\nStarting location\nDirection of the blocks at flowing\nFrequency of the blocks\nOffset of the blocks\nRandomization slider so the blocks aren't always in the same position.",
         "author": "JoeBurfitt",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@JoeBurfitt/wgsl-exploding-block?t="
     },
     {
@@ -6316,7 +6316,7 @@
         "title": "Access to Google Bard ",
         "description": "Acceptance Criteria\nI would like to get access to google bard.\nBonus points if it's an api access",
         "author": "aidantorrence",
-        "posted_time": "48 minutes ago",
+        "posted_time": "58 minutes ago",
         "link": "https://replit.com/bounties/@aidantorrence/access-to-google-bar?t="
     },
     {
@@ -6326,7 +6326,7 @@
         "title": "Create a Graph QL Web Application that is a Dashboard for Me (read Desc)",
         "description": "Description\nI would like a Graph QL dashboard website made using Graph QL and HTML. It will have the following features:\nDisplay the amount of runs, likes, and tips of my most descent Repls, along with a \u201ctop Repls\u201d section displaying the statistics of my top or \u201cmost popular\u201d Repls (with the most stats).\n\nAcceptance Criteria\nMust have some style to it and look nice :)\nMust have all the features as posted above.\nI do want your applications to be over the top, include some of your past work, experience, why I should accept you, your past work with this topic, and more!\n\nOther\nContact will strictly be via email ([email\u00a0protected]).\n\nIf you think the price is off I am willing to raise it a few hundreds.",
         "author": "EarthRulerr",
-        "posted_time": "42 minutes ago",
+        "posted_time": "52 minutes ago",
         "link": "https://replit.com/bounties/@EarthRulerr/create-a-graph-ql-we?t="
     },
     {
@@ -6336,7 +6336,7 @@
         "title": "Build an Android component which lets you draw over an ImageView. Must support Pinch to zoom and drag",
         "description": "A view where users can draw over an image using touch. Also, must work accurately with pinch to zoom\nAcceptance Criteria\nShould work something like cleanup pictures feature in the clipdrop app. Just the painting over the images and pinch to zoom.\nShould work on Android and 8 and above.\nWork for Images of all types of aspect ratio.\nNo drawing outside the image view.\n\nWhen you apply, please specify how would you go about approaching the problem. A short one or two lines.\n\nBe specific about what you want in the solution here.",
         "author": "MavNow",
-        "posted_time": "16 minutes ago",
+        "posted_time": "26 minutes ago",
         "link": "https://replit.com/bounties/@MavNow/build-an-android-com?t="
     }
 ]
