@@ -6286,7 +6286,7 @@
         "title": "AI that flags sus and sketch Terms of Service and Privacy Policies",
         "description": "I'm always wary of terms of service (ToS) and privacy policies (PP), and I'd like to know if there are any red flags I should be aware of before agreeing to them.\n\nSpecifically if they're collecting any data that I might not want them to and certainly if they're sharing it with third-parties or profiting without my knowledge.\n\nI would like to be able to use a web service where I can copy and paste the entirety of the ToS and/or PP and then get immediate feedback (let's say with assistance from the GPT-3 API endpoint) that highlights up to 5 parts of the ToS/PP that are \"sus\" or \"sketch\" and might make me reconsider accepting them.\n\nE.g., a GPT-generated response that says I should be aware of X, Y, and Z sketchy terms in the agreement, and maybe here's why I might not want to proceed.\n\nRegarding future development, once those issues are flagged, there's a lot more development that could happen to improve this service in subsequent development, e.g., provide copy-an...",
         "author": "ChristianUlstru",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@ChristianUlstru/ai-that-flags-sus-an?t="
     },
     {
@@ -6296,7 +6296,7 @@
         "title": "WGSL exploding blocks for 2d image editor",
         "description": "I would love to have a WGSL written for exploding pixels for 2d image editor.\n\nAn example i found was here: https://youtu.be/hkSU3fNYXVA?t=713 created in photoshop. But would love to have a shader that I could add any image and then control:\n\nSize of the blocks\nDistance from the original location\nStarting location\nDirection of the blocks at flowing\nFrequency of the blocks\nOffset of the blocks\nRandomization slider so the blocks aren't always in the same position.",
         "author": "JoeBurfitt",
-        "posted_time": "7 minutes ago",
+        "posted_time": "19 minutes ago",
         "link": "https://replit.com/bounties/@JoeBurfitt/wgsl-exploding-block?t="
     }
 ]
