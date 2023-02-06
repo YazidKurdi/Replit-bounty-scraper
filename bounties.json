@@ -6226,7 +6226,7 @@
         "title": "Testing Bounty",
         "description": "Describe the problem you are trying to solve here.\nTest\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "user",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@user/testing-bounty?t="
     },
     {
@@ -6236,7 +6236,7 @@
         "title": "Automatically find and create Youtube short clips from a long-form Youtube video",
         "description": "Acceptance Criteria\nTool that receives Youtube video as input\nOutputs Youtube shorts clips based on interesting moments within the video.  Use audio synthesis / caption reading to find interesting moments.\n\nExtra credit:\nAdds captions or other interesting edits",
         "author": "aidantorrence",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/automatically-find-a?t="
     },
     {
@@ -6276,7 +6276,7 @@
         "title": "set a proxy for telethon login",
         "description": "Describe the problem you are trying to solve here.\ni have build a login by session file at python.\nbut i try to add proxy when  login\nhere is the code of login without proxy\nhttps://replit.com/@carterwu768210/scrapt-members#main.py\nand i bought proxy already (iat proxy photo)\n\nAcceptance Criteria\nBe specific about what you want in the solution here.\nhelp me to bulid a sample of use proxy to login .",
         "author": "carterwu768210",
-        "posted_time": "51 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@carterwu768210/set-a-proxy-for-tele?t="
     }
 ]
