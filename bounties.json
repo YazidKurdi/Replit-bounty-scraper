@@ -6176,7 +6176,7 @@
         "title": "AI newsletter generator",
         "description": "I need an AI to curate industry specific articles that discuss trends. For this AI, I need it to target the automotive industry. It then needs to use those article to generate a email newsletter.",
         "author": "JeremyWilliam15",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@JeremyWilliam15/ai-newsletter-genera?t="
     },
     {
@@ -6266,7 +6266,7 @@
         "title": "Create Ai App that surfaces positive or negative comments from our email and call comms with customers and inputs them into a spreadsheet",
         "description": "The aim is to run a large-language model (like ChatGPT3) through our CRM historic communications with customers and pull out either:\n\n(1) Positive comments from customers. E.g \"I love the solution, it helps us so much\"\n(2) Examples when customers aligned with the problem area. E.g \"Yes, this is a big problem for us!\"\n\nThe mediums to run the large-language model through are:\nEmail comms\nZoom video recordings\n\nOnce these comments are identified, they will be output into a spreadsheet with:\nCustomer Name\nCustomer comment\nWhether that comment was positive or aligned with problem area\n\nThe App would run this model each week when new email or video calls are added, and continually add them to the spreadsheet for review.",
         "author": "HHODD",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@HHODD/create-ai-app-that-s?t="
     }
 ]
