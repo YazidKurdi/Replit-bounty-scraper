@@ -6166,7 +6166,7 @@
         "title": "Help me get my python libraries working in AWS Lambda",
         "description": "Need to get python libraries working in AWS lambda.  I have working code that runs on desktop.  Trying to port it over to aws lambda but its puking on not being able to find its libraries or local data.\nAcceptance Criteria\n      Program runs in the cloud\nTechnical Details\n\nLink to Project",
         "author": "TirrellPayton",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@TirrellPayton/help-me-get-my-pytho?t="
     },
     {
@@ -6176,7 +6176,7 @@
         "title": "AI newsletter generator",
         "description": "I need an AI to curate industry specific articles that discuss trends. For this AI, I need it to target the automotive industry. It then needs to use those article to generate a email newsletter.",
         "author": "JeremyWilliam15",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@JeremyWilliam15/ai-newsletter-genera?t="
     },
     {
@@ -6206,7 +6206,7 @@
         "title": "EV Charging Predictive Mapping Tool  ",
         "description": "Using Census Data for a City or Municipality we want to create a predictive number of EV chargers which will be required by 2030. Goal is to forecast current and future ev charging infrastructure demands. Inputs will be:\n\nNumber of Cars\nPopulation\nEV charger uptake Rate\n\nOutputs will be:\nPDF / Email  report and map area\n\n#can host anywhere (internal use for now) - to be used later externally potentially hosted on wordpress.\n\n3 days",
         "author": "DaveMac28",
-        "posted_time": "17 minutes ago",
+        "posted_time": "29 minutes ago",
         "link": "https://replit.com/bounties/@DaveMac28/ev-charging-predicti?t="
     },
     {
@@ -6216,7 +6216,7 @@
         "title": "EV Trip Planning tool to sit on top of Google Maps ",
         "description": "Ev drivers get very nervous about where they will be able to charge. We want to us ML / AL to give then the best route to drive based on how much much energy their EV has at the start of the journey and the end.\n\nInputs would be:\n\nCar Range\nBattery State of Charge\nCharging locations (lat / long)\nTraffic (Google API input)\n\nWant to host on a webpage (Wordpress or Google Could based).\n\nIdeally as a wordpress plugin architecture",
         "author": "DaveMac28",
-        "posted_time": "12 minutes ago",
+        "posted_time": "23 minutes ago",
         "link": "https://replit.com/bounties/@DaveMac28/ev-trip-planning-too?t="
     }
 ]
