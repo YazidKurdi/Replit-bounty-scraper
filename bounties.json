@@ -6176,7 +6176,7 @@
         "title": "AI newsletter generator",
         "description": "I need an AI to curate industry specific articles that discuss trends. For this AI, I need it to target the automotive industry. It then needs to use those article to generate a email newsletter.",
         "author": "JeremyWilliam15",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@JeremyWilliam15/ai-newsletter-genera?t="
     },
     {
@@ -6186,7 +6186,7 @@
         "title": "Send me nitro classic for 1.2k cycles!",
         "description": "I'm having some credit card problems and want nitro classic. Once accepted, just send me a gift link.\n\nAcceptance Criteria\nJust a simple nitro gift link.",
         "author": "EpicCodeWizard2",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/send-me-nitro-classi?t="
     },
     {
@@ -6206,7 +6206,7 @@
         "title": "EV Charging Predictive Mapping Tool  ",
         "description": "Using Census Data for a City or Municipality we want to create a predictive number of EV chargers which will be required by 2030. Goal is to forecast current and future ev charging infrastructure demands. Inputs will be:\n\nNumber of Cars\nPopulation\nEV charger uptake Rate\n\nOutputs will be:\nPDF / Email  report and map area\n\n#can host anywhere (internal use for now) - to be used later externally potentially hosted on wordpress.\n\n3 days",
         "author": "DaveMac28",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@DaveMac28/ev-charging-predicti?t="
     },
     {
@@ -6216,7 +6216,7 @@
         "title": "EV Trip Planning tool to sit on top of Google Maps ",
         "description": "Ev drivers get very nervous about where they will be able to charge. We want to us ML / AL to give then the best route to drive based on how much much energy their EV has at the start of the journey and the end.\n\nInputs would be:\n\nCar Range\nBattery State of Charge\nCharging locations (lat / long)\nTraffic (Google API input)\n\nWant to host on a webpage (Wordpress or Google Could based).\n\nIdeally as a wordpress plugin architecture",
         "author": "DaveMac28",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@DaveMac28/ev-trip-planning-too?t="
     },
     {
@@ -6236,7 +6236,7 @@
         "title": "Automatically find and create Youtube short clips from a long-form Youtube video",
         "description": "Acceptance Criteria\nTool that receives Youtube video as input\nOutputs Youtube shorts clips based on interesting moments within the video.  Use audio synthesis / caption reading to find interesting moments.\n\nExtra credit:\nAdds captions or other interesting edits",
         "author": "aidantorrence",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/automatically-find-a?t="
     },
     {
@@ -6266,7 +6266,7 @@
         "title": "Create Ai App that surfaces positive or negative comments from our email and call comms with customers and inputs them into a spreadsheet",
         "description": "The aim is to run a large-language model (like ChatGPT3) through our CRM historic communications with customers and pull out either:\n\n(1) Positive comments from customers. E.g \"I love the solution, it helps us so much\"\n(2) Examples when customers aligned with the problem area. E.g \"Yes, this is a big problem for us!\"\n\nThe mediums to run the large-language model through are:\nEmail comms\nZoom video recordings\n\nOnce these comments are identified, they will be output into a spreadsheet with:\nCustomer Name\nCustomer comment\nWhether that comment was positive or aligned with problem area\n\nThe App would run this model each week when new email or video calls are added, and continually add them to the spreadsheet for review.",
         "author": "HHODD",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@HHODD/create-ai-app-that-s?t="
     }
 ]
