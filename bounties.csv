@@ -5056,7 +5056,7 @@ Acceptance Criteria
 Technical Details
 
 Link to Project",TirrellPayton,12 hours ago,https://replit.com/bounties/@TirrellPayton/help-me-get-my-pytho?t=
-617,$200.70,due in 14 days,AI newsletter generator,"I need an AI to curate industry specific articles that discuss trends. For this AI, I need it to target the automotive industry. It then needs to use those article to generate a email newsletter.",JeremyWilliam15,12 hours ago,https://replit.com/bounties/@JeremyWilliam15/ai-newsletter-genera?t=
+617,$200.70,due in 13 days,AI newsletter generator,"I need an AI to curate industry specific articles that discuss trends. For this AI, I need it to target the automotive industry. It then needs to use those article to generate a email newsletter.",JeremyWilliam15,12 hours ago,https://replit.com/bounties/@JeremyWilliam15/ai-newsletter-genera?t=
 618,$12.00,closed,Send me nitro classic for 1.2k cycles!,"I'm having some credit card problems and want nitro classic. Once accepted, just send me a gift link.
 
 Acceptance Criteria
@@ -5064,8 +5064,8 @@ Just a simple nitro gift link.",EpicCodeWizard2,12 hours ago,https://replit.com/
 619,$12.00,closed,Send me nitro classic for 1.2k cycles!,"I'm having some credit card problems and want nitro classic. Once accepted, just send me a gift link.
 
 Acceptance Criteria
-Just a simple nitro gift link.",EpicCodeWizard2,11 hours ago,https://replit.com/bounties/@EpicCodeWizard2/send-me-nitro-classi-1?t=
-620,$90.00,due in 7 days,EV Charging Predictive Mapping Tool  ,"Using Census Data for a City or Municipality we want to create a predictive number of EV chargers which will be required by 2030. Goal is to forecast current and future ev charging infrastructure demands. Inputs will be:
+Just a simple nitro gift link.",EpicCodeWizard2,12 hours ago,https://replit.com/bounties/@EpicCodeWizard2/send-me-nitro-classi-1?t=
+620,$90.00,due in 6 days,EV Charging Predictive Mapping Tool  ,"Using Census Data for a City or Municipality we want to create a predictive number of EV chargers which will be required by 2030. Goal is to forecast current and future ev charging infrastructure demands. Inputs will be:
 
 Number of Cars
 Population
@@ -5077,7 +5077,7 @@ PDF / Email  report and map area
 #can host anywhere (internal use for now) - to be used later externally potentially hosted on wordpress.
 
 3 days",DaveMac28,8 hours ago,https://replit.com/bounties/@DaveMac28/ev-charging-predicti?t=
-621,$45.00,due in 4 days,EV Trip Planning tool to sit on top of Google Maps ,"Ev drivers get very nervous about where they will be able to charge. We want to us ML / AL to give then the best route to drive based on how much much energy their EV has at the start of the journey and the end.
+621,$45.00,due in 3 days,EV Trip Planning tool to sit on top of Google Maps ,"Ev drivers get very nervous about where they will be able to charge. We want to us ML / AL to give then the best route to drive based on how much much energy their EV has at the start of the journey and the end.
 
 Inputs would be:
 
@@ -5092,14 +5092,14 @@ Ideally as a wordpress plugin architecture",DaveMac28,8 hours ago,https://replit
 622,$1.62,closed,Testing Bounty,"Describe the problem you are trying to solve here.
 Test
 Acceptance Criteria
-Be specific about what you want in the solution here.",user,6 hours ago,https://replit.com/bounties/@user/testing-bounty?t=
-623,$100.00,due in 13 days,Automatically find and create Youtube short clips from a long-form Youtube video,"Acceptance Criteria
+Be specific about what you want in the solution here.",user,7 hours ago,https://replit.com/bounties/@user/testing-bounty?t=
+623,$100.00,due in 12 days,Automatically find and create Youtube short clips from a long-form Youtube video,"Acceptance Criteria
 Tool that receives Youtube video as input
 Outputs Youtube shorts clips based on interesting moments within the video.  Use audio synthesis / caption reading to find interesting moments.
 
 Extra credit:
 Adds captions or other interesting edits",aidantorrence,6 hours ago,https://replit.com/bounties/@aidantorrence/automatically-find-a?t=
-624,$675.00,due in 7 days,Connect the Storeleads API to the Apollo API to choose and enrich accounts on a weekly loop ,"Acceptance Criteria
+624,$675.00,due in 6 days,Connect the Storeleads API to the Apollo API to choose and enrich accounts on a weekly loop ,"Acceptance Criteria
 User must be able to log into a screen via a password and username
 User must then be able to choose a cohort of accounts using the same filtering options that are available from Storeleads directly via a simple UI
 Once the user has chosen the cohort of customers via the storeleads API, user must be able to click ""check how many accounts"" via a button and see how many accounts there are within that cohort (in number)
@@ -5111,13 +5111,13 @@ Technical Details
 Storeleads API
 Apollo API
 Email notifications
-CSV download",HHODD,5 hours ago,https://replit.com/bounties/@HHODD/connect-the-storelea?t=
-625,$180.00,due in 4 days,Customize Installed WordPress Theme,"I'm in need of a full-stack developer to give my WordPress directory theme a custom touch. I'm looking to tailor the directory towards all businesses, so it's not for restaurants anymore. I've put together a Figma file.  It shows the currently installed pages and includes all the changes I need made.
+CSV download",HHODD,6 hours ago,https://replit.com/bounties/@HHODD/connect-the-storelea?t=
+625,$180.00,due in 3 days,Customize Installed WordPress Theme,"I'm in need of a full-stack developer to give my WordPress directory theme a custom touch. I'm looking to tailor the directory towards all businesses, so it's not for restaurants anymore. I've put together a Figma file.  It shows the currently installed pages and includes all the changes I need made.
 
 You can find the Directory theme I'm using here
 
-If you have any questions, I'd be happy to hop on a Zoom call and go through it with you. If you'd like to take a look at the backend, I'd be happy to give you access to the WordPress cPanel.",CBSAI,5 hours ago,https://replit.com/bounties/@CBSAI/customize-installed?t=
-626,$450.00,due in 4 days,Create Ai App that surfaces positive or negative comments from our email and call comms with customers and inputs them into a spreadsheet,"The aim is to run a large-language model (like ChatGPT3) through our CRM historic communications with customers and pull out either:
+If you have any questions, I'd be happy to hop on a Zoom call and go through it with you. If you'd like to take a look at the backend, I'd be happy to give you access to the WordPress cPanel.",CBSAI,6 hours ago,https://replit.com/bounties/@CBSAI/customize-installed?t=
+626,$450.00,due in 3 days,Create Ai App that surfaces positive or negative comments from our email and call comms with customers and inputs them into a spreadsheet,"The aim is to run a large-language model (like ChatGPT3) through our CRM historic communications with customers and pull out either:
 
 (1) Positive comments from customers. E.g ""I love the solution, it helps us so much""
 (2) Examples when customers aligned with the problem area. E.g ""Yes, this is a big problem for us!""
@@ -5131,4 +5131,4 @@ Customer Name
 Customer comment
 Whether that comment was positive or aligned with problem area
 
-The App would run this model each week when new email or video calls are added, and continually add them to the spreadsheet for review.",HHODD,45 minutes ago,https://replit.com/bounties/@HHODD/create-ai-app-that-s?t=
+The App would run this model each week when new email or video calls are added, and continually add them to the spreadsheet for review.",HHODD,1 hour ago,https://replit.com/bounties/@HHODD/create-ai-app-that-s?t=

@@ -6172,7 +6172,7 @@
     {
         "index": "617",
         "price": "$200.70",
-        "due_days": "due in 14 days",
+        "due_days": "due in 13 days",
         "title": "AI newsletter generator",
         "description": "I need an AI to curate industry specific articles that discuss trends. For this AI, I need it to target the automotive industry. It then needs to use those article to generate a email newsletter.",
         "author": "JeremyWilliam15",
@@ -6196,13 +6196,13 @@
         "title": "Send me nitro classic for 1.2k cycles!",
         "description": "I'm having some credit card problems and want nitro classic. Once accepted, just send me a gift link.\n\nAcceptance Criteria\nJust a simple nitro gift link.",
         "author": "EpicCodeWizard2",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/send-me-nitro-classi-1?t="
     },
     {
         "index": "620",
         "price": "$90.00",
-        "due_days": "due in 7 days",
+        "due_days": "due in 6 days",
         "title": "EV Charging Predictive Mapping Tool  ",
         "description": "Using Census Data for a City or Municipality we want to create a predictive number of EV chargers which will be required by 2030. Goal is to forecast current and future ev charging infrastructure demands. Inputs will be:\n\nNumber of Cars\nPopulation\nEV charger uptake Rate\n\nOutputs will be:\nPDF / Email  report and map area\n\n#can host anywhere (internal use for now) - to be used later externally potentially hosted on wordpress.\n\n3 days",
         "author": "DaveMac28",
@@ -6212,7 +6212,7 @@
     {
         "index": "621",
         "price": "$45.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "EV Trip Planning tool to sit on top of Google Maps ",
         "description": "Ev drivers get very nervous about where they will be able to charge. We want to us ML / AL to give then the best route to drive based on how much much energy their EV has at the start of the journey and the end.\n\nInputs would be:\n\nCar Range\nBattery State of Charge\nCharging locations (lat / long)\nTraffic (Google API input)\n\nWant to host on a webpage (Wordpress or Google Could based).\n\nIdeally as a wordpress plugin architecture",
         "author": "DaveMac28",
@@ -6226,13 +6226,13 @@
         "title": "Testing Bounty",
         "description": "Describe the problem you are trying to solve here.\nTest\nAcceptance Criteria\nBe specific about what you want in the solution here.",
         "author": "user",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@user/testing-bounty?t="
     },
     {
         "index": "623",
         "price": "$100.00",
-        "due_days": "due in 13 days",
+        "due_days": "due in 12 days",
         "title": "Automatically find and create Youtube short clips from a long-form Youtube video",
         "description": "Acceptance Criteria\nTool that receives Youtube video as input\nOutputs Youtube shorts clips based on interesting moments within the video.  Use audio synthesis / caption reading to find interesting moments.\n\nExtra credit:\nAdds captions or other interesting edits",
         "author": "aidantorrence",
@@ -6242,31 +6242,31 @@
     {
         "index": "624",
         "price": "$675.00",
-        "due_days": "due in 7 days",
+        "due_days": "due in 6 days",
         "title": "Connect the Storeleads API to the Apollo API to choose and enrich accounts on a weekly loop ",
         "description": "Acceptance Criteria\nUser must be able to log into a screen via a password and username\nUser must then be able to choose a cohort of accounts using the same filtering options that are available from Storeleads directly via a simple UI\nOnce the user has chosen the cohort of customers via the storeleads API, user must be able to click \"check how many accounts\" via a button and see how many accounts there are within that cohort (in number)\nUser must then be able to click to enrich those accounts with specific pre-defined roles via the apollo API\nOnce enriched, user must then be able to easily download those enriched accounts via CSV\nUser must then be able to input email to receive weekly updates when more accounts hit the same criteria that was chosen on the first cohort of customers (creating a weekly inflow of new accounts) via email with a link to download CSV\n\nTechnical Details\nStoreleads API\nApollo API\nEmail notifications\nCSV download",
         "author": "HHODD",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@HHODD/connect-the-storelea?t="
     },
     {
         "index": "625",
         "price": "$180.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Customize Installed WordPress Theme",
         "description": "I'm in need of a full-stack developer to give my WordPress directory theme a custom touch. I'm looking to tailor the directory towards all businesses, so it's not for restaurants anymore. I've put together a Figma file.  It shows the currently installed pages and includes all the changes I need made.\n\nYou can find the Directory theme I'm using here\n\nIf you have any questions, I'd be happy to hop on a Zoom call and go through it with you. If you'd like to take a look at the backend, I'd be happy to give you access to the WordPress cPanel.",
         "author": "CBSAI",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@CBSAI/customize-installed?t="
     },
     {
         "index": "626",
         "price": "$450.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Create Ai App that surfaces positive or negative comments from our email and call comms with customers and inputs them into a spreadsheet",
         "description": "The aim is to run a large-language model (like ChatGPT3) through our CRM historic communications with customers and pull out either:\n\n(1) Positive comments from customers. E.g \"I love the solution, it helps us so much\"\n(2) Examples when customers aligned with the problem area. E.g \"Yes, this is a big problem for us!\"\n\nThe mediums to run the large-language model through are:\nEmail comms\nZoom video recordings\n\nOnce these comments are identified, they will be output into a spreadsheet with:\nCustomer Name\nCustomer comment\nWhether that comment was positive or aligned with problem area\n\nThe App would run this model each week when new email or video calls are added, and continually add them to the spreadsheet for review.",
         "author": "HHODD",
-        "posted_time": "45 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@HHODD/create-ai-app-that-s?t="
     }
 ]
