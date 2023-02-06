@@ -6246,7 +6246,7 @@
         "title": "Connect the Storeleads API to the Apollo API to choose and enrich accounts on a weekly loop ",
         "description": "Acceptance Criteria\nUser must be able to log into a screen via a password and username\nUser must then be able to choose a cohort of accounts using the same filtering options that are available from Storeleads directly via a simple UI\nOnce the user has chosen the cohort of customers via the storeleads API, user must be able to click \"check how many accounts\" via a button and see how many accounts there are within that cohort (in number)\nUser must then be able to click to enrich those accounts with specific pre-defined roles via the apollo API\nOnce enriched, user must then be able to easily download those enriched accounts via CSV\nUser must then be able to input email to receive weekly updates when more accounts hit the same criteria that was chosen on the first cohort of customers (creating a weekly inflow of new accounts) via email with a link to download CSV\n\nTechnical Details\nStoreleads API\nApollo API\nEmail notifications\nCSV download",
         "author": "HHODD",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@HHODD/connect-the-storelea?t="
     },
     {
@@ -6296,7 +6296,17 @@
         "title": "WGSL exploding blocks for 2d image editor",
         "description": "I would love to have a WGSL written for exploding pixels for 2d image editor.\n\nAn example i found was here: https://youtu.be/hkSU3fNYXVA?t=713 created in photoshop. But would love to have a shader that I could add any image and then control:\n\nSize of the blocks\nDistance from the original location\nStarting location\nDirection of the blocks at flowing\nFrequency of the blocks\nOffset of the blocks\nRandomization slider so the blocks aren't always in the same position.",
         "author": "JoeBurfitt",
-        "posted_time": "39 minutes ago",
+        "posted_time": "54 minutes ago",
         "link": "https://replit.com/bounties/@JoeBurfitt/wgsl-exploding-block?t="
+    },
+    {
+        "index": "630",
+        "price": "$2.25",
+        "due_days": "due in 3 days",
+        "title": "Need a python crash game",
+        "description": "I'm looking for someone to recrate the odds for a popular crash game to create a python script that will print a random output for the popular online gambling game known as crash. It should have a 0 house edge with crashing at zero 3% of the time and a max multiplier of 2,500x. Basically when run the code it will give you a random crash game output. Just the point it crashes at",
+        "author": "Frrowsty",
+        "posted_time": "13 minutes ago",
+        "link": "https://replit.com/bounties/@Frrowsty/need-a-python-crash?t="
     }
 ]
