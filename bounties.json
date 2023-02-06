@@ -6216,7 +6216,7 @@
         "title": "EV Trip Planning tool to sit on top of Google Maps ",
         "description": "Ev drivers get very nervous about where they will be able to charge. We want to us ML / AL to give then the best route to drive based on how much much energy their EV has at the start of the journey and the end.\n\nInputs would be:\n\nCar Range\nBattery State of Charge\nCharging locations (lat / long)\nTraffic (Google API input)\n\nWant to host on a webpage (Wordpress or Google Could based).\n\nIdeally as a wordpress plugin architecture",
         "author": "DaveMac28",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@DaveMac28/ev-trip-planning-too?t="
     },
     {
@@ -6276,7 +6276,7 @@
         "title": "set a proxy for telethon login",
         "description": "Describe the problem you are trying to solve here.\ni have build a login by session file at python.\nbut i try to add proxy when  login\nhere is the code of login without proxy\nhttps://replit.com/@carterwu768210/scrapt-members#main.py\nand i bought proxy already (iat proxy photo)\n\nAcceptance Criteria\nBe specific about what you want in the solution here.\nhelp me to bulid a sample of use proxy to login .",
         "author": "carterwu768210",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@carterwu768210/set-a-proxy-for-tele?t="
     },
     {
@@ -6296,7 +6296,7 @@
         "title": "WGSL exploding blocks for 2d image editor",
         "description": "I would love to have a WGSL written for exploding pixels for 2d image editor.\n\nAn example i found was here: https://youtu.be/hkSU3fNYXVA?t=713 created in photoshop. But would love to have a shader that I could add any image and then control:\n\nSize of the blocks\nDistance from the original location\nStarting location\nDirection of the blocks at flowing\nFrequency of the blocks\nOffset of the blocks\nRandomization slider so the blocks aren't always in the same position.",
         "author": "JoeBurfitt",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@JoeBurfitt/wgsl-exploding-block?t="
     },
     {
@@ -6306,7 +6306,7 @@
         "title": "Need a python crash game",
         "description": "I'm looking for someone to recrate the odds for a popular crash game to create a python script that will print a random output for the popular online gambling game known as crash. It should have a 0 house edge with crashing at zero 3% of the time and a max multiplier of 2,500x. Basically when run the code it will give you a random crash game output. Just the point it crashes at",
         "author": "Frrowsty",
-        "posted_time": "48 minutes ago",
+        "posted_time": "58 minutes ago",
         "link": "https://replit.com/bounties/@Frrowsty/need-a-python-crash?t="
     }
 ]
