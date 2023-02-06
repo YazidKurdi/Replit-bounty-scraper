@@ -5092,13 +5092,13 @@ Ideally as a wordpress plugin architecture",DaveMac28,3 hours ago,https://replit
 622,$1.62,closed,Testing Bounty,"Describe the problem you are trying to solve here.
 Test
 Acceptance Criteria
-Be specific about what you want in the solution here.",user,1 hour ago,https://replit.com/bounties/@user/testing-bounty?t=
+Be specific about what you want in the solution here.",user,2 hours ago,https://replit.com/bounties/@user/testing-bounty?t=
 623,$100.00,due in 13 days,Automatically find and create Youtube short clips from a long-form Youtube video,"Acceptance Criteria
 Tool that receives Youtube video as input
 Outputs Youtube shorts clips based on interesting moments within the video.  Use audio synthesis / caption reading to find interesting moments.
 
 Extra credit:
-Adds captions or other interesting edits",aidantorrence,1 hour ago,https://replit.com/bounties/@aidantorrence/automatically-find-a?t=
+Adds captions or other interesting edits",aidantorrence,2 hours ago,https://replit.com/bounties/@aidantorrence/automatically-find-a?t=
 624,$675.00,due in 7 days,Connect the Storeleads API to the Apollo API to choose and enrich accounts on a weekly loop ,"Acceptance Criteria
 User must be able to log into a screen via a password and username
 User must then be able to choose a cohort of accounts using the same filtering options that are available from Storeleads directly via a simple UI
@@ -5111,9 +5111,9 @@ Technical Details
 Storeleads API
 Apollo API
 Email notifications
-CSV download",HHODD,36 minutes ago,https://replit.com/bounties/@HHODD/connect-the-storelea?t=
+CSV download",HHODD,50 minutes ago,https://replit.com/bounties/@HHODD/connect-the-storelea?t=
 625,$180.00,due in 4 days,Customize Installed WordPress Theme,"I'm in need of a full-stack developer to give my WordPress directory theme a custom touch. I'm looking to tailor the directory towards all businesses, so it's not for restaurants anymore. I've put together a Figma file.  It shows the currently installed pages and includes all the changes I need made.
 
 You can find the Directory theme I'm using here
 
-If you have any questions, I'd be happy to hop on a Zoom call and go through it with you. If you'd like to take a look at the backend, I'd be happy to give you access to the WordPress cPanel.",CBSAI,30 minutes ago,https://replit.com/bounties/@CBSAI/customize-installed?t=
+If you have any questions, I'd be happy to hop on a Zoom call and go through it with you. If you'd like to take a look at the backend, I'd be happy to give you access to the WordPress cPanel.",CBSAI,43 minutes ago,https://replit.com/bounties/@CBSAI/customize-installed?t=
