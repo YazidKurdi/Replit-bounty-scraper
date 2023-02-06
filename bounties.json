@@ -6246,7 +6246,7 @@
         "title": "Connect the Storeleads API to the Apollo API to choose and enrich accounts on a weekly loop ",
         "description": "Acceptance Criteria\nUser must be able to log into a screen via a password and username\nUser must then be able to choose a cohort of accounts using the same filtering options that are available from Storeleads directly via a simple UI\nOnce the user has chosen the cohort of customers via the storeleads API, user must be able to click \"check how many accounts\" via a button and see how many accounts there are within that cohort (in number)\nUser must then be able to click to enrich those accounts with specific pre-defined roles via the apollo API\nOnce enriched, user must then be able to easily download those enriched accounts via CSV\nUser must then be able to input email to receive weekly updates when more accounts hit the same criteria that was chosen on the first cohort of customers (creating a weekly inflow of new accounts) via email with a link to download CSV\n\nTechnical Details\nStoreleads API\nApollo API\nEmail notifications\nCSV download",
         "author": "HHODD",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@HHODD/connect-the-storelea?t="
     },
     {
@@ -6306,7 +6306,27 @@
         "title": "Need a python crash game",
         "description": "I'm looking for someone to recrate the odds for a popular crash game to create a python script that will print a random output for the popular online gambling game known as crash. It should have a 0 house edge with crashing at zero 3% of the time and a max multiplier of 2,500x. Basically when run the code it will give you a random crash game output. Just the point it crashes at",
         "author": "Frrowsty",
-        "posted_time": "58 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@Frrowsty/need-a-python-crash?t="
+    },
+    {
+        "index": "631",
+        "price": "$10.00",
+        "due_days": "due in 13 days",
+        "title": "Access to Google Bard ",
+        "description": "Acceptance Criteria\nI would like to get access to google bard.\nBonus points if it's an api access",
+        "author": "aidantorrence",
+        "posted_time": "14 minutes ago",
+        "link": "https://replit.com/bounties/@aidantorrence/access-to-google-bar?t="
+    },
+    {
+        "index": "632",
+        "price": "$4.50",
+        "due_days": "due in 21 days",
+        "title": "Create a Graph QL Web Application that is a Dashboard for Me (read Desc)",
+        "description": "Description\nI would like a Graph QL dashboard website made using Graph QL and HTML. It will have the following features:\nDisplay the amount of runs, likes, and tips of my most descent Repls, along with a \u201ctop Repls\u201d section displaying the statistics of my top or \u201cmost popular\u201d Repls (with the most stats).\n\nAcceptance Criteria\nMust have some style to it and look nice :)\nMust have all the features as posted above.\nI do want your applications to be over the top, include some of your past work, experience, why I should accept you, your past work with this topic, and more!\n\nOther\nContact will strictly be via email ([email\u00a0protected]).\n\nIf you think the price is off I am willing to raise it a few hundreds.",
+        "author": "EarthRulerr",
+        "posted_time": "8 minutes ago",
+        "link": "https://replit.com/bounties/@EarthRulerr/create-a-graph-ql-we?t="
     }
 ]
