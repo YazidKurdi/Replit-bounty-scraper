@@ -6376,7 +6376,7 @@
         "title": "Discord Username script",
         "description": "I need a script that can tell me the usernames of everyone with a certain role in a discord server",
         "author": "EdenCoder100",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@EdenCoder100/discord-username-scr?t="
     },
     {
@@ -7006,7 +7006,7 @@
         "title": "Bing/Edge AI access",
         "description": "Acceptance Criteria\nI want Bing Chat AI access",
         "author": "aidantorrence",
-        "posted_time": "23 minutes ago",
+        "posted_time": "35 minutes ago",
         "link": "https://replit.com/bounties/@aidantorrence/bingedge-ai-access?t="
     },
     {
@@ -7016,11 +7016,21 @@
         "title": "Library function doesnt send event to nostr relay",
         "description": "I want to send an event to nostr relay using a nodejs library https://github.com/jb55/nostr-js.\nAcceptance Criteria\nSuccessful sending an event to a pool of nostr relay.\nTechnical Details\nNostr is a new protocol creating an alternative twitter. I am using a library https://github.com/jb55/nostr-js. I want to be able to send an event to a relay.\nTo get an intro to Nostr, check out this page. https://github.com/nostr-protocol/nips/blob/master/01.md\nLink to Project\nhttps://replit.com/@MikeRiss/nostrTest#nostr-js/trial.js. I started with modifying the example from the library. I can send the event but I can't see anything when I query the data on the relay.",
         "author": "MikeRiss",
-        "posted_time": "23 minutes ago",
+        "posted_time": "34 minutes ago",
         "link": "https://replit.com/bounties/@MikeRiss/library-function-doe?t="
     },
     {
         "index": "702",
+        "price": "$22.50",
+        "due_days": "closed",
+        "title": "Anime Site html,css and js",
+        "description": "Anime site html,css and js",
+        "author": "toshiro9117",
+        "posted_time": "Claimed by",
+        "link": ""
+    },
+    {
+        "index": "703",
         "price": "$22.50",
         "due_days": "closed",
         "title": "Anime Site html,css and js",
