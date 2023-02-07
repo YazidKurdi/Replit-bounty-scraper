@@ -6306,7 +6306,7 @@
         "title": "Need a python crash game",
         "description": "I'm looking for someone to recrate the odds for a popular crash game to create a python script that will print a random output for the popular online gambling game known as crash. It should have a 0 house edge with crashing at zero 3% of the time and a max multiplier of 2,500x. Basically when run the code it will give you a random crash game output. Just the point it crashes at",
         "author": "Frrowsty",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@Frrowsty/need-a-python-crash?t="
     },
     {
@@ -6316,7 +6316,7 @@
         "title": "Access to Google Bard ",
         "description": "Acceptance Criteria\nI would like to get access to google bard.\nBonus points if it's an api access",
         "author": "aidantorrence",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/access-to-google-bar?t="
     },
     {
@@ -6326,7 +6326,7 @@
         "title": "Create a Graph QL Web Application that is a Dashboard for Me (read Desc)",
         "description": "Description\nI would like a Graph QL dashboard website made using Graph QL and HTML. It will have the following features:\nDisplay the amount of runs, likes, and tips of my most descent Repls, along with a \u201ctop Repls\u201d section displaying the statistics of my top or \u201cmost popular\u201d Repls (with the most stats).\n\nAcceptance Criteria\nMust have some style to it and look nice :)\nMust have all the features as posted above.\nI do want your applications to be over the top, include some of your past work, experience, why I should accept you, your past work with this topic, and more!\n\nOther\nContact will strictly be via email ([email\u00a0protected]).\n\nIf you think the price is off I am willing to raise it a few hundreds.",
         "author": "EarthRulerr",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@EarthRulerr/create-a-graph-ql-we?t="
     },
     {
@@ -6386,7 +6386,7 @@
         "title": "Recreate text reveal animation",
         "description": "I'm looking to recreate the text reveal animation found at https://rauno.me/projects\n\nSome helpful libraries:\nhttps://github.com/camwiegert/baffle\n\nAcceptance Criteria\nReact component(s)\nWritten in TypeScript\nNo outside libraries (except for framer-motion)\nIncludes both text reveal and line animations\nDemo a page that looks similar",
         "author": "tehkaiyu",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@tehkaiyu/recreate-text-reveal?t="
     },
     {
@@ -6541,6 +6541,16 @@
     },
     {
         "index": "654",
+        "price": "$22.50",
+        "due_days": "closed",
+        "title": "RDP for github",
+        "description": "RDP for github",
+        "author": "toshiro9117",
+        "posted_time": "Claimed by",
+        "link": ""
+    },
+    {
+        "index": "655",
         "price": "$22.50",
         "due_days": "closed",
         "title": "RDP for github",
