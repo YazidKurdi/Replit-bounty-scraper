@@ -5141,7 +5141,7 @@ and i bought proxy already (iat proxy photo)
 
 Acceptance Criteria
 Be specific about what you want in the solution here.
-help me to bulid a sample of use proxy to login .",carterwu768210,10 hours ago,https://replit.com/bounties/@carterwu768210/set-a-proxy-for-tele?t=
+help me to bulid a sample of use proxy to login .",carterwu768210,12 hours ago,https://replit.com/bounties/@carterwu768210/set-a-proxy-for-tele?t=
 628,$450.00,due in 3 days,AI that flags sus and sketch Terms of Service and Privacy Policies,"I'm always wary of terms of service (ToS) and privacy policies (PP), and I'd like to know if there are any red flags I should be aware of before agreeing to them.
 
 Specifically if they're collecting any data that I might not want them to and certainly if they're sharing it with third-parties or profiting without my knowledge.
@@ -5150,7 +5150,7 @@ I would like to be able to use a web service where I can copy and paste the enti
 
 E.g., a GPT-generated response that says I should be aware of X, Y, and Z sketchy terms in the agreement, and maybe here's why I might not want to proceed.
 
-Regarding future development, once those issues are flagged, there's a lot more development that could happen to improve this service in subsequent development, e.g., provide copy-an...",ChristianUlstru,6 hours ago,https://replit.com/bounties/@ChristianUlstru/ai-that-flags-sus-an?t=
+Regarding future development, once those issues are flagged, there's a lot more development that could happen to improve this service in subsequent development, e.g., provide copy-an...",ChristianUlstru,7 hours ago,https://replit.com/bounties/@ChristianUlstru/ai-that-flags-sus-an?t=
 629,$45.00,due in 13 days,WGSL exploding blocks for 2d image editor,"I would love to have a WGSL written for exploding pixels for 2d image editor.
 
 An example i found was here: https://youtu.be/hkSU3fNYXVA?t=713 created in photoshop. But would love to have a shader that I could add any image and then control:
@@ -5161,11 +5161,11 @@ Starting location
 Direction of the blocks at flowing
 Frequency of the blocks
 Offset of the blocks
-Randomization slider so the blocks aren't always in the same position.",JoeBurfitt,4 hours ago,https://replit.com/bounties/@JoeBurfitt/wgsl-exploding-block?t=
-630,$2.25,due in 3 days,Need a python crash game,"I'm looking for someone to recrate the odds for a popular crash game to create a python script that will print a random output for the popular online gambling game known as crash. It should have a 0 house edge with crashing at zero 3% of the time and a max multiplier of 2,500x. Basically when run the code it will give you a random crash game output. Just the point it crashes at",Frrowsty,3 hours ago,https://replit.com/bounties/@Frrowsty/need-a-python-crash?t=
+Randomization slider so the blocks aren't always in the same position.",JoeBurfitt,5 hours ago,https://replit.com/bounties/@JoeBurfitt/wgsl-exploding-block?t=
+630,$2.25,due in 3 days,Need a python crash game,"I'm looking for someone to recrate the odds for a popular crash game to create a python script that will print a random output for the popular online gambling game known as crash. It should have a 0 house edge with crashing at zero 3% of the time and a max multiplier of 2,500x. Basically when run the code it will give you a random crash game output. Just the point it crashes at",Frrowsty,4 hours ago,https://replit.com/bounties/@Frrowsty/need-a-python-crash?t=
 631,$10.00,due in 13 days,Access to Google Bard ,"Acceptance Criteria
 I would like to get access to google bard.
-Bonus points if it's an api access",aidantorrence,2 hours ago,https://replit.com/bounties/@aidantorrence/access-to-google-bar?t=
+Bonus points if it's an api access",aidantorrence,3 hours ago,https://replit.com/bounties/@aidantorrence/access-to-google-bar?t=
 632,$4.50,due in 21 days,Create a Graph QL Web Application that is a Dashboard for Me (read Desc),"Description
 I would like a Graph QL dashboard website made using Graph QL and HTML. It will have the following features:
 Display the amount of runs, likes, and tips of my most descent Repls, along with a “top Repls” section displaying the statistics of my top or “most popular” Repls (with the most stats).
@@ -5178,7 +5178,7 @@ I do want your applications to be over the top, include some of your past work, 
 Other
 Contact will strictly be via email ([email protected]).
 
-If you think the price is off I am willing to raise it a few hundreds.",EarthRulerr,2 hours ago,https://replit.com/bounties/@EarthRulerr/create-a-graph-ql-we?t=
+If you think the price is off I am willing to raise it a few hundreds.",EarthRulerr,3 hours ago,https://replit.com/bounties/@EarthRulerr/create-a-graph-ql-we?t=
 633,$99.00,due in 4 days,Build an Android component which lets you draw over an ImageView. Must support Pinch to zoom and drag,"A view where users can draw over an image using touch. Also, must work accurately with pinch to zoom
 Acceptance Criteria
 Should work something like cleanup pictures feature in the clipdrop app. Just the painting over the images and pinch to zoom.
@@ -5188,6 +5188,20 @@ No drawing outside the image view.
 
 When you apply, please specify how would you go about approaching the problem. A short one or two lines.
 
-Be specific about what you want in the solution here.",MavNow,1 hour ago,https://replit.com/bounties/@MavNow/build-an-android-com?t=
-634,$22.50,closed,RDP for github,RDP for github,42fff22dd,27 minutes ago,https://replit.com/bounties/@42fff22dd/rdp-for-github?t=
-635,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",42fff22dd,3 minutes ago,https://replit.com/bounties/@42fff22dd/anime-site-htmlcss-a?t=
+Be specific about what you want in the solution here.",MavNow,3 hours ago,https://replit.com/bounties/@MavNow/build-an-android-com?t=
+634,$22.50,closed,RDP for github,RDP for github,42fff22dd,2 hours ago,https://replit.com/bounties/@42fff22dd/rdp-for-github?t=
+635,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",42fff22dd,1 hour ago,https://replit.com/bounties/@42fff22dd/anime-site-htmlcss-a?t=
+636,$500.40,due in 6 days,Add authentication and stripe support to web app,"Acceptance Criteria
+Features to be implemented to web app:
+
+Two factor authentication (SMS)
+When user signs up through email/password, SMS message is sent to verify user - user cannot proceed to app until phone number is verified, when phone number is verified, automatically proceed to app, make a db record i.e (isphonenumber verified)
+
+Sign up
+POST user account for Google provider in db, email/password provider already recording users in db (layout already built) - when user signs up, direct them to onboarding questions when questions are all answered, direct them to main app (question details below)
+
+Sign in
+Create db lookup for email/password - if user exists in db, direct them to the app (layout already built)
+
+Device limit per account
+Track the devices that a user is logged in, and cap it at 3 devices per account, if the user tries to log in on a 4th device, return the error message “no more than 3 devices allowed per account - log out of a device to proceed” next to it  and show ...",juancaruiz,48 minutes ago,https://replit.com/bounties/@juancaruiz/add-authentication-a?t=
