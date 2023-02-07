@@ -5216,7 +5216,7 @@ React component(s)
 Written in TypeScript
 No outside libraries (except for framer-motion)
 Includes both text reveal and line animations
-Demo a page that looks similar",tehkaiyu,14 hours ago,https://replit.com/bounties/@tehkaiyu/recreate-text-reveal?t=
+Demo a page that looks similar",tehkaiyu,15 hours ago,https://replit.com/bounties/@tehkaiyu/recreate-text-reveal?t=
 639,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 640,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 641,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
@@ -5250,7 +5250,7 @@ import { chunk, compact, orderBy } from ""lodash""; // VALID
 However, it should NOT list those which are from instances:
 toJSON, valueOf, value, etc are shown in the docs ( https://lodash.com/docs/4.17.15#prototype-value ), however, they are attached to an instance not directly from the import.
 
-import { toJSON, valueOf, value } from ""lodash"" // INVALID/ERROR: these do not exist...",Glavin001,11 hours ago,https://replit.com/bounties/@Glavin001/generate-list-of-aut?t=
+import { toJSON, valueOf, value } from ""lodash"" // INVALID/ERROR: these do not exist...",Glavin001,12 hours ago,https://replit.com/bounties/@Glavin001/generate-list-of-aut?t=
 650,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 651,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 652,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
@@ -5305,7 +5305,7 @@ I can always raise the cycle amount if this is not enough, please just let me kn
 
 Acceptance Criteria - a conversational, quality, consistent, believable chatbot based on the content on those two websites
 
-Technical Details - ideally the interface could work through both text (ideally whatsapp) and web. i understand text might not be possible but wanted to at least ask :)",blasgm,2 hours ago,https://replit.com/bounties/@blasgm/2-custom-bots?t=
+Technical Details - ideally the interface could work through both text (ideally whatsapp) and web. i understand text might not be possible but wanted to at least ask :)",blasgm,3 hours ago,https://replit.com/bounties/@blasgm/2-custom-bots?t=
 692,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 693,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 694,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
@@ -5315,7 +5315,7 @@ Technical Details - ideally the interface could work through both text (ideally 
 698,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 699,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",toshiro9117,Claimed by,
 700,$20.00,due in 13 days,Bing/Edge AI access,"Acceptance Criteria
-I want Bing Chat AI access",aidantorrence,35 minutes ago,https://replit.com/bounties/@aidantorrence/bingedge-ai-access?t=
+I want Bing Chat AI access",aidantorrence,42 minutes ago,https://replit.com/bounties/@aidantorrence/bingedge-ai-access?t=
 701,$4.50,due in 3 days,Library function doesnt send event to nostr relay,"I want to send an event to nostr relay using a nodejs library https://github.com/jb55/nostr-js.
 Acceptance Criteria
 Successful sending an event to a pool of nostr relay.
@@ -5323,6 +5323,7 @@ Technical Details
 Nostr is a new protocol creating an alternative twitter. I am using a library https://github.com/jb55/nostr-js. I want to be able to send an event to a relay.
 To get an intro to Nostr, check out this page. https://github.com/nostr-protocol/nips/blob/master/01.md
 Link to Project
-https://replit.com/@MikeRiss/nostrTest#nostr-js/trial.js. I started with modifying the example from the library. I can send the event but I can't see anything when I query the data on the relay.",MikeRiss,34 minutes ago,https://replit.com/bounties/@MikeRiss/library-function-doe?t=
+https://replit.com/@MikeRiss/nostrTest#nostr-js/trial.js. I started with modifying the example from the library. I can send the event but I can't see anything when I query the data on the relay.",MikeRiss,41 minutes ago,https://replit.com/bounties/@MikeRiss/library-function-doe?t=
 702,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",toshiro9117,Claimed by,
 703,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",toshiro9117,Claimed by,
+704,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",toshiro9117,Claimed by,

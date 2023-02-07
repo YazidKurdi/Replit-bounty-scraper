@@ -6386,7 +6386,7 @@
         "title": "Recreate text reveal animation",
         "description": "I'm looking to recreate the text reveal animation found at https://rauno.me/projects\n\nSome helpful libraries:\nhttps://github.com/camwiegert/baffle\n\nAcceptance Criteria\nReact component(s)\nWritten in TypeScript\nNo outside libraries (except for framer-motion)\nIncludes both text reveal and line animations\nDemo a page that looks similar",
         "author": "tehkaiyu",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@tehkaiyu/recreate-text-reveal?t="
     },
     {
@@ -6496,7 +6496,7 @@
         "title": "Generate list of auto-complete import options from parsing TypeScript definitions/AST",
         "description": "FYI: First small task of much more upcoming work on this project.\nI have a work-in-progress solution which does not yet work for all cases. I would like help to complete it so I can focus on other parts of my app.\n\nProblem Description\nI want to enumerate the possible auto-complete import options for a package given the package's TypeScript definitions (e.g. d.ts files from DefinitelyTyped).\n\nExample: Lodash package\nSee https://lodash.com/docs/4.17.15\n\nFor example:\nimport { /* HERE */ } from \"lodash\";\n\nShould list those shown in the documentation: https://lodash.com/docs/4.17.15#orderBy\nchunk\ncompact\n...\norderBy\n\nimport { chunk, compact, orderBy } from \"lodash\"; // VALID\n\nHowever, it should NOT list those which are from instances:\ntoJSON, valueOf, value, etc are shown in the docs ( https://lodash.com/docs/4.17.15#prototype-value ), however, they are attached to an instance not directly from the import.\n\nimport { toJSON, valueOf, value } from \"lodash\" // INVALID/ERROR: these do not exist...",
         "author": "Glavin001",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@Glavin001/generate-list-of-aut?t="
     },
     {
@@ -6916,7 +6916,7 @@
         "title": "2 custom bots",
         "description": "- i'd like 2 custom bots for my two websites - ltcwrk.com and blas.com\n\nAcceptance Criteria - a conversational, quality, consistent, believable chatbot based on the content on those two websites\n\nTechnical Details - ideally the interface could work through both text (ideally whatsapp) and web. i understand text might not be possible but wanted to at least ask :)",
         "author": "blasgm",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@blasgm/2-custom-bots?t="
     },
     {
@@ -7006,7 +7006,7 @@
         "title": "Bing/Edge AI access",
         "description": "Acceptance Criteria\nI want Bing Chat AI access",
         "author": "aidantorrence",
-        "posted_time": "35 minutes ago",
+        "posted_time": "42 minutes ago",
         "link": "https://replit.com/bounties/@aidantorrence/bingedge-ai-access?t="
     },
     {
@@ -7016,7 +7016,7 @@
         "title": "Library function doesnt send event to nostr relay",
         "description": "I want to send an event to nostr relay using a nodejs library https://github.com/jb55/nostr-js.\nAcceptance Criteria\nSuccessful sending an event to a pool of nostr relay.\nTechnical Details\nNostr is a new protocol creating an alternative twitter. I am using a library https://github.com/jb55/nostr-js. I want to be able to send an event to a relay.\nTo get an intro to Nostr, check out this page. https://github.com/nostr-protocol/nips/blob/master/01.md\nLink to Project\nhttps://replit.com/@MikeRiss/nostrTest#nostr-js/trial.js. I started with modifying the example from the library. I can send the event but I can't see anything when I query the data on the relay.",
         "author": "MikeRiss",
-        "posted_time": "34 minutes ago",
+        "posted_time": "41 minutes ago",
         "link": "https://replit.com/bounties/@MikeRiss/library-function-doe?t="
     },
     {
@@ -7031,6 +7031,16 @@
     },
     {
         "index": "703",
+        "price": "$22.50",
+        "due_days": "closed",
+        "title": "Anime Site html,css and js",
+        "description": "Anime site html,css and js",
+        "author": "toshiro9117",
+        "posted_time": "Claimed by",
+        "link": ""
+    },
+    {
+        "index": "704",
         "price": "$22.50",
         "due_days": "closed",
         "title": "Anime Site html,css and js",
