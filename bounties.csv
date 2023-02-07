@@ -5205,7 +5205,7 @@ Create db lookup for email/password - if user exists in db, direct them to the a
 
 Device limit per account
 Track the devices that a user is logged in, and cap it at 3 devices per account, if the user tries to log in on a 4th device, return the error message “no more than 3 devices allowed per account - log out of a device to proceed” next to it  and show ...",juancaruiz,20 hours ago,https://replit.com/bounties/@juancaruiz/add-authentication-a?t=
-637,$0.90,closed,Discord Username script,I need a script that can tell me the usernames of everyone with a certain role in a discord server,EdenCoder100,18 hours ago,https://replit.com/bounties/@EdenCoder100/discord-username-scr?t=
+637,$0.90,closed,Discord Username script,I need a script that can tell me the usernames of everyone with a certain role in a discord server,EdenCoder100,19 hours ago,https://replit.com/bounties/@EdenCoder100/discord-username-scr?t=
 638,$45.00,due in 12 days,Recreate text reveal animation,"I'm looking to recreate the text reveal animation found at https://rauno.me/projects
 
 Some helpful libraries:
@@ -5216,7 +5216,7 @@ React component(s)
 Written in TypeScript
 No outside libraries (except for framer-motion)
 Includes both text reveal and line animations
-Demo a page that looks similar",tehkaiyu,17 hours ago,https://replit.com/bounties/@tehkaiyu/recreate-text-reveal?t=
+Demo a page that looks similar",tehkaiyu,18 hours ago,https://replit.com/bounties/@tehkaiyu/recreate-text-reveal?t=
 639,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 640,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 641,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
@@ -5250,7 +5250,7 @@ import { chunk, compact, orderBy } from ""lodash""; // VALID
 However, it should NOT list those which are from instances:
 toJSON, valueOf, value, etc are shown in the docs ( https://lodash.com/docs/4.17.15#prototype-value ), however, they are attached to an instance not directly from the import.
 
-import { toJSON, valueOf, value } from ""lodash"" // INVALID/ERROR: these do not exist...",Glavin001,14 hours ago,https://replit.com/bounties/@Glavin001/generate-list-of-aut?t=
+import { toJSON, valueOf, value } from ""lodash"" // INVALID/ERROR: these do not exist...",Glavin001,15 hours ago,https://replit.com/bounties/@Glavin001/generate-list-of-aut?t=
 650,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 651,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 652,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
@@ -5305,7 +5305,7 @@ I can always raise the cycle amount if this is not enough, please just let me kn
 
 Acceptance Criteria - a conversational, quality, consistent, believable chatbot based on the content on those two websites
 
-Technical Details - ideally the interface could work through both text (ideally whatsapp) and web. i understand text might not be possible but wanted to at least ask :)",blasgm,5 hours ago,https://replit.com/bounties/@blasgm/2-custom-bots?t=
+Technical Details - ideally the interface could work through both text (ideally whatsapp) and web. i understand text might not be possible but wanted to at least ask :)",blasgm,6 hours ago,https://replit.com/bounties/@blasgm/2-custom-bots?t=
 692,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 693,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 694,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
@@ -5315,7 +5315,7 @@ Technical Details - ideally the interface could work through both text (ideally 
 698,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 699,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",toshiro9117,Claimed by,
 700,$20.00,due in 13 days,Bing/Edge AI access,"Acceptance Criteria
-I want Bing Chat AI access",aidantorrence,3 hours ago,https://replit.com/bounties/@aidantorrence/bingedge-ai-access?t=
+I want Bing Chat AI access",aidantorrence,4 hours ago,https://replit.com/bounties/@aidantorrence/bingedge-ai-access?t=
 701,$4.50,due in 3 days,Library function doesnt send event to nostr relay,"I want to send an event to nostr relay using a nodejs library https://github.com/jb55/nostr-js.
 Acceptance Criteria
 Successful sending an event to a pool of nostr relay.
@@ -5323,7 +5323,7 @@ Technical Details
 Nostr is a new protocol creating an alternative twitter. I am using a library https://github.com/jb55/nostr-js. I want to be able to send an event to a relay.
 To get an intro to Nostr, check out this page. https://github.com/nostr-protocol/nips/blob/master/01.md
 Link to Project
-https://replit.com/@MikeRiss/nostrTest#nostr-js/trial.js. I started with modifying the example from the library. I can send the event but I can't see anything when I query the data on the relay.",MikeRiss,3 hours ago,https://replit.com/bounties/@MikeRiss/library-function-doe?t=
+https://replit.com/@MikeRiss/nostrTest#nostr-js/trial.js. I started with modifying the example from the library. I can send the event but I can't see anything when I query the data on the relay.",MikeRiss,4 hours ago,https://replit.com/bounties/@MikeRiss/library-function-doe?t=
 702,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",toshiro9117,Claimed by,
 703,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",toshiro9117,Claimed by,
 704,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",toshiro9117,Claimed by,
@@ -5341,9 +5341,9 @@ Ability to mint new NFTs
 The ability to accept different file formats for minting
 Ability to search for NFTs based on category
 
-The final product should have a user-friendly interface and be secure, scalable, and fast. Please provide examples of similar projects you have worked on and why you are the best fit for this project.",TomHumber,1 hour ago,https://replit.com/bounties/@TomHumber/create-a-nft-marketp?t=
+The final product should have a user-friendly interface and be secure, scalable, and fast. Please provide examples of similar projects you have worked on and why you are the best fit for this project.",TomHumber,2 hours ago,https://replit.com/bounties/@TomHumber/create-a-nft-marketp?t=
 712,$0.90,due in 1 month,bing/edge browser for school chromebooks,"Describe the problem you are trying to solve here.
 I want to be able to use blocked websites Snapchat, WhatsApp, etc...
 Acceptance Criteria
 Be specific about what you want in the solution here.
-must be an embedded browser with the latest version of bing/edge",kalsin1345,24 minutes ago,https://replit.com/bounties/@kalsin1345/bingedge-browser-for?t=
+must be an embedded browser with the latest version of bing/edge",kalsin1345,41 minutes ago,https://replit.com/bounties/@kalsin1345/bingedge-browser-for?t=
