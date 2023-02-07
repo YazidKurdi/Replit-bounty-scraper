@@ -6366,7 +6366,7 @@
         "title": "Add authentication and stripe support to web app",
         "description": "Acceptance Criteria\nFeatures to be implemented to web app:\n\nTwo factor authentication (SMS)\nWhen user signs up through email/password, SMS message is sent to verify user - user cannot proceed to app until phone number is verified, when phone number is verified, automatically proceed to app, make a db record i.e (isphonenumber verified)\n\nSign up\nPOST user account for Google provider in db, email/password provider already recording users in db (layout already built) - when user signs up, direct them to onboarding questions when questions are all answered, direct them to main app (question details below)\n\nSign in\nCreate db lookup for email/password - if user exists in db, direct them to the app (layout already built)\n\nDevice limit per account\nTrack the devices that a user is logged in, and cap it at 3 devices per account, if the user tries to log in on a 4th device, return the error message \u201cno more than 3 devices allowed per account - log out of a device to proceed\u201d next to it  and show ...",
         "author": "juancaruiz",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@juancaruiz/add-authentication-a?t="
     },
     {
@@ -6776,7 +6776,7 @@
         "title": "Discord Giveaway Bot",
         "description": "Discord Giveaway Bot\nHey! I need a giveaway bot created. My criteria is:\nUses Python (Nextcord or Discord.py)\nUses slash commands\nIMPORTANT: Uses HTTP interactions, not gateway - You may need to set up a WEB SERVER or use a HTTP interaction library to create this.\nEntries to the giveaway should use buttons, should function similarly to GiveawayBot\nCommands: /start, /end, /reroll\nGiveaways should still end as usual if the bot restarts. A MongoDB database would be preferred, however if this is not feasible then use JSON\n\nI can always raise the cycle amount if this is not enough, please just let me know in your application!",
         "author": "elijah0x",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@elijah0x/discord-giveaway-bot?t="
     },
     {
@@ -6886,7 +6886,17 @@
         "title": "Use gpt-3 / chatGPT / langchain / gptindex to build a document qa web app",
         "description": "Looking for someone to make a simple web app that can qa against my documents using gpt-3 / chatgpt / langchain / gpt index",
         "author": "krrishdholakia",
-        "posted_time": "23 minutes ago",
+        "posted_time": "36 minutes ago",
         "link": "https://replit.com/bounties/@krrishdholakia/use-gpt-3-chatgpt-la?t="
+    },
+    {
+        "index": "689",
+        "price": "$22.50",
+        "due_days": "closed",
+        "title": "RDP for github",
+        "description": "RDP for github",
+        "author": "toshiro9117",
+        "posted_time": "Claimed by",
+        "link": ""
     }
 ]
