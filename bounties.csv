@@ -5162,10 +5162,10 @@ Direction of the blocks at flowing
 Frequency of the blocks
 Offset of the blocks
 Randomization slider so the blocks aren't always in the same position.",JoeBurfitt,11 hours ago,https://replit.com/bounties/@JoeBurfitt/wgsl-exploding-block?t=
-630,$2.25,due in 2 days,Need a python crash game,"I'm looking for someone to recrate the odds for a popular crash game to create a python script that will print a random output for the popular online gambling game known as crash. It should have a 0 house edge with crashing at zero 3% of the time and a max multiplier of 2,500x. Basically when run the code it will give you a random crash game output. Just the point it crashes at",Frrowsty,15 hours ago,https://replit.com/bounties/@Frrowsty/need-a-python-crash?t=
+630,$2.25,due in 2 days,Need a python crash game,"I'm looking for someone to recrate the odds for a popular crash game to create a python script that will print a random output for the popular online gambling game known as crash. It should have a 0 house edge with crashing at zero 3% of the time and a max multiplier of 2,500x. Basically when run the code it will give you a random crash game output. Just the point it crashes at",Frrowsty,16 hours ago,https://replit.com/bounties/@Frrowsty/need-a-python-crash?t=
 631,$10.00,due in 12 days,Access to Google Bard ,"Acceptance Criteria
 I would like to get access to google bard.
-Bonus points if it's an api access",aidantorrence,14 hours ago,https://replit.com/bounties/@aidantorrence/access-to-google-bar?t=
+Bonus points if it's an api access",aidantorrence,15 hours ago,https://replit.com/bounties/@aidantorrence/access-to-google-bar?t=
 632,$4.50,due in 20 days,Create a Graph QL Web Application that is a Dashboard for Me (read Desc),"Description
 I would like a Graph QL dashboard website made using Graph QL and HTML. It will have the following features:
 Display the amount of runs, likes, and tips of my most descent Repls, along with a “top Repls” section displaying the statistics of my top or “most popular” Repls (with the most stats).
@@ -5178,7 +5178,7 @@ I do want your applications to be over the top, include some of your past work, 
 Other
 Contact will strictly be via email ([email protected]).
 
-If you think the price is off I am willing to raise it a few hundreds.",EarthRulerr,14 hours ago,https://replit.com/bounties/@EarthRulerr/create-a-graph-ql-we?t=
+If you think the price is off I am willing to raise it a few hundreds.",EarthRulerr,15 hours ago,https://replit.com/bounties/@EarthRulerr/create-a-graph-ql-we?t=
 633,$99.00,due in 3 days,Build an Android component which lets you draw over an ImageView. Must support Pinch to zoom and drag,"A view where users can draw over an image using touch. Also, must work accurately with pinch to zoom
 Acceptance Criteria
 Should work something like cleanup pictures feature in the clipdrop app. Just the painting over the images and pinch to zoom.
@@ -5205,7 +5205,7 @@ Create db lookup for email/password - if user exists in db, direct them to the a
 
 Device limit per account
 Track the devices that a user is logged in, and cap it at 3 devices per account, if the user tries to log in on a 4th device, return the error message “no more than 3 devices allowed per account - log out of a device to proceed” next to it  and show ...",juancaruiz,12 hours ago,https://replit.com/bounties/@juancaruiz/add-authentication-a?t=
-637,$0.90,closed,Discord Username script,I need a script that can tell me the usernames of everyone with a certain role in a discord server,EdenCoder100,9 hours ago,https://replit.com/bounties/@EdenCoder100/discord-username-scr?t=
+637,$0.90,closed,Discord Username script,I need a script that can tell me the usernames of everyone with a certain role in a discord server,EdenCoder100,10 hours ago,https://replit.com/bounties/@EdenCoder100/discord-username-scr?t=
 638,$45.00,due in 12 days,Recreate text reveal animation,"I'm looking to recreate the text reveal animation found at https://rauno.me/projects
 
 Some helpful libraries:
@@ -5216,7 +5216,7 @@ React component(s)
 Written in TypeScript
 No outside libraries (except for framer-motion)
 Includes both text reveal and line animations
-Demo a page that looks similar",tehkaiyu,8 hours ago,https://replit.com/bounties/@tehkaiyu/recreate-text-reveal?t=
+Demo a page that looks similar",tehkaiyu,9 hours ago,https://replit.com/bounties/@tehkaiyu/recreate-text-reveal?t=
 639,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 640,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 641,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
@@ -5250,7 +5250,7 @@ import { chunk, compact, orderBy } from ""lodash""; // VALID
 However, it should NOT list those which are from instances:
 toJSON, valueOf, value, etc are shown in the docs ( https://lodash.com/docs/4.17.15#prototype-value ), however, they are attached to an instance not directly from the import.
 
-import { toJSON, valueOf, value } from ""lodash"" // INVALID/ERROR: these do not exist...",Glavin001,5 hours ago,https://replit.com/bounties/@Glavin001/generate-list-of-aut?t=
+import { toJSON, valueOf, value } from ""lodash"" // INVALID/ERROR: these do not exist...",Glavin001,6 hours ago,https://replit.com/bounties/@Glavin001/generate-list-of-aut?t=
 650,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 651,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 652,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
@@ -5273,3 +5273,4 @@ import { toJSON, valueOf, value } from ""lodash"" // INVALID/ERROR: these do not
 669,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 670,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 671,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
+672,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
