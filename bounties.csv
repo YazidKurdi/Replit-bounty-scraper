@@ -5190,7 +5190,7 @@ When you apply, please specify how would you go about approaching the problem. A
 
 Be specific about what you want in the solution here.",MavNow,6 hours ago,https://replit.com/bounties/@MavNow/build-an-android-com?t=
 634,$22.50,closed,RDP for github,RDP for github,42fff22dd,5 hours ago,https://replit.com/bounties/@42fff22dd/rdp-for-github?t=
-635,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",42fff22dd,4 hours ago,https://replit.com/bounties/@42fff22dd/anime-site-htmlcss-a?t=
+635,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",42fff22dd,5 hours ago,https://replit.com/bounties/@42fff22dd/anime-site-htmlcss-a?t=
 636,$500.40,due in 6 days,Add authentication and stripe support to web app,"Acceptance Criteria
 Features to be implemented to web app:
 
@@ -5205,7 +5205,7 @@ Create db lookup for email/password - if user exists in db, direct them to the a
 
 Device limit per account
 Track the devices that a user is logged in, and cap it at 3 devices per account, if the user tries to log in on a 4th device, return the error message “no more than 3 devices allowed per account - log out of a device to proceed” next to it  and show ...",juancaruiz,4 hours ago,https://replit.com/bounties/@juancaruiz/add-authentication-a?t=
-637,$0.90,closed,Discord Username script,I need a script that can tell me the usernames of everyone with a certain role in a discord server,EdenCoder100,1 hour ago,https://replit.com/bounties/@EdenCoder100/discord-username-scr?t=
+637,$0.90,closed,Discord Username script,I need a script that can tell me the usernames of everyone with a certain role in a discord server,EdenCoder100,2 hours ago,https://replit.com/bounties/@EdenCoder100/discord-username-scr?t=
 638,$45.00,due in 13 days,Recreate text reveal animation,"I'm looking to recreate the text reveal animation found at https://rauno.me/projects
 
 Some helpful libraries:
@@ -5216,4 +5216,4 @@ React component(s)
 Written in TypeScript
 No outside libraries (except for framer-motion)
 Includes both text reveal and line animations
-Demo a page that looks similar",tehkaiyu,15 minutes ago,https://replit.com/bounties/@tehkaiyu/recreate-text-reveal?t=
+Demo a page that looks similar",tehkaiyu,30 minutes ago,https://replit.com/bounties/@tehkaiyu/recreate-text-reveal?t=
