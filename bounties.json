@@ -7116,7 +7116,7 @@
         "title": "Create a NFT marketplace (Ethereum/Polkadot)",
         "description": "Create a decentralized NFT marketplace using Rust/Substrate for the backend and React for the front end. The site should enable both fiat and cryptocurrency payments and have the following functionality:\n\nAuction functionality\nBuy it now functionality\nAbility to mint new NFTs\nThe ability to accept different file formats for minting\nAbility to search for NFTs based on category\n\nThe final product should have a user-friendly interface and be secure, scalable, and fast. Please provide examples of similar projects you have worked on and why you are the best fit for this project.",
         "author": "TomHumber",
-        "posted_time": "11 minutes ago",
+        "posted_time": "26 minutes ago",
         "link": "https://replit.com/bounties/@TomHumber/create-a-nft-marketp?t="
     }
 ]
