@@ -6296,7 +6296,7 @@
         "title": "WGSL exploding blocks for 2d image editor",
         "description": "I would love to have a WGSL written for exploding pixels for 2d image editor.\n\nAn example i found was here: https://youtu.be/hkSU3fNYXVA?t=713 created in photoshop. But would love to have a shader that I could add any image and then control:\n\nSize of the blocks\nDistance from the original location\nStarting location\nDirection of the blocks at flowing\nFrequency of the blocks\nOffset of the blocks\nRandomization slider so the blocks aren't always in the same position.",
         "author": "JoeBurfitt",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@JoeBurfitt/wgsl-exploding-block?t="
     },
     {
@@ -6346,7 +6346,7 @@
         "title": "RDP for github",
         "description": "RDP for github",
         "author": "42fff22dd",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@42fff22dd/rdp-for-github?t="
     },
     {
@@ -6366,7 +6366,7 @@
         "title": "Add authentication and stripe support to web app",
         "description": "Acceptance Criteria\nFeatures to be implemented to web app:\n\nTwo factor authentication (SMS)\nWhen user signs up through email/password, SMS message is sent to verify user - user cannot proceed to app until phone number is verified, when phone number is verified, automatically proceed to app, make a db record i.e (isphonenumber verified)\n\nSign up\nPOST user account for Google provider in db, email/password provider already recording users in db (layout already built) - when user signs up, direct them to onboarding questions when questions are all answered, direct them to main app (question details below)\n\nSign in\nCreate db lookup for email/password - if user exists in db, direct them to the app (layout already built)\n\nDevice limit per account\nTrack the devices that a user is logged in, and cap it at 3 devices per account, if the user tries to log in on a 4th device, return the error message \u201cno more than 3 devices allowed per account - log out of a device to proceed\u201d next to it  and show ...",
         "author": "juancaruiz",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@juancaruiz/add-authentication-a?t="
     },
     {
@@ -6386,7 +6386,7 @@
         "title": "Recreate text reveal animation",
         "description": "I'm looking to recreate the text reveal animation found at https://rauno.me/projects\n\nSome helpful libraries:\nhttps://github.com/camwiegert/baffle\n\nAcceptance Criteria\nReact component(s)\nWritten in TypeScript\nNo outside libraries (except for framer-motion)\nIncludes both text reveal and line animations\nDemo a page that looks similar",
         "author": "tehkaiyu",
-        "posted_time": "49 minutes ago",
+        "posted_time": "59 minutes ago",
         "link": "https://replit.com/bounties/@tehkaiyu/recreate-text-reveal?t="
     }
 ]
