@@ -6362,7 +6362,7 @@
     {
         "index": "636",
         "price": "$500.40",
-        "due_days": "due in 5 days",
+        "due_days": "due in 7 days",
         "title": "Add authentication and stripe support to web app",
         "description": "Acceptance Criteria\nFeatures to be implemented to web app:\n\nTwo factor authentication (SMS)\nWhen user signs up through email/password, SMS message is sent to verify user - user cannot proceed to app until phone number is verified, when phone number is verified, automatically proceed to app, make a db record i.e (isphonenumber verified)\n\nSign up\nPOST user account for Google provider in db, email/password provider already recording users in db (layout already built) - when user signs up, direct them to onboarding questions when questions are all answered, direct them to main app (question details below)\n\nSign in\nCreate db lookup for email/password - if user exists in db, direct them to the app (layout already built)\n\nDevice limit per account\nTrack the devices that a user is logged in, and cap it at 3 devices per account, if the user tries to log in on a 4th device, return the error message \u201cno more than 3 devices allowed per account - log out of a device to proceed\u201d next to it  and show ...",
         "author": "juancaruiz",
@@ -6916,11 +6916,21 @@
         "title": "2 custom bots",
         "description": "- i'd like 2 custom bots for my two websites - ltcwrk.com and blas.com\n\nAcceptance Criteria - a conversational, quality, consistent, believable chatbot based on the content on those two websites\n\nTechnical Details - ideally the interface could work through both text (ideally whatsapp) and web. i understand text might not be possible but wanted to at least ask :)",
         "author": "blasgm",
-        "posted_time": "32 minutes ago",
+        "posted_time": "41 minutes ago",
         "link": "https://replit.com/bounties/@blasgm/2-custom-bots?t="
     },
     {
         "index": "692",
+        "price": "$22.50",
+        "due_days": "closed",
+        "title": "RDP for github",
+        "description": "RDP for github",
+        "author": "toshiro9117",
+        "posted_time": "Claimed by",
+        "link": ""
+    },
+    {
+        "index": "693",
         "price": "$22.50",
         "due_days": "closed",
         "title": "RDP for github",
