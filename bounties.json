@@ -6496,11 +6496,21 @@
         "title": "Generate list of auto-complete import options from parsing TypeScript definitions/AST",
         "description": "FYI: First small task of much more upcoming work on this project.\nI have a work-in-progress solution which does not yet work for all cases. I would like help to complete it so I can focus on other parts of my app.\n\nProblem Description\nI want to enumerate the possible auto-complete import options for a package given the package's TypeScript definitions (e.g. d.ts files from DefinitelyTyped).\n\nExample: Lodash package\nSee https://lodash.com/docs/4.17.15\n\nFor example:\nimport { /* HERE */ } from \"lodash\";\n\nShould list those shown in the documentation: https://lodash.com/docs/4.17.15#orderBy\nchunk\ncompact\n...\norderBy\n\nimport { chunk, compact, orderBy } from \"lodash\"; // VALID\n\nHowever, it should NOT list those which are from instances:\ntoJSON, valueOf, value, etc are shown in the docs ( https://lodash.com/docs/4.17.15#prototype-value ), however, they are attached to an instance not directly from the import.\n\nimport { toJSON, valueOf, value } from \"lodash\" // INVALID/ERROR: these do not exist...",
         "author": "Glavin001",
-        "posted_time": "40 minutes ago",
+        "posted_time": "51 minutes ago",
         "link": "https://replit.com/bounties/@Glavin001/generate-list-of-aut?t="
     },
     {
         "index": "650",
+        "price": "$22.50",
+        "due_days": "closed",
+        "title": "RDP for github",
+        "description": "RDP for github",
+        "author": "toshiro9117",
+        "posted_time": "Claimed by",
+        "link": ""
+    },
+    {
+        "index": "651",
         "price": "$22.50",
         "due_days": "closed",
         "title": "RDP for github",

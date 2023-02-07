@@ -5250,5 +5250,6 @@ import { chunk, compact, orderBy } from ""lodash""; // VALID
 However, it should NOT list those which are from instances:
 toJSON, valueOf, value, etc are shown in the docs ( https://lodash.com/docs/4.17.15#prototype-value ), however, they are attached to an instance not directly from the import.
 
-import { toJSON, valueOf, value } from ""lodash"" // INVALID/ERROR: these do not exist...",Glavin001,40 minutes ago,https://replit.com/bounties/@Glavin001/generate-list-of-aut?t=
+import { toJSON, valueOf, value } from ""lodash"" // INVALID/ERROR: these do not exist...",Glavin001,51 minutes ago,https://replit.com/bounties/@Glavin001/generate-list-of-aut?t=
 650,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
+651,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
