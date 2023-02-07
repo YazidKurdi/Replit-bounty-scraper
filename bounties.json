@@ -6316,7 +6316,7 @@
         "title": "Access to Google Bard ",
         "description": "Acceptance Criteria\nI would like to get access to google bard.\nBonus points if it's an api access",
         "author": "aidantorrence",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/access-to-google-bar?t="
     },
     {
@@ -6326,7 +6326,7 @@
         "title": "Create a Graph QL Web Application that is a Dashboard for Me (read Desc)",
         "description": "Description\nI would like a Graph QL dashboard website made using Graph QL and HTML. It will have the following features:\nDisplay the amount of runs, likes, and tips of my most descent Repls, along with a \u201ctop Repls\u201d section displaying the statistics of my top or \u201cmost popular\u201d Repls (with the most stats).\n\nAcceptance Criteria\nMust have some style to it and look nice :)\nMust have all the features as posted above.\nI do want your applications to be over the top, include some of your past work, experience, why I should accept you, your past work with this topic, and more!\n\nOther\nContact will strictly be via email ([email\u00a0protected]).\n\nIf you think the price is off I am willing to raise it a few hundreds.",
         "author": "EarthRulerr",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@EarthRulerr/create-a-graph-ql-we?t="
     },
     {
@@ -6386,7 +6386,7 @@
         "title": "Recreate text reveal animation",
         "description": "I'm looking to recreate the text reveal animation found at https://rauno.me/projects\n\nSome helpful libraries:\nhttps://github.com/camwiegert/baffle\n\nAcceptance Criteria\nReact component(s)\nWritten in TypeScript\nNo outside libraries (except for framer-motion)\nIncludes both text reveal and line animations\nDemo a page that looks similar",
         "author": "tehkaiyu",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@tehkaiyu/recreate-text-reveal?t="
     },
     {
@@ -6776,7 +6776,17 @@
         "title": "Discord Giveaway Bot",
         "description": "Discord Giveaway Bot\nHey! I need a giveaway bot created. My criteria is:\nUses Python (Nextcord or Discord.py)\nUses slash commands\nIMPORTANT: Uses HTTP interactions, not gateway - You may need to set up a WEB SERVER or use a HTTP interaction library to create this.\nEntries to the giveaway should use buttons, should function similarly to GiveawayBot\nCommands: /start, /end, /reroll\nGiveaways should still end as usual if the bot restarts. A MongoDB database would be preferred, however if this is not feasible then use JSON\n\nI can always raise the cycle amount if this is not enough, please just let me know in your application!",
         "author": "elijah0x",
-        "posted_time": "5 minutes ago",
+        "posted_time": "15 minutes ago",
         "link": "https://replit.com/bounties/@elijah0x/discord-giveaway-bot?t="
+    },
+    {
+        "index": "678",
+        "price": "$22.50",
+        "due_days": "closed",
+        "title": "RDP for github",
+        "description": "RDP for github",
+        "author": "toshiro9117",
+        "posted_time": "Claimed by",
+        "link": ""
     }
 ]
