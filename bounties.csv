@@ -5205,7 +5205,7 @@ Create db lookup for email/password - if user exists in db, direct them to the a
 
 Device limit per account
 Track the devices that a user is logged in, and cap it at 3 devices per account, if the user tries to log in on a 4th device, return the error message “no more than 3 devices allowed per account - log out of a device to proceed” next to it  and show ...",juancaruiz,20 hours ago,https://replit.com/bounties/@juancaruiz/add-authentication-a?t=
-637,$0.90,closed,Discord Username script,I need a script that can tell me the usernames of everyone with a certain role in a discord server,EdenCoder100,17 hours ago,https://replit.com/bounties/@EdenCoder100/discord-username-scr?t=
+637,$0.90,closed,Discord Username script,I need a script that can tell me the usernames of everyone with a certain role in a discord server,EdenCoder100,18 hours ago,https://replit.com/bounties/@EdenCoder100/discord-username-scr?t=
 638,$45.00,due in 12 days,Recreate text reveal animation,"I'm looking to recreate the text reveal animation found at https://rauno.me/projects
 
 Some helpful libraries:
@@ -5315,7 +5315,7 @@ Technical Details - ideally the interface could work through both text (ideally 
 698,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 699,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",toshiro9117,Claimed by,
 700,$20.00,due in 13 days,Bing/Edge AI access,"Acceptance Criteria
-I want Bing Chat AI access",aidantorrence,2 hours ago,https://replit.com/bounties/@aidantorrence/bingedge-ai-access?t=
+I want Bing Chat AI access",aidantorrence,3 hours ago,https://replit.com/bounties/@aidantorrence/bingedge-ai-access?t=
 701,$4.50,due in 3 days,Library function doesnt send event to nostr relay,"I want to send an event to nostr relay using a nodejs library https://github.com/jb55/nostr-js.
 Acceptance Criteria
 Successful sending an event to a pool of nostr relay.
@@ -5323,7 +5323,7 @@ Technical Details
 Nostr is a new protocol creating an alternative twitter. I am using a library https://github.com/jb55/nostr-js. I want to be able to send an event to a relay.
 To get an intro to Nostr, check out this page. https://github.com/nostr-protocol/nips/blob/master/01.md
 Link to Project
-https://replit.com/@MikeRiss/nostrTest#nostr-js/trial.js. I started with modifying the example from the library. I can send the event but I can't see anything when I query the data on the relay.",MikeRiss,2 hours ago,https://replit.com/bounties/@MikeRiss/library-function-doe?t=
+https://replit.com/@MikeRiss/nostrTest#nostr-js/trial.js. I started with modifying the example from the library. I can send the event but I can't see anything when I query the data on the relay.",MikeRiss,3 hours ago,https://replit.com/bounties/@MikeRiss/library-function-doe?t=
 702,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",toshiro9117,Claimed by,
 703,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",toshiro9117,Claimed by,
 704,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",toshiro9117,Claimed by,
@@ -5341,4 +5341,4 @@ Ability to mint new NFTs
 The ability to accept different file formats for minting
 Ability to search for NFTs based on category
 
-The final product should have a user-friendly interface and be secure, scalable, and fast. Please provide examples of similar projects you have worked on and why you are the best fit for this project.",TomHumber,26 minutes ago,https://replit.com/bounties/@TomHumber/create-a-nft-marketp?t=
+The final product should have a user-friendly interface and be secure, scalable, and fast. Please provide examples of similar projects you have worked on and why you are the best fit for this project.",TomHumber,39 minutes ago,https://replit.com/bounties/@TomHumber/create-a-nft-marketp?t=
