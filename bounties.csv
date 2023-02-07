@@ -5204,7 +5204,7 @@ Sign in
 Create db lookup for email/password - if user exists in db, direct them to the app (layout already built)
 
 Device limit per account
-Track the devices that a user is logged in, and cap it at 3 devices per account, if the user tries to log in on a 4th device, return the error message “no more than 3 devices allowed per account - log out of a device to proceed” next to it  and show ...",juancaruiz,14 hours ago,https://replit.com/bounties/@juancaruiz/add-authentication-a?t=
+Track the devices that a user is logged in, and cap it at 3 devices per account, if the user tries to log in on a 4th device, return the error message “no more than 3 devices allowed per account - log out of a device to proceed” next to it  and show ...",juancaruiz,15 hours ago,https://replit.com/bounties/@juancaruiz/add-authentication-a?t=
 637,$0.90,closed,Discord Username script,I need a script that can tell me the usernames of everyone with a certain role in a discord server,EdenCoder100,12 hours ago,https://replit.com/bounties/@EdenCoder100/discord-username-scr?t=
 638,$45.00,due in 12 days,Recreate text reveal animation,"I'm looking to recreate the text reveal animation found at https://rauno.me/projects
 
@@ -5287,7 +5287,7 @@ Entries to the giveaway should use buttons, should function similarly to Giveawa
 Commands: /start, /end, /reroll
 Giveaways should still end as usual if the bot restarts. A MongoDB database would be preferred, however if this is not feasible then use JSON
 
-I can always raise the cycle amount if this is not enough, please just let me know in your application!",elijah0x,1 hour ago,https://replit.com/bounties/@elijah0x/discord-giveaway-bot?t=
+I can always raise the cycle amount if this is not enough, please just let me know in your application!",elijah0x,2 hours ago,https://replit.com/bounties/@elijah0x/discord-giveaway-bot?t=
 678,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 679,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 680,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
@@ -5295,3 +5295,4 @@ I can always raise the cycle amount if this is not enough, please just let me kn
 682,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 683,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 684,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
+685,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
