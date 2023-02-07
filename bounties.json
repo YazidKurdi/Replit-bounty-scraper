@@ -6336,7 +6336,7 @@
         "title": "Build an Android component which lets you draw over an ImageView. Must support Pinch to zoom and drag",
         "description": "A view where users can draw over an image using touch. Also, must work accurately with pinch to zoom\nAcceptance Criteria\nShould work something like cleanup pictures feature in the clipdrop app. Just the painting over the images and pinch to zoom.\nShould work on Android and 8 and above.\nWork for Images of all types of aspect ratio.\nNo drawing outside the image view.\n\nWhen you apply, please specify how would you go about approaching the problem. A short one or two lines.\n\nBe specific about what you want in the solution here.",
         "author": "MavNow",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@MavNow/build-an-android-com?t="
     },
     {
@@ -6916,7 +6916,7 @@
         "title": "2 custom bots",
         "description": "- i'd like 2 custom bots for my two websites - ltcwrk.com and blas.com\n\nAcceptance Criteria - a conversational, quality, consistent, believable chatbot based on the content on those two websites\n\nTechnical Details - ideally the interface could work through both text (ideally whatsapp) and web. i understand text might not be possible but wanted to at least ask :)",
         "author": "blasgm",
-        "posted_time": "59 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@blasgm/2-custom-bots?t="
     },
     {
@@ -6951,6 +6951,16 @@
     },
     {
         "index": "695",
+        "price": "$22.50",
+        "due_days": "closed",
+        "title": "RDP for github",
+        "description": "RDP for github",
+        "author": "toshiro9117",
+        "posted_time": "Claimed by",
+        "link": ""
+    },
+    {
+        "index": "696",
         "price": "$22.50",
         "due_days": "closed",
         "title": "RDP for github",
