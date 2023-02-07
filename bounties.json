@@ -6776,7 +6776,7 @@
         "title": "Discord Giveaway Bot",
         "description": "Discord Giveaway Bot\nHey! I need a giveaway bot created. My criteria is:\nUses Python (Nextcord or Discord.py)\nUses slash commands\nIMPORTANT: Uses HTTP interactions, not gateway - You may need to set up a WEB SERVER or use a HTTP interaction library to create this.\nEntries to the giveaway should use buttons, should function similarly to GiveawayBot\nCommands: /start, /end, /reroll\nGiveaways should still end as usual if the bot restarts. A MongoDB database would be preferred, however if this is not feasible then use JSON\n\nI can always raise the cycle amount if this is not enough, please just let me know in your application!",
         "author": "elijah0x",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@elijah0x/discord-giveaway-bot?t="
     },
     {
@@ -6886,7 +6886,7 @@
         "title": "Use gpt-3 / chatGPT / langchain / gptindex to build a document qa web app",
         "description": "Looking for someone to make a simple web app that can qa against my documents using gpt-3 / chatgpt / langchain / gpt index",
         "author": "krrishdholakia",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@krrishdholakia/use-gpt-3-chatgpt-la?t="
     },
     {
@@ -7126,7 +7126,7 @@
         "title": "bing/edge browser for school chromebooks",
         "description": "Describe the problem you are trying to solve here.\nI want to be able to use blocked websites Snapchat, WhatsApp, etc...\nAcceptance Criteria\nBe specific about what you want in the solution here.\nmust be an embedded browser with the latest version of bing/edge",
         "author": "kalsin1345",
-        "posted_time": "59 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@kalsin1345/bingedge-browser-for?t="
     },
     {
@@ -7136,7 +7136,17 @@
         "title": "Reverse Engineer an app and expose private APIs",
         "description": "Access to the private APIs of specific applications can streamline numerous tasks for users, with their consent.\nThe bounty entails reverse engineering a bank application and successfully simulating a login into an account. It is not necessary to have an active account on the app. Satisfactory completion involves intercepting the request, exposing the endpoint and payload, and then replicating it using Postman, even if the response is for invalid credentials.\n\nApp: https://play.google.com/store/apps/details?id=com.mashreq.NeoApp&hl=en&gl=US\n\nAcceptance Criteria\nThe desired outcome is a repackaged APK that can be utilized with tools such as Burp, Charles, or other software to intercept requests. This could also be applicable to iOS. The acceptance criteria include a clear set of instructions for setting up the app, simulating actions, and observing the API calls and payloads.",
         "author": "HeshamGhandour1",
-        "posted_time": "6 minutes ago",
+        "posted_time": "16 minutes ago",
         "link": "https://replit.com/bounties/@HeshamGhandour1/reverse-engineer-an?t="
+    },
+    {
+        "index": "714",
+        "price": "$180.00",
+        "due_days": "due in 7 days",
+        "title": "Fine tune GPT-3 on a set of 10-Ks",
+        "description": "I'd like to train GPT-3 on a series of 10-Ks (financial reports) I have downloaded, and including a way to change and update this in the future. The documents are in html and I'd ideally like to be able to ensure the input includes sub-headings that indicate sections, and data-tables (not just stripped to simple txt which seems to destroy the q&a).\n\nOutput: I'd like to be able to ask specific questions and get answers, including about datapoints or tables that's included in the files.",
+        "author": "strangeloopcanon",
+        "posted_time": "4 minutes ago",
+        "link": "https://replit.com/bounties/@strangeloopcanon/fine-tune-gpt-3-on-a?t="
     }
 ]
