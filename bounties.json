@@ -6776,7 +6776,7 @@
         "title": "Discord Giveaway Bot",
         "description": "Discord Giveaway Bot\nHey! I need a giveaway bot created. My criteria is:\nUses Python (Nextcord or Discord.py)\nUses slash commands\nIMPORTANT: Uses HTTP interactions, not gateway - You may need to set up a WEB SERVER or use a HTTP interaction library to create this.\nEntries to the giveaway should use buttons, should function similarly to GiveawayBot\nCommands: /start, /end, /reroll\nGiveaways should still end as usual if the bot restarts. A MongoDB database would be preferred, however if this is not feasible then use JSON\n\nI can always raise the cycle amount if this is not enough, please just let me know in your application!",
         "author": "elijah0x",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@elijah0x/discord-giveaway-bot?t="
     },
     {
@@ -6886,7 +6886,7 @@
         "title": "Use gpt-3 / chatGPT / langchain / gptindex to build a document qa web app",
         "description": "Looking for someone to make a simple web app that can qa against my documents using gpt-3 / chatgpt / langchain / gpt index",
         "author": "krrishdholakia",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@krrishdholakia/use-gpt-3-chatgpt-la?t="
     },
     {
@@ -7146,7 +7146,7 @@
         "title": "Fine tune GPT-3 on a set of 10-Ks",
         "description": "I'd like to train GPT-3 on a series of 10-Ks (financial reports) I have downloaded, and including a way to change and update this in the future. The documents are in html and I'd ideally like to be able to ensure the input includes sub-headings that indicate sections, and data-tables (not just stripped to simple txt which seems to destroy the q&a).\n\nOutput: I'd like to be able to ask specific questions and get answers, including about datapoints or tables that's included in the files.",
         "author": "strangeloopcanon",
-        "posted_time": "54 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@strangeloopcanon/fine-tune-gpt-3-on-a?t="
     }
 ]

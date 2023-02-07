@@ -5287,7 +5287,7 @@ Entries to the giveaway should use buttons, should function similarly to Giveawa
 Commands: /start, /end, /reroll
 Giveaways should still end as usual if the bot restarts. A MongoDB database would be preferred, however if this is not feasible then use JSON
 
-I can always raise the cycle amount if this is not enough, please just let me know in your application!",elijah0x,9 hours ago,https://replit.com/bounties/@elijah0x/discord-giveaway-bot?t=
+I can always raise the cycle amount if this is not enough, please just let me know in your application!",elijah0x,10 hours ago,https://replit.com/bounties/@elijah0x/discord-giveaway-bot?t=
 678,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 679,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 680,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
@@ -5298,7 +5298,7 @@ I can always raise the cycle amount if this is not enough, please just let me kn
 685,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 686,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 687,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
-688,$90.00,due in 9 days,Use gpt-3 / chatGPT / langchain / gptindex to build a document qa web app,Looking for someone to make a simple web app that can qa against my documents using gpt-3 / chatgpt / langchain / gpt index,krrishdholakia,7 hours ago,https://replit.com/bounties/@krrishdholakia/use-gpt-3-chatgpt-la?t=
+688,$90.00,due in 9 days,Use gpt-3 / chatGPT / langchain / gptindex to build a document qa web app,Looking for someone to make a simple web app that can qa against my documents using gpt-3 / chatgpt / langchain / gpt index,krrishdholakia,8 hours ago,https://replit.com/bounties/@krrishdholakia/use-gpt-3-chatgpt-la?t=
 689,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 690,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 691,$540.00,due in 6 days,2 custom bots,"- i'd like 2 custom bots for my two websites - ltcwrk.com and blas.com
@@ -5356,4 +5356,4 @@ Acceptance Criteria
 The desired outcome is a repackaged APK that can be utilized with tools such as Burp, Charles, or other software to intercept requests. This could also be applicable to iOS. The acceptance criteria include a clear set of instructions for setting up the app, simulating actions, and observing the API calls and payloads.",HeshamGhandour1,1 hour ago,https://replit.com/bounties/@HeshamGhandour1/reverse-engineer-an?t=
 714,$180.00,due in 7 days,Fine tune GPT-3 on a set of 10-Ks,"I'd like to train GPT-3 on a series of 10-Ks (financial reports) I have downloaded, and including a way to change and update this in the future. The documents are in html and I'd ideally like to be able to ensure the input includes sub-headings that indicate sections, and data-tables (not just stripped to simple txt which seems to destroy the q&a).
 
-Output: I'd like to be able to ask specific questions and get answers, including about datapoints or tables that's included in the files.",strangeloopcanon,54 minutes ago,https://replit.com/bounties/@strangeloopcanon/fine-tune-gpt-3-on-a?t=
+Output: I'd like to be able to ask specific questions and get answers, including about datapoints or tables that's included in the files.",strangeloopcanon,1 hour ago,https://replit.com/bounties/@strangeloopcanon/fine-tune-gpt-3-on-a?t=
