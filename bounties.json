@@ -6306,7 +6306,7 @@
         "title": "Need a python crash game",
         "description": "I'm looking for someone to recrate the odds for a popular crash game to create a python script that will print a random output for the popular online gambling game known as crash. It should have a 0 house edge with crashing at zero 3% of the time and a max multiplier of 2,500x. Basically when run the code it will give you a random crash game output. Just the point it crashes at",
         "author": "Frrowsty",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@Frrowsty/need-a-python-crash?t="
     },
     {
@@ -6316,7 +6316,7 @@
         "title": "Access to Google Bard ",
         "description": "Acceptance Criteria\nI would like to get access to google bard.\nBonus points if it's an api access",
         "author": "aidantorrence",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/access-to-google-bar?t="
     },
     {
@@ -6326,7 +6326,7 @@
         "title": "Create a Graph QL Web Application that is a Dashboard for Me (read Desc)",
         "description": "Description\nI would like a Graph QL dashboard website made using Graph QL and HTML. It will have the following features:\nDisplay the amount of runs, likes, and tips of my most descent Repls, along with a \u201ctop Repls\u201d section displaying the statistics of my top or \u201cmost popular\u201d Repls (with the most stats).\n\nAcceptance Criteria\nMust have some style to it and look nice :)\nMust have all the features as posted above.\nI do want your applications to be over the top, include some of your past work, experience, why I should accept you, your past work with this topic, and more!\n\nOther\nContact will strictly be via email ([email\u00a0protected]).\n\nIf you think the price is off I am willing to raise it a few hundreds.",
         "author": "EarthRulerr",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@EarthRulerr/create-a-graph-ql-we?t="
     },
     {
@@ -6366,7 +6366,7 @@
         "title": "Add authentication and stripe support to web app",
         "description": "Acceptance Criteria\nFeatures to be implemented to web app:\n\nTwo factor authentication (SMS)\nWhen user signs up through email/password, SMS message is sent to verify user - user cannot proceed to app until phone number is verified, when phone number is verified, automatically proceed to app, make a db record i.e (isphonenumber verified)\n\nSign up\nPOST user account for Google provider in db, email/password provider already recording users in db (layout already built) - when user signs up, direct them to onboarding questions when questions are all answered, direct them to main app (question details below)\n\nSign in\nCreate db lookup for email/password - if user exists in db, direct them to the app (layout already built)\n\nDevice limit per account\nTrack the devices that a user is logged in, and cap it at 3 devices per account, if the user tries to log in on a 4th device, return the error message \u201cno more than 3 devices allowed per account - log out of a device to proceed\u201d next to it  and show ...",
         "author": "juancaruiz",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@juancaruiz/add-authentication-a?t="
     },
     {
@@ -6386,7 +6386,7 @@
         "title": "Recreate text reveal animation",
         "description": "I'm looking to recreate the text reveal animation found at https://rauno.me/projects\n\nSome helpful libraries:\nhttps://github.com/camwiegert/baffle\n\nAcceptance Criteria\nReact component(s)\nWritten in TypeScript\nNo outside libraries (except for framer-motion)\nIncludes both text reveal and line animations\nDemo a page that looks similar",
         "author": "tehkaiyu",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@tehkaiyu/recreate-text-reveal?t="
     },
     {
@@ -6496,7 +6496,7 @@
         "title": "Generate list of auto-complete import options from parsing TypeScript definitions/AST",
         "description": "FYI: First small task of much more upcoming work on this project.\nI have a work-in-progress solution which does not yet work for all cases. I would like help to complete it so I can focus on other parts of my app.\n\nProblem Description\nI want to enumerate the possible auto-complete import options for a package given the package's TypeScript definitions (e.g. d.ts files from DefinitelyTyped).\n\nExample: Lodash package\nSee https://lodash.com/docs/4.17.15\n\nFor example:\nimport { /* HERE */ } from \"lodash\";\n\nShould list those shown in the documentation: https://lodash.com/docs/4.17.15#orderBy\nchunk\ncompact\n...\norderBy\n\nimport { chunk, compact, orderBy } from \"lodash\"; // VALID\n\nHowever, it should NOT list those which are from instances:\ntoJSON, valueOf, value, etc are shown in the docs ( https://lodash.com/docs/4.17.15#prototype-value ), however, they are attached to an instance not directly from the import.\n\nimport { toJSON, valueOf, value } from \"lodash\" // INVALID/ERROR: these do not exist...",
         "author": "Glavin001",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@Glavin001/generate-list-of-aut?t="
     },
     {
@@ -6691,6 +6691,16 @@
     },
     {
         "index": "669",
+        "price": "$22.50",
+        "due_days": "closed",
+        "title": "RDP for github",
+        "description": "RDP for github",
+        "author": "toshiro9117",
+        "posted_time": "Claimed by",
+        "link": ""
+    },
+    {
+        "index": "670",
         "price": "$22.50",
         "due_days": "closed",
         "title": "RDP for github",
