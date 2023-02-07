@@ -7136,7 +7136,7 @@
         "title": "Reverse Engineer an app and expose private APIs",
         "description": "Access to the private APIs of specific applications can streamline numerous tasks for users, with their consent.\nThe bounty entails reverse engineering a bank application and successfully simulating a login into an account. It is not necessary to have an active account on the app. Satisfactory completion involves intercepting the request, exposing the endpoint and payload, and then replicating it using Postman, even if the response is for invalid credentials.\n\nApp: https://play.google.com/store/apps/details?id=com.mashreq.NeoApp&hl=en&gl=US\n\nAcceptance Criteria\nThe desired outcome is a repackaged APK that can be utilized with tools such as Burp, Charles, or other software to intercept requests. This could also be applicable to iOS. The acceptance criteria include a clear set of instructions for setting up the app, simulating actions, and observing the API calls and payloads.",
         "author": "HeshamGhandour1",
-        "posted_time": "56 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@HeshamGhandour1/reverse-engineer-an?t="
     },
     {
@@ -7146,7 +7146,7 @@
         "title": "Fine tune GPT-3 on a set of 10-Ks",
         "description": "I'd like to train GPT-3 on a series of 10-Ks (financial reports) I have downloaded, and including a way to change and update this in the future. The documents are in html and I'd ideally like to be able to ensure the input includes sub-headings that indicate sections, and data-tables (not just stripped to simple txt which seems to destroy the q&a).\n\nOutput: I'd like to be able to ask specific questions and get answers, including about datapoints or tables that's included in the files.",
         "author": "strangeloopcanon",
-        "posted_time": "45 minutes ago",
+        "posted_time": "54 minutes ago",
         "link": "https://replit.com/bounties/@strangeloopcanon/fine-tune-gpt-3-on-a?t="
     }
 ]
