@@ -5162,11 +5162,11 @@ Direction of the blocks at flowing
 Frequency of the blocks
 Offset of the blocks
 Randomization slider so the blocks aren't always in the same position.",JoeBurfitt,11 hours ago,https://replit.com/bounties/@JoeBurfitt/wgsl-exploding-block?t=
-630,$2.25,due in 3 days,Need a python crash game,"I'm looking for someone to recrate the odds for a popular crash game to create a python script that will print a random output for the popular online gambling game known as crash. It should have a 0 house edge with crashing at zero 3% of the time and a max multiplier of 2,500x. Basically when run the code it will give you a random crash game output. Just the point it crashes at",Frrowsty,14 hours ago,https://replit.com/bounties/@Frrowsty/need-a-python-crash?t=
-631,$10.00,due in 13 days,Access to Google Bard ,"Acceptance Criteria
+630,$2.25,due in 2 days,Need a python crash game,"I'm looking for someone to recrate the odds for a popular crash game to create a python script that will print a random output for the popular online gambling game known as crash. It should have a 0 house edge with crashing at zero 3% of the time and a max multiplier of 2,500x. Basically when run the code it will give you a random crash game output. Just the point it crashes at",Frrowsty,14 hours ago,https://replit.com/bounties/@Frrowsty/need-a-python-crash?t=
+631,$10.00,due in 12 days,Access to Google Bard ,"Acceptance Criteria
 I would like to get access to google bard.
 Bonus points if it's an api access",aidantorrence,13 hours ago,https://replit.com/bounties/@aidantorrence/access-to-google-bar?t=
-632,$4.50,due in 21 days,Create a Graph QL Web Application that is a Dashboard for Me (read Desc),"Description
+632,$4.50,due in 20 days,Create a Graph QL Web Application that is a Dashboard for Me (read Desc),"Description
 I would like a Graph QL dashboard website made using Graph QL and HTML. It will have the following features:
 Display the amount of runs, likes, and tips of my most descent Repls, along with a “top Repls” section displaying the statistics of my top or “most popular” Repls (with the most stats).
 
@@ -5179,7 +5179,7 @@ Other
 Contact will strictly be via email ([email protected]).
 
 If you think the price is off I am willing to raise it a few hundreds.",EarthRulerr,13 hours ago,https://replit.com/bounties/@EarthRulerr/create-a-graph-ql-we?t=
-633,$99.00,due in 4 days,Build an Android component which lets you draw over an ImageView. Must support Pinch to zoom and drag,"A view where users can draw over an image using touch. Also, must work accurately with pinch to zoom
+633,$99.00,due in 3 days,Build an Android component which lets you draw over an ImageView. Must support Pinch to zoom and drag,"A view where users can draw over an image using touch. Also, must work accurately with pinch to zoom
 Acceptance Criteria
 Should work something like cleanup pictures feature in the clipdrop app. Just the painting over the images and pinch to zoom.
 Should work on Android and 8 and above.
@@ -5188,10 +5188,10 @@ No drawing outside the image view.
 
 When you apply, please specify how would you go about approaching the problem. A short one or two lines.
 
-Be specific about what you want in the solution here.",MavNow,12 hours ago,https://replit.com/bounties/@MavNow/build-an-android-com?t=
+Be specific about what you want in the solution here.",MavNow,13 hours ago,https://replit.com/bounties/@MavNow/build-an-android-com?t=
 634,$22.50,closed,RDP for github,RDP for github,42fff22dd,6 hours ago,https://replit.com/bounties/@42fff22dd/rdp-for-github?t=
 635,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",42fff22dd,5 hours ago,https://replit.com/bounties/@42fff22dd/anime-site-htmlcss-a?t=
-636,$500.40,due in 6 days,Add authentication and stripe support to web app,"Acceptance Criteria
+636,$500.40,due in 5 days,Add authentication and stripe support to web app,"Acceptance Criteria
 Features to be implemented to web app:
 
 Two factor authentication (SMS)
@@ -5205,8 +5205,8 @@ Create db lookup for email/password - if user exists in db, direct them to the a
 
 Device limit per account
 Track the devices that a user is logged in, and cap it at 3 devices per account, if the user tries to log in on a 4th device, return the error message “no more than 3 devices allowed per account - log out of a device to proceed” next to it  and show ...",juancaruiz,11 hours ago,https://replit.com/bounties/@juancaruiz/add-authentication-a?t=
-637,$0.90,closed,Discord Username script,I need a script that can tell me the usernames of everyone with a certain role in a discord server,EdenCoder100,8 hours ago,https://replit.com/bounties/@EdenCoder100/discord-username-scr?t=
-638,$45.00,due in 13 days,Recreate text reveal animation,"I'm looking to recreate the text reveal animation found at https://rauno.me/projects
+637,$0.90,closed,Discord Username script,I need a script that can tell me the usernames of everyone with a certain role in a discord server,EdenCoder100,9 hours ago,https://replit.com/bounties/@EdenCoder100/discord-username-scr?t=
+638,$45.00,due in 12 days,Recreate text reveal animation,"I'm looking to recreate the text reveal animation found at https://rauno.me/projects
 
 Some helpful libraries:
 https://github.com/camwiegert/baffle
@@ -5227,7 +5227,7 @@ Demo a page that looks similar",tehkaiyu,7 hours ago,https://replit.com/bounties
 646,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 647,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 648,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
-649,$18.00,due in 6 days,Generate list of auto-complete import options from parsing TypeScript definitions/AST,"FYI: First small task of much more upcoming work on this project.
+649,$18.00,due in 5 days,Generate list of auto-complete import options from parsing TypeScript definitions/AST,"FYI: First small task of much more upcoming work on this project.
 I have a work-in-progress solution which does not yet work for all cases. I would like help to complete it so I can focus on other parts of my app.
 
 Problem Description
@@ -5270,3 +5270,4 @@ import { toJSON, valueOf, value } from ""lodash"" // INVALID/ERROR: these do not
 666,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 667,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 668,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
+669,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
