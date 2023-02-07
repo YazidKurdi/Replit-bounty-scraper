@@ -6376,7 +6376,7 @@
         "title": "Discord Username script",
         "description": "I need a script that can tell me the usernames of everyone with a certain role in a discord server",
         "author": "EdenCoder100",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@EdenCoder100/discord-username-scr?t="
     },
     {
@@ -6496,7 +6496,7 @@
         "title": "Generate list of auto-complete import options from parsing TypeScript definitions/AST",
         "description": "FYI: First small task of much more upcoming work on this project.\nI have a work-in-progress solution which does not yet work for all cases. I would like help to complete it so I can focus on other parts of my app.\n\nProblem Description\nI want to enumerate the possible auto-complete import options for a package given the package's TypeScript definitions (e.g. d.ts files from DefinitelyTyped).\n\nExample: Lodash package\nSee https://lodash.com/docs/4.17.15\n\nFor example:\nimport { /* HERE */ } from \"lodash\";\n\nShould list those shown in the documentation: https://lodash.com/docs/4.17.15#orderBy\nchunk\ncompact\n...\norderBy\n\nimport { chunk, compact, orderBy } from \"lodash\"; // VALID\n\nHowever, it should NOT list those which are from instances:\ntoJSON, valueOf, value, etc are shown in the docs ( https://lodash.com/docs/4.17.15#prototype-value ), however, they are attached to an instance not directly from the import.\n\nimport { toJSON, valueOf, value } from \"lodash\" // INVALID/ERROR: these do not exist...",
         "author": "Glavin001",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@Glavin001/generate-list-of-aut?t="
     },
     {
@@ -6758,5 +6758,25 @@
         "author": "toshiro9117",
         "posted_time": "Claimed by",
         "link": ""
+    },
+    {
+        "index": "676",
+        "price": "$22.50",
+        "due_days": "closed",
+        "title": "RDP for github",
+        "description": "RDP for github",
+        "author": "toshiro9117",
+        "posted_time": "Claimed by",
+        "link": ""
+    },
+    {
+        "index": "677",
+        "price": "$18.00",
+        "due_days": "due in 3 days",
+        "title": "Discord Giveaway Bot",
+        "description": "Discord Giveaway Bot\nHey! I need a giveaway bot created. My criteria is:\nUses Python (Nextcord or Discord.py)\nUses slash commands\nIMPORTANT: Uses HTTP interactions, not gateway - You may need to set up a WEB SERVER or use a HTTP interaction library to create this.\nEntries to the giveaway should use buttons, should function similarly to GiveawayBot\nCommands: /start, /end, /reroll\nGiveaways should still end as usual if the bot restarts. A MongoDB database would be preferred, however if this is not feasible then use JSON\n\nI can always raise the cycle amount if this is not enough, please just let me know in your application!",
+        "author": "elijah0x",
+        "posted_time": "5 minutes ago",
+        "link": "https://replit.com/bounties/@elijah0x/discord-giveaway-bot?t="
     }
 ]
