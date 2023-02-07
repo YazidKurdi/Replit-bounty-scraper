@@ -6386,7 +6386,7 @@
         "title": "Recreate text reveal animation",
         "description": "I'm looking to recreate the text reveal animation found at https://rauno.me/projects\n\nSome helpful libraries:\nhttps://github.com/camwiegert/baffle\n\nAcceptance Criteria\nReact component(s)\nWritten in TypeScript\nNo outside libraries (except for framer-motion)\nIncludes both text reveal and line animations\nDemo a page that looks similar",
         "author": "tehkaiyu",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@tehkaiyu/recreate-text-reveal?t="
     },
     {
@@ -6496,7 +6496,7 @@
         "title": "Generate list of auto-complete import options from parsing TypeScript definitions/AST",
         "description": "FYI: First small task of much more upcoming work on this project.\nI have a work-in-progress solution which does not yet work for all cases. I would like help to complete it so I can focus on other parts of my app.\n\nProblem Description\nI want to enumerate the possible auto-complete import options for a package given the package's TypeScript definitions (e.g. d.ts files from DefinitelyTyped).\n\nExample: Lodash package\nSee https://lodash.com/docs/4.17.15\n\nFor example:\nimport { /* HERE */ } from \"lodash\";\n\nShould list those shown in the documentation: https://lodash.com/docs/4.17.15#orderBy\nchunk\ncompact\n...\norderBy\n\nimport { chunk, compact, orderBy } from \"lodash\"; // VALID\n\nHowever, it should NOT list those which are from instances:\ntoJSON, valueOf, value, etc are shown in the docs ( https://lodash.com/docs/4.17.15#prototype-value ), however, they are attached to an instance not directly from the import.\n\nimport { toJSON, valueOf, value } from \"lodash\" // INVALID/ERROR: these do not exist...",
         "author": "Glavin001",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@Glavin001/generate-list-of-aut?t="
     },
     {
@@ -6916,7 +6916,7 @@
         "title": "2 custom bots",
         "description": "- i'd like 2 custom bots for my two websites - ltcwrk.com and blas.com\n\nAcceptance Criteria - a conversational, quality, consistent, believable chatbot based on the content on those two websites\n\nTechnical Details - ideally the interface could work through both text (ideally whatsapp) and web. i understand text might not be possible but wanted to at least ask :)",
         "author": "blasgm",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@blasgm/2-custom-bots?t="
     },
     {
@@ -7116,7 +7116,7 @@
         "title": "Create a NFT marketplace (Ethereum/Polkadot)",
         "description": "Create a decentralized NFT marketplace using Rust/Substrate for the backend and React for the front end. The site should enable both fiat and cryptocurrency payments and have the following functionality:\n\nAuction functionality\nBuy it now functionality\nAbility to mint new NFTs\nThe ability to accept different file formats for minting\nAbility to search for NFTs based on category\n\nThe final product should have a user-friendly interface and be secure, scalable, and fast. Please provide examples of similar projects you have worked on and why you are the best fit for this project.",
         "author": "TomHumber",
-        "posted_time": "39 minutes ago",
+        "posted_time": "51 minutes ago",
         "link": "https://replit.com/bounties/@TomHumber/create-a-nft-marketp?t="
     }
 ]
