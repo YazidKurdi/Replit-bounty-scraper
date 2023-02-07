@@ -5250,7 +5250,7 @@ import { chunk, compact, orderBy } from ""lodash""; // VALID
 However, it should NOT list those which are from instances:
 toJSON, valueOf, value, etc are shown in the docs ( https://lodash.com/docs/4.17.15#prototype-value ), however, they are attached to an instance not directly from the import.
 
-import { toJSON, valueOf, value } from ""lodash"" // INVALID/ERROR: these do not exist...",Glavin001,15 hours ago,https://replit.com/bounties/@Glavin001/generate-list-of-aut?t=
+import { toJSON, valueOf, value } from ""lodash"" // INVALID/ERROR: these do not exist...",Glavin001,16 hours ago,https://replit.com/bounties/@Glavin001/generate-list-of-aut?t=
 650,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 651,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 652,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
@@ -5315,7 +5315,7 @@ Technical Details - ideally the interface could work through both text (ideally 
 698,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 699,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",toshiro9117,Claimed by,
 700,$20.00,due in 13 days,Bing/Edge AI access,"Acceptance Criteria
-I want Bing Chat AI access",aidantorrence,4 hours ago,https://replit.com/bounties/@aidantorrence/bingedge-ai-access?t=
+I want Bing Chat AI access",aidantorrence,5 hours ago,https://replit.com/bounties/@aidantorrence/bingedge-ai-access?t=
 701,$4.50,due in 3 days,Library function doesnt send event to nostr relay,"I want to send an event to nostr relay using a nodejs library https://github.com/jb55/nostr-js.
 Acceptance Criteria
 Successful sending an event to a pool of nostr relay.
@@ -5323,7 +5323,7 @@ Technical Details
 Nostr is a new protocol creating an alternative twitter. I am using a library https://github.com/jb55/nostr-js. I want to be able to send an event to a relay.
 To get an intro to Nostr, check out this page. https://github.com/nostr-protocol/nips/blob/master/01.md
 Link to Project
-https://replit.com/@MikeRiss/nostrTest#nostr-js/trial.js. I started with modifying the example from the library. I can send the event but I can't see anything when I query the data on the relay.",MikeRiss,4 hours ago,https://replit.com/bounties/@MikeRiss/library-function-doe?t=
+https://replit.com/@MikeRiss/nostrTest#nostr-js/trial.js. I started with modifying the example from the library. I can send the event but I can't see anything when I query the data on the relay.",MikeRiss,5 hours ago,https://replit.com/bounties/@MikeRiss/library-function-doe?t=
 702,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",toshiro9117,Claimed by,
 703,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",toshiro9117,Claimed by,
 704,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",toshiro9117,Claimed by,
@@ -5341,19 +5341,19 @@ Ability to mint new NFTs
 The ability to accept different file formats for minting
 Ability to search for NFTs based on category
 
-The final product should have a user-friendly interface and be secure, scalable, and fast. Please provide examples of similar projects you have worked on and why you are the best fit for this project.",TomHumber,2 hours ago,https://replit.com/bounties/@TomHumber/create-a-nft-marketp?t=
+The final product should have a user-friendly interface and be secure, scalable, and fast. Please provide examples of similar projects you have worked on and why you are the best fit for this project.",TomHumber,3 hours ago,https://replit.com/bounties/@TomHumber/create-a-nft-marketp?t=
 712,$0.90,due in 1 month,bing/edge browser for school chromebooks,"Describe the problem you are trying to solve here.
 I want to be able to use blocked websites Snapchat, WhatsApp, etc...
 Acceptance Criteria
 Be specific about what you want in the solution here.
-must be an embedded browser with the latest version of bing/edge",kalsin1345,1 hour ago,https://replit.com/bounties/@kalsin1345/bingedge-browser-for?t=
+must be an embedded browser with the latest version of bing/edge",kalsin1345,2 hours ago,https://replit.com/bounties/@kalsin1345/bingedge-browser-for?t=
 713,$225.00,due in 14 days,Reverse Engineer an app and expose private APIs,"Access to the private APIs of specific applications can streamline numerous tasks for users, with their consent.
 The bounty entails reverse engineering a bank application and successfully simulating a login into an account. It is not necessary to have an active account on the app. Satisfactory completion involves intercepting the request, exposing the endpoint and payload, and then replicating it using Postman, even if the response is for invalid credentials.
 
 App: https://play.google.com/store/apps/details?id=com.mashreq.NeoApp&hl=en&gl=US
 
 Acceptance Criteria
-The desired outcome is a repackaged APK that can be utilized with tools such as Burp, Charles, or other software to intercept requests. This could also be applicable to iOS. The acceptance criteria include a clear set of instructions for setting up the app, simulating actions, and observing the API calls and payloads.",HeshamGhandour1,31 minutes ago,https://replit.com/bounties/@HeshamGhandour1/reverse-engineer-an?t=
+The desired outcome is a repackaged APK that can be utilized with tools such as Burp, Charles, or other software to intercept requests. This could also be applicable to iOS. The acceptance criteria include a clear set of instructions for setting up the app, simulating actions, and observing the API calls and payloads.",HeshamGhandour1,46 minutes ago,https://replit.com/bounties/@HeshamGhandour1/reverse-engineer-an?t=
 714,$180.00,due in 7 days,Fine tune GPT-3 on a set of 10-Ks,"I'd like to train GPT-3 on a series of 10-Ks (financial reports) I have downloaded, and including a way to change and update this in the future. The documents are in html and I'd ideally like to be able to ensure the input includes sub-headings that indicate sections, and data-tables (not just stripped to simple txt which seems to destroy the q&a).
 
-Output: I'd like to be able to ask specific questions and get answers, including about datapoints or tables that's included in the files.",strangeloopcanon,20 minutes ago,https://replit.com/bounties/@strangeloopcanon/fine-tune-gpt-3-on-a?t=
+Output: I'd like to be able to ask specific questions and get answers, including about datapoints or tables that's included in the files.",strangeloopcanon,35 minutes ago,https://replit.com/bounties/@strangeloopcanon/fine-tune-gpt-3-on-a?t=
