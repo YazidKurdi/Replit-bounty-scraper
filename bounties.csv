@@ -5287,7 +5287,7 @@ Entries to the giveaway should use buttons, should function similarly to Giveawa
 Commands: /start, /end, /reroll
 Giveaways should still end as usual if the bot restarts. A MongoDB database would be preferred, however if this is not feasible then use JSON
 
-I can always raise the cycle amount if this is not enough, please just let me know in your application!",elijah0x,7 hours ago,https://replit.com/bounties/@elijah0x/discord-giveaway-bot?t=
+I can always raise the cycle amount if this is not enough, please just let me know in your application!",elijah0x,8 hours ago,https://replit.com/bounties/@elijah0x/discord-giveaway-bot?t=
 678,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 679,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 680,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
@@ -5298,7 +5298,7 @@ I can always raise the cycle amount if this is not enough, please just let me kn
 685,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 686,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 687,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
-688,$90.00,due in 9 days,Use gpt-3 / chatGPT / langchain / gptindex to build a document qa web app,Looking for someone to make a simple web app that can qa against my documents using gpt-3 / chatgpt / langchain / gpt index,krrishdholakia,5 hours ago,https://replit.com/bounties/@krrishdholakia/use-gpt-3-chatgpt-la?t=
+688,$90.00,due in 9 days,Use gpt-3 / chatGPT / langchain / gptindex to build a document qa web app,Looking for someone to make a simple web app that can qa against my documents using gpt-3 / chatgpt / langchain / gpt index,krrishdholakia,6 hours ago,https://replit.com/bounties/@krrishdholakia/use-gpt-3-chatgpt-la?t=
 689,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 690,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 691,$540.00,due in 6 days,2 custom bots,"- i'd like 2 custom bots for my two websites - ltcwrk.com and blas.com
@@ -5342,3 +5342,8 @@ The ability to accept different file formats for minting
 Ability to search for NFTs based on category
 
 The final product should have a user-friendly interface and be secure, scalable, and fast. Please provide examples of similar projects you have worked on and why you are the best fit for this project.",TomHumber,1 hour ago,https://replit.com/bounties/@TomHumber/create-a-nft-marketp?t=
+712,$0.90,due in 1 month,bing/edge browser for school chromebooks,"Describe the problem you are trying to solve here.
+I want to be able to use blocked websites Snapchat, WhatsApp, etc...
+Acceptance Criteria
+Be specific about what you want in the solution here.
+must be an embedded browser with the latest version of bing/edge",kalsin1345,9 minutes ago,https://replit.com/bounties/@kalsin1345/bingedge-browser-for?t=

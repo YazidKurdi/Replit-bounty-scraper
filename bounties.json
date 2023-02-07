@@ -6776,7 +6776,7 @@
         "title": "Discord Giveaway Bot",
         "description": "Discord Giveaway Bot\nHey! I need a giveaway bot created. My criteria is:\nUses Python (Nextcord or Discord.py)\nUses slash commands\nIMPORTANT: Uses HTTP interactions, not gateway - You may need to set up a WEB SERVER or use a HTTP interaction library to create this.\nEntries to the giveaway should use buttons, should function similarly to GiveawayBot\nCommands: /start, /end, /reroll\nGiveaways should still end as usual if the bot restarts. A MongoDB database would be preferred, however if this is not feasible then use JSON\n\nI can always raise the cycle amount if this is not enough, please just let me know in your application!",
         "author": "elijah0x",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@elijah0x/discord-giveaway-bot?t="
     },
     {
@@ -6886,7 +6886,7 @@
         "title": "Use gpt-3 / chatGPT / langchain / gptindex to build a document qa web app",
         "description": "Looking for someone to make a simple web app that can qa against my documents using gpt-3 / chatgpt / langchain / gpt index",
         "author": "krrishdholakia",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@krrishdholakia/use-gpt-3-chatgpt-la?t="
     },
     {
@@ -7118,5 +7118,15 @@
         "author": "TomHumber",
         "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@TomHumber/create-a-nft-marketp?t="
+    },
+    {
+        "index": "712",
+        "price": "$0.90",
+        "due_days": "due in 1 month",
+        "title": "bing/edge browser for school chromebooks",
+        "description": "Describe the problem you are trying to solve here.\nI want to be able to use blocked websites Snapchat, WhatsApp, etc...\nAcceptance Criteria\nBe specific about what you want in the solution here.\nmust be an embedded browser with the latest version of bing/edge",
+        "author": "kalsin1345",
+        "posted_time": "9 minutes ago",
+        "link": "https://replit.com/bounties/@kalsin1345/bingedge-browser-for?t="
     }
 ]
