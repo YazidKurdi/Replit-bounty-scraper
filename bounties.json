@@ -6336,7 +6336,7 @@
         "title": "Build an Android component which lets you draw over an ImageView. Must support Pinch to zoom and drag",
         "description": "A view where users can draw over an image using touch. Also, must work accurately with pinch to zoom\nAcceptance Criteria\nShould work something like cleanup pictures feature in the clipdrop app. Just the painting over the images and pinch to zoom.\nShould work on Android and 8 and above.\nWork for Images of all types of aspect ratio.\nNo drawing outside the image view.\n\nWhen you apply, please specify how would you go about approaching the problem. A short one or two lines.\n\nBe specific about what you want in the solution here.",
         "author": "MavNow",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@MavNow/build-an-android-com?t="
     },
     {
@@ -6378,5 +6378,15 @@
         "author": "EdenCoder100",
         "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@EdenCoder100/discord-username-scr?t="
+    },
+    {
+        "index": "638",
+        "price": "$45.00",
+        "due_days": "due in 13 days",
+        "title": "Recreate text reveal animation",
+        "description": "I'm looking to recreate the text reveal animation found at https://rauno.me/projects\n\nSome helpful libraries:\nhttps://github.com/camwiegert/baffle\n\nAcceptance Criteria\nReact component(s)\nWritten in TypeScript\nNo outside libraries (except for framer-motion)\nIncludes both text reveal and line animations\nDemo a page that looks similar",
+        "author": "tehkaiyu",
+        "posted_time": "15 minutes ago",
+        "link": "https://replit.com/bounties/@tehkaiyu/recreate-text-reveal?t="
     }
 ]
