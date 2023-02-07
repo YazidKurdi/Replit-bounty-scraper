@@ -5165,7 +5165,7 @@ Randomization slider so the blocks aren't always in the same position.",JoeBurfi
 630,$2.25,due in 2 days,Need a python crash game,"I'm looking for someone to recrate the odds for a popular crash game to create a python script that will print a random output for the popular online gambling game known as crash. It should have a 0 house edge with crashing at zero 3% of the time and a max multiplier of 2,500x. Basically when run the code it will give you a random crash game output. Just the point it crashes at",Frrowsty,16 hours ago,https://replit.com/bounties/@Frrowsty/need-a-python-crash?t=
 631,$10.00,due in 12 days,Access to Google Bard ,"Acceptance Criteria
 I would like to get access to google bard.
-Bonus points if it's an api access",aidantorrence,16 hours ago,https://replit.com/bounties/@aidantorrence/access-to-google-bar?t=
+Bonus points if it's an api access",aidantorrence,17 hours ago,https://replit.com/bounties/@aidantorrence/access-to-google-bar?t=
 632,$4.50,due in 20 days,Create a Graph QL Web Application that is a Dashboard for Me (read Desc),"Description
 I would like a Graph QL dashboard website made using Graph QL and HTML. It will have the following features:
 Display the amount of runs, likes, and tips of my most descent Repls, along with a “top Repls” section displaying the statistics of my top or “most popular” Repls (with the most stats).
@@ -5205,7 +5205,7 @@ Create db lookup for email/password - if user exists in db, direct them to the a
 
 Device limit per account
 Track the devices that a user is logged in, and cap it at 3 devices per account, if the user tries to log in on a 4th device, return the error message “no more than 3 devices allowed per account - log out of a device to proceed” next to it  and show ...",juancaruiz,14 hours ago,https://replit.com/bounties/@juancaruiz/add-authentication-a?t=
-637,$0.90,closed,Discord Username script,I need a script that can tell me the usernames of everyone with a certain role in a discord server,EdenCoder100,11 hours ago,https://replit.com/bounties/@EdenCoder100/discord-username-scr?t=
+637,$0.90,closed,Discord Username script,I need a script that can tell me the usernames of everyone with a certain role in a discord server,EdenCoder100,12 hours ago,https://replit.com/bounties/@EdenCoder100/discord-username-scr?t=
 638,$45.00,due in 12 days,Recreate text reveal animation,"I'm looking to recreate the text reveal animation found at https://rauno.me/projects
 
 Some helpful libraries:
@@ -5216,7 +5216,7 @@ React component(s)
 Written in TypeScript
 No outside libraries (except for framer-motion)
 Includes both text reveal and line animations
-Demo a page that looks similar",tehkaiyu,10 hours ago,https://replit.com/bounties/@tehkaiyu/recreate-text-reveal?t=
+Demo a page that looks similar",tehkaiyu,11 hours ago,https://replit.com/bounties/@tehkaiyu/recreate-text-reveal?t=
 639,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 640,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 641,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
@@ -5250,7 +5250,7 @@ import { chunk, compact, orderBy } from ""lodash""; // VALID
 However, it should NOT list those which are from instances:
 toJSON, valueOf, value, etc are shown in the docs ( https://lodash.com/docs/4.17.15#prototype-value ), however, they are attached to an instance not directly from the import.
 
-import { toJSON, valueOf, value } from ""lodash"" // INVALID/ERROR: these do not exist...",Glavin001,7 hours ago,https://replit.com/bounties/@Glavin001/generate-list-of-aut?t=
+import { toJSON, valueOf, value } from ""lodash"" // INVALID/ERROR: these do not exist...",Glavin001,8 hours ago,https://replit.com/bounties/@Glavin001/generate-list-of-aut?t=
 650,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 651,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 652,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
@@ -5287,8 +5287,9 @@ Entries to the giveaway should use buttons, should function similarly to Giveawa
 Commands: /start, /end, /reroll
 Giveaways should still end as usual if the bot restarts. A MongoDB database would be preferred, however if this is not feasible then use JSON
 
-I can always raise the cycle amount if this is not enough, please just let me know in your application!",elijah0x,52 minutes ago,https://replit.com/bounties/@elijah0x/discord-giveaway-bot?t=
+I can always raise the cycle amount if this is not enough, please just let me know in your application!",elijah0x,1 hour ago,https://replit.com/bounties/@elijah0x/discord-giveaway-bot?t=
 678,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 679,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 680,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 681,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
+682,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
