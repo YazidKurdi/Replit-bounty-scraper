@@ -6386,7 +6386,7 @@
         "title": "Recreate text reveal animation",
         "description": "I'm looking to recreate the text reveal animation found at https://rauno.me/projects\n\nSome helpful libraries:\nhttps://github.com/camwiegert/baffle\n\nAcceptance Criteria\nReact component(s)\nWritten in TypeScript\nNo outside libraries (except for framer-motion)\nIncludes both text reveal and line animations\nDemo a page that looks similar",
         "author": "tehkaiyu",
-        "posted_time": "39 minutes ago",
+        "posted_time": "49 minutes ago",
         "link": "https://replit.com/bounties/@tehkaiyu/recreate-text-reveal?t="
     }
 ]
