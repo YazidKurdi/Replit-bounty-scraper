@@ -5305,7 +5305,7 @@ I can always raise the cycle amount if this is not enough, please just let me kn
 
 Acceptance Criteria - a conversational, quality, consistent, believable chatbot based on the content on those two websites
 
-Technical Details - ideally the interface could work through both text (ideally whatsapp) and web. i understand text might not be possible but wanted to at least ask :)",blasgm,6 hours ago,https://replit.com/bounties/@blasgm/2-custom-bots?t=
+Technical Details - ideally the interface could work through both text (ideally whatsapp) and web. i understand text might not be possible but wanted to at least ask :)",blasgm,7 hours ago,https://replit.com/bounties/@blasgm/2-custom-bots?t=
 692,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 693,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 694,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
@@ -5353,7 +5353,7 @@ The bounty entails reverse engineering a bank application and successfully simul
 App: https://play.google.com/store/apps/details?id=com.mashreq.NeoApp&hl=en&gl=US
 
 Acceptance Criteria
-The desired outcome is a repackaged APK that can be utilized with tools such as Burp, Charles, or other software to intercept requests. This could also be applicable to iOS. The acceptance criteria include a clear set of instructions for setting up the app, simulating actions, and observing the API calls and payloads.",HeshamGhandour1,46 minutes ago,https://replit.com/bounties/@HeshamGhandour1/reverse-engineer-an?t=
+The desired outcome is a repackaged APK that can be utilized with tools such as Burp, Charles, or other software to intercept requests. This could also be applicable to iOS. The acceptance criteria include a clear set of instructions for setting up the app, simulating actions, and observing the API calls and payloads.",HeshamGhandour1,56 minutes ago,https://replit.com/bounties/@HeshamGhandour1/reverse-engineer-an?t=
 714,$180.00,due in 7 days,Fine tune GPT-3 on a set of 10-Ks,"I'd like to train GPT-3 on a series of 10-Ks (financial reports) I have downloaded, and including a way to change and update this in the future. The documents are in html and I'd ideally like to be able to ensure the input includes sub-headings that indicate sections, and data-tables (not just stripped to simple txt which seems to destroy the q&a).
 
-Output: I'd like to be able to ask specific questions and get answers, including about datapoints or tables that's included in the files.",strangeloopcanon,35 minutes ago,https://replit.com/bounties/@strangeloopcanon/fine-tune-gpt-3-on-a?t=
+Output: I'd like to be able to ask specific questions and get answers, including about datapoints or tables that's included in the files.",strangeloopcanon,45 minutes ago,https://replit.com/bounties/@strangeloopcanon/fine-tune-gpt-3-on-a?t=
