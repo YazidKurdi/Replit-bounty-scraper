@@ -5440,7 +5440,7 @@ Link to Project",simistern,14 hours ago,https://replit.com/bounties/@simistern/b
 
 Make a system where I can deploy this model on AWS/GCP (I can share you my credits) or any other service that lets you run an ML model. Then, I should be able to put in a link to an .mp4 video, and it should automatically download that video, run the pipeline on it, and upload the final video to an S3 bucket. The frontend can be as simple as pasting a single video link, and providing the colorized link in return. There does not need to be a frontend, being easily callable from an api endpoint or a script is sufficient. I can provide the credits needed to run the model.
 
-You can see an example of how I previously tried to deploy this model, but wasn't able to finish here: https://github.com/Divide-By-0/tcvc-modal/ . This a...",AJGupta,13 hours ago,https://replit.com/bounties/@AJGupta/deploy-tcvc-to-an-en?t=
+You can see an example of how I previously tried to deploy this model, but wasn't able to finish here: https://github.com/Divide-By-0/tcvc-modal/ . This a...",AJGupta,14 hours ago,https://replit.com/bounties/@AJGupta/deploy-tcvc-to-an-en?t=
 722,$153.00,due in 10 days,Add Algolia Search to Web app,"We are looking to add search capabilities to our transcription web app using Agolia's search.
 
 Acceptance Criteria
@@ -5511,3 +5511,9 @@ A working SimpleList component from the library repository in a Repl.
 
 Link to Project
 https://github.com/Akryum/vue-virtual-scroller/blob/master/packages/demo/src/components/SimpleList.vue",MatthiasRichard,7 hours ago,https://replit.com/bounties/@MatthiasRichard/cant-get-to-run-vue?t=
+728,$90.00,due in 11 days,Chrome extension to keep off distracting sites,"A good Chrome extension to keep you off Facebook etc. Tracks how long you spend on degenerate sites (i.e. Facebook, Twitter, Youtube), then when you go to Facebook etc, it shows a popup saying ""On average, you think you'll spend 16 minutes, but you end up spending 31 minutes on this tab. How many minutes do you think you'll spend this time?"" And at the end of that # of minutes, it makes the page black and white so you can continue to browse but it'll be slightly uncomfortable.
+
+This extension should also come with an independent landing page/website with screenshots that explains how the website works, so that people can discover and understand it.
+
+Acceptance Criteria
+You must provide a resume or Github history or previous experience, along with a specific description of the method/services that you will use to do this project.",AJGupta,3 minutes ago,https://replit.com/bounties/@AJGupta/chrome-extension-to?t=

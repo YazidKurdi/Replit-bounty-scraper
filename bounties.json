@@ -7216,7 +7216,7 @@
         "title": "Deploy TCVC to an endpoint",
         "description": "The model I want is here: https://github.com/lyh-18/TCVC-Temporally-Consistent-Video-Colorization and the machine setup instructions are here: https://github.com/lyh-18/TCVC-Temporally-Consistent-Video-Colorization/issues/6#issuecomment-1271935427\n\nMake a system where I can deploy this model on AWS/GCP (I can share you my credits) or any other service that lets you run an ML model. Then, I should be able to put in a link to an .mp4 video, and it should automatically download that video, run the pipeline on it, and upload the final video to an S3 bucket. The frontend can be as simple as pasting a single video link, and providing the colorized link in return. There does not need to be a frontend, being easily callable from an api endpoint or a script is sufficient. I can provide the credits needed to run the model.\n\nYou can see an example of how I previously tried to deploy this model, but wasn't able to finish here: https://github.com/Divide-By-0/tcvc-modal/ . This a...",
         "author": "AJGupta",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/deploy-tcvc-to-an-en?t="
     },
     {
@@ -7278,5 +7278,15 @@
         "author": "MatthiasRichard",
         "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@MatthiasRichard/cant-get-to-run-vue?t="
+    },
+    {
+        "index": "728",
+        "price": "$90.00",
+        "due_days": "due in 11 days",
+        "title": "Chrome extension to keep off distracting sites",
+        "description": "A good Chrome extension to keep you off Facebook etc. Tracks how long you spend on degenerate sites (i.e. Facebook, Twitter, Youtube), then when you go to Facebook etc, it shows a popup saying \"On average, you think you'll spend 16 minutes, but you end up spending 31 minutes on this tab. How many minutes do you think you'll spend this time?\" And at the end of that # of minutes, it makes the page black and white so you can continue to browse but it'll be slightly uncomfortable.\n\nThis extension should also come with an independent landing page/website with screenshots that explains how the website works, so that people can discover and understand it.\n\nAcceptance Criteria\nYou must provide a resume or Github history or previous experience, along with a specific description of the method/services that you will use to do this project.",
+        "author": "AJGupta",
+        "posted_time": "3 minutes ago",
+        "link": "https://replit.com/bounties/@AJGupta/chrome-extension-to?t="
     }
 ]
