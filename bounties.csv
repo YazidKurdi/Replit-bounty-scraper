@@ -5384,7 +5384,7 @@ Resources
 Replit Backend: https://replit.com/@coolcoder1213/Weather-Server?v=1
 
 Scratch Frontend: https://scratch.mit.edu/projects/701082874/",coolcoder1213,9 hours ago,https://replit.com/bounties/@coolcoder1213/fix-nodejs-scratch-a?t=
-718,$180.00,due in 11 days,Goal Planning Website,"web application where users can create an goal. Users choose an goal; users will get a calendar invite with ten consecutive days. Collect information on what their specific goal is. When goal is created user can share social media (twitter/Facebook) that they started a goal. When goal has completed user can share on social media that they completed goal.
+718,$180.00,due in 10 days,Goal Planning Website,"web application where users can create an goal. Users choose an goal; users will get a calendar invite with ten consecutive days. Collect information on what their specific goal is. When goal is created user can share social media (twitter/Facebook) that they started a goal. When goal has completed user can share on social media that they completed goal.
 
 User Flow
 
@@ -5407,14 +5407,14 @@ landing page (includes a list of goals)
 google authentication
 Goal details page - collects information about user (goal details)
 use...",BrandonF7,11 hours ago,https://replit.com/bounties/@BrandonF7/goal-planning-websit?t=
-719,$45.00,due in 8 days,Create a React Native app using Expo and react-native-dotenv,"I need an Expo app that uses the library react-native-dot-env https://github.com/goatandsheep/react-native-dotenv to import an ENV file into my project using ""@env"". I would also like this app to use TypeScript and the native-base template. https://docs.nativebase.io/install-expo
+719,$45.00,due in 7 days,Create a React Native app using Expo and react-native-dotenv,"I need an Expo app that uses the library react-native-dot-env https://github.com/goatandsheep/react-native-dotenv to import an ENV file into my project using ""@env"". I would also like this app to use TypeScript and the native-base template. https://docs.nativebase.io/install-expo
 
 Acceptance Criteria
 Project must compile, run and show a value from an ENV file on the screen that is imported using @env alias.
 
 Technical Details
-I don't want to eject the project and there will be some babel configuration needed most likely",patrickpistor1,10 hours ago,https://replit.com/bounties/@patrickpistor1/create-a-react-nativ?t=
-720,$45.00,due in 4 days,Building AWS Python Lambda Layer,"Create an aws Lambda Python layer that imports the following libraries for use in a generic lambda function:
+I don't want to eject the project and there will be some babel configuration needed most likely",patrickpistor1,11 hours ago,https://replit.com/bounties/@patrickpistor1/create-a-react-nativ?t=
+720,$45.00,due in 3 days,Building AWS Python Lambda Layer,"Create an aws Lambda Python layer that imports the following libraries for use in a generic lambda function:
 
 import os
 import gspread
@@ -5436,12 +5436,12 @@ I should be able to easily create a lambda layer that allows me to use all the s
 Technical Details
 
 Link to Project",simistern,8 hours ago,https://replit.com/bounties/@simistern/building-aws-python?t=
-721,$225.00,due in 13 days,Deploy TCVC to an endpoint,"The model I want is here: https://github.com/lyh-18/TCVC-Temporally-Consistent-Video-Colorization and the machine setup instructions are here: https://github.com/lyh-18/TCVC-Temporally-Consistent-Video-Colorization/issues/6#issuecomment-1271935427
+721,$225.00,due in 12 days,Deploy TCVC to an endpoint,"The model I want is here: https://github.com/lyh-18/TCVC-Temporally-Consistent-Video-Colorization and the machine setup instructions are here: https://github.com/lyh-18/TCVC-Temporally-Consistent-Video-Colorization/issues/6#issuecomment-1271935427
 
 Make a system where I can deploy this model on AWS/GCP (I can share you my credits) or any other service that lets you run an ML model. Then, I should be able to put in a link to an .mp4 video, and it should automatically download that video, run the pipeline on it, and upload the final video to an S3 bucket. The frontend can be as simple as pasting a single video link, and providing the colorized link in return. There does not need to be a frontend, being easily callable from an api endpoint or a script is sufficient. I can provide the credits needed to run the model.
 
 You can see an example of how I previously tried to deploy this model, but wasn't able to finish here: https://github.com/Divide-By-0/tcvc-modal/ . This a...",AJGupta,8 hours ago,https://replit.com/bounties/@AJGupta/deploy-tcvc-to-an-en?t=
-722,$153.00,due in 11 days,Add Algolia Search to Web app,"We are looking to add search capabilities to our transcription web app using Agolia's search.
+722,$153.00,due in 10 days,Add Algolia Search to Web app,"We are looking to add search capabilities to our transcription web app using Agolia's search.
 
 Acceptance Criteria
 
@@ -5460,8 +5460,8 @@ Viewstate needs to be part of the app, and MAC must not be enforced
 Acceptance Criteria
 App can have extremely basic functionality of register user, login and user search with an embedded DB like SQLite
 super-simple (pretty much boilerplate) app in ASP.NET with ViewState with viewstate mac not enforced
-Must work on Linux. Dockerfile must be included",AbhayBhargav1,2 hours ago,https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a?t=
-724,$90.00,due in 7 days,Simple (Boilerplate) app on ASP.NET that is vulnerable to JSON.Net Insecure Deserialization,"I want to build a very simple app to demonstrate security flaws to developers
+Must work on Linux. Dockerfile must be included",AbhayBhargav1,3 hours ago,https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a?t=
+724,$90.00,due in 6 days,Simple (Boilerplate) app on ASP.NET that is vulnerable to JSON.Net Insecure Deserialization,"I want to build a very simple app to demonstrate security flaws to developers
 I want a super simple (nearly boilerplate app) that is vulnerable to Insecure Deserialization with JSON.NET like this link
 The app must allow a user to sign up over a JSON POST request. The ""attacker"" posts the malicious JSON in this request
 The frontend must replay the sign up contents on an HTML
@@ -5470,8 +5470,8 @@ Acceptance Criteria
 I want a super simple (nearly boilerplate app) that is vulnerable to Insecure Deserialization with JSON.NET like this link
 The app must allow a user to sign up over a JSON POST request. The ""attacker"" posts the malicious JSON in this request
 Very basic frontend would do. Something with Bootstrap is good enough
-Must work on Linux and as a Container. Must include Dockerfile",AbhayBhargav1,2 hours ago,https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a-1?t=
-725,$90.00,due in 7 days,Python CLI/Script to convert all Thumbnails in a Vimeo Account over API,"I have a vimeo account where API is enabled.
+Must work on Linux and as a Container. Must include Dockerfile",AbhayBhargav1,3 hours ago,https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a-1?t=
+725,$90.00,due in 6 days,Python CLI/Script to convert all Thumbnails in a Vimeo Account over API,"I have a vimeo account where API is enabled.
 I want to change the thumbnails of each of my videos and make them consistent
 I will give you a 1080px by 1600px background. This will be consistent across all videos
 The script needs to iterate through the videos and get the title of each video. The title needs to be overlayed over the background image in Raleway font, centered in the middle of the background image thumbnail
@@ -5481,7 +5481,7 @@ Acceptance Criteria
 The script should be able to consume an API Key as an environment variable, and the path of the background image as an argument to the main function. Everything else must be done by the script
 The script should iterate over all the videos in a vimeo account and generate a thumbnail for each video and upload that thumbnail as the official thumbnail for the video over Vimeo API
 Raleway font is to be used proportional to the size of the thumbnail. It must be center aligned ...",AbhayBhargav1,2 hours ago,https://replit.com/bounties/@AbhayBhargav1/python-script-to-con?t=
-726,$18.00,due in 6 days,Extract judgements using UK National Archive API (Python),"The UK National Archive has the following API:
+726,$18.00,due in 5 days,Extract judgements using UK National Archive API (Python),"The UK National Archive has the following API:
 https://github.com/nationalarchives/ds-find-caselaw-docs/blob/main/doc/openapi/public_api.yml
 
 It acts as an open, public API to the following feed of UK Court Judgements: https://caselaw.nationalarchives.gov.uk/
@@ -5498,7 +5498,7 @@ The script should have separate functions for the following:
 
 Acceptance Criteria
 A test example should be included in the script to replicate the following search filter:
-https://caselaw.nationalarchive...",kushmadlani,1 hour ago,https://replit.com/bounties/@kushmadlani/extract-judgements-u?t=
+https://caselaw.nationalarchive...",kushmadlani,2 hours ago,https://replit.com/bounties/@kushmadlani/extract-judgements-u?t=
 727,$31.50,closed,Can't get to run vue virtual scroller demo,"I'm looking to get the Simple List demo of this library to work in isolation:
 https://github.com/Akryum/vue-virtual-scroller/blob/master/packages/demo/src/components/SimpleList.vue
 
@@ -5510,4 +5510,4 @@ Acceptance Criteria
 A working SimpleList component from the library repository in a Repl.
 
 Link to Project
-https://github.com/Akryum/vue-virtual-scroller/blob/master/packages/demo/src/components/SimpleList.vue",MatthiasRichard,1 hour ago,https://replit.com/bounties/@MatthiasRichard/cant-get-to-run-vue?t=
+https://github.com/Akryum/vue-virtual-scroller/blob/master/packages/demo/src/components/SimpleList.vue",MatthiasRichard,2 hours ago,https://replit.com/bounties/@MatthiasRichard/cant-get-to-run-vue?t=
