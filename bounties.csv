@@ -5406,7 +5406,7 @@ PHP (preferred)
 landing page (includes a list of goals)
 google authentication
 Goal details page - collects information about user (goal details)
-use...",BrandonF7,15 hours ago,https://replit.com/bounties/@BrandonF7/goal-planning-websit?t=
+use...",BrandonF7,16 hours ago,https://replit.com/bounties/@BrandonF7/goal-planning-websit?t=
 719,$45.00,due in 7 days,Create a React Native app using Expo and react-native-dotenv,"I need an Expo app that uses the library react-native-dot-env https://github.com/goatandsheep/react-native-dotenv to import an ENV file into my project using ""@env"". I would also like this app to use TypeScript and the native-base template. https://docs.nativebase.io/install-expo
 
 Acceptance Criteria
@@ -5440,7 +5440,7 @@ Link to Project",simistern,13 hours ago,https://replit.com/bounties/@simistern/b
 
 Make a system where I can deploy this model on AWS/GCP (I can share you my credits) or any other service that lets you run an ML model. Then, I should be able to put in a link to an .mp4 video, and it should automatically download that video, run the pipeline on it, and upload the final video to an S3 bucket. The frontend can be as simple as pasting a single video link, and providing the colorized link in return. There does not need to be a frontend, being easily callable from an api endpoint or a script is sufficient. I can provide the credits needed to run the model.
 
-You can see an example of how I previously tried to deploy this model, but wasn't able to finish here: https://github.com/Divide-By-0/tcvc-modal/ . This a...",AJGupta,12 hours ago,https://replit.com/bounties/@AJGupta/deploy-tcvc-to-an-en?t=
+You can see an example of how I previously tried to deploy this model, but wasn't able to finish here: https://github.com/Divide-By-0/tcvc-modal/ . This a...",AJGupta,13 hours ago,https://replit.com/bounties/@AJGupta/deploy-tcvc-to-an-en?t=
 722,$153.00,due in 10 days,Add Algolia Search to Web app,"We are looking to add search capabilities to our transcription web app using Agolia's search.
 
 Acceptance Criteria
@@ -5451,7 +5451,7 @@ Ensure that a user is able to search a transcript.
 Ensure that each user can only access their own transcripts and not others.
 
 Technical Details
-We are building our web app using React and Django. We can discuss more details in email/call.",JordiBurgues,7 hours ago,https://replit.com/bounties/@JordiBurgues/add-algolia-search-t?t=
+We are building our web app using React and Django. We can discuss more details in email/call.",JordiBurgues,8 hours ago,https://replit.com/bounties/@JordiBurgues/add-algolia-search-t?t=
 723,$90.00,closed,Simple (Boilerplate) ASP.NET app with Viewstate MAC disabled ,"I want a super-simple (pretty much boilerplate) app in ASP.NET with ViewState with viewstate mac not enforced
 App can have very basic functionality of register user, login and user search.
 Embedded DB like SQLite is fine
