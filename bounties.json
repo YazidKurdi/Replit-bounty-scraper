@@ -7016,7 +7016,7 @@
         "title": "Library function doesnt send event to nostr relay",
         "description": "I want to send an event to nostr relay using a nodejs library https://github.com/jb55/nostr-js.\nAcceptance Criteria\nSuccessful sending an event to a pool of nostr relay.\nTechnical Details\nNostr is a new protocol creating an alternative twitter. I am using a library https://github.com/jb55/nostr-js. I want to be able to send an event to a relay.\nTo get an intro to Nostr, check out this page. https://github.com/nostr-protocol/nips/blob/master/01.md\nLink to Project\nhttps://replit.com/@MikeRiss/nostrTest#nostr-js/trial.js. I started with modifying the example from the library. I can send the event but I can't see anything when I query the data on the relay.",
         "author": "MikeRiss",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@MikeRiss/library-function-doe?t="
     },
     {
@@ -7116,7 +7116,7 @@
         "title": "Create a NFT marketplace (Ethereum/Polkadot)",
         "description": "Create a decentralized NFT marketplace using Rust/Substrate for the backend and React for the front end. The site should enable both fiat and cryptocurrency payments and have the following functionality:\n\nAuction functionality\nBuy it now functionality\nAbility to mint new NFTs\nThe ability to accept different file formats for minting\nAbility to search for NFTs based on category\n\nThe final product should have a user-friendly interface and be secure, scalable, and fast. Please provide examples of similar projects you have worked on and why you are the best fit for this project.",
         "author": "TomHumber",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@TomHumber/create-a-nft-marketp?t="
     },
     {
@@ -7126,7 +7126,7 @@
         "title": "bing/edge browser for school chromebooks",
         "description": "Describe the problem you are trying to solve here.\nI want to be able to use blocked websites Snapchat, WhatsApp, etc...\nAcceptance Criteria\nBe specific about what you want in the solution here.\nmust be an embedded browser with the latest version of bing/edge",
         "author": "kalsin1345",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@kalsin1345/bingedge-browser-for?t="
     },
     {
@@ -7146,7 +7146,7 @@
         "title": "Fine tune GPT-3 on a set of 10-Ks",
         "description": "I'd like to train GPT-3 on a series of 10-Ks (financial reports) I have downloaded, and including a way to change and update this in the future. The documents are in html and I'd ideally like to be able to ensure the input includes sub-headings that indicate sections, and data-tables (not just stripped to simple txt which seems to destroy the q&a).\n\nOutput: I'd like to be able to ask specific questions and get answers, including about datapoints or tables that's included in the files.",
         "author": "strangeloopcanon",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@strangeloopcanon/fine-tune-gpt-3-on-a?t="
     },
     {
@@ -7156,7 +7156,7 @@
         "title": "Next step of document signing task",
         "description": "As discussed with Alec",
         "author": "AndrewShowman",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/next-step-of-documen?t="
     },
     {
@@ -7176,7 +7176,7 @@
         "title": "Fix Node.JS Scratch API Program",
         "description": "I have a program on Repl that get's data from Microsoft Weather API, connects to Scratch API, and sends the data to the Scratch project. This was working perfectly until one day, about 6 months ago, it crashed. I believe this was because of Scratch blocking Replit's IP, but I hope one of you can fix it.\n\nResources\n\nReplit Backend: https://replit.com/@coolcoder1213/Weather-Server?v=1\n\nScratch Frontend: https://scratch.mit.edu/projects/701082874/",
         "author": "coolcoder1213",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@coolcoder1213/fix-nodejs-scratch-a?t="
     },
     {
@@ -7186,7 +7186,7 @@
         "title": "Goal Planning Website",
         "description": "web application where users can create an goal. Users choose an goal; users will get a calendar invite with ten consecutive days. Collect information on what their specific goal is. When goal is created user can share social media (twitter/Facebook) that they started a goal. When goal has completed user can share on social media that they completed goal.\n\nUser Flow\n\nLanding page (includes a list of ten goals)\nLogin via Google Auth\nClick on create a goal, go to goal details page\nFill out additional details (goal details), enter email, user presented option to share goal details on social media\nUser is email goal details, calendar invite ( I have PHP code to create calendar invite if needed)\n\nAcceptance Criteria\n\nwebpages and backend verified\n\nTechnical Details\n\nMust be able to setup on shared hosting\nBootstrap framework\nPHP (preferred)\nlanding page (includes a list of goals)\ngoogle authentication\nGoal details page - collects information about user (goal details)\nuse...",
         "author": "BrandonF7",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@BrandonF7/goal-planning-websit?t="
     },
     {
@@ -7196,7 +7196,7 @@
         "title": "Create a React Native app using Expo and react-native-dotenv",
         "description": "I need an Expo app that uses the library react-native-dot-env https://github.com/goatandsheep/react-native-dotenv to import an ENV file into my project using \"@env\". I would also like this app to use TypeScript and the native-base template. https://docs.nativebase.io/install-expo\n\nAcceptance Criteria\nProject must compile, run and show a value from an ENV file on the screen that is imported using @env alias.\n\nTechnical Details\nI don't want to eject the project and there will be some babel configuration needed most likely",
         "author": "patrickpistor1",
-        "posted_time": "43 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@patrickpistor1/create-a-react-nativ?t="
     }
 ]
