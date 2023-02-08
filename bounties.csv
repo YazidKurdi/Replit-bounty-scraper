@@ -5516,7 +5516,7 @@ https://github.com/Akryum/vue-virtual-scroller/blob/master/packages/demo/src/com
 This extension should also come with an independent landing page/website with screenshots that explains how the website works, so that people can discover and understand it.
 
 Acceptance Criteria
-You must provide a resume or Github history or previous experience, along with a specific description of the method/services that you will use to do this project.",AJGupta,55 minutes ago,https://replit.com/bounties/@AJGupta/chrome-extension-to?t=
+You must provide a resume or Github history or previous experience, along with a specific description of the method/services that you will use to do this project.",AJGupta,1 hour ago,https://replit.com/bounties/@AJGupta/chrome-extension-to?t=
 729,$18.00,due in 10 days,[Swift/xCode] iMessage Sentiment Analyzer 📲 ,"I own sentimentanalyzer.com and plan to use it to channel customers to download an iMessage app.
 
 Currently, it can be difficult to judge sentiment in a text conversation. By using an in-iMessage app, we can leverage on-device Machine Learning to analyse iMessage's without leaving the application.
@@ -5532,9 +5532,9 @@ Users install the app, then stickers appear on their messages and their incoming
 Additional Context -
 I'm comfortable hiring a new developer.
 You will be credited in the code and on the website, I can link to your Github/Replit/anything else.
-If this is your first Swift/iMessag...",Bandos1000,50 minutes ago,https://replit.com/bounties/@Bandos1000/swiftxcode-imessage?t=
+If this is your first Swift/iMessag...",Bandos1000,58 minutes ago,https://replit.com/bounties/@Bandos1000/swiftxcode-imessage?t=
 730,$144.00,due in 13 days,Talking Harry Potter-style Painting,"Talk to a 'painting' and have it talk back, like Harry Potter paintings.
 
 Detect voice coming from the always-on speaker, and when a specific name is uttered, start paying more attention (i.e. it should detect me saying, ""Plato, what would you say about the rapid industrialization of society?""). There are many open source programs for similar wake word detection. Then, the desktop should run speech-to-text on that voice. Then, it will pass that text into chatgpt to generate the response to that conversation. While ChatGPT is generating a response, it will fill that lag gap with some templated responses (like, ""Great question! I have spent decades pondering this very idea"" or whatever). Then, using tokkingheads/another deepfakes-type model to modify both the voice and the face, to have their face pretend like they're saying the response. Once the ChatGPT text starts coming, stream it sentence by sentence to the painting so the animation looks smooth.
 
-I will run this...",AJGupta,41 minutes ago,https://replit.com/bounties/@AJGupta/talking-harry-potter?t=
+I will run this...",AJGupta,49 minutes ago,https://replit.com/bounties/@AJGupta/talking-harry-potter?t=
