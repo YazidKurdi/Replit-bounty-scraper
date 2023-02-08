@@ -7206,7 +7206,7 @@
         "title": "Building AWS Python Lambda Layer",
         "description": "Create an aws Lambda Python layer that imports the following libraries for use in a generic lambda function:\n\nimport os\nimport gspread\nfrom dotenv import dotenv_values\nfrom google.oauth2 import service_account\nfrom googleapiclient.discovery import build\nfrom IPython.display import Markdown, display\nfrom gpt_index import (\n    GoogleDocsReader,\n    GPTListIndex,\n    GPTSimpleVectorIndex,\n    SimpleDirectoryReader,\n    SimpleWebPageReader,\n    TwitterTweetReader,\n)\n\nAcceptance Criteria\nI should be able to easily create a lambda layer that allows me to use all the services above in a basic lambda python function (python 3.9 I believe) so that I can use this lambda function as a quick endpoint that makes use of those libraries.\nTechnical Details\n\nLink to Project",
         "author": "simistern",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@simistern/building-aws-python?t="
     },
     {
@@ -7256,7 +7256,7 @@
         "title": "Python CLI/Script to convert all Thumbnails in a Vimeo Account over API",
         "description": "I have a vimeo account where API is enabled.\nI want to change the thumbnails of each of my videos and make them consistent\nI will give you a 1080px by 1600px background. This will be consistent across all videos\nThe script needs to iterate through the videos and get the title of each video. The title needs to be overlayed over the background image in Raleway font, centered in the middle of the background image thumbnail\nThis is the background image => https://imgur.com/a/ufkX8IG\n\nAcceptance Criteria\nThe script should be able to consume an API Key as an environment variable, and the path of the background image as an argument to the main function. Everything else must be done by the script\nThe script should iterate over all the videos in a vimeo account and generate a thumbnail for each video and upload that thumbnail as the official thumbnail for the video over Vimeo API\nRaleway font is to be used proportional to the size of the thumbnail. It must be center aligned ...",
         "author": "AbhayBhargav1",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@AbhayBhargav1/python-script-to-con?t="
     },
     {
