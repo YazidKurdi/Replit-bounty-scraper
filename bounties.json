@@ -7216,7 +7216,7 @@
         "title": "Deploy TCVC to an endpoint",
         "description": "The model I want is here: https://github.com/lyh-18/TCVC-Temporally-Consistent-Video-Colorization and the machine setup instructions are here: https://github.com/lyh-18/TCVC-Temporally-Consistent-Video-Colorization/issues/6#issuecomment-1271935427\n\nMake a system where I can deploy this model on AWS/GCP (I can share you my credits) or any other service that lets you run an ML model. Then, I should be able to put in a link to an .mp4 video, and it should automatically download that video, run the pipeline on it, and upload the final video to an S3 bucket. The frontend can be as simple as pasting a single video link, and providing the colorized link in return. There does not need to be a frontend, being easily callable from an api endpoint or a script is sufficient. I can provide the credits needed to run the model.\n\nYou can see an example of how I previously tried to deploy this model, but wasn't able to finish here: https://github.com/Divide-By-0/tcvc-modal/ . This a...",
         "author": "AJGupta",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/deploy-tcvc-to-an-en?t="
     },
     {
@@ -7226,7 +7226,7 @@
         "title": "Add Algolia Search to Web app",
         "description": "We are looking to add search capabilities to our transcription web app using Agolia's search.\n\nAcceptance Criteria\n\nIntegrate Algolia into a web app.\nFront end integration using React.\nEnsure that a user is able to search a transcript.\nEnsure that each user can only access their own transcripts and not others.\n\nTechnical Details\nWe are building our web app using React and Django. We can discuss more details in email/call.",
         "author": "JordiBurgues",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@JordiBurgues/add-algolia-search-t?t="
     },
     {
@@ -7286,7 +7286,7 @@
         "title": "Chrome extension to keep off distracting sites",
         "description": "A good Chrome extension to keep you off Facebook etc. Tracks how long you spend on degenerate sites (i.e. Facebook, Twitter, Youtube), then when you go to Facebook etc, it shows a popup saying \"On average, you think you'll spend 16 minutes, but you end up spending 31 minutes on this tab. How many minutes do you think you'll spend this time?\" And at the end of that # of minutes, it makes the page black and white so you can continue to browse but it'll be slightly uncomfortable.\n\nThis extension should also come with an independent landing page/website with screenshots that explains how the website works, so that people can discover and understand it.\n\nAcceptance Criteria\nYou must provide a resume or Github history or previous experience, along with a specific description of the method/services that you will use to do this project.",
         "author": "AJGupta",
-        "posted_time": "43 minutes ago",
+        "posted_time": "55 minutes ago",
         "link": "https://replit.com/bounties/@AJGupta/chrome-extension-to?t="
     },
     {
@@ -7296,7 +7296,7 @@
         "title": "[Swift/xCode] iMessage Sentiment Analyzer \ud83d\udcf2 ",
         "description": "I own sentimentanalyzer.com and plan to use it to channel customers to download an iMessage app.\n\nCurrently, it can be difficult to judge sentiment in a text conversation. By using an in-iMessage app, we can leverage on-device Machine Learning to analyse iMessage's without leaving the application.\n\nhttps://developer.apple.com/imessage/ More about iMessage apps, I think Stickers would be a good use case. (Angry sticker shows up for mad sentiment, happy for happier message, etc)\n\nGuide on building an iMessage app\n\nAcceptance Criteria\nA product I can launch to the App Store that allows on device sentiment analysis within iMessage. (No data should leave the device.)\nUsers install the app, then stickers appear on their messages and their incoming messages that show sentiment.\n\nAdditional Context -\nI'm comfortable hiring a new developer.\nYou will be credited in the code and on the website, I can link to your Github/Replit/anything else.\nIf this is your first Swift/iMessag...",
         "author": "Bandos1000",
-        "posted_time": "38 minutes ago",
+        "posted_time": "50 minutes ago",
         "link": "https://replit.com/bounties/@Bandos1000/swiftxcode-imessage?t="
     },
     {
@@ -7306,7 +7306,7 @@
         "title": "Talking Harry Potter-style Painting",
         "description": "Talk to a 'painting' and have it talk back, like Harry Potter paintings.\n\nDetect voice coming from the always-on speaker, and when a specific name is uttered, start paying more attention (i.e. it should detect me saying, \"Plato, what would you say about the rapid industrialization of society?\"). There are many open source programs for similar wake word detection. Then, the desktop should run speech-to-text on that voice. Then, it will pass that text into chatgpt to generate the response to that conversation. While ChatGPT is generating a response, it will fill that lag gap with some templated responses (like, \"Great question! I have spent decades pondering this very idea\" or whatever). Then, using tokkingheads/another deepfakes-type model to modify both the voice and the face, to have their face pretend like they're saying the response. Once the ChatGPT text starts coming, stream it sentence by sentence to the painting so the animation looks smooth.\n\nI will run this...",
         "author": "AJGupta",
-        "posted_time": "29 minutes ago",
+        "posted_time": "41 minutes ago",
         "link": "https://replit.com/bounties/@AJGupta/talking-harry-potter?t="
     }
 ]
