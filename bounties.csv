@@ -5357,7 +5357,7 @@ The desired outcome is a repackaged APK that can be utilized with tools such as 
 714,$180.00,due in 7 days,Fine tune GPT-3 on a set of 10-Ks,"I'd like to train GPT-3 on a series of 10-Ks (financial reports) I have downloaded, and including a way to change and update this in the future. The documents are in html and I'd ideally like to be able to ensure the input includes sub-headings that indicate sections, and data-tables (not just stripped to simple txt which seems to destroy the q&a).
 
 Output: I'd like to be able to ask specific questions and get answers, including about datapoints or tables that's included in the files.",strangeloopcanon,5 hours ago,https://replit.com/bounties/@strangeloopcanon/fine-tune-gpt-3-on-a?t=
-715,$90.00,due in 7 days,Next step of document signing task,As discussed with Alec,AndrewShowman,3 hours ago,https://replit.com/bounties/@AndrewShowman/next-step-of-documen?t=
+715,$90.00,due in 7 days,Next step of document signing task,As discussed with Alec,AndrewShowman,4 hours ago,https://replit.com/bounties/@AndrewShowman/next-step-of-documen?t=
 716,$50.00,due in 16 days,[Open Source] Create LogSeq Publish Feature ፨,"LogSeq currently has no method to publish sites/graphs to a personal website.
 It is an open source project, so I am looking for someone to directly commit/push to the project and for it to be accepted on the GitHub.
 
@@ -5383,7 +5383,7 @@ Resources
 
 Replit Backend: https://replit.com/@coolcoder1213/Weather-Server?v=1
 
-Scratch Frontend: https://scratch.mit.edu/projects/701082874/",coolcoder1213,2 hours ago,https://replit.com/bounties/@coolcoder1213/fix-nodejs-scratch-a?t=
+Scratch Frontend: https://scratch.mit.edu/projects/701082874/",coolcoder1213,3 hours ago,https://replit.com/bounties/@coolcoder1213/fix-nodejs-scratch-a?t=
 718,$180.00,due in 11 days,Goal Planning Website,"web application where users can create an goal. Users choose an goal; users will get a calendar invite with ten consecutive days. Collect information on what their specific goal is. When goal is created user can share social media (twitter/Facebook) that they started a goal. When goal has completed user can share on social media that they completed goal.
 
 User Flow
@@ -5406,7 +5406,7 @@ PHP (preferred)
 landing page (includes a list of goals)
 google authentication
 Goal details page - collects information about user (goal details)
-use...",BrandonF7,2 hours ago,https://replit.com/bounties/@BrandonF7/goal-planning-websit?t=
+use...",BrandonF7,3 hours ago,https://replit.com/bounties/@BrandonF7/goal-planning-websit?t=
 719,$45.00,due in 8 days,Create a React Native app using Expo and react-native-dotenv,"I need an Expo app that uses the library react-native-dot-env https://github.com/goatandsheep/react-native-dotenv to import an ENV file into my project using ""@env"". I would also like this app to use TypeScript and the native-base template. https://docs.nativebase.io/install-expo
 
 Acceptance Criteria
