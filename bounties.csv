@@ -5305,7 +5305,7 @@ I can always raise the cycle amount if this is not enough, please just let me kn
 
 Acceptance Criteria - a conversational, quality, consistent, believable chatbot based on the content on those two websites
 
-Technical Details - ideally the interface could work through both text (ideally whatsapp) and web. i understand text might not be possible but wanted to at least ask :)",blasgm,7 hours ago,https://replit.com/bounties/@blasgm/2-custom-bots?t=
+Technical Details - ideally the interface could work through both text (ideally whatsapp) and web. i understand text might not be possible but wanted to at least ask :)",blasgm,8 hours ago,https://replit.com/bounties/@blasgm/2-custom-bots?t=
 692,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 693,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 694,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
@@ -5315,7 +5315,7 @@ Technical Details - ideally the interface could work through both text (ideally 
 698,$22.50,closed,RDP for github,RDP for github,toshiro9117,Claimed by,
 699,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",toshiro9117,Claimed by,
 700,$20.00,due in 13 days,Bing/Edge AI access,"Acceptance Criteria
-I want Bing Chat AI access",aidantorrence,5 hours ago,https://replit.com/bounties/@aidantorrence/bingedge-ai-access?t=
+I want Bing Chat AI access",aidantorrence,6 hours ago,https://replit.com/bounties/@aidantorrence/bingedge-ai-access?t=
 701,$4.50,due in 3 days,Library function doesnt send event to nostr relay,"I want to send an event to nostr relay using a nodejs library https://github.com/jb55/nostr-js.
 Acceptance Criteria
 Successful sending an event to a pool of nostr relay.
@@ -5323,7 +5323,7 @@ Technical Details
 Nostr is a new protocol creating an alternative twitter. I am using a library https://github.com/jb55/nostr-js. I want to be able to send an event to a relay.
 To get an intro to Nostr, check out this page. https://github.com/nostr-protocol/nips/blob/master/01.md
 Link to Project
-https://replit.com/@MikeRiss/nostrTest#nostr-js/trial.js. I started with modifying the example from the library. I can send the event but I can't see anything when I query the data on the relay.",MikeRiss,5 hours ago,https://replit.com/bounties/@MikeRiss/library-function-doe?t=
+https://replit.com/@MikeRiss/nostrTest#nostr-js/trial.js. I started with modifying the example from the library. I can send the event but I can't see anything when I query the data on the relay.",MikeRiss,6 hours ago,https://replit.com/bounties/@MikeRiss/library-function-doe?t=
 702,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",toshiro9117,Claimed by,
 703,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",toshiro9117,Claimed by,
 704,$22.50,closed,"Anime Site html,css and js","Anime site html,css and js",toshiro9117,Claimed by,
@@ -5341,19 +5341,39 @@ Ability to mint new NFTs
 The ability to accept different file formats for minting
 Ability to search for NFTs based on category
 
-The final product should have a user-friendly interface and be secure, scalable, and fast. Please provide examples of similar projects you have worked on and why you are the best fit for this project.",TomHumber,3 hours ago,https://replit.com/bounties/@TomHumber/create-a-nft-marketp?t=
+The final product should have a user-friendly interface and be secure, scalable, and fast. Please provide examples of similar projects you have worked on and why you are the best fit for this project.",TomHumber,4 hours ago,https://replit.com/bounties/@TomHumber/create-a-nft-marketp?t=
 712,$0.90,due in 1 month,bing/edge browser for school chromebooks,"Describe the problem you are trying to solve here.
 I want to be able to use blocked websites Snapchat, WhatsApp, etc...
 Acceptance Criteria
 Be specific about what you want in the solution here.
-must be an embedded browser with the latest version of bing/edge",kalsin1345,2 hours ago,https://replit.com/bounties/@kalsin1345/bingedge-browser-for?t=
+must be an embedded browser with the latest version of bing/edge",kalsin1345,3 hours ago,https://replit.com/bounties/@kalsin1345/bingedge-browser-for?t=
 713,$225.00,due in 14 days,Reverse Engineer an app and expose private APIs,"Access to the private APIs of specific applications can streamline numerous tasks for users, with their consent.
 The bounty entails reverse engineering a bank application and successfully simulating a login into an account. It is not necessary to have an active account on the app. Satisfactory completion involves intercepting the request, exposing the endpoint and payload, and then replicating it using Postman, even if the response is for invalid credentials.
 
 App: https://play.google.com/store/apps/details?id=com.mashreq.NeoApp&hl=en&gl=US
 
 Acceptance Criteria
-The desired outcome is a repackaged APK that can be utilized with tools such as Burp, Charles, or other software to intercept requests. This could also be applicable to iOS. The acceptance criteria include a clear set of instructions for setting up the app, simulating actions, and observing the API calls and payloads.",HeshamGhandour1,1 hour ago,https://replit.com/bounties/@HeshamGhandour1/reverse-engineer-an?t=
+The desired outcome is a repackaged APK that can be utilized with tools such as Burp, Charles, or other software to intercept requests. This could also be applicable to iOS. The acceptance criteria include a clear set of instructions for setting up the app, simulating actions, and observing the API calls and payloads.",HeshamGhandour1,2 hours ago,https://replit.com/bounties/@HeshamGhandour1/reverse-engineer-an?t=
 714,$180.00,due in 7 days,Fine tune GPT-3 on a set of 10-Ks,"I'd like to train GPT-3 on a series of 10-Ks (financial reports) I have downloaded, and including a way to change and update this in the future. The documents are in html and I'd ideally like to be able to ensure the input includes sub-headings that indicate sections, and data-tables (not just stripped to simple txt which seems to destroy the q&a).
 
-Output: I'd like to be able to ask specific questions and get answers, including about datapoints or tables that's included in the files.",strangeloopcanon,1 hour ago,https://replit.com/bounties/@strangeloopcanon/fine-tune-gpt-3-on-a?t=
+Output: I'd like to be able to ask specific questions and get answers, including about datapoints or tables that's included in the files.",strangeloopcanon,2 hours ago,https://replit.com/bounties/@strangeloopcanon/fine-tune-gpt-3-on-a?t=
+715,$90.00,due in 7 days,Next step of document signing task,As discussed with Alec,AndrewShowman,39 minutes ago,https://replit.com/bounties/@AndrewShowman/next-step-of-documen?t=
+716,$50.00,due in 16 days,[Open Source] Create LogSeq Publish Feature ፨,"LogSeq currently has no method to publish sites/graphs to a personal website.
+It is an open source project, so I am looking for someone to directly commit/push to the project and for it to be accepted on the GitHub.
+
+Ideal Process after your Pull request is accepted:
+1) I make my changes/update a word or 2 in the LogSeq desktop app
+2) I press Cmd + Shift + S to save it/publish it to my site. (Or press publish on a button in the top right)
+3) It pushes all changes through to my custom domain
+
+Ideal process to setup public site:
+1) Press publish in top right of LogSeq desktop App
+2) Enter custom domain
+3) Get CNAME/DNS records
+4) Change CNAME on Namecheap/Godaddy/etc (...wait for verification)
+5) Publish site to new domain
+
+Ideally, the site should be hosted on a Vercel free plan (Would prefer NOT to create a Vercel account, but understand if that need to be a step for mvp.) for speed and SEO.
+
+Here are some resources.
+1) Please follow all contributing rules here: htt...",Bandos1000,13 minutes ago,https://replit.com/bounties/@Bandos1000/open-source-create-l?t=
