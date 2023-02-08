@@ -7226,7 +7226,7 @@
         "title": "Add Algolia Search to Web app",
         "description": "We are looking to add search capabilities to our transcription web app using Agolia's search.\n\nAcceptance Criteria\n\nIntegrate Algolia into a web app.\nFront end integration using React.\nEnsure that a user is able to search a transcript.\nEnsure that each user can only access their own transcripts and not others.\n\nTechnical Details\nWe are building our web app using React and Django. We can discuss more details in email/call.",
         "author": "JordiBurgues",
-        "posted_time": "17 minutes ago",
+        "posted_time": "26 minutes ago",
         "link": "https://replit.com/bounties/@JordiBurgues/add-algolia-search-t?t="
     },
     {
@@ -7236,7 +7236,17 @@
         "title": "Simple (Boilerplate) ASP.NET app with Viewstate MAC disabled ",
         "description": "I want a super-simple (pretty much boilerplate) app in ASP.NET with ViewState with viewstate mac not enforced\nApp can have very basic functionality of register user, login and user search.\nEmbedded DB like SQLite is fine\nViewstate needs to be part of the app, and MAC must not be enforced\n\nAcceptance Criteria\nApp can have extremely basic functionality of register user, login and user search with an embedded DB like SQLite\nsuper-simple (pretty much boilerplate) app in ASP.NET with ViewState with viewstate mac not enforced\nMust work on Linux. Dockerfile must be included",
         "author": "AbhayBhargav1",
-        "posted_time": "3 minutes ago",
+        "posted_time": "12 minutes ago",
         "link": "https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a?t="
+    },
+    {
+        "index": "724",
+        "price": "$90.00",
+        "due_days": "due in 7 days",
+        "title": "Simple (Boilerplate) app on ASP.NET that is vulnerable to JSON.Net Insecure Deserialization",
+        "description": "I want to build a very simple app to demonstrate security flaws to developers\nI want a super simple (nearly boilerplate app) that is vulnerable to Insecure Deserialization with JSON.NET like this link\nThe app must allow a user to sign up over a JSON POST request. The \"attacker\" posts the malicious JSON in this request\nThe frontend must replay the sign up contents on an HTML\n\nAcceptance Criteria\nI want a super simple (nearly boilerplate app) that is vulnerable to Insecure Deserialization with JSON.NET like this link\nThe app must allow a user to sign up over a JSON POST request. The \"attacker\" posts the malicious JSON in this request\nVery basic frontend would do. Something with Bootstrap is good enough\nMust work on Linux and as a Container. Must include Dockerfile",
+        "author": "AbhayBhargav1",
+        "posted_time": "6 minutes ago",
+        "link": "https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a-1?t="
     }
 ]
