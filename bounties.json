@@ -7226,7 +7226,7 @@
         "title": "Add Algolia Search to Web app",
         "description": "We are looking to add search capabilities to our transcription web app using Agolia's search.\n\nAcceptance Criteria\n\nIntegrate Algolia into a web app.\nFront end integration using React.\nEnsure that a user is able to search a transcript.\nEnsure that each user can only access their own transcripts and not others.\n\nTechnical Details\nWe are building our web app using React and Django. We can discuss more details in email/call.",
         "author": "JordiBurgues",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@JordiBurgues/add-algolia-search-t?t="
     },
     {
@@ -7316,7 +7316,7 @@
         "title": "Spread the word about FindAI.io",
         "description": "Help us to spread the word about FindAI.io.\n\nFindAI.io is the go-to destination for discovering the best AI tools.\n\nCreate a video on TikTok, Instagram, YouTube, or Snapchat to demonstrate the features of FindAI.io. Receive a reward when the video reaches at least 100K views. As we are based in Europe, we prioritize viewers from Europe and North America for this reward.\n\nAcceptance Criteria\nTo be eligible for the bounty, you must:\n\nShare analytics of the video and the actual video link.\nClearly mention \"findai.io\" in the video.\nInclude the website address (findai.io or https://findai.io) in the description of the video\nShare your social accounts via email ([email\u00a0protected]) to get your application accepted.\n\nYou can of course upload multiple videos if you like, but to get the bounty, one video must get 100K+ views.",
         "author": "mjbre",
-        "posted_time": "21 minutes ago",
+        "posted_time": "30 minutes ago",
         "link": "https://replit.com/bounties/@mjbre/spread-the-word-abou?t="
     }
 ]
