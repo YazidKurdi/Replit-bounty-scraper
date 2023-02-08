@@ -5480,7 +5480,7 @@ This is the background image => https://imgur.com/a/ufkX8IG
 Acceptance Criteria
 The script should be able to consume an API Key as an environment variable, and the path of the background image as an argument to the main function. Everything else must be done by the script
 The script should iterate over all the videos in a vimeo account and generate a thumbnail for each video and upload that thumbnail as the official thumbnail for the video over Vimeo API
-Raleway font is to be used proportional to the size of the thumbnail. It must be center aligned ...",AbhayBhargav1,5 hours ago,https://replit.com/bounties/@AbhayBhargav1/python-script-to-con?t=
+Raleway font is to be used proportional to the size of the thumbnail. It must be center aligned ...",AbhayBhargav1,6 hours ago,https://replit.com/bounties/@AbhayBhargav1/python-script-to-con?t=
 726,$18.00,due in 5 days,Extract judgements using UK National Archive API (Python),"The UK National Archive has the following API:
 https://github.com/nationalarchives/ds-find-caselaw-docs/blob/main/doc/openapi/public_api.yml
 
