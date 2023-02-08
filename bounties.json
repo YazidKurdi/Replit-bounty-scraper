@@ -7136,7 +7136,7 @@
         "title": "Reverse Engineer an app and expose private APIs",
         "description": "Access to the private APIs of specific applications can streamline numerous tasks for users, with their consent.\nThe bounty entails reverse engineering a bank application and successfully simulating a login into an account. It is not necessary to have an active account on the app. Satisfactory completion involves intercepting the request, exposing the endpoint and payload, and then replicating it using Postman, even if the response is for invalid credentials.\n\nApp: https://play.google.com/store/apps/details?id=com.mashreq.NeoApp&hl=en&gl=US\n\nAcceptance Criteria\nThe desired outcome is a repackaged APK that can be utilized with tools such as Burp, Charles, or other software to intercept requests. This could also be applicable to iOS. The acceptance criteria include a clear set of instructions for setting up the app, simulating actions, and observing the API calls and payloads.",
         "author": "HeshamGhandour1",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@HeshamGhandour1/reverse-engineer-an?t="
     },
     {
@@ -7166,7 +7166,7 @@
         "title": "[Open Source] Create LogSeq Publish Feature \u1368",
         "description": "LogSeq currently has no method to publish sites/graphs to a personal website.\nIt is an open source project, so I am looking for someone to directly commit/push to the project and for it to be accepted on the GitHub.\n\nIdeal Process after your Pull request is accepted:\n1) I make my changes/update a word or 2 in the LogSeq desktop app\n2) I press Cmd + Shift + S to save it/publish it to my site. (Or press publish on a button in the top right)\n3) It pushes all changes through to my custom domain\n\nIdeal process to setup public site:\n1) Press publish in top right of LogSeq desktop App\n2) Enter custom domain\n3) Get CNAME/DNS records\n4) Change CNAME on Namecheap/Godaddy/etc (...wait for verification)\n5) Publish site to new domain\n\nIdeally, the site should be hosted on a Vercel free plan (Would prefer NOT to create a Vercel account, but understand if that need to be a step for mvp.) for speed and SEO.\n\nHere are some resources.\n1) Please follow all contributing rules here: htt...",
         "author": "Bandos1000",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/open-source-create-l?t="
     },
     {
@@ -7196,7 +7196,7 @@
         "title": "Create a React Native app using Expo and react-native-dotenv",
         "description": "I need an Expo app that uses the library react-native-dot-env https://github.com/goatandsheep/react-native-dotenv to import an ENV file into my project using \"@env\". I would also like this app to use TypeScript and the native-base template. https://docs.nativebase.io/install-expo\n\nAcceptance Criteria\nProject must compile, run and show a value from an ENV file on the screen that is imported using @env alias.\n\nTechnical Details\nI don't want to eject the project and there will be some babel configuration needed most likely",
         "author": "patrickpistor1",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@patrickpistor1/create-a-react-nativ?t="
     },
     {
