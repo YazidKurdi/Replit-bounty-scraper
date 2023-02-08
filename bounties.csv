@@ -5440,4 +5440,4 @@ Link to Project",simistern,4 hours ago,https://replit.com/bounties/@simistern/bu
 
 Make a system where I can deploy this model on AWS/GCP (I can share you my credits) or any other service that lets you run an ML model. Then, I should be able to put in a link to an .mp4 video, and it should automatically download that video, run the pipeline on it, and upload the final video to an S3 bucket. The frontend can be as simple as pasting a single video link, and providing the colorized link in return. There does not need to be a frontend, being easily callable from an api endpoint or a script is sufficient. I can provide the credits needed to run the model.
 
-You can see an example of how I previously tried to deploy this model, but wasn't able to finish here: https://github.com/Divide-By-0/tcvc-modal/ . This a...",AJGupta,3 hours ago,https://replit.com/bounties/@AJGupta/deploy-tcvc-to-an-en?t=
+You can see an example of how I previously tried to deploy this model, but wasn't able to finish here: https://github.com/Divide-By-0/tcvc-modal/ . This a...",AJGupta,4 hours ago,https://replit.com/bounties/@AJGupta/deploy-tcvc-to-an-en?t=
