@@ -5346,7 +5346,7 @@ The final product should have a user-friendly interface and be secure, scalable,
 I want to be able to use blocked websites Snapchat, WhatsApp, etc...
 Acceptance Criteria
 Be specific about what you want in the solution here.
-must be an embedded browser with the latest version of bing/edge",kalsin1345,6 hours ago,https://replit.com/bounties/@kalsin1345/bingedge-browser-for?t=
+must be an embedded browser with the latest version of bing/edge",kalsin1345,7 hours ago,https://replit.com/bounties/@kalsin1345/bingedge-browser-for?t=
 713,$225.00,due in 14 days,Reverse Engineer an app and expose private APIs,"Access to the private APIs of specific applications can streamline numerous tasks for users, with their consent.
 The bounty entails reverse engineering a bank application and successfully simulating a login into an account. It is not necessary to have an active account on the app. Satisfactory completion involves intercepting the request, exposing the endpoint and payload, and then replicating it using Postman, even if the response is for invalid credentials.
 
@@ -5356,7 +5356,7 @@ Acceptance Criteria
 The desired outcome is a repackaged APK that can be utilized with tools such as Burp, Charles, or other software to intercept requests. This could also be applicable to iOS. The acceptance criteria include a clear set of instructions for setting up the app, simulating actions, and observing the API calls and payloads.",HeshamGhandour1,6 hours ago,https://replit.com/bounties/@HeshamGhandour1/reverse-engineer-an?t=
 714,$180.00,due in 7 days,Fine tune GPT-3 on a set of 10-Ks,"I'd like to train GPT-3 on a series of 10-Ks (financial reports) I have downloaded, and including a way to change and update this in the future. The documents are in html and I'd ideally like to be able to ensure the input includes sub-headings that indicate sections, and data-tables (not just stripped to simple txt which seems to destroy the q&a).
 
-Output: I'd like to be able to ask specific questions and get answers, including about datapoints or tables that's included in the files.",strangeloopcanon,5 hours ago,https://replit.com/bounties/@strangeloopcanon/fine-tune-gpt-3-on-a?t=
+Output: I'd like to be able to ask specific questions and get answers, including about datapoints or tables that's included in the files.",strangeloopcanon,6 hours ago,https://replit.com/bounties/@strangeloopcanon/fine-tune-gpt-3-on-a?t=
 715,$90.00,due in 7 days,Next step of document signing task,As discussed with Alec,AndrewShowman,4 hours ago,https://replit.com/bounties/@AndrewShowman/next-step-of-documen?t=
 716,$50.00,due in 16 days,[Open Source] Create LogSeq Publish Feature ፨,"LogSeq currently has no method to publish sites/graphs to a personal website.
 It is an open source project, so I am looking for someone to directly commit/push to the project and for it to be accepted on the GitHub.
@@ -5435,4 +5435,9 @@ Acceptance Criteria
 I should be able to easily create a lambda layer that allows me to use all the services above in a basic lambda python function (python 3.9 I believe) so that I can use this lambda function as a quick endpoint that makes use of those libraries.
 Technical Details
 
-Link to Project",simistern,4 minutes ago,https://replit.com/bounties/@simistern/building-aws-python?t=
+Link to Project",simistern,27 minutes ago,https://replit.com/bounties/@simistern/building-aws-python?t=
+721,$225.00,due in 13 days,Deploy TCVC to an endpoint,"The model I want is here: https://github.com/lyh-18/TCVC-Temporally-Consistent-Video-Colorization and the machine setup instructions are here: https://github.com/lyh-18/TCVC-Temporally-Consistent-Video-Colorization/issues/6#issuecomment-1271935427
+
+Make a system where I can deploy this model on AWS/GCP (I can share you my credits) or any other service that lets you run an ML model. Then, I should be able to put in a link to an .mp4 video, and it should automatically download that video, run the pipeline on it, and upload the final video to an S3 bucket. The frontend can be as simple as pasting a single video link, and providing the colorized link in return. There does not need to be a frontend, being easily callable from an api endpoint or a script is sufficient. I can provide the credits needed to run the model.
+
+You can see an example of how I previously tried to deploy this model, but wasn't able to finish here: https://github.com/Divide-By-0/tcvc-modal/ . This a...",AJGupta,19 minutes ago,https://replit.com/bounties/@AJGupta/deploy-tcvc-to-an-en?t=

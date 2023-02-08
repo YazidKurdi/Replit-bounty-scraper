@@ -7126,7 +7126,7 @@
         "title": "bing/edge browser for school chromebooks",
         "description": "Describe the problem you are trying to solve here.\nI want to be able to use blocked websites Snapchat, WhatsApp, etc...\nAcceptance Criteria\nBe specific about what you want in the solution here.\nmust be an embedded browser with the latest version of bing/edge",
         "author": "kalsin1345",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@kalsin1345/bingedge-browser-for?t="
     },
     {
@@ -7146,7 +7146,7 @@
         "title": "Fine tune GPT-3 on a set of 10-Ks",
         "description": "I'd like to train GPT-3 on a series of 10-Ks (financial reports) I have downloaded, and including a way to change and update this in the future. The documents are in html and I'd ideally like to be able to ensure the input includes sub-headings that indicate sections, and data-tables (not just stripped to simple txt which seems to destroy the q&a).\n\nOutput: I'd like to be able to ask specific questions and get answers, including about datapoints or tables that's included in the files.",
         "author": "strangeloopcanon",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@strangeloopcanon/fine-tune-gpt-3-on-a?t="
     },
     {
@@ -7206,7 +7206,17 @@
         "title": "Building AWS Python Lambda Layer",
         "description": "Create an aws Lambda Python layer that imports the following libraries for use in a generic lambda function:\n\nimport os\nimport gspread\nfrom dotenv import dotenv_values\nfrom google.oauth2 import service_account\nfrom googleapiclient.discovery import build\nfrom IPython.display import Markdown, display\nfrom gpt_index import (\n    GoogleDocsReader,\n    GPTListIndex,\n    GPTSimpleVectorIndex,\n    SimpleDirectoryReader,\n    SimpleWebPageReader,\n    TwitterTweetReader,\n)\n\nAcceptance Criteria\nI should be able to easily create a lambda layer that allows me to use all the services above in a basic lambda python function (python 3.9 I believe) so that I can use this lambda function as a quick endpoint that makes use of those libraries.\nTechnical Details\n\nLink to Project",
         "author": "simistern",
-        "posted_time": "4 minutes ago",
+        "posted_time": "27 minutes ago",
         "link": "https://replit.com/bounties/@simistern/building-aws-python?t="
+    },
+    {
+        "index": "721",
+        "price": "$225.00",
+        "due_days": "due in 13 days",
+        "title": "Deploy TCVC to an endpoint",
+        "description": "The model I want is here: https://github.com/lyh-18/TCVC-Temporally-Consistent-Video-Colorization and the machine setup instructions are here: https://github.com/lyh-18/TCVC-Temporally-Consistent-Video-Colorization/issues/6#issuecomment-1271935427\n\nMake a system where I can deploy this model on AWS/GCP (I can share you my credits) or any other service that lets you run an ML model. Then, I should be able to put in a link to an .mp4 video, and it should automatically download that video, run the pipeline on it, and upload the final video to an S3 bucket. The frontend can be as simple as pasting a single video link, and providing the colorized link in return. There does not need to be a frontend, being easily callable from an api endpoint or a script is sufficient. I can provide the credits needed to run the model.\n\nYou can see an example of how I previously tried to deploy this model, but wasn't able to finish here: https://github.com/Divide-By-0/tcvc-modal/ . This a...",
+        "author": "AJGupta",
+        "posted_time": "19 minutes ago",
+        "link": "https://replit.com/bounties/@AJGupta/deploy-tcvc-to-an-en?t="
     }
 ]
