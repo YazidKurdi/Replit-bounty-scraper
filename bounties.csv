@@ -5480,7 +5480,7 @@ This is the background image => https://imgur.com/a/ufkX8IG
 Acceptance Criteria
 The script should be able to consume an API Key as an environment variable, and the path of the background image as an argument to the main function. Everything else must be done by the script
 The script should iterate over all the videos in a vimeo account and generate a thumbnail for each video and upload that thumbnail as the official thumbnail for the video over Vimeo API
-Raleway font is to be used proportional to the size of the thumbnail. It must be center aligned ...",AbhayBhargav1,49 minutes ago,https://replit.com/bounties/@AbhayBhargav1/python-script-to-con?t=
+Raleway font is to be used proportional to the size of the thumbnail. It must be center aligned ...",AbhayBhargav1,57 minutes ago,https://replit.com/bounties/@AbhayBhargav1/python-script-to-con?t=
 726,$18.00,due in 6 days,Extract judgements using UK National Archive API (Python),"The UK National Archive has the following API:
 https://github.com/nationalarchives/ds-find-caselaw-docs/blob/main/doc/openapi/public_api.yml
 
@@ -5498,7 +5498,7 @@ The script should have separate functions for the following:
 
 Acceptance Criteria
 A test example should be included in the script to replicate the following search filter:
-https://caselaw.nationalarchive...",kushmadlani,15 minutes ago,https://replit.com/bounties/@kushmadlani/extract-judgements-u?t=
+https://caselaw.nationalarchive...",kushmadlani,24 minutes ago,https://replit.com/bounties/@kushmadlani/extract-judgements-u?t=
 727,$31.50,closed,Can't get to run vue virtual scroller demo,"I'm looking to get the Simple List demo of this library to work in isolation:
 https://github.com/Akryum/vue-virtual-scroller/blob/master/packages/demo/src/components/SimpleList.vue
 
@@ -5510,4 +5510,4 @@ Acceptance Criteria
 A working SimpleList component from the library repository in a Repl.
 
 Link to Project
-https://github.com/Akryum/vue-virtual-scroller/blob/master/packages/demo/src/components/SimpleList.vue",MatthiasRichard,10 minutes ago,https://replit.com/bounties/@MatthiasRichard/cant-get-to-run-vue?t=
+https://github.com/Akryum/vue-virtual-scroller/blob/master/packages/demo/src/components/SimpleList.vue",MatthiasRichard,18 minutes ago,https://replit.com/bounties/@MatthiasRichard/cant-get-to-run-vue?t=
