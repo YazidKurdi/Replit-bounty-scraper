@@ -7256,7 +7256,7 @@
         "title": "Python CLI/Script to convert all Thumbnails in a Vimeo Account over API",
         "description": "I have a vimeo account where API is enabled.\nI want to change the thumbnails of each of my videos and make them consistent\nI will give you a 1080px by 1600px background. This will be consistent across all videos\nThe script needs to iterate through the videos and get the title of each video. The title needs to be overlayed over the background image in Raleway font, centered in the middle of the background image thumbnail\nThis is the background image => https://imgur.com/a/ufkX8IG\n\nAcceptance Criteria\nThe script should be able to consume an API Key as an environment variable, and the path of the background image as an argument to the main function. Everything else must be done by the script\nThe script should iterate over all the videos in a vimeo account and generate a thumbnail for each video and upload that thumbnail as the official thumbnail for the video over Vimeo API\nRaleway font is to be used proportional to the size of the thumbnail. It must be center aligned ...",
         "author": "AbhayBhargav1",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@AbhayBhargav1/python-script-to-con?t="
     },
     {
@@ -7286,7 +7286,7 @@
         "title": "Chrome extension to keep off distracting sites",
         "description": "A good Chrome extension to keep you off Facebook etc. Tracks how long you spend on degenerate sites (i.e. Facebook, Twitter, Youtube), then when you go to Facebook etc, it shows a popup saying \"On average, you think you'll spend 16 minutes, but you end up spending 31 minutes on this tab. How many minutes do you think you'll spend this time?\" And at the end of that # of minutes, it makes the page black and white so you can continue to browse but it'll be slightly uncomfortable.\n\nThis extension should also come with an independent landing page/website with screenshots that explains how the website works, so that people can discover and understand it.\n\nAcceptance Criteria\nYou must provide a resume or Github history or previous experience, along with a specific description of the method/services that you will use to do this project.",
         "author": "AJGupta",
-        "posted_time": "22 minutes ago",
+        "posted_time": "43 minutes ago",
         "link": "https://replit.com/bounties/@AJGupta/chrome-extension-to?t="
     },
     {
@@ -7296,7 +7296,7 @@
         "title": "[Swift/xCode] iMessage Sentiment Analyzer \ud83d\udcf2 ",
         "description": "I own sentimentanalyzer.com and plan to use it to channel customers to download an iMessage app.\n\nCurrently, it can be difficult to judge sentiment in a text conversation. By using an in-iMessage app, we can leverage on-device Machine Learning to analyse iMessage's without leaving the application.\n\nhttps://developer.apple.com/imessage/ More about iMessage apps, I think Stickers would be a good use case. (Angry sticker shows up for mad sentiment, happy for happier message, etc)\n\nGuide on building an iMessage app\n\nAcceptance Criteria\nA product I can launch to the App Store that allows on device sentiment analysis within iMessage. (No data should leave the device.)\nUsers install the app, then stickers appear on their messages and their incoming messages that show sentiment.\n\nAdditional Context -\nI'm comfortable hiring a new developer.\nYou will be credited in the code and on the website, I can link to your Github/Replit/anything else.\nIf this is your first Swift/iMessag...",
         "author": "Bandos1000",
-        "posted_time": "16 minutes ago",
+        "posted_time": "38 minutes ago",
         "link": "https://replit.com/bounties/@Bandos1000/swiftxcode-imessage?t="
     },
     {
@@ -7306,7 +7306,7 @@
         "title": "Talking Harry Potter-style Painting",
         "description": "Talk to a 'painting' and have it talk back, like Harry Potter paintings.\n\nDetect voice coming from the always-on speaker, and when a specific name is uttered, start paying more attention (i.e. it should detect me saying, \"Plato, what would you say about the rapid industrialization of society?\"). There are many open source programs for similar wake word detection. Then, the desktop should run speech-to-text on that voice. Then, it will pass that text into chatgpt to generate the response to that conversation. While ChatGPT is generating a response, it will fill that lag gap with some templated responses (like, \"Great question! I have spent decades pondering this very idea\" or whatever). Then, using tokkingheads/another deepfakes-type model to modify both the voice and the face, to have their face pretend like they're saying the response. Once the ChatGPT text starts coming, stream it sentence by sentence to the painting so the animation looks smooth.\n\nI will run this...",
         "author": "AJGupta",
-        "posted_time": "8 minutes ago",
+        "posted_time": "29 minutes ago",
         "link": "https://replit.com/bounties/@AJGupta/talking-harry-potter?t="
     }
 ]
