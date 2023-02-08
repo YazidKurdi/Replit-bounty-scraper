@@ -7256,7 +7256,7 @@
         "title": "Python CLI/Script to convert all Thumbnails in a Vimeo Account over API",
         "description": "I have a vimeo account where API is enabled.\nI want to change the thumbnails of each of my videos and make them consistent\nI will give you a 1080px by 1600px background. This will be consistent across all videos\nThe script needs to iterate through the videos and get the title of each video. The title needs to be overlayed over the background image in Raleway font, centered in the middle of the background image thumbnail\nThis is the background image => https://imgur.com/a/ufkX8IG\n\nAcceptance Criteria\nThe script should be able to consume an API Key as an environment variable, and the path of the background image as an argument to the main function. Everything else must be done by the script\nThe script should iterate over all the videos in a vimeo account and generate a thumbnail for each video and upload that thumbnail as the official thumbnail for the video over Vimeo API\nRaleway font is to be used proportional to the size of the thumbnail. It must be center aligned ...",
         "author": "AbhayBhargav1",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@AbhayBhargav1/python-script-to-con?t="
     },
     {
@@ -7296,7 +7296,7 @@
         "title": "[Swift/xCode] iMessage Sentiment Analyzer \ud83d\udcf2 ",
         "description": "I own sentimentanalyzer.com and plan to use it to channel customers to download an iMessage app.\n\nCurrently, it can be difficult to judge sentiment in a text conversation. By using an in-iMessage app, we can leverage on-device Machine Learning to analyse iMessage's without leaving the application.\n\nhttps://developer.apple.com/imessage/ More about iMessage apps, I think Stickers would be a good use case. (Angry sticker shows up for mad sentiment, happy for happier message, etc)\n\nGuide on building an iMessage app\n\nAcceptance Criteria\nA product I can launch to the App Store that allows on device sentiment analysis within iMessage. (No data should leave the device.)\nUsers install the app, then stickers appear on their messages and their incoming messages that show sentiment.\n\nAdditional Context -\nI'm comfortable hiring a new developer.\nYou will be credited in the code and on the website, I can link to your Github/Replit/anything else.\nIf this is your first Swift/iMessag...",
         "author": "Bandos1000",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/swiftxcode-imessage?t="
     },
     {
@@ -7326,7 +7326,7 @@
         "title": "Enable Bitcoin NFC payments for Cash Register web application (galoy-pay)",
         "description": "The Lightning cash register is a bitcoin point of sale web app for receiving sats online or in-person. Anybody with a Bitcoin Beach Wallet username can access their register at https://pay.bbw.sv/agbegin [where agbegin is the username].\n\nThe bounty involves some UI and frontend dev work.\n\nWe'd like to enable NFC payments in the cash register, so people using Bolt Cards or other contactless payment methods can tap to pay. A visual icon should be shown to launch a modal window that informs the user to tap to pay (in mobile web browser, user must interact to enable NFC). Error messages should be considered where appropriate (are we able to detect if funds aren't available on a card?). The user experience should be simple and easy to follow from both the sender and the receiver point of view.\n\nSee more details on the discussion in the galoy-pay repository: https://github.com/GaloyMoney/galoy-pay/discussions/408\n\nAcceptance Criteria\nPR is merged and feature is working in...",
         "author": "AndrewBegin",
-        "posted_time": "41 minutes ago",
+        "posted_time": "52 minutes ago",
         "link": "https://replit.com/bounties/@AndrewBegin/enable-bitcoin-nfc-p?t="
     }
 ]

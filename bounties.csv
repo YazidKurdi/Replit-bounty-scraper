@@ -5480,7 +5480,7 @@ This is the background image => https://imgur.com/a/ufkX8IG
 Acceptance Criteria
 The script should be able to consume an API Key as an environment variable, and the path of the background image as an argument to the main function. Everything else must be done by the script
 The script should iterate over all the videos in a vimeo account and generate a thumbnail for each video and upload that thumbnail as the official thumbnail for the video over Vimeo API
-Raleway font is to be used proportional to the size of the thumbnail. It must be center aligned ...",AbhayBhargav1,11 hours ago,https://replit.com/bounties/@AbhayBhargav1/python-script-to-con?t=
+Raleway font is to be used proportional to the size of the thumbnail. It must be center aligned ...",AbhayBhargav1,12 hours ago,https://replit.com/bounties/@AbhayBhargav1/python-script-to-con?t=
 726,$18.00,due in 5 days,Extract judgements using UK National Archive API (Python),"The UK National Archive has the following API:
 https://github.com/nationalarchives/ds-find-caselaw-docs/blob/main/doc/openapi/public_api.yml
 
@@ -5532,7 +5532,7 @@ Users install the app, then stickers appear on their messages and their incoming
 Additional Context -
 I'm comfortable hiring a new developer.
 You will be credited in the code and on the website, I can link to your Github/Replit/anything else.
-If this is your first Swift/iMessag...",Bandos1000,3 hours ago,https://replit.com/bounties/@Bandos1000/swiftxcode-imessage?t=
+If this is your first Swift/iMessag...",Bandos1000,4 hours ago,https://replit.com/bounties/@Bandos1000/swiftxcode-imessage?t=
 730,$144.00,due in 13 days,Talking Harry Potter-style Painting,"Talk to a 'painting' and have it talk back, like Harry Potter paintings.
 
 Detect voice coming from the always-on speaker, and when a specific name is uttered, start paying more attention (i.e. it should detect me saying, ""Plato, what would you say about the rapid industrialization of society?""). There are many open source programs for similar wake word detection. Then, the desktop should run speech-to-text on that voice. Then, it will pass that text into chatgpt to generate the response to that conversation. While ChatGPT is generating a response, it will fill that lag gap with some templated responses (like, ""Great question! I have spent decades pondering this very idea"" or whatever). Then, using tokkingheads/another deepfakes-type model to modify both the voice and the face, to have their face pretend like they're saying the response. Once the ChatGPT text starts coming, stream it sentence by sentence to the painting so the animation looks smooth.
@@ -5562,4 +5562,4 @@ We'd like to enable NFC payments in the cash register, so people using Bolt Card
 See more details on the discussion in the galoy-pay repository: https://github.com/GaloyMoney/galoy-pay/discussions/408
 
 Acceptance Criteria
-PR is merged and feature is working in...",AndrewBegin,41 minutes ago,https://replit.com/bounties/@AndrewBegin/enable-bitcoin-nfc-p?t=
+PR is merged and feature is working in...",AndrewBegin,52 minutes ago,https://replit.com/bounties/@AndrewBegin/enable-bitcoin-nfc-p?t=
