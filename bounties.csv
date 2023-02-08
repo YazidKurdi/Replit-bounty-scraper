@@ -5460,7 +5460,7 @@ Viewstate needs to be part of the app, and MAC must not be enforced
 Acceptance Criteria
 App can have extremely basic functionality of register user, login and user search with an embedded DB like SQLite
 super-simple (pretty much boilerplate) app in ASP.NET with ViewState with viewstate mac not enforced
-Must work on Linux. Dockerfile must be included",AbhayBhargav1,48 minutes ago,https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a?t=
+Must work on Linux. Dockerfile must be included",AbhayBhargav1,1 hour ago,https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a?t=
 724,$90.00,due in 7 days,Simple (Boilerplate) app on ASP.NET that is vulnerable to JSON.Net Insecure Deserialization,"I want to build a very simple app to demonstrate security flaws to developers
 I want a super simple (nearly boilerplate app) that is vulnerable to Insecure Deserialization with JSON.NET like this link
 The app must allow a user to sign up over a JSON POST request. The ""attacker"" posts the malicious JSON in this request
@@ -5470,7 +5470,7 @@ Acceptance Criteria
 I want a super simple (nearly boilerplate app) that is vulnerable to Insecure Deserialization with JSON.NET like this link
 The app must allow a user to sign up over a JSON POST request. The ""attacker"" posts the malicious JSON in this request
 Very basic frontend would do. Something with Bootstrap is good enough
-Must work on Linux and as a Container. Must include Dockerfile",AbhayBhargav1,41 minutes ago,https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a-1?t=
+Must work on Linux and as a Container. Must include Dockerfile",AbhayBhargav1,1 hour ago,https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a-1?t=
 725,$90.00,due in 7 days,Python CLI/Script to convert all Thumbnails in a Vimeo Account over API,"I have a vimeo account where API is enabled.
 I want to change the thumbnails of each of my videos and make them consistent
 I will give you a 1080px by 1600px background. This will be consistent across all videos
@@ -5480,4 +5480,22 @@ This is the background image => https://imgur.com/a/ufkX8IG
 Acceptance Criteria
 The script should be able to consume an API Key as an environment variable, and the path of the background image as an argument to the main function. Everything else must be done by the script
 The script should iterate over all the videos in a vimeo account and generate a thumbnail for each video and upload that thumbnail as the official thumbnail for the video over Vimeo API
-Raleway font is to be used proportional to the size of the thumbnail. It must be center aligned ...",AbhayBhargav1,16 minutes ago,https://replit.com/bounties/@AbhayBhargav1/python-script-to-con?t=
+Raleway font is to be used proportional to the size of the thumbnail. It must be center aligned ...",AbhayBhargav1,38 minutes ago,https://replit.com/bounties/@AbhayBhargav1/python-script-to-con?t=
+726,$18.00,due in 6 days,Extract judgements using UK National Archive API (Python),"The UK National Archive has the following API:
+https://github.com/nationalarchives/ds-find-caselaw-docs/blob/main/doc/openapi/public_api.yml
+
+It acts as an open, public API to the following feed of UK Court Judgements: https://caselaw.nationalarchives.gov.uk/
+
+I need a Python script that:
+Given a date range, Court id (e.g. ewhc), returns:
+a) list of judgement ids that fit the above filters
+b) raw data of the judgement (e.g. one of text/xml/pdf)
+
+The script should have separate functions for the following:
+1) Function to retrieve list of judgements given parameters
+2) Function to retrieve the raw data of a judgement given the judgement id
+3) Function to retrieve the data for multiple judgements given a list of ids (ie batch version of 2). Must be implemented in an efficient batch/parallel fashion & not just a for loop over 2).
+
+Acceptance Criteria
+A test example should be included in the script to replicate the following search filter:
+https://caselaw.nationalarchive...",kushmadlani,4 minutes ago,https://replit.com/bounties/@kushmadlani/extract-judgements-u?t=
