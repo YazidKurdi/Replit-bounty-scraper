@@ -7016,7 +7016,7 @@
         "title": "Library function doesnt send event to nostr relay",
         "description": "I want to send an event to nostr relay using a nodejs library https://github.com/jb55/nostr-js.\nAcceptance Criteria\nSuccessful sending an event to a pool of nostr relay.\nTechnical Details\nNostr is a new protocol creating an alternative twitter. I am using a library https://github.com/jb55/nostr-js. I want to be able to send an event to a relay.\nTo get an intro to Nostr, check out this page. https://github.com/nostr-protocol/nips/blob/master/01.md\nLink to Project\nhttps://replit.com/@MikeRiss/nostrTest#nostr-js/trial.js. I started with modifying the example from the library. I can send the event but I can't see anything when I query the data on the relay.",
         "author": "MikeRiss",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@MikeRiss/library-function-doe?t="
     },
     {
@@ -7126,7 +7126,7 @@
         "title": "bing/edge browser for school chromebooks",
         "description": "Describe the problem you are trying to solve here.\nI want to be able to use blocked websites Snapchat, WhatsApp, etc...\nAcceptance Criteria\nBe specific about what you want in the solution here.\nmust be an embedded browser with the latest version of bing/edge",
         "author": "kalsin1345",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@kalsin1345/bingedge-browser-for?t="
     },
     {
@@ -7146,7 +7146,7 @@
         "title": "Fine tune GPT-3 on a set of 10-Ks",
         "description": "I'd like to train GPT-3 on a series of 10-Ks (financial reports) I have downloaded, and including a way to change and update this in the future. The documents are in html and I'd ideally like to be able to ensure the input includes sub-headings that indicate sections, and data-tables (not just stripped to simple txt which seems to destroy the q&a).\n\nOutput: I'd like to be able to ask specific questions and get answers, including about datapoints or tables that's included in the files.",
         "author": "strangeloopcanon",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@strangeloopcanon/fine-tune-gpt-3-on-a?t="
     },
     {
@@ -7182,7 +7182,7 @@
     {
         "index": "718",
         "price": "$180.00",
-        "due_days": "due in 6 days",
+        "due_days": "due in 11 days",
         "title": "Goal Planning Website",
         "description": "web application where users can create an goal. Users choose an goal; users will get a calendar invite with ten consecutive days. Collect information on what their specific goal is. When goal is created user can share social media (twitter/Facebook) that they started a goal. When goal has completed user can share on social media that they completed goal.\n\nUser Flow\n\nLanding page (includes a list of ten goals)\nLogin via Google Auth\nClick on create a goal, go to goal details page\nFill out additional details (goal details), enter email, user presented option to share goal details on social media\nUser is email goal details, calendar invite ( I have PHP code to create calendar invite if needed)\n\nAcceptance Criteria\n\nwebpages and backend verified\n\nTechnical Details\n\nMust be able to setup on shared hosting\nBootstrap framework\nPHP (preferred)\nlanding page (includes a list of goals)\ngoogle authentication\nGoal details page - collects information about user (goal details)\nuse...",
         "author": "BrandonF7",
