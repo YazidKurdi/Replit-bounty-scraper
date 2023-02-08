@@ -7286,7 +7286,7 @@
         "title": "Chrome extension to keep off distracting sites",
         "description": "A good Chrome extension to keep you off Facebook etc. Tracks how long you spend on degenerate sites (i.e. Facebook, Twitter, Youtube), then when you go to Facebook etc, it shows a popup saying \"On average, you think you'll spend 16 minutes, but you end up spending 31 minutes on this tab. How many minutes do you think you'll spend this time?\" And at the end of that # of minutes, it makes the page black and white so you can continue to browse but it'll be slightly uncomfortable.\n\nThis extension should also come with an independent landing page/website with screenshots that explains how the website works, so that people can discover and understand it.\n\nAcceptance Criteria\nYou must provide a resume or Github history or previous experience, along with a specific description of the method/services that you will use to do this project.",
         "author": "AJGupta",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/chrome-extension-to?t="
     },
     {
@@ -7326,7 +7326,7 @@
         "title": "Enable Bitcoin NFC payments for Cash Register web application (galoy-pay)",
         "description": "The Lightning cash register is a bitcoin point of sale web app for receiving sats online or in-person. Anybody with a Bitcoin Beach Wallet username can access their register at https://pay.bbw.sv/agbegin [where agbegin is the username].\n\nThe bounty involves some UI and frontend dev work.\n\nWe'd like to enable NFC payments in the cash register, so people using Bolt Cards or other contactless payment methods can tap to pay. A visual icon should be shown to launch a modal window that informs the user to tap to pay (in mobile web browser, user must interact to enable NFC). Error messages should be considered where appropriate (are we able to detect if funds aren't available on a card?). The user experience should be simple and easy to follow from both the sender and the receiver point of view.\n\nSee more details on the discussion in the galoy-pay repository: https://github.com/GaloyMoney/galoy-pay/discussions/408\n\nAcceptance Criteria\nPR is merged and feature is working in...",
         "author": "AndrewBegin",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@AndrewBegin/enable-bitcoin-nfc-p?t="
     }
 ]
