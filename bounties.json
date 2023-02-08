@@ -7236,7 +7236,7 @@
         "title": "Simple (Boilerplate) ASP.NET app with Viewstate MAC disabled ",
         "description": "I want a super-simple (pretty much boilerplate) app in ASP.NET with ViewState with viewstate mac not enforced\nApp can have very basic functionality of register user, login and user search.\nEmbedded DB like SQLite is fine\nViewstate needs to be part of the app, and MAC must not be enforced\n\nAcceptance Criteria\nApp can have extremely basic functionality of register user, login and user search with an embedded DB like SQLite\nsuper-simple (pretty much boilerplate) app in ASP.NET with ViewState with viewstate mac not enforced\nMust work on Linux. Dockerfile must be included",
         "author": "AbhayBhargav1",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a?t="
     },
     {
@@ -7246,7 +7246,7 @@
         "title": "Simple (Boilerplate) app on ASP.NET that is vulnerable to JSON.Net Insecure Deserialization",
         "description": "I want to build a very simple app to demonstrate security flaws to developers\nI want a super simple (nearly boilerplate app) that is vulnerable to Insecure Deserialization with JSON.NET like this link\nThe app must allow a user to sign up over a JSON POST request. The \"attacker\" posts the malicious JSON in this request\nThe frontend must replay the sign up contents on an HTML\n\nAcceptance Criteria\nI want a super simple (nearly boilerplate app) that is vulnerable to Insecure Deserialization with JSON.NET like this link\nThe app must allow a user to sign up over a JSON POST request. The \"attacker\" posts the malicious JSON in this request\nVery basic frontend would do. Something with Bootstrap is good enough\nMust work on Linux and as a Container. Must include Dockerfile",
         "author": "AbhayBhargav1",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a-1?t="
     },
     {
@@ -7266,7 +7266,7 @@
         "title": "Extract judgements using UK National Archive API (Python)",
         "description": "The UK National Archive has the following API:\nhttps://github.com/nationalarchives/ds-find-caselaw-docs/blob/main/doc/openapi/public_api.yml\n\nIt acts as an open, public API to the following feed of UK Court Judgements: https://caselaw.nationalarchives.gov.uk/\n\nI need a Python script that:\nGiven a date range, Court id (e.g. ewhc), returns:\na) list of judgement ids that fit the above filters\nb) raw data of the judgement (e.g. one of text/xml/pdf)\n\nThe script should have separate functions for the following:\n1) Function to retrieve list of judgements given parameters\n2) Function to retrieve the raw data of a judgement given the judgement id\n3) Function to retrieve the data for multiple judgements given a list of ids (ie batch version of 2). Must be implemented in an efficient batch/parallel fashion & not just a for loop over 2).\n\nAcceptance Criteria\nA test example should be included in the script to replicate the following search filter:\nhttps://caselaw.nationalarchive...",
         "author": "kushmadlani",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@kushmadlani/extract-judgements-u?t="
     },
     {
@@ -7276,7 +7276,7 @@
         "title": "Can't get to run vue virtual scroller demo",
         "description": "I'm looking to get the Simple List demo of this library to work in isolation:\nhttps://github.com/Akryum/vue-virtual-scroller/blob/master/packages/demo/src/components/SimpleList.vue\n\nEssentially, copy pasting this in a repl should work but I'm getting an error:\n\nCannot destructure property 'item' of 'undefined' as it is undefined.\n\nAcceptance Criteria\nA working SimpleList component from the library repository in a Repl.\n\nLink to Project\nhttps://github.com/Akryum/vue-virtual-scroller/blob/master/packages/demo/src/components/SimpleList.vue",
         "author": "MatthiasRichard",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@MatthiasRichard/cant-get-to-run-vue?t="
     },
     {
@@ -7286,7 +7286,27 @@
         "title": "Chrome extension to keep off distracting sites",
         "description": "A good Chrome extension to keep you off Facebook etc. Tracks how long you spend on degenerate sites (i.e. Facebook, Twitter, Youtube), then when you go to Facebook etc, it shows a popup saying \"On average, you think you'll spend 16 minutes, but you end up spending 31 minutes on this tab. How many minutes do you think you'll spend this time?\" And at the end of that # of minutes, it makes the page black and white so you can continue to browse but it'll be slightly uncomfortable.\n\nThis extension should also come with an independent landing page/website with screenshots that explains how the website works, so that people can discover and understand it.\n\nAcceptance Criteria\nYou must provide a resume or Github history or previous experience, along with a specific description of the method/services that you will use to do this project.",
         "author": "AJGupta",
-        "posted_time": "3 minutes ago",
+        "posted_time": "22 minutes ago",
         "link": "https://replit.com/bounties/@AJGupta/chrome-extension-to?t="
+    },
+    {
+        "index": "729",
+        "price": "$18.00",
+        "due_days": "due in 10 days",
+        "title": "[Swift/xCode] iMessage Sentiment Analyzer \ud83d\udcf2 ",
+        "description": "I own sentimentanalyzer.com and plan to use it to channel customers to download an iMessage app.\n\nCurrently, it can be difficult to judge sentiment in a text conversation. By using an in-iMessage app, we can leverage on-device Machine Learning to analyse iMessage's without leaving the application.\n\nhttps://developer.apple.com/imessage/ More about iMessage apps, I think Stickers would be a good use case. (Angry sticker shows up for mad sentiment, happy for happier message, etc)\n\nGuide on building an iMessage app\n\nAcceptance Criteria\nA product I can launch to the App Store that allows on device sentiment analysis within iMessage. (No data should leave the device.)\nUsers install the app, then stickers appear on their messages and their incoming messages that show sentiment.\n\nAdditional Context -\nI'm comfortable hiring a new developer.\nYou will be credited in the code and on the website, I can link to your Github/Replit/anything else.\nIf this is your first Swift/iMessag...",
+        "author": "Bandos1000",
+        "posted_time": "16 minutes ago",
+        "link": "https://replit.com/bounties/@Bandos1000/swiftxcode-imessage?t="
+    },
+    {
+        "index": "730",
+        "price": "$144.00",
+        "due_days": "due in 13 days",
+        "title": "Talking Harry Potter-style Painting",
+        "description": "Talk to a 'painting' and have it talk back, like Harry Potter paintings.\n\nDetect voice coming from the always-on speaker, and when a specific name is uttered, start paying more attention (i.e. it should detect me saying, \"Plato, what would you say about the rapid industrialization of society?\"). There are many open source programs for similar wake word detection. Then, the desktop should run speech-to-text on that voice. Then, it will pass that text into chatgpt to generate the response to that conversation. While ChatGPT is generating a response, it will fill that lag gap with some templated responses (like, \"Great question! I have spent decades pondering this very idea\" or whatever). Then, using tokkingheads/another deepfakes-type model to modify both the voice and the face, to have their face pretend like they're saying the response. Once the ChatGPT text starts coming, stream it sentence by sentence to the painting so the animation looks smooth.\n\nI will run this...",
+        "author": "AJGupta",
+        "posted_time": "8 minutes ago",
+        "link": "https://replit.com/bounties/@AJGupta/talking-harry-potter?t="
     }
 ]

@@ -5460,7 +5460,7 @@ Viewstate needs to be part of the app, and MAC must not be enforced
 Acceptance Criteria
 App can have extremely basic functionality of register user, login and user search with an embedded DB like SQLite
 super-simple (pretty much boilerplate) app in ASP.NET with ViewState with viewstate mac not enforced
-Must work on Linux. Dockerfile must be included",AbhayBhargav1,8 hours ago,https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a?t=
+Must work on Linux. Dockerfile must be included",AbhayBhargav1,9 hours ago,https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a?t=
 724,$90.00,due in 6 days,Simple (Boilerplate) app on ASP.NET that is vulnerable to JSON.Net Insecure Deserialization,"I want to build a very simple app to demonstrate security flaws to developers
 I want a super simple (nearly boilerplate app) that is vulnerable to Insecure Deserialization with JSON.NET like this link
 The app must allow a user to sign up over a JSON POST request. The ""attacker"" posts the malicious JSON in this request
@@ -5470,7 +5470,7 @@ Acceptance Criteria
 I want a super simple (nearly boilerplate app) that is vulnerable to Insecure Deserialization with JSON.NET like this link
 The app must allow a user to sign up over a JSON POST request. The ""attacker"" posts the malicious JSON in this request
 Very basic frontend would do. Something with Bootstrap is good enough
-Must work on Linux and as a Container. Must include Dockerfile",AbhayBhargav1,8 hours ago,https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a-1?t=
+Must work on Linux and as a Container. Must include Dockerfile",AbhayBhargav1,9 hours ago,https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a-1?t=
 725,$90.00,due in 6 days,Python CLI/Script to convert all Thumbnails in a Vimeo Account over API,"I have a vimeo account where API is enabled.
 I want to change the thumbnails of each of my videos and make them consistent
 I will give you a 1080px by 1600px background. This will be consistent across all videos
@@ -5498,7 +5498,7 @@ The script should have separate functions for the following:
 
 Acceptance Criteria
 A test example should be included in the script to replicate the following search filter:
-https://caselaw.nationalarchive...",kushmadlani,7 hours ago,https://replit.com/bounties/@kushmadlani/extract-judgements-u?t=
+https://caselaw.nationalarchive...",kushmadlani,8 hours ago,https://replit.com/bounties/@kushmadlani/extract-judgements-u?t=
 727,$31.50,closed,Can't get to run vue virtual scroller demo,"I'm looking to get the Simple List demo of this library to work in isolation:
 https://github.com/Akryum/vue-virtual-scroller/blob/master/packages/demo/src/components/SimpleList.vue
 
@@ -5510,10 +5510,31 @@ Acceptance Criteria
 A working SimpleList component from the library repository in a Repl.
 
 Link to Project
-https://github.com/Akryum/vue-virtual-scroller/blob/master/packages/demo/src/components/SimpleList.vue",MatthiasRichard,7 hours ago,https://replit.com/bounties/@MatthiasRichard/cant-get-to-run-vue?t=
+https://github.com/Akryum/vue-virtual-scroller/blob/master/packages/demo/src/components/SimpleList.vue",MatthiasRichard,8 hours ago,https://replit.com/bounties/@MatthiasRichard/cant-get-to-run-vue?t=
 728,$90.00,due in 11 days,Chrome extension to keep off distracting sites,"A good Chrome extension to keep you off Facebook etc. Tracks how long you spend on degenerate sites (i.e. Facebook, Twitter, Youtube), then when you go to Facebook etc, it shows a popup saying ""On average, you think you'll spend 16 minutes, but you end up spending 31 minutes on this tab. How many minutes do you think you'll spend this time?"" And at the end of that # of minutes, it makes the page black and white so you can continue to browse but it'll be slightly uncomfortable.
 
 This extension should also come with an independent landing page/website with screenshots that explains how the website works, so that people can discover and understand it.
 
 Acceptance Criteria
-You must provide a resume or Github history or previous experience, along with a specific description of the method/services that you will use to do this project.",AJGupta,3 minutes ago,https://replit.com/bounties/@AJGupta/chrome-extension-to?t=
+You must provide a resume or Github history or previous experience, along with a specific description of the method/services that you will use to do this project.",AJGupta,22 minutes ago,https://replit.com/bounties/@AJGupta/chrome-extension-to?t=
+729,$18.00,due in 10 days,[Swift/xCode] iMessage Sentiment Analyzer 📲 ,"I own sentimentanalyzer.com and plan to use it to channel customers to download an iMessage app.
+
+Currently, it can be difficult to judge sentiment in a text conversation. By using an in-iMessage app, we can leverage on-device Machine Learning to analyse iMessage's without leaving the application.
+
+https://developer.apple.com/imessage/ More about iMessage apps, I think Stickers would be a good use case. (Angry sticker shows up for mad sentiment, happy for happier message, etc)
+
+Guide on building an iMessage app
+
+Acceptance Criteria
+A product I can launch to the App Store that allows on device sentiment analysis within iMessage. (No data should leave the device.)
+Users install the app, then stickers appear on their messages and their incoming messages that show sentiment.
+
+Additional Context -
+I'm comfortable hiring a new developer.
+You will be credited in the code and on the website, I can link to your Github/Replit/anything else.
+If this is your first Swift/iMessag...",Bandos1000,16 minutes ago,https://replit.com/bounties/@Bandos1000/swiftxcode-imessage?t=
+730,$144.00,due in 13 days,Talking Harry Potter-style Painting,"Talk to a 'painting' and have it talk back, like Harry Potter paintings.
+
+Detect voice coming from the always-on speaker, and when a specific name is uttered, start paying more attention (i.e. it should detect me saying, ""Plato, what would you say about the rapid industrialization of society?""). There are many open source programs for similar wake word detection. Then, the desktop should run speech-to-text on that voice. Then, it will pass that text into chatgpt to generate the response to that conversation. While ChatGPT is generating a response, it will fill that lag gap with some templated responses (like, ""Great question! I have spent decades pondering this very idea"" or whatever). Then, using tokkingheads/another deepfakes-type model to modify both the voice and the face, to have their face pretend like they're saying the response. Once the ChatGPT text starts coming, stream it sentence by sentence to the painting so the animation looks smooth.
+
+I will run this...",AJGupta,8 minutes ago,https://replit.com/bounties/@AJGupta/talking-harry-potter?t=
