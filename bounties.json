@@ -7156,7 +7156,7 @@
         "title": "Next step of document signing task",
         "description": "As discussed with Alec",
         "author": "AndrewShowman",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/next-step-of-documen?t="
     },
     {
@@ -7176,7 +7176,7 @@
         "title": "Fix Node.JS Scratch API Program",
         "description": "I have a program on Repl that get's data from Microsoft Weather API, connects to Scratch API, and sends the data to the Scratch project. This was working perfectly until one day, about 6 months ago, it crashed. I believe this was because of Scratch blocking Replit's IP, but I hope one of you can fix it.\n\nResources\n\nReplit Backend: https://replit.com/@coolcoder1213/Weather-Server?v=1\n\nScratch Frontend: https://scratch.mit.edu/projects/701082874/",
         "author": "coolcoder1213",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@coolcoder1213/fix-nodejs-scratch-a?t="
     },
     {
@@ -7186,7 +7186,7 @@
         "title": "Goal Planning Website",
         "description": "web application where users can create an goal. Users choose an goal; users will get a calendar invite with ten consecutive days. Collect information on what their specific goal is. When goal is created user can share social media (twitter/Facebook) that they started a goal. When goal has completed user can share on social media that they completed goal.\n\nUser Flow\n\nLanding page (includes a list of ten goals)\nLogin via Google Auth\nClick on create a goal, go to goal details page\nFill out additional details (goal details), enter email, user presented option to share goal details on social media\nUser is email goal details, calendar invite ( I have PHP code to create calendar invite if needed)\n\nAcceptance Criteria\n\nwebpages and backend verified\n\nTechnical Details\n\nMust be able to setup on shared hosting\nBootstrap framework\nPHP (preferred)\nlanding page (includes a list of goals)\ngoogle authentication\nGoal details page - collects information about user (goal details)\nuse...",
         "author": "BrandonF7",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@BrandonF7/goal-planning-websit?t="
     },
     {
@@ -7206,7 +7206,7 @@
         "title": "Building AWS Python Lambda Layer",
         "description": "Create an aws Lambda Python layer that imports the following libraries for use in a generic lambda function:\n\nimport os\nimport gspread\nfrom dotenv import dotenv_values\nfrom google.oauth2 import service_account\nfrom googleapiclient.discovery import build\nfrom IPython.display import Markdown, display\nfrom gpt_index import (\n    GoogleDocsReader,\n    GPTListIndex,\n    GPTSimpleVectorIndex,\n    SimpleDirectoryReader,\n    SimpleWebPageReader,\n    TwitterTweetReader,\n)\n\nAcceptance Criteria\nI should be able to easily create a lambda layer that allows me to use all the services above in a basic lambda python function (python 3.9 I believe) so that I can use this lambda function as a quick endpoint that makes use of those libraries.\nTechnical Details\n\nLink to Project",
         "author": "simistern",
-        "posted_time": "27 minutes ago",
+        "posted_time": "39 minutes ago",
         "link": "https://replit.com/bounties/@simistern/building-aws-python?t="
     },
     {
@@ -7216,7 +7216,7 @@
         "title": "Deploy TCVC to an endpoint",
         "description": "The model I want is here: https://github.com/lyh-18/TCVC-Temporally-Consistent-Video-Colorization and the machine setup instructions are here: https://github.com/lyh-18/TCVC-Temporally-Consistent-Video-Colorization/issues/6#issuecomment-1271935427\n\nMake a system where I can deploy this model on AWS/GCP (I can share you my credits) or any other service that lets you run an ML model. Then, I should be able to put in a link to an .mp4 video, and it should automatically download that video, run the pipeline on it, and upload the final video to an S3 bucket. The frontend can be as simple as pasting a single video link, and providing the colorized link in return. There does not need to be a frontend, being easily callable from an api endpoint or a script is sufficient. I can provide the credits needed to run the model.\n\nYou can see an example of how I previously tried to deploy this model, but wasn't able to finish here: https://github.com/Divide-By-0/tcvc-modal/ . This a...",
         "author": "AJGupta",
-        "posted_time": "19 minutes ago",
+        "posted_time": "31 minutes ago",
         "link": "https://replit.com/bounties/@AJGupta/deploy-tcvc-to-an-en?t="
     }
 ]
