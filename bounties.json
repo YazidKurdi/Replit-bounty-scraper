@@ -7306,7 +7306,7 @@
         "title": "Talking Harry Potter-style Painting",
         "description": "Talk to a 'painting' and have it talk back, like Harry Potter paintings.\n\nDetect voice coming from the always-on speaker, and when a specific name is uttered, start paying more attention (i.e. it should detect me saying, \"Plato, what would you say about the rapid industrialization of society?\"). There are many open source programs for similar wake word detection. Then, the desktop should run speech-to-text on that voice. Then, it will pass that text into chatgpt to generate the response to that conversation. While ChatGPT is generating a response, it will fill that lag gap with some templated responses (like, \"Great question! I have spent decades pondering this very idea\" or whatever). Then, using tokkingheads/another deepfakes-type model to modify both the voice and the face, to have their face pretend like they're saying the response. Once the ChatGPT text starts coming, stream it sentence by sentence to the painting so the animation looks smooth.\n\nI will run this...",
         "author": "AJGupta",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/talking-harry-potter?t="
     },
     {
@@ -7326,7 +7326,7 @@
         "title": "Enable Bitcoin NFC payments for Cash Register web application (galoy-pay)",
         "description": "The Lightning cash register is a bitcoin point of sale web app for receiving sats online or in-person. Anybody with a Bitcoin Beach Wallet username can access their register at https://pay.bbw.sv/agbegin [where agbegin is the username].\n\nThe bounty involves some UI and frontend dev work.\n\nWe'd like to enable NFC payments in the cash register, so people using Bolt Cards or other contactless payment methods can tap to pay. A visual icon should be shown to launch a modal window that informs the user to tap to pay (in mobile web browser, user must interact to enable NFC). Error messages should be considered where appropriate (are we able to detect if funds aren't available on a card?). The user experience should be simple and easy to follow from both the sender and the receiver point of view.\n\nSee more details on the discussion in the galoy-pay repository: https://github.com/GaloyMoney/galoy-pay/discussions/408\n\nAcceptance Criteria\nPR is merged and feature is working in...",
         "author": "AndrewBegin",
-        "posted_time": "52 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@AndrewBegin/enable-bitcoin-nfc-p?t="
     }
 ]
