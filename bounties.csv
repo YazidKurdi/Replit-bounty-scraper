@@ -5553,3 +5553,13 @@ Include the website address (findai.io or https://findai.io) in the description 
 Share your social accounts via email ([email protected]) to get your application accepted.
 
 You can of course upload multiple videos if you like, but to get the bounty, one video must get 100K+ views.",mjbre,1 hour ago,https://replit.com/bounties/@mjbre/spread-the-word-abou?t=
+732,$180.00,due in 6 days,Enable Bitcoin NFC payments for Cash Register web application (galoy-pay),"The Lightning cash register is a bitcoin point of sale web app for receiving sats online or in-person. Anybody with a Bitcoin Beach Wallet username can access their register at https://pay.bbw.sv/agbegin [where agbegin is the username].
+
+The bounty involves some UI and frontend dev work.
+
+We'd like to enable NFC payments in the cash register, so people using Bolt Cards or other contactless payment methods can tap to pay. A visual icon should be shown to launch a modal window that informs the user to tap to pay (in mobile web browser, user must interact to enable NFC). Error messages should be considered where appropriate (are we able to detect if funds aren't available on a card?). The user experience should be simple and easy to follow from both the sender and the receiver point of view.
+
+See more details on the discussion in the galoy-pay repository: https://github.com/GaloyMoney/galoy-pay/discussions/408
+
+Acceptance Criteria
+PR is merged and feature is working in...",AndrewBegin,2 minutes ago,https://replit.com/bounties/@AndrewBegin/enable-bitcoin-nfc-p?t=
