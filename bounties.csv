@@ -5413,7 +5413,7 @@ Acceptance Criteria
 Project must compile, run and show a value from an ENV file on the screen that is imported using @env alias.
 
 Technical Details
-I don't want to eject the project and there will be some babel configuration needed most likely",patrickpistor1,9 hours ago,https://replit.com/bounties/@patrickpistor1/create-a-react-nativ?t=
+I don't want to eject the project and there will be some babel configuration needed most likely",patrickpistor1,10 hours ago,https://replit.com/bounties/@patrickpistor1/create-a-react-nativ?t=
 720,$45.00,due in 4 days,Building AWS Python Lambda Layer,"Create an aws Lambda Python layer that imports the following libraries for use in a generic lambda function:
 
 import os
@@ -5460,7 +5460,7 @@ Viewstate needs to be part of the app, and MAC must not be enforced
 Acceptance Criteria
 App can have extremely basic functionality of register user, login and user search with an embedded DB like SQLite
 super-simple (pretty much boilerplate) app in ASP.NET with ViewState with viewstate mac not enforced
-Must work on Linux. Dockerfile must be included",AbhayBhargav1,1 hour ago,https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a?t=
+Must work on Linux. Dockerfile must be included",AbhayBhargav1,2 hours ago,https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a?t=
 724,$90.00,due in 7 days,Simple (Boilerplate) app on ASP.NET that is vulnerable to JSON.Net Insecure Deserialization,"I want to build a very simple app to demonstrate security flaws to developers
 I want a super simple (nearly boilerplate app) that is vulnerable to Insecure Deserialization with JSON.NET like this link
 The app must allow a user to sign up over a JSON POST request. The ""attacker"" posts the malicious JSON in this request
@@ -5470,7 +5470,7 @@ Acceptance Criteria
 I want a super simple (nearly boilerplate app) that is vulnerable to Insecure Deserialization with JSON.NET like this link
 The app must allow a user to sign up over a JSON POST request. The ""attacker"" posts the malicious JSON in this request
 Very basic frontend would do. Something with Bootstrap is good enough
-Must work on Linux and as a Container. Must include Dockerfile",AbhayBhargav1,1 hour ago,https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a-1?t=
+Must work on Linux and as a Container. Must include Dockerfile",AbhayBhargav1,2 hours ago,https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a-1?t=
 725,$90.00,due in 7 days,Python CLI/Script to convert all Thumbnails in a Vimeo Account over API,"I have a vimeo account where API is enabled.
 I want to change the thumbnails of each of my videos and make them consistent
 I will give you a 1080px by 1600px background. This will be consistent across all videos
@@ -5480,7 +5480,7 @@ This is the background image => https://imgur.com/a/ufkX8IG
 Acceptance Criteria
 The script should be able to consume an API Key as an environment variable, and the path of the background image as an argument to the main function. Everything else must be done by the script
 The script should iterate over all the videos in a vimeo account and generate a thumbnail for each video and upload that thumbnail as the official thumbnail for the video over Vimeo API
-Raleway font is to be used proportional to the size of the thumbnail. It must be center aligned ...",AbhayBhargav1,57 minutes ago,https://replit.com/bounties/@AbhayBhargav1/python-script-to-con?t=
+Raleway font is to be used proportional to the size of the thumbnail. It must be center aligned ...",AbhayBhargav1,1 hour ago,https://replit.com/bounties/@AbhayBhargav1/python-script-to-con?t=
 726,$18.00,due in 6 days,Extract judgements using UK National Archive API (Python),"The UK National Archive has the following API:
 https://github.com/nationalarchives/ds-find-caselaw-docs/blob/main/doc/openapi/public_api.yml
 
@@ -5498,7 +5498,7 @@ The script should have separate functions for the following:
 
 Acceptance Criteria
 A test example should be included in the script to replicate the following search filter:
-https://caselaw.nationalarchive...",kushmadlani,24 minutes ago,https://replit.com/bounties/@kushmadlani/extract-judgements-u?t=
+https://caselaw.nationalarchive...",kushmadlani,38 minutes ago,https://replit.com/bounties/@kushmadlani/extract-judgements-u?t=
 727,$31.50,closed,Can't get to run vue virtual scroller demo,"I'm looking to get the Simple List demo of this library to work in isolation:
 https://github.com/Akryum/vue-virtual-scroller/blob/master/packages/demo/src/components/SimpleList.vue
 
@@ -5510,4 +5510,4 @@ Acceptance Criteria
 A working SimpleList component from the library repository in a Repl.
 
 Link to Project
-https://github.com/Akryum/vue-virtual-scroller/blob/master/packages/demo/src/components/SimpleList.vue",MatthiasRichard,18 minutes ago,https://replit.com/bounties/@MatthiasRichard/cant-get-to-run-vue?t=
+https://github.com/Akryum/vue-virtual-scroller/blob/master/packages/demo/src/components/SimpleList.vue",MatthiasRichard,33 minutes ago,https://replit.com/bounties/@MatthiasRichard/cant-get-to-run-vue?t=
