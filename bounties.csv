@@ -5406,7 +5406,7 @@ PHP (preferred)
 landing page (includes a list of goals)
 google authentication
 Goal details page - collects information about user (goal details)
-use...",BrandonF7,16 hours ago,https://replit.com/bounties/@BrandonF7/goal-planning-websit?t=
+use...",BrandonF7,17 hours ago,https://replit.com/bounties/@BrandonF7/goal-planning-websit?t=
 719,$45.00,due in 7 days,Create a React Native app using Expo and react-native-dotenv,"I need an Expo app that uses the library react-native-dot-env https://github.com/goatandsheep/react-native-dotenv to import an ENV file into my project using ""@env"". I would also like this app to use TypeScript and the native-base template. https://docs.nativebase.io/install-expo
 
 Acceptance Criteria
@@ -5435,7 +5435,7 @@ Acceptance Criteria
 I should be able to easily create a lambda layer that allows me to use all the services above in a basic lambda python function (python 3.9 I believe) so that I can use this lambda function as a quick endpoint that makes use of those libraries.
 Technical Details
 
-Link to Project",simistern,13 hours ago,https://replit.com/bounties/@simistern/building-aws-python?t=
+Link to Project",simistern,14 hours ago,https://replit.com/bounties/@simistern/building-aws-python?t=
 721,$225.00,due in 12 days,Deploy TCVC to an endpoint,"The model I want is here: https://github.com/lyh-18/TCVC-Temporally-Consistent-Video-Colorization and the machine setup instructions are here: https://github.com/lyh-18/TCVC-Temporally-Consistent-Video-Colorization/issues/6#issuecomment-1271935427
 
 Make a system where I can deploy this model on AWS/GCP (I can share you my credits) or any other service that lets you run an ML model. Then, I should be able to put in a link to an .mp4 video, and it should automatically download that video, run the pipeline on it, and upload the final video to an S3 bucket. The frontend can be as simple as pasting a single video link, and providing the colorized link in return. There does not need to be a frontend, being easily callable from an api endpoint or a script is sufficient. I can provide the credits needed to run the model.
@@ -5451,7 +5451,7 @@ Ensure that a user is able to search a transcript.
 Ensure that each user can only access their own transcripts and not others.
 
 Technical Details
-We are building our web app using React and Django. We can discuss more details in email/call.",JordiBurgues,8 hours ago,https://replit.com/bounties/@JordiBurgues/add-algolia-search-t?t=
+We are building our web app using React and Django. We can discuss more details in email/call.",JordiBurgues,9 hours ago,https://replit.com/bounties/@JordiBurgues/add-algolia-search-t?t=
 723,$90.00,closed,Simple (Boilerplate) ASP.NET app with Viewstate MAC disabled ,"I want a super-simple (pretty much boilerplate) app in ASP.NET with ViewState with viewstate mac not enforced
 App can have very basic functionality of register user, login and user search.
 Embedded DB like SQLite is fine
