@@ -5353,7 +5353,7 @@ The bounty entails reverse engineering a bank application and successfully simul
 App: https://play.google.com/store/apps/details?id=com.mashreq.NeoApp&hl=en&gl=US
 
 Acceptance Criteria
-The desired outcome is a repackaged APK that can be utilized with tools such as Burp, Charles, or other software to intercept requests. This could also be applicable to iOS. The acceptance criteria include a clear set of instructions for setting up the app, simulating actions, and observing the API calls and payloads.",HeshamGhandour1,7 hours ago,https://replit.com/bounties/@HeshamGhandour1/reverse-engineer-an?t=
+The desired outcome is a repackaged APK that can be utilized with tools such as Burp, Charles, or other software to intercept requests. This could also be applicable to iOS. The acceptance criteria include a clear set of instructions for setting up the app, simulating actions, and observing the API calls and payloads.",HeshamGhandour1,8 hours ago,https://replit.com/bounties/@HeshamGhandour1/reverse-engineer-an?t=
 714,$180.00,due in 7 days,Fine tune GPT-3 on a set of 10-Ks,"I'd like to train GPT-3 on a series of 10-Ks (financial reports) I have downloaded, and including a way to change and update this in the future. The documents are in html and I'd ideally like to be able to ensure the input includes sub-headings that indicate sections, and data-tables (not just stripped to simple txt which seems to destroy the q&a).
 
 Output: I'd like to be able to ask specific questions and get answers, including about datapoints or tables that's included in the files.",strangeloopcanon,7 hours ago,https://replit.com/bounties/@strangeloopcanon/fine-tune-gpt-3-on-a?t=
@@ -5376,7 +5376,7 @@ Ideal process to setup public site:
 Ideally, the site should be hosted on a Vercel free plan (Would prefer NOT to create a Vercel account, but understand if that need to be a step for mvp.) for speed and SEO.
 
 Here are some resources.
-1) Please follow all contributing rules here: htt...",Bandos1000,5 hours ago,https://replit.com/bounties/@Bandos1000/open-source-create-l?t=
+1) Please follow all contributing rules here: htt...",Bandos1000,6 hours ago,https://replit.com/bounties/@Bandos1000/open-source-create-l?t=
 717,$22.50,closed,Fix Node.JS Scratch API Program,"I have a program on Repl that get's data from Microsoft Weather API, connects to Scratch API, and sends the data to the Scratch project. This was working perfectly until one day, about 6 months ago, it crashed. I believe this was because of Scratch blocking Replit's IP, but I hope one of you can fix it.
 
 Resources
@@ -5413,7 +5413,7 @@ Acceptance Criteria
 Project must compile, run and show a value from an ENV file on the screen that is imported using @env alias.
 
 Technical Details
-I don't want to eject the project and there will be some babel configuration needed most likely",patrickpistor1,4 hours ago,https://replit.com/bounties/@patrickpistor1/create-a-react-nativ?t=
+I don't want to eject the project and there will be some babel configuration needed most likely",patrickpistor1,5 hours ago,https://replit.com/bounties/@patrickpistor1/create-a-react-nativ?t=
 720,$45.00,due in 4 days,Building AWS Python Lambda Layer,"Create an aws Lambda Python layer that imports the following libraries for use in a generic lambda function:
 
 import os
