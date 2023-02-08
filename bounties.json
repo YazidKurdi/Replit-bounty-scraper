@@ -7206,7 +7206,7 @@
         "title": "Building AWS Python Lambda Layer",
         "description": "Create an aws Lambda Python layer that imports the following libraries for use in a generic lambda function:\n\nimport os\nimport gspread\nfrom dotenv import dotenv_values\nfrom google.oauth2 import service_account\nfrom googleapiclient.discovery import build\nfrom IPython.display import Markdown, display\nfrom gpt_index import (\n    GoogleDocsReader,\n    GPTListIndex,\n    GPTSimpleVectorIndex,\n    SimpleDirectoryReader,\n    SimpleWebPageReader,\n    TwitterTweetReader,\n)\n\nAcceptance Criteria\nI should be able to easily create a lambda layer that allows me to use all the services above in a basic lambda python function (python 3.9 I believe) so that I can use this lambda function as a quick endpoint that makes use of those libraries.\nTechnical Details\n\nLink to Project",
         "author": "simistern",
-        "posted_time": "39 minutes ago",
+        "posted_time": "46 minutes ago",
         "link": "https://replit.com/bounties/@simistern/building-aws-python?t="
     },
     {
@@ -7216,7 +7216,7 @@
         "title": "Deploy TCVC to an endpoint",
         "description": "The model I want is here: https://github.com/lyh-18/TCVC-Temporally-Consistent-Video-Colorization and the machine setup instructions are here: https://github.com/lyh-18/TCVC-Temporally-Consistent-Video-Colorization/issues/6#issuecomment-1271935427\n\nMake a system where I can deploy this model on AWS/GCP (I can share you my credits) or any other service that lets you run an ML model. Then, I should be able to put in a link to an .mp4 video, and it should automatically download that video, run the pipeline on it, and upload the final video to an S3 bucket. The frontend can be as simple as pasting a single video link, and providing the colorized link in return. There does not need to be a frontend, being easily callable from an api endpoint or a script is sufficient. I can provide the credits needed to run the model.\n\nYou can see an example of how I previously tried to deploy this model, but wasn't able to finish here: https://github.com/Divide-By-0/tcvc-modal/ . This a...",
         "author": "AJGupta",
-        "posted_time": "31 minutes ago",
+        "posted_time": "38 minutes ago",
         "link": "https://replit.com/bounties/@AJGupta/deploy-tcvc-to-an-en?t="
     }
 ]
