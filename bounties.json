@@ -7156,7 +7156,7 @@
         "title": "Next step of document signing task",
         "description": "As discussed with Alec",
         "author": "AndrewShowman",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/next-step-of-documen?t="
     },
     {
@@ -7176,7 +7176,7 @@
         "title": "Fix Node.JS Scratch API Program",
         "description": "I have a program on Repl that get's data from Microsoft Weather API, connects to Scratch API, and sends the data to the Scratch project. This was working perfectly until one day, about 6 months ago, it crashed. I believe this was because of Scratch blocking Replit's IP, but I hope one of you can fix it.\n\nResources\n\nReplit Backend: https://replit.com/@coolcoder1213/Weather-Server?v=1\n\nScratch Frontend: https://scratch.mit.edu/projects/701082874/",
         "author": "coolcoder1213",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@coolcoder1213/fix-nodejs-scratch-a?t="
     },
     {
@@ -7186,7 +7186,7 @@
         "title": "Goal Planning Website",
         "description": "web application where users can create an goal. Users choose an goal; users will get a calendar invite with ten consecutive days. Collect information on what their specific goal is. When goal is created user can share social media (twitter/Facebook) that they started a goal. When goal has completed user can share on social media that they completed goal.\n\nUser Flow\n\nLanding page (includes a list of ten goals)\nLogin via Google Auth\nClick on create a goal, go to goal details page\nFill out additional details (goal details), enter email, user presented option to share goal details on social media\nUser is email goal details, calendar invite ( I have PHP code to create calendar invite if needed)\n\nAcceptance Criteria\n\nwebpages and backend verified\n\nTechnical Details\n\nMust be able to setup on shared hosting\nBootstrap framework\nPHP (preferred)\nlanding page (includes a list of goals)\ngoogle authentication\nGoal details page - collects information about user (goal details)\nuse...",
         "author": "BrandonF7",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@BrandonF7/goal-planning-websit?t="
     },
     {
@@ -7206,7 +7206,7 @@
         "title": "Building AWS Python Lambda Layer",
         "description": "Create an aws Lambda Python layer that imports the following libraries for use in a generic lambda function:\n\nimport os\nimport gspread\nfrom dotenv import dotenv_values\nfrom google.oauth2 import service_account\nfrom googleapiclient.discovery import build\nfrom IPython.display import Markdown, display\nfrom gpt_index import (\n    GoogleDocsReader,\n    GPTListIndex,\n    GPTSimpleVectorIndex,\n    SimpleDirectoryReader,\n    SimpleWebPageReader,\n    TwitterTweetReader,\n)\n\nAcceptance Criteria\nI should be able to easily create a lambda layer that allows me to use all the services above in a basic lambda python function (python 3.9 I believe) so that I can use this lambda function as a quick endpoint that makes use of those libraries.\nTechnical Details\n\nLink to Project",
         "author": "simistern",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@simistern/building-aws-python?t="
     },
     {
@@ -7226,17 +7226,17 @@
         "title": "Add Algolia Search to Web app",
         "description": "We are looking to add search capabilities to our transcription web app using Agolia's search.\n\nAcceptance Criteria\n\nIntegrate Algolia into a web app.\nFront end integration using React.\nEnsure that a user is able to search a transcript.\nEnsure that each user can only access their own transcripts and not others.\n\nTechnical Details\nWe are building our web app using React and Django. We can discuss more details in email/call.",
         "author": "JordiBurgues",
-        "posted_time": "26 minutes ago",
+        "posted_time": "34 minutes ago",
         "link": "https://replit.com/bounties/@JordiBurgues/add-algolia-search-t?t="
     },
     {
         "index": "723",
         "price": "$90.00",
-        "due_days": "due in 7 days",
+        "due_days": "closed",
         "title": "Simple (Boilerplate) ASP.NET app with Viewstate MAC disabled ",
         "description": "I want a super-simple (pretty much boilerplate) app in ASP.NET with ViewState with viewstate mac not enforced\nApp can have very basic functionality of register user, login and user search.\nEmbedded DB like SQLite is fine\nViewstate needs to be part of the app, and MAC must not be enforced\n\nAcceptance Criteria\nApp can have extremely basic functionality of register user, login and user search with an embedded DB like SQLite\nsuper-simple (pretty much boilerplate) app in ASP.NET with ViewState with viewstate mac not enforced\nMust work on Linux. Dockerfile must be included",
         "author": "AbhayBhargav1",
-        "posted_time": "12 minutes ago",
+        "posted_time": "20 minutes ago",
         "link": "https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a?t="
     },
     {
@@ -7246,7 +7246,7 @@
         "title": "Simple (Boilerplate) app on ASP.NET that is vulnerable to JSON.Net Insecure Deserialization",
         "description": "I want to build a very simple app to demonstrate security flaws to developers\nI want a super simple (nearly boilerplate app) that is vulnerable to Insecure Deserialization with JSON.NET like this link\nThe app must allow a user to sign up over a JSON POST request. The \"attacker\" posts the malicious JSON in this request\nThe frontend must replay the sign up contents on an HTML\n\nAcceptance Criteria\nI want a super simple (nearly boilerplate app) that is vulnerable to Insecure Deserialization with JSON.NET like this link\nThe app must allow a user to sign up over a JSON POST request. The \"attacker\" posts the malicious JSON in this request\nVery basic frontend would do. Something with Bootstrap is good enough\nMust work on Linux and as a Container. Must include Dockerfile",
         "author": "AbhayBhargav1",
-        "posted_time": "6 minutes ago",
+        "posted_time": "13 minutes ago",
         "link": "https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a-1?t="
     }
 ]

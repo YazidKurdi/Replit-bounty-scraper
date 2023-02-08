@@ -5357,7 +5357,7 @@ The desired outcome is a repackaged APK that can be utilized with tools such as 
 714,$180.00,due in 7 days,Fine tune GPT-3 on a set of 10-Ks,"I'd like to train GPT-3 on a series of 10-Ks (financial reports) I have downloaded, and including a way to change and update this in the future. The documents are in html and I'd ideally like to be able to ensure the input includes sub-headings that indicate sections, and data-tables (not just stripped to simple txt which seems to destroy the q&a).
 
 Output: I'd like to be able to ask specific questions and get answers, including about datapoints or tables that's included in the files.",strangeloopcanon,11 hours ago,https://replit.com/bounties/@strangeloopcanon/fine-tune-gpt-3-on-a?t=
-715,$90.00,due in 7 days,Next step of document signing task,As discussed with Alec,AndrewShowman,9 hours ago,https://replit.com/bounties/@AndrewShowman/next-step-of-documen?t=
+715,$90.00,due in 7 days,Next step of document signing task,As discussed with Alec,AndrewShowman,10 hours ago,https://replit.com/bounties/@AndrewShowman/next-step-of-documen?t=
 716,$50.00,due in 16 days,[Open Source] Create LogSeq Publish Feature ፨,"LogSeq currently has no method to publish sites/graphs to a personal website.
 It is an open source project, so I am looking for someone to directly commit/push to the project and for it to be accepted on the GitHub.
 
@@ -5383,7 +5383,7 @@ Resources
 
 Replit Backend: https://replit.com/@coolcoder1213/Weather-Server?v=1
 
-Scratch Frontend: https://scratch.mit.edu/projects/701082874/",coolcoder1213,8 hours ago,https://replit.com/bounties/@coolcoder1213/fix-nodejs-scratch-a?t=
+Scratch Frontend: https://scratch.mit.edu/projects/701082874/",coolcoder1213,9 hours ago,https://replit.com/bounties/@coolcoder1213/fix-nodejs-scratch-a?t=
 718,$180.00,due in 11 days,Goal Planning Website,"web application where users can create an goal. Users choose an goal; users will get a calendar invite with ten consecutive days. Collect information on what their specific goal is. When goal is created user can share social media (twitter/Facebook) that they started a goal. When goal has completed user can share on social media that they completed goal.
 
 User Flow
@@ -5406,7 +5406,7 @@ PHP (preferred)
 landing page (includes a list of goals)
 google authentication
 Goal details page - collects information about user (goal details)
-use...",BrandonF7,8 hours ago,https://replit.com/bounties/@BrandonF7/goal-planning-websit?t=
+use...",BrandonF7,9 hours ago,https://replit.com/bounties/@BrandonF7/goal-planning-websit?t=
 719,$45.00,due in 8 days,Create a React Native app using Expo and react-native-dotenv,"I need an Expo app that uses the library react-native-dot-env https://github.com/goatandsheep/react-native-dotenv to import an ENV file into my project using ""@env"". I would also like this app to use TypeScript and the native-base template. https://docs.nativebase.io/install-expo
 
 Acceptance Criteria
@@ -5435,7 +5435,7 @@ Acceptance Criteria
 I should be able to easily create a lambda layer that allows me to use all the services above in a basic lambda python function (python 3.9 I believe) so that I can use this lambda function as a quick endpoint that makes use of those libraries.
 Technical Details
 
-Link to Project",simistern,5 hours ago,https://replit.com/bounties/@simistern/building-aws-python?t=
+Link to Project",simistern,6 hours ago,https://replit.com/bounties/@simistern/building-aws-python?t=
 721,$225.00,due in 13 days,Deploy TCVC to an endpoint,"The model I want is here: https://github.com/lyh-18/TCVC-Temporally-Consistent-Video-Colorization and the machine setup instructions are here: https://github.com/lyh-18/TCVC-Temporally-Consistent-Video-Colorization/issues/6#issuecomment-1271935427
 
 Make a system where I can deploy this model on AWS/GCP (I can share you my credits) or any other service that lets you run an ML model. Then, I should be able to put in a link to an .mp4 video, and it should automatically download that video, run the pipeline on it, and upload the final video to an S3 bucket. The frontend can be as simple as pasting a single video link, and providing the colorized link in return. There does not need to be a frontend, being easily callable from an api endpoint or a script is sufficient. I can provide the credits needed to run the model.
@@ -5451,8 +5451,8 @@ Ensure that a user is able to search a transcript.
 Ensure that each user can only access their own transcripts and not others.
 
 Technical Details
-We are building our web app using React and Django. We can discuss more details in email/call.",JordiBurgues,26 minutes ago,https://replit.com/bounties/@JordiBurgues/add-algolia-search-t?t=
-723,$90.00,due in 7 days,Simple (Boilerplate) ASP.NET app with Viewstate MAC disabled ,"I want a super-simple (pretty much boilerplate) app in ASP.NET with ViewState with viewstate mac not enforced
+We are building our web app using React and Django. We can discuss more details in email/call.",JordiBurgues,34 minutes ago,https://replit.com/bounties/@JordiBurgues/add-algolia-search-t?t=
+723,$90.00,closed,Simple (Boilerplate) ASP.NET app with Viewstate MAC disabled ,"I want a super-simple (pretty much boilerplate) app in ASP.NET with ViewState with viewstate mac not enforced
 App can have very basic functionality of register user, login and user search.
 Embedded DB like SQLite is fine
 Viewstate needs to be part of the app, and MAC must not be enforced
@@ -5460,7 +5460,7 @@ Viewstate needs to be part of the app, and MAC must not be enforced
 Acceptance Criteria
 App can have extremely basic functionality of register user, login and user search with an embedded DB like SQLite
 super-simple (pretty much boilerplate) app in ASP.NET with ViewState with viewstate mac not enforced
-Must work on Linux. Dockerfile must be included",AbhayBhargav1,12 minutes ago,https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a?t=
+Must work on Linux. Dockerfile must be included",AbhayBhargav1,20 minutes ago,https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a?t=
 724,$90.00,due in 7 days,Simple (Boilerplate) app on ASP.NET that is vulnerable to JSON.Net Insecure Deserialization,"I want to build a very simple app to demonstrate security flaws to developers
 I want a super simple (nearly boilerplate app) that is vulnerable to Insecure Deserialization with JSON.NET like this link
 The app must allow a user to sign up over a JSON POST request. The ""attacker"" posts the malicious JSON in this request
@@ -5470,4 +5470,4 @@ Acceptance Criteria
 I want a super simple (nearly boilerplate app) that is vulnerable to Insecure Deserialization with JSON.NET like this link
 The app must allow a user to sign up over a JSON POST request. The ""attacker"" posts the malicious JSON in this request
 Very basic frontend would do. Something with Bootstrap is good enough
-Must work on Linux and as a Container. Must include Dockerfile",AbhayBhargav1,6 minutes ago,https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a-1?t=
+Must work on Linux and as a Container. Must include Dockerfile",AbhayBhargav1,13 minutes ago,https://replit.com/bounties/@AbhayBhargav1/simple-boilerplate-a-1?t=
