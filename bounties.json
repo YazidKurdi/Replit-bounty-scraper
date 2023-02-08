@@ -7266,7 +7266,7 @@
         "title": "Extract judgements using UK National Archive API (Python)",
         "description": "The UK National Archive has the following API:\nhttps://github.com/nationalarchives/ds-find-caselaw-docs/blob/main/doc/openapi/public_api.yml\n\nIt acts as an open, public API to the following feed of UK Court Judgements: https://caselaw.nationalarchives.gov.uk/\n\nI need a Python script that:\nGiven a date range, Court id (e.g. ewhc), returns:\na) list of judgement ids that fit the above filters\nb) raw data of the judgement (e.g. one of text/xml/pdf)\n\nThe script should have separate functions for the following:\n1) Function to retrieve list of judgements given parameters\n2) Function to retrieve the raw data of a judgement given the judgement id\n3) Function to retrieve the data for multiple judgements given a list of ids (ie batch version of 2). Must be implemented in an efficient batch/parallel fashion & not just a for loop over 2).\n\nAcceptance Criteria\nA test example should be included in the script to replicate the following search filter:\nhttps://caselaw.nationalarchive...",
         "author": "kushmadlani",
-        "posted_time": "38 minutes ago",
+        "posted_time": "52 minutes ago",
         "link": "https://replit.com/bounties/@kushmadlani/extract-judgements-u?t="
     },
     {
@@ -7276,7 +7276,7 @@
         "title": "Can't get to run vue virtual scroller demo",
         "description": "I'm looking to get the Simple List demo of this library to work in isolation:\nhttps://github.com/Akryum/vue-virtual-scroller/blob/master/packages/demo/src/components/SimpleList.vue\n\nEssentially, copy pasting this in a repl should work but I'm getting an error:\n\nCannot destructure property 'item' of 'undefined' as it is undefined.\n\nAcceptance Criteria\nA working SimpleList component from the library repository in a Repl.\n\nLink to Project\nhttps://github.com/Akryum/vue-virtual-scroller/blob/master/packages/demo/src/components/SimpleList.vue",
         "author": "MatthiasRichard",
-        "posted_time": "33 minutes ago",
+        "posted_time": "46 minutes ago",
         "link": "https://replit.com/bounties/@MatthiasRichard/cant-get-to-run-vue?t="
     }
 ]
