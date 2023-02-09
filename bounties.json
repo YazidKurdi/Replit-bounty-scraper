@@ -7306,7 +7306,7 @@
         "title": "Talking Harry Potter-style Painting",
         "description": "Talk to a 'painting' and have it talk back, like Harry Potter paintings.\n\nDetect voice coming from the always-on speaker, and when a specific name is uttered, start paying more attention (i.e. it should detect me saying, \"Plato, what would you say about the rapid industrialization of society?\"). There are many open source programs for similar wake word detection. Then, the desktop should run speech-to-text on that voice. Then, it will pass that text into chatgpt to generate the response to that conversation. While ChatGPT is generating a response, it will fill that lag gap with some templated responses (like, \"Great question! I have spent decades pondering this very idea\" or whatever). Then, using tokkingheads/another deepfakes-type model to modify both the voice and the face, to have their face pretend like they're saying the response. Once the ChatGPT text starts coming, stream it sentence by sentence to the painting so the animation looks smooth.\n\nI will run this...",
         "author": "AJGupta",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/talking-harry-potter?t="
     },
     {
@@ -7316,7 +7316,7 @@
         "title": "Spread the word about FindAI.io",
         "description": "Help us to spread the word about FindAI.io.\n\nFindAI.io is the go-to destination for discovering the best AI tools.\n\nCreate a video on TikTok, Instagram, YouTube, or Snapchat to demonstrate the features of FindAI.io. Receive a reward when the video reaches at least 100K views. As we are based in Europe, we prioritize viewers from Europe and North America for this reward.\n\nAcceptance Criteria\nTo be eligible for the bounty, you must:\n\nShare analytics of the video and the actual video link.\nClearly mention \"findai.io\" in the video.\nInclude the website address (findai.io or https://findai.io) in the description of the video\nShare your social accounts via email ([email\u00a0protected]) to get your application accepted.\n\nYou can of course upload multiple videos if you like, but to get the bounty, one video must get 100K+ views.",
         "author": "mjbre",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@mjbre/spread-the-word-abou?t="
     },
     {
