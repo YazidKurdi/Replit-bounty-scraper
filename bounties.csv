@@ -5552,7 +5552,7 @@ Clearly mention ""findai.io"" in the video.
 Include the website address (findai.io or https://findai.io) in the description of the video
 Share your social accounts via email ([email protected]) to get your application accepted.
 
-You can of course upload multiple videos if you like, but to get the bounty, one video must get 100K+ views.",mjbre,14 hours ago,https://replit.com/bounties/@mjbre/spread-the-word-abou?t=
+You can of course upload multiple videos if you like, but to get the bounty, one video must get 100K+ views.",mjbre,15 hours ago,https://replit.com/bounties/@mjbre/spread-the-word-abou?t=
 732,$180.00,due in 6 days,Enable Bitcoin NFC payments for Cash Register web application (galoy-pay),"The Lightning cash register is a bitcoin point of sale web app for receiving sats online or in-person. Anybody with a Bitcoin Beach Wallet username can access their register at https://pay.bbw.sv/agbegin [where agbegin is the username].
 
 The bounty involves some UI and frontend dev work.
@@ -5608,4 +5608,4 @@ Problem Description
 FluffyDisplay allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in Swift/Objective C utilizing MacOS APIs. It is also made to be a partial library. I would like to convert this to Python and make it usable through python. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
-I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Python li...",EpicCodeWizard2,6 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-3?t=
+I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Python li...",EpicCodeWizard2,7 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-3?t=
