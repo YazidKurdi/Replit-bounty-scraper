@@ -5516,7 +5516,7 @@ https://github.com/Akryum/vue-virtual-scroller/blob/master/packages/demo/src/com
 This extension should also come with an independent landing page/website with screenshots that explains how the website works, so that people can discover and understand it.
 
 Acceptance Criteria
-You must provide a resume or Github history or previous experience, along with a specific description of the method/services that you will use to do this project.",AJGupta,11 hours ago,https://replit.com/bounties/@AJGupta/chrome-extension-to?t=
+You must provide a resume or Github history or previous experience, along with a specific description of the method/services that you will use to do this project.",AJGupta,12 hours ago,https://replit.com/bounties/@AJGupta/chrome-extension-to?t=
 729,$18.00,due in 10 days,[Swift/xCode] iMessage Sentiment Analyzer 📲 ,"I own sentimentanalyzer.com and plan to use it to channel customers to download an iMessage app.
 
 Currently, it can be difficult to judge sentiment in a text conversation. By using an in-iMessage app, we can leverage on-device Machine Learning to analyse iMessage's without leaving the application.
@@ -5562,7 +5562,7 @@ We'd like to enable NFC payments in the cash register, so people using Bolt Card
 See more details on the discussion in the galoy-pay repository: https://github.com/GaloyMoney/galoy-pay/discussions/408
 
 Acceptance Criteria
-PR is merged and feature is working in...",AndrewBegin,8 hours ago,https://replit.com/bounties/@AndrewBegin/enable-bitcoin-nfc-p?t=
+PR is merged and feature is working in...",AndrewBegin,9 hours ago,https://replit.com/bounties/@AndrewBegin/enable-bitcoin-nfc-p?t=
 733,$27.00,due in 12 days,Add unit tests + drop .gz.tar in favor of .gz,"Add some end-to-end and unit tests for https://github.com/zk-email-verify/zk-email-verify. Would also be ideal to drop .gz.tar in favor of .gz during the compression download.
 
 Would be great to also log speed of different things (specifically average time spent in download phase, average time spent in witness gen phase, average time spent in proving phase) across browsers with BrowserStack or LambdaTest, whatever is easier for you.
