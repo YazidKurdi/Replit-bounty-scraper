@@ -5634,7 +5634,7 @@ In your application please explain how you would implement this. Applications wi
 
 Your solution should be written in TypeScript with react-native & expo as the framework. I should be able to easily run this and launch a web UI where I can select a couple of random text templates from a webser (you can use https://jsonplaceholder.typicode.com/ for that).
 
-At minimum you should be able to fetch these text snippets from a web server. For extra credit, consider adding offline support to sync text snippets locally with the web server.",RipFive,44 minutes ago,https://replit.com/bounties/@RipFive/ios-keyboard-extensi?t=
+At minimum you should be able to fetch these text snippets from a web server. For extra credit, consider adding offline support to sync text snippets locally with the web server.",RipFive,53 minutes ago,https://replit.com/bounties/@RipFive/ios-keyboard-extensi?t=
 740,$150.00,due in 3 days,Integrate eBay API and write logic for a service class in Java Spring Boot Project,"This jobs involves:
 
 Incorporating an eBay Browse API to search for the 10 most recent products based on certain keyword inputs and retrieve their prices.
@@ -5649,4 +5649,4 @@ It will then populate the csv with individual columns for each of the attributes
 
 I will provide a template CSV for you if I accept you for the job.
 
-""By ac...",mdotbaig,12 minutes ago,https://replit.com/bounties/@mdotbaig/integrate-ebay-api-a?t=
+""By ac...",mdotbaig,20 minutes ago,https://replit.com/bounties/@mdotbaig/integrate-ebay-api-a?t=
