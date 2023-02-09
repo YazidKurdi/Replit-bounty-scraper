@@ -5574,11 +5574,11 @@ Please provide either experience of familiarity with codebase, or past relevant 
 100 iterations on chrome default and 20 iterations on 20 other diverse browser setups would be ideal, which should be easy on Lambdatest or Browserstack.
 
 Acceptance Criteria
-Prior working experience with similar repositories would be ideal, or else a github/resume would be preferred.",AJGupta,15 hours ago,https://replit.com/bounties/@AJGupta/timed-unit-tests-on?t=
+Prior working experience with similar repositories would be ideal, or else a github/resume would be preferred.",AJGupta,16 hours ago,https://replit.com/bounties/@AJGupta/timed-unit-tests-on?t=
 735,$40.50,due in 3 days,SwiftUI mobile app - interactive calendar view,"I'm building a gratitude SwiftUI app. I want a calendar view which will create a calendar that will change calendar day colour each time a user completes a gratitude entry for the day.
 
 Acceptance Criteria
-The sooner, the better",hp2sm78cp6,15 hours ago,https://replit.com/bounties/@hp2sm78cp6/swiftui-mobile-app-i?t=
+The sooner, the better",hp2sm78cp6,16 hours ago,https://replit.com/bounties/@hp2sm78cp6/swiftui-mobile-app-i?t=
 736,$22.50,due in 3 days,Inscribing Bitcoin NFTs (10x),"In order to claim this Bounty you need to be running a BTC node already.
 
 Problem Description
@@ -5601,7 +5601,7 @@ and further docs here:
 
 https://docs.ordinals.com/digital-artifacts.html
 
-Add me on Discord to discuss this further.",marcandreranger,13 hours ago,https://replit.com/bounties/@marcandreranger/inscribing-bitcoin-n?t=
+Add me on Discord to discuss this further.",marcandreranger,14 hours ago,https://replit.com/bounties/@marcandreranger/inscribing-bitcoin-n?t=
 737,$50.00,closed,[TRANSLATION] Convert Swift/Objective C Code Utilizing Various MacOS APIs to Python,"tl;dr I have 150-200 lines of Swift/Objective C code that need to be converted into Python. It uses some Mac OS APIs to work. Repo Link: https://github.com/tml1024/FluffyDisplay. It is mainly a library that exports one function. I would like that function to be available through Python code. Please include previous bounty work and experience with Mac OS APIs. I will tip up extra for fast work!
 
 Problem Description
@@ -5634,7 +5634,7 @@ In your application please explain how you would implement this. Applications wi
 
 Your solution should be written in TypeScript with react-native & expo as the framework. I should be able to easily run this and launch a web UI where I can select a couple of random text templates from a webser (you can use https://jsonplaceholder.typicode.com/ for that).
 
-At minimum you should be able to fetch these text snippets from a web server. For extra credit, consider adding offline support to sync text snippets locally with the web server.",RipFive,2 hours ago,https://replit.com/bounties/@RipFive/ios-keyboard-extensi?t=
+At minimum you should be able to fetch these text snippets from a web server. For extra credit, consider adding offline support to sync text snippets locally with the web server.",RipFive,3 hours ago,https://replit.com/bounties/@RipFive/ios-keyboard-extensi?t=
 740,$150.00,due in 3 days,Integrate eBay API and write logic for a service class in Java Spring Boot Project,"This jobs involves:
 
 Incorporating an eBay Browse API to search for the 10 most recent products based on certain keyword inputs and retrieve their prices.
@@ -5662,4 +5662,4 @@ I would like a very simple tool/data pipeline that allows me to copy and paste a
 
 Acceptance Criteria
 
-Given that I am a user with a Google meet transcript stored in a Google dock when I copy the entire tex...",ChristianUlstru,25 minutes ago,https://replit.com/bounties/@ChristianUlstru/transform-longform-t?t=
+Given that I am a user with a Google meet transcript stored in a Google dock when I copy the entire tex...",ChristianUlstru,53 minutes ago,https://replit.com/bounties/@ChristianUlstru/transform-longform-t?t=
