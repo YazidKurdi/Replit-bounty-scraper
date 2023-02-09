@@ -5624,7 +5624,7 @@ Is Multi-tenant (Workspaces have users)
 Nexauth with Google
 First user of this domain creates Workspace,
 All other usres with matching domain join this workspace
-DB with Pla...",aethelyon,7 hours ago,https://replit.com/bounties/@aethelyon/t3-stack-app-for-cre?t=
+DB with Pla...",aethelyon,8 hours ago,https://replit.com/bounties/@aethelyon/t3-stack-app-for-cre?t=
 739,$135.00,due in 13 days,iOS keyboard extension in React-Native,"The goal is to create an iOS keyword extension app. Similar to the interface pasteapp.io provides (screenshot https://share.cleanshot.com/3bZRt1Jp).
 
 Contrarily to pasteapp.io, it should not support documents. Simply text templates that are fetched from a web server will suffice.
@@ -5649,8 +5649,8 @@ It will then populate the csv with individual columns for each of the attributes
 
 I will provide a template CSV for you if I accept you for the job.
 
-""By ac...",mdotbaig,4 hours ago,https://replit.com/bounties/@mdotbaig/integrate-ebay-api-a?t=
-741,$45.00,due in 3 days,"Transform longform text into chunks of an equal length, less than or equal to a specified number of words","I have a large number of transcripts from recorded Google meets that range from a couple thousand to hundreds of thousands of words in length.
+""By ac...",mdotbaig,5 hours ago,https://replit.com/bounties/@mdotbaig/integrate-ebay-api-a?t=
+741,$45.00,closed,"Transform longform text into chunks of an equal length, less than or equal to a specified number of words","I have a large number of transcripts from recorded Google meets that range from a couple thousand to hundreds of thousands of words in length.
 
 I would like to rapidly prototype GPT 3 pipelines that process these transcripts.
 
@@ -5669,8 +5669,8 @@ Problem Description
 FluffyDisplay allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in Swift/Objective C utilizing MacOS APIs. It is also made to be a partial library. I would like to convert this to Python and make it usable through python. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
-I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Python li...",EpicCodeWizard2,44 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-4?t=
-743,$18.00,due in 3 days,Build a form using React TypeScript and react-hook-form,"Build the following wireframe of the form using vite.js + React + TypeScript template. Use the react-hook-form package for the form.
+I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Python li...",EpicCodeWizard2,59 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-4?t=
+743,$18.00,due in 4 days,Build a form using React TypeScript and react-hook-form,"Build the following wireframe of the form using vite.js + React + TypeScript template. Use the react-hook-form package for the form.
 
 Keep it simple and minimal. Add an index.css for the styles and only use standard HTML tags like div, table, th, tr, td, span, input etc. For icons, add separate svg/png files.
 
@@ -5687,4 +5687,4 @@ Title: Required. length > 0.
 Link: Optional but highlight in red if Title.length > 0
 Hrs: Optional. Only allow decimal numbers.
 
-The form should always have one empty row at the bottom. As soon as the user types something in the title, a new empty row should get added....",sleeksky,11 minutes ago,https://replit.com/bounties/@sleeksky/build-a-form-using-r?t=
+The form should always have one empty row at the bottom. As soon as the user types something in the title, a new empty row should get added....",sleeksky,26 minutes ago,https://replit.com/bounties/@sleeksky/build-a-form-using-r?t=
