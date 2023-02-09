@@ -7426,7 +7426,7 @@
         "title": "[TRANSLATION] Convert Swift/Objective C Code Utilizing Various MacOS APIs to Python",
         "description": "tl;dr I have 150-200 lines of Swift/Objective C code that need to be converted into Python. It uses some Mac OS APIs to work. Repo Link: https://github.com/tml1024/FluffyDisplay. It is mainly a library that exports one function. I would like that function to be available through Python code. Please include previous bounty work and experience with Mac OS APIs. I will tip up extra for fast work!\n\nProblem Description\nFluffyDisplay allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in Swift/Objective C utilizing MacOS APIs. It is also made to be a partial library. I would like to convert this to Python and make it usable through python. Just convert the code to python. I don't mind it having multiple files or many dependencies.\n\nAcceptance Criteria\nI should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Python li...",
         "author": "EpicCodeWizard2",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/translation-convert-4?t="
     },
     {
@@ -7438,5 +7438,15 @@
         "author": "sleeksky",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@sleeksky/build-a-form-using-r?t="
+    },
+    {
+        "index": "744",
+        "price": "$30.00",
+        "due_days": "due in 13 days",
+        "title": "Early Access to Diagram's Genius",
+        "description": "I would like early access to this:\n\nhttps://www.genius.design/",
+        "author": "aidantorrence",
+        "posted_time": "1 minute ago",
+        "link": "https://replit.com/bounties/@aidantorrence/early-access-to-diag?t="
     }
 ]
