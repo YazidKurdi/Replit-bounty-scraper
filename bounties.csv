@@ -5608,7 +5608,7 @@ Problem Description
 FluffyDisplay allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in Swift/Objective C utilizing MacOS APIs. It is also made to be a partial library. I would like to convert this to Python and make it usable through python. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
-I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Python li...",EpicCodeWizard2,13 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-3?t=
+I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Python li...",EpicCodeWizard2,14 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-3?t=
 738,$450.00,due in 4 days,T3 Stack App for Creating Science Projects,"We need a simple web application for creating science projects. It will be used by university students around the world.
 
 The objective of this request is to create a multi-tenant T3 Stack application that integrates with Google authentication (Nexauth) and uses a database from Planetscale or Neon.tech. The app will be deployed on Vercel and will allow users to create projects within a workspace, which will have actions, data, feedback, experiments, and metrics.
@@ -5662,4 +5662,4 @@ I would like a very simple tool/data pipeline that allows me to copy and paste a
 
 Acceptance Criteria
 
-Given that I am a user with a Google meet transcript stored in a Google dock when I copy the entire tex...",ChristianUlstru,53 minutes ago,https://replit.com/bounties/@ChristianUlstru/transform-longform-t?t=
+Given that I am a user with a Google meet transcript stored in a Google dock when I copy the entire tex...",ChristianUlstru,1 hour ago,https://replit.com/bounties/@ChristianUlstru/transform-longform-t?t=
