@@ -7276,7 +7276,7 @@
         "title": "Can't get to run vue virtual scroller demo",
         "description": "I'm looking to get the Simple List demo of this library to work in isolation:\nhttps://github.com/Akryum/vue-virtual-scroller/blob/master/packages/demo/src/components/SimpleList.vue\n\nEssentially, copy pasting this in a repl should work but I'm getting an error:\n\nCannot destructure property 'item' of 'undefined' as it is undefined.\n\nAcceptance Criteria\nA working SimpleList component from the library repository in a Repl.\n\nLink to Project\nhttps://github.com/Akryum/vue-virtual-scroller/blob/master/packages/demo/src/components/SimpleList.vue",
         "author": "MatthiasRichard",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@MatthiasRichard/cant-get-to-run-vue?t="
     },
     {
@@ -7326,7 +7326,7 @@
         "title": "Enable Bitcoin NFC payments for Cash Register web application (galoy-pay)",
         "description": "The Lightning cash register is a bitcoin point of sale web app for receiving sats online or in-person. Anybody with a Bitcoin Beach Wallet username can access their register at https://pay.bbw.sv/agbegin [where agbegin is the username].\n\nThe bounty involves some UI and frontend dev work.\n\nWe'd like to enable NFC payments in the cash register, so people using Bolt Cards or other contactless payment methods can tap to pay. A visual icon should be shown to launch a modal window that informs the user to tap to pay (in mobile web browser, user must interact to enable NFC). Error messages should be considered where appropriate (are we able to detect if funds aren't available on a card?). The user experience should be simple and easy to follow from both the sender and the receiver point of view.\n\nSee more details on the discussion in the galoy-pay repository: https://github.com/GaloyMoney/galoy-pay/discussions/408\n\nAcceptance Criteria\nPR is merged and feature is working in...",
         "author": "AndrewBegin",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@AndrewBegin/enable-bitcoin-nfc-p?t="
     },
     {
@@ -7336,7 +7336,7 @@
         "title": "Add unit tests + drop .gz.tar in favor of .gz",
         "description": "Add some end-to-end and unit tests for https://github.com/zk-email-verify/zk-email-verify. Would also be ideal to drop .gz.tar in favor of .gz during the compression download.\n\nWould be great to also log speed of different things (specifically average time spent in download phase, average time spent in witness gen phase, average time spent in proving phase) across browsers with BrowserStack or LambdaTest, whatever is easier for you.\n\nAcceptance Criteria\nPlease provide either experience of familiarity with codebase, or past relevant experience.",
         "author": "AJGupta",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/add-unit-tests-drop?t="
     },
     {
@@ -7358,5 +7358,15 @@
         "author": "hp2sm78cp6",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@hp2sm78cp6/swiftui-mobile-app-i?t="
+    },
+    {
+        "index": "736",
+        "price": "$22.50",
+        "due_days": "due in 4 days",
+        "title": "Inscribing Bitcoin NFTs (10x)",
+        "description": "In order to claim this Bounty you need to be running a BTC node already.\n\nProblem Description\nI need you to inscribe 10 images as NFTs on BTC on ord wallet.\n\nAcceptance Criteria\nFlag wallets with diff names\n\n#1-10\n\nNeed to have full control of the Ordinals after the fact and see them on ordinals.com\n\nI need someone who is very experienced with Ordinal Theory and likely did this before.\n\nYou can check this thread if needed:\n\nhttps://twitter.com/dotta/status/1622994709831622657?s=20\n\nand further docs here:\n\nhttps://docs.ordinals.com/digital-artifacts.html\n\nAdd me on Discord to discuss this further.",
+        "author": "marcandreranger",
+        "posted_time": "14 minutes ago",
+        "link": "https://replit.com/bounties/@marcandreranger/inscribing-bitcoin-n?t="
     }
 ]
