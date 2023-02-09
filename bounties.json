@@ -7376,7 +7376,7 @@
         "title": "[TRANSLATION] Convert Swift/Objective C Code Utilizing Various MacOS APIs to Python",
         "description": "tl;dr I have 150-200 lines of Swift/Objective C code that need to be converted into Python. It uses some Mac OS APIs to work. Repo Link: https://github.com/tml1024/FluffyDisplay. It is mainly a library that exports one function. I would like that function to be available through Python code. Please include previous bounty work and experience with Mac OS APIs. I will tip up extra for fast work!\n\nProblem Description\nFluffyDisplay allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in Swift/Objective C utilizing MacOS APIs. It is also made to be a partial library. I would like to convert this to Python and make it usable through python. Just convert the code to python. I don't mind it having multiple files or many dependencies.\n\nAcceptance Criteria\nI should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Python li...",
         "author": "EpicCodeWizard2",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/translation-convert-3?t="
     },
     {
@@ -7406,7 +7406,7 @@
         "title": "Integrate eBay API and write logic for a service class in Java Spring Boot Project",
         "description": "This jobs involves:\n\nIncorporating an eBay Browse API to search for the 10 most recent products based on certain keyword inputs and retrieve their prices.\n\nThe product descriptions are provided in a column of a csv, which is uploaded.\n\nThe @Service class (ProcessCSV) will pull the keywords in each cell of the product description column and consider each cell in the column as a single search.\n\nIt will look at the 10 most recent prices for products that match that description, return the highest currently price, lowest currently listed price, calculate the median of the 10 recent products' prices, and calculate the average of the 10 recent products' prices.\n\nIt will then populate the csv with individual columns for each of the attributes (highest price, lowest price, median, and mean) and allow the user to download it. (The uploading and downloading functionality has already been built into the ProcessCSV class.)\n\nI will provide a template CSV for you if I accept you for the job.\n\n\"By ac...",
         "author": "mdotbaig",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/integrate-ebay-api-a?t="
     },
     {
@@ -7446,7 +7446,17 @@
         "title": "Early Access to Diagram's Genius",
         "description": "I would like early access to this:\n\nhttps://www.genius.design/",
         "author": "aidantorrence",
-        "posted_time": "1 minute ago",
+        "posted_time": "11 minutes ago",
         "link": "https://replit.com/bounties/@aidantorrence/early-access-to-diag?t="
+    },
+    {
+        "index": "745",
+        "price": "$50.00",
+        "due_days": "due in 13 days",
+        "title": "Early Access to Galileo AI Design Tool",
+        "description": "I want access to this: https://www.usegalileo.ai/",
+        "author": "aidantorrence",
+        "posted_time": "7 minutes ago",
+        "link": "https://replit.com/bounties/@aidantorrence/early-access-to-gali?t="
     }
 ]
