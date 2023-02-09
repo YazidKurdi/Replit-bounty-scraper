@@ -7326,7 +7326,7 @@
         "title": "Enable Bitcoin NFC payments for Cash Register web application (galoy-pay)",
         "description": "The Lightning cash register is a bitcoin point of sale web app for receiving sats online or in-person. Anybody with a Bitcoin Beach Wallet username can access their register at https://pay.bbw.sv/agbegin [where agbegin is the username].\n\nThe bounty involves some UI and frontend dev work.\n\nWe'd like to enable NFC payments in the cash register, so people using Bolt Cards or other contactless payment methods can tap to pay. A visual icon should be shown to launch a modal window that informs the user to tap to pay (in mobile web browser, user must interact to enable NFC). Error messages should be considered where appropriate (are we able to detect if funds aren't available on a card?). The user experience should be simple and easy to follow from both the sender and the receiver point of view.\n\nSee more details on the discussion in the galoy-pay repository: https://github.com/GaloyMoney/galoy-pay/discussions/408\n\nAcceptance Criteria\nPR is merged and feature is working in...",
         "author": "AndrewBegin",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@AndrewBegin/enable-bitcoin-nfc-p?t="
     },
     {
@@ -7336,7 +7336,7 @@
         "title": "Add unit tests + drop .gz.tar in favor of .gz",
         "description": "Add some end-to-end and unit tests for https://github.com/zk-email-verify/zk-email-verify. Would also be ideal to drop .gz.tar in favor of .gz during the compression download.\n\nWould be great to also log speed of different things (specifically average time spent in download phase, average time spent in witness gen phase, average time spent in proving phase) across browsers with BrowserStack or LambdaTest, whatever is easier for you.\n\nAcceptance Criteria\nPlease provide either experience of familiarity with codebase, or past relevant experience.",
         "author": "AJGupta",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/add-unit-tests-drop?t="
     },
     {
