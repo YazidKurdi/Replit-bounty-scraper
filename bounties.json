@@ -7326,7 +7326,7 @@
         "title": "Enable Bitcoin NFC payments for Cash Register web application (galoy-pay)",
         "description": "The Lightning cash register is a bitcoin point of sale web app for receiving sats online or in-person. Anybody with a Bitcoin Beach Wallet username can access their register at https://pay.bbw.sv/agbegin [where agbegin is the username].\n\nThe bounty involves some UI and frontend dev work.\n\nWe'd like to enable NFC payments in the cash register, so people using Bolt Cards or other contactless payment methods can tap to pay. A visual icon should be shown to launch a modal window that informs the user to tap to pay (in mobile web browser, user must interact to enable NFC). Error messages should be considered where appropriate (are we able to detect if funds aren't available on a card?). The user experience should be simple and easy to follow from both the sender and the receiver point of view.\n\nSee more details on the discussion in the galoy-pay repository: https://github.com/GaloyMoney/galoy-pay/discussions/408\n\nAcceptance Criteria\nPR is merged and feature is working in...",
         "author": "AndrewBegin",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@AndrewBegin/enable-bitcoin-nfc-p?t="
     },
     {
@@ -7346,7 +7346,7 @@
         "title": "timed unit tests on repo",
         "description": "Add unit tests with automatic timing on Lambdatest across many different browsers to test this repository:\u00a0https://github.com/Divide-By-0/halo2-secp with setup instructions in /browser/README.md. Once yarn dev pulls up the frontend with the 3 buttons, it would be great to benchmark the average times for the middle button along with the variance using Lambdatest, across many different browsers, for each PR.\n\n100 iterations on chrome default and 20 iterations on 20 other diverse browser setups would be ideal, which should be easy on Lambdatest or Browserstack.\n\nAcceptance Criteria\nPrior working experience with similar repositories would be ideal, or else a github/resume would be preferred.",
         "author": "AJGupta",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/timed-unit-tests-on?t="
     },
     {
@@ -7396,7 +7396,17 @@
         "title": "iOS keyboard extension in React-Native",
         "description": "The goal is to create an iOS keyword extension app. Similar to the interface pasteapp.io provides (screenshot https://share.cleanshot.com/3bZRt1Jp).\n\nContrarily to pasteapp.io, it should not support documents. Simply text templates that are fetched from a web server will suffice.\n\nAcceptance Criteria\nIn your application please explain how you would implement this. Applications with basic prototypes or partial implementations will be given priority.\n\nYour solution should be written in TypeScript with react-native & expo as the framework. I should be able to easily run this and launch a web UI where I can select a couple of random text templates from a webser (you can use https://jsonplaceholder.typicode.com/ for that).\n\nAt minimum you should be able to fetch these text snippets from a web server. For extra credit, consider adding offline support to sync text snippets locally with the web server.",
         "author": "RipFive",
-        "posted_time": "19 minutes ago",
+        "posted_time": "35 minutes ago",
         "link": "https://replit.com/bounties/@RipFive/ios-keyboard-extensi?t="
+    },
+    {
+        "index": "740",
+        "price": "$150.00",
+        "due_days": "due in 3 days",
+        "title": "Integrate eBay API and write logic for a service class in Java Spring Boot Project",
+        "description": "This jobs involves:\n\nIncorporating an eBay Browse API to search for the 10 most recent products based on certain keyword inputs and retrieve their prices.\n\nThe product descriptions are provided in a column of a csv, which is uploaded.\n\nThe @Service class (ProcessCSV) will pull the keywords in each cell of the product description column and consider each cell in the column as a single search.\n\nIt will look at the 10 most recent prices for products that match that description, return the highest currently price, lowest currently listed price, calculate the median of the 10 recent products' prices, and calculate the average of the 10 recent products' prices.\n\nIt will then populate the csv with individual columns for each of the attributes (highest price, lowest price, median, and mean) and allow the user to download it. (The uploading and downloading functionality has already been built into the ProcessCSV class.)\n\nI will provide a template CSV for you if I accept you for the job.\n\n\"By ac...",
+        "author": "mdotbaig",
+        "posted_time": "2 minutes ago",
+        "link": "https://replit.com/bounties/@mdotbaig/integrate-ebay-api-a?t="
     }
 ]
