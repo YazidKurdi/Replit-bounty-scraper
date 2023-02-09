@@ -7292,7 +7292,7 @@
     {
         "index": "729",
         "price": "$18.00",
-        "due_days": "due in 10 days",
+        "due_days": "due in 9 days",
         "title": "[Swift/xCode] iMessage Sentiment Analyzer \ud83d\udcf2 ",
         "description": "I own sentimentanalyzer.com and plan to use it to channel customers to download an iMessage app.\n\nCurrently, it can be difficult to judge sentiment in a text conversation. By using an in-iMessage app, we can leverage on-device Machine Learning to analyse iMessage's without leaving the application.\n\nhttps://developer.apple.com/imessage/ More about iMessage apps, I think Stickers would be a good use case. (Angry sticker shows up for mad sentiment, happy for happier message, etc)\n\nGuide on building an iMessage app\n\nAcceptance Criteria\nA product I can launch to the App Store that allows on device sentiment analysis within iMessage. (No data should leave the device.)\nUsers install the app, then stickers appear on their messages and their incoming messages that show sentiment.\n\nAdditional Context -\nI'm comfortable hiring a new developer.\nYou will be credited in the code and on the website, I can link to your Github/Replit/anything else.\nIf this is your first Swift/iMessag...",
         "author": "Bandos1000",
@@ -7302,7 +7302,7 @@
     {
         "index": "730",
         "price": "$144.00",
-        "due_days": "due in 13 days",
+        "due_days": "due in 12 days",
         "title": "Talking Harry Potter-style Painting",
         "description": "Talk to a 'painting' and have it talk back, like Harry Potter paintings.\n\nDetect voice coming from the always-on speaker, and when a specific name is uttered, start paying more attention (i.e. it should detect me saying, \"Plato, what would you say about the rapid industrialization of society?\"). There are many open source programs for similar wake word detection. Then, the desktop should run speech-to-text on that voice. Then, it will pass that text into chatgpt to generate the response to that conversation. While ChatGPT is generating a response, it will fill that lag gap with some templated responses (like, \"Great question! I have spent decades pondering this very idea\" or whatever). Then, using tokkingheads/another deepfakes-type model to modify both the voice and the face, to have their face pretend like they're saying the response. Once the ChatGPT text starts coming, stream it sentence by sentence to the painting so the animation looks smooth.\n\nI will run this...",
         "author": "AJGupta",
@@ -7312,7 +7312,7 @@
     {
         "index": "731",
         "price": "$36.00",
-        "due_days": "due in 9 days",
+        "due_days": "due in 8 days",
         "title": "Spread the word about FindAI.io",
         "description": "Help us to spread the word about FindAI.io.\n\nFindAI.io is the go-to destination for discovering the best AI tools.\n\nCreate a video on TikTok, Instagram, YouTube, or Snapchat to demonstrate the features of FindAI.io. Receive a reward when the video reaches at least 100K views. As we are based in Europe, we prioritize viewers from Europe and North America for this reward.\n\nAcceptance Criteria\nTo be eligible for the bounty, you must:\n\nShare analytics of the video and the actual video link.\nClearly mention \"findai.io\" in the video.\nInclude the website address (findai.io or https://findai.io) in the description of the video\nShare your social accounts via email ([email\u00a0protected]) to get your application accepted.\n\nYou can of course upload multiple videos if you like, but to get the bounty, one video must get 100K+ views.",
         "author": "mjbre",
@@ -7322,27 +7322,27 @@
     {
         "index": "732",
         "price": "$180.00",
-        "due_days": "due in 6 days",
+        "due_days": "due in 5 days",
         "title": "Enable Bitcoin NFC payments for Cash Register web application (galoy-pay)",
         "description": "The Lightning cash register is a bitcoin point of sale web app for receiving sats online or in-person. Anybody with a Bitcoin Beach Wallet username can access their register at https://pay.bbw.sv/agbegin [where agbegin is the username].\n\nThe bounty involves some UI and frontend dev work.\n\nWe'd like to enable NFC payments in the cash register, so people using Bolt Cards or other contactless payment methods can tap to pay. A visual icon should be shown to launch a modal window that informs the user to tap to pay (in mobile web browser, user must interact to enable NFC). Error messages should be considered where appropriate (are we able to detect if funds aren't available on a card?). The user experience should be simple and easy to follow from both the sender and the receiver point of view.\n\nSee more details on the discussion in the galoy-pay repository: https://github.com/GaloyMoney/galoy-pay/discussions/408\n\nAcceptance Criteria\nPR is merged and feature is working in...",
         "author": "AndrewBegin",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@AndrewBegin/enable-bitcoin-nfc-p?t="
     },
     {
         "index": "733",
         "price": "$27.00",
-        "due_days": "due in 12 days",
+        "due_days": "due in 11 days",
         "title": "Add unit tests + drop .gz.tar in favor of .gz",
         "description": "Add some end-to-end and unit tests for https://github.com/zk-email-verify/zk-email-verify. Would also be ideal to drop .gz.tar in favor of .gz during the compression download.\n\nWould be great to also log speed of different things (specifically average time spent in download phase, average time spent in witness gen phase, average time spent in proving phase) across browsers with BrowserStack or LambdaTest, whatever is easier for you.\n\nAcceptance Criteria\nPlease provide either experience of familiarity with codebase, or past relevant experience.",
         "author": "AJGupta",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/add-unit-tests-drop?t="
     },
     {
         "index": "734",
         "price": "$27.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "timed unit tests on repo",
         "description": "Add unit tests with automatic timing on Lambdatest across many different browsers to test this repository:\u00a0https://github.com/Divide-By-0/halo2-secp with setup instructions in /browser/README.md. Once yarn dev pulls up the frontend with the 3 buttons, it would be great to benchmark the average times for the middle button along with the variance using Lambdatest, across many different browsers, for each PR.\n\n100 iterations on chrome default and 20 iterations on 20 other diverse browser setups would be ideal, which should be easy on Lambdatest or Browserstack.\n\nAcceptance Criteria\nPrior working experience with similar repositories would be ideal, or else a github/resume would be preferred.",
         "author": "AJGupta",
@@ -7352,7 +7352,7 @@
     {
         "index": "735",
         "price": "$40.50",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "SwiftUI mobile app - interactive calendar view",
         "description": "I'm building a gratitude SwiftUI app. I want a calendar view which will create a calendar that will change calendar day colour each time a user completes a gratitude entry for the day.\n\nAcceptance Criteria\nThe sooner, the better",
         "author": "hp2sm78cp6",
@@ -7362,7 +7362,7 @@
     {
         "index": "736",
         "price": "$22.50",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Inscribing Bitcoin NFTs (10x)",
         "description": "In order to claim this Bounty you need to be running a BTC node already.\n\nProblem Description\nI need you to inscribe 10 images as NFTs on BTC on ord wallet.\n\nAcceptance Criteria\nFlag wallets with diff names\n\n#1-10\n\nNeed to have full control of the Ordinals after the fact and see them on ordinals.com\n\nI need someone who is very experienced with Ordinal Theory and likely did this before.\n\nYou can check this thread if needed:\n\nhttps://twitter.com/dotta/status/1622994709831622657?s=20\n\nand further docs here:\n\nhttps://docs.ordinals.com/digital-artifacts.html\n\nAdd me on Discord to discuss this further.",
         "author": "marcandreranger",
@@ -7382,11 +7382,11 @@
     {
         "index": "738",
         "price": "$450.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "T3 Stack App for Creating Science Projects",
         "description": "We need a simple web application for creating science projects. It will be used by university students around the world.\n\nThe objective of this request is to create a multi-tenant T3 Stack application that integrates with Google authentication (Nexauth) and uses a database from Planetscale or Neon.tech. The app will be deployed on Vercel and will allow users to create projects within a workspace, which will have actions, data, feedback, experiments, and metrics.\n\nAcceptance Criteria\n\nThe app should have views for the workspace dashboard, user profile settings, integration settings, project actions, data, experiments, and feedback types. The app should also have CRUD functionality for workspaces, users, projects, actions, data, feedback, experiments, and metrics.\n\nTechnical Details\n\nUse T3 Stack\nIs Multi-tenant (Workspaces have users)\nNexauth with Google\nFirst user of this domain creates Workspace,\nAll other usres with matching domain join this workspace\nDB with Pla...",
         "author": "aethelyon",
-        "posted_time": "19 minutes ago",
+        "posted_time": "43 minutes ago",
         "link": "https://replit.com/bounties/@aethelyon/t3-stack-app-for-cre?t="
     }
 ]
