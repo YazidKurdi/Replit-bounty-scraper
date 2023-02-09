@@ -7316,7 +7316,7 @@
         "title": "Spread the word about FindAI.io",
         "description": "Help us to spread the word about FindAI.io.\n\nFindAI.io is the go-to destination for discovering the best AI tools.\n\nCreate a video on TikTok, Instagram, YouTube, or Snapchat to demonstrate the features of FindAI.io. Receive a reward when the video reaches at least 100K views. As we are based in Europe, we prioritize viewers from Europe and North America for this reward.\n\nAcceptance Criteria\nTo be eligible for the bounty, you must:\n\nShare analytics of the video and the actual video link.\nClearly mention \"findai.io\" in the video.\nInclude the website address (findai.io or https://findai.io) in the description of the video\nShare your social accounts via email ([email\u00a0protected]) to get your application accepted.\n\nYou can of course upload multiple videos if you like, but to get the bounty, one video must get 100K+ views.",
         "author": "mjbre",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@mjbre/spread-the-word-abou?t="
     },
     {
@@ -7376,7 +7376,7 @@
         "title": "[TRANSLATION] Convert Swift/Objective C Code Utilizing Various MacOS APIs to Python",
         "description": "tl;dr I have 150-200 lines of Swift/Objective C code that need to be converted into Python. It uses some Mac OS APIs to work. Repo Link: https://github.com/tml1024/FluffyDisplay. It is mainly a library that exports one function. I would like that function to be available through Python code. Please include previous bounty work and experience with Mac OS APIs. I will tip up extra for fast work!\n\nProblem Description\nFluffyDisplay allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in Swift/Objective C utilizing MacOS APIs. It is also made to be a partial library. I would like to convert this to Python and make it usable through python. Just convert the code to python. I don't mind it having multiple files or many dependencies.\n\nAcceptance Criteria\nI should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Python li...",
         "author": "EpicCodeWizard2",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/translation-convert-3?t="
     },
     {
@@ -7396,7 +7396,7 @@
         "title": "iOS keyboard extension in React-Native",
         "description": "The goal is to create an iOS keyword extension app. Similar to the interface pasteapp.io provides (screenshot https://share.cleanshot.com/3bZRt1Jp).\n\nContrarily to pasteapp.io, it should not support documents. Simply text templates that are fetched from a web server will suffice.\n\nAcceptance Criteria\nIn your application please explain how you would implement this. Applications with basic prototypes or partial implementations will be given priority.\n\nYour solution should be written in TypeScript with react-native & expo as the framework. I should be able to easily run this and launch a web UI where I can select a couple of random text templates from a webser (you can use https://jsonplaceholder.typicode.com/ for that).\n\nAt minimum you should be able to fetch these text snippets from a web server. For extra credit, consider adding offline support to sync text snippets locally with the web server.",
         "author": "RipFive",
-        "posted_time": "53 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@RipFive/ios-keyboard-extensi?t="
     },
     {
@@ -7406,7 +7406,7 @@
         "title": "Integrate eBay API and write logic for a service class in Java Spring Boot Project",
         "description": "This jobs involves:\n\nIncorporating an eBay Browse API to search for the 10 most recent products based on certain keyword inputs and retrieve their prices.\n\nThe product descriptions are provided in a column of a csv, which is uploaded.\n\nThe @Service class (ProcessCSV) will pull the keywords in each cell of the product description column and consider each cell in the column as a single search.\n\nIt will look at the 10 most recent prices for products that match that description, return the highest currently price, lowest currently listed price, calculate the median of the 10 recent products' prices, and calculate the average of the 10 recent products' prices.\n\nIt will then populate the csv with individual columns for each of the attributes (highest price, lowest price, median, and mean) and allow the user to download it. (The uploading and downloading functionality has already been built into the ProcessCSV class.)\n\nI will provide a template CSV for you if I accept you for the job.\n\n\"By ac...",
         "author": "mdotbaig",
-        "posted_time": "20 minutes ago",
+        "posted_time": "30 minutes ago",
         "link": "https://replit.com/bounties/@mdotbaig/integrate-ebay-api-a?t="
     }
 ]
