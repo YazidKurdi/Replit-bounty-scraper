@@ -7296,7 +7296,7 @@
         "title": "[Swift/xCode] iMessage Sentiment Analyzer \ud83d\udcf2 ",
         "description": "I own sentimentanalyzer.com and plan to use it to channel customers to download an iMessage app.\n\nCurrently, it can be difficult to judge sentiment in a text conversation. By using an in-iMessage app, we can leverage on-device Machine Learning to analyse iMessage's without leaving the application.\n\nhttps://developer.apple.com/imessage/ More about iMessage apps, I think Stickers would be a good use case. (Angry sticker shows up for mad sentiment, happy for happier message, etc)\n\nGuide on building an iMessage app\n\nAcceptance Criteria\nA product I can launch to the App Store that allows on device sentiment analysis within iMessage. (No data should leave the device.)\nUsers install the app, then stickers appear on their messages and their incoming messages that show sentiment.\n\nAdditional Context -\nI'm comfortable hiring a new developer.\nYou will be credited in the code and on the website, I can link to your Github/Replit/anything else.\nIf this is your first Swift/iMessag...",
         "author": "Bandos1000",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/swiftxcode-imessage?t="
     },
     {
@@ -7306,7 +7306,7 @@
         "title": "Talking Harry Potter-style Painting",
         "description": "Talk to a 'painting' and have it talk back, like Harry Potter paintings.\n\nDetect voice coming from the always-on speaker, and when a specific name is uttered, start paying more attention (i.e. it should detect me saying, \"Plato, what would you say about the rapid industrialization of society?\"). There are many open source programs for similar wake word detection. Then, the desktop should run speech-to-text on that voice. Then, it will pass that text into chatgpt to generate the response to that conversation. While ChatGPT is generating a response, it will fill that lag gap with some templated responses (like, \"Great question! I have spent decades pondering this very idea\" or whatever). Then, using tokkingheads/another deepfakes-type model to modify both the voice and the face, to have their face pretend like they're saying the response. Once the ChatGPT text starts coming, stream it sentence by sentence to the painting so the animation looks smooth.\n\nI will run this...",
         "author": "AJGupta",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/talking-harry-potter?t="
     },
     {
@@ -7346,7 +7346,7 @@
         "title": "timed unit tests on repo",
         "description": "Add unit tests with automatic timing on Lambdatest across many different browsers to test this repository:\u00a0https://github.com/Divide-By-0/halo2-secp with setup instructions in /browser/README.md. Once yarn dev pulls up the frontend with the 3 buttons, it would be great to benchmark the average times for the middle button along with the variance using Lambdatest, across many different browsers, for each PR.\n\n100 iterations on chrome default and 20 iterations on 20 other diverse browser setups would be ideal, which should be easy on Lambdatest or Browserstack.\n\nAcceptance Criteria\nPrior working experience with similar repositories would be ideal, or else a github/resume would be preferred.",
         "author": "AJGupta",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/timed-unit-tests-on?t="
     },
     {
@@ -7356,7 +7356,7 @@
         "title": "SwiftUI mobile app - interactive calendar view",
         "description": "I'm building a gratitude SwiftUI app. I want a calendar view which will create a calendar that will change calendar day colour each time a user completes a gratitude entry for the day.\n\nAcceptance Criteria\nThe sooner, the better",
         "author": "hp2sm78cp6",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@hp2sm78cp6/swiftui-mobile-app-i?t="
     },
     {
@@ -7366,7 +7366,7 @@
         "title": "Inscribing Bitcoin NFTs (10x)",
         "description": "In order to claim this Bounty you need to be running a BTC node already.\n\nProblem Description\nI need you to inscribe 10 images as NFTs on BTC on ord wallet.\n\nAcceptance Criteria\nFlag wallets with diff names\n\n#1-10\n\nNeed to have full control of the Ordinals after the fact and see them on ordinals.com\n\nI need someone who is very experienced with Ordinal Theory and likely did this before.\n\nYou can check this thread if needed:\n\nhttps://twitter.com/dotta/status/1622994709831622657?s=20\n\nand further docs here:\n\nhttps://docs.ordinals.com/digital-artifacts.html\n\nAdd me on Discord to discuss this further.",
         "author": "marcandreranger",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@marcandreranger/inscribing-bitcoin-n?t="
     },
     {
