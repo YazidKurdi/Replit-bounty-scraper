@@ -7386,7 +7386,7 @@
         "title": "T3 Stack App for Creating Science Projects",
         "description": "We need a simple web application for creating science projects. It will be used by university students around the world.\n\nThe objective of this request is to create a multi-tenant T3 Stack application that integrates with Google authentication (Nexauth) and uses a database from Planetscale or Neon.tech. The app will be deployed on Vercel and will allow users to create projects within a workspace, which will have actions, data, feedback, experiments, and metrics.\n\nAcceptance Criteria\n\nThe app should have views for the workspace dashboard, user profile settings, integration settings, project actions, data, experiments, and feedback types. The app should also have CRUD functionality for workspaces, users, projects, actions, data, feedback, experiments, and metrics.\n\nTechnical Details\n\nUse T3 Stack\nIs Multi-tenant (Workspaces have users)\nNexauth with Google\nFirst user of this domain creates Workspace,\nAll other usres with matching domain join this workspace\nDB with Pla...",
         "author": "aethelyon",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@aethelyon/t3-stack-app-for-cre?t="
     },
     {
@@ -7446,7 +7446,7 @@
         "title": "Early Access to Diagram's Genius",
         "description": "I would like early access to this:\n\nhttps://www.genius.design/",
         "author": "aidantorrence",
-        "posted_time": "11 minutes ago",
+        "posted_time": "27 minutes ago",
         "link": "https://replit.com/bounties/@aidantorrence/early-access-to-diag?t="
     },
     {
@@ -7456,7 +7456,7 @@
         "title": "Early Access to Galileo AI Design Tool",
         "description": "I want access to this: https://www.usegalileo.ai/",
         "author": "aidantorrence",
-        "posted_time": "7 minutes ago",
+        "posted_time": "23 minutes ago",
         "link": "https://replit.com/bounties/@aidantorrence/early-access-to-gali?t="
     }
 ]
