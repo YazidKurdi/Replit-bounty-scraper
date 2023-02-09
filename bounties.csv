@@ -5669,7 +5669,7 @@ Problem Description
 FluffyDisplay allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in Swift/Objective C utilizing MacOS APIs. It is also made to be a partial library. I would like to convert this to Python and make it usable through python. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
-I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Python li...",EpicCodeWizard2,5 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-4?t=
+I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Python li...",EpicCodeWizard2,6 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-4?t=
 743,$18.00,due in 4 days,Build a form using React TypeScript and react-hook-form,"Build the following wireframe of the form using vite.js + React + TypeScript template. Use the react-hook-form package for the form.
 
 Keep it simple and minimal. Add an index.css for the styles and only use standard HTML tags like div, table, th, tr, td, span, input etc. For icons, add separate svg/png files.
@@ -5701,4 +5701,4 @@ Technical Details
 Swift with iOS provided libraries such as AVFoundation, AVSession, AVAssetWriter
 
 Link to Project
-I can provide a GitHub...",harik2000,50 minutes ago,https://replit.com/bounties/@harik2000/swift-video-recordin?t=
+I can provide a GitHub...",harik2000,58 minutes ago,https://replit.com/bounties/@harik2000/swift-video-recordin?t=
