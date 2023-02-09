@@ -7346,7 +7346,7 @@
         "title": "timed unit tests on repo",
         "description": "Add unit tests with automatic timing on Lambdatest across many different browsers to test this repository:\u00a0https://github.com/Divide-By-0/halo2-secp with setup instructions in /browser/README.md. Once yarn dev pulls up the frontend with the 3 buttons, it would be great to benchmark the average times for the middle button along with the variance using Lambdatest, across many different browsers, for each PR.\n\n100 iterations on chrome default and 20 iterations on 20 other diverse browser setups would be ideal, which should be easy on Lambdatest or Browserstack.\n\nAcceptance Criteria\nPrior working experience with similar repositories would be ideal, or else a github/resume would be preferred.",
         "author": "AJGupta",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/timed-unit-tests-on?t="
     },
     {
@@ -7396,7 +7396,7 @@
         "title": "iOS keyboard extension in React-Native",
         "description": "The goal is to create an iOS keyword extension app. Similar to the interface pasteapp.io provides (screenshot https://share.cleanshot.com/3bZRt1Jp).\n\nContrarily to pasteapp.io, it should not support documents. Simply text templates that are fetched from a web server will suffice.\n\nAcceptance Criteria\nIn your application please explain how you would implement this. Applications with basic prototypes or partial implementations will be given priority.\n\nYour solution should be written in TypeScript with react-native & expo as the framework. I should be able to easily run this and launch a web UI where I can select a couple of random text templates from a webser (you can use https://jsonplaceholder.typicode.com/ for that).\n\nAt minimum you should be able to fetch these text snippets from a web server. For extra credit, consider adding offline support to sync text snippets locally with the web server.",
         "author": "RipFive",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@RipFive/ios-keyboard-extensi?t="
     },
     {
@@ -7416,7 +7416,7 @@
         "title": "Transform longform text into chunks of an equal length, less than or equal to a specified number of words",
         "description": "I have a large number of transcripts from recorded Google meets that range from a couple thousand to hundreds of thousands of words in length.\n\nI would like to rapidly prototype GPT 3 pipelines that process these transcripts.\n\nBecause GPT3 is limited by the number of tokens it can process in a given prompt, the transcripts need to be sliced into chunks of optimal length.\n\nI can do this manually, but it's a bit of a pain at the moment because I have to eyeball the length and do it by hand in a text editor.\n\nI would like a very simple tool/data pipeline that allows me to copy and paste an entire transcript and then get a \"chunked\" version in return with those chunks clearly delineated, let's say by line breaks and \"chunk #\" in between so that I can copy and paste each chunk into the GPT 3 playground and experiment with getting certain results.\n\nAcceptance Criteria\n\nGiven that I am a user with a Google meet transcript stored in a Google dock when I copy the entire tex...",
         "author": "ChristianUlstru",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@ChristianUlstru/transform-longform-t?t="
     },
     {
@@ -7436,7 +7436,7 @@
         "title": "Build a form using React TypeScript and react-hook-form",
         "description": "Build the following wireframe of the form using vite.js + React + TypeScript template. Use the react-hook-form package for the form.\n\nKeep it simple and minimal. Add an index.css for the styles and only use standard HTML tags like div, table, th, tr, td, span, input etc. For icons, add separate svg/png files.\n\nIn react-hook-form, use useForm and useFieldArray for adding multiple records as shown in the wireframe above.\n\nValidations:\nCreate it as a single React component.\n\nFields:\nDate: yyyy-mm-dd. User can enter manually. No calendar component required.\nProject: Initialize a fixed list [Project1, Project2, Project3] . Required.\nStatus: Initialize a fixed list [Started, Working, In-Progress]. Required.\nTitle: Required. length > 0.\nLink: Optional but highlight in red if Title.length > 0\nHrs: Optional. Only allow decimal numbers.\n\nThe form should always have one empty row at the bottom. As soon as the user types something in the title, a new empty row should get added....",
         "author": "sleeksky",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@sleeksky/build-a-form-using-r?t="
     }
 ]
