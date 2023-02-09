@@ -7346,7 +7346,7 @@
         "title": "timed unit tests on repo",
         "description": "Add unit tests with automatic timing on Lambdatest across many different browsers to test this repository:\u00a0https://github.com/Divide-By-0/halo2-secp with setup instructions in /browser/README.md. Once yarn dev pulls up the frontend with the 3 buttons, it would be great to benchmark the average times for the middle button along with the variance using Lambdatest, across many different browsers, for each PR.\n\n100 iterations on chrome default and 20 iterations on 20 other diverse browser setups would be ideal, which should be easy on Lambdatest or Browserstack.\n\nAcceptance Criteria\nPrior working experience with similar repositories would be ideal, or else a github/resume would be preferred.",
         "author": "AJGupta",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/timed-unit-tests-on?t="
     },
     {
@@ -7356,7 +7356,7 @@
         "title": "SwiftUI mobile app - interactive calendar view",
         "description": "I'm building a gratitude SwiftUI app. I want a calendar view which will create a calendar that will change calendar day colour each time a user completes a gratitude entry for the day.\n\nAcceptance Criteria\nThe sooner, the better",
         "author": "hp2sm78cp6",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@hp2sm78cp6/swiftui-mobile-app-i?t="
     },
     {
@@ -7366,7 +7366,7 @@
         "title": "Inscribing Bitcoin NFTs (10x)",
         "description": "In order to claim this Bounty you need to be running a BTC node already.\n\nProblem Description\nI need you to inscribe 10 images as NFTs on BTC on ord wallet.\n\nAcceptance Criteria\nFlag wallets with diff names\n\n#1-10\n\nNeed to have full control of the Ordinals after the fact and see them on ordinals.com\n\nI need someone who is very experienced with Ordinal Theory and likely did this before.\n\nYou can check this thread if needed:\n\nhttps://twitter.com/dotta/status/1622994709831622657?s=20\n\nand further docs here:\n\nhttps://docs.ordinals.com/digital-artifacts.html\n\nAdd me on Discord to discuss this further.",
         "author": "marcandreranger",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@marcandreranger/inscribing-bitcoin-n?t="
     },
     {
@@ -7396,7 +7396,7 @@
         "title": "iOS keyboard extension in React-Native",
         "description": "The goal is to create an iOS keyword extension app. Similar to the interface pasteapp.io provides (screenshot https://share.cleanshot.com/3bZRt1Jp).\n\nContrarily to pasteapp.io, it should not support documents. Simply text templates that are fetched from a web server will suffice.\n\nAcceptance Criteria\nIn your application please explain how you would implement this. Applications with basic prototypes or partial implementations will be given priority.\n\nYour solution should be written in TypeScript with react-native & expo as the framework. I should be able to easily run this and launch a web UI where I can select a couple of random text templates from a webser (you can use https://jsonplaceholder.typicode.com/ for that).\n\nAt minimum you should be able to fetch these text snippets from a web server. For extra credit, consider adding offline support to sync text snippets locally with the web server.",
         "author": "RipFive",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@RipFive/ios-keyboard-extensi?t="
     },
     {
@@ -7416,7 +7416,7 @@
         "title": "Transform longform text into chunks of an equal length, less than or equal to a specified number of words",
         "description": "I have a large number of transcripts from recorded Google meets that range from a couple thousand to hundreds of thousands of words in length.\n\nI would like to rapidly prototype GPT 3 pipelines that process these transcripts.\n\nBecause GPT3 is limited by the number of tokens it can process in a given prompt, the transcripts need to be sliced into chunks of optimal length.\n\nI can do this manually, but it's a bit of a pain at the moment because I have to eyeball the length and do it by hand in a text editor.\n\nI would like a very simple tool/data pipeline that allows me to copy and paste an entire transcript and then get a \"chunked\" version in return with those chunks clearly delineated, let's say by line breaks and \"chunk #\" in between so that I can copy and paste each chunk into the GPT 3 playground and experiment with getting certain results.\n\nAcceptance Criteria\n\nGiven that I am a user with a Google meet transcript stored in a Google dock when I copy the entire tex...",
         "author": "ChristianUlstru",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@ChristianUlstru/transform-longform-t?t="
     },
     {
@@ -7426,7 +7426,7 @@
         "title": "[TRANSLATION] Convert Swift/Objective C Code Utilizing Various MacOS APIs to Python",
         "description": "tl;dr I have 150-200 lines of Swift/Objective C code that need to be converted into Python. It uses some Mac OS APIs to work. Repo Link: https://github.com/tml1024/FluffyDisplay. It is mainly a library that exports one function. I would like that function to be available through Python code. Please include previous bounty work and experience with Mac OS APIs. I will tip up extra for fast work!\n\nProblem Description\nFluffyDisplay allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in Swift/Objective C utilizing MacOS APIs. It is also made to be a partial library. I would like to convert this to Python and make it usable through python. Just convert the code to python. I don't mind it having multiple files or many dependencies.\n\nAcceptance Criteria\nI should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Python li...",
         "author": "EpicCodeWizard2",
-        "posted_time": "2 minutes ago",
+        "posted_time": "24 minutes ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/translation-convert-4?t="
     }
 ]
