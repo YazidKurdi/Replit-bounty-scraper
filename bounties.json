@@ -7356,7 +7356,7 @@
         "title": "SwiftUI mobile app - interactive calendar view",
         "description": "I'm building a gratitude SwiftUI app. I want a calendar view which will create a calendar that will change calendar day colour each time a user completes a gratitude entry for the day.\n\nAcceptance Criteria\nThe sooner, the better",
         "author": "hp2sm78cp6",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@hp2sm78cp6/swiftui-mobile-app-i?t="
     },
     {
@@ -7366,7 +7366,7 @@
         "title": "Inscribing Bitcoin NFTs (10x)",
         "description": "In order to claim this Bounty you need to be running a BTC node already.\n\nProblem Description\nI need you to inscribe 10 images as NFTs on BTC on ord wallet.\n\nAcceptance Criteria\nFlag wallets with diff names\n\n#1-10\n\nNeed to have full control of the Ordinals after the fact and see them on ordinals.com\n\nI need someone who is very experienced with Ordinal Theory and likely did this before.\n\nYou can check this thread if needed:\n\nhttps://twitter.com/dotta/status/1622994709831622657?s=20\n\nand further docs here:\n\nhttps://docs.ordinals.com/digital-artifacts.html\n\nAdd me on Discord to discuss this further.",
         "author": "marcandreranger",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@marcandreranger/inscribing-bitcoin-n?t="
     },
     {
@@ -7396,7 +7396,7 @@
         "title": "iOS keyboard extension in React-Native",
         "description": "The goal is to create an iOS keyword extension app. Similar to the interface pasteapp.io provides (screenshot https://share.cleanshot.com/3bZRt1Jp).\n\nContrarily to pasteapp.io, it should not support documents. Simply text templates that are fetched from a web server will suffice.\n\nAcceptance Criteria\nIn your application please explain how you would implement this. Applications with basic prototypes or partial implementations will be given priority.\n\nYour solution should be written in TypeScript with react-native & expo as the framework. I should be able to easily run this and launch a web UI where I can select a couple of random text templates from a webser (you can use https://jsonplaceholder.typicode.com/ for that).\n\nAt minimum you should be able to fetch these text snippets from a web server. For extra credit, consider adding offline support to sync text snippets locally with the web server.",
         "author": "RipFive",
-        "posted_time": "35 minutes ago",
+        "posted_time": "44 minutes ago",
         "link": "https://replit.com/bounties/@RipFive/ios-keyboard-extensi?t="
     },
     {
@@ -7406,7 +7406,7 @@
         "title": "Integrate eBay API and write logic for a service class in Java Spring Boot Project",
         "description": "This jobs involves:\n\nIncorporating an eBay Browse API to search for the 10 most recent products based on certain keyword inputs and retrieve their prices.\n\nThe product descriptions are provided in a column of a csv, which is uploaded.\n\nThe @Service class (ProcessCSV) will pull the keywords in each cell of the product description column and consider each cell in the column as a single search.\n\nIt will look at the 10 most recent prices for products that match that description, return the highest currently price, lowest currently listed price, calculate the median of the 10 recent products' prices, and calculate the average of the 10 recent products' prices.\n\nIt will then populate the csv with individual columns for each of the attributes (highest price, lowest price, median, and mean) and allow the user to download it. (The uploading and downloading functionality has already been built into the ProcessCSV class.)\n\nI will provide a template CSV for you if I accept you for the job.\n\n\"By ac...",
         "author": "mdotbaig",
-        "posted_time": "2 minutes ago",
+        "posted_time": "12 minutes ago",
         "link": "https://replit.com/bounties/@mdotbaig/integrate-ebay-api-a?t="
     }
 ]
