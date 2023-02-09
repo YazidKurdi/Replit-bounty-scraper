@@ -7336,7 +7336,7 @@
         "title": "Add unit tests + drop .gz.tar in favor of .gz",
         "description": "Add some end-to-end and unit tests for https://github.com/zk-email-verify/zk-email-verify. Would also be ideal to drop .gz.tar in favor of .gz during the compression download.\n\nWould be great to also log speed of different things (specifically average time spent in download phase, average time spent in witness gen phase, average time spent in proving phase) across browsers with BrowserStack or LambdaTest, whatever is easier for you.\n\nAcceptance Criteria\nPlease provide either experience of familiarity with codebase, or past relevant experience.",
         "author": "AJGupta",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/add-unit-tests-drop?t="
     },
     {
