@@ -5532,12 +5532,12 @@ Users install the app, then stickers appear on their messages and their incoming
 Additional Context -
 I'm comfortable hiring a new developer.
 You will be credited in the code and on the website, I can link to your Github/Replit/anything else.
-If this is your first Swift/iMessag...",Bandos1000,11 hours ago,https://replit.com/bounties/@Bandos1000/swiftxcode-imessage?t=
+If this is your first Swift/iMessag...",Bandos1000,12 hours ago,https://replit.com/bounties/@Bandos1000/swiftxcode-imessage?t=
 730,$144.00,due in 13 days,Talking Harry Potter-style Painting,"Talk to a 'painting' and have it talk back, like Harry Potter paintings.
 
 Detect voice coming from the always-on speaker, and when a specific name is uttered, start paying more attention (i.e. it should detect me saying, ""Plato, what would you say about the rapid industrialization of society?""). There are many open source programs for similar wake word detection. Then, the desktop should run speech-to-text on that voice. Then, it will pass that text into chatgpt to generate the response to that conversation. While ChatGPT is generating a response, it will fill that lag gap with some templated responses (like, ""Great question! I have spent decades pondering this very idea"" or whatever). Then, using tokkingheads/another deepfakes-type model to modify both the voice and the face, to have their face pretend like they're saying the response. Once the ChatGPT text starts coming, stream it sentence by sentence to the painting so the animation looks smooth.
 
-I will run this...",AJGupta,11 hours ago,https://replit.com/bounties/@AJGupta/talking-harry-potter?t=
+I will run this...",AJGupta,12 hours ago,https://replit.com/bounties/@AJGupta/talking-harry-potter?t=
 731,$36.00,due in 9 days,Spread the word about FindAI.io,"Help us to spread the word about FindAI.io.
 
 FindAI.io is the go-to destination for discovering the best AI tools.
@@ -5574,11 +5574,11 @@ Please provide either experience of familiarity with codebase, or past relevant 
 100 iterations on chrome default and 20 iterations on 20 other diverse browser setups would be ideal, which should be easy on Lambdatest or Browserstack.
 
 Acceptance Criteria
-Prior working experience with similar repositories would be ideal, or else a github/resume would be preferred.",AJGupta,4 hours ago,https://replit.com/bounties/@AJGupta/timed-unit-tests-on?t=
+Prior working experience with similar repositories would be ideal, or else a github/resume would be preferred.",AJGupta,5 hours ago,https://replit.com/bounties/@AJGupta/timed-unit-tests-on?t=
 735,$40.50,due in 4 days,SwiftUI mobile app - interactive calendar view,"I'm building a gratitude SwiftUI app. I want a calendar view which will create a calendar that will change calendar day colour each time a user completes a gratitude entry for the day.
 
 Acceptance Criteria
-The sooner, the better",hp2sm78cp6,4 hours ago,https://replit.com/bounties/@hp2sm78cp6/swiftui-mobile-app-i?t=
+The sooner, the better",hp2sm78cp6,5 hours ago,https://replit.com/bounties/@hp2sm78cp6/swiftui-mobile-app-i?t=
 736,$22.50,due in 4 days,Inscribing Bitcoin NFTs (10x),"In order to claim this Bounty you need to be running a BTC node already.
 
 Problem Description
@@ -5601,7 +5601,7 @@ and further docs here:
 
 https://docs.ordinals.com/digital-artifacts.html
 
-Add me on Discord to discuss this further.",marcandreranger,2 hours ago,https://replit.com/bounties/@marcandreranger/inscribing-bitcoin-n?t=
+Add me on Discord to discuss this further.",marcandreranger,3 hours ago,https://replit.com/bounties/@marcandreranger/inscribing-bitcoin-n?t=
 737,$50.00,closed,[TRANSLATION] Convert Swift/Objective C Code Utilizing Various MacOS APIs to Python,"tl;dr I have 150-200 lines of Swift/Objective C code that need to be converted into Python. It uses some Mac OS APIs to work. Repo Link: https://github.com/tml1024/FluffyDisplay. It is mainly a library that exports one function. I would like that function to be available through Python code. Please include previous bounty work and experience with Mac OS APIs. I will tip up extra for fast work!
 
 Problem Description
