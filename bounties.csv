@@ -5568,7 +5568,7 @@ PR is merged and feature is working in...",AndrewBegin,8 hours ago,https://repli
 Would be great to also log speed of different things (specifically average time spent in download phase, average time spent in witness gen phase, average time spent in proving phase) across browsers with BrowserStack or LambdaTest, whatever is easier for you.
 
 Acceptance Criteria
-Please provide either experience of familiarity with codebase, or past relevant experience.",AJGupta,4 hours ago,https://replit.com/bounties/@AJGupta/add-unit-tests-drop?t=
+Please provide either experience of familiarity with codebase, or past relevant experience.",AJGupta,5 hours ago,https://replit.com/bounties/@AJGupta/add-unit-tests-drop?t=
 734,$27.00,due in 4 days,timed unit tests on repo,"Add unit tests with automatic timing on Lambdatest across many different browsers to test this repository: https://github.com/Divide-By-0/halo2-secp with setup instructions in /browser/README.md. Once yarn dev pulls up the frontend with the 3 buttons, it would be great to benchmark the average times for the middle button along with the variance using Lambdatest, across many different browsers, for each PR.
 
 100 iterations on chrome default and 20 iterations on 20 other diverse browser setups would be ideal, which should be easy on Lambdatest or Browserstack.
