@@ -7516,7 +7516,7 @@
         "title": "Rust code to turn OAuth signature (e.g. Authentik) into a DID Verifiable Credential (e.g. disco.xyz, gitcoin passport)",
         "description": "Identity signal\nIn the process of gathering a latent set of time-constrained signals from existing OAUth identity services a given user might bring from either SaaS (e.g. LinkedIn, Twitter, ...) or sovereignly operated (e.g. Authentik, self-hosted) GitLab -- for a universal interface of OAuth idP authn / authz.\nSpecifically, adapt this codebase\nextern crate reqwest;\nextern crate serde_json;\n\nuse serde_json::{Value};\n\n// Function to retrieve DID from OAuth provider\nasync fn getdid(accesstoken: &str) -> Result {\n    let client = reqwest::Client::new();\n    let apiurl = format!(\"https://oauthprovider.com/api/did?accesstoken={}\", access_token);\n\n    let response = client.get(&api_url).send().await?;\n    let did: String = response.json().await?;\n\n    Ok(did)\n}\n\n// Function to sign VC using issuer's private key\nfn signvc(vc: &str, privatekey: &str) -> String {\n    // Implementation to sign VC using private key goes here\n    // ...\n\n    let signedvc = \"signed VC\".tostring();\n    signed_vc\n}\n\n...",
         "author": "bmorphism",
-        "posted_time": "48 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@bmorphism/rust-code-to-turn-oa?t="
     },
     {
@@ -7526,7 +7526,7 @@
         "title": "Rust implementation for Particle Lenia for WasmEdge",
         "description": "Use Rust to implement Particle Lenia in a way that can be compiled to run on WasmEdge (https://wasmedge.org/book/en/)\n\nUse the guidelines and the type of memory use optimization from a similar Game of Life implementation below.\n\nSubmit a compiled .wasm binary together with the codebase, and briefly talk about steps you took to make the implementation energy-efficient.\n\nNeeds to be visualized using CanvasRenderingContext2D:\nhttps://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D\n\nCode to implement:\n\nhttps://google-research.github.io/self-organising-systems/particle-lenia/\nhttps://colab.research.google.com/drive/14nw3aK5aOMH_brKYdRsXHKt0OgK1RteK?usp=sharing\n\nAcceptance Criteria\nCompiles, and has tests.\n\nAppendix - Game of Life example\nuse std::thread;\nuse std::time::Duration;\n\nconst ROWS: usize = 30;\nconst COLS: usize = 60;\n\nfn main() {\n    let mut current_generation = vec![vec![false; COLS]; ROWS];\n    let mut next_generation = vec![vec![false; COLS...",
         "author": "bmorphism",
-        "posted_time": "20 minutes ago",
+        "posted_time": "37 minutes ago",
         "link": "https://replit.com/bounties/@bmorphism/rust-implementation?t="
     },
     {
@@ -7536,7 +7536,7 @@
         "title": "Github Workflow YML File To Minify CSS, HTML and JS Before Uploading to Firebase Hosting",
         "description": "I have unminified files for a static website. I need to minify them before they get deployed to Firebase Hosting. But I need to keep the original files in github as is so we can edit them easily.\nAcceptance Criteria\nA file that works when we test the deployment and doesn't break the JS or site.\nTechnical Details\nYML file for Github Hosting\n\nLink to Project",
         "author": "nickdumitru",
-        "posted_time": "6 minutes ago",
+        "posted_time": "22 minutes ago",
         "link": "https://replit.com/bounties/@nickdumitru/github-workflow-yml?t="
     }
 ]

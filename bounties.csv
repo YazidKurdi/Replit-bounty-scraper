@@ -5793,7 +5793,7 @@ fn signvc(vc: &str, privatekey: &str) -> String {
     signed_vc
 }
 
-...",bmorphism,48 minutes ago,https://replit.com/bounties/@bmorphism/rust-code-to-turn-oa?t=
+...",bmorphism,1 hour ago,https://replit.com/bounties/@bmorphism/rust-code-to-turn-oa?t=
 752,$31.11,due in 5 days,Rust implementation for Particle Lenia for WasmEdge,"Use Rust to implement Particle Lenia in a way that can be compiled to run on WasmEdge (https://wasmedge.org/book/en/)
 
 Use the guidelines and the type of memory use optimization from a similar Game of Life implementation below.
@@ -5820,11 +5820,11 @@ const COLS: usize = 60;
 
 fn main() {
     let mut current_generation = vec![vec![false; COLS]; ROWS];
-    let mut next_generation = vec![vec![false; COLS...",bmorphism,20 minutes ago,https://replit.com/bounties/@bmorphism/rust-implementation?t=
+    let mut next_generation = vec![vec![false; COLS...",bmorphism,37 minutes ago,https://replit.com/bounties/@bmorphism/rust-implementation?t=
 753,$75.60,due in 5 days,"Github Workflow YML File To Minify CSS, HTML and JS Before Uploading to Firebase Hosting","I have unminified files for a static website. I need to minify them before they get deployed to Firebase Hosting. But I need to keep the original files in github as is so we can edit them easily.
 Acceptance Criteria
 A file that works when we test the deployment and doesn't break the JS or site.
 Technical Details
 YML file for Github Hosting
 
-Link to Project",nickdumitru,6 minutes ago,https://replit.com/bounties/@nickdumitru/github-workflow-yml?t=
+Link to Project",nickdumitru,22 minutes ago,https://replit.com/bounties/@nickdumitru/github-workflow-yml?t=
