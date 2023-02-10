@@ -5687,11 +5687,11 @@ Title: Required. length > 0.
 Link: Optional but highlight in red if Title.length > 0
 Hrs: Optional. Only allow decimal numbers.
 
-The form should always have one empty row at the bottom. As soon as the user types something in the title, a new empty row should get added....",sleeksky,9 hours ago,https://replit.com/bounties/@sleeksky/build-a-form-using-r?t=
+The form should always have one empty row at the bottom. As soon as the user types something in the title, a new empty row should get added....",sleeksky,10 hours ago,https://replit.com/bounties/@sleeksky/build-a-form-using-r?t=
 744,$30.00,due in 13 days,Early Access to Diagram's Genius,"I would like early access to this:
 
-https://www.genius.design/",aidantorrence,7 hours ago,https://replit.com/bounties/@aidantorrence/early-access-to-diag?t=
-745,$50.00,due in 13 days,Early Access to Galileo AI Design Tool,I want access to this: https://www.usegalileo.ai/,aidantorrence,7 hours ago,https://replit.com/bounties/@aidantorrence/early-access-to-gali?t=
+https://www.genius.design/",aidantorrence,8 hours ago,https://replit.com/bounties/@aidantorrence/early-access-to-diag?t=
+745,$50.00,due in 13 days,Early Access to Galileo AI Design Tool,I want access to this: https://www.usegalileo.ai/,aidantorrence,8 hours ago,https://replit.com/bounties/@aidantorrence/early-access-to-gali?t=
 746,$45.00,due in 5 days,Swift Video Recording Camera that mixes with Background Audio,"I'm currently in the process of debugging my video camera model that I'm using to record video and audio in my iOS app. I would like the video camera to continue playing background audio if there is something play and record using the mic over the audio. I initially got my av capture session to work smoothly as intended by adding the microphone input on set up which automatically stops playing background audio when the camera view is set up. It records videos and captures photo but stops any background audio from playing.
 
 Acceptance Criteria
@@ -5701,7 +5701,7 @@ Technical Details
 Swift with iOS provided libraries such as AVFoundation, AVSession, AVAssetWriter
 
 Link to Project
-I can provide a GitHub...",harik2000,5 hours ago,https://replit.com/bounties/@harik2000/swift-video-recordin?t=
+I can provide a GitHub...",harik2000,6 hours ago,https://replit.com/bounties/@harik2000/swift-video-recordin?t=
 747,$49.50,due in 6 days,Python Script For OpenAI Web QA Embeddings,"I recently saw this post from OpenAI: https://platform.openai.com/docs/tutorials/web-qa-embeddings
 
 The goal is to create a Python script that takes a question as input and provides an answer based on an embeddings model created from a pre-defined set of URLS from a specific website. The URLs are stored in a urls.json file and no web crawling is required (link crawling is mentioned in the tutorial but not needed here).
@@ -5712,7 +5712,7 @@ A README file should be provided that includes all the necessary steps to set up
 
 Technical Details
 The urls.json file will be provided after I accept the Bounty application.
-A README file should be provided upon completion with all the steps required to set up the environment and reproduce the results.",Dprevoznik,4 hours ago,https://replit.com/bounties/@Dprevoznik/python-script-for-op?t=
+A README file should be provided upon completion with all the steps required to set up the environment and reproduce the results.",Dprevoznik,5 hours ago,https://replit.com/bounties/@Dprevoznik/python-script-for-op?t=
 748,$46.80,due in 18 days,[Website/Vercel] Agile/Scrum Point Calculator ,"Looking for someone to create a tool for pointing stories/epics for Agile ceremonies.
 This will be hosted on the website pointing.charity
 
@@ -5735,7 +5735,7 @@ I plan to host this in Vercel, I don't really have a preference of language it's
 It should be able to handle 100 concurrent sessions.
 
 Timelines / Milestones:
-v1 - Basic functionality (Adding us...",Bandos1000,3 hours ago,https://replit.com/bounties/@Bandos1000/websitevercel-agiles?t=
+v1 - Basic functionality (Adding us...",Bandos1000,4 hours ago,https://replit.com/bounties/@Bandos1000/websitevercel-agiles?t=
 749,$90.00,due in 3 days,Scrape Credit Union Filings,"I would like to scrape the latest call reports for credit unions on the NCUA website (https://mapping.ncua.gov/ResearchCreditUnion) and OCR certain data points from the call report itself.
 
 This requires looking up 4,813 different credit unions based on their charter number and downloading the latest call report for each one on the next page.
@@ -5759,7 +5759,7 @@ RL0031
 
 Acceptance Criteria
 Experience with web crawling and web scraping
-Experience with OCR / data extraction from PDFs",DinoBecirovic,2 hours ago,https://replit.com/bounties/@DinoBecirovic/scrape-credit-union?t=
+Experience with OCR / data extraction from PDFs",DinoBecirovic,3 hours ago,https://replit.com/bounties/@DinoBecirovic/scrape-credit-union?t=
 750,$1.35,due in 23 days,Add savefiles to game(python),"Need help adding savefiles.
 
 Add into python coding game savefiles for all variables(or most).
@@ -5793,4 +5793,31 @@ fn signvc(vc: &str, privatekey: &str) -> String {
     signed_vc
 }
 
-...",bmorphism,6 minutes ago,https://replit.com/bounties/@bmorphism/rust-code-to-turn-oa?t=
+...",bmorphism,29 minutes ago,https://replit.com/bounties/@bmorphism/rust-code-to-turn-oa?t=
+752,$31.11,due in 5 days,Rust implementation for Particle Lenia for WasmEdge,"Use Rust to implement Particle Lenia in a way that can be compiled to run on WasmEdge (https://wasmedge.org/book/en/)
+
+Use the guidelines and the type of memory use optimization from a similar Game of Life implementation below.
+
+Submit a compiled .wasm binary together with the codebase, and briefly talk about steps you took to make the implementation energy-efficient.
+
+Needs to be visualized using CanvasRenderingContext2D:
+https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D
+
+Code to implement:
+
+https://google-research.github.io/self-organising-systems/particle-lenia/
+https://colab.research.google.com/drive/14nw3aK5aOMH_brKYdRsXHKt0OgK1RteK?usp=sharing
+
+Acceptance Criteria
+Compiles, and has tests.
+
+Appendix - Game of Life example
+use std::thread;
+use std::time::Duration;
+
+const ROWS: usize = 30;
+const COLS: usize = 60;
+
+fn main() {
+    let mut current_generation = vec![vec![false; COLS]; ROWS];
+    let mut next_generation = vec![vec![false; COLS...",bmorphism,59 seconds ago,https://replit.com/bounties/@bmorphism/rust-implementation?t=
