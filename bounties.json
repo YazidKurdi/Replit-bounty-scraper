@@ -7476,7 +7476,7 @@
         "title": "Python Script For OpenAI Web QA Embeddings",
         "description": "I recently saw this post from OpenAI: https://platform.openai.com/docs/tutorials/web-qa-embeddings\n\nThe goal is to create a Python script that takes a question as input and provides an answer based on an embeddings model created from a pre-defined set of URLS from a specific website. The URLs are stored in a urls.json file and no web crawling is required (link crawling is mentioned in the tutorial but not needed here).\n\nAcceptance Criteria\nThe script should be submitted as complete and tested using the Secret OPENAI_KEY environment variable.\nA README file should be provided that includes all the necessary steps to set up the environment and reproduce the results, including any required data cleaning.\n\nTechnical Details\nThe urls.json file will be provided after I accept the Bounty application.\nA README file should be provided upon completion with all the steps required to set up the environment and reproduce the results.",
         "author": "Dprevoznik",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@Dprevoznik/python-script-for-op?t="
     },
     {
@@ -7486,7 +7486,7 @@
         "title": "[Website/Vercel] Agile/Scrum Point Calculator ",
         "description": "Looking for someone to create a tool for pointing stories/epics for Agile ceremonies.\nThis will be hosted on the website pointing.charity\n\nI plan to host it in Vercel for fast loading.\nI don't really have a preference for language.\nI'd like the UI to be Bootstrap/Material UI style.\n\nBasic tool functions:\nhttps://www.figma.com/file/xrj4oOu0SnFetYJBTuppfi/Points.Charity?node-id=0%3A1&t=aSJ8PwbXfVgviIxa-1\nOutlined here, you can enter prototype mode and test there. Feel free to leave comments with any questions.\n\nAcceptance Criteria\nA bootstrap minimal/UI friendly design.\nFunctionality according to the above.\nNo data storage after session has ended\nAbility to export png of session\n\nTechnical Details\nI plan to host this in Vercel, I don't really have a preference of language it's written in, but need the code commented and able to be edited by future hunters.\nIt should be able to handle 100 concurrent sessions.\n\nTimelines / Milestones:\nv1 - Basic functionality (Adding us...",
         "author": "Bandos1000",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/websitevercel-agiles?t="
     },
     {
@@ -7536,7 +7536,7 @@
         "title": "Github Workflow YML File To Minify CSS, HTML and JS Before Uploading to Firebase Hosting",
         "description": "I have unminified files for a static website. I need to minify them before they get deployed to Firebase Hosting. But I need to keep the original files in github as is so we can edit them easily.\nAcceptance Criteria\nA file that works when we test the deployment and doesn't break the JS or site.\nTechnical Details\nYML file for Github Hosting\n\nLink to Project",
         "author": "nickdumitru",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@nickdumitru/github-workflow-yml?t="
     },
     {
@@ -7546,7 +7546,7 @@
         "title": "Voice to Notes Summary AI App",
         "description": "I'm looking for help developing a single-purpose app for my own note-taking synthesis. The workflow I currently do is broken apart, using Descript to transcribe my voice memos and later feeding the transcription into ChatGPT with my custom prompt for organizing my notes with specific markdown styles.\nI'm looking for a single app that can be hosted in a virtual instance with a domain (potential future evolution to a  paywall and make it a product with the original repl.it bounty developer if there is broader interest), but basically looking to have a simple upload function to upload audio files which will then be transcribed (possibly using Whisper from OpenAI) then the output is fed into GPT with prompt style choice options of how to organize the notes (with the possibility to customize the output format if needed). Can be creative with front-end as long as it's user-friendly, happy to provide example/input.\nSingle file upload (audio file) -> Whisper API -> Transcription -> Fed into GP...",
         "author": "MehradYaghmai",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@MehradYaghmai/voice-to-notes-summa?t="
     },
     {
