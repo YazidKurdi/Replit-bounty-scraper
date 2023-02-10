@@ -5833,7 +5833,7 @@ I'm looking for a single app that can be hosted in a virtual instance with a dom
 Single file upload (audio file) -> Whisper API -> Transcription -> Fed into GP...",MehradYaghmai,15 hours ago,https://replit.com/bounties/@MehradYaghmai/voice-to-notes-summa?t=
 755,$180.00,due in 13 days,Instagram Reply Bot API,"I would like to build bot functionality for my Instagram business account. The solution should allow different responses (input by me - the user) to be posted underneath posts that have specific hashtags.
 
-For example 'if the post contains #love, the bot should post a heart in the comment section'.",TomHumber,10 hours ago,https://replit.com/bounties/@TomHumber/instagram-reply-bot?t=
+For example 'if the post contains #love, the bot should post a heart in the comment section'.",TomHumber,11 hours ago,https://replit.com/bounties/@TomHumber/instagram-reply-bot?t=
 756,$22.50,due in 3 days,Custom XML parser in Python for UK Court of Law judgements,"Create a custom XML file parser in Python that takes a single XML file of a UK court case and returns a JSON with the metadata, headings, subheadings, paragraphs & text as a nested JSON.
 
 Example XML files (download link at bottom of pages):
@@ -5907,7 +5907,7 @@ Full stack developer with
 
 2) Previous experience developing a product with an orderbook mechanism
 
-3) Previous experience in creating top level and detailed technological architecture",HoneyBadgerEth,3 hours ago,https://replit.com/bounties/@HoneyBadgerEth/technological-archit?t=
+3) Previous experience in creating top level and detailed technological architecture",HoneyBadgerEth,4 hours ago,https://replit.com/bounties/@HoneyBadgerEth/technological-archit?t=
 762,$450.00,due in 5 days,Use OpenAI models to convert generic jupyter notebook to kubeflow pipeline,"Given some DS/ML python code in a jupyter notebook, convert it to a kubeflow pipeline that can be deployed using calls to OpenAI APIs.
 
 Acceptance Criteria
@@ -5916,4 +5916,4 @@ Basic python implementation which works on simple cases such as basic data trans
 Technical Details
 Clean, well documented code with indications how it could be extended to
 similar use cases
-improve performance",KevinSchawinsk1,2 hours ago,https://replit.com/bounties/@KevinSchawinsk1/use-openai-models-to?t=
+improve performance",KevinSchawinsk1,3 hours ago,https://replit.com/bounties/@KevinSchawinsk1/use-openai-models-to?t=
