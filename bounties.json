@@ -7526,7 +7526,7 @@
         "title": "Rust implementation for Particle Lenia for WasmEdge",
         "description": "Use Rust to implement Particle Lenia in a way that can be compiled to run on WasmEdge (https://wasmedge.org/book/en/)\n\nUse the guidelines and the type of memory use optimization from a similar Game of Life implementation below.\n\nSubmit a compiled .wasm binary together with the codebase, and briefly talk about steps you took to make the implementation energy-efficient.\n\nNeeds to be visualized using CanvasRenderingContext2D:\nhttps://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D\n\nCode to implement:\n\nhttps://google-research.github.io/self-organising-systems/particle-lenia/\nhttps://colab.research.google.com/drive/14nw3aK5aOMH_brKYdRsXHKt0OgK1RteK?usp=sharing\n\nAcceptance Criteria\nCompiles, and has tests.\n\nAppendix - Game of Life example\nuse std::thread;\nuse std::time::Duration;\n\nconst ROWS: usize = 30;\nconst COLS: usize = 60;\n\nfn main() {\n    let mut current_generation = vec![vec![false; COLS]; ROWS];\n    let mut next_generation = vec![vec![false; COLS...",
         "author": "bmorphism",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@bmorphism/rust-implementation?t="
     },
     {
@@ -7556,7 +7556,7 @@
         "title": "Instagram Reply Bot API",
         "description": "I would like to build bot functionality for my Instagram business account. The solution should allow different responses (input by me - the user) to be posted underneath posts that have specific hashtags.\n\nFor example 'if the post contains #love, the bot should post a heart in the comment section'.",
         "author": "TomHumber",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@TomHumber/instagram-reply-bot?t="
     },
     {
@@ -7606,7 +7606,7 @@
         "title": "Make a Auto Chess bot",
         "description": "I want to make chess.com improve their anti cheat, so for this I will want you to utilize python webbot, greasyfork and tampermonkey's ACAS to create a new account ( as beginner ), and automatically play and move to the grey squares after selecting it in the ACAS menu to have the transparency shown.\nAcceptance Criteria\nAbout 2-3 years of python\nKnow how to use the following Python v3.8.12 modules:\nos\ntime\nurlib3 ( requests )\nselenium ( 3.141.0 )\nwebbot - demo\npathlib ( Path )\nTechnical Details\npython v3.8.12\nTampermonkey /w Greasyfork user's ACAS script\nrandom account info generator ( don't need to verify email, but chess.com doesn't require the big three ( limited to google, Microsoft, or yahoo )\nuse path from pathlib to append a file named accs.txt with the bot account information in a style of the following:\nUsername: AlphanumericalName{i}\nEmail: AltifyBot{i}@{randmail}\nPassword: !NewPassForAltify#{i}\nTTC: {stime - ftime}\nVariable Info:\ni is from the loop of crea...",
         "author": "Altify-Developm",
-        "posted_time": "47 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@Altify-Developm/make-a-auto-chess-bo?t="
     },
     {
@@ -7616,7 +7616,7 @@
         "title": "Technological Architecture for MVP",
         "description": "Currently, we are finalizing the technical architecture and stack of our MVP. The userflow has been developed in detail, and we are looking for an experienced developer to create a top level architecture diagram (50,000ft view, plus detailed in some places, 50ft view). We would use the architecture as the basis to define different phases of development. We would like to work with someone starting with this part for a longer period of time.\n\nAcceptance Criteria\n\nFull stack developer with\n\n1) Previous experience in marketplace development\n\n2) Previous experience developing a product with an orderbook mechanism\n\n3) Previous experience in creating top level and detailed technological architecture",
         "author": "HoneyBadgerEth",
-        "posted_time": "18 minutes ago",
+        "posted_time": "36 minutes ago",
         "link": "https://replit.com/bounties/@HoneyBadgerEth/technological-archit?t="
     }
 ]
