@@ -7526,7 +7526,7 @@
         "title": "Rust implementation for Particle Lenia for WasmEdge",
         "description": "Use Rust to implement Particle Lenia in a way that can be compiled to run on WasmEdge (https://wasmedge.org/book/en/)\n\nUse the guidelines and the type of memory use optimization from a similar Game of Life implementation below.\n\nSubmit a compiled .wasm binary together with the codebase, and briefly talk about steps you took to make the implementation energy-efficient.\n\nNeeds to be visualized using CanvasRenderingContext2D:\nhttps://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D\n\nCode to implement:\n\nhttps://google-research.github.io/self-organising-systems/particle-lenia/\nhttps://colab.research.google.com/drive/14nw3aK5aOMH_brKYdRsXHKt0OgK1RteK?usp=sharing\n\nAcceptance Criteria\nCompiles, and has tests.\n\nAppendix - Game of Life example\nuse std::thread;\nuse std::time::Duration;\n\nconst ROWS: usize = 30;\nconst COLS: usize = 60;\n\nfn main() {\n    let mut current_generation = vec![vec![false; COLS]; ROWS];\n    let mut next_generation = vec![vec![false; COLS...",
         "author": "bmorphism",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@bmorphism/rust-implementation?t="
     },
     {
@@ -7556,7 +7556,7 @@
         "title": "Instagram Reply Bot API",
         "description": "I would like to build bot functionality for my Instagram business account. The solution should allow different responses (input by me - the user) to be posted underneath posts that have specific hashtags.\n\nFor example 'if the post contains #love, the bot should post a heart in the comment section'.",
         "author": "TomHumber",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@TomHumber/instagram-reply-bot?t="
     },
     {
@@ -7568,5 +7568,15 @@
         "author": "kushmadlani",
         "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@kushmadlani/custom-xml-parser-in?t="
+    },
+    {
+        "index": "757",
+        "price": "$162.00",
+        "due_days": "due in 7 days",
+        "title": "Instagram <> Stability Diffusion Webapp",
+        "description": "I want a very simple webapp, where a person:\n\n1) can paste a link to their instagram\n2) instagram images are scanned\n3) user inputs what they want to see, eg \"create an image of me standing on a mountain\"\n4) scanned images are parsed to Stability Diffusion API with the prompt in 3 (open to feedback on which model to hit)\n5) 5-6 images are returned in the UI\n\nAcceptance Criteria\nIdeally built using PHP/javascript, or react.\n\nWorking prototype built, rendering the images. Similar to https://www.thismodeldoesnotexist.co/.\n\nNext Steps\nIdeally I work with the developer to build this concept out further.",
+        "author": "littlegoatcoding",
+        "posted_time": "7 minutes ago",
+        "link": "https://replit.com/bounties/@littlegoatcoding/instagram-lessgreate?t="
     }
 ]
