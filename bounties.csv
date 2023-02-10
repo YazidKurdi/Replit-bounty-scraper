@@ -5820,7 +5820,7 @@ const COLS: usize = 60;
 
 fn main() {
     let mut current_generation = vec![vec![false; COLS]; ROWS];
-    let mut next_generation = vec![vec![false; COLS...",bmorphism,12 hours ago,https://replit.com/bounties/@bmorphism/rust-implementation?t=
+    let mut next_generation = vec![vec![false; COLS...",bmorphism,13 hours ago,https://replit.com/bounties/@bmorphism/rust-implementation?t=
 753,$75.60,due in 4 days,"Github Workflow YML File To Minify CSS, HTML and JS Before Uploading to Firebase Hosting","I have unminified files for a static website. I need to minify them before they get deployed to Firebase Hosting. But I need to keep the original files in github as is so we can edit them easily.
 Acceptance Criteria
 A file that works when we test the deployment and doesn't break the JS or site.
@@ -5833,7 +5833,7 @@ I'm looking for a single app that can be hosted in a virtual instance with a dom
 Single file upload (audio file) -> Whisper API -> Transcription -> Fed into GP...",MehradYaghmai,11 hours ago,https://replit.com/bounties/@MehradYaghmai/voice-to-notes-summa?t=
 755,$180.00,due in 13 days,Instagram Reply Bot API,"I would like to build bot functionality for my Instagram business account. The solution should allow different responses (input by me - the user) to be posted underneath posts that have specific hashtags.
 
-For example 'if the post contains #love, the bot should post a heart in the comment section'.",TomHumber,6 hours ago,https://replit.com/bounties/@TomHumber/instagram-reply-bot?t=
+For example 'if the post contains #love, the bot should post a heart in the comment section'.",TomHumber,7 hours ago,https://replit.com/bounties/@TomHumber/instagram-reply-bot?t=
 756,$22.50,due in 3 days,Custom XML parser in Python for UK Court of Law judgements,"Create a custom XML file parser in Python that takes a single XML file of a UK court case and returns a JSON with the metadata, headings, subheadings, paragraphs & text as a nested JSON.
 
 Example XML files (download link at bottom of pages):
@@ -5866,4 +5866,34 @@ Ideally I work with the developer to build this concept out further.",littlegoat
 758,$184.50,due in 9 days,Deploy AI Beatsaber Website,"Deploy this python script: https://github.com/duckfromdiscord/BeatMapSynthesizer-x/tree/fix at an endpoint running on AWS or GCP. There should be a website that looks kind of like this: https://beatsage.com/ through which people can link a youtube video. On the backend, it can download the audio using youtube-dl, and automatically set the song name and song thumbnail correctly. Then, the final zip file should download to the users computer, kind of like how https://bsmapper.com works. Note that the original repo is at https://github.com/wvsharber/BeatMapSynthesizer .
 
 Acceptance Criteria
-I will strongly prefer people who provide a clear outline of how they would build it (i.e. some of the tools or algorithms they'd use). I will also strongly prefer people who link Githubs or resumes with past work.",AJGupta,9 minutes ago,https://replit.com/bounties/@AJGupta/deploy-ai-beatsaber?t=
+I will strongly prefer people who provide a clear outline of how they would build it (i.e. some of the tools or algorithms they'd use). I will also strongly prefer people who link Githubs or resumes with past work.",AJGupta,27 minutes ago,https://replit.com/bounties/@AJGupta/deploy-ai-beatsaber?t=
+759,$5.00,due in 3 days,React Native mobile app that embeds a website,"Make me an app in React Native that embeds my game Spice Escape.
+
+It has to show an offline screen when the user is offline and use the fonts and colors from my game.
+
+Acceptamce cretera
+You know React Native
+You can compile the apps for iOS and Android
+You have to be Bddy or DillonB07
+Give me your SID",LuisAFK,16 minutes ago,https://replit.com/bounties/@LuisAFK/react-native-mobile?t=
+760,$4.99,due in 5 months,Make a Auto Chess bot,"I want to make chess.com improve their anti cheat, so for this I will want you to utilize python webbot, greasyfork and tampermonkey's ACAS to create a new account ( as beginner ), and automatically play and move to the grey squares after selecting it in the ACAS menu to have the transparency shown.
+Acceptance Criteria
+About 2-3 years of python
+Know how to use the following Python v3.8.12 modules:
+os
+time
+urlib3 ( requests )
+selenium ( 3.141.0 )
+webbot - demo
+pathlib ( Path )
+Technical Details
+python v3.8.12
+Tampermonkey /w Greasyfork user's ACAS script
+random account info generator ( don't need to verify email, but chess.com doesn't require the big three ( limited to google, Microsoft, or yahoo )
+use path from pathlib to append a file named accs.txt with the bot account information in a style of the following:
+Username: AlphanumericalName{i}
+Email: AltifyBot{i}@{randmail}
+Password: !NewPassForAltify#{i}
+TTC: {stime - ftime}
+Variable Info:
+i is from the loop of crea...",Altify-Developm,3 minutes ago,https://replit.com/bounties/@Altify-Developm/make-a-auto-chess-bo?t=
