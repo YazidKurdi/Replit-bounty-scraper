@@ -5701,7 +5701,7 @@ Technical Details
 Swift with iOS provided libraries such as AVFoundation, AVSession, AVAssetWriter
 
 Link to Project
-I can provide a GitHub...",harik2000,11 hours ago,https://replit.com/bounties/@harik2000/swift-video-recordin?t=
+I can provide a GitHub...",harik2000,12 hours ago,https://replit.com/bounties/@harik2000/swift-video-recordin?t=
 747,$49.50,due in 6 days,Python Script For OpenAI Web QA Embeddings,"I recently saw this post from OpenAI: https://platform.openai.com/docs/tutorials/web-qa-embeddings
 
 The goal is to create a Python script that takes a question as input and provides an answer based on an embeddings model created from a pre-defined set of URLS from a specific website. The URLs are stored in a urls.json file and no web crawling is required (link crawling is mentioned in the tutorial but not needed here).
@@ -5712,7 +5712,7 @@ A README file should be provided that includes all the necessary steps to set up
 
 Technical Details
 The urls.json file will be provided after I accept the Bounty application.
-A README file should be provided upon completion with all the steps required to set up the environment and reproduce the results.",Dprevoznik,10 hours ago,https://replit.com/bounties/@Dprevoznik/python-script-for-op?t=
+A README file should be provided upon completion with all the steps required to set up the environment and reproduce the results.",Dprevoznik,11 hours ago,https://replit.com/bounties/@Dprevoznik/python-script-for-op?t=
 748,$46.80,due in 18 days,[Website/Vercel] Agile/Scrum Point Calculator ,"Looking for someone to create a tool for pointing stories/epics for Agile ceremonies.
 This will be hosted on the website pointing.charity
 
@@ -5735,7 +5735,7 @@ I plan to host this in Vercel, I don't really have a preference of language it's
 It should be able to handle 100 concurrent sessions.
 
 Timelines / Milestones:
-v1 - Basic functionality (Adding us...",Bandos1000,9 hours ago,https://replit.com/bounties/@Bandos1000/websitevercel-agiles?t=
+v1 - Basic functionality (Adding us...",Bandos1000,10 hours ago,https://replit.com/bounties/@Bandos1000/websitevercel-agiles?t=
 749,$90.00,due in 3 days,Scrape Credit Union Filings,"I would like to scrape the latest call reports for credit unions on the NCUA website (https://mapping.ncua.gov/ResearchCreditUnion) and OCR certain data points from the call report itself.
 
 This requires looking up 4,813 different credit unions based on their charter number and downloading the latest call report for each one on the next page.
@@ -5759,7 +5759,7 @@ RL0031
 
 Acceptance Criteria
 Experience with web crawling and web scraping
-Experience with OCR / data extraction from PDFs",DinoBecirovic,8 hours ago,https://replit.com/bounties/@DinoBecirovic/scrape-credit-union?t=
+Experience with OCR / data extraction from PDFs",DinoBecirovic,9 hours ago,https://replit.com/bounties/@DinoBecirovic/scrape-credit-union?t=
 750,$1.35,closed,Add savefiles to game(python),"Need help adding savefiles.
 
 Add into python coding game savefiles for all variables(or most).
@@ -5827,7 +5827,10 @@ A file that works when we test the deployment and doesn't break the JS or site.
 Technical Details
 YML file for Github Hosting
 
-Link to Project",nickdumitru,5 hours ago,https://replit.com/bounties/@nickdumitru/github-workflow-yml?t=
+Link to Project",nickdumitru,6 hours ago,https://replit.com/bounties/@nickdumitru/github-workflow-yml?t=
 754,$495.00,due in 12 days,Voice to Notes Summary AI App,"I'm looking for help developing a single-purpose app for my own note-taking synthesis. The workflow I currently do is broken apart, using Descript to transcribe my voice memos and later feeding the transcription into ChatGPT with my custom prompt for organizing my notes with specific markdown styles.
 I'm looking for a single app that can be hosted in a virtual instance with a domain (potential future evolution to a  paywall and make it a product with the original repl.it bounty developer if there is broader interest), but basically looking to have a simple upload function to upload audio files which will then be transcribed (possibly using Whisper from OpenAI) then the output is fed into GPT with prompt style choice options of how to organize the notes (with the possibility to customize the output format if needed). Can be creative with front-end as long as it's user-friendly, happy to provide example/input.
-Single file upload (audio file) -> Whisper API -> Transcription -> Fed into GP...",MehradYaghmai,4 hours ago,https://replit.com/bounties/@MehradYaghmai/voice-to-notes-summa?t=
+Single file upload (audio file) -> Whisper API -> Transcription -> Fed into GP...",MehradYaghmai,5 hours ago,https://replit.com/bounties/@MehradYaghmai/voice-to-notes-summa?t=
+755,$180.00,due in 14 days,Instagram Reply Bot API,"I would like to build bot functionality for my Instagram business account. The solution should allow different responses (input by me - the user) to be posted underneath posts that have specific hashtags.
+
+For example 'if the post contains #love, the bot should post a heart in the comment section'.",TomHumber,2 minutes ago,https://replit.com/bounties/@TomHumber/instagram-reply-bot?t=
