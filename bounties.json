@@ -7476,7 +7476,7 @@
         "title": "Python Script For OpenAI Web QA Embeddings",
         "description": "I recently saw this post from OpenAI: https://platform.openai.com/docs/tutorials/web-qa-embeddings\n\nThe goal is to create a Python script that takes a question as input and provides an answer based on an embeddings model created from a pre-defined set of URLS from a specific website. The URLs are stored in a urls.json file and no web crawling is required (link crawling is mentioned in the tutorial but not needed here).\n\nAcceptance Criteria\nThe script should be submitted as complete and tested using the Secret OPENAI_KEY environment variable.\nA README file should be provided that includes all the necessary steps to set up the environment and reproduce the results, including any required data cleaning.\n\nTechnical Details\nThe urls.json file will be provided after I accept the Bounty application.\nA README file should be provided upon completion with all the steps required to set up the environment and reproduce the results.",
         "author": "Dprevoznik",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@Dprevoznik/python-script-for-op?t="
     },
     {
@@ -7526,7 +7526,7 @@
         "title": "Rust implementation for Particle Lenia for WasmEdge",
         "description": "Use Rust to implement Particle Lenia in a way that can be compiled to run on WasmEdge (https://wasmedge.org/book/en/)\n\nUse the guidelines and the type of memory use optimization from a similar Game of Life implementation below.\n\nSubmit a compiled .wasm binary together with the codebase, and briefly talk about steps you took to make the implementation energy-efficient.\n\nNeeds to be visualized using CanvasRenderingContext2D:\nhttps://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D\n\nCode to implement:\n\nhttps://google-research.github.io/self-organising-systems/particle-lenia/\nhttps://colab.research.google.com/drive/14nw3aK5aOMH_brKYdRsXHKt0OgK1RteK?usp=sharing\n\nAcceptance Criteria\nCompiles, and has tests.\n\nAppendix - Game of Life example\nuse std::thread;\nuse std::time::Duration;\n\nconst ROWS: usize = 30;\nconst COLS: usize = 60;\n\nfn main() {\n    let mut current_generation = vec![vec![false; COLS]; ROWS];\n    let mut next_generation = vec![vec![false; COLS...",
         "author": "bmorphism",
-        "posted_time": "53 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@bmorphism/rust-implementation?t="
     },
     {
@@ -7536,7 +7536,7 @@
         "title": "Github Workflow YML File To Minify CSS, HTML and JS Before Uploading to Firebase Hosting",
         "description": "I have unminified files for a static website. I need to minify them before they get deployed to Firebase Hosting. But I need to keep the original files in github as is so we can edit them easily.\nAcceptance Criteria\nA file that works when we test the deployment and doesn't break the JS or site.\nTechnical Details\nYML file for Github Hosting\n\nLink to Project",
         "author": "nickdumitru",
-        "posted_time": "38 minutes ago",
+        "posted_time": "46 minutes ago",
         "link": "https://replit.com/bounties/@nickdumitru/github-workflow-yml?t="
     }
 ]
