@@ -7416,7 +7416,7 @@
         "title": "Transform longform text into chunks of an equal length, less than or equal to a specified number of words",
         "description": "I have a large number of transcripts from recorded Google meets that range from a couple thousand to hundreds of thousands of words in length.\n\nI would like to rapidly prototype GPT 3 pipelines that process these transcripts.\n\nBecause GPT3 is limited by the number of tokens it can process in a given prompt, the transcripts need to be sliced into chunks of optimal length.\n\nI can do this manually, but it's a bit of a pain at the moment because I have to eyeball the length and do it by hand in a text editor.\n\nI would like a very simple tool/data pipeline that allows me to copy and paste an entire transcript and then get a \"chunked\" version in return with those chunks clearly delineated, let's say by line breaks and \"chunk #\" in between so that I can copy and paste each chunk into the GPT 3 playground and experiment with getting certain results.\n\nAcceptance Criteria\n\nGiven that I am a user with a Google meet transcript stored in a Google dock when I copy the entire tex...",
         "author": "ChristianUlstru",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@ChristianUlstru/transform-longform-t?t="
     },
     {
@@ -7436,7 +7436,7 @@
         "title": "Build a form using React TypeScript and react-hook-form",
         "description": "Build the following wireframe of the form using vite.js + React + TypeScript template. Use the react-hook-form package for the form.\n\nKeep it simple and minimal. Add an index.css for the styles and only use standard HTML tags like div, table, th, tr, td, span, input etc. For icons, add separate svg/png files.\n\nIn react-hook-form, use useForm and useFieldArray for adding multiple records as shown in the wireframe above.\n\nValidations:\nCreate it as a single React component.\n\nFields:\nDate: yyyy-mm-dd. User can enter manually. No calendar component required.\nProject: Initialize a fixed list [Project1, Project2, Project3] . Required.\nStatus: Initialize a fixed list [Started, Working, In-Progress]. Required.\nTitle: Required. length > 0.\nLink: Optional but highlight in red if Title.length > 0\nHrs: Optional. Only allow decimal numbers.\n\nThe form should always have one empty row at the bottom. As soon as the user types something in the title, a new empty row should get added....",
         "author": "sleeksky",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@sleeksky/build-a-form-using-r?t="
     },
     {
@@ -7446,7 +7446,7 @@
         "title": "Early Access to Diagram's Genius",
         "description": "I would like early access to this:\n\nhttps://www.genius.design/",
         "author": "aidantorrence",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/early-access-to-diag?t="
     },
     {
@@ -7456,7 +7456,7 @@
         "title": "Early Access to Galileo AI Design Tool",
         "description": "I want access to this: https://www.usegalileo.ai/",
         "author": "aidantorrence",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/early-access-to-gali?t="
     },
     {
@@ -7466,7 +7466,7 @@
         "title": "Swift Video Recording Camera that mixes with Background Audio",
         "description": "I'm currently in the process of debugging my video camera model that I'm using to record video and audio in my iOS app. I would like the video camera to continue playing background audio if there is something play and record using the mic over the audio. I initially got my av capture session to work smoothly as intended by adding the microphone input on set up which automatically stops playing background audio when the camera view is set up. It records videos and captures photo but stops any background audio from playing.\n\nAcceptance Criteria\nA camera model that works with swift in an iOS app that records video and audio using avfoundation/avasset writer while smoothly mixing with background audio. Manages audio session separately to ensure that background Audio doesn't get interrupted when the camera starts and stops recording.\n\nTechnical Details\nSwift with iOS provided libraries such as AVFoundation, AVSession, AVAssetWriter\n\nLink to Project\nI can provide a GitHub...",
         "author": "harik2000",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@harik2000/swift-video-recordin?t="
     },
     {
@@ -7476,7 +7476,7 @@
         "title": "Python Script For OpenAI Web QA Embeddings",
         "description": "I recently saw this post from OpenAI: https://platform.openai.com/docs/tutorials/web-qa-embeddings\n\nThe goal is to create a Python script that takes a question as input and provides an answer based on an embeddings model created from a pre-defined set of URLS from a specific website. The URLs are stored in a urls.json file and no web crawling is required (link crawling is mentioned in the tutorial but not needed here).\n\nAcceptance Criteria\nThe script should be submitted as complete and tested using the Secret OPENAI_KEY environment variable.\nA README file should be provided that includes all the necessary steps to set up the environment and reproduce the results, including any required data cleaning.\n\nTechnical Details\nThe urls.json file will be provided after I accept the Bounty application.\nA README file should be provided upon completion with all the steps required to set up the environment and reproduce the results.",
         "author": "Dprevoznik",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@Dprevoznik/python-script-for-op?t="
     },
     {
@@ -7486,7 +7486,7 @@
         "title": "[Website/Vercel] Agile/Scrum Point Calculator ",
         "description": "Looking for someone to create a tool for pointing stories/epics for Agile ceremonies.\nThis will be hosted on the website pointing.charity\n\nI plan to host it in Vercel for fast loading.\nI don't really have a preference for language.\nI'd like the UI to be Bootstrap/Material UI style.\n\nBasic tool functions:\nhttps://www.figma.com/file/xrj4oOu0SnFetYJBTuppfi/Points.Charity?node-id=0%3A1&t=aSJ8PwbXfVgviIxa-1\nOutlined here, you can enter prototype mode and test there. Feel free to leave comments with any questions.\n\nAcceptance Criteria\nA bootstrap minimal/UI friendly design.\nFunctionality according to the above.\nNo data storage after session has ended\nAbility to export png of session\n\nTechnical Details\nI plan to host this in Vercel, I don't really have a preference of language it's written in, but need the code commented and able to be edited by future hunters.\nIt should be able to handle 100 concurrent sessions.\n\nTimelines / Milestones:\nv1 - Basic functionality (Adding us...",
         "author": "Bandos1000",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/websitevercel-agiles?t="
     },
     {
@@ -7496,7 +7496,7 @@
         "title": "Scrape Credit Union Filings",
         "description": "I would like to scrape the latest call reports for credit unions on the NCUA website (https://mapping.ncua.gov/ResearchCreditUnion) and OCR certain data points from the call report itself.\n\nThis requires looking up 4,813 different credit unions based on their charter number and downloading the latest call report for each one on the next page.\n\nOnce the PDF is downloaded, I would need the data for following fields extracted:\nthe Federal Charter/Certificate Number\nRL0018\nRL0021\nRL0024\nRL0027\nRL0019\nRL0022\nRL0025\nRL0028\nRL0030\nRL0020\nRL0023\nRL0026\nRL0029\nRL0031\n\nAcceptance Criteria\nExperience with web crawling and web scraping\nExperience with OCR / data extraction from PDFs",
         "author": "DinoBecirovic",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@DinoBecirovic/scrape-credit-union?t="
     },
     {
@@ -7506,7 +7506,7 @@
         "title": "Add savefiles to game(python)",
         "description": "Need help adding savefiles.\n\nAdd into python coding game savefiles for all variables(or most).\n\nhttps://replit.com/@DevonWhittle/Danger-Falls-python-text-adventure-demo#main.py",
         "author": "Tob11",
-        "posted_time": "40 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@Tob11/add-savefiles-to-gam?t="
     }
 ]

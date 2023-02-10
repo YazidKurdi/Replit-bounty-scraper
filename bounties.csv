@@ -5662,7 +5662,7 @@ I would like a very simple tool/data pipeline that allows me to copy and paste a
 
 Acceptance Criteria
 
-Given that I am a user with a Google meet transcript stored in a Google dock when I copy the entire tex...",ChristianUlstru,11 hours ago,https://replit.com/bounties/@ChristianUlstru/transform-longform-t?t=
+Given that I am a user with a Google meet transcript stored in a Google dock when I copy the entire tex...",ChristianUlstru,12 hours ago,https://replit.com/bounties/@ChristianUlstru/transform-longform-t?t=
 742,$50.00,due in 13 days,[TRANSLATION] Convert Swift/Objective C Code Utilizing Various MacOS APIs to Python,"tl;dr I have 150-200 lines of Swift/Objective C code that need to be converted into Python. It uses some Mac OS APIs to work. Repo Link: https://github.com/tml1024/FluffyDisplay. It is mainly a library that exports one function. I would like that function to be available through Python code. Please include previous bounty work and experience with Mac OS APIs. I will tip up extra for fast work!
 
 Problem Description
@@ -5687,11 +5687,11 @@ Title: Required. length > 0.
 Link: Optional but highlight in red if Title.length > 0
 Hrs: Optional. Only allow decimal numbers.
 
-The form should always have one empty row at the bottom. As soon as the user types something in the title, a new empty row should get added....",sleeksky,8 hours ago,https://replit.com/bounties/@sleeksky/build-a-form-using-r?t=
+The form should always have one empty row at the bottom. As soon as the user types something in the title, a new empty row should get added....",sleeksky,9 hours ago,https://replit.com/bounties/@sleeksky/build-a-form-using-r?t=
 744,$30.00,due in 13 days,Early Access to Diagram's Genius,"I would like early access to this:
 
-https://www.genius.design/",aidantorrence,6 hours ago,https://replit.com/bounties/@aidantorrence/early-access-to-diag?t=
-745,$50.00,due in 13 days,Early Access to Galileo AI Design Tool,I want access to this: https://www.usegalileo.ai/,aidantorrence,6 hours ago,https://replit.com/bounties/@aidantorrence/early-access-to-gali?t=
+https://www.genius.design/",aidantorrence,7 hours ago,https://replit.com/bounties/@aidantorrence/early-access-to-diag?t=
+745,$50.00,due in 13 days,Early Access to Galileo AI Design Tool,I want access to this: https://www.usegalileo.ai/,aidantorrence,7 hours ago,https://replit.com/bounties/@aidantorrence/early-access-to-gali?t=
 746,$45.00,due in 5 days,Swift Video Recording Camera that mixes with Background Audio,"I'm currently in the process of debugging my video camera model that I'm using to record video and audio in my iOS app. I would like the video camera to continue playing background audio if there is something play and record using the mic over the audio. I initially got my av capture session to work smoothly as intended by adding the microphone input on set up which automatically stops playing background audio when the camera view is set up. It records videos and captures photo but stops any background audio from playing.
 
 Acceptance Criteria
@@ -5701,7 +5701,7 @@ Technical Details
 Swift with iOS provided libraries such as AVFoundation, AVSession, AVAssetWriter
 
 Link to Project
-I can provide a GitHub...",harik2000,4 hours ago,https://replit.com/bounties/@harik2000/swift-video-recordin?t=
+I can provide a GitHub...",harik2000,5 hours ago,https://replit.com/bounties/@harik2000/swift-video-recordin?t=
 747,$49.50,due in 6 days,Python Script For OpenAI Web QA Embeddings,"I recently saw this post from OpenAI: https://platform.openai.com/docs/tutorials/web-qa-embeddings
 
 The goal is to create a Python script that takes a question as input and provides an answer based on an embeddings model created from a pre-defined set of URLS from a specific website. The URLs are stored in a urls.json file and no web crawling is required (link crawling is mentioned in the tutorial but not needed here).
@@ -5712,7 +5712,7 @@ A README file should be provided that includes all the necessary steps to set up
 
 Technical Details
 The urls.json file will be provided after I accept the Bounty application.
-A README file should be provided upon completion with all the steps required to set up the environment and reproduce the results.",Dprevoznik,3 hours ago,https://replit.com/bounties/@Dprevoznik/python-script-for-op?t=
+A README file should be provided upon completion with all the steps required to set up the environment and reproduce the results.",Dprevoznik,4 hours ago,https://replit.com/bounties/@Dprevoznik/python-script-for-op?t=
 748,$46.80,due in 18 days,[Website/Vercel] Agile/Scrum Point Calculator ,"Looking for someone to create a tool for pointing stories/epics for Agile ceremonies.
 This will be hosted on the website pointing.charity
 
@@ -5735,7 +5735,7 @@ I plan to host this in Vercel, I don't really have a preference of language it's
 It should be able to handle 100 concurrent sessions.
 
 Timelines / Milestones:
-v1 - Basic functionality (Adding us...",Bandos1000,2 hours ago,https://replit.com/bounties/@Bandos1000/websitevercel-agiles?t=
+v1 - Basic functionality (Adding us...",Bandos1000,3 hours ago,https://replit.com/bounties/@Bandos1000/websitevercel-agiles?t=
 749,$90.00,due in 3 days,Scrape Credit Union Filings,"I would like to scrape the latest call reports for credit unions on the NCUA website (https://mapping.ncua.gov/ResearchCreditUnion) and OCR certain data points from the call report itself.
 
 This requires looking up 4,813 different credit unions based on their charter number and downloading the latest call report for each one on the next page.
@@ -5759,9 +5759,9 @@ RL0031
 
 Acceptance Criteria
 Experience with web crawling and web scraping
-Experience with OCR / data extraction from PDFs",DinoBecirovic,1 hour ago,https://replit.com/bounties/@DinoBecirovic/scrape-credit-union?t=
+Experience with OCR / data extraction from PDFs",DinoBecirovic,2 hours ago,https://replit.com/bounties/@DinoBecirovic/scrape-credit-union?t=
 750,$1.35,due in 23 days,Add savefiles to game(python),"Need help adding savefiles.
 
 Add into python coding game savefiles for all variables(or most).
 
-https://replit.com/@DevonWhittle/Danger-Falls-python-text-adventure-demo#main.py",Tob11,40 minutes ago,https://replit.com/bounties/@Tob11/add-savefiles-to-gam?t=
+https://replit.com/@DevonWhittle/Danger-Falls-python-text-adventure-demo#main.py",Tob11,1 hour ago,https://replit.com/bounties/@Tob11/add-savefiles-to-gam?t=
