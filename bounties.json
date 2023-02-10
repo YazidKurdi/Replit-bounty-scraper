@@ -7566,7 +7566,7 @@
         "title": "Custom XML parser in Python for UK Court of Law judgements",
         "description": "Create a custom XML file parser in Python that takes a single XML file of a UK court case and returns a JSON with the metadata, headings, subheadings, paragraphs & text as a nested JSON.\n\nExample XML files (download link at bottom of pages):\nhttps://caselaw.nationalarchives.gov.uk/ewhc/comm/2022/3258\nhttps://caselaw.nationalarchives.gov.uk/ewca/civ/2022/1943\nhttps://caselaw.nationalarchives.gov.uk/ukftt/grc/2023/111\n\nAcceptance Criteria\nThe output JSON should extract the following:\nOne 'meta' (key) section with values containing all fields under the '' tag. For fields where there are multiple ids e.g. 'TLCPerson' (key) the value in the json should be a list. ie output'meta' should return a list\nOne 'header' (key)  section with values containing all text under the '' tag\nOne 'judgmentBody' (key) section with the following structure:\nHeadings (denoted by the '' tag and sometime by the 'class=\"ParaHeading\"')\n-----> Subheadings (denoted by the '' tag and in different bo...",
         "author": "kushmadlani",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@kushmadlani/custom-xml-parser-in?t="
     },
     {
@@ -7576,7 +7576,7 @@
         "title": "Instagram <> Stability Diffusion Webapp",
         "description": "I want a very simple webapp, where a person:\n\n1) can paste a link to their instagram\n2) instagram images are scanned\n3) user inputs what they want to see, eg \"create an image of me standing on a mountain\"\n4) scanned images are parsed to Stability Diffusion API with the prompt in 3 (open to feedback on which model to hit)\n5) 5-6 images are returned in the UI\n\nAcceptance Criteria\nIdeally built using PHP/javascript, or react.\n\nWorking prototype built, rendering the images. Similar to https://www.thismodeldoesnotexist.co/.\n\nNext Steps\nIdeally I work with the developer to build this concept out further.",
         "author": "littlegoatcoding",
-        "posted_time": "33 minutes ago",
+        "posted_time": "41 minutes ago",
         "link": "https://replit.com/bounties/@littlegoatcoding/instagram-lessgreate?t="
     }
 ]

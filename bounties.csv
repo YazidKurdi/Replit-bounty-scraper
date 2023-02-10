@@ -5847,7 +5847,7 @@ One 'meta' (key) section with values containing all fields under the '' tag. For
 One 'header' (key)  section with values containing all text under the '' tag
 One 'judgmentBody' (key) section with the following structure:
 Headings (denoted by the '' tag and sometime by the 'class=""ParaHeading""')
------> Subheadings (denoted by the '' tag and in different bo...",kushmadlani,4 hours ago,https://replit.com/bounties/@kushmadlani/custom-xml-parser-in?t=
+-----> Subheadings (denoted by the '' tag and in different bo...",kushmadlani,5 hours ago,https://replit.com/bounties/@kushmadlani/custom-xml-parser-in?t=
 757,$162.00,due in 7 days,Instagram <> Stability Diffusion Webapp,"I want a very simple webapp, where a person:
 
 1) can paste a link to their instagram
@@ -5862,4 +5862,4 @@ Ideally built using PHP/javascript, or react.
 Working prototype built, rendering the images. Similar to https://www.thismodeldoesnotexist.co/.
 
 Next Steps
-Ideally I work with the developer to build this concept out further.",littlegoatcoding,33 minutes ago,https://replit.com/bounties/@littlegoatcoding/instagram-lessgreate?t=
+Ideally I work with the developer to build this concept out further.",littlegoatcoding,41 minutes ago,https://replit.com/bounties/@littlegoatcoding/instagram-lessgreate?t=
