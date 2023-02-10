@@ -7516,7 +7516,7 @@
         "title": "Rust code to turn OAuth signature (e.g. Authentik) into a DID Verifiable Credential (e.g. disco.xyz, gitcoin passport)",
         "description": "Identity signal\nIn the process of gathering a latent set of time-constrained signals from existing OAUth identity services a given user might bring from either SaaS (e.g. LinkedIn, Twitter, ...) or sovereignly operated (e.g. Authentik, self-hosted) GitLab -- for a universal interface of OAuth idP authn / authz.\nSpecifically, adapt this codebase\nextern crate reqwest;\nextern crate serde_json;\n\nuse serde_json::{Value};\n\n// Function to retrieve DID from OAuth provider\nasync fn getdid(accesstoken: &str) -> Result {\n    let client = reqwest::Client::new();\n    let apiurl = format!(\"https://oauthprovider.com/api/did?accesstoken={}\", access_token);\n\n    let response = client.get(&api_url).send().await?;\n    let did: String = response.json().await?;\n\n    Ok(did)\n}\n\n// Function to sign VC using issuer's private key\nfn signvc(vc: &str, privatekey: &str) -> String {\n    // Implementation to sign VC using private key goes here\n    // ...\n\n    let signedvc = \"signed VC\".tostring();\n    signed_vc\n}\n\n...",
         "author": "bmorphism",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@bmorphism/rust-code-to-turn-oa?t="
     },
     {
@@ -7576,7 +7576,7 @@
         "title": "Instagram <> Stability Diffusion Webapp",
         "description": "I want a very simple webapp, where a person:\n\n1) can paste a link to their instagram\n2) instagram images are scanned\n3) user inputs what they want to see, eg \"create an image of me standing on a mountain\"\n4) scanned images are parsed to Stability Diffusion API with the prompt in 3 (open to feedback on which model to hit)\n5) 5-6 images are returned in the UI\n\nAcceptance Criteria\nIdeally built using PHP/javascript, or react.\n\nWorking prototype built, rendering the images. Similar to https://www.thismodeldoesnotexist.co/.\n\nNext Steps\nIdeally I work with the developer to build this concept out further.",
         "author": "littlegoatcoding",
-        "posted_time": "24 minutes ago",
+        "posted_time": "33 minutes ago",
         "link": "https://replit.com/bounties/@littlegoatcoding/instagram-lessgreate?t="
     }
 ]

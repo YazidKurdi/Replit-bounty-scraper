@@ -5793,7 +5793,7 @@ fn signvc(vc: &str, privatekey: &str) -> String {
     signed_vc
 }
 
-...",bmorphism,11 hours ago,https://replit.com/bounties/@bmorphism/rust-code-to-turn-oa?t=
+...",bmorphism,12 hours ago,https://replit.com/bounties/@bmorphism/rust-code-to-turn-oa?t=
 752,$31.11,due in 4 days,Rust implementation for Particle Lenia for WasmEdge,"Use Rust to implement Particle Lenia in a way that can be compiled to run on WasmEdge (https://wasmedge.org/book/en/)
 
 Use the guidelines and the type of memory use optimization from a similar Game of Life implementation below.
@@ -5862,4 +5862,4 @@ Ideally built using PHP/javascript, or react.
 Working prototype built, rendering the images. Similar to https://www.thismodeldoesnotexist.co/.
 
 Next Steps
-Ideally I work with the developer to build this concept out further.",littlegoatcoding,24 minutes ago,https://replit.com/bounties/@littlegoatcoding/instagram-lessgreate?t=
+Ideally I work with the developer to build this concept out further.",littlegoatcoding,33 minutes ago,https://replit.com/bounties/@littlegoatcoding/instagram-lessgreate?t=
