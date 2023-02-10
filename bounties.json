@@ -7516,7 +7516,7 @@
         "title": "Rust code to turn OAuth signature (e.g. Authentik) into a DID Verifiable Credential (e.g. disco.xyz, gitcoin passport)",
         "description": "Identity signal\nIn the process of gathering a latent set of time-constrained signals from existing OAUth identity services a given user might bring from either SaaS (e.g. LinkedIn, Twitter, ...) or sovereignly operated (e.g. Authentik, self-hosted) GitLab -- for a universal interface of OAuth idP authn / authz.\nSpecifically, adapt this codebase\nextern crate reqwest;\nextern crate serde_json;\n\nuse serde_json::{Value};\n\n// Function to retrieve DID from OAuth provider\nasync fn getdid(accesstoken: &str) -> Result {\n    let client = reqwest::Client::new();\n    let apiurl = format!(\"https://oauthprovider.com/api/did?accesstoken={}\", access_token);\n\n    let response = client.get(&api_url).send().await?;\n    let did: String = response.json().await?;\n\n    Ok(did)\n}\n\n// Function to sign VC using issuer's private key\nfn signvc(vc: &str, privatekey: &str) -> String {\n    // Implementation to sign VC using private key goes here\n    // ...\n\n    let signedvc = \"signed VC\".tostring();\n    signed_vc\n}\n\n...",
         "author": "bmorphism",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@bmorphism/rust-code-to-turn-oa?t="
     },
     {
@@ -7566,7 +7566,7 @@
         "title": "Custom XML parser in Python for UK Court of Law judgements",
         "description": "Create a custom XML file parser in Python that takes a single XML file of a UK court case and returns a JSON with the metadata, headings, subheadings, paragraphs & text as a nested JSON.\n\nExample XML files (download link at bottom of pages):\nhttps://caselaw.nationalarchives.gov.uk/ewhc/comm/2022/3258\nhttps://caselaw.nationalarchives.gov.uk/ewca/civ/2022/1943\nhttps://caselaw.nationalarchives.gov.uk/ukftt/grc/2023/111\n\nAcceptance Criteria\nThe output JSON should extract the following:\nOne 'meta' (key) section with values containing all fields under the '' tag. For fields where there are multiple ids e.g. 'TLCPerson' (key) the value in the json should be a list. ie output'meta' should return a list\nOne 'header' (key)  section with values containing all text under the '' tag\nOne 'judgmentBody' (key) section with the following structure:\nHeadings (denoted by the '' tag and sometime by the 'class=\"ParaHeading\"')\n-----> Subheadings (denoted by the '' tag and in different bo...",
         "author": "kushmadlani",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@kushmadlani/custom-xml-parser-in?t="
     }
 ]
