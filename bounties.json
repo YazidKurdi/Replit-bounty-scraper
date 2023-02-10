@@ -7456,7 +7456,7 @@
         "title": "Early Access to Galileo AI Design Tool",
         "description": "I want access to this: https://www.usegalileo.ai/",
         "author": "aidantorrence",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/early-access-to-gali?t="
     },
     {
@@ -7466,7 +7466,7 @@
         "title": "Swift Video Recording Camera that mixes with Background Audio",
         "description": "I'm currently in the process of debugging my video camera model that I'm using to record video and audio in my iOS app. I would like the video camera to continue playing background audio if there is something play and record using the mic over the audio. I initially got my av capture session to work smoothly as intended by adding the microphone input on set up which automatically stops playing background audio when the camera view is set up. It records videos and captures photo but stops any background audio from playing.\n\nAcceptance Criteria\nA camera model that works with swift in an iOS app that records video and audio using avfoundation/avasset writer while smoothly mixing with background audio. Manages audio session separately to ensure that background Audio doesn't get interrupted when the camera starts and stops recording.\n\nTechnical Details\nSwift with iOS provided libraries such as AVFoundation, AVSession, AVAssetWriter\n\nLink to Project\nI can provide a GitHub...",
         "author": "harik2000",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@harik2000/swift-video-recordin?t="
     },
     {
@@ -7486,7 +7486,7 @@
         "title": "[Website/Vercel] Agile/Scrum Point Calculator ",
         "description": "Looking for someone to create a tool for pointing stories/epics for Agile ceremonies.\nThis will be hosted on the website pointing.charity\n\nI plan to host it in Vercel for fast loading.\nI don't really have a preference for language.\nI'd like the UI to be Bootstrap/Material UI style.\n\nBasic tool functions:\nhttps://www.figma.com/file/xrj4oOu0SnFetYJBTuppfi/Points.Charity?node-id=0%3A1&t=aSJ8PwbXfVgviIxa-1\nOutlined here, you can enter prototype mode and test there. Feel free to leave comments with any questions.\n\nAcceptance Criteria\nA bootstrap minimal/UI friendly design.\nFunctionality according to the above.\nNo data storage after session has ended\nAbility to export png of session\n\nTechnical Details\nI plan to host this in Vercel, I don't really have a preference of language it's written in, but need the code commented and able to be edited by future hunters.\nIt should be able to handle 100 concurrent sessions.\n\nTimelines / Milestones:\nv1 - Basic functionality (Adding us...",
         "author": "Bandos1000",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/websitevercel-agiles?t="
     },
     {
@@ -7496,7 +7496,7 @@
         "title": "Scrape Credit Union Filings",
         "description": "I would like to scrape the latest call reports for credit unions on the NCUA website (https://mapping.ncua.gov/ResearchCreditUnion) and OCR certain data points from the call report itself.\n\nThis requires looking up 4,813 different credit unions based on their charter number and downloading the latest call report for each one on the next page.\n\nOnce the PDF is downloaded, I would need the data for following fields extracted:\nthe Federal Charter/Certificate Number\nRL0018\nRL0021\nRL0024\nRL0027\nRL0019\nRL0022\nRL0025\nRL0028\nRL0030\nRL0020\nRL0023\nRL0026\nRL0029\nRL0031\n\nAcceptance Criteria\nExperience with web crawling and web scraping\nExperience with OCR / data extraction from PDFs",
         "author": "DinoBecirovic",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@DinoBecirovic/scrape-credit-union?t="
     },
     {
@@ -7536,7 +7536,7 @@
         "title": "Github Workflow YML File To Minify CSS, HTML and JS Before Uploading to Firebase Hosting",
         "description": "I have unminified files for a static website. I need to minify them before they get deployed to Firebase Hosting. But I need to keep the original files in github as is so we can edit them easily.\nAcceptance Criteria\nA file that works when we test the deployment and doesn't break the JS or site.\nTechnical Details\nYML file for Github Hosting\n\nLink to Project",
         "author": "nickdumitru",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@nickdumitru/github-workflow-yml?t="
     },
     {
