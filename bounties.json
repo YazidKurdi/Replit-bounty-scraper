@@ -7506,7 +7506,7 @@
         "title": "Add savefiles to game(python)",
         "description": "Need help adding savefiles.\n\nAdd into python coding game savefiles for all variables(or most).\n\nhttps://replit.com/@DevonWhittle/Danger-Falls-python-text-adventure-demo#main.py",
         "author": "Tob11",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@Tob11/add-savefiles-to-gam?t="
     },
     {
@@ -7546,7 +7546,7 @@
         "title": "Voice to Notes Summary AI App",
         "description": "I'm looking for help developing a single-purpose app for my own note-taking synthesis. The workflow I currently do is broken apart, using Descript to transcribe my voice memos and later feeding the transcription into ChatGPT with my custom prompt for organizing my notes with specific markdown styles.\nI'm looking for a single app that can be hosted in a virtual instance with a domain (potential future evolution to a  paywall and make it a product with the original repl.it bounty developer if there is broader interest), but basically looking to have a simple upload function to upload audio files which will then be transcribed (possibly using Whisper from OpenAI) then the output is fed into GPT with prompt style choice options of how to organize the notes (with the possibility to customize the output format if needed). Can be creative with front-end as long as it's user-friendly, happy to provide example/input.\nSingle file upload (audio file) -> Whisper API -> Transcription -> Fed into GP...",
         "author": "MehradYaghmai",
-        "posted_time": "52 minutes ago",
+        "posted_time": "59 minutes ago",
         "link": "https://replit.com/bounties/@MehradYaghmai/voice-to-notes-summa?t="
     }
 ]
