@@ -7506,7 +7506,7 @@
         "title": "Add savefiles to game(python)",
         "description": "Need help adding savefiles.\n\nAdd into python coding game savefiles for all variables(or most).\n\nhttps://replit.com/@DevonWhittle/Danger-Falls-python-text-adventure-demo#main.py",
         "author": "Tob11",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@Tob11/add-savefiles-to-gam?t="
     },
     {
@@ -7566,7 +7566,7 @@
         "title": "Custom XML parser in Python for UK Court of Law judgements",
         "description": "Create a custom XML file parser in Python that takes a single XML file of a UK court case and returns a JSON with the metadata, headings, subheadings, paragraphs & text as a nested JSON.\n\nExample XML files (download link at bottom of pages):\nhttps://caselaw.nationalarchives.gov.uk/ewhc/comm/2022/3258\nhttps://caselaw.nationalarchives.gov.uk/ewca/civ/2022/1943\nhttps://caselaw.nationalarchives.gov.uk/ukftt/grc/2023/111\n\nAcceptance Criteria\nThe output JSON should extract the following:\nOne 'meta' (key) section with values containing all fields under the '' tag. For fields where there are multiple ids e.g. 'TLCPerson' (key) the value in the json should be a list. ie output'meta' should return a list\nOne 'header' (key)  section with values containing all text under the '' tag\nOne 'judgmentBody' (key) section with the following structure:\nHeadings (denoted by the '' tag and sometime by the 'class=\"ParaHeading\"')\n-----> Subheadings (denoted by the '' tag and in different bo...",
         "author": "kushmadlani",
-        "posted_time": "32 minutes ago",
+        "posted_time": "43 minutes ago",
         "link": "https://replit.com/bounties/@kushmadlani/custom-xml-parser-in?t="
     }
 ]
