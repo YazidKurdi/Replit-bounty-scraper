@@ -7476,7 +7476,7 @@
         "title": "Python Script For OpenAI Web QA Embeddings",
         "description": "I recently saw this post from OpenAI: https://platform.openai.com/docs/tutorials/web-qa-embeddings\n\nThe goal is to create a Python script that takes a question as input and provides an answer based on an embeddings model created from a pre-defined set of URLS from a specific website. The URLs are stored in a urls.json file and no web crawling is required (link crawling is mentioned in the tutorial but not needed here).\n\nAcceptance Criteria\nThe script should be submitted as complete and tested using the Secret OPENAI_KEY environment variable.\nA README file should be provided that includes all the necessary steps to set up the environment and reproduce the results, including any required data cleaning.\n\nTechnical Details\nThe urls.json file will be provided after I accept the Bounty application.\nA README file should be provided upon completion with all the steps required to set up the environment and reproduce the results.",
         "author": "Dprevoznik",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@Dprevoznik/python-script-for-op?t="
     },
     {
