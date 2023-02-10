@@ -5827,7 +5827,7 @@ A file that works when we test the deployment and doesn't break the JS or site.
 Technical Details
 YML file for Github Hosting
 
-Link to Project",nickdumitru,16 hours ago,https://replit.com/bounties/@nickdumitru/github-workflow-yml?t=
+Link to Project",nickdumitru,17 hours ago,https://replit.com/bounties/@nickdumitru/github-workflow-yml?t=
 754,$495.00,due in 11 days,Voice to Notes Summary AI App,"I'm looking for help developing a single-purpose app for my own note-taking synthesis. The workflow I currently do is broken apart, using Descript to transcribe my voice memos and later feeding the transcription into ChatGPT with my custom prompt for organizing my notes with specific markdown styles.
 I'm looking for a single app that can be hosted in a virtual instance with a domain (potential future evolution to a  paywall and make it a product with the original repl.it bounty developer if there is broader interest), but basically looking to have a simple upload function to upload audio files which will then be transcribed (possibly using Whisper from OpenAI) then the output is fed into GPT with prompt style choice options of how to organize the notes (with the possibility to customize the output format if needed). Can be creative with front-end as long as it's user-friendly, happy to provide example/input.
 Single file upload (audio file) -> Whisper API -> Transcription -> Fed into GP...",MehradYaghmai,15 hours ago,https://replit.com/bounties/@MehradYaghmai/voice-to-notes-summa?t=
@@ -5866,7 +5866,7 @@ Ideally I work with the developer to build this concept out further.",littlegoat
 758,$184.50,due in 9 days,Deploy AI Beatsaber Website,"Deploy this python script: https://github.com/duckfromdiscord/BeatMapSynthesizer-x/tree/fix at an endpoint running on AWS or GCP. There should be a website that looks kind of like this: https://beatsage.com/ through which people can link a youtube video. On the backend, it can download the audio using youtube-dl, and automatically set the song name and song thumbnail correctly. Then, the final zip file should download to the users computer, kind of like how https://bsmapper.com works. Note that the original repo is at https://github.com/wvsharber/BeatMapSynthesizer .
 
 Acceptance Criteria
-I will strongly prefer people who provide a clear outline of how they would build it (i.e. some of the tools or algorithms they'd use). I will also strongly prefer people who link Githubs or resumes with past work.",AJGupta,4 hours ago,https://replit.com/bounties/@AJGupta/deploy-ai-beatsaber?t=
+I will strongly prefer people who provide a clear outline of how they would build it (i.e. some of the tools or algorithms they'd use). I will also strongly prefer people who link Githubs or resumes with past work.",AJGupta,5 hours ago,https://replit.com/bounties/@AJGupta/deploy-ai-beatsaber?t=
 759,$5.00,closed,React Native mobile app that embeds a website,"Make me an app in React Native that embeds my game Spice Escape.
 
 It has to show an offline screen when the user is offline and use the fonts and colors from my game.
