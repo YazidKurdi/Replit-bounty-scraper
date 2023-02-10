@@ -5793,7 +5793,7 @@ fn signvc(vc: &str, privatekey: &str) -> String {
     signed_vc
 }
 
-...",bmorphism,1 hour ago,https://replit.com/bounties/@bmorphism/rust-code-to-turn-oa?t=
+...",bmorphism,2 hours ago,https://replit.com/bounties/@bmorphism/rust-code-to-turn-oa?t=
 752,$31.11,due in 5 days,Rust implementation for Particle Lenia for WasmEdge,"Use Rust to implement Particle Lenia in a way that can be compiled to run on WasmEdge (https://wasmedge.org/book/en/)
 
 Use the guidelines and the type of memory use optimization from a similar Game of Life implementation below.
@@ -5827,4 +5827,4 @@ A file that works when we test the deployment and doesn't break the JS or site.
 Technical Details
 YML file for Github Hosting
 
-Link to Project",nickdumitru,46 minutes ago,https://replit.com/bounties/@nickdumitru/github-workflow-yml?t=
+Link to Project",nickdumitru,56 minutes ago,https://replit.com/bounties/@nickdumitru/github-workflow-yml?t=
