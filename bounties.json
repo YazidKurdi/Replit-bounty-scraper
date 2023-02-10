@@ -7566,7 +7566,7 @@
         "title": "Custom XML parser in Python for UK Court of Law judgements",
         "description": "Create a custom XML file parser in Python that takes a single XML file of a UK court case and returns a JSON with the metadata, headings, subheadings, paragraphs & text as a nested JSON.\n\nExample XML files (download link at bottom of pages):\nhttps://caselaw.nationalarchives.gov.uk/ewhc/comm/2022/3258\nhttps://caselaw.nationalarchives.gov.uk/ewca/civ/2022/1943\nhttps://caselaw.nationalarchives.gov.uk/ukftt/grc/2023/111\n\nAcceptance Criteria\nThe output JSON should extract the following:\nOne 'meta' (key) section with values containing all fields under the '' tag. For fields where there are multiple ids e.g. 'TLCPerson' (key) the value in the json should be a list. ie output'meta' should return a list\nOne 'header' (key)  section with values containing all text under the '' tag\nOne 'judgmentBody' (key) section with the following structure:\nHeadings (denoted by the '' tag and sometime by the 'class=\"ParaHeading\"')\n-----> Subheadings (denoted by the '' tag and in different bo...",
         "author": "kushmadlani",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@kushmadlani/custom-xml-parser-in?t="
     },
     {
@@ -7578,5 +7578,15 @@
         "author": "littlegoatcoding",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@littlegoatcoding/instagram-lessgreate?t="
+    },
+    {
+        "index": "758",
+        "price": "$184.50",
+        "due_days": "due in 9 days",
+        "title": "Deploy AI Beatsaber Website",
+        "description": "Deploy this python script: https://github.com/duckfromdiscord/BeatMapSynthesizer-x/tree/fix at an endpoint running on AWS or GCP. There should be a website that looks kind of like this: https://beatsage.com/ through which people can link a youtube video. On the backend, it can download the audio using youtube-dl, and automatically set the song name and song thumbnail correctly. Then, the final zip file should download to the users computer, kind of like how https://bsmapper.com works. Note that the original repo is at https://github.com/wvsharber/BeatMapSynthesizer .\n\nAcceptance Criteria\nI will strongly prefer people who provide a clear outline of how they would build it (i.e. some of the tools or algorithms they'd use). I will also strongly prefer people who link Githubs or resumes with past work.",
+        "author": "AJGupta",
+        "posted_time": "9 minutes ago",
+        "link": "https://replit.com/bounties/@AJGupta/deploy-ai-beatsaber?t="
     }
 ]

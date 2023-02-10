@@ -5847,7 +5847,7 @@ One 'meta' (key) section with values containing all fields under the '' tag. For
 One 'header' (key)  section with values containing all text under the '' tag
 One 'judgmentBody' (key) section with the following structure:
 Headings (denoted by the '' tag and sometime by the 'class=""ParaHeading""')
------> Subheadings (denoted by the '' tag and in different bo...",kushmadlani,5 hours ago,https://replit.com/bounties/@kushmadlani/custom-xml-parser-in?t=
+-----> Subheadings (denoted by the '' tag and in different bo...",kushmadlani,6 hours ago,https://replit.com/bounties/@kushmadlani/custom-xml-parser-in?t=
 757,$162.00,due in 7 days,Instagram <> Stability Diffusion Webapp,"I want a very simple webapp, where a person:
 
 1) can paste a link to their instagram
@@ -5863,3 +5863,7 @@ Working prototype built, rendering the images. Similar to https://www.thismodeld
 
 Next Steps
 Ideally I work with the developer to build this concept out further.",littlegoatcoding,2 hours ago,https://replit.com/bounties/@littlegoatcoding/instagram-lessgreate?t=
+758,$184.50,due in 9 days,Deploy AI Beatsaber Website,"Deploy this python script: https://github.com/duckfromdiscord/BeatMapSynthesizer-x/tree/fix at an endpoint running on AWS or GCP. There should be a website that looks kind of like this: https://beatsage.com/ through which people can link a youtube video. On the backend, it can download the audio using youtube-dl, and automatically set the song name and song thumbnail correctly. Then, the final zip file should download to the users computer, kind of like how https://bsmapper.com works. Note that the original repo is at https://github.com/wvsharber/BeatMapSynthesizer .
+
+Acceptance Criteria
+I will strongly prefer people who provide a clear outline of how they would build it (i.e. some of the tools or algorithms they'd use). I will also strongly prefer people who link Githubs or resumes with past work.",AJGupta,9 minutes ago,https://replit.com/bounties/@AJGupta/deploy-ai-beatsaber?t=
