@@ -5847,7 +5847,7 @@ One 'meta' (key) section with values containing all fields under the '' tag. For
 One 'header' (key)  section with values containing all text under the '' tag
 One 'judgmentBody' (key) section with the following structure:
 Headings (denoted by the '' tag and sometime by the 'class=""ParaHeading""')
------> Subheadings (denoted by the '' tag and in different bo...",kushmadlani,6 hours ago,https://replit.com/bounties/@kushmadlani/custom-xml-parser-in?t=
+-----> Subheadings (denoted by the '' tag and in different bo...",kushmadlani,7 hours ago,https://replit.com/bounties/@kushmadlani/custom-xml-parser-in?t=
 757,$162.00,due in 7 days,Instagram <> Stability Diffusion Webapp,"I want a very simple webapp, where a person:
 
 1) can paste a link to their instagram
@@ -5866,7 +5866,7 @@ Ideally I work with the developer to build this concept out further.",littlegoat
 758,$184.50,due in 9 days,Deploy AI Beatsaber Website,"Deploy this python script: https://github.com/duckfromdiscord/BeatMapSynthesizer-x/tree/fix at an endpoint running on AWS or GCP. There should be a website that looks kind of like this: https://beatsage.com/ through which people can link a youtube video. On the backend, it can download the audio using youtube-dl, and automatically set the song name and song thumbnail correctly. Then, the final zip file should download to the users computer, kind of like how https://bsmapper.com works. Note that the original repo is at https://github.com/wvsharber/BeatMapSynthesizer .
 
 Acceptance Criteria
-I will strongly prefer people who provide a clear outline of how they would build it (i.e. some of the tools or algorithms they'd use). I will also strongly prefer people who link Githubs or resumes with past work.",AJGupta,52 minutes ago,https://replit.com/bounties/@AJGupta/deploy-ai-beatsaber?t=
+I will strongly prefer people who provide a clear outline of how they would build it (i.e. some of the tools or algorithms they'd use). I will also strongly prefer people who link Githubs or resumes with past work.",AJGupta,1 hour ago,https://replit.com/bounties/@AJGupta/deploy-ai-beatsaber?t=
 759,$5.00,due in 3 days,React Native mobile app that embeds a website,"Make me an app in React Native that embeds my game Spice Escape.
 
 It has to show an offline screen when the user is offline and use the fonts and colors from my game.
@@ -5875,7 +5875,7 @@ Acceptamce cretera
 You know React Native
 You can compile the apps for iOS and Android
 You have to be Bddy or DillonB07
-Give me your SID",LuisAFK,41 minutes ago,https://replit.com/bounties/@LuisAFK/react-native-mobile?t=
+Give me your SID",LuisAFK,50 minutes ago,https://replit.com/bounties/@LuisAFK/react-native-mobile?t=
 760,$4.99,due in 5 months,Make a Auto Chess bot,"I want to make chess.com improve their anti cheat, so for this I will want you to utilize python webbot, greasyfork and tampermonkey's ACAS to create a new account ( as beginner ), and automatically play and move to the grey squares after selecting it in the ACAS menu to have the transparency shown.
 Acceptance Criteria
 About 2-3 years of python
@@ -5896,4 +5896,15 @@ Email: AltifyBot{i}@{randmail}
 Password: !NewPassForAltify#{i}
 TTC: {stime - ftime}
 Variable Info:
-i is from the loop of crea...",Altify-Developm,28 minutes ago,https://replit.com/bounties/@Altify-Developm/make-a-auto-chess-bo?t=
+i is from the loop of crea...",Altify-Developm,37 minutes ago,https://replit.com/bounties/@Altify-Developm/make-a-auto-chess-bo?t=
+761,$99.00,due in 7 days,Technological Architecture for MVP,"Currently, we are finalizing the technical architecture and stack of our MVP. The userflow has been developed in detail, and we are looking for an experienced developer to create a top level architecture diagram (50,000ft view, plus detailed in some places, 50ft view). We would use the architecture as the basis to define different phases of development. We would like to work with someone starting with this part for a longer period of time.
+
+Acceptance Criteria
+
+Full stack developer with
+
+1) Previous experience in marketplace development
+
+2) Previous experience developing a product with an orderbook mechanism
+
+3) Previous experience in creating top level and detailed technological architecture",HoneyBadgerEth,8 minutes ago,https://replit.com/bounties/@HoneyBadgerEth/technological-archit?t=
