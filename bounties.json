@@ -7626,7 +7626,7 @@
         "title": "Use OpenAI models to convert generic jupyter notebook to kubeflow pipeline",
         "description": "Given some DS/ML python code in a jupyter notebook, convert it to a kubeflow pipeline that can be deployed using calls to OpenAI APIs.\n\nAcceptance Criteria\nBasic python implementation which works on simple cases such as basic data transformation or training sklearn models. Show that the generated kubeflow pipeline actually runs. Does not have to work well consistently, but should have clear path to improvement and extension.\n\nTechnical Details\nClean, well documented code with indications how it could be extended to\nsimilar use cases\nimprove performance",
         "author": "KevinSchawinsk1",
-        "posted_time": "12 minutes ago",
+        "posted_time": "19 minutes ago",
         "link": "https://replit.com/bounties/@KevinSchawinsk1/use-openai-models-to?t="
     }
 ]
