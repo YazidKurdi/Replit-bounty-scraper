@@ -7516,7 +7516,7 @@
         "title": "Rust code to turn OAuth signature (e.g. Authentik) into a DID Verifiable Credential (e.g. disco.xyz, gitcoin passport)",
         "description": "Identity signal\nIn the process of gathering a latent set of time-constrained signals from existing OAUth identity services a given user might bring from either SaaS (e.g. LinkedIn, Twitter, ...) or sovereignly operated (e.g. Authentik, self-hosted) GitLab -- for a universal interface of OAuth idP authn / authz.\nSpecifically, adapt this codebase\nextern crate reqwest;\nextern crate serde_json;\n\nuse serde_json::{Value};\n\n// Function to retrieve DID from OAuth provider\nasync fn getdid(accesstoken: &str) -> Result {\n    let client = reqwest::Client::new();\n    let apiurl = format!(\"https://oauthprovider.com/api/did?accesstoken={}\", access_token);\n\n    let response = client.get(&api_url).send().await?;\n    let did: String = response.json().await?;\n\n    Ok(did)\n}\n\n// Function to sign VC using issuer's private key\nfn signvc(vc: &str, privatekey: &str) -> String {\n    // Implementation to sign VC using private key goes here\n    // ...\n\n    let signedvc = \"signed VC\".tostring();\n    signed_vc\n}\n\n...",
         "author": "bmorphism",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@bmorphism/rust-code-to-turn-oa?t="
     },
     {
@@ -7546,7 +7546,7 @@
         "title": "Voice to Notes Summary AI App",
         "description": "I'm looking for help developing a single-purpose app for my own note-taking synthesis. The workflow I currently do is broken apart, using Descript to transcribe my voice memos and later feeding the transcription into ChatGPT with my custom prompt for organizing my notes with specific markdown styles.\nI'm looking for a single app that can be hosted in a virtual instance with a domain (potential future evolution to a  paywall and make it a product with the original repl.it bounty developer if there is broader interest), but basically looking to have a simple upload function to upload audio files which will then be transcribed (possibly using Whisper from OpenAI) then the output is fed into GPT with prompt style choice options of how to organize the notes (with the possibility to customize the output format if needed). Can be creative with front-end as long as it's user-friendly, happy to provide example/input.\nSingle file upload (audio file) -> Whisper API -> Transcription -> Fed into GP...",
         "author": "MehradYaghmai",
-        "posted_time": "40 minutes ago",
+        "posted_time": "52 minutes ago",
         "link": "https://replit.com/bounties/@MehradYaghmai/voice-to-notes-summa?t="
     }
 ]
