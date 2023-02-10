@@ -5793,7 +5793,7 @@ fn signvc(vc: &str, privatekey: &str) -> String {
     signed_vc
 }
 
-...",bmorphism,6 hours ago,https://replit.com/bounties/@bmorphism/rust-code-to-turn-oa?t=
+...",bmorphism,7 hours ago,https://replit.com/bounties/@bmorphism/rust-code-to-turn-oa?t=
 752,$31.11,due in 5 days,Rust implementation for Particle Lenia for WasmEdge,"Use Rust to implement Particle Lenia in a way that can be compiled to run on WasmEdge (https://wasmedge.org/book/en/)
 
 Use the guidelines and the type of memory use optimization from a similar Game of Life implementation below.
@@ -5833,4 +5833,4 @@ I'm looking for a single app that can be hosted in a virtual instance with a dom
 Single file upload (audio file) -> Whisper API -> Transcription -> Fed into GP...",MehradYaghmai,5 hours ago,https://replit.com/bounties/@MehradYaghmai/voice-to-notes-summa?t=
 755,$180.00,due in 14 days,Instagram Reply Bot API,"I would like to build bot functionality for my Instagram business account. The solution should allow different responses (input by me - the user) to be posted underneath posts that have specific hashtags.
 
-For example 'if the post contains #love, the bot should post a heart in the comment section'.",TomHumber,2 minutes ago,https://replit.com/bounties/@TomHumber/instagram-reply-bot?t=
+For example 'if the post contains #love, the bot should post a heart in the comment section'.",TomHumber,13 minutes ago,https://replit.com/bounties/@TomHumber/instagram-reply-bot?t=
