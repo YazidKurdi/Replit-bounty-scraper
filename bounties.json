@@ -7496,7 +7496,7 @@
         "title": "Scrape Credit Union Filings",
         "description": "I would like to scrape the latest call reports for credit unions on the NCUA website (https://mapping.ncua.gov/ResearchCreditUnion) and OCR certain data points from the call report itself.\n\nThis requires looking up 4,813 different credit unions based on their charter number and downloading the latest call report for each one on the next page.\n\nOnce the PDF is downloaded, I would need the data for following fields extracted:\nthe Federal Charter/Certificate Number\nRL0018\nRL0021\nRL0024\nRL0027\nRL0019\nRL0022\nRL0025\nRL0028\nRL0030\nRL0020\nRL0023\nRL0026\nRL0029\nRL0031\n\nAcceptance Criteria\nExperience with web crawling and web scraping\nExperience with OCR / data extraction from PDFs",
         "author": "DinoBecirovic",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@DinoBecirovic/scrape-credit-union?t="
     },
     {
@@ -7526,7 +7526,7 @@
         "title": "Rust implementation for Particle Lenia for WasmEdge",
         "description": "Use Rust to implement Particle Lenia in a way that can be compiled to run on WasmEdge (https://wasmedge.org/book/en/)\n\nUse the guidelines and the type of memory use optimization from a similar Game of Life implementation below.\n\nSubmit a compiled .wasm binary together with the codebase, and briefly talk about steps you took to make the implementation energy-efficient.\n\nNeeds to be visualized using CanvasRenderingContext2D:\nhttps://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D\n\nCode to implement:\n\nhttps://google-research.github.io/self-organising-systems/particle-lenia/\nhttps://colab.research.google.com/drive/14nw3aK5aOMH_brKYdRsXHKt0OgK1RteK?usp=sharing\n\nAcceptance Criteria\nCompiles, and has tests.\n\nAppendix - Game of Life example\nuse std::thread;\nuse std::time::Duration;\n\nconst ROWS: usize = 30;\nconst COLS: usize = 60;\n\nfn main() {\n    let mut current_generation = vec![vec![false; COLS]; ROWS];\n    let mut next_generation = vec![vec![false; COLS...",
         "author": "bmorphism",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@bmorphism/rust-implementation?t="
     },
     {
@@ -7538,5 +7538,15 @@
         "author": "nickdumitru",
         "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@nickdumitru/github-workflow-yml?t="
+    },
+    {
+        "index": "754",
+        "price": "$495.00",
+        "due_days": "due in 12 days",
+        "title": "Voice to Notes Summary AI App",
+        "description": "I'm looking for help developing a single-purpose app for my own note-taking synthesis. The workflow I currently do is broken apart, using Descript to transcribe my voice memos and later feeding the transcription into ChatGPT with my custom prompt for organizing my notes with specific markdown styles.\nI'm looking for a single app that can be hosted in a virtual instance with a domain (potential future evolution to a  paywall and make it a product with the original repl.it bounty developer if there is broader interest), but basically looking to have a simple upload function to upload audio files which will then be transcribed (possibly using Whisper from OpenAI) then the output is fed into GPT with prompt style choice options of how to organize the notes (with the possibility to customize the output format if needed). Can be creative with front-end as long as it's user-friendly, happy to provide example/input.\nSingle file upload (audio file) -> Whisper API -> Transcription -> Fed into GP...",
+        "author": "MehradYaghmai",
+        "posted_time": "17 minutes ago",
+        "link": "https://replit.com/bounties/@MehradYaghmai/voice-to-notes-summa?t="
     }
 ]
