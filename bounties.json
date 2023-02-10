@@ -7536,7 +7536,7 @@
         "title": "Github Workflow YML File To Minify CSS, HTML and JS Before Uploading to Firebase Hosting",
         "description": "I have unminified files for a static website. I need to minify them before they get deployed to Firebase Hosting. But I need to keep the original files in github as is so we can edit them easily.\nAcceptance Criteria\nA file that works when we test the deployment and doesn't break the JS or site.\nTechnical Details\nYML file for Github Hosting\n\nLink to Project",
         "author": "nickdumitru",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@nickdumitru/github-workflow-yml?t="
     },
     {
@@ -7546,7 +7546,7 @@
         "title": "Voice to Notes Summary AI App",
         "description": "I'm looking for help developing a single-purpose app for my own note-taking synthesis. The workflow I currently do is broken apart, using Descript to transcribe my voice memos and later feeding the transcription into ChatGPT with my custom prompt for organizing my notes with specific markdown styles.\nI'm looking for a single app that can be hosted in a virtual instance with a domain (potential future evolution to a  paywall and make it a product with the original repl.it bounty developer if there is broader interest), but basically looking to have a simple upload function to upload audio files which will then be transcribed (possibly using Whisper from OpenAI) then the output is fed into GPT with prompt style choice options of how to organize the notes (with the possibility to customize the output format if needed). Can be creative with front-end as long as it's user-friendly, happy to provide example/input.\nSingle file upload (audio file) -> Whisper API -> Transcription -> Fed into GP...",
         "author": "MehradYaghmai",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@MehradYaghmai/voice-to-notes-summa?t="
     },
     {
@@ -7586,7 +7586,7 @@
         "title": "Deploy AI Beatsaber Website",
         "description": "Deploy this python script: https://github.com/duckfromdiscord/BeatMapSynthesizer-x/tree/fix at an endpoint running on AWS or GCP. There should be a website that looks kind of like this: https://beatsage.com/ through which people can link a youtube video. On the backend, it can download the audio using youtube-dl, and automatically set the song name and song thumbnail correctly. Then, the final zip file should download to the users computer, kind of like how https://bsmapper.com works. Note that the original repo is at https://github.com/wvsharber/BeatMapSynthesizer .\n\nAcceptance Criteria\nI will strongly prefer people who provide a clear outline of how they would build it (i.e. some of the tools or algorithms they'd use). I will also strongly prefer people who link Githubs or resumes with past work.",
         "author": "AJGupta",
-        "posted_time": "27 minutes ago",
+        "posted_time": "43 minutes ago",
         "link": "https://replit.com/bounties/@AJGupta/deploy-ai-beatsaber?t="
     },
     {
@@ -7596,7 +7596,7 @@
         "title": "React Native mobile app that embeds a website",
         "description": "Make me an app in React Native that embeds my game Spice Escape.\n\nIt has to show an offline screen when the user is offline and use the fonts and colors from my game.\n\nAcceptamce cretera\nYou know React Native\nYou can compile the apps for iOS and Android\nYou have to be Bddy or DillonB07\nGive me your SID",
         "author": "LuisAFK",
-        "posted_time": "16 minutes ago",
+        "posted_time": "32 minutes ago",
         "link": "https://replit.com/bounties/@LuisAFK/react-native-mobile?t="
     },
     {
@@ -7606,7 +7606,7 @@
         "title": "Make a Auto Chess bot",
         "description": "I want to make chess.com improve their anti cheat, so for this I will want you to utilize python webbot, greasyfork and tampermonkey's ACAS to create a new account ( as beginner ), and automatically play and move to the grey squares after selecting it in the ACAS menu to have the transparency shown.\nAcceptance Criteria\nAbout 2-3 years of python\nKnow how to use the following Python v3.8.12 modules:\nos\ntime\nurlib3 ( requests )\nselenium ( 3.141.0 )\nwebbot - demo\npathlib ( Path )\nTechnical Details\npython v3.8.12\nTampermonkey /w Greasyfork user's ACAS script\nrandom account info generator ( don't need to verify email, but chess.com doesn't require the big three ( limited to google, Microsoft, or yahoo )\nuse path from pathlib to append a file named accs.txt with the bot account information in a style of the following:\nUsername: AlphanumericalName{i}\nEmail: AltifyBot{i}@{randmail}\nPassword: !NewPassForAltify#{i}\nTTC: {stime - ftime}\nVariable Info:\ni is from the loop of crea...",
         "author": "Altify-Developm",
-        "posted_time": "3 minutes ago",
+        "posted_time": "19 minutes ago",
         "link": "https://replit.com/bounties/@Altify-Developm/make-a-auto-chess-bo?t="
     }
 ]
