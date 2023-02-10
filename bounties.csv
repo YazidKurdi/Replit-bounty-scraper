@@ -5847,7 +5847,7 @@ One 'meta' (key) section with values containing all fields under the '' tag. For
 One 'header' (key)  section with values containing all text under the '' tag
 One 'judgmentBody' (key) section with the following structure:
 Headings (denoted by the '' tag and sometime by the 'class=""ParaHeading""')
------> Subheadings (denoted by the '' tag and in different bo...",kushmadlani,7 hours ago,https://replit.com/bounties/@kushmadlani/custom-xml-parser-in?t=
+-----> Subheadings (denoted by the '' tag and in different bo...",kushmadlani,8 hours ago,https://replit.com/bounties/@kushmadlani/custom-xml-parser-in?t=
 757,$162.00,due in 7 days,Instagram <> Stability Diffusion Webapp,"I want a very simple webapp, where a person:
 
 1) can paste a link to their instagram
@@ -5896,7 +5896,7 @@ Email: AltifyBot{i}@{randmail}
 Password: !NewPassForAltify#{i}
 TTC: {stime - ftime}
 Variable Info:
-i is from the loop of crea...",Altify-Developm,1 hour ago,https://replit.com/bounties/@Altify-Developm/make-a-auto-chess-bo?t=
+i is from the loop of crea...",Altify-Developm,2 hours ago,https://replit.com/bounties/@Altify-Developm/make-a-auto-chess-bo?t=
 761,$99.00,due in 7 days,Technological Architecture for MVP,"Currently, we are finalizing the technical architecture and stack of our MVP. The userflow has been developed in detail, and we are looking for an experienced developer to create a top level architecture diagram (50,000ft view, plus detailed in some places, 50ft view). We would use the architecture as the basis to define different phases of development. We would like to work with someone starting with this part for a longer period of time.
 
 Acceptance Criteria
@@ -5907,4 +5907,13 @@ Full stack developer with
 
 2) Previous experience developing a product with an orderbook mechanism
 
-3) Previous experience in creating top level and detailed technological architecture",HoneyBadgerEth,58 minutes ago,https://replit.com/bounties/@HoneyBadgerEth/technological-archit?t=
+3) Previous experience in creating top level and detailed technological architecture",HoneyBadgerEth,1 hour ago,https://replit.com/bounties/@HoneyBadgerEth/technological-archit?t=
+762,$450.00,due in 5 days,Use OpenAI models to convert generic jupyter notebook to kubeflow pipeline,"Given some DS/ML python code in a jupyter notebook, convert it to a kubeflow pipeline that can be deployed using calls to OpenAI APIs.
+
+Acceptance Criteria
+Basic python implementation which works on simple cases such as basic data transformation or training sklearn models. Show that the generated kubeflow pipeline actually runs. Does not have to work well consistently, but should have clear path to improvement and extension.
+
+Technical Details
+Clean, well documented code with indications how it could be extended to
+similar use cases
+improve performance",KevinSchawinsk1,12 minutes ago,https://replit.com/bounties/@KevinSchawinsk1/use-openai-models-to?t=
