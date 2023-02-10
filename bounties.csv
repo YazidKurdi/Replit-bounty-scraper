@@ -5793,7 +5793,7 @@ fn signvc(vc: &str, privatekey: &str) -> String {
     signed_vc
 }
 
-...",bmorphism,9 hours ago,https://replit.com/bounties/@bmorphism/rust-code-to-turn-oa?t=
+...",bmorphism,10 hours ago,https://replit.com/bounties/@bmorphism/rust-code-to-turn-oa?t=
 752,$31.11,due in 4 days,Rust implementation for Particle Lenia for WasmEdge,"Use Rust to implement Particle Lenia in a way that can be compiled to run on WasmEdge (https://wasmedge.org/book/en/)
 
 Use the guidelines and the type of memory use optimization from a similar Game of Life implementation below.
@@ -5847,4 +5847,4 @@ One 'meta' (key) section with values containing all fields under the '' tag. For
 One 'header' (key)  section with values containing all text under the '' tag
 One 'judgmentBody' (key) section with the following structure:
 Headings (denoted by the '' tag and sometime by the 'class=""ParaHeading""')
------> Subheadings (denoted by the '' tag and in different bo...",kushmadlani,2 hours ago,https://replit.com/bounties/@kushmadlani/custom-xml-parser-in?t=
+-----> Subheadings (denoted by the '' tag and in different bo...",kushmadlani,3 hours ago,https://replit.com/bounties/@kushmadlani/custom-xml-parser-in?t=
