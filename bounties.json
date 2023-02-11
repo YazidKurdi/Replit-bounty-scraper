@@ -7696,7 +7696,7 @@
         "title": "Simplify a python script that currently receives a YT link and extracts audio to receive an audio input.",
         "description": "There's a working script that receives a youtube link as input, extracts audio file, transcribes and diarizes it. I'd like you to simplify the script and receive the audio file as input instead of the youtube link.\n\nAcceptance Criteria\nMust work with a sample audio link as an input.\n\nTechnical Details\nIn the end, the input should be audiourlinstead of youtubeurl. Please remove any unused function (like the youtube stuff).\n\nLink to Project\nhttps://github.com/lucataco/serverless-template-whisper-speaker-diarization-largev2/blob/e0479e50fe6eaea0d56c158e6d92364e9d99ea2b/app.py#L53",
         "author": "gporto",
-        "posted_time": "42 minutes ago",
+        "posted_time": "52 minutes ago",
         "link": "https://replit.com/bounties/@gporto/simplify-a-python-sc?t="
     },
     {
@@ -7706,7 +7706,7 @@
         "title": "Error on search (Wordpress Site)",
         "description": "The search form is not working properly (https://staging2.legismusic.com/blog/) sometimes when I search for a query (for example 'facebook') it shows an error.\n\nThe Avada team (our Wordpress theme) told me is an issue with Polylang and they told me to deactivate the plugin or just change some options, but I cannot do any of those things: polylang is essential to our site and its configured the way it should be. So I want to know if there's a way to fix this.\n\nRelated to that, the search results -when they work- show results in the 3 languages, instead of the one that is being searched only.\n\nAcceptance Criteria\n\nWe would be happy if the bug is fixed :)\nThis page is our staging site (https://staging2.legismusic.com/) but the real one is https://legismusic.com/",
         "author": "pablolon",
-        "posted_time": "5 minutes ago",
+        "posted_time": "15 minutes ago",
         "link": "https://replit.com/bounties/@pablolon/error-on-search-word?t="
     }
 ]
