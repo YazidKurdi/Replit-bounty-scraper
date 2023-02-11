@@ -7636,7 +7636,7 @@
         "title": "Pipeline that summarizes longform conversations in preparation for creating LinkedIn posts",
         "description": "I\u2019m an independent consultant who conducts live workshop pilots with other independent consultants, at least once per week. We use this time which we call a \u201cwriters workshop\u201c to test and improve our ideas that we would like to share with clients in the broader public. Our conversations are recorded via Google meet, which generates a transcript in a Google dock, the conversations are about two hours long and there are tens of thousands of words in the transcripts\n\nI would like to be able to copy and paste the transcript into a text box and have a pipe line use the open AIGPT3 API endpoint to generate output that can help me craft a 500 word or less LinkedIn post that captures the best parts of the conversation and packages them into some thing I can publish.\n\nHere\u2019s what I would like to get from the analysis:\n\na list of bullet points of the most interesting, insightful and novel, takeaways from the conversation, along with quotes from the transcript that go along w...",
         "author": "ChristianUlstru",
-        "posted_time": "21 hours ago",
+        "posted_time": "22 hours ago",
         "link": "https://replit.com/bounties/@ChristianUlstru/pipeline-that-summar?t="
     },
     {
@@ -7676,7 +7676,7 @@
         "title": "Leverage ImutableX SDK to automate NFT purchasing / selling",
         "description": "I'd like automated code (node.js for example) that leverages the ImmuatbleX SDK: https://docs.x.immutable.com/docs/sdks/#core--wallet-sdk\nto retrieve the price of an NFT, places an order to purchase that token utilizing a metamask  wallet, and then lists an order to sell the token.\n\nAcceptance Criteria\nGiven a specific Gods Unchained NFT - I should be able to run the code so that the lowest available purchase price of the NFT is taken via Ethereum from a provided metamask wallet, then the purchased token is listed for sale via Gods tokens at a 5% increase from the purchase price.",
         "author": "AustinHayes2",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@AustinHayes2/leverage-imutablex-s?t="
     },
     {
