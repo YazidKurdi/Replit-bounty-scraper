@@ -7636,7 +7636,7 @@
         "title": "Pipeline that summarizes longform conversations in preparation for creating LinkedIn posts",
         "description": "I\u2019m an independent consultant who conducts live workshop pilots with other independent consultants, at least once per week. We use this time which we call a \u201cwriters workshop\u201c to test and improve our ideas that we would like to share with clients in the broader public. Our conversations are recorded via Google meet, which generates a transcript in a Google dock, the conversations are about two hours long and there are tens of thousands of words in the transcripts\n\nI would like to be able to copy and paste the transcript into a text box and have a pipe line use the open AIGPT3 API endpoint to generate output that can help me craft a 500 word or less LinkedIn post that captures the best parts of the conversation and packages them into some thing I can publish.\n\nHere\u2019s what I would like to get from the analysis:\n\na list of bullet points of the most interesting, insightful and novel, takeaways from the conversation, along with quotes from the transcript that go along w...",
         "author": "ChristianUlstru",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@ChristianUlstru/pipeline-that-summar?t="
     },
     {
