@@ -5973,7 +5973,7 @@ Option 3: Tell me when I'm facing North for the nex...",Bandos1000,17 hours ago,
 766,$2.25,due in 3 days,Verification email,"I need to have a verification email be sent to someone whenever they sign-up for the first time.
 
 Must be in HTML, CSS, JS, preferably not Node.JS but if you have to you can.
-Verification code (number) or link is fine, preferably code though.",MakayaHall,11 hours ago,https://replit.com/bounties/@MakayaHall/verification-email?t=
+Verification code (number) or link is fine, preferably code though.",MakayaHall,12 hours ago,https://replit.com/bounties/@MakayaHall/verification-email?t=
 767,$90.00,due in 13 days,Leverage ImutableX SDK to automate NFT purchasing / selling,"I'd like automated code (node.js for example) that leverages the ImmuatbleX SDK: https://docs.x.immutable.com/docs/sdks/#core--wallet-sdk
 to retrieve the price of an NFT, places an order to purchase that token utilizing a metamask  wallet, and then lists an order to sell the token.
 
@@ -5986,4 +5986,14 @@ Acceptance Criteria
 Python code which can deliver output that replicates  Yardeni's Tables 1 and 2 will be acceptable, so long as it is based on a method to identify bull market peaks and bear market troughs in a manner that could be applied to other stock market indexes.
 
 Technical Details
-The program should output Bull Market and Bear Market summary tables of the type found on economist Ed Yardeni's website at: https://www.yardeni.com/pub/sp500corrbeartables.pdf...",GenuineSkill,16 minutes ago,https://replit.com/bounties/@GenuineSkill/identify-bull-and-be?t=
+The program should output Bull Market and Bear Market summary tables of the type found on economist Ed Yardeni's website at: https://www.yardeni.com/pub/sp500corrbeartables.pdf...",GenuineSkill,33 minutes ago,https://replit.com/bounties/@GenuineSkill/identify-bull-and-be?t=
+769,$4.50,due in 3 days,Simplify a python script that currently receives a YT link and extracts audio to receive an audio input.,"There's a working script that receives a youtube link as input, extracts audio file, transcribes and diarizes it. I'd like you to simplify the script and receive the audio file as input instead of the youtube link.
+
+Acceptance Criteria
+Must work with a sample audio link as an input.
+
+Technical Details
+In the end, the input should be audiourlinstead of youtubeurl. Please remove any unused function (like the youtube stuff).
+
+Link to Project
+https://github.com/lucataco/serverless-template-whisper-speaker-diarization-largev2/blob/e0479e50fe6eaea0d56c158e6d92364e9d99ea2b/app.py#L53",gporto,8 minutes ago,https://replit.com/bounties/@gporto/simplify-a-python-sc?t=
