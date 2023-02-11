@@ -5896,7 +5896,7 @@ Email: AltifyBot{i}@{randmail}
 Password: !NewPassForAltify#{i}
 TTC: {stime - ftime}
 Variable Info:
-i is from the loop of crea...",Altify-Developm,20 hours ago,https://replit.com/bounties/@Altify-Developm/make-a-auto-chess-bo?t=
+i is from the loop of crea...",Altify-Developm,21 hours ago,https://replit.com/bounties/@Altify-Developm/make-a-auto-chess-bo?t=
 761,$99.00,due in 6 days,Technological Architecture for MVP,"Currently, we are finalizing the technical architecture and stack of our MVP. The userflow has been developed in detail, and we are looking for an experienced developer to create a top level architecture diagram (50,000ft view, plus detailed in some places, 50ft view). We would use the architecture as the basis to define different phases of development. We would like to work with someone starting with this part for a longer period of time.
 
 Acceptance Criteria
@@ -5950,7 +5950,7 @@ It should be able to handle 100 concurrent sessions.
 
 Timelines / Milestones:
 
-v1 - Basic functionality (Addi...",Bandos1000,10 hours ago,https://replit.com/bounties/@Bandos1000/point-calculator-web?t=
+v1 - Basic functionality (Addi...",Bandos1000,11 hours ago,https://replit.com/bounties/@Bandos1000/point-calculator-web?t=
 765,$18.00,due in 24 days,Apple Watch App ⌚️,"Looking for some UI and functionality updates for a WatchOS application.
 Currently functional here.
 Repl: https://replit.com/@Bandos1000/FaceNorthWatchOS#CompassHeading.swift
@@ -5969,7 +5969,7 @@ As such, the user journey looks like this:
 User opens app. Each time they open, they are presented with simple options screen: (Screen1)
 Option 1: Train me to 'feel' North (Always on)
 Option 2: Tell me when I'm facing North for the next 4 hours.
-Option 3: Tell me when I'm facing North for the nex...",Bandos1000,10 hours ago,https://replit.com/bounties/@Bandos1000/apple-watch-app?t=
+Option 3: Tell me when I'm facing North for the nex...",Bandos1000,11 hours ago,https://replit.com/bounties/@Bandos1000/apple-watch-app?t=
 766,$2.25,due in 3 days,Verification email,"I need to have a verification email be sent to someone whenever they sign-up for the first time.
 
 Must be in HTML, CSS, JS, preferably not Node.JS but if you have to you can.
