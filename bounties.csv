@@ -5974,3 +5974,8 @@ Option 3: Tell me when I'm facing North for the nex...",Bandos1000,16 hours ago,
 
 Must be in HTML, CSS, JS, preferably not Node.JS but if you have to you can.
 Verification code (number) or link is fine, preferably code though.",MakayaHall,10 hours ago,https://replit.com/bounties/@MakayaHall/verification-email?t=
+767,$90.00,due in 13 days,Leverage ImutableX SDK to automate NFT purchasing / selling,"I'd like automated code (node.js for example) that leverages the ImmuatbleX SDK: https://docs.x.immutable.com/docs/sdks/#core--wallet-sdk
+to retrieve the price of an NFT, places an order to purchase that token utilizing a metamask  wallet, and then lists an order to sell the token.
+
+Acceptance Criteria
+Given a specific Gods Unchained NFT - I should be able to run the code so that the lowest available purchase price of the NFT is taken via Ethereum from a provided metamask wallet, then the purchased token is listed for sale via Gods tokens at a 5% increase from the purchase price.",AustinHayes2,3 minutes ago,https://replit.com/bounties/@AustinHayes2/leverage-imutablex-s?t=
