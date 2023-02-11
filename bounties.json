@@ -7636,7 +7636,7 @@
         "title": "Pipeline that summarizes longform conversations in preparation for creating LinkedIn posts",
         "description": "I\u2019m an independent consultant who conducts live workshop pilots with other independent consultants, at least once per week. We use this time which we call a \u201cwriters workshop\u201c to test and improve our ideas that we would like to share with clients in the broader public. Our conversations are recorded via Google meet, which generates a transcript in a Google dock, the conversations are about two hours long and there are tens of thousands of words in the transcripts\n\nI would like to be able to copy and paste the transcript into a text box and have a pipe line use the open AIGPT3 API endpoint to generate output that can help me craft a 500 word or less LinkedIn post that captures the best parts of the conversation and packages them into some thing I can publish.\n\nHere\u2019s what I would like to get from the analysis:\n\na list of bullet points of the most interesting, insightful and novel, takeaways from the conversation, along with quotes from the transcript that go along w...",
         "author": "ChristianUlstru",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@ChristianUlstru/pipeline-that-summar?t="
     },
     {
@@ -7676,7 +7676,7 @@
         "title": "Leverage ImutableX SDK to automate NFT purchasing / selling",
         "description": "I'd like automated code (node.js for example) that leverages the ImmuatbleX SDK: https://docs.x.immutable.com/docs/sdks/#core--wallet-sdk\nto retrieve the price of an NFT, places an order to purchase that token utilizing a metamask  wallet, and then lists an order to sell the token.\n\nAcceptance Criteria\nGiven a specific Gods Unchained NFT - I should be able to run the code so that the lowest available purchase price of the NFT is taken via Ethereum from a provided metamask wallet, then the purchased token is listed for sale via Gods tokens at a 5% increase from the purchase price.",
         "author": "AustinHayes2",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@AustinHayes2/leverage-imutablex-s?t="
     },
     {
@@ -7686,7 +7686,7 @@
         "title": "Identify Bull and Bear Markets",
         "description": "I would like a Python program which takes historical daily stock index data (example, the S&P 500 daily closing price) and identifies bull market peak dates, trough dates, peak values, trough values, percent loss (for bear markets), percent gains (for bull markets), and number of days of bull and bear market duration.  See the link below to economist Ed Yardeni's data on bull and bear markets for the S&P 500 for an indication of desired output that could be applied to other stock market indexes as well.\n\nAcceptance Criteria\n\nPython code which can deliver output that replicates  Yardeni's Tables 1 and 2 will be acceptable, so long as it is based on a method to identify bull market peaks and bear market troughs in a manner that could be applied to other stock market indexes.\n\nTechnical Details\nThe program should output Bull Market and Bear Market summary tables of the type found on economist Ed Yardeni's website at: https://www.yardeni.com/pub/sp500corrbeartables.pdf...",
         "author": "GenuineSkill",
-        "posted_time": "33 minutes ago",
+        "posted_time": "48 minutes ago",
         "link": "https://replit.com/bounties/@GenuineSkill/identify-bull-and-be?t="
     },
     {
@@ -7696,7 +7696,7 @@
         "title": "Simplify a python script that currently receives a YT link and extracts audio to receive an audio input.",
         "description": "There's a working script that receives a youtube link as input, extracts audio file, transcribes and diarizes it. I'd like you to simplify the script and receive the audio file as input instead of the youtube link.\n\nAcceptance Criteria\nMust work with a sample audio link as an input.\n\nTechnical Details\nIn the end, the input should be audiourlinstead of youtubeurl. Please remove any unused function (like the youtube stuff).\n\nLink to Project\nhttps://github.com/lucataco/serverless-template-whisper-speaker-diarization-largev2/blob/e0479e50fe6eaea0d56c158e6d92364e9d99ea2b/app.py#L53",
         "author": "gporto",
-        "posted_time": "8 minutes ago",
+        "posted_time": "23 minutes ago",
         "link": "https://replit.com/bounties/@gporto/simplify-a-python-sc?t="
     }
 ]

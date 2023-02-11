@@ -5923,7 +5923,7 @@ I would like to be able to copy and paste the transcript into a text box and hav
 
 Here’s what I would like to get from the analysis:
 
-a list of bullet points of the most interesting, insightful and novel, takeaways from the conversation, along with quotes from the transcript that go along w...",ChristianUlstru,19 hours ago,https://replit.com/bounties/@ChristianUlstru/pipeline-that-summar?t=
+a list of bullet points of the most interesting, insightful and novel, takeaways from the conversation, along with quotes from the transcript that go along w...",ChristianUlstru,20 hours ago,https://replit.com/bounties/@ChristianUlstru/pipeline-that-summar?t=
 764,$100.01,due in 16 days,Point Calculator Website 🧮,"Looking for someone to create a tool for pointing stories/epics for Agile ceremonies.
 This will be hosted on the website pointing.charity
 
@@ -5978,7 +5978,7 @@ Verification code (number) or link is fine, preferably code though.",MakayaHall,
 to retrieve the price of an NFT, places an order to purchase that token utilizing a metamask  wallet, and then lists an order to sell the token.
 
 Acceptance Criteria
-Given a specific Gods Unchained NFT - I should be able to run the code so that the lowest available purchase price of the NFT is taken via Ethereum from a provided metamask wallet, then the purchased token is listed for sale via Gods tokens at a 5% increase from the purchase price.",AustinHayes2,1 hour ago,https://replit.com/bounties/@AustinHayes2/leverage-imutablex-s?t=
+Given a specific Gods Unchained NFT - I should be able to run the code so that the lowest available purchase price of the NFT is taken via Ethereum from a provided metamask wallet, then the purchased token is listed for sale via Gods tokens at a 5% increase from the purchase price.",AustinHayes2,2 hours ago,https://replit.com/bounties/@AustinHayes2/leverage-imutablex-s?t=
 768,$90.00,due in 3 days,Identify Bull and Bear Markets,"I would like a Python program which takes historical daily stock index data (example, the S&P 500 daily closing price) and identifies bull market peak dates, trough dates, peak values, trough values, percent loss (for bear markets), percent gains (for bull markets), and number of days of bull and bear market duration.  See the link below to economist Ed Yardeni's data on bull and bear markets for the S&P 500 for an indication of desired output that could be applied to other stock market indexes as well.
 
 Acceptance Criteria
@@ -5986,7 +5986,7 @@ Acceptance Criteria
 Python code which can deliver output that replicates  Yardeni's Tables 1 and 2 will be acceptable, so long as it is based on a method to identify bull market peaks and bear market troughs in a manner that could be applied to other stock market indexes.
 
 Technical Details
-The program should output Bull Market and Bear Market summary tables of the type found on economist Ed Yardeni's website at: https://www.yardeni.com/pub/sp500corrbeartables.pdf...",GenuineSkill,33 minutes ago,https://replit.com/bounties/@GenuineSkill/identify-bull-and-be?t=
+The program should output Bull Market and Bear Market summary tables of the type found on economist Ed Yardeni's website at: https://www.yardeni.com/pub/sp500corrbeartables.pdf...",GenuineSkill,48 minutes ago,https://replit.com/bounties/@GenuineSkill/identify-bull-and-be?t=
 769,$4.50,due in 3 days,Simplify a python script that currently receives a YT link and extracts audio to receive an audio input.,"There's a working script that receives a youtube link as input, extracts audio file, transcribes and diarizes it. I'd like you to simplify the script and receive the audio file as input instead of the youtube link.
 
 Acceptance Criteria
@@ -5996,4 +5996,4 @@ Technical Details
 In the end, the input should be audiourlinstead of youtubeurl. Please remove any unused function (like the youtube stuff).
 
 Link to Project
-https://github.com/lucataco/serverless-template-whisper-speaker-diarization-largev2/blob/e0479e50fe6eaea0d56c158e6d92364e9d99ea2b/app.py#L53",gporto,8 minutes ago,https://replit.com/bounties/@gporto/simplify-a-python-sc?t=
+https://github.com/lucataco/serverless-template-whisper-speaker-diarization-largev2/blob/e0479e50fe6eaea0d56c158e6d92364e9d99ea2b/app.py#L53",gporto,23 minutes ago,https://replit.com/bounties/@gporto/simplify-a-python-sc?t=
