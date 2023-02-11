@@ -7606,7 +7606,7 @@
         "title": "Make a Auto Chess bot",
         "description": "I want to make chess.com improve their anti cheat, so for this I will want you to utilize python webbot, greasyfork and tampermonkey's ACAS to create a new account ( as beginner ), and automatically play and move to the grey squares after selecting it in the ACAS menu to have the transparency shown.\nAcceptance Criteria\nAbout 2-3 years of python\nKnow how to use the following Python v3.8.12 modules:\nos\ntime\nurlib3 ( requests )\nselenium ( 3.141.0 )\nwebbot - demo\npathlib ( Path )\nTechnical Details\npython v3.8.12\nTampermonkey /w Greasyfork user's ACAS script\nrandom account info generator ( don't need to verify email, but chess.com doesn't require the big three ( limited to google, Microsoft, or yahoo )\nuse path from pathlib to append a file named accs.txt with the bot account information in a style of the following:\nUsername: AlphanumericalName{i}\nEmail: AltifyBot{i}@{randmail}\nPassword: !NewPassForAltify#{i}\nTTC: {stime - ftime}\nVariable Info:\ni is from the loop of crea...",
         "author": "Altify-Developm",
-        "posted_time": "24 hours ago",
+        "posted_time": "1 day ago",
         "link": "https://replit.com/bounties/@Altify-Developm/make-a-auto-chess-bo?t="
     },
     {
@@ -7616,7 +7616,7 @@
         "title": "Technological Architecture for MVP",
         "description": "Currently, we are finalizing the technical architecture and stack of our MVP. The userflow has been developed in detail, and we are looking for an experienced developer to create a top level architecture diagram (50,000ft view, plus detailed in some places, 50ft view). We would use the architecture as the basis to define different phases of development. We would like to work with someone starting with this part for a longer period of time.\n\nAcceptance Criteria\n\nFull stack developer with\n\n1) Previous experience in marketplace development\n\n2) Previous experience developing a product with an orderbook mechanism\n\n3) Previous experience in creating top level and detailed technological architecture",
         "author": "HoneyBadgerEth",
-        "posted_time": "23 hours ago",
+        "posted_time": "24 hours ago",
         "link": "https://replit.com/bounties/@HoneyBadgerEth/technological-archit?t="
     },
     {
@@ -7626,7 +7626,7 @@
         "title": "Use OpenAI models to convert generic jupyter notebook to kubeflow pipeline",
         "description": "Given some DS/ML python code in a jupyter notebook, convert it to a kubeflow pipeline that can be deployed using calls to OpenAI APIs.\n\nAcceptance Criteria\nBasic python implementation which works on simple cases such as basic data transformation or training sklearn models. Show that the generated kubeflow pipeline actually runs. Does not have to work well consistently, but should have clear path to improvement and extension.\n\nTechnical Details\nClean, well documented code with indications how it could be extended to\nsimilar use cases\nimprove performance",
         "author": "KevinSchawinsk1",
-        "posted_time": "22 hours ago",
+        "posted_time": "23 hours ago",
         "link": "https://replit.com/bounties/@KevinSchawinsk1/use-openai-models-to?t="
     },
     {
@@ -7666,7 +7666,7 @@
         "title": "Verification email",
         "description": "I need to have a verification email be sent to someone whenever they sign-up for the first time.\n\nMust be in HTML, CSS, JS, preferably not Node.JS but if you have to you can.\nVerification code (number) or link is fine, preferably code though.",
         "author": "MakayaHall",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@MakayaHall/verification-email?t="
     }
 ]
