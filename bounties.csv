@@ -5862,7 +5862,7 @@ Ideally built using PHP/javascript, or react.
 Working prototype built, rendering the images. Similar to https://www.thismodeldoesnotexist.co/.
 
 Next Steps
-Ideally I work with the developer to build this concept out further.",littlegoatcoding,18 hours ago,https://replit.com/bounties/@littlegoatcoding/instagram-lessgreate?t=
+Ideally I work with the developer to build this concept out further.",littlegoatcoding,19 hours ago,https://replit.com/bounties/@littlegoatcoding/instagram-lessgreate?t=
 758,$184.50,due in 9 days,Deploy AI Beatsaber Website,"Deploy this python script: https://github.com/duckfromdiscord/BeatMapSynthesizer-x/tree/fix at an endpoint running on AWS or GCP. There should be a website that looks kind of like this: https://beatsage.com/ through which people can link a youtube video. On the backend, it can download the audio using youtube-dl, and automatically set the song name and song thumbnail correctly. Then, the final zip file should download to the users computer, kind of like how https://bsmapper.com works. Note that the original repo is at https://github.com/wvsharber/BeatMapSynthesizer .
 
 Acceptance Criteria
@@ -5875,7 +5875,7 @@ Acceptamce cretera
 You know React Native
 You can compile the apps for iOS and Android
 You have to be Bddy or DillonB07
-Give me your SID",LuisAFK,16 hours ago,https://replit.com/bounties/@LuisAFK/react-native-mobile?t=
+Give me your SID",LuisAFK,17 hours ago,https://replit.com/bounties/@LuisAFK/react-native-mobile?t=
 760,$4.99,due in 5 months,Make a Auto Chess bot,"I want to make chess.com improve their anti cheat, so for this I will want you to utilize python webbot, greasyfork and tampermonkey's ACAS to create a new account ( as beginner ), and automatically play and move to the grey squares after selecting it in the ACAS menu to have the transparency shown.
 Acceptance Criteria
 About 2-3 years of python
@@ -5973,4 +5973,4 @@ Option 3: Tell me when I'm facing North for the nex...",Bandos1000,6 hours ago,h
 766,$2.25,due in 4 days,Verification email,"I need to have a verification email be sent to someone whenever they sign-up for the first time.
 
 Must be in HTML, CSS, JS, preferably not Node.JS but if you have to you can.
-Verification code (number) or link is fine, preferably code though.",MakayaHall,49 minutes ago,https://replit.com/bounties/@MakayaHall/verification-email?t=
+Verification code (number) or link is fine, preferably code though.",MakayaHall,1 hour ago,https://replit.com/bounties/@MakayaHall/verification-email?t=
