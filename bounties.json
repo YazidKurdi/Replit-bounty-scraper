@@ -7586,7 +7586,7 @@
         "title": "Deploy AI Beatsaber Website",
         "description": "Deploy this python script: https://github.com/duckfromdiscord/BeatMapSynthesizer-x/tree/fix at an endpoint running on AWS or GCP. There should be a website that looks kind of like this: https://beatsage.com/ through which people can link a youtube video. On the backend, it can download the audio using youtube-dl, and automatically set the song name and song thumbnail correctly. Then, the final zip file should download to the users computer, kind of like how https://bsmapper.com works. Note that the original repo is at https://github.com/wvsharber/BeatMapSynthesizer .\n\nAcceptance Criteria\nI will strongly prefer people who provide a clear outline of how they would build it (i.e. some of the tools or algorithms they'd use). I will also strongly prefer people who link Githubs or resumes with past work.",
         "author": "AJGupta",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/deploy-ai-beatsaber?t="
     },
     {
@@ -7616,7 +7616,7 @@
         "title": "Technological Architecture for MVP",
         "description": "Currently, we are finalizing the technical architecture and stack of our MVP. The userflow has been developed in detail, and we are looking for an experienced developer to create a top level architecture diagram (50,000ft view, plus detailed in some places, 50ft view). We would use the architecture as the basis to define different phases of development. We would like to work with someone starting with this part for a longer period of time.\n\nAcceptance Criteria\n\nFull stack developer with\n\n1) Previous experience in marketplace development\n\n2) Previous experience developing a product with an orderbook mechanism\n\n3) Previous experience in creating top level and detailed technological architecture",
         "author": "HoneyBadgerEth",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@HoneyBadgerEth/technological-archit?t="
     },
     {
@@ -7626,7 +7626,7 @@
         "title": "Use OpenAI models to convert generic jupyter notebook to kubeflow pipeline",
         "description": "Given some DS/ML python code in a jupyter notebook, convert it to a kubeflow pipeline that can be deployed using calls to OpenAI APIs.\n\nAcceptance Criteria\nBasic python implementation which works on simple cases such as basic data transformation or training sklearn models. Show that the generated kubeflow pipeline actually runs. Does not have to work well consistently, but should have clear path to improvement and extension.\n\nTechnical Details\nClean, well documented code with indications how it could be extended to\nsimilar use cases\nimprove performance",
         "author": "KevinSchawinsk1",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@KevinSchawinsk1/use-openai-models-to?t="
     },
     {
@@ -7638,5 +7638,25 @@
         "author": "ChristianUlstru",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@ChristianUlstru/pipeline-that-summar?t="
+    },
+    {
+        "index": "764",
+        "price": "$100.01",
+        "due_days": "due in 17 days",
+        "title": "Point Calculator Website \ud83e\uddee",
+        "description": "Looking for someone to create a tool for pointing stories/epics for Agile ceremonies.\nThis will be hosted on the website pointing.charity\n\nI plan to host it in Vercel for fast loading.\nI don't really have a preference for language.\nI'd like the UI to be Bootstrap/Material UI style.\n\nBasic tool functions:\n\nhttps://www.figma.com/file/xrj4oOu0SnFetYJBTuppfi/Points.Charity?node-id=0%3A1&t=aSJ8PwbXfVgviIxa-1\nOutlined here, you can enter prototype mode and test there. Feel free to leave comments with any questions.\n\nAcceptance Criteria\n\nA bootstrap minimal/UI friendly design.\nFunctionality according to the above.\nNo data storage after session has ended\nAbility to export png of session\n\nTechnical Details\n\nI plan to host this in Vercel, I don't really have a preference of language it's written in, but need the code commented and able to be edited by future hunters.\nIt should be able to handle 100 concurrent sessions.\n\nTimelines / Milestones:\n\nv1 - Basic functionality (Addi...",
+        "author": "Bandos1000",
+        "posted_time": "10 minutes ago",
+        "link": "https://replit.com/bounties/@Bandos1000/point-calculator-web?t="
+    },
+    {
+        "index": "765",
+        "price": "$18.00",
+        "due_days": "due in 25 days",
+        "title": "Apple Watch App \u231a\ufe0f",
+        "description": "Looking for some UI and functionality updates for a WatchOS application.\nCurrently functional here.\nRepl: https://replit.com/@Bandos1000/FaceNorthWatchOS#CompassHeading.swift\n\nOriginal bounty here:\nhttps://replit.com/bounties/@Bandos1000/apple-watch-compass?t=details\n\nI am looking for updates to add some functionality after testing. I have Xcode and will be able to test/run this on my developer account after bounty is delivered.\n\nBig picture:\nNeed to make sure Magnometer continues providing data even if watch screen is off. (But not during sleep/theatre mode)\n\nApplication:\nThe goal of this app is to train users over time to be able to 'feel' North without a wrist vibration.\nAs such, the user journey looks like this:\nUser opens app. Each time they open, they are presented with simple options screen: (Screen1)\nOption 1: Train me to 'feel' North (Always on)\nOption 2: Tell me when I'm facing North for the next 4 hours.\nOption 3: Tell me when I'm facing North for the nex...",
+        "author": "Bandos1000",
+        "posted_time": "9 minutes ago",
+        "link": "https://replit.com/bounties/@Bandos1000/apple-watch-app?t="
     }
 ]
