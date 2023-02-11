@@ -5866,7 +5866,7 @@ Ideally I work with the developer to build this concept out further.",littlegoat
 758,$184.50,due in 9 days,Deploy AI Beatsaber Website,"Deploy this python script: https://github.com/duckfromdiscord/BeatMapSynthesizer-x/tree/fix at an endpoint running on AWS or GCP. There should be a website that looks kind of like this: https://beatsage.com/ through which people can link a youtube video. On the backend, it can download the audio using youtube-dl, and automatically set the song name and song thumbnail correctly. Then, the final zip file should download to the users computer, kind of like how https://bsmapper.com works. Note that the original repo is at https://github.com/wvsharber/BeatMapSynthesizer .
 
 Acceptance Criteria
-I will strongly prefer people who provide a clear outline of how they would build it (i.e. some of the tools or algorithms they'd use). I will also strongly prefer people who link Githubs or resumes with past work.",AJGupta,15 hours ago,https://replit.com/bounties/@AJGupta/deploy-ai-beatsaber?t=
+I will strongly prefer people who provide a clear outline of how they would build it (i.e. some of the tools or algorithms they'd use). I will also strongly prefer people who link Githubs or resumes with past work.",AJGupta,16 hours ago,https://replit.com/bounties/@AJGupta/deploy-ai-beatsaber?t=
 759,$5.00,closed,React Native mobile app that embeds a website,"Make me an app in React Native that embeds my game Spice Escape.
 
 It has to show an offline screen when the user is offline and use the fonts and colors from my game.
@@ -5875,7 +5875,7 @@ Acceptamce cretera
 You know React Native
 You can compile the apps for iOS and Android
 You have to be Bddy or DillonB07
-Give me your SID",LuisAFK,15 hours ago,https://replit.com/bounties/@LuisAFK/react-native-mobile?t=
+Give me your SID",LuisAFK,16 hours ago,https://replit.com/bounties/@LuisAFK/react-native-mobile?t=
 760,$4.99,due in 5 months,Make a Auto Chess bot,"I want to make chess.com improve their anti cheat, so for this I will want you to utilize python webbot, greasyfork and tampermonkey's ACAS to create a new account ( as beginner ), and automatically play and move to the grey squares after selecting it in the ACAS menu to have the transparency shown.
 Acceptance Criteria
 About 2-3 years of python
@@ -5923,7 +5923,7 @@ I would like to be able to copy and paste the transcript into a text box and hav
 
 Here’s what I would like to get from the analysis:
 
-a list of bullet points of the most interesting, insightful and novel, takeaways from the conversation, along with quotes from the transcript that go along w...",ChristianUlstru,7 hours ago,https://replit.com/bounties/@ChristianUlstru/pipeline-that-summar?t=
+a list of bullet points of the most interesting, insightful and novel, takeaways from the conversation, along with quotes from the transcript that go along w...",ChristianUlstru,8 hours ago,https://replit.com/bounties/@ChristianUlstru/pipeline-that-summar?t=
 764,$100.01,due in 17 days,Point Calculator Website 🧮,"Looking for someone to create a tool for pointing stories/epics for Agile ceremonies.
 This will be hosted on the website pointing.charity
 
