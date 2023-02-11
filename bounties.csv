@@ -5862,7 +5862,7 @@ Ideally built using PHP/javascript, or react.
 Working prototype built, rendering the images. Similar to https://www.thismodeldoesnotexist.co/.
 
 Next Steps
-Ideally I work with the developer to build this concept out further.",littlegoatcoding,14 hours ago,https://replit.com/bounties/@littlegoatcoding/instagram-lessgreate?t=
+Ideally I work with the developer to build this concept out further.",littlegoatcoding,15 hours ago,https://replit.com/bounties/@littlegoatcoding/instagram-lessgreate?t=
 758,$184.50,due in 9 days,Deploy AI Beatsaber Website,"Deploy this python script: https://github.com/duckfromdiscord/BeatMapSynthesizer-x/tree/fix at an endpoint running on AWS or GCP. There should be a website that looks kind of like this: https://beatsage.com/ through which people can link a youtube video. On the backend, it can download the audio using youtube-dl, and automatically set the song name and song thumbnail correctly. Then, the final zip file should download to the users computer, kind of like how https://bsmapper.com works. Note that the original repo is at https://github.com/wvsharber/BeatMapSynthesizer .
 
 Acceptance Criteria
