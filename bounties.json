@@ -7616,7 +7616,7 @@
         "title": "Technological Architecture for MVP",
         "description": "Currently, we are finalizing the technical architecture and stack of our MVP. The userflow has been developed in detail, and we are looking for an experienced developer to create a top level architecture diagram (50,000ft view, plus detailed in some places, 50ft view). We would use the architecture as the basis to define different phases of development. We would like to work with someone starting with this part for a longer period of time.\n\nAcceptance Criteria\n\nFull stack developer with\n\n1) Previous experience in marketplace development\n\n2) Previous experience developing a product with an orderbook mechanism\n\n3) Previous experience in creating top level and detailed technological architecture",
         "author": "HoneyBadgerEth",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@HoneyBadgerEth/technological-archit?t="
     },
     {
@@ -7626,7 +7626,7 @@
         "title": "Use OpenAI models to convert generic jupyter notebook to kubeflow pipeline",
         "description": "Given some DS/ML python code in a jupyter notebook, convert it to a kubeflow pipeline that can be deployed using calls to OpenAI APIs.\n\nAcceptance Criteria\nBasic python implementation which works on simple cases such as basic data transformation or training sklearn models. Show that the generated kubeflow pipeline actually runs. Does not have to work well consistently, but should have clear path to improvement and extension.\n\nTechnical Details\nClean, well documented code with indications how it could be extended to\nsimilar use cases\nimprove performance",
         "author": "KevinSchawinsk1",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@KevinSchawinsk1/use-openai-models-to?t="
     },
     {
