@@ -7586,7 +7586,7 @@
         "title": "Deploy AI Beatsaber Website",
         "description": "Deploy this python script: https://github.com/duckfromdiscord/BeatMapSynthesizer-x/tree/fix at an endpoint running on AWS or GCP. There should be a website that looks kind of like this: https://beatsage.com/ through which people can link a youtube video. On the backend, it can download the audio using youtube-dl, and automatically set the song name and song thumbnail correctly. Then, the final zip file should download to the users computer, kind of like how https://bsmapper.com works. Note that the original repo is at https://github.com/wvsharber/BeatMapSynthesizer .\n\nAcceptance Criteria\nI will strongly prefer people who provide a clear outline of how they would build it (i.e. some of the tools or algorithms they'd use). I will also strongly prefer people who link Githubs or resumes with past work.",
         "author": "AJGupta",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/deploy-ai-beatsaber?t="
     },
     {
@@ -7596,7 +7596,7 @@
         "title": "React Native mobile app that embeds a website",
         "description": "Make me an app in React Native that embeds my game Spice Escape.\n\nIt has to show an offline screen when the user is offline and use the fonts and colors from my game.\n\nAcceptamce cretera\nYou know React Native\nYou can compile the apps for iOS and Android\nYou have to be Bddy or DillonB07\nGive me your SID",
         "author": "LuisAFK",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@LuisAFK/react-native-mobile?t="
     },
     {
@@ -7616,7 +7616,7 @@
         "title": "Technological Architecture for MVP",
         "description": "Currently, we are finalizing the technical architecture and stack of our MVP. The userflow has been developed in detail, and we are looking for an experienced developer to create a top level architecture diagram (50,000ft view, plus detailed in some places, 50ft view). We would use the architecture as the basis to define different phases of development. We would like to work with someone starting with this part for a longer period of time.\n\nAcceptance Criteria\n\nFull stack developer with\n\n1) Previous experience in marketplace development\n\n2) Previous experience developing a product with an orderbook mechanism\n\n3) Previous experience in creating top level and detailed technological architecture",
         "author": "HoneyBadgerEth",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@HoneyBadgerEth/technological-archit?t="
     },
     {
@@ -7626,7 +7626,7 @@
         "title": "Use OpenAI models to convert generic jupyter notebook to kubeflow pipeline",
         "description": "Given some DS/ML python code in a jupyter notebook, convert it to a kubeflow pipeline that can be deployed using calls to OpenAI APIs.\n\nAcceptance Criteria\nBasic python implementation which works on simple cases such as basic data transformation or training sklearn models. Show that the generated kubeflow pipeline actually runs. Does not have to work well consistently, but should have clear path to improvement and extension.\n\nTechnical Details\nClean, well documented code with indications how it could be extended to\nsimilar use cases\nimprove performance",
         "author": "KevinSchawinsk1",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@KevinSchawinsk1/use-openai-models-to?t="
     },
     {
@@ -7636,7 +7636,7 @@
         "title": "Pipeline that summarizes longform conversations in preparation for creating LinkedIn posts",
         "description": "I\u2019m an independent consultant who conducts live workshop pilots with other independent consultants, at least once per week. We use this time which we call a \u201cwriters workshop\u201c to test and improve our ideas that we would like to share with clients in the broader public. Our conversations are recorded via Google meet, which generates a transcript in a Google dock, the conversations are about two hours long and there are tens of thousands of words in the transcripts\n\nI would like to be able to copy and paste the transcript into a text box and have a pipe line use the open AIGPT3 API endpoint to generate output that can help me craft a 500 word or less LinkedIn post that captures the best parts of the conversation and packages them into some thing I can publish.\n\nHere\u2019s what I would like to get from the analysis:\n\na list of bullet points of the most interesting, insightful and novel, takeaways from the conversation, along with quotes from the transcript that go along w...",
         "author": "ChristianUlstru",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@ChristianUlstru/pipeline-that-summar?t="
     },
     {
@@ -7666,7 +7666,7 @@
         "title": "Verification email",
         "description": "I need to have a verification email be sent to someone whenever they sign-up for the first time.\n\nMust be in HTML, CSS, JS, preferably not Node.JS but if you have to you can.\nVerification code (number) or link is fine, preferably code though.",
         "author": "MakayaHall",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@MakayaHall/verification-email?t="
     }
 ]
