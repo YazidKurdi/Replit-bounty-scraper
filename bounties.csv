@@ -5978,4 +5978,4 @@ Verification code (number) or link is fine, preferably code though.",MakayaHall,
 to retrieve the price of an NFT, places an order to purchase that token utilizing a metamask  wallet, and then lists an order to sell the token.
 
 Acceptance Criteria
-Given a specific Gods Unchained NFT - I should be able to run the code so that the lowest available purchase price of the NFT is taken via Ethereum from a provided metamask wallet, then the purchased token is listed for sale via Gods tokens at a 5% increase from the purchase price.",AustinHayes2,35 minutes ago,https://replit.com/bounties/@AustinHayes2/leverage-imutablex-s?t=
+Given a specific Gods Unchained NFT - I should be able to run the code so that the lowest available purchase price of the NFT is taken via Ethereum from a provided metamask wallet, then the purchased token is listed for sale via Gods tokens at a 5% increase from the purchase price.",AustinHayes2,43 minutes ago,https://replit.com/bounties/@AustinHayes2/leverage-imutablex-s?t=
