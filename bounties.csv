@@ -5950,7 +5950,7 @@ It should be able to handle 100 concurrent sessions.
 
 Timelines / Milestones:
 
-v1 - Basic functionality (Addi...",Bandos1000,18 hours ago,https://replit.com/bounties/@Bandos1000/point-calculator-web?t=
+v1 - Basic functionality (Addi...",Bandos1000,19 hours ago,https://replit.com/bounties/@Bandos1000/point-calculator-web?t=
 765,$18.00,due in 24 days,Apple Watch App ⌚️,"Looking for some UI and functionality updates for a WatchOS application.
 Currently functional here.
 Repl: https://replit.com/@Bandos1000/FaceNorthWatchOS#CompassHeading.swift
@@ -5996,7 +5996,7 @@ Technical Details
 In the end, the input should be audiourlinstead of youtubeurl. Please remove any unused function (like the youtube stuff).
 
 Link to Project
-https://github.com/lucataco/serverless-template-whisper-speaker-diarization-largev2/blob/e0479e50fe6eaea0d56c158e6d92364e9d99ea2b/app.py#L53",gporto,1 hour ago,https://replit.com/bounties/@gporto/simplify-a-python-sc?t=
+https://github.com/lucataco/serverless-template-whisper-speaker-diarization-largev2/blob/e0479e50fe6eaea0d56c158e6d92364e9d99ea2b/app.py#L53",gporto,2 hours ago,https://replit.com/bounties/@gporto/simplify-a-python-sc?t=
 770,$22.50,due in 3 days,Error on search (Wordpress Site),"The search form is not working properly (https://staging2.legismusic.com/blog/) sometimes when I search for a query (for example 'facebook') it shows an error.
 
 The Avada team (our Wordpress theme) told me is an issue with Polylang and they told me to deactivate the plugin or just change some options, but I cannot do any of those things: polylang is essential to our site and its configured the way it should be. So I want to know if there's a way to fix this.
@@ -6006,4 +6006,4 @@ Related to that, the search results -when they work- show results in the 3 langu
 Acceptance Criteria
 
 We would be happy if the bug is fixed :)
-This page is our staging site (https://staging2.legismusic.com/) but the real one is https://legismusic.com/",pablolon,50 minutes ago,https://replit.com/bounties/@pablolon/error-on-search-word?t=
+This page is our staging site (https://staging2.legismusic.com/) but the real one is https://legismusic.com/",pablolon,57 minutes ago,https://replit.com/bounties/@pablolon/error-on-search-word?t=
