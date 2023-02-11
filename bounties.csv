@@ -5907,7 +5907,7 @@ Full stack developer with
 
 2) Previous experience developing a product with an orderbook mechanism
 
-3) Previous experience in creating top level and detailed technological architecture",HoneyBadgerEth,22 hours ago,https://replit.com/bounties/@HoneyBadgerEth/technological-archit?t=
+3) Previous experience in creating top level and detailed technological architecture",HoneyBadgerEth,23 hours ago,https://replit.com/bounties/@HoneyBadgerEth/technological-archit?t=
 762,$450.00,due in 4 days,Use OpenAI models to convert generic jupyter notebook to kubeflow pipeline,"Given some DS/ML python code in a jupyter notebook, convert it to a kubeflow pipeline that can be deployed using calls to OpenAI APIs.
 
 Acceptance Criteria
@@ -5916,7 +5916,7 @@ Basic python implementation which works on simple cases such as basic data trans
 Technical Details
 Clean, well documented code with indications how it could be extended to
 similar use cases
-improve performance",KevinSchawinsk1,21 hours ago,https://replit.com/bounties/@KevinSchawinsk1/use-openai-models-to?t=
+improve performance",KevinSchawinsk1,22 hours ago,https://replit.com/bounties/@KevinSchawinsk1/use-openai-models-to?t=
 763,$90.00,due in 3 days,Pipeline that summarizes longform conversations in preparation for creating LinkedIn posts,"I’m an independent consultant who conducts live workshop pilots with other independent consultants, at least once per week. We use this time which we call a “writers workshop“ to test and improve our ideas that we would like to share with clients in the broader public. Our conversations are recorded via Google meet, which generates a transcript in a Google dock, the conversations are about two hours long and there are tens of thousands of words in the transcripts
 
 I would like to be able to copy and paste the transcript into a text box and have a pipe line use the open AIGPT3 API endpoint to generate output that can help me craft a 500 word or less LinkedIn post that captures the best parts of the conversation and packages them into some thing I can publish.
@@ -5973,4 +5973,4 @@ Option 3: Tell me when I'm facing North for the nex...",Bandos1000,13 hours ago,
 766,$2.25,due in 3 days,Verification email,"I need to have a verification email be sent to someone whenever they sign-up for the first time.
 
 Must be in HTML, CSS, JS, preferably not Node.JS but if you have to you can.
-Verification code (number) or link is fine, preferably code though.",MakayaHall,7 hours ago,https://replit.com/bounties/@MakayaHall/verification-email?t=
+Verification code (number) or link is fine, preferably code though.",MakayaHall,8 hours ago,https://replit.com/bounties/@MakayaHall/verification-email?t=
