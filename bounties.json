@@ -7586,7 +7586,7 @@
         "title": "Deploy AI Beatsaber Website",
         "description": "Deploy this python script: https://github.com/duckfromdiscord/BeatMapSynthesizer-x/tree/fix at an endpoint running on AWS or GCP. There should be a website that looks kind of like this: https://beatsage.com/ through which people can link a youtube video. On the backend, it can download the audio using youtube-dl, and automatically set the song name and song thumbnail correctly. Then, the final zip file should download to the users computer, kind of like how https://bsmapper.com works. Note that the original repo is at https://github.com/wvsharber/BeatMapSynthesizer .\n\nAcceptance Criteria\nI will strongly prefer people who provide a clear outline of how they would build it (i.e. some of the tools or algorithms they'd use). I will also strongly prefer people who link Githubs or resumes with past work.",
         "author": "AJGupta",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/deploy-ai-beatsaber?t="
     },
     {
@@ -7596,7 +7596,7 @@
         "title": "React Native mobile app that embeds a website",
         "description": "Make me an app in React Native that embeds my game Spice Escape.\n\nIt has to show an offline screen when the user is offline and use the fonts and colors from my game.\n\nAcceptamce cretera\nYou know React Native\nYou can compile the apps for iOS and Android\nYou have to be Bddy or DillonB07\nGive me your SID",
         "author": "LuisAFK",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@LuisAFK/react-native-mobile?t="
     },
     {
@@ -7636,7 +7636,7 @@
         "title": "Pipeline that summarizes longform conversations in preparation for creating LinkedIn posts",
         "description": "I\u2019m an independent consultant who conducts live workshop pilots with other independent consultants, at least once per week. We use this time which we call a \u201cwriters workshop\u201c to test and improve our ideas that we would like to share with clients in the broader public. Our conversations are recorded via Google meet, which generates a transcript in a Google dock, the conversations are about two hours long and there are tens of thousands of words in the transcripts\n\nI would like to be able to copy and paste the transcript into a text box and have a pipe line use the open AIGPT3 API endpoint to generate output that can help me craft a 500 word or less LinkedIn post that captures the best parts of the conversation and packages them into some thing I can publish.\n\nHere\u2019s what I would like to get from the analysis:\n\na list of bullet points of the most interesting, insightful and novel, takeaways from the conversation, along with quotes from the transcript that go along w...",
         "author": "ChristianUlstru",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@ChristianUlstru/pipeline-that-summar?t="
     },
     {
