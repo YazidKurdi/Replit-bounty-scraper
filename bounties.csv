@@ -5996,7 +5996,7 @@ Technical Details
 In the end, the input should be audiourlinstead of youtubeurl. Please remove any unused function (like the youtube stuff).
 
 Link to Project
-https://github.com/lucataco/serverless-template-whisper-speaker-diarization-largev2/blob/e0479e50fe6eaea0d56c158e6d92364e9d99ea2b/app.py#L53",gporto,24 hours ago,https://replit.com/bounties/@gporto/simplify-a-python-sc?t=
+https://github.com/lucataco/serverless-template-whisper-speaker-diarization-largev2/blob/e0479e50fe6eaea0d56c158e6d92364e9d99ea2b/app.py#L53",gporto,1 day ago,https://replit.com/bounties/@gporto/simplify-a-python-sc?t=
 770,$22.50,due in 2 days,Error on search (Wordpress Site),"The search form is not working properly (https://staging2.legismusic.com/blog/) sometimes when I search for a query (for example 'facebook') it shows an error.
 
 The Avada team (our Wordpress theme) told me is an issue with Polylang and they told me to deactivate the plugin or just change some options, but I cannot do any of those things: polylang is essential to our site and its configured the way it should be. So I want to know if there's a way to fix this.
@@ -6006,7 +6006,7 @@ Related to that, the search results -when they work- show results in the 3 langu
 Acceptance Criteria
 
 We would be happy if the bug is fixed :)
-This page is our staging site (https://staging2.legismusic.com/) but the real one is https://legismusic.com/",pablolon,23 hours ago,https://replit.com/bounties/@pablolon/error-on-search-word?t=
+This page is our staging site (https://staging2.legismusic.com/) but the real one is https://legismusic.com/",pablolon,24 hours ago,https://replit.com/bounties/@pablolon/error-on-search-word?t=
 771,$306.00,due in 7 days,Newsletter Summary Service: Signup Flow & User Accounts,"Building a service to summarize key takeaways from daily / weekly informational email newsletters that users are subscribed to (think Morning Brew, Robinhood Snacks, etc).
 
 This bounty is only for a signup & account management flow for the service, and the actual summarization of emails is handled by a separate function that is out of scope for this bounty.
@@ -6024,7 +6024,7 @@ User then selects the senders whose emails they wish to have summarized going fo
 772,$45.00,due in 2 months,ClassDojo Replacement,"I have a little brother, and we want to start rewarding him for what he does at home. At school they use ClassDojo to reward them, and we were planning on doing that aswell - however using it at home costs money and we don't really want to have a recurring payment just for a reward system.
 
 Acceptance Criteria
-I can add multiple children to the app and remove them at anytime. I can also give and remove points from the children's ""accounts"". The app should also use a login system. OAuth is allowed, and you'll get a 100 cycles bonus per OAuth implementation (max 500 cycles, paid via tips).",haroon,8 hours ago,https://replit.com/bounties/@haroon/classdojo-replacemen?t=
+I can add multiple children to the app and remove them at anytime. I can also give and remove points from the children's ""accounts"". The app should also use a login system. OAuth is allowed, and you'll get a 100 cycles bonus per OAuth implementation (max 500 cycles, paid via tips).",haroon,9 hours ago,https://replit.com/bounties/@haroon/classdojo-replacemen?t=
 773,$13.50,due in 3 days,Scrape website,"Hi,
 
 I would be looking to get this website scraped - https://betsniper.vercel.app/. The website is a list of basketball player odds for player props e.g. Lebron James Over Points. Essentially I would like the data to be scrapped so that each row is a different bet.
@@ -6060,4 +6060,4 @@ Just need to edit the JSON file, and load it into Karabiner to test that it work
 I thought it was simple as changing ""capslock"" references to ""left_command"" references, but it seems more involved.
 
 Link to Project
-https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json",colinricardo,2 hours ago,https://replit.com/bounties/@colinricardo/modify-a-karabiner-e?t=
+https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json",colinricardo,3 hours ago,https://replit.com/bounties/@colinricardo/modify-a-karabiner-e?t=
