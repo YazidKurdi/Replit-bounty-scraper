@@ -7686,7 +7686,7 @@
         "title": "Identify Bull and Bear Markets",
         "description": "I would like a Python program which takes historical daily stock index data (example, the S&P 500 daily closing price) and identifies bull market peak dates, trough dates, peak values, trough values, percent loss (for bear markets), percent gains (for bull markets), and number of days of bull and bear market duration.  See the link below to economist Ed Yardeni's data on bull and bear markets for the S&P 500 for an indication of desired output that could be applied to other stock market indexes as well.\n\nAcceptance Criteria\n\nPython code which can deliver output that replicates  Yardeni's Tables 1 and 2 will be acceptable, so long as it is based on a method to identify bull market peaks and bear market troughs in a manner that could be applied to other stock market indexes.\n\nTechnical Details\nThe program should output Bull Market and Bear Market summary tables of the type found on economist Ed Yardeni's website at: https://www.yardeni.com/pub/sp500corrbeartables.pdf...",
         "author": "GenuineSkill",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@GenuineSkill/identify-bull-and-be?t="
     },
     {
@@ -7706,7 +7706,7 @@
         "title": "Error on search (Wordpress Site)",
         "description": "The search form is not working properly (https://staging2.legismusic.com/blog/) sometimes when I search for a query (for example 'facebook') it shows an error.\n\nThe Avada team (our Wordpress theme) told me is an issue with Polylang and they told me to deactivate the plugin or just change some options, but I cannot do any of those things: polylang is essential to our site and its configured the way it should be. So I want to know if there's a way to fix this.\n\nRelated to that, the search results -when they work- show results in the 3 languages, instead of the one that is being searched only.\n\nAcceptance Criteria\n\nWe would be happy if the bug is fixed :)\nThis page is our staging site (https://staging2.legismusic.com/) but the real one is https://legismusic.com/",
         "author": "pablolon",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@pablolon/error-on-search-word?t="
     },
     {
@@ -7726,7 +7726,7 @@
         "title": "ClassDojo Replacement",
         "description": "I have a little brother, and we want to start rewarding him for what he does at home. At school they use ClassDojo to reward them, and we were planning on doing that aswell - however using it at home costs money and we don't really want to have a recurring payment just for a reward system.\n\nAcceptance Criteria\nI can add multiple children to the app and remove them at anytime. I can also give and remove points from the children's \"accounts\". The app should also use a login system. OAuth is allowed, and you'll get a 100 cycles bonus per OAuth implementation (max 500 cycles, paid via tips).",
         "author": "haroon",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@haroon/classdojo-replacemen?t="
     },
     {
