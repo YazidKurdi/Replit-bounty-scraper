@@ -7696,7 +7696,7 @@
         "title": "Simplify a python script that currently receives a YT link and extracts audio to receive an audio input.",
         "description": "There's a working script that receives a youtube link as input, extracts audio file, transcribes and diarizes it. I'd like you to simplify the script and receive the audio file as input instead of the youtube link.\n\nAcceptance Criteria\nMust work with a sample audio link as an input.\n\nTechnical Details\nIn the end, the input should be audiourlinstead of youtubeurl. Please remove any unused function (like the youtube stuff).\n\nLink to Project\nhttps://github.com/lucataco/serverless-template-whisper-speaker-diarization-largev2/blob/e0479e50fe6eaea0d56c158e6d92364e9d99ea2b/app.py#L53",
         "author": "gporto",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@gporto/simplify-a-python-sc?t="
     },
     {
@@ -7716,7 +7716,7 @@
         "title": "Newsletter Summary Service: Signup Flow & User Accounts",
         "description": "Building a service to summarize key takeaways from daily / weekly informational email newsletters that users are subscribed to (think Morning Brew, Robinhood Snacks, etc).\n\nThis bounty is only for a signup & account management flow for the service, and the actual summarization of emails is handled by a separate function that is out of scope for this bounty.\n\nAcceptance Criteria\nUser friendly interface that allows user to signup for an account, link their Gmail, select which newsletters they want to have summarized going forward , and manage their account.\n\nSpecific requirements -\n[1] User can click \u201csign up\u201d button to initiate signup flow\n\n[2] Signup flow covers the following -\nDuring sign up, user is prompted to connect their GMail account which surfaces standard GMail 3rd party app access page requesting read-only permissions\nUser then selects the senders whose emails they wish to have summarized going forward. They can do so in two ways from the same screen:\n** T...",
         "author": "MuneebImtiaz",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@MuneebImtiaz/newsletter-summary-s?t="
     },
     {
@@ -7726,7 +7726,7 @@
         "title": "ClassDojo Replacement",
         "description": "I have a little brother, and we want to start rewarding him for what he does at home. At school they use ClassDojo to reward them, and we were planning on doing that aswell - however using it at home costs money and we don't really want to have a recurring payment just for a reward system.\n\nAcceptance Criteria\nI can add multiple children to the app and remove them at anytime. I can also give and remove points from the children's \"accounts\". The app should also use a login system. OAuth is allowed, and you'll get a 100 cycles bonus per OAuth implementation (max 500 cycles, paid via tips).",
         "author": "haroon",
-        "posted_time": "2 minutes ago",
+        "posted_time": "9 minutes ago",
         "link": "https://replit.com/bounties/@haroon/classdojo-replacemen?t="
     }
 ]
