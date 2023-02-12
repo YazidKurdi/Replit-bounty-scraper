@@ -6025,3 +6025,24 @@ User then selects the senders whose emails they wish to have summarized going fo
 
 Acceptance Criteria
 I can add multiple children to the app and remove them at anytime. I can also give and remove points from the children's ""accounts"". The app should also use a login system. OAuth is allowed, and you'll get a 100 cycles bonus per OAuth implementation (max 500 cycles, paid via tips).",haroon,2 hours ago,https://replit.com/bounties/@haroon/classdojo-replacemen?t=
+773,$13.50,due in 3 days,Scrape website,"Hi,
+
+I would be looking to get this website scraped - https://betsniper.vercel.app/. The website is a list of basketball player odds for player props e.g. Lebron James Over Points. Essentially I would like the data to be scrapped so that each row is a different bet.
+
+The table would be organised with the following headers (examples provided correlating to the image):
+Game
+Player
+Stat
+Line
+Bookmaker
+Odds (over and under)
+
+Below is what the data could look like,
+Game	Player	Stat	Line	Bookmaker	Over odds	Under odds
+Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	26.5	Topsport	1.88	1.9
+Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	26.5	TAB	1.85	1.9
+Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	26.5	Pointsbet	1.8	1.95
+Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	26.5	Bet365	1.86	1.86
+Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	26.5	Pinnacle	1.85	1.89
+Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	27.5	Sportsbet	1.94	1.8
+Chicago Bul...",YouReachITeach4,7 minutes ago,https://replit.com/bounties/@YouReachITeach4/scrape-website?t=
