@@ -5973,7 +5973,7 @@ Option 3: Tell me when I'm facing North for the nex...",Bandos1000,2 days ago,ht
 766,$2.25,due in 2 days,Verification email,"I need to have a verification email be sent to someone whenever they sign-up for the first time.
 
 Must be in HTML, CSS, JS, preferably not Node.JS but if you have to you can.
-Verification code (number) or link is fine, preferably code though.",MakayaHall,1 day ago,https://replit.com/bounties/@MakayaHall/verification-email?t=
+Verification code (number) or link is fine, preferably code though.",MakayaHall,2 days ago,https://replit.com/bounties/@MakayaHall/verification-email?t=
 767,$90.00,due in 12 days,Leverage ImutableX SDK to automate NFT purchasing / selling,"I'd like automated code (node.js for example) that leverages the ImmuatbleX SDK: https://docs.x.immutable.com/docs/sdks/#core--wallet-sdk
 to retrieve the price of an NFT, places an order to purchase that token utilizing a metamask  wallet, and then lists an order to sell the token.
 
@@ -6006,7 +6006,7 @@ Related to that, the search results -when they work- show results in the 3 langu
 Acceptance Criteria
 
 We would be happy if the bug is fixed :)
-This page is our staging site (https://staging2.legismusic.com/) but the real one is https://legismusic.com/",pablolon,24 hours ago,https://replit.com/bounties/@pablolon/error-on-search-word?t=
+This page is our staging site (https://staging2.legismusic.com/) but the real one is https://legismusic.com/",pablolon,1 day ago,https://replit.com/bounties/@pablolon/error-on-search-word?t=
 771,$306.00,due in 7 days,Newsletter Summary Service: Signup Flow & User Accounts,"Building a service to summarize key takeaways from daily / weekly informational email newsletters that users are subscribed to (think Morning Brew, Robinhood Snacks, etc).
 
 This bounty is only for a signup & account management flow for the service, and the actual summarization of emails is handled by a separate function that is out of scope for this bounty.
@@ -6073,4 +6073,4 @@ Part of what will enable you to win this prize is design and specification of th
 
 Technical Details
 
-Must be fully open source and Apache licensed.",JosephJacks,20 minutes ago,https://replit.com/bounties/@JosephJacks/llm-ify-any-app?t=
+Must be fully open source and Apache licensed.",JosephJacks,29 minutes ago,https://replit.com/bounties/@JosephJacks/llm-ify-any-app?t=
