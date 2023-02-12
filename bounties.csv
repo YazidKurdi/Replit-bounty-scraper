@@ -6045,7 +6045,7 @@ Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	26.5	Pointsbet	1.8	1.95
 Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	26.5	Bet365	1.86	1.86
 Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	26.5	Pinnacle	1.85	1.89
 Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	27.5	Sportsbet	1.94	1.8
-Chicago Bul...",YouReachITeach4,6 hours ago,https://replit.com/bounties/@YouReachITeach4/scrape-website?t=
+Chicago Bul...",YouReachITeach4,7 hours ago,https://replit.com/bounties/@YouReachITeach4/scrape-website?t=
 774,$45.00,due in 4 days,Modify a Karabiner Elements Config,"I want to adapt the Capslock script for Karabiner Elements to use the LeftCommand key instead of the Capslock key.
 
 Reference: https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json
@@ -6061,3 +6061,16 @@ I thought it was simple as changing ""capslock"" references to ""left_command"" 
 
 Link to Project
 https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json",colinricardo,3 hours ago,https://replit.com/bounties/@colinricardo/modify-a-karabiner-e?t=
+775,"$3,150.00",due in 15 days,“LLM-ify” Any App,"https://twitter.com/josephjacks_/status/1624829956483334146
+
+Acceptance Criteria
+
+Demonstrate a working prototype of this vision that can easily be “applied” to any app — but specifically show how it can be applied to open source apps like Cal.com, NocoDB, OpenBB, Godot, RustDesk (2 or more of these).
+
+This tool should also work for fully proprietary apps but that would likely be more difficult and require more access.
+
+Part of what will enable you to win this prize is design and specification of this infra tool that can work for any app and also within any level of arbitrary complexity within that app.. by analogy, think of what Stable Diffusion unlocks with natural language driven image generation — this project should provide a similar framework / tool but for “configuration generation” driven by natural language in any app.
+
+Technical Details
+
+Must be fully open source and Apache licensed.",JosephJacks,11 minutes ago,https://replit.com/bounties/@JosephJacks/llm-ify-any-app?t=
