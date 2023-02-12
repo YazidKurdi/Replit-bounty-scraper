@@ -7766,7 +7766,7 @@
         "title": "RoamResearch Fine Tune model OpenAI",
         "description": "Take a user's RoamResearch graph as input and fine tune a model using OpenAI. https://platform.openai.com/docs/guides/fine-tuning\nhttps://roamresearch.com/\n\nThe tools should work like the following:\nI couldn't find an API for Roam yet so it must take exported files from the graph as input to tune the customized model.  Open to any better way here...\nIt has to have the ability to update or fine tune multiple times upon submission of updated files that are used to tune the model.\nThe user can choose with customized model to fine tune with the new file submission.\nThe tool will check if the fine tuning job is complete periodically and let the user know when its updated and ready for prompts.\nThe user can ask prompts and switch between the customized models.\n\nThe app can be configured with the following settings:\nThe user's OpenAI API Key\nA custom prompt\nModel type (ability to switch between customized models)\nMax Tokens returned from the model (defaults to 1024)\nTemper...",
         "author": "syst3m3",
-        "posted_time": "28 seconds ago",
+        "posted_time": "8 minutes ago",
         "link": "https://replit.com/bounties/@syst3m3/roamresearch-fine-tu?t="
     }
 ]
