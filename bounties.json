@@ -7676,7 +7676,7 @@
         "title": "Leverage ImutableX SDK to automate NFT purchasing / selling",
         "description": "I'd like automated code (node.js for example) that leverages the ImmuatbleX SDK: https://docs.x.immutable.com/docs/sdks/#core--wallet-sdk\nto retrieve the price of an NFT, places an order to purchase that token utilizing a metamask  wallet, and then lists an order to sell the token.\n\nAcceptance Criteria\nGiven a specific Gods Unchained NFT - I should be able to run the code so that the lowest available purchase price of the NFT is taken via Ethereum from a provided metamask wallet, then the purchased token is listed for sale via Gods tokens at a 5% increase from the purchase price.",
         "author": "AustinHayes2",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@AustinHayes2/leverage-imutablex-s?t="
     },
     {
@@ -7706,7 +7706,7 @@
         "title": "Error on search (Wordpress Site)",
         "description": "The search form is not working properly (https://staging2.legismusic.com/blog/) sometimes when I search for a query (for example 'facebook') it shows an error.\n\nThe Avada team (our Wordpress theme) told me is an issue with Polylang and they told me to deactivate the plugin or just change some options, but I cannot do any of those things: polylang is essential to our site and its configured the way it should be. So I want to know if there's a way to fix this.\n\nRelated to that, the search results -when they work- show results in the 3 languages, instead of the one that is being searched only.\n\nAcceptance Criteria\n\nWe would be happy if the bug is fixed :)\nThis page is our staging site (https://staging2.legismusic.com/) but the real one is https://legismusic.com/",
         "author": "pablolon",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@pablolon/error-on-search-word?t="
     },
     {
@@ -7736,7 +7736,7 @@
         "title": "Scrape website",
         "description": "Hi,\n\nI would be looking to get this website scraped - https://betsniper.vercel.app/. The website is a list of basketball player odds for player props e.g. Lebron James Over Points. Essentially I would like the data to be scrapped so that each row is a different bet.\n\nThe table would be organised with the following headers (examples provided correlating to the image):\nGame\nPlayer\nStat\nLine\nBookmaker\nOdds (over and under)\n\nBelow is what the data could look like,\nGame\tPlayer\tStat\tLine\tBookmaker\tOver odds\tUnder odds\nChicago Bulls vs Charlotte Hornets\tDemar Derozan\tPoints\t26.5\tTopsport\t1.88\t1.9\nChicago Bulls vs Charlotte Hornets\tDemar Derozan\tPoints\t26.5\tTAB\t1.85\t1.9\nChicago Bulls vs Charlotte Hornets\tDemar Derozan\tPoints\t26.5\tPointsbet\t1.8\t1.95\nChicago Bulls vs Charlotte Hornets\tDemar Derozan\tPoints\t26.5\tBet365\t1.86\t1.86\nChicago Bulls vs Charlotte Hornets\tDemar Derozan\tPoints\t26.5\tPinnacle\t1.85\t1.89\nChicago Bulls vs Charlotte Hornets\tDemar Derozan\tPoints\t27.5\tSportsbet\t1.94\t1.8\nChicago Bul...",
         "author": "YouReachITeach4",
-        "posted_time": "22 minutes ago",
+        "posted_time": "36 minutes ago",
         "link": "https://replit.com/bounties/@YouReachITeach4/scrape-website?t="
     }
 ]
