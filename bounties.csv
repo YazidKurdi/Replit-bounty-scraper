@@ -5978,7 +5978,7 @@ Verification code (number) or link is fine, preferably code though.",MakayaHall,
 to retrieve the price of an NFT, places an order to purchase that token utilizing a metamask  wallet, and then lists an order to sell the token.
 
 Acceptance Criteria
-Given a specific Gods Unchained NFT - I should be able to run the code so that the lowest available purchase price of the NFT is taken via Ethereum from a provided metamask wallet, then the purchased token is listed for sale via Gods tokens at a 5% increase from the purchase price.",AustinHayes2,23 hours ago,https://replit.com/bounties/@AustinHayes2/leverage-imutablex-s?t=
+Given a specific Gods Unchained NFT - I should be able to run the code so that the lowest available purchase price of the NFT is taken via Ethereum from a provided metamask wallet, then the purchased token is listed for sale via Gods tokens at a 5% increase from the purchase price.",AustinHayes2,24 hours ago,https://replit.com/bounties/@AustinHayes2/leverage-imutablex-s?t=
 768,$90.00,due in 2 days,Identify Bull and Bear Markets,"I would like a Python program which takes historical daily stock index data (example, the S&P 500 daily closing price) and identifies bull market peak dates, trough dates, peak values, trough values, percent loss (for bear markets), percent gains (for bull markets), and number of days of bull and bear market duration.  See the link below to economist Ed Yardeni's data on bull and bear markets for the S&P 500 for an indication of desired output that could be applied to other stock market indexes as well.
 
 Acceptance Criteria
@@ -6045,7 +6045,7 @@ Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	26.5	Pointsbet	1.8	1.95
 Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	26.5	Bet365	1.86	1.86
 Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	26.5	Pinnacle	1.85	1.89
 Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	27.5	Sportsbet	1.94	1.8
-Chicago Bul...",YouReachITeach4,4 hours ago,https://replit.com/bounties/@YouReachITeach4/scrape-website?t=
+Chicago Bul...",YouReachITeach4,5 hours ago,https://replit.com/bounties/@YouReachITeach4/scrape-website?t=
 774,$45.00,due in 4 days,Modify a Karabiner Elements Config,"I want to adapt the Capslock script for Karabiner Elements to use the LeftCommand key instead of the Capslock key.
 
 Reference: https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json
@@ -6060,4 +6060,4 @@ Just need to edit the JSON file, and load it into Karabiner to test that it work
 I thought it was simple as changing ""capslock"" references to ""left_command"" references, but it seems more involved.
 
 Link to Project
-https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json",colinricardo,45 minutes ago,https://replit.com/bounties/@colinricardo/modify-a-karabiner-e?t=
+https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json",colinricardo,1 hour ago,https://replit.com/bounties/@colinricardo/modify-a-karabiner-e?t=
