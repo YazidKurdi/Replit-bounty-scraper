@@ -7756,7 +7756,7 @@
         "title": "\u201cLLM-ify\u201d Any App",
         "description": "https://twitter.com/josephjacks_/status/1624829956483334146\n\nAcceptance Criteria\n\nDemonstrate a working prototype of this vision that can easily be \u201capplied\u201d to any app \u2014 but specifically show how it can be applied to open source apps like Cal.com, NocoDB, OpenBB, Godot, RustDesk (2 or more of these).\n\nThis tool should also work for fully proprietary apps but that would likely be more difficult and require more access.\n\nPart of what will enable you to win this prize is design and specification of this infra tool that can work for any app and also within any level of arbitrary complexity within that app.. by analogy, think of what Stable Diffusion unlocks with natural language driven image generation \u2014 this project should provide a similar framework / tool but for \u201cconfiguration generation\u201d driven by natural language in any app.\n\nTechnical Details\n\nMust be fully open source and Apache licensed.",
         "author": "JosephJacks",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@JosephJacks/llm-ify-any-app?t="
     },
     {
@@ -7766,7 +7766,7 @@
         "title": "RoamResearch Fine Tune model OpenAI",
         "description": "Take a user's RoamResearch graph as input and fine tune a model using OpenAI. https://platform.openai.com/docs/guides/fine-tuning\nhttps://roamresearch.com/\n\nThe tools should work like the following:\nI couldn't find an API for Roam yet so it must take exported files from the graph as input to tune the customized model.  Open to any better way here...\nIt has to have the ability to update or fine tune multiple times upon submission of updated files that are used to tune the model.\nThe user can choose with customized model to fine tune with the new file submission.\nThe tool will check if the fine tuning job is complete periodically and let the user know when its updated and ready for prompts.\nThe user can ask prompts and switch between the customized models.\n\nThe app can be configured with the following settings:\nThe user's OpenAI API Key\nA custom prompt\nModel type (ability to switch between customized models)\nMax Tokens returned from the model (defaults to 1024)\nTemper...",
         "author": "syst3m3",
-        "posted_time": "8 minutes ago",
+        "posted_time": "18 minutes ago",
         "link": "https://replit.com/bounties/@syst3m3/roamresearch-fine-tu?t="
     }
 ]
