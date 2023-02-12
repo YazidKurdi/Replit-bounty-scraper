@@ -5996,7 +5996,7 @@ Technical Details
 In the end, the input should be audiourlinstead of youtubeurl. Please remove any unused function (like the youtube stuff).
 
 Link to Project
-https://github.com/lucataco/serverless-template-whisper-speaker-diarization-largev2/blob/e0479e50fe6eaea0d56c158e6d92364e9d99ea2b/app.py#L53",gporto,11 hours ago,https://replit.com/bounties/@gporto/simplify-a-python-sc?t=
+https://github.com/lucataco/serverless-template-whisper-speaker-diarization-largev2/blob/e0479e50fe6eaea0d56c158e6d92364e9d99ea2b/app.py#L53",gporto,12 hours ago,https://replit.com/bounties/@gporto/simplify-a-python-sc?t=
 770,$22.50,due in 3 days,Error on search (Wordpress Site),"The search form is not working properly (https://staging2.legismusic.com/blog/) sometimes when I search for a query (for example 'facebook') it shows an error.
 
 The Avada team (our Wordpress theme) told me is an issue with Polylang and they told me to deactivate the plugin or just change some options, but I cannot do any of those things: polylang is essential to our site and its configured the way it should be. So I want to know if there's a way to fix this.
@@ -6020,4 +6020,4 @@ Specific requirements -
 [2] Signup flow covers the following -
 During sign up, user is prompted to connect their GMail account which surfaces standard GMail 3rd party app access page requesting read-only permissions
 User then selects the senders whose emails they wish to have summarized going forward. They can do so in two ways from the same screen:
-** T...",MuneebImtiaz,2 hours ago,https://replit.com/bounties/@MuneebImtiaz/newsletter-summary-s?t=
+** T...",MuneebImtiaz,3 hours ago,https://replit.com/bounties/@MuneebImtiaz/newsletter-summary-s?t=
