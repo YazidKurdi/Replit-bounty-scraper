@@ -6020,7 +6020,7 @@ Specific requirements -
 [2] Signup flow covers the following -
 During sign up, user is prompted to connect their GMail account which surfaces standard GMail 3rd party app access page requesting read-only permissions
 User then selects the senders whose emails they wish to have summarized going forward. They can do so in two ways from the same screen:
-** T...",MuneebImtiaz,16 hours ago,https://replit.com/bounties/@MuneebImtiaz/newsletter-summary-s?t=
+** T...",MuneebImtiaz,17 hours ago,https://replit.com/bounties/@MuneebImtiaz/newsletter-summary-s?t=
 772,$45.00,due in 2 months,ClassDojo Replacement,"I have a little brother, and we want to start rewarding him for what he does at home. At school they use ClassDojo to reward them, and we were planning on doing that aswell - however using it at home costs money and we don't really want to have a recurring payment just for a reward system.
 
 Acceptance Criteria
@@ -6074,3 +6074,19 @@ Part of what will enable you to win this prize is design and specification of th
 Technical Details
 
 Must be fully open source and Apache licensed.",JosephJacks,1 hour ago,https://replit.com/bounties/@JosephJacks/llm-ify-any-app?t=
+776,$990.00,due in 6 days,RoamResearch Fine Tune model OpenAI,"Take a user's RoamResearch graph as input and fine tune a model using OpenAI. https://platform.openai.com/docs/guides/fine-tuning
+https://roamresearch.com/
+
+The tools should work like the following:
+I couldn't find an API for Roam yet so it must take exported files from the graph as input to tune the customized model.  Open to any better way here...
+It has to have the ability to update or fine tune multiple times upon submission of updated files that are used to tune the model.
+The user can choose with customized model to fine tune with the new file submission.
+The tool will check if the fine tuning job is complete periodically and let the user know when its updated and ready for prompts.
+The user can ask prompts and switch between the customized models.
+
+The app can be configured with the following settings:
+The user's OpenAI API Key
+A custom prompt
+Model type (ability to switch between customized models)
+Max Tokens returned from the model (defaults to 1024)
+Temper...",syst3m3,28 seconds ago,https://replit.com/bounties/@syst3m3/roamresearch-fine-tu?t=
