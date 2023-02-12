@@ -7646,7 +7646,7 @@
         "title": "Point Calculator Website \ud83e\uddee",
         "description": "Looking for someone to create a tool for pointing stories/epics for Agile ceremonies.\nThis will be hosted on the website pointing.charity\n\nI plan to host it in Vercel for fast loading.\nI don't really have a preference for language.\nI'd like the UI to be Bootstrap/Material UI style.\n\nBasic tool functions:\n\nhttps://www.figma.com/file/xrj4oOu0SnFetYJBTuppfi/Points.Charity?node-id=0%3A1&t=aSJ8PwbXfVgviIxa-1\nOutlined here, you can enter prototype mode and test there. Feel free to leave comments with any questions.\n\nAcceptance Criteria\n\nA bootstrap minimal/UI friendly design.\nFunctionality according to the above.\nNo data storage after session has ended\nAbility to export png of session\n\nTechnical Details\n\nI plan to host this in Vercel, I don't really have a preference of language it's written in, but need the code commented and able to be edited by future hunters.\nIt should be able to handle 100 concurrent sessions.\n\nTimelines / Milestones:\n\nv1 - Basic functionality (Addi...",
         "author": "Bandos1000",
-        "posted_time": "23 hours ago",
+        "posted_time": "24 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/point-calculator-web?t="
     },
     {
@@ -7656,7 +7656,7 @@
         "title": "Apple Watch App \u231a\ufe0f",
         "description": "Looking for some UI and functionality updates for a WatchOS application.\nCurrently functional here.\nRepl: https://replit.com/@Bandos1000/FaceNorthWatchOS#CompassHeading.swift\n\nOriginal bounty here:\nhttps://replit.com/bounties/@Bandos1000/apple-watch-compass?t=details\n\nI am looking for updates to add some functionality after testing. I have Xcode and will be able to test/run this on my developer account after bounty is delivered.\n\nBig picture:\nNeed to make sure Magnometer continues providing data even if watch screen is off. (But not during sleep/theatre mode)\n\nApplication:\nThe goal of this app is to train users over time to be able to 'feel' North without a wrist vibration.\nAs such, the user journey looks like this:\nUser opens app. Each time they open, they are presented with simple options screen: (Screen1)\nOption 1: Train me to 'feel' North (Always on)\nOption 2: Tell me when I'm facing North for the next 4 hours.\nOption 3: Tell me when I'm facing North for the nex...",
         "author": "Bandos1000",
-        "posted_time": "23 hours ago",
+        "posted_time": "24 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/apple-watch-app?t="
     },
     {
@@ -7676,7 +7676,7 @@
         "title": "Leverage ImutableX SDK to automate NFT purchasing / selling",
         "description": "I'd like automated code (node.js for example) that leverages the ImmuatbleX SDK: https://docs.x.immutable.com/docs/sdks/#core--wallet-sdk\nto retrieve the price of an NFT, places an order to purchase that token utilizing a metamask  wallet, and then lists an order to sell the token.\n\nAcceptance Criteria\nGiven a specific Gods Unchained NFT - I should be able to run the code so that the lowest available purchase price of the NFT is taken via Ethereum from a provided metamask wallet, then the purchased token is listed for sale via Gods tokens at a 5% increase from the purchase price.",
         "author": "AustinHayes2",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@AustinHayes2/leverage-imutablex-s?t="
     },
     {
@@ -7696,7 +7696,7 @@
         "title": "Simplify a python script that currently receives a YT link and extracts audio to receive an audio input.",
         "description": "There's a working script that receives a youtube link as input, extracts audio file, transcribes and diarizes it. I'd like you to simplify the script and receive the audio file as input instead of the youtube link.\n\nAcceptance Criteria\nMust work with a sample audio link as an input.\n\nTechnical Details\nIn the end, the input should be audiourlinstead of youtubeurl. Please remove any unused function (like the youtube stuff).\n\nLink to Project\nhttps://github.com/lucataco/serverless-template-whisper-speaker-diarization-largev2/blob/e0479e50fe6eaea0d56c158e6d92364e9d99ea2b/app.py#L53",
         "author": "gporto",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@gporto/simplify-a-python-sc?t="
     },
     {
