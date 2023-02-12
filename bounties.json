@@ -7666,7 +7666,7 @@
         "title": "Verification email",
         "description": "I need to have a verification email be sent to someone whenever they sign-up for the first time.\n\nMust be in HTML, CSS, JS, preferably not Node.JS but if you have to you can.\nVerification code (number) or link is fine, preferably code though.",
         "author": "MakayaHall",
-        "posted_time": "21 hours ago",
+        "posted_time": "22 hours ago",
         "link": "https://replit.com/bounties/@MakayaHall/verification-email?t="
     },
     {
@@ -7686,7 +7686,7 @@
         "title": "Identify Bull and Bear Markets",
         "description": "I would like a Python program which takes historical daily stock index data (example, the S&P 500 daily closing price) and identifies bull market peak dates, trough dates, peak values, trough values, percent loss (for bear markets), percent gains (for bull markets), and number of days of bull and bear market duration.  See the link below to economist Ed Yardeni's data on bull and bear markets for the S&P 500 for an indication of desired output that could be applied to other stock market indexes as well.\n\nAcceptance Criteria\n\nPython code which can deliver output that replicates  Yardeni's Tables 1 and 2 will be acceptable, so long as it is based on a method to identify bull market peaks and bear market troughs in a manner that could be applied to other stock market indexes.\n\nTechnical Details\nThe program should output Bull Market and Bear Market summary tables of the type found on economist Ed Yardeni's website at: https://www.yardeni.com/pub/sp500corrbeartables.pdf...",
         "author": "GenuineSkill",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@GenuineSkill/identify-bull-and-be?t="
     },
     {
@@ -7706,7 +7706,7 @@
         "title": "Error on search (Wordpress Site)",
         "description": "The search form is not working properly (https://staging2.legismusic.com/blog/) sometimes when I search for a query (for example 'facebook') it shows an error.\n\nThe Avada team (our Wordpress theme) told me is an issue with Polylang and they told me to deactivate the plugin or just change some options, but I cannot do any of those things: polylang is essential to our site and its configured the way it should be. So I want to know if there's a way to fix this.\n\nRelated to that, the search results -when they work- show results in the 3 languages, instead of the one that is being searched only.\n\nAcceptance Criteria\n\nWe would be happy if the bug is fixed :)\nThis page is our staging site (https://staging2.legismusic.com/) but the real one is https://legismusic.com/",
         "author": "pablolon",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@pablolon/error-on-search-word?t="
     },
     {
@@ -7716,7 +7716,7 @@
         "title": "Newsletter Summary Service: Signup Flow & User Accounts",
         "description": "Building a service to summarize key takeaways from daily / weekly informational email newsletters that users are subscribed to (think Morning Brew, Robinhood Snacks, etc).\n\nThis bounty is only for a signup & account management flow for the service, and the actual summarization of emails is handled by a separate function that is out of scope for this bounty.\n\nAcceptance Criteria\nUser friendly interface that allows user to signup for an account, link their Gmail, select which newsletters they want to have summarized going forward , and manage their account.\n\nSpecific requirements -\n[1] User can click \u201csign up\u201d button to initiate signup flow\n\n[2] Signup flow covers the following -\nDuring sign up, user is prompted to connect their GMail account which surfaces standard GMail 3rd party app access page requesting read-only permissions\nUser then selects the senders whose emails they wish to have summarized going forward. They can do so in two ways from the same screen:\n** T...",
         "author": "MuneebImtiaz",
-        "posted_time": "51 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@MuneebImtiaz/newsletter-summary-s?t="
     }
 ]
