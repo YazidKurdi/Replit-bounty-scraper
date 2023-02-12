@@ -7686,7 +7686,7 @@
         "title": "Identify Bull and Bear Markets",
         "description": "I would like a Python program which takes historical daily stock index data (example, the S&P 500 daily closing price) and identifies bull market peak dates, trough dates, peak values, trough values, percent loss (for bear markets), percent gains (for bull markets), and number of days of bull and bear market duration.  See the link below to economist Ed Yardeni's data on bull and bear markets for the S&P 500 for an indication of desired output that could be applied to other stock market indexes as well.\n\nAcceptance Criteria\n\nPython code which can deliver output that replicates  Yardeni's Tables 1 and 2 will be acceptable, so long as it is based on a method to identify bull market peaks and bear market troughs in a manner that could be applied to other stock market indexes.\n\nTechnical Details\nThe program should output Bull Market and Bear Market summary tables of the type found on economist Ed Yardeni's website at: https://www.yardeni.com/pub/sp500corrbeartables.pdf...",
         "author": "GenuineSkill",
-        "posted_time": "24 hours ago",
+        "posted_time": "1 day ago",
         "link": "https://replit.com/bounties/@GenuineSkill/identify-bull-and-be?t="
     },
     {

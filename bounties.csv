@@ -5986,7 +5986,7 @@ Acceptance Criteria
 Python code which can deliver output that replicates  Yardeni's Tables 1 and 2 will be acceptable, so long as it is based on a method to identify bull market peaks and bear market troughs in a manner that could be applied to other stock market indexes.
 
 Technical Details
-The program should output Bull Market and Bear Market summary tables of the type found on economist Ed Yardeni's website at: https://www.yardeni.com/pub/sp500corrbeartables.pdf...",GenuineSkill,24 hours ago,https://replit.com/bounties/@GenuineSkill/identify-bull-and-be?t=
+The program should output Bull Market and Bear Market summary tables of the type found on economist Ed Yardeni's website at: https://www.yardeni.com/pub/sp500corrbeartables.pdf...",GenuineSkill,1 day ago,https://replit.com/bounties/@GenuineSkill/identify-bull-and-be?t=
 769,$4.50,due in 2 days,Simplify a python script that currently receives a YT link and extracts audio to receive an audio input.,"There's a working script that receives a youtube link as input, extracts audio file, transcribes and diarizes it. I'd like you to simplify the script and receive the audio file as input instead of the youtube link.
 
 Acceptance Criteria
