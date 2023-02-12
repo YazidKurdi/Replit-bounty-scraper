@@ -5978,7 +5978,7 @@ Verification code (number) or link is fine, preferably code though.",MakayaHall,
 to retrieve the price of an NFT, places an order to purchase that token utilizing a metamask  wallet, and then lists an order to sell the token.
 
 Acceptance Criteria
-Given a specific Gods Unchained NFT - I should be able to run the code so that the lowest available purchase price of the NFT is taken via Ethereum from a provided metamask wallet, then the purchased token is listed for sale via Gods tokens at a 5% increase from the purchase price.",AustinHayes2,11 hours ago,https://replit.com/bounties/@AustinHayes2/leverage-imutablex-s?t=
+Given a specific Gods Unchained NFT - I should be able to run the code so that the lowest available purchase price of the NFT is taken via Ethereum from a provided metamask wallet, then the purchased token is listed for sale via Gods tokens at a 5% increase from the purchase price.",AustinHayes2,12 hours ago,https://replit.com/bounties/@AustinHayes2/leverage-imutablex-s?t=
 768,$90.00,due in 3 days,Identify Bull and Bear Markets,"I would like a Python program which takes historical daily stock index data (example, the S&P 500 daily closing price) and identifies bull market peak dates, trough dates, peak values, trough values, percent loss (for bear markets), percent gains (for bull markets), and number of days of bull and bear market duration.  See the link below to economist Ed Yardeni's data on bull and bear markets for the S&P 500 for an indication of desired output that could be applied to other stock market indexes as well.
 
 Acceptance Criteria
@@ -5996,7 +5996,7 @@ Technical Details
 In the end, the input should be audiourlinstead of youtubeurl. Please remove any unused function (like the youtube stuff).
 
 Link to Project
-https://github.com/lucataco/serverless-template-whisper-speaker-diarization-largev2/blob/e0479e50fe6eaea0d56c158e6d92364e9d99ea2b/app.py#L53",gporto,10 hours ago,https://replit.com/bounties/@gporto/simplify-a-python-sc?t=
+https://github.com/lucataco/serverless-template-whisper-speaker-diarization-largev2/blob/e0479e50fe6eaea0d56c158e6d92364e9d99ea2b/app.py#L53",gporto,11 hours ago,https://replit.com/bounties/@gporto/simplify-a-python-sc?t=
 770,$22.50,due in 3 days,Error on search (Wordpress Site),"The search form is not working properly (https://staging2.legismusic.com/blog/) sometimes when I search for a query (for example 'facebook') it shows an error.
 
 The Avada team (our Wordpress theme) told me is an issue with Polylang and they told me to deactivate the plugin or just change some options, but I cannot do any of those things: polylang is essential to our site and its configured the way it should be. So I want to know if there's a way to fix this.
@@ -6007,7 +6007,7 @@ Acceptance Criteria
 
 We would be happy if the bug is fixed :)
 This page is our staging site (https://staging2.legismusic.com/) but the real one is https://legismusic.com/",pablolon,10 hours ago,https://replit.com/bounties/@pablolon/error-on-search-word?t=
-771,$306.00,due in 9 days,Newsletter Summary Service: Signup Flow & User Accounts,"Building a service to summarize key takeaways from daily / weekly informational email newsletters that users are subscribed to (think Morning Brew, Robinhood Snacks, etc).
+771,$306.00,due in 8 days,Newsletter Summary Service: Signup Flow & User Accounts,"Building a service to summarize key takeaways from daily / weekly informational email newsletters that users are subscribed to (think Morning Brew, Robinhood Snacks, etc).
 
 This bounty is only for a signup & account management flow for the service, and the actual summarization of emails is handled by a separate function that is out of scope for this bounty.
 
@@ -6020,4 +6020,4 @@ Specific requirements -
 [2] Signup flow covers the following -
 During sign up, user is prompted to connect their GMail account which surfaces standard GMail 3rd party app access page requesting read-only permissions
 User then selects the senders whose emails they wish to have summarized going forward. They can do so in two ways from the same screen:
-** T...",MuneebImtiaz,1 hour ago,https://replit.com/bounties/@MuneebImtiaz/newsletter-summary-s?t=
+** T...",MuneebImtiaz,2 hours ago,https://replit.com/bounties/@MuneebImtiaz/newsletter-summary-s?t=
