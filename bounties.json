@@ -7746,7 +7746,7 @@
         "title": "Modify a Karabiner Elements Config",
         "description": "I want to adapt the Capslock script for Karabiner Elements to use the LeftCommand key instead of the Capslock key.\n\nReference: https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json\n\nAcceptance Criteria\nHolding LeftCommand key should input Hyper, and everything else in the script should be the same. That is, if it worked with Capslock, it should now work with LeftCommand.\nCan record a screencap of it working, or send me the JSON and I'll test it on my end.\n\nTechnical Details\nJust need to edit the JSON file, and load it into Karabiner to test that it works.\n\nI thought it was simple as changing \"capslock\" references to \"left_command\" references, but it seems more involved.\n\nLink to Project\nhttps://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json",
         "author": "colinricardo",
-        "posted_time": "17 minutes ago",
+        "posted_time": "27 minutes ago",
         "link": "https://replit.com/bounties/@colinricardo/modify-a-karabiner-e?t="
     }
 ]
