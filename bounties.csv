@@ -5950,7 +5950,7 @@ It should be able to handle 100 concurrent sessions.
 
 Timelines / Milestones:
 
-v1 - Basic functionality (Addi...",Bandos1000,1 day ago,https://replit.com/bounties/@Bandos1000/point-calculator-web?t=
+v1 - Basic functionality (Addi...",Bandos1000,2 days ago,https://replit.com/bounties/@Bandos1000/point-calculator-web?t=
 765,$18.00,due in 23 days,Apple Watch App ⌚️,"Looking for some UI and functionality updates for a WatchOS application.
 Currently functional here.
 Repl: https://replit.com/@Bandos1000/FaceNorthWatchOS#CompassHeading.swift
@@ -5969,7 +5969,7 @@ As such, the user journey looks like this:
 User opens app. Each time they open, they are presented with simple options screen: (Screen1)
 Option 1: Train me to 'feel' North (Always on)
 Option 2: Tell me when I'm facing North for the next 4 hours.
-Option 3: Tell me when I'm facing North for the nex...",Bandos1000,1 day ago,https://replit.com/bounties/@Bandos1000/apple-watch-app?t=
+Option 3: Tell me when I'm facing North for the nex...",Bandos1000,2 days ago,https://replit.com/bounties/@Bandos1000/apple-watch-app?t=
 766,$2.25,due in 2 days,Verification email,"I need to have a verification email be sent to someone whenever they sign-up for the first time.
 
 Must be in HTML, CSS, JS, preferably not Node.JS but if you have to you can.
@@ -5986,7 +5986,7 @@ Acceptance Criteria
 Python code which can deliver output that replicates  Yardeni's Tables 1 and 2 will be acceptable, so long as it is based on a method to identify bull market peaks and bear market troughs in a manner that could be applied to other stock market indexes.
 
 Technical Details
-The program should output Bull Market and Bear Market summary tables of the type found on economist Ed Yardeni's website at: https://www.yardeni.com/pub/sp500corrbeartables.pdf...",GenuineSkill,19 hours ago,https://replit.com/bounties/@GenuineSkill/identify-bull-and-be?t=
+The program should output Bull Market and Bear Market summary tables of the type found on economist Ed Yardeni's website at: https://www.yardeni.com/pub/sp500corrbeartables.pdf...",GenuineSkill,20 hours ago,https://replit.com/bounties/@GenuineSkill/identify-bull-and-be?t=
 769,$4.50,due in 2 days,Simplify a python script that currently receives a YT link and extracts audio to receive an audio input.,"There's a working script that receives a youtube link as input, extracts audio file, transcribes and diarizes it. I'd like you to simplify the script and receive the audio file as input instead of the youtube link.
 
 Acceptance Criteria
@@ -6006,7 +6006,7 @@ Related to that, the search results -when they work- show results in the 3 langu
 Acceptance Criteria
 
 We would be happy if the bug is fixed :)
-This page is our staging site (https://staging2.legismusic.com/) but the real one is https://legismusic.com/",pablolon,18 hours ago,https://replit.com/bounties/@pablolon/error-on-search-word?t=
+This page is our staging site (https://staging2.legismusic.com/) but the real one is https://legismusic.com/",pablolon,19 hours ago,https://replit.com/bounties/@pablolon/error-on-search-word?t=
 771,$306.00,due in 7 days,Newsletter Summary Service: Signup Flow & User Accounts,"Building a service to summarize key takeaways from daily / weekly informational email newsletters that users are subscribed to (think Morning Brew, Robinhood Snacks, etc).
 
 This bounty is only for a signup & account management flow for the service, and the actual summarization of emails is handled by a separate function that is out of scope for this bounty.
@@ -6024,7 +6024,7 @@ User then selects the senders whose emails they wish to have summarized going fo
 772,$45.00,due in 2 months,ClassDojo Replacement,"I have a little brother, and we want to start rewarding him for what he does at home. At school they use ClassDojo to reward them, and we were planning on doing that aswell - however using it at home costs money and we don't really want to have a recurring payment just for a reward system.
 
 Acceptance Criteria
-I can add multiple children to the app and remove them at anytime. I can also give and remove points from the children's ""accounts"". The app should also use a login system. OAuth is allowed, and you'll get a 100 cycles bonus per OAuth implementation (max 500 cycles, paid via tips).",haroon,3 hours ago,https://replit.com/bounties/@haroon/classdojo-replacemen?t=
+I can add multiple children to the app and remove them at anytime. I can also give and remove points from the children's ""accounts"". The app should also use a login system. OAuth is allowed, and you'll get a 100 cycles bonus per OAuth implementation (max 500 cycles, paid via tips).",haroon,4 hours ago,https://replit.com/bounties/@haroon/classdojo-replacemen?t=
 773,$13.50,due in 3 days,Scrape website,"Hi,
 
 I would be looking to get this website scraped - https://betsniper.vercel.app/. The website is a list of basketball player odds for player props e.g. Lebron James Over Points. Essentially I would like the data to be scrapped so that each row is a different bet.
