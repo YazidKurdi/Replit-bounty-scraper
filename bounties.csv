@@ -5996,7 +5996,7 @@ Technical Details
 In the end, the input should be audiourlinstead of youtubeurl. Please remove any unused function (like the youtube stuff).
 
 Link to Project
-https://github.com/lucataco/serverless-template-whisper-speaker-diarization-largev2/blob/e0479e50fe6eaea0d56c158e6d92364e9d99ea2b/app.py#L53",gporto,18 hours ago,https://replit.com/bounties/@gporto/simplify-a-python-sc?t=
+https://github.com/lucataco/serverless-template-whisper-speaker-diarization-largev2/blob/e0479e50fe6eaea0d56c158e6d92364e9d99ea2b/app.py#L53",gporto,19 hours ago,https://replit.com/bounties/@gporto/simplify-a-python-sc?t=
 770,$22.50,due in 2 days,Error on search (Wordpress Site),"The search form is not working properly (https://staging2.legismusic.com/blog/) sometimes when I search for a query (for example 'facebook') it shows an error.
 
 The Avada team (our Wordpress theme) told me is an issue with Polylang and they told me to deactivate the plugin or just change some options, but I cannot do any of those things: polylang is essential to our site and its configured the way it should be. So I want to know if there's a way to fix this.
@@ -6020,7 +6020,7 @@ Specific requirements -
 [2] Signup flow covers the following -
 During sign up, user is prompted to connect their GMail account which surfaces standard GMail 3rd party app access page requesting read-only permissions
 User then selects the senders whose emails they wish to have summarized going forward. They can do so in two ways from the same screen:
-** T...",MuneebImtiaz,9 hours ago,https://replit.com/bounties/@MuneebImtiaz/newsletter-summary-s?t=
+** T...",MuneebImtiaz,10 hours ago,https://replit.com/bounties/@MuneebImtiaz/newsletter-summary-s?t=
 772,$45.00,due in 2 months,ClassDojo Replacement,"I have a little brother, and we want to start rewarding him for what he does at home. At school they use ClassDojo to reward them, and we were planning on doing that aswell - however using it at home costs money and we don't really want to have a recurring payment just for a reward system.
 
 Acceptance Criteria
@@ -6045,4 +6045,4 @@ Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	26.5	Pointsbet	1.8	1.95
 Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	26.5	Bet365	1.86	1.86
 Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	26.5	Pinnacle	1.85	1.89
 Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	27.5	Sportsbet	1.94	1.8
-Chicago Bul...",YouReachITeach4,36 minutes ago,https://replit.com/bounties/@YouReachITeach4/scrape-website?t=
+Chicago Bul...",YouReachITeach4,47 minutes ago,https://replit.com/bounties/@YouReachITeach4/scrape-website?t=
