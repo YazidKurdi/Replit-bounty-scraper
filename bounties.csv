@@ -6020,7 +6020,7 @@ Specific requirements -
 [2] Signup flow covers the following -
 During sign up, user is prompted to connect their GMail account which surfaces standard GMail 3rd party app access page requesting read-only permissions
 User then selects the senders whose emails they wish to have summarized going forward. They can do so in two ways from the same screen:
-** T...",MuneebImtiaz,17 hours ago,https://replit.com/bounties/@MuneebImtiaz/newsletter-summary-s?t=
+** T...",MuneebImtiaz,18 hours ago,https://replit.com/bounties/@MuneebImtiaz/newsletter-summary-s?t=
 772,$45.00,due in 2 months,ClassDojo Replacement,"I have a little brother, and we want to start rewarding him for what he does at home. At school they use ClassDojo to reward them, and we were planning on doing that aswell - however using it at home costs money and we don't really want to have a recurring payment just for a reward system.
 
 Acceptance Criteria
@@ -6061,7 +6061,7 @@ I thought it was simple as changing ""capslock"" references to ""left_command"" 
 
 Link to Project
 https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json",colinricardo,5 hours ago,https://replit.com/bounties/@colinricardo/modify-a-karabiner-e?t=
-775,"$3,150.00",due in 13 days,“LLM-ify” Any App,"https://twitter.com/josephjacks_/status/1624829956483334146
+775,"$3,150.00",due in 1 month,“LLM-ify” Any App,"https://twitter.com/josephjacks_/status/1624829956483334146
 
 Acceptance Criteria
 
@@ -6089,4 +6089,4 @@ The user's OpenAI API Key
 A custom prompt
 Model type (ability to switch between customized models)
 Max Tokens returned from the model (defaults to 1024)
-Temper...",syst3m3,49 minutes ago,https://replit.com/bounties/@syst3m3/roamresearch-fine-tu?t=
+Temper...",syst3m3,58 minutes ago,https://replit.com/bounties/@syst3m3/roamresearch-fine-tu?t=
