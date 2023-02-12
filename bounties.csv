@@ -5986,7 +5986,7 @@ Acceptance Criteria
 Python code which can deliver output that replicates  Yardeni's Tables 1 and 2 will be acceptable, so long as it is based on a method to identify bull market peaks and bear market troughs in a manner that could be applied to other stock market indexes.
 
 Technical Details
-The program should output Bull Market and Bear Market summary tables of the type found on economist Ed Yardeni's website at: https://www.yardeni.com/pub/sp500corrbeartables.pdf...",GenuineSkill,23 hours ago,https://replit.com/bounties/@GenuineSkill/identify-bull-and-be?t=
+The program should output Bull Market and Bear Market summary tables of the type found on economist Ed Yardeni's website at: https://www.yardeni.com/pub/sp500corrbeartables.pdf...",GenuineSkill,24 hours ago,https://replit.com/bounties/@GenuineSkill/identify-bull-and-be?t=
 769,$4.50,due in 2 days,Simplify a python script that currently receives a YT link and extracts audio to receive an audio input.,"There's a working script that receives a youtube link as input, extracts audio file, transcribes and diarizes it. I'd like you to simplify the script and receive the audio file as input instead of the youtube link.
 
 Acceptance Criteria
@@ -6024,7 +6024,7 @@ User then selects the senders whose emails they wish to have summarized going fo
 772,$45.00,due in 2 months,ClassDojo Replacement,"I have a little brother, and we want to start rewarding him for what he does at home. At school they use ClassDojo to reward them, and we were planning on doing that aswell - however using it at home costs money and we don't really want to have a recurring payment just for a reward system.
 
 Acceptance Criteria
-I can add multiple children to the app and remove them at anytime. I can also give and remove points from the children's ""accounts"". The app should also use a login system. OAuth is allowed, and you'll get a 100 cycles bonus per OAuth implementation (max 500 cycles, paid via tips).",haroon,7 hours ago,https://replit.com/bounties/@haroon/classdojo-replacemen?t=
+I can add multiple children to the app and remove them at anytime. I can also give and remove points from the children's ""accounts"". The app should also use a login system. OAuth is allowed, and you'll get a 100 cycles bonus per OAuth implementation (max 500 cycles, paid via tips).",haroon,8 hours ago,https://replit.com/bounties/@haroon/classdojo-replacemen?t=
 773,$13.50,due in 3 days,Scrape website,"Hi,
 
 I would be looking to get this website scraped - https://betsniper.vercel.app/. The website is a list of basketball player odds for player props e.g. Lebron James Over Points. Essentially I would like the data to be scrapped so that each row is a different bet.
@@ -6060,4 +6060,4 @@ Just need to edit the JSON file, and load it into Karabiner to test that it work
 I thought it was simple as changing ""capslock"" references to ""left_command"" references, but it seems more involved.
 
 Link to Project
-https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json",colinricardo,1 hour ago,https://replit.com/bounties/@colinricardo/modify-a-karabiner-e?t=
+https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json",colinricardo,2 hours ago,https://replit.com/bounties/@colinricardo/modify-a-karabiner-e?t=
