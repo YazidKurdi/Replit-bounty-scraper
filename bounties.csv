@@ -6060,7 +6060,7 @@ Just need to edit the JSON file, and load it into Karabiner to test that it work
 I thought it was simple as changing ""capslock"" references to ""left_command"" references, but it seems more involved.
 
 Link to Project
-https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json",colinricardo,20 hours ago,https://replit.com/bounties/@colinricardo/modify-a-karabiner-e?t=
+https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json",colinricardo,21 hours ago,https://replit.com/bounties/@colinricardo/modify-a-karabiner-e?t=
 775,"$3,150.00",due in 29 days,“LLM-ify” Any App,"https://twitter.com/josephjacks_/status/1624829956483334146
 
 Acceptance Criteria
@@ -6089,18 +6089,18 @@ The user's OpenAI API Key
 A custom prompt
 Model type (ability to switch between customized models)
 Max Tokens returned from the model (defaults to 1024)
-Temper...",syst3m3,16 hours ago,https://replit.com/bounties/@syst3m3/roamresearch-fine-tu?t=
+Temper...",syst3m3,17 hours ago,https://replit.com/bounties/@syst3m3/roamresearch-fine-tu?t=
 777,$9.00,closed,Grab Ticker Data from Webull Images,"Extract ticker data from Webull screenshots and organize into a spreadsheet.
 
 Acceptance Criteria
-Must be able to process both singular images and multiple images at one (hundreds to thousands at a time).",jiofunk,11 hours ago,https://replit.com/bounties/@jiofunk/grab-ticker-data-fro?t=
+Must be able to process both singular images and multiple images at one (hundreds to thousands at a time).",jiofunk,12 hours ago,https://replit.com/bounties/@jiofunk/grab-ticker-data-fro?t=
 778,$10.35,due in 3 days,Grab Ticker Data from Webull Images,"Extract ticker data from Webull screenshots and organize into a spreadsheet.
 
 Acceptance Criteria
 Must be able to process both singular images and multiple images at one (hundreds to thousands at a time).",jiofunk,11 hours ago,https://replit.com/bounties/@jiofunk/grab-ticker-data-fro-1?t=
 779,$25.00,due in 3 days,Update a repository for Java Spring Boot App,"Help incorporate new classes and class updates into a GitHub repository. Also, guide on the process and help test the application to make sure newly added code is functioning properly.
 
-""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,10 hours ago,https://replit.com/bounties/@mdotbaig/update-a-repository?t=
+""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,11 hours ago,https://replit.com/bounties/@mdotbaig/update-a-repository?t=
 780,$9.00,due in 3 days,Fix simple Office Script calling Census Geocoder API,"I have a pretty simple office script.  The user highlights two columns.  The first column is a set of addresses, and hte second column will get overwritten.
 
 The script calls the Census Geocoder API, and it is supposed to write the json response in column 2.
@@ -6142,4 +6142,4 @@ Acceptance Criteria - A Ai chat bot where users can enter questions (prompts dri
 
 Technical Details - New to this so open to conversation
 
- will update and upgrade bounty as we talk and we align with each other",AadishBansal2,13 minutes ago,https://replit.com/bounties/@AadishBansal2/build-investing-supp?t=
+ will update and upgrade bounty as we talk and we align with each other",AadishBansal2,29 minutes ago,https://replit.com/bounties/@AadishBansal2/build-investing-supp?t=
