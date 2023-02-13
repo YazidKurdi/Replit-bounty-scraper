@@ -7846,7 +7846,7 @@
         "title": "Only Fans AI Chrome Extension",
         "description": "Problem\nAs an OF creator, I get too many direct messages to handle. I want to be able to put chatting with my fans on autopilot.\n\nSolution\n\nI use a chrome extension to generate responses to fans.\n\nAcceptance Criteria\n\nPersonality\n  I need the responses to sound like me. Therefore before the extension begins, I insert the qualities it needs to act like me:\n        Name\n        Style, eg \"Flirty, fun, charming, nice\"\n        3.Level of emojis, eg \"Little, medium, high, lots\"\n        For example:\n        Pretend you are XYZ a famous sexy twitch streamer who posts fun content on many social media platforms, you like to respond in a flirty way with emojis.\n\nChats\n The bots response must sound relevant to what the fan has sent in direct message. Therefore the prompt to Open AI should always include the Personality in 1 and the most recent message from the fan.\n\nUX\n    Ideally the message to be sent is generated in a way where you can:\n        see the draft\n        edit i...",
         "author": "littlegoatcoding",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@littlegoatcoding/only-fans-ai-chrome?t="
     },
     {
