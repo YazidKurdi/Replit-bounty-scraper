@@ -6089,18 +6089,18 @@ The user's OpenAI API Key
 A custom prompt
 Model type (ability to switch between customized models)
 Max Tokens returned from the model (defaults to 1024)
-Temper...",syst3m3,18 hours ago,https://replit.com/bounties/@syst3m3/roamresearch-fine-tu?t=
+Temper...",syst3m3,19 hours ago,https://replit.com/bounties/@syst3m3/roamresearch-fine-tu?t=
 777,$9.00,closed,Grab Ticker Data from Webull Images,"Extract ticker data from Webull screenshots and organize into a spreadsheet.
 
 Acceptance Criteria
-Must be able to process both singular images and multiple images at one (hundreds to thousands at a time).",jiofunk,13 hours ago,https://replit.com/bounties/@jiofunk/grab-ticker-data-fro?t=
+Must be able to process both singular images and multiple images at one (hundreds to thousands at a time).",jiofunk,14 hours ago,https://replit.com/bounties/@jiofunk/grab-ticker-data-fro?t=
 778,$10.35,due in 3 days,Grab Ticker Data from Webull Images,"Extract ticker data from Webull screenshots and organize into a spreadsheet.
 
 Acceptance Criteria
 Must be able to process both singular images and multiple images at one (hundreds to thousands at a time).",jiofunk,13 hours ago,https://replit.com/bounties/@jiofunk/grab-ticker-data-fro-1?t=
 779,$25.00,closed,Update a repository for Java Spring Boot App,"Help incorporate new classes and class updates into a GitHub repository. Also, guide on the process and help test the application to make sure newly added code is functioning properly.
 
-""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,12 hours ago,https://replit.com/bounties/@mdotbaig/update-a-repository?t=
+""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,13 hours ago,https://replit.com/bounties/@mdotbaig/update-a-repository?t=
 780,$9.00,due in 3 days,Fix simple Office Script calling Census Geocoder API,"I have a pretty simple office script.  The user highlights two columns.  The first column is a set of addresses, and hte second column will get overwritten.
 
 The script calls the Census Geocoder API, and it is supposed to write the json response in column 2.
@@ -6142,7 +6142,7 @@ Acceptance Criteria - A Ai chat bot where users can enter questions (prompts dri
 
 Technical Details - New to this so open to conversation
 
- will update and upgrade bounty as we talk and we align with each other",AadishBansal2,2 hours ago,https://replit.com/bounties/@AadishBansal2/build-investing-supp?t=
+ will update and upgrade bounty as we talk and we align with each other",AadishBansal2,3 hours ago,https://replit.com/bounties/@AadishBansal2/build-investing-supp?t=
 783,$4.71,due in 10 days,"[HTML, CSS, JS] I need a website for my hosting company.","About 6 pages
 Style of the pages: Take a look at https://daki.cc/ and https://revivenode.com/ if you think you can combine the background on daki with the look of the sections on revive node then you can do this.
 
@@ -6172,7 +6172,7 @@ Chats
 UX
     Ideally the message to be sent is generated in a way where you can:
         see the draft
-        edit i...",littlegoatcoding,45 minutes ago,https://replit.com/bounties/@littlegoatcoding/only-fans-ai-chrome?t=
+        edit i...",littlegoatcoding,1 hour ago,https://replit.com/bounties/@littlegoatcoding/only-fans-ai-chrome?t=
 785,$36.00,due in 3 days,Fix a scraper that is a previous replit bounty,"I have a Selenium scraper that scrapes TikToks from the browser version of TikTok. TikTok allows you to view the 1,000 most 'popular' TikToks associated with a particular hashtag.
 
 I want to pull the URL's to each tiktok, and associated information such as the number of comments, date posted, number of likes and the text description/hashtags associated with each video.  I want to display this in Airtable.
@@ -6181,4 +6181,4 @@ It's all set up and was previously working except now when I re-run the script, 
 
 Acceptance Criteria
 
-It will be accepted when I have the 1,000 TikToks and specified data in my Airtable.",AdamFlanagan1,20 minutes ago,https://replit.com/bounties/@AdamFlanagan1/fix-a-scraper-that-i?t=
+It will be accepted when I have the 1,000 TikToks and specified data in my Airtable.",AdamFlanagan1,39 minutes ago,https://replit.com/bounties/@AdamFlanagan1/fix-a-scraper-that-i?t=
