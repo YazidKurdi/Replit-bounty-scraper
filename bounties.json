@@ -7786,7 +7786,7 @@
         "title": "Grab Ticker Data from Webull Images",
         "description": "Extract ticker data from Webull screenshots and organize into a spreadsheet.\n\nAcceptance Criteria\nMust be able to process both singular images and multiple images at one (hundreds to thousands at a time).",
         "author": "jiofunk",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@jiofunk/grab-ticker-data-fro-1?t="
     },
     {
@@ -7816,7 +7816,7 @@
         "title": "Startup Library ChatBot",
         "description": "Similarly to the tool described in this article (https://every.to/chain-of-thought/how-to-build-a-chatbot-with-gpt-3), I want to build a GPT chatbot I can share with my followers via a website. This Chatbot is supposed to answer questions based on the information of a library of resources I have saved, this will be articles on startups, etc.\nI want it to be accessible via a website (similar to http://www.lennybot.com/).\n\nI want to be able to feed the database new articles as I go along. Ideally, I also want to feed other data sources into it, such as my personal CRM (to find contacts I know) or my CRM of companies I like.\n\nAcceptance Criteria\nIf it does the above, I'm happy.\n\nTechnical Details",
         "author": "EnricoM2",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@EnricoM2/startup-library-chat?t="
     },
     {
@@ -7826,7 +7826,7 @@
         "title": "Build Investing Support Ai Bot",
         "description": "Problem- I want to build an Ai powered LLM bot which picks up financial data/news/earnings call/investor presentations/corp.announcements/social signals/all web available data to churn out valuation analytics summaries-visuals-charts-gamified\n\nAcceptance Criteria - A Ai chat bot where users can enter questions (prompts driven suggestions etc) about different strategies of investing / trading  to churn out insights\n\nTechnical Details - New to this so open to conversation\n\n will update and upgrade bounty as we talk and we align with each other",
         "author": "AadishBansal2",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@AadishBansal2/build-investing-supp?t="
     },
     {
@@ -7836,7 +7836,7 @@
         "title": "[HTML, CSS, JS] I need a website for my hosting company.",
         "description": "About 6 pages\nStyle of the pages: Take a look at https://daki.cc/ and https://revivenode.com/ if you think you can combine the background on daki with the look of the sections on revive node then you can do this.\n\nAcceptance Criteria\nAll I need is your discord (linked to your replit account or in your application)\nAlong with the discord in your bio I need you to friend my discord account (!Odd#1919) or be in the replit discord, This is so I can message you instantly if your application is accepted.",
         "author": "OddGames",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@OddGames/html-css-js-i-need-a?t="
     },
     {
@@ -7878,5 +7878,15 @@
         "author": "JordanManeval1",
         "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@JordanManeval1/generative-ai-avatar?t="
+    },
+    {
+        "index": "788",
+        "price": "$810.00",
+        "due_days": "due in 18 days",
+        "title": "Chat with your knowledge-base",
+        "description": "Businesses and individuals deal with endless sources of knowledge to store their data; docs, pdfs, Slack, Notion, Jira, etc..\n\nWith the power of AI and embeddings, sifting through this data became 100x easier. For this project, I would like to build a tool that allows a business or an individual to connect to their data sources and \"talk\" to their data through a chat UI; example questions that the tool should be able to answer (given its connected to the needed data sources):\n\nfor a business:\nHow can I file a feature request?\nSummarize our last quarterly results\nHow do I set up my local dev environment?\nWhat's the scope of the Microsoft Dynamics integration?\n\nFor an individual:\nWhat are the main points discussed in my PHD paper?\nWhat subjects will I learn about given my Economics 101 class syllabus?\nWhat's the grading criteria for Economics 101?\nSummarize my notes over the last 7 days\n\nTo be able to build something like this, you should use something like gpt-index...",
+        "author": "metahash",
+        "posted_time": "4 hours ago",
+        "link": "https://replit.com/bounties/@metahash/a-script-to-generate?t="
     }
 ]
