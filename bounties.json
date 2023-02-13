@@ -7836,7 +7836,7 @@
         "title": "[HTML, CSS, JS] I need a website for my hosting company.",
         "description": "About 6 pages\nStyle of the pages: Take a look at https://daki.cc/ and https://revivenode.com/ if you think you can combine the background on daki with the look of the sections on revive node then you can do this.\n\nAcceptance Criteria\nAll I need is your discord (linked to your replit account or in your application)\nAlong with the discord in your bio I need you to friend my discord account (!Odd#1919) or be in the replit discord, This is so I can message you instantly if your application is accepted.",
         "author": "OddGames",
-        "posted_time": "59 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@OddGames/html-css-js-i-need-a?t="
     },
     {
@@ -7846,7 +7846,7 @@
         "title": "Only Fans AI Chrome Extension",
         "description": "Problem\nAs an OF creator, I get too many direct messages to handle. I want to be able to put chatting with my fans on autopilot.\n\nSolution\n\nI use a chrome extension to generate responses to fans.\n\nAcceptance Criteria\n\nPersonality\n  I need the responses to sound like me. Therefore before the extension begins, I insert the qualities it needs to act like me:\n        Name\n        Style, eg \"Flirty, fun, charming, nice\"\n        3.Level of emojis, eg \"Little, medium, high, lots\"\n        For example:\n        Pretend you are XYZ a famous sexy twitch streamer who posts fun content on many social media platforms, you like to respond in a flirty way with emojis.\n\nChats\n The bots response must sound relevant to what the fan has sent in direct message. Therefore the prompt to Open AI should always include the Personality in 1 and the most recent message from the fan.\n\nUX\n    Ideally the message to be sent is generated in a way where you can:\n        see the draft\n        edit i...",
         "author": "littlegoatcoding",
-        "posted_time": "37 minutes ago",
+        "posted_time": "45 minutes ago",
         "link": "https://replit.com/bounties/@littlegoatcoding/only-fans-ai-chrome?t="
     },
     {
@@ -7856,7 +7856,7 @@
         "title": "Fix a scraper that is a previous replit bounty",
         "description": "I have a Selenium scraper that scrapes TikToks from the browser version of TikTok. TikTok allows you to view the 1,000 most 'popular' TikToks associated with a particular hashtag.\n\nI want to pull the URL's to each tiktok, and associated information such as the number of comments, date posted, number of likes and the text description/hashtags associated with each video.  I want to display this in Airtable.\n\nIt's all set up and was previously working except now when I re-run the script, nothing is getting displayed in Airtable.\n\nAcceptance Criteria\n\nIt will be accepted when I have the 1,000 TikToks and specified data in my Airtable.",
         "author": "AdamFlanagan1",
-        "posted_time": "12 minutes ago",
+        "posted_time": "20 minutes ago",
         "link": "https://replit.com/bounties/@AdamFlanagan1/fix-a-scraper-that-i?t="
     }
 ]
