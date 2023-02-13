@@ -6097,7 +6097,7 @@ Must be able to process both singular images and multiple images at one (hundred
 778,$10.35,due in 3 days,Grab Ticker Data from Webull Images,"Extract ticker data from Webull screenshots and organize into a spreadsheet.
 
 Acceptance Criteria
-Must be able to process both singular images and multiple images at one (hundreds to thousands at a time).",jiofunk,13 hours ago,https://replit.com/bounties/@jiofunk/grab-ticker-data-fro-1?t=
+Must be able to process both singular images and multiple images at one (hundreds to thousands at a time).",jiofunk,14 hours ago,https://replit.com/bounties/@jiofunk/grab-ticker-data-fro-1?t=
 779,$25.00,closed,Update a repository for Java Spring Boot App,"Help incorporate new classes and class updates into a GitHub repository. Also, guide on the process and help test the application to make sure newly added code is functioning properly.
 
 ""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,13 hours ago,https://replit.com/bounties/@mdotbaig/update-a-repository?t=
@@ -6126,7 +6126,7 @@ async function tryCatch(callback) {
 
 async function run() {
   await Excel.run(async (context) => {
-    const range = context.workbook.get...",EthanArd1,7 hours ago,https://replit.com/bounties/@EthanArd1/fix-simple-office-sc?t=
+    const range = context.workbook.get...",EthanArd1,8 hours ago,https://replit.com/bounties/@EthanArd1/fix-simple-office-sc?t=
 781,$450.00,due in 13 days,Startup Library ChatBot,"Similarly to the tool described in this article (https://every.to/chain-of-thought/how-to-build-a-chatbot-with-gpt-3), I want to build a GPT chatbot I can share with my followers via a website. This Chatbot is supposed to answer questions based on the information of a library of resources I have saved, this will be articles on startups, etc.
 I want it to be accessible via a website (similar to http://www.lennybot.com/).
 
@@ -6135,7 +6135,7 @@ I want to be able to feed the database new articles as I go along. Ideally, I al
 Acceptance Criteria
 If it does the above, I'm happy.
 
-Technical Details",EnricoM2,5 hours ago,https://replit.com/bounties/@EnricoM2/startup-library-chat?t=
+Technical Details",EnricoM2,6 hours ago,https://replit.com/bounties/@EnricoM2/startup-library-chat?t=
 782,$0.90,due in 14 days,Build Investing Support Ai Bot,"Problem- I want to build an Ai powered LLM bot which picks up financial data/news/earnings call/investor presentations/corp.announcements/social signals/all web available data to churn out valuation analytics summaries-visuals-charts-gamified
 
 Acceptance Criteria - A Ai chat bot where users can enter questions (prompts driven suggestions etc) about different strategies of investing / trading  to churn out insights
@@ -6148,7 +6148,7 @@ Style of the pages: Take a look at https://daki.cc/ and https://revivenode.com/ 
 
 Acceptance Criteria
 All I need is your discord (linked to your replit account or in your application)
-Along with the discord in your bio I need you to friend my discord account (!Odd#1919) or be in the replit discord, This is so I can message you instantly if your application is accepted.",OddGames,1 hour ago,https://replit.com/bounties/@OddGames/html-css-js-i-need-a?t=
+Along with the discord in your bio I need you to friend my discord account (!Odd#1919) or be in the replit discord, This is so I can message you instantly if your application is accepted.",OddGames,2 hours ago,https://replit.com/bounties/@OddGames/html-css-js-i-need-a?t=
 784,$162.00,due in 8 days,Only Fans AI Chrome Extension,"Problem
 As an OF creator, I get too many direct messages to handle. I want to be able to put chatting with my fans on autopilot.
 
@@ -6172,7 +6172,7 @@ Chats
 UX
     Ideally the message to be sent is generated in a way where you can:
         see the draft
-        edit i...",littlegoatcoding,1 hour ago,https://replit.com/bounties/@littlegoatcoding/only-fans-ai-chrome?t=
+        edit i...",littlegoatcoding,2 hours ago,https://replit.com/bounties/@littlegoatcoding/only-fans-ai-chrome?t=
 785,$36.00,due in 3 days,Fix a scraper that is a previous replit bounty,"I have a Selenium scraper that scrapes TikToks from the browser version of TikTok. TikTok allows you to view the 1,000 most 'popular' TikToks associated with a particular hashtag.
 
 I want to pull the URL's to each tiktok, and associated information such as the number of comments, date posted, number of likes and the text description/hashtags associated with each video.  I want to display this in Airtable.
@@ -6181,4 +6181,4 @@ It's all set up and was previously working except now when I re-run the script, 
 
 Acceptance Criteria
 
-It will be accepted when I have the 1,000 TikToks and specified data in my Airtable.",AdamFlanagan1,39 minutes ago,https://replit.com/bounties/@AdamFlanagan1/fix-a-scraper-that-i?t=
+It will be accepted when I have the 1,000 TikToks and specified data in my Airtable.",AdamFlanagan1,1 hour ago,https://replit.com/bounties/@AdamFlanagan1/fix-a-scraper-that-i?t=
