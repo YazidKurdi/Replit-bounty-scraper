@@ -6135,20 +6135,20 @@ I want to be able to feed the database new articles as I go along. Ideally, I al
 Acceptance Criteria
 If it does the above, I'm happy.
 
-Technical Details",EnricoM2,12 hours ago,https://replit.com/bounties/@EnricoM2/startup-library-chat?t=
+Technical Details",EnricoM2,13 hours ago,https://replit.com/bounties/@EnricoM2/startup-library-chat?t=
 782,$0.90,due in 14 days,Build Investing Support Ai Bot,"Problem- I want to build an Ai powered LLM bot which picks up financial data/news/earnings call/investor presentations/corp.announcements/social signals/all web available data to churn out valuation analytics summaries-visuals-charts-gamified
 
 Acceptance Criteria - A Ai chat bot where users can enter questions (prompts driven suggestions etc) about different strategies of investing / trading  to churn out insights
 
 Technical Details - New to this so open to conversation
 
- will update and upgrade bounty as we talk and we align with each other",AadishBansal2,9 hours ago,https://replit.com/bounties/@AadishBansal2/build-investing-supp?t=
+ will update and upgrade bounty as we talk and we align with each other",AadishBansal2,10 hours ago,https://replit.com/bounties/@AadishBansal2/build-investing-supp?t=
 783,$4.71,due in 10 days,"[HTML, CSS, JS] I need a website for my hosting company.","About 6 pages
 Style of the pages: Take a look at https://daki.cc/ and https://revivenode.com/ if you think you can combine the background on daki with the look of the sections on revive node then you can do this.
 
 Acceptance Criteria
 All I need is your discord (linked to your replit account or in your application)
-Along with the discord in your bio I need you to friend my discord account (!Odd#1919) or be in the replit discord, This is so I can message you instantly if your application is accepted.",OddGames,8 hours ago,https://replit.com/bounties/@OddGames/html-css-js-i-need-a?t=
+Along with the discord in your bio I need you to friend my discord account (!Odd#1919) or be in the replit discord, This is so I can message you instantly if your application is accepted.",OddGames,9 hours ago,https://replit.com/bounties/@OddGames/html-css-js-i-need-a?t=
 784,$162.00,due in 8 days,Only Fans AI Chrome Extension,"Problem
 As an OF creator, I get too many direct messages to handle. I want to be able to put chatting with my fans on autopilot.
 
@@ -6225,11 +6225,11 @@ What subjects will I learn about given my Economics 101 class syllabus?
 What's the grading criteria for Economics 101?
 Summarize my notes over the last 7 days
 
-To be able to build something like this, you should use something like gpt-index...",metahash,6 hours ago,https://replit.com/bounties/@metahash/a-script-to-generate?t=
+To be able to build something like this, you should use something like gpt-index...",metahash,7 hours ago,https://replit.com/bounties/@metahash/a-script-to-generate?t=
 789,$45.00,due in 6 days,[TRANSLATION] Convert Swift/Objective C Code Utilizing Various MacOS APIs to Python,"tl;dr I have a bit over 50 lines of Swift/Objective C code that need to be converted into Python. It uses some Mac OS APIs to work. Repo Link: https://github.com/tml1024/FluffyDisplay. It is mainly a library that exports one function. I would like that function to be available through Python code. Please include previous bounty work and experience with Mac OS APIs. I will tip up extra for fast work!
 
 Problem Description
 FluffyDisplay allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in Swift/Objective C utilizing MacOS APIs. It is also made to be a partial library. I would like to convert this to Python and make it usable through python. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
-I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Pyt...",EpicCodeWizard2,35 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-5?t=
+I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Pyt...",EpicCodeWizard2,51 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-5?t=
