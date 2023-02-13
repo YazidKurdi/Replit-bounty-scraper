@@ -7716,7 +7716,7 @@
         "title": "Newsletter Summary Service: Signup Flow & User Accounts",
         "description": "Building a service to summarize key takeaways from daily / weekly informational email newsletters that users are subscribed to (think Morning Brew, Robinhood Snacks, etc).\n\nThis bounty is only for a signup & account management flow for the service, and the actual summarization of emails is handled by a separate function that is out of scope for this bounty.\n\nAcceptance Criteria\nUser friendly interface that allows user to signup for an account, link their Gmail, select which newsletters they want to have summarized going forward , and manage their account.\n\nSpecific requirements -\n[1] User can click \u201csign up\u201d button to initiate signup flow\n\n[2] Signup flow covers the following -\nDuring sign up, user is prompted to connect their GMail account which surfaces standard GMail 3rd party app access page requesting read-only permissions\nUser then selects the senders whose emails they wish to have summarized going forward. They can do so in two ways from the same screen:\n** T...",
         "author": "MuneebImtiaz",
-        "posted_time": "23 hours ago",
+        "posted_time": "24 hours ago",
         "link": "https://replit.com/bounties/@MuneebImtiaz/newsletter-summary-s?t="
     },
     {
@@ -7736,7 +7736,7 @@
         "title": "Scrape website",
         "description": "Hi,\n\nI would be looking to get this website scraped - https://betsniper.vercel.app/. The website is a list of basketball player odds for player props e.g. Lebron James Over Points. Essentially I would like the data to be scrapped so that each row is a different bet.\n\nThe table would be organised with the following headers (examples provided correlating to the image):\nGame\nPlayer\nStat\nLine\nBookmaker\nOdds (over and under)\n\nBelow is what the data could look like,\nGame\tPlayer\tStat\tLine\tBookmaker\tOver odds\tUnder odds\nChicago Bulls vs Charlotte Hornets\tDemar Derozan\tPoints\t26.5\tTopsport\t1.88\t1.9\nChicago Bulls vs Charlotte Hornets\tDemar Derozan\tPoints\t26.5\tTAB\t1.85\t1.9\nChicago Bulls vs Charlotte Hornets\tDemar Derozan\tPoints\t26.5\tPointsbet\t1.8\t1.95\nChicago Bulls vs Charlotte Hornets\tDemar Derozan\tPoints\t26.5\tBet365\t1.86\t1.86\nChicago Bulls vs Charlotte Hornets\tDemar Derozan\tPoints\t26.5\tPinnacle\t1.85\t1.89\nChicago Bulls vs Charlotte Hornets\tDemar Derozan\tPoints\t27.5\tSportsbet\t1.94\t1.8\nChicago Bul...",
         "author": "YouReachITeach4",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@YouReachITeach4/scrape-website?t="
     },
     {
@@ -7786,7 +7786,7 @@
         "title": "Grab Ticker Data from Webull Images",
         "description": "Extract ticker data from Webull screenshots and organize into a spreadsheet.\n\nAcceptance Criteria\nMust be able to process both singular images and multiple images at one (hundreds to thousands at a time).",
         "author": "jiofunk",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@jiofunk/grab-ticker-data-fro-1?t="
     },
     {
@@ -7796,7 +7796,7 @@
         "title": "Update a repository for Java Spring Boot App",
         "description": "Help incorporate new classes and class updates into a GitHub repository. Also, guide on the process and help test the application to make sure newly added code is functioning properly.\n\n\"By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.\"",
         "author": "mdotbaig",
-        "posted_time": "44 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@mdotbaig/update-a-repository?t="
     }
 ]
