@@ -7756,7 +7756,7 @@
         "title": "\u201cLLM-ify\u201d Any App",
         "description": "https://twitter.com/josephjacks_/status/1624829956483334146\n\nAcceptance Criteria\n\nDemonstrate a working prototype of this vision that can easily be \u201capplied\u201d to any app \u2014 but specifically show how it can be applied to open source apps like Cal.com, NocoDB, OpenBB, Godot, RustDesk (2 or more of these).\n\nThis tool should also work for fully proprietary apps but that would likely be more difficult and require more access.\n\nPart of what will enable you to win this prize is design and specification of this infra tool that can work for any app and also within any level of arbitrary complexity within that app.. by analogy, think of what Stable Diffusion unlocks with natural language driven image generation \u2014 this project should provide a similar framework / tool but for \u201cconfiguration generation\u201d driven by natural language in any app.\n\nTechnical Details\n\nMust be fully open source and Apache licensed.",
         "author": "JosephJacks",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@JosephJacks/llm-ify-any-app?t="
     },
     {
@@ -7816,7 +7816,7 @@
         "title": "Startup Library ChatBot",
         "description": "Similarly to the tool described in this article (https://every.to/chain-of-thought/how-to-build-a-chatbot-with-gpt-3), I want to build a GPT chatbot I can share with my followers via a website. This Chatbot is supposed to answer questions based on the information of a library of resources I have saved, this will be articles on startups, etc.\nI want it to be accessible via a website (similar to http://www.lennybot.com/).\n\nI want to be able to feed the database new articles as I go along. Ideally, I also want to feed other data sources into it, such as my personal CRM (to find contacts I know) or my CRM of companies I like.\n\nAcceptance Criteria\nIf it does the above, I'm happy.\n\nTechnical Details",
         "author": "EnricoM2",
-        "posted_time": "57 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@EnricoM2/startup-library-chat?t="
     }
 ]
