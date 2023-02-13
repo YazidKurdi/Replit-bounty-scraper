@@ -7806,7 +7806,7 @@
         "title": "Fix simple Office Script calling Census Geocoder API",
         "description": "I have a pretty simple office script.  The user highlights two columns.  The first column is a set of addresses, and hte second column will get overwritten.\n\nThe script calls the Census Geocoder API, and it is supposed to write the json response in column 2.\n\nI am able to get the json fine, and log it to the console.  But for reasons I can't understand, the script is not actually writing the data to column 2.  I am trying to do a context.sync() inside the jsonp success function, but clearly it's not working.\n\nAcceptance Criteria\nCorrected version of the script which runs in Office, specifically under Script Lab.\n\nTechnical Details\nHere is the code:\n\n$(\"#run\").click(() => tryCatch(run));\n\n/* Default helper for invoking an action and handling errors. /\nasync function tryCatch(callback) {\n  try {\n    await callback();\n  } catch (error) {\n    console.error(error);\n  }\n}\n\nasync function run() {\n  await Excel.run(async (context) => {\n    const range = context.workbook.get...",
         "author": "EthanArd1",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@EthanArd1/fix-simple-office-sc?t="
     },
     {
@@ -7816,7 +7816,7 @@
         "title": "Startup Library ChatBot",
         "description": "Similarly to the tool described in this article (https://every.to/chain-of-thought/how-to-build-a-chatbot-with-gpt-3), I want to build a GPT chatbot I can share with my followers via a website. This Chatbot is supposed to answer questions based on the information of a library of resources I have saved, this will be articles on startups, etc.\nI want it to be accessible via a website (similar to http://www.lennybot.com/).\n\nI want to be able to feed the database new articles as I go along. Ideally, I also want to feed other data sources into it, such as my personal CRM (to find contacts I know) or my CRM of companies I like.\n\nAcceptance Criteria\nIf it does the above, I'm happy.\n\nTechnical Details",
         "author": "EnricoM2",
-        "posted_time": "47 minutes ago",
+        "posted_time": "57 minutes ago",
         "link": "https://replit.com/bounties/@EnricoM2/startup-library-chat?t="
     }
 ]
