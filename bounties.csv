@@ -6126,4 +6126,4 @@ async function tryCatch(callback) {
 
 async function run() {
   await Excel.run(async (context) => {
-    const range = context.workbook.get...",EthanArd1,21 minutes ago,https://replit.com/bounties/@EthanArd1/fix-simple-office-sc?t=
+    const range = context.workbook.get...",EthanArd1,30 minutes ago,https://replit.com/bounties/@EthanArd1/fix-simple-office-sc?t=
