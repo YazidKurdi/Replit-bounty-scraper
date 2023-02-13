@@ -7756,7 +7756,7 @@
         "title": "\u201cLLM-ify\u201d Any App",
         "description": "https://twitter.com/josephjacks_/status/1624829956483334146\n\nAcceptance Criteria\n\nDemonstrate a working prototype of this vision that can easily be \u201capplied\u201d to any app \u2014 but specifically show how it can be applied to open source apps like Cal.com, NocoDB, OpenBB, Godot, RustDesk (2 or more of these).\n\nThis tool should also work for fully proprietary apps but that would likely be more difficult and require more access.\n\nPart of what will enable you to win this prize is design and specification of this infra tool that can work for any app and also within any level of arbitrary complexity within that app.. by analogy, think of what Stable Diffusion unlocks with natural language driven image generation \u2014 this project should provide a similar framework / tool but for \u201cconfiguration generation\u201d driven by natural language in any app.\n\nTechnical Details\n\nMust be fully open source and Apache licensed.",
         "author": "JosephJacks",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@JosephJacks/llm-ify-any-app?t="
     },
     {
@@ -7776,7 +7776,7 @@
         "title": "Grab Ticker Data from Webull Images",
         "description": "Extract ticker data from Webull screenshots and organize into a spreadsheet.\n\nAcceptance Criteria\nMust be able to process both singular images and multiple images at one (hundreds to thousands at a time).",
         "author": "jiofunk",
-        "posted_time": "55 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@jiofunk/grab-ticker-data-fro?t="
     },
     {
@@ -7786,7 +7786,7 @@
         "title": "Grab Ticker Data from Webull Images",
         "description": "Extract ticker data from Webull screenshots and organize into a spreadsheet.\n\nAcceptance Criteria\nMust be able to process both singular images and multiple images at one (hundreds to thousands at a time).",
         "author": "jiofunk",
-        "posted_time": "47 minutes ago",
+        "posted_time": "57 minutes ago",
         "link": "https://replit.com/bounties/@jiofunk/grab-ticker-data-fro-1?t="
     },
     {
@@ -7796,7 +7796,7 @@
         "title": "Update a repository for Java Spring Boot App",
         "description": "Help incorporate new classes and class updates into a GitHub repository. Also, guide on the process and help test the application to make sure newly added code is functioning properly.\n\n\"By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.\"",
         "author": "mdotbaig",
-        "posted_time": "6 minutes ago",
+        "posted_time": "17 minutes ago",
         "link": "https://replit.com/bounties/@mdotbaig/update-a-repository?t="
     }
 ]
