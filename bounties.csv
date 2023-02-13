@@ -6126,7 +6126,7 @@ async function tryCatch(callback) {
 
 async function run() {
   await Excel.run(async (context) => {
-    const range = context.workbook.get...",EthanArd1,11 hours ago,https://replit.com/bounties/@EthanArd1/fix-simple-office-sc?t=
+    const range = context.workbook.get...",EthanArd1,12 hours ago,https://replit.com/bounties/@EthanArd1/fix-simple-office-sc?t=
 781,$450.00,due in 13 days,Startup Library ChatBot,"Similarly to the tool described in this article (https://every.to/chain-of-thought/how-to-build-a-chatbot-with-gpt-3), I want to build a GPT chatbot I can share with my followers via a website. This Chatbot is supposed to answer questions based on the information of a library of resources I have saved, this will be articles on startups, etc.
 I want it to be accessible via a website (similar to http://www.lennybot.com/).
 
