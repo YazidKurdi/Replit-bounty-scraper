@@ -6024,7 +6024,7 @@ User then selects the senders whose emails they wish to have summarized going fo
 772,$45.00,due in 2 months,ClassDojo Replacement,"I have a little brother, and we want to start rewarding him for what he does at home. At school they use ClassDojo to reward them, and we were planning on doing that aswell - however using it at home costs money and we don't really want to have a recurring payment just for a reward system.
 
 Acceptance Criteria
-I can add multiple children to the app and remove them at anytime. I can also give and remove points from the children's ""accounts"". The app should also use a login system. OAuth is allowed, and you'll get a 100 cycles bonus per OAuth implementation (max 500 cycles, paid via tips).",haroon,21 hours ago,https://replit.com/bounties/@haroon/classdojo-replacemen?t=
+I can add multiple children to the app and remove them at anytime. I can also give and remove points from the children's ""accounts"". The app should also use a login system. OAuth is allowed, and you'll get a 100 cycles bonus per OAuth implementation (max 500 cycles, paid via tips).",haroon,22 hours ago,https://replit.com/bounties/@haroon/classdojo-replacemen?t=
 773,$13.50,due in 3 days,Scrape website,"Hi,
 
 I would be looking to get this website scraped - https://betsniper.vercel.app/. The website is a list of basketball player odds for player props e.g. Lebron James Over Points. Essentially I would like the data to be scrapped so that each row is a different bet.
@@ -6060,7 +6060,7 @@ Just need to edit the JSON file, and load it into Karabiner to test that it work
 I thought it was simple as changing ""capslock"" references to ""left_command"" references, but it seems more involved.
 
 Link to Project
-https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json",colinricardo,15 hours ago,https://replit.com/bounties/@colinricardo/modify-a-karabiner-e?t=
+https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json",colinricardo,16 hours ago,https://replit.com/bounties/@colinricardo/modify-a-karabiner-e?t=
 775,"$3,150.00",due in 30 days,“LLM-ify” Any App,"https://twitter.com/josephjacks_/status/1624829956483334146
 
 Acceptance Criteria
@@ -6089,15 +6089,41 @@ The user's OpenAI API Key
 A custom prompt
 Model type (ability to switch between customized models)
 Max Tokens returned from the model (defaults to 1024)
-Temper...",syst3m3,11 hours ago,https://replit.com/bounties/@syst3m3/roamresearch-fine-tu?t=
+Temper...",syst3m3,12 hours ago,https://replit.com/bounties/@syst3m3/roamresearch-fine-tu?t=
 777,$9.00,closed,Grab Ticker Data from Webull Images,"Extract ticker data from Webull screenshots and organize into a spreadsheet.
 
 Acceptance Criteria
-Must be able to process both singular images and multiple images at one (hundreds to thousands at a time).",jiofunk,6 hours ago,https://replit.com/bounties/@jiofunk/grab-ticker-data-fro?t=
+Must be able to process both singular images and multiple images at one (hundreds to thousands at a time).",jiofunk,7 hours ago,https://replit.com/bounties/@jiofunk/grab-ticker-data-fro?t=
 778,$10.35,due in 4 days,Grab Ticker Data from Webull Images,"Extract ticker data from Webull screenshots and organize into a spreadsheet.
 
 Acceptance Criteria
 Must be able to process both singular images and multiple images at one (hundreds to thousands at a time).",jiofunk,6 hours ago,https://replit.com/bounties/@jiofunk/grab-ticker-data-fro-1?t=
 779,$25.00,due in 4 days,Update a repository for Java Spring Boot App,"Help incorporate new classes and class updates into a GitHub repository. Also, guide on the process and help test the application to make sure newly added code is functioning properly.
 
-""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,5 hours ago,https://replit.com/bounties/@mdotbaig/update-a-repository?t=
+""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,6 hours ago,https://replit.com/bounties/@mdotbaig/update-a-repository?t=
+780,$9.00,due in 4 days,Fix simple Office Script calling Census Geocoder API,"I have a pretty simple office script.  The user highlights two columns.  The first column is a set of addresses, and hte second column will get overwritten.
+
+The script calls the Census Geocoder API, and it is supposed to write the json response in column 2.
+
+I am able to get the json fine, and log it to the console.  But for reasons I can't understand, the script is not actually writing the data to column 2.  I am trying to do a context.sync() inside the jsonp success function, but clearly it's not working.
+
+Acceptance Criteria
+Corrected version of the script which runs in Office, specifically under Script Lab.
+
+Technical Details
+Here is the code:
+
+$(""#run"").click(() => tryCatch(run));
+
+/* Default helper for invoking an action and handling errors. /
+async function tryCatch(callback) {
+  try {
+    await callback();
+  } catch (error) {
+    console.error(error);
+  }
+}
+
+async function run() {
+  await Excel.run(async (context) => {
+    const range = context.workbook.get...",EthanArd1,5 minutes ago,https://replit.com/bounties/@EthanArd1/fix-simple-office-sc?t=

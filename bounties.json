@@ -7726,7 +7726,7 @@
         "title": "ClassDojo Replacement",
         "description": "I have a little brother, and we want to start rewarding him for what he does at home. At school they use ClassDojo to reward them, and we were planning on doing that aswell - however using it at home costs money and we don't really want to have a recurring payment just for a reward system.\n\nAcceptance Criteria\nI can add multiple children to the app and remove them at anytime. I can also give and remove points from the children's \"accounts\". The app should also use a login system. OAuth is allowed, and you'll get a 100 cycles bonus per OAuth implementation (max 500 cycles, paid via tips).",
         "author": "haroon",
-        "posted_time": "21 hours ago",
+        "posted_time": "22 hours ago",
         "link": "https://replit.com/bounties/@haroon/classdojo-replacemen?t="
     },
     {
@@ -7746,7 +7746,7 @@
         "title": "Modify a Karabiner Elements Config",
         "description": "I want to adapt the Capslock script for Karabiner Elements to use the LeftCommand key instead of the Capslock key.\n\nReference: https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json\n\nAcceptance Criteria\nHolding LeftCommand key should input Hyper, and everything else in the script should be the same. That is, if it worked with Capslock, it should now work with LeftCommand.\nCan record a screencap of it working, or send me the JSON and I'll test it on my end.\n\nTechnical Details\nJust need to edit the JSON file, and load it into Karabiner to test that it works.\n\nI thought it was simple as changing \"capslock\" references to \"left_command\" references, but it seems more involved.\n\nLink to Project\nhttps://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json",
         "author": "colinricardo",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@colinricardo/modify-a-karabiner-e?t="
     },
     {
@@ -7766,7 +7766,7 @@
         "title": "RoamResearch Fine Tune model OpenAI",
         "description": "Take a user's RoamResearch graph as input and fine tune a model using OpenAI. https://platform.openai.com/docs/guides/fine-tuning\nhttps://roamresearch.com/\n\nThe tools should work like the following:\nI couldn't find an API for Roam yet so it must take exported files from the graph as input to tune the customized model.  Open to any better way here...\nIt has to have the ability to update or fine tune multiple times upon submission of updated files that are used to tune the model.\nThe user can choose with customized model to fine tune with the new file submission.\nThe tool will check if the fine tuning job is complete periodically and let the user know when its updated and ready for prompts.\nThe user can ask prompts and switch between the customized models.\n\nThe app can be configured with the following settings:\nThe user's OpenAI API Key\nA custom prompt\nModel type (ability to switch between customized models)\nMax Tokens returned from the model (defaults to 1024)\nTemper...",
         "author": "syst3m3",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@syst3m3/roamresearch-fine-tu?t="
     },
     {
@@ -7776,7 +7776,7 @@
         "title": "Grab Ticker Data from Webull Images",
         "description": "Extract ticker data from Webull screenshots and organize into a spreadsheet.\n\nAcceptance Criteria\nMust be able to process both singular images and multiple images at one (hundreds to thousands at a time).",
         "author": "jiofunk",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@jiofunk/grab-ticker-data-fro?t="
     },
     {
@@ -7796,7 +7796,17 @@
         "title": "Update a repository for Java Spring Boot App",
         "description": "Help incorporate new classes and class updates into a GitHub repository. Also, guide on the process and help test the application to make sure newly added code is functioning properly.\n\n\"By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.\"",
         "author": "mdotbaig",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/update-a-repository?t="
+    },
+    {
+        "index": "780",
+        "price": "$9.00",
+        "due_days": "due in 4 days",
+        "title": "Fix simple Office Script calling Census Geocoder API",
+        "description": "I have a pretty simple office script.  The user highlights two columns.  The first column is a set of addresses, and hte second column will get overwritten.\n\nThe script calls the Census Geocoder API, and it is supposed to write the json response in column 2.\n\nI am able to get the json fine, and log it to the console.  But for reasons I can't understand, the script is not actually writing the data to column 2.  I am trying to do a context.sync() inside the jsonp success function, but clearly it's not working.\n\nAcceptance Criteria\nCorrected version of the script which runs in Office, specifically under Script Lab.\n\nTechnical Details\nHere is the code:\n\n$(\"#run\").click(() => tryCatch(run));\n\n/* Default helper for invoking an action and handling errors. /\nasync function tryCatch(callback) {\n  try {\n    await callback();\n  } catch (error) {\n    console.error(error);\n  }\n}\n\nasync function run() {\n  await Excel.run(async (context) => {\n    const range = context.workbook.get...",
+        "author": "EthanArd1",
+        "posted_time": "5 minutes ago",
+        "link": "https://replit.com/bounties/@EthanArd1/fix-simple-office-sc?t="
     }
 ]
