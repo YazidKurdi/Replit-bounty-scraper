@@ -7776,7 +7776,7 @@
         "title": "Grab Ticker Data from Webull Images",
         "description": "Extract ticker data from Webull screenshots and organize into a spreadsheet.\n\nAcceptance Criteria\nMust be able to process both singular images and multiple images at one (hundreds to thousands at a time).",
         "author": "jiofunk",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@jiofunk/grab-ticker-data-fro?t="
     },
     {
@@ -7796,7 +7796,7 @@
         "title": "Update a repository for Java Spring Boot App",
         "description": "Help incorporate new classes and class updates into a GitHub repository. Also, guide on the process and help test the application to make sure newly added code is functioning properly.\n\n\"By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.\"",
         "author": "mdotbaig",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/update-a-repository?t="
     },
     {
@@ -7856,17 +7856,17 @@
         "title": "Fix a scraper that is a previous replit bounty",
         "description": "I have a Selenium scraper that scrapes TikToks from the browser version of TikTok. TikTok allows you to view the 1,000 most 'popular' TikToks associated with a particular hashtag.\n\nI want to pull the URL's to each tiktok, and associated information such as the number of comments, date posted, number of likes and the text description/hashtags associated with each video.  I want to display this in Airtable.\n\nIt's all set up and was previously working except now when I re-run the script, nothing is getting displayed in Airtable.\n\nAcceptance Criteria\n\nIt will be accepted when I have the 1,000 TikToks and specified data in my Airtable.",
         "author": "AdamFlanagan1",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@AdamFlanagan1/fix-a-scraper-that-i?t="
     },
     {
         "index": "786",
         "price": "$630.00",
-        "due_days": "due in 22 days",
+        "due_days": "due in 20 days",
         "title": "A script to generate training data ",
         "description": "Businesses and individuals deal with endless sources of knowledge to store their data; docs, pdfs, Slack, Notion, Jira, etc..\n\nWith the power of AI and embeddings, sifting through this data became 100x easier. For this project, I would like to build a tool that allows a business or an individual to connect to their data sources and \"talk\" to their data through a chat UI; example questions that the tool should be able to answer (given its connected to the needed data sources):\n\nfor a business:\nHow can I file a feature request?\nSummarize our last quarterly results\nHow do I set up my local dev environment?\nWhat's the scope of the Microsoft Dynamics integration?\n\nFor an individual:\nWhat are the main points discussed in my PHD paper?\nWhat subjects will I learn about given my Economics 101 class syllabus?\nWhat's the grading criteria for Economics 101?\nSummarize my notes over the last 7 days\n\nTo be able to build something like this, you should use something like gpt-index...",
         "author": "SaifAbuhashish",
-        "posted_time": "11 minutes ago",
+        "posted_time": "27 minutes ago",
         "link": "https://replit.com/bounties/@SaifAbuhashish/a-script-to-generate?t="
     }
 ]
