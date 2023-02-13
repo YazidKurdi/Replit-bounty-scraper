@@ -7792,7 +7792,7 @@
     {
         "index": "779",
         "price": "$25.00",
-        "due_days": "due in 3 days",
+        "due_days": "closed",
         "title": "Update a repository for Java Spring Boot App",
         "description": "Help incorporate new classes and class updates into a GitHub repository. Also, guide on the process and help test the application to make sure newly added code is functioning properly.\n\n\"By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.\"",
         "author": "mdotbaig",
@@ -7806,7 +7806,7 @@
         "title": "Fix simple Office Script calling Census Geocoder API",
         "description": "I have a pretty simple office script.  The user highlights two columns.  The first column is a set of addresses, and hte second column will get overwritten.\n\nThe script calls the Census Geocoder API, and it is supposed to write the json response in column 2.\n\nI am able to get the json fine, and log it to the console.  But for reasons I can't understand, the script is not actually writing the data to column 2.  I am trying to do a context.sync() inside the jsonp success function, but clearly it's not working.\n\nAcceptance Criteria\nCorrected version of the script which runs in Office, specifically under Script Lab.\n\nTechnical Details\nHere is the code:\n\n$(\"#run\").click(() => tryCatch(run));\n\n/* Default helper for invoking an action and handling errors. /\nasync function tryCatch(callback) {\n  try {\n    await callback();\n  } catch (error) {\n    console.error(error);\n  }\n}\n\nasync function run() {\n  await Excel.run(async (context) => {\n    const range = context.workbook.get...",
         "author": "EthanArd1",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@EthanArd1/fix-simple-office-sc?t="
     },
     {
@@ -7826,7 +7826,7 @@
         "title": "Build Investing Support Ai Bot",
         "description": "Problem- I want to build an Ai powered LLM bot which picks up financial data/news/earnings call/investor presentations/corp.announcements/social signals/all web available data to churn out valuation analytics summaries-visuals-charts-gamified\n\nAcceptance Criteria - A Ai chat bot where users can enter questions (prompts driven suggestions etc) about different strategies of investing / trading  to churn out insights\n\nTechnical Details - New to this so open to conversation\n\n will update and upgrade bounty as we talk and we align with each other",
         "author": "AadishBansal2",
-        "posted_time": "54 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@AadishBansal2/build-investing-supp?t="
     }
 ]
