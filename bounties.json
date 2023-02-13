@@ -7786,7 +7786,7 @@
         "title": "Grab Ticker Data from Webull Images",
         "description": "Extract ticker data from Webull screenshots and organize into a spreadsheet.\n\nAcceptance Criteria\nMust be able to process both singular images and multiple images at one (hundreds to thousands at a time).",
         "author": "jiofunk",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@jiofunk/grab-ticker-data-fro-1?t="
     },
     {
@@ -7816,7 +7816,7 @@
         "title": "Startup Library ChatBot",
         "description": "Similarly to the tool described in this article (https://every.to/chain-of-thought/how-to-build-a-chatbot-with-gpt-3), I want to build a GPT chatbot I can share with my followers via a website. This Chatbot is supposed to answer questions based on the information of a library of resources I have saved, this will be articles on startups, etc.\nI want it to be accessible via a website (similar to http://www.lennybot.com/).\n\nI want to be able to feed the database new articles as I go along. Ideally, I also want to feed other data sources into it, such as my personal CRM (to find contacts I know) or my CRM of companies I like.\n\nAcceptance Criteria\nIf it does the above, I'm happy.\n\nTechnical Details",
         "author": "EnricoM2",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@EnricoM2/startup-library-chat?t="
     },
     {
@@ -7826,7 +7826,7 @@
         "title": "Build Investing Support Ai Bot",
         "description": "Problem- I want to build an Ai powered LLM bot which picks up financial data/news/earnings call/investor presentations/corp.announcements/social signals/all web available data to churn out valuation analytics summaries-visuals-charts-gamified\n\nAcceptance Criteria - A Ai chat bot where users can enter questions (prompts driven suggestions etc) about different strategies of investing / trading  to churn out insights\n\nTechnical Details - New to this so open to conversation\n\n will update and upgrade bounty as we talk and we align with each other",
         "author": "AadishBansal2",
-        "posted_time": "29 minutes ago",
+        "posted_time": "45 minutes ago",
         "link": "https://replit.com/bounties/@AadishBansal2/build-investing-supp?t="
     }
 ]
