@@ -6060,7 +6060,7 @@ Just need to edit the JSON file, and load it into Karabiner to test that it work
 I thought it was simple as changing ""capslock"" references to ""left_command"" references, but it seems more involved.
 
 Link to Project
-https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json",colinricardo,17 hours ago,https://replit.com/bounties/@colinricardo/modify-a-karabiner-e?t=
+https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json",colinricardo,18 hours ago,https://replit.com/bounties/@colinricardo/modify-a-karabiner-e?t=
 775,"$3,150.00",due in 30 days,“LLM-ify” Any App,"https://twitter.com/josephjacks_/status/1624829956483334146
 
 Acceptance Criteria
@@ -6089,7 +6089,7 @@ The user's OpenAI API Key
 A custom prompt
 Model type (ability to switch between customized models)
 Max Tokens returned from the model (defaults to 1024)
-Temper...",syst3m3,13 hours ago,https://replit.com/bounties/@syst3m3/roamresearch-fine-tu?t=
+Temper...",syst3m3,14 hours ago,https://replit.com/bounties/@syst3m3/roamresearch-fine-tu?t=
 777,$9.00,closed,Grab Ticker Data from Webull Images,"Extract ticker data from Webull screenshots and organize into a spreadsheet.
 
 Acceptance Criteria
@@ -6100,7 +6100,7 @@ Acceptance Criteria
 Must be able to process both singular images and multiple images at one (hundreds to thousands at a time).",jiofunk,8 hours ago,https://replit.com/bounties/@jiofunk/grab-ticker-data-fro-1?t=
 779,$25.00,due in 4 days,Update a repository for Java Spring Boot App,"Help incorporate new classes and class updates into a GitHub repository. Also, guide on the process and help test the application to make sure newly added code is functioning properly.
 
-""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,7 hours ago,https://replit.com/bounties/@mdotbaig/update-a-repository?t=
+""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,8 hours ago,https://replit.com/bounties/@mdotbaig/update-a-repository?t=
 780,$9.00,due in 4 days,Fix simple Office Script calling Census Geocoder API,"I have a pretty simple office script.  The user highlights two columns.  The first column is a set of addresses, and hte second column will get overwritten.
 
 The script calls the Census Geocoder API, and it is supposed to write the json response in column 2.
@@ -6135,4 +6135,4 @@ I want to be able to feed the database new articles as I go along. Ideally, I al
 Acceptance Criteria
 If it does the above, I'm happy.
 
-Technical Details",EnricoM2,8 minutes ago,https://replit.com/bounties/@EnricoM2/startup-library-chat?t=
+Technical Details",EnricoM2,22 minutes ago,https://replit.com/bounties/@EnricoM2/startup-library-chat?t=

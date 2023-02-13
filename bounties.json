@@ -7746,7 +7746,7 @@
         "title": "Modify a Karabiner Elements Config",
         "description": "I want to adapt the Capslock script for Karabiner Elements to use the LeftCommand key instead of the Capslock key.\n\nReference: https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json\n\nAcceptance Criteria\nHolding LeftCommand key should input Hyper, and everything else in the script should be the same. That is, if it worked with Capslock, it should now work with LeftCommand.\nCan record a screencap of it working, or send me the JSON and I'll test it on my end.\n\nTechnical Details\nJust need to edit the JSON file, and load it into Karabiner to test that it works.\n\nI thought it was simple as changing \"capslock\" references to \"left_command\" references, but it seems more involved.\n\nLink to Project\nhttps://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json",
         "author": "colinricardo",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@colinricardo/modify-a-karabiner-e?t="
     },
     {
@@ -7766,7 +7766,7 @@
         "title": "RoamResearch Fine Tune model OpenAI",
         "description": "Take a user's RoamResearch graph as input and fine tune a model using OpenAI. https://platform.openai.com/docs/guides/fine-tuning\nhttps://roamresearch.com/\n\nThe tools should work like the following:\nI couldn't find an API for Roam yet so it must take exported files from the graph as input to tune the customized model.  Open to any better way here...\nIt has to have the ability to update or fine tune multiple times upon submission of updated files that are used to tune the model.\nThe user can choose with customized model to fine tune with the new file submission.\nThe tool will check if the fine tuning job is complete periodically and let the user know when its updated and ready for prompts.\nThe user can ask prompts and switch between the customized models.\n\nThe app can be configured with the following settings:\nThe user's OpenAI API Key\nA custom prompt\nModel type (ability to switch between customized models)\nMax Tokens returned from the model (defaults to 1024)\nTemper...",
         "author": "syst3m3",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@syst3m3/roamresearch-fine-tu?t="
     },
     {
@@ -7796,7 +7796,7 @@
         "title": "Update a repository for Java Spring Boot App",
         "description": "Help incorporate new classes and class updates into a GitHub repository. Also, guide on the process and help test the application to make sure newly added code is functioning properly.\n\n\"By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.\"",
         "author": "mdotbaig",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/update-a-repository?t="
     },
     {
@@ -7816,7 +7816,7 @@
         "title": "Startup Library ChatBot",
         "description": "Similarly to the tool described in this article (https://every.to/chain-of-thought/how-to-build-a-chatbot-with-gpt-3), I want to build a GPT chatbot I can share with my followers via a website. This Chatbot is supposed to answer questions based on the information of a library of resources I have saved, this will be articles on startups, etc.\nI want it to be accessible via a website (similar to http://www.lennybot.com/).\n\nI want to be able to feed the database new articles as I go along. Ideally, I also want to feed other data sources into it, such as my personal CRM (to find contacts I know) or my CRM of companies I like.\n\nAcceptance Criteria\nIf it does the above, I'm happy.\n\nTechnical Details",
         "author": "EnricoM2",
-        "posted_time": "8 minutes ago",
+        "posted_time": "22 minutes ago",
         "link": "https://replit.com/bounties/@EnricoM2/startup-library-chat?t="
     }
 ]
