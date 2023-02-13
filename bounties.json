@@ -7756,7 +7756,7 @@
         "title": "\u201cLLM-ify\u201d Any App",
         "description": "https://twitter.com/josephjacks_/status/1624829956483334146\n\nAcceptance Criteria\n\nDemonstrate a working prototype of this vision that can easily be \u201capplied\u201d to any app \u2014 but specifically show how it can be applied to open source apps like Cal.com, NocoDB, OpenBB, Godot, RustDesk (2 or more of these).\n\nThis tool should also work for fully proprietary apps but that would likely be more difficult and require more access.\n\nPart of what will enable you to win this prize is design and specification of this infra tool that can work for any app and also within any level of arbitrary complexity within that app.. by analogy, think of what Stable Diffusion unlocks with natural language driven image generation \u2014 this project should provide a similar framework / tool but for \u201cconfiguration generation\u201d driven by natural language in any app.\n\nTechnical Details\n\nMust be fully open source and Apache licensed.",
         "author": "JosephJacks",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@JosephJacks/llm-ify-any-app?t="
     },
     {
@@ -7828,5 +7828,15 @@
         "author": "AadishBansal2",
         "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@AadishBansal2/build-investing-supp?t="
+    },
+    {
+        "index": "783",
+        "price": "$4.71",
+        "due_days": "due in 10 days",
+        "title": "[HTML, CSS, JS] I need a website for my hosting company.",
+        "description": "About 6 pages\nStyle of the pages: Take a look at https://daki.cc/ and https://revivenode.com/ if you think you can combine the background on daki with the look of the sections on revive node then you can do this.\n\nAcceptance Criteria\nAll I need is your discord (linked to your replit account or in your application)\nAlong with the discord in your bio I need you to friend my discord account (!Odd#1919) or be in the replit discord, This is so I can message you instantly if your application is accepted.",
+        "author": "OddGames",
+        "posted_time": "7 minutes ago",
+        "link": "https://replit.com/bounties/@OddGames/html-css-js-i-need-a?t="
     }
 ]
