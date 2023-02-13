@@ -6020,11 +6020,11 @@ Specific requirements -
 [2] Signup flow covers the following -
 During sign up, user is prompted to connect their GMail account which surfaces standard GMail 3rd party app access page requesting read-only permissions
 User then selects the senders whose emails they wish to have summarized going forward. They can do so in two ways from the same screen:
-** T...",MuneebImtiaz,19 hours ago,https://replit.com/bounties/@MuneebImtiaz/newsletter-summary-s?t=
+** T...",MuneebImtiaz,20 hours ago,https://replit.com/bounties/@MuneebImtiaz/newsletter-summary-s?t=
 772,$45.00,due in 2 months,ClassDojo Replacement,"I have a little brother, and we want to start rewarding him for what he does at home. At school they use ClassDojo to reward them, and we were planning on doing that aswell - however using it at home costs money and we don't really want to have a recurring payment just for a reward system.
 
 Acceptance Criteria
-I can add multiple children to the app and remove them at anytime. I can also give and remove points from the children's ""accounts"". The app should also use a login system. OAuth is allowed, and you'll get a 100 cycles bonus per OAuth implementation (max 500 cycles, paid via tips).",haroon,12 hours ago,https://replit.com/bounties/@haroon/classdojo-replacemen?t=
+I can add multiple children to the app and remove them at anytime. I can also give and remove points from the children's ""accounts"". The app should also use a login system. OAuth is allowed, and you'll get a 100 cycles bonus per OAuth implementation (max 500 cycles, paid via tips).",haroon,13 hours ago,https://replit.com/bounties/@haroon/classdojo-replacemen?t=
 773,$13.50,due in 3 days,Scrape website,"Hi,
 
 I would be looking to get this website scraped - https://betsniper.vercel.app/. The website is a list of basketball player odds for player props e.g. Lebron James Over Points. Essentially I would like the data to be scrapped so that each row is a different bet.
@@ -6045,7 +6045,7 @@ Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	26.5	Pointsbet	1.8	1.95
 Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	26.5	Bet365	1.86	1.86
 Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	26.5	Pinnacle	1.85	1.89
 Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	27.5	Sportsbet	1.94	1.8
-Chicago Bul...",YouReachITeach4,10 hours ago,https://replit.com/bounties/@YouReachITeach4/scrape-website?t=
+Chicago Bul...",YouReachITeach4,11 hours ago,https://replit.com/bounties/@YouReachITeach4/scrape-website?t=
 774,$45.00,due in 4 days,Modify a Karabiner Elements Config,"I want to adapt the Capslock script for Karabiner Elements to use the LeftCommand key instead of the Capslock key.
 
 Reference: https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json
@@ -6060,8 +6060,8 @@ Just need to edit the JSON file, and load it into Karabiner to test that it work
 I thought it was simple as changing ""capslock"" references to ""left_command"" references, but it seems more involved.
 
 Link to Project
-https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json",colinricardo,6 hours ago,https://replit.com/bounties/@colinricardo/modify-a-karabiner-e?t=
-775,"$3,150.00",due in 1 month,“LLM-ify” Any App,"https://twitter.com/josephjacks_/status/1624829956483334146
+https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json",colinricardo,7 hours ago,https://replit.com/bounties/@colinricardo/modify-a-karabiner-e?t=
+775,"$3,150.00",due in 30 days,“LLM-ify” Any App,"https://twitter.com/josephjacks_/status/1624829956483334146
 
 Acceptance Criteria
 
@@ -6073,7 +6073,7 @@ Part of what will enable you to win this prize is design and specification of th
 
 Technical Details
 
-Must be fully open source and Apache licensed.",JosephJacks,4 hours ago,https://replit.com/bounties/@JosephJacks/llm-ify-any-app?t=
+Must be fully open source and Apache licensed.",JosephJacks,5 hours ago,https://replit.com/bounties/@JosephJacks/llm-ify-any-app?t=
 776,$990.00,due in 6 days,RoamResearch Fine Tune model OpenAI,"Take a user's RoamResearch graph as input and fine tune a model using OpenAI. https://platform.openai.com/docs/guides/fine-tuning
 https://roamresearch.com/
 
@@ -6089,4 +6089,4 @@ The user's OpenAI API Key
 A custom prompt
 Model type (ability to switch between customized models)
 Max Tokens returned from the model (defaults to 1024)
-Temper...",syst3m3,2 hours ago,https://replit.com/bounties/@syst3m3/roamresearch-fine-tu?t=
+Temper...",syst3m3,3 hours ago,https://replit.com/bounties/@syst3m3/roamresearch-fine-tu?t=

@@ -7716,7 +7716,7 @@
         "title": "Newsletter Summary Service: Signup Flow & User Accounts",
         "description": "Building a service to summarize key takeaways from daily / weekly informational email newsletters that users are subscribed to (think Morning Brew, Robinhood Snacks, etc).\n\nThis bounty is only for a signup & account management flow for the service, and the actual summarization of emails is handled by a separate function that is out of scope for this bounty.\n\nAcceptance Criteria\nUser friendly interface that allows user to signup for an account, link their Gmail, select which newsletters they want to have summarized going forward , and manage their account.\n\nSpecific requirements -\n[1] User can click \u201csign up\u201d button to initiate signup flow\n\n[2] Signup flow covers the following -\nDuring sign up, user is prompted to connect their GMail account which surfaces standard GMail 3rd party app access page requesting read-only permissions\nUser then selects the senders whose emails they wish to have summarized going forward. They can do so in two ways from the same screen:\n** T...",
         "author": "MuneebImtiaz",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@MuneebImtiaz/newsletter-summary-s?t="
     },
     {
@@ -7726,7 +7726,7 @@
         "title": "ClassDojo Replacement",
         "description": "I have a little brother, and we want to start rewarding him for what he does at home. At school they use ClassDojo to reward them, and we were planning on doing that aswell - however using it at home costs money and we don't really want to have a recurring payment just for a reward system.\n\nAcceptance Criteria\nI can add multiple children to the app and remove them at anytime. I can also give and remove points from the children's \"accounts\". The app should also use a login system. OAuth is allowed, and you'll get a 100 cycles bonus per OAuth implementation (max 500 cycles, paid via tips).",
         "author": "haroon",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@haroon/classdojo-replacemen?t="
     },
     {
@@ -7736,7 +7736,7 @@
         "title": "Scrape website",
         "description": "Hi,\n\nI would be looking to get this website scraped - https://betsniper.vercel.app/. The website is a list of basketball player odds for player props e.g. Lebron James Over Points. Essentially I would like the data to be scrapped so that each row is a different bet.\n\nThe table would be organised with the following headers (examples provided correlating to the image):\nGame\nPlayer\nStat\nLine\nBookmaker\nOdds (over and under)\n\nBelow is what the data could look like,\nGame\tPlayer\tStat\tLine\tBookmaker\tOver odds\tUnder odds\nChicago Bulls vs Charlotte Hornets\tDemar Derozan\tPoints\t26.5\tTopsport\t1.88\t1.9\nChicago Bulls vs Charlotte Hornets\tDemar Derozan\tPoints\t26.5\tTAB\t1.85\t1.9\nChicago Bulls vs Charlotte Hornets\tDemar Derozan\tPoints\t26.5\tPointsbet\t1.8\t1.95\nChicago Bulls vs Charlotte Hornets\tDemar Derozan\tPoints\t26.5\tBet365\t1.86\t1.86\nChicago Bulls vs Charlotte Hornets\tDemar Derozan\tPoints\t26.5\tPinnacle\t1.85\t1.89\nChicago Bulls vs Charlotte Hornets\tDemar Derozan\tPoints\t27.5\tSportsbet\t1.94\t1.8\nChicago Bul...",
         "author": "YouReachITeach4",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@YouReachITeach4/scrape-website?t="
     },
     {
@@ -7746,17 +7746,17 @@
         "title": "Modify a Karabiner Elements Config",
         "description": "I want to adapt the Capslock script for Karabiner Elements to use the LeftCommand key instead of the Capslock key.\n\nReference: https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json\n\nAcceptance Criteria\nHolding LeftCommand key should input Hyper, and everything else in the script should be the same. That is, if it worked with Capslock, it should now work with LeftCommand.\nCan record a screencap of it working, or send me the JSON and I'll test it on my end.\n\nTechnical Details\nJust need to edit the JSON file, and load it into Karabiner to test that it works.\n\nI thought it was simple as changing \"capslock\" references to \"left_command\" references, but it seems more involved.\n\nLink to Project\nhttps://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json",
         "author": "colinricardo",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@colinricardo/modify-a-karabiner-e?t="
     },
     {
         "index": "775",
         "price": "$3,150.00",
-        "due_days": "due in 1 month",
+        "due_days": "due in 30 days",
         "title": "\u201cLLM-ify\u201d Any App",
         "description": "https://twitter.com/josephjacks_/status/1624829956483334146\n\nAcceptance Criteria\n\nDemonstrate a working prototype of this vision that can easily be \u201capplied\u201d to any app \u2014 but specifically show how it can be applied to open source apps like Cal.com, NocoDB, OpenBB, Godot, RustDesk (2 or more of these).\n\nThis tool should also work for fully proprietary apps but that would likely be more difficult and require more access.\n\nPart of what will enable you to win this prize is design and specification of this infra tool that can work for any app and also within any level of arbitrary complexity within that app.. by analogy, think of what Stable Diffusion unlocks with natural language driven image generation \u2014 this project should provide a similar framework / tool but for \u201cconfiguration generation\u201d driven by natural language in any app.\n\nTechnical Details\n\nMust be fully open source and Apache licensed.",
         "author": "JosephJacks",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@JosephJacks/llm-ify-any-app?t="
     },
     {
@@ -7766,7 +7766,7 @@
         "title": "RoamResearch Fine Tune model OpenAI",
         "description": "Take a user's RoamResearch graph as input and fine tune a model using OpenAI. https://platform.openai.com/docs/guides/fine-tuning\nhttps://roamresearch.com/\n\nThe tools should work like the following:\nI couldn't find an API for Roam yet so it must take exported files from the graph as input to tune the customized model.  Open to any better way here...\nIt has to have the ability to update or fine tune multiple times upon submission of updated files that are used to tune the model.\nThe user can choose with customized model to fine tune with the new file submission.\nThe tool will check if the fine tuning job is complete periodically and let the user know when its updated and ready for prompts.\nThe user can ask prompts and switch between the customized models.\n\nThe app can be configured with the following settings:\nThe user's OpenAI API Key\nA custom prompt\nModel type (ability to switch between customized models)\nMax Tokens returned from the model (defaults to 1024)\nTemper...",
         "author": "syst3m3",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@syst3m3/roamresearch-fine-tu?t="
     }
 ]
