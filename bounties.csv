@@ -6101,7 +6101,7 @@ Must be able to process both singular images and multiple images at one (hundred
 779,$25.00,closed,Update a repository for Java Spring Boot App,"Help incorporate new classes and class updates into a GitHub repository. Also, guide on the process and help test the application to make sure newly added code is functioning properly.
 
 ""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,16 hours ago,https://replit.com/bounties/@mdotbaig/update-a-repository?t=
-780,$9.00,due in 3 days,Fix simple Office Script calling Census Geocoder API,"I have a pretty simple office script.  The user highlights two columns.  The first column is a set of addresses, and hte second column will get overwritten.
+780,$9.00,closed,Fix simple Office Script calling Census Geocoder API,"I have a pretty simple office script.  The user highlights two columns.  The first column is a set of addresses, and hte second column will get overwritten.
 
 The script calls the Census Geocoder API, and it is supposed to write the json response in column 2.
 

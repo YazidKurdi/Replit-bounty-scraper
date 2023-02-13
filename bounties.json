@@ -7802,7 +7802,7 @@
     {
         "index": "780",
         "price": "$9.00",
-        "due_days": "due in 3 days",
+        "due_days": "closed",
         "title": "Fix simple Office Script calling Census Geocoder API",
         "description": "I have a pretty simple office script.  The user highlights two columns.  The first column is a set of addresses, and hte second column will get overwritten.\n\nThe script calls the Census Geocoder API, and it is supposed to write the json response in column 2.\n\nI am able to get the json fine, and log it to the console.  But for reasons I can't understand, the script is not actually writing the data to column 2.  I am trying to do a context.sync() inside the jsonp success function, but clearly it's not working.\n\nAcceptance Criteria\nCorrected version of the script which runs in Office, specifically under Script Lab.\n\nTechnical Details\nHere is the code:\n\n$(\"#run\").click(() => tryCatch(run));\n\n/* Default helper for invoking an action and handling errors. /\nasync function tryCatch(callback) {\n  try {\n    await callback();\n  } catch (error) {\n    console.error(error);\n  }\n}\n\nasync function run() {\n  await Excel.run(async (context) => {\n    const range = context.workbook.get...",
         "author": "EthanArd1",
