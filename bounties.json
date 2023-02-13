@@ -7858,5 +7858,15 @@
         "author": "AdamFlanagan1",
         "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@AdamFlanagan1/fix-a-scraper-that-i?t="
+    },
+    {
+        "index": "786",
+        "price": "$630.00",
+        "due_days": "due in 22 days",
+        "title": "A script to generate training data ",
+        "description": "Businesses and individuals deal with endless sources of knowledge to store their data; docs, pdfs, Slack, Notion, Jira, etc..\n\nWith the power of AI and embeddings, sifting through this data became 100x easier. For this project, I would like to build a tool that allows a business or an individual to connect to their data sources and \"talk\" to their data through a chat UI; example questions that the tool should be able to answer (given its connected to the needed data sources):\n\nfor a business:\nHow can I file a feature request?\nSummarize our last quarterly results\nHow do I set up my local dev environment?\nWhat's the scope of the Microsoft Dynamics integration?\n\nFor an individual:\nWhat are the main points discussed in my PHD paper?\nWhat subjects will I learn about given my Economics 101 class syllabus?\nWhat's the grading criteria for Economics 101?\nSummarize my notes over the last 7 days\n\nTo be able to build something like this, you should use something like gpt-index...",
+        "author": "SaifAbuhashish",
+        "posted_time": "11 minutes ago",
+        "link": "https://replit.com/bounties/@SaifAbuhashish/a-script-to-generate?t="
     }
 ]

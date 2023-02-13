@@ -6182,3 +6182,20 @@ It's all set up and was previously working except now when I re-run the script, 
 Acceptance Criteria
 
 It will be accepted when I have the 1,000 TikToks and specified data in my Airtable.",AdamFlanagan1,1 hour ago,https://replit.com/bounties/@AdamFlanagan1/fix-a-scraper-that-i?t=
+786,$630.00,due in 22 days,A script to generate training data ,"Businesses and individuals deal with endless sources of knowledge to store their data; docs, pdfs, Slack, Notion, Jira, etc..
+
+With the power of AI and embeddings, sifting through this data became 100x easier. For this project, I would like to build a tool that allows a business or an individual to connect to their data sources and ""talk"" to their data through a chat UI; example questions that the tool should be able to answer (given its connected to the needed data sources):
+
+for a business:
+How can I file a feature request?
+Summarize our last quarterly results
+How do I set up my local dev environment?
+What's the scope of the Microsoft Dynamics integration?
+
+For an individual:
+What are the main points discussed in my PHD paper?
+What subjects will I learn about given my Economics 101 class syllabus?
+What's the grading criteria for Economics 101?
+Summarize my notes over the last 7 days
+
+To be able to build something like this, you should use something like gpt-index...",SaifAbuhashish,11 minutes ago,https://replit.com/bounties/@SaifAbuhashish/a-script-to-generate?t=
