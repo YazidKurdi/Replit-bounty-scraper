@@ -7806,7 +7806,7 @@
         "title": "Fix simple Office Script calling Census Geocoder API",
         "description": "I have a pretty simple office script.  The user highlights two columns.  The first column is a set of addresses, and hte second column will get overwritten.\n\nThe script calls the Census Geocoder API, and it is supposed to write the json response in column 2.\n\nI am able to get the json fine, and log it to the console.  But for reasons I can't understand, the script is not actually writing the data to column 2.  I am trying to do a context.sync() inside the jsonp success function, but clearly it's not working.\n\nAcceptance Criteria\nCorrected version of the script which runs in Office, specifically under Script Lab.\n\nTechnical Details\nHere is the code:\n\n$(\"#run\").click(() => tryCatch(run));\n\n/* Default helper for invoking an action and handling errors. /\nasync function tryCatch(callback) {\n  try {\n    await callback();\n  } catch (error) {\n    console.error(error);\n  }\n}\n\nasync function run() {\n  await Excel.run(async (context) => {\n    const range = context.workbook.get...",
         "author": "EthanArd1",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@EthanArd1/fix-simple-office-sc?t="
     },
     {
@@ -7846,7 +7846,7 @@
         "title": "Only Fans AI Chrome Extension",
         "description": "Problem\nAs an OF creator, I get too many direct messages to handle. I want to be able to put chatting with my fans on autopilot.\n\nSolution\n\nI use a chrome extension to generate responses to fans.\n\nAcceptance Criteria\n\nPersonality\n  I need the responses to sound like me. Therefore before the extension begins, I insert the qualities it needs to act like me:\n        Name\n        Style, eg \"Flirty, fun, charming, nice\"\n        3.Level of emojis, eg \"Little, medium, high, lots\"\n        For example:\n        Pretend you are XYZ a famous sexy twitch streamer who posts fun content on many social media platforms, you like to respond in a flirty way with emojis.\n\nChats\n The bots response must sound relevant to what the fan has sent in direct message. Therefore the prompt to Open AI should always include the Personality in 1 and the most recent message from the fan.\n\nUX\n    Ideally the message to be sent is generated in a way where you can:\n        see the draft\n        edit i...",
         "author": "littlegoatcoding",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@littlegoatcoding/only-fans-ai-chrome?t="
     },
     {
@@ -7896,7 +7896,7 @@
         "title": "[TRANSLATION] Convert Swift/Objective C Code Utilizing Various MacOS APIs to Python",
         "description": "tl;dr I have a bit over 50 lines of Swift/Objective C code that need to be converted into Python. It uses some Mac OS APIs to work. Repo Link: https://github.com/tml1024/FluffyDisplay. It is mainly a library that exports one function. I would like that function to be available through Python code. Please include previous bounty work and experience with Mac OS APIs. I will tip up extra for fast work!\n\nProblem Description\nFluffyDisplay allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in Swift/Objective C utilizing MacOS APIs. It is also made to be a partial library. I would like to convert this to Python and make it usable through python. Just convert the code to python. I don't mind it having multiple files or many dependencies.\n\nAcceptance Criteria\nI should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Pyt...",
         "author": "EpicCodeWizard2",
-        "posted_time": "60 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/translation-convert-5?t="
     }
 ]
