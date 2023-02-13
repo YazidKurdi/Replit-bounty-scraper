@@ -7806,7 +7806,7 @@
         "title": "Fix simple Office Script calling Census Geocoder API",
         "description": "I have a pretty simple office script.  The user highlights two columns.  The first column is a set of addresses, and hte second column will get overwritten.\n\nThe script calls the Census Geocoder API, and it is supposed to write the json response in column 2.\n\nI am able to get the json fine, and log it to the console.  But for reasons I can't understand, the script is not actually writing the data to column 2.  I am trying to do a context.sync() inside the jsonp success function, but clearly it's not working.\n\nAcceptance Criteria\nCorrected version of the script which runs in Office, specifically under Script Lab.\n\nTechnical Details\nHere is the code:\n\n$(\"#run\").click(() => tryCatch(run));\n\n/* Default helper for invoking an action and handling errors. /\nasync function tryCatch(callback) {\n  try {\n    await callback();\n  } catch (error) {\n    console.error(error);\n  }\n}\n\nasync function run() {\n  await Excel.run(async (context) => {\n    const range = context.workbook.get...",
         "author": "EthanArd1",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@EthanArd1/fix-simple-office-sc?t="
     },
     {
@@ -7846,7 +7846,7 @@
         "title": "Only Fans AI Chrome Extension",
         "description": "Problem\nAs an OF creator, I get too many direct messages to handle. I want to be able to put chatting with my fans on autopilot.\n\nSolution\n\nI use a chrome extension to generate responses to fans.\n\nAcceptance Criteria\n\nPersonality\n  I need the responses to sound like me. Therefore before the extension begins, I insert the qualities it needs to act like me:\n        Name\n        Style, eg \"Flirty, fun, charming, nice\"\n        3.Level of emojis, eg \"Little, medium, high, lots\"\n        For example:\n        Pretend you are XYZ a famous sexy twitch streamer who posts fun content on many social media platforms, you like to respond in a flirty way with emojis.\n\nChats\n The bots response must sound relevant to what the fan has sent in direct message. Therefore the prompt to Open AI should always include the Personality in 1 and the most recent message from the fan.\n\nUX\n    Ideally the message to be sent is generated in a way where you can:\n        see the draft\n        edit i...",
         "author": "littlegoatcoding",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@littlegoatcoding/only-fans-ai-chrome?t="
     },
     {
@@ -7866,7 +7866,7 @@
         "title": "A script to generate training data ",
         "description": "Businesses and individuals deal with endless sources of knowledge to store their data; docs, pdfs, Slack, Notion, Jira, etc..\n\nWith the power of AI and embeddings, sifting through this data became 100x easier. For this project, I would like to build a tool that allows a business or an individual to connect to their data sources and \"talk\" to their data through a chat UI; example questions that the tool should be able to answer (given its connected to the needed data sources):\n\nfor a business:\nHow can I file a feature request?\nSummarize our last quarterly results\nHow do I set up my local dev environment?\nWhat's the scope of the Microsoft Dynamics integration?\n\nFor an individual:\nWhat are the main points discussed in my PHD paper?\nWhat subjects will I learn about given my Economics 101 class syllabus?\nWhat's the grading criteria for Economics 101?\nSummarize my notes over the last 7 days\n\nTo be able to build something like this, you should use something like gpt-index...",
         "author": "SaifAbuhashish",
-        "posted_time": "52 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@SaifAbuhashish/a-script-to-generate?t="
     },
     {
@@ -7876,7 +7876,7 @@
         "title": "Generative AI Avatar creator single page app (Python + Next.js)",
         "description": "#Problem Statement\n\nSeeking a Full Stack Developer with experience in Python, Dreambooth, Replicate REST API, and Next.js to build a generative AI avatar application. Responsibilities include developing a user-friendly interface, implementing a machine learning model for avatar generation, utilizing Python and Dreambooth for back-end and Next.js for front-end, integrating Replicate REST API for image editing, and ensuring the application is optimized and meets high standards.\n\n#Acceptance Criteria\n\nUser Interface: visually appealing and intuitive, accessible within a single page, responsive on various devices.\nAvatar Generation: based on user inputs, customizable and updateable, high quality and visually appealing.\nAI Machine Learning Model: Dreambooth-based, accurately creates and updates avatar, learns and improves with user inputs, handles large number of inputs without affecting performance.\nBack-end Development: using Python and Dreambooth, handles large number of requests, secure...",
         "author": "JordanManeval1",
-        "posted_time": "2 minutes ago",
+        "posted_time": "11 minutes ago",
         "link": "https://replit.com/bounties/@JordanManeval1/generative-ai-avatar?t="
     }
 ]

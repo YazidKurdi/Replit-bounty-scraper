@@ -6126,7 +6126,7 @@ async function tryCatch(callback) {
 
 async function run() {
   await Excel.run(async (context) => {
-    const range = context.workbook.get...",EthanArd1,8 hours ago,https://replit.com/bounties/@EthanArd1/fix-simple-office-sc?t=
+    const range = context.workbook.get...",EthanArd1,9 hours ago,https://replit.com/bounties/@EthanArd1/fix-simple-office-sc?t=
 781,$450.00,due in 13 days,Startup Library ChatBot,"Similarly to the tool described in this article (https://every.to/chain-of-thought/how-to-build-a-chatbot-with-gpt-3), I want to build a GPT chatbot I can share with my followers via a website. This Chatbot is supposed to answer questions based on the information of a library of resources I have saved, this will be articles on startups, etc.
 I want it to be accessible via a website (similar to http://www.lennybot.com/).
 
@@ -6172,7 +6172,7 @@ Chats
 UX
     Ideally the message to be sent is generated in a way where you can:
         see the draft
-        edit i...",littlegoatcoding,2 hours ago,https://replit.com/bounties/@littlegoatcoding/only-fans-ai-chrome?t=
+        edit i...",littlegoatcoding,3 hours ago,https://replit.com/bounties/@littlegoatcoding/only-fans-ai-chrome?t=
 785,$36.00,due in 3 days,Fix a scraper that is a previous replit bounty,"I have a Selenium scraper that scrapes TikToks from the browser version of TikTok. TikTok allows you to view the 1,000 most 'popular' TikToks associated with a particular hashtag.
 
 I want to pull the URL's to each tiktok, and associated information such as the number of comments, date posted, number of likes and the text description/hashtags associated with each video.  I want to display this in Airtable.
@@ -6198,7 +6198,7 @@ What subjects will I learn about given my Economics 101 class syllabus?
 What's the grading criteria for Economics 101?
 Summarize my notes over the last 7 days
 
-To be able to build something like this, you should use something like gpt-index...",SaifAbuhashish,52 minutes ago,https://replit.com/bounties/@SaifAbuhashish/a-script-to-generate?t=
+To be able to build something like this, you should use something like gpt-index...",SaifAbuhashish,1 hour ago,https://replit.com/bounties/@SaifAbuhashish/a-script-to-generate?t=
 787,"$1,215.00",due in 17 days,Generative AI Avatar creator single page app (Python + Next.js),"#Problem Statement
 
 Seeking a Full Stack Developer with experience in Python, Dreambooth, Replicate REST API, and Next.js to build a generative AI avatar application. Responsibilities include developing a user-friendly interface, implementing a machine learning model for avatar generation, utilizing Python and Dreambooth for back-end and Next.js for front-end, integrating Replicate REST API for image editing, and ensuring the application is optimized and meets high standards.
@@ -6208,4 +6208,4 @@ Seeking a Full Stack Developer with experience in Python, Dreambooth, Replicate 
 User Interface: visually appealing and intuitive, accessible within a single page, responsive on various devices.
 Avatar Generation: based on user inputs, customizable and updateable, high quality and visually appealing.
 AI Machine Learning Model: Dreambooth-based, accurately creates and updates avatar, learns and improves with user inputs, handles large number of inputs without affecting performance.
-Back-end Development: using Python and Dreambooth, handles large number of requests, secure...",JordanManeval1,2 minutes ago,https://replit.com/bounties/@JordanManeval1/generative-ai-avatar?t=
+Back-end Development: using Python and Dreambooth, handles large number of requests, secure...",JordanManeval1,11 minutes ago,https://replit.com/bounties/@JordanManeval1/generative-ai-avatar?t=
