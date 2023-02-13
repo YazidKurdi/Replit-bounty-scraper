@@ -7766,7 +7766,7 @@
         "title": "RoamResearch Fine Tune model OpenAI",
         "description": "Take a user's RoamResearch graph as input and fine tune a model using OpenAI. https://platform.openai.com/docs/guides/fine-tuning\nhttps://roamresearch.com/\n\nThe tools should work like the following:\nI couldn't find an API for Roam yet so it must take exported files from the graph as input to tune the customized model.  Open to any better way here...\nIt has to have the ability to update or fine tune multiple times upon submission of updated files that are used to tune the model.\nThe user can choose with customized model to fine tune with the new file submission.\nThe tool will check if the fine tuning job is complete periodically and let the user know when its updated and ready for prompts.\nThe user can ask prompts and switch between the customized models.\n\nThe app can be configured with the following settings:\nThe user's OpenAI API Key\nA custom prompt\nModel type (ability to switch between customized models)\nMax Tokens returned from the model (defaults to 1024)\nTemper...",
         "author": "syst3m3",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@syst3m3/roamresearch-fine-tu?t="
     },
     {
@@ -7776,7 +7776,7 @@
         "title": "Grab Ticker Data from Webull Images",
         "description": "Extract ticker data from Webull screenshots and organize into a spreadsheet.\n\nAcceptance Criteria\nMust be able to process both singular images and multiple images at one (hundreds to thousands at a time).",
         "author": "jiofunk",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@jiofunk/grab-ticker-data-fro?t="
     },
     {
@@ -7796,7 +7796,7 @@
         "title": "Update a repository for Java Spring Boot App",
         "description": "Help incorporate new classes and class updates into a GitHub repository. Also, guide on the process and help test the application to make sure newly added code is functioning properly.\n\n\"By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.\"",
         "author": "mdotbaig",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/update-a-repository?t="
     },
     {
@@ -7836,7 +7836,17 @@
         "title": "[HTML, CSS, JS] I need a website for my hosting company.",
         "description": "About 6 pages\nStyle of the pages: Take a look at https://daki.cc/ and https://revivenode.com/ if you think you can combine the background on daki with the look of the sections on revive node then you can do this.\n\nAcceptance Criteria\nAll I need is your discord (linked to your replit account or in your application)\nAlong with the discord in your bio I need you to friend my discord account (!Odd#1919) or be in the replit discord, This is so I can message you instantly if your application is accepted.",
         "author": "OddGames",
-        "posted_time": "7 minutes ago",
+        "posted_time": "24 minutes ago",
         "link": "https://replit.com/bounties/@OddGames/html-css-js-i-need-a?t="
+    },
+    {
+        "index": "784",
+        "price": "$162.00",
+        "due_days": "due in 8 days",
+        "title": "Only Fans AI Chrome Extension",
+        "description": "Problem\nAs an OF creator, I get too many direct messages to handle. I want to be able to put chatting with my fans on autopilot.\n\nSolution\n\nI use a chrome extension to generate responses to fans.\n\nAcceptance Criteria\n\nPersonality\n  I need the responses to sound like me. Therefore before the extension begins, I insert the qualities it needs to act like me:\n        Name\n        Style, eg \"Flirty, fun, charming, nice\"\n        3.Level of emojis, eg \"Little, medium, high, lots\"\n        For example:\n        Pretend you are XYZ a famous sexy twitch streamer who posts fun content on many social media platforms, you like to respond in a flirty way with emojis.\n\nChats\n The bots response must sound relevant to what the fan has sent in direct message. Therefore the prompt to Open AI should always include the Personality in 1 and the most recent message from the fan.\n\nUX\n    Ideally the message to be sent is generated in a way where you can:\n        see the draft\n        edit i...",
+        "author": "littlegoatcoding",
+        "posted_time": "2 minutes ago",
+        "link": "https://replit.com/bounties/@littlegoatcoding/only-fans-ai-chrome?t="
     }
 ]
