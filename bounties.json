@@ -7726,7 +7726,7 @@
         "title": "ClassDojo Replacement",
         "description": "I have a little brother, and we want to start rewarding him for what he does at home. At school they use ClassDojo to reward them, and we were planning on doing that aswell - however using it at home costs money and we don't really want to have a recurring payment just for a reward system.\n\nAcceptance Criteria\nI can add multiple children to the app and remove them at anytime. I can also give and remove points from the children's \"accounts\". The app should also use a login system. OAuth is allowed, and you'll get a 100 cycles bonus per OAuth implementation (max 500 cycles, paid via tips).",
         "author": "haroon",
-        "posted_time": "24 hours ago",
+        "posted_time": "1 day ago",
         "link": "https://replit.com/bounties/@haroon/classdojo-replacemen?t="
     },
     {
@@ -7816,7 +7816,7 @@
         "title": "Startup Library ChatBot",
         "description": "Similarly to the tool described in this article (https://every.to/chain-of-thought/how-to-build-a-chatbot-with-gpt-3), I want to build a GPT chatbot I can share with my followers via a website. This Chatbot is supposed to answer questions based on the information of a library of resources I have saved, this will be articles on startups, etc.\nI want it to be accessible via a website (similar to http://www.lennybot.com/).\n\nI want to be able to feed the database new articles as I go along. Ideally, I also want to feed other data sources into it, such as my personal CRM (to find contacts I know) or my CRM of companies I like.\n\nAcceptance Criteria\nIf it does the above, I'm happy.\n\nTechnical Details",
         "author": "EnricoM2",
-        "posted_time": "35 minutes ago",
+        "posted_time": "47 minutes ago",
         "link": "https://replit.com/bounties/@EnricoM2/startup-library-chat?t="
     }
 ]
