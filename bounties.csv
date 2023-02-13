@@ -6073,7 +6073,7 @@ Part of what will enable you to win this prize is design and specification of th
 
 Technical Details
 
-Must be fully open source and Apache licensed.",JosephJacks,13 hours ago,https://replit.com/bounties/@JosephJacks/llm-ify-any-app?t=
+Must be fully open source and Apache licensed.",JosephJacks,14 hours ago,https://replit.com/bounties/@JosephJacks/llm-ify-any-app?t=
 776,$990.00,due in 6 days,RoamResearch Fine Tune model OpenAI,"Take a user's RoamResearch graph as input and fine tune a model using OpenAI. https://platform.openai.com/docs/guides/fine-tuning
 https://roamresearch.com/
 
@@ -6126,4 +6126,4 @@ async function tryCatch(callback) {
 
 async function run() {
   await Excel.run(async (context) => {
-    const range = context.workbook.get...",EthanArd1,38 minutes ago,https://replit.com/bounties/@EthanArd1/fix-simple-office-sc?t=
+    const range = context.workbook.get...",EthanArd1,48 minutes ago,https://replit.com/bounties/@EthanArd1/fix-simple-office-sc?t=
