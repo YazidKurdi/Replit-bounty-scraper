@@ -7796,7 +7796,7 @@
         "title": "Update a repository for Java Spring Boot App",
         "description": "Help incorporate new classes and class updates into a GitHub repository. Also, guide on the process and help test the application to make sure newly added code is functioning properly.\n\n\"By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.\"",
         "author": "mdotbaig",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/update-a-repository?t="
     },
     {
@@ -7856,7 +7856,7 @@
         "title": "Fix a scraper that is a previous replit bounty",
         "description": "I have a Selenium scraper that scrapes TikToks from the browser version of TikTok. TikTok allows you to view the 1,000 most 'popular' TikToks associated with a particular hashtag.\n\nI want to pull the URL's to each tiktok, and associated information such as the number of comments, date posted, number of likes and the text description/hashtags associated with each video.  I want to display this in Airtable.\n\nIt's all set up and was previously working except now when I re-run the script, nothing is getting displayed in Airtable.\n\nAcceptance Criteria\n\nIt will be accepted when I have the 1,000 TikToks and specified data in my Airtable.",
         "author": "AdamFlanagan1",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@AdamFlanagan1/fix-a-scraper-that-i?t="
     },
     {
@@ -7876,7 +7876,7 @@
         "title": "Generative AI Avatar creator single page app (Python + Next.js)",
         "description": "#Problem Statement\n\nSeeking a Full Stack Developer with experience in Python, Dreambooth, Replicate REST API, and Next.js to build a generative AI avatar application. Responsibilities include developing a user-friendly interface, implementing a machine learning model for avatar generation, utilizing Python and Dreambooth for back-end and Next.js for front-end, integrating Replicate REST API for image editing, and ensuring the application is optimized and meets high standards.\n\n#Acceptance Criteria\n\nUser Interface: visually appealing and intuitive, accessible within a single page, responsive on various devices.\nAvatar Generation: based on user inputs, customizable and updateable, high quality and visually appealing.\nAI Machine Learning Model: Dreambooth-based, accurately creates and updates avatar, learns and improves with user inputs, handles large number of inputs without affecting performance.\nBack-end Development: using Python and Dreambooth, handles large number of requests, secure...",
         "author": "JordanManeval1",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@JordanManeval1/generative-ai-avatar?t="
     },
     {
