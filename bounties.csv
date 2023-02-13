@@ -6172,7 +6172,7 @@ Chats
 UX
     Ideally the message to be sent is generated in a way where you can:
         see the draft
-        edit i...",littlegoatcoding,7 hours ago,https://replit.com/bounties/@littlegoatcoding/only-fans-ai-chrome?t=
+        edit i...",littlegoatcoding,8 hours ago,https://replit.com/bounties/@littlegoatcoding/only-fans-ai-chrome?t=
 785,$36.00,due in 3 days,Fix a scraper that is a previous replit bounty,"I have a Selenium scraper that scrapes TikToks from the browser version of TikTok. TikTok allows you to view the 1,000 most 'popular' TikToks associated with a particular hashtag.
 
 I want to pull the URL's to each tiktok, and associated information such as the number of comments, date posted, number of likes and the text description/hashtags associated with each video.  I want to display this in Airtable.
@@ -6226,10 +6226,10 @@ What's the grading criteria for Economics 101?
 Summarize my notes over the last 7 days
 
 To be able to build something like this, you should use something like gpt-index...",metahash,6 hours ago,https://replit.com/bounties/@metahash/a-script-to-generate?t=
-789,$45.00,due in 11 days,[TRANSLATION] Convert Swift/Objective C Code Utilizing Various MacOS APIs to Python,"tl;dr I have a bit over 50 lines of Swift/Objective C code that need to be converted into Python. It uses some Mac OS APIs to work. Repo Link: https://github.com/tml1024/FluffyDisplay. It is mainly a library that exports one function. I would like that function to be available through Python code. Please include previous bounty work and experience with Mac OS APIs. I will tip up extra for fast work!
+789,$45.00,due in 6 days,[TRANSLATION] Convert Swift/Objective C Code Utilizing Various MacOS APIs to Python,"tl;dr I have a bit over 50 lines of Swift/Objective C code that need to be converted into Python. It uses some Mac OS APIs to work. Repo Link: https://github.com/tml1024/FluffyDisplay. It is mainly a library that exports one function. I would like that function to be available through Python code. Please include previous bounty work and experience with Mac OS APIs. I will tip up extra for fast work!
 
 Problem Description
 FluffyDisplay allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in Swift/Objective C utilizing MacOS APIs. It is also made to be a partial library. I would like to convert this to Python and make it usable through python. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
-I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Pyt...",EpicCodeWizard2,2 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-5?t=
+I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Pyt...",EpicCodeWizard2,9 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-5?t=
