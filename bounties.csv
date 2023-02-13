@@ -6097,7 +6097,7 @@ Must be able to process both singular images and multiple images at one (hundred
 778,$10.35,due in 3 days,Grab Ticker Data from Webull Images,"Extract ticker data from Webull screenshots and organize into a spreadsheet.
 
 Acceptance Criteria
-Must be able to process both singular images and multiple images at one (hundreds to thousands at a time).",jiofunk,15 hours ago,https://replit.com/bounties/@jiofunk/grab-ticker-data-fro-1?t=
+Must be able to process both singular images and multiple images at one (hundreds to thousands at a time).",jiofunk,16 hours ago,https://replit.com/bounties/@jiofunk/grab-ticker-data-fro-1?t=
 779,$25.00,closed,Update a repository for Java Spring Boot App,"Help incorporate new classes and class updates into a GitHub repository. Also, guide on the process and help test the application to make sure newly added code is functioning properly.
 
 ""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,15 hours ago,https://replit.com/bounties/@mdotbaig/update-a-repository?t=
@@ -6135,7 +6135,7 @@ I want to be able to feed the database new articles as I go along. Ideally, I al
 Acceptance Criteria
 If it does the above, I'm happy.
 
-Technical Details",EnricoM2,7 hours ago,https://replit.com/bounties/@EnricoM2/startup-library-chat?t=
+Technical Details",EnricoM2,8 hours ago,https://replit.com/bounties/@EnricoM2/startup-library-chat?t=
 782,$0.90,due in 14 days,Build Investing Support Ai Bot,"Problem- I want to build an Ai powered LLM bot which picks up financial data/news/earnings call/investor presentations/corp.announcements/social signals/all web available data to churn out valuation analytics summaries-visuals-charts-gamified
 
 Acceptance Criteria - A Ai chat bot where users can enter questions (prompts driven suggestions etc) about different strategies of investing / trading  to churn out insights
@@ -6148,7 +6148,7 @@ Style of the pages: Take a look at https://daki.cc/ and https://revivenode.com/ 
 
 Acceptance Criteria
 All I need is your discord (linked to your replit account or in your application)
-Along with the discord in your bio I need you to friend my discord account (!Odd#1919) or be in the replit discord, This is so I can message you instantly if your application is accepted.",OddGames,3 hours ago,https://replit.com/bounties/@OddGames/html-css-js-i-need-a?t=
+Along with the discord in your bio I need you to friend my discord account (!Odd#1919) or be in the replit discord, This is so I can message you instantly if your application is accepted.",OddGames,4 hours ago,https://replit.com/bounties/@OddGames/html-css-js-i-need-a?t=
 784,$162.00,due in 8 days,Only Fans AI Chrome Extension,"Problem
 As an OF creator, I get too many direct messages to handle. I want to be able to put chatting with my fans on autopilot.
 
@@ -6182,7 +6182,7 @@ It's all set up and was previously working except now when I re-run the script, 
 Acceptance Criteria
 
 It will be accepted when I have the 1,000 TikToks and specified data in my Airtable.",AdamFlanagan1,3 hours ago,https://replit.com/bounties/@AdamFlanagan1/fix-a-scraper-that-i?t=
-786,$630.00,due in 20 days,A script to generate training data ,"Businesses and individuals deal with endless sources of knowledge to store their data; docs, pdfs, Slack, Notion, Jira, etc..
+786,$630.00,due in 19 days,A script to generate training data ,"Businesses and individuals deal with endless sources of knowledge to store their data; docs, pdfs, Slack, Notion, Jira, etc..
 
 With the power of AI and embeddings, sifting through this data became 100x easier. For this project, I would like to build a tool that allows a business or an individual to connect to their data sources and ""talk"" to their data through a chat UI; example questions that the tool should be able to answer (given its connected to the needed data sources):
 
@@ -6198,7 +6198,7 @@ What subjects will I learn about given my Economics 101 class syllabus?
 What's the grading criteria for Economics 101?
 Summarize my notes over the last 7 days
 
-To be able to build something like this, you should use something like gpt-index...",SaifAbuhashish,1 hour ago,https://replit.com/bounties/@SaifAbuhashish/a-script-to-generate?t=
+To be able to build something like this, you should use something like gpt-index...",SaifAbuhashish,2 hours ago,https://replit.com/bounties/@SaifAbuhashish/a-script-to-generate?t=
 787,"$1,215.00",due in 17 days,Generative AI Avatar creator single page app (Python + Next.js),"#Problem Statement
 
 Seeking a Full Stack Developer with experience in Python, Dreambooth, Replicate REST API, and Next.js to build a generative AI avatar application. Responsibilities include developing a user-friendly interface, implementing a machine learning model for avatar generation, utilizing Python and Dreambooth for back-end and Next.js for front-end, integrating Replicate REST API for image editing, and ensuring the application is optimized and meets high standards.
@@ -6208,4 +6208,4 @@ Seeking a Full Stack Developer with experience in Python, Dreambooth, Replicate 
 User Interface: visually appealing and intuitive, accessible within a single page, responsive on various devices.
 Avatar Generation: based on user inputs, customizable and updateable, high quality and visually appealing.
 AI Machine Learning Model: Dreambooth-based, accurately creates and updates avatar, learns and improves with user inputs, handles large number of inputs without affecting performance.
-Back-end Development: using Python and Dreambooth, handles large number of requests, secure...",JordanManeval1,39 minutes ago,https://replit.com/bounties/@JordanManeval1/generative-ai-avatar?t=
+Back-end Development: using Python and Dreambooth, handles large number of requests, secure...",JordanManeval1,1 hour ago,https://replit.com/bounties/@JordanManeval1/generative-ai-avatar?t=
