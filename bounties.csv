@@ -6073,7 +6073,7 @@ Part of what will enable you to win this prize is design and specification of th
 
 Technical Details
 
-Must be fully open source and Apache licensed.",JosephJacks,16 hours ago,https://replit.com/bounties/@JosephJacks/llm-ify-any-app?t=
+Must be fully open source and Apache licensed.",JosephJacks,17 hours ago,https://replit.com/bounties/@JosephJacks/llm-ify-any-app?t=
 776,$990.00,due in 5 days,RoamResearch Fine Tune model OpenAI,"Take a user's RoamResearch graph as input and fine tune a model using OpenAI. https://platform.openai.com/docs/guides/fine-tuning
 https://roamresearch.com/
 
@@ -6126,7 +6126,7 @@ async function tryCatch(callback) {
 
 async function run() {
   await Excel.run(async (context) => {
-    const range = context.workbook.get...",EthanArd1,3 hours ago,https://replit.com/bounties/@EthanArd1/fix-simple-office-sc?t=
+    const range = context.workbook.get...",EthanArd1,4 hours ago,https://replit.com/bounties/@EthanArd1/fix-simple-office-sc?t=
 781,$450.00,due in 13 days,Startup Library ChatBot,"Similarly to the tool described in this article (https://every.to/chain-of-thought/how-to-build-a-chatbot-with-gpt-3), I want to build a GPT chatbot I can share with my followers via a website. This Chatbot is supposed to answer questions based on the information of a library of resources I have saved, this will be articles on startups, etc.
 I want it to be accessible via a website (similar to http://www.lennybot.com/).
 

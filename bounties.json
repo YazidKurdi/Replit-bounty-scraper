@@ -7756,7 +7756,7 @@
         "title": "\u201cLLM-ify\u201d Any App",
         "description": "https://twitter.com/josephjacks_/status/1624829956483334146\n\nAcceptance Criteria\n\nDemonstrate a working prototype of this vision that can easily be \u201capplied\u201d to any app \u2014 but specifically show how it can be applied to open source apps like Cal.com, NocoDB, OpenBB, Godot, RustDesk (2 or more of these).\n\nThis tool should also work for fully proprietary apps but that would likely be more difficult and require more access.\n\nPart of what will enable you to win this prize is design and specification of this infra tool that can work for any app and also within any level of arbitrary complexity within that app.. by analogy, think of what Stable Diffusion unlocks with natural language driven image generation \u2014 this project should provide a similar framework / tool but for \u201cconfiguration generation\u201d driven by natural language in any app.\n\nTechnical Details\n\nMust be fully open source and Apache licensed.",
         "author": "JosephJacks",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@JosephJacks/llm-ify-any-app?t="
     },
     {
@@ -7806,7 +7806,7 @@
         "title": "Fix simple Office Script calling Census Geocoder API",
         "description": "I have a pretty simple office script.  The user highlights two columns.  The first column is a set of addresses, and hte second column will get overwritten.\n\nThe script calls the Census Geocoder API, and it is supposed to write the json response in column 2.\n\nI am able to get the json fine, and log it to the console.  But for reasons I can't understand, the script is not actually writing the data to column 2.  I am trying to do a context.sync() inside the jsonp success function, but clearly it's not working.\n\nAcceptance Criteria\nCorrected version of the script which runs in Office, specifically under Script Lab.\n\nTechnical Details\nHere is the code:\n\n$(\"#run\").click(() => tryCatch(run));\n\n/* Default helper for invoking an action and handling errors. /\nasync function tryCatch(callback) {\n  try {\n    await callback();\n  } catch (error) {\n    console.error(error);\n  }\n}\n\nasync function run() {\n  await Excel.run(async (context) => {\n    const range = context.workbook.get...",
         "author": "EthanArd1",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@EthanArd1/fix-simple-office-sc?t="
     },
     {
