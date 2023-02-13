@@ -7736,7 +7736,7 @@
         "title": "Scrape website",
         "description": "Hi,\n\nI would be looking to get this website scraped - https://betsniper.vercel.app/. The website is a list of basketball player odds for player props e.g. Lebron James Over Points. Essentially I would like the data to be scrapped so that each row is a different bet.\n\nThe table would be organised with the following headers (examples provided correlating to the image):\nGame\nPlayer\nStat\nLine\nBookmaker\nOdds (over and under)\n\nBelow is what the data could look like,\nGame\tPlayer\tStat\tLine\tBookmaker\tOver odds\tUnder odds\nChicago Bulls vs Charlotte Hornets\tDemar Derozan\tPoints\t26.5\tTopsport\t1.88\t1.9\nChicago Bulls vs Charlotte Hornets\tDemar Derozan\tPoints\t26.5\tTAB\t1.85\t1.9\nChicago Bulls vs Charlotte Hornets\tDemar Derozan\tPoints\t26.5\tPointsbet\t1.8\t1.95\nChicago Bulls vs Charlotte Hornets\tDemar Derozan\tPoints\t26.5\tBet365\t1.86\t1.86\nChicago Bulls vs Charlotte Hornets\tDemar Derozan\tPoints\t26.5\tPinnacle\t1.85\t1.89\nChicago Bulls vs Charlotte Hornets\tDemar Derozan\tPoints\t27.5\tSportsbet\t1.94\t1.8\nChicago Bul...",
         "author": "YouReachITeach4",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@YouReachITeach4/scrape-website?t="
     },
     {
@@ -7766,7 +7766,7 @@
         "title": "RoamResearch Fine Tune model OpenAI",
         "description": "Take a user's RoamResearch graph as input and fine tune a model using OpenAI. https://platform.openai.com/docs/guides/fine-tuning\nhttps://roamresearch.com/\n\nThe tools should work like the following:\nI couldn't find an API for Roam yet so it must take exported files from the graph as input to tune the customized model.  Open to any better way here...\nIt has to have the ability to update or fine tune multiple times upon submission of updated files that are used to tune the model.\nThe user can choose with customized model to fine tune with the new file submission.\nThe tool will check if the fine tuning job is complete periodically and let the user know when its updated and ready for prompts.\nThe user can ask prompts and switch between the customized models.\n\nThe app can be configured with the following settings:\nThe user's OpenAI API Key\nA custom prompt\nModel type (ability to switch between customized models)\nMax Tokens returned from the model (defaults to 1024)\nTemper...",
         "author": "syst3m3",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@syst3m3/roamresearch-fine-tu?t="
     },
     {
@@ -7776,7 +7776,7 @@
         "title": "Grab Ticker Data from Webull Images",
         "description": "Extract ticker data from Webull screenshots and organize into a spreadsheet.\n\nAcceptance Criteria\nMust be able to process both singular images and multiple images at one (hundreds to thousands at a time).",
         "author": "jiofunk",
-        "posted_time": "18 minutes ago",
+        "posted_time": "37 minutes ago",
         "link": "https://replit.com/bounties/@jiofunk/grab-ticker-data-fro?t="
     },
     {
@@ -7786,7 +7786,7 @@
         "title": "Grab Ticker Data from Webull Images",
         "description": "Extract ticker data from Webull screenshots and organize into a spreadsheet.\n\nAcceptance Criteria\nMust be able to process both singular images and multiple images at one (hundreds to thousands at a time).",
         "author": "jiofunk",
-        "posted_time": "10 minutes ago",
+        "posted_time": "29 minutes ago",
         "link": "https://replit.com/bounties/@jiofunk/grab-ticker-data-fro-1?t="
     }
 ]
