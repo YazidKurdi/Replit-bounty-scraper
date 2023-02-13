@@ -6025,7 +6025,7 @@ User then selects the senders whose emails they wish to have summarized going fo
 
 Acceptance Criteria
 I can add multiple children to the app and remove them at anytime. I can also give and remove points from the children's ""accounts"". The app should also use a login system. OAuth is allowed, and you'll get a 100 cycles bonus per OAuth implementation (max 500 cycles, paid via tips).",haroon,1 day ago,https://replit.com/bounties/@haroon/classdojo-replacemen?t=
-773,$13.50,due in 3 days,Scrape website,"Hi,
+773,$13.50,due in 2 days,Scrape website,"Hi,
 
 I would be looking to get this website scraped - https://betsniper.vercel.app/. The website is a list of basketball player odds for player props e.g. Lebron James Over Points. Essentially I would like the data to be scrapped so that each row is a different bet.
 
@@ -6045,8 +6045,8 @@ Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	26.5	Pointsbet	1.8	1.95
 Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	26.5	Bet365	1.86	1.86
 Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	26.5	Pinnacle	1.85	1.89
 Chicago Bulls vs Charlotte Hornets	Demar Derozan	Points	27.5	Sportsbet	1.94	1.8
-Chicago Bul...",YouReachITeach4,22 hours ago,https://replit.com/bounties/@YouReachITeach4/scrape-website?t=
-774,$45.00,due in 4 days,Modify a Karabiner Elements Config,"I want to adapt the Capslock script for Karabiner Elements to use the LeftCommand key instead of the Capslock key.
+Chicago Bul...",YouReachITeach4,23 hours ago,https://replit.com/bounties/@YouReachITeach4/scrape-website?t=
+774,$45.00,due in 3 days,Modify a Karabiner Elements Config,"I want to adapt the Capslock script for Karabiner Elements to use the LeftCommand key instead of the Capslock key.
 
 Reference: https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json
 
@@ -6060,8 +6060,8 @@ Just need to edit the JSON file, and load it into Karabiner to test that it work
 I thought it was simple as changing ""capslock"" references to ""left_command"" references, but it seems more involved.
 
 Link to Project
-https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json",colinricardo,18 hours ago,https://replit.com/bounties/@colinricardo/modify-a-karabiner-e?t=
-775,"$3,150.00",due in 30 days,“LLM-ify” Any App,"https://twitter.com/josephjacks_/status/1624829956483334146
+https://github.com/Vonng/Capslock/blob/master/mac_v3/capslock.json",colinricardo,19 hours ago,https://replit.com/bounties/@colinricardo/modify-a-karabiner-e?t=
+775,"$3,150.00",due in 29 days,“LLM-ify” Any App,"https://twitter.com/josephjacks_/status/1624829956483334146
 
 Acceptance Criteria
 
@@ -6074,7 +6074,7 @@ Part of what will enable you to win this prize is design and specification of th
 Technical Details
 
 Must be fully open source and Apache licensed.",JosephJacks,16 hours ago,https://replit.com/bounties/@JosephJacks/llm-ify-any-app?t=
-776,$990.00,due in 6 days,RoamResearch Fine Tune model OpenAI,"Take a user's RoamResearch graph as input and fine tune a model using OpenAI. https://platform.openai.com/docs/guides/fine-tuning
+776,$990.00,due in 5 days,RoamResearch Fine Tune model OpenAI,"Take a user's RoamResearch graph as input and fine tune a model using OpenAI. https://platform.openai.com/docs/guides/fine-tuning
 https://roamresearch.com/
 
 The tools should work like the following:
@@ -6089,19 +6089,19 @@ The user's OpenAI API Key
 A custom prompt
 Model type (ability to switch between customized models)
 Max Tokens returned from the model (defaults to 1024)
-Temper...",syst3m3,14 hours ago,https://replit.com/bounties/@syst3m3/roamresearch-fine-tu?t=
+Temper...",syst3m3,15 hours ago,https://replit.com/bounties/@syst3m3/roamresearch-fine-tu?t=
 777,$9.00,closed,Grab Ticker Data from Webull Images,"Extract ticker data from Webull screenshots and organize into a spreadsheet.
 
 Acceptance Criteria
-Must be able to process both singular images and multiple images at one (hundreds to thousands at a time).",jiofunk,9 hours ago,https://replit.com/bounties/@jiofunk/grab-ticker-data-fro?t=
-778,$10.35,due in 4 days,Grab Ticker Data from Webull Images,"Extract ticker data from Webull screenshots and organize into a spreadsheet.
+Must be able to process both singular images and multiple images at one (hundreds to thousands at a time).",jiofunk,10 hours ago,https://replit.com/bounties/@jiofunk/grab-ticker-data-fro?t=
+778,$10.35,due in 3 days,Grab Ticker Data from Webull Images,"Extract ticker data from Webull screenshots and organize into a spreadsheet.
 
 Acceptance Criteria
-Must be able to process both singular images and multiple images at one (hundreds to thousands at a time).",jiofunk,9 hours ago,https://replit.com/bounties/@jiofunk/grab-ticker-data-fro-1?t=
-779,$25.00,due in 4 days,Update a repository for Java Spring Boot App,"Help incorporate new classes and class updates into a GitHub repository. Also, guide on the process and help test the application to make sure newly added code is functioning properly.
+Must be able to process both singular images and multiple images at one (hundreds to thousands at a time).",jiofunk,10 hours ago,https://replit.com/bounties/@jiofunk/grab-ticker-data-fro-1?t=
+779,$25.00,due in 3 days,Update a repository for Java Spring Boot App,"Help incorporate new classes and class updates into a GitHub repository. Also, guide on the process and help test the application to make sure newly added code is functioning properly.
 
-""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,8 hours ago,https://replit.com/bounties/@mdotbaig/update-a-repository?t=
-780,$9.00,due in 4 days,Fix simple Office Script calling Census Geocoder API,"I have a pretty simple office script.  The user highlights two columns.  The first column is a set of addresses, and hte second column will get overwritten.
+""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,9 hours ago,https://replit.com/bounties/@mdotbaig/update-a-repository?t=
+780,$9.00,due in 3 days,Fix simple Office Script calling Census Geocoder API,"I have a pretty simple office script.  The user highlights two columns.  The first column is a set of addresses, and hte second column will get overwritten.
 
 The script calls the Census Geocoder API, and it is supposed to write the json response in column 2.
 
@@ -6127,7 +6127,7 @@ async function tryCatch(callback) {
 async function run() {
   await Excel.run(async (context) => {
     const range = context.workbook.get...",EthanArd1,3 hours ago,https://replit.com/bounties/@EthanArd1/fix-simple-office-sc?t=
-781,$450.00,due in 14 days,Startup Library ChatBot,"Similarly to the tool described in this article (https://every.to/chain-of-thought/how-to-build-a-chatbot-with-gpt-3), I want to build a GPT chatbot I can share with my followers via a website. This Chatbot is supposed to answer questions based on the information of a library of resources I have saved, this will be articles on startups, etc.
+781,$450.00,due in 13 days,Startup Library ChatBot,"Similarly to the tool described in this article (https://every.to/chain-of-thought/how-to-build-a-chatbot-with-gpt-3), I want to build a GPT chatbot I can share with my followers via a website. This Chatbot is supposed to answer questions based on the information of a library of resources I have saved, this will be articles on startups, etc.
 I want it to be accessible via a website (similar to http://www.lennybot.com/).
 
 I want to be able to feed the database new articles as I go along. Ideally, I also want to feed other data sources into it, such as my personal CRM (to find contacts I know) or my CRM of companies I like.
@@ -6135,4 +6135,4 @@ I want to be able to feed the database new articles as I go along. Ideally, I al
 Acceptance Criteria
 If it does the above, I'm happy.
 
-Technical Details",EnricoM2,1 hour ago,https://replit.com/bounties/@EnricoM2/startup-library-chat?t=
+Technical Details",EnricoM2,2 hours ago,https://replit.com/bounties/@EnricoM2/startup-library-chat?t=
