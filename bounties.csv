@@ -6126,7 +6126,7 @@ async function tryCatch(callback) {
 
 async function run() {
   await Excel.run(async (context) => {
-    const range = context.workbook.get...",EthanArd1,13 hours ago,https://replit.com/bounties/@EthanArd1/fix-simple-office-sc?t=
+    const range = context.workbook.get...",EthanArd1,14 hours ago,https://replit.com/bounties/@EthanArd1/fix-simple-office-sc?t=
 781,$450.00,due in 13 days,Startup Library ChatBot,"Similarly to the tool described in this article (https://every.to/chain-of-thought/how-to-build-a-chatbot-with-gpt-3), I want to build a GPT chatbot I can share with my followers via a website. This Chatbot is supposed to answer questions based on the information of a library of resources I have saved, this will be articles on startups, etc.
 I want it to be accessible via a website (similar to http://www.lennybot.com/).
 
@@ -6226,3 +6226,10 @@ What's the grading criteria for Economics 101?
 Summarize my notes over the last 7 days
 
 To be able to build something like this, you should use something like gpt-index...",metahash,6 hours ago,https://replit.com/bounties/@metahash/a-script-to-generate?t=
+789,$45.00,due in 11 days,[TRANSLATION] Convert Swift/Objective C Code Utilizing Various MacOS APIs to Python,"tl;dr I have a bit over 50 lines of Swift/Objective C code that need to be converted into Python. It uses some Mac OS APIs to work. Repo Link: https://github.com/tml1024/FluffyDisplay. It is mainly a library that exports one function. I would like that function to be available through Python code. Please include previous bounty work and experience with Mac OS APIs. I will tip up extra for fast work!
+
+Problem Description
+FluffyDisplay allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in Swift/Objective C utilizing MacOS APIs. It is also made to be a partial library. I would like to convert this to Python and make it usable through python. Just convert the code to python. I don't mind it having multiple files or many dependencies.
+
+Acceptance Criteria
+I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Pyt...",EpicCodeWizard2,2 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-5?t=
