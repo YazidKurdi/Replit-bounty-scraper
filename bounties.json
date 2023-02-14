@@ -7936,7 +7936,7 @@
         "title": "Build a Chrome Extension that can Color Code a User's Calendar",
         "description": "I am looking for someone to help put together a chrome extension that can be used to assist in a calendar audit by tracking the energy level a user gets throughout the day from meetings.\n\nThe goal is for the chrome extension over time to be able to provide users with helpful data on how they spend their days and provide them with insights into which parts of their days they enjoy and which they don\u2019t. Allowing them to make changes as needed to improve their daily work life.\n\nSolution Description\n\nThe idea is that the extension would connect to a user's Google calendar and after each meeting, the extension would prompt the user for feedback on the meeting with a simple pop up as a feedback/data collection mechanism that displays something like \"How are you feeling after that?\" and then provides the user with three possible answer choices in the form of smiley faces (green smiley = feeling energized, yellow straight face = neutral, and red frowning face = feeling drai...",
         "author": "saamor1994",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@saamor1994/build-a-chrome-exten?t="
     },
     {
