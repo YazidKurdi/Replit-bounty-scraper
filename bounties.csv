@@ -6289,7 +6289,7 @@ const menuInsert = [
   [""&HTML/XML Tag...\tAlt+X"", IDMEDITINSERT_XMLTAG],
   [""New &GUID"", IDMEDITINSERT_GUID],
   [""&File Name"", CMDINSERTFILENAMENOEXT],
-  [""File Name and E&xt...",kjk1,7 hours ago,https://replit.com/bounties/@kjk1/implement-few-codemi?t=
+  [""File Name and E&xt...",kjk1,8 hours ago,https://replit.com/bounties/@kjk1/implement-few-codemi?t=
 797,$9.00,due in 5 days,Dlsord [email protected] G3n,"Dlsord [email protected] G3n
 Working
 Must Be ready
@@ -6302,4 +6302,4 @@ Support for multiple concurrent commands and bot replied.
 Easy to use UI/UX for users to input hashtags and auto-response keywords.
 Authentication with Instagram/Twitter API to access user accounts and retrieve comments on posts.
 Secure handling of user authentication credentials and hashtag/auto-response keywords.
-Appropriate handling of posts containing multiple hashtags to avoid spamming the comment s...",TomHumber,58 minutes ago,https://replit.com/bounties/@TomHumber/instagram-and-twitte?t=
+Appropriate handling of posts containing multiple hashtags to avoid spamming the comment s...",TomHumber,1 hour ago,https://replit.com/bounties/@TomHumber/instagram-and-twitte?t=
