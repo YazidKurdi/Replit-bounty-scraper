@@ -7896,7 +7896,7 @@
         "title": "[TRANSLATION] Convert Swift/Objective C Code Utilizing Various MacOS APIs to Python",
         "description": "tl;dr I have a bit over 50 lines of Swift/Objective C code that need to be converted into Python. It uses some Mac OS APIs to work. Repo Link: https://github.com/tml1024/FluffyDisplay. It is mainly a library that exports one function. I would like that function to be available through Python code. Please include previous bounty work and experience with Mac OS APIs. I will tip up extra for fast work!\n\nProblem Description\nFluffyDisplay allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in Swift/Objective C utilizing MacOS APIs. It is also made to be a partial library. I would like to convert this to Python and make it usable through python. Just convert the code to python. I don't mind it having multiple files or many dependencies.\n\nAcceptance Criteria\nI should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Pyt...",
         "author": "EpicCodeWizard2",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/translation-convert-5?t="
     },
     {
@@ -7946,7 +7946,7 @@
         "title": "Replit Youtube video clipper for Evolution @Replit",
         "description": "Create clips of this youtube video that will get people psyched on the Evolution @Replit series.\nhttps://www.youtube.com/watch?v=ww0W8ne4V_Y&t=1424s\n\nAcceptance Criteria\nSend us > 90 second videos that will grow our youtube channel with captions and/or editing that makes the clips stand out.",
         "author": "jesse",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@jesse/replit-youtube-video?t="
     },
     {
@@ -7976,7 +7976,7 @@
         "title": "Dlsord [email\u00a0protected] G3n",
         "description": "Dlsord [email\u00a0protected] G3n\nWorking\nMust Be ready\nshould start from MT",
         "author": "NotYourMaster",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@NotYourMaster/dlsord-tken-g3n?t="
     },
     {
@@ -7986,7 +7986,7 @@
         "title": "Instagram & Twitter Bot for my Business Account",
         "description": "The project aims to create Instagram & Twitter auto-responder bots for business accounts that can auto-respond to comments on posts containing specified hashtags. The solution must allow for multiple commands and bot replied to be running concurrently. The solution must provide an easy to ease UI/UX for the user to input the hashtag and auto-response keywords. The bounty proposal must include any information pertinent to the awarding of the monies.\n\nKey Features:\nContinuous monitoring of specified hashtags and automatic response to comments on Instagram posts containing those hashtags.\nSupport for multiple concurrent commands and bot replied.\nEasy to use UI/UX for users to input hashtags and auto-response keywords.\nAuthentication with Instagram/Twitter API to access user accounts and retrieve comments on posts.\nSecure handling of user authentication credentials and hashtag/auto-response keywords.\nAppropriate handling of posts containing multiple hashtags to avoid spamming the comment s...",
         "author": "TomHumber",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@TomHumber/instagram-and-twitte?t="
     }
 ]
