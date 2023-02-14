@@ -7916,7 +7916,7 @@
         "title": "Next stage of boldsign app",
         "description": "will download additional audit PDF, merge with document PDF, and upload resulting PDF file",
         "author": "AndrewShowman",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/next-stage-of-boldsi?t="
     },
     {
@@ -7926,7 +7926,7 @@
         "title": "Chat AI that pulls data from folders (Excel and Word docs) and gives a response",
         "description": "Im looking for a simple ChatGPT-style app that will let me ingest a folder of documents. Mainly Excel and Word docs. Once ingested, I can ask a question from the chat box and get a response pulled from the documents.\n\nSimple web app on Replit that lets me ask questions and get answers from internal documents I provide. Ideally I can also upload more documents in the future and have them indexed and searchable. Excel (CSV) and Word (Docx) docs are the main formats I need.",
         "author": "WillJarvis2",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@WillJarvis2/chat-ai-that-pulls-d?t="
     },
     {
@@ -7996,7 +7996,7 @@
         "title": "LLM-based English language tutor",
         "description": "To build a web app that provides an MVP, voice-based, 1-to-1 English Language tutor service (similar to https://www.britishcouncil.org/english/learn-online/englishscore-tutors) using a LLM-powered virtual tutor. The service is for English language learners looking to improve their spoken English.\nAt the next stage the tutor will be a Synthesia -style AI-generated person presenting thought video, but for the MPV, to reduce API costs, lag, etc. it should be voice only.\nThe lesson interface should look and feel like a Zoom / Teams / Meet style video call (with cameras off both ends - so audio only).\nThe student should interact by speaking to the tutor through the device microphone.\nThere should be a captions toggle, allowing the text of what the tutor and student are saying to be displayed.\nThe tutor should lead the conversation, using language that is appropriate to the English language skill level of the student (see below), it should explain language concepts that ...",
         "author": "DanCobley",
-        "posted_time": "4 minutes ago",
+        "posted_time": "14 minutes ago",
         "link": "https://replit.com/bounties/@DanCobley/llm-based-english-la?t="
     }
 ]
