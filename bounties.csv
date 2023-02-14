@@ -6181,7 +6181,7 @@ It's all set up and was previously working except now when I re-run the script, 
 
 Acceptance Criteria
 
-It will be accepted when I have the 1,000 TikToks and specified data in my Airtable.",AdamFlanagan1,11 hours ago,https://replit.com/bounties/@AdamFlanagan1/fix-a-scraper-that-i?t=
+It will be accepted when I have the 1,000 TikToks and specified data in my Airtable.",AdamFlanagan1,12 hours ago,https://replit.com/bounties/@AdamFlanagan1/fix-a-scraper-that-i?t=
 786,$630.00,due in 19 days,A script to generate training data ,"Businesses and individuals deal with endless sources of knowledge to store their data; docs, pdfs, Slack, Notion, Jira, etc..
 
 With the power of AI and embeddings, sifting through this data became 100x easier. For this project, I would like to build a tool that allows a business or an individual to connect to their data sources and ""talk"" to their data through a chat UI; example questions that the tool should be able to answer (given its connected to the needed data sources):
@@ -6208,7 +6208,7 @@ Seeking a Full Stack Developer with experience in Python, Dreambooth, Replicate 
 User Interface: visually appealing and intuitive, accessible within a single page, responsive on various devices.
 Avatar Generation: based on user inputs, customizable and updateable, high quality and visually appealing.
 AI Machine Learning Model: Dreambooth-based, accurately creates and updates avatar, learns and improves with user inputs, handles large number of inputs without affecting performance.
-Back-end Development: using Python and Dreambooth, handles large number of requests, secure...",JordanManeval1,9 hours ago,https://replit.com/bounties/@JordanManeval1/generative-ai-avatar?t=
+Back-end Development: using Python and Dreambooth, handles large number of requests, secure...",JordanManeval1,10 hours ago,https://replit.com/bounties/@JordanManeval1/generative-ai-avatar?t=
 788,$810.00,due in 25 days,Chat with your knowledge-base,"Businesses and individuals deal with endless sources of knowledge to store their data; docs, pdfs, Slack, Notion, Jira, etc..
 
 With the power of AI and embeddings, sifting through this data became 100x easier. For this project, I would like to build a tool that allows a business or an individual to connect to their data sources and ""talk"" to their data through a chat UI; example questions that the tool should be able to answer (given its connected to the needed data sources):
@@ -6225,14 +6225,14 @@ What subjects will I learn about given my Economics 101 class syllabus?
 What's the grading criteria for Economics 101?
 Summarize my notes over the last 7 days
 
-To be able to build something like this, you should use something like gpt-index...",metahash,10 hours ago,https://replit.com/bounties/@metahash/a-script-to-generate?t=
+To be able to build something like this, you should use something like gpt-index...",metahash,11 hours ago,https://replit.com/bounties/@metahash/a-script-to-generate?t=
 789,$45.00,due in 6 days,[TRANSLATION] Convert Swift/Objective C Code Utilizing Various MacOS APIs to Python,"tl;dr I have a bit over 50 lines of Swift/Objective C code that need to be converted into Python. It uses some Mac OS APIs to work. Repo Link: https://github.com/tml1024/FluffyDisplay. It is mainly a library that exports one function. I would like that function to be available through Python code. Please include previous bounty work and experience with Mac OS APIs. I will tip up extra for fast work!
 
 Problem Description
 FluffyDisplay allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in Swift/Objective C utilizing MacOS APIs. It is also made to be a partial library. I would like to convert this to Python and make it usable through python. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
-I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Pyt...",EpicCodeWizard2,4 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-5?t=
+I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Pyt...",EpicCodeWizard2,5 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-5?t=
 790,$4.05,due in 14 days,Functioning Django Channels v4.0 / Javascript Websockets code / tutorial,"I just want someone to make me a simple Django Channels/Websockets server for my learning. I'm trying to learn about WebSockets and Django Channels, but I'm genuinely stumped. I'm following the documentation seemingly to a tee but to no avail. I really want to learn about real-time communication, but it seems like a big hurdle to overcome and the information out there is getting lesser and lesser.",KoldHielo,3 hours ago,https://replit.com/bounties/@KoldHielo/functioning-django-c?t=
 791,$90.00,due in 7 days,Next stage of boldsign app,"will download additional audit PDF, merge with document PDF, and upload resulting PDF file",AndrewShowman,3 hours ago,https://replit.com/bounties/@AndrewShowman/next-stage-of-boldsi?t=
 792,$90.00,due in 4 days,Chat AI that pulls data from folders (Excel and Word docs) and gives a response,"Im looking for a simple ChatGPT-style app that will let me ingest a folder of documents. Mainly Excel and Word docs. Once ingested, I can ask a question from the chat box and get a response pulled from the documents.
@@ -6244,13 +6244,13 @@ The goal is for the chrome extension over time to be able to provide users with 
 
 Solution Description
 
-The idea is that the extension would connect to a user's Google calendar and after each meeting, the extension would prompt the user for feedback on the meeting with a simple pop up as a feedback/data collection mechanism that displays something like ""How are you feeling after that?"" and then provides the user with three possible answer choices in the form of smiley faces (green smiley = feeling energized, yellow straight face = neutral, and red frowning face = feeling drai...",saamor1994,2 hours ago,https://replit.com/bounties/@saamor1994/build-a-chrome-exten?t=
+The idea is that the extension would connect to a user's Google calendar and after each meeting, the extension would prompt the user for feedback on the meeting with a simple pop up as a feedback/data collection mechanism that displays something like ""How are you feeling after that?"" and then provides the user with three possible answer choices in the form of smiley faces (green smiley = feeling energized, yellow straight face = neutral, and red frowning face = feeling drai...",saamor1994,3 hours ago,https://replit.com/bounties/@saamor1994/build-a-chrome-exten?t=
 794,$22.50,due in 4 days,Replit Youtube video clipper for Evolution @Replit,"Create clips of this youtube video that will get people psyched on the Evolution @Replit series.
 https://www.youtube.com/watch?v=ww0W8ne4V_Y&t=1424s
 
 Acceptance Criteria
-Send us > 90 second videos that will grow our youtube channel with captions and/or editing that makes the clips stand out.",jesse,1 hour ago,https://replit.com/bounties/@jesse/replit-youtube-video?t=
-795,$45.00,due in 10 days,Track relevant healthcare policy changes and notify updates by email,"Track relevant healthcare policy changes using the keyword “healthcare” across 2 public sites and notify us by email. Links below:
+Send us > 90 second videos that will grow our youtube channel with captions and/or editing that makes the clips stand out.",jesse,2 hours ago,https://replit.com/bounties/@jesse/replit-youtube-video?t=
+795,$45.00,due in 9 days,Track relevant healthcare policy changes and notify updates by email,"Track relevant healthcare policy changes using the keyword “healthcare” across 2 public sites and notify us by email. Links below:
 
 https://www.reginfo.gov/public/jsp/Utilities/index.myjsp: Search Agenda, Reg Review, and ICR for any updates with keyword “healthcare” daily.
 

@@ -7856,7 +7856,7 @@
         "title": "Fix a scraper that is a previous replit bounty",
         "description": "I have a Selenium scraper that scrapes TikToks from the browser version of TikTok. TikTok allows you to view the 1,000 most 'popular' TikToks associated with a particular hashtag.\n\nI want to pull the URL's to each tiktok, and associated information such as the number of comments, date posted, number of likes and the text description/hashtags associated with each video.  I want to display this in Airtable.\n\nIt's all set up and was previously working except now when I re-run the script, nothing is getting displayed in Airtable.\n\nAcceptance Criteria\n\nIt will be accepted when I have the 1,000 TikToks and specified data in my Airtable.",
         "author": "AdamFlanagan1",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@AdamFlanagan1/fix-a-scraper-that-i?t="
     },
     {
@@ -7876,7 +7876,7 @@
         "title": "Generative AI Avatar creator single page app (Python + Next.js)",
         "description": "#Problem Statement\n\nSeeking a Full Stack Developer with experience in Python, Dreambooth, Replicate REST API, and Next.js to build a generative AI avatar application. Responsibilities include developing a user-friendly interface, implementing a machine learning model for avatar generation, utilizing Python and Dreambooth for back-end and Next.js for front-end, integrating Replicate REST API for image editing, and ensuring the application is optimized and meets high standards.\n\n#Acceptance Criteria\n\nUser Interface: visually appealing and intuitive, accessible within a single page, responsive on various devices.\nAvatar Generation: based on user inputs, customizable and updateable, high quality and visually appealing.\nAI Machine Learning Model: Dreambooth-based, accurately creates and updates avatar, learns and improves with user inputs, handles large number of inputs without affecting performance.\nBack-end Development: using Python and Dreambooth, handles large number of requests, secure...",
         "author": "JordanManeval1",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@JordanManeval1/generative-ai-avatar?t="
     },
     {
@@ -7886,7 +7886,7 @@
         "title": "Chat with your knowledge-base",
         "description": "Businesses and individuals deal with endless sources of knowledge to store their data; docs, pdfs, Slack, Notion, Jira, etc..\n\nWith the power of AI and embeddings, sifting through this data became 100x easier. For this project, I would like to build a tool that allows a business or an individual to connect to their data sources and \"talk\" to their data through a chat UI; example questions that the tool should be able to answer (given its connected to the needed data sources):\n\nfor a business:\nHow can I file a feature request?\nSummarize our last quarterly results\nHow do I set up my local dev environment?\nWhat's the scope of the Microsoft Dynamics integration?\n\nFor an individual:\nWhat are the main points discussed in my PHD paper?\nWhat subjects will I learn about given my Economics 101 class syllabus?\nWhat's the grading criteria for Economics 101?\nSummarize my notes over the last 7 days\n\nTo be able to build something like this, you should use something like gpt-index...",
         "author": "metahash",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@metahash/a-script-to-generate?t="
     },
     {
@@ -7896,7 +7896,7 @@
         "title": "[TRANSLATION] Convert Swift/Objective C Code Utilizing Various MacOS APIs to Python",
         "description": "tl;dr I have a bit over 50 lines of Swift/Objective C code that need to be converted into Python. It uses some Mac OS APIs to work. Repo Link: https://github.com/tml1024/FluffyDisplay. It is mainly a library that exports one function. I would like that function to be available through Python code. Please include previous bounty work and experience with Mac OS APIs. I will tip up extra for fast work!\n\nProblem Description\nFluffyDisplay allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in Swift/Objective C utilizing MacOS APIs. It is also made to be a partial library. I would like to convert this to Python and make it usable through python. Just convert the code to python. I don't mind it having multiple files or many dependencies.\n\nAcceptance Criteria\nI should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Pyt...",
         "author": "EpicCodeWizard2",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/translation-convert-5?t="
     },
     {
@@ -7936,7 +7936,7 @@
         "title": "Build a Chrome Extension that can Color Code a User's Calendar",
         "description": "I am looking for someone to help put together a chrome extension that can be used to assist in a calendar audit by tracking the energy level a user gets throughout the day from meetings.\n\nThe goal is for the chrome extension over time to be able to provide users with helpful data on how they spend their days and provide them with insights into which parts of their days they enjoy and which they don\u2019t. Allowing them to make changes as needed to improve their daily work life.\n\nSolution Description\n\nThe idea is that the extension would connect to a user's Google calendar and after each meeting, the extension would prompt the user for feedback on the meeting with a simple pop up as a feedback/data collection mechanism that displays something like \"How are you feeling after that?\" and then provides the user with three possible answer choices in the form of smiley faces (green smiley = feeling energized, yellow straight face = neutral, and red frowning face = feeling drai...",
         "author": "saamor1994",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@saamor1994/build-a-chrome-exten?t="
     },
     {
@@ -7946,13 +7946,13 @@
         "title": "Replit Youtube video clipper for Evolution @Replit",
         "description": "Create clips of this youtube video that will get people psyched on the Evolution @Replit series.\nhttps://www.youtube.com/watch?v=ww0W8ne4V_Y&t=1424s\n\nAcceptance Criteria\nSend us > 90 second videos that will grow our youtube channel with captions and/or editing that makes the clips stand out.",
         "author": "jesse",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@jesse/replit-youtube-video?t="
     },
     {
         "index": "795",
         "price": "$45.00",
-        "due_days": "due in 10 days",
+        "due_days": "due in 9 days",
         "title": "Track relevant healthcare policy changes and notify updates by email",
         "description": "Track relevant healthcare policy changes using the keyword \u201chealthcare\u201d across 2 public sites and notify us by email. Links below:\n\nhttps://www.reginfo.gov/public/jsp/Utilities/index.myjsp: Search Agenda, Reg Review, and ICR for any updates with keyword \u201chealthcare\u201d daily.\n\nhttps://www.congress.gov/: \u201cSearch by Congress\" \u2192 \"current congresses\" in top right corner for any updates with keyword \u201chealthcare\u201d daily.\n\nAcceptance Criteria\nThe main acceptance criteria is that we can be notified of these changes in a timely manner. We are not expecting a large volume of changes or updates daily (1 typically, <10 max).\n\nWe\u2019d like the tool to be flexible enough to add new websites over time if possible!",
         "author": "EmreTKaratas",
