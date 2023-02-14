@@ -6244,12 +6244,12 @@ The goal is for the chrome extension over time to be able to provide users with 
 
 Solution Description
 
-The idea is that the extension would connect to a user's Google calendar and after each meeting, the extension would prompt the user for feedback on the meeting with a simple pop up as a feedback/data collection mechanism that displays something like ""How are you feeling after that?"" and then provides the user with three possible answer choices in the form of smiley faces (green smiley = feeling energized, yellow straight face = neutral, and red frowning face = feeling drai...",saamor1994,18 hours ago,https://replit.com/bounties/@saamor1994/build-a-chrome-exten?t=
+The idea is that the extension would connect to a user's Google calendar and after each meeting, the extension would prompt the user for feedback on the meeting with a simple pop up as a feedback/data collection mechanism that displays something like ""How are you feeling after that?"" and then provides the user with three possible answer choices in the form of smiley faces (green smiley = feeling energized, yellow straight face = neutral, and red frowning face = feeling drai...",saamor1994,19 hours ago,https://replit.com/bounties/@saamor1994/build-a-chrome-exten?t=
 794,$22.50,due in 3 days,Replit Youtube video clipper for Evolution @Replit,"Create clips of this youtube video that will get people psyched on the Evolution @Replit series.
 https://www.youtube.com/watch?v=ww0W8ne4V_Y&t=1424s
 
 Acceptance Criteria
-Send us > 90 second videos that will grow our youtube channel with captions and/or editing that makes the clips stand out.",jesse,17 hours ago,https://replit.com/bounties/@jesse/replit-youtube-video?t=
+Send us > 90 second videos that will grow our youtube channel with captions and/or editing that makes the clips stand out.",jesse,18 hours ago,https://replit.com/bounties/@jesse/replit-youtube-video?t=
 795,$45.00,due in 9 days,Track relevant healthcare policy changes and notify updates by email,"Track relevant healthcare policy changes using the keyword “healthcare” across 2 public sites and notify us by email. Links below:
 
 https://www.reginfo.gov/public/jsp/Utilities/index.myjsp: Search Agenda, Reg Review, and ICR for any updates with keyword “healthcare” daily.
@@ -6308,7 +6308,7 @@ At the next stage the tutor will be a Synthesia -style AI-generated person prese
 The lesson interface should look and feel like a Zoom / Teams / Meet style video call (with cameras off both ends - so audio only).
 The student should interact by speaking to the tutor through the device microphone.
 There should be a captions toggle, allowing the text of what the tutor and student are saying to be displayed.
-The tutor should lead the conversation, using language that is appropriate to the English language skill level of the student (see below), it should explain language concepts that ...",DanCobley,4 hours ago,https://replit.com/bounties/@DanCobley/llm-based-english-la?t=
+The tutor should lead the conversation, using language that is appropriate to the English language skill level of the student (see below), it should explain language concepts that ...",DanCobley,5 hours ago,https://replit.com/bounties/@DanCobley/llm-based-english-la?t=
 800,$450.00,due in 7 days,Typescript Altium .IntLib file format parser,"I need a parser written in typescript that can load the contents of a Altium .IntLib file and turn them into a js object with proper interfaces/types.
 
 The code need to be able to run in a webworker and also node context. Therefore can't depend on browser objects like document and so on.
@@ -6329,4 +6329,4 @@ Problem Description
 IddSampleDriver allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in C++ utilizing Windows APIs. It is also made to be a driver. I would like to convert this to Python and make it a normal program, not a driver. I just need the core functionality - I don't need the fancy wrapper functions which make the program user-friendly to be translated. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
-I should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Pyth...",EpicCodeWizard2,57 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-6?t=
+I should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Pyth...",EpicCodeWizard2,1 hour ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-6?t=
