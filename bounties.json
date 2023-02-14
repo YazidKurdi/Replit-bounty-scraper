@@ -7936,7 +7936,7 @@
         "title": "Build a Chrome Extension that can Color Code a User's Calendar",
         "description": "I am looking for someone to help put together a chrome extension that can be used to assist in a calendar audit by tracking the energy level a user gets throughout the day from meetings.\n\nThe goal is for the chrome extension over time to be able to provide users with helpful data on how they spend their days and provide them with insights into which parts of their days they enjoy and which they don\u2019t. Allowing them to make changes as needed to improve their daily work life.\n\nSolution Description\n\nThe idea is that the extension would connect to a user's Google calendar and after each meeting, the extension would prompt the user for feedback on the meeting with a simple pop up as a feedback/data collection mechanism that displays something like \"How are you feeling after that?\" and then provides the user with three possible answer choices in the form of smiley faces (green smiley = feeling energized, yellow straight face = neutral, and red frowning face = feeling drai...",
         "author": "saamor1994",
-        "posted_time": "22 hours ago",
+        "posted_time": "23 hours ago",
         "link": "https://replit.com/bounties/@saamor1994/build-a-chrome-exten?t="
     },
     {
@@ -8006,7 +8006,7 @@
         "title": "Typescript Altium .IntLib file format parser",
         "description": "I need a parser written in typescript that can load the contents of a Altium .IntLib file and turn them into a js object with proper interfaces/types.\n\nThe code need to be able to run in a webworker and also node context. Therefore can't depend on browser objects like document and so on.\n\nAcceptance Criteria\nTake any *.IntLib file from snapeda.com (you can sign up for a free account) such as this one https://www.snapeda.com/parts/ESP32S2/Espressif%20Systems/view-part/?ref=search&t=ESP32 and parse is properly.\n\nProvide jest unit tests to prove that it works across ~20 different .intlib files from snapeda (I can provide those)\n\nTechnical Details\nThere is a a little info on how to read the binary file here\n\nhttps://hackaday.com/2014/10/15/reverse-engineering-altium-files/\nhttps://hackaday.io/project/3149-reverse-engineering-design-file-formats/details",
         "author": "MatthiasWagner3",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@MatthiasWagner3/typescript-altium-in?t="
     },
     {
