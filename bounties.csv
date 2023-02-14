@@ -6259,7 +6259,7 @@ https://www.congress.gov/: “Search by Congress"" → ""current congresses"" in
 Acceptance Criteria
 The main acceptance criteria is that we can be notified of these changes in a timely manner. We are not expecting a large volume of changes or updates daily (1 typically, <10 max).
 
-We’d like the tool to be flexible enough to add new websites over time if possible!",EmreTKaratas,17 hours ago,https://replit.com/bounties/@EmreTKaratas/track-relevant-healt?t=
+We’d like the tool to be flexible enough to add new websites over time if possible!",EmreTKaratas,18 hours ago,https://replit.com/bounties/@EmreTKaratas/track-relevant-healt?t=
 796,$108.00,due in 6 days,Implement few CodeMirror 6 commands in a web text edtiro,"Notepad2web is a re-implementation of Windows text editor Notepad2 for the web, using CodeMirror 6.
 
 The task: implement a few simple commands that insert text at current position in CodeMirror 6.
@@ -6322,7 +6322,7 @@ Technical Details
 There is a a little info on how to read the binary file here
 
 https://hackaday.com/2014/10/15/reverse-engineering-altium-files/
-https://hackaday.io/project/3149-reverse-engineering-design-file-formats/details",MatthiasWagner3,1 hour ago,https://replit.com/bounties/@MatthiasWagner3/typescript-altium-in?t=
+https://hackaday.io/project/3149-reverse-engineering-design-file-formats/details",MatthiasWagner3,2 hours ago,https://replit.com/bounties/@MatthiasWagner3/typescript-altium-in?t=
 801,$65.00,due in 10 days,[TRANSLATION] Convert C++ Code Utilizing Various Windows APIs to Python,"tl;dr I have around 400 lines of C++ code that need to be converted into Python. It uses some Windows APIs to work. Repo Link: https://github.com/roshkins/IddSampleDriver. Please include previous bounty work and experience with Windows APIs. I will tip up extra for fast work!
 
 Problem Description
