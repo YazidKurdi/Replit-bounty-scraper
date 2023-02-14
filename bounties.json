@@ -7916,7 +7916,7 @@
         "title": "Next stage of boldsign app",
         "description": "will download additional audit PDF, merge with document PDF, and upload resulting PDF file",
         "author": "AndrewShowman",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/next-stage-of-boldsi?t="
     },
     {
@@ -7966,7 +7966,7 @@
         "title": "Implement few CodeMirror 6 commands in a web text edtiro",
         "description": "Notepad2web is a re-implementation of Windows text editor Notepad2 for the web, using CodeMirror 6.\n\nThe task: implement a few simple commands that insert text at current position in CodeMirror 6.\n\nMenu items to implement: all items in Edit / Insert sub-menu, except the first one \"Complete Word\"\n\nAcceptance Criteria\n\nMenu commands \"Edit / Insert / ...\" work and do the same thing as Notepad2.\n\nTechnical Details\n\nNotepad2web is made with:\nSvelte\ntailwindcss\nCodeMirror 6\n\nEach command is represented by id, like IDMEDITINSERT_XMLTAG\n\nSome commands are already implemented. See handleMenuCmd() in Notepad2.svelte.\n\nTo implement new commands add another case statement for e.g.  IDMEDITINSERT_GUID and add the code implementing the command in handleMenuCmd()\n\nThis bounty covers the following commands:\n\nconst menuInsert = [\n  [\"&HTML/XML Tag...\\tAlt+X\", IDMEDITINSERT_XMLTAG],\n  [\"New &GUID\", IDMEDITINSERT_GUID],\n  [\"&File Name\", CMDINSERTFILENAMENOEXT],\n  [\"File Name and E&xt...",
         "author": "kjk1",
-        "posted_time": "29 minutes ago",
+        "posted_time": "40 minutes ago",
         "link": "https://replit.com/bounties/@kjk1/implement-few-codemi?t="
     }
 ]
