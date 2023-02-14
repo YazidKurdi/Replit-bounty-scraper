@@ -7996,7 +7996,7 @@
         "title": "LLM-based English language tutor",
         "description": "To build a web app that provides an MVP, voice-based, 1-to-1 English Language tutor service (similar to https://www.britishcouncil.org/english/learn-online/englishscore-tutors) using a LLM-powered virtual tutor. The service is for English language learners looking to improve their spoken English.\nAt the next stage the tutor will be a Synthesia -style AI-generated person presenting thought video, but for the MPV, to reduce API costs, lag, etc. it should be voice only.\nThe lesson interface should look and feel like a Zoom / Teams / Meet style video call (with cameras off both ends - so audio only).\nThe student should interact by speaking to the tutor through the device microphone.\nThere should be a captions toggle, allowing the text of what the tutor and student are saying to be displayed.\nThe tutor should lead the conversation, using language that is appropriate to the English language skill level of the student (see below), it should explain language concepts that ...",
         "author": "DanCobley",
-        "posted_time": "58 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@DanCobley/llm-based-english-la?t="
     }
 ]
