@@ -6249,7 +6249,7 @@ The idea is that the extension would connect to a user's Google calendar and aft
 https://www.youtube.com/watch?v=ww0W8ne4V_Y&t=1424s
 
 Acceptance Criteria
-Send us > 90 second videos that will grow our youtube channel with captions and/or editing that makes the clips stand out.",jesse,21 hours ago,https://replit.com/bounties/@jesse/replit-youtube-video?t=
+Send us > 90 second videos that will grow our youtube channel with captions and/or editing that makes the clips stand out.",jesse,22 hours ago,https://replit.com/bounties/@jesse/replit-youtube-video?t=
 795,$45.00,due in 9 days,Track relevant healthcare policy changes and notify updates by email,"Track relevant healthcare policy changes using the keyword “healthcare” across 2 public sites and notify us by email. Links below:
 
 https://www.reginfo.gov/public/jsp/Utilities/index.myjsp: Search Agenda, Reg Review, and ICR for any updates with keyword “healthcare” daily.
@@ -6302,13 +6302,13 @@ Support for multiple concurrent commands and bot replied.
 Easy to use UI/UX for users to input hashtags and auto-response keywords.
 Authentication with Instagram/Twitter API to access user accounts and retrieve comments on posts.
 Secure handling of user authentication credentials and hashtag/auto-response keywords.
-Appropriate handling of posts containing multiple hashtags to avoid spamming the comment s...",TomHumber,12 hours ago,https://replit.com/bounties/@TomHumber/instagram-and-twitte?t=
+Appropriate handling of posts containing multiple hashtags to avoid spamming the comment s...",TomHumber,13 hours ago,https://replit.com/bounties/@TomHumber/instagram-and-twitte?t=
 799,$540.00,due in 11 days,LLM-based English language tutor,"To build a web app that provides an MVP, voice-based, 1-to-1 English Language tutor service (similar to https://www.britishcouncil.org/english/learn-online/englishscore-tutors) using a LLM-powered virtual tutor. The service is for English language learners looking to improve their spoken English.
 At the next stage the tutor will be a Synthesia -style AI-generated person presenting thought video, but for the MPV, to reduce API costs, lag, etc. it should be voice only.
 The lesson interface should look and feel like a Zoom / Teams / Meet style video call (with cameras off both ends - so audio only).
 The student should interact by speaking to the tutor through the device microphone.
 There should be a captions toggle, allowing the text of what the tutor and student are saying to be displayed.
-The tutor should lead the conversation, using language that is appropriate to the English language skill level of the student (see below), it should explain language concepts that ...",DanCobley,8 hours ago,https://replit.com/bounties/@DanCobley/llm-based-english-la?t=
+The tutor should lead the conversation, using language that is appropriate to the English language skill level of the student (see below), it should explain language concepts that ...",DanCobley,9 hours ago,https://replit.com/bounties/@DanCobley/llm-based-english-la?t=
 800,$450.00,due in 7 days,Typescript Altium .IntLib file format parser,"I need a parser written in typescript that can load the contents of a Altium .IntLib file and turn them into a js object with proper interfaces/types.
 
 The code need to be able to run in a webworker and also node context. Therefore can't depend on browser objects like document and so on.
