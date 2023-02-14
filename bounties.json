@@ -7926,7 +7926,7 @@
         "title": "Chat AI that pulls data from folders (Excel and Word docs) and gives a response",
         "description": "Im looking for a simple ChatGPT-style app that will let me ingest a folder of documents. Mainly Excel and Word docs. Once ingested, I can ask a question from the chat box and get a response pulled from the documents.\n\nSimple web app on Replit that lets me ask questions and get answers from internal documents I provide. Ideally I can also upload more documents in the future and have them indexed and searchable. Excel (CSV) and Word (Docx) docs are the main formats I need.",
         "author": "WillJarvis2",
-        "posted_time": "23 hours ago",
+        "posted_time": "24 hours ago",
         "link": "https://replit.com/bounties/@WillJarvis2/chat-ai-that-pulls-d?t="
     },
     {
@@ -8022,11 +8022,11 @@
     {
         "index": "802",
         "price": "$50.00",
-        "due_days": "due in 13 days",
+        "due_days": "due in 14 days",
         "title": "Convert Boilerpipe Java library to JavaScript/TypeScript (for use in NodeJS)",
         "description": "Google Boilerpipe library is currently a Java library\nhttps://code.google.com/archive/p/boilerpipe/\nDescription of the library: \"The boilerpipe library provides algorithms to detect and remove the surplus \"clutter\" (boilerplate, templates) around the main textual content of a web page.\"\n\nWe need this Boilerpipe library converted from Java to a JavaScript/TypeScript library so that it can be used within a NodeJS application as an imported node module.\n\nNOTE: There already exists a JavaScript version of Boilerpipe but it's simply a wrapper around the Java version of Boilerpipe and requires installation of Java to use. https://www.npmjs.com/package/boilerpipe\nWe do not want this version of the library because it requires installation of Java. You can use this library for syntax ideas, of course.\n\nThis new JavaScript/TypeScript version of Boilerpipe should not use Java in any way. It should be able to be run in a NodeJS application without having Java installed.\n\nAccept...",
         "author": "RossHartmann1",
-        "posted_time": "5 minutes ago",
+        "posted_time": "15 minutes ago",
         "link": "https://replit.com/bounties/@RossHartmann1/convert-boilerpipe-j?t="
     }
 ]
