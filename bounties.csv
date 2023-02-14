@@ -6232,7 +6232,7 @@ Problem Description
 FluffyDisplay allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in Swift/Objective C utilizing MacOS APIs. It is also made to be a partial library. I would like to convert this to Python and make it usable through python. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
-I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Pyt...",EpicCodeWizard2,14 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-5?t=
+I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Pyt...",EpicCodeWizard2,15 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-5?t=
 790,$4.05,due in 13 days,Functioning Django Channels v4.0 / Javascript Websockets code / tutorial,"I just want someone to make me a simple Django Channels/Websockets server for my learning. I'm trying to learn about WebSockets and Django Channels, but I'm genuinely stumped. I'm following the documentation seemingly to a tee but to no avail. I really want to learn about real-time communication, but it seems like a big hurdle to overcome and the information out there is getting lesser and lesser.",KoldHielo,13 hours ago,https://replit.com/bounties/@KoldHielo/functioning-django-c?t=
 791,$90.00,due in 6 days,Next stage of boldsign app,"will download additional audit PDF, merge with document PDF, and upload resulting PDF file",AndrewShowman,13 hours ago,https://replit.com/bounties/@AndrewShowman/next-stage-of-boldsi?t=
 792,$90.00,due in 3 days,Chat AI that pulls data from folders (Excel and Word docs) and gives a response,"Im looking for a simple ChatGPT-style app that will let me ingest a folder of documents. Mainly Excel and Word docs. Once ingested, I can ask a question from the chat box and get a response pulled from the documents.
@@ -6244,12 +6244,12 @@ The goal is for the chrome extension over time to be able to provide users with 
 
 Solution Description
 
-The idea is that the extension would connect to a user's Google calendar and after each meeting, the extension would prompt the user for feedback on the meeting with a simple pop up as a feedback/data collection mechanism that displays something like ""How are you feeling after that?"" and then provides the user with three possible answer choices in the form of smiley faces (green smiley = feeling energized, yellow straight face = neutral, and red frowning face = feeling drai...",saamor1994,12 hours ago,https://replit.com/bounties/@saamor1994/build-a-chrome-exten?t=
+The idea is that the extension would connect to a user's Google calendar and after each meeting, the extension would prompt the user for feedback on the meeting with a simple pop up as a feedback/data collection mechanism that displays something like ""How are you feeling after that?"" and then provides the user with three possible answer choices in the form of smiley faces (green smiley = feeling energized, yellow straight face = neutral, and red frowning face = feeling drai...",saamor1994,13 hours ago,https://replit.com/bounties/@saamor1994/build-a-chrome-exten?t=
 794,$22.50,due in 3 days,Replit Youtube video clipper for Evolution @Replit,"Create clips of this youtube video that will get people psyched on the Evolution @Replit series.
 https://www.youtube.com/watch?v=ww0W8ne4V_Y&t=1424s
 
 Acceptance Criteria
-Send us > 90 second videos that will grow our youtube channel with captions and/or editing that makes the clips stand out.",jesse,11 hours ago,https://replit.com/bounties/@jesse/replit-youtube-video?t=
+Send us > 90 second videos that will grow our youtube channel with captions and/or editing that makes the clips stand out.",jesse,12 hours ago,https://replit.com/bounties/@jesse/replit-youtube-video?t=
 795,$45.00,due in 9 days,Track relevant healthcare policy changes and notify updates by email,"Track relevant healthcare policy changes using the keyword “healthcare” across 2 public sites and notify us by email. Links below:
 
 https://www.reginfo.gov/public/jsp/Utilities/index.myjsp: Search Agenda, Reg Review, and ICR for any updates with keyword “healthcare” daily.
@@ -6293,7 +6293,7 @@ const menuInsert = [
 797,$9.00,due in 4 days,Dlsord [email protected] G3n,"Dlsord [email protected] G3n
 Working
 Must Be ready
-should start from MT",NotYourMaster,2 hours ago,https://replit.com/bounties/@NotYourMaster/dlsord-tken-g3n?t=
+should start from MT",NotYourMaster,3 hours ago,https://replit.com/bounties/@NotYourMaster/dlsord-tken-g3n?t=
 798,$315.00,due in 13 days,Instagram & Twitter Bot for my Business Account,"The project aims to create Instagram & Twitter auto-responder bots for business accounts that can auto-respond to comments on posts containing specified hashtags. The solution must allow for multiple commands and bot replied to be running concurrently. The solution must provide an easy to ease UI/UX for the user to input the hashtag and auto-response keywords. The bounty proposal must include any information pertinent to the awarding of the monies.
 
 Key Features:
@@ -6302,4 +6302,4 @@ Support for multiple concurrent commands and bot replied.
 Easy to use UI/UX for users to input hashtags and auto-response keywords.
 Authentication with Instagram/Twitter API to access user accounts and retrieve comments on posts.
 Secure handling of user authentication credentials and hashtag/auto-response keywords.
-Appropriate handling of posts containing multiple hashtags to avoid spamming the comment s...",TomHumber,2 hours ago,https://replit.com/bounties/@TomHumber/instagram-and-twitte?t=
+Appropriate handling of posts containing multiple hashtags to avoid spamming the comment s...",TomHumber,3 hours ago,https://replit.com/bounties/@TomHumber/instagram-and-twitte?t=
