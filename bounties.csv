@@ -6234,7 +6234,7 @@ FluffyDisplay allows virtual displays to be created without any physical hardwar
 Acceptance Criteria
 I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Pyt...",EpicCodeWizard2,19 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-5?t=
 790,$4.05,due in 13 days,Functioning Django Channels v4.0 / Javascript Websockets code / tutorial,"I just want someone to make me a simple Django Channels/Websockets server for my learning. I'm trying to learn about WebSockets and Django Channels, but I'm genuinely stumped. I'm following the documentation seemingly to a tee but to no avail. I really want to learn about real-time communication, but it seems like a big hurdle to overcome and the information out there is getting lesser and lesser.",KoldHielo,18 hours ago,https://replit.com/bounties/@KoldHielo/functioning-django-c?t=
-791,$90.00,due in 6 days,Next stage of boldsign app,"will download additional audit PDF, merge with document PDF, and upload resulting PDF file",AndrewShowman,18 hours ago,https://replit.com/bounties/@AndrewShowman/next-stage-of-boldsi?t=
+791,$90.00,due in 6 days,Next stage of boldsign app,"will download additional audit PDF, merge with document PDF, and upload resulting PDF file",AndrewShowman,19 hours ago,https://replit.com/bounties/@AndrewShowman/next-stage-of-boldsi?t=
 792,$90.00,due in 3 days,Chat AI that pulls data from folders (Excel and Word docs) and gives a response,"Im looking for a simple ChatGPT-style app that will let me ingest a folder of documents. Mainly Excel and Word docs. Once ingested, I can ask a question from the chat box and get a response pulled from the documents.
 
 Simple web app on Replit that lets me ask questions and get answers from internal documents I provide. Ideally I can also upload more documents in the future and have them indexed and searchable. Excel (CSV) and Word (Docx) docs are the main formats I need.",WillJarvis2,18 hours ago,https://replit.com/bounties/@WillJarvis2/chat-ai-that-pulls-d?t=
@@ -6289,7 +6289,7 @@ const menuInsert = [
   [""&HTML/XML Tag...\tAlt+X"", IDMEDITINSERT_XMLTAG],
   [""New &GUID"", IDMEDITINSERT_GUID],
   [""&File Name"", CMDINSERTFILENAMENOEXT],
-  [""File Name and E&xt...",kjk1,14 hours ago,https://replit.com/bounties/@kjk1/implement-few-codemi?t=
+  [""File Name and E&xt...",kjk1,15 hours ago,https://replit.com/bounties/@kjk1/implement-few-codemi?t=
 797,$9.00,due in 4 days,Dlsord [email protected] G3n,"Dlsord [email protected] G3n
 Working
 Must Be ready
@@ -6322,11 +6322,11 @@ Technical Details
 There is a a little info on how to read the binary file here
 
 https://hackaday.com/2014/10/15/reverse-engineering-altium-files/
-https://hackaday.io/project/3149-reverse-engineering-design-file-formats/details",MatthiasWagner3,39 minutes ago,https://replit.com/bounties/@MatthiasWagner3/typescript-altium-in?t=
+https://hackaday.io/project/3149-reverse-engineering-design-file-formats/details",MatthiasWagner3,51 minutes ago,https://replit.com/bounties/@MatthiasWagner3/typescript-altium-in?t=
 801,$65.00,due in 10 days,[TRANSLATION] Convert C++ Code Utilizing Various Windows APIs to Python,"tl;dr I have around 400 lines of C++ code that need to be converted into Python. It uses some Windows APIs to work. Repo Link: https://github.com/roshkins/IddSampleDriver. Please include previous bounty work and experience with Windows APIs. I will tip up extra for fast work!
 
 Problem Description
 IddSampleDriver allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in C++ utilizing Windows APIs. It is also made to be a driver. I would like to convert this to Python and make it a normal program, not a driver. I just need the core functionality - I don't need the fancy wrapper functions which make the program user-friendly to be translated. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
-I should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Pyth...",EpicCodeWizard2,22 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-6?t=
+I should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Pyth...",EpicCodeWizard2,34 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-6?t=
