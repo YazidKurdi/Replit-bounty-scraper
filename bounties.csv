@@ -6289,7 +6289,7 @@ const menuInsert = [
   [""&HTML/XML Tag...\tAlt+X"", IDMEDITINSERT_XMLTAG],
   [""New &GUID"", IDMEDITINSERT_GUID],
   [""&File Name"", CMDINSERTFILENAMENOEXT],
-  [""File Name and E&xt...",kjk1,19 hours ago,https://replit.com/bounties/@kjk1/implement-few-codemi?t=
+  [""File Name and E&xt...",kjk1,20 hours ago,https://replit.com/bounties/@kjk1/implement-few-codemi?t=
 797,$9.00,due in 4 days,Dlsord [email protected] G3n,"Dlsord [email protected] G3n
 Working
 Must Be ready
@@ -6329,4 +6329,16 @@ Problem Description
 IddSampleDriver allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in C++ utilizing Windows APIs. It is also made to be a driver. I would like to convert this to Python and make it a normal program, not a driver. I just need the core functionality - I don't need the fancy wrapper functions which make the program user-friendly to be translated. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
-I should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Pyth...",EpicCodeWizard2,5 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-6?t=
+I should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Pyth...",EpicCodeWizard2,6 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-6?t=
+802,$50.00,due in 13 days,Convert Boilerpipe Java library to JavaScript/TypeScript (for use in NodeJS),"Google Boilerpipe library is currently a Java library
+https://code.google.com/archive/p/boilerpipe/
+Description of the library: ""The boilerpipe library provides algorithms to detect and remove the surplus ""clutter"" (boilerplate, templates) around the main textual content of a web page.""
+
+We need this Boilerpipe library converted from Java to a JavaScript/TypeScript library so that it can be used within a NodeJS application as an imported node module.
+
+NOTE: There already exists a JavaScript version of Boilerpipe but it's simply a wrapper around the Java version of Boilerpipe and requires installation of Java to use. https://www.npmjs.com/package/boilerpipe
+We do not want this version of the library because it requires installation of Java. You can use this library for syntax ideas, of course.
+
+This new JavaScript/TypeScript version of Boilerpipe should not use Java in any way. It should be able to be run in a NodeJS application without having Java installed.
+
+Accept...",RossHartmann1,5 minutes ago,https://replit.com/bounties/@RossHartmann1/convert-boilerpipe-j?t=
