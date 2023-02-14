@@ -7906,7 +7906,7 @@
         "title": "Functioning Django Channels v4.0 / Javascript Websockets code / tutorial",
         "description": "I just want someone to make me a simple Django Channels/Websockets server for my learning. I'm trying to learn about WebSockets and Django Channels, but I'm genuinely stumped. I'm following the documentation seemingly to a tee but to no avail. I really want to learn about real-time communication, but it seems like a big hurdle to overcome and the information out there is getting lesser and lesser.",
         "author": "KoldHielo",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@KoldHielo/functioning-django-c?t="
     },
     {
@@ -7936,7 +7936,7 @@
         "title": "Build a Chrome Extension that can Color Code a User's Calendar",
         "description": "I am looking for someone to help put together a chrome extension that can be used to assist in a calendar audit by tracking the energy level a user gets throughout the day from meetings.\n\nThe goal is for the chrome extension over time to be able to provide users with helpful data on how they spend their days and provide them with insights into which parts of their days they enjoy and which they don\u2019t. Allowing them to make changes as needed to improve their daily work life.\n\nSolution Description\n\nThe idea is that the extension would connect to a user's Google calendar and after each meeting, the extension would prompt the user for feedback on the meeting with a simple pop up as a feedback/data collection mechanism that displays something like \"How are you feeling after that?\" and then provides the user with three possible answer choices in the form of smiley faces (green smiley = feeling energized, yellow straight face = neutral, and red frowning face = feeling drai...",
         "author": "saamor1994",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@saamor1994/build-a-chrome-exten?t="
     },
     {
@@ -7956,7 +7956,7 @@
         "title": "Track relevant healthcare policy changes and notify updates by email",
         "description": "Track relevant healthcare policy changes using the keyword \u201chealthcare\u201d across 2 public sites and notify us by email. Links below:\n\nhttps://www.reginfo.gov/public/jsp/Utilities/index.myjsp: Search Agenda, Reg Review, and ICR for any updates with keyword \u201chealthcare\u201d daily.\n\nhttps://www.congress.gov/: \u201cSearch by Congress\" \u2192 \"current congresses\" in top right corner for any updates with keyword \u201chealthcare\u201d daily.\n\nAcceptance Criteria\nThe main acceptance criteria is that we can be notified of these changes in a timely manner. We are not expecting a large volume of changes or updates daily (1 typically, <10 max).\n\nWe\u2019d like the tool to be flexible enough to add new websites over time if possible!",
         "author": "EmreTKaratas",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@EmreTKaratas/track-relevant-healt?t="
     },
     {
@@ -7996,7 +7996,7 @@
         "title": "LLM-based English language tutor",
         "description": "To build a web app that provides an MVP, voice-based, 1-to-1 English Language tutor service (similar to https://www.britishcouncil.org/english/learn-online/englishscore-tutors) using a LLM-powered virtual tutor. The service is for English language learners looking to improve their spoken English.\nAt the next stage the tutor will be a Synthesia -style AI-generated person presenting thought video, but for the MPV, to reduce API costs, lag, etc. it should be voice only.\nThe lesson interface should look and feel like a Zoom / Teams / Meet style video call (with cameras off both ends - so audio only).\nThe student should interact by speaking to the tutor through the device microphone.\nThere should be a captions toggle, allowing the text of what the tutor and student are saying to be displayed.\nThe tutor should lead the conversation, using language that is appropriate to the English language skill level of the student (see below), it should explain language concepts that ...",
         "author": "DanCobley",
-        "posted_time": "31 minutes ago",
+        "posted_time": "48 minutes ago",
         "link": "https://replit.com/bounties/@DanCobley/llm-based-english-la?t="
     }
 ]

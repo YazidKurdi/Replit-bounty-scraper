@@ -6233,7 +6233,7 @@ FluffyDisplay allows virtual displays to be created without any physical hardwar
 
 Acceptance Criteria
 I should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Pyt...",EpicCodeWizard2,17 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-5?t=
-790,$4.05,due in 13 days,Functioning Django Channels v4.0 / Javascript Websockets code / tutorial,"I just want someone to make me a simple Django Channels/Websockets server for my learning. I'm trying to learn about WebSockets and Django Channels, but I'm genuinely stumped. I'm following the documentation seemingly to a tee but to no avail. I really want to learn about real-time communication, but it seems like a big hurdle to overcome and the information out there is getting lesser and lesser.",KoldHielo,15 hours ago,https://replit.com/bounties/@KoldHielo/functioning-django-c?t=
+790,$4.05,due in 13 days,Functioning Django Channels v4.0 / Javascript Websockets code / tutorial,"I just want someone to make me a simple Django Channels/Websockets server for my learning. I'm trying to learn about WebSockets and Django Channels, but I'm genuinely stumped. I'm following the documentation seemingly to a tee but to no avail. I really want to learn about real-time communication, but it seems like a big hurdle to overcome and the information out there is getting lesser and lesser.",KoldHielo,16 hours ago,https://replit.com/bounties/@KoldHielo/functioning-django-c?t=
 791,$90.00,due in 6 days,Next stage of boldsign app,"will download additional audit PDF, merge with document PDF, and upload resulting PDF file",AndrewShowman,15 hours ago,https://replit.com/bounties/@AndrewShowman/next-stage-of-boldsi?t=
 792,$90.00,due in 3 days,Chat AI that pulls data from folders (Excel and Word docs) and gives a response,"Im looking for a simple ChatGPT-style app that will let me ingest a folder of documents. Mainly Excel and Word docs. Once ingested, I can ask a question from the chat box and get a response pulled from the documents.
 
@@ -6244,7 +6244,7 @@ The goal is for the chrome extension over time to be able to provide users with 
 
 Solution Description
 
-The idea is that the extension would connect to a user's Google calendar and after each meeting, the extension would prompt the user for feedback on the meeting with a simple pop up as a feedback/data collection mechanism that displays something like ""How are you feeling after that?"" and then provides the user with three possible answer choices in the form of smiley faces (green smiley = feeling energized, yellow straight face = neutral, and red frowning face = feeling drai...",saamor1994,14 hours ago,https://replit.com/bounties/@saamor1994/build-a-chrome-exten?t=
+The idea is that the extension would connect to a user's Google calendar and after each meeting, the extension would prompt the user for feedback on the meeting with a simple pop up as a feedback/data collection mechanism that displays something like ""How are you feeling after that?"" and then provides the user with three possible answer choices in the form of smiley faces (green smiley = feeling energized, yellow straight face = neutral, and red frowning face = feeling drai...",saamor1994,15 hours ago,https://replit.com/bounties/@saamor1994/build-a-chrome-exten?t=
 794,$22.50,due in 3 days,Replit Youtube video clipper for Evolution @Replit,"Create clips of this youtube video that will get people psyched on the Evolution @Replit series.
 https://www.youtube.com/watch?v=ww0W8ne4V_Y&t=1424s
 
@@ -6259,7 +6259,7 @@ https://www.congress.gov/: “Search by Congress"" → ""current congresses"" in
 Acceptance Criteria
 The main acceptance criteria is that we can be notified of these changes in a timely manner. We are not expecting a large volume of changes or updates daily (1 typically, <10 max).
 
-We’d like the tool to be flexible enough to add new websites over time if possible!",EmreTKaratas,13 hours ago,https://replit.com/bounties/@EmreTKaratas/track-relevant-healt?t=
+We’d like the tool to be flexible enough to add new websites over time if possible!",EmreTKaratas,14 hours ago,https://replit.com/bounties/@EmreTKaratas/track-relevant-healt?t=
 796,$108.00,due in 6 days,Implement few CodeMirror 6 commands in a web text edtiro,"Notepad2web is a re-implementation of Windows text editor Notepad2 for the web, using CodeMirror 6.
 
 The task: implement a few simple commands that insert text at current position in CodeMirror 6.
@@ -6308,4 +6308,4 @@ At the next stage the tutor will be a Synthesia -style AI-generated person prese
 The lesson interface should look and feel like a Zoom / Teams / Meet style video call (with cameras off both ends - so audio only).
 The student should interact by speaking to the tutor through the device microphone.
 There should be a captions toggle, allowing the text of what the tutor and student are saying to be displayed.
-The tutor should lead the conversation, using language that is appropriate to the English language skill level of the student (see below), it should explain language concepts that ...",DanCobley,31 minutes ago,https://replit.com/bounties/@DanCobley/llm-based-english-la?t=
+The tutor should lead the conversation, using language that is appropriate to the English language skill level of the student (see below), it should explain language concepts that ...",DanCobley,48 minutes ago,https://replit.com/bounties/@DanCobley/llm-based-english-la?t=
