@@ -7876,7 +7876,7 @@
         "title": "Generative AI Avatar creator single page app (Python + Next.js)",
         "description": "#Problem Statement\n\nSeeking a Full Stack Developer with experience in Python, Dreambooth, Replicate REST API, and Next.js to build a generative AI avatar application. Responsibilities include developing a user-friendly interface, implementing a machine learning model for avatar generation, utilizing Python and Dreambooth for back-end and Next.js for front-end, integrating Replicate REST API for image editing, and ensuring the application is optimized and meets high standards.\n\n#Acceptance Criteria\n\nUser Interface: visually appealing and intuitive, accessible within a single page, responsive on various devices.\nAvatar Generation: based on user inputs, customizable and updateable, high quality and visually appealing.\nAI Machine Learning Model: Dreambooth-based, accurately creates and updates avatar, learns and improves with user inputs, handles large number of inputs without affecting performance.\nBack-end Development: using Python and Dreambooth, handles large number of requests, secure...",
         "author": "JordanManeval1",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@JordanManeval1/generative-ai-avatar?t="
     },
     {
@@ -7896,7 +7896,7 @@
         "title": "[TRANSLATION] Convert Swift/Objective C Code Utilizing Various MacOS APIs to Python",
         "description": "tl;dr I have a bit over 50 lines of Swift/Objective C code that need to be converted into Python. It uses some Mac OS APIs to work. Repo Link: https://github.com/tml1024/FluffyDisplay. It is mainly a library that exports one function. I would like that function to be available through Python code. Please include previous bounty work and experience with Mac OS APIs. I will tip up extra for fast work!\n\nProblem Description\nFluffyDisplay allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in Swift/Objective C utilizing MacOS APIs. It is also made to be a partial library. I would like to convert this to Python and make it usable through python. Just convert the code to python. I don't mind it having multiple files or many dependencies.\n\nAcceptance Criteria\nI should be able to run the code successfully after installing the dependencies if any. It can use any MacOS API Pyt...",
         "author": "EpicCodeWizard2",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/translation-convert-5?t="
     },
     {
@@ -7946,7 +7946,7 @@
         "title": "Replit Youtube video clipper for Evolution @Replit",
         "description": "Create clips of this youtube video that will get people psyched on the Evolution @Replit series.\nhttps://www.youtube.com/watch?v=ww0W8ne4V_Y&t=1424s\n\nAcceptance Criteria\nSend us > 90 second videos that will grow our youtube channel with captions and/or editing that makes the clips stand out.",
         "author": "jesse",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@jesse/replit-youtube-video?t="
     },
     {
