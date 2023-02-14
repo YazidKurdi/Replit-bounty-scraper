@@ -7886,7 +7886,7 @@
         "title": "Chat with your knowledge-base",
         "description": "Businesses and individuals deal with endless sources of knowledge to store their data; docs, pdfs, Slack, Notion, Jira, etc..\n\nWith the power of AI and embeddings, sifting through this data became 100x easier. For this project, I would like to build a tool that allows a business or an individual to connect to their data sources and \"talk\" to their data through a chat UI; example questions that the tool should be able to answer (given its connected to the needed data sources):\n\nfor a business:\nHow can I file a feature request?\nSummarize our last quarterly results\nHow do I set up my local dev environment?\nWhat's the scope of the Microsoft Dynamics integration?\n\nFor an individual:\nWhat are the main points discussed in my PHD paper?\nWhat subjects will I learn about given my Economics 101 class syllabus?\nWhat's the grading criteria for Economics 101?\nSummarize my notes over the last 7 days\n\nTo be able to build something like this, you should use something like gpt-index...",
         "author": "metahash",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@metahash/a-script-to-generate?t="
     },
     {
@@ -7906,7 +7906,7 @@
         "title": "Functioning Django Channels v4.0 / Javascript Websockets code / tutorial",
         "description": "I just want someone to make me a simple Django Channels/Websockets server for my learning. I'm trying to learn about WebSockets and Django Channels, but I'm genuinely stumped. I'm following the documentation seemingly to a tee but to no avail. I really want to learn about real-time communication, but it seems like a big hurdle to overcome and the information out there is getting lesser and lesser.",
         "author": "KoldHielo",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@KoldHielo/functioning-django-c?t="
     },
     {
@@ -7956,7 +7956,7 @@
         "title": "Track relevant healthcare policy changes and notify updates by email",
         "description": "Track relevant healthcare policy changes using the keyword \u201chealthcare\u201d across 2 public sites and notify us by email. Links below:\n\nhttps://www.reginfo.gov/public/jsp/Utilities/index.myjsp: Search Agenda, Reg Review, and ICR for any updates with keyword \u201chealthcare\u201d daily.\n\nhttps://www.congress.gov/: \u201cSearch by Congress\" \u2192 \"current congresses\" in top right corner for any updates with keyword \u201chealthcare\u201d daily.\n\nAcceptance Criteria\nThe main acceptance criteria is that we can be notified of these changes in a timely manner. We are not expecting a large volume of changes or updates daily (1 typically, <10 max).\n\nWe\u2019d like the tool to be flexible enough to add new websites over time if possible!",
         "author": "EmreTKaratas",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@EmreTKaratas/track-relevant-healt?t="
     },
     {
@@ -7966,7 +7966,7 @@
         "title": "Implement few CodeMirror 6 commands in a web text edtiro",
         "description": "Notepad2web is a re-implementation of Windows text editor Notepad2 for the web, using CodeMirror 6.\n\nThe task: implement a few simple commands that insert text at current position in CodeMirror 6.\n\nMenu items to implement: all items in Edit / Insert sub-menu, except the first one \"Complete Word\"\n\nAcceptance Criteria\n\nMenu commands \"Edit / Insert / ...\" work and do the same thing as Notepad2.\n\nTechnical Details\n\nNotepad2web is made with:\nSvelte\ntailwindcss\nCodeMirror 6\n\nEach command is represented by id, like IDMEDITINSERT_XMLTAG\n\nSome commands are already implemented. See handleMenuCmd() in Notepad2.svelte.\n\nTo implement new commands add another case statement for e.g.  IDMEDITINSERT_GUID and add the code implementing the command in handleMenuCmd()\n\nThis bounty covers the following commands:\n\nconst menuInsert = [\n  [\"&HTML/XML Tag...\\tAlt+X\", IDMEDITINSERT_XMLTAG],\n  [\"New &GUID\", IDMEDITINSERT_GUID],\n  [\"&File Name\", CMDINSERTFILENAMENOEXT],\n  [\"File Name and E&xt...",
         "author": "kjk1",
-        "posted_time": "6 minutes ago",
+        "posted_time": "29 minutes ago",
         "link": "https://replit.com/bounties/@kjk1/implement-few-codemi?t="
     }
 ]
