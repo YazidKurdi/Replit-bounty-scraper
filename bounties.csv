@@ -6302,7 +6302,7 @@ Support for multiple concurrent commands and bot replied.
 Easy to use UI/UX for users to input hashtags and auto-response keywords.
 Authentication with Instagram/Twitter API to access user accounts and retrieve comments on posts.
 Secure handling of user authentication credentials and hashtag/auto-response keywords.
-Appropriate handling of posts containing multiple hashtags to avoid spamming the comment s...",TomHumber,8 hours ago,https://replit.com/bounties/@TomHumber/instagram-and-twitte?t=
+Appropriate handling of posts containing multiple hashtags to avoid spamming the comment s...",TomHumber,9 hours ago,https://replit.com/bounties/@TomHumber/instagram-and-twitte?t=
 799,$540.00,due in 11 days,LLM-based English language tutor,"To build a web app that provides an MVP, voice-based, 1-to-1 English Language tutor service (similar to https://www.britishcouncil.org/english/learn-online/englishscore-tutors) using a LLM-powered virtual tutor. The service is for English language learners looking to improve their spoken English.
 At the next stage the tutor will be a Synthesia -style AI-generated person presenting thought video, but for the MPV, to reduce API costs, lag, etc. it should be voice only.
 The lesson interface should look and feel like a Zoom / Teams / Meet style video call (with cameras off both ends - so audio only).
@@ -6322,11 +6322,11 @@ Technical Details
 There is a a little info on how to read the binary file here
 
 https://hackaday.com/2014/10/15/reverse-engineering-altium-files/
-https://hackaday.io/project/3149-reverse-engineering-design-file-formats/details",MatthiasWagner3,58 minutes ago,https://replit.com/bounties/@MatthiasWagner3/typescript-altium-in?t=
+https://hackaday.io/project/3149-reverse-engineering-design-file-formats/details",MatthiasWagner3,1 hour ago,https://replit.com/bounties/@MatthiasWagner3/typescript-altium-in?t=
 801,$65.00,due in 10 days,[TRANSLATION] Convert C++ Code Utilizing Various Windows APIs to Python,"tl;dr I have around 400 lines of C++ code that need to be converted into Python. It uses some Windows APIs to work. Repo Link: https://github.com/roshkins/IddSampleDriver. Please include previous bounty work and experience with Windows APIs. I will tip up extra for fast work!
 
 Problem Description
 IddSampleDriver allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in C++ utilizing Windows APIs. It is also made to be a driver. I would like to convert this to Python and make it a normal program, not a driver. I just need the core functionality - I don't need the fancy wrapper functions which make the program user-friendly to be translated. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
-I should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Pyth...",EpicCodeWizard2,42 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-6?t=
+I should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Pyth...",EpicCodeWizard2,57 minutes ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-6?t=
