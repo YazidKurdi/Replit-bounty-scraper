@@ -6289,8 +6289,17 @@ const menuInsert = [
   [""&HTML/XML Tag...\tAlt+X"", IDMEDITINSERT_XMLTAG],
   [""New &GUID"", IDMEDITINSERT_GUID],
   [""&File Name"", CMDINSERTFILENAMENOEXT],
-  [""File Name and E&xt...",kjk1,6 hours ago,https://replit.com/bounties/@kjk1/implement-few-codemi?t=
+  [""File Name and E&xt...",kjk1,7 hours ago,https://replit.com/bounties/@kjk1/implement-few-codemi?t=
 797,$9.00,due in 5 days,Dlsord [email protected] G3n,"Dlsord [email protected] G3n
 Working
 Must Be ready
-should start from MT",NotYourMaster,3 minutes ago,https://replit.com/bounties/@NotYourMaster/dlsord-tken-g3n?t=
+should start from MT",NotYourMaster,14 minutes ago,https://replit.com/bounties/@NotYourMaster/dlsord-tken-g3n?t=
+798,$315.00,due in 14 days,Instagram & Twitter Bot for my Business Account,"The project aims to create Instagram & Twitter auto-responder bots for business accounts that can auto-respond to comments on posts containing specified hashtags. The solution must allow for multiple commands and bot replied to be running concurrently. The solution must provide an easy to ease UI/UX for the user to input the hashtag and auto-response keywords. The bounty proposal must include any information pertinent to the awarding of the monies.
+
+Key Features:
+Continuous monitoring of specified hashtags and automatic response to comments on Instagram posts containing those hashtags.
+Support for multiple concurrent commands and bot replied.
+Easy to use UI/UX for users to input hashtags and auto-response keywords.
+Authentication with Instagram/Twitter API to access user accounts and retrieve comments on posts.
+Secure handling of user authentication credentials and hashtag/auto-response keywords.
+Appropriate handling of posts containing multiple hashtags to avoid spamming the comment s...",TomHumber,5 minutes ago,https://replit.com/bounties/@TomHumber/instagram-and-twitte?t=

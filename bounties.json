@@ -7966,7 +7966,7 @@
         "title": "Implement few CodeMirror 6 commands in a web text edtiro",
         "description": "Notepad2web is a re-implementation of Windows text editor Notepad2 for the web, using CodeMirror 6.\n\nThe task: implement a few simple commands that insert text at current position in CodeMirror 6.\n\nMenu items to implement: all items in Edit / Insert sub-menu, except the first one \"Complete Word\"\n\nAcceptance Criteria\n\nMenu commands \"Edit / Insert / ...\" work and do the same thing as Notepad2.\n\nTechnical Details\n\nNotepad2web is made with:\nSvelte\ntailwindcss\nCodeMirror 6\n\nEach command is represented by id, like IDMEDITINSERT_XMLTAG\n\nSome commands are already implemented. See handleMenuCmd() in Notepad2.svelte.\n\nTo implement new commands add another case statement for e.g.  IDMEDITINSERT_GUID and add the code implementing the command in handleMenuCmd()\n\nThis bounty covers the following commands:\n\nconst menuInsert = [\n  [\"&HTML/XML Tag...\\tAlt+X\", IDMEDITINSERT_XMLTAG],\n  [\"New &GUID\", IDMEDITINSERT_GUID],\n  [\"&File Name\", CMDINSERTFILENAMENOEXT],\n  [\"File Name and E&xt...",
         "author": "kjk1",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@kjk1/implement-few-codemi?t="
     },
     {
@@ -7976,7 +7976,17 @@
         "title": "Dlsord [email\u00a0protected] G3n",
         "description": "Dlsord [email\u00a0protected] G3n\nWorking\nMust Be ready\nshould start from MT",
         "author": "NotYourMaster",
-        "posted_time": "3 minutes ago",
+        "posted_time": "14 minutes ago",
         "link": "https://replit.com/bounties/@NotYourMaster/dlsord-tken-g3n?t="
+    },
+    {
+        "index": "798",
+        "price": "$315.00",
+        "due_days": "due in 14 days",
+        "title": "Instagram & Twitter Bot for my Business Account",
+        "description": "The project aims to create Instagram & Twitter auto-responder bots for business accounts that can auto-respond to comments on posts containing specified hashtags. The solution must allow for multiple commands and bot replied to be running concurrently. The solution must provide an easy to ease UI/UX for the user to input the hashtag and auto-response keywords. The bounty proposal must include any information pertinent to the awarding of the monies.\n\nKey Features:\nContinuous monitoring of specified hashtags and automatic response to comments on Instagram posts containing those hashtags.\nSupport for multiple concurrent commands and bot replied.\nEasy to use UI/UX for users to input hashtags and auto-response keywords.\nAuthentication with Instagram/Twitter API to access user accounts and retrieve comments on posts.\nSecure handling of user authentication credentials and hashtag/auto-response keywords.\nAppropriate handling of posts containing multiple hashtags to avoid spamming the comment s...",
+        "author": "TomHumber",
+        "posted_time": "5 minutes ago",
+        "link": "https://replit.com/bounties/@TomHumber/instagram-and-twitte?t="
     }
 ]
