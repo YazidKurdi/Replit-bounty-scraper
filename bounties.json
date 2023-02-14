@@ -7886,7 +7886,7 @@
         "title": "Chat with your knowledge-base",
         "description": "Businesses and individuals deal with endless sources of knowledge to store their data; docs, pdfs, Slack, Notion, Jira, etc..\n\nWith the power of AI and embeddings, sifting through this data became 100x easier. For this project, I would like to build a tool that allows a business or an individual to connect to their data sources and \"talk\" to their data through a chat UI; example questions that the tool should be able to answer (given its connected to the needed data sources):\n\nfor a business:\nHow can I file a feature request?\nSummarize our last quarterly results\nHow do I set up my local dev environment?\nWhat's the scope of the Microsoft Dynamics integration?\n\nFor an individual:\nWhat are the main points discussed in my PHD paper?\nWhat subjects will I learn about given my Economics 101 class syllabus?\nWhat's the grading criteria for Economics 101?\nSummarize my notes over the last 7 days\n\nTo be able to build something like this, you should use something like gpt-index...",
         "author": "metahash",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@metahash/a-script-to-generate?t="
     },
     {
@@ -7936,7 +7936,7 @@
         "title": "Build a Chrome Extension that can Color Code a User's Calendar",
         "description": "I am looking for someone to help put together a chrome extension that can be used to assist in a calendar audit by tracking the energy level a user gets throughout the day from meetings.\n\nThe goal is for the chrome extension over time to be able to provide users with helpful data on how they spend their days and provide them with insights into which parts of their days they enjoy and which they don\u2019t. Allowing them to make changes as needed to improve their daily work life.\n\nSolution Description\n\nThe idea is that the extension would connect to a user's Google calendar and after each meeting, the extension would prompt the user for feedback on the meeting with a simple pop up as a feedback/data collection mechanism that displays something like \"How are you feeling after that?\" and then provides the user with three possible answer choices in the form of smiley faces (green smiley = feeling energized, yellow straight face = neutral, and red frowning face = feeling drai...",
         "author": "saamor1994",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@saamor1994/build-a-chrome-exten?t="
     },
     {

@@ -6225,7 +6225,7 @@ What subjects will I learn about given my Economics 101 class syllabus?
 What's the grading criteria for Economics 101?
 Summarize my notes over the last 7 days
 
-To be able to build something like this, you should use something like gpt-index...",metahash,16 hours ago,https://replit.com/bounties/@metahash/a-script-to-generate?t=
+To be able to build something like this, you should use something like gpt-index...",metahash,17 hours ago,https://replit.com/bounties/@metahash/a-script-to-generate?t=
 789,$45.00,due in 6 days,[TRANSLATION] Convert Swift/Objective C Code Utilizing Various MacOS APIs to Python,"tl;dr I have a bit over 50 lines of Swift/Objective C code that need to be converted into Python. It uses some Mac OS APIs to work. Repo Link: https://github.com/tml1024/FluffyDisplay. It is mainly a library that exports one function. I would like that function to be available through Python code. Please include previous bounty work and experience with Mac OS APIs. I will tip up extra for fast work!
 
 Problem Description
@@ -6244,7 +6244,7 @@ The goal is for the chrome extension over time to be able to provide users with 
 
 Solution Description
 
-The idea is that the extension would connect to a user's Google calendar and after each meeting, the extension would prompt the user for feedback on the meeting with a simple pop up as a feedback/data collection mechanism that displays something like ""How are you feeling after that?"" and then provides the user with three possible answer choices in the form of smiley faces (green smiley = feeling energized, yellow straight face = neutral, and red frowning face = feeling drai...",saamor1994,8 hours ago,https://replit.com/bounties/@saamor1994/build-a-chrome-exten?t=
+The idea is that the extension would connect to a user's Google calendar and after each meeting, the extension would prompt the user for feedback on the meeting with a simple pop up as a feedback/data collection mechanism that displays something like ""How are you feeling after that?"" and then provides the user with three possible answer choices in the form of smiley faces (green smiley = feeling energized, yellow straight face = neutral, and red frowning face = feeling drai...",saamor1994,9 hours ago,https://replit.com/bounties/@saamor1994/build-a-chrome-exten?t=
 794,$22.50,due in 4 days,Replit Youtube video clipper for Evolution @Replit,"Create clips of this youtube video that will get people psyched on the Evolution @Replit series.
 https://www.youtube.com/watch?v=ww0W8ne4V_Y&t=1424s
 
