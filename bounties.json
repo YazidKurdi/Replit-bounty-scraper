@@ -7916,7 +7916,7 @@
         "title": "Next stage of boldsign app",
         "description": "will download additional audit PDF, merge with document PDF, and upload resulting PDF file",
         "author": "AndrewShowman",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/next-stage-of-boldsi?t="
     },
     {
@@ -7926,7 +7926,7 @@
         "title": "Chat AI that pulls data from folders (Excel and Word docs) and gives a response",
         "description": "Im looking for a simple ChatGPT-style app that will let me ingest a folder of documents. Mainly Excel and Word docs. Once ingested, I can ask a question from the chat box and get a response pulled from the documents.\n\nSimple web app on Replit that lets me ask questions and get answers from internal documents I provide. Ideally I can also upload more documents in the future and have them indexed and searchable. Excel (CSV) and Word (Docx) docs are the main formats I need.",
         "author": "WillJarvis2",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@WillJarvis2/chat-ai-that-pulls-d?t="
     },
     {
@@ -7976,7 +7976,7 @@
         "title": "Dlsord [email\u00a0protected] G3n",
         "description": "Dlsord [email\u00a0protected] G3n\nWorking\nMust Be ready\nshould start from MT",
         "author": "NotYourMaster",
-        "posted_time": "14 minutes ago",
+        "posted_time": "26 minutes ago",
         "link": "https://replit.com/bounties/@NotYourMaster/dlsord-tken-g3n?t="
     },
     {
@@ -7986,7 +7986,7 @@
         "title": "Instagram & Twitter Bot for my Business Account",
         "description": "The project aims to create Instagram & Twitter auto-responder bots for business accounts that can auto-respond to comments on posts containing specified hashtags. The solution must allow for multiple commands and bot replied to be running concurrently. The solution must provide an easy to ease UI/UX for the user to input the hashtag and auto-response keywords. The bounty proposal must include any information pertinent to the awarding of the monies.\n\nKey Features:\nContinuous monitoring of specified hashtags and automatic response to comments on Instagram posts containing those hashtags.\nSupport for multiple concurrent commands and bot replied.\nEasy to use UI/UX for users to input hashtags and auto-response keywords.\nAuthentication with Instagram/Twitter API to access user accounts and retrieve comments on posts.\nSecure handling of user authentication credentials and hashtag/auto-response keywords.\nAppropriate handling of posts containing multiple hashtags to avoid spamming the comment s...",
         "author": "TomHumber",
-        "posted_time": "5 minutes ago",
+        "posted_time": "17 minutes ago",
         "link": "https://replit.com/bounties/@TomHumber/instagram-and-twitte?t="
     }
 ]
