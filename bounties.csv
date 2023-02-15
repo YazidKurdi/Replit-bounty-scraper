@@ -6329,7 +6329,7 @@ Problem Description
 IddSampleDriver allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in C++ utilizing Windows APIs. It is also made to be a driver. I would like to convert this to Python and make it a normal program, not a driver. I just need the core functionality - I don't need the fancy wrapper functions which make the program user-friendly to be translated. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
-I should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Pyth...",EpicCodeWizard2,11 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-6?t=
+I should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Pyth...",EpicCodeWizard2,12 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-6?t=
 802,$50.00,due in 14 days,Convert Boilerpipe Java library to JavaScript/TypeScript (for use in NodeJS),"Google Boilerpipe library is currently a Java library
 https://code.google.com/archive/p/boilerpipe/
 Description of the library: ""The boilerpipe library provides algorithms to detect and remove the surplus ""clutter"" (boilerplate, templates) around the main textual content of a web page.""
@@ -6379,4 +6379,4 @@ Chicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 TAB 1.85 1.9
 Chicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Pointsbet 1.8 1.95
 Chicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Bet365 1.86 1.86
 Chicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Pinnacle 1.85 1.89
-Chicago Bulls vs Charlotte Hornets Demar Derozan Points 27.5 Sportsbet 1.94 1....",YouReachITeach4,59 minutes ago,https://replit.com/bounties/@YouReachITeach4/scrape-basic-website?t=
+Chicago Bulls vs Charlotte Hornets Demar Derozan Points 27.5 Sportsbet 1.94 1....",YouReachITeach4,1 hour ago,https://replit.com/bounties/@YouReachITeach4/scrape-basic-website?t=

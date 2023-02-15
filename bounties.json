@@ -8016,7 +8016,7 @@
         "title": "[TRANSLATION] Convert C++ Code Utilizing Various Windows APIs to Python",
         "description": "tl;dr I have around 400 lines of C++ code that need to be converted into Python. It uses some Windows APIs to work. Repo Link: https://github.com/roshkins/IddSampleDriver. Please include previous bounty work and experience with Windows APIs. I will tip up extra for fast work!\n\nProblem Description\nIddSampleDriver allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in C++ utilizing Windows APIs. It is also made to be a driver. I would like to convert this to Python and make it a normal program, not a driver. I just need the core functionality - I don't need the fancy wrapper functions which make the program user-friendly to be translated. Just convert the code to python. I don't mind it having multiple files or many dependencies.\n\nAcceptance Criteria\nI should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Pyth...",
         "author": "EpicCodeWizard2",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/translation-convert-6?t="
     },
     {
@@ -8056,7 +8056,7 @@
         "title": "Scrape basic website",
         "description": "Hi,\n\nI would be looking to get this website scraped - https://betsniper.vercel.app/. The website is a list of basketball player odds for player props e.g. Lebron James Over Points. Essentially I would like the data to be scrapped so that each row is a different bet.\n\nThe table would be organised with the following headers (examples provided correlating to the image):\n\nGame\nPlayer\nStat\nLine\nBookmaker\nOdds (over and under)\nBelow is what the data could look like (dummy data),\nGame Player Stat Line Bookmaker Over odds Under odds\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Topsport 1.88 1.9\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 TAB 1.85 1.9\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Pointsbet 1.8 1.95\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Bet365 1.86 1.86\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Pinnacle 1.85 1.89\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 27.5 Sportsbet 1.94 1....",
         "author": "YouReachITeach4",
-        "posted_time": "59 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@YouReachITeach4/scrape-basic-website?t="
     }
 ]
