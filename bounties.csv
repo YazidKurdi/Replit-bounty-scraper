@@ -6403,14 +6403,14 @@ To test the solution end-to-end, you will need an rvtools Excel file, which I ca
 
 Link to Project
 
-You can access the project files and code at https://replit.com/@BenKarciauskas/VMCTool.",BenKarciauskas,13 hours ago,https://replit.com/bounties/@BenKarciauskas/gridjs-flask-event-l?t=
+You can access the project files and code at https://replit.com/@BenKarciauskas/VMCTool.",BenKarciauskas,14 hours ago,https://replit.com/bounties/@BenKarciauskas/gridjs-flask-event-l?t=
 809,$1.50,closed,[Simple] Fix some bugs on website,"On https://solarhosting.cc/ there are a few bugs that need fixing
 There are 2 scroll wheels
 Underline under the order button and you have to click the text not just the button
 The Accepted Payment Methods on hover text is broken
 
 Acceptance Criteria
-Must have discord linked to replit account or in your applications",OddGames,10 hours ago,https://replit.com/bounties/@OddGames/simple-fix-some-bugs?t=
+Must have discord linked to replit account or in your applications",OddGames,11 hours ago,https://replit.com/bounties/@OddGames/simple-fix-some-bugs?t=
 810,$81.00,due in 12 days,Booking.com Hotel Price ranking Webscraper,"I need a scraper that either fills out an excel sheet or sends me an email with my current ranking on booking.com for my Hostel. Normally we adjust the pricing based on the cheapest options in our region. I prefer that we are always on the first page in the first 5.
 
 Well till now this was a manual performance of my receptionists. Search specific date, specific region and number of people(results set to Price(lowest first)). Then look for my Hostel and and try to play with pricing so I'm always a few dollars below my competition.
@@ -6446,7 +6446,7 @@ Ask users to input some basic parameters such as event, relationship with recipi
 Provide recommendations based on user inputs.
 Allow for continuous conversations with users to optimize the answers in the recommender as well as personalize it.
 Allow the user to shortlist some of the recommendations provided
-Once all the recommendations are shortlisted, given an option to see gifts matching available products in our inventory. Model will need to be trained on available products which can be pulled via an API.",vickwiz,2 hours ago,https://replit.com/bounties/@vickwiz/gift-recommender-app?t=
+Once all the recommendations are shortlisted, given an option to see gifts matching available products in our inventory. Model will need to be trained on available products which can be pulled via an API.",vickwiz,3 hours ago,https://replit.com/bounties/@vickwiz/gift-recommender-app?t=
 816,$360.00,due in 4 days,Simple Gradio app to classify text with GPT-3,"Background
 I am an experienced AI product manager and I am looking for skilled developers to work with on future projects. This is a simple end-to-end test project which will hopefully help me find someone I like working with.
 
@@ -6472,4 +6472,4 @@ A new sveltekit app, with the ability to log in to auth0, and be able to pass a 
 
 Technical Details
 Our examples have tried using an SPA version of auth0 and subscribing to stores for the ability to call the remote servers, but the subscribing to a store seems to cause issues with the load function ever refreshing. We think the right approach is something more in the next.js direct. We have an example library here, but we haven't gotten this to work either. https://github.com/rmunn/sveltekit-auth0-unofficial
-Link to Project",SteveMartocci,52 minutes ago,https://replit.com/bounties/@SteveMartocci/sveltekit-with-auth0?t=
+Link to Project",SteveMartocci,1 hour ago,https://replit.com/bounties/@SteveMartocci/sveltekit-with-auth0?t=
