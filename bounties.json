@@ -8106,7 +8106,7 @@
         "title": "Booking.com Hotel Price ranking Webscraper",
         "description": "I need a scraper that either fills out an excel sheet or sends me an email with my current ranking on booking.com for my Hostel. Normally we adjust the pricing based on the cheapest options in our region. I prefer that we are always on the first page in the first 5.\n\nWell till now this was a manual performance of my receptionists. Search specific date, specific region and number of people(results set to Price(lowest first)). Then look for my Hostel and and try to play with pricing so I'm always a few dollars below my competition.\n\nThe Scraper should inform me one week ahead(via email or fill and excell) of my ranking and also what the prices are beneath me so I can adjust everything without needing to browse for 1 hour.\n\nIt's also important that the scraped is written in Node.js - so I can understand and adjust the parameters.",
         "author": "valentinmuller",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@valentinmuller/bookingcom-hotel-pri?t="
     },
     {
@@ -8156,7 +8156,7 @@
         "title": "Gift Recommender App",
         "description": "Objective: Develop a gift recommender web app that will allow users to get gift options based on text inputs around recipient, event, budget, etc and map the shortlisted gift options to available products.\n\nRequirements:\nAsk users to input some basic parameters such as event, relationship with recipient, budget, likes/dislikes of recipient using a natural language text input e.g. What gifts can I give to my friend on his 40th birthday, he likes outdoor and is a big basketball fan.\nProvide recommendations based on user inputs.\nAllow for continuous conversations with users to optimize the answers in the recommender as well as personalize it.\nAllow the user to shortlist some of the recommendations provided\nOnce all the recommendations are shortlisted, given an option to see gifts matching available products in our inventory. Model will need to be trained on available products which can be pulled via an API.",
         "author": "vickwiz",
-        "posted_time": "37 minutes ago",
+        "posted_time": "47 minutes ago",
         "link": "https://replit.com/bounties/@vickwiz/gift-recommender-app?t="
     }
 ]
