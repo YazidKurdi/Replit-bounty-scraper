@@ -6426,7 +6426,7 @@ I need an article page for the wiki
 (Grey Theme)
 
 Acceptance Criteria
-Must have discord linked to replit account or in your applications",OddGames,5 hours ago,https://replit.com/bounties/@OddGames/2-websites-make-a-wi?t=
+Must have discord linked to replit account or in your applications",OddGames,6 hours ago,https://replit.com/bounties/@OddGames/2-websites-make-a-wi?t=
 813,$0.90,due in 2 months,full discord bot not coppied,i need someone to make me a discord bot with warns warn logs and server list command admin commands and it should have basic moderation functions the code should be easily readable and editable if i like your work i will pay more cycles than just the 90 I will CHECK FOR IT BEING COPPIED AND IF IT IS YOU WILL NOT BE PAID AND YOU WILL BE REMOVED FROM THE BOUNTY,newunblocker,4 hours ago,https://replit.com/bounties/@newunblocker/full-discord-bot-not?t=
 814,$27.00,due in 23 days,Automated Carbon Price Index,"•	Voluntary carbon markets consist of multiple methodologies and project types
 •	This means that a 1 ton carbon credit can trade between $5 and $1,000 depending on the type of project, methodology and location.
@@ -6446,7 +6446,7 @@ Ask users to input some basic parameters such as event, relationship with recipi
 Provide recommendations based on user inputs.
 Allow for continuous conversations with users to optimize the answers in the recommender as well as personalize it.
 Allow the user to shortlist some of the recommendations provided
-Once all the recommendations are shortlisted, given an option to see gifts matching available products in our inventory. Model will need to be trained on available products which can be pulled via an API.",vickwiz,1 hour ago,https://replit.com/bounties/@vickwiz/gift-recommender-app?t=
+Once all the recommendations are shortlisted, given an option to see gifts matching available products in our inventory. Model will need to be trained on available products which can be pulled via an API.",vickwiz,2 hours ago,https://replit.com/bounties/@vickwiz/gift-recommender-app?t=
 816,$360.00,due in 4 days,Simple Gradio app to classify text with GPT-3,"Background
 I am an experienced AI product manager and I am looking for skilled developers to work with on future projects. This is a simple end-to-end test project which will hopefully help me find someone I like working with.
 
@@ -6464,4 +6464,12 @@ Acceptance Criteria
 working Gradio app with features as described
 simple logging feature using Supabase
 
-I have a technical background and really enjoy working with smart and talented developers - looking forward ...",tomwalchakAI,11 minutes ago,https://replit.com/bounties/@tomwalchakAI/simple-gradio-app-to?t=
+I have a technical background and really enjoy working with smart and talented developers - looking forward ...",tomwalchakAI,20 minutes ago,https://replit.com/bounties/@tomwalchakAI/simple-gradio-app-to?t=
+817,$180.00,due in 3 days,Sveltekit with Auth0 properly configured,"There is no supported library for auth0 and sveltekit. Implementations we've tried have not allowed for a working load function. Our application will call an external api for data and needs to be able to pass along the bearer token to the api.
+
+Acceptance Criteria
+A new sveltekit app, with the ability to log in to auth0, and be able to pass a valid bearer token to an api endpoint in a load function of a page.
+
+Technical Details
+Our examples have tried using an SPA version of auth0 and subscribing to stores for the ability to call the remote servers, but the subscribing to a store seems to cause issues with the load function ever refreshing. We think the right approach is something more in the next.js direct. We have an example library here, but we haven't gotten this to work either. https://github.com/rmunn/sveltekit-auth0-unofficial
+Link to Project",SteveMartocci,9 minutes ago,https://replit.com/bounties/@SteveMartocci/sveltekit-with-auth0?t=
