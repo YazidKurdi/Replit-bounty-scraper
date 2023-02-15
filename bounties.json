@@ -8086,7 +8086,7 @@
         "title": "Grid.js + Flask - Event listener that updates a dataframe when a row is checked",
         "description": "The grid.js table and selector plugin are both functional, but I am facing a challenge in updating the database that populates the table. Specifically, I need help with creating an event listener that can toggle the exclude field of a row in the pandas dataframe based on whether the row is selected or not.\n\nAcceptance Criteria\n\nThe solution will be considered successful if I can select any row in the grid.js table, and the corresponding exclude field in the pandas dataframe is updated with the correct Boolean value.\n\nTechnical Details\n\nTo test the solution end-to-end, you will need an rvtools Excel file, which I can provide.\n\nLink to Project\n\nYou can access the project files and code at https://replit.com/@BenKarciauskas/VMCTool.",
         "author": "BenKarciauskas",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@BenKarciauskas/gridjs-flask-event-l?t="
     },
     {
@@ -8096,7 +8096,7 @@
         "title": "[Simple] Fix some bugs on website",
         "description": "On https://solarhosting.cc/ there are a few bugs that need fixing\nThere are 2 scroll wheels\nUnderline under the order button and you have to click the text not just the button\nThe Accepted Payment Methods on hover text is broken\n\nAcceptance Criteria\nMust have discord linked to replit account or in your applications",
         "author": "OddGames",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@OddGames/simple-fix-some-bugs?t="
     },
     {
@@ -8156,7 +8156,7 @@
         "title": "Gift Recommender App",
         "description": "Objective: Develop a gift recommender web app that will allow users to get gift options based on text inputs around recipient, event, budget, etc and map the shortlisted gift options to available products.\n\nRequirements:\nAsk users to input some basic parameters such as event, relationship with recipient, budget, likes/dislikes of recipient using a natural language text input e.g. What gifts can I give to my friend on his 40th birthday, he likes outdoor and is a big basketball fan.\nProvide recommendations based on user inputs.\nAllow for continuous conversations with users to optimize the answers in the recommender as well as personalize it.\nAllow the user to shortlist some of the recommendations provided\nOnce all the recommendations are shortlisted, given an option to see gifts matching available products in our inventory. Model will need to be trained on available products which can be pulled via an API.",
         "author": "vickwiz",
-        "posted_time": "21 minutes ago",
+        "posted_time": "30 minutes ago",
         "link": "https://replit.com/bounties/@vickwiz/gift-recommender-app?t="
     }
 ]
