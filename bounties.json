@@ -8036,7 +8036,7 @@
         "title": "Hoon CodeMirror grammar and language mode",
         "description": "Project Description\n\nHoon is a programming language used in the Urbit operating system. You can find the grammar specification for Hoon in the official Hoon documentation. You can use the Hoon mode for Emacs and the Vim package for reference: hoon-mode.el and hoon.vim.\n\nReplit uses CodeMirror as the editor and we want to add first-class support for Hoon, including syntax highlighting. We have a language mode template available on Replit (please read the README for guidance).\n\nWe'll publish it as an open source package and credit you.\n\nAcceptance Criteria\n\nSyntax highlighting should match the modes for Hoon in the Emacs and Vim packages\nFolding ranges should be added to improve code folding\nShould use lezer instead of custom tokenization",
         "author": "masfrost",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@masfrost/hoon-codemirror-gram?t="
     },
     {
@@ -8086,17 +8086,17 @@
         "title": "Grid.js + Flask - Event listener that updates a dataframe when a row is checked",
         "description": "The grid.js table and selector plugin are both functional, but I am facing a challenge in updating the database that populates the table. Specifically, I need help with creating an event listener that can toggle the exclude field of a row in the pandas dataframe based on whether the row is selected or not.\n\nAcceptance Criteria\n\nThe solution will be considered successful if I can select any row in the grid.js table, and the corresponding exclude field in the pandas dataframe is updated with the correct Boolean value.\n\nTechnical Details\n\nTo test the solution end-to-end, you will need an rvtools Excel file, which I can provide.\n\nLink to Project\n\nYou can access the project files and code at https://replit.com/@BenKarciauskas/VMCTool.",
         "author": "BenKarciauskas",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@BenKarciauskas/gridjs-flask-event-l?t="
     },
     {
         "index": "809",
         "price": "$1.50",
-        "due_days": "due in 13 days",
+        "due_days": "closed",
         "title": "[Simple] Fix some bugs on website",
         "description": "On https://solarhosting.cc/ there are a few bugs that need fixing\nThere are 2 scroll wheels\nUnderline under the order button and you have to click the text not just the button\nThe Accepted Payment Methods on hover text is broken\n\nAcceptance Criteria\nMust have discord linked to replit account or in your applications",
         "author": "OddGames",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@OddGames/simple-fix-some-bugs?t="
     },
     {
@@ -8112,21 +8112,21 @@
     {
         "index": "811",
         "price": "$20.70",
-        "due_days": "due in 3 days",
+        "due_days": "closed",
         "title": "Java Spring Boot Application Bug Fix for Excel Upload",
         "description": "Bug fix. CSV is not being read properly.\n\n\"By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.\"",
         "author": "mdotbaig",
-        "posted_time": "40 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@mdotbaig/java-spring-boot-app?t="
     },
     {
         "index": "812",
         "price": "$2.00",
-        "due_days": "due in 13 days",
+        "due_days": "due in 12 days",
         "title": "[2 Websites] Make a wiki template page and main page",
         "description": "I need a main page with a search and under that a few template links for articles\nI need an article page for the wiki\n(Grey Theme)\n\nAcceptance Criteria\nMust have discord linked to replit account or in your applications",
         "author": "OddGames",
-        "posted_time": "3 minutes ago",
+        "posted_time": "32 minutes ago",
         "link": "https://replit.com/bounties/@OddGames/2-websites-make-a-wi?t="
     }
 ]
