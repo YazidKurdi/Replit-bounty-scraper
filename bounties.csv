@@ -6322,7 +6322,7 @@ Technical Details
 There is a a little info on how to read the binary file here
 
 https://hackaday.com/2014/10/15/reverse-engineering-altium-files/
-https://hackaday.io/project/3149-reverse-engineering-design-file-formats/details",MatthiasWagner3,15 hours ago,https://replit.com/bounties/@MatthiasWagner3/typescript-altium-in?t=
+https://hackaday.io/project/3149-reverse-engineering-design-file-formats/details",MatthiasWagner3,16 hours ago,https://replit.com/bounties/@MatthiasWagner3/typescript-altium-in?t=
 801,$65.00,due in 10 days,[TRANSLATION] Convert C++ Code Utilizing Various Windows APIs to Python,"tl;dr I have around 400 lines of C++ code that need to be converted into Python. It uses some Windows APIs to work. Repo Link: https://github.com/roshkins/IddSampleDriver. Please include previous bounty work and experience with Windows APIs. I will tip up extra for fast work!
 
 Problem Description
@@ -6386,11 +6386,11 @@ Acceptance Criteria
 Create a Deno function that can be run in Supabase given a list of coordinates generates an image and stores in Supabase storage.
 
 Technical Details
-We're using supabase and Deno functions",PrafulMathur,46 minutes ago,https://replit.com/bounties/@PrafulMathur/generate-map-image-f?t=
+We're using supabase and Deno functions",PrafulMathur,1 hour ago,https://replit.com/bounties/@PrafulMathur/generate-map-image-f?t=
 807,$45.00,due in 4 days,Calculate total distance given list of latitude & longitude,"Given a list of latitude and longitude calculate the total distance. This is difference than simple last coordinate - first coordinate, we need to calculate the walking path between each point. It's fine to do a simple distance function because locations are captured frequently.
 
 Acceptance Criteria
-Create a Deno function as this will be running Supabase.",PrafulMathur,43 minutes ago,https://replit.com/bounties/@PrafulMathur/calculate-total-dist?t=
+Create a Deno function as this will be running Supabase.",PrafulMathur,59 minutes ago,https://replit.com/bounties/@PrafulMathur/calculate-total-dist?t=
 808,$27.00,due in 4 days,Grid.js + Flask - Event listener that updates a dataframe when a row is checked,"The grid.js table and selector plugin are both functional, but I am facing a challenge in updating the database that populates the table. Specifically, I need help with creating an event listener that can toggle the exclude field of a row in the pandas dataframe based on whether the row is selected or not.
 
 Acceptance Criteria
@@ -6403,4 +6403,4 @@ To test the solution end-to-end, you will need an rvtools Excel file, which I ca
 
 Link to Project
 
-You can access the project files and code at https://replit.com/@BenKarciauskas/VMCTool.",BenKarciauskas,13 minutes ago,https://replit.com/bounties/@BenKarciauskas/gridjs-flask-event-l?t=
+You can access the project files and code at https://replit.com/@BenKarciauskas/VMCTool.",BenKarciauskas,29 minutes ago,https://replit.com/bounties/@BenKarciauskas/gridjs-flask-event-l?t=
