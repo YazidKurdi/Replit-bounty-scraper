@@ -8126,7 +8126,7 @@
         "title": "[2 Websites] Make a wiki template page and main page",
         "description": "I need a main page with a search and under that a few template links for articles\nI need an article page for the wiki\n(Grey Theme)\n\nAcceptance Criteria\nMust have discord linked to replit account or in your applications",
         "author": "OddGames",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@OddGames/2-websites-make-a-wi?t="
     },
     {
@@ -8156,7 +8156,7 @@
         "title": "Gift Recommender App",
         "description": "Objective: Develop a gift recommender web app that will allow users to get gift options based on text inputs around recipient, event, budget, etc and map the shortlisted gift options to available products.\n\nRequirements:\nAsk users to input some basic parameters such as event, relationship with recipient, budget, likes/dislikes of recipient using a natural language text input e.g. What gifts can I give to my friend on his 40th birthday, he likes outdoor and is a big basketball fan.\nProvide recommendations based on user inputs.\nAllow for continuous conversations with users to optimize the answers in the recommender as well as personalize it.\nAllow the user to shortlist some of the recommendations provided\nOnce all the recommendations are shortlisted, given an option to see gifts matching available products in our inventory. Model will need to be trained on available products which can be pulled via an API.",
         "author": "vickwiz",
-        "posted_time": "30 minutes ago",
+        "posted_time": "37 minutes ago",
         "link": "https://replit.com/bounties/@vickwiz/gift-recommender-app?t="
     }
 ]
