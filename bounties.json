@@ -8056,7 +8056,7 @@
         "title": "Scrape basic website",
         "description": "Hi,\n\nI would be looking to get this website scraped - https://betsniper.vercel.app/. The website is a list of basketball player odds for player props e.g. Lebron James Over Points. Essentially I would like the data to be scrapped so that each row is a different bet.\n\nThe table would be organised with the following headers (examples provided correlating to the image):\n\nGame\nPlayer\nStat\nLine\nBookmaker\nOdds (over and under)\nBelow is what the data could look like (dummy data),\nGame Player Stat Line Bookmaker Over odds Under odds\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Topsport 1.88 1.9\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 TAB 1.85 1.9\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Pointsbet 1.8 1.95\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Bet365 1.86 1.86\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Pinnacle 1.85 1.89\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 27.5 Sportsbet 1.94 1....",
         "author": "YouReachITeach4",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@YouReachITeach4/scrape-basic-website?t="
     },
     {
@@ -8066,7 +8066,7 @@
         "title": "Generate map image from list of latitude / longitude coordinates",
         "description": "Given a list of latitude & longitude coordinates, generate an image of a map with all a line of the path. It'll look similar to the maps generated on Strava (https://media.wired.com/photos/5c636c078a032870a0c7467f/master/w1600,climit/Strava_SketchARoute.jpg)\n\nAcceptance Criteria\nCreate a Deno function that can be run in Supabase given a list of coordinates generates an image and stores in Supabase storage.\n\nTechnical Details\nWe're using supabase and Deno functions",
         "author": "PrafulMathur",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@PrafulMathur/generate-map-image-f?t="
     },
     {
@@ -8076,7 +8076,7 @@
         "title": "Calculate total distance given list of latitude & longitude",
         "description": "Given a list of latitude and longitude calculate the total distance. This is difference than simple last coordinate - first coordinate, we need to calculate the walking path between each point. It's fine to do a simple distance function because locations are captured frequently.\n\nAcceptance Criteria\nCreate a Deno function as this will be running Supabase.",
         "author": "PrafulMathur",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@PrafulMathur/calculate-total-dist?t="
     },
     {
@@ -8116,7 +8116,7 @@
         "title": "Java Spring Boot Application Bug Fix for Excel Upload",
         "description": "Bug fix. CSV is not being read properly.\n\n\"By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.\"",
         "author": "mdotbaig",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/java-spring-boot-app?t="
     },
     {
@@ -8136,7 +8136,7 @@
         "title": "full discord bot not coppied",
         "description": "i need someone to make me a discord bot with warns warn logs and server list command admin commands and it should have basic moderation functions the code should be easily readable and editable if i like your work i will pay more cycles than just the 90 I will CHECK FOR IT BEING COPPIED AND IF IT IS YOU WILL NOT BE PAID AND YOU WILL BE REMOVED FROM THE BOUNTY",
         "author": "newunblocker",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@newunblocker/full-discord-bot-not?t="
     },
     {
@@ -8146,7 +8146,7 @@
         "title": "Automated Carbon Price Index",
         "description": "\u2022\tVoluntary carbon markets consist of multiple methodologies and project types\n\u2022\tThis means that a 1 ton carbon credit can trade between $5 and $1,000 depending on the type of project, methodology and location.\n\u2022\tThis makes pricing of voluntary carbon credits extremely difficult for sellers and buyers - leading to market inefficiencies and slowing down the financing of carbon removal technologies\n\nAcceptance Criteria\n\u2022\tWeb application that displays average carbon credit price from multiple sources and has information on project data that makes up this average price (in table below/ on separate page)\n\u2022\tExample of index display required: https://puro.earth/carbon-removal-index-price/\n\u2022\tCarbon credit pricing data to be automatically extracted from open data sources. Links to websites:\no\thttps://puro.earth/CORC-co2-removal-certificate/\no\thttps://platform.carbonfuture.earth/balancer/portfolios\no\thttps://netzero.salesforce.com/s/category/all-project-types/0ZGEZ000000008H4...",
         "author": "gavlawson",
-        "posted_time": "10 minutes ago",
+        "posted_time": "24 minutes ago",
         "link": "https://replit.com/bounties/@gavlawson/automated-carbon-pri?t="
     }
 ]
