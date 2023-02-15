@@ -6354,7 +6354,7 @@ Acceptance Criteria
 
 Syntax highlighting should match the modes for Hoon in the Emacs and Vim packages
 Folding ranges should be added to improve code folding
-Should use lezer instead of custom tokenization",masfrost,9 hours ago,https://replit.com/bounties/@masfrost/hoon-codemirror-gram?t=
+Should use lezer instead of custom tokenization",masfrost,10 hours ago,https://replit.com/bounties/@masfrost/hoon-codemirror-gram?t=
 804,$180.00,due in 9 days,Fine tuning GPT-3 for video game reviews,"Hey! I run a website about video games. I want to create a specific type of video game review, but automated, and then do hundreds of them using GPT-3. So I believe I want to finetune a model to do this by pulling from several websites, which I can point you to.
 
 Need to be able to scrape data from other sites and fine tune for one particular type of output.

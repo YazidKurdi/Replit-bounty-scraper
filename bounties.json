@@ -8036,7 +8036,7 @@
         "title": "Hoon CodeMirror grammar and language mode",
         "description": "Project Description\n\nHoon is a programming language used in the Urbit operating system. You can find the grammar specification for Hoon in the official Hoon documentation. You can use the Hoon mode for Emacs and the Vim package for reference: hoon-mode.el and hoon.vim.\n\nReplit uses CodeMirror as the editor and we want to add first-class support for Hoon, including syntax highlighting. We have a language mode template available on Replit (please read the README for guidance).\n\nWe'll publish it as an open source package and credit you.\n\nAcceptance Criteria\n\nSyntax highlighting should match the modes for Hoon in the Emacs and Vim packages\nFolding ranges should be added to improve code folding\nShould use lezer instead of custom tokenization",
         "author": "masfrost",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@masfrost/hoon-codemirror-gram?t="
     },
     {
