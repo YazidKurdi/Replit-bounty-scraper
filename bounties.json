@@ -8146,7 +8146,7 @@
         "title": "Automated Carbon Price Index",
         "description": "\u2022\tVoluntary carbon markets consist of multiple methodologies and project types\n\u2022\tThis means that a 1 ton carbon credit can trade between $5 and $1,000 depending on the type of project, methodology and location.\n\u2022\tThis makes pricing of voluntary carbon credits extremely difficult for sellers and buyers - leading to market inefficiencies and slowing down the financing of carbon removal technologies\n\nAcceptance Criteria\n\u2022\tWeb application that displays average carbon credit price from multiple sources and has information on project data that makes up this average price (in table below/ on separate page)\n\u2022\tExample of index display required: https://puro.earth/carbon-removal-index-price/\n\u2022\tCarbon credit pricing data to be automatically extracted from open data sources. Links to websites:\no\thttps://puro.earth/CORC-co2-removal-certificate/\no\thttps://platform.carbonfuture.earth/balancer/portfolios\no\thttps://netzero.salesforce.com/s/category/all-project-types/0ZGEZ000000008H4...",
         "author": "gavlawson",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@gavlawson/automated-carbon-pri?t="
     },
     {
@@ -8166,7 +8166,7 @@
         "title": "Simple Gradio app to classify text with GPT-3",
         "description": "Background\nI am an experienced AI product manager and I am looking for skilled developers to work with on future projects. This is a simple end-to-end test project which will hopefully help me find someone I like working with.\n\nProblem Description\nI would like to build a simple Gradio app that uses GPT-3 to do the following:\nUser enters a text message (there is an option to pick a random message from the Emotion dataset: https://huggingface.co/datasets/emotion)\nGPT-3 generates a label \"kind\" or \"unkind\"\nIf the message is labelled \"unkind\", GPT-3 generates an explanation why\nUser can also modify the GPT-3 prompts\nEvery user message, prompt and GPT-3 response is saved to a Supabase table\n\nHere is a visual mock-up (pass: replit) https://whimsical.com/kind-SQ4RgG9k1po6N6MFmv8KRu\n\nAcceptance Criteria\nworking Gradio app with features as described\nsimple logging feature using Supabase\n\nI have a technical background and really enjoy working with smart and talented developers - looking forward ...",
         "author": "tomwalchakAI",
-        "posted_time": "47 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@tomwalchakAI/simple-gradio-app-to?t="
     },
     {
@@ -8176,7 +8176,7 @@
         "title": "Sveltekit with Auth0 properly configured",
         "description": "There is no supported library for auth0 and sveltekit. Implementations we've tried have not allowed for a working load function. Our application will call an external api for data and needs to be able to pass along the bearer token to the api.\n\nAcceptance Criteria\nA new sveltekit app, with the ability to log in to auth0, and be able to pass a valid bearer token to an api endpoint in a load function of a page.\n\nTechnical Details\nOur examples have tried using an SPA version of auth0 and subscribing to stores for the ability to call the remote servers, but the subscribing to a store seems to cause issues with the load function ever refreshing. We think the right approach is something more in the next.js direct. We have an example library here, but we haven't gotten this to work either. https://github.com/rmunn/sveltekit-auth0-unofficial\nLink to Project",
         "author": "SteveMartocci",
-        "posted_time": "35 minutes ago",
+        "posted_time": "52 minutes ago",
         "link": "https://replit.com/bounties/@SteveMartocci/sveltekit-with-auth0?t="
     }
 ]
