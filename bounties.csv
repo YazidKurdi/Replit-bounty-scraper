@@ -6438,7 +6438,7 @@ Acceptance Criteria
 •	Carbon credit pricing data to be automatically extracted from open data sources. Links to websites:
 o	https://puro.earth/CORC-co2-removal-certificate/
 o	https://platform.carbonfuture.earth/balancer/portfolios
-o	https://netzero.salesforce.com/s/category/all-project-types/0ZGEZ000000008H4...",gavlawson,2 hours ago,https://replit.com/bounties/@gavlawson/automated-carbon-pri?t=
+o	https://netzero.salesforce.com/s/category/all-project-types/0ZGEZ000000008H4...",gavlawson,3 hours ago,https://replit.com/bounties/@gavlawson/automated-carbon-pri?t=
 815,$1.80,due in 14 days,Gift Recommender App,"Objective: Develop a gift recommender web app that will allow users to get gift options based on text inputs around recipient, event, budget, etc and map the shortlisted gift options to available products.
 
 Requirements:
@@ -6447,3 +6447,21 @@ Provide recommendations based on user inputs.
 Allow for continuous conversations with users to optimize the answers in the recommender as well as personalize it.
 Allow the user to shortlist some of the recommendations provided
 Once all the recommendations are shortlisted, given an option to see gifts matching available products in our inventory. Model will need to be trained on available products which can be pulled via an API.",vickwiz,1 hour ago,https://replit.com/bounties/@vickwiz/gift-recommender-app?t=
+816,$360.00,due in 4 days,Simple Gradio app to classify text with GPT-3,"Background
+I am an experienced AI product manager and I am looking for skilled developers to work with on future projects. This is a simple end-to-end test project which will hopefully help me find someone I like working with.
+
+Problem Description
+I would like to build a simple Gradio app that uses GPT-3 to do the following:
+User enters a text message (there is an option to pick a random message from the Emotion dataset: https://huggingface.co/datasets/emotion)
+GPT-3 generates a label ""kind"" or ""unkind""
+If the message is labelled ""unkind"", GPT-3 generates an explanation why
+User can also modify the GPT-3 prompts
+Every user message, prompt and GPT-3 response is saved to a Supabase table
+
+Here is a visual mock-up (pass: replit) https://whimsical.com/kind-SQ4RgG9k1po6N6MFmv8KRu
+
+Acceptance Criteria
+working Gradio app with features as described
+simple logging feature using Supabase
+
+I have a technical background and really enjoy working with smart and talented developers - looking forward ...",tomwalchakAI,12 seconds ago,https://replit.com/bounties/@tomwalchakAI/simple-gradio-app-to?t=
