@@ -6359,7 +6359,7 @@ Should use lezer instead of custom tokenization",masfrost,14 hours ago,https://r
 
 Need to be able to scrape data from other sites and fine tune for one particular type of output.
 
-Technical Details",MattSaincome,13 hours ago,https://replit.com/bounties/@MattSaincome/fine-tuning-gpt-3-fo?t=
+Technical Details",MattSaincome,14 hours ago,https://replit.com/bounties/@MattSaincome/fine-tuning-gpt-3-fo?t=
 805,$9.00,due in 3 days,Scrape basic website,"Hi,
 
 I would be looking to get this website scraped - https://betsniper.vercel.app/. The website is a list of basketball player odds for player props e.g. Lebron James Over Points. Essentially I would like the data to be scrapped so that each row is a different bet.
@@ -6417,4 +6417,4 @@ Well till now this was a manual performance of my receptionists. Search specific
 
 The Scraper should inform me one week ahead(via email or fill and excell) of my ranking and also what the prices are beneath me so I can adjust everything without needing to browse for 1 hour.
 
-It's also important that the scraped is written in Node.js - so I can understand and adjust the parameters.",valentinmuller,23 minutes ago,https://replit.com/bounties/@valentinmuller/bookingcom-hotel-pri?t=
+It's also important that the scraped is written in Node.js - so I can understand and adjust the parameters.",valentinmuller,32 minutes ago,https://replit.com/bounties/@valentinmuller/bookingcom-hotel-pri?t=
