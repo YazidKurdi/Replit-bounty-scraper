@@ -6359,7 +6359,7 @@ Should use lezer instead of custom tokenization",masfrost,11 hours ago,https://r
 
 Need to be able to scrape data from other sites and fine tune for one particular type of output.
 
-Technical Details",MattSaincome,10 hours ago,https://replit.com/bounties/@MattSaincome/fine-tuning-gpt-3-fo?t=
+Technical Details",MattSaincome,11 hours ago,https://replit.com/bounties/@MattSaincome/fine-tuning-gpt-3-fo?t=
 805,$9.00,due in 4 days,Scrape basic website,"Hi,
 
 I would be looking to get this website scraped - https://betsniper.vercel.app/. The website is a list of basketball player odds for player props e.g. Lebron James Over Points. Essentially I would like the data to be scrapped so that each row is a different bet.
