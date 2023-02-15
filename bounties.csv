@@ -6329,7 +6329,7 @@ Problem Description
 IddSampleDriver allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in C++ utilizing Windows APIs. It is also made to be a driver. I would like to convert this to Python and make it a normal program, not a driver. I just need the core functionality - I don't need the fancy wrapper functions which make the program user-friendly to be translated. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
-I should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Pyth...",EpicCodeWizard2,10 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-6?t=
+I should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Pyth...",EpicCodeWizard2,11 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-6?t=
 802,$50.00,due in 14 days,Convert Boilerpipe Java library to JavaScript/TypeScript (for use in NodeJS),"Google Boilerpipe library is currently a Java library
 https://code.google.com/archive/p/boilerpipe/
 Description of the library: ""The boilerpipe library provides algorithms to detect and remove the surplus ""clutter"" (boilerplate, templates) around the main textual content of a web page.""
@@ -6360,3 +6360,23 @@ Should use lezer instead of custom tokenization",masfrost,4 hours ago,https://re
 Need to be able to scrape data from other sites and fine tune for one particular type of output.
 
 Technical Details",MattSaincome,3 hours ago,https://replit.com/bounties/@MattSaincome/fine-tuning-gpt-3-fo?t=
+805,$9.00,due in 4 days,Scrape basic website,"Hi,
+
+I would be looking to get this website scraped - https://betsniper.vercel.app/. The website is a list of basketball player odds for player props e.g. Lebron James Over Points. Essentially I would like the data to be scrapped so that each row is a different bet.
+
+The table would be organised with the following headers (examples provided correlating to the image):
+
+Game
+Player
+Stat
+Line
+Bookmaker
+Odds (over and under)
+Below is what the data could look like (dummy data),
+Game Player Stat Line Bookmaker Over odds Under odds
+Chicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Topsport 1.88 1.9
+Chicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 TAB 1.85 1.9
+Chicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Pointsbet 1.8 1.95
+Chicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Bet365 1.86 1.86
+Chicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Pinnacle 1.85 1.89
+Chicago Bulls vs Charlotte Hornets Demar Derozan Points 27.5 Sportsbet 1.94 1....",YouReachITeach4,9 minutes ago,https://replit.com/bounties/@YouReachITeach4/scrape-basic-website?t=
