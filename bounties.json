@@ -8086,7 +8086,7 @@
         "title": "Grid.js + Flask - Event listener that updates a dataframe when a row is checked",
         "description": "The grid.js table and selector plugin are both functional, but I am facing a challenge in updating the database that populates the table. Specifically, I need help with creating an event listener that can toggle the exclude field of a row in the pandas dataframe based on whether the row is selected or not.\n\nAcceptance Criteria\n\nThe solution will be considered successful if I can select any row in the grid.js table, and the corresponding exclude field in the pandas dataframe is updated with the correct Boolean value.\n\nTechnical Details\n\nTo test the solution end-to-end, you will need an rvtools Excel file, which I can provide.\n\nLink to Project\n\nYou can access the project files and code at https://replit.com/@BenKarciauskas/VMCTool.",
         "author": "BenKarciauskas",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@BenKarciauskas/gridjs-flask-event-l?t="
     },
     {
@@ -8096,7 +8096,7 @@
         "title": "[Simple] Fix some bugs on website",
         "description": "On https://solarhosting.cc/ there are a few bugs that need fixing\nThere are 2 scroll wheels\nUnderline under the order button and you have to click the text not just the button\nThe Accepted Payment Methods on hover text is broken\n\nAcceptance Criteria\nMust have discord linked to replit account or in your applications",
         "author": "OddGames",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@OddGames/simple-fix-some-bugs?t="
     },
     {
