@@ -8056,7 +8056,7 @@
         "title": "Scrape basic website",
         "description": "Hi,\n\nI would be looking to get this website scraped - https://betsniper.vercel.app/. The website is a list of basketball player odds for player props e.g. Lebron James Over Points. Essentially I would like the data to be scrapped so that each row is a different bet.\n\nThe table would be organised with the following headers (examples provided correlating to the image):\n\nGame\nPlayer\nStat\nLine\nBookmaker\nOdds (over and under)\nBelow is what the data could look like (dummy data),\nGame Player Stat Line Bookmaker Over odds Under odds\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Topsport 1.88 1.9\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 TAB 1.85 1.9\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Pointsbet 1.8 1.95\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Bet365 1.86 1.86\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Pinnacle 1.85 1.89\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 27.5 Sportsbet 1.94 1....",
         "author": "YouReachITeach4",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@YouReachITeach4/scrape-basic-website?t="
     },
     {
@@ -8076,7 +8076,7 @@
         "title": "Calculate total distance given list of latitude & longitude",
         "description": "Given a list of latitude and longitude calculate the total distance. This is difference than simple last coordinate - first coordinate, we need to calculate the walking path between each point. It's fine to do a simple distance function because locations are captured frequently.\n\nAcceptance Criteria\nCreate a Deno function as this will be running Supabase.",
         "author": "PrafulMathur",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@PrafulMathur/calculate-total-dist?t="
     },
     {
@@ -8116,7 +8116,7 @@
         "title": "Java Spring Boot Application Bug Fix for Excel Upload",
         "description": "Bug fix. CSV is not being read properly.\n\n\"By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.\"",
         "author": "mdotbaig",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/java-spring-boot-app?t="
     },
     {
@@ -8126,7 +8126,7 @@
         "title": "[2 Websites] Make a wiki template page and main page",
         "description": "I need a main page with a search and under that a few template links for articles\nI need an article page for the wiki\n(Grey Theme)\n\nAcceptance Criteria\nMust have discord linked to replit account or in your applications",
         "author": "OddGames",
-        "posted_time": "46 minutes ago",
+        "posted_time": "60 minutes ago",
         "link": "https://replit.com/bounties/@OddGames/2-websites-make-a-wi?t="
     }
 ]

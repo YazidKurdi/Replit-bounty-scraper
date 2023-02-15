@@ -6379,7 +6379,7 @@ Chicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 TAB 1.85 1.9
 Chicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Pointsbet 1.8 1.95
 Chicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Bet365 1.86 1.86
 Chicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Pinnacle 1.85 1.89
-Chicago Bulls vs Charlotte Hornets Demar Derozan Points 27.5 Sportsbet 1.94 1....",YouReachITeach4,12 hours ago,https://replit.com/bounties/@YouReachITeach4/scrape-basic-website?t=
+Chicago Bulls vs Charlotte Hornets Demar Derozan Points 27.5 Sportsbet 1.94 1....",YouReachITeach4,13 hours ago,https://replit.com/bounties/@YouReachITeach4/scrape-basic-website?t=
 806,$90.00,due in 3 days,Generate map image from list of latitude / longitude coordinates,"Given a list of latitude & longitude coordinates, generate an image of a map with all a line of the path. It'll look similar to the maps generated on Strava (https://media.wired.com/photos/5c636c078a032870a0c7467f/master/w1600,climit/Strava_SketchARoute.jpg)
 
 Acceptance Criteria
@@ -6390,7 +6390,7 @@ We're using supabase and Deno functions",PrafulMathur,9 hours ago,https://replit
 807,$45.00,due in 3 days,Calculate total distance given list of latitude & longitude,"Given a list of latitude and longitude calculate the total distance. This is difference than simple last coordinate - first coordinate, we need to calculate the walking path between each point. It's fine to do a simple distance function because locations are captured frequently.
 
 Acceptance Criteria
-Create a Deno function as this will be running Supabase.",PrafulMathur,8 hours ago,https://replit.com/bounties/@PrafulMathur/calculate-total-dist?t=
+Create a Deno function as this will be running Supabase.",PrafulMathur,9 hours ago,https://replit.com/bounties/@PrafulMathur/calculate-total-dist?t=
 808,$27.00,due in 3 days,Grid.js + Flask - Event listener that updates a dataframe when a row is checked,"The grid.js table and selector plugin are both functional, but I am facing a challenge in updating the database that populates the table. Specifically, I need help with creating an event listener that can toggle the exclude field of a row in the pandas dataframe based on whether the row is selected or not.
 
 Acceptance Criteria
@@ -6420,10 +6420,10 @@ The Scraper should inform me one week ahead(via email or fill and excell) of my 
 It's also important that the scraped is written in Node.js - so I can understand and adjust the parameters.",valentinmuller,3 hours ago,https://replit.com/bounties/@valentinmuller/bookingcom-hotel-pri?t=
 811,$20.70,closed,Java Spring Boot Application Bug Fix for Excel Upload,"Bug fix. CSV is not being read properly.
 
-""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,1 hour ago,https://replit.com/bounties/@mdotbaig/java-spring-boot-app?t=
+""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,2 hours ago,https://replit.com/bounties/@mdotbaig/java-spring-boot-app?t=
 812,$2.00,due in 12 days,[2 Websites] Make a wiki template page and main page,"I need a main page with a search and under that a few template links for articles
 I need an article page for the wiki
 (Grey Theme)
 
 Acceptance Criteria
-Must have discord linked to replit account or in your applications",OddGames,46 minutes ago,https://replit.com/bounties/@OddGames/2-websites-make-a-wi?t=
+Must have discord linked to replit account or in your applications",OddGames,60 minutes ago,https://replit.com/bounties/@OddGames/2-websites-make-a-wi?t=
