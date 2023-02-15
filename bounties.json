@@ -8098,5 +8098,15 @@
         "author": "OddGames",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@OddGames/simple-fix-some-bugs?t="
+    },
+    {
+        "index": "810",
+        "price": "$81.00",
+        "due_days": "due in 12 days",
+        "title": "Booking.com Hotel Price ranking Webscraper",
+        "description": "I need a scraper that either fills out an excel sheet or sends me an email with my current ranking on booking.com for my Hostel. Normally we adjust the pricing based on the cheapest options in our region. I prefer that we are always on the first page in the first 5.\n\nWell till now this was a manual performance of my receptionists. Search specific date, specific region and number of people(results set to Price(lowest first)). Then look for my Hostel and and try to play with pricing so I'm always a few dollars below my competition.\n\nThe Scraper should inform me one week ahead(via email or fill and excell) of my ranking and also what the prices are beneath me so I can adjust everything without needing to browse for 1 hour.\n\nIt's also important that the scraped is written in Node.js - so I can understand and adjust the parameters.",
+        "author": "valentinmuller",
+        "posted_time": "5 minutes ago",
+        "link": "https://replit.com/bounties/@valentinmuller/bookingcom-hotel-pri?t="
     }
 ]

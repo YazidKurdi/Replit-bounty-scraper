@@ -6411,3 +6411,10 @@ The Accepted Payment Methods on hover text is broken
 
 Acceptance Criteria
 Must have discord linked to replit account or in your applications",OddGames,2 hours ago,https://replit.com/bounties/@OddGames/simple-fix-some-bugs?t=
+810,$81.00,due in 12 days,Booking.com Hotel Price ranking Webscraper,"I need a scraper that either fills out an excel sheet or sends me an email with my current ranking on booking.com for my Hostel. Normally we adjust the pricing based on the cheapest options in our region. I prefer that we are always on the first page in the first 5.
+
+Well till now this was a manual performance of my receptionists. Search specific date, specific region and number of people(results set to Price(lowest first)). Then look for my Hostel and and try to play with pricing so I'm always a few dollars below my competition.
+
+The Scraper should inform me one week ahead(via email or fill and excell) of my ranking and also what the prices are beneath me so I can adjust everything without needing to browse for 1 hour.
+
+It's also important that the scraped is written in Node.js - so I can understand and adjust the parameters.",valentinmuller,5 minutes ago,https://replit.com/bounties/@valentinmuller/bookingcom-hotel-pri?t=
