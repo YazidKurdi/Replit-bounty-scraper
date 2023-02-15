@@ -6359,7 +6359,7 @@ Should use lezer instead of custom tokenization",masfrost,10 hours ago,https://r
 
 Need to be able to scrape data from other sites and fine tune for one particular type of output.
 
-Technical Details",MattSaincome,9 hours ago,https://replit.com/bounties/@MattSaincome/fine-tuning-gpt-3-fo?t=
+Technical Details",MattSaincome,10 hours ago,https://replit.com/bounties/@MattSaincome/fine-tuning-gpt-3-fo?t=
 805,$9.00,due in 4 days,Scrape basic website,"Hi,
 
 I would be looking to get this website scraped - https://betsniper.vercel.app/. The website is a list of basketball player odds for player props e.g. Lebron James Over Points. Essentially I would like the data to be scrapped so that each row is a different bet.
@@ -6386,7 +6386,7 @@ Acceptance Criteria
 Create a Deno function that can be run in Supabase given a list of coordinates generates an image and stores in Supabase storage.
 
 Technical Details
-We're using supabase and Deno functions",PrafulMathur,2 hours ago,https://replit.com/bounties/@PrafulMathur/generate-map-image-f?t=
+We're using supabase and Deno functions",PrafulMathur,3 hours ago,https://replit.com/bounties/@PrafulMathur/generate-map-image-f?t=
 807,$45.00,due in 4 days,Calculate total distance given list of latitude & longitude,"Given a list of latitude and longitude calculate the total distance. This is difference than simple last coordinate - first coordinate, we need to calculate the walking path between each point. It's fine to do a simple distance function because locations are captured frequently.
 
 Acceptance Criteria
