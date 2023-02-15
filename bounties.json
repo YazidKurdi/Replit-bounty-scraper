@@ -8006,7 +8006,7 @@
         "title": "Typescript Altium .IntLib file format parser",
         "description": "I need a parser written in typescript that can load the contents of a Altium .IntLib file and turn them into a js object with proper interfaces/types.\n\nThe code need to be able to run in a webworker and also node context. Therefore can't depend on browser objects like document and so on.\n\nAcceptance Criteria\nTake any *.IntLib file from snapeda.com (you can sign up for a free account) such as this one https://www.snapeda.com/parts/ESP32S2/Espressif%20Systems/view-part/?ref=search&t=ESP32 and parse is properly.\n\nProvide jest unit tests to prove that it works across ~20 different .intlib files from snapeda (I can provide those)\n\nTechnical Details\nThere is a a little info on how to read the binary file here\n\nhttps://hackaday.com/2014/10/15/reverse-engineering-altium-files/\nhttps://hackaday.io/project/3149-reverse-engineering-design-file-formats/details",
         "author": "MatthiasWagner3",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@MatthiasWagner3/typescript-altium-in?t="
     },
     {
@@ -8056,7 +8056,7 @@
         "title": "Scrape basic website",
         "description": "Hi,\n\nI would be looking to get this website scraped - https://betsniper.vercel.app/. The website is a list of basketball player odds for player props e.g. Lebron James Over Points. Essentially I would like the data to be scrapped so that each row is a different bet.\n\nThe table would be organised with the following headers (examples provided correlating to the image):\n\nGame\nPlayer\nStat\nLine\nBookmaker\nOdds (over and under)\nBelow is what the data could look like (dummy data),\nGame Player Stat Line Bookmaker Over odds Under odds\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Topsport 1.88 1.9\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 TAB 1.85 1.9\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Pointsbet 1.8 1.95\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Bet365 1.86 1.86\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Pinnacle 1.85 1.89\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 27.5 Sportsbet 1.94 1....",
         "author": "YouReachITeach4",
-        "posted_time": "34 minutes ago",
+        "posted_time": "51 minutes ago",
         "link": "https://replit.com/bounties/@YouReachITeach4/scrape-basic-website?t="
     }
 ]
