@@ -8046,7 +8046,7 @@
         "title": "Fine tuning GPT-3 for video game reviews",
         "description": "Hey! I run a website about video games. I want to create a specific type of video game review, but automated, and then do hundreds of them using GPT-3. So I believe I want to finetune a model to do this by pulling from several websites, which I can point you to.\n\nNeed to be able to scrape data from other sites and fine tune for one particular type of output.\n\nTechnical Details",
         "author": "MattSaincome",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@MattSaincome/fine-tuning-gpt-3-fo?t="
     },
     {
@@ -8066,7 +8066,7 @@
         "title": "Generate map image from list of latitude / longitude coordinates",
         "description": "Given a list of latitude & longitude coordinates, generate an image of a map with all a line of the path. It'll look similar to the maps generated on Strava (https://media.wired.com/photos/5c636c078a032870a0c7467f/master/w1600,climit/Strava_SketchARoute.jpg)\n\nAcceptance Criteria\nCreate a Deno function that can be run in Supabase given a list of coordinates generates an image and stores in Supabase storage.\n\nTechnical Details\nWe're using supabase and Deno functions",
         "author": "PrafulMathur",
-        "posted_time": "22 minutes ago",
+        "posted_time": "29 minutes ago",
         "link": "https://replit.com/bounties/@PrafulMathur/generate-map-image-f?t="
     },
     {
@@ -8076,7 +8076,7 @@
         "title": "Calculate total distance given list of latitude & longitude",
         "description": "Given a list of latitude and longitude calculate the total distance. This is difference than simple last coordinate - first coordinate, we need to calculate the walking path between each point. It's fine to do a simple distance function because locations are captured frequently.\n\nAcceptance Criteria\nCreate a Deno function as this will be running Supabase.",
         "author": "PrafulMathur",
-        "posted_time": "19 minutes ago",
+        "posted_time": "26 minutes ago",
         "link": "https://replit.com/bounties/@PrafulMathur/calculate-total-dist?t="
     }
 ]
