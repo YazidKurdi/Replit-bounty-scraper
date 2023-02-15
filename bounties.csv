@@ -6302,13 +6302,13 @@ Support for multiple concurrent commands and bot replied.
 Easy to use UI/UX for users to input hashtags and auto-response keywords.
 Authentication with Instagram/Twitter API to access user accounts and retrieve comments on posts.
 Secure handling of user authentication credentials and hashtag/auto-response keywords.
-Appropriate handling of posts containing multiple hashtags to avoid spamming the comment s...",TomHumber,16 hours ago,https://replit.com/bounties/@TomHumber/instagram-and-twitte?t=
+Appropriate handling of posts containing multiple hashtags to avoid spamming the comment s...",TomHumber,17 hours ago,https://replit.com/bounties/@TomHumber/instagram-and-twitte?t=
 799,$540.00,due in 11 days,LLM-based English language tutor,"To build a web app that provides an MVP, voice-based, 1-to-1 English Language tutor service (similar to https://www.britishcouncil.org/english/learn-online/englishscore-tutors) using a LLM-powered virtual tutor. The service is for English language learners looking to improve their spoken English.
 At the next stage the tutor will be a Synthesia -style AI-generated person presenting thought video, but for the MPV, to reduce API costs, lag, etc. it should be voice only.
 The lesson interface should look and feel like a Zoom / Teams / Meet style video call (with cameras off both ends - so audio only).
 The student should interact by speaking to the tutor through the device microphone.
 There should be a captions toggle, allowing the text of what the tutor and student are saying to be displayed.
-The tutor should lead the conversation, using language that is appropriate to the English language skill level of the student (see below), it should explain language concepts that ...",DanCobley,12 hours ago,https://replit.com/bounties/@DanCobley/llm-based-english-la?t=
+The tutor should lead the conversation, using language that is appropriate to the English language skill level of the student (see below), it should explain language concepts that ...",DanCobley,13 hours ago,https://replit.com/bounties/@DanCobley/llm-based-english-la?t=
 800,$450.00,due in 7 days,Typescript Altium .IntLib file format parser,"I need a parser written in typescript that can load the contents of a Altium .IntLib file and turn them into a js object with proper interfaces/types.
 
 The code need to be able to run in a webworker and also node context. Therefore can't depend on browser objects like document and so on.
@@ -6341,7 +6341,7 @@ We do not want this version of the library because it requires installation of J
 
 This new JavaScript/TypeScript version of Boilerpipe should not use Java in any way. It should be able to be run in a NodeJS application without having Java installed.
 
-Accept...",RossHartmann1,3 hours ago,https://replit.com/bounties/@RossHartmann1/convert-boilerpipe-j?t=
+Accept...",RossHartmann1,4 hours ago,https://replit.com/bounties/@RossHartmann1/convert-boilerpipe-j?t=
 803,$162.00,due in 25 days,Hoon CodeMirror grammar and language mode,"Project Description
 
 Hoon is a programming language used in the Urbit operating system. You can find the grammar specification for Hoon in the official Hoon documentation. You can use the Hoon mode for Emacs and the Vim package for reference: hoon-mode.el and hoon.vim.
