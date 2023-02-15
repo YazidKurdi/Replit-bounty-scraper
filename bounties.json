@@ -8066,7 +8066,7 @@
         "title": "Generate map image from list of latitude / longitude coordinates",
         "description": "Given a list of latitude & longitude coordinates, generate an image of a map with all a line of the path. It'll look similar to the maps generated on Strava (https://media.wired.com/photos/5c636c078a032870a0c7467f/master/w1600,climit/Strava_SketchARoute.jpg)\n\nAcceptance Criteria\nCreate a Deno function that can be run in Supabase given a list of coordinates generates an image and stores in Supabase storage.\n\nTechnical Details\nWe're using supabase and Deno functions",
         "author": "PrafulMathur",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@PrafulMathur/generate-map-image-f?t="
     },
     {
@@ -8076,7 +8076,7 @@
         "title": "Calculate total distance given list of latitude & longitude",
         "description": "Given a list of latitude and longitude calculate the total distance. This is difference than simple last coordinate - first coordinate, we need to calculate the walking path between each point. It's fine to do a simple distance function because locations are captured frequently.\n\nAcceptance Criteria\nCreate a Deno function as this will be running Supabase.",
         "author": "PrafulMathur",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@PrafulMathur/calculate-total-dist?t="
     },
     {
@@ -8116,7 +8116,7 @@
         "title": "Java Spring Boot Application Bug Fix for Excel Upload",
         "description": "Bug fix. CSV is not being read properly.\n\n\"By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.\"",
         "author": "mdotbaig",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/java-spring-boot-app?t="
     },
     {
@@ -8136,7 +8136,7 @@
         "title": "full discord bot not coppied",
         "description": "i need someone to make me a discord bot with warns warn logs and server list command admin commands and it should have basic moderation functions the code should be easily readable and editable if i like your work i will pay more cycles than just the 90 I will CHECK FOR IT BEING COPPIED AND IF IT IS YOU WILL NOT BE PAID AND YOU WILL BE REMOVED FROM THE BOUNTY",
         "author": "newunblocker",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@newunblocker/full-discord-bot-not?t="
     },
     {
@@ -8148,5 +8148,15 @@
         "author": "gavlawson",
         "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@gavlawson/automated-carbon-pri?t="
+    },
+    {
+        "index": "815",
+        "price": "$1.80",
+        "due_days": "due in 15 days",
+        "title": "Gift Recommender App",
+        "description": "Objective: Develop a gift recommender web app that will allow users to get gift options based on text inputs around recipient, event, budget, etc and map the shortlisted gift options to available products.\n\nRequirements:\nAsk users to input some basic parameters such as event, relationship with recipient, budget, likes/dislikes of recipient using a natural language text input e.g. What gifts can I give to my friend on his 40th birthday, he likes outdoor and is a big basketball fan.\nProvide recommendations based on user inputs.\nAllow for continuous conversations with users to optimize the answers in the recommender as well as personalize it.\nAllow the user to shortlist some of the recommendations provided\nOnce all the recommendations are shortlisted, given an option to see gifts matching available products in our inventory. Model will need to be trained on available products which can be pulled via an API.",
+        "author": "vickwiz",
+        "posted_time": "4 minutes ago",
+        "link": "https://replit.com/bounties/@vickwiz/gift-recommender-app?t="
     }
 ]

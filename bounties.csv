@@ -6386,11 +6386,11 @@ Acceptance Criteria
 Create a Deno function that can be run in Supabase given a list of coordinates generates an image and stores in Supabase storage.
 
 Technical Details
-We're using supabase and Deno functions",PrafulMathur,11 hours ago,https://replit.com/bounties/@PrafulMathur/generate-map-image-f?t=
+We're using supabase and Deno functions",PrafulMathur,12 hours ago,https://replit.com/bounties/@PrafulMathur/generate-map-image-f?t=
 807,$45.00,due in 3 days,Calculate total distance given list of latitude & longitude,"Given a list of latitude and longitude calculate the total distance. This is difference than simple last coordinate - first coordinate, we need to calculate the walking path between each point. It's fine to do a simple distance function because locations are captured frequently.
 
 Acceptance Criteria
-Create a Deno function as this will be running Supabase.",PrafulMathur,11 hours ago,https://replit.com/bounties/@PrafulMathur/calculate-total-dist?t=
+Create a Deno function as this will be running Supabase.",PrafulMathur,12 hours ago,https://replit.com/bounties/@PrafulMathur/calculate-total-dist?t=
 808,$27.00,due in 3 days,Grid.js + Flask - Event listener that updates a dataframe when a row is checked,"The grid.js table and selector plugin are both functional, but I am facing a challenge in updating the database that populates the table. Specifically, I need help with creating an event listener that can toggle the exclude field of a row in the pandas dataframe based on whether the row is selected or not.
 
 Acceptance Criteria
@@ -6420,14 +6420,14 @@ The Scraper should inform me one week ahead(via email or fill and excell) of my 
 It's also important that the scraped is written in Node.js - so I can understand and adjust the parameters.",valentinmuller,6 hours ago,https://replit.com/bounties/@valentinmuller/bookingcom-hotel-pri?t=
 811,$20.70,closed,Java Spring Boot Application Bug Fix for Excel Upload,"Bug fix. CSV is not being read properly.
 
-""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,4 hours ago,https://replit.com/bounties/@mdotbaig/java-spring-boot-app?t=
+""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,5 hours ago,https://replit.com/bounties/@mdotbaig/java-spring-boot-app?t=
 812,$2.00,due in 12 days,[2 Websites] Make a wiki template page and main page,"I need a main page with a search and under that a few template links for articles
 I need an article page for the wiki
 (Grey Theme)
 
 Acceptance Criteria
 Must have discord linked to replit account or in your applications",OddGames,4 hours ago,https://replit.com/bounties/@OddGames/2-websites-make-a-wi?t=
-813,$0.90,due in 2 months,full discord bot not coppied,i need someone to make me a discord bot with warns warn logs and server list command admin commands and it should have basic moderation functions the code should be easily readable and editable if i like your work i will pay more cycles than just the 90 I will CHECK FOR IT BEING COPPIED AND IF IT IS YOU WILL NOT BE PAID AND YOU WILL BE REMOVED FROM THE BOUNTY,newunblocker,2 hours ago,https://replit.com/bounties/@newunblocker/full-discord-bot-not?t=
+813,$0.90,due in 2 months,full discord bot not coppied,i need someone to make me a discord bot with warns warn logs and server list command admin commands and it should have basic moderation functions the code should be easily readable and editable if i like your work i will pay more cycles than just the 90 I will CHECK FOR IT BEING COPPIED AND IF IT IS YOU WILL NOT BE PAID AND YOU WILL BE REMOVED FROM THE BOUNTY,newunblocker,3 hours ago,https://replit.com/bounties/@newunblocker/full-discord-bot-not?t=
 814,$27.00,due in 23 days,Automated Carbon Price Index,"•	Voluntary carbon markets consist of multiple methodologies and project types
 •	This means that a 1 ton carbon credit can trade between $5 and $1,000 depending on the type of project, methodology and location.
 •	This makes pricing of voluntary carbon credits extremely difficult for sellers and buyers - leading to market inefficiencies and slowing down the financing of carbon removal technologies
@@ -6439,3 +6439,11 @@ Acceptance Criteria
 o	https://puro.earth/CORC-co2-removal-certificate/
 o	https://platform.carbonfuture.earth/balancer/portfolios
 o	https://netzero.salesforce.com/s/category/all-project-types/0ZGEZ000000008H4...",gavlawson,1 hour ago,https://replit.com/bounties/@gavlawson/automated-carbon-pri?t=
+815,$1.80,due in 15 days,Gift Recommender App,"Objective: Develop a gift recommender web app that will allow users to get gift options based on text inputs around recipient, event, budget, etc and map the shortlisted gift options to available products.
+
+Requirements:
+Ask users to input some basic parameters such as event, relationship with recipient, budget, likes/dislikes of recipient using a natural language text input e.g. What gifts can I give to my friend on his 40th birthday, he likes outdoor and is a big basketball fan.
+Provide recommendations based on user inputs.
+Allow for continuous conversations with users to optimize the answers in the recommender as well as personalize it.
+Allow the user to shortlist some of the recommendations provided
+Once all the recommendations are shortlisted, given an option to see gifts matching available products in our inventory. Model will need to be trained on available products which can be pulled via an API.",vickwiz,4 minutes ago,https://replit.com/bounties/@vickwiz/gift-recommender-app?t=
