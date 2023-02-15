@@ -7986,7 +7986,7 @@
         "title": "Instagram & Twitter Bot for my Business Account",
         "description": "The project aims to create Instagram & Twitter auto-responder bots for business accounts that can auto-respond to comments on posts containing specified hashtags. The solution must allow for multiple commands and bot replied to be running concurrently. The solution must provide an easy to ease UI/UX for the user to input the hashtag and auto-response keywords. The bounty proposal must include any information pertinent to the awarding of the monies.\n\nKey Features:\nContinuous monitoring of specified hashtags and automatic response to comments on Instagram posts containing those hashtags.\nSupport for multiple concurrent commands and bot replied.\nEasy to use UI/UX for users to input hashtags and auto-response keywords.\nAuthentication with Instagram/Twitter API to access user accounts and retrieve comments on posts.\nSecure handling of user authentication credentials and hashtag/auto-response keywords.\nAppropriate handling of posts containing multiple hashtags to avoid spamming the comment s...",
         "author": "TomHumber",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@TomHumber/instagram-and-twitte?t="
     },
     {
@@ -7996,7 +7996,7 @@
         "title": "LLM-based English language tutor",
         "description": "To build a web app that provides an MVP, voice-based, 1-to-1 English Language tutor service (similar to https://www.britishcouncil.org/english/learn-online/englishscore-tutors) using a LLM-powered virtual tutor. The service is for English language learners looking to improve their spoken English.\nAt the next stage the tutor will be a Synthesia -style AI-generated person presenting thought video, but for the MPV, to reduce API costs, lag, etc. it should be voice only.\nThe lesson interface should look and feel like a Zoom / Teams / Meet style video call (with cameras off both ends - so audio only).\nThe student should interact by speaking to the tutor through the device microphone.\nThere should be a captions toggle, allowing the text of what the tutor and student are saying to be displayed.\nThe tutor should lead the conversation, using language that is appropriate to the English language skill level of the student (see below), it should explain language concepts that ...",
         "author": "DanCobley",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@DanCobley/llm-based-english-la?t="
     },
     {
@@ -8026,7 +8026,7 @@
         "title": "Convert Boilerpipe Java library to JavaScript/TypeScript (for use in NodeJS)",
         "description": "Google Boilerpipe library is currently a Java library\nhttps://code.google.com/archive/p/boilerpipe/\nDescription of the library: \"The boilerpipe library provides algorithms to detect and remove the surplus \"clutter\" (boilerplate, templates) around the main textual content of a web page.\"\n\nWe need this Boilerpipe library converted from Java to a JavaScript/TypeScript library so that it can be used within a NodeJS application as an imported node module.\n\nNOTE: There already exists a JavaScript version of Boilerpipe but it's simply a wrapper around the Java version of Boilerpipe and requires installation of Java to use. https://www.npmjs.com/package/boilerpipe\nWe do not want this version of the library because it requires installation of Java. You can use this library for syntax ideas, of course.\n\nThis new JavaScript/TypeScript version of Boilerpipe should not use Java in any way. It should be able to be run in a NodeJS application without having Java installed.\n\nAccept...",
         "author": "RossHartmann1",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@RossHartmann1/convert-boilerpipe-j?t="
     },
     {
@@ -8056,7 +8056,7 @@
         "title": "Scrape basic website",
         "description": "Hi,\n\nI would be looking to get this website scraped - https://betsniper.vercel.app/. The website is a list of basketball player odds for player props e.g. Lebron James Over Points. Essentially I would like the data to be scrapped so that each row is a different bet.\n\nThe table would be organised with the following headers (examples provided correlating to the image):\n\nGame\nPlayer\nStat\nLine\nBookmaker\nOdds (over and under)\nBelow is what the data could look like (dummy data),\nGame Player Stat Line Bookmaker Over odds Under odds\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Topsport 1.88 1.9\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 TAB 1.85 1.9\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Pointsbet 1.8 1.95\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Bet365 1.86 1.86\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Pinnacle 1.85 1.89\nChicago Bulls vs Charlotte Hornets Demar Derozan Points 27.5 Sportsbet 1.94 1....",
         "author": "YouReachITeach4",
-        "posted_time": "18 minutes ago",
+        "posted_time": "34 minutes ago",
         "link": "https://replit.com/bounties/@YouReachITeach4/scrape-basic-website?t="
     }
 ]
