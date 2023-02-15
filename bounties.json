@@ -8046,7 +8046,7 @@
         "title": "Fine tuning GPT-3 for video game reviews",
         "description": "Hey! I run a website about video games. I want to create a specific type of video game review, but automated, and then do hundreds of them using GPT-3. So I believe I want to finetune a model to do this by pulling from several websites, which I can point you to.\n\nNeed to be able to scrape data from other sites and fine tune for one particular type of output.\n\nTechnical Details",
         "author": "MattSaincome",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@MattSaincome/fine-tuning-gpt-3-fo?t="
     },
     {
@@ -8066,7 +8066,7 @@
         "title": "Generate map image from list of latitude / longitude coordinates",
         "description": "Given a list of latitude & longitude coordinates, generate an image of a map with all a line of the path. It'll look similar to the maps generated on Strava (https://media.wired.com/photos/5c636c078a032870a0c7467f/master/w1600,climit/Strava_SketchARoute.jpg)\n\nAcceptance Criteria\nCreate a Deno function that can be run in Supabase given a list of coordinates generates an image and stores in Supabase storage.\n\nTechnical Details\nWe're using supabase and Deno functions",
         "author": "PrafulMathur",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@PrafulMathur/generate-map-image-f?t="
     },
     {
@@ -8106,7 +8106,7 @@
         "title": "Booking.com Hotel Price ranking Webscraper",
         "description": "I need a scraper that either fills out an excel sheet or sends me an email with my current ranking on booking.com for my Hostel. Normally we adjust the pricing based on the cheapest options in our region. I prefer that we are always on the first page in the first 5.\n\nWell till now this was a manual performance of my receptionists. Search specific date, specific region and number of people(results set to Price(lowest first)). Then look for my Hostel and and try to play with pricing so I'm always a few dollars below my competition.\n\nThe Scraper should inform me one week ahead(via email or fill and excell) of my ranking and also what the prices are beneath me so I can adjust everything without needing to browse for 1 hour.\n\nIt's also important that the scraped is written in Node.js - so I can understand and adjust the parameters.",
         "author": "valentinmuller",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@valentinmuller/bookingcom-hotel-pri?t="
     },
     {
@@ -8126,7 +8126,7 @@
         "title": "[2 Websites] Make a wiki template page and main page",
         "description": "I need a main page with a search and under that a few template links for articles\nI need an article page for the wiki\n(Grey Theme)\n\nAcceptance Criteria\nMust have discord linked to replit account or in your applications",
         "author": "OddGames",
-        "posted_time": "32 minutes ago",
+        "posted_time": "46 minutes ago",
         "link": "https://replit.com/bounties/@OddGames/2-websites-make-a-wi?t="
     }
 ]
