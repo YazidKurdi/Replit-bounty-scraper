@@ -6438,12 +6438,12 @@ Acceptance Criteria
 •	Carbon credit pricing data to be automatically extracted from open data sources. Links to websites:
 o	https://puro.earth/CORC-co2-removal-certificate/
 o	https://platform.carbonfuture.earth/balancer/portfolios
-o	https://netzero.salesforce.com/s/category/all-project-types/0ZGEZ000000008H4...",gavlawson,1 hour ago,https://replit.com/bounties/@gavlawson/automated-carbon-pri?t=
-815,$1.80,due in 15 days,Gift Recommender App,"Objective: Develop a gift recommender web app that will allow users to get gift options based on text inputs around recipient, event, budget, etc and map the shortlisted gift options to available products.
+o	https://netzero.salesforce.com/s/category/all-project-types/0ZGEZ000000008H4...",gavlawson,2 hours ago,https://replit.com/bounties/@gavlawson/automated-carbon-pri?t=
+815,$1.80,due in 14 days,Gift Recommender App,"Objective: Develop a gift recommender web app that will allow users to get gift options based on text inputs around recipient, event, budget, etc and map the shortlisted gift options to available products.
 
 Requirements:
 Ask users to input some basic parameters such as event, relationship with recipient, budget, likes/dislikes of recipient using a natural language text input e.g. What gifts can I give to my friend on his 40th birthday, he likes outdoor and is a big basketball fan.
 Provide recommendations based on user inputs.
 Allow for continuous conversations with users to optimize the answers in the recommender as well as personalize it.
 Allow the user to shortlist some of the recommendations provided
-Once all the recommendations are shortlisted, given an option to see gifts matching available products in our inventory. Model will need to be trained on available products which can be pulled via an API.",vickwiz,4 minutes ago,https://replit.com/bounties/@vickwiz/gift-recommender-app?t=
+Once all the recommendations are shortlisted, given an option to see gifts matching available products in our inventory. Model will need to be trained on available products which can be pulled via an API.",vickwiz,21 minutes ago,https://replit.com/bounties/@vickwiz/gift-recommender-app?t=
