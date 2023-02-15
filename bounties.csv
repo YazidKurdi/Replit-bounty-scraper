@@ -6329,7 +6329,7 @@ Problem Description
 IddSampleDriver allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in C++ utilizing Windows APIs. It is also made to be a driver. I would like to convert this to Python and make it a normal program, not a driver. I just need the core functionality - I don't need the fancy wrapper functions which make the program user-friendly to be translated. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
-I should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Pyth...",EpicCodeWizard2,14 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-6?t=
+I should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Pyth...",EpicCodeWizard2,15 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-6?t=
 802,$50.00,due in 14 days,Convert Boilerpipe Java library to JavaScript/TypeScript (for use in NodeJS),"Google Boilerpipe library is currently a Java library
 https://code.google.com/archive/p/boilerpipe/
 Description of the library: ""The boilerpipe library provides algorithms to detect and remove the surplus ""clutter"" (boilerplate, templates) around the main textual content of a web page.""
@@ -6386,8 +6386,8 @@ Acceptance Criteria
 Create a Deno function that can be run in Supabase given a list of coordinates generates an image and stores in Supabase storage.
 
 Technical Details
-We're using supabase and Deno functions",PrafulMathur,10 minutes ago,https://replit.com/bounties/@PrafulMathur/generate-map-image-f?t=
+We're using supabase and Deno functions",PrafulMathur,22 minutes ago,https://replit.com/bounties/@PrafulMathur/generate-map-image-f?t=
 807,$45.00,due in 4 days,Calculate total distance given list of latitude & longitude,"Given a list of latitude and longitude calculate the total distance. This is difference than simple last coordinate - first coordinate, we need to calculate the walking path between each point. It's fine to do a simple distance function because locations are captured frequently.
 
 Acceptance Criteria
-Create a Deno function as this will be running Supabase.",PrafulMathur,7 minutes ago,https://replit.com/bounties/@PrafulMathur/calculate-total-dist?t=
+Create a Deno function as this will be running Supabase.",PrafulMathur,19 minutes ago,https://replit.com/bounties/@PrafulMathur/calculate-total-dist?t=
