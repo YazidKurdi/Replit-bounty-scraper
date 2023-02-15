@@ -6309,7 +6309,7 @@ The lesson interface should look and feel like a Zoom / Teams / Meet style video
 The student should interact by speaking to the tutor through the device microphone.
 There should be a captions toggle, allowing the text of what the tutor and student are saying to be displayed.
 The tutor should lead the conversation, using language that is appropriate to the English language skill level of the student (see below), it should explain language concepts that ...",DanCobley,21 hours ago,https://replit.com/bounties/@DanCobley/llm-based-english-la?t=
-800,$450.00,due in 7 days,Typescript Altium .IntLib file format parser,"I need a parser written in typescript that can load the contents of a Altium .IntLib file and turn them into a js object with proper interfaces/types.
+800,$450.00,due in 6 days,Typescript Altium .IntLib file format parser,"I need a parser written in typescript that can load the contents of a Altium .IntLib file and turn them into a js object with proper interfaces/types.
 
 The code need to be able to run in a webworker and also node context. Therefore can't depend on browser objects like document and so on.
 
@@ -6323,14 +6323,14 @@ There is a a little info on how to read the binary file here
 
 https://hackaday.com/2014/10/15/reverse-engineering-altium-files/
 https://hackaday.io/project/3149-reverse-engineering-design-file-formats/details",MatthiasWagner3,18 hours ago,https://replit.com/bounties/@MatthiasWagner3/typescript-altium-in?t=
-801,$65.00,due in 10 days,[TRANSLATION] Convert C++ Code Utilizing Various Windows APIs to Python,"tl;dr I have around 400 lines of C++ code that need to be converted into Python. It uses some Windows APIs to work. Repo Link: https://github.com/roshkins/IddSampleDriver. Please include previous bounty work and experience with Windows APIs. I will tip up extra for fast work!
+801,$65.00,due in 9 days,[TRANSLATION] Convert C++ Code Utilizing Various Windows APIs to Python,"tl;dr I have around 400 lines of C++ code that need to be converted into Python. It uses some Windows APIs to work. Repo Link: https://github.com/roshkins/IddSampleDriver. Please include previous bounty work and experience with Windows APIs. I will tip up extra for fast work!
 
 Problem Description
 IddSampleDriver allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in C++ utilizing Windows APIs. It is also made to be a driver. I would like to convert this to Python and make it a normal program, not a driver. I just need the core functionality - I don't need the fancy wrapper functions which make the program user-friendly to be translated. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
 I should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Pyth...",EpicCodeWizard2,18 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-6?t=
-802,$50.00,due in 14 days,Convert Boilerpipe Java library to JavaScript/TypeScript (for use in NodeJS),"Google Boilerpipe library is currently a Java library
+802,$50.00,due in 13 days,Convert Boilerpipe Java library to JavaScript/TypeScript (for use in NodeJS),"Google Boilerpipe library is currently a Java library
 https://code.google.com/archive/p/boilerpipe/
 Description of the library: ""The boilerpipe library provides algorithms to detect and remove the surplus ""clutter"" (boilerplate, templates) around the main textual content of a web page.""
 
@@ -6341,8 +6341,8 @@ We do not want this version of the library because it requires installation of J
 
 This new JavaScript/TypeScript version of Boilerpipe should not use Java in any way. It should be able to be run in a NodeJS application without having Java installed.
 
-Accept...",RossHartmann1,12 hours ago,https://replit.com/bounties/@RossHartmann1/convert-boilerpipe-j?t=
-803,$162.00,due in 25 days,Hoon CodeMirror grammar and language mode,"Project Description
+Accept...",RossHartmann1,13 hours ago,https://replit.com/bounties/@RossHartmann1/convert-boilerpipe-j?t=
+803,$162.00,due in 24 days,Hoon CodeMirror grammar and language mode,"Project Description
 
 Hoon is a programming language used in the Urbit operating system. You can find the grammar specification for Hoon in the official Hoon documentation. You can use the Hoon mode for Emacs and the Vim package for reference: hoon-mode.el and hoon.vim.
 
@@ -6355,12 +6355,12 @@ Acceptance Criteria
 Syntax highlighting should match the modes for Hoon in the Emacs and Vim packages
 Folding ranges should be added to improve code folding
 Should use lezer instead of custom tokenization",masfrost,11 hours ago,https://replit.com/bounties/@masfrost/hoon-codemirror-gram?t=
-804,$180.00,due in 9 days,Fine tuning GPT-3 for video game reviews,"Hey! I run a website about video games. I want to create a specific type of video game review, but automated, and then do hundreds of them using GPT-3. So I believe I want to finetune a model to do this by pulling from several websites, which I can point you to.
+804,$180.00,due in 8 days,Fine tuning GPT-3 for video game reviews,"Hey! I run a website about video games. I want to create a specific type of video game review, but automated, and then do hundreds of them using GPT-3. So I believe I want to finetune a model to do this by pulling from several websites, which I can point you to.
 
 Need to be able to scrape data from other sites and fine tune for one particular type of output.
 
 Technical Details",MattSaincome,11 hours ago,https://replit.com/bounties/@MattSaincome/fine-tuning-gpt-3-fo?t=
-805,$9.00,due in 4 days,Scrape basic website,"Hi,
+805,$9.00,due in 3 days,Scrape basic website,"Hi,
 
 I would be looking to get this website scraped - https://betsniper.vercel.app/. The website is a list of basketball player odds for player props e.g. Lebron James Over Points. Essentially I would like the data to be scrapped so that each row is a different bet.
 
@@ -6379,19 +6379,19 @@ Chicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 TAB 1.85 1.9
 Chicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Pointsbet 1.8 1.95
 Chicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Bet365 1.86 1.86
 Chicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Pinnacle 1.85 1.89
-Chicago Bulls vs Charlotte Hornets Demar Derozan Points 27.5 Sportsbet 1.94 1....",YouReachITeach4,7 hours ago,https://replit.com/bounties/@YouReachITeach4/scrape-basic-website?t=
-806,$90.00,due in 4 days,Generate map image from list of latitude / longitude coordinates,"Given a list of latitude & longitude coordinates, generate an image of a map with all a line of the path. It'll look similar to the maps generated on Strava (https://media.wired.com/photos/5c636c078a032870a0c7467f/master/w1600,climit/Strava_SketchARoute.jpg)
+Chicago Bulls vs Charlotte Hornets Demar Derozan Points 27.5 Sportsbet 1.94 1....",YouReachITeach4,8 hours ago,https://replit.com/bounties/@YouReachITeach4/scrape-basic-website?t=
+806,$90.00,due in 3 days,Generate map image from list of latitude / longitude coordinates,"Given a list of latitude & longitude coordinates, generate an image of a map with all a line of the path. It'll look similar to the maps generated on Strava (https://media.wired.com/photos/5c636c078a032870a0c7467f/master/w1600,climit/Strava_SketchARoute.jpg)
 
 Acceptance Criteria
 Create a Deno function that can be run in Supabase given a list of coordinates generates an image and stores in Supabase storage.
 
 Technical Details
-We're using supabase and Deno functions",PrafulMathur,3 hours ago,https://replit.com/bounties/@PrafulMathur/generate-map-image-f?t=
-807,$45.00,due in 4 days,Calculate total distance given list of latitude & longitude,"Given a list of latitude and longitude calculate the total distance. This is difference than simple last coordinate - first coordinate, we need to calculate the walking path between each point. It's fine to do a simple distance function because locations are captured frequently.
+We're using supabase and Deno functions",PrafulMathur,4 hours ago,https://replit.com/bounties/@PrafulMathur/generate-map-image-f?t=
+807,$45.00,due in 3 days,Calculate total distance given list of latitude & longitude,"Given a list of latitude and longitude calculate the total distance. This is difference than simple last coordinate - first coordinate, we need to calculate the walking path between each point. It's fine to do a simple distance function because locations are captured frequently.
 
 Acceptance Criteria
-Create a Deno function as this will be running Supabase.",PrafulMathur,3 hours ago,https://replit.com/bounties/@PrafulMathur/calculate-total-dist?t=
-808,$27.00,due in 4 days,Grid.js + Flask - Event listener that updates a dataframe when a row is checked,"The grid.js table and selector plugin are both functional, but I am facing a challenge in updating the database that populates the table. Specifically, I need help with creating an event listener that can toggle the exclude field of a row in the pandas dataframe based on whether the row is selected or not.
+Create a Deno function as this will be running Supabase.",PrafulMathur,4 hours ago,https://replit.com/bounties/@PrafulMathur/calculate-total-dist?t=
+808,$27.00,due in 3 days,Grid.js + Flask - Event listener that updates a dataframe when a row is checked,"The grid.js table and selector plugin are both functional, but I am facing a challenge in updating the database that populates the table. Specifically, I need help with creating an event listener that can toggle the exclude field of a row in the pandas dataframe based on whether the row is selected or not.
 
 Acceptance Criteria
 
@@ -6404,3 +6404,10 @@ To test the solution end-to-end, you will need an rvtools Excel file, which I ca
 Link to Project
 
 You can access the project files and code at https://replit.com/@BenKarciauskas/VMCTool.",BenKarciauskas,3 hours ago,https://replit.com/bounties/@BenKarciauskas/gridjs-flask-event-l?t=
+809,$1.50,due in 13 days,[Simple] Fix some bugs on website,"On https://solarhosting.cc/ there are a few bugs that need fixing
+There are 2 scroll wheels
+Underline under the order button and you have to click the text not just the button
+The Accepted Payment Methods on hover text is broken
+
+Acceptance Criteria
+Must have discord linked to replit account or in your applications",OddGames,19 minutes ago,https://replit.com/bounties/@OddGames/simple-fix-some-bugs?t=
