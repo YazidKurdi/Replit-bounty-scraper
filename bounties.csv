@@ -6417,7 +6417,7 @@ Well till now this was a manual performance of my receptionists. Search specific
 
 The Scraper should inform me one week ahead(via email or fill and excell) of my ranking and also what the prices are beneath me so I can adjust everything without needing to browse for 1 hour.
 
-It's also important that the scraped is written in Node.js - so I can understand and adjust the parameters.",valentinmuller,7 hours ago,https://replit.com/bounties/@valentinmuller/bookingcom-hotel-pri?t=
+It's also important that the scraped is written in Node.js - so I can understand and adjust the parameters.",valentinmuller,8 hours ago,https://replit.com/bounties/@valentinmuller/bookingcom-hotel-pri?t=
 811,$20.70,closed,Java Spring Boot Application Bug Fix for Excel Upload,"Bug fix. CSV is not being read properly.
 
 ""By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.""",mdotbaig,6 hours ago,https://replit.com/bounties/@mdotbaig/java-spring-boot-app?t=
@@ -6464,7 +6464,7 @@ Acceptance Criteria
 working Gradio app with features as described
 simple logging feature using Supabase
 
-I have a technical background and really enjoy working with smart and talented developers - looking forward ...",tomwalchakAI,20 minutes ago,https://replit.com/bounties/@tomwalchakAI/simple-gradio-app-to?t=
+I have a technical background and really enjoy working with smart and talented developers - looking forward ...",tomwalchakAI,30 minutes ago,https://replit.com/bounties/@tomwalchakAI/simple-gradio-app-to?t=
 817,$180.00,due in 3 days,Sveltekit with Auth0 properly configured,"There is no supported library for auth0 and sveltekit. Implementations we've tried have not allowed for a working load function. Our application will call an external api for data and needs to be able to pass along the bearer token to the api.
 
 Acceptance Criteria
@@ -6472,4 +6472,4 @@ A new sveltekit app, with the ability to log in to auth0, and be able to pass a 
 
 Technical Details
 Our examples have tried using an SPA version of auth0 and subscribing to stores for the ability to call the remote servers, but the subscribing to a store seems to cause issues with the load function ever refreshing. We think the right approach is something more in the next.js direct. We have an example library here, but we haven't gotten this to work either. https://github.com/rmunn/sveltekit-auth0-unofficial
-Link to Project",SteveMartocci,9 minutes ago,https://replit.com/bounties/@SteveMartocci/sveltekit-with-auth0?t=
+Link to Project",SteveMartocci,19 minutes ago,https://replit.com/bounties/@SteveMartocci/sveltekit-with-auth0?t=

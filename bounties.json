@@ -8106,7 +8106,7 @@
         "title": "Booking.com Hotel Price ranking Webscraper",
         "description": "I need a scraper that either fills out an excel sheet or sends me an email with my current ranking on booking.com for my Hostel. Normally we adjust the pricing based on the cheapest options in our region. I prefer that we are always on the first page in the first 5.\n\nWell till now this was a manual performance of my receptionists. Search specific date, specific region and number of people(results set to Price(lowest first)). Then look for my Hostel and and try to play with pricing so I'm always a few dollars below my competition.\n\nThe Scraper should inform me one week ahead(via email or fill and excell) of my ranking and also what the prices are beneath me so I can adjust everything without needing to browse for 1 hour.\n\nIt's also important that the scraped is written in Node.js - so I can understand and adjust the parameters.",
         "author": "valentinmuller",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@valentinmuller/bookingcom-hotel-pri?t="
     },
     {
@@ -8166,7 +8166,7 @@
         "title": "Simple Gradio app to classify text with GPT-3",
         "description": "Background\nI am an experienced AI product manager and I am looking for skilled developers to work with on future projects. This is a simple end-to-end test project which will hopefully help me find someone I like working with.\n\nProblem Description\nI would like to build a simple Gradio app that uses GPT-3 to do the following:\nUser enters a text message (there is an option to pick a random message from the Emotion dataset: https://huggingface.co/datasets/emotion)\nGPT-3 generates a label \"kind\" or \"unkind\"\nIf the message is labelled \"unkind\", GPT-3 generates an explanation why\nUser can also modify the GPT-3 prompts\nEvery user message, prompt and GPT-3 response is saved to a Supabase table\n\nHere is a visual mock-up (pass: replit) https://whimsical.com/kind-SQ4RgG9k1po6N6MFmv8KRu\n\nAcceptance Criteria\nworking Gradio app with features as described\nsimple logging feature using Supabase\n\nI have a technical background and really enjoy working with smart and talented developers - looking forward ...",
         "author": "tomwalchakAI",
-        "posted_time": "20 minutes ago",
+        "posted_time": "30 minutes ago",
         "link": "https://replit.com/bounties/@tomwalchakAI/simple-gradio-app-to?t="
     },
     {
@@ -8176,7 +8176,7 @@
         "title": "Sveltekit with Auth0 properly configured",
         "description": "There is no supported library for auth0 and sveltekit. Implementations we've tried have not allowed for a working load function. Our application will call an external api for data and needs to be able to pass along the bearer token to the api.\n\nAcceptance Criteria\nA new sveltekit app, with the ability to log in to auth0, and be able to pass a valid bearer token to an api endpoint in a load function of a page.\n\nTechnical Details\nOur examples have tried using an SPA version of auth0 and subscribing to stores for the ability to call the remote servers, but the subscribing to a store seems to cause issues with the load function ever refreshing. We think the right approach is something more in the next.js direct. We have an example library here, but we haven't gotten this to work either. https://github.com/rmunn/sveltekit-auth0-unofficial\nLink to Project",
         "author": "SteveMartocci",
-        "posted_time": "9 minutes ago",
+        "posted_time": "19 minutes ago",
         "link": "https://replit.com/bounties/@SteveMartocci/sveltekit-with-auth0?t="
     }
 ]
