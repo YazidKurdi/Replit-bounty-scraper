@@ -6322,7 +6322,7 @@ Technical Details
 There is a a little info on how to read the binary file here
 
 https://hackaday.com/2014/10/15/reverse-engineering-altium-files/
-https://hackaday.io/project/3149-reverse-engineering-design-file-formats/details",MatthiasWagner3,14 hours ago,https://replit.com/bounties/@MatthiasWagner3/typescript-altium-in?t=
+https://hackaday.io/project/3149-reverse-engineering-design-file-formats/details",MatthiasWagner3,15 hours ago,https://replit.com/bounties/@MatthiasWagner3/typescript-altium-in?t=
 801,$65.00,due in 10 days,[TRANSLATION] Convert C++ Code Utilizing Various Windows APIs to Python,"tl;dr I have around 400 lines of C++ code that need to be converted into Python. It uses some Windows APIs to work. Repo Link: https://github.com/roshkins/IddSampleDriver. Please include previous bounty work and experience with Windows APIs. I will tip up extra for fast work!
 
 Problem Description
@@ -6354,7 +6354,7 @@ Acceptance Criteria
 
 Syntax highlighting should match the modes for Hoon in the Emacs and Vim packages
 Folding ranges should be added to improve code folding
-Should use lezer instead of custom tokenization",masfrost,7 hours ago,https://replit.com/bounties/@masfrost/hoon-codemirror-gram?t=
+Should use lezer instead of custom tokenization",masfrost,8 hours ago,https://replit.com/bounties/@masfrost/hoon-codemirror-gram?t=
 804,$180.00,due in 9 days,Fine tuning GPT-3 for video game reviews,"Hey! I run a website about video games. I want to create a specific type of video game review, but automated, and then do hundreds of them using GPT-3. So I believe I want to finetune a model to do this by pulling from several websites, which I can point you to.
 
 Need to be able to scrape data from other sites and fine tune for one particular type of output.
@@ -6380,3 +6380,14 @@ Chicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Pointsbet 1.8 1.95
 Chicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Bet365 1.86 1.86
 Chicago Bulls vs Charlotte Hornets Demar Derozan Points 26.5 Pinnacle 1.85 1.89
 Chicago Bulls vs Charlotte Hornets Demar Derozan Points 27.5 Sportsbet 1.94 1....",YouReachITeach4,4 hours ago,https://replit.com/bounties/@YouReachITeach4/scrape-basic-website?t=
+806,$90.00,due in 4 days,Generate map image from list of latitude / longitude coordinates,"Given a list of latitude & longitude coordinates, generate an image of a map with all a line of the path. It'll look similar to the maps generated on Strava (https://media.wired.com/photos/5c636c078a032870a0c7467f/master/w1600,climit/Strava_SketchARoute.jpg)
+
+Acceptance Criteria
+Create a Deno function that can be run in Supabase given a list of coordinates generates an image and stores in Supabase storage.
+
+Technical Details
+We're using supabase and Deno functions",PrafulMathur,10 minutes ago,https://replit.com/bounties/@PrafulMathur/generate-map-image-f?t=
+807,$45.00,due in 4 days,Calculate total distance given list of latitude & longitude,"Given a list of latitude and longitude calculate the total distance. This is difference than simple last coordinate - first coordinate, we need to calculate the walking path between each point. It's fine to do a simple distance function because locations are captured frequently.
+
+Acceptance Criteria
+Create a Deno function as this will be running Supabase.",PrafulMathur,7 minutes ago,https://replit.com/bounties/@PrafulMathur/calculate-total-dist?t=
