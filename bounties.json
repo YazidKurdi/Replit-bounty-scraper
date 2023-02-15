@@ -8146,7 +8146,7 @@
         "title": "Automated Carbon Price Index",
         "description": "\u2022\tVoluntary carbon markets consist of multiple methodologies and project types\n\u2022\tThis means that a 1 ton carbon credit can trade between $5 and $1,000 depending on the type of project, methodology and location.\n\u2022\tThis makes pricing of voluntary carbon credits extremely difficult for sellers and buyers - leading to market inefficiencies and slowing down the financing of carbon removal technologies\n\nAcceptance Criteria\n\u2022\tWeb application that displays average carbon credit price from multiple sources and has information on project data that makes up this average price (in table below/ on separate page)\n\u2022\tExample of index display required: https://puro.earth/carbon-removal-index-price/\n\u2022\tCarbon credit pricing data to be automatically extracted from open data sources. Links to websites:\no\thttps://puro.earth/CORC-co2-removal-certificate/\no\thttps://platform.carbonfuture.earth/balancer/portfolios\no\thttps://netzero.salesforce.com/s/category/all-project-types/0ZGEZ000000008H4...",
         "author": "gavlawson",
-        "posted_time": "24 minutes ago",
+        "posted_time": "37 minutes ago",
         "link": "https://replit.com/bounties/@gavlawson/automated-carbon-pri?t="
     }
 ]
