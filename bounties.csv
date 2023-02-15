@@ -6354,7 +6354,7 @@ Acceptance Criteria
 
 Syntax highlighting should match the modes for Hoon in the Emacs and Vim packages
 Folding ranges should be added to improve code folding
-Should use lezer instead of custom tokenization",masfrost,8 hours ago,https://replit.com/bounties/@masfrost/hoon-codemirror-gram?t=
+Should use lezer instead of custom tokenization",masfrost,9 hours ago,https://replit.com/bounties/@masfrost/hoon-codemirror-gram?t=
 804,$180.00,due in 9 days,Fine tuning GPT-3 for video game reviews,"Hey! I run a website about video games. I want to create a specific type of video game review, but automated, and then do hundreds of them using GPT-3. So I believe I want to finetune a model to do this by pulling from several websites, which I can point you to.
 
 Need to be able to scrape data from other sites and fine tune for one particular type of output.
@@ -6390,7 +6390,7 @@ We're using supabase and Deno functions",PrafulMathur,1 hour ago,https://replit.
 807,$45.00,due in 4 days,Calculate total distance given list of latitude & longitude,"Given a list of latitude and longitude calculate the total distance. This is difference than simple last coordinate - first coordinate, we need to calculate the walking path between each point. It's fine to do a simple distance function because locations are captured frequently.
 
 Acceptance Criteria
-Create a Deno function as this will be running Supabase.",PrafulMathur,59 minutes ago,https://replit.com/bounties/@PrafulMathur/calculate-total-dist?t=
+Create a Deno function as this will be running Supabase.",PrafulMathur,1 hour ago,https://replit.com/bounties/@PrafulMathur/calculate-total-dist?t=
 808,$27.00,due in 4 days,Grid.js + Flask - Event listener that updates a dataframe when a row is checked,"The grid.js table and selector plugin are both functional, but I am facing a challenge in updating the database that populates the table. Specifically, I need help with creating an event listener that can toggle the exclude field of a row in the pandas dataframe based on whether the row is selected or not.
 
 Acceptance Criteria
@@ -6403,4 +6403,4 @@ To test the solution end-to-end, you will need an rvtools Excel file, which I ca
 
 Link to Project
 
-You can access the project files and code at https://replit.com/@BenKarciauskas/VMCTool.",BenKarciauskas,29 minutes ago,https://replit.com/bounties/@BenKarciauskas/gridjs-flask-event-l?t=
+You can access the project files and code at https://replit.com/@BenKarciauskas/VMCTool.",BenKarciauskas,37 minutes ago,https://replit.com/bounties/@BenKarciauskas/gridjs-flask-event-l?t=

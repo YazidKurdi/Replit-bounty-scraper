@@ -8036,7 +8036,7 @@
         "title": "Hoon CodeMirror grammar and language mode",
         "description": "Project Description\n\nHoon is a programming language used in the Urbit operating system. You can find the grammar specification for Hoon in the official Hoon documentation. You can use the Hoon mode for Emacs and the Vim package for reference: hoon-mode.el and hoon.vim.\n\nReplit uses CodeMirror as the editor and we want to add first-class support for Hoon, including syntax highlighting. We have a language mode template available on Replit (please read the README for guidance).\n\nWe'll publish it as an open source package and credit you.\n\nAcceptance Criteria\n\nSyntax highlighting should match the modes for Hoon in the Emacs and Vim packages\nFolding ranges should be added to improve code folding\nShould use lezer instead of custom tokenization",
         "author": "masfrost",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@masfrost/hoon-codemirror-gram?t="
     },
     {
@@ -8076,7 +8076,7 @@
         "title": "Calculate total distance given list of latitude & longitude",
         "description": "Given a list of latitude and longitude calculate the total distance. This is difference than simple last coordinate - first coordinate, we need to calculate the walking path between each point. It's fine to do a simple distance function because locations are captured frequently.\n\nAcceptance Criteria\nCreate a Deno function as this will be running Supabase.",
         "author": "PrafulMathur",
-        "posted_time": "59 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@PrafulMathur/calculate-total-dist?t="
     },
     {
@@ -8086,7 +8086,7 @@
         "title": "Grid.js + Flask - Event listener that updates a dataframe when a row is checked",
         "description": "The grid.js table and selector plugin are both functional, but I am facing a challenge in updating the database that populates the table. Specifically, I need help with creating an event listener that can toggle the exclude field of a row in the pandas dataframe based on whether the row is selected or not.\n\nAcceptance Criteria\n\nThe solution will be considered successful if I can select any row in the grid.js table, and the corresponding exclude field in the pandas dataframe is updated with the correct Boolean value.\n\nTechnical Details\n\nTo test the solution end-to-end, you will need an rvtools Excel file, which I can provide.\n\nLink to Project\n\nYou can access the project files and code at https://replit.com/@BenKarciauskas/VMCTool.",
         "author": "BenKarciauskas",
-        "posted_time": "29 minutes ago",
+        "posted_time": "37 minutes ago",
         "link": "https://replit.com/bounties/@BenKarciauskas/gridjs-flask-event-l?t="
     }
 ]
