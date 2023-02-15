@@ -8036,7 +8036,7 @@
         "title": "Hoon CodeMirror grammar and language mode",
         "description": "Project Description\n\nHoon is a programming language used in the Urbit operating system. You can find the grammar specification for Hoon in the official Hoon documentation. You can use the Hoon mode for Emacs and the Vim package for reference: hoon-mode.el and hoon.vim.\n\nReplit uses CodeMirror as the editor and we want to add first-class support for Hoon, including syntax highlighting. We have a language mode template available on Replit (please read the README for guidance).\n\nWe'll publish it as an open source package and credit you.\n\nAcceptance Criteria\n\nSyntax highlighting should match the modes for Hoon in the Emacs and Vim packages\nFolding ranges should be added to improve code folding\nShould use lezer instead of custom tokenization",
         "author": "masfrost",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@masfrost/hoon-codemirror-gram?t="
     },
     {
@@ -8086,7 +8086,7 @@
         "title": "Grid.js + Flask - Event listener that updates a dataframe when a row is checked",
         "description": "The grid.js table and selector plugin are both functional, but I am facing a challenge in updating the database that populates the table. Specifically, I need help with creating an event listener that can toggle the exclude field of a row in the pandas dataframe based on whether the row is selected or not.\n\nAcceptance Criteria\n\nThe solution will be considered successful if I can select any row in the grid.js table, and the corresponding exclude field in the pandas dataframe is updated with the correct Boolean value.\n\nTechnical Details\n\nTo test the solution end-to-end, you will need an rvtools Excel file, which I can provide.\n\nLink to Project\n\nYou can access the project files and code at https://replit.com/@BenKarciauskas/VMCTool.",
         "author": "BenKarciauskas",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@BenKarciauskas/gridjs-flask-event-l?t="
     },
     {
@@ -8096,7 +8096,7 @@
         "title": "[Simple] Fix some bugs on website",
         "description": "On https://solarhosting.cc/ there are a few bugs that need fixing\nThere are 2 scroll wheels\nUnderline under the order button and you have to click the text not just the button\nThe Accepted Payment Methods on hover text is broken\n\nAcceptance Criteria\nMust have discord linked to replit account or in your applications",
         "author": "OddGames",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@OddGames/simple-fix-some-bugs?t="
     },
     {
@@ -8106,7 +8106,7 @@
         "title": "Booking.com Hotel Price ranking Webscraper",
         "description": "I need a scraper that either fills out an excel sheet or sends me an email with my current ranking on booking.com for my Hostel. Normally we adjust the pricing based on the cheapest options in our region. I prefer that we are always on the first page in the first 5.\n\nWell till now this was a manual performance of my receptionists. Search specific date, specific region and number of people(results set to Price(lowest first)). Then look for my Hostel and and try to play with pricing so I'm always a few dollars below my competition.\n\nThe Scraper should inform me one week ahead(via email or fill and excell) of my ranking and also what the prices are beneath me so I can adjust everything without needing to browse for 1 hour.\n\nIt's also important that the scraped is written in Node.js - so I can understand and adjust the parameters.",
         "author": "valentinmuller",
-        "posted_time": "5 minutes ago",
+        "posted_time": "14 minutes ago",
         "link": "https://replit.com/bounties/@valentinmuller/bookingcom-hotel-pri?t="
     }
 ]

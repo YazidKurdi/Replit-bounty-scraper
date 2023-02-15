@@ -6354,7 +6354,7 @@ Acceptance Criteria
 
 Syntax highlighting should match the modes for Hoon in the Emacs and Vim packages
 Folding ranges should be added to improve code folding
-Should use lezer instead of custom tokenization",masfrost,13 hours ago,https://replit.com/bounties/@masfrost/hoon-codemirror-gram?t=
+Should use lezer instead of custom tokenization",masfrost,14 hours ago,https://replit.com/bounties/@masfrost/hoon-codemirror-gram?t=
 804,$180.00,due in 8 days,Fine tuning GPT-3 for video game reviews,"Hey! I run a website about video games. I want to create a specific type of video game review, but automated, and then do hundreds of them using GPT-3. So I believe I want to finetune a model to do this by pulling from several websites, which I can point you to.
 
 Need to be able to scrape data from other sites and fine tune for one particular type of output.
@@ -6403,18 +6403,18 @@ To test the solution end-to-end, you will need an rvtools Excel file, which I ca
 
 Link to Project
 
-You can access the project files and code at https://replit.com/@BenKarciauskas/VMCTool.",BenKarciauskas,5 hours ago,https://replit.com/bounties/@BenKarciauskas/gridjs-flask-event-l?t=
+You can access the project files and code at https://replit.com/@BenKarciauskas/VMCTool.",BenKarciauskas,6 hours ago,https://replit.com/bounties/@BenKarciauskas/gridjs-flask-event-l?t=
 809,$1.50,due in 13 days,[Simple] Fix some bugs on website,"On https://solarhosting.cc/ there are a few bugs that need fixing
 There are 2 scroll wheels
 Underline under the order button and you have to click the text not just the button
 The Accepted Payment Methods on hover text is broken
 
 Acceptance Criteria
-Must have discord linked to replit account or in your applications",OddGames,2 hours ago,https://replit.com/bounties/@OddGames/simple-fix-some-bugs?t=
+Must have discord linked to replit account or in your applications",OddGames,3 hours ago,https://replit.com/bounties/@OddGames/simple-fix-some-bugs?t=
 810,$81.00,due in 12 days,Booking.com Hotel Price ranking Webscraper,"I need a scraper that either fills out an excel sheet or sends me an email with my current ranking on booking.com for my Hostel. Normally we adjust the pricing based on the cheapest options in our region. I prefer that we are always on the first page in the first 5.
 
 Well till now this was a manual performance of my receptionists. Search specific date, specific region and number of people(results set to Price(lowest first)). Then look for my Hostel and and try to play with pricing so I'm always a few dollars below my competition.
 
 The Scraper should inform me one week ahead(via email or fill and excell) of my ranking and also what the prices are beneath me so I can adjust everything without needing to browse for 1 hour.
 
-It's also important that the scraped is written in Node.js - so I can understand and adjust the parameters.",valentinmuller,5 minutes ago,https://replit.com/bounties/@valentinmuller/bookingcom-hotel-pri?t=
+It's also important that the scraped is written in Node.js - so I can understand and adjust the parameters.",valentinmuller,14 minutes ago,https://replit.com/bounties/@valentinmuller/bookingcom-hotel-pri?t=
