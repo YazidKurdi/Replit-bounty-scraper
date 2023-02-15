@@ -8036,7 +8036,7 @@
         "title": "Hoon CodeMirror grammar and language mode",
         "description": "Project Description\n\nHoon is a programming language used in the Urbit operating system. You can find the grammar specification for Hoon in the official Hoon documentation. You can use the Hoon mode for Emacs and the Vim package for reference: hoon-mode.el and hoon.vim.\n\nReplit uses CodeMirror as the editor and we want to add first-class support for Hoon, including syntax highlighting. We have a language mode template available on Replit (please read the README for guidance).\n\nWe'll publish it as an open source package and credit you.\n\nAcceptance Criteria\n\nSyntax highlighting should match the modes for Hoon in the Emacs and Vim packages\nFolding ranges should be added to improve code folding\nShould use lezer instead of custom tokenization",
         "author": "masfrost",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@masfrost/hoon-codemirror-gram?t="
     },
     {
@@ -8096,7 +8096,7 @@
         "title": "[Simple] Fix some bugs on website",
         "description": "On https://solarhosting.cc/ there are a few bugs that need fixing\nThere are 2 scroll wheels\nUnderline under the order button and you have to click the text not just the button\nThe Accepted Payment Methods on hover text is broken\n\nAcceptance Criteria\nMust have discord linked to replit account or in your applications",
         "author": "OddGames",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@OddGames/simple-fix-some-bugs?t="
     },
     {
@@ -8108,5 +8108,15 @@
         "author": "valentinmuller",
         "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@valentinmuller/bookingcom-hotel-pri?t="
+    },
+    {
+        "index": "811",
+        "price": "$20.70",
+        "due_days": "due in 3 days",
+        "title": "Java Spring Boot Application Bug Fix for Excel Upload",
+        "description": "Bug fix. CSV is not being read properly.\n\n\"By accepting payment, the contractor agrees to transfer all rights, including intellectual property rights, in the code to the hiring party.\"",
+        "author": "mdotbaig",
+        "posted_time": "5 minutes ago",
+        "link": "https://replit.com/bounties/@mdotbaig/java-spring-boot-app?t="
     }
 ]
