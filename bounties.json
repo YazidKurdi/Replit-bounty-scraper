@@ -8086,7 +8086,7 @@
         "title": "Grid.js + Flask - Event listener that updates a dataframe when a row is checked",
         "description": "The grid.js table and selector plugin are both functional, but I am facing a challenge in updating the database that populates the table. Specifically, I need help with creating an event listener that can toggle the exclude field of a row in the pandas dataframe based on whether the row is selected or not.\n\nAcceptance Criteria\n\nThe solution will be considered successful if I can select any row in the grid.js table, and the corresponding exclude field in the pandas dataframe is updated with the correct Boolean value.\n\nTechnical Details\n\nTo test the solution end-to-end, you will need an rvtools Excel file, which I can provide.\n\nLink to Project\n\nYou can access the project files and code at https://replit.com/@BenKarciauskas/VMCTool.",
         "author": "BenKarciauskas",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@BenKarciauskas/gridjs-flask-event-l?t="
     },
     {
@@ -8096,7 +8096,7 @@
         "title": "[Simple] Fix some bugs on website",
         "description": "On https://solarhosting.cc/ there are a few bugs that need fixing\nThere are 2 scroll wheels\nUnderline under the order button and you have to click the text not just the button\nThe Accepted Payment Methods on hover text is broken\n\nAcceptance Criteria\nMust have discord linked to replit account or in your applications",
         "author": "OddGames",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@OddGames/simple-fix-some-bugs?t="
     },
     {
@@ -8166,7 +8166,7 @@
         "title": "Simple Gradio app to classify text with GPT-3",
         "description": "Background\nI am an experienced AI product manager and I am looking for skilled developers to work with on future projects. This is a simple end-to-end test project which will hopefully help me find someone I like working with.\n\nProblem Description\nI would like to build a simple Gradio app that uses GPT-3 to do the following:\nUser enters a text message (there is an option to pick a random message from the Emotion dataset: https://huggingface.co/datasets/emotion)\nGPT-3 generates a label \"kind\" or \"unkind\"\nIf the message is labelled \"unkind\", GPT-3 generates an explanation why\nUser can also modify the GPT-3 prompts\nEvery user message, prompt and GPT-3 response is saved to a Supabase table\n\nHere is a visual mock-up (pass: replit) https://whimsical.com/kind-SQ4RgG9k1po6N6MFmv8KRu\n\nAcceptance Criteria\nworking Gradio app with features as described\nsimple logging feature using Supabase\n\nI have a technical background and really enjoy working with smart and talented developers - looking forward ...",
         "author": "tomwalchakAI",
-        "posted_time": "12 seconds ago",
+        "posted_time": "11 minutes ago",
         "link": "https://replit.com/bounties/@tomwalchakAI/simple-gradio-app-to?t="
     }
 ]
