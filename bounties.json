@@ -8016,7 +8016,7 @@
         "title": "[TRANSLATION] Convert C++ Code Utilizing Various Windows APIs to Python",
         "description": "tl;dr I have around 400 lines of C++ code that need to be converted into Python. It uses some Windows APIs to work. Repo Link: https://github.com/roshkins/IddSampleDriver. Please include previous bounty work and experience with Windows APIs. I will tip up extra for fast work!\n\nProblem Description\nIddSampleDriver allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in C++ utilizing Windows APIs. It is also made to be a driver. I would like to convert this to Python and make it a normal program, not a driver. I just need the core functionality - I don't need the fancy wrapper functions which make the program user-friendly to be translated. Just convert the code to python. I don't mind it having multiple files or many dependencies.\n\nAcceptance Criteria\nI should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Pyth...",
         "author": "EpicCodeWizard2",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/translation-convert-6?t="
     },
     {
@@ -8106,7 +8106,7 @@
         "title": "Booking.com Hotel Price ranking Webscraper",
         "description": "I need a scraper that either fills out an excel sheet or sends me an email with my current ranking on booking.com for my Hostel. Normally we adjust the pricing based on the cheapest options in our region. I prefer that we are always on the first page in the first 5.\n\nWell till now this was a manual performance of my receptionists. Search specific date, specific region and number of people(results set to Price(lowest first)). Then look for my Hostel and and try to play with pricing so I'm always a few dollars below my competition.\n\nThe Scraper should inform me one week ahead(via email or fill and excell) of my ranking and also what the prices are beneath me so I can adjust everything without needing to browse for 1 hour.\n\nIt's also important that the scraped is written in Node.js - so I can understand and adjust the parameters.",
         "author": "valentinmuller",
-        "posted_time": "14 minutes ago",
+        "posted_time": "23 minutes ago",
         "link": "https://replit.com/bounties/@valentinmuller/bookingcom-hotel-pri?t="
     }
 ]
