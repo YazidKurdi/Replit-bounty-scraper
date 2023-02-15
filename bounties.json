@@ -7946,7 +7946,7 @@
         "title": "Replit Youtube video clipper for Evolution @Replit",
         "description": "Create clips of this youtube video that will get people psyched on the Evolution @Replit series.\nhttps://www.youtube.com/watch?v=ww0W8ne4V_Y&t=1424s\n\nAcceptance Criteria\nSend us > 90 second videos that will grow our youtube channel with captions and/or editing that makes the clips stand out.",
         "author": "jesse",
-        "posted_time": "23 hours ago",
+        "posted_time": "1 day ago",
         "link": "https://replit.com/bounties/@jesse/replit-youtube-video?t="
     },
     {
@@ -7956,7 +7956,7 @@
         "title": "Track relevant healthcare policy changes and notify updates by email",
         "description": "Track relevant healthcare policy changes using the keyword \u201chealthcare\u201d across 2 public sites and notify us by email. Links below:\n\nhttps://www.reginfo.gov/public/jsp/Utilities/index.myjsp: Search Agenda, Reg Review, and ICR for any updates with keyword \u201chealthcare\u201d daily.\n\nhttps://www.congress.gov/: \u201cSearch by Congress\" \u2192 \"current congresses\" in top right corner for any updates with keyword \u201chealthcare\u201d daily.\n\nAcceptance Criteria\nThe main acceptance criteria is that we can be notified of these changes in a timely manner. We are not expecting a large volume of changes or updates daily (1 typically, <10 max).\n\nWe\u2019d like the tool to be flexible enough to add new websites over time if possible!",
         "author": "EmreTKaratas",
-        "posted_time": "23 hours ago",
+        "posted_time": "1 day ago",
         "link": "https://replit.com/bounties/@EmreTKaratas/track-relevant-healt?t="
     },
     {
@@ -7966,7 +7966,7 @@
         "title": "Implement few CodeMirror 6 commands in a web text edtiro",
         "description": "Notepad2web is a re-implementation of Windows text editor Notepad2 for the web, using CodeMirror 6.\n\nThe task: implement a few simple commands that insert text at current position in CodeMirror 6.\n\nMenu items to implement: all items in Edit / Insert sub-menu, except the first one \"Complete Word\"\n\nAcceptance Criteria\n\nMenu commands \"Edit / Insert / ...\" work and do the same thing as Notepad2.\n\nTechnical Details\n\nNotepad2web is made with:\nSvelte\ntailwindcss\nCodeMirror 6\n\nEach command is represented by id, like IDMEDITINSERT_XMLTAG\n\nSome commands are already implemented. See handleMenuCmd() in Notepad2.svelte.\n\nTo implement new commands add another case statement for e.g.  IDMEDITINSERT_GUID and add the code implementing the command in handleMenuCmd()\n\nThis bounty covers the following commands:\n\nconst menuInsert = [\n  [\"&HTML/XML Tag...\\tAlt+X\", IDMEDITINSERT_XMLTAG],\n  [\"New &GUID\", IDMEDITINSERT_GUID],\n  [\"&File Name\", CMDINSERTFILENAMENOEXT],\n  [\"File Name and E&xt...",
         "author": "kjk1",
-        "posted_time": "21 hours ago",
+        "posted_time": "22 hours ago",
         "link": "https://replit.com/bounties/@kjk1/implement-few-codemi?t="
     },
     {
@@ -7986,7 +7986,7 @@
         "title": "Instagram & Twitter Bot for my Business Account",
         "description": "The project aims to create Instagram & Twitter auto-responder bots for business accounts that can auto-respond to comments on posts containing specified hashtags. The solution must allow for multiple commands and bot replied to be running concurrently. The solution must provide an easy to ease UI/UX for the user to input the hashtag and auto-response keywords. The bounty proposal must include any information pertinent to the awarding of the monies.\n\nKey Features:\nContinuous monitoring of specified hashtags and automatic response to comments on Instagram posts containing those hashtags.\nSupport for multiple concurrent commands and bot replied.\nEasy to use UI/UX for users to input hashtags and auto-response keywords.\nAuthentication with Instagram/Twitter API to access user accounts and retrieve comments on posts.\nSecure handling of user authentication credentials and hashtag/auto-response keywords.\nAppropriate handling of posts containing multiple hashtags to avoid spamming the comment s...",
         "author": "TomHumber",
-        "posted_time": "14 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@TomHumber/instagram-and-twitte?t="
     },
     {
@@ -7996,7 +7996,7 @@
         "title": "LLM-based English language tutor",
         "description": "To build a web app that provides an MVP, voice-based, 1-to-1 English Language tutor service (similar to https://www.britishcouncil.org/english/learn-online/englishscore-tutors) using a LLM-powered virtual tutor. The service is for English language learners looking to improve their spoken English.\nAt the next stage the tutor will be a Synthesia -style AI-generated person presenting thought video, but for the MPV, to reduce API costs, lag, etc. it should be voice only.\nThe lesson interface should look and feel like a Zoom / Teams / Meet style video call (with cameras off both ends - so audio only).\nThe student should interact by speaking to the tutor through the device microphone.\nThere should be a captions toggle, allowing the text of what the tutor and student are saying to be displayed.\nThe tutor should lead the conversation, using language that is appropriate to the English language skill level of the student (see below), it should explain language concepts that ...",
         "author": "DanCobley",
-        "posted_time": "10 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@DanCobley/llm-based-english-la?t="
     },
     {
@@ -8006,7 +8006,7 @@
         "title": "Typescript Altium .IntLib file format parser",
         "description": "I need a parser written in typescript that can load the contents of a Altium .IntLib file and turn them into a js object with proper interfaces/types.\n\nThe code need to be able to run in a webworker and also node context. Therefore can't depend on browser objects like document and so on.\n\nAcceptance Criteria\nTake any *.IntLib file from snapeda.com (you can sign up for a free account) such as this one https://www.snapeda.com/parts/ESP32S2/Espressif%20Systems/view-part/?ref=search&t=ESP32 and parse is properly.\n\nProvide jest unit tests to prove that it works across ~20 different .intlib files from snapeda (I can provide those)\n\nTechnical Details\nThere is a a little info on how to read the binary file here\n\nhttps://hackaday.com/2014/10/15/reverse-engineering-altium-files/\nhttps://hackaday.io/project/3149-reverse-engineering-design-file-formats/details",
         "author": "MatthiasWagner3",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@MatthiasWagner3/typescript-altium-in?t="
     },
     {
@@ -8016,7 +8016,7 @@
         "title": "[TRANSLATION] Convert C++ Code Utilizing Various Windows APIs to Python",
         "description": "tl;dr I have around 400 lines of C++ code that need to be converted into Python. It uses some Windows APIs to work. Repo Link: https://github.com/roshkins/IddSampleDriver. Please include previous bounty work and experience with Windows APIs. I will tip up extra for fast work!\n\nProblem Description\nIddSampleDriver allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in C++ utilizing Windows APIs. It is also made to be a driver. I would like to convert this to Python and make it a normal program, not a driver. I just need the core functionality - I don't need the fancy wrapper functions which make the program user-friendly to be translated. Just convert the code to python. I don't mind it having multiple files or many dependencies.\n\nAcceptance Criteria\nI should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Pyth...",
         "author": "EpicCodeWizard2",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@EpicCodeWizard2/translation-convert-6?t="
     },
     {
@@ -8026,7 +8026,27 @@
         "title": "Convert Boilerpipe Java library to JavaScript/TypeScript (for use in NodeJS)",
         "description": "Google Boilerpipe library is currently a Java library\nhttps://code.google.com/archive/p/boilerpipe/\nDescription of the library: \"The boilerpipe library provides algorithms to detect and remove the surplus \"clutter\" (boilerplate, templates) around the main textual content of a web page.\"\n\nWe need this Boilerpipe library converted from Java to a JavaScript/TypeScript library so that it can be used within a NodeJS application as an imported node module.\n\nNOTE: There already exists a JavaScript version of Boilerpipe but it's simply a wrapper around the Java version of Boilerpipe and requires installation of Java to use. https://www.npmjs.com/package/boilerpipe\nWe do not want this version of the library because it requires installation of Java. You can use this library for syntax ideas, of course.\n\nThis new JavaScript/TypeScript version of Boilerpipe should not use Java in any way. It should be able to be run in a NodeJS application without having Java installed.\n\nAccept...",
         "author": "RossHartmann1",
-        "posted_time": "1 hour ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@RossHartmann1/convert-boilerpipe-j?t="
+    },
+    {
+        "index": "803",
+        "price": "$162.00",
+        "due_days": "due in 25 days",
+        "title": "Hoon CodeMirror grammar and language mode",
+        "description": "Project Description\n\nHoon is a programming language used in the Urbit operating system. You can find the grammar specification for Hoon in the official Hoon documentation. You can use the Hoon mode for Emacs and the Vim package for reference: hoon-mode.el and hoon.vim.\n\nReplit uses CodeMirror as the editor and we want to add first-class support for Hoon, including syntax highlighting. We have a language mode template available on Replit (please read the README for guidance).\n\nWe'll publish it as an open source package and credit you.\n\nAcceptance Criteria\n\nSyntax highlighting should match the modes for Hoon in the Emacs and Vim packages\nFolding ranges should be added to improve code folding\nShould use lezer instead of custom tokenization",
+        "author": "masfrost",
+        "posted_time": "1 hour ago",
+        "link": "https://replit.com/bounties/@masfrost/hoon-codemirror-gram?t="
+    },
+    {
+        "index": "804",
+        "price": "$180.00",
+        "due_days": "due in 9 days",
+        "title": "Fine tuning GPT-3 for video game reviews",
+        "description": "Hey! I run a website about video games. I want to create a specific type of video game review, but automated, and then do hundreds of them using GPT-3. So I believe I want to finetune a model to do this by pulling from several websites, which I can point you to.\n\nNeed to be able to scrape data from other sites and fine tune for one particular type of output.\n\nTechnical Details",
+        "author": "MattSaincome",
+        "posted_time": "54 minutes ago",
+        "link": "https://replit.com/bounties/@MattSaincome/fine-tuning-gpt-3-fo?t="
     }
 ]
