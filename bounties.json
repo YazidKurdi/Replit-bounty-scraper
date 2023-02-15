@@ -8046,7 +8046,7 @@
         "title": "Fine tuning GPT-3 for video game reviews",
         "description": "Hey! I run a website about video games. I want to create a specific type of video game review, but automated, and then do hundreds of them using GPT-3. So I believe I want to finetune a model to do this by pulling from several websites, which I can point you to.\n\nNeed to be able to scrape data from other sites and fine tune for one particular type of output.\n\nTechnical Details",
         "author": "MattSaincome",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@MattSaincome/fine-tuning-gpt-3-fo?t="
     },
     {
