@@ -6237,19 +6237,19 @@ I should be able to run the code successfully after installing the dependencies 
 791,$90.00,due in 6 days,Next stage of boldsign app,"will download additional audit PDF, merge with document PDF, and upload resulting PDF file",AndrewShowman,23 hours ago,https://replit.com/bounties/@AndrewShowman/next-stage-of-boldsi?t=
 792,$90.00,due in 3 days,Chat AI that pulls data from folders (Excel and Word docs) and gives a response,"Im looking for a simple ChatGPT-style app that will let me ingest a folder of documents. Mainly Excel and Word docs. Once ingested, I can ask a question from the chat box and get a response pulled from the documents.
 
-Simple web app on Replit that lets me ask questions and get answers from internal documents I provide. Ideally I can also upload more documents in the future and have them indexed and searchable. Excel (CSV) and Word (Docx) docs are the main formats I need.",WillJarvis2,24 hours ago,https://replit.com/bounties/@WillJarvis2/chat-ai-that-pulls-d?t=
+Simple web app on Replit that lets me ask questions and get answers from internal documents I provide. Ideally I can also upload more documents in the future and have them indexed and searchable. Excel (CSV) and Word (Docx) docs are the main formats I need.",WillJarvis2,1 day ago,https://replit.com/bounties/@WillJarvis2/chat-ai-that-pulls-d?t=
 793,$162.00,due in 14 days,Build a Chrome Extension that can Color Code a User's Calendar,"I am looking for someone to help put together a chrome extension that can be used to assist in a calendar audit by tracking the energy level a user gets throughout the day from meetings.
 
 The goal is for the chrome extension over time to be able to provide users with helpful data on how they spend their days and provide them with insights into which parts of their days they enjoy and which they don’t. Allowing them to make changes as needed to improve their daily work life.
 
 Solution Description
 
-The idea is that the extension would connect to a user's Google calendar and after each meeting, the extension would prompt the user for feedback on the meeting with a simple pop up as a feedback/data collection mechanism that displays something like ""How are you feeling after that?"" and then provides the user with three possible answer choices in the form of smiley faces (green smiley = feeling energized, yellow straight face = neutral, and red frowning face = feeling drai...",saamor1994,23 hours ago,https://replit.com/bounties/@saamor1994/build-a-chrome-exten?t=
+The idea is that the extension would connect to a user's Google calendar and after each meeting, the extension would prompt the user for feedback on the meeting with a simple pop up as a feedback/data collection mechanism that displays something like ""How are you feeling after that?"" and then provides the user with three possible answer choices in the form of smiley faces (green smiley = feeling energized, yellow straight face = neutral, and red frowning face = feeling drai...",saamor1994,1 day ago,https://replit.com/bounties/@saamor1994/build-a-chrome-exten?t=
 794,$22.50,due in 3 days,Replit Youtube video clipper for Evolution @Replit,"Create clips of this youtube video that will get people psyched on the Evolution @Replit series.
 https://www.youtube.com/watch?v=ww0W8ne4V_Y&t=1424s
 
 Acceptance Criteria
-Send us > 90 second videos that will grow our youtube channel with captions and/or editing that makes the clips stand out.",jesse,22 hours ago,https://replit.com/bounties/@jesse/replit-youtube-video?t=
+Send us > 90 second videos that will grow our youtube channel with captions and/or editing that makes the clips stand out.",jesse,23 hours ago,https://replit.com/bounties/@jesse/replit-youtube-video?t=
 795,$45.00,due in 9 days,Track relevant healthcare policy changes and notify updates by email,"Track relevant healthcare policy changes using the keyword “healthcare” across 2 public sites and notify us by email. Links below:
 
 https://www.reginfo.gov/public/jsp/Utilities/index.myjsp: Search Agenda, Reg Review, and ICR for any updates with keyword “healthcare” daily.
@@ -6259,7 +6259,7 @@ https://www.congress.gov/: “Search by Congress"" → ""current congresses"" in
 Acceptance Criteria
 The main acceptance criteria is that we can be notified of these changes in a timely manner. We are not expecting a large volume of changes or updates daily (1 typically, <10 max).
 
-We’d like the tool to be flexible enough to add new websites over time if possible!",EmreTKaratas,22 hours ago,https://replit.com/bounties/@EmreTKaratas/track-relevant-healt?t=
+We’d like the tool to be flexible enough to add new websites over time if possible!",EmreTKaratas,23 hours ago,https://replit.com/bounties/@EmreTKaratas/track-relevant-healt?t=
 796,$108.00,due in 6 days,Implement few CodeMirror 6 commands in a web text edtiro,"Notepad2web is a re-implementation of Windows text editor Notepad2 for the web, using CodeMirror 6.
 
 The task: implement a few simple commands that insert text at current position in CodeMirror 6.
@@ -6289,7 +6289,7 @@ const menuInsert = [
   [""&HTML/XML Tag...\tAlt+X"", IDMEDITINSERT_XMLTAG],
   [""New &GUID"", IDMEDITINSERT_GUID],
   [""&File Name"", CMDINSERTFILENAMENOEXT],
-  [""File Name and E&xt...",kjk1,20 hours ago,https://replit.com/bounties/@kjk1/implement-few-codemi?t=
+  [""File Name and E&xt...",kjk1,21 hours ago,https://replit.com/bounties/@kjk1/implement-few-codemi?t=
 797,$9.00,due in 4 days,Dlsord [email protected] G3n,"Dlsord [email protected] G3n
 Working
 Must Be ready
@@ -6302,13 +6302,13 @@ Support for multiple concurrent commands and bot replied.
 Easy to use UI/UX for users to input hashtags and auto-response keywords.
 Authentication with Instagram/Twitter API to access user accounts and retrieve comments on posts.
 Secure handling of user authentication credentials and hashtag/auto-response keywords.
-Appropriate handling of posts containing multiple hashtags to avoid spamming the comment s...",TomHumber,13 hours ago,https://replit.com/bounties/@TomHumber/instagram-and-twitte?t=
+Appropriate handling of posts containing multiple hashtags to avoid spamming the comment s...",TomHumber,14 hours ago,https://replit.com/bounties/@TomHumber/instagram-and-twitte?t=
 799,$540.00,due in 11 days,LLM-based English language tutor,"To build a web app that provides an MVP, voice-based, 1-to-1 English Language tutor service (similar to https://www.britishcouncil.org/english/learn-online/englishscore-tutors) using a LLM-powered virtual tutor. The service is for English language learners looking to improve their spoken English.
 At the next stage the tutor will be a Synthesia -style AI-generated person presenting thought video, but for the MPV, to reduce API costs, lag, etc. it should be voice only.
 The lesson interface should look and feel like a Zoom / Teams / Meet style video call (with cameras off both ends - so audio only).
 The student should interact by speaking to the tutor through the device microphone.
 There should be a captions toggle, allowing the text of what the tutor and student are saying to be displayed.
-The tutor should lead the conversation, using language that is appropriate to the English language skill level of the student (see below), it should explain language concepts that ...",DanCobley,9 hours ago,https://replit.com/bounties/@DanCobley/llm-based-english-la?t=
+The tutor should lead the conversation, using language that is appropriate to the English language skill level of the student (see below), it should explain language concepts that ...",DanCobley,10 hours ago,https://replit.com/bounties/@DanCobley/llm-based-english-la?t=
 800,$450.00,due in 7 days,Typescript Altium .IntLib file format parser,"I need a parser written in typescript that can load the contents of a Altium .IntLib file and turn them into a js object with proper interfaces/types.
 
 The code need to be able to run in a webworker and also node context. Therefore can't depend on browser objects like document and so on.
@@ -6322,14 +6322,14 @@ Technical Details
 There is a a little info on how to read the binary file here
 
 https://hackaday.com/2014/10/15/reverse-engineering-altium-files/
-https://hackaday.io/project/3149-reverse-engineering-design-file-formats/details",MatthiasWagner3,6 hours ago,https://replit.com/bounties/@MatthiasWagner3/typescript-altium-in?t=
+https://hackaday.io/project/3149-reverse-engineering-design-file-formats/details",MatthiasWagner3,7 hours ago,https://replit.com/bounties/@MatthiasWagner3/typescript-altium-in?t=
 801,$65.00,due in 10 days,[TRANSLATION] Convert C++ Code Utilizing Various Windows APIs to Python,"tl;dr I have around 400 lines of C++ code that need to be converted into Python. It uses some Windows APIs to work. Repo Link: https://github.com/roshkins/IddSampleDriver. Please include previous bounty work and experience with Windows APIs. I will tip up extra for fast work!
 
 Problem Description
 IddSampleDriver allows virtual displays to be created without any physical hardware. This is very useful when wanting to extend screen size, among other things. However, the code is written in C++ utilizing Windows APIs. It is also made to be a driver. I would like to convert this to Python and make it a normal program, not a driver. I just need the core functionality - I don't need the fancy wrapper functions which make the program user-friendly to be translated. Just convert the code to python. I don't mind it having multiple files or many dependencies.
 
 Acceptance Criteria
-I should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Pyth...",EpicCodeWizard2,6 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-6?t=
+I should be able to run the code successfully after installing the dependencies if any. It can use any Windows API Pyth...",EpicCodeWizard2,7 hours ago,https://replit.com/bounties/@EpicCodeWizard2/translation-convert-6?t=
 802,$50.00,due in 14 days,Convert Boilerpipe Java library to JavaScript/TypeScript (for use in NodeJS),"Google Boilerpipe library is currently a Java library
 https://code.google.com/archive/p/boilerpipe/
 Description of the library: ""The boilerpipe library provides algorithms to detect and remove the surplus ""clutter"" (boilerplate, templates) around the main textual content of a web page.""
@@ -6341,4 +6341,4 @@ We do not want this version of the library because it requires installation of J
 
 This new JavaScript/TypeScript version of Boilerpipe should not use Java in any way. It should be able to be run in a NodeJS application without having Java installed.
 
-Accept...",RossHartmann1,15 minutes ago,https://replit.com/bounties/@RossHartmann1/convert-boilerpipe-j?t=
+Accept...",RossHartmann1,1 hour ago,https://replit.com/bounties/@RossHartmann1/convert-boilerpipe-j?t=
