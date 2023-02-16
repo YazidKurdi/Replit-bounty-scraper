@@ -8346,7 +8346,7 @@
         "title": "Argument Breakdown AI Tool",
         "description": "I am looking for someone to create an AI/GPT-3 based tool for argument breakdowns, with a specific visualization in the form of a decision tree. I have a Figma of the design but the idea is the visualize in the form of decision tree, a quick summary of the top rated points, and a live chat for group discussion.\n\nA new 'question' inputted to start a discussion should be shareable and therefore needs to be able to be saved into a catalog (i.e a new page acting as the library/feed/search ability) as well as signing up with (e.g. with email)\n\nAcceptance Criteria\nA prototype showing the ability to:\n1) create a decision tree interface\n2) enable the decision tree to be populated with for and against statements, auto-filled by GPT (even better if something like Perplexity, where sources can be shared) with short (tweet-length) answers\n3) a live text/discussion for public commentary\n4) upvote and downvote optionality\n5) newsfeed with list of all discussions started\n\nTechnica...",
         "author": "JonColler",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@JonColler/argument-breakdown-a?t="
     },
     {
@@ -8376,7 +8376,7 @@
         "title": "Audio transcription and summarization",
         "description": "Build an interface to upload an audio file, use the Gladia API Gladia to transcribe the audio file, then create a google doc with the text output, then summarize the output into 5 bullet points.\n\nAcceptance Criteria\n\nA GUI to upload the audio file, a way to create a google doc or other text document with the transcription, a working summary tool\n\nTechnical Details",
         "author": "ZBD96",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@ZBD96/audio-transcription?t="
     },
     {
@@ -8406,7 +8406,7 @@
         "title": "AI chatbot to allow tenants to find a property to rend",
         "description": "Seeking a developer that can build a chatbot that will be accessible via facebook to chat with potential tenants interested in renting apartment/ rooms/ houses.\n\nThe chatbot should be able to:\n\nprovide all the answers the tenant wants about the properties available for what they are looking for\ngather information about the tenant to be able to understand its profile and whether or not it could be a good fit to rent (i.e. age, gender, occupation, guarantor)\n    track those information into a dashboard for the owner\nKeep track of all the demand and push for visits for the persons having a good profile\nthe owner should be able to jump into the conversation when the AI is not able to answer or to add more details\n\nBonus point:\n\nthe AI optimize the scheduling of the visits to lower the time needed for the owner\nthe AI knows when another unit might be available, if the current one is currently in process of being rented or not available anymore, and suggest it to the use...",
         "author": "csese",
-        "posted_time": "20 minutes ago",
+        "posted_time": "30 minutes ago",
         "link": "https://replit.com/bounties/@csese/ai-chatbot-to-allow?t="
     }
 ]
