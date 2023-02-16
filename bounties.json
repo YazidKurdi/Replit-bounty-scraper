@@ -8156,7 +8156,7 @@
         "title": "Gift Recommender App",
         "description": "Objective: Develop a gift recommender web app that will allow users to get gift options based on text inputs around recipient, event, budget, etc and map the shortlisted gift options to available products.\n\nRequirements:\nAsk users to input some basic parameters such as event, relationship with recipient, budget, likes/dislikes of recipient using a natural language text input e.g. What gifts can I give to my friend on his 40th birthday, he likes outdoor and is a big basketball fan.\nProvide recommendations based on user inputs.\nAllow for continuous conversations with users to optimize the answers in the recommender as well as personalize it.\nAllow the user to shortlist some of the recommendations provided\nOnce all the recommendations are shortlisted, given an option to see gifts matching available products in our inventory. Model will need to be trained on available products which can be pulled via an API.",
         "author": "vickwiz",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@vickwiz/gift-recommender-app?t="
     },
     {
@@ -8186,7 +8186,7 @@
         "title": "Token Gating Bot",
         "description": "Website owners/community owners need a way to verify the ownership of tokens or NFTs in a user's wallet and grant or restrict access to a webpage based on that information.\n\nAcceptance Criteria\nThe bot must be able to verify the ownership of a user's tokens or NFTs.\nThe bot must be able to grant or restrict access to a webpage based on the ownership verification.\nThe bot must be easy to install and set up for website owners.\nThe bot should be built for Ethereum or Polygon.\nThe bot should be able to integrate with different types of wallets.\nThe bot should have an interface for website owners to configure and set up.\nMake sure to use the Alchemy NFT API and Token API\nWrite thorough documentation on how you built this.\n\nAlchemy x Replit Partnership\nWe\u2019re partnering with Replit to find top developers for exciting web3 projects.\n\nAdditional rewards for this bounty:\nYou'll be featured on Alchemy and Replit\u2019s Twitter channels - to hundreds of thousands of people!\nChosen c...",
         "author": "Arjun-Alchemy",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@Arjun-Alchemy/token-gating-bot?t="
     },
     {
@@ -8226,7 +8226,7 @@
         "title": "Build a bleeding edge tech web app boilerplate",
         "description": "I'm looking to build a very fast web app boilerplate. Similar to those listed here: https://airtable.com/appkZ6JqxCoHFN9uK/tbluwp5EOvg9qtCwC/viwci6Ce98bSGkIQZ?blocks=hide, it's meant to be a ready made starting point for a basic Saas web app with sensible defaults that can then be customized further. In this case the defaults will be less sensible and more bleeding edge, fun tech to work with :-)\n\nIf you do this well and get productive with the stack - we can move forward by building and actual SaaS app on top of the boilerplate.\n\nAcceptance Criteria\nIf you're already familiar with these technologies, great, but I expect roughly 0 people to be familiar with each of them. If you're familiar with react, solidjs, and nextjs though, I expect you can get comfortable with these technologies using their documentation as quickly as anyone else.\n\nTechnical Details\nI intend to accomplish that using qwik, replicache, and edgedb, then to make it easy for non-technical people to...",
         "author": "WilliamBarber7",
-        "posted_time": "41 minutes ago",
+        "posted_time": "53 minutes ago",
         "link": "https://replit.com/bounties/@WilliamBarber7/build-a-bleeding-edg?t="
     },
     {
@@ -8236,7 +8236,7 @@
         "title": "get the websites from a list of company names",
         "description": "I have a list of 1500 companies in excel and I want their websites saved to a excel file. I have built a web scrapper to get a search on google for the company name from the excel file and get the website, it works but after about 30 names google notices that it is a bot and blocks the scrapper with a recatcha.\n\nAcceptance Criteria\nall companies with the correct website (95% of the time would be great)\n\nTechnical Details\nCode in Python using selium\n\nLink to Project\nhttps://colab.research.google.com/drive/10rHVg6GlX2PUIzgS55hkOGRuIAZJQx3h?usp=sharing",
         "author": "caioraimundo",
-        "posted_time": "40 minutes ago",
+        "posted_time": "51 minutes ago",
         "link": "https://replit.com/bounties/@caioraimundo/get-the-websites-fro?t="
     },
     {
@@ -8246,7 +8246,7 @@
         "title": "command for game cyberheist",
         "description": "i need a command added to a open source game by catr3kd and some of you may be fimilar with it but i want to add a mute command that will make the chatbox invisible to accounts that are muted this would of course require a unmute command also",
         "author": "AydenBG",
-        "posted_time": "39 minutes ago",
+        "posted_time": "50 minutes ago",
         "link": "https://replit.com/bounties/@AydenBG/command-for-game-cyb?t="
     }
 ]
