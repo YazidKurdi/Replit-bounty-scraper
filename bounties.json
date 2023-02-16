@@ -8326,7 +8326,7 @@
         "title": "Create a website which uses GPT or other LLM to query legal documents in PDF/DOCX format",
         "description": "Make a question answering chatbot web app that pulls results from user-uploaded PDFs/Word docs. Primarily commercial legal documents. Technology would use LLMs like GPT and index using GPTIndex or Langchain and deployed for production (can be anywhere ie Replit).\n\nWe will test the tool with a few questions regarding information inside the legal documents. Should be able to query questions over many documents, not just a single document. It should also be able to \"quote\" the relevant section of the document it is getting data from.\n\nAcceptance Criteria\nThe chatbot should have a simple interface.\nWe will provide an sample documents which the user should be able to upload and the chatbot should be able to query.\nThe chatbot must be able to generate a proper response regarding data in the pdfs.",
         "author": "GrahamWahlberg",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@GrahamWahlberg/create-a-website-whi?t="
     },
     {
@@ -8336,7 +8336,7 @@
         "title": "Simple frontend customization - Make a button un-clickable and generate processing symbol",
         "description": "I have a webapp that takes a csv and processes it.\n\nOn the dashboard the user has the option to choose a file. And there is a 'Process' button immediately below it.\n\nCurrently, when they click the 'Process' button, it begins processing their csv. However, the 'Process' button remains click-able and if the user re-clicks the button it will call the Process function again.\n\nI need you to make it so that once the process button is clicked and begins processing the request, the user can no longer click the 'Process' button. I also want the 'Process' button to be grayed out so that it is clear that the csv is processing.\n\nI would like you to also had some kind of symbol, like a spinning wheel on the button or next to it so show that is currently processing.\n\nCurrently, once the processing is done, a 'Download' button appears and the 'Process' button disappears. I want this to remain in effect.\n\nI will provide the JS and HTML files that need to be updated in a REPL.\n\nThe task is pretty simpl...",
         "author": "mdotbaig",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/simple-frontend-cust?t="
     },
     {
@@ -8356,7 +8356,7 @@
         "title": "Replit Spam Comments",
         "description": "This is an extremely easy bounty. I want a txt file with comments that are advertising their own repls, or another website. Each line should be a new comment. Make sure to make each comment fit in one line. The txt file should be a minimum of 100 lines. Each comment should be unique. Please don't have repeats.",
         "author": "IcemasterEric",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@IcemasterEric/replit-spam-comments?t="
     },
     {
@@ -8376,7 +8376,27 @@
         "title": "Audio transcription and summarization",
         "description": "Build an interface to upload an audio file, use the Gladia API Gladia to transcribe the audio file, then create a google doc with the text output, then summarize the output into 5 bullet points.\n\nAcceptance Criteria\n\nA GUI to upload the audio file, a way to create a google doc or other text document with the transcription, a working summary tool\n\nTechnical Details",
         "author": "ZBD96",
-        "posted_time": "49 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@ZBD96/audio-transcription?t="
+    },
+    {
+        "index": "838",
+        "price": "$4.40",
+        "due_days": "due in 1 month",
+        "title": "Find online game exploit",
+        "description": "I did post a bounty on this earlier, it was abandoned twice and then i accepted a fraud (@eric). More cycles now, and if it is completed well i will try to provide more. There is an online game called Dedalium, which is available to download as a browser extension on almost all platforms. If you think you could do a job like this, PLEASE download the extension, create an account and familiarize yourself with the code before you apply. Maybe even solve it beforehand! Whatever the case, dont apply if you do not believe it is possible. I am asking for a solution, not for someone to tell me they can't do it. I also dont want to hear that this is lazy, earn it yourself, why do you even want to hire someone to this, etc. I am paying for someone to give me an exploit, and not an ethics teacher.\n\nWhen you have downloaded and made an account and looked at the code, I want you to try to find an exploit to get free boxes in the Store -> Boxes section. (In case you were wonderi...",
+        "author": "ChaosSymmetry",
+        "posted_time": "10 minutes ago",
+        "link": "https://replit.com/bounties/@ChaosSymmetry/find-online-game-exp?t="
+    },
+    {
+        "index": "839",
+        "price": "$540.00",
+        "due_days": "due in 11 days",
+        "title": "Electron JS Chat Interface ",
+        "description": "Looking for someone who is an expert in Electron JS to build a unique AI Chat Interface. Must be able to work with an Python Backend, auth guarded, notification system(More info provided upon acceptance)\n\nAcceptance Criteria\nYou are more likely to be accepted if you a show a history of past work building a ChatApp or a MacOS app.\n\nTechnical Details\nDetails will be provided to ever gets accepted",
+        "author": "plowsai",
+        "posted_time": "6 minutes ago",
+        "link": "https://replit.com/bounties/@plowsai/electron-js-chat-int?t="
     }
 ]
