@@ -6464,7 +6464,7 @@ Acceptance Criteria
 working Gradio app with features as described
 simple logging feature using Supabase
 
-I have a technical background and really enjoy working with smart and talented developers - looking forward ...",tomwalchakAI,7 hours ago,https://replit.com/bounties/@tomwalchakAI/simple-gradio-app-to?t=
+I have a technical background and really enjoy working with smart and talented developers - looking forward ...",tomwalchakAI,8 hours ago,https://replit.com/bounties/@tomwalchakAI/simple-gradio-app-to?t=
 817,$180.00,due in 3 days,Sveltekit with Auth0 properly configured,"There is no supported library for auth0 and sveltekit. Implementations we've tried have not allowed for a working load function. Our application will call an external api for data and needs to be able to pass along the bearer token to the api.
 
 Acceptance Criteria
@@ -6503,7 +6503,7 @@ The widget will also check user wallet balance depending on cryptocurrency.
     Communicate to the user when their user wallet has insufficient funds
 Use Alchemy’s Transfers API or Tokens API.
 The widget should display “Powered by Alchemy” at the bottom of widget.
-Write thorough documentation on how you built this.",Arjun-Alchemy,4 hours ago,https://replit.com/bounties/@Arjun-Alchemy/swap-crypto-widget?t=
+Write thorough documentation on how you built this.",Arjun-Alchemy,5 hours ago,https://replit.com/bounties/@Arjun-Alchemy/swap-crypto-widget?t=
 820,"$3,421.80",due in 21 days,AI NFT Generator,"Provide an easy way to generate NFT art and mint and deploy to the Polygon or Ethereum blockchain.
 
 Acceptance Criteria
