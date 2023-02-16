@@ -6426,8 +6426,8 @@ I need an article page for the wiki
 (Grey Theme)
 
 Acceptance Criteria
-Must have discord linked to replit account or in your applications",OddGames,8 hours ago,https://replit.com/bounties/@OddGames/2-websites-make-a-wi?t=
-813,$0.90,due in 2 months,full discord bot not coppied,i need someone to make me a discord bot with warns warn logs and server list command admin commands and it should have basic moderation functions the code should be easily readable and editable if i like your work i will pay more cycles than just the 90 I will CHECK FOR IT BEING COPPIED AND IF IT IS YOU WILL NOT BE PAID AND YOU WILL BE REMOVED FROM THE BOUNTY,newunblocker,6 hours ago,https://replit.com/bounties/@newunblocker/full-discord-bot-not?t=
+Must have discord linked to replit account or in your applications",OddGames,9 hours ago,https://replit.com/bounties/@OddGames/2-websites-make-a-wi?t=
+813,$0.90,due in 2 months,full discord bot not coppied,i need someone to make me a discord bot with warns warn logs and server list command admin commands and it should have basic moderation functions the code should be easily readable and editable if i like your work i will pay more cycles than just the 90 I will CHECK FOR IT BEING COPPIED AND IF IT IS YOU WILL NOT BE PAID AND YOU WILL BE REMOVED FROM THE BOUNTY,newunblocker,7 hours ago,https://replit.com/bounties/@newunblocker/full-discord-bot-not?t=
 814,$27.00,due in 23 days,Automated Carbon Price Index,"•	Voluntary carbon markets consist of multiple methodologies and project types
 •	This means that a 1 ton carbon credit can trade between $5 and $1,000 depending on the type of project, methodology and location.
 •	This makes pricing of voluntary carbon credits extremely difficult for sellers and buyers - leading to market inefficiencies and slowing down the financing of carbon removal technologies
@@ -6438,7 +6438,7 @@ Acceptance Criteria
 •	Carbon credit pricing data to be automatically extracted from open data sources. Links to websites:
 o	https://puro.earth/CORC-co2-removal-certificate/
 o	https://platform.carbonfuture.earth/balancer/portfolios
-o	https://netzero.salesforce.com/s/category/all-project-types/0ZGEZ000000008H4...",gavlawson,5 hours ago,https://replit.com/bounties/@gavlawson/automated-carbon-pri?t=
+o	https://netzero.salesforce.com/s/category/all-project-types/0ZGEZ000000008H4...",gavlawson,6 hours ago,https://replit.com/bounties/@gavlawson/automated-carbon-pri?t=
 815,$1.80,due in 14 days,Gift Recommender App,"Objective: Develop a gift recommender web app that will allow users to get gift options based on text inputs around recipient, event, budget, etc and map the shortlisted gift options to available products.
 
 Requirements:
@@ -6446,7 +6446,7 @@ Ask users to input some basic parameters such as event, relationship with recipi
 Provide recommendations based on user inputs.
 Allow for continuous conversations with users to optimize the answers in the recommender as well as personalize it.
 Allow the user to shortlist some of the recommendations provided
-Once all the recommendations are shortlisted, given an option to see gifts matching available products in our inventory. Model will need to be trained on available products which can be pulled via an API.",vickwiz,4 hours ago,https://replit.com/bounties/@vickwiz/gift-recommender-app?t=
+Once all the recommendations are shortlisted, given an option to see gifts matching available products in our inventory. Model will need to be trained on available products which can be pulled via an API.",vickwiz,5 hours ago,https://replit.com/bounties/@vickwiz/gift-recommender-app?t=
 816,$360.00,due in 4 days,Simple Gradio app to classify text with GPT-3,"Background
 I am an experienced AI product manager and I am looking for skilled developers to work with on future projects. This is a simple end-to-end test project which will hopefully help me find someone I like working with.
 
@@ -6472,4 +6472,49 @@ A new sveltekit app, with the ability to log in to auth0, and be able to pass a 
 
 Technical Details
 Our examples have tried using an SPA version of auth0 and subscribing to stores for the ability to call the remote servers, but the subscribing to a store seems to cause issues with the load function ever refreshing. We think the right approach is something more in the next.js direct. We have an example library here, but we haven't gotten this to work either. https://github.com/rmunn/sveltekit-auth0-unofficial
-Link to Project",SteveMartocci,2 hours ago,https://replit.com/bounties/@SteveMartocci/sveltekit-with-auth0?t=
+Link to Project",SteveMartocci,3 hours ago,https://replit.com/bounties/@SteveMartocci/sveltekit-with-auth0?t=
+818,"$1,999.80",due in 18 days,Token Gating Bot,"Website owners/community owners need a way to verify the ownership of tokens or NFTs in a user's wallet and grant or restrict access to a webpage based on that information.
+
+Acceptance Criteria
+The bot must be able to verify the ownership of a user's tokens or NFTs.
+The bot must be able to grant or restrict access to a webpage based on the ownership verification.
+The bot must be easy to install and set up for website owners.
+The bot should be built for Ethereum or Polygon.
+The bot should be able to integrate with different types of wallets.
+The bot should have an interface for website owners to configure and set up.
+Make sure to use the Alchemy NFT API and Token API
+Write thorough documentation on how you built this.
+
+Alchemy x Replit Partnership
+We’re partnering with Replit to find top developers for exciting web3 projects.
+
+Additional rewards for this bounty:
+You'll be featured on Alchemy and Replit’s Twitter channels - to hundreds of thousands of people!
+Chosen c...",Arjun-Alchemy,40 minutes ago,https://replit.com/bounties/@Arjun-Alchemy/token-gating-bot?t=
+819,"$2,500.00",due in 22 days,Swap Crypto Widget ,"Dapp Description
+Create an embedded widget to allow anyone to swap tokens within their website or app.
+
+Acceptance Criteria
+The widget must allow users to trade cryptocurrencies on a DEX.
+The widget must be easy for a user to embed into a website.
+The widget should connect to a users crypto wallet like Metamask.
+The widget will also check user wallet balance depending on cryptocurrency.
+    get AssetTransfers or get TokenMetadata to understand user’s portfolio balance.
+    Communicate to the user when their user wallet has insufficient funds
+Use Alchemy’s Transfers API or Tokens API.
+The widget should display “Powered by Alchemy” at the bottom of widget.
+Write thorough documentation on how you built this.",Arjun-Alchemy,27 minutes ago,https://replit.com/bounties/@Arjun-Alchemy/swap-crypto-widget?t=
+820,"$3,421.80",due in 22 days,AI NFT Generator,"Provide an easy way to generate NFT art and mint and deploy to the Polygon or Ethereum blockchain.
+
+Acceptance Criteria
+Provide an easy-to-use UI interface for a user to generate NFTs using Dall-E API, and then mint and deploy them to the Ethereum Polygon blockchain.
+The UI must allow users to generate NFTs using Dall-E API.
+Must use the Alchemy NFT API.
+Write thorough documentation on how you built this.",Arjun-Alchemy,15 minutes ago,https://replit.com/bounties/@Arjun-Alchemy/ai-nft-generator?t=
+821,$50.00,due in 4 days,add tones and rewrite to chrome extension,"add tones to chrome extension (details shared on email)
+
+Acceptance Criteria
+
+Technical Details
+
+Link to Project",ShubhKathuria,10 minutes ago,https://replit.com/bounties/@ShubhKathuria/add-tones-and-rewrit?t=
