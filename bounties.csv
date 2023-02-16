@@ -6503,7 +6503,7 @@ The widget will also check user wallet balance depending on cryptocurrency.
     Communicate to the user when their user wallet has insufficient funds
 Use Alchemy’s Transfers API or Tokens API.
 The widget should display “Powered by Alchemy” at the bottom of widget.
-Write thorough documentation on how you built this.",Arjun-Alchemy,10 hours ago,https://replit.com/bounties/@Arjun-Alchemy/swap-crypto-widget?t=
+Write thorough documentation on how you built this.",Arjun-Alchemy,11 hours ago,https://replit.com/bounties/@Arjun-Alchemy/swap-crypto-widget?t=
 820,"$3,421.80",due in 21 days,AI NFT Generator,"Provide an easy way to generate NFT art and mint and deploy to the Polygon or Ethereum blockchain.
 
 Acceptance Criteria
@@ -6571,4 +6571,4 @@ Technical Details
 StableDiffusion preferred, but open to other tools if they are better suited
 Final version should have:
     INPUT: 3-6 images of the ""model"" in various settings (using a larger training set of the model is possible if you show it's impossible to achieve with only 3-6 images); text prompt (if needed according to the process you set up); 5 template images (possibly manually edited to emphasize the face area to replace with the model's face).
-    OUTPUT: 5 images with the model's face,...",ColinHodge,37 minutes ago,https://replit.com/bounties/@ColinHodge/stablediffusion-img2?t=
+    OUTPUT: 5 images with the model's face,...",ColinHodge,44 minutes ago,https://replit.com/bounties/@ColinHodge/stablediffusion-img2?t=
