@@ -6571,7 +6571,7 @@ Technical Details
 StableDiffusion preferred, but open to other tools if they are better suited
 Final version should have:
     INPUT: 3-6 images of the ""model"" in various settings (using a larger training set of the model is possible if you show it's impossible to achieve with only 3-6 images); text prompt (if needed according to the process you set up); 5 template images (possibly manually edited to emphasize the face area to replace with the model's face).
-    OUTPUT: 5 images with the model's face,...",ColinHodge,7 hours ago,https://replit.com/bounties/@ColinHodge/stablediffusion-img2?t=
+    OUTPUT: 5 images with the model's face,...",ColinHodge,8 hours ago,https://replit.com/bounties/@ColinHodge/stablediffusion-img2?t=
 829,$25.20,due in 5 days,The NJ Project,Data scraping tool.,fauxform,1 hour ago,https://replit.com/bounties/@fauxform/the-nj-project?t=
 830,$36.00,due in 3 days,Styled MUI DataGrid React component,"I am using Material UI's DataGrid Pro. I am currently styling it for dark mode. I need help styling the: i) columnMenu, ii) filterPanel, as well as the popup on the export button. Details in the sandbox (see below).
 
@@ -6580,7 +6580,7 @@ A MUI DataGrid Pro reusable, styled component with the three popups with a style
 This means that: i) The popup is a similar color / transparency, rounded corners, border, shadow, etc., ii) That a row is highlighted in a similar style on hover, and iii) the cursor is a pointer
 
 Link to Project
-Sample code can be found here: https://codesandbox.io/s/nifty-glitter-gb1s4x?file=/demo.tsx. You can just fork this sandbox and send to complete the work",Marc-AndreSimar,46 minutes ago,https://replit.com/bounties/@Marc-AndreSimar/styled-mui-datagrid?t=
+Sample code can be found here: https://codesandbox.io/s/nifty-glitter-gb1s4x?file=/demo.tsx. You can just fork this sandbox and send to complete the work",Marc-AndreSimar,56 minutes ago,https://replit.com/bounties/@Marc-AndreSimar/styled-mui-datagrid?t=
 831,$450.00,due in 5 days,U.S. Income and Real Estate API / Web App,"Build a web app or API where given a list of zipcodes as input, it returns the median household income and the median housing price for the given zipcodes.
 
 Acceptance Criteria
@@ -6616,7 +6616,7 @@ Timelines / Milestones
 Due by 2/23
 Milestone 1: looking up housing price by zip code works
 Milestone 2: looking up income by zip code works
-Milestone 3: looking up info with mult...",howon92,19 minutes ago,https://replit.com/bounties/@howon92/income-and-real-esta?t=
+Milestone 3: looking up info with mult...",howon92,29 minutes ago,https://replit.com/bounties/@howon92/income-and-real-esta?t=
 832,"$1,800.00",due in 25 days,Create a website which uses GPT or other LLM to query legal documents in PDF/DOCX format,"Make a question answering chatbot web app that pulls results from user-uploaded PDFs/Word docs. Primarily commercial legal documents. Technology would use LLMs like GPT and index using GPTIndex or Langchain and deployed for production (can be anywhere ie Replit).
 
 We will test the tool with a few questions regarding information inside the legal documents. Should be able to query questions over many documents, not just a single document. It should also be able to ""quote"" the relevant section of the document it is getting data from.
@@ -6624,4 +6624,19 @@ We will test the tool with a few questions regarding information inside the lega
 Acceptance Criteria
 The chatbot should have a simple interface.
 We will provide an sample documents which the user should be able to upload and the chatbot should be able to query.
-The chatbot must be able to generate a proper response regarding data in the pdfs.",GrahamWahlberg,13 seconds ago,https://replit.com/bounties/@GrahamWahlberg/create-a-website-whi?t=
+The chatbot must be able to generate a proper response regarding data in the pdfs.",GrahamWahlberg,10 minutes ago,https://replit.com/bounties/@GrahamWahlberg/create-a-website-whi?t=
+833,$20.00,due in 3 days,Simple frontend customization - Make a button un-clickable and generate processing symbol,"I have a webapp that takes a csv and processes it.
+
+On the dashboard the user has the option to choose a file. And there is a 'Process' button immediately below it.
+
+Currently, when they click the 'Process' button, it begins processing their csv. However, the 'Process' button remains click-able and if the user re-clicks the button it will call the Process function again.
+
+I need you to make it so that once the process button is clicked and begins processing the request, the user can no longer click the 'Process' button. I also want the 'Process' button to be grayed out so that it is clear that the csv is processing.
+
+I would like you to also had some kind of symbol, like a spinning wheel on the button or next to it so show that is currently processing.
+
+Currently, once the processing is done, a 'Download' button appears and the 'Process' button disappears. I want this to remain in effect.
+
+I will provide the JS and HTML files that need to be updated in a REPL.
+
+The task is pretty simpl...",mdotbaig,5 minutes ago,https://replit.com/bounties/@mdotbaig/simple-frontend-cust?t=
