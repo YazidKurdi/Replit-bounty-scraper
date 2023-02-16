@@ -6510,14 +6510,14 @@ Acceptance Criteria
 Provide an easy-to-use UI interface for a user to generate NFTs using Dall-E API, and then mint and deploy them to the Ethereum Polygon blockchain.
 The UI must allow users to generate NFTs using Dall-E API.
 Must use the Alchemy NFT API.
-Write thorough documentation on how you built this.",Arjun-Alchemy,12 hours ago,https://replit.com/bounties/@Arjun-Alchemy/ai-nft-generator?t=
+Write thorough documentation on how you built this.",Arjun-Alchemy,13 hours ago,https://replit.com/bounties/@Arjun-Alchemy/ai-nft-generator?t=
 821,$50.00,due in 3 days,add tones and rewrite to chrome extension,"add tones to chrome extension (details shared on email)
 
 Acceptance Criteria
 
 Technical Details
 
-Link to Project",ShubhKathuria,12 hours ago,https://replit.com/bounties/@ShubhKathuria/add-tones-and-rewrit?t=
+Link to Project",ShubhKathuria,13 hours ago,https://replit.com/bounties/@ShubhKathuria/add-tones-and-rewrit?t=
 822,$360.00,due in 16 days,Build a bleeding edge tech web app boilerplate,"I'm looking to build a very fast web app boilerplate. Similar to those listed here: https://airtable.com/appkZ6JqxCoHFN9uK/tbluwp5EOvg9qtCwC/viwci6Ce98bSGkIQZ?blocks=hide, it's meant to be a ready made starting point for a basic Saas web app with sensible defaults that can then be customized further. In this case the defaults will be less sensible and more bleeding edge, fun tech to work with :-)
 
 If you do this well and get productive with the stack - we can move forward by building and actual SaaS app on top of the boilerplate.
@@ -6559,8 +6559,8 @@ Link to Project
 
 This is the first step in a personal AI project. I will be submitting more bounties to extend this project to:
 
-Make it multi-user, store user details, add ...",pilkster,6 hours ago,https://replit.com/bounties/@pilkster/duplicate-functional?t=
-827,$54.00,due in 13 days,Maintenance of TrustPilot tool,As discussed,AndrewShowman,5 hours ago,https://replit.com/bounties/@AndrewShowman/maintenance-of-trust?t=
+Make it multi-user, store user details, add ...",pilkster,7 hours ago,https://replit.com/bounties/@pilkster/duplicate-functional?t=
+827,$54.00,due in 13 days,Maintenance of TrustPilot tool,As discussed,AndrewShowman,6 hours ago,https://replit.com/bounties/@AndrewShowman/maintenance-of-trust?t=
 828,$499.50,due in 6 days,"StableDiffusion img2img trainable with new models, replacing person in template images","Goal is to utilize a few template images, replacing only the person in the template image with a different person using as small number of training images of the new subject as possible
 Once you achieve satisfactory image results, you should be able to optimize the processes for speed, cost, and number of training images needed
 

@@ -8206,7 +8206,7 @@
         "title": "AI NFT Generator",
         "description": "Provide an easy way to generate NFT art and mint and deploy to the Polygon or Ethereum blockchain.\n\nAcceptance Criteria\nProvide an easy-to-use UI interface for a user to generate NFTs using Dall-E API, and then mint and deploy them to the Ethereum Polygon blockchain.\nThe UI must allow users to generate NFTs using Dall-E API.\nMust use the Alchemy NFT API.\nWrite thorough documentation on how you built this.",
         "author": "Arjun-Alchemy",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@Arjun-Alchemy/ai-nft-generator?t="
     },
     {
@@ -8216,7 +8216,7 @@
         "title": "add tones and rewrite to chrome extension",
         "description": "add tones to chrome extension (details shared on email)\n\nAcceptance Criteria\n\nTechnical Details\n\nLink to Project",
         "author": "ShubhKathuria",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@ShubhKathuria/add-tones-and-rewrit?t="
     },
     {
@@ -8266,7 +8266,7 @@
         "title": "Duplicate functionality from existing HF repo and modify",
         "description": "This bounty will form the foundation of a personal AI project. This bounty is to duplicate the functionality of an existing Hugging Face repo to Replit, and make some changes to make it more easily accessible and useful.\n\nAcceptance Criteria\n\nDuplicate the functionality of https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain to Replit\nMake a web-accessible front end where the user can type or speak their query, and the bot returns a text or spoken response, including the \u2018talking head\u2019 (the \u2018chat\u2019 tab as seen on Hugging Face)\nMake a password-protected back end to house the settings and configuration tabs (the Settings, Whisper, STT, Translate to, Formality, Lit style, Emotions, Max words, Embeddings tabs as seen on Hugging Face), plus another tab for API keys.\n\nTechnical Details\n\npython\n\nLink to Project\n\nThis is the first step in a personal AI project. I will be submitting more bounties to extend this project to:\n\nMake it multi-user, store user details, add ...",
         "author": "pilkster",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@pilkster/duplicate-functional?t="
     },
     {
@@ -8276,7 +8276,7 @@
         "title": "Maintenance of TrustPilot tool",
         "description": "As discussed",
         "author": "AndrewShowman",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/maintenance-of-trust?t="
     },
     {
