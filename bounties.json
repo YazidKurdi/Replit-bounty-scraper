@@ -8296,7 +8296,7 @@
         "title": "The NJ Project",
         "description": "Data scraping tool.",
         "author": "fauxform",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@fauxform/the-nj-project?t="
     },
     {
@@ -8316,7 +8316,7 @@
         "title": "U.S. Income and Real Estate API / Web App",
         "description": "Build a web app or API where given a list of zipcodes as input, it returns the median household income and the median housing price for the given zipcodes.\n\nAcceptance Criteria\nDeploy a web app where I can test it and verify that the information is correct\nThe API can like be the following:\n\nGET /api/median_income/\n{\n  10001: 43342,\n  10002: 53341,\n}\n\nGET /api/medianhousingprice/\n{\n  10001: 93342,\n  10002: 83341,\n}\n\nGET /api/summary/\n{\n  10001: {\n    median_income: 43342,\n    medianhousingprice: 93342,\n  }\n}\n\nTechnical Details\nThe following might be useful data sources (use whatever works, but the data has to reflect info after 2021)\n  Census data: https://www.reddit.com/r/datasets/comments/hixfeo/howtoobtainmedianincomedataforzipcodes/\n  Housing data: https://www.zillow.com/research/data/\n\nTimelines / Milestones\nDue by 2/23\nMilestone 1: looking up housing price by zip code works\nMilestone 2: looking up income by zip code works\nMilestone 3: looking up info with mult...",
         "author": "howon92",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@howon92/income-and-real-esta?t="
     },
     {
