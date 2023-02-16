@@ -6661,7 +6661,7 @@ A MUI DataGrid Pro reusable, styled component with the three popups with a style
 This means that: i) The popup is a similar color / transparency, rounded corners, border, shadow, etc., ii) That a row is highlighted in a similar style on hover, and iii) the cursor is a pointer
 
 Link to Project
-Sample code can be found here: https://codesandbox.io/s/nifty-glitter-gb1s4x?file=/demo.tsx. You can just fork this sandbox and send to complete the work",marsimard,6 hours ago,https://replit.com/bounties/@marsimard/styled-mui-datagrid?t=
+Sample code can be found here: https://codesandbox.io/s/nifty-glitter-gb1s4x?file=/demo.tsx. You can just fork this sandbox and send to complete the work",marsimard,7 hours ago,https://replit.com/bounties/@marsimard/styled-mui-datagrid?t=
 837,$90.00,due in 3 days,Audio transcription and summarization,"Build an interface to upload an audio file, use the Gladia API Gladia to transcribe the audio file, then create a google doc with the text output, then summarize the output into 5 bullet points.
 
 Acceptance Criteria
@@ -6679,3 +6679,17 @@ You are more likely to be accepted if you a show a history of past work building
 
 Technical Details
 Details will be provided to ever gets accepted",plowsai,1 hour ago,https://replit.com/bounties/@plowsai/electron-js-chat-int?t=
+840,$450.00,due in 1 month,AI chatbot to allow tenants to find a property to rend,"Seeking a developer that can build a chatbot that will be accessible via facebook to chat with potential tenants interested in renting apartment/ rooms/ houses.
+
+The chatbot should be able to:
+
+provide all the answers the tenant wants about the properties available for what they are looking for
+gather information about the tenant to be able to understand its profile and whether or not it could be a good fit to rent (i.e. age, gender, occupation, guarantor)
+    track those information into a dashboard for the owner
+Keep track of all the demand and push for visits for the persons having a good profile
+the owner should be able to jump into the conversation when the AI is not able to answer or to add more details
+
+Bonus point:
+
+the AI optimize the scheduling of the visits to lower the time needed for the owner
+the AI knows when another unit might be available, if the current one is currently in process of being rented or not available anymore, and suggest it to the use...",csese,13 minutes ago,https://replit.com/bounties/@csese/ai-chatbot-to-allow?t=
