@@ -6517,7 +6517,7 @@ Acceptance Criteria
 
 Technical Details
 
-Link to Project",ShubhKathuria,16 hours ago,https://replit.com/bounties/@ShubhKathuria/add-tones-and-rewrit?t=
+Link to Project",ShubhKathuria,17 hours ago,https://replit.com/bounties/@ShubhKathuria/add-tones-and-rewrit?t=
 822,$360.00,due in 16 days,Build a bleeding edge tech web app boilerplate,"I'm looking to build a very fast web app boilerplate. Similar to those listed here: https://airtable.com/appkZ6JqxCoHFN9uK/tbluwp5EOvg9qtCwC/viwci6Ce98bSGkIQZ?blocks=hide, it's meant to be a ready made starting point for a basic Saas web app with sensible defaults that can then be customized further. In this case the defaults will be less sensible and more bleeding edge, fun tech to work with :-)
 
 If you do this well and get productive with the stack - we can move forward by building and actual SaaS app on top of the boilerplate.
@@ -6572,7 +6572,7 @@ StableDiffusion preferred, but open to other tools if they are better suited
 Final version should have:
     INPUT: 3-6 images of the ""model"" in various settings (using a larger training set of the model is possible if you show it's impossible to achieve with only 3-6 images); text prompt (if needed according to the process you set up); 5 template images (possibly manually edited to emphasize the face area to replace with the model's face).
     OUTPUT: 5 images with the model's face,...",ColinHodge,7 hours ago,https://replit.com/bounties/@ColinHodge/stablediffusion-img2?t=
-829,$25.20,due in 7 days,The NJ Project,Data scraping tool.,fauxform,36 minutes ago,https://replit.com/bounties/@fauxform/the-nj-project?t=
+829,$25.20,due in 7 days,The NJ Project,Data scraping tool.,fauxform,51 minutes ago,https://replit.com/bounties/@fauxform/the-nj-project?t=
 830,$36.00,due in 3 days,Styled MUI DataGrid React component,"I am using Material UI's DataGrid Pro. I am currently styling it for dark mode. I need help styling the: i) columnMenu, ii) filterPanel, as well as the popup on the export button. Details in the sandbox (see below).
 
 Acceptance Criteria
@@ -6580,4 +6580,4 @@ A MUI DataGrid Pro reusable, styled component with the three popups with a style
 This means that: i) The popup is a similar color / transparency, rounded corners, border, shadow, etc., ii) That a row is highlighted in a similar style on hover, and iii) the cursor is a pointer
 
 Link to Project
-Sample code can be found here: https://codesandbox.io/s/nifty-glitter-gb1s4x?file=/demo.tsx. You can just fork this sandbox and send to complete the work",Marc-AndreSimar,6 minutes ago,https://replit.com/bounties/@Marc-AndreSimar/styled-mui-datagrid?t=
+Sample code can be found here: https://codesandbox.io/s/nifty-glitter-gb1s4x?file=/demo.tsx. You can just fork this sandbox and send to complete the work",Marc-AndreSimar,21 minutes ago,https://replit.com/bounties/@Marc-AndreSimar/styled-mui-datagrid?t=
