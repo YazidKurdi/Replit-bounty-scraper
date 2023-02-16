@@ -8376,7 +8376,7 @@
         "title": "Audio transcription and summarization",
         "description": "Build an interface to upload an audio file, use the Gladia API Gladia to transcribe the audio file, then create a google doc with the text output, then summarize the output into 5 bullet points.\n\nAcceptance Criteria\n\nA GUI to upload the audio file, a way to create a google doc or other text document with the transcription, a working summary tool\n\nTechnical Details",
         "author": "ZBD96",
-        "posted_time": "18 minutes ago",
+        "posted_time": "29 minutes ago",
         "link": "https://replit.com/bounties/@ZBD96/audio-transcription?t="
     }
 ]
