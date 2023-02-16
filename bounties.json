@@ -8296,7 +8296,7 @@
         "title": "The NJ Project",
         "description": "Data scraping tool.",
         "author": "fauxform",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@fauxform/the-nj-project?t="
     },
     {
@@ -8316,7 +8316,7 @@
         "title": "U.S. Income and Real Estate API / Web App",
         "description": "Build a web app or API where given a list of zipcodes as input, it returns the median household income and the median housing price for the given zipcodes.\n\nAcceptance Criteria\nDeploy a web app where I can test it and verify that the information is correct\nThe API can like be the following:\n\nGET /api/median_income/\n{\n  10001: 43342,\n  10002: 53341,\n}\n\nGET /api/medianhousingprice/\n{\n  10001: 93342,\n  10002: 83341,\n}\n\nGET /api/summary/\n{\n  10001: {\n    median_income: 43342,\n    medianhousingprice: 93342,\n  }\n}\n\nTechnical Details\nThe following might be useful data sources (use whatever works, but the data has to reflect info after 2021)\n  Census data: https://www.reddit.com/r/datasets/comments/hixfeo/howtoobtainmedianincomedataforzipcodes/\n  Housing data: https://www.zillow.com/research/data/\n\nTimelines / Milestones\nDue by 2/23\nMilestone 1: looking up housing price by zip code works\nMilestone 2: looking up income by zip code works\nMilestone 3: looking up info with mult...",
         "author": "howon92",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@howon92/income-and-real-esta?t="
     },
     {
@@ -8386,7 +8386,7 @@
         "title": "Find online game exploit",
         "description": "I did post a bounty on this earlier, it was abandoned twice and then i accepted a fraud (@eric). More cycles now, and if it is completed well i will try to provide more. There is an online game called Dedalium, which is available to download as a browser extension on almost all platforms. If you think you could do a job like this, PLEASE download the extension, create an account and familiarize yourself with the code before you apply. Maybe even solve it beforehand! Whatever the case, dont apply if you do not believe it is possible. I am asking for a solution, not for someone to tell me they can't do it. I also dont want to hear that this is lazy, earn it yourself, why do you even want to hire someone to this, etc. I am paying for someone to give me an exploit, and not an ethics teacher.\n\nWhen you have downloaded and made an account and looked at the code, I want you to try to find an exploit to get free boxes in the Store -> Boxes section. (In case you were wonderi...",
         "author": "ChaosSymmetry",
-        "posted_time": "44 minutes ago",
+        "posted_time": "54 minutes ago",
         "link": "https://replit.com/bounties/@ChaosSymmetry/find-online-game-exp?t="
     },
     {
@@ -8396,7 +8396,7 @@
         "title": "Electron JS Chat Interface ",
         "description": "Looking for someone who is an expert in Electron JS to build a unique AI Chat Interface. Must be able to work with an Python Backend, auth guarded, notification system(More info provided upon acceptance)\n\nAcceptance Criteria\nYou are more likely to be accepted if you a show a history of past work building a ChatApp or a MacOS app.\n\nTechnical Details\nDetails will be provided to ever gets accepted",
         "author": "plowsai",
-        "posted_time": "40 minutes ago",
+        "posted_time": "50 minutes ago",
         "link": "https://replit.com/bounties/@plowsai/electron-js-chat-int?t="
     }
 ]

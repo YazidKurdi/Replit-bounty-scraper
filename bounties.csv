@@ -6572,7 +6572,7 @@ StableDiffusion preferred, but open to other tools if they are better suited
 Final version should have:
     INPUT: 3-6 images of the ""model"" in various settings (using a larger training set of the model is possible if you show it's impossible to achieve with only 3-6 images); text prompt (if needed according to the process you set up); 5 template images (possibly manually edited to emphasize the face area to replace with the model's face).
     OUTPUT: 5 images with the model's face,...",ColinHodge,12 hours ago,https://replit.com/bounties/@ColinHodge/stablediffusion-img2?t=
-829,$25.20,due in 5 days,The NJ Project,Data scraping tool.,fauxform,6 hours ago,https://replit.com/bounties/@fauxform/the-nj-project?t=
+829,$25.20,due in 5 days,The NJ Project,Data scraping tool.,fauxform,7 hours ago,https://replit.com/bounties/@fauxform/the-nj-project?t=
 830,$36.00,due in 3 days,Styled MUI DataGrid React component,"I am using Material UI's DataGrid Pro. I am currently styling it for dark mode. I need help styling the: i) columnMenu, ii) filterPanel, as well as the popup on the export button. Details in the sandbox (see below).
 
 Acceptance Criteria
@@ -6616,7 +6616,7 @@ Timelines / Milestones
 Due by 2/23
 Milestone 1: looking up housing price by zip code works
 Milestone 2: looking up income by zip code works
-Milestone 3: looking up info with mult...",howon92,5 hours ago,https://replit.com/bounties/@howon92/income-and-real-esta?t=
+Milestone 3: looking up info with mult...",howon92,6 hours ago,https://replit.com/bounties/@howon92/income-and-real-esta?t=
 832,"$1,800.00",due in 25 days,Create a website which uses GPT or other LLM to query legal documents in PDF/DOCX format,"Make a question answering chatbot web app that pulls results from user-uploaded PDFs/Word docs. Primarily commercial legal documents. Technology would use LLMs like GPT and index using GPTIndex or Langchain and deployed for production (can be anywhere ie Replit).
 
 We will test the tool with a few questions regarding information inside the legal documents. Should be able to query questions over many documents, not just a single document. It should also be able to ""quote"" the relevant section of the document it is getting data from.
@@ -6671,11 +6671,11 @@ A GUI to upload the audio file, a way to create a google doc or other text docum
 Technical Details",ZBD96,2 hours ago,https://replit.com/bounties/@ZBD96/audio-transcription?t=
 838,$4.40,due in 1 month,Find online game exploit,"I did post a bounty on this earlier, it was abandoned twice and then i accepted a fraud (@eric). More cycles now, and if it is completed well i will try to provide more. There is an online game called Dedalium, which is available to download as a browser extension on almost all platforms. If you think you could do a job like this, PLEASE download the extension, create an account and familiarize yourself with the code before you apply. Maybe even solve it beforehand! Whatever the case, dont apply if you do not believe it is possible. I am asking for a solution, not for someone to tell me they can't do it. I also dont want to hear that this is lazy, earn it yourself, why do you even want to hire someone to this, etc. I am paying for someone to give me an exploit, and not an ethics teacher.
 
-When you have downloaded and made an account and looked at the code, I want you to try to find an exploit to get free boxes in the Store -> Boxes section. (In case you were wonderi...",ChaosSymmetry,44 minutes ago,https://replit.com/bounties/@ChaosSymmetry/find-online-game-exp?t=
+When you have downloaded and made an account and looked at the code, I want you to try to find an exploit to get free boxes in the Store -> Boxes section. (In case you were wonderi...",ChaosSymmetry,54 minutes ago,https://replit.com/bounties/@ChaosSymmetry/find-online-game-exp?t=
 839,$540.00,due in 19 days,Electron JS Chat Interface ,"Looking for someone who is an expert in Electron JS to build a unique AI Chat Interface. Must be able to work with an Python Backend, auth guarded, notification system(More info provided upon acceptance)
 
 Acceptance Criteria
 You are more likely to be accepted if you a show a history of past work building a ChatApp or a MacOS app.
 
 Technical Details
-Details will be provided to ever gets accepted",plowsai,40 minutes ago,https://replit.com/bounties/@plowsai/electron-js-chat-int?t=
+Details will be provided to ever gets accepted",plowsai,50 minutes ago,https://replit.com/bounties/@plowsai/electron-js-chat-int?t=
