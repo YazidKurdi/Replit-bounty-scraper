@@ -8316,7 +8316,7 @@
         "title": "U.S. Income and Real Estate API / Web App",
         "description": "Build a web app or API where given a list of zipcodes as input, it returns the median household income and the median housing price for the given zipcodes.\n\nAcceptance Criteria\nDeploy a web app where I can test it and verify that the information is correct\nThe API can like be the following:\n\nGET /api/median_income/\n{\n  10001: 43342,\n  10002: 53341,\n}\n\nGET /api/medianhousingprice/\n{\n  10001: 93342,\n  10002: 83341,\n}\n\nGET /api/summary/\n{\n  10001: {\n    median_income: 43342,\n    medianhousingprice: 93342,\n  }\n}\n\nTechnical Details\nThe following might be useful data sources (use whatever works, but the data has to reflect info after 2021)\n  Census data: https://www.reddit.com/r/datasets/comments/hixfeo/howtoobtainmedianincomedataforzipcodes/\n  Housing data: https://www.zillow.com/research/data/\n\nTimelines / Milestones\nDue by 2/23\nMilestone 1: looking up housing price by zip code works\nMilestone 2: looking up income by zip code works\nMilestone 3: looking up info with mult...",
         "author": "howon92",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@howon92/income-and-real-esta?t="
     },
     {
@@ -8406,7 +8406,7 @@
         "title": "AI chatbot to allow tenants to find a property to rend",
         "description": "Seeking a developer that can build a chatbot that will be accessible via facebook to chat with potential tenants interested in renting apartment/ rooms/ houses.\n\nThe chatbot should be able to:\n\nprovide all the answers the tenant wants about the properties available for what they are looking for\ngather information about the tenant to be able to understand its profile and whether or not it could be a good fit to rent (i.e. age, gender, occupation, guarantor)\n    track those information into a dashboard for the owner\nKeep track of all the demand and push for visits for the persons having a good profile\nthe owner should be able to jump into the conversation when the AI is not able to answer or to add more details\n\nBonus point:\n\nthe AI optimize the scheduling of the visits to lower the time needed for the owner\nthe AI knows when another unit might be available, if the current one is currently in process of being rented or not available anymore, and suggest it to the use...",
         "author": "csese",
-        "posted_time": "30 minutes ago",
+        "posted_time": "40 minutes ago",
         "link": "https://replit.com/bounties/@csese/ai-chatbot-to-allow?t="
     }
 ]

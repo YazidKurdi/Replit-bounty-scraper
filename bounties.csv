@@ -6616,7 +6616,7 @@ Timelines / Milestones
 Due by 2/23
 Milestone 1: looking up housing price by zip code works
 Milestone 2: looking up income by zip code works
-Milestone 3: looking up info with mult...",howon92,6 hours ago,https://replit.com/bounties/@howon92/income-and-real-esta?t=
+Milestone 3: looking up info with mult...",howon92,7 hours ago,https://replit.com/bounties/@howon92/income-and-real-esta?t=
 832,"$1,800.00",due in 25 days,Create a website which uses GPT or other LLM to query legal documents in PDF/DOCX format,"Make a question answering chatbot web app that pulls results from user-uploaded PDFs/Word docs. Primarily commercial legal documents. Technology would use LLMs like GPT and index using GPTIndex or Langchain and deployed for production (can be anywhere ie Replit).
 
 We will test the tool with a few questions regarding information inside the legal documents. Should be able to query questions over many documents, not just a single document. It should also be able to ""quote"" the relevant section of the document it is getting data from.
@@ -6692,4 +6692,4 @@ the owner should be able to jump into the conversation when the AI is not able t
 Bonus point:
 
 the AI optimize the scheduling of the visits to lower the time needed for the owner
-the AI knows when another unit might be available, if the current one is currently in process of being rented or not available anymore, and suggest it to the use...",csese,30 minutes ago,https://replit.com/bounties/@csese/ai-chatbot-to-allow?t=
+the AI knows when another unit might be available, if the current one is currently in process of being rented or not available anymore, and suggest it to the use...",csese,40 minutes ago,https://replit.com/bounties/@csese/ai-chatbot-to-allow?t=
