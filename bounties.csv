@@ -6510,14 +6510,14 @@ Acceptance Criteria
 Provide an easy-to-use UI interface for a user to generate NFTs using Dall-E API, and then mint and deploy them to the Ethereum Polygon blockchain.
 The UI must allow users to generate NFTs using Dall-E API.
 Must use the Alchemy NFT API.
-Write thorough documentation on how you built this.",Arjun-Alchemy,9 hours ago,https://replit.com/bounties/@Arjun-Alchemy/ai-nft-generator?t=
+Write thorough documentation on how you built this.",Arjun-Alchemy,10 hours ago,https://replit.com/bounties/@Arjun-Alchemy/ai-nft-generator?t=
 821,$50.00,due in 4 days,add tones and rewrite to chrome extension,"add tones to chrome extension (details shared on email)
 
 Acceptance Criteria
 
 Technical Details
 
-Link to Project",ShubhKathuria,9 hours ago,https://replit.com/bounties/@ShubhKathuria/add-tones-and-rewrit?t=
+Link to Project",ShubhKathuria,10 hours ago,https://replit.com/bounties/@ShubhKathuria/add-tones-and-rewrit?t=
 822,$360.00,due in 17 days,Build a bleeding edge tech web app boilerplate,"I'm looking to build a very fast web app boilerplate. Similar to those listed here: https://airtable.com/appkZ6JqxCoHFN9uK/tbluwp5EOvg9qtCwC/viwci6Ce98bSGkIQZ?blocks=hide, it's meant to be a ready made starting point for a basic Saas web app with sensible defaults that can then be customized further. In this case the defaults will be less sensible and more bleeding edge, fun tech to work with :-)
 
 If you do this well and get productive with the stack - we can move forward by building and actual SaaS app on top of the boilerplate.
@@ -6561,3 +6561,14 @@ This is the first step in a personal AI project. I will be submitting more bount
 
 Make it multi-user, store user details, add ...",pilkster,3 hours ago,https://replit.com/bounties/@pilkster/duplicate-functional?t=
 827,$54.00,due in 14 days,Maintenance of TrustPilot tool,As discussed,AndrewShowman,2 hours ago,https://replit.com/bounties/@AndrewShowman/maintenance-of-trust?t=
+828,$499.50,due in 7 days,"StableDiffusion img2img trainable with new models, replacing person in template images","Goal is to utilize a few template images, replacing only the person in the template image with a different person using as small number of training images of the new subject as possible
+Once you achieve satisfactory image results, you should be able to optimize the processes for speed, cost, and number of training images needed
+
+Acceptance Criteria
+Realistic looking generated images without noticeable defects or ""uncanny"" feeling, suitable for usage at ~800x800 pixels.
+
+Technical Details
+StableDiffusion preferred, but open to other tools if they are better suited
+Final version should have:
+    INPUT: 3-6 images of the ""model"" in various settings (using a larger training set of the model is possible if you show it's impossible to achieve with only 3-6 images); text prompt (if needed according to the process you set up); 5 template images (possibly manually edited to emphasize the face area to replace with the model's face).
+    OUTPUT: 5 images with the model's face,...",ColinHodge,21 seconds ago,https://replit.com/bounties/@ColinHodge/stablediffusion-img2?t=
