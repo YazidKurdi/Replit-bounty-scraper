@@ -8186,7 +8186,7 @@
         "title": "Token Gating Bot",
         "description": "Website owners/community owners need a way to verify the ownership of tokens or NFTs in a user's wallet and grant or restrict access to a webpage based on that information.\n\nAcceptance Criteria\nThe bot must be able to verify the ownership of a user's tokens or NFTs.\nThe bot must be able to grant or restrict access to a webpage based on the ownership verification.\nThe bot must be easy to install and set up for website owners.\nThe bot should be built for Ethereum or Polygon.\nThe bot should be able to integrate with different types of wallets.\nThe bot should have an interface for website owners to configure and set up.\nMake sure to use the Alchemy NFT API and Token API\nWrite thorough documentation on how you built this.\n\nAlchemy x Replit Partnership\nWe\u2019re partnering with Replit to find top developers for exciting web3 projects.\n\nAdditional rewards for this bounty:\nYou'll be featured on Alchemy and Replit\u2019s Twitter channels - to hundreds of thousands of people!\nChosen c...",
         "author": "Arjun-Alchemy",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@Arjun-Alchemy/token-gating-bot?t="
     },
     {
