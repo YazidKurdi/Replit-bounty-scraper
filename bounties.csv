@@ -6560,7 +6560,7 @@ Link to Project
 This is the first step in a personal AI project. I will be submitting more bounties to extend this project to:
 
 Make it multi-user, store user details, add ...",pilkster,14 hours ago,https://replit.com/bounties/@pilkster/duplicate-functional?t=
-827,$54.00,due in 13 days,Maintenance of TrustPilot tool,As discussed,AndrewShowman,13 hours ago,https://replit.com/bounties/@AndrewShowman/maintenance-of-trust?t=
+827,$54.00,due in 13 days,Maintenance of TrustPilot tool,As discussed,AndrewShowman,14 hours ago,https://replit.com/bounties/@AndrewShowman/maintenance-of-trust?t=
 828,$499.50,due in 6 days,"StableDiffusion img2img trainable with new models, replacing person in template images","Goal is to utilize a few template images, replacing only the person in the template image with a different person using as small number of training images of the new subject as possible
 Once you achieve satisfactory image results, you should be able to optimize the processes for speed, cost, and number of training images needed
 
@@ -6661,11 +6661,11 @@ A MUI DataGrid Pro reusable, styled component with the three popups with a style
 This means that: i) The popup is a similar color / transparency, rounded corners, border, shadow, etc., ii) That a row is highlighted in a similar style on hover, and iii) the cursor is a pointer
 
 Link to Project
-Sample code can be found here: https://codesandbox.io/s/nifty-glitter-gb1s4x?file=/demo.tsx. You can just fork this sandbox and send to complete the work",marsimard,4 hours ago,https://replit.com/bounties/@marsimard/styled-mui-datagrid?t=
+Sample code can be found here: https://codesandbox.io/s/nifty-glitter-gb1s4x?file=/demo.tsx. You can just fork this sandbox and send to complete the work",marsimard,5 hours ago,https://replit.com/bounties/@marsimard/styled-mui-datagrid?t=
 837,$90.00,due in 3 days,Audio transcription and summarization,"Build an interface to upload an audio file, use the Gladia API Gladia to transcribe the audio file, then create a google doc with the text output, then summarize the output into 5 bullet points.
 
 Acceptance Criteria
 
 A GUI to upload the audio file, a way to create a google doc or other text document with the transcription, a working summary tool
 
-Technical Details",ZBD96,5 minutes ago,https://replit.com/bounties/@ZBD96/audio-transcription?t=
+Technical Details",ZBD96,18 minutes ago,https://replit.com/bounties/@ZBD96/audio-transcription?t=

@@ -8276,7 +8276,7 @@
         "title": "Maintenance of TrustPilot tool",
         "description": "As discussed",
         "author": "AndrewShowman",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/maintenance-of-trust?t="
     },
     {
@@ -8366,7 +8366,7 @@
         "title": "Styled MUI DataGrid React component",
         "description": "I am using Material UI's DataGrid Pro. I am currently styling it for dark mode. I need help styling the: i) columnMenu, ii) filterPanel, as well as the popup on the export button. Details in the sandbox (see below).\n\nAcceptance Criteria\nA MUI DataGrid Pro reusable, styled component with the three popups with a style similar to linear.app screenshot here\nThis means that: i) The popup is a similar color / transparency, rounded corners, border, shadow, etc., ii) That a row is highlighted in a similar style on hover, and iii) the cursor is a pointer\n\nLink to Project\nSample code can be found here: https://codesandbox.io/s/nifty-glitter-gb1s4x?file=/demo.tsx. You can just fork this sandbox and send to complete the work",
         "author": "marsimard",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@marsimard/styled-mui-datagrid?t="
     },
     {
@@ -8376,7 +8376,7 @@
         "title": "Audio transcription and summarization",
         "description": "Build an interface to upload an audio file, use the Gladia API Gladia to transcribe the audio file, then create a google doc with the text output, then summarize the output into 5 bullet points.\n\nAcceptance Criteria\n\nA GUI to upload the audio file, a way to create a google doc or other text document with the transcription, a working summary tool\n\nTechnical Details",
         "author": "ZBD96",
-        "posted_time": "5 minutes ago",
+        "posted_time": "18 minutes ago",
         "link": "https://replit.com/bounties/@ZBD96/audio-transcription?t="
     }
 ]
