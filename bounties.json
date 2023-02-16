@@ -8326,7 +8326,7 @@
         "title": "Create a website which uses GPT or other LLM to query legal documents in PDF/DOCX format",
         "description": "Make a question answering chatbot web app that pulls results from user-uploaded PDFs/Word docs. Primarily commercial legal documents. Technology would use LLMs like GPT and index using GPTIndex or Langchain and deployed for production (can be anywhere ie Replit).\n\nWe will test the tool with a few questions regarding information inside the legal documents. Should be able to query questions over many documents, not just a single document. It should also be able to \"quote\" the relevant section of the document it is getting data from.\n\nAcceptance Criteria\nThe chatbot should have a simple interface.\nWe will provide an sample documents which the user should be able to upload and the chatbot should be able to query.\nThe chatbot must be able to generate a proper response regarding data in the pdfs.",
         "author": "GrahamWahlberg",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@GrahamWahlberg/create-a-website-whi?t="
     },
     {
@@ -8346,7 +8346,7 @@
         "title": "Argument Breakdown AI Tool",
         "description": "I am looking for someone to create an AI/GPT-3 based tool for argument breakdowns, with a specific visualization in the form of a decision tree. I have a Figma of the design but the idea is the visualize in the form of decision tree, a quick summary of the top rated points, and a live chat for group discussion.\n\nA new 'question' inputted to start a discussion should be shareable and therefore needs to be able to be saved into a catalog (i.e a new page acting as the library/feed/search ability) as well as signing up with (e.g. with email)\n\nAcceptance Criteria\nA prototype showing the ability to:\n1) create a decision tree interface\n2) enable the decision tree to be populated with for and against statements, auto-filled by GPT (even better if something like Perplexity, where sources can be shared) with short (tweet-length) answers\n3) a live text/discussion for public commentary\n4) upvote and downvote optionality\n5) newsfeed with list of all discussions started\n\nTechnica...",
         "author": "JonColler",
-        "posted_time": "47 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@JonColler/argument-breakdown-a?t="
     }
 ]
