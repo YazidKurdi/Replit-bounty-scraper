@@ -6542,7 +6542,7 @@ https://colab.research.google.com/drive/10rHVg6GlX2PUIzgS55hkOGRuIAZJQx3h?usp=sh
 
  I'm looking for someone with the new Bing access to share their U_Cookie (it's one of the cookies that shows up in your cookies when on Bing.com search.)
 
-Must be ok with potentially losing access due to IP ban.",aidantorrence,12 hours ago,https://replit.com/bounties/@aidantorrence/bing-ai-u-cookie?t=
+Must be ok with potentially losing access due to IP ban.",aidantorrence,13 hours ago,https://replit.com/bounties/@aidantorrence/bing-ai-u-cookie?t=
 826,$90.00,due in 3 days,Duplicate functionality from existing HF repo and modify,"This bounty will form the foundation of a personal AI project. This bounty is to duplicate the functionality of an existing Hugging Face repo to Replit, and make some changes to make it more easily accessible and useful.
 
 Acceptance Criteria
@@ -6580,7 +6580,7 @@ A MUI DataGrid Pro reusable, styled component with the three popups with a style
 This means that: i) The popup is a similar color / transparency, rounded corners, border, shadow, etc., ii) That a row is highlighted in a similar style on hover, and iii) the cursor is a pointer
 
 Link to Project
-Sample code can be found here: https://codesandbox.io/s/nifty-glitter-gb1s4x?file=/demo.tsx. You can just fork this sandbox and send to complete the work",Marc-AndreSimar,36 minutes ago,https://replit.com/bounties/@Marc-AndreSimar/styled-mui-datagrid?t=
+Sample code can be found here: https://codesandbox.io/s/nifty-glitter-gb1s4x?file=/demo.tsx. You can just fork this sandbox and send to complete the work",Marc-AndreSimar,46 minutes ago,https://replit.com/bounties/@Marc-AndreSimar/styled-mui-datagrid?t=
 831,$450.00,due in 5 days,U.S. Income and Real Estate API / Web App,"Build a web app or API where given a list of zipcodes as input, it returns the median household income and the median housing price for the given zipcodes.
 
 Acceptance Criteria
@@ -6616,4 +6616,12 @@ Timelines / Milestones
 Due by 2/23
 Milestone 1: looking up housing price by zip code works
 Milestone 2: looking up income by zip code works
-Milestone 3: looking up info with mult...",howon92,9 minutes ago,https://replit.com/bounties/@howon92/income-and-real-esta?t=
+Milestone 3: looking up info with mult...",howon92,19 minutes ago,https://replit.com/bounties/@howon92/income-and-real-esta?t=
+832,"$1,800.00",due in 25 days,Create a website which uses GPT or other LLM to query legal documents in PDF/DOCX format,"Make a question answering chatbot web app that pulls results from user-uploaded PDFs/Word docs. Primarily commercial legal documents. Technology would use LLMs like GPT and index using GPTIndex or Langchain and deployed for production (can be anywhere ie Replit).
+
+We will test the tool with a few questions regarding information inside the legal documents. Should be able to query questions over many documents, not just a single document. It should also be able to ""quote"" the relevant section of the document it is getting data from.
+
+Acceptance Criteria
+The chatbot should have a simple interface.
+We will provide an sample documents which the user should be able to upload and the chatbot should be able to query.
+The chatbot must be able to generate a proper response regarding data in the pdfs.",GrahamWahlberg,13 seconds ago,https://replit.com/bounties/@GrahamWahlberg/create-a-website-whi?t=
