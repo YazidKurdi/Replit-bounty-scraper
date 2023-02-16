@@ -8226,7 +8226,7 @@
         "title": "Build a bleeding edge tech web app boilerplate",
         "description": "I'm looking to build a very fast web app boilerplate. Similar to those listed here: https://airtable.com/appkZ6JqxCoHFN9uK/tbluwp5EOvg9qtCwC/viwci6Ce98bSGkIQZ?blocks=hide, it's meant to be a ready made starting point for a basic Saas web app with sensible defaults that can then be customized further. In this case the defaults will be less sensible and more bleeding edge, fun tech to work with :-)\n\nIf you do this well and get productive with the stack - we can move forward by building and actual SaaS app on top of the boilerplate.\n\nAcceptance Criteria\nIf you're already familiar with these technologies, great, but I expect roughly 0 people to be familiar with each of them. If you're familiar with react, solidjs, and nextjs though, I expect you can get comfortable with these technologies using their documentation as quickly as anyone else.\n\nTechnical Details\nI intend to accomplish that using qwik, replicache, and edgedb, then to make it easy for non-technical people to...",
         "author": "WilliamBarber7",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@WilliamBarber7/build-a-bleeding-edg?t="
     },
     {
@@ -8236,7 +8236,7 @@
         "title": "get the websites from a list of company names",
         "description": "I have a list of 1500 companies in excel and I want their websites saved to a excel file. I have built a web scrapper to get a search on google for the company name from the excel file and get the website, it works but after about 30 names google notices that it is a bot and blocks the scrapper with a recatcha.\n\nAcceptance Criteria\nall companies with the correct website (95% of the time would be great)\n\nTechnical Details\nCode in Python using selium\n\nLink to Project\nhttps://colab.research.google.com/drive/10rHVg6GlX2PUIzgS55hkOGRuIAZJQx3h?usp=sharing",
         "author": "caioraimundo",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@caioraimundo/get-the-websites-fro?t="
     },
     {
@@ -8246,7 +8246,7 @@
         "title": "command for game cyberheist",
         "description": "i need a command added to a open source game by catr3kd and some of you may be fimilar with it but i want to add a mute command that will make the chatbox invisible to accounts that are muted this would of course require a unmute command also",
         "author": "AydenBG",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@AydenBG/command-for-game-cyb?t="
     }
 ]
