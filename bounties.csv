@@ -6503,7 +6503,7 @@ The widget will also check user wallet balance depending on cryptocurrency.
     Communicate to the user when their user wallet has insufficient funds
 Use Alchemy’s Transfers API or Tokens API.
 The widget should display “Powered by Alchemy” at the bottom of widget.
-Write thorough documentation on how you built this.",Arjun-Alchemy,15 hours ago,https://replit.com/bounties/@Arjun-Alchemy/swap-crypto-widget?t=
+Write thorough documentation on how you built this.",Arjun-Alchemy,16 hours ago,https://replit.com/bounties/@Arjun-Alchemy/swap-crypto-widget?t=
 820,"$3,421.80",due in 20 days,AI NFT Generator,"Provide an easy way to generate NFT art and mint and deploy to the Polygon or Ethereum blockchain.
 
 Acceptance Criteria
