@@ -8186,7 +8186,7 @@
         "title": "Token Gating Bot",
         "description": "Website owners/community owners need a way to verify the ownership of tokens or NFTs in a user's wallet and grant or restrict access to a webpage based on that information.\n\nAcceptance Criteria\nThe bot must be able to verify the ownership of a user's tokens or NFTs.\nThe bot must be able to grant or restrict access to a webpage based on the ownership verification.\nThe bot must be easy to install and set up for website owners.\nThe bot should be built for Ethereum or Polygon.\nThe bot should be able to integrate with different types of wallets.\nThe bot should have an interface for website owners to configure and set up.\nMake sure to use the Alchemy NFT API and Token API\nWrite thorough documentation on how you built this.\n\nAlchemy x Replit Partnership\nWe\u2019re partnering with Replit to find top developers for exciting web3 projects.\n\nAdditional rewards for this bounty:\nYou'll be featured on Alchemy and Replit\u2019s Twitter channels - to hundreds of thousands of people!\nChosen c...",
         "author": "Arjun-Alchemy",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@Arjun-Alchemy/token-gating-bot?t="
     },
     {
@@ -8266,7 +8266,17 @@
         "title": "Duplicate functionality from existing HF repo and modify",
         "description": "This bounty will form the foundation of a personal AI project. This bounty is to duplicate the functionality of an existing Hugging Face repo to Replit, and make some changes to make it more easily accessible and useful.\n\nAcceptance Criteria\n\nDuplicate the functionality of https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain to Replit\nMake a web-accessible front end where the user can type or speak their query, and the bot returns a text or spoken response, including the \u2018talking head\u2019 (the \u2018chat\u2019 tab as seen on Hugging Face)\nMake a password-protected back end to house the settings and configuration tabs (the Settings, Whisper, STT, Translate to, Formality, Lit style, Emotions, Max words, Embeddings tabs as seen on Hugging Face), plus another tab for API keys.\n\nTechnical Details\n\npython\n\nLink to Project\n\nThis is the first step in a personal AI project. I will be submitting more bounties to extend this project to:\n\nMake it multi-user, store user details, add ...",
         "author": "pilkster",
-        "posted_time": "49 minutes ago",
+        "posted_time": "58 minutes ago",
         "link": "https://replit.com/bounties/@pilkster/duplicate-functional?t="
+    },
+    {
+        "index": "827",
+        "price": "$54.00",
+        "due_days": "due in 14 days",
+        "title": "Maintenance of TrustPilot tool",
+        "description": "As discussed",
+        "author": "AndrewShowman",
+        "posted_time": "9 seconds ago",
+        "link": "https://replit.com/bounties/@AndrewShowman/maintenance-of-trust?t="
     }
 ]
