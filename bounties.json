@@ -8176,7 +8176,7 @@
         "title": "Sveltekit with Auth0 properly configured",
         "description": "There is no supported library for auth0 and sveltekit. Implementations we've tried have not allowed for a working load function. Our application will call an external api for data and needs to be able to pass along the bearer token to the api.\n\nAcceptance Criteria\nA new sveltekit app, with the ability to log in to auth0, and be able to pass a valid bearer token to an api endpoint in a load function of a page.\n\nTechnical Details\nOur examples have tried using an SPA version of auth0 and subscribing to stores for the ability to call the remote servers, but the subscribing to a store seems to cause issues with the load function ever refreshing. We think the right approach is something more in the next.js direct. We have an example library here, but we haven't gotten this to work either. https://github.com/rmunn/sveltekit-auth0-unofficial\nLink to Project",
         "author": "SteveMartocci",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@SteveMartocci/sveltekit-with-auth0?t="
     },
     {
@@ -8206,7 +8206,7 @@
         "title": "AI NFT Generator",
         "description": "Provide an easy way to generate NFT art and mint and deploy to the Polygon or Ethereum blockchain.\n\nAcceptance Criteria\nProvide an easy-to-use UI interface for a user to generate NFTs using Dall-E API, and then mint and deploy them to the Ethereum Polygon blockchain.\nThe UI must allow users to generate NFTs using Dall-E API.\nMust use the Alchemy NFT API.\nWrite thorough documentation on how you built this.",
         "author": "Arjun-Alchemy",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@Arjun-Alchemy/ai-nft-generator?t="
     },
     {
@@ -8216,7 +8216,7 @@
         "title": "add tones and rewrite to chrome extension",
         "description": "add tones to chrome extension (details shared on email)\n\nAcceptance Criteria\n\nTechnical Details\n\nLink to Project",
         "author": "ShubhKathuria",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@ShubhKathuria/add-tones-and-rewrit?t="
     },
     {
@@ -8248,5 +8248,15 @@
         "author": "AydenBG",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@AydenBG/command-for-game-cyb?t="
+    },
+    {
+        "index": "825",
+        "price": "$20.00",
+        "due_days": "due in 14 days",
+        "title": "Bing AI U_Cookie",
+        "description": "Hi,\n\n I'm looking for someone with the new Bing access to share their U_Cookie (it's one of the cookies that shows up in your cookies when on Bing.com search.)\n\nMust be ok with potentially losing access due to IP ban.",
+        "author": "aidantorrence",
+        "posted_time": "7 minutes ago",
+        "link": "https://replit.com/bounties/@aidantorrence/bing-ai-u-cookie?t="
     }
 ]
