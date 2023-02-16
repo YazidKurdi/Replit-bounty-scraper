@@ -8166,7 +8166,7 @@
         "title": "Simple Gradio app to classify text with GPT-3",
         "description": "Background\nI am an experienced AI product manager and I am looking for skilled developers to work with on future projects. This is a simple end-to-end test project which will hopefully help me find someone I like working with.\n\nProblem Description\nI would like to build a simple Gradio app that uses GPT-3 to do the following:\nUser enters a text message (there is an option to pick a random message from the Emotion dataset: https://huggingface.co/datasets/emotion)\nGPT-3 generates a label \"kind\" or \"unkind\"\nIf the message is labelled \"unkind\", GPT-3 generates an explanation why\nUser can also modify the GPT-3 prompts\nEvery user message, prompt and GPT-3 response is saved to a Supabase table\n\nHere is a visual mock-up (pass: replit) https://whimsical.com/kind-SQ4RgG9k1po6N6MFmv8KRu\n\nAcceptance Criteria\nworking Gradio app with features as described\nsimple logging feature using Supabase\n\nI have a technical background and really enjoy working with smart and talented developers - looking forward ...",
         "author": "tomwalchakAI",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@tomwalchakAI/simple-gradio-app-to?t="
     },
     {
@@ -8196,7 +8196,7 @@
         "title": "Swap Crypto Widget ",
         "description": "Dapp Description\nCreate an embedded widget to allow\u00a0anyone to swap\u00a0tokens within their website or app.\n\nAcceptance Criteria\nThe widget must allow users to trade cryptocurrencies on a DEX.\nThe widget must be easy for a user to embed into a website.\nThe widget should connect to a users crypto wallet like Metamask.\nThe widget will also check user wallet balance depending on cryptocurrency.\n    get AssetTransfers or get TokenMetadata to understand user\u2019s portfolio balance.\n    Communicate to the user when their user wallet has insufficient funds\nUse Alchemy\u2019s Transfers API or Tokens API.\nThe widget should display \u201cPowered by Alchemy\u201d at the bottom of widget.\nWrite thorough documentation on how you built this.",
         "author": "Arjun-Alchemy",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@Arjun-Alchemy/swap-crypto-widget?t="
     },
     {
@@ -8256,7 +8256,7 @@
         "title": "Bing AI U_Cookie",
         "description": "Hi,\n\n I'm looking for someone with the new Bing access to share their U_Cookie (it's one of the cookies that shows up in your cookies when on Bing.com search.)\n\nMust be ok with potentially losing access due to IP ban.",
         "author": "aidantorrence",
-        "posted_time": "41 minutes ago",
+        "posted_time": "51 minutes ago",
         "link": "https://replit.com/bounties/@aidantorrence/bing-ai-u-cookie?t="
     }
 ]
