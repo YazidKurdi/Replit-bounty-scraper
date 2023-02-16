@@ -6616,7 +6616,7 @@ Timelines / Milestones
 Due by 2/23
 Milestone 1: looking up housing price by zip code works
 Milestone 2: looking up income by zip code works
-Milestone 3: looking up info with mult...",howon92,39 minutes ago,https://replit.com/bounties/@howon92/income-and-real-esta?t=
+Milestone 3: looking up info with mult...",howon92,56 minutes ago,https://replit.com/bounties/@howon92/income-and-real-esta?t=
 832,"$1,800.00",due in 25 days,Create a website which uses GPT or other LLM to query legal documents in PDF/DOCX format,"Make a question answering chatbot web app that pulls results from user-uploaded PDFs/Word docs. Primarily commercial legal documents. Technology would use LLMs like GPT and index using GPTIndex or Langchain and deployed for production (can be anywhere ie Replit).
 
 We will test the tool with a few questions regarding information inside the legal documents. Should be able to query questions over many documents, not just a single document. It should also be able to ""quote"" the relevant section of the document it is getting data from.
@@ -6624,7 +6624,7 @@ We will test the tool with a few questions regarding information inside the lega
 Acceptance Criteria
 The chatbot should have a simple interface.
 We will provide an sample documents which the user should be able to upload and the chatbot should be able to query.
-The chatbot must be able to generate a proper response regarding data in the pdfs.",GrahamWahlberg,20 minutes ago,https://replit.com/bounties/@GrahamWahlberg/create-a-website-whi?t=
+The chatbot must be able to generate a proper response regarding data in the pdfs.",GrahamWahlberg,37 minutes ago,https://replit.com/bounties/@GrahamWahlberg/create-a-website-whi?t=
 833,$20.00,due in 3 days,Simple frontend customization - Make a button un-clickable and generate processing symbol,"I have a webapp that takes a csv and processes it.
 
 On the dashboard the user has the option to choose a file. And there is a 'Process' button immediately below it.
@@ -6639,4 +6639,17 @@ Currently, once the processing is done, a 'Download' button appears and the 'Pro
 
 I will provide the JS and HTML files that need to be updated in a REPL.
 
-The task is pretty simpl...",mdotbaig,15 minutes ago,https://replit.com/bounties/@mdotbaig/simple-frontend-cust?t=
+The task is pretty simpl...",mdotbaig,32 minutes ago,https://replit.com/bounties/@mdotbaig/simple-frontend-cust?t=
+834,$720.00,due in 1 month,Argument Breakdown AI Tool,"I am looking for someone to create an AI/GPT-3 based tool for argument breakdowns, with a specific visualization in the form of a decision tree. I have a Figma of the design but the idea is the visualize in the form of decision tree, a quick summary of the top rated points, and a live chat for group discussion.
+
+A new 'question' inputted to start a discussion should be shareable and therefore needs to be able to be saved into a catalog (i.e a new page acting as the library/feed/search ability) as well as signing up with (e.g. with email)
+
+Acceptance Criteria
+A prototype showing the ability to:
+1) create a decision tree interface
+2) enable the decision tree to be populated with for and against statements, auto-filled by GPT (even better if something like Perplexity, where sources can be shared) with short (tweet-length) answers
+3) a live text/discussion for public commentary
+4) upvote and downvote optionality
+5) newsfeed with list of all discussions started
+
+Technica...",JonColler,4 minutes ago,https://replit.com/bounties/@JonColler/argument-breakdown-a?t=
