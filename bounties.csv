@@ -6542,7 +6542,7 @@ https://colab.research.google.com/drive/10rHVg6GlX2PUIzgS55hkOGRuIAZJQx3h?usp=sh
 
  I'm looking for someone with the new Bing access to share their U_Cookie (it's one of the cookies that shows up in your cookies when on Bing.com search.)
 
-Must be ok with potentially losing access due to IP ban.",aidantorrence,13 hours ago,https://replit.com/bounties/@aidantorrence/bing-ai-u-cookie?t=
+Must be ok with potentially losing access due to IP ban.",aidantorrence,14 hours ago,https://replit.com/bounties/@aidantorrence/bing-ai-u-cookie?t=
 826,$90.00,due in 3 days,Duplicate functionality from existing HF repo and modify,"This bounty will form the foundation of a personal AI project. This bounty is to duplicate the functionality of an existing Hugging Face repo to Replit, and make some changes to make it more easily accessible and useful.
 
 Acceptance Criteria
@@ -6571,7 +6571,7 @@ Technical Details
 StableDiffusion preferred, but open to other tools if they are better suited
 Final version should have:
     INPUT: 3-6 images of the ""model"" in various settings (using a larger training set of the model is possible if you show it's impossible to achieve with only 3-6 images); text prompt (if needed according to the process you set up); 5 template images (possibly manually edited to emphasize the face area to replace with the model's face).
-    OUTPUT: 5 images with the model's face,...",ColinHodge,8 hours ago,https://replit.com/bounties/@ColinHodge/stablediffusion-img2?t=
+    OUTPUT: 5 images with the model's face,...",ColinHodge,9 hours ago,https://replit.com/bounties/@ColinHodge/stablediffusion-img2?t=
 829,$25.20,due in 5 days,The NJ Project,Data scraping tool.,fauxform,2 hours ago,https://replit.com/bounties/@fauxform/the-nj-project?t=
 830,$36.00,due in 3 days,Styled MUI DataGrid React component,"I am using Material UI's DataGrid Pro. I am currently styling it for dark mode. I need help styling the: i) columnMenu, ii) filterPanel, as well as the popup on the export button. Details in the sandbox (see below).
 
@@ -6624,7 +6624,7 @@ We will test the tool with a few questions regarding information inside the lega
 Acceptance Criteria
 The chatbot should have a simple interface.
 We will provide an sample documents which the user should be able to upload and the chatbot should be able to query.
-The chatbot must be able to generate a proper response regarding data in the pdfs.",GrahamWahlberg,56 minutes ago,https://replit.com/bounties/@GrahamWahlberg/create-a-website-whi?t=
+The chatbot must be able to generate a proper response regarding data in the pdfs.",GrahamWahlberg,1 hour ago,https://replit.com/bounties/@GrahamWahlberg/create-a-website-whi?t=
 833,$20.00,due in 3 days,Simple frontend customization - Make a button un-clickable and generate processing symbol,"I have a webapp that takes a csv and processes it.
 
 On the dashboard the user has the option to choose a file. And there is a 'Process' button immediately below it.
@@ -6639,7 +6639,7 @@ Currently, once the processing is done, a 'Download' button appears and the 'Pro
 
 I will provide the JS and HTML files that need to be updated in a REPL.
 
-The task is pretty simpl...",mdotbaig,51 minutes ago,https://replit.com/bounties/@mdotbaig/simple-frontend-cust?t=
+The task is pretty simpl...",mdotbaig,1 hour ago,https://replit.com/bounties/@mdotbaig/simple-frontend-cust?t=
 834,$720.00,due in 1 month,Argument Breakdown AI Tool,"I am looking for someone to create an AI/GPT-3 based tool for argument breakdowns, with a specific visualization in the form of a decision tree. I have a Figma of the design but the idea is the visualize in the form of decision tree, a quick summary of the top rated points, and a live chat for group discussion.
 
 A new 'question' inputted to start a discussion should be shareable and therefore needs to be able to be saved into a catalog (i.e a new page acting as the library/feed/search ability) as well as signing up with (e.g. with email)
@@ -6652,4 +6652,4 @@ A prototype showing the ability to:
 4) upvote and downvote optionality
 5) newsfeed with list of all discussions started
 
-Technica...",JonColler,24 minutes ago,https://replit.com/bounties/@JonColler/argument-breakdown-a?t=
+Technica...",JonColler,35 minutes ago,https://replit.com/bounties/@JonColler/argument-breakdown-a?t=

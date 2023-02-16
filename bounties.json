@@ -8256,7 +8256,7 @@
         "title": "Bing AI U_Cookie",
         "description": "Hi,\n\n I'm looking for someone with the new Bing access to share their U_Cookie (it's one of the cookies that shows up in your cookies when on Bing.com search.)\n\nMust be ok with potentially losing access due to IP ban.",
         "author": "aidantorrence",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/bing-ai-u-cookie?t="
     },
     {
@@ -8286,7 +8286,7 @@
         "title": "StableDiffusion img2img trainable with new models, replacing person in template images",
         "description": "Goal is to utilize a few template images, replacing only the person in the template image with a different person using as small number of training images of the new subject as possible\nOnce you achieve satisfactory image results, you should be able to optimize the processes for speed, cost, and number of training images needed\n\nAcceptance Criteria\nRealistic looking generated images without noticeable defects or \"uncanny\" feeling, suitable for usage at ~800x800 pixels.\n\nTechnical Details\nStableDiffusion preferred, but open to other tools if they are better suited\nFinal version should have:\n    INPUT: 3-6 images of the \"model\" in various settings (using a larger training set of the model is possible if you show it's impossible to achieve with only 3-6 images); text prompt (if needed according to the process you set up); 5 template images (possibly manually edited to emphasize the face area to replace with the model's face).\n    OUTPUT: 5 images with the model's face,...",
         "author": "ColinHodge",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@ColinHodge/stablediffusion-img2?t="
     },
     {
@@ -8326,7 +8326,7 @@
         "title": "Create a website which uses GPT or other LLM to query legal documents in PDF/DOCX format",
         "description": "Make a question answering chatbot web app that pulls results from user-uploaded PDFs/Word docs. Primarily commercial legal documents. Technology would use LLMs like GPT and index using GPTIndex or Langchain and deployed for production (can be anywhere ie Replit).\n\nWe will test the tool with a few questions regarding information inside the legal documents. Should be able to query questions over many documents, not just a single document. It should also be able to \"quote\" the relevant section of the document it is getting data from.\n\nAcceptance Criteria\nThe chatbot should have a simple interface.\nWe will provide an sample documents which the user should be able to upload and the chatbot should be able to query.\nThe chatbot must be able to generate a proper response regarding data in the pdfs.",
         "author": "GrahamWahlberg",
-        "posted_time": "56 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@GrahamWahlberg/create-a-website-whi?t="
     },
     {
@@ -8336,7 +8336,7 @@
         "title": "Simple frontend customization - Make a button un-clickable and generate processing symbol",
         "description": "I have a webapp that takes a csv and processes it.\n\nOn the dashboard the user has the option to choose a file. And there is a 'Process' button immediately below it.\n\nCurrently, when they click the 'Process' button, it begins processing their csv. However, the 'Process' button remains click-able and if the user re-clicks the button it will call the Process function again.\n\nI need you to make it so that once the process button is clicked and begins processing the request, the user can no longer click the 'Process' button. I also want the 'Process' button to be grayed out so that it is clear that the csv is processing.\n\nI would like you to also had some kind of symbol, like a spinning wheel on the button or next to it so show that is currently processing.\n\nCurrently, once the processing is done, a 'Download' button appears and the 'Process' button disappears. I want this to remain in effect.\n\nI will provide the JS and HTML files that need to be updated in a REPL.\n\nThe task is pretty simpl...",
         "author": "mdotbaig",
-        "posted_time": "51 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@mdotbaig/simple-frontend-cust?t="
     },
     {
@@ -8346,7 +8346,7 @@
         "title": "Argument Breakdown AI Tool",
         "description": "I am looking for someone to create an AI/GPT-3 based tool for argument breakdowns, with a specific visualization in the form of a decision tree. I have a Figma of the design but the idea is the visualize in the form of decision tree, a quick summary of the top rated points, and a live chat for group discussion.\n\nA new 'question' inputted to start a discussion should be shareable and therefore needs to be able to be saved into a catalog (i.e a new page acting as the library/feed/search ability) as well as signing up with (e.g. with email)\n\nAcceptance Criteria\nA prototype showing the ability to:\n1) create a decision tree interface\n2) enable the decision tree to be populated with for and against statements, auto-filled by GPT (even better if something like Perplexity, where sources can be shared) with short (tweet-length) answers\n3) a live text/discussion for public commentary\n4) upvote and downvote optionality\n5) newsfeed with list of all discussions started\n\nTechnica...",
         "author": "JonColler",
-        "posted_time": "24 minutes ago",
+        "posted_time": "35 minutes ago",
         "link": "https://replit.com/bounties/@JonColler/argument-breakdown-a?t="
     }
 ]
