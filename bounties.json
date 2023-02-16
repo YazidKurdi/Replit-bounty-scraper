@@ -8286,7 +8286,7 @@
         "title": "StableDiffusion img2img trainable with new models, replacing person in template images",
         "description": "Goal is to utilize a few template images, replacing only the person in the template image with a different person using as small number of training images of the new subject as possible\nOnce you achieve satisfactory image results, you should be able to optimize the processes for speed, cost, and number of training images needed\n\nAcceptance Criteria\nRealistic looking generated images without noticeable defects or \"uncanny\" feeling, suitable for usage at ~800x800 pixels.\n\nTechnical Details\nStableDiffusion preferred, but open to other tools if they are better suited\nFinal version should have:\n    INPUT: 3-6 images of the \"model\" in various settings (using a larger training set of the model is possible if you show it's impossible to achieve with only 3-6 images); text prompt (if needed according to the process you set up); 5 template images (possibly manually edited to emphasize the face area to replace with the model's face).\n    OUTPUT: 5 images with the model's face,...",
         "author": "ColinHodge",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@ColinHodge/stablediffusion-img2?t="
     },
     {
@@ -8346,7 +8346,7 @@
         "title": "Argument Breakdown AI Tool",
         "description": "I am looking for someone to create an AI/GPT-3 based tool for argument breakdowns, with a specific visualization in the form of a decision tree. I have a Figma of the design but the idea is the visualize in the form of decision tree, a quick summary of the top rated points, and a live chat for group discussion.\n\nA new 'question' inputted to start a discussion should be shareable and therefore needs to be able to be saved into a catalog (i.e a new page acting as the library/feed/search ability) as well as signing up with (e.g. with email)\n\nAcceptance Criteria\nA prototype showing the ability to:\n1) create a decision tree interface\n2) enable the decision tree to be populated with for and against statements, auto-filled by GPT (even better if something like Perplexity, where sources can be shared) with short (tweet-length) answers\n3) a live text/discussion for public commentary\n4) upvote and downvote optionality\n5) newsfeed with list of all discussions started\n\nTechnica...",
         "author": "JonColler",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@JonColler/argument-breakdown-a?t="
     },
     {
