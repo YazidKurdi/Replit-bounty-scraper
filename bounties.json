@@ -8346,7 +8346,7 @@
         "title": "Argument Breakdown AI Tool",
         "description": "I am looking for someone to create an AI/GPT-3 based tool for argument breakdowns, with a specific visualization in the form of a decision tree. I have a Figma of the design but the idea is the visualize in the form of decision tree, a quick summary of the top rated points, and a live chat for group discussion.\n\nA new 'question' inputted to start a discussion should be shareable and therefore needs to be able to be saved into a catalog (i.e a new page acting as the library/feed/search ability) as well as signing up with (e.g. with email)\n\nAcceptance Criteria\nA prototype showing the ability to:\n1) create a decision tree interface\n2) enable the decision tree to be populated with for and against statements, auto-filled by GPT (even better if something like Perplexity, where sources can be shared) with short (tweet-length) answers\n3) a live text/discussion for public commentary\n4) upvote and downvote optionality\n5) newsfeed with list of all discussions started\n\nTechnica...",
         "author": "JonColler",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@JonColler/argument-breakdown-a?t="
     },
     {
@@ -8386,7 +8386,7 @@
         "title": "Find online game exploit",
         "description": "I did post a bounty on this earlier, it was abandoned twice and then i accepted a fraud (@eric). More cycles now, and if it is completed well i will try to provide more. There is an online game called Dedalium, which is available to download as a browser extension on almost all platforms. If you think you could do a job like this, PLEASE download the extension, create an account and familiarize yourself with the code before you apply. Maybe even solve it beforehand! Whatever the case, dont apply if you do not believe it is possible. I am asking for a solution, not for someone to tell me they can't do it. I also dont want to hear that this is lazy, earn it yourself, why do you even want to hire someone to this, etc. I am paying for someone to give me an exploit, and not an ethics teacher.\n\nWhen you have downloaded and made an account and looked at the code, I want you to try to find an exploit to get free boxes in the Store -> Boxes section. (In case you were wonderi...",
         "author": "ChaosSymmetry",
-        "posted_time": "35 minutes ago",
+        "posted_time": "44 minutes ago",
         "link": "https://replit.com/bounties/@ChaosSymmetry/find-online-game-exp?t="
     },
     {
@@ -8396,7 +8396,7 @@
         "title": "Electron JS Chat Interface ",
         "description": "Looking for someone who is an expert in Electron JS to build a unique AI Chat Interface. Must be able to work with an Python Backend, auth guarded, notification system(More info provided upon acceptance)\n\nAcceptance Criteria\nYou are more likely to be accepted if you a show a history of past work building a ChatApp or a MacOS app.\n\nTechnical Details\nDetails will be provided to ever gets accepted",
         "author": "plowsai",
-        "posted_time": "31 minutes ago",
+        "posted_time": "40 minutes ago",
         "link": "https://replit.com/bounties/@plowsai/electron-js-chat-int?t="
     }
 ]
