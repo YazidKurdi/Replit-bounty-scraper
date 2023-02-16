@@ -8196,7 +8196,7 @@
         "title": "Swap Crypto Widget ",
         "description": "Dapp Description\nCreate an embedded widget to allow\u00a0anyone to swap\u00a0tokens within their website or app.\n\nAcceptance Criteria\nThe widget must allow users to trade cryptocurrencies on a DEX.\nThe widget must be easy for a user to embed into a website.\nThe widget should connect to a users crypto wallet like Metamask.\nThe widget will also check user wallet balance depending on cryptocurrency.\n    get AssetTransfers or get TokenMetadata to understand user\u2019s portfolio balance.\n    Communicate to the user when their user wallet has insufficient funds\nUse Alchemy\u2019s Transfers API or Tokens API.\nThe widget should display \u201cPowered by Alchemy\u201d at the bottom of widget.\nWrite thorough documentation on how you built this.",
         "author": "Arjun-Alchemy",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@Arjun-Alchemy/swap-crypto-widget?t="
     },
     {
