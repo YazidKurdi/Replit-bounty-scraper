@@ -8236,7 +8236,7 @@
         "title": "get the websites from a list of company names",
         "description": "I have a list of 1500 companies in excel and I want their websites saved to a excel file. I have built a web scrapper to get a search on google for the company name from the excel file and get the website, it works but after about 30 names google notices that it is a bot and blocks the scrapper with a recatcha.\n\nAcceptance Criteria\nall companies with the correct website (95% of the time would be great)\n\nTechnical Details\nCode in Python using selium\n\nLink to Project\nhttps://colab.research.google.com/drive/10rHVg6GlX2PUIzgS55hkOGRuIAZJQx3h?usp=sharing",
         "author": "caioraimundo",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@caioraimundo/get-the-websites-fro?t="
     },
     {
@@ -8246,7 +8246,7 @@
         "title": "command for game cyberheist",
         "description": "i need a command added to a open source game by catr3kd and some of you may be fimilar with it but i want to add a mute command that will make the chatbox invisible to accounts that are muted this would of course require a unmute command also",
         "author": "AydenBG",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@AydenBG/command-for-game-cyb?t="
     },
     {
@@ -8256,7 +8256,7 @@
         "title": "Bing AI U_Cookie",
         "description": "Hi,\n\n I'm looking for someone with the new Bing access to share their U_Cookie (it's one of the cookies that shows up in your cookies when on Bing.com search.)\n\nMust be ok with potentially losing access due to IP ban.",
         "author": "aidantorrence",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/bing-ai-u-cookie?t="
     },
     {
