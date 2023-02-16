@@ -8226,7 +8226,7 @@
         "title": "Build a bleeding edge tech web app boilerplate",
         "description": "I'm looking to build a very fast web app boilerplate. Similar to those listed here: https://airtable.com/appkZ6JqxCoHFN9uK/tbluwp5EOvg9qtCwC/viwci6Ce98bSGkIQZ?blocks=hide, it's meant to be a ready made starting point for a basic Saas web app with sensible defaults that can then be customized further. In this case the defaults will be less sensible and more bleeding edge, fun tech to work with :-)\n\nIf you do this well and get productive with the stack - we can move forward by building and actual SaaS app on top of the boilerplate.\n\nAcceptance Criteria\nIf you're already familiar with these technologies, great, but I expect roughly 0 people to be familiar with each of them. If you're familiar with react, solidjs, and nextjs though, I expect you can get comfortable with these technologies using their documentation as quickly as anyone else.\n\nTechnical Details\nI intend to accomplish that using qwik, replicache, and edgedb, then to make it easy for non-technical people to...",
         "author": "WilliamBarber7",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@WilliamBarber7/build-a-bleeding-edg?t="
     },
     {
@@ -8236,7 +8236,7 @@
         "title": "get the websites from a list of company names",
         "description": "I have a list of 1500 companies in excel and I want their websites saved to a excel file. I have built a web scrapper to get a search on google for the company name from the excel file and get the website, it works but after about 30 names google notices that it is a bot and blocks the scrapper with a recatcha.\n\nAcceptance Criteria\nall companies with the correct website (95% of the time would be great)\n\nTechnical Details\nCode in Python using selium\n\nLink to Project\nhttps://colab.research.google.com/drive/10rHVg6GlX2PUIzgS55hkOGRuIAZJQx3h?usp=sharing",
         "author": "caioraimundo",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@caioraimundo/get-the-websites-fro?t="
     },
     {
@@ -8246,7 +8246,7 @@
         "title": "command for game cyberheist",
         "description": "i need a command added to a open source game by catr3kd and some of you may be fimilar with it but i want to add a mute command that will make the chatbox invisible to accounts that are muted this would of course require a unmute command also",
         "author": "AydenBG",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@AydenBG/command-for-game-cyb?t="
     },
     {
@@ -8266,7 +8266,7 @@
         "title": "Duplicate functionality from existing HF repo and modify",
         "description": "This bounty will form the foundation of a personal AI project. This bounty is to duplicate the functionality of an existing Hugging Face repo to Replit, and make some changes to make it more easily accessible and useful.\n\nAcceptance Criteria\n\nDuplicate the functionality of https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain to Replit\nMake a web-accessible front end where the user can type or speak their query, and the bot returns a text or spoken response, including the \u2018talking head\u2019 (the \u2018chat\u2019 tab as seen on Hugging Face)\nMake a password-protected back end to house the settings and configuration tabs (the Settings, Whisper, STT, Translate to, Formality, Lit style, Emotions, Max words, Embeddings tabs as seen on Hugging Face), plus another tab for API keys.\n\nTechnical Details\n\npython\n\nLink to Project\n\nThis is the first step in a personal AI project. I will be submitting more bounties to extend this project to:\n\nMake it multi-user, store user details, add ...",
         "author": "pilkster",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@pilkster/duplicate-functional?t="
     },
     {
@@ -8276,7 +8276,7 @@
         "title": "Maintenance of TrustPilot tool",
         "description": "As discussed",
         "author": "AndrewShowman",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/maintenance-of-trust?t="
     },
     {
@@ -8292,11 +8292,11 @@
     {
         "index": "829",
         "price": "$25.20",
-        "due_days": "due in 7 days",
+        "due_days": "due in 5 days",
         "title": "The NJ Project",
         "description": "Data scraping tool.",
         "author": "fauxform",
-        "posted_time": "51 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@fauxform/the-nj-project?t="
     },
     {
@@ -8306,7 +8306,17 @@
         "title": "Styled MUI DataGrid React component",
         "description": "I am using Material UI's DataGrid Pro. I am currently styling it for dark mode. I need help styling the: i) columnMenu, ii) filterPanel, as well as the popup on the export button. Details in the sandbox (see below).\n\nAcceptance Criteria\nA MUI DataGrid Pro reusable, styled component with the three popups with a style similar to linear.app screenshot here\nThis means that: i) The popup is a similar color / transparency, rounded corners, border, shadow, etc., ii) That a row is highlighted in a similar style on hover, and iii) the cursor is a pointer\n\nLink to Project\nSample code can be found here: https://codesandbox.io/s/nifty-glitter-gb1s4x?file=/demo.tsx. You can just fork this sandbox and send to complete the work",
         "author": "Marc-AndreSimar",
-        "posted_time": "21 minutes ago",
+        "posted_time": "36 minutes ago",
         "link": "https://replit.com/bounties/@Marc-AndreSimar/styled-mui-datagrid?t="
+    },
+    {
+        "index": "831",
+        "price": "$450.00",
+        "due_days": "due in 5 days",
+        "title": "U.S. Income and Real Estate API / Web App",
+        "description": "Build a web app or API where given a list of zipcodes as input, it returns the median household income and the median housing price for the given zipcodes.\n\nAcceptance Criteria\nDeploy a web app where I can test it and verify that the information is correct\nThe API can like be the following:\n\nGET /api/median_income/\n{\n  10001: 43342,\n  10002: 53341,\n}\n\nGET /api/medianhousingprice/\n{\n  10001: 93342,\n  10002: 83341,\n}\n\nGET /api/summary/\n{\n  10001: {\n    median_income: 43342,\n    medianhousingprice: 93342,\n  }\n}\n\nTechnical Details\nThe following might be useful data sources (use whatever works, but the data has to reflect info after 2021)\n  Census data: https://www.reddit.com/r/datasets/comments/hixfeo/howtoobtainmedianincomedataforzipcodes/\n  Housing data: https://www.zillow.com/research/data/\n\nTimelines / Milestones\nDue by 2/23\nMilestone 1: looking up housing price by zip code works\nMilestone 2: looking up income by zip code works\nMilestone 3: looking up info with mult...",
+        "author": "howon92",
+        "posted_time": "9 minutes ago",
+        "link": "https://replit.com/bounties/@howon92/income-and-real-esta?t="
     }
 ]
