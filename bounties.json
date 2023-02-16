@@ -8266,7 +8266,7 @@
         "title": "Duplicate functionality from existing HF repo and modify",
         "description": "This bounty will form the foundation of a personal AI project. This bounty is to duplicate the functionality of an existing Hugging Face repo to Replit, and make some changes to make it more easily accessible and useful.\n\nAcceptance Criteria\n\nDuplicate the functionality of https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain to Replit\nMake a web-accessible front end where the user can type or speak their query, and the bot returns a text or spoken response, including the \u2018talking head\u2019 (the \u2018chat\u2019 tab as seen on Hugging Face)\nMake a password-protected back end to house the settings and configuration tabs (the Settings, Whisper, STT, Translate to, Formality, Lit style, Emotions, Max words, Embeddings tabs as seen on Hugging Face), plus another tab for API keys.\n\nTechnical Details\n\npython\n\nLink to Project\n\nThis is the first step in a personal AI project. I will be submitting more bounties to extend this project to:\n\nMake it multi-user, store user details, add ...",
         "author": "pilkster",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@pilkster/duplicate-functional?t="
     },
     {
@@ -8276,7 +8276,7 @@
         "title": "Maintenance of TrustPilot tool",
         "description": "As discussed",
         "author": "AndrewShowman",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/maintenance-of-trust?t="
     },
     {
@@ -8306,7 +8306,7 @@
         "title": "Styled MUI DataGrid React component",
         "description": "I am using Material UI's DataGrid Pro. I am currently styling it for dark mode. I need help styling the: i) columnMenu, ii) filterPanel, as well as the popup on the export button. Details in the sandbox (see below).\n\nAcceptance Criteria\nA MUI DataGrid Pro reusable, styled component with the three popups with a style similar to linear.app screenshot here\nThis means that: i) The popup is a similar color / transparency, rounded corners, border, shadow, etc., ii) That a row is highlighted in a similar style on hover, and iii) the cursor is a pointer\n\nLink to Project\nSample code can be found here: https://codesandbox.io/s/nifty-glitter-gb1s4x?file=/demo.tsx. You can just fork this sandbox and send to complete the work",
         "author": "Marc-AndreSimar",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@Marc-AndreSimar/styled-mui-datagrid?t="
     },
     {
@@ -8336,7 +8336,7 @@
         "title": "Simple frontend customization - Make a button un-clickable and generate processing symbol",
         "description": "I have a webapp that takes a csv and processes it.\n\nOn the dashboard the user has the option to choose a file. And there is a 'Process' button immediately below it.\n\nCurrently, when they click the 'Process' button, it begins processing their csv. However, the 'Process' button remains click-able and if the user re-clicks the button it will call the Process function again.\n\nI need you to make it so that once the process button is clicked and begins processing the request, the user can no longer click the 'Process' button. I also want the 'Process' button to be grayed out so that it is clear that the csv is processing.\n\nI would like you to also had some kind of symbol, like a spinning wheel on the button or next to it so show that is currently processing.\n\nCurrently, once the processing is done, a 'Download' button appears and the 'Process' button disappears. I want this to remain in effect.\n\nI will provide the JS and HTML files that need to be updated in a REPL.\n\nThe task is pretty simpl...",
         "author": "mdotbaig",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/simple-frontend-cust?t="
     },
     {

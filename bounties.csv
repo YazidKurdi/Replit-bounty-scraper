@@ -6559,8 +6559,8 @@ Link to Project
 
 This is the first step in a personal AI project. I will be submitting more bounties to extend this project to:
 
-Make it multi-user, store user details, add ...",pilkster,12 hours ago,https://replit.com/bounties/@pilkster/duplicate-functional?t=
-827,$54.00,due in 13 days,Maintenance of TrustPilot tool,As discussed,AndrewShowman,11 hours ago,https://replit.com/bounties/@AndrewShowman/maintenance-of-trust?t=
+Make it multi-user, store user details, add ...",pilkster,13 hours ago,https://replit.com/bounties/@pilkster/duplicate-functional?t=
+827,$54.00,due in 13 days,Maintenance of TrustPilot tool,As discussed,AndrewShowman,12 hours ago,https://replit.com/bounties/@AndrewShowman/maintenance-of-trust?t=
 828,$499.50,due in 6 days,"StableDiffusion img2img trainable with new models, replacing person in template images","Goal is to utilize a few template images, replacing only the person in the template image with a different person using as small number of training images of the new subject as possible
 Once you achieve satisfactory image results, you should be able to optimize the processes for speed, cost, and number of training images needed
 
@@ -6580,7 +6580,7 @@ A MUI DataGrid Pro reusable, styled component with the three popups with a style
 This means that: i) The popup is a similar color / transparency, rounded corners, border, shadow, etc., ii) That a row is highlighted in a similar style on hover, and iii) the cursor is a pointer
 
 Link to Project
-Sample code can be found here: https://codesandbox.io/s/nifty-glitter-gb1s4x?file=/demo.tsx. You can just fork this sandbox and send to complete the work",Marc-AndreSimar,2 hours ago,https://replit.com/bounties/@Marc-AndreSimar/styled-mui-datagrid?t=
+Sample code can be found here: https://codesandbox.io/s/nifty-glitter-gb1s4x?file=/demo.tsx. You can just fork this sandbox and send to complete the work",Marc-AndreSimar,3 hours ago,https://replit.com/bounties/@Marc-AndreSimar/styled-mui-datagrid?t=
 831,$450.00,due in 5 days,U.S. Income and Real Estate API / Web App,"Build a web app or API where given a list of zipcodes as input, it returns the median household income and the median housing price for the given zipcodes.
 
 Acceptance Criteria
@@ -6639,7 +6639,7 @@ Currently, once the processing is done, a 'Download' button appears and the 'Pro
 
 I will provide the JS and HTML files that need to be updated in a REPL.
 
-The task is pretty simpl...",mdotbaig,1 hour ago,https://replit.com/bounties/@mdotbaig/simple-frontend-cust?t=
+The task is pretty simpl...",mdotbaig,2 hours ago,https://replit.com/bounties/@mdotbaig/simple-frontend-cust?t=
 834,$720.00,due in 1 month,Argument Breakdown AI Tool,"I am looking for someone to create an AI/GPT-3 based tool for argument breakdowns, with a specific visualization in the form of a decision tree. I have a Figma of the design but the idea is the visualize in the form of decision tree, a quick summary of the top rated points, and a live chat for group discussion.
 
 A new 'question' inputted to start a discussion should be shareable and therefore needs to be able to be saved into a catalog (i.e a new page acting as the library/feed/search ability) as well as signing up with (e.g. with email)
