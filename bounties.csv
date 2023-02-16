@@ -6472,7 +6472,7 @@ A new sveltekit app, with the ability to log in to auth0, and be able to pass a 
 
 Technical Details
 Our examples have tried using an SPA version of auth0 and subscribing to stores for the ability to call the remote servers, but the subscribing to a store seems to cause issues with the load function ever refreshing. We think the right approach is something more in the next.js direct. We have an example library here, but we haven't gotten this to work either. https://github.com/rmunn/sveltekit-auth0-unofficial
-Link to Project",SteveMartocci,9 hours ago,https://replit.com/bounties/@SteveMartocci/sveltekit-with-auth0?t=
+Link to Project",SteveMartocci,10 hours ago,https://replit.com/bounties/@SteveMartocci/sveltekit-with-auth0?t=
 818,"$1,999.80",due in 14 days,Token Gating Bot,"Website owners/community owners need a way to verify the ownership of tokens or NFTs in a user's wallet and grant or restrict access to a webpage based on that information.
 
 Acceptance Criteria
@@ -6510,14 +6510,14 @@ Acceptance Criteria
 Provide an easy-to-use UI interface for a user to generate NFTs using Dall-E API, and then mint and deploy them to the Ethereum Polygon blockchain.
 The UI must allow users to generate NFTs using Dall-E API.
 Must use the Alchemy NFT API.
-Write thorough documentation on how you built this.",Arjun-Alchemy,6 hours ago,https://replit.com/bounties/@Arjun-Alchemy/ai-nft-generator?t=
+Write thorough documentation on how you built this.",Arjun-Alchemy,7 hours ago,https://replit.com/bounties/@Arjun-Alchemy/ai-nft-generator?t=
 821,$50.00,due in 4 days,add tones and rewrite to chrome extension,"add tones to chrome extension (details shared on email)
 
 Acceptance Criteria
 
 Technical Details
 
-Link to Project",ShubhKathuria,6 hours ago,https://replit.com/bounties/@ShubhKathuria/add-tones-and-rewrit?t=
+Link to Project",ShubhKathuria,7 hours ago,https://replit.com/bounties/@ShubhKathuria/add-tones-and-rewrit?t=
 822,$360.00,due in 17 days,Build a bleeding edge tech web app boilerplate,"I'm looking to build a very fast web app boilerplate. Similar to those listed here: https://airtable.com/appkZ6JqxCoHFN9uK/tbluwp5EOvg9qtCwC/viwci6Ce98bSGkIQZ?blocks=hide, it's meant to be a ready made starting point for a basic Saas web app with sensible defaults that can then be customized further. In this case the defaults will be less sensible and more bleeding edge, fun tech to work with :-)
 
 If you do this well and get productive with the stack - we can move forward by building and actual SaaS app on top of the boilerplate.
@@ -6559,4 +6559,4 @@ Link to Project
 
 This is the first step in a personal AI project. I will be submitting more bounties to extend this project to:
 
-Make it multi-user, store user details, add ...",pilkster,8 minutes ago,https://replit.com/bounties/@pilkster/duplicate-functional?t=
+Make it multi-user, store user details, add ...",pilkster,24 minutes ago,https://replit.com/bounties/@pilkster/duplicate-functional?t=
