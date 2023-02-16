@@ -6526,7 +6526,7 @@ Acceptance Criteria
 If you're already familiar with these technologies, great, but I expect roughly 0 people to be familiar with each of them. If you're familiar with react, solidjs, and nextjs though, I expect you can get comfortable with these technologies using their documentation as quickly as anyone else.
 
 Technical Details
-I intend to accomplish that using qwik, replicache, and edgedb, then to make it easy for non-technical people to...",WilliamBarber7,4 hours ago,https://replit.com/bounties/@WilliamBarber7/build-a-bleeding-edg?t=
+I intend to accomplish that using qwik, replicache, and edgedb, then to make it easy for non-technical people to...",WilliamBarber7,5 hours ago,https://replit.com/bounties/@WilliamBarber7/build-a-bleeding-edg?t=
 823,$45.00,closed,get the websites from a list of company names,"I have a list of 1500 companies in excel and I want their websites saved to a excel file. I have built a web scrapper to get a search on google for the company name from the excel file and get the website, it works but after about 30 names google notices that it is a bot and blocks the scrapper with a recatcha.
 
 Acceptance Criteria
@@ -6536,8 +6536,8 @@ Technical Details
 Code in Python using selium
 
 Link to Project
-https://colab.research.google.com/drive/10rHVg6GlX2PUIzgS55hkOGRuIAZJQx3h?usp=sharing",caioraimundo,4 hours ago,https://replit.com/bounties/@caioraimundo/get-the-websites-fro?t=
-824,$0.90,due in 2 months,command for game cyberheist,i need a command added to a open source game by catr3kd and some of you may be fimilar with it but i want to add a mute command that will make the chatbox invisible to accounts that are muted this would of course require a unmute command also,AydenBG,4 hours ago,https://replit.com/bounties/@AydenBG/command-for-game-cyb?t=
+https://colab.research.google.com/drive/10rHVg6GlX2PUIzgS55hkOGRuIAZJQx3h?usp=sharing",caioraimundo,5 hours ago,https://replit.com/bounties/@caioraimundo/get-the-websites-fro?t=
+824,$0.90,due in 2 months,command for game cyberheist,i need a command added to a open source game by catr3kd and some of you may be fimilar with it but i want to add a mute command that will make the chatbox invisible to accounts that are muted this would of course require a unmute command also,AydenBG,5 hours ago,https://replit.com/bounties/@AydenBG/command-for-game-cyb?t=
 825,$20.00,due in 14 days,Bing AI U_Cookie,"Hi,
 
  I'm looking for someone with the new Bing access to share their U_Cookie (it's one of the cookies that shows up in your cookies when on Bing.com search.)
@@ -6559,4 +6559,4 @@ Link to Project
 
 This is the first step in a personal AI project. I will be submitting more bounties to extend this project to:
 
-Make it multi-user, store user details, add ...",pilkster,24 minutes ago,https://replit.com/bounties/@pilkster/duplicate-functional?t=
+Make it multi-user, store user details, add ...",pilkster,38 minutes ago,https://replit.com/bounties/@pilkster/duplicate-functional?t=
