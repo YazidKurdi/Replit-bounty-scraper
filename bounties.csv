@@ -6446,7 +6446,7 @@ Ask users to input some basic parameters such as event, relationship with recipi
 Provide recommendations based on user inputs.
 Allow for continuous conversations with users to optimize the answers in the recommender as well as personalize it.
 Allow the user to shortlist some of the recommendations provided
-Once all the recommendations are shortlisted, given an option to see gifts matching available products in our inventory. Model will need to be trained on available products which can be pulled via an API.",vickwiz,6 hours ago,https://replit.com/bounties/@vickwiz/gift-recommender-app?t=
+Once all the recommendations are shortlisted, given an option to see gifts matching available products in our inventory. Model will need to be trained on available products which can be pulled via an API.",vickwiz,7 hours ago,https://replit.com/bounties/@vickwiz/gift-recommender-app?t=
 816,$360.00,due in 4 days,Simple Gradio app to classify text with GPT-3,"Background
 I am an experienced AI product manager and I am looking for skilled developers to work with on future projects. This is a simple end-to-end test project which will hopefully help me find someone I like working with.
 
@@ -6464,7 +6464,7 @@ Acceptance Criteria
 working Gradio app with features as described
 simple logging feature using Supabase
 
-I have a technical background and really enjoy working with smart and talented developers - looking forward ...",tomwalchakAI,5 hours ago,https://replit.com/bounties/@tomwalchakAI/simple-gradio-app-to?t=
+I have a technical background and really enjoy working with smart and talented developers - looking forward ...",tomwalchakAI,6 hours ago,https://replit.com/bounties/@tomwalchakAI/simple-gradio-app-to?t=
 817,$180.00,due in 3 days,Sveltekit with Auth0 properly configured,"There is no supported library for auth0 and sveltekit. Implementations we've tried have not allowed for a working load function. Our application will call an external api for data and needs to be able to pass along the bearer token to the api.
 
 Acceptance Criteria
@@ -6490,7 +6490,7 @@ We’re partnering with Replit to find top developers for exciting web3 projects
 
 Additional rewards for this bounty:
 You'll be featured on Alchemy and Replit’s Twitter channels - to hundreds of thousands of people!
-Chosen c...",Arjun-Alchemy,2 hours ago,https://replit.com/bounties/@Arjun-Alchemy/token-gating-bot?t=
+Chosen c...",Arjun-Alchemy,3 hours ago,https://replit.com/bounties/@Arjun-Alchemy/token-gating-bot?t=
 819,"$2,500.00",due in 20 days,Swap Crypto Widget ,"Dapp Description
 Create an embedded widget to allow anyone to swap tokens within their website or app.
 
@@ -6503,7 +6503,7 @@ The widget will also check user wallet balance depending on cryptocurrency.
     Communicate to the user when their user wallet has insufficient funds
 Use Alchemy’s Transfers API or Tokens API.
 The widget should display “Powered by Alchemy” at the bottom of widget.
-Write thorough documentation on how you built this.",Arjun-Alchemy,2 hours ago,https://replit.com/bounties/@Arjun-Alchemy/swap-crypto-widget?t=
+Write thorough documentation on how you built this.",Arjun-Alchemy,3 hours ago,https://replit.com/bounties/@Arjun-Alchemy/swap-crypto-widget?t=
 820,"$3,421.80",due in 21 days,AI NFT Generator,"Provide an easy way to generate NFT art and mint and deploy to the Polygon or Ethereum blockchain.
 
 Acceptance Criteria
@@ -6518,3 +6518,23 @@ Acceptance Criteria
 Technical Details
 
 Link to Project",ShubhKathuria,2 hours ago,https://replit.com/bounties/@ShubhKathuria/add-tones-and-rewrit?t=
+822,$360.00,due in 17 days,Build a bleeding edge tech web app boilerplate,"I'm looking to build a very fast web app boilerplate. Similar to those listed here: https://airtable.com/appkZ6JqxCoHFN9uK/tbluwp5EOvg9qtCwC/viwci6Ce98bSGkIQZ?blocks=hide, it's meant to be a ready made starting point for a basic Saas web app with sensible defaults that can then be customized further. In this case the defaults will be less sensible and more bleeding edge, fun tech to work with :-)
+
+If you do this well and get productive with the stack - we can move forward by building and actual SaaS app on top of the boilerplate.
+
+Acceptance Criteria
+If you're already familiar with these technologies, great, but I expect roughly 0 people to be familiar with each of them. If you're familiar with react, solidjs, and nextjs though, I expect you can get comfortable with these technologies using their documentation as quickly as anyone else.
+
+Technical Details
+I intend to accomplish that using qwik, replicache, and edgedb, then to make it easy for non-technical people to...",WilliamBarber7,6 minutes ago,https://replit.com/bounties/@WilliamBarber7/build-a-bleeding-edg?t=
+823,$45.00,due in 4 days,get the websites from a list of company names,"I have a list of 1500 companies in excel and I want their websites saved to a excel file. I have built a web scrapper to get a search on google for the company name from the excel file and get the website, it works but after about 30 names google notices that it is a bot and blocks the scrapper with a recatcha.
+
+Acceptance Criteria
+all companies with the correct website (95% of the time would be great)
+
+Technical Details
+Code in Python using selium
+
+Link to Project
+https://colab.research.google.com/drive/10rHVg6GlX2PUIzgS55hkOGRuIAZJQx3h?usp=sharing",caioraimundo,5 minutes ago,https://replit.com/bounties/@caioraimundo/get-the-websites-fro?t=
+824,$0.90,due in 2 months,command for game cyberheist,i need a command added to a open source game by catr3kd and some of you may be fimilar with it but i want to add a mute command that will make the chatbox invisible to accounts that are muted this would of course require a unmute command also,AydenBG,4 minutes ago,https://replit.com/bounties/@AydenBG/command-for-game-cyb?t=
