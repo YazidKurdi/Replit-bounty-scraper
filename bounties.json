@@ -8296,7 +8296,17 @@
         "title": "The NJ Project",
         "description": "Data scraping tool.",
         "author": "fauxform",
-        "posted_time": "23 minutes ago",
+        "posted_time": "36 minutes ago",
         "link": "https://replit.com/bounties/@fauxform/the-nj-project?t="
+    },
+    {
+        "index": "830",
+        "price": "$36.00",
+        "due_days": "due in 3 days",
+        "title": "Styled MUI DataGrid React component",
+        "description": "I am using Material UI's DataGrid Pro. I am currently styling it for dark mode. I need help styling the: i) columnMenu, ii) filterPanel, as well as the popup on the export button. Details in the sandbox (see below).\n\nAcceptance Criteria\nA MUI DataGrid Pro reusable, styled component with the three popups with a style similar to linear.app screenshot here\nThis means that: i) The popup is a similar color / transparency, rounded corners, border, shadow, etc., ii) That a row is highlighted in a similar style on hover, and iii) the cursor is a pointer\n\nLink to Project\nSample code can be found here: https://codesandbox.io/s/nifty-glitter-gb1s4x?file=/demo.tsx. You can just fork this sandbox and send to complete the work",
+        "author": "Marc-AndreSimar",
+        "posted_time": "6 minutes ago",
+        "link": "https://replit.com/bounties/@Marc-AndreSimar/styled-mui-datagrid?t="
     }
 ]
