@@ -6571,4 +6571,4 @@ Technical Details
 StableDiffusion preferred, but open to other tools if they are better suited
 Final version should have:
     INPUT: 3-6 images of the ""model"" in various settings (using a larger training set of the model is possible if you show it's impossible to achieve with only 3-6 images); text prompt (if needed according to the process you set up); 5 template images (possibly manually edited to emphasize the face area to replace with the model's face).
-    OUTPUT: 5 images with the model's face,...",ColinHodge,5 hours ago,https://replit.com/bounties/@ColinHodge/stablediffusion-img2?t=
+    OUTPUT: 5 images with the model's face,...",ColinHodge,6 hours ago,https://replit.com/bounties/@ColinHodge/stablediffusion-img2?t=
