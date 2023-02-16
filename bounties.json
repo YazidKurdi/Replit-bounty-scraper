@@ -8206,7 +8206,7 @@
         "title": "AI NFT Generator",
         "description": "Provide an easy way to generate NFT art and mint and deploy to the Polygon or Ethereum blockchain.\n\nAcceptance Criteria\nProvide an easy-to-use UI interface for a user to generate NFTs using Dall-E API, and then mint and deploy them to the Ethereum Polygon blockchain.\nThe UI must allow users to generate NFTs using Dall-E API.\nMust use the Alchemy NFT API.\nWrite thorough documentation on how you built this.",
         "author": "Arjun-Alchemy",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@Arjun-Alchemy/ai-nft-generator?t="
     },
     {
@@ -8216,7 +8216,7 @@
         "title": "add tones and rewrite to chrome extension",
         "description": "add tones to chrome extension (details shared on email)\n\nAcceptance Criteria\n\nTechnical Details\n\nLink to Project",
         "author": "ShubhKathuria",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@ShubhKathuria/add-tones-and-rewrit?t="
     },
     {
@@ -8286,7 +8286,7 @@
         "title": "StableDiffusion img2img trainable with new models, replacing person in template images",
         "description": "Goal is to utilize a few template images, replacing only the person in the template image with a different person using as small number of training images of the new subject as possible\nOnce you achieve satisfactory image results, you should be able to optimize the processes for speed, cost, and number of training images needed\n\nAcceptance Criteria\nRealistic looking generated images without noticeable defects or \"uncanny\" feeling, suitable for usage at ~800x800 pixels.\n\nTechnical Details\nStableDiffusion preferred, but open to other tools if they are better suited\nFinal version should have:\n    INPUT: 3-6 images of the \"model\" in various settings (using a larger training set of the model is possible if you show it's impossible to achieve with only 3-6 images); text prompt (if needed according to the process you set up); 5 template images (possibly manually edited to emphasize the face area to replace with the model's face).\n    OUTPUT: 5 images with the model's face,...",
         "author": "ColinHodge",
-        "posted_time": "44 minutes ago",
+        "posted_time": "58 minutes ago",
         "link": "https://replit.com/bounties/@ColinHodge/stablediffusion-img2?t="
     }
 ]
