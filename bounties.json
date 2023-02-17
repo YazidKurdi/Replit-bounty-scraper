@@ -8446,7 +8446,7 @@
         "title": "As system to tip workers ",
         "description": "To replicate the website https://easytip.net/",
         "author": "activestudy",
-        "posted_time": "46 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@activestudy/as-system-to-tip-wor?t="
     },
     {
@@ -8456,7 +8456,7 @@
         "title": "A proposal to develop website like https://easytip.net/",
         "description": "A proposal with the cost to develop a website like https://easytip.net/",
         "author": "activestudy",
-        "posted_time": "42 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@activestudy/a-proposal-to-develo?t="
     },
     {
@@ -8466,7 +8466,7 @@
         "title": "ai fb chatbot",
         "description": "Make an ai fb messenger chatbot that replies instantly and can be added to groupchats where everybody can use it / (or not based on modes). Must use prefix commands to use features such as:\nai - uses gpt-3 model\ndall-e - uses dall-e3\nimagesearch - returns an image based on the given word\nvideosearch - returns a video\nweather update - any api\nAcceptance Criteria\nI prefer node.js but any language will do\nTechnical Details\nnone",
         "author": "anjelobobo",
-        "posted_time": "22 minutes ago",
+        "posted_time": "45 minutes ago",
         "link": "https://replit.com/bounties/@anjelobobo/ai-fb-chatbot?t="
     },
     {
@@ -8476,7 +8476,7 @@
         "title": "Pull Request UI in Next.js",
         "description": "I primarily access GitHub through the API, as I work for many different customers and have different tokens for each. However, I would like a way to view a pull request without having to log into accounts. Instead, I'd just like to pull up a page where it fills in the API token for me and replicates the pull request UI.\n\nYour task is to (re)create the pull request page from GitHub (ie. this page - https://github.com/calcom/cal.com/pull/6876) using the API alone. Visual fidelity is not required (just use components from any component library, though Primer or Material UI are preferred), nor is all the functionality of the interface.\n\nAcceptance Criteria\nI can open /apps///pulls/ to view a pull request. The details are fetched via the API from my GitHub app.\n\nThe page has this info:\nPR title\nPR author\nPR body (description)\nPR status (merged, closed, draft, etc.)\nThe files changed are accessible. I can expand a diff for each file to view it\nThe commit list is visible\nT...",
         "author": "dev2prod",
-        "posted_time": "19 minutes ago",
+        "posted_time": "41 minutes ago",
         "link": "https://replit.com/bounties/@dev2prod/pull-request-ui-in-n?t="
     }
 ]
