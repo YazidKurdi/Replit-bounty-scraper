@@ -6718,7 +6718,7 @@ A README file should be provided that includes all the necessary steps to set up
 
 Technical Details
 The urls.json file will be provided after I accept the Bounty application.
-A README file should be provided upon comple...",Dprevoznik,22 hours ago,https://replit.com/bounties/@Dprevoznik/python-script-for-op-1?t=
+A README file should be provided upon comple...",Dprevoznik,23 hours ago,https://replit.com/bounties/@Dprevoznik/python-script-for-op-1?t=
 843,$540.00,due in 6 days,SEO Chrome Extension using OpenAI API,"#Problem Description:
 
 We are seeking a self-sufficient Chrome extension developer to create the MVP of a chrome extension for SEO, powered by the OpenAI API. The tool will be designed to assist website owners in improving their SEO performance by analyzing their website's keywords and content, and offering suggestions for improvements based on the most recent SEO best practices. The extension will have to link to the ChatGPT/OpenAI API to analyze website content and provide recommendations for improving SEO.
@@ -6773,7 +6773,7 @@ The app should be secure and task activity should only visible to authorized use
 PLEASE NOTE - This is a bare-bones proof of concept. As such the engineer should utilise existing template/technologies wherever possible to facilitate outcomes. There are no wireframes or screen designs available - and it is not my intention to create any).
 
 Features
-Employee creates a profile and links their preferred calendar to it. They then then invite Employers to add agreed working expectations and to view daily,...",JamieHarris4,8 hours ago,https://replit.com/bounties/@JamieHarris4/contextual-calendar?t=
+Employee creates a profile and links their preferred calendar to it. They then then invite Employers to add agreed working expectations and to view daily,...",JamieHarris4,9 hours ago,https://replit.com/bounties/@JamieHarris4/contextual-calendar?t=
 850,$90.00,due in 6 days,Scaling canvas that takes up all horiz and vert space in the browser w/o scroll bars,"I'd like a raw (no JS or CSS framework), client-side only HTML/CSS/JS implementation of this app: https://spec-app-375606.web.app/#/
 
 Acceptance Criteria
@@ -6788,4 +6788,4 @@ The content inside the square should be sharp and clear as it's resized.
 The square should be implemented as a  element; the circle and text should be painted inside the canvas.
 
 Technical Details
-The reference app is built with a few lines of Flutter and I'm searching for the right way to get the same behavior in raw HTML, CSS and JS w/o the use of any frameworks. My goal is to have a template for canvas-based content at a fixed logical size that scales to fit the available space while maintaining the aspect ra...",csells,10 minutes ago,https://replit.com/bounties/@csells/scaling-canvas-that?t=
+The reference app is built with a few lines of Flutter and I'm searching for the right way to get the same behavior in raw HTML, CSS and JS w/o the use of any frameworks. My goal is to have a template for canvas-based content at a fixed logical size that scales to fit the available space while maintaining the aspect ra...",csells,25 minutes ago,https://replit.com/bounties/@csells/scaling-canvas-that?t=
