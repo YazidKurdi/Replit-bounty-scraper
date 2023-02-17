@@ -6707,7 +6707,7 @@ full authentication implementation with Supabase and its tooling (DB, APIs, Auth
 
 Stripe implementation:
 Full stripe implementation - stripe plan creation, database tables creation, webhooks, user checkout, etc.
-    create 3 custom plans wit...",juancaruiz,17 hours ago,https://replit.com/bounties/@juancaruiz/add-authentication-a-1?t=
+    create 3 custom plans wit...",juancaruiz,18 hours ago,https://replit.com/bounties/@juancaruiz/add-authentication-a-1?t=
 842,$95.00,due in 3 days,Python Script For OpenAI Web Embeddings,"I recently saw this tutorial posted from OpenAI: https://platform.openai.com/docs/tutorials/web-qa-embeddings
 
 The goal is to create a Python script that takes a question as input and provides an answer based on an embeddings model created from a pre-defined set of URLS' content from a specific website. The URLs are stored in a urls.json file and no web crawling is required (link crawling is mentioned in the tutorial but not needed here).
@@ -6728,7 +6728,7 @@ We are seeking a self-sufficient Chrome extension developer to create the MVP of
 The finished extension should ideally meet the following requirements:
 • Connect to the ChatGPT/OpenAI API to analyze website content and provide recommendations for improving SEO. Any engine is fine, whatever is most appropriate.
 • Keyword analysis: Analyze website keywords and suggest relevant keywords that can be added to the website's content to improve its SEO.
-• Nice to have in MVP - Content analysis: Analyze website content and suggest changes to imp...",rhodowen,7 hours ago,https://replit.com/bounties/@rhodowen/seo-chrome-extension?t=
+• Nice to have in MVP - Content analysis: Analyze website content and suggest changes to imp...",rhodowen,8 hours ago,https://replit.com/bounties/@rhodowen/seo-chrome-extension?t=
 844,$18.00,closed,As system to tip workers ,To replicate the website https://easytip.net/,activestudy,5 hours ago,https://replit.com/bounties/@activestudy/as-system-to-tip-wor?t=
 845,$9.00,due in 6 days,A proposal to develop website like https://easytip.net/,A proposal with the cost to develop a website like https://easytip.net/,activestudy,5 hours ago,https://replit.com/bounties/@activestudy/a-proposal-to-develo?t=
 846,$9.00,due in 3 days,ai fb chatbot,"Make an ai fb messenger chatbot that replies instantly and can be added to groupchats where everybody can use it / (or not based on modes). Must use prefix commands to use features such as:
@@ -6764,7 +6764,7 @@ Acceptance Criteria
 N/A
 
 Technical Details
-N/A",GennaroCuofano,3 hours ago,https://replit.com/bounties/@GennaroCuofano/prompt-to-presentati-1?t=
+N/A",GennaroCuofano,4 hours ago,https://replit.com/bounties/@GennaroCuofano/prompt-to-presentati-1?t=
 849,"$1,350.00",due in 6 days,"Contextual Calendar App with Tagging, and Activity Tracking Capabilities","The purpose of this app is to track and report on the time spent by fractional employees across multiple employers and project tasks
 The app should sync with Outlook/Microsoft Calendar and Gmail Calendar, and allow users augment their calendar data with additional context.
 This data will be used for tracking work productivity and reporting across multiple employers and to the employee.
