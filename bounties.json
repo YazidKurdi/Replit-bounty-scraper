@@ -8336,7 +8336,7 @@
         "title": "Simple frontend customization - Make a button un-clickable and generate processing symbol",
         "description": "I have a webapp that takes a csv and processes it.\n\nOn the dashboard the user has the option to choose a file. And there is a 'Process' button immediately below it.\n\nCurrently, when they click the 'Process' button, it begins processing their csv. However, the 'Process' button remains click-able and if the user re-clicks the button it will call the Process function again.\n\nI need you to make it so that once the process button is clicked and begins processing the request, the user can no longer click the 'Process' button. I also want the 'Process' button to be grayed out so that it is clear that the csv is processing.\n\nI would like you to also had some kind of symbol, like a spinning wheel on the button or next to it so show that is currently processing.\n\nCurrently, once the processing is done, a 'Download' button appears and the 'Process' button disappears. I want this to remain in effect.\n\nI will provide the JS and HTML files that need to be updated in a REPL.\n\nThe task is pretty simpl...",
         "author": "mdotbaig",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@mdotbaig/simple-frontend-cust?t="
     },
     {
@@ -8356,7 +8356,7 @@
         "title": "Replit Spam Comments",
         "description": "This is an extremely easy bounty. I want a txt file with comments that are advertising their own repls, or another website. Each line should be a new comment. Make sure to make each comment fit in one line. The txt file should be a minimum of 100 lines. Each comment should be unique. Please don't have repeats.",
         "author": "IcemasterEric",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@IcemasterEric/replit-spam-comments?t="
     },
     {
@@ -8428,5 +8428,15 @@
         "author": "Dprevoznik",
         "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@Dprevoznik/python-script-for-op-1?t="
+    },
+    {
+        "index": "843",
+        "price": "$540.00",
+        "due_days": "due in 7 days",
+        "title": "SEO Chrome Extension using OpenAI API",
+        "description": "#Problem Description:\n\nWe are seeking a self-sufficient Chrome extension developer to create the MVP of a chrome extension for SEO, powered by the OpenAI API. The tool will be designed to assist website owners in improving their SEO performance by analyzing their website's keywords and content, and offering suggestions for improvements based on the most recent SEO best practices. The extension will have to link to the ChatGPT/OpenAI API to analyze website content and provide recommendations for improving SEO.\n\n#Acceptance Criteria:\n\nThe finished extension should ideally meet the following requirements:\n\u2022 Connect to the ChatGPT/OpenAI API to analyze website content and provide recommendations for improving SEO. Any engine is fine, whatever is most appropriate.\n\u2022 Keyword analysis: Analyze website keywords and suggest relevant keywords that can be added to the website's content to improve its SEO.\n\u2022 Nice to have in MVP - Content analysis: Analyze website content and suggest changes to imp...",
+        "author": "rhodowen",
+        "posted_time": "13 minutes ago",
+        "link": "https://replit.com/bounties/@rhodowen/seo-chrome-extension?t="
     }
 ]

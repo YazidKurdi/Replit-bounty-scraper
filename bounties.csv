@@ -6639,7 +6639,7 @@ Currently, once the processing is done, a 'Download' button appears and the 'Pro
 
 I will provide the JS and HTML files that need to be updated in a REPL.
 
-The task is pretty simpl...",mdotbaig,16 hours ago,https://replit.com/bounties/@mdotbaig/simple-frontend-cust?t=
+The task is pretty simpl...",mdotbaig,17 hours ago,https://replit.com/bounties/@mdotbaig/simple-frontend-cust?t=
 834,$720.00,due in 1 month,Argument Breakdown AI Tool,"I am looking for someone to create an AI/GPT-3 based tool for argument breakdowns, with a specific visualization in the form of a decision tree. I have a Figma of the design but the idea is the visualize in the form of decision tree, a quick summary of the top rated points, and a live chat for group discussion.
 
 A new 'question' inputted to start a discussion should be shareable and therefore needs to be able to be saved into a catalog (i.e a new page acting as the library/feed/search ability) as well as signing up with (e.g. with email)
@@ -6653,7 +6653,7 @@ A prototype showing the ability to:
 5) newsfeed with list of all discussions started
 
 Technica...",JonColler,16 hours ago,https://replit.com/bounties/@JonColler/argument-breakdown-a?t=
-835,$2.70,closed,Replit Spam Comments,"This is an extremely easy bounty. I want a txt file with comments that are advertising their own repls, or another website. Each line should be a new comment. Make sure to make each comment fit in one line. The txt file should be a minimum of 100 lines. Each comment should be unique. Please don't have repeats.",IcemasterEric,14 hours ago,https://replit.com/bounties/@IcemasterEric/replit-spam-comments?t=
+835,$2.70,closed,Replit Spam Comments,"This is an extremely easy bounty. I want a txt file with comments that are advertising their own repls, or another website. Each line should be a new comment. Make sure to make each comment fit in one line. The txt file should be a minimum of 100 lines. Each comment should be unique. Please don't have repeats.",IcemasterEric,15 hours ago,https://replit.com/bounties/@IcemasterEric/replit-spam-comments?t=
 836,$36.00,due in 3 days,Styled MUI DataGrid React component,"I am using Material UI's DataGrid Pro. I am currently styling it for dark mode. I need help styling the: i) columnMenu, ii) filterPanel, as well as the popup on the export button. Details in the sandbox (see below).
 
 Acceptance Criteria
@@ -6719,3 +6719,13 @@ A README file should be provided that includes all the necessary steps to set up
 Technical Details
 The urls.json file will be provided after I accept the Bounty application.
 A README file should be provided upon comple...",Dprevoznik,9 hours ago,https://replit.com/bounties/@Dprevoznik/python-script-for-op-1?t=
+843,$540.00,due in 7 days,SEO Chrome Extension using OpenAI API,"#Problem Description:
+
+We are seeking a self-sufficient Chrome extension developer to create the MVP of a chrome extension for SEO, powered by the OpenAI API. The tool will be designed to assist website owners in improving their SEO performance by analyzing their website's keywords and content, and offering suggestions for improvements based on the most recent SEO best practices. The extension will have to link to the ChatGPT/OpenAI API to analyze website content and provide recommendations for improving SEO.
+
+#Acceptance Criteria:
+
+The finished extension should ideally meet the following requirements:
+• Connect to the ChatGPT/OpenAI API to analyze website content and provide recommendations for improving SEO. Any engine is fine, whatever is most appropriate.
+• Keyword analysis: Analyze website keywords and suggest relevant keywords that can be added to the website's content to improve its SEO.
+• Nice to have in MVP - Content analysis: Analyze website content and suggest changes to imp...",rhodowen,13 minutes ago,https://replit.com/bounties/@rhodowen/seo-chrome-extension?t=
