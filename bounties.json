@@ -8466,7 +8466,7 @@
         "title": "ai fb chatbot",
         "description": "Make an ai fb messenger chatbot that replies instantly and can be added to groupchats where everybody can use it / (or not based on modes). Must use prefix commands to use features such as:\nai - uses gpt-3 model\ndall-e - uses dall-e3\nimagesearch - returns an image based on the given word\nvideosearch - returns a video\nweather update - any api\nAcceptance Criteria\nI prefer node.js but any language will do\nTechnical Details\nnone",
         "author": "anjelobobo",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@anjelobobo/ai-fb-chatbot?t="
     },
     {
@@ -8476,7 +8476,7 @@
         "title": "Pull Request UI in Next.js",
         "description": "I primarily access GitHub through the API, as I work for many different customers and have different tokens for each. However, I would like a way to view a pull request without having to log into accounts. Instead, I'd just like to pull up a page where it fills in the API token for me and replicates the pull request UI.\n\nYour task is to (re)create the pull request page from GitHub (ie. this page - https://github.com/calcom/cal.com/pull/6876) using the API alone. Visual fidelity is not required (just use components from any component library, though Primer or Material UI are preferred), nor is all the functionality of the interface.\n\nAcceptance Criteria\nI can open /apps///pulls/ to view a pull request. The details are fetched via the API from my GitHub app.\n\nThe page has this info:\nPR title\nPR author\nPR body (description)\nPR status (merged, closed, draft, etc.)\nThe files changed are accessible. I can expand a diff for each file to view it\nThe commit list is visible\nT...",
         "author": "dev2prod",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@dev2prod/pull-request-ui-in-n?t="
     },
     {
@@ -8498,5 +8498,15 @@
         "author": "JamieHarris4",
         "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@JamieHarris4/contextual-calendar?t="
+    },
+    {
+        "index": "850",
+        "price": "$90.00",
+        "due_days": "due in 6 days",
+        "title": "Scaling canvas that takes up all horiz and vert space in the browser w/o scroll bars",
+        "description": "I'd like a raw (no JS or CSS framework), client-side only HTML/CSS/JS implementation of this app: https://spec-app-375606.web.app/#/\n\nAcceptance Criteria\nThe content should all stay on a single page as the browser window resizes w/o scrollbars.\n\nThe square with the circle and text should take up the maximum amount of space that it can based on its size, i.e. maintaining the aspect ratio.\n\nThe square should be able to be resized dynamically via the sliders.\n\nThe content inside the square should be sharp and clear as it's resized.\n\nThe square should be implemented as a  element; the circle and text should be painted inside the canvas.\n\nTechnical Details\nThe reference app is built with a few lines of Flutter and I'm searching for the right way to get the same behavior in raw HTML, CSS and JS w/o the use of any frameworks. My goal is to have a template for canvas-based content at a fixed logical size that scales to fit the available space while maintaining the aspect ra...",
+        "author": "csells",
+        "posted_time": "10 minutes ago",
+        "link": "https://replit.com/bounties/@csells/scaling-canvas-that?t="
     }
 ]
