@@ -6624,7 +6624,7 @@ We will test the tool with a few questions regarding information inside the lega
 Acceptance Criteria
 The chatbot should have a simple interface.
 We will provide an sample documents which the user should be able to upload and the chatbot should be able to query.
-The chatbot must be able to generate a proper response regarding data in the pdfs.",GrahamWahlberg,15 hours ago,https://replit.com/bounties/@GrahamWahlberg/create-a-website-whi?t=
+The chatbot must be able to generate a proper response regarding data in the pdfs.",GrahamWahlberg,16 hours ago,https://replit.com/bounties/@GrahamWahlberg/create-a-website-whi?t=
 833,$20.00,closed,Simple frontend customization - Make a button un-clickable and generate processing symbol,"I have a webapp that takes a csv and processes it.
 
 On the dashboard the user has the option to choose a file. And there is a 'Process' button immediately below it.
@@ -6639,7 +6639,7 @@ Currently, once the processing is done, a 'Download' button appears and the 'Pro
 
 I will provide the JS and HTML files that need to be updated in a REPL.
 
-The task is pretty simpl...",mdotbaig,15 hours ago,https://replit.com/bounties/@mdotbaig/simple-frontend-cust?t=
+The task is pretty simpl...",mdotbaig,16 hours ago,https://replit.com/bounties/@mdotbaig/simple-frontend-cust?t=
 834,$720.00,due in 1 month,Argument Breakdown AI Tool,"I am looking for someone to create an AI/GPT-3 based tool for argument breakdowns, with a specific visualization in the form of a decision tree. I have a Figma of the design but the idea is the visualize in the form of decision tree, a quick summary of the top rated points, and a live chat for group discussion.
 
 A new 'question' inputted to start a discussion should be shareable and therefore needs to be able to be saved into a catalog (i.e a new page acting as the library/feed/search ability) as well as signing up with (e.g. with email)
@@ -6653,7 +6653,7 @@ A prototype showing the ability to:
 5) newsfeed with list of all discussions started
 
 Technica...",JonColler,15 hours ago,https://replit.com/bounties/@JonColler/argument-breakdown-a?t=
-835,$2.70,closed,Replit Spam Comments,"This is an extremely easy bounty. I want a txt file with comments that are advertising their own repls, or another website. Each line should be a new comment. Make sure to make each comment fit in one line. The txt file should be a minimum of 100 lines. Each comment should be unique. Please don't have repeats.",IcemasterEric,13 hours ago,https://replit.com/bounties/@IcemasterEric/replit-spam-comments?t=
+835,$2.70,closed,Replit Spam Comments,"This is an extremely easy bounty. I want a txt file with comments that are advertising their own repls, or another website. Each line should be a new comment. Make sure to make each comment fit in one line. The txt file should be a minimum of 100 lines. Each comment should be unique. Please don't have repeats.",IcemasterEric,14 hours ago,https://replit.com/bounties/@IcemasterEric/replit-spam-comments?t=
 836,$36.00,due in 3 days,Styled MUI DataGrid React component,"I am using Material UI's DataGrid Pro. I am currently styling it for dark mode. I need help styling the: i) columnMenu, ii) filterPanel, as well as the popup on the export button. Details in the sandbox (see below).
 
 Acceptance Criteria
