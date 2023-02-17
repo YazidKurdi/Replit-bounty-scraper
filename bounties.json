@@ -8406,7 +8406,7 @@
         "title": "AI chatbot to allow tenants to find a property to rend",
         "description": "Seeking a developer that can build a chatbot that will be accessible via facebook to chat with potential tenants interested in renting apartment/ rooms/ houses.\n\nThe chatbot should be able to:\n\nprovide all the answers the tenant wants about the properties available for what they are looking for\ngather information about the tenant to be able to understand its profile and whether or not it could be a good fit to rent (i.e. age, gender, occupation, guarantor)\n    track those information into a dashboard for the owner\nKeep track of all the demand and push for visits for the persons having a good profile\nthe owner should be able to jump into the conversation when the AI is not able to answer or to add more details\n\nBonus point:\n\nthe AI optimize the scheduling of the visits to lower the time needed for the owner\nthe AI knows when another unit might be available, if the current one is currently in process of being rented or not available anymore, and suggest it to the use...",
         "author": "csese",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@csese/ai-chatbot-to-allow?t="
     },
     {
@@ -8486,7 +8486,7 @@
         "title": "Prompt to presentation ",
         "description": "Enable a user to create a first draft of a presentation with a simple prompt.\nIn addition, once the user opens up the presentation, be able also to edit that with a simple prompt.\nThus, create the whole presentation by leveraging AI for both copy and images.\n\nAcceptance Criteria\nN/A\n\nTechnical Details\nN/A",
         "author": "GennaroCuofano",
-        "posted_time": "45 minutes ago",
+        "posted_time": "55 minutes ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/prompt-to-presentati-1?t="
     },
     {
@@ -8496,7 +8496,7 @@
         "title": "Contextual Calendar App with Tagging, and Activity Tracking Capabilities",
         "description": "The purpose of this app is to track and report on the time spent by fractional employees across multiple employers and project tasks\nThe app should sync with Outlook/Microsoft Calendar and Gmail Calendar, and allow users augment their calendar data with additional context.\nThis data will be used for tracking work productivity and reporting across multiple employers and to the employee.\nThe app should be secure and task activity should only visible to authorized users (in other words I can only track hours relevant to me - as an employer or employee)\n\nPLEASE NOTE - This is a bare-bones proof of concept. As such the engineer should utilise existing template/technologies wherever possible to facilitate outcomes. There are no wireframes or screen designs available - and it is not my intention to create any).\n\nFeatures\nEmployee creates a profile and links their preferred calendar to it. They then then invite Employers to add agreed working expectations and to view daily,...",
         "author": "JamieHarris4",
-        "posted_time": "2 seconds ago",
+        "posted_time": "10 minutes ago",
         "link": "https://replit.com/bounties/@JamieHarris4/contextual-calendar?t="
     }
 ]
