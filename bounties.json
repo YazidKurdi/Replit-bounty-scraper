@@ -8406,7 +8406,7 @@
         "title": "AI chatbot to allow tenants to find a property to rend",
         "description": "Seeking a developer that can build a chatbot that will be accessible via facebook to chat with potential tenants interested in renting apartment/ rooms/ houses.\n\nThe chatbot should be able to:\n\nprovide all the answers the tenant wants about the properties available for what they are looking for\ngather information about the tenant to be able to understand its profile and whether or not it could be a good fit to rent (i.e. age, gender, occupation, guarantor)\n    track those information into a dashboard for the owner\nKeep track of all the demand and push for visits for the persons having a good profile\nthe owner should be able to jump into the conversation when the AI is not able to answer or to add more details\n\nBonus point:\n\nthe AI optimize the scheduling of the visits to lower the time needed for the owner\nthe AI knows when another unit might be available, if the current one is currently in process of being rented or not available anymore, and suggest it to the use...",
         "author": "csese",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@csese/ai-chatbot-to-allow?t="
     },
     {
@@ -8436,7 +8436,7 @@
         "title": "SEO Chrome Extension using OpenAI API",
         "description": "#Problem Description:\n\nWe are seeking a self-sufficient Chrome extension developer to create the MVP of a chrome extension for SEO, powered by the OpenAI API. The tool will be designed to assist website owners in improving their SEO performance by analyzing their website's keywords and content, and offering suggestions for improvements based on the most recent SEO best practices. The extension will have to link to the ChatGPT/OpenAI API to analyze website content and provide recommendations for improving SEO.\n\n#Acceptance Criteria:\n\nThe finished extension should ideally meet the following requirements:\n\u2022 Connect to the ChatGPT/OpenAI API to analyze website content and provide recommendations for improving SEO. Any engine is fine, whatever is most appropriate.\n\u2022 Keyword analysis: Analyze website keywords and suggest relevant keywords that can be added to the website's content to improve its SEO.\n\u2022 Nice to have in MVP - Content analysis: Analyze website content and suggest changes to imp...",
         "author": "rhodowen",
-        "posted_time": "43 minutes ago",
+        "posted_time": "50 minutes ago",
         "link": "https://replit.com/bounties/@rhodowen/seo-chrome-extension?t="
     }
 ]
