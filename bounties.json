@@ -8386,7 +8386,7 @@
         "title": "Find online game exploit",
         "description": "I did post a bounty on this earlier, it was abandoned twice and then i accepted a fraud (@eric). More cycles now, and if it is completed well i will try to provide more. There is an online game called Dedalium, which is available to download as a browser extension on almost all platforms. If you think you could do a job like this, PLEASE download the extension, create an account and familiarize yourself with the code before you apply. Maybe even solve it beforehand! Whatever the case, dont apply if you do not believe it is possible. I am asking for a solution, not for someone to tell me they can't do it. I also dont want to hear that this is lazy, earn it yourself, why do you even want to hire someone to this, etc. I am paying for someone to give me an exploit, and not an ethics teacher.\n\nWhen you have downloaded and made an account and looked at the code, I want you to try to find an exploit to get free boxes in the Store -> Boxes section. (In case you were wonderi...",
         "author": "ChaosSymmetry",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@ChaosSymmetry/find-online-game-exp?t="
     },
     {
@@ -8396,7 +8396,7 @@
         "title": "Electron JS Chat Interface ",
         "description": "Looking for someone who is an expert in Electron JS to build a unique AI Chat Interface. Must be able to work with an Python Backend, auth guarded, notification system(More info provided upon acceptance)\n\nAcceptance Criteria\nYou are more likely to be accepted if you a show a history of past work building a ChatApp or a MacOS app.\n\nTechnical Details\nDetails will be provided to ever gets accepted",
         "author": "plowsai",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@plowsai/electron-js-chat-int?t="
     },
     {
@@ -8406,7 +8406,7 @@
         "title": "AI chatbot to allow tenants to find a property to rend",
         "description": "Seeking a developer that can build a chatbot that will be accessible via facebook to chat with potential tenants interested in renting apartment/ rooms/ houses.\n\nThe chatbot should be able to:\n\nprovide all the answers the tenant wants about the properties available for what they are looking for\ngather information about the tenant to be able to understand its profile and whether or not it could be a good fit to rent (i.e. age, gender, occupation, guarantor)\n    track those information into a dashboard for the owner\nKeep track of all the demand and push for visits for the persons having a good profile\nthe owner should be able to jump into the conversation when the AI is not able to answer or to add more details\n\nBonus point:\n\nthe AI optimize the scheduling of the visits to lower the time needed for the owner\nthe AI knows when another unit might be available, if the current one is currently in process of being rented or not available anymore, and suggest it to the use...",
         "author": "csese",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@csese/ai-chatbot-to-allow?t="
     },
     {
@@ -8416,7 +8416,7 @@
         "title": "Add authentication and stripe support to nextjs app",
         "description": "Acceptance Criteria\n\nFeatures to be implemented to web app:\n\nAuthentication:\nfull authentication implementation with Supabase and its tooling (DB, APIs, Auth, etc)\n    Create user management tables in supabase postgres database\n    Sign up - users with Google provider, email/phone number/password (bonus points for added magic link auth). Must send email verification and phone number verification message (twillio) for users to proceed at first sign up. (layout already built)\n    Sign up onboarding - when the user first signs up, they are directed to an onboarding page with 6 questions (given), questions/answers to be recorded in database linked to the user - styling/layout not required\n    Sign in - users with Google, email/password (bonus points for magic link auth) (layout already built)\n    Implement app-wide protected routes\n\nStripe implementation:\nFull stripe implementation - stripe plan creation, database tables creation, webhooks, user checkout, etc.\n    create 3 custom plans wit...",
         "author": "juancaruiz",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@juancaruiz/add-authentication-a-1?t="
     },
     {
@@ -8426,7 +8426,7 @@
         "title": "Python Script For OpenAI Web Embeddings",
         "description": "I recently saw this tutorial posted from OpenAI: https://platform.openai.com/docs/tutorials/web-qa-embeddings\n\nThe goal is to create a Python script that takes a question as input and provides an answer based on an embeddings model created from a pre-defined set of URLS' content from a specific website. The URLs are stored in a urls.json file and no web crawling is required (link crawling is mentioned in the tutorial but not needed here).\n\nAcceptance Criteria\nThe script should be submitted as complete and tested using the Secret OPENAI_KEY environment variable.\nA README file should be provided that includes all the necessary steps to set up the environment and reproduce the results, including any required data cleaning. I should be able to follow this README file to start a new REPL from scratch and recreate the embeddings model.\n\nTechnical Details\nThe urls.json file will be provided after I accept the Bounty application.\nA README file should be provided upon comple...",
         "author": "Dprevoznik",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@Dprevoznik/python-script-for-op-1?t="
     },
     {
@@ -8436,7 +8436,7 @@
         "title": "SEO Chrome Extension using OpenAI API",
         "description": "#Problem Description:\n\nWe are seeking a self-sufficient Chrome extension developer to create the MVP of a chrome extension for SEO, powered by the OpenAI API. The tool will be designed to assist website owners in improving their SEO performance by analyzing their website's keywords and content, and offering suggestions for improvements based on the most recent SEO best practices. The extension will have to link to the ChatGPT/OpenAI API to analyze website content and provide recommendations for improving SEO.\n\n#Acceptance Criteria:\n\nThe finished extension should ideally meet the following requirements:\n\u2022 Connect to the ChatGPT/OpenAI API to analyze website content and provide recommendations for improving SEO. Any engine is fine, whatever is most appropriate.\n\u2022 Keyword analysis: Analyze website keywords and suggest relevant keywords that can be added to the website's content to improve its SEO.\n\u2022 Nice to have in MVP - Content analysis: Analyze website content and suggest changes to imp...",
         "author": "rhodowen",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@rhodowen/seo-chrome-extension?t="
     },
     {
@@ -8446,7 +8446,7 @@
         "title": "As system to tip workers ",
         "description": "To replicate the website https://easytip.net/",
         "author": "activestudy",
-        "posted_time": "13 minutes ago",
+        "posted_time": "46 minutes ago",
         "link": "https://replit.com/bounties/@activestudy/as-system-to-tip-wor?t="
     },
     {
@@ -8456,7 +8456,27 @@
         "title": "A proposal to develop website like https://easytip.net/",
         "description": "A proposal with the cost to develop a website like https://easytip.net/",
         "author": "activestudy",
-        "posted_time": "9 minutes ago",
+        "posted_time": "42 minutes ago",
         "link": "https://replit.com/bounties/@activestudy/a-proposal-to-develo?t="
+    },
+    {
+        "index": "846",
+        "price": "$9.00",
+        "due_days": "due in 3 days",
+        "title": "ai fb chatbot",
+        "description": "Make an ai fb messenger chatbot that replies instantly and can be added to groupchats where everybody can use it / (or not based on modes). Must use prefix commands to use features such as:\nai - uses gpt-3 model\ndall-e - uses dall-e3\nimagesearch - returns an image based on the given word\nvideosearch - returns a video\nweather update - any api\nAcceptance Criteria\nI prefer node.js but any language will do\nTechnical Details\nnone",
+        "author": "anjelobobo",
+        "posted_time": "22 minutes ago",
+        "link": "https://replit.com/bounties/@anjelobobo/ai-fb-chatbot?t="
+    },
+    {
+        "index": "847",
+        "price": "$630.00",
+        "due_days": "due in 6 days",
+        "title": "Pull Request UI in Next.js",
+        "description": "I primarily access GitHub through the API, as I work for many different customers and have different tokens for each. However, I would like a way to view a pull request without having to log into accounts. Instead, I'd just like to pull up a page where it fills in the API token for me and replicates the pull request UI.\n\nYour task is to (re)create the pull request page from GitHub (ie. this page - https://github.com/calcom/cal.com/pull/6876) using the API alone. Visual fidelity is not required (just use components from any component library, though Primer or Material UI are preferred), nor is all the functionality of the interface.\n\nAcceptance Criteria\nI can open /apps///pulls/ to view a pull request. The details are fetched via the API from my GitHub app.\n\nThe page has this info:\nPR title\nPR author\nPR body (description)\nPR status (merged, closed, draft, etc.)\nThe files changed are accessible. I can expand a diff for each file to view it\nThe commit list is visible\nT...",
+        "author": "dev2prod",
+        "posted_time": "19 minutes ago",
+        "link": "https://replit.com/bounties/@dev2prod/pull-request-ui-in-n?t="
     }
 ]
