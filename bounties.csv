@@ -6616,7 +6616,7 @@ Timelines / Milestones
 Due by 2/23
 Milestone 1: looking up housing price by zip code works
 Milestone 2: looking up income by zip code works
-Milestone 3: looking up info with mult...",howon92,7 hours ago,https://replit.com/bounties/@howon92/income-and-real-esta?t=
+Milestone 3: looking up info with mult...",howon92,8 hours ago,https://replit.com/bounties/@howon92/income-and-real-esta?t=
 832,"$1,800.00",due in 25 days,Create a website which uses GPT or other LLM to query legal documents in PDF/DOCX format,"Make a question answering chatbot web app that pulls results from user-uploaded PDFs/Word docs. Primarily commercial legal documents. Technology would use LLMs like GPT and index using GPTIndex or Langchain and deployed for production (can be anywhere ie Replit).
 
 We will test the tool with a few questions regarding information inside the legal documents. Should be able to query questions over many documents, not just a single document. It should also be able to ""quote"" the relevant section of the document it is getting data from.
@@ -6624,8 +6624,8 @@ We will test the tool with a few questions regarding information inside the lega
 Acceptance Criteria
 The chatbot should have a simple interface.
 We will provide an sample documents which the user should be able to upload and the chatbot should be able to query.
-The chatbot must be able to generate a proper response regarding data in the pdfs.",GrahamWahlberg,6 hours ago,https://replit.com/bounties/@GrahamWahlberg/create-a-website-whi?t=
-833,$20.00,due in 3 days,Simple frontend customization - Make a button un-clickable and generate processing symbol,"I have a webapp that takes a csv and processes it.
+The chatbot must be able to generate a proper response regarding data in the pdfs.",GrahamWahlberg,7 hours ago,https://replit.com/bounties/@GrahamWahlberg/create-a-website-whi?t=
+833,$20.00,closed,Simple frontend customization - Make a button un-clickable and generate processing symbol,"I have a webapp that takes a csv and processes it.
 
 On the dashboard the user has the option to choose a file. And there is a 'Process' button immediately below it.
 
@@ -6639,7 +6639,7 @@ Currently, once the processing is done, a 'Download' button appears and the 'Pro
 
 I will provide the JS and HTML files that need to be updated in a REPL.
 
-The task is pretty simpl...",mdotbaig,6 hours ago,https://replit.com/bounties/@mdotbaig/simple-frontend-cust?t=
+The task is pretty simpl...",mdotbaig,7 hours ago,https://replit.com/bounties/@mdotbaig/simple-frontend-cust?t=
 834,$720.00,due in 1 month,Argument Breakdown AI Tool,"I am looking for someone to create an AI/GPT-3 based tool for argument breakdowns, with a specific visualization in the form of a decision tree. I have a Figma of the design but the idea is the visualize in the form of decision tree, a quick summary of the top rated points, and a live chat for group discussion.
 
 A new 'question' inputted to start a discussion should be shareable and therefore needs to be able to be saved into a catalog (i.e a new page acting as the library/feed/search ability) as well as signing up with (e.g. with email)
@@ -6652,8 +6652,8 @@ A prototype showing the ability to:
 4) upvote and downvote optionality
 5) newsfeed with list of all discussions started
 
-Technica...",JonColler,6 hours ago,https://replit.com/bounties/@JonColler/argument-breakdown-a?t=
-835,$2.70,closed,Replit Spam Comments,"This is an extremely easy bounty. I want a txt file with comments that are advertising their own repls, or another website. Each line should be a new comment. Make sure to make each comment fit in one line. The txt file should be a minimum of 100 lines. Each comment should be unique. Please don't have repeats.",IcemasterEric,4 hours ago,https://replit.com/bounties/@IcemasterEric/replit-spam-comments?t=
+Technica...",JonColler,7 hours ago,https://replit.com/bounties/@JonColler/argument-breakdown-a?t=
+835,$2.70,closed,Replit Spam Comments,"This is an extremely easy bounty. I want a txt file with comments that are advertising their own repls, or another website. Each line should be a new comment. Make sure to make each comment fit in one line. The txt file should be a minimum of 100 lines. Each comment should be unique. Please don't have repeats.",IcemasterEric,5 hours ago,https://replit.com/bounties/@IcemasterEric/replit-spam-comments?t=
 836,$36.00,due in 3 days,Styled MUI DataGrid React component,"I am using Material UI's DataGrid Pro. I am currently styling it for dark mode. I need help styling the: i) columnMenu, ii) filterPanel, as well as the popup on the export button. Details in the sandbox (see below).
 
 Acceptance Criteria
@@ -6668,17 +6668,17 @@ Acceptance Criteria
 
 A GUI to upload the audio file, a way to create a google doc or other text document with the transcription, a working summary tool
 
-Technical Details",ZBD96,3 hours ago,https://replit.com/bounties/@ZBD96/audio-transcription?t=
+Technical Details",ZBD96,4 hours ago,https://replit.com/bounties/@ZBD96/audio-transcription?t=
 838,$4.40,due in 1 month,Find online game exploit,"I did post a bounty on this earlier, it was abandoned twice and then i accepted a fraud (@eric). More cycles now, and if it is completed well i will try to provide more. There is an online game called Dedalium, which is available to download as a browser extension on almost all platforms. If you think you could do a job like this, PLEASE download the extension, create an account and familiarize yourself with the code before you apply. Maybe even solve it beforehand! Whatever the case, dont apply if you do not believe it is possible. I am asking for a solution, not for someone to tell me they can't do it. I also dont want to hear that this is lazy, earn it yourself, why do you even want to hire someone to this, etc. I am paying for someone to give me an exploit, and not an ethics teacher.
 
-When you have downloaded and made an account and looked at the code, I want you to try to find an exploit to get free boxes in the Store -> Boxes section. (In case you were wonderi...",ChaosSymmetry,2 hours ago,https://replit.com/bounties/@ChaosSymmetry/find-online-game-exp?t=
+When you have downloaded and made an account and looked at the code, I want you to try to find an exploit to get free boxes in the Store -> Boxes section. (In case you were wonderi...",ChaosSymmetry,3 hours ago,https://replit.com/bounties/@ChaosSymmetry/find-online-game-exp?t=
 839,$540.00,due in 19 days,Electron JS Chat Interface ,"Looking for someone who is an expert in Electron JS to build a unique AI Chat Interface. Must be able to work with an Python Backend, auth guarded, notification system(More info provided upon acceptance)
 
 Acceptance Criteria
 You are more likely to be accepted if you a show a history of past work building a ChatApp or a MacOS app.
 
 Technical Details
-Details will be provided to ever gets accepted",plowsai,2 hours ago,https://replit.com/bounties/@plowsai/electron-js-chat-int?t=
+Details will be provided to ever gets accepted",plowsai,3 hours ago,https://replit.com/bounties/@plowsai/electron-js-chat-int?t=
 840,$450.00,due in 1 month,AI chatbot to allow tenants to find a property to rend,"Seeking a developer that can build a chatbot that will be accessible via facebook to chat with potential tenants interested in renting apartment/ rooms/ houses.
 
 The chatbot should be able to:
@@ -6692,4 +6692,19 @@ the owner should be able to jump into the conversation when the AI is not able t
 Bonus point:
 
 the AI optimize the scheduling of the visits to lower the time needed for the owner
-the AI knows when another unit might be available, if the current one is currently in process of being rented or not available anymore, and suggest it to the use...",csese,40 minutes ago,https://replit.com/bounties/@csese/ai-chatbot-to-allow?t=
+the AI knows when another unit might be available, if the current one is currently in process of being rented or not available anymore, and suggest it to the use...",csese,2 hours ago,https://replit.com/bounties/@csese/ai-chatbot-to-allow?t=
+841,$450.00,due in 3 days,Add authentication and stripe support to nextjs app,"Acceptance Criteria
+
+Features to be implemented to web app:
+
+Authentication:
+full authentication implementation with Supabase and its tooling (DB, APIs, Auth, etc)
+    Create user management tables in supabase postgres database
+    Sign up - users with Google provider, email/phone number/password (bonus points for added magic link auth). Must send email verification and phone number verification message (twillio) for users to proceed at first sign up. (layout already built)
+    Sign up onboarding - when the user first signs up, they are directed to an onboarding page with 6 questions (given), questions/answers to be recorded in database linked to the user - styling/layout not required
+    Sign in - users with Google, email/password (bonus points for magic link auth) (layout already built)
+    Implement app-wide protected routes
+
+Stripe implementation:
+Full stripe implementation - stripe plan creation, database tables creation, webhooks, user checkout, etc.
+    create 3 custom plans wit...",juancaruiz,55 minutes ago,https://replit.com/bounties/@juancaruiz/add-authentication-a-1?t=
