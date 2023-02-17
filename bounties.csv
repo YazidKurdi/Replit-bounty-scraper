@@ -6671,14 +6671,14 @@ A GUI to upload the audio file, a way to create a google doc or other text docum
 Technical Details",ZBD96,10 hours ago,https://replit.com/bounties/@ZBD96/audio-transcription?t=
 838,$4.40,due in 1 month,Find online game exploit,"I did post a bounty on this earlier, it was abandoned twice and then i accepted a fraud (@eric). More cycles now, and if it is completed well i will try to provide more. There is an online game called Dedalium, which is available to download as a browser extension on almost all platforms. If you think you could do a job like this, PLEASE download the extension, create an account and familiarize yourself with the code before you apply. Maybe even solve it beforehand! Whatever the case, dont apply if you do not believe it is possible. I am asking for a solution, not for someone to tell me they can't do it. I also dont want to hear that this is lazy, earn it yourself, why do you even want to hire someone to this, etc. I am paying for someone to give me an exploit, and not an ethics teacher.
 
-When you have downloaded and made an account and looked at the code, I want you to try to find an exploit to get free boxes in the Store -> Boxes section. (In case you were wonderi...",ChaosSymmetry,9 hours ago,https://replit.com/bounties/@ChaosSymmetry/find-online-game-exp?t=
+When you have downloaded and made an account and looked at the code, I want you to try to find an exploit to get free boxes in the Store -> Boxes section. (In case you were wonderi...",ChaosSymmetry,10 hours ago,https://replit.com/bounties/@ChaosSymmetry/find-online-game-exp?t=
 839,$540.00,due in 19 days,Electron JS Chat Interface ,"Looking for someone who is an expert in Electron JS to build a unique AI Chat Interface. Must be able to work with an Python Backend, auth guarded, notification system(More info provided upon acceptance)
 
 Acceptance Criteria
 You are more likely to be accepted if you a show a history of past work building a ChatApp or a MacOS app.
 
 Technical Details
-Details will be provided to ever gets accepted",plowsai,9 hours ago,https://replit.com/bounties/@plowsai/electron-js-chat-int?t=
+Details will be provided to ever gets accepted",plowsai,10 hours ago,https://replit.com/bounties/@plowsai/electron-js-chat-int?t=
 840,$450.00,due in 1 month,AI chatbot to allow tenants to find a property to rend,"Seeking a developer that can build a chatbot that will be accessible via facebook to chat with potential tenants interested in renting apartment/ rooms/ houses.
 
 The chatbot should be able to:
@@ -6707,7 +6707,7 @@ full authentication implementation with Supabase and its tooling (DB, APIs, Auth
 
 Stripe implementation:
 Full stripe implementation - stripe plan creation, database tables creation, webhooks, user checkout, etc.
-    create 3 custom plans wit...",juancaruiz,7 hours ago,https://replit.com/bounties/@juancaruiz/add-authentication-a-1?t=
+    create 3 custom plans wit...",juancaruiz,8 hours ago,https://replit.com/bounties/@juancaruiz/add-authentication-a-1?t=
 842,$95.00,due in 4 days,Python Script For OpenAI Web Embeddings,"I recently saw this tutorial posted from OpenAI: https://platform.openai.com/docs/tutorials/web-qa-embeddings
 
 The goal is to create a Python script that takes a question as input and provides an answer based on an embeddings model created from a pre-defined set of URLS' content from a specific website. The URLs are stored in a urls.json file and no web crawling is required (link crawling is mentioned in the tutorial but not needed here).
@@ -6718,4 +6718,4 @@ A README file should be provided that includes all the necessary steps to set up
 
 Technical Details
 The urls.json file will be provided after I accept the Bounty application.
-A README file should be provided upon comple...",Dprevoznik,6 hours ago,https://replit.com/bounties/@Dprevoznik/python-script-for-op-1?t=
+A README file should be provided upon comple...",Dprevoznik,7 hours ago,https://replit.com/bounties/@Dprevoznik/python-script-for-op-1?t=
