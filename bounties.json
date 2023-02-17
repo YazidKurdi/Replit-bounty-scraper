@@ -8386,7 +8386,7 @@
         "title": "Find online game exploit",
         "description": "I did post a bounty on this earlier, it was abandoned twice and then i accepted a fraud (@eric). More cycles now, and if it is completed well i will try to provide more. There is an online game called Dedalium, which is available to download as a browser extension on almost all platforms. If you think you could do a job like this, PLEASE download the extension, create an account and familiarize yourself with the code before you apply. Maybe even solve it beforehand! Whatever the case, dont apply if you do not believe it is possible. I am asking for a solution, not for someone to tell me they can't do it. I also dont want to hear that this is lazy, earn it yourself, why do you even want to hire someone to this, etc. I am paying for someone to give me an exploit, and not an ethics teacher.\n\nWhen you have downloaded and made an account and looked at the code, I want you to try to find an exploit to get free boxes in the Store -> Boxes section. (In case you were wonderi...",
         "author": "ChaosSymmetry",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@ChaosSymmetry/find-online-game-exp?t="
     },
     {
@@ -8416,7 +8416,7 @@
         "title": "Add authentication and stripe support to nextjs app",
         "description": "Acceptance Criteria\n\nFeatures to be implemented to web app:\n\nAuthentication:\nfull authentication implementation with Supabase and its tooling (DB, APIs, Auth, etc)\n    Create user management tables in supabase postgres database\n    Sign up - users with Google provider, email/phone number/password (bonus points for added magic link auth). Must send email verification and phone number verification message (twillio) for users to proceed at first sign up. (layout already built)\n    Sign up onboarding - when the user first signs up, they are directed to an onboarding page with 6 questions (given), questions/answers to be recorded in database linked to the user - styling/layout not required\n    Sign in - users with Google, email/password (bonus points for magic link auth) (layout already built)\n    Implement app-wide protected routes\n\nStripe implementation:\nFull stripe implementation - stripe plan creation, database tables creation, webhooks, user checkout, etc.\n    create 3 custom plans wit...",
         "author": "juancaruiz",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@juancaruiz/add-authentication-a-1?t="
     },
     {
@@ -8426,7 +8426,7 @@
         "title": "Python Script For OpenAI Web Embeddings",
         "description": "I recently saw this tutorial posted from OpenAI: https://platform.openai.com/docs/tutorials/web-qa-embeddings\n\nThe goal is to create a Python script that takes a question as input and provides an answer based on an embeddings model created from a pre-defined set of URLS' content from a specific website. The URLs are stored in a urls.json file and no web crawling is required (link crawling is mentioned in the tutorial but not needed here).\n\nAcceptance Criteria\nThe script should be submitted as complete and tested using the Secret OPENAI_KEY environment variable.\nA README file should be provided that includes all the necessary steps to set up the environment and reproduce the results, including any required data cleaning. I should be able to follow this README file to start a new REPL from scratch and recreate the embeddings model.\n\nTechnical Details\nThe urls.json file will be provided after I accept the Bounty application.\nA README file should be provided upon comple...",
         "author": "Dprevoznik",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@Dprevoznik/python-script-for-op-1?t="
     },
     {
@@ -8436,7 +8436,7 @@
         "title": "SEO Chrome Extension using OpenAI API",
         "description": "#Problem Description:\n\nWe are seeking a self-sufficient Chrome extension developer to create the MVP of a chrome extension for SEO, powered by the OpenAI API. The tool will be designed to assist website owners in improving their SEO performance by analyzing their website's keywords and content, and offering suggestions for improvements based on the most recent SEO best practices. The extension will have to link to the ChatGPT/OpenAI API to analyze website content and provide recommendations for improving SEO.\n\n#Acceptance Criteria:\n\nThe finished extension should ideally meet the following requirements:\n\u2022 Connect to the ChatGPT/OpenAI API to analyze website content and provide recommendations for improving SEO. Any engine is fine, whatever is most appropriate.\n\u2022 Keyword analysis: Analyze website keywords and suggest relevant keywords that can be added to the website's content to improve its SEO.\n\u2022 Nice to have in MVP - Content analysis: Analyze website content and suggest changes to imp...",
         "author": "rhodowen",
-        "posted_time": "13 minutes ago",
+        "posted_time": "33 minutes ago",
         "link": "https://replit.com/bounties/@rhodowen/seo-chrome-extension?t="
     }
 ]
