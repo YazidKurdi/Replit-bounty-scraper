@@ -8416,7 +8416,7 @@
         "title": "Add authentication and stripe support to nextjs app",
         "description": "Acceptance Criteria\n\nFeatures to be implemented to web app:\n\nAuthentication:\nfull authentication implementation with Supabase and its tooling (DB, APIs, Auth, etc)\n    Create user management tables in supabase postgres database\n    Sign up - users with Google provider, email/phone number/password (bonus points for added magic link auth). Must send email verification and phone number verification message (twillio) for users to proceed at first sign up. (layout already built)\n    Sign up onboarding - when the user first signs up, they are directed to an onboarding page with 6 questions (given), questions/answers to be recorded in database linked to the user - styling/layout not required\n    Sign in - users with Google, email/password (bonus points for magic link auth) (layout already built)\n    Implement app-wide protected routes\n\nStripe implementation:\nFull stripe implementation - stripe plan creation, database tables creation, webhooks, user checkout, etc.\n    create 3 custom plans wit...",
         "author": "juancaruiz",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@juancaruiz/add-authentication-a-1?t="
     },
     {
@@ -8426,7 +8426,7 @@
         "title": "Python Script For OpenAI Web Embeddings",
         "description": "I recently saw this tutorial posted from OpenAI: https://platform.openai.com/docs/tutorials/web-qa-embeddings\n\nThe goal is to create a Python script that takes a question as input and provides an answer based on an embeddings model created from a pre-defined set of URLS' content from a specific website. The URLs are stored in a urls.json file and no web crawling is required (link crawling is mentioned in the tutorial but not needed here).\n\nAcceptance Criteria\nThe script should be submitted as complete and tested using the Secret OPENAI_KEY environment variable.\nA README file should be provided that includes all the necessary steps to set up the environment and reproduce the results, including any required data cleaning. I should be able to follow this README file to start a new REPL from scratch and recreate the embeddings model.\n\nTechnical Details\nThe urls.json file will be provided after I accept the Bounty application.\nA README file should be provided upon comple...",
         "author": "Dprevoznik",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@Dprevoznik/python-script-for-op-1?t="
     },
     {

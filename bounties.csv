@@ -6707,7 +6707,7 @@ full authentication implementation with Supabase and its tooling (DB, APIs, Auth
 
 Stripe implementation:
 Full stripe implementation - stripe plan creation, database tables creation, webhooks, user checkout, etc.
-    create 3 custom plans wit...",juancaruiz,19 hours ago,https://replit.com/bounties/@juancaruiz/add-authentication-a-1?t=
+    create 3 custom plans wit...",juancaruiz,20 hours ago,https://replit.com/bounties/@juancaruiz/add-authentication-a-1?t=
 842,$95.00,due in 3 days,Python Script For OpenAI Web Embeddings,"I recently saw this tutorial posted from OpenAI: https://platform.openai.com/docs/tutorials/web-qa-embeddings
 
 The goal is to create a Python script that takes a question as input and provides an answer based on an embeddings model created from a pre-defined set of URLS' content from a specific website. The URLs are stored in a urls.json file and no web crawling is required (link crawling is mentioned in the tutorial but not needed here).
@@ -6718,7 +6718,7 @@ A README file should be provided that includes all the necessary steps to set up
 
 Technical Details
 The urls.json file will be provided after I accept the Bounty application.
-A README file should be provided upon comple...",Dprevoznik,18 hours ago,https://replit.com/bounties/@Dprevoznik/python-script-for-op-1?t=
+A README file should be provided upon comple...",Dprevoznik,19 hours ago,https://replit.com/bounties/@Dprevoznik/python-script-for-op-1?t=
 843,$540.00,due in 6 days,SEO Chrome Extension using OpenAI API,"#Problem Description:
 
 We are seeking a self-sufficient Chrome extension developer to create the MVP of a chrome extension for SEO, powered by the OpenAI API. The tool will be designed to assist website owners in improving their SEO performance by analyzing their website's keywords and content, and offering suggestions for improvements based on the most recent SEO best practices. The extension will have to link to the ChatGPT/OpenAI API to analyze website content and provide recommendations for improving SEO.
