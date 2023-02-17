@@ -8346,7 +8346,7 @@
         "title": "Argument Breakdown AI Tool",
         "description": "I am looking for someone to create an AI/GPT-3 based tool for argument breakdowns, with a specific visualization in the form of a decision tree. I have a Figma of the design but the idea is the visualize in the form of decision tree, a quick summary of the top rated points, and a live chat for group discussion.\n\nA new 'question' inputted to start a discussion should be shareable and therefore needs to be able to be saved into a catalog (i.e a new page acting as the library/feed/search ability) as well as signing up with (e.g. with email)\n\nAcceptance Criteria\nA prototype showing the ability to:\n1) create a decision tree interface\n2) enable the decision tree to be populated with for and against statements, auto-filled by GPT (even better if something like Perplexity, where sources can be shared) with short (tweet-length) answers\n3) a live text/discussion for public commentary\n4) upvote and downvote optionality\n5) newsfeed with list of all discussions started\n\nTechnica...",
         "author": "JonColler",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@JonColler/argument-breakdown-a?t="
     },
     {
@@ -8376,7 +8376,7 @@
         "title": "Audio transcription and summarization",
         "description": "Build an interface to upload an audio file, use the Gladia API Gladia to transcribe the audio file, then create a google doc with the text output, then summarize the output into 5 bullet points.\n\nAcceptance Criteria\n\nA GUI to upload the audio file, a way to create a google doc or other text document with the transcription, a working summary tool\n\nTechnical Details",
         "author": "ZBD96",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@ZBD96/audio-transcription?t="
     },
     {
@@ -8396,7 +8396,7 @@
         "title": "Electron JS Chat Interface ",
         "description": "Looking for someone who is an expert in Electron JS to build a unique AI Chat Interface. Must be able to work with an Python Backend, auth guarded, notification system(More info provided upon acceptance)\n\nAcceptance Criteria\nYou are more likely to be accepted if you a show a history of past work building a ChatApp or a MacOS app.\n\nTechnical Details\nDetails will be provided to ever gets accepted",
         "author": "plowsai",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@plowsai/electron-js-chat-int?t="
     },
     {
@@ -8436,7 +8436,7 @@
         "title": "SEO Chrome Extension using OpenAI API",
         "description": "#Problem Description:\n\nWe are seeking a self-sufficient Chrome extension developer to create the MVP of a chrome extension for SEO, powered by the OpenAI API. The tool will be designed to assist website owners in improving their SEO performance by analyzing their website's keywords and content, and offering suggestions for improvements based on the most recent SEO best practices. The extension will have to link to the ChatGPT/OpenAI API to analyze website content and provide recommendations for improving SEO.\n\n#Acceptance Criteria:\n\nThe finished extension should ideally meet the following requirements:\n\u2022 Connect to the ChatGPT/OpenAI API to analyze website content and provide recommendations for improving SEO. Any engine is fine, whatever is most appropriate.\n\u2022 Keyword analysis: Analyze website keywords and suggest relevant keywords that can be added to the website's content to improve its SEO.\n\u2022 Nice to have in MVP - Content analysis: Analyze website content and suggest changes to imp...",
         "author": "rhodowen",
-        "posted_time": "33 minutes ago",
+        "posted_time": "43 minutes ago",
         "link": "https://replit.com/bounties/@rhodowen/seo-chrome-extension?t="
     }
 ]
