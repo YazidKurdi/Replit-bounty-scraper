@@ -8526,7 +8526,7 @@
         "title": "Android Polygon Wallet Prototype",
         "description": "I have written a simple Twitter thread: https://twitter.com/ricburton/status/1625484882892800002?s=20\n\nAcceptance Criteria\nOpen source Android Ethereum wallet prototype that is built with Kotlin and can connect to Polygon.\n\nIt should have ADD and PAY functionality.\n\nThis is not meant to be a full working app. Just a simple prototype.",
         "author": "ricburton",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@ricburton/android-polygon-wall?t="
     },
     {
@@ -8536,7 +8536,7 @@
         "title": "Basic Newsfeed App with Sentiment Analysis",
         "description": "Hello,\nI'm trying to develop a MVP news aggregator app for a proof of concept. I'd like this app to run a basic sentiment analysis on headlines and then suggest the user an article on the same issue with a different sentiment rating. It doesn't have to be extremely functional (although it still must work) as long as the UI looks good.\n\nAcceptance Criteria\n-Mobile App with RSS feed\n-Quality UI\n-Runs sentiment analysis on headlines  (use an open source sentiment analysis tool)\n-Finds articles with opposite sentiments",
         "author": "JCBT377",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@JCBT377/basic-newsfeed-app-w?t="
     },
     {
@@ -8556,7 +8556,7 @@
         "title": "Link existing React app to Hubspot for email capture",
         "description": "I have a landing page build with react\nhttps://content-club.vercel.app/\nI would like to connect the Sign up section of the page to Hubspot API to be able to capture subscriber emails\n\nAcceptance Criteria\nSolution includes email validation\nGives user error if they enter something that is not an email\nGives user indication of success if sign up is successful\nSubscriber emial captured on hubspot",
         "author": "KamalMango1",
-        "posted_time": "55 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@KamalMango1/link-existing-react?t="
     },
     {
@@ -8566,7 +8566,7 @@
         "title": "Use Astria API to finetune stable diffusion",
         "description": "I would like an experience developer to build a Node Express server or a backend that would  finetune stable diffusion with dreambooth with a set of images through the Astria API as well as handle Image and video generation of a finetuned model\n\nHere are docs for the Astria API\nhttps://www.astria.ai/api/docs\n\nAcceptance Criteria\nAPI has to handle both creating a finetune\nAPI has to handle Image and Video generation after a model is finetuned\nNeed to be able to call on the api from swift for a native mobile app or from a web app\nNeed to be able to use API to create a finetune of a set of images\nhas to handle the callback url where Astria sends the finetuned model\nAPI notifies when the finetuned model is done\nNeed to be able make a call to the API with a video prompt and get a video of finetuned subject back",
         "author": "KamalMango1",
-        "posted_time": "36 minutes ago",
+        "posted_time": "51 minutes ago",
         "link": "https://replit.com/bounties/@KamalMango1/use-astria-api-to-fi?t="
     },
     {
