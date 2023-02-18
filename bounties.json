@@ -8556,7 +8556,7 @@
         "title": "Link existing React app to Hubspot for email capture",
         "description": "I have a landing page build with react\nhttps://content-club.vercel.app/\nI would like to connect the Sign up section of the page to Hubspot API to be able to capture subscriber emails\n\nAcceptance Criteria\nSolution includes email validation\nGives user error if they enter something that is not an email\nGives user indication of success if sign up is successful\nSubscriber emial captured on hubspot",
         "author": "KamalMango1",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@KamalMango1/link-existing-react?t="
     },
     {
