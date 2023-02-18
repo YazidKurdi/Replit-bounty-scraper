@@ -8496,7 +8496,7 @@
         "title": "Contextual Calendar App with Tagging, and Activity Tracking Capabilities",
         "description": "The purpose of this app is to track and report on the time spent by fractional employees across multiple employers and project tasks\nThe app should sync with Outlook/Microsoft Calendar and Gmail Calendar, and allow users augment their calendar data with additional context.\nThis data will be used for tracking work productivity and reporting across multiple employers and to the employee.\nThe app should be secure and task activity should only visible to authorized users (in other words I can only track hours relevant to me - as an employer or employee)\n\nPLEASE NOTE - This is a bare-bones proof of concept. As such the engineer should utilise existing template/technologies wherever possible to facilitate outcomes. There are no wireframes or screen designs available - and it is not my intention to create any).\n\nFeatures\nEmployee creates a profile and links their preferred calendar to it. They then then invite Employers to add agreed working expectations and to view daily,...",
         "author": "JamieHarris4",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@JamieHarris4/contextual-calendar?t="
     },
     {
@@ -8508,5 +8508,15 @@
         "author": "csells",
         "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@csells/scaling-canvas-that?t="
+    },
+    {
+        "index": "851",
+        "price": "$450.00",
+        "due_days": "closed",
+        "title": "Deployable Flask REST Server via command line",
+        "description": "Looking for an extremely out of the box flask REST API on AWS that will connect to a  mongoDB hosted db. I am looking to do as little configuration as possible to access the API via the internet. The end state should be an accessible API\nThe API should also have authentication middleware\nThe API should auto refresh (but not rebuild the database) whenever a new commit is merged into master, this should include adding any packages that werent' there before.\nI should be able to set this up again and again with new IPs, separate security groups, etc.\nNecessary permissions are added, new permissions are easy to add (to a user, group, role, etc)\nFeel free to use cloudformation if that is useful, but I would need to be instructed how it works.\n\nMy core competency is in front-end and nodejs work, so I would need to be instructed on what to do to get the project to the end state of easy deployments.\n\nThe ideal case of this, is that I can execute a script from the command lin...",
+        "author": "simistern",
+        "posted_time": "20 minutes ago",
+        "link": "https://replit.com/bounties/@simistern/deployable-flask-res?t="
     }
 ]
