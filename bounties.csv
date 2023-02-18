@@ -6829,7 +6829,7 @@ Acceptance Criteria
 Solution includes email validation
 Gives user error if they enter something that is not an email
 Gives user indication of success if sign up is successful
-Subscriber emial captured on hubspot",KamalMango1,3 hours ago,https://replit.com/bounties/@KamalMango1/link-existing-react?t=
+Subscriber emial captured on hubspot",KamalMango1,4 hours ago,https://replit.com/bounties/@KamalMango1/link-existing-react?t=
 856,$180.00,due in 3 days,Use Astria API to finetune stable diffusion,"I would like an experience developer to build a Node Express server or a backend that would  finetune stable diffusion with dreambooth with a set of images through the Astria API as well as handle Image and video generation of a finetuned model
 
 Here are docs for the Astria API
@@ -6855,7 +6855,7 @@ Technical Details
 Using Typescript and the BoltJS SDJ from Slack
 
 Link to Project
-www.heypal.chat - adding some new functionality for this service!",NicolaeRusan,42 minutes ago,https://replit.com/bounties/@NicolaeRusan/debug-slack-bot-not?t=
+www.heypal.chat - adding some new functionality for this service!",NicolaeRusan,52 minutes ago,https://replit.com/bounties/@NicolaeRusan/debug-slack-bot-not?t=
 859,$450.00,due in 7 days,Brand Sentiment Tool with alerting ,"An AI tool with nice UX, which tracks companies' brand sentiment based on the available data from search trends, keywords, and semantic sentiment around that.
 
 The user can set up an alert to receive daily notifications about its brand with the most searched keywords related to the brand and the sentiment around them.
@@ -6864,4 +6864,4 @@ Acceptance Criteria
 N/A
 
 Technical Details
-N/A",GennaroCuofano,15 minutes ago,https://replit.com/bounties/@GennaroCuofano/brand-sentiment-tool?t=
+N/A",GennaroCuofano,25 minutes ago,https://replit.com/bounties/@GennaroCuofano/brand-sentiment-tool?t=

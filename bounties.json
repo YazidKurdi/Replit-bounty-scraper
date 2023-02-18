@@ -8556,7 +8556,7 @@
         "title": "Link existing React app to Hubspot for email capture",
         "description": "I have a landing page build with react\nhttps://content-club.vercel.app/\nI would like to connect the Sign up section of the page to Hubspot API to be able to capture subscriber emails\n\nAcceptance Criteria\nSolution includes email validation\nGives user error if they enter something that is not an email\nGives user indication of success if sign up is successful\nSubscriber emial captured on hubspot",
         "author": "KamalMango1",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@KamalMango1/link-existing-react?t="
     },
     {
@@ -8586,7 +8586,7 @@
         "title": "Debug Slack Bot not being able to read a thread history (auth permissions issue)",
         "description": "I'm building a Slack bot and it's currently complaining that it doesn't have sufficient permissions to read a thread.\n\nIf you're familiar with building Slack Bots, and have built an oAuth Slack App where you were able to read a user message this should be a very quick fix. Happy to hop on a quick call to debug together.\n\nAcceptance Criteria\nYou look at the code and fix the issue as to why it might not be reading the thread - included is both what permissions are requested and how it's handled\n\nTechnical Details\nUsing Typescript and the BoltJS SDJ from Slack\n\nLink to Project\nwww.heypal.chat - adding some new functionality for this service!",
         "author": "NicolaeRusan",
-        "posted_time": "42 minutes ago",
+        "posted_time": "52 minutes ago",
         "link": "https://replit.com/bounties/@NicolaeRusan/debug-slack-bot-not?t="
     },
     {
@@ -8596,7 +8596,7 @@
         "title": "Brand Sentiment Tool with alerting ",
         "description": "An AI tool with nice UX, which tracks companies' brand sentiment based on the available data from search trends, keywords, and semantic sentiment around that.\n\nThe user can set up an alert to receive daily notifications about its brand with the most searched keywords related to the brand and the sentiment around them.\n\nAcceptance Criteria\nN/A\n\nTechnical Details\nN/A",
         "author": "GennaroCuofano",
-        "posted_time": "15 minutes ago",
+        "posted_time": "25 minutes ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/brand-sentiment-tool?t="
     }
 ]
