@@ -8446,7 +8446,7 @@
         "title": "As system to tip workers ",
         "description": "To replicate the website https://easytip.net/",
         "author": "activestudy",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@activestudy/as-system-to-tip-wor?t="
     },
     {
@@ -8456,7 +8456,7 @@
         "title": "A proposal to develop website like https://easytip.net/",
         "description": "A proposal with the cost to develop a website like https://easytip.net/",
         "author": "activestudy",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@activestudy/a-proposal-to-develo?t="
     },
     {
@@ -8516,7 +8516,7 @@
         "title": "Deployable Flask REST Server via command line",
         "description": "Looking for an extremely out of the box flask REST API on AWS that will connect to a  mongoDB hosted db. I am looking to do as little configuration as possible to access the API via the internet. The end state should be an accessible API\nThe API should also have authentication middleware\nThe API should auto refresh (but not rebuild the database) whenever a new commit is merged into master, this should include adding any packages that werent' there before.\nI should be able to set this up again and again with new IPs, separate security groups, etc.\nNecessary permissions are added, new permissions are easy to add (to a user, group, role, etc)\nFeel free to use cloudformation if that is useful, but I would need to be instructed how it works.\n\nMy core competency is in front-end and nodejs work, so I would need to be instructed on what to do to get the project to the end state of easy deployments.\n\nThe ideal case of this, is that I can execute a script from the command lin...",
         "author": "simistern",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@simistern/deployable-flask-res?t="
     },
     {
@@ -8536,7 +8536,7 @@
         "title": "Basic Newsfeed App with Sentiment Analysis",
         "description": "Hello,\nI'm trying to develop a MVP news aggregator app for a proof of concept. I'd like this app to run a basic sentiment analysis on headlines and then suggest the user an article on the same issue with a different sentiment rating. It doesn't have to be extremely functional (although it still must work) as long as the UI looks good.\n\nAcceptance Criteria\n-Mobile App with RSS feed\n-Quality UI\n-Runs sentiment analysis on headlines  (use an open source sentiment analysis tool)\n-Finds articles with opposite sentiments",
         "author": "JCBT377",
-        "posted_time": "52 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@JCBT377/basic-newsfeed-app-w?t="
     }
 ]
