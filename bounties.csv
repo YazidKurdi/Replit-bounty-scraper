@@ -6929,7 +6929,7 @@ export default async (req: any, res: any) => {
   });
   if (req.method === ""POST"") {
     try {
-      if ...",aidantorrence,32 minutes ago,https://replit.com/bounties/@aidantorrence/need-help-with-a-dis?t=
+      if ...",aidantorrence,41 minutes ago,https://replit.com/bounties/@aidantorrence/need-help-with-a-dis?t=
 863,"$1,020.60",due in 13 days,Chrome extension: AI content creation assistant,"We need a chrome extension based AI content creation assistant. The chrome extension will complement our main web app
 
 The tool should work like the following:
@@ -6950,7 +6950,7 @@ It should use OpenAI GPT3
 Acceptance Criteria
 The code has to be clean and well documented
 Minimal and clean UX (Figma design will be given)
-    compl...",juancaruiz,22 minutes ago,https://replit.com/bounties/@juancaruiz/chrome-extension-ai?t=
+    compl...",juancaruiz,31 minutes ago,https://replit.com/bounties/@juancaruiz/chrome-extension-ai?t=
 864,$540.00,due in 15 days,DB Gas App Frontend,"Make a polling web app that looks like the Gas App (but on web) where people can hook up a relational database (such as PostGres) with random prompts, and respective poll options for each prompt. Users can click on each button and it takes them to the next option.
 
 Acceptance Criteria
@@ -6961,4 +6961,4 @@ user clicking the button will save that as a vote for that option for that user 
 
 Technical Details
 ok to just be a prototype
-don't need to assume more than 1000 rows",gbintech,19 minutes ago,https://replit.com/bounties/@gbintech/db-gas-app-frontend?t=
+don't need to assume more than 1000 rows",gbintech,28 minutes ago,https://replit.com/bounties/@gbintech/db-gas-app-frontend?t=
