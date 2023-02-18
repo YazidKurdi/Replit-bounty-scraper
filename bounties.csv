@@ -6740,7 +6740,7 @@ weather update - any api
 Acceptance Criteria
 I prefer node.js but any language will do
 Technical Details
-none",anjelobobo,21 hours ago,https://replit.com/bounties/@anjelobobo/ai-fb-chatbot?t=
+none",anjelobobo,22 hours ago,https://replit.com/bounties/@anjelobobo/ai-fb-chatbot?t=
 847,$630.00,due in 6 days,Pull Request UI in Next.js,"I primarily access GitHub through the API, as I work for many different customers and have different tokens for each. However, I would like a way to view a pull request without having to log into accounts. Instead, I'd just like to pull up a page where it fills in the API token for me and replicates the pull request UI.
 
 Your task is to (re)create the pull request page from GitHub (ie. this page - https://github.com/calcom/cal.com/pull/6876) using the API alone. Visual fidelity is not required (just use components from any component library, though Primer or Material UI are preferred), nor is all the functionality of the interface.
@@ -6755,7 +6755,7 @@ PR body (description)
 PR status (merged, closed, draft, etc.)
 The files changed are accessible. I can expand a diff for each file to view it
 The commit list is visible
-T...",dev2prod,21 hours ago,https://replit.com/bounties/@dev2prod/pull-request-ui-in-n?t=
+T...",dev2prod,22 hours ago,https://replit.com/bounties/@dev2prod/pull-request-ui-in-n?t=
 848,$450.00,due in 8 days,Prompt to presentation ,"Enable a user to create a first draft of a presentation with a simple prompt.
 In addition, once the user opens up the presentation, be able also to edit that with a simple prompt.
 Thus, create the whole presentation by leveraging AI for both copy and images.
