@@ -6806,7 +6806,7 @@ Open source Android Ethereum wallet prototype that is built with Kotlin and can 
 
 It should have ADD and PAY functionality.
 
-This is not meant to be a full working app. Just a simple prototype.",ricburton,15 hours ago,https://replit.com/bounties/@ricburton/android-polygon-wall?t=
+This is not meant to be a full working app. Just a simple prototype.",ricburton,16 hours ago,https://replit.com/bounties/@ricburton/android-polygon-wall?t=
 853,$90.00,due in 12 days,Basic Newsfeed App with Sentiment Analysis,"Hello,
 I'm trying to develop a MVP news aggregator app for a proof of concept. I'd like this app to run a basic sentiment analysis on headlines and then suggest the user an article on the same issue with a different sentiment rating. It doesn't have to be extremely functional (although it still must work) as long as the UI looks good.
 
@@ -6814,7 +6814,7 @@ Acceptance Criteria
 -Mobile App with RSS feed
 -Quality UI
 -Runs sentiment analysis on headlines  (use an open source sentiment analysis tool)
--Finds articles with opposite sentiments",JCBT377,14 hours ago,https://replit.com/bounties/@JCBT377/basic-newsfeed-app-w?t=
+-Finds articles with opposite sentiments",JCBT377,15 hours ago,https://replit.com/bounties/@JCBT377/basic-newsfeed-app-w?t=
 854,$27.00,due in 11 days,ESL student notifier ,"low level ESL students are not able to read complex
 Websites or emails to know if schools have been closed or teacher is absent.
 
@@ -6881,7 +6881,7 @@ Each generated URL should:
 display the content of the sheet
 show the author
 be public
-have a button to give kudos...",Quinn-LiLi,53 minutes ago,https://replit.com/bounties/@Quinn-LiLi/gsheet-to-url-conver?t=
+have a button to give kudos...",Quinn-LiLi,1 hour ago,https://replit.com/bounties/@Quinn-LiLi/gsheet-to-url-conver?t=
 861,$45.00,due in 6 days,Simple landing page presenting visitors with 2 choices,"I need a very simple but attractive landing page which would offer visitors a choice of two other websites to visit, using the website logos as large buttons. You are welcome to use an existing template or framework provided that it looks nice.
 
 Acceptance Criteria
@@ -6894,4 +6894,4 @@ Provide the site as a Repl.
 
 Timelines / Milestones
 Logos and website links will be provided by email.
-Quick solution needed. Please be done by February 23.",liberatollc,42 minutes ago,https://replit.com/bounties/@liberatollc/simple-landing-page?t=
+Quick solution needed. Please be done by February 23.",liberatollc,57 minutes ago,https://replit.com/bounties/@liberatollc/simple-landing-page?t=
