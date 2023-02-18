@@ -8526,7 +8526,7 @@
         "title": "Android Polygon Wallet Prototype",
         "description": "I have written a simple Twitter thread: https://twitter.com/ricburton/status/1625484882892800002?s=20\n\nAcceptance Criteria\nOpen source Android Ethereum wallet prototype that is built with Kotlin and can connect to Polygon.\n\nIt should have ADD and PAY functionality.\n\nThis is not meant to be a full working app. Just a simple prototype.",
         "author": "ricburton",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@ricburton/android-polygon-wall?t="
     },
     {
@@ -8536,7 +8536,7 @@
         "title": "Basic Newsfeed App with Sentiment Analysis",
         "description": "Hello,\nI'm trying to develop a MVP news aggregator app for a proof of concept. I'd like this app to run a basic sentiment analysis on headlines and then suggest the user an article on the same issue with a different sentiment rating. It doesn't have to be extremely functional (although it still must work) as long as the UI looks good.\n\nAcceptance Criteria\n-Mobile App with RSS feed\n-Quality UI\n-Runs sentiment analysis on headlines  (use an open source sentiment analysis tool)\n-Finds articles with opposite sentiments",
         "author": "JCBT377",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@JCBT377/basic-newsfeed-app-w?t="
     },
     {
