@@ -8506,7 +8506,7 @@
         "title": "Scaling canvas that takes up all horiz and vert space in the browser w/o scroll bars",
         "description": "I'd like a raw (no JS or CSS framework), client-side only HTML/CSS/JS implementation of this app: https://spec-app-375606.web.app/#/\n\nAcceptance Criteria\nThe content should all stay on a single page as the browser window resizes w/o scrollbars.\n\nThe square with the circle and text should take up the maximum amount of space that it can based on its size, i.e. maintaining the aspect ratio.\n\nThe square should be able to be resized dynamically via the sliders.\n\nThe content inside the square should be sharp and clear as it's resized.\n\nThe square should be implemented as a  element; the circle and text should be painted inside the canvas.\n\nTechnical Details\nThe reference app is built with a few lines of Flutter and I'm searching for the right way to get the same behavior in raw HTML, CSS and JS w/o the use of any frameworks. My goal is to have a template for canvas-based content at a fixed logical size that scales to fit the available space while maintaining the aspect ra...",
         "author": "csells",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@csells/scaling-canvas-that?t="
     },
     {
@@ -8566,7 +8566,7 @@
         "title": "Use Astria API to finetune stable diffusion",
         "description": "I would like an experience developer to build a Node Express server or a backend that would  finetune stable diffusion with dreambooth with a set of images through the Astria API as well as handle Image and video generation of a finetuned model\n\nHere are docs for the Astria API\nhttps://www.astria.ai/api/docs\n\nAcceptance Criteria\nAPI has to handle both creating a finetune\nAPI has to handle Image and Video generation after a model is finetuned\nNeed to be able to call on the api from swift for a native mobile app or from a web app\nNeed to be able to use API to create a finetune of a set of images\nhas to handle the callback url where Astria sends the finetuned model\nAPI notifies when the finetuned model is done\nNeed to be able make a call to the API with a video prompt and get a video of finetuned subject back",
         "author": "KamalMango1",
-        "posted_time": "51 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@KamalMango1/use-astria-api-to-fi?t="
     },
     {

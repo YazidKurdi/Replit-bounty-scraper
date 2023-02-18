@@ -6788,7 +6788,7 @@ The content inside the square should be sharp and clear as it's resized.
 The square should be implemented as a  element; the circle and text should be painted inside the canvas.
 
 Technical Details
-The reference app is built with a few lines of Flutter and I'm searching for the right way to get the same behavior in raw HTML, CSS and JS w/o the use of any frameworks. My goal is to have a template for canvas-based content at a fixed logical size that scales to fit the available space while maintaining the aspect ra...",csells,16 hours ago,https://replit.com/bounties/@csells/scaling-canvas-that?t=
+The reference app is built with a few lines of Flutter and I'm searching for the right way to get the same behavior in raw HTML, CSS and JS w/o the use of any frameworks. My goal is to have a template for canvas-based content at a fixed logical size that scales to fit the available space while maintaining the aspect ra...",csells,17 hours ago,https://replit.com/bounties/@csells/scaling-canvas-that?t=
 851,$450.00,closed,Deployable Flask REST Server via command line,"Looking for an extremely out of the box flask REST API on AWS that will connect to a  mongoDB hosted db. I am looking to do as little configuration as possible to access the API via the internet. The end state should be an accessible API
 The API should also have authentication middleware
 The API should auto refresh (but not rebuild the database) whenever a new commit is merged into master, this should include adding any packages that werent' there before.
@@ -6842,5 +6842,5 @@ Need to be able to call on the api from swift for a native mobile app or from a 
 Need to be able to use API to create a finetune of a set of images
 has to handle the callback url where Astria sends the finetuned model
 API notifies when the finetuned model is done
-Need to be able make a call to the API with a video prompt and get a video of finetuned subject back",KamalMango1,51 minutes ago,https://replit.com/bounties/@KamalMango1/use-astria-api-to-fi?t=
+Need to be able make a call to the API with a video prompt and get a video of finetuned subject back",KamalMango1,1 hour ago,https://replit.com/bounties/@KamalMango1/use-astria-api-to-fi?t=
 857,$4.50,closed,Testing a bug that might be possible with Bounties.,"Ignore this bounty if you see it, I'm simply testing a bug that may be possible. (If there's an Admin who sees this, please unlist the bounty)",haroon,6 minutes ago,https://replit.com/bounties/@haroon/testing-a-bug-that-m?t=
