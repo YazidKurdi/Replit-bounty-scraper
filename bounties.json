@@ -8556,7 +8556,7 @@
         "title": "Link existing React app to Hubspot for email capture",
         "description": "I have a landing page build with react\nhttps://content-club.vercel.app/\nI would like to connect the Sign up section of the page to Hubspot API to be able to capture subscriber emails\n\nAcceptance Criteria\nSolution includes email validation\nGives user error if they enter something that is not an email\nGives user indication of success if sign up is successful\nSubscriber emial captured on hubspot",
         "author": "KamalMango1",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@KamalMango1/link-existing-react?t="
     },
     {
@@ -8606,7 +8606,7 @@
         "title": "GSheet to URL Converter - functional prototype that links to someone's GDrive and turns a pre-formatted Google sheet into a pretty webpage",
         "description": "We all have lots recommendations that we share with friends. Sometime the recs are in our heads, other times they're just a handful of links, or maybe they're in a notes or google doc.\n\nIt would save time and make it easier to share recs if there were a tool to quickly and simply turn these lists into pretty, easily shareable links. (think Partiful but for lists)\n\nAcceptance Criteria:\naccount creation: a user can only use the product to convert a doc if they have an account, they can view others without an account\nuser can log in/create an account with their email or Google Drive\nuser can select which google sheet to sync to our app (call it Braid Exchange)\nthe app will convert the contents of the app into a webpage preview\nuser can edit the content from the preview if the data is wrong or missing\nuser can save\nonce user saves, they have a shareable URL\nEach generated URL should:\ndisplay the content of the sheet\nshow the author\nbe public\nhave a button to give kudos...",
         "author": "Quinn-LiLi",
-        "posted_time": "27 minutes ago",
+        "posted_time": "37 minutes ago",
         "link": "https://replit.com/bounties/@Quinn-LiLi/gsheet-to-url-conver?t="
     },
     {
@@ -8616,7 +8616,7 @@
         "title": "Simple landing page presenting visitors with 2 choices",
         "description": "I need a very simple but attractive landing page which would offer visitors a choice of two other websites to visit, using the website logos as large buttons. You are welcome to use an existing template or framework provided that it looks nice.\n\nAcceptance Criteria\nSimple, single page website\nCool focus effect when the user mouseovers one of the two options\n\nTechnical Details\nHTML and CSS only\nProvide the site as a Repl.\n\nTimelines / Milestones\nLogos and website links will be provided by email.\nQuick solution needed. Please be done by February 23.",
         "author": "liberatollc",
-        "posted_time": "16 minutes ago",
+        "posted_time": "26 minutes ago",
         "link": "https://replit.com/bounties/@liberatollc/simple-landing-page?t="
     }
 ]
