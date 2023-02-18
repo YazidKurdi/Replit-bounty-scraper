@@ -8526,7 +8526,7 @@
         "title": "Android Polygon Wallet Prototype",
         "description": "I have written a simple Twitter thread: https://twitter.com/ricburton/status/1625484882892800002?s=20\n\nAcceptance Criteria\nOpen source Android Ethereum wallet prototype that is built with Kotlin and can connect to Polygon.\n\nIt should have ADD and PAY functionality.\n\nThis is not meant to be a full working app. Just a simple prototype.",
         "author": "ricburton",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@ricburton/android-polygon-wall?t="
     },
     {
@@ -8596,7 +8596,7 @@
         "title": "Brand Sentiment Tool with alerting ",
         "description": "An AI tool with nice UX, which tracks companies' brand sentiment based on the available data from search trends, keywords, and semantic sentiment around that.\n\nThe user can set up an alert to receive daily notifications about its brand with the most searched keywords related to the brand and the sentiment around them.\n\nAcceptance Criteria\nN/A\n\nTechnical Details\nN/A",
         "author": "GennaroCuofano",
-        "posted_time": "43 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/brand-sentiment-tool?t="
     }
 ]
