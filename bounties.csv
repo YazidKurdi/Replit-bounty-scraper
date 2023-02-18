@@ -6729,7 +6729,7 @@ The finished extension should ideally meet the following requirements:
 • Connect to the ChatGPT/OpenAI API to analyze website content and provide recommendations for improving SEO. Any engine is fine, whatever is most appropriate.
 • Keyword analysis: Analyze website keywords and suggest relevant keywords that can be added to the website's content to improve its SEO.
 • Nice to have in MVP - Content analysis: Analyze website content and suggest changes to imp...",rhodowen,22 hours ago,https://replit.com/bounties/@rhodowen/seo-chrome-extension?t=
-844,$18.00,closed,As system to tip workers ,To replicate the website https://easytip.net/,activestudy,22 hours ago,https://replit.com/bounties/@activestudy/as-system-to-tip-wor?t=
+844,$18.00,closed,As system to tip workers ,To replicate the website https://easytip.net/,activestudy,23 hours ago,https://replit.com/bounties/@activestudy/as-system-to-tip-wor?t=
 845,$9.00,due in 6 days,A proposal to develop website like https://easytip.net/,A proposal with the cost to develop a website like https://easytip.net/,activestudy,22 hours ago,https://replit.com/bounties/@activestudy/a-proposal-to-develo?t=
 846,$9.00,closed,ai fb chatbot,"Make an ai fb messenger chatbot that replies instantly and can be added to groupchats where everybody can use it / (or not based on modes). Must use prefix commands to use features such as:
 ai - uses gpt-3 model
@@ -6764,7 +6764,7 @@ Acceptance Criteria
 N/A
 
 Technical Details
-N/A",GennaroCuofano,20 hours ago,https://replit.com/bounties/@GennaroCuofano/prompt-to-presentati-1?t=
+N/A",GennaroCuofano,21 hours ago,https://replit.com/bounties/@GennaroCuofano/prompt-to-presentati-1?t=
 849,"$1,350.00",due in 6 days,"Contextual Calendar App with Tagging, and Activity Tracking Capabilities","The purpose of this app is to track and report on the time spent by fractional employees across multiple employers and project tasks
 The app should sync with Outlook/Microsoft Calendar and Gmail Calendar, and allow users augment their calendar data with additional context.
 This data will be used for tracking work productivity and reporting across multiple employers and to the employee.
@@ -6788,7 +6788,7 @@ The content inside the square should be sharp and clear as it's resized.
 The square should be implemented as a  element; the circle and text should be painted inside the canvas.
 
 Technical Details
-The reference app is built with a few lines of Flutter and I'm searching for the right way to get the same behavior in raw HTML, CSS and JS w/o the use of any frameworks. My goal is to have a template for canvas-based content at a fixed logical size that scales to fit the available space while maintaining the aspect ra...",csells,11 hours ago,https://replit.com/bounties/@csells/scaling-canvas-that?t=
+The reference app is built with a few lines of Flutter and I'm searching for the right way to get the same behavior in raw HTML, CSS and JS w/o the use of any frameworks. My goal is to have a template for canvas-based content at a fixed logical size that scales to fit the available space while maintaining the aspect ra...",csells,12 hours ago,https://replit.com/bounties/@csells/scaling-canvas-that?t=
 851,$450.00,closed,Deployable Flask REST Server via command line,"Looking for an extremely out of the box flask REST API on AWS that will connect to a  mongoDB hosted db. I am looking to do as little configuration as possible to access the API via the internet. The end state should be an accessible API
 The API should also have authentication middleware
 The API should auto refresh (but not rebuild the database) whenever a new commit is merged into master, this should include adding any packages that werent' there before.
@@ -6798,7 +6798,7 @@ Feel free to use cloudformation if that is useful, but I would need to be instru
 
 My core competency is in front-end and nodejs work, so I would need to be instructed on what to do to get the project to the end state of easy deployments.
 
-The ideal case of this, is that I can execute a script from the command lin...",simistern,7 hours ago,https://replit.com/bounties/@simistern/deployable-flask-res?t=
+The ideal case of this, is that I can execute a script from the command lin...",simistern,8 hours ago,https://replit.com/bounties/@simistern/deployable-flask-res?t=
 852,"$4,500.00",due in 11 days,Android Polygon Wallet Prototype,"I have written a simple Twitter thread: https://twitter.com/ricburton/status/1625484882892800002?s=20
 
 Acceptance Criteria
