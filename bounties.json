@@ -8506,7 +8506,7 @@
         "title": "Scaling canvas that takes up all horiz and vert space in the browser w/o scroll bars",
         "description": "I'd like a raw (no JS or CSS framework), client-side only HTML/CSS/JS implementation of this app: https://spec-app-375606.web.app/#/\n\nAcceptance Criteria\nThe content should all stay on a single page as the browser window resizes w/o scrollbars.\n\nThe square with the circle and text should take up the maximum amount of space that it can based on its size, i.e. maintaining the aspect ratio.\n\nThe square should be able to be resized dynamically via the sliders.\n\nThe content inside the square should be sharp and clear as it's resized.\n\nThe square should be implemented as a  element; the circle and text should be painted inside the canvas.\n\nTechnical Details\nThe reference app is built with a few lines of Flutter and I'm searching for the right way to get the same behavior in raw HTML, CSS and JS w/o the use of any frameworks. My goal is to have a template for canvas-based content at a fixed logical size that scales to fit the available space while maintaining the aspect ra...",
         "author": "csells",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@csells/scaling-canvas-that?t="
     },
     {
@@ -8586,7 +8586,17 @@
         "title": "Debug Slack Bot not being able to read a thread history (auth permissions issue)",
         "description": "I'm building a Slack bot and it's currently complaining that it doesn't have sufficient permissions to read a thread.\n\nIf you're familiar with building Slack Bots, and have built an oAuth Slack App where you were able to read a user message this should be a very quick fix. Happy to hop on a quick call to debug together.\n\nAcceptance Criteria\nYou look at the code and fix the issue as to why it might not be reading the thread - included is both what permissions are requested and how it's handled\n\nTechnical Details\nUsing Typescript and the BoltJS SDJ from Slack\n\nLink to Project\nwww.heypal.chat - adding some new functionality for this service!",
         "author": "NicolaeRusan",
-        "posted_time": "22 minutes ago",
+        "posted_time": "33 minutes ago",
         "link": "https://replit.com/bounties/@NicolaeRusan/debug-slack-bot-not?t="
+    },
+    {
+        "index": "859",
+        "price": "$450.00",
+        "due_days": "due in 7 days",
+        "title": "Brand Sentiment Tool with alerting ",
+        "description": "An AI tool with nice UX, which tracks companies' brand sentiment based on the available data from search trends, keywords, and semantic sentiment around that.\n\nThe user can set up an alert to receive daily notifications about its brand with the most searched keywords related to the brand and the sentiment around them.\n\nAcceptance Criteria\nN/A\n\nTechnical Details\nN/A",
+        "author": "GennaroCuofano",
+        "posted_time": "6 minutes ago",
+        "link": "https://replit.com/bounties/@GennaroCuofano/brand-sentiment-tool?t="
     }
 ]
