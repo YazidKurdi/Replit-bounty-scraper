@@ -6820,7 +6820,7 @@ Websites or emails to know if schools have been closed or teacher is absent.
 
 Acceptance Criteria
 I want an app that has simple YES/NO image that pops up daily so students can check if there is class without having to come in. App should be set to yes as default and admin should be able to change it to NO.
-Yes should be a big green square, No should be red. translatable to all languages. Especially Farsi, Arabic, Turkish and Kurdish",MariaOstapenko,9 hours ago,https://replit.com/bounties/@MariaOstapenko/esl-student-notifier?t=
+Yes should be a big green square, No should be red. translatable to all languages. Especially Farsi, Arabic, Turkish and Kurdish",MariaOstapenko,10 hours ago,https://replit.com/bounties/@MariaOstapenko/esl-student-notifier?t=
 855,$100.80,due in 3 days,Link existing React app to Hubspot for email capture,"I have a landing page build with react
 https://content-club.vercel.app/
 I would like to connect the Sign up section of the page to Hubspot API to be able to capture subscriber emails
@@ -6842,7 +6842,7 @@ Need to be able to call on the api from swift for a native mobile app or from a 
 Need to be able to use API to create a finetune of a set of images
 has to handle the callback url where Astria sends the finetuned model
 API notifies when the finetuned model is done
-Need to be able make a call to the API with a video prompt and get a video of finetuned subject back",KamalMango1,8 hours ago,https://replit.com/bounties/@KamalMango1/use-astria-api-to-fi?t=
+Need to be able make a call to the API with a video prompt and get a video of finetuned subject back",KamalMango1,9 hours ago,https://replit.com/bounties/@KamalMango1/use-astria-api-to-fi?t=
 857,$4.50,closed,Testing a bug that might be possible with Bounties.,"Ignore this bounty if you see it, I'm simply testing a bug that may be possible. (If there's an Admin who sees this, please unlist the bounty)",haroon,6 minutes ago,https://replit.com/bounties/@haroon/testing-a-bug-that-m?t=
 858,$90.00,closed,Debug Slack Bot not being able to read a thread history (auth permissions issue),"I'm building a Slack bot and it's currently complaining that it doesn't have sufficient permissions to read a thread.
 
@@ -6864,7 +6864,7 @@ Acceptance Criteria
 N/A
 
 Technical Details
-N/A",GennaroCuofano,5 hours ago,https://replit.com/bounties/@GennaroCuofano/brand-sentiment-tool?t=
+N/A",GennaroCuofano,6 hours ago,https://replit.com/bounties/@GennaroCuofano/brand-sentiment-tool?t=
 860,$90.00,due in 7 days,GSheet to URL Converter - functional prototype that links to someone's GDrive and turns a pre-formatted Google sheet into a pretty webpage,"We all have lots recommendations that we share with friends. Sometime the recs are in our heads, other times they're just a handful of links, or maybe they're in a notes or google doc.
 
 It would save time and make it easier to share recs if there were a tool to quickly and simply turn these lists into pretty, easily shareable links. (think Partiful but for lists)
@@ -6894,4 +6894,39 @@ Provide the site as a Repl.
 
 Timelines / Milestones
 Logos and website links will be provided by email.
-Quick solution needed. Please be done by February 23.",liberatollc,1 hour ago,https://replit.com/bounties/@liberatollc/simple-landing-page?t=
+Quick solution needed. Please be done by February 23.",liberatollc,2 hours ago,https://replit.com/bounties/@liberatollc/simple-landing-page?t=
+862,$20.00,due in 3 days,Need help with a discord bot.  I want to actually execute the /imagine command in Midjourney from Discord message.,"i'm using discord.js.  i'm currently posting the text '/imagine [INSERTEXAMPLEHERE]' but I want to actually be able to run the /imagine command versus just paste the text into the channel.
+
+import { Client, GatewayIntentBits, TextChannel } from ""discord.js"";
+import NextCors from ""nextjs-cors"";
+import { prisma } from ""../prisma"";
+
+const client = new Client({
+  intents: [
+    GatewayIntentBits.GuildMessages,
+    GatewayIntentBits.Guilds,
+    GatewayIntentBits.MessageContent,
+  ],
+});
+client.login(
+  process.env.DISCORD_TOKEN
+);
+
+const waitForReady = async (): Promise => {
+  return new Promise((resolve) => {
+    client.on(""ready"", () => {
+      resolve();
+    });
+  });
+};
+
+export default async (req: any, res: any) => {
+  await NextCors(req, res, {
+    // Options
+    methods: [""GET"", ""HEAD"", ""PUT"", ""PATCH"", ""POST"", ""DELETE""],
+    origin: ""*"",
+    optionsSuccessStatus: 200, // some legacy browsers (IE11, various SmartTVs) choke on 204
+  });
+  if (req.method === ""POST"") {
+    try {
+      if ...",aidantorrence,7 minutes ago,https://replit.com/bounties/@aidantorrence/need-help-with-a-dis?t=
