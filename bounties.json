@@ -8496,7 +8496,7 @@
         "title": "Contextual Calendar App with Tagging, and Activity Tracking Capabilities",
         "description": "The purpose of this app is to track and report on the time spent by fractional employees across multiple employers and project tasks\nThe app should sync with Outlook/Microsoft Calendar and Gmail Calendar, and allow users augment their calendar data with additional context.\nThis data will be used for tracking work productivity and reporting across multiple employers and to the employee.\nThe app should be secure and task activity should only visible to authorized users (in other words I can only track hours relevant to me - as an employer or employee)\n\nPLEASE NOTE - This is a bare-bones proof of concept. As such the engineer should utilise existing template/technologies wherever possible to facilitate outcomes. There are no wireframes or screen designs available - and it is not my intention to create any).\n\nFeatures\nEmployee creates a profile and links their preferred calendar to it. They then then invite Employers to add agreed working expectations and to view daily,...",
         "author": "JamieHarris4",
-        "posted_time": "24 hours ago",
+        "posted_time": "1 day ago",
         "link": "https://replit.com/bounties/@JamieHarris4/contextual-calendar?t="
     },
     {
@@ -8556,7 +8556,7 @@
         "title": "Link existing React app to Hubspot for email capture",
         "description": "I have a landing page build with react\nhttps://content-club.vercel.app/\nI would like to connect the Sign up section of the page to Hubspot API to be able to capture subscriber emails\n\nAcceptance Criteria\nSolution includes email validation\nGives user error if they enter something that is not an email\nGives user indication of success if sign up is successful\nSubscriber emial captured on hubspot",
         "author": "KamalMango1",
-        "posted_time": "30 minutes ago",
+        "posted_time": "40 minutes ago",
         "link": "https://replit.com/bounties/@KamalMango1/link-existing-react?t="
     },
     {
@@ -8566,7 +8566,17 @@
         "title": "Use Astria API to finetune stable diffusion",
         "description": "I would like an experience developer to build a Node Express server or a backend that would  finetune stable diffusion with dreambooth with a set of images through the Astria API as well as handle Image and video generation of a finetuned model\n\nHere are docs for the Astria API\nhttps://www.astria.ai/api/docs\n\nAcceptance Criteria\nAPI has to handle both creating a finetune\nAPI has to handle Image and Video generation after a model is finetuned\nNeed to be able to call on the api from swift for a native mobile app or from a web app\nNeed to be able to use API to create a finetune of a set of images\nhas to handle the callback url where Astria sends the finetuned model\nAPI notifies when the finetuned model is done\nNeed to be able make a call to the API with a video prompt and get a video of finetuned subject back",
         "author": "KamalMango1",
-        "posted_time": "10 minutes ago",
+        "posted_time": "20 minutes ago",
         "link": "https://replit.com/bounties/@KamalMango1/use-astria-api-to-fi?t="
+    },
+    {
+        "index": "857",
+        "price": "$4.50",
+        "due_days": "closed",
+        "title": "Testing a bug that might be possible with Bounties.",
+        "description": "Ignore this bounty if you see it, I'm simply testing a bug that may be possible. (If there's an Admin who sees this, please unlist the bounty)",
+        "author": "haroon",
+        "posted_time": "6 minutes ago",
+        "link": "https://replit.com/bounties/@haroon/testing-a-bug-that-m?t="
     }
 ]

@@ -6773,7 +6773,7 @@ The app should be secure and task activity should only visible to authorized use
 PLEASE NOTE - This is a bare-bones proof of concept. As such the engineer should utilise existing template/technologies wherever possible to facilitate outcomes. There are no wireframes or screen designs available - and it is not my intention to create any).
 
 Features
-Employee creates a profile and links their preferred calendar to it. They then then invite Employers to add agreed working expectations and to view daily,...",JamieHarris4,24 hours ago,https://replit.com/bounties/@JamieHarris4/contextual-calendar?t=
+Employee creates a profile and links their preferred calendar to it. They then then invite Employers to add agreed working expectations and to view daily,...",JamieHarris4,1 day ago,https://replit.com/bounties/@JamieHarris4/contextual-calendar?t=
 850,$90.00,due in 5 days,Scaling canvas that takes up all horiz and vert space in the browser w/o scroll bars,"I'd like a raw (no JS or CSS framework), client-side only HTML/CSS/JS implementation of this app: https://spec-app-375606.web.app/#/
 
 Acceptance Criteria
@@ -6829,7 +6829,7 @@ Acceptance Criteria
 Solution includes email validation
 Gives user error if they enter something that is not an email
 Gives user indication of success if sign up is successful
-Subscriber emial captured on hubspot",KamalMango1,30 minutes ago,https://replit.com/bounties/@KamalMango1/link-existing-react?t=
+Subscriber emial captured on hubspot",KamalMango1,40 minutes ago,https://replit.com/bounties/@KamalMango1/link-existing-react?t=
 856,$180.00,due in 3 days,Use Astria API to finetune stable diffusion,"I would like an experience developer to build a Node Express server or a backend that would  finetune stable diffusion with dreambooth with a set of images through the Astria API as well as handle Image and video generation of a finetuned model
 
 Here are docs for the Astria API
@@ -6842,4 +6842,5 @@ Need to be able to call on the api from swift for a native mobile app or from a 
 Need to be able to use API to create a finetune of a set of images
 has to handle the callback url where Astria sends the finetuned model
 API notifies when the finetuned model is done
-Need to be able make a call to the API with a video prompt and get a video of finetuned subject back",KamalMango1,10 minutes ago,https://replit.com/bounties/@KamalMango1/use-astria-api-to-fi?t=
+Need to be able make a call to the API with a video prompt and get a video of finetuned subject back",KamalMango1,20 minutes ago,https://replit.com/bounties/@KamalMango1/use-astria-api-to-fi?t=
+857,$4.50,closed,Testing a bug that might be possible with Bounties.,"Ignore this bounty if you see it, I'm simply testing a bug that may be possible. (If there's an Admin who sees this, please unlist the bounty)",haroon,6 minutes ago,https://replit.com/bounties/@haroon/testing-a-bug-that-m?t=
