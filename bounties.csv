@@ -6820,7 +6820,7 @@ Websites or emails to know if schools have been closed or teacher is absent.
 
 Acceptance Criteria
 I want an app that has simple YES/NO image that pops up daily so students can check if there is class without having to come in. App should be set to yes as default and admin should be able to change it to NO.
-Yes should be a big green square, No should be red. translatable to all languages. Especially Farsi, Arabic, Turkish and Kurdish",MariaOstapenko,6 hours ago,https://replit.com/bounties/@MariaOstapenko/esl-student-notifier?t=
+Yes should be a big green square, No should be red. translatable to all languages. Especially Farsi, Arabic, Turkish and Kurdish",MariaOstapenko,7 hours ago,https://replit.com/bounties/@MariaOstapenko/esl-student-notifier?t=
 855,$100.80,due in 3 days,Link existing React app to Hubspot for email capture,"I have a landing page build with react
 https://content-club.vercel.app/
 I would like to connect the Sign up section of the page to Hubspot API to be able to capture subscriber emails
@@ -6842,7 +6842,7 @@ Need to be able to call on the api from swift for a native mobile app or from a 
 Need to be able to use API to create a finetune of a set of images
 has to handle the callback url where Astria sends the finetuned model
 API notifies when the finetuned model is done
-Need to be able make a call to the API with a video prompt and get a video of finetuned subject back",KamalMango1,5 hours ago,https://replit.com/bounties/@KamalMango1/use-astria-api-to-fi?t=
+Need to be able make a call to the API with a video prompt and get a video of finetuned subject back",KamalMango1,6 hours ago,https://replit.com/bounties/@KamalMango1/use-astria-api-to-fi?t=
 857,$4.50,closed,Testing a bug that might be possible with Bounties.,"Ignore this bounty if you see it, I'm simply testing a bug that may be possible. (If there's an Admin who sees this, please unlist the bounty)",haroon,6 minutes ago,https://replit.com/bounties/@haroon/testing-a-bug-that-m?t=
 858,$90.00,due in 3 days,Debug Slack Bot not being able to read a thread history (auth permissions issue),"I'm building a Slack bot and it's currently complaining that it doesn't have sufficient permissions to read a thread.
 
@@ -6864,4 +6864,4 @@ Acceptance Criteria
 N/A
 
 Technical Details
-N/A",GennaroCuofano,2 hours ago,https://replit.com/bounties/@GennaroCuofano/brand-sentiment-tool?t=
+N/A",GennaroCuofano,3 hours ago,https://replit.com/bounties/@GennaroCuofano/brand-sentiment-tool?t=
