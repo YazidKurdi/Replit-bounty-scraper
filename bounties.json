@@ -8546,7 +8546,7 @@
         "title": "ESL student notifier ",
         "description": "low level ESL students are not able to read complex\nWebsites or emails to know if schools have been closed or teacher is absent.\n\nAcceptance Criteria\nI want an app that has simple YES/NO image that pops up daily so students can check if there is class without having to come in. App should be set to yes as default and admin should be able to change it to NO.\nYes should be a big green square, No should be red. translatable to all languages. Especially Farsi, Arabic, Turkish and Kurdish",
         "author": "MariaOstapenko",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@MariaOstapenko/esl-student-notifier?t="
     },
     {
@@ -8566,7 +8566,7 @@
         "title": "Use Astria API to finetune stable diffusion",
         "description": "I would like an experience developer to build a Node Express server or a backend that would  finetune stable diffusion with dreambooth with a set of images through the Astria API as well as handle Image and video generation of a finetuned model\n\nHere are docs for the Astria API\nhttps://www.astria.ai/api/docs\n\nAcceptance Criteria\nAPI has to handle both creating a finetune\nAPI has to handle Image and Video generation after a model is finetuned\nNeed to be able to call on the api from swift for a native mobile app or from a web app\nNeed to be able to use API to create a finetune of a set of images\nhas to handle the callback url where Astria sends the finetuned model\nAPI notifies when the finetuned model is done\nNeed to be able make a call to the API with a video prompt and get a video of finetuned subject back",
         "author": "KamalMango1",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@KamalMango1/use-astria-api-to-fi?t="
     },
     {
@@ -8578,5 +8578,15 @@
         "author": "haroon",
         "posted_time": "6 minutes ago",
         "link": "https://replit.com/bounties/@haroon/testing-a-bug-that-m?t="
+    },
+    {
+        "index": "858",
+        "price": "$90.00",
+        "due_days": "due in 3 days",
+        "title": "Debug Slack Bot not being able to read a thread history (auth permissions issue)",
+        "description": "I'm building a Slack bot and it's currently complaining that it doesn't have sufficient permissions to read a thread.\n\nIf you're familiar with building Slack Bots, and have built an oAuth Slack App where you were able to read a user message this should be a very quick fix. Happy to hop on a quick call to debug together.\n\nAcceptance Criteria\nYou look at the code and fix the issue as to why it might not be reading the thread - included is both what permissions are requested and how it's handled\n\nTechnical Details\nUsing Typescript and the BoltJS SDJ from Slack\n\nLink to Project\nwww.heypal.chat - adding some new functionality for this service!",
+        "author": "NicolaeRusan",
+        "posted_time": "7 minutes ago",
+        "link": "https://replit.com/bounties/@NicolaeRusan/debug-slack-bot-not?t="
     }
 ]
