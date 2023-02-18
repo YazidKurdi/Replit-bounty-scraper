@@ -8622,11 +8622,31 @@
     {
         "index": "862",
         "price": "$20.00",
-        "due_days": "due in 3 days",
+        "due_days": "closed",
         "title": "Need help with a discord bot.  I want to actually execute the /imagine command in Midjourney from Discord message.",
         "description": "i'm using discord.js.  i'm currently posting the text '/imagine [INSERTEXAMPLEHERE]' but I want to actually be able to run the /imagine command versus just paste the text into the channel.\n\nimport { Client, GatewayIntentBits, TextChannel } from \"discord.js\";\nimport NextCors from \"nextjs-cors\";\nimport { prisma } from \"../prisma\";\n\nconst client = new Client({\n  intents: [\n    GatewayIntentBits.GuildMessages,\n    GatewayIntentBits.Guilds,\n    GatewayIntentBits.MessageContent,\n  ],\n});\nclient.login(\n  process.env.DISCORD_TOKEN\n);\n\nconst waitForReady = async (): Promise => {\n  return new Promise((resolve) => {\n    client.on(\"ready\", () => {\n      resolve();\n    });\n  });\n};\n\nexport default async (req: any, res: any) => {\n  await NextCors(req, res, {\n    // Options\n    methods: [\"GET\", \"HEAD\", \"PUT\", \"PATCH\", \"POST\", \"DELETE\"],\n    origin: \"*\",\n    optionsSuccessStatus: 200, // some legacy browsers (IE11, various SmartTVs) choke on 204\n  });\n  if (req.method === \"POST\") {\n    try {\n      if ...",
         "author": "aidantorrence",
-        "posted_time": "7 minutes ago",
+        "posted_time": "21 minutes ago",
         "link": "https://replit.com/bounties/@aidantorrence/need-help-with-a-dis?t="
+    },
+    {
+        "index": "863",
+        "price": "$1,020.60",
+        "due_days": "due in 13 days",
+        "title": "Chrome extension: AI content creation assistant",
+        "description": "We need a chrome extension based AI content creation assistant. The chrome extension will complement our main web app\n\nThe tool should work like the following:\n\nicon pops up in any input field on the web (slack, notion, gmail, etc)\nthe extension should include an autocomplete feature\nMain extension features\n    Compose text (blog posts, essays, short stories, emails, etc)\n        User prompts tool in the small input box, the output is generated and injected into the page\n    Transform text (rephrase, expand, shorten text)\n    Respond (Slack, Whatsapp, messages, emails)\n        The prompt sent to the model includes the email/message you're responding to. If the email chain is too long it needs to be truncated.\n        It should complete entire emails and messages\nSupport for newlines\nSupport for default text streaming\nIt should use OpenAI GPT3\n\nAcceptance Criteria\nThe code has to be clean and well documented\nMinimal and clean UX (Figma design will be given)\n    compl...",
+        "author": "juancaruiz",
+        "posted_time": "11 minutes ago",
+        "link": "https://replit.com/bounties/@juancaruiz/chrome-extension-ai?t="
+    },
+    {
+        "index": "864",
+        "price": "$540.00",
+        "due_days": "due in 15 days",
+        "title": "DB Gas App Frontend",
+        "description": "Make a polling web app that looks like the Gas App (but on web) where people can hook up a relational database (such as PostGres) with random prompts, and respective poll options for each prompt. Users can click on each button and it takes them to the next option.\n\nAcceptance Criteria\nThe app\nbe integrated with any relational databases (e.g. postgres sql) by pasting the url endpoint or sign in with providers such as Firebase or Supabase\nonce hooked up to the db, the front end populates with prompts and buttons\nuser clicking the button will save that as a vote for that option for that user account\n\nTechnical Details\nok to just be a prototype\ndon't need to assume more than 1000 rows",
+        "author": "gbintech",
+        "posted_time": "9 minutes ago",
+        "link": "https://replit.com/bounties/@gbintech/db-gas-app-frontend?t="
     }
 ]

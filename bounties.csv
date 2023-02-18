@@ -6895,7 +6895,7 @@ Provide the site as a Repl.
 Timelines / Milestones
 Logos and website links will be provided by email.
 Quick solution needed. Please be done by February 23.",liberatollc,2 hours ago,https://replit.com/bounties/@liberatollc/simple-landing-page?t=
-862,$20.00,due in 3 days,Need help with a discord bot.  I want to actually execute the /imagine command in Midjourney from Discord message.,"i'm using discord.js.  i'm currently posting the text '/imagine [INSERTEXAMPLEHERE]' but I want to actually be able to run the /imagine command versus just paste the text into the channel.
+862,$20.00,closed,Need help with a discord bot.  I want to actually execute the /imagine command in Midjourney from Discord message.,"i'm using discord.js.  i'm currently posting the text '/imagine [INSERTEXAMPLEHERE]' but I want to actually be able to run the /imagine command versus just paste the text into the channel.
 
 import { Client, GatewayIntentBits, TextChannel } from ""discord.js"";
 import NextCors from ""nextjs-cors"";
@@ -6929,4 +6929,36 @@ export default async (req: any, res: any) => {
   });
   if (req.method === ""POST"") {
     try {
-      if ...",aidantorrence,7 minutes ago,https://replit.com/bounties/@aidantorrence/need-help-with-a-dis?t=
+      if ...",aidantorrence,21 minutes ago,https://replit.com/bounties/@aidantorrence/need-help-with-a-dis?t=
+863,"$1,020.60",due in 13 days,Chrome extension: AI content creation assistant,"We need a chrome extension based AI content creation assistant. The chrome extension will complement our main web app
+
+The tool should work like the following:
+
+icon pops up in any input field on the web (slack, notion, gmail, etc)
+the extension should include an autocomplete feature
+Main extension features
+    Compose text (blog posts, essays, short stories, emails, etc)
+        User prompts tool in the small input box, the output is generated and injected into the page
+    Transform text (rephrase, expand, shorten text)
+    Respond (Slack, Whatsapp, messages, emails)
+        The prompt sent to the model includes the email/message you're responding to. If the email chain is too long it needs to be truncated.
+        It should complete entire emails and messages
+Support for newlines
+Support for default text streaming
+It should use OpenAI GPT3
+
+Acceptance Criteria
+The code has to be clean and well documented
+Minimal and clean UX (Figma design will be given)
+    compl...",juancaruiz,11 minutes ago,https://replit.com/bounties/@juancaruiz/chrome-extension-ai?t=
+864,$540.00,due in 15 days,DB Gas App Frontend,"Make a polling web app that looks like the Gas App (but on web) where people can hook up a relational database (such as PostGres) with random prompts, and respective poll options for each prompt. Users can click on each button and it takes them to the next option.
+
+Acceptance Criteria
+The app
+be integrated with any relational databases (e.g. postgres sql) by pasting the url endpoint or sign in with providers such as Firebase or Supabase
+once hooked up to the db, the front end populates with prompts and buttons
+user clicking the button will save that as a vote for that option for that user account
+
+Technical Details
+ok to just be a prototype
+don't need to assume more than 1000 rows",gbintech,9 minutes ago,https://replit.com/bounties/@gbintech/db-gas-app-frontend?t=
