@@ -6829,7 +6829,7 @@ Acceptance Criteria
 Solution includes email validation
 Gives user error if they enter something that is not an email
 Gives user indication of success if sign up is successful
-Subscriber emial captured on hubspot",KamalMango1,9 hours ago,https://replit.com/bounties/@KamalMango1/link-existing-react?t=
+Subscriber emial captured on hubspot",KamalMango1,10 hours ago,https://replit.com/bounties/@KamalMango1/link-existing-react?t=
 856,$180.00,due in 3 days,Use Astria API to finetune stable diffusion,"I would like an experience developer to build a Node Express server or a backend that would  finetune stable diffusion with dreambooth with a set of images through the Astria API as well as handle Image and video generation of a finetuned model
 
 Here are docs for the Astria API
@@ -6881,7 +6881,7 @@ Each generated URL should:
 display the content of the sheet
 show the author
 be public
-have a button to give kudos...",Quinn-LiLi,2 hours ago,https://replit.com/bounties/@Quinn-LiLi/gsheet-to-url-conver?t=
+have a button to give kudos...",Quinn-LiLi,3 hours ago,https://replit.com/bounties/@Quinn-LiLi/gsheet-to-url-conver?t=
 861,$45.00,due in 6 days,Simple landing page presenting visitors with 2 choices,"I need a very simple but attractive landing page which would offer visitors a choice of two other websites to visit, using the website logos as large buttons. You are welcome to use an existing template or framework provided that it looks nice.
 
 Acceptance Criteria
@@ -6929,7 +6929,7 @@ export default async (req: any, res: any) => {
   });
   if (req.method === ""POST"") {
     try {
-      if ...",aidantorrence,41 minutes ago,https://replit.com/bounties/@aidantorrence/need-help-with-a-dis?t=
+      if ...",aidantorrence,51 minutes ago,https://replit.com/bounties/@aidantorrence/need-help-with-a-dis?t=
 863,"$1,020.60",due in 13 days,Chrome extension: AI content creation assistant,"We need a chrome extension based AI content creation assistant. The chrome extension will complement our main web app
 
 The tool should work like the following:
@@ -6950,7 +6950,7 @@ It should use OpenAI GPT3
 Acceptance Criteria
 The code has to be clean and well documented
 Minimal and clean UX (Figma design will be given)
-    compl...",juancaruiz,31 minutes ago,https://replit.com/bounties/@juancaruiz/chrome-extension-ai?t=
+    compl...",juancaruiz,41 minutes ago,https://replit.com/bounties/@juancaruiz/chrome-extension-ai?t=
 864,$540.00,due in 15 days,DB Gas App Frontend,"Make a polling web app that looks like the Gas App (but on web) where people can hook up a relational database (such as PostGres) with random prompts, and respective poll options for each prompt. Users can click on each button and it takes them to the next option.
 
 Acceptance Criteria
@@ -6961,4 +6961,4 @@ user clicking the button will save that as a vote for that option for that user 
 
 Technical Details
 ok to just be a prototype
-don't need to assume more than 1000 rows",gbintech,28 minutes ago,https://replit.com/bounties/@gbintech/db-gas-app-frontend?t=
+don't need to assume more than 1000 rows",gbintech,38 minutes ago,https://replit.com/bounties/@gbintech/db-gas-app-frontend?t=
