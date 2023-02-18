@@ -6764,7 +6764,7 @@ Acceptance Criteria
 N/A
 
 Technical Details
-N/A",GennaroCuofano,18 hours ago,https://replit.com/bounties/@GennaroCuofano/prompt-to-presentati-1?t=
+N/A",GennaroCuofano,19 hours ago,https://replit.com/bounties/@GennaroCuofano/prompt-to-presentati-1?t=
 849,"$1,350.00",due in 6 days,"Contextual Calendar App with Tagging, and Activity Tracking Capabilities","The purpose of this app is to track and report on the time spent by fractional employees across multiple employers and project tasks
 The app should sync with Outlook/Microsoft Calendar and Gmail Calendar, and allow users augment their calendar data with additional context.
 This data will be used for tracking work productivity and reporting across multiple employers and to the employee.
@@ -6773,7 +6773,7 @@ The app should be secure and task activity should only visible to authorized use
 PLEASE NOTE - This is a bare-bones proof of concept. As such the engineer should utilise existing template/technologies wherever possible to facilitate outcomes. There are no wireframes or screen designs available - and it is not my intention to create any).
 
 Features
-Employee creates a profile and links their preferred calendar to it. They then then invite Employers to add agreed working expectations and to view daily,...",JamieHarris4,17 hours ago,https://replit.com/bounties/@JamieHarris4/contextual-calendar?t=
+Employee creates a profile and links their preferred calendar to it. They then then invite Employers to add agreed working expectations and to view daily,...",JamieHarris4,18 hours ago,https://replit.com/bounties/@JamieHarris4/contextual-calendar?t=
 850,$90.00,due in 6 days,Scaling canvas that takes up all horiz and vert space in the browser w/o scroll bars,"I'd like a raw (no JS or CSS framework), client-side only HTML/CSS/JS implementation of this app: https://spec-app-375606.web.app/#/
 
 Acceptance Criteria
@@ -6788,7 +6788,7 @@ The content inside the square should be sharp and clear as it's resized.
 The square should be implemented as a  element; the circle and text should be painted inside the canvas.
 
 Technical Details
-The reference app is built with a few lines of Flutter and I'm searching for the right way to get the same behavior in raw HTML, CSS and JS w/o the use of any frameworks. My goal is to have a template for canvas-based content at a fixed logical size that scales to fit the available space while maintaining the aspect ra...",csells,9 hours ago,https://replit.com/bounties/@csells/scaling-canvas-that?t=
+The reference app is built with a few lines of Flutter and I'm searching for the right way to get the same behavior in raw HTML, CSS and JS w/o the use of any frameworks. My goal is to have a template for canvas-based content at a fixed logical size that scales to fit the available space while maintaining the aspect ra...",csells,10 hours ago,https://replit.com/bounties/@csells/scaling-canvas-that?t=
 851,$450.00,closed,Deployable Flask REST Server via command line,"Looking for an extremely out of the box flask REST API on AWS that will connect to a  mongoDB hosted db. I am looking to do as little configuration as possible to access the API via the internet. The end state should be an accessible API
 The API should also have authentication middleware
 The API should auto refresh (but not rebuild the database) whenever a new commit is merged into master, this should include adding any packages that werent' there before.
@@ -6806,7 +6806,7 @@ Open source Android Ethereum wallet prototype that is built with Kotlin and can 
 
 It should have ADD and PAY functionality.
 
-This is not meant to be a full working app. Just a simple prototype.",ricburton,1 hour ago,https://replit.com/bounties/@ricburton/android-polygon-wall?t=
+This is not meant to be a full working app. Just a simple prototype.",ricburton,2 hours ago,https://replit.com/bounties/@ricburton/android-polygon-wall?t=
 853,$90.00,due in 13 days,Basic Newsfeed App with Sentiment Analysis,"Hello,
 I'm trying to develop a MVP news aggregator app for a proof of concept. I'd like this app to run a basic sentiment analysis on headlines and then suggest the user an article on the same issue with a different sentiment rating. It doesn't have to be extremely functional (although it still must work) as long as the UI looks good.
 
@@ -6814,4 +6814,4 @@ Acceptance Criteria
 -Mobile App with RSS feed
 -Quality UI
 -Runs sentiment analysis on headlines  (use an open source sentiment analysis tool)
--Finds articles with opposite sentiments",JCBT377,31 minutes ago,https://replit.com/bounties/@JCBT377/basic-newsfeed-app-w?t=
+-Finds articles with opposite sentiments",JCBT377,52 minutes ago,https://replit.com/bounties/@JCBT377/basic-newsfeed-app-w?t=
