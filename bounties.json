@@ -8486,7 +8486,7 @@
         "title": "Prompt to presentation ",
         "description": "Enable a user to create a first draft of a presentation with a simple prompt.\nIn addition, once the user opens up the presentation, be able also to edit that with a simple prompt.\nThus, create the whole presentation by leveraging AI for both copy and images.\n\nAcceptance Criteria\nN/A\n\nTechnical Details\nN/A",
         "author": "GennaroCuofano",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/prompt-to-presentati-1?t="
     },
     {
@@ -8506,7 +8506,7 @@
         "title": "Scaling canvas that takes up all horiz and vert space in the browser w/o scroll bars",
         "description": "I'd like a raw (no JS or CSS framework), client-side only HTML/CSS/JS implementation of this app: https://spec-app-375606.web.app/#/\n\nAcceptance Criteria\nThe content should all stay on a single page as the browser window resizes w/o scrollbars.\n\nThe square with the circle and text should take up the maximum amount of space that it can based on its size, i.e. maintaining the aspect ratio.\n\nThe square should be able to be resized dynamically via the sliders.\n\nThe content inside the square should be sharp and clear as it's resized.\n\nThe square should be implemented as a  element; the circle and text should be painted inside the canvas.\n\nTechnical Details\nThe reference app is built with a few lines of Flutter and I'm searching for the right way to get the same behavior in raw HTML, CSS and JS w/o the use of any frameworks. My goal is to have a template for canvas-based content at a fixed logical size that scales to fit the available space while maintaining the aspect ra...",
         "author": "csells",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@csells/scaling-canvas-that?t="
     },
     {
