@@ -8496,7 +8496,7 @@
         "title": "Contextual Calendar App with Tagging, and Activity Tracking Capabilities",
         "description": "The purpose of this app is to track and report on the time spent by fractional employees across multiple employers and project tasks\nThe app should sync with Outlook/Microsoft Calendar and Gmail Calendar, and allow users augment their calendar data with additional context.\nThis data will be used for tracking work productivity and reporting across multiple employers and to the employee.\nThe app should be secure and task activity should only visible to authorized users (in other words I can only track hours relevant to me - as an employer or employee)\n\nPLEASE NOTE - This is a bare-bones proof of concept. As such the engineer should utilise existing template/technologies wherever possible to facilitate outcomes. There are no wireframes or screen designs available - and it is not my intention to create any).\n\nFeatures\nEmployee creates a profile and links their preferred calendar to it. They then then invite Employers to add agreed working expectations and to view daily,...",
         "author": "JamieHarris4",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@JamieHarris4/contextual-calendar?t="
     },
     {
@@ -8526,7 +8526,7 @@
         "title": "Android Polygon Wallet Prototype",
         "description": "I have written a simple Twitter thread: https://twitter.com/ricburton/status/1625484882892800002?s=20\n\nAcceptance Criteria\nOpen source Android Ethereum wallet prototype that is built with Kotlin and can connect to Polygon.\n\nIt should have ADD and PAY functionality.\n\nThis is not meant to be a full working app. Just a simple prototype.",
         "author": "ricburton",
-        "posted_time": "26 minutes ago",
+        "posted_time": "39 minutes ago",
         "link": "https://replit.com/bounties/@ricburton/android-polygon-wall?t="
     }
 ]
