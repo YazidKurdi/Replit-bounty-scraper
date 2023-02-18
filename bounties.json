@@ -8546,7 +8546,7 @@
         "title": "ESL student notifier ",
         "description": "low level ESL students are not able to read complex\nWebsites or emails to know if schools have been closed or teacher is absent.\n\nAcceptance Criteria\nI want an app that has simple YES/NO image that pops up daily so students can check if there is class without having to come in. App should be set to yes as default and admin should be able to change it to NO.\nYes should be a big green square, No should be red. translatable to all languages. Especially Farsi, Arabic, Turkish and Kurdish",
         "author": "MariaOstapenko",
-        "posted_time": "12 minutes ago",
+        "posted_time": "22 minutes ago",
         "link": "https://replit.com/bounties/@MariaOstapenko/esl-student-notifier?t="
     }
 ]
