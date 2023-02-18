@@ -8526,7 +8526,7 @@
         "title": "Android Polygon Wallet Prototype",
         "description": "I have written a simple Twitter thread: https://twitter.com/ricburton/status/1625484882892800002?s=20\n\nAcceptance Criteria\nOpen source Android Ethereum wallet prototype that is built with Kotlin and can connect to Polygon.\n\nIt should have ADD and PAY functionality.\n\nThis is not meant to be a full working app. Just a simple prototype.",
         "author": "ricburton",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@ricburton/android-polygon-wall?t="
     },
     {
@@ -8536,7 +8536,7 @@
         "title": "Basic Newsfeed App with Sentiment Analysis",
         "description": "Hello,\nI'm trying to develop a MVP news aggregator app for a proof of concept. I'd like this app to run a basic sentiment analysis on headlines and then suggest the user an article on the same issue with a different sentiment rating. It doesn't have to be extremely functional (although it still must work) as long as the UI looks good.\n\nAcceptance Criteria\n-Mobile App with RSS feed\n-Quality UI\n-Runs sentiment analysis on headlines  (use an open source sentiment analysis tool)\n-Finds articles with opposite sentiments",
         "author": "JCBT377",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@JCBT377/basic-newsfeed-app-w?t="
     },
     {
@@ -8586,7 +8586,7 @@
         "title": "Debug Slack Bot not being able to read a thread history (auth permissions issue)",
         "description": "I'm building a Slack bot and it's currently complaining that it doesn't have sufficient permissions to read a thread.\n\nIf you're familiar with building Slack Bots, and have built an oAuth Slack App where you were able to read a user message this should be a very quick fix. Happy to hop on a quick call to debug together.\n\nAcceptance Criteria\nYou look at the code and fix the issue as to why it might not be reading the thread - included is both what permissions are requested and how it's handled\n\nTechnical Details\nUsing Typescript and the BoltJS SDJ from Slack\n\nLink to Project\nwww.heypal.chat - adding some new functionality for this service!",
         "author": "NicolaeRusan",
-        "posted_time": "7 minutes ago",
+        "posted_time": "22 minutes ago",
         "link": "https://replit.com/bounties/@NicolaeRusan/debug-slack-bot-not?t="
     }
 ]
