@@ -6806,7 +6806,7 @@ Open source Android Ethereum wallet prototype that is built with Kotlin and can 
 
 It should have ADD and PAY functionality.
 
-This is not meant to be a full working app. Just a simple prototype.",ricburton,14 hours ago,https://replit.com/bounties/@ricburton/android-polygon-wall?t=
+This is not meant to be a full working app. Just a simple prototype.",ricburton,15 hours ago,https://replit.com/bounties/@ricburton/android-polygon-wall?t=
 853,$90.00,due in 12 days,Basic Newsfeed App with Sentiment Analysis,"Hello,
 I'm trying to develop a MVP news aggregator app for a proof of concept. I'd like this app to run a basic sentiment analysis on headlines and then suggest the user an article on the same issue with a different sentiment rating. It doesn't have to be extremely functional (although it still must work) as long as the UI looks good.
 
@@ -6814,7 +6814,7 @@ Acceptance Criteria
 -Mobile App with RSS feed
 -Quality UI
 -Runs sentiment analysis on headlines  (use an open source sentiment analysis tool)
--Finds articles with opposite sentiments",JCBT377,13 hours ago,https://replit.com/bounties/@JCBT377/basic-newsfeed-app-w?t=
+-Finds articles with opposite sentiments",JCBT377,14 hours ago,https://replit.com/bounties/@JCBT377/basic-newsfeed-app-w?t=
 854,$27.00,due in 11 days,ESL student notifier ,"low level ESL students are not able to read complex
 Websites or emails to know if schools have been closed or teacher is absent.
 
@@ -6865,3 +6865,20 @@ N/A
 
 Technical Details
 N/A",GennaroCuofano,4 hours ago,https://replit.com/bounties/@GennaroCuofano/brand-sentiment-tool?t=
+860,$90.00,due in 7 days,GSheet to URL Converter - functional prototype that links to someone's GDrive and turns a pre-formatted Google sheet into a pretty webpage,"We all have lots recommendations that we share with friends. Sometime the recs are in our heads, other times they're just a handful of links, or maybe they're in a notes or google doc.
+
+It would save time and make it easier to share recs if there were a tool to quickly and simply turn these lists into pretty, easily shareable links. (think Partiful but for lists)
+
+Acceptance Criteria:
+account creation: a user can only use the product to convert a doc if they have an account, they can view others without an account
+user can log in/create an account with their email or Google Drive
+user can select which google sheet to sync to our app (call it Braid Exchange)
+the app will convert the contents of the app into a webpage preview
+user can edit the content from the preview if the data is wrong or missing
+user can save
+once user saves, they have a shareable URL
+Each generated URL should:
+display the content of the sheet
+show the author
+be public
+have a button to give kudos...",Quinn-LiLi,5 minutes ago,https://replit.com/bounties/@Quinn-LiLi/gsheet-to-url-conver?t=

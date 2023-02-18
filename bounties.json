@@ -8526,7 +8526,7 @@
         "title": "Android Polygon Wallet Prototype",
         "description": "I have written a simple Twitter thread: https://twitter.com/ricburton/status/1625484882892800002?s=20\n\nAcceptance Criteria\nOpen source Android Ethereum wallet prototype that is built with Kotlin and can connect to Polygon.\n\nIt should have ADD and PAY functionality.\n\nThis is not meant to be a full working app. Just a simple prototype.",
         "author": "ricburton",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@ricburton/android-polygon-wall?t="
     },
     {
@@ -8536,7 +8536,7 @@
         "title": "Basic Newsfeed App with Sentiment Analysis",
         "description": "Hello,\nI'm trying to develop a MVP news aggregator app for a proof of concept. I'd like this app to run a basic sentiment analysis on headlines and then suggest the user an article on the same issue with a different sentiment rating. It doesn't have to be extremely functional (although it still must work) as long as the UI looks good.\n\nAcceptance Criteria\n-Mobile App with RSS feed\n-Quality UI\n-Runs sentiment analysis on headlines  (use an open source sentiment analysis tool)\n-Finds articles with opposite sentiments",
         "author": "JCBT377",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@JCBT377/basic-newsfeed-app-w?t="
     },
     {
@@ -8598,5 +8598,15 @@
         "author": "GennaroCuofano",
         "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/brand-sentiment-tool?t="
+    },
+    {
+        "index": "860",
+        "price": "$90.00",
+        "due_days": "due in 7 days",
+        "title": "GSheet to URL Converter - functional prototype that links to someone's GDrive and turns a pre-formatted Google sheet into a pretty webpage",
+        "description": "We all have lots recommendations that we share with friends. Sometime the recs are in our heads, other times they're just a handful of links, or maybe they're in a notes or google doc.\n\nIt would save time and make it easier to share recs if there were a tool to quickly and simply turn these lists into pretty, easily shareable links. (think Partiful but for lists)\n\nAcceptance Criteria:\naccount creation: a user can only use the product to convert a doc if they have an account, they can view others without an account\nuser can log in/create an account with their email or Google Drive\nuser can select which google sheet to sync to our app (call it Braid Exchange)\nthe app will convert the contents of the app into a webpage preview\nuser can edit the content from the preview if the data is wrong or missing\nuser can save\nonce user saves, they have a shareable URL\nEach generated URL should:\ndisplay the content of the sheet\nshow the author\nbe public\nhave a button to give kudos...",
+        "author": "Quinn-LiLi",
+        "posted_time": "5 minutes ago",
+        "link": "https://replit.com/bounties/@Quinn-LiLi/gsheet-to-url-conver?t="
     }
 ]
