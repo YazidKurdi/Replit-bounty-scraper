@@ -8436,7 +8436,7 @@
         "title": "SEO Chrome Extension using OpenAI API",
         "description": "#Problem Description:\n\nWe are seeking a self-sufficient Chrome extension developer to create the MVP of a chrome extension for SEO, powered by the OpenAI API. The tool will be designed to assist website owners in improving their SEO performance by analyzing their website's keywords and content, and offering suggestions for improvements based on the most recent SEO best practices. The extension will have to link to the ChatGPT/OpenAI API to analyze website content and provide recommendations for improving SEO.\n\n#Acceptance Criteria:\n\nThe finished extension should ideally meet the following requirements:\n\u2022 Connect to the ChatGPT/OpenAI API to analyze website content and provide recommendations for improving SEO. Any engine is fine, whatever is most appropriate.\n\u2022 Keyword analysis: Analyze website keywords and suggest relevant keywords that can be added to the website's content to improve its SEO.\n\u2022 Nice to have in MVP - Content analysis: Analyze website content and suggest changes to imp...",
         "author": "rhodowen",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@rhodowen/seo-chrome-extension?t="
     },
     {
@@ -8446,7 +8446,7 @@
         "title": "As system to tip workers ",
         "description": "To replicate the website https://easytip.net/",
         "author": "activestudy",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@activestudy/as-system-to-tip-wor?t="
     },
     {
@@ -8456,7 +8456,7 @@
         "title": "A proposal to develop website like https://easytip.net/",
         "description": "A proposal with the cost to develop a website like https://easytip.net/",
         "author": "activestudy",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@activestudy/a-proposal-to-develo?t="
     },
     {
@@ -8486,7 +8486,7 @@
         "title": "Prompt to presentation ",
         "description": "Enable a user to create a first draft of a presentation with a simple prompt.\nIn addition, once the user opens up the presentation, be able also to edit that with a simple prompt.\nThus, create the whole presentation by leveraging AI for both copy and images.\n\nAcceptance Criteria\nN/A\n\nTechnical Details\nN/A",
         "author": "GennaroCuofano",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/prompt-to-presentati-1?t="
     },
     {
@@ -8496,7 +8496,7 @@
         "title": "Contextual Calendar App with Tagging, and Activity Tracking Capabilities",
         "description": "The purpose of this app is to track and report on the time spent by fractional employees across multiple employers and project tasks\nThe app should sync with Outlook/Microsoft Calendar and Gmail Calendar, and allow users augment their calendar data with additional context.\nThis data will be used for tracking work productivity and reporting across multiple employers and to the employee.\nThe app should be secure and task activity should only visible to authorized users (in other words I can only track hours relevant to me - as an employer or employee)\n\nPLEASE NOTE - This is a bare-bones proof of concept. As such the engineer should utilise existing template/technologies wherever possible to facilitate outcomes. There are no wireframes or screen designs available - and it is not my intention to create any).\n\nFeatures\nEmployee creates a profile and links their preferred calendar to it. They then then invite Employers to add agreed working expectations and to view daily,...",
         "author": "JamieHarris4",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@JamieHarris4/contextual-calendar?t="
     },
     {
@@ -8506,7 +8506,7 @@
         "title": "Scaling canvas that takes up all horiz and vert space in the browser w/o scroll bars",
         "description": "I'd like a raw (no JS or CSS framework), client-side only HTML/CSS/JS implementation of this app: https://spec-app-375606.web.app/#/\n\nAcceptance Criteria\nThe content should all stay on a single page as the browser window resizes w/o scrollbars.\n\nThe square with the circle and text should take up the maximum amount of space that it can based on its size, i.e. maintaining the aspect ratio.\n\nThe square should be able to be resized dynamically via the sliders.\n\nThe content inside the square should be sharp and clear as it's resized.\n\nThe square should be implemented as a  element; the circle and text should be painted inside the canvas.\n\nTechnical Details\nThe reference app is built with a few lines of Flutter and I'm searching for the right way to get the same behavior in raw HTML, CSS and JS w/o the use of any frameworks. My goal is to have a template for canvas-based content at a fixed logical size that scales to fit the available space while maintaining the aspect ra...",
         "author": "csells",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@csells/scaling-canvas-that?t="
     }
 ]
