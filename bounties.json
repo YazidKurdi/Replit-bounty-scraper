@@ -8516,7 +8516,7 @@
         "title": "Deployable Flask REST Server via command line",
         "description": "Looking for an extremely out of the box flask REST API on AWS that will connect to a  mongoDB hosted db. I am looking to do as little configuration as possible to access the API via the internet. The end state should be an accessible API\nThe API should also have authentication middleware\nThe API should auto refresh (but not rebuild the database) whenever a new commit is merged into master, this should include adding any packages that werent' there before.\nI should be able to set this up again and again with new IPs, separate security groups, etc.\nNecessary permissions are added, new permissions are easy to add (to a user, group, role, etc)\nFeel free to use cloudformation if that is useful, but I would need to be instructed how it works.\n\nMy core competency is in front-end and nodejs work, so I would need to be instructed on what to do to get the project to the end state of easy deployments.\n\nThe ideal case of this, is that I can execute a script from the command lin...",
         "author": "simistern",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@simistern/deployable-flask-res?t="
     },
     {
@@ -8586,7 +8586,7 @@
         "title": "Debug Slack Bot not being able to read a thread history (auth permissions issue)",
         "description": "I'm building a Slack bot and it's currently complaining that it doesn't have sufficient permissions to read a thread.\n\nIf you're familiar with building Slack Bots, and have built an oAuth Slack App where you were able to read a user message this should be a very quick fix. Happy to hop on a quick call to debug together.\n\nAcceptance Criteria\nYou look at the code and fix the issue as to why it might not be reading the thread - included is both what permissions are requested and how it's handled\n\nTechnical Details\nUsing Typescript and the BoltJS SDJ from Slack\n\nLink to Project\nwww.heypal.chat - adding some new functionality for this service!",
         "author": "NicolaeRusan",
-        "posted_time": "33 minutes ago",
+        "posted_time": "42 minutes ago",
         "link": "https://replit.com/bounties/@NicolaeRusan/debug-slack-bot-not?t="
     },
     {
@@ -8596,7 +8596,7 @@
         "title": "Brand Sentiment Tool with alerting ",
         "description": "An AI tool with nice UX, which tracks companies' brand sentiment based on the available data from search trends, keywords, and semantic sentiment around that.\n\nThe user can set up an alert to receive daily notifications about its brand with the most searched keywords related to the brand and the sentiment around them.\n\nAcceptance Criteria\nN/A\n\nTechnical Details\nN/A",
         "author": "GennaroCuofano",
-        "posted_time": "6 minutes ago",
+        "posted_time": "15 minutes ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/brand-sentiment-tool?t="
     }
 ]
