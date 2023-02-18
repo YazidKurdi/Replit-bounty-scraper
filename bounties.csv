@@ -6788,7 +6788,7 @@ The content inside the square should be sharp and clear as it's resized.
 The square should be implemented as a  element; the circle and text should be painted inside the canvas.
 
 Technical Details
-The reference app is built with a few lines of Flutter and I'm searching for the right way to get the same behavior in raw HTML, CSS and JS w/o the use of any frameworks. My goal is to have a template for canvas-based content at a fixed logical size that scales to fit the available space while maintaining the aspect ra...",csells,15 hours ago,https://replit.com/bounties/@csells/scaling-canvas-that?t=
+The reference app is built with a few lines of Flutter and I'm searching for the right way to get the same behavior in raw HTML, CSS and JS w/o the use of any frameworks. My goal is to have a template for canvas-based content at a fixed logical size that scales to fit the available space while maintaining the aspect ra...",csells,16 hours ago,https://replit.com/bounties/@csells/scaling-canvas-that?t=
 851,$450.00,closed,Deployable Flask REST Server via command line,"Looking for an extremely out of the box flask REST API on AWS that will connect to a  mongoDB hosted db. I am looking to do as little configuration as possible to access the API via the internet. The end state should be an accessible API
 The API should also have authentication middleware
 The API should auto refresh (but not rebuild the database) whenever a new commit is merged into master, this should include adding any packages that werent' there before.
@@ -6820,7 +6820,7 @@ Websites or emails to know if schools have been closed or teacher is absent.
 
 Acceptance Criteria
 I want an app that has simple YES/NO image that pops up daily so students can check if there is class without having to come in. App should be set to yes as default and admin should be able to change it to NO.
-Yes should be a big green square, No should be red. translatable to all languages. Especially Farsi, Arabic, Turkish and Kurdish",MariaOstapenko,51 minutes ago,https://replit.com/bounties/@MariaOstapenko/esl-student-notifier?t=
+Yes should be a big green square, No should be red. translatable to all languages. Especially Farsi, Arabic, Turkish and Kurdish",MariaOstapenko,1 hour ago,https://replit.com/bounties/@MariaOstapenko/esl-student-notifier?t=
 855,$100.80,due in 3 days,Link existing React app to Hubspot for email capture,"I have a landing page build with react
 https://content-club.vercel.app/
 I would like to connect the Sign up section of the page to Hubspot API to be able to capture subscriber emails
@@ -6829,4 +6829,17 @@ Acceptance Criteria
 Solution includes email validation
 Gives user error if they enter something that is not an email
 Gives user indication of success if sign up is successful
-Subscriber emial captured on hubspot",KamalMango1,9 minutes ago,https://replit.com/bounties/@KamalMango1/link-existing-react?t=
+Subscriber emial captured on hubspot",KamalMango1,20 minutes ago,https://replit.com/bounties/@KamalMango1/link-existing-react?t=
+856,$180.00,due in 3 days,Use Astria API to finetune stable diffusion,"I would like an experience developer to build a Node Express server or a backend that would  finetune stable diffusion with dreambooth with a set of images through the Astria API as well as handle Image and video generation of a finetuned model
+
+Here are docs for the Astria API
+https://www.astria.ai/api/docs
+
+Acceptance Criteria
+API has to handle both creating a finetune
+API has to handle Image and Video generation after a model is finetuned
+Need to be able to call on the api from swift for a native mobile app or from a web app
+Need to be able to use API to create a finetune of a set of images
+has to handle the callback url where Astria sends the finetuned model
+API notifies when the finetuned model is done
+Need to be able make a call to the API with a video prompt and get a video of finetuned subject back",KamalMango1,29 seconds ago,https://replit.com/bounties/@KamalMango1/use-astria-api-to-fi?t=
