@@ -6864,7 +6864,7 @@ Acceptance Criteria
 N/A
 
 Technical Details
-N/A",GennaroCuofano,14 hours ago,https://replit.com/bounties/@GennaroCuofano/brand-sentiment-tool?t=
+N/A",GennaroCuofano,15 hours ago,https://replit.com/bounties/@GennaroCuofano/brand-sentiment-tool?t=
 860,$90.00,due in 7 days,GSheet to URL Converter - functional prototype that links to someone's GDrive and turns a pre-formatted Google sheet into a pretty webpage,"We all have lots recommendations that we share with friends. Sometime the recs are in our heads, other times they're just a handful of links, or maybe they're in a notes or google doc.
 
 It would save time and make it easier to share recs if there were a tool to quickly and simply turn these lists into pretty, easily shareable links. (think Partiful but for lists)
@@ -6894,7 +6894,7 @@ Provide the site as a Repl.
 
 Timelines / Milestones
 Logos and website links will be provided by email.
-Quick solution needed. Please be done by February 23.",liberatollc,10 hours ago,https://replit.com/bounties/@liberatollc/simple-landing-page?t=
+Quick solution needed. Please be done by February 23.",liberatollc,11 hours ago,https://replit.com/bounties/@liberatollc/simple-landing-page?t=
 862,$20.00,closed,Need help with a discord bot.  I want to actually execute the /imagine command in Midjourney from Discord message.,"i'm using discord.js.  i'm currently posting the text '/imagine [INSERTEXAMPLEHERE]' but I want to actually be able to run the /imagine command versus just paste the text into the channel.
 
 import { Client, GatewayIntentBits, TextChannel } from ""discord.js"";
@@ -6971,7 +6971,7 @@ Technical Details
 https://lablab.ai/t/whisper-transcription-and-speaker-identification
 https://github.com/ahmetoner/whisper-asr-webservice
 
-Link to Project",SatishMummadi,4 hours ago,https://replit.com/bounties/@SatishMummadi/whisper-pyannote-for?t=
+Link to Project",SatishMummadi,5 hours ago,https://replit.com/bounties/@SatishMummadi/whisper-pyannote-for?t=
 866,$50.00,due in 6 days,Kaboom.JS terrain system,"I need a 2D terrain system in Kaboom.JS, where I can have infinitely extending ground with a chosen texture (e.g. grass) at varying heights. It should also come with a water system, where I can mark an area to be a body of water that interacts well enough with other objects.
 
 Acceptance Criteria
