@@ -8592,17 +8592,17 @@
     {
         "index": "859",
         "price": "$450.00",
-        "due_days": "due in 7 days",
+        "due_days": "due in 6 days",
         "title": "Brand Sentiment Tool with alerting ",
         "description": "An AI tool with nice UX, which tracks companies' brand sentiment based on the available data from search trends, keywords, and semantic sentiment around that.\n\nThe user can set up an alert to receive daily notifications about its brand with the most searched keywords related to the brand and the sentiment around them.\n\nAcceptance Criteria\nN/A\n\nTechnical Details\nN/A",
         "author": "GennaroCuofano",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/brand-sentiment-tool?t="
     },
     {
         "index": "860",
         "price": "$90.00",
-        "due_days": "due in 7 days",
+        "due_days": "due in 6 days",
         "title": "GSheet to URL Converter - functional prototype that links to someone's GDrive and turns a pre-formatted Google sheet into a pretty webpage",
         "description": "We all have lots recommendations that we share with friends. Sometime the recs are in our heads, other times they're just a handful of links, or maybe they're in a notes or google doc.\n\nIt would save time and make it easier to share recs if there were a tool to quickly and simply turn these lists into pretty, easily shareable links. (think Partiful but for lists)\n\nAcceptance Criteria:\naccount creation: a user can only use the product to convert a doc if they have an account, they can view others without an account\nuser can log in/create an account with their email or Google Drive\nuser can select which google sheet to sync to our app (call it Braid Exchange)\nthe app will convert the contents of the app into a webpage preview\nuser can edit the content from the preview if the data is wrong or missing\nuser can save\nonce user saves, they have a shareable URL\nEach generated URL should:\ndisplay the content of the sheet\nshow the author\nbe public\nhave a button to give kudos...",
         "author": "Quinn-LiLi",
@@ -8612,11 +8612,11 @@
     {
         "index": "861",
         "price": "$45.00",
-        "due_days": "due in 6 days",
+        "due_days": "due in 5 days",
         "title": "Simple landing page presenting visitors with 2 choices",
         "description": "I need a very simple but attractive landing page which would offer visitors a choice of two other websites to visit, using the website logos as large buttons. You are welcome to use an existing template or framework provided that it looks nice.\n\nAcceptance Criteria\nSimple, single page website\nCool focus effect when the user mouseovers one of the two options\n\nTechnical Details\nHTML and CSS only\nProvide the site as a Repl.\n\nTimelines / Milestones\nLogos and website links will be provided by email.\nQuick solution needed. Please be done by February 23.",
         "author": "liberatollc",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@liberatollc/simple-landing-page?t="
     },
     {
@@ -8632,7 +8632,7 @@
     {
         "index": "863",
         "price": "$1,020.60",
-        "due_days": "due in 12 days",
+        "due_days": "due in 11 days",
         "title": "Chrome extension: AI content creation assistant",
         "description": "We need a chrome extension based AI content creation assistant. The chrome extension will complement our main web app\n\nThe tool should work like the following:\n\nicon pops up in any input field on the web (slack, notion, gmail, etc)\nthe extension should include an autocomplete feature\nMain extension features\n    Compose text (blog posts, essays, short stories, emails, etc)\n        User prompts tool in the small input box, the output is generated and injected into the page\n    Transform text (rephrase, expand, shorten text)\n    Respond (Slack, Whatsapp, messages, emails)\n        The prompt sent to the model includes the email/message you're responding to. If the email chain is too long it needs to be truncated.\n        It should complete entire emails and messages\nSupport for newlines\nSupport for default text streaming\nIt should use OpenAI GPT3\n\nAcceptance Criteria\nThe code has to be clean and well documented\nMinimal and clean UX (Figma design will be given)\n    compl...",
         "author": "juancaruiz",
@@ -8642,7 +8642,7 @@
     {
         "index": "864",
         "price": "$540.00",
-        "due_days": "due in 15 days",
+        "due_days": "due in 14 days",
         "title": "DB Gas App Frontend",
         "description": "Make a polling web app that looks like the Gas App (but on web) where people can hook up a relational database (such as PostGres) with random prompts, and respective poll options for each prompt. Users can click on each button and it takes them to the next option.\n\nAcceptance Criteria\nThe app\nbe integrated with any relational databases (e.g. postgres sql) by pasting the url endpoint or sign in with providers such as Firebase or Supabase\nonce hooked up to the db, the front end populates with prompts and buttons\nuser clicking the button will save that as a vote for that option for that user account\n\nTechnical Details\nok to just be a prototype\ndon't need to assume more than 1000 rows",
         "author": "gbintech",
@@ -8652,17 +8652,17 @@
     {
         "index": "865",
         "price": "$90.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Whisper + Pyannote for live audio transcription and Speaker diarization",
         "description": "I need a Python Flask app with Whisper and Pyannote. The end-point should be able to take audio chunks and transcribe using Whisper and also use Pyannote to generate Speaker labels for the live transcription. Again I am not looking to transcribe youtube or audio files. Just the live stream from Microphone\n\nAcceptance Criteria\nPython Flask app with an end-point to take audio stream from websocket and return text (transcribed) with Speaker labels (Speaker 1, Speaker2 etc). Max # of speakers 3 (Predefined).\n\nTechnical Details\nhttps://lablab.ai/t/whisper-transcription-and-speaker-identification\nhttps://github.com/ahmetoner/whisper-asr-webservice\n\nLink to Project",
         "author": "SatishMummadi",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@SatishMummadi/whisper-pyannote-for?t="
     },
     {
         "index": "866",
         "price": "$50.00",
-        "due_days": "due in 6 days",
+        "due_days": "due in 5 days",
         "title": "Kaboom.JS terrain system",
         "description": "I need a 2D terrain system in Kaboom.JS, where I can have infinitely extending ground with a chosen texture (e.g. grass) at varying heights. It should also come with a water system, where I can mark an area to be a body of water that interacts well enough with other objects.\n\nAcceptance Criteria\nMust have worked with Kaboom.JS before\nMust be using Kaboom 3000\nFinal result should be in vanilla JavaScript (feel free to compile from TS as long as it doesn't have any extra problems along with it.",
         "author": "codingMASTER398",
@@ -8672,7 +8672,7 @@
     {
         "index": "867",
         "price": "$65.00",
-        "due_days": "due in 6 days",
+        "due_days": "due in 5 days",
         "title": "MVP iOS App - Spotify insights between friends ",
         "description": "Discovering and sharing music is easy on Spotify, learning about how your tastes and behaviors compare with your friends is hard. We want to change that.\n\nAcceptance Criteria\niOS app\n2 or more users can connect on the app\nIf they are connected, they can enter a song, album or artist and see who has listened and in what order (based on first listen)\nusers can see who they are connected with on the app\nusers can send a text to their friends to invite them to the app\n\nTimelines / Milestones\nUser installs and creates an account by linking their spotify via the authorization code flow",
         "author": "Quinn-LiLi",
@@ -8682,7 +8682,7 @@
     {
         "index": "868",
         "price": "$45.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Set up a replit from an existing application",
         "description": "I have an existing ASP.NET MVC application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.\n\nAcceptance Criteria\nThe application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC",
         "author": "VitPlanocka",

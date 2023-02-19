@@ -6856,7 +6856,7 @@ Using Typescript and the BoltJS SDJ from Slack
 
 Link to Project
 www.heypal.chat - adding some new functionality for this service!",NicolaeRusan,16 hours ago,https://replit.com/bounties/@NicolaeRusan/debug-slack-bot-not?t=
-859,$450.00,due in 7 days,Brand Sentiment Tool with alerting ,"An AI tool with nice UX, which tracks companies' brand sentiment based on the available data from search trends, keywords, and semantic sentiment around that.
+859,$450.00,due in 6 days,Brand Sentiment Tool with alerting ,"An AI tool with nice UX, which tracks companies' brand sentiment based on the available data from search trends, keywords, and semantic sentiment around that.
 
 The user can set up an alert to receive daily notifications about its brand with the most searched keywords related to the brand and the sentiment around them.
 
@@ -6864,8 +6864,8 @@ Acceptance Criteria
 N/A
 
 Technical Details
-N/A",GennaroCuofano,18 hours ago,https://replit.com/bounties/@GennaroCuofano/brand-sentiment-tool?t=
-860,$90.00,due in 7 days,GSheet to URL Converter - functional prototype that links to someone's GDrive and turns a pre-formatted Google sheet into a pretty webpage,"We all have lots recommendations that we share with friends. Sometime the recs are in our heads, other times they're just a handful of links, or maybe they're in a notes or google doc.
+N/A",GennaroCuofano,19 hours ago,https://replit.com/bounties/@GennaroCuofano/brand-sentiment-tool?t=
+860,$90.00,due in 6 days,GSheet to URL Converter - functional prototype that links to someone's GDrive and turns a pre-formatted Google sheet into a pretty webpage,"We all have lots recommendations that we share with friends. Sometime the recs are in our heads, other times they're just a handful of links, or maybe they're in a notes or google doc.
 
 It would save time and make it easier to share recs if there were a tool to quickly and simply turn these lists into pretty, easily shareable links. (think Partiful but for lists)
 
@@ -6882,7 +6882,7 @@ display the content of the sheet
 show the author
 be public
 have a button to give kudos...",Quinn-LiLi,15 hours ago,https://replit.com/bounties/@Quinn-LiLi/gsheet-to-url-conver?t=
-861,$45.00,due in 6 days,Simple landing page presenting visitors with 2 choices,"I need a very simple but attractive landing page which would offer visitors a choice of two other websites to visit, using the website logos as large buttons. You are welcome to use an existing template or framework provided that it looks nice.
+861,$45.00,due in 5 days,Simple landing page presenting visitors with 2 choices,"I need a very simple but attractive landing page which would offer visitors a choice of two other websites to visit, using the website logos as large buttons. You are welcome to use an existing template or framework provided that it looks nice.
 
 Acceptance Criteria
 Simple, single page website
@@ -6894,7 +6894,7 @@ Provide the site as a Repl.
 
 Timelines / Milestones
 Logos and website links will be provided by email.
-Quick solution needed. Please be done by February 23.",liberatollc,14 hours ago,https://replit.com/bounties/@liberatollc/simple-landing-page?t=
+Quick solution needed. Please be done by February 23.",liberatollc,15 hours ago,https://replit.com/bounties/@liberatollc/simple-landing-page?t=
 862,$20.00,closed,Need help with a discord bot.  I want to actually execute the /imagine command in Midjourney from Discord message.,"i'm using discord.js.  i'm currently posting the text '/imagine [INSERTEXAMPLEHERE]' but I want to actually be able to run the /imagine command versus just paste the text into the channel.
 
 import { Client, GatewayIntentBits, TextChannel } from ""discord.js"";
@@ -6930,7 +6930,7 @@ export default async (req: any, res: any) => {
   if (req.method === ""POST"") {
     try {
       if ...",aidantorrence,13 hours ago,https://replit.com/bounties/@aidantorrence/need-help-with-a-dis?t=
-863,"$1,020.60",due in 12 days,Chrome extension: AI content creation assistant,"We need a chrome extension based AI content creation assistant. The chrome extension will complement our main web app
+863,"$1,020.60",due in 11 days,Chrome extension: AI content creation assistant,"We need a chrome extension based AI content creation assistant. The chrome extension will complement our main web app
 
 The tool should work like the following:
 
@@ -6951,7 +6951,7 @@ Acceptance Criteria
 The code has to be clean and well documented
 Minimal and clean UX (Figma design will be given)
     compl...",juancaruiz,13 hours ago,https://replit.com/bounties/@juancaruiz/chrome-extension-ai?t=
-864,$540.00,due in 15 days,DB Gas App Frontend,"Make a polling web app that looks like the Gas App (but on web) where people can hook up a relational database (such as PostGres) with random prompts, and respective poll options for each prompt. Users can click on each button and it takes them to the next option.
+864,$540.00,due in 14 days,DB Gas App Frontend,"Make a polling web app that looks like the Gas App (but on web) where people can hook up a relational database (such as PostGres) with random prompts, and respective poll options for each prompt. Users can click on each button and it takes them to the next option.
 
 Acceptance Criteria
 The app
@@ -6962,7 +6962,7 @@ user clicking the button will save that as a vote for that option for that user 
 Technical Details
 ok to just be a prototype
 don't need to assume more than 1000 rows",gbintech,13 hours ago,https://replit.com/bounties/@gbintech/db-gas-app-frontend?t=
-865,$90.00,due in 4 days,Whisper + Pyannote for live audio transcription and Speaker diarization,"I need a Python Flask app with Whisper and Pyannote. The end-point should be able to take audio chunks and transcribe using Whisper and also use Pyannote to generate Speaker labels for the live transcription. Again I am not looking to transcribe youtube or audio files. Just the live stream from Microphone
+865,$90.00,due in 3 days,Whisper + Pyannote for live audio transcription and Speaker diarization,"I need a Python Flask app with Whisper and Pyannote. The end-point should be able to take audio chunks and transcribe using Whisper and also use Pyannote to generate Speaker labels for the live transcription. Again I am not looking to transcribe youtube or audio files. Just the live stream from Microphone
 
 Acceptance Criteria
 Python Flask app with an end-point to take audio stream from websocket and return text (transcribed) with Speaker labels (Speaker 1, Speaker2 etc). Max # of speakers 3 (Predefined).
@@ -6971,14 +6971,14 @@ Technical Details
 https://lablab.ai/t/whisper-transcription-and-speaker-identification
 https://github.com/ahmetoner/whisper-asr-webservice
 
-Link to Project",SatishMummadi,8 hours ago,https://replit.com/bounties/@SatishMummadi/whisper-pyannote-for?t=
-866,$50.00,due in 6 days,Kaboom.JS terrain system,"I need a 2D terrain system in Kaboom.JS, where I can have infinitely extending ground with a chosen texture (e.g. grass) at varying heights. It should also come with a water system, where I can mark an area to be a body of water that interacts well enough with other objects.
+Link to Project",SatishMummadi,9 hours ago,https://replit.com/bounties/@SatishMummadi/whisper-pyannote-for?t=
+866,$50.00,due in 5 days,Kaboom.JS terrain system,"I need a 2D terrain system in Kaboom.JS, where I can have infinitely extending ground with a chosen texture (e.g. grass) at varying heights. It should also come with a water system, where I can mark an area to be a body of water that interacts well enough with other objects.
 
 Acceptance Criteria
 Must have worked with Kaboom.JS before
 Must be using Kaboom 3000
 Final result should be in vanilla JavaScript (feel free to compile from TS as long as it doesn't have any extra problems along with it.",codingMASTER398,8 hours ago,https://replit.com/bounties/@codingMASTER398/kaboomjs-terrain-sys?t=
-867,$65.00,due in 6 days,MVP iOS App - Spotify insights between friends ,"Discovering and sharing music is easy on Spotify, learning about how your tastes and behaviors compare with your friends is hard. We want to change that.
+867,$65.00,due in 5 days,MVP iOS App - Spotify insights between friends ,"Discovering and sharing music is easy on Spotify, learning about how your tastes and behaviors compare with your friends is hard. We want to change that.
 
 Acceptance Criteria
 iOS app
@@ -6989,7 +6989,7 @@ users can send a text to their friends to invite them to the app
 
 Timelines / Milestones
 User installs and creates an account by linking their spotify via the authorization code flow",Quinn-LiLi,8 hours ago,https://replit.com/bounties/@Quinn-LiLi/mvp-ios-app-spotify?t=
-868,$45.00,due in 4 days,Set up a replit from an existing application,"I have an existing ASP.NET MVC application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.
+868,$45.00,due in 3 days,Set up a replit from an existing application,"I have an existing ASP.NET MVC application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.
 
 Acceptance Criteria
 The application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC",VitPlanocka,3 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from?t=
