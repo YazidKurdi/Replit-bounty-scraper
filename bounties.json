@@ -8636,7 +8636,7 @@
         "title": "Chrome extension: AI content creation assistant",
         "description": "We need a chrome extension based AI content creation assistant. The chrome extension will complement our main web app\n\nThe tool should work like the following:\n\nicon pops up in any input field on the web (slack, notion, gmail, etc)\nthe extension should include an autocomplete feature\nMain extension features\n    Compose text (blog posts, essays, short stories, emails, etc)\n        User prompts tool in the small input box, the output is generated and injected into the page\n    Transform text (rephrase, expand, shorten text)\n    Respond (Slack, Whatsapp, messages, emails)\n        The prompt sent to the model includes the email/message you're responding to. If the email chain is too long it needs to be truncated.\n        It should complete entire emails and messages\nSupport for newlines\nSupport for default text streaming\nIt should use OpenAI GPT3\n\nAcceptance Criteria\nThe code has to be clean and well documented\nMinimal and clean UX (Figma design will be given)\n    compl...",
         "author": "juancaruiz",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@juancaruiz/chrome-extension-ai?t="
     },
     {
@@ -8676,7 +8676,7 @@
         "title": "MVP iOS App - Spotify insights between friends ",
         "description": "Discovering and sharing music is easy on Spotify, learning about how your tastes and behaviors compare with your friends is hard. We want to change that.\n\nAcceptance Criteria\niOS app\n2 or more users can connect on the app\nIf they are connected, they can enter a song, album or artist and see who has listened and in what order (based on first listen)\nusers can see who they are connected with on the app\nusers can send a text to their friends to invite them to the app\n\nTimelines / Milestones\nUser installs and creates an account by linking their spotify via the authorization code flow",
         "author": "Quinn-LiLi",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@Quinn-LiLi/mvp-ios-app-spotify?t="
     }
 ]
