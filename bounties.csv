@@ -6950,7 +6950,7 @@ It should use OpenAI GPT3
 Acceptance Criteria
 The code has to be clean and well documented
 Minimal and clean UX (Figma design will be given)
-    compl...",juancaruiz,20 hours ago,https://replit.com/bounties/@juancaruiz/chrome-extension-ai?t=
+    compl...",juancaruiz,21 hours ago,https://replit.com/bounties/@juancaruiz/chrome-extension-ai?t=
 864,$540.00,due in 14 days,DB Gas App Frontend,"Make a polling web app that looks like the Gas App (but on web) where people can hook up a relational database (such as PostGres) with random prompts, and respective poll options for each prompt. Users can click on each button and it takes them to the next option.
 
 Acceptance Criteria
@@ -6988,11 +6988,11 @@ users can see who they are connected with on the app
 users can send a text to their friends to invite them to the app
 
 Timelines / Milestones
-User installs and creates an account by linking their spotify via the authorization code flow",Quinn-LiLi,15 hours ago,https://replit.com/bounties/@Quinn-LiLi/mvp-ios-app-spotify?t=
+User installs and creates an account by linking their spotify via the authorization code flow",Quinn-LiLi,16 hours ago,https://replit.com/bounties/@Quinn-LiLi/mvp-ios-app-spotify?t=
 868,$45.00,due in 3 days,Set up a replit from an existing application,"I have an existing ASP.NET MVC application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.
 
 Acceptance Criteria
-The application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC",VitPlanocka,10 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from?t=
+The application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC",VitPlanocka,11 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from?t=
 869,$90.00,due in 3 days,Whisper + Pyannote for live audio transcription and Speaker diarization,"I need a Python Flask app with Whisper and Pyannote. The end-point should be able to take audio chunks and transcribe using Whisper and also use Pyannote to generate Speaker labels for the live transcription. Again I am not looking to transcribe youtube or audio files. Just the live stream from Microphone
 
 Acceptance Criteria
@@ -7036,4 +7036,4 @@ When in Obsidian, there is a button somewhere on the UI and a Command Palette co
 When that command is selected, the plugin scans the current document for the Markdown Task syntax and sends those tasks as individual tasks into ToDoist, with a link back to the Obsidian note. It also parses any additional Todoist context on the to-do (due date, project, priority, etc.), as the Drafts plugin does.
 The plugin has an area in the settings for adding/updating the user's Todoist API token
 
-Resource...",michaelssorense,3 minutes ago,https://replit.com/bounties/@michaelssorense/adapt-existing-plugi?t=
+Resource...",michaelssorense,13 minutes ago,https://replit.com/bounties/@michaelssorense/adapt-existing-plugi?t=

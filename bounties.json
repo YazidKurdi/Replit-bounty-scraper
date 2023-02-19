@@ -8636,7 +8636,7 @@
         "title": "Chrome extension: AI content creation assistant",
         "description": "We need a chrome extension based AI content creation assistant. The chrome extension will complement our main web app\n\nThe tool should work like the following:\n\nicon pops up in any input field on the web (slack, notion, gmail, etc)\nthe extension should include an autocomplete feature\nMain extension features\n    Compose text (blog posts, essays, short stories, emails, etc)\n        User prompts tool in the small input box, the output is generated and injected into the page\n    Transform text (rephrase, expand, shorten text)\n    Respond (Slack, Whatsapp, messages, emails)\n        The prompt sent to the model includes the email/message you're responding to. If the email chain is too long it needs to be truncated.\n        It should complete entire emails and messages\nSupport for newlines\nSupport for default text streaming\nIt should use OpenAI GPT3\n\nAcceptance Criteria\nThe code has to be clean and well documented\nMinimal and clean UX (Figma design will be given)\n    compl...",
         "author": "juancaruiz",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@juancaruiz/chrome-extension-ai?t="
     },
     {
@@ -8676,7 +8676,7 @@
         "title": "MVP iOS App - Spotify insights between friends ",
         "description": "Discovering and sharing music is easy on Spotify, learning about how your tastes and behaviors compare with your friends is hard. We want to change that.\n\nAcceptance Criteria\niOS app\n2 or more users can connect on the app\nIf they are connected, they can enter a song, album or artist and see who has listened and in what order (based on first listen)\nusers can see who they are connected with on the app\nusers can send a text to their friends to invite them to the app\n\nTimelines / Milestones\nUser installs and creates an account by linking their spotify via the authorization code flow",
         "author": "Quinn-LiLi",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@Quinn-LiLi/mvp-ios-app-spotify?t="
     },
     {
@@ -8686,7 +8686,7 @@
         "title": "Set up a replit from an existing application",
         "description": "I have an existing ASP.NET MVC application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.\n\nAcceptance Criteria\nThe application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC",
         "author": "VitPlanocka",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from?t="
     },
     {
@@ -8716,7 +8716,7 @@
         "title": "Adapt Existing Plugin to Obsidian (Send Markdown Tasks to Todoist)",
         "description": "I use Drafts for note taking and use this plugin (https://actions.getdrafts.com/a/1ld) to send any markdown tasks (\" - [ ] Sample Task\") into Todoist.\n\nI'd like to do all my my writing and note-taking in Obsidian instead (http://obsidian.md) and would like to adapt this plugin to work in Obsidian.\n\nAcceptance Criteria\nA ready-to-install plugin for Obsidian that has the same functionality as the Drafts plugin (https://actions.getdrafts.com/a/1ld)\nWhen in Obsidian, there is a button somewhere on the UI and a Command Palette command titled \"Send Tasks to ToDoist\"\nWhen that command is selected, the plugin scans the current document for the Markdown Task syntax and sends those tasks as individual tasks into ToDoist, with a link back to the Obsidian note. It also parses any additional Todoist context on the to-do (due date, project, priority, etc.), as the Drafts plugin does.\nThe plugin has an area in the settings for adding/updating the user's Todoist API token\n\nResource...",
         "author": "michaelssorense",
-        "posted_time": "3 minutes ago",
+        "posted_time": "13 minutes ago",
         "link": "https://replit.com/bounties/@michaelssorense/adapt-existing-plugi?t="
     }
 ]
