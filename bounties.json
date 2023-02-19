@@ -8646,7 +8646,7 @@
         "title": "DB Gas App Frontend",
         "description": "Make a polling web app that looks like the Gas App (but on web) where people can hook up a relational database (such as PostGres) with random prompts, and respective poll options for each prompt. Users can click on each button and it takes them to the next option.\n\nAcceptance Criteria\nThe app\nbe integrated with any relational databases (e.g. postgres sql) by pasting the url endpoint or sign in with providers such as Firebase or Supabase\nonce hooked up to the db, the front end populates with prompts and buttons\nuser clicking the button will save that as a vote for that option for that user account\n\nTechnical Details\nok to just be a prototype\ndon't need to assume more than 1000 rows",
         "author": "gbintech",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@gbintech/db-gas-app-frontend?t="
     },
     {
@@ -8706,7 +8706,7 @@
         "title": "Marine radar data processing with C++",
         "description": "We are looking for someone to develop C++ software that processes marine radar data (PPI scan), converts it from polar to cartesian grid and extracts contours as polygons. The task at hand shouldn't take more than 1 day in our estimation.\n\nPotential steps\nGiven the above, we believe following steps are required:\nGeo reference with epsg 3857\nConvert data from polar to cartesian grid\nInterpolate cartesian grid to fill all pixels (within scan circle)\nGenerate contours on cartesian grid\n\nInput\nTwo dimensional array in polar grid (theta x rho) of byte type\nGeo reference for polar center and scan range in meters\nRequired resolution of cartesian grid\nIntervals for contours extraction\n\nOutput\nCartesian grid with requested resolution\nContours polygons in GeoJSON\n\nSamples\nhttps://gist.github.com/orca-hydromancer/fb090314defa319e9cfbbdee3e37f7e7\ninput.json: array of 250x250 byte values (assume range of 2778 meters, polar center latitude of 59.86879 and longitude of 10.73494)\nc...",
         "author": "hydromancer0",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@hydromancer0/marine-radar-data-pr?t="
     },
     {
@@ -8716,7 +8716,7 @@
         "title": "Adapt Existing Plugin to Obsidian (Send Markdown Tasks to Todoist)",
         "description": "I use Drafts for note taking and use this plugin (https://actions.getdrafts.com/a/1ld) to send any markdown tasks (\" - [ ] Sample Task\") into Todoist.\n\nI'd like to do all my my writing and note-taking in Obsidian instead (http://obsidian.md) and would like to adapt this plugin to work in Obsidian.\n\nAcceptance Criteria\nA ready-to-install plugin for Obsidian that has the same functionality as the Drafts plugin (https://actions.getdrafts.com/a/1ld)\nWhen in Obsidian, there is a button somewhere on the UI and a Command Palette command titled \"Send Tasks to ToDoist\"\nWhen that command is selected, the plugin scans the current document for the Markdown Task syntax and sends those tasks as individual tasks into ToDoist, with a link back to the Obsidian note. It also parses any additional Todoist context on the to-do (due date, project, priority, etc.), as the Drafts plugin does.\nThe plugin has an area in the settings for adding/updating the user's Todoist API token\n\nResource...",
         "author": "michaelssorense",
-        "posted_time": "13 minutes ago",
+        "posted_time": "23 minutes ago",
         "link": "https://replit.com/bounties/@michaelssorense/adapt-existing-plugi?t="
     }
 ]
