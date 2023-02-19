@@ -7047,7 +7047,7 @@ If not, uninstall app and re-install and you should see above error
 Screenshot of error: https://shopify.click/91426-26945-97404-96961-9656.png
 
 Acceptance criteria
-Fix authentication issue so that the address is resolved and on install the shopify app requests user to accept auth and scope permissions",SamuelAbaka-Woo,27 minutes ago,https://replit.com/bounties/@SamuelAbaka-Woo/fix-shopify-app-auth?t=
+Fix authentication issue so that the address is resolved and on install the shopify app requests user to accept auth and scope permissions",SamuelAbaka-Woo,37 minutes ago,https://replit.com/bounties/@SamuelAbaka-Woo/fix-shopify-app-auth?t=
 873,$67.50,due in 9 days,Scrape a Website and Populate a Table,"Create a tool that scrapes the data from a specific apartment building's website and then populate a table with the pertinent data about each available apartment including:
 Unit number
 Unit Type
@@ -7060,4 +7060,4 @@ Acceptance Criteria
 Tool should output the data in CSV format
 Should be able to run the tool daily
 
-Technical Details",conor89,22 minutes ago,https://replit.com/bounties/@conor89/scrape-a-website-and?t=
+Technical Details",conor89,31 minutes ago,https://replit.com/bounties/@conor89/scrape-a-website-and?t=
