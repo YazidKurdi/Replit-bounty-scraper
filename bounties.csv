@@ -6929,7 +6929,7 @@ export default async (req: any, res: any) => {
   });
   if (req.method === ""POST"") {
     try {
-      if ...",aidantorrence,10 hours ago,https://replit.com/bounties/@aidantorrence/need-help-with-a-dis?t=
+      if ...",aidantorrence,11 hours ago,https://replit.com/bounties/@aidantorrence/need-help-with-a-dis?t=
 863,"$1,020.60",due in 12 days,Chrome extension: AI content creation assistant,"We need a chrome extension based AI content creation assistant. The chrome extension will complement our main web app
 
 The tool should work like the following:
@@ -6977,7 +6977,7 @@ Link to Project",SatishMummadi,6 hours ago,https://replit.com/bounties/@SatishMu
 Acceptance Criteria
 Must have worked with Kaboom.JS before
 Must be using Kaboom 3000
-Final result should be in vanilla JavaScript (feel free to compile from TS as long as it doesn't have any extra problems along with it.",codingMASTER398,5 hours ago,https://replit.com/bounties/@codingMASTER398/kaboomjs-terrain-sys?t=
+Final result should be in vanilla JavaScript (feel free to compile from TS as long as it doesn't have any extra problems along with it.",codingMASTER398,6 hours ago,https://replit.com/bounties/@codingMASTER398/kaboomjs-terrain-sys?t=
 867,$65.00,due in 6 days,MVP iOS App - Spotify insights between friends ,"Discovering and sharing music is easy on Spotify, learning about how your tastes and behaviors compare with your friends is hard. We want to change that.
 
 Acceptance Criteria
@@ -6992,4 +6992,4 @@ User installs and creates an account by linking their spotify via the authorizat
 868,$45.00,due in 4 days,Set up a replit from an existing application,"I have an existing ASP.NET MVC application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.
 
 Acceptance Criteria
-The application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC",VitPlanocka,19 minutes ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from?t=
+The application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC",VitPlanocka,30 minutes ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from?t=
