@@ -8566,7 +8566,7 @@
         "title": "Use Astria API to finetune stable diffusion",
         "description": "I would like an experience developer to build a Node Express server or a backend that would  finetune stable diffusion with dreambooth with a set of images through the Astria API as well as handle Image and video generation of a finetuned model\n\nHere are docs for the Astria API\nhttps://www.astria.ai/api/docs\n\nAcceptance Criteria\nAPI has to handle both creating a finetune\nAPI has to handle Image and Video generation after a model is finetuned\nNeed to be able to call on the api from swift for a native mobile app or from a web app\nNeed to be able to use API to create a finetune of a set of images\nhas to handle the callback url where Astria sends the finetuned model\nAPI notifies when the finetuned model is done\nNeed to be able make a call to the API with a video prompt and get a video of finetuned subject back",
         "author": "KamalMango1",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@KamalMango1/use-astria-api-to-fi?t="
     },
     {
@@ -8596,7 +8596,7 @@
         "title": "Brand Sentiment Tool with alerting ",
         "description": "An AI tool with nice UX, which tracks companies' brand sentiment based on the available data from search trends, keywords, and semantic sentiment around that.\n\nThe user can set up an alert to receive daily notifications about its brand with the most searched keywords related to the brand and the sentiment around them.\n\nAcceptance Criteria\nN/A\n\nTechnical Details\nN/A",
         "author": "GennaroCuofano",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/brand-sentiment-tool?t="
     },
     {
@@ -8616,7 +8616,7 @@
         "title": "Simple landing page presenting visitors with 2 choices",
         "description": "I need a very simple but attractive landing page which would offer visitors a choice of two other websites to visit, using the website logos as large buttons. You are welcome to use an existing template or framework provided that it looks nice.\n\nAcceptance Criteria\nSimple, single page website\nCool focus effect when the user mouseovers one of the two options\n\nTechnical Details\nHTML and CSS only\nProvide the site as a Repl.\n\nTimelines / Milestones\nLogos and website links will be provided by email.\nQuick solution needed. Please be done by February 23.",
         "author": "liberatollc",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@liberatollc/simple-landing-page?t="
     },
     {
@@ -8656,7 +8656,17 @@
         "title": "Whisper + Pyannote for live audio transcription and Speaker diarization",
         "description": "I need a Python Flask app with Whisper and Pyannote. The end-point should be able to take audio chunks and transcribe using Whisper and also use Pyannote to generate Speaker labels for the live transcription. Again I am not looking to transcribe youtube or audio files. Just the live stream from Microphone\n\nAcceptance Criteria\nPython Flask app with an end-point to take audio stream from websocket and return text (transcribed) with Speaker labels (Speaker 1, Speaker2 etc). Max # of speakers 3 (Predefined).\n\nTechnical Details\nhttps://lablab.ai/t/whisper-transcription-and-speaker-identification\nhttps://github.com/ahmetoner/whisper-asr-webservice\n\nLink to Project",
         "author": "SatishMummadi",
-        "posted_time": "20 minutes ago",
+        "posted_time": "38 minutes ago",
         "link": "https://replit.com/bounties/@SatishMummadi/whisper-pyannote-for?t="
+    },
+    {
+        "index": "866",
+        "price": "$50.00",
+        "due_days": "due in 6 days",
+        "title": "Kaboom.JS terrain system",
+        "description": "I need a 2D terrain system in Kaboom.JS, where I can have infinitely extending ground with a chosen texture (e.g. grass) at varying heights. It should also come with a water system, where I can mark an area to be a body of water that interacts well enough with other objects.\n\nAcceptance Criteria\nMust have worked with Kaboom.JS before\nMust be using Kaboom 3000\nFinal result should be in vanilla JavaScript (feel free to compile from TS as long as it doesn't have any extra problems along with it.",
+        "author": "codingMASTER398",
+        "posted_time": "17 minutes ago",
+        "link": "https://replit.com/bounties/@codingMASTER398/kaboomjs-terrain-sys?t="
     }
 ]
