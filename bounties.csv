@@ -6950,7 +6950,7 @@ It should use OpenAI GPT3
 Acceptance Criteria
 The code has to be clean and well documented
 Minimal and clean UX (Figma design will be given)
-    compl...",juancaruiz,24 hours ago,https://replit.com/bounties/@juancaruiz/chrome-extension-ai?t=
+    compl...",juancaruiz,1 day ago,https://replit.com/bounties/@juancaruiz/chrome-extension-ai?t=
 864,$540.00,due in 14 days,DB Gas App Frontend,"Make a polling web app that looks like the Gas App (but on web) where people can hook up a relational database (such as PostGres) with random prompts, and respective poll options for each prompt. Users can click on each button and it takes them to the next option.
 
 Acceptance Criteria
@@ -6961,7 +6961,7 @@ user clicking the button will save that as a vote for that option for that user 
 
 Technical Details
 ok to just be a prototype
-don't need to assume more than 1000 rows",gbintech,24 hours ago,https://replit.com/bounties/@gbintech/db-gas-app-frontend?t=
+don't need to assume more than 1000 rows",gbintech,1 day ago,https://replit.com/bounties/@gbintech/db-gas-app-frontend?t=
 865,$90.00,due in 3 days,Whisper + Pyannote for live audio transcription and Speaker diarization,"I need a Python Flask app with Whisper and Pyannote. The end-point should be able to take audio chunks and transcribe using Whisper and also use Pyannote to generate Speaker labels for the live transcription. Again I am not looking to transcribe youtube or audio files. Just the live stream from Microphone
 
 Acceptance Criteria
