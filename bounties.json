@@ -8626,7 +8626,7 @@
         "title": "Need help with a discord bot.  I want to actually execute the /imagine command in Midjourney from Discord message.",
         "description": "i'm using discord.js.  i'm currently posting the text '/imagine [INSERTEXAMPLEHERE]' but I want to actually be able to run the /imagine command versus just paste the text into the channel.\n\nimport { Client, GatewayIntentBits, TextChannel } from \"discord.js\";\nimport NextCors from \"nextjs-cors\";\nimport { prisma } from \"../prisma\";\n\nconst client = new Client({\n  intents: [\n    GatewayIntentBits.GuildMessages,\n    GatewayIntentBits.Guilds,\n    GatewayIntentBits.MessageContent,\n  ],\n});\nclient.login(\n  process.env.DISCORD_TOKEN\n);\n\nconst waitForReady = async (): Promise => {\n  return new Promise((resolve) => {\n    client.on(\"ready\", () => {\n      resolve();\n    });\n  });\n};\n\nexport default async (req: any, res: any) => {\n  await NextCors(req, res, {\n    // Options\n    methods: [\"GET\", \"HEAD\", \"PUT\", \"PATCH\", \"POST\", \"DELETE\"],\n    origin: \"*\",\n    optionsSuccessStatus: 200, // some legacy browsers (IE11, various SmartTVs) choke on 204\n  });\n  if (req.method === \"POST\") {\n    try {\n      if ...",
         "author": "aidantorrence",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/need-help-with-a-dis?t="
     },
     {
@@ -8666,7 +8666,7 @@
         "title": "Kaboom.JS terrain system",
         "description": "I need a 2D terrain system in Kaboom.JS, where I can have infinitely extending ground with a chosen texture (e.g. grass) at varying heights. It should also come with a water system, where I can mark an area to be a body of water that interacts well enough with other objects.\n\nAcceptance Criteria\nMust have worked with Kaboom.JS before\nMust be using Kaboom 3000\nFinal result should be in vanilla JavaScript (feel free to compile from TS as long as it doesn't have any extra problems along with it.",
         "author": "codingMASTER398",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@codingMASTER398/kaboomjs-terrain-sys?t="
     },
     {
@@ -8686,7 +8686,7 @@
         "title": "Set up a replit from an existing application",
         "description": "I have an existing ASP.NET MVC application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.\n\nAcceptance Criteria\nThe application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC",
         "author": "VitPlanocka",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from?t="
     },
     {
