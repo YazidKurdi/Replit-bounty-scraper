@@ -8612,7 +8612,7 @@
     {
         "index": "861",
         "price": "$45.00",
-        "due_days": "due in 5 days",
+        "due_days": "closed",
         "title": "Simple landing page presenting visitors with 2 choices",
         "description": "I need a very simple but attractive landing page which would offer visitors a choice of two other websites to visit, using the website logos as large buttons. You are welcome to use an existing template or framework provided that it looks nice.\n\nAcceptance Criteria\nSimple, single page website\nCool focus effect when the user mouseovers one of the two options\n\nTechnical Details\nHTML and CSS only\nProvide the site as a Repl.\n\nTimelines / Milestones\nLogos and website links will be provided by email.\nQuick solution needed. Please be done by February 23.",
         "author": "liberatollc",
@@ -8626,7 +8626,7 @@
         "title": "Need help with a discord bot.  I want to actually execute the /imagine command in Midjourney from Discord message.",
         "description": "i'm using discord.js.  i'm currently posting the text '/imagine [INSERTEXAMPLEHERE]' but I want to actually be able to run the /imagine command versus just paste the text into the channel.\n\nimport { Client, GatewayIntentBits, TextChannel } from \"discord.js\";\nimport NextCors from \"nextjs-cors\";\nimport { prisma } from \"../prisma\";\n\nconst client = new Client({\n  intents: [\n    GatewayIntentBits.GuildMessages,\n    GatewayIntentBits.Guilds,\n    GatewayIntentBits.MessageContent,\n  ],\n});\nclient.login(\n  process.env.DISCORD_TOKEN\n);\n\nconst waitForReady = async (): Promise => {\n  return new Promise((resolve) => {\n    client.on(\"ready\", () => {\n      resolve();\n    });\n  });\n};\n\nexport default async (req: any, res: any) => {\n  await NextCors(req, res, {\n    // Options\n    methods: [\"GET\", \"HEAD\", \"PUT\", \"PATCH\", \"POST\", \"DELETE\"],\n    origin: \"*\",\n    optionsSuccessStatus: 200, // some legacy browsers (IE11, various SmartTVs) choke on 204\n  });\n  if (req.method === \"POST\") {\n    try {\n      if ...",
         "author": "aidantorrence",
-        "posted_time": "21 hours ago",
+        "posted_time": "22 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/need-help-with-a-dis?t="
     },
     {
@@ -8716,7 +8716,7 @@
         "title": "Adapt Existing Plugin to Obsidian (Send Markdown Tasks to Todoist)",
         "description": "I use Drafts for note taking and use this plugin (https://actions.getdrafts.com/a/1ld) to send any markdown tasks (\" - [ ] Sample Task\") into Todoist.\n\nI'd like to do all my my writing and note-taking in Obsidian instead (http://obsidian.md) and would like to adapt this plugin to work in Obsidian.\n\nAcceptance Criteria\nA ready-to-install plugin for Obsidian that has the same functionality as the Drafts plugin (https://actions.getdrafts.com/a/1ld)\nWhen in Obsidian, there is a button somewhere on the UI and a Command Palette command titled \"Send Tasks to ToDoist\"\nWhen that command is selected, the plugin scans the current document for the Markdown Task syntax and sends those tasks as individual tasks into ToDoist, with a link back to the Obsidian note. It also parses any additional Todoist context on the to-do (due date, project, priority, etc.), as the Drafts plugin does.\nThe plugin has an area in the settings for adding/updating the user's Todoist API token\n\nResource...",
         "author": "michaelssorense",
-        "posted_time": "55 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@michaelssorense/adapt-existing-plugi?t="
     }
 ]
