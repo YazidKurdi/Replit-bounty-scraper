@@ -6855,7 +6855,7 @@ Technical Details
 Using Typescript and the BoltJS SDJ from Slack
 
 Link to Project
-www.heypal.chat - adding some new functionality for this service!",NicolaeRusan,10 hours ago,https://replit.com/bounties/@NicolaeRusan/debug-slack-bot-not?t=
+www.heypal.chat - adding some new functionality for this service!",NicolaeRusan,11 hours ago,https://replit.com/bounties/@NicolaeRusan/debug-slack-bot-not?t=
 859,$450.00,due in 7 days,Brand Sentiment Tool with alerting ,"An AI tool with nice UX, which tracks companies' brand sentiment based on the available data from search trends, keywords, and semantic sentiment around that.
 
 The user can set up an alert to receive daily notifications about its brand with the most searched keywords related to the brand and the sentiment around them.
@@ -6929,7 +6929,7 @@ export default async (req: any, res: any) => {
   });
   if (req.method === ""POST"") {
     try {
-      if ...",aidantorrence,4 hours ago,https://replit.com/bounties/@aidantorrence/need-help-with-a-dis?t=
+      if ...",aidantorrence,5 hours ago,https://replit.com/bounties/@aidantorrence/need-help-with-a-dis?t=
 863,"$1,020.60",due in 12 days,Chrome extension: AI content creation assistant,"We need a chrome extension based AI content creation assistant. The chrome extension will complement our main web app
 
 The tool should work like the following:
@@ -6962,3 +6962,13 @@ user clicking the button will save that as a vote for that option for that user 
 Technical Details
 ok to just be a prototype
 don't need to assume more than 1000 rows",gbintech,4 hours ago,https://replit.com/bounties/@gbintech/db-gas-app-frontend?t=
+865,$90.00,due in 4 days,Whisper + Pyannote for live audio transcription and Speaker diarization,"I need a Python Flask app with Whisper and Pyannote. The end-point should be able to take audio chunks and transcribe using Whisper and also use Pyannote to generate Speaker labels for the live transcription. Again I am not looking to transcribe youtube or audio files. Just the live stream from Microphone
+
+Acceptance Criteria
+Python Flask app with an end-point to take audio stream from websocket and return text (transcribed) with Speaker labels (Speaker 1, Speaker2 etc). Max # of speakers 3 (Predefined).
+
+Technical Details
+https://lablab.ai/t/whisper-transcription-and-speaker-identification
+https://github.com/ahmetoner/whisper-asr-webservice
+
+Link to Project",SatishMummadi,17 seconds ago,https://replit.com/bounties/@SatishMummadi/whisper-pyannote-for?t=

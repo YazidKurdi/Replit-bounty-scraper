@@ -8586,7 +8586,7 @@
         "title": "Debug Slack Bot not being able to read a thread history (auth permissions issue)",
         "description": "I'm building a Slack bot and it's currently complaining that it doesn't have sufficient permissions to read a thread.\n\nIf you're familiar with building Slack Bots, and have built an oAuth Slack App where you were able to read a user message this should be a very quick fix. Happy to hop on a quick call to debug together.\n\nAcceptance Criteria\nYou look at the code and fix the issue as to why it might not be reading the thread - included is both what permissions are requested and how it's handled\n\nTechnical Details\nUsing Typescript and the BoltJS SDJ from Slack\n\nLink to Project\nwww.heypal.chat - adding some new functionality for this service!",
         "author": "NicolaeRusan",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@NicolaeRusan/debug-slack-bot-not?t="
     },
     {
@@ -8626,7 +8626,7 @@
         "title": "Need help with a discord bot.  I want to actually execute the /imagine command in Midjourney from Discord message.",
         "description": "i'm using discord.js.  i'm currently posting the text '/imagine [INSERTEXAMPLEHERE]' but I want to actually be able to run the /imagine command versus just paste the text into the channel.\n\nimport { Client, GatewayIntentBits, TextChannel } from \"discord.js\";\nimport NextCors from \"nextjs-cors\";\nimport { prisma } from \"../prisma\";\n\nconst client = new Client({\n  intents: [\n    GatewayIntentBits.GuildMessages,\n    GatewayIntentBits.Guilds,\n    GatewayIntentBits.MessageContent,\n  ],\n});\nclient.login(\n  process.env.DISCORD_TOKEN\n);\n\nconst waitForReady = async (): Promise => {\n  return new Promise((resolve) => {\n    client.on(\"ready\", () => {\n      resolve();\n    });\n  });\n};\n\nexport default async (req: any, res: any) => {\n  await NextCors(req, res, {\n    // Options\n    methods: [\"GET\", \"HEAD\", \"PUT\", \"PATCH\", \"POST\", \"DELETE\"],\n    origin: \"*\",\n    optionsSuccessStatus: 200, // some legacy browsers (IE11, various SmartTVs) choke on 204\n  });\n  if (req.method === \"POST\") {\n    try {\n      if ...",
         "author": "aidantorrence",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@aidantorrence/need-help-with-a-dis?t="
     },
     {
@@ -8648,5 +8648,15 @@
         "author": "gbintech",
         "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@gbintech/db-gas-app-frontend?t="
+    },
+    {
+        "index": "865",
+        "price": "$90.00",
+        "due_days": "due in 4 days",
+        "title": "Whisper + Pyannote for live audio transcription and Speaker diarization",
+        "description": "I need a Python Flask app with Whisper and Pyannote. The end-point should be able to take audio chunks and transcribe using Whisper and also use Pyannote to generate Speaker labels for the live transcription. Again I am not looking to transcribe youtube or audio files. Just the live stream from Microphone\n\nAcceptance Criteria\nPython Flask app with an end-point to take audio stream from websocket and return text (transcribed) with Speaker labels (Speaker 1, Speaker2 etc). Max # of speakers 3 (Predefined).\n\nTechnical Details\nhttps://lablab.ai/t/whisper-transcription-and-speaker-identification\nhttps://github.com/ahmetoner/whisper-asr-webservice\n\nLink to Project",
+        "author": "SatishMummadi",
+        "posted_time": "17 seconds ago",
+        "link": "https://replit.com/bounties/@SatishMummadi/whisper-pyannote-for?t="
     }
 ]
