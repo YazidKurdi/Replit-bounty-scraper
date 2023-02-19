@@ -6894,7 +6894,7 @@ Provide the site as a Repl.
 
 Timelines / Milestones
 Logos and website links will be provided by email.
-Quick solution needed. Please be done by February 23.",liberatollc,20 hours ago,https://replit.com/bounties/@liberatollc/simple-landing-page?t=
+Quick solution needed. Please be done by February 23.",liberatollc,21 hours ago,https://replit.com/bounties/@liberatollc/simple-landing-page?t=
 862,$20.00,closed,Need help with a discord bot.  I want to actually execute the /imagine command in Midjourney from Discord message.,"i'm using discord.js.  i'm currently posting the text '/imagine [INSERTEXAMPLEHERE]' but I want to actually be able to run the /imagine command versus just paste the text into the channel.
 
 import { Client, GatewayIntentBits, TextChannel } from ""discord.js"";
@@ -7002,4 +7002,4 @@ Technical Details
 https://lablab.ai/t/whisper-transcription-and-speaker-identification
 https://github.com/ahmetoner/whisper-asr-webservice
 
-Link to Project",satish-mk,14 hours ago,https://replit.com/bounties/@satish-mk/whisper-pyannote-for?t=
+Link to Project",satish-mk,15 hours ago,https://replit.com/bounties/@satish-mk/whisper-pyannote-for?t=
