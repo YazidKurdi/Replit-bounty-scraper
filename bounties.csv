@@ -6820,7 +6820,7 @@ Websites or emails to know if schools have been closed or teacher is absent.
 
 Acceptance Criteria
 I want an app that has simple YES/NO image that pops up daily so students can check if there is class without having to come in. App should be set to yes as default and admin should be able to change it to NO.
-Yes should be a big green square, No should be red. translatable to all languages. Especially Farsi, Arabic, Turkish and Kurdish",MariaOstapenko,11 hours ago,https://replit.com/bounties/@MariaOstapenko/esl-student-notifier?t=
+Yes should be a big green square, No should be red. translatable to all languages. Especially Farsi, Arabic, Turkish and Kurdish",MariaOstapenko,13 hours ago,https://replit.com/bounties/@MariaOstapenko/esl-student-notifier?t=
 855,$100.80,due in 3 days,Link existing React app to Hubspot for email capture,"I have a landing page build with react
 https://content-club.vercel.app/
 I would like to connect the Sign up section of the page to Hubspot API to be able to capture subscriber emails
@@ -6829,7 +6829,7 @@ Acceptance Criteria
 Solution includes email validation
 Gives user error if they enter something that is not an email
 Gives user indication of success if sign up is successful
-Subscriber emial captured on hubspot",KamalMango1,11 hours ago,https://replit.com/bounties/@KamalMango1/link-existing-react?t=
+Subscriber emial captured on hubspot",KamalMango1,12 hours ago,https://replit.com/bounties/@KamalMango1/link-existing-react?t=
 856,$180.00,due in 3 days,Use Astria API to finetune stable diffusion,"I would like an experience developer to build a Node Express server or a backend that would  finetune stable diffusion with dreambooth with a set of images through the Astria API as well as handle Image and video generation of a finetuned model
 
 Here are docs for the Astria API
@@ -6842,7 +6842,7 @@ Need to be able to call on the api from swift for a native mobile app or from a 
 Need to be able to use API to create a finetune of a set of images
 has to handle the callback url where Astria sends the finetuned model
 API notifies when the finetuned model is done
-Need to be able make a call to the API with a video prompt and get a video of finetuned subject back",KamalMango1,10 hours ago,https://replit.com/bounties/@KamalMango1/use-astria-api-to-fi?t=
+Need to be able make a call to the API with a video prompt and get a video of finetuned subject back",KamalMango1,12 hours ago,https://replit.com/bounties/@KamalMango1/use-astria-api-to-fi?t=
 857,$4.50,closed,Testing a bug that might be possible with Bounties.,"Ignore this bounty if you see it, I'm simply testing a bug that may be possible. (If there's an Admin who sees this, please unlist the bounty)",haroon,6 minutes ago,https://replit.com/bounties/@haroon/testing-a-bug-that-m?t=
 858,$90.00,closed,Debug Slack Bot not being able to read a thread history (auth permissions issue),"I'm building a Slack bot and it's currently complaining that it doesn't have sufficient permissions to read a thread.
 
@@ -6855,7 +6855,7 @@ Technical Details
 Using Typescript and the BoltJS SDJ from Slack
 
 Link to Project
-www.heypal.chat - adding some new functionality for this service!",NicolaeRusan,8 hours ago,https://replit.com/bounties/@NicolaeRusan/debug-slack-bot-not?t=
+www.heypal.chat - adding some new functionality for this service!",NicolaeRusan,9 hours ago,https://replit.com/bounties/@NicolaeRusan/debug-slack-bot-not?t=
 859,$450.00,due in 7 days,Brand Sentiment Tool with alerting ,"An AI tool with nice UX, which tracks companies' brand sentiment based on the available data from search trends, keywords, and semantic sentiment around that.
 
 The user can set up an alert to receive daily notifications about its brand with the most searched keywords related to the brand and the sentiment around them.
@@ -6864,7 +6864,7 @@ Acceptance Criteria
 N/A
 
 Technical Details
-N/A",GennaroCuofano,7 hours ago,https://replit.com/bounties/@GennaroCuofano/brand-sentiment-tool?t=
+N/A",GennaroCuofano,9 hours ago,https://replit.com/bounties/@GennaroCuofano/brand-sentiment-tool?t=
 860,$90.00,due in 7 days,GSheet to URL Converter - functional prototype that links to someone's GDrive and turns a pre-formatted Google sheet into a pretty webpage,"We all have lots recommendations that we share with friends. Sometime the recs are in our heads, other times they're just a handful of links, or maybe they're in a notes or google doc.
 
 It would save time and make it easier to share recs if there were a tool to quickly and simply turn these lists into pretty, easily shareable links. (think Partiful but for lists)
@@ -6881,7 +6881,7 @@ Each generated URL should:
 display the content of the sheet
 show the author
 be public
-have a button to give kudos...",Quinn-LiLi,4 hours ago,https://replit.com/bounties/@Quinn-LiLi/gsheet-to-url-conver?t=
+have a button to give kudos...",Quinn-LiLi,5 hours ago,https://replit.com/bounties/@Quinn-LiLi/gsheet-to-url-conver?t=
 861,$45.00,due in 6 days,Simple landing page presenting visitors with 2 choices,"I need a very simple but attractive landing page which would offer visitors a choice of two other websites to visit, using the website logos as large buttons. You are welcome to use an existing template or framework provided that it looks nice.
 
 Acceptance Criteria
@@ -6894,7 +6894,7 @@ Provide the site as a Repl.
 
 Timelines / Milestones
 Logos and website links will be provided by email.
-Quick solution needed. Please be done by February 23.",liberatollc,3 hours ago,https://replit.com/bounties/@liberatollc/simple-landing-page?t=
+Quick solution needed. Please be done by February 23.",liberatollc,5 hours ago,https://replit.com/bounties/@liberatollc/simple-landing-page?t=
 862,$20.00,closed,Need help with a discord bot.  I want to actually execute the /imagine command in Midjourney from Discord message.,"i'm using discord.js.  i'm currently posting the text '/imagine [INSERTEXAMPLEHERE]' but I want to actually be able to run the /imagine command versus just paste the text into the channel.
 
 import { Client, GatewayIntentBits, TextChannel } from ""discord.js"";
@@ -6929,7 +6929,7 @@ export default async (req: any, res: any) => {
   });
   if (req.method === ""POST"") {
     try {
-      if ...",aidantorrence,2 hours ago,https://replit.com/bounties/@aidantorrence/need-help-with-a-dis?t=
+      if ...",aidantorrence,3 hours ago,https://replit.com/bounties/@aidantorrence/need-help-with-a-dis?t=
 863,"$1,020.60",due in 12 days,Chrome extension: AI content creation assistant,"We need a chrome extension based AI content creation assistant. The chrome extension will complement our main web app
 
 The tool should work like the following:
@@ -6950,7 +6950,7 @@ It should use OpenAI GPT3
 Acceptance Criteria
 The code has to be clean and well documented
 Minimal and clean UX (Figma design will be given)
-    compl...",juancaruiz,2 hours ago,https://replit.com/bounties/@juancaruiz/chrome-extension-ai?t=
+    compl...",juancaruiz,3 hours ago,https://replit.com/bounties/@juancaruiz/chrome-extension-ai?t=
 864,$540.00,due in 15 days,DB Gas App Frontend,"Make a polling web app that looks like the Gas App (but on web) where people can hook up a relational database (such as PostGres) with random prompts, and respective poll options for each prompt. Users can click on each button and it takes them to the next option.
 
 Acceptance Criteria
@@ -6961,4 +6961,4 @@ user clicking the button will save that as a vote for that option for that user 
 
 Technical Details
 ok to just be a prototype
-don't need to assume more than 1000 rows",gbintech,2 hours ago,https://replit.com/bounties/@gbintech/db-gas-app-frontend?t=
+don't need to assume more than 1000 rows",gbintech,3 hours ago,https://replit.com/bounties/@gbintech/db-gas-app-frontend?t=
