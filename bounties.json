@@ -8636,7 +8636,7 @@
         "title": "Chrome extension: AI content creation assistant",
         "description": "We need a chrome extension based AI content creation assistant. The chrome extension will complement our main web app\n\nThe tool should work like the following:\n\nicon pops up in any input field on the web (slack, notion, gmail, etc)\nthe extension should include an autocomplete feature\nMain extension features\n    Compose text (blog posts, essays, short stories, emails, etc)\n        User prompts tool in the small input box, the output is generated and injected into the page\n    Transform text (rephrase, expand, shorten text)\n    Respond (Slack, Whatsapp, messages, emails)\n        The prompt sent to the model includes the email/message you're responding to. If the email chain is too long it needs to be truncated.\n        It should complete entire emails and messages\nSupport for newlines\nSupport for default text streaming\nIt should use OpenAI GPT3\n\nAcceptance Criteria\nThe code has to be clean and well documented\nMinimal and clean UX (Figma design will be given)\n    compl...",
         "author": "juancaruiz",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@juancaruiz/chrome-extension-ai?t="
     },
     {
@@ -8686,7 +8686,7 @@
         "title": "Set up a replit from an existing application",
         "description": "I have an existing ASP.NET MVC application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.\n\nAcceptance Criteria\nThe application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC",
         "author": "VitPlanocka",
-        "posted_time": "30 minutes ago",
+        "posted_time": "39 minutes ago",
         "link": "https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from?t="
     }
 ]
