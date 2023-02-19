@@ -8616,7 +8616,7 @@
         "title": "Simple landing page presenting visitors with 2 choices",
         "description": "I need a very simple but attractive landing page which would offer visitors a choice of two other websites to visit, using the website logos as large buttons. You are welcome to use an existing template or framework provided that it looks nice.\n\nAcceptance Criteria\nSimple, single page website\nCool focus effect when the user mouseovers one of the two options\n\nTechnical Details\nHTML and CSS only\nProvide the site as a Repl.\n\nTimelines / Milestones\nLogos and website links will be provided by email.\nQuick solution needed. Please be done by February 23.",
         "author": "liberatollc",
-        "posted_time": "21 hours ago",
+        "posted_time": "22 hours ago",
         "link": "https://replit.com/bounties/@liberatollc/simple-landing-page?t="
     },
     {
@@ -8696,7 +8696,7 @@
         "title": "Whisper + Pyannote for live audio transcription and Speaker diarization",
         "description": "I need a Python Flask app with Whisper and Pyannote. The end-point should be able to take audio chunks and transcribe using Whisper and also use Pyannote to generate Speaker labels for the live transcription. Again I am not looking to transcribe youtube or audio files. Just the live stream from Microphone\n\nAcceptance Criteria\nPython Flask app with an end-point to take audio stream from websocket and return text (transcribed) with Speaker labels (Speaker 1, Speaker2 etc). Max # of speakers 3 (Predefined).\n\nTechnical Details\nhttps://lablab.ai/t/whisper-transcription-and-speaker-identification\nhttps://github.com/ahmetoner/whisper-asr-webservice\n\nLink to Project",
         "author": "satish-mk",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@satish-mk/whisper-pyannote-for?t="
     },
     {
@@ -8706,7 +8706,7 @@
         "title": "Marine radar data processing with C++",
         "description": "We are looking for someone to develop C++ software that processes marine radar data (PPI scan), converts it from polar to cartesian grid and extracts contours as polygons. The task at hand shouldn't take more than 1 day in our estimation.\n\nPotential steps\nGiven the above, we believe following steps are required:\nGeo reference with epsg 3857\nConvert data from polar to cartesian grid\nInterpolate cartesian grid to fill all pixels (within scan circle)\nGenerate contours on cartesian grid\n\nInput\nTwo dimensional array in polar grid (theta x rho) of byte type\nGeo reference for polar center and scan range in meters\nRequired resolution of cartesian grid\nIntervals for contours extraction\n\nOutput\nCartesian grid with requested resolution\nContours polygons in GeoJSON\n\nSamples\nhttps://gist.github.com/orca-hydromancer/fb090314defa319e9cfbbdee3e37f7e7\ninput.json: array of 250x250 byte values (assume range of 2778 meters, polar center latitude of 59.86879 and longitude of 10.73494)\nc...",
         "author": "hydromancer0",
-        "posted_time": "32 minutes ago",
+        "posted_time": "46 minutes ago",
         "link": "https://replit.com/bounties/@hydromancer0/marine-radar-data-pr?t="
     }
 ]
