@@ -6864,7 +6864,7 @@ Acceptance Criteria
 N/A
 
 Technical Details
-N/A",GennaroCuofano,22 hours ago,https://replit.com/bounties/@GennaroCuofano/brand-sentiment-tool?t=
+N/A",GennaroCuofano,23 hours ago,https://replit.com/bounties/@GennaroCuofano/brand-sentiment-tool?t=
 860,$90.00,due in 6 days,GSheet to URL Converter - functional prototype that links to someone's GDrive and turns a pre-formatted Google sheet into a pretty webpage,"We all have lots recommendations that we share with friends. Sometime the recs are in our heads, other times they're just a handful of links, or maybe they're in a notes or google doc.
 
 It would save time and make it easier to share recs if there were a tool to quickly and simply turn these lists into pretty, easily shareable links. (think Partiful but for lists)
@@ -6894,7 +6894,7 @@ Provide the site as a Repl.
 
 Timelines / Milestones
 Logos and website links will be provided by email.
-Quick solution needed. Please be done by February 23.",liberatollc,18 hours ago,https://replit.com/bounties/@liberatollc/simple-landing-page?t=
+Quick solution needed. Please be done by February 23.",liberatollc,19 hours ago,https://replit.com/bounties/@liberatollc/simple-landing-page?t=
 862,$20.00,closed,Need help with a discord bot.  I want to actually execute the /imagine command in Midjourney from Discord message.,"i'm using discord.js.  i'm currently posting the text '/imagine [INSERTEXAMPLEHERE]' but I want to actually be able to run the /imagine command versus just paste the text into the channel.
 
 import { Client, GatewayIntentBits, TextChannel } from ""discord.js"";
@@ -7002,4 +7002,4 @@ Technical Details
 https://lablab.ai/t/whisper-transcription-and-speaker-identification
 https://github.com/ahmetoner/whisper-asr-webservice
 
-Link to Project",satish-mk,12 hours ago,https://replit.com/bounties/@satish-mk/whisper-pyannote-for?t=
+Link to Project",satish-mk,13 hours ago,https://replit.com/bounties/@satish-mk/whisper-pyannote-for?t=
