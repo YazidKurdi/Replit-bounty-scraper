@@ -6855,7 +6855,7 @@ Technical Details
 Using Typescript and the BoltJS SDJ from Slack
 
 Link to Project
-www.heypal.chat - adding some new functionality for this service!",NicolaeRusan,12 hours ago,https://replit.com/bounties/@NicolaeRusan/debug-slack-bot-not?t=
+www.heypal.chat - adding some new functionality for this service!",NicolaeRusan,13 hours ago,https://replit.com/bounties/@NicolaeRusan/debug-slack-bot-not?t=
 859,$450.00,due in 7 days,Brand Sentiment Tool with alerting ,"An AI tool with nice UX, which tracks companies' brand sentiment based on the available data from search trends, keywords, and semantic sentiment around that.
 
 The user can set up an alert to receive daily notifications about its brand with the most searched keywords related to the brand and the sentiment around them.
@@ -6929,7 +6929,7 @@ export default async (req: any, res: any) => {
   });
   if (req.method === ""POST"") {
     try {
-      if ...",aidantorrence,6 hours ago,https://replit.com/bounties/@aidantorrence/need-help-with-a-dis?t=
+      if ...",aidantorrence,7 hours ago,https://replit.com/bounties/@aidantorrence/need-help-with-a-dis?t=
 863,"$1,020.60",due in 12 days,Chrome extension: AI content creation assistant,"We need a chrome extension based AI content creation assistant. The chrome extension will complement our main web app
 
 The tool should work like the following:
@@ -6977,7 +6977,7 @@ Link to Project",SatishMummadi,2 hours ago,https://replit.com/bounties/@SatishMu
 Acceptance Criteria
 Must have worked with Kaboom.JS before
 Must be using Kaboom 3000
-Final result should be in vanilla JavaScript (feel free to compile from TS as long as it doesn't have any extra problems along with it.",codingMASTER398,1 hour ago,https://replit.com/bounties/@codingMASTER398/kaboomjs-terrain-sys?t=
+Final result should be in vanilla JavaScript (feel free to compile from TS as long as it doesn't have any extra problems along with it.",codingMASTER398,2 hours ago,https://replit.com/bounties/@codingMASTER398/kaboomjs-terrain-sys?t=
 867,$65.00,due in 6 days,MVP iOS App - Spotify insights between friends ,"Discovering and sharing music is easy on Spotify, learning about how your tastes and behaviors compare with your friends is hard. We want to change that.
 
 Acceptance Criteria
