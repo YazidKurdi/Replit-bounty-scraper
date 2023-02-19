@@ -8686,7 +8686,7 @@
         "title": "Set up a replit from an existing application",
         "description": "I have an existing ASP.NET MVC application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.\n\nAcceptance Criteria\nThe application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC",
         "author": "VitPlanocka",
-        "posted_time": "5 minutes ago",
+        "posted_time": "19 minutes ago",
         "link": "https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from?t="
     }
 ]
