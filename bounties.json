@@ -8666,7 +8666,7 @@
         "title": "Kaboom.JS terrain system",
         "description": "I need a 2D terrain system in Kaboom.JS, where I can have infinitely extending ground with a chosen texture (e.g. grass) at varying heights. It should also come with a water system, where I can mark an area to be a body of water that interacts well enough with other objects.\n\nAcceptance Criteria\nMust have worked with Kaboom.JS before\nMust be using Kaboom 3000\nFinal result should be in vanilla JavaScript (feel free to compile from TS as long as it doesn't have any extra problems along with it.",
         "author": "codingMASTER398",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@codingMASTER398/kaboomjs-terrain-sys?t="
     },
     {
@@ -8688,5 +8688,15 @@
         "author": "VitPlanocka",
         "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from?t="
+    },
+    {
+        "index": "869",
+        "price": "$90.00",
+        "due_days": "due in 3 days",
+        "title": "Whisper + Pyannote for live audio transcription and Speaker diarization",
+        "description": "I need a Python Flask app with Whisper and Pyannote. The end-point should be able to take audio chunks and transcribe using Whisper and also use Pyannote to generate Speaker labels for the live transcription. Again I am not looking to transcribe youtube or audio files. Just the live stream from Microphone\n\nAcceptance Criteria\nPython Flask app with an end-point to take audio stream from websocket and return text (transcribed) with Speaker labels (Speaker 1, Speaker2 etc). Max # of speakers 3 (Predefined).\n\nTechnical Details\nhttps://lablab.ai/t/whisper-transcription-and-speaker-identification\nhttps://github.com/ahmetoner/whisper-asr-webservice\n\nLink to Project",
+        "author": "satish-mk",
+        "posted_time": "12 hours ago",
+        "link": "https://replit.com/bounties/@satish-mk/whisper-pyannote-for?t="
     }
 ]

@@ -6977,7 +6977,7 @@ Link to Project",SatishMummadi,12 hours ago,https://replit.com/bounties/@SatishM
 Acceptance Criteria
 Must have worked with Kaboom.JS before
 Must be using Kaboom 3000
-Final result should be in vanilla JavaScript (feel free to compile from TS as long as it doesn't have any extra problems along with it.",codingMASTER398,11 hours ago,https://replit.com/bounties/@codingMASTER398/kaboomjs-terrain-sys?t=
+Final result should be in vanilla JavaScript (feel free to compile from TS as long as it doesn't have any extra problems along with it.",codingMASTER398,12 hours ago,https://replit.com/bounties/@codingMASTER398/kaboomjs-terrain-sys?t=
 867,$65.00,due in 5 days,MVP iOS App - Spotify insights between friends ,"Discovering and sharing music is easy on Spotify, learning about how your tastes and behaviors compare with your friends is hard. We want to change that.
 
 Acceptance Criteria
@@ -6993,3 +6993,13 @@ User installs and creates an account by linking their spotify via the authorizat
 
 Acceptance Criteria
 The application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC",VitPlanocka,6 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from?t=
+869,$90.00,due in 3 days,Whisper + Pyannote for live audio transcription and Speaker diarization,"I need a Python Flask app with Whisper and Pyannote. The end-point should be able to take audio chunks and transcribe using Whisper and also use Pyannote to generate Speaker labels for the live transcription. Again I am not looking to transcribe youtube or audio files. Just the live stream from Microphone
+
+Acceptance Criteria
+Python Flask app with an end-point to take audio stream from websocket and return text (transcribed) with Speaker labels (Speaker 1, Speaker2 etc). Max # of speakers 3 (Predefined).
+
+Technical Details
+https://lablab.ai/t/whisper-transcription-and-speaker-identification
+https://github.com/ahmetoner/whisper-asr-webservice
+
+Link to Project",satish-mk,12 hours ago,https://replit.com/bounties/@satish-mk/whisper-pyannote-for?t=
