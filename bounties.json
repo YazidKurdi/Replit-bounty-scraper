@@ -8606,7 +8606,7 @@
         "title": "GSheet to URL Converter - functional prototype that links to someone's GDrive and turns a pre-formatted Google sheet into a pretty webpage",
         "description": "We all have lots recommendations that we share with friends. Sometime the recs are in our heads, other times they're just a handful of links, or maybe they're in a notes or google doc.\n\nIt would save time and make it easier to share recs if there were a tool to quickly and simply turn these lists into pretty, easily shareable links. (think Partiful but for lists)\n\nAcceptance Criteria:\naccount creation: a user can only use the product to convert a doc if they have an account, they can view others without an account\nuser can log in/create an account with their email or Google Drive\nuser can select which google sheet to sync to our app (call it Braid Exchange)\nthe app will convert the contents of the app into a webpage preview\nuser can edit the content from the preview if the data is wrong or missing\nuser can save\nonce user saves, they have a shareable URL\nEach generated URL should:\ndisplay the content of the sheet\nshow the author\nbe public\nhave a button to give kudos...",
         "author": "Quinn-LiLi",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@Quinn-LiLi/gsheet-to-url-conver?t="
     },
     {
@@ -8646,7 +8646,7 @@
         "title": "DB Gas App Frontend",
         "description": "Make a polling web app that looks like the Gas App (but on web) where people can hook up a relational database (such as PostGres) with random prompts, and respective poll options for each prompt. Users can click on each button and it takes them to the next option.\n\nAcceptance Criteria\nThe app\nbe integrated with any relational databases (e.g. postgres sql) by pasting the url endpoint or sign in with providers such as Firebase or Supabase\nonce hooked up to the db, the front end populates with prompts and buttons\nuser clicking the button will save that as a vote for that option for that user account\n\nTechnical Details\nok to just be a prototype\ndon't need to assume more than 1000 rows",
         "author": "gbintech",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@gbintech/db-gas-app-frontend?t="
     },
     {
@@ -8676,7 +8676,7 @@
         "title": "MVP iOS App - Spotify insights between friends ",
         "description": "Discovering and sharing music is easy on Spotify, learning about how your tastes and behaviors compare with your friends is hard. We want to change that.\n\nAcceptance Criteria\niOS app\n2 or more users can connect on the app\nIf they are connected, they can enter a song, album or artist and see who has listened and in what order (based on first listen)\nusers can see who they are connected with on the app\nusers can send a text to their friends to invite them to the app\n\nTimelines / Milestones\nUser installs and creates an account by linking their spotify via the authorization code flow",
         "author": "Quinn-LiLi",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@Quinn-LiLi/mvp-ios-app-spotify?t="
     },
     {
