@@ -8666,7 +8666,7 @@
         "title": "Kaboom.JS terrain system",
         "description": "I need a 2D terrain system in Kaboom.JS, where I can have infinitely extending ground with a chosen texture (e.g. grass) at varying heights. It should also come with a water system, where I can mark an area to be a body of water that interacts well enough with other objects.\n\nAcceptance Criteria\nMust have worked with Kaboom.JS before\nMust be using Kaboom 3000\nFinal result should be in vanilla JavaScript (feel free to compile from TS as long as it doesn't have any extra problems along with it.",
         "author": "codingMASTER398",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@codingMASTER398/kaboomjs-terrain-sys?t="
     },
     {
@@ -8726,7 +8726,7 @@
         "title": "Bugfix: shopify app authentication issue",
         "description": "I have a built a shopify app that has an authentication issue when installing. App is built with JS.\n\nTo re-create issue\nRun the app locally using the shopify cli\nSee if you get an error message 'There is no page at this address'\nIf not, uninstall app and re-install and you should see above error\n\nScreenshot of error: https://shopify.click/91426-26945-97404-96961-9656.png\n\nAcceptance criteria\nFix authentication issue so that the address is resolved and on install the shopify app requests user to accept auth and scope permissions",
         "author": "SamuelAbaka-Woo",
-        "posted_time": "12 minutes ago",
+        "posted_time": "27 minutes ago",
         "link": "https://replit.com/bounties/@SamuelAbaka-Woo/fix-shopify-app-auth?t="
     },
     {
@@ -8736,7 +8736,7 @@
         "title": "Scrape a Website and Populate a Table",
         "description": "Create a tool that scrapes the data from a specific apartment building's website and then populate a table with the pertinent data about each available apartment including:\nUnit number\nUnit Type\nNumber of Beds\nSquare Footage\nDate Available\nAsking Rent\n\nAcceptance Criteria\nTool should output the data in CSV format\nShould be able to run the tool daily\n\nTechnical Details",
         "author": "conor89",
-        "posted_time": "6 minutes ago",
+        "posted_time": "22 minutes ago",
         "link": "https://replit.com/bounties/@conor89/scrape-a-website-and?t="
     }
 ]
