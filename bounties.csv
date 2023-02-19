@@ -6950,7 +6950,7 @@ It should use OpenAI GPT3
 Acceptance Criteria
 The code has to be clean and well documented
 Minimal and clean UX (Figma design will be given)
-    compl...",juancaruiz,23 hours ago,https://replit.com/bounties/@juancaruiz/chrome-extension-ai?t=
+    compl...",juancaruiz,24 hours ago,https://replit.com/bounties/@juancaruiz/chrome-extension-ai?t=
 864,$540.00,due in 14 days,DB Gas App Frontend,"Make a polling web app that looks like the Gas App (but on web) where people can hook up a relational database (such as PostGres) with random prompts, and respective poll options for each prompt. Users can click on each button and it takes them to the next option.
 
 Acceptance Criteria
@@ -6992,7 +6992,7 @@ User installs and creates an account by linking their spotify via the authorizat
 868,$45.00,due in 3 days,Set up a replit from an existing application,"I have an existing ASP.NET MVC application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.
 
 Acceptance Criteria
-The application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC",VitPlanocka,13 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from?t=
+The application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC",VitPlanocka,14 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from?t=
 869,$90.00,due in 3 days,Whisper + Pyannote for live audio transcription and Speaker diarization,"I need a Python Flask app with Whisper and Pyannote. The end-point should be able to take audio chunks and transcribe using Whisper and also use Pyannote to generate Speaker labels for the live transcription. Again I am not looking to transcribe youtube or audio files. Just the live stream from Microphone
 
 Acceptance Criteria
@@ -7047,7 +7047,7 @@ If not, uninstall app and re-install and you should see above error
 Screenshot of error: https://shopify.click/91426-26945-97404-96961-9656.png
 
 Acceptance criteria
-Fix authentication issue so that the address is resolved and on install the shopify app requests user to accept auth and scope permissions",SamuelAbaka-Woo,37 minutes ago,https://replit.com/bounties/@SamuelAbaka-Woo/fix-shopify-app-auth?t=
+Fix authentication issue so that the address is resolved and on install the shopify app requests user to accept auth and scope permissions",SamuelAbaka-Woo,46 minutes ago,https://replit.com/bounties/@SamuelAbaka-Woo/fix-shopify-app-auth?t=
 873,$67.50,due in 9 days,Scrape a Website and Populate a Table,"Create a tool that scrapes the data from a specific apartment building's website and then populate a table with the pertinent data about each available apartment including:
 Unit number
 Unit Type
@@ -7060,4 +7060,4 @@ Acceptance Criteria
 Tool should output the data in CSV format
 Should be able to run the tool daily
 
-Technical Details",conor89,31 minutes ago,https://replit.com/bounties/@conor89/scrape-a-website-and?t=
+Technical Details",conor89,40 minutes ago,https://replit.com/bounties/@conor89/scrape-a-website-and?t=

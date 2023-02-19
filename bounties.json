@@ -8636,7 +8636,7 @@
         "title": "Chrome extension: AI content creation assistant",
         "description": "We need a chrome extension based AI content creation assistant. The chrome extension will complement our main web app\n\nThe tool should work like the following:\n\nicon pops up in any input field on the web (slack, notion, gmail, etc)\nthe extension should include an autocomplete feature\nMain extension features\n    Compose text (blog posts, essays, short stories, emails, etc)\n        User prompts tool in the small input box, the output is generated and injected into the page\n    Transform text (rephrase, expand, shorten text)\n    Respond (Slack, Whatsapp, messages, emails)\n        The prompt sent to the model includes the email/message you're responding to. If the email chain is too long it needs to be truncated.\n        It should complete entire emails and messages\nSupport for newlines\nSupport for default text streaming\nIt should use OpenAI GPT3\n\nAcceptance Criteria\nThe code has to be clean and well documented\nMinimal and clean UX (Figma design will be given)\n    compl...",
         "author": "juancaruiz",
-        "posted_time": "23 hours ago",
+        "posted_time": "24 hours ago",
         "link": "https://replit.com/bounties/@juancaruiz/chrome-extension-ai?t="
     },
     {
@@ -8686,7 +8686,7 @@
         "title": "Set up a replit from an existing application",
         "description": "I have an existing ASP.NET MVC application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.\n\nAcceptance Criteria\nThe application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC",
         "author": "VitPlanocka",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from?t="
     },
     {
@@ -8726,7 +8726,7 @@
         "title": "Bugfix: shopify app authentication issue",
         "description": "I have a built a shopify app that has an authentication issue when installing. App is built with JS.\n\nTo re-create issue\nRun the app locally using the shopify cli\nSee if you get an error message 'There is no page at this address'\nIf not, uninstall app and re-install and you should see above error\n\nScreenshot of error: https://shopify.click/91426-26945-97404-96961-9656.png\n\nAcceptance criteria\nFix authentication issue so that the address is resolved and on install the shopify app requests user to accept auth and scope permissions",
         "author": "SamuelAbaka-Woo",
-        "posted_time": "37 minutes ago",
+        "posted_time": "46 minutes ago",
         "link": "https://replit.com/bounties/@SamuelAbaka-Woo/fix-shopify-app-auth?t="
     },
     {
@@ -8736,7 +8736,7 @@
         "title": "Scrape a Website and Populate a Table",
         "description": "Create a tool that scrapes the data from a specific apartment building's website and then populate a table with the pertinent data about each available apartment including:\nUnit number\nUnit Type\nNumber of Beds\nSquare Footage\nDate Available\nAsking Rent\n\nAcceptance Criteria\nTool should output the data in CSV format\nShould be able to run the tool daily\n\nTechnical Details",
         "author": "conor89",
-        "posted_time": "31 minutes ago",
+        "posted_time": "40 minutes ago",
         "link": "https://replit.com/bounties/@conor89/scrape-a-website-and?t="
     }
 ]
