@@ -8676,7 +8676,7 @@
         "title": "MVP iOS App - Spotify insights between friends ",
         "description": "Discovering and sharing music is easy on Spotify, learning about how your tastes and behaviors compare with your friends is hard. We want to change that.\n\nAcceptance Criteria\niOS app\n2 or more users can connect on the app\nIf they are connected, they can enter a song, album or artist and see who has listened and in what order (based on first listen)\nusers can see who they are connected with on the app\nusers can send a text to their friends to invite them to the app\n\nTimelines / Milestones\nUser installs and creates an account by linking their spotify via the authorization code flow",
         "author": "Quinn-LiLi",
-        "posted_time": "55 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@Quinn-LiLi/mvp-ios-app-spotify?t="
     }
 ]
