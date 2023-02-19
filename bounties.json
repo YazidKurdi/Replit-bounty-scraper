@@ -8666,7 +8666,7 @@
         "title": "Kaboom.JS terrain system",
         "description": "I need a 2D terrain system in Kaboom.JS, where I can have infinitely extending ground with a chosen texture (e.g. grass) at varying heights. It should also come with a water system, where I can mark an area to be a body of water that interacts well enough with other objects.\n\nAcceptance Criteria\nMust have worked with Kaboom.JS before\nMust be using Kaboom 3000\nFinal result should be in vanilla JavaScript (feel free to compile from TS as long as it doesn't have any extra problems along with it.",
         "author": "codingMASTER398",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@codingMASTER398/kaboomjs-terrain-sys?t="
     },
     {
