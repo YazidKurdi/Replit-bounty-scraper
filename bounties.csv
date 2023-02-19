@@ -6881,7 +6881,7 @@ Each generated URL should:
 display the content of the sheet
 show the author
 be public
-have a button to give kudos...",Quinn-LiLi,19 hours ago,https://replit.com/bounties/@Quinn-LiLi/gsheet-to-url-conver?t=
+have a button to give kudos...",Quinn-LiLi,20 hours ago,https://replit.com/bounties/@Quinn-LiLi/gsheet-to-url-conver?t=
 861,$45.00,due in 5 days,Simple landing page presenting visitors with 2 choices,"I need a very simple but attractive landing page which would offer visitors a choice of two other websites to visit, using the website logos as large buttons. You are welcome to use an existing template or framework provided that it looks nice.
 
 Acceptance Criteria
@@ -6950,7 +6950,7 @@ It should use OpenAI GPT3
 Acceptance Criteria
 The code has to be clean and well documented
 Minimal and clean UX (Figma design will be given)
-    compl...",juancaruiz,17 hours ago,https://replit.com/bounties/@juancaruiz/chrome-extension-ai?t=
+    compl...",juancaruiz,18 hours ago,https://replit.com/bounties/@juancaruiz/chrome-extension-ai?t=
 864,$540.00,due in 14 days,DB Gas App Frontend,"Make a polling web app that looks like the Gas App (but on web) where people can hook up a relational database (such as PostGres) with random prompts, and respective poll options for each prompt. Users can click on each button and it takes them to the next option.
 
 Acceptance Criteria
@@ -6961,7 +6961,7 @@ user clicking the button will save that as a vote for that option for that user 
 
 Technical Details
 ok to just be a prototype
-don't need to assume more than 1000 rows",gbintech,17 hours ago,https://replit.com/bounties/@gbintech/db-gas-app-frontend?t=
+don't need to assume more than 1000 rows",gbintech,18 hours ago,https://replit.com/bounties/@gbintech/db-gas-app-frontend?t=
 865,$90.00,due in 3 days,Whisper + Pyannote for live audio transcription and Speaker diarization,"I need a Python Flask app with Whisper and Pyannote. The end-point should be able to take audio chunks and transcribe using Whisper and also use Pyannote to generate Speaker labels for the live transcription. Again I am not looking to transcribe youtube or audio files. Just the live stream from Microphone
 
 Acceptance Criteria
@@ -6988,7 +6988,7 @@ users can see who they are connected with on the app
 users can send a text to their friends to invite them to the app
 
 Timelines / Milestones
-User installs and creates an account by linking their spotify via the authorization code flow",Quinn-LiLi,12 hours ago,https://replit.com/bounties/@Quinn-LiLi/mvp-ios-app-spotify?t=
+User installs and creates an account by linking their spotify via the authorization code flow",Quinn-LiLi,13 hours ago,https://replit.com/bounties/@Quinn-LiLi/mvp-ios-app-spotify?t=
 868,$45.00,due in 3 days,Set up a replit from an existing application,"I have an existing ASP.NET MVC application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.
 
 Acceptance Criteria
