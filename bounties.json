@@ -8666,7 +8666,7 @@
         "title": "Kaboom.JS terrain system",
         "description": "I need a 2D terrain system in Kaboom.JS, where I can have infinitely extending ground with a chosen texture (e.g. grass) at varying heights. It should also come with a water system, where I can mark an area to be a body of water that interacts well enough with other objects.\n\nAcceptance Criteria\nMust have worked with Kaboom.JS before\nMust be using Kaboom 3000\nFinal result should be in vanilla JavaScript (feel free to compile from TS as long as it doesn't have any extra problems along with it.",
         "author": "codingMASTER398",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@codingMASTER398/kaboomjs-terrain-sys?t="
     },
     {
@@ -8698,5 +8698,15 @@
         "author": "satish-mk",
         "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@satish-mk/whisper-pyannote-for?t="
+    },
+    {
+        "index": "870",
+        "price": "$32.40",
+        "due_days": "due in 3 days",
+        "title": "Marine radar data processing with C++",
+        "description": "We are looking for someone to develop C++ software that processes marine radar data (PPI scan), converts it from polar to cartesian grid and extracts contours as polygons. The task at hand shouldn't take more than 1 day in our estimation.\n\nPotential steps\nGiven the above, we believe following steps are required:\nGeo reference with epsg 3857\nConvert data from polar to cartesian grid\nInterpolate cartesian grid to fill all pixels (within scan circle)\nGenerate contours on cartesian grid\n\nInput\nTwo dimensional array in polar grid (theta x rho) of byte type\nGeo reference for polar center and scan range in meters\nRequired resolution of cartesian grid\nIntervals for contours extraction\n\nOutput\nCartesian grid with requested resolution\nContours polygons in GeoJSON\n\nSamples\nhttps://gist.github.com/orca-hydromancer/fb090314defa319e9cfbbdee3e37f7e7\ninput.json: array of 250x250 byte values (assume range of 2778 meters, polar center latitude of 59.86879 and longitude of 10.73494)\nc...",
+        "author": "hydromancer0",
+        "posted_time": "8 minutes ago",
+        "link": "https://replit.com/bounties/@hydromancer0/marine-radar-data-pr?t="
     }
 ]

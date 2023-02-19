@@ -6977,7 +6977,7 @@ Link to Project",SatishMummadi,12 hours ago,https://replit.com/bounties/@SatishM
 Acceptance Criteria
 Must have worked with Kaboom.JS before
 Must be using Kaboom 3000
-Final result should be in vanilla JavaScript (feel free to compile from TS as long as it doesn't have any extra problems along with it.",codingMASTER398,14 hours ago,https://replit.com/bounties/@codingMASTER398/kaboomjs-terrain-sys?t=
+Final result should be in vanilla JavaScript (feel free to compile from TS as long as it doesn't have any extra problems along with it.",codingMASTER398,15 hours ago,https://replit.com/bounties/@codingMASTER398/kaboomjs-terrain-sys?t=
 867,$65.00,due in 5 days,MVP iOS App - Spotify insights between friends ,"Discovering and sharing music is easy on Spotify, learning about how your tastes and behaviors compare with your friends is hard. We want to change that.
 
 Acceptance Criteria
@@ -7003,3 +7003,26 @@ https://lablab.ai/t/whisper-transcription-and-speaker-identification
 https://github.com/ahmetoner/whisper-asr-webservice
 
 Link to Project",satish-mk,15 hours ago,https://replit.com/bounties/@satish-mk/whisper-pyannote-for?t=
+870,$32.40,due in 3 days,Marine radar data processing with C++,"We are looking for someone to develop C++ software that processes marine radar data (PPI scan), converts it from polar to cartesian grid and extracts contours as polygons. The task at hand shouldn't take more than 1 day in our estimation.
+
+Potential steps
+Given the above, we believe following steps are required:
+Geo reference with epsg 3857
+Convert data from polar to cartesian grid
+Interpolate cartesian grid to fill all pixels (within scan circle)
+Generate contours on cartesian grid
+
+Input
+Two dimensional array in polar grid (theta x rho) of byte type
+Geo reference for polar center and scan range in meters
+Required resolution of cartesian grid
+Intervals for contours extraction
+
+Output
+Cartesian grid with requested resolution
+Contours polygons in GeoJSON
+
+Samples
+https://gist.github.com/orca-hydromancer/fb090314defa319e9cfbbdee3e37f7e7
+input.json: array of 250x250 byte values (assume range of 2778 meters, polar center latitude of 59.86879 and longitude of 10.73494)
+c...",hydromancer0,8 minutes ago,https://replit.com/bounties/@hydromancer0/marine-radar-data-pr?t=
