@@ -7003,7 +7003,7 @@ https://lablab.ai/t/whisper-transcription-and-speaker-identification
 https://github.com/ahmetoner/whisper-asr-webservice
 
 Link to Project",satish-mk,24 hours ago,https://replit.com/bounties/@satish-mk/whisper-pyannote-for?t=
-870,$32.40,due in 3 days,Marine radar data processing with C++,"We are looking for someone to develop C++ software that processes marine radar data (PPI scan), converts it from polar to cartesian grid and extracts contours as polygons. The task at hand shouldn't take more than 1 day in our estimation.
+870,$32.40,due in 2 days,Marine radar data processing with C++,"We are looking for someone to develop C++ software that processes marine radar data (PPI scan), converts it from polar to cartesian grid and extracts contours as polygons. The task at hand shouldn't take more than 1 day in our estimation.
 
 Potential steps
 Given the above, we believe following steps are required:
@@ -7026,7 +7026,7 @@ Samples
 https://gist.github.com/orca-hydromancer/fb090314defa319e9cfbbdee3e37f7e7
 input.json: array of 250x250 byte values (assume range of 2778 meters, polar center latitude of 59.86879 and longitude of 10.73494)
 c...",hydromancer0,18 hours ago,https://replit.com/bounties/@hydromancer0/marine-radar-data-pr?t=
-871,$45.00,due in 13 days,Adapt Existing Plugin to Obsidian (Send Markdown Tasks to Todoist),"I use Drafts for note taking and use this plugin (https://actions.getdrafts.com/a/1ld) to send any markdown tasks ("" - [ ] Sample Task"") into Todoist.
+871,$45.00,due in 12 days,Adapt Existing Plugin to Obsidian (Send Markdown Tasks to Todoist),"I use Drafts for note taking and use this plugin (https://actions.getdrafts.com/a/1ld) to send any markdown tasks ("" - [ ] Sample Task"") into Todoist.
 
 I'd like to do all my my writing and note-taking in Obsidian instead (http://obsidian.md) and would like to adapt this plugin to work in Obsidian.
 
@@ -7036,8 +7036,8 @@ When in Obsidian, there is a button somewhere on the UI and a Command Palette co
 When that command is selected, the plugin scans the current document for the Markdown Task syntax and sends those tasks as individual tasks into ToDoist, with a link back to the Obsidian note. It also parses any additional Todoist context on the to-do (due date, project, priority, etc.), as the Drafts plugin does.
 The plugin has an area in the settings for adding/updating the user's Todoist API token
 
-Resource...",michaelssorense,16 hours ago,https://replit.com/bounties/@michaelssorense/adapt-existing-plugi?t=
-872,$50.18,due in 18 days,Bugfix: shopify app authentication issue,"I have a built a shopify app that has an authentication issue when installing. App is built with JS.
+Resource...",michaelssorense,17 hours ago,https://replit.com/bounties/@michaelssorense/adapt-existing-plugi?t=
+872,$50.18,due in 17 days,Bugfix: shopify app authentication issue,"I have a built a shopify app that has an authentication issue when installing. App is built with JS.
 
 To re-create issue
 Run the app locally using the shopify cli
@@ -7048,7 +7048,7 @@ Screenshot of error: https://shopify.click/91426-26945-97404-96961-9656.png
 
 Acceptance criteria
 Fix authentication issue so that the address is resolved and on install the shopify app requests user to accept auth and scope permissions",SamuelAbaka-Woo,14 hours ago,https://replit.com/bounties/@SamuelAbaka-Woo/fix-shopify-app-auth?t=
-873,$67.50,due in 9 days,Scrape a Website and Populate a Table,"Create a tool that scrapes the data from a specific apartment building's website and then populate a table with the pertinent data about each available apartment including:
+873,$67.50,due in 8 days,Scrape a Website and Populate a Table,"Create a tool that scrapes the data from a specific apartment building's website and then populate a table with the pertinent data about each available apartment including:
 Unit number
 Unit Type
 Number of Beds
@@ -7061,11 +7061,11 @@ Tool should output the data in CSV format
 Should be able to run the tool daily
 
 Technical Details",conor89,14 hours ago,https://replit.com/bounties/@conor89/scrape-a-website-and?t=
-874,$72.00,due in 15 days,Update Software on Docker,"Can't update UptimeKuma
+874,$72.00,due in 14 days,Update Software on Docker,"Can't update UptimeKuma
 
 Acceptance Criteria
 When software is updated.",nickdumitru,12 hours ago,https://replit.com/bounties/@nickdumitru/update-software-on-d?t=
-875,$450.00,due in 18 days,Apple Mail Extension that integrates with OpenAI,"Create an Apple Mail Extension application that uses OpenAIs API to help auto-suggest text while writing or replying to an email.
+875,$450.00,due in 17 days,Apple Mail Extension that integrates with OpenAI,"Create an Apple Mail Extension application that uses OpenAIs API to help auto-suggest text while writing or replying to an email.
 
 The tools should work like the following:
 
@@ -7083,7 +7083,7 @@ Bounty Hunter must be professional, meet deadlines and respond to messages.
 Technical Details
 Written in Swift.
 Code is clear and concise.",SebastianIbarg1,10 hours ago,https://replit.com/bounties/@SebastianIbarg1/apple-mail-extension?t=
-876,$45.00,due in 9 days,Convert very large PDF Documents to HTML reliably,"#PDF challenge
+876,$45.00,due in 8 days,Convert very large PDF Documents to HTML reliably,"#PDF challenge
 
 We need a solution to scrape large PDF documents into a searchable documents in our elasticsearch implementation. We currently run scrapers which gather hundreds of URLs of these documents.
 
@@ -7096,10 +7096,10 @@ This solution must:
 Convert the documents into HTML in a reasonable amount of time and be reliable
 The result documents must be readable and look generally similar to the original PDF (however it does not need to be identical)
 Must be triggered programmatically.
-The result document must be a reasonable size (preferably less than a few MBs). Would prefer if images in the PDF are kept but compressed, however if this is impossible to also keep the document below 4MBs pictures can b...",PaulVavich,8 hours ago,https://replit.com/bounties/@PaulVavich/convert-very-large-p?t=
-877,$135.00,due in 7 days,BrightPearl / BoldSign - part 3,As discussed,AndrewShowman,3 hours ago,https://replit.com/bounties/@AndrewShowman/brightpearl-boldsign?t=
-878,$90.00,due in 7 days,trustpilot part 3,As discussed,AndrewShowman,3 hours ago,https://replit.com/bounties/@AndrewShowman/trustpilot-part-3?t=
-879,$180.00,due in 8 days,React Native Expo mobile app with Web Speech API,"Develop a simple mobile react native expo app using chrome webview and Web Speech API (SpeechSynthesis)
+The result document must be a reasonable size (preferably less than a few MBs). Would prefer if images in the PDF are kept but compressed, however if this is impossible to also keep the document below 4MBs pictures can b...",PaulVavich,9 hours ago,https://replit.com/bounties/@PaulVavich/convert-very-large-p?t=
+877,$135.00,due in 6 days,BrightPearl / BoldSign - part 3,As discussed,AndrewShowman,3 hours ago,https://replit.com/bounties/@AndrewShowman/brightpearl-boldsign?t=
+878,$90.00,due in 6 days,trustpilot part 3,As discussed,AndrewShowman,3 hours ago,https://replit.com/bounties/@AndrewShowman/trustpilot-part-3?t=
+879,$180.00,due in 7 days,React Native Expo mobile app with Web Speech API,"Develop a simple mobile react native expo app using chrome webview and Web Speech API (SpeechSynthesis)
 https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisVoice
 
 When loaded the app screen should have only 2 buttons.
@@ -7112,4 +7112,4 @@ Users speak by pressing and holding a button, when button is let go, change butt
 
 Speak Text
 App should speak predefined text store in a variable.
-Displaying another button ""Speak Text"", below the ""Record Text"" button. When user cli...",dominikd2,2 hours ago,https://replit.com/bounties/@dominikd2/react-native-expo-mo?t=
+Displaying another button ""Speak Text"", below the ""Record Text"" button. When user cli...",dominikd2,3 hours ago,https://replit.com/bounties/@dominikd2/react-native-expo-mo?t=

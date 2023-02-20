@@ -8702,7 +8702,7 @@
     {
         "index": "870",
         "price": "$32.40",
-        "due_days": "due in 3 days",
+        "due_days": "due in 2 days",
         "title": "Marine radar data processing with C++",
         "description": "We are looking for someone to develop C++ software that processes marine radar data (PPI scan), converts it from polar to cartesian grid and extracts contours as polygons. The task at hand shouldn't take more than 1 day in our estimation.\n\nPotential steps\nGiven the above, we believe following steps are required:\nGeo reference with epsg 3857\nConvert data from polar to cartesian grid\nInterpolate cartesian grid to fill all pixels (within scan circle)\nGenerate contours on cartesian grid\n\nInput\nTwo dimensional array in polar grid (theta x rho) of byte type\nGeo reference for polar center and scan range in meters\nRequired resolution of cartesian grid\nIntervals for contours extraction\n\nOutput\nCartesian grid with requested resolution\nContours polygons in GeoJSON\n\nSamples\nhttps://gist.github.com/orca-hydromancer/fb090314defa319e9cfbbdee3e37f7e7\ninput.json: array of 250x250 byte values (assume range of 2778 meters, polar center latitude of 59.86879 and longitude of 10.73494)\nc...",
         "author": "hydromancer0",
@@ -8712,17 +8712,17 @@
     {
         "index": "871",
         "price": "$45.00",
-        "due_days": "due in 13 days",
+        "due_days": "due in 12 days",
         "title": "Adapt Existing Plugin to Obsidian (Send Markdown Tasks to Todoist)",
         "description": "I use Drafts for note taking and use this plugin (https://actions.getdrafts.com/a/1ld) to send any markdown tasks (\" - [ ] Sample Task\") into Todoist.\n\nI'd like to do all my my writing and note-taking in Obsidian instead (http://obsidian.md) and would like to adapt this plugin to work in Obsidian.\n\nAcceptance Criteria\nA ready-to-install plugin for Obsidian that has the same functionality as the Drafts plugin (https://actions.getdrafts.com/a/1ld)\nWhen in Obsidian, there is a button somewhere on the UI and a Command Palette command titled \"Send Tasks to ToDoist\"\nWhen that command is selected, the plugin scans the current document for the Markdown Task syntax and sends those tasks as individual tasks into ToDoist, with a link back to the Obsidian note. It also parses any additional Todoist context on the to-do (due date, project, priority, etc.), as the Drafts plugin does.\nThe plugin has an area in the settings for adding/updating the user's Todoist API token\n\nResource...",
         "author": "michaelssorense",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@michaelssorense/adapt-existing-plugi?t="
     },
     {
         "index": "872",
         "price": "$50.18",
-        "due_days": "due in 18 days",
+        "due_days": "due in 17 days",
         "title": "Bugfix: shopify app authentication issue",
         "description": "I have a built a shopify app that has an authentication issue when installing. App is built with JS.\n\nTo re-create issue\nRun the app locally using the shopify cli\nSee if you get an error message 'There is no page at this address'\nIf not, uninstall app and re-install and you should see above error\n\nScreenshot of error: https://shopify.click/91426-26945-97404-96961-9656.png\n\nAcceptance criteria\nFix authentication issue so that the address is resolved and on install the shopify app requests user to accept auth and scope permissions",
         "author": "SamuelAbaka-Woo",
@@ -8732,7 +8732,7 @@
     {
         "index": "873",
         "price": "$67.50",
-        "due_days": "due in 9 days",
+        "due_days": "due in 8 days",
         "title": "Scrape a Website and Populate a Table",
         "description": "Create a tool that scrapes the data from a specific apartment building's website and then populate a table with the pertinent data about each available apartment including:\nUnit number\nUnit Type\nNumber of Beds\nSquare Footage\nDate Available\nAsking Rent\n\nAcceptance Criteria\nTool should output the data in CSV format\nShould be able to run the tool daily\n\nTechnical Details",
         "author": "conor89",
@@ -8742,7 +8742,7 @@
     {
         "index": "874",
         "price": "$72.00",
-        "due_days": "due in 15 days",
+        "due_days": "due in 14 days",
         "title": "Update Software on Docker",
         "description": "Can't update UptimeKuma\n\nAcceptance Criteria\nWhen software is updated.",
         "author": "nickdumitru",
@@ -8752,7 +8752,7 @@
     {
         "index": "875",
         "price": "$450.00",
-        "due_days": "due in 18 days",
+        "due_days": "due in 17 days",
         "title": "Apple Mail Extension that integrates with OpenAI",
         "description": "Create an Apple Mail Extension application that uses OpenAIs API to help auto-suggest text while writing or replying to an email.\n\nThe tools should work like the following:\n\nCan be triggered manually using a shortcut (say command+space)\nThe prompt sent to the model includes the email thread you're responding to. If the email chain is too long it needs to be truncated.\nCan complete entire emails\n\nAcceptance Criteria\nSelf contained Xcode Project, that runs after configuring OpenAI API Key.\nBounty hunter must have experience working with Xcode and Mac projects. Ideally with Mail.\nUX should me minimalistic. Can be a simple menu or system buttons.\nCode is not publish, should be shared.\nBounty Hunter must be professional, meet deadlines and respond to messages.\n\nTechnical Details\nWritten in Swift.\nCode is clear and concise.",
         "author": "SebastianIbarg1",
@@ -8762,17 +8762,17 @@
     {
         "index": "876",
         "price": "$45.00",
-        "due_days": "due in 9 days",
+        "due_days": "due in 8 days",
         "title": "Convert very large PDF Documents to HTML reliably",
         "description": "#PDF challenge\n\nWe need a solution to scrape large PDF documents into a searchable documents in our elasticsearch implementation. We currently run scrapers which gather hundreds of URLs of these documents.\n\nFirst Preference - Convert document to HTML\n\nOur first preference is that there is a solution to convert large PDF documents into HTML documents that can be displayed on our web service. We are looking for a solution that will take an input URL (of the PDF document), download it, convert it to a nice HTML.\n\nThis solution must:\n\nConvert the documents into HTML in a reasonable amount of time and be reliable\nThe result documents must be readable and look generally similar to the original PDF (however it does not need to be identical)\nMust be triggered programmatically.\nThe result document must be a reasonable size (preferably less than a few MBs). Would prefer if images in the PDF are kept but compressed, however if this is impossible to also keep the document below 4MBs pictures can b...",
         "author": "PaulVavich",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@PaulVavich/convert-very-large-p?t="
     },
     {
         "index": "877",
         "price": "$135.00",
-        "due_days": "due in 7 days",
+        "due_days": "due in 6 days",
         "title": "BrightPearl / BoldSign - part 3",
         "description": "As discussed",
         "author": "AndrewShowman",
@@ -8782,7 +8782,7 @@
     {
         "index": "878",
         "price": "$90.00",
-        "due_days": "due in 7 days",
+        "due_days": "due in 6 days",
         "title": "trustpilot part 3",
         "description": "As discussed",
         "author": "AndrewShowman",
@@ -8792,11 +8792,11 @@
     {
         "index": "879",
         "price": "$180.00",
-        "due_days": "due in 8 days",
+        "due_days": "due in 7 days",
         "title": "React Native Expo mobile app with Web Speech API",
         "description": "Develop a simple mobile react native expo app using chrome webview and Web Speech API (SpeechSynthesis)\nhttps://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisVoice\n\nWhen loaded the app screen should have only 2 buttons.\nRecord Text\nSpeak Text\n\nRecord Text\nAllowing users to speak into the app and see their message in plain text.\nUsers speak by pressing and holding a button, when button is let go, change button state to disabled. The app should convert speech to text using SpeechSynthesis, and when done display the text below the Record Text button. When the text is printed, change button state back to enabled. Users should be able to re-use this functionality of course when the button is enabled. When running the logic again, simply overwrite the previous text on the screen with the new voice message spoken.\n\nSpeak Text\nApp should speak predefined text store in a variable.\nDisplaying another button \"Speak Text\", below the \"Record Text\" button. When user cli...",
         "author": "dominikd2",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@dominikd2/react-native-expo-mo?t="
     }
 ]
