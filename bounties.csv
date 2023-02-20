@@ -7082,7 +7082,7 @@ Bounty Hunter must be professional, meet deadlines and respond to messages.
 
 Technical Details
 Written in Swift.
-Code is clear and concise.",SebastianIbarg1,14 hours ago,https://replit.com/bounties/@SebastianIbarg1/apple-mail-extension?t=
+Code is clear and concise.",SebastianIbarg1,15 hours ago,https://replit.com/bounties/@SebastianIbarg1/apple-mail-extension?t=
 876,$45.00,due in 8 days,Convert very large PDF Documents to HTML reliably,"#PDF challenge
 
 We need a solution to scrape large PDF documents into a searchable documents in our elasticsearch implementation. We currently run scrapers which gather hundreds of URLs of these documents.
@@ -7161,4 +7161,25 @@ A MUI DataGrid Pro reusable, styled component with the three popups with a style
 This means that: i) The popup is a similar color / transparency, rounded corners, border, shadow, etc., ii) That a row is highlighted in a similar style on hover, and iii) the cursor is a pointer
 
 Link to Project
-Sample code can be found here: https://codesandbox.io/s/nifty-glitter-gb1s4x?file=/demo.tsx. You can just fork this sandbox and send to complete the work",marsimard,44 minutes ago,https://replit.com/bounties/@marsimard/dark-mode-styling-su?t=
+Sample code can be found here: https://codesandbox.io/s/nifty-glitter-gb1s4x?file=/demo.tsx. You can just fork this sandbox and send to complete the work",marsimard,57 minutes ago,https://replit.com/bounties/@marsimard/dark-mode-styling-su?t=
+884,$112.50,due in 4 days,NextJS Supabase Blog Boilerplate,"Create a web app that displays articles and gives the user the option to comment (very straightforward blog). Content for the articles will come from Supabase; user comments are also stored in Supabase. Users must authenticate with Supabase Auth before posting a comment.
+
+Acceptance Criteria
+User can see a list of articles
+User can click on an article to see details
+User can view comments on the article
+User can sign up/in with email
+User can leave a comment on the article; is prompted to login before posting is allowed.
+
+Technical Details
+NextJS
+Typescript
+Supabase
+Tailwind
+
+Most of this is available in various templates. We just need to put it together into a starter app.
+Supabase Auth Example: https://vercel.com/templates/next.js/supabase-authentication
+Article design: https://demo.vercel.pub/150m-series-d
+Blog with comments: https://vercel.com/templates/next.js/blog-with-comments
+
+Applicants who can show previous related experience will be prioritized",BPaper,2 minutes ago,https://replit.com/bounties/@BPaper/nextjs-supabase-blog?t=
