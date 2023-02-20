@@ -7096,7 +7096,7 @@ This solution must:
 Convert the documents into HTML in a reasonable amount of time and be reliable
 The result documents must be readable and look generally similar to the original PDF (however it does not need to be identical)
 Must be triggered programmatically.
-The result document must be a reasonable size (preferably less than a few MBs). Would prefer if images in the PDF are kept but compressed, however if this is impossible to also keep the document below 4MBs pictures can b...",PaulVavich,14 hours ago,https://replit.com/bounties/@PaulVavich/convert-very-large-p?t=
+The result document must be a reasonable size (preferably less than a few MBs). Would prefer if images in the PDF are kept but compressed, however if this is impossible to also keep the document below 4MBs pictures can b...",PaulVavich,15 hours ago,https://replit.com/bounties/@PaulVavich/convert-very-large-p?t=
 877,$135.00,due in 6 days,BrightPearl / BoldSign - part 3,As discussed,AndrewShowman,9 hours ago,https://replit.com/bounties/@AndrewShowman/brightpearl-boldsign?t=
 878,$90.00,due in 6 days,trustpilot part 3,As discussed,AndrewShowman,9 hours ago,https://replit.com/bounties/@AndrewShowman/trustpilot-part-3?t=
 879,$180.00,due in 7 days,React Native Expo mobile app with Web Speech API,"Develop a simple mobile react native expo app using chrome webview and Web Speech API (SpeechSynthesis)
@@ -7122,7 +7122,7 @@ The app must have a simple and user-friendly UI that allows users to input docs 
 
 The app must be able to scrape docs webpages, clean and preprocess the data, and convert it into numerical vectors for analysis. Our docs are hosted in the Zendesk Guide. For scrapping the docs, you can try this https://llamahub.ai/l/web-knowledge_base
 
-*The user must be able to authorize access to Zendesk, Gmail and Discord. Open source connector...",ST72,5 hours ago,https://replit.com/bounties/@ST72/qanda-with-langchain?t=
+*The user must be able to authorize access to Zendesk, Gmail and Discord. Open source connector...",ST72,6 hours ago,https://replit.com/bounties/@ST72/qanda-with-langchain?t=
 881,$540.00,due in 7 days,Bubble MVP Basic Web App Development,"I am seeking a Bubble developer to me help build the MVP of a web application. The successful candidate will work closely with me to convert the existing prototype, which was built using the Anvil Python Framework Web App Builder, into a functional web app using the Bubble platform.
 
 Responsibilities:
@@ -7183,4 +7183,4 @@ Article design: https://demo.vercel.pub/150m-series-d
 Blog with comments: https://vercel.com/templates/next.js/blog-with-comments
 
 Applicants who can show previous related experience will be prioritized",BPaper,1 hour ago,https://replit.com/bounties/@BPaper/nextjs-supabase-blog?t=
-885,$67.50,due in 13 days,Swordbattle v2 Interpolation,Build a clean and smooth interpolation system for swordbattle v2,CoderGautamYT,51 minutes ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-inter?t=
+885,$67.50,due in 13 days,Swordbattle v2 Interpolation,Build a clean and smooth interpolation system for swordbattle v2,CoderGautamYT,1 hour ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-inter?t=
