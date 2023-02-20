@@ -8726,7 +8726,7 @@
         "title": "Bugfix: shopify app authentication issue",
         "description": "I have a built a shopify app that has an authentication issue when installing. App is built with JS.\n\nTo re-create issue\nRun the app locally using the shopify cli\nSee if you get an error message 'There is no page at this address'\nIf not, uninstall app and re-install and you should see above error\n\nScreenshot of error: https://shopify.click/91426-26945-97404-96961-9656.png\n\nAcceptance criteria\nFix authentication issue so that the address is resolved and on install the shopify app requests user to accept auth and scope permissions",
         "author": "SamuelAbaka-Woo",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@SamuelAbaka-Woo/fix-shopify-app-auth?t="
     },
     {
@@ -8736,7 +8736,7 @@
         "title": "Scrape a Website and Populate a Table",
         "description": "Create a tool that scrapes the data from a specific apartment building's website and then populate a table with the pertinent data about each available apartment including:\nUnit number\nUnit Type\nNumber of Beds\nSquare Footage\nDate Available\nAsking Rent\n\nAcceptance Criteria\nTool should output the data in CSV format\nShould be able to run the tool daily\n\nTechnical Details",
         "author": "conor89",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@conor89/scrape-a-website-and?t="
     },
     {
@@ -8776,7 +8776,7 @@
         "title": "BrightPearl / BoldSign - part 3",
         "description": "As discussed",
         "author": "AndrewShowman",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/brightpearl-boldsign?t="
     },
     {
@@ -8786,7 +8786,7 @@
         "title": "trustpilot part 3",
         "description": "As discussed",
         "author": "AndrewShowman",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/trustpilot-part-3?t="
     },
     {
@@ -8806,7 +8806,7 @@
         "title": "Q&A with Langchain and GPT3",
         "description": "The goal of this project is to build a proof of concept Q&A web app that takes product documentation by ulr, Discord chat messages, support tickets (Zendesk) and Gmail emails as a knowledge base and provides relevant answers to user questions.\n\nAcceptance Criteria\nThe app must be able to accurately answer user questions based on the knowledge base of product documentation, Discord chat messages, and Gmail emails.\n\nThe app must have a simple and user-friendly UI that allows users to input docs URLs, connect Discord, connect Zendesk, connect Gmail, and ask questions and receive relevant answers. The UI design part is on me.\n\nThe app must be able to scrape docs webpages, clean and preprocess the data, and convert it into numerical vectors for analysis. Our docs are hosted in the Zendesk Guide. For scrapping the docs, you can try this https://llamahub.ai/l/web-knowledge_base\n\n*The user must be able to authorize access to Zendesk, Gmail and Discord. Open source connector...",
         "author": "ST72",
-        "posted_time": "46 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@ST72/qanda-with-langchain?t="
     }
 ]
