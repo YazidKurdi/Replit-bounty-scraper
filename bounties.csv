@@ -7047,7 +7047,7 @@ If not, uninstall app and re-install and you should see above error
 Screenshot of error: https://shopify.click/91426-26945-97404-96961-9656.png
 
 Acceptance criteria
-Fix authentication issue so that the address is resolved and on install the shopify app requests user to accept auth and scope permissions",SamuelAbaka-Woo,16 hours ago,https://replit.com/bounties/@SamuelAbaka-Woo/fix-shopify-app-auth?t=
+Fix authentication issue so that the address is resolved and on install the shopify app requests user to accept auth and scope permissions",SamuelAbaka-Woo,17 hours ago,https://replit.com/bounties/@SamuelAbaka-Woo/fix-shopify-app-auth?t=
 873,$67.50,due in 8 days,Scrape a Website and Populate a Table,"Create a tool that scrapes the data from a specific apartment building's website and then populate a table with the pertinent data about each available apartment including:
 Unit number
 Unit Type
@@ -7060,7 +7060,7 @@ Acceptance Criteria
 Tool should output the data in CSV format
 Should be able to run the tool daily
 
-Technical Details",conor89,16 hours ago,https://replit.com/bounties/@conor89/scrape-a-website-and?t=
+Technical Details",conor89,17 hours ago,https://replit.com/bounties/@conor89/scrape-a-website-and?t=
 874,$72.00,due in 14 days,Update Software on Docker,"Can't update UptimeKuma
 
 Acceptance Criteria
@@ -7098,7 +7098,7 @@ The result documents must be readable and look generally similar to the original
 Must be triggered programmatically.
 The result document must be a reasonable size (preferably less than a few MBs). Would prefer if images in the PDF are kept but compressed, however if this is impossible to also keep the document below 4MBs pictures can b...",PaulVavich,11 hours ago,https://replit.com/bounties/@PaulVavich/convert-very-large-p?t=
 877,$135.00,due in 6 days,BrightPearl / BoldSign - part 3,As discussed,AndrewShowman,6 hours ago,https://replit.com/bounties/@AndrewShowman/brightpearl-boldsign?t=
-878,$90.00,due in 6 days,trustpilot part 3,As discussed,AndrewShowman,5 hours ago,https://replit.com/bounties/@AndrewShowman/trustpilot-part-3?t=
+878,$90.00,due in 6 days,trustpilot part 3,As discussed,AndrewShowman,6 hours ago,https://replit.com/bounties/@AndrewShowman/trustpilot-part-3?t=
 879,$180.00,due in 7 days,React Native Expo mobile app with Web Speech API,"Develop a simple mobile react native expo app using chrome webview and Web Speech API (SpeechSynthesis)
 https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisVoice
 
