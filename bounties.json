@@ -8776,7 +8776,7 @@
         "title": "BrightPearl / BoldSign - part 3",
         "description": "As discussed",
         "author": "AndrewShowman",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/brightpearl-boldsign?t="
     },
     {
@@ -8796,7 +8796,7 @@
         "title": "React Native Expo mobile app with Web Speech API",
         "description": "Develop a simple mobile react native expo app using chrome webview and Web Speech API (SpeechSynthesis)\nhttps://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisVoice\n\nWhen loaded the app screen should have only 2 buttons.\nRecord Text\nSpeak Text\n\nRecord Text\nAllowing users to speak into the app and see their message in plain text.\nUsers speak by pressing and holding a button, when button is let go, change button state to disabled. The app should convert speech to text using SpeechSynthesis, and when done display the text below the Record Text button. When the text is printed, change button state back to enabled. Users should be able to re-use this functionality of course when the button is enabled. When running the logic again, simply overwrite the previous text on the screen with the new voice message spoken.\n\nSpeak Text\nApp should speak predefined text store in a variable.\nDisplaying another button \"Speak Text\", below the \"Record Text\" button. When user cli...",
         "author": "dominikd2",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@dominikd2/react-native-expo-mo?t="
     }
 ]
