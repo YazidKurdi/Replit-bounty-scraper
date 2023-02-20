@@ -7097,7 +7097,7 @@ Convert the documents into HTML in a reasonable amount of time and be reliable
 The result documents must be readable and look generally similar to the original PDF (however it does not need to be identical)
 Must be triggered programmatically.
 The result document must be a reasonable size (preferably less than a few MBs). Would prefer if images in the PDF are kept but compressed, however if this is impossible to also keep the document below 4MBs pictures can b...",PaulVavich,14 hours ago,https://replit.com/bounties/@PaulVavich/convert-very-large-p?t=
-877,$135.00,due in 6 days,BrightPearl / BoldSign - part 3,As discussed,AndrewShowman,8 hours ago,https://replit.com/bounties/@AndrewShowman/brightpearl-boldsign?t=
+877,$135.00,due in 6 days,BrightPearl / BoldSign - part 3,As discussed,AndrewShowman,9 hours ago,https://replit.com/bounties/@AndrewShowman/brightpearl-boldsign?t=
 878,$90.00,due in 6 days,trustpilot part 3,As discussed,AndrewShowman,8 hours ago,https://replit.com/bounties/@AndrewShowman/trustpilot-part-3?t=
 879,$180.00,due in 7 days,React Native Expo mobile app with Web Speech API,"Develop a simple mobile react native expo app using chrome webview and Web Speech API (SpeechSynthesis)
 https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisVoice
@@ -7112,7 +7112,7 @@ Users speak by pressing and holding a button, when button is let go, change butt
 
 Speak Text
 App should speak predefined text store in a variable.
-Displaying another button ""Speak Text"", below the ""Record Text"" button. When user cli...",dominikd2,7 hours ago,https://replit.com/bounties/@dominikd2/react-native-expo-mo?t=
+Displaying another button ""Speak Text"", below the ""Record Text"" button. When user cli...",dominikd2,8 hours ago,https://replit.com/bounties/@dominikd2/react-native-expo-mo?t=
 880,"$3,000.00",due in 22 days,Q&A with Langchain and GPT3,"The goal of this project is to build a proof of concept Q&A web app that takes product documentation by ulr, Discord chat messages, support tickets (Zendesk) and Gmail emails as a knowledge base and provides relevant answers to user questions.
 
 Acceptance Criteria
@@ -7145,7 +7145,7 @@ Settings page with option to delete account
 
 This is an exciting opportunity to bring a simple CRUD app to life. A completely bespoke solution is not required and using templates to achieve the desired functionality is encouraged if it speeds up the process.
 
-Note:...",rhodowen,2 hours ago,https://replit.com/bounties/@rhodowen/bubble-mvp-basic-web?t=
+Note:...",rhodowen,3 hours ago,https://replit.com/bounties/@rhodowen/bubble-mvp-basic-web?t=
 882,$20.00,due in 13 days,Data Subscription Provisioning and Account Management Tool,"Setup products + pricing in Stripe and create a managing Postgres DB
 Create a webhook in Stripe when payment is successful
 Setup a server-side script that can receive that notification and automatically update the Postgres DB (Python or Node.js)
@@ -7182,5 +7182,5 @@ Supabase Auth Example: https://vercel.com/templates/next.js/supabase-authenticat
 Article design: https://demo.vercel.pub/150m-series-d
 Blog with comments: https://vercel.com/templates/next.js/blog-with-comments
 
-Applicants who can show previous related experience will be prioritized",BPaper,20 minutes ago,https://replit.com/bounties/@BPaper/nextjs-supabase-blog?t=
-885,$67.50,due in 13 days,Swordbattle v2 Interpolation,Build a clean and smooth interpolation system for swordbattle v2,CoderGautamYT,7 minutes ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-inter?t=
+Applicants who can show previous related experience will be prioritized",BPaper,35 minutes ago,https://replit.com/bounties/@BPaper/nextjs-supabase-blog?t=
+885,$67.50,due in 13 days,Swordbattle v2 Interpolation,Build a clean and smooth interpolation system for swordbattle v2,CoderGautamYT,23 minutes ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-inter?t=
