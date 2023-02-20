@@ -7112,7 +7112,7 @@ Users speak by pressing and holding a button, when button is let go, change butt
 
 Speak Text
 App should speak predefined text store in a variable.
-Displaying another button ""Speak Text"", below the ""Record Text"" button. When user cli...",dominikd2,12 hours ago,https://replit.com/bounties/@dominikd2/react-native-expo-mo?t=
+Displaying another button ""Speak Text"", below the ""Record Text"" button. When user cli...",dominikd2,13 hours ago,https://replit.com/bounties/@dominikd2/react-native-expo-mo?t=
 880,"$3,000.00",due in 22 days,Q&A with Langchain and GPT3,"The goal of this project is to build a proof of concept Q&A web app that takes product documentation by ulr, Discord chat messages, support tickets (Zendesk) and Gmail emails as a knowledge base and provides relevant answers to user questions.
 
 Acceptance Criteria
@@ -7145,7 +7145,7 @@ Settings page with option to delete account
 
 This is an exciting opportunity to bring a simple CRUD app to life. A completely bespoke solution is not required and using templates to achieve the desired functionality is encouraged if it speeds up the process.
 
-Note:...",rhodowen,7 hours ago,https://replit.com/bounties/@rhodowen/bubble-mvp-basic-web?t=
+Note:...",rhodowen,8 hours ago,https://replit.com/bounties/@rhodowen/bubble-mvp-basic-web?t=
 882,$20.00,due in 7 days,Data Subscription Provisioning and Account Management Tool,"Setup products + pricing in Stripe and create a managing Postgres DB
 Create a webhook in Stripe when payment is successful
 Setup a server-side script that can receive that notification and automatically update the Postgres DB (Python or Node.js)
@@ -7161,7 +7161,7 @@ A MUI DataGrid Pro reusable, styled component with the three popups with a style
 This means that: i) The popup is a similar color / transparency, rounded corners, border, shadow, etc., ii) That a row is highlighted in a similar style on hover, and iii) the cursor is a pointer
 
 Link to Project
-Sample code can be found here: https://codesandbox.io/s/nifty-glitter-gb1s4x?file=/demo.tsx. You can just fork this sandbox and send to complete the work",marsimard,6 hours ago,https://replit.com/bounties/@marsimard/dark-mode-styling-su?t=
+Sample code can be found here: https://codesandbox.io/s/nifty-glitter-gb1s4x?file=/demo.tsx. You can just fork this sandbox and send to complete the work",marsimard,7 hours ago,https://replit.com/bounties/@marsimard/dark-mode-styling-su?t=
 884,$112.50,due in 4 days,NextJS Supabase Blog Boilerplate,"Create a web app that displays articles and gives the user the option to comment (very straightforward blog). Content for the articles will come from Supabase; user comments are also stored in Supabase. Users must authenticate with Supabase Auth before posting a comment.
 
 Acceptance Criteria
@@ -7182,7 +7182,7 @@ Supabase Auth Example: https://vercel.com/templates/next.js/supabase-authenticat
 Article design: https://demo.vercel.pub/150m-series-d
 Blog with comments: https://vercel.com/templates/next.js/blog-with-comments
 
-Applicants who can show previous related experience will be prioritized",BPaper,5 hours ago,https://replit.com/bounties/@BPaper/nextjs-supabase-blog?t=
+Applicants who can show previous related experience will be prioritized",BPaper,6 hours ago,https://replit.com/bounties/@BPaper/nextjs-supabase-blog?t=
 885,$67.50,due in 13 days,Swordbattle v2 Interpolation,Build a clean and smooth interpolation system for swordbattle v2,CoderGautamYT,5 hours ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-inter?t=
 886,$150.00,due in 11 days,Additional Features for Live Quiz Website,"Bounty for  @GrimSteel to continue the development of additional features for a Live Quiz Website.
 
@@ -7201,7 +7201,7 @@ Features:
 https://research-assets.cbinsights.com/2022/11/14115447/SC-genAI-map.png
 
 Acceptance Criteria
-It should be a Replit codebase that reads from a database & outputs an image that's rendered on a webpage.",avlok,53 minutes ago,https://replit.com/bounties/@avlok/dynamic-market-map?t=
+It should be a Replit codebase that reads from a database & outputs an image that's rendered on a webpage.",avlok,1 hour ago,https://replit.com/bounties/@avlok/dynamic-market-map?t=
 888,$100.00,due in 7 days,Modify React App. Add stripe integration with firebase,"I have a React app, which currently supports authentication. I need it to accept stripe payments, and give access to specific pages only when a user has paid
 Description
 Use stripe checkout to process credit card information after login
@@ -7214,4 +7214,4 @@ Technical Details
 React Project that uses docusaurus framework
 
 Link to Project
-https://github.com/mosesju/hardworking-hippo",mosesju,42 minutes ago,https://replit.com/bounties/@mosesju/modify-react-app-add?t=
+https://github.com/mosesju/hardworking-hippo",mosesju,59 minutes ago,https://replit.com/bounties/@mosesju/modify-react-app-add?t=
