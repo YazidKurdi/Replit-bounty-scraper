@@ -8736,7 +8736,7 @@
         "title": "Scrape a Website and Populate a Table",
         "description": "Create a tool that scrapes the data from a specific apartment building's website and then populate a table with the pertinent data about each available apartment including:\nUnit number\nUnit Type\nNumber of Beds\nSquare Footage\nDate Available\nAsking Rent\n\nAcceptance Criteria\nTool should output the data in CSV format\nShould be able to run the tool daily\n\nTechnical Details",
         "author": "conor89",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@conor89/scrape-a-website-and?t="
     },
     {
@@ -8786,7 +8786,7 @@
         "title": "trustpilot part 3",
         "description": "As discussed",
         "author": "AndrewShowman",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/trustpilot-part-3?t="
     },
     {
@@ -8816,7 +8816,7 @@
         "title": "Bubble MVP Basic Web App Development",
         "description": "I am seeking a Bubble developer to me help build the MVP of a web application. The successful candidate will work closely with me to convert the existing prototype, which was built using the Anvil Python Framework Web App Builder, into a functional web app using the Bubble platform.\n\nResponsibilities:\n\nBuild the web app based on the provided anvil protoype.\n\nImplement the following features:\n\nLogin and signup\nMain structure with header and sidebar\nPage 1:\nButton to add a new \u2018campaign\u2019 with two inputs\nStack of collapsible sections, one for each campaign\nTable of items to complete within each campaign\nButton to add new items to the table\nPage 2:\nFilterable table by dropdown selection\nOption to add items to campaigns on page 1\nSettings page with option to delete account\n\nThis is an exciting opportunity to bring a simple CRUD app to life. A completely bespoke solution is not required and using templates to achieve the desired functionality is encouraged if it speeds up the process.\n\nNote:...",
         "author": "rhodowen",
-        "posted_time": "36 minutes ago",
+        "posted_time": "46 minutes ago",
         "link": "https://replit.com/bounties/@rhodowen/bubble-mvp-basic-web?t="
     },
     {
@@ -8826,7 +8826,7 @@
         "title": "Data Subscription Provisioning and Account Management Tool",
         "description": "Setup products + pricing in Stripe and create a managing Postgres DB\nCreate a webhook in Stripe when payment is successful\nSetup a server-side script that can receive that notification and automatically update the Postgres DB (Python or Node.js)\n\tThis will need to parse the stripe webhook payload to pull the right information from the customer paying - Name, company, phone number, email, payment amount\n\tThis can be configured within the server-side script and in PostgreSQL library\nWhen payment is received server-side script will generate an API key using a random string generator and store it in the managing postgres DB\nConnect email account to managing DB to auto send an email to the purchaser of their API key - Python script using smtplib library (Or developer recomendation)\nTo track a user's access based on up to date payment, a boolean field will be added to the managing DB that the server-side script can check based on user input - if the user's payment goes through the API key wi...",
         "author": "GrailTrail99",
-        "posted_time": "30 minutes ago",
+        "posted_time": "40 minutes ago",
         "link": "https://replit.com/bounties/@GrailTrail99/data-subscription-pr?t="
     }
 ]

@@ -7060,7 +7060,7 @@ Acceptance Criteria
 Tool should output the data in CSV format
 Should be able to run the tool daily
 
-Technical Details",conor89,17 hours ago,https://replit.com/bounties/@conor89/scrape-a-website-and?t=
+Technical Details",conor89,18 hours ago,https://replit.com/bounties/@conor89/scrape-a-website-and?t=
 874,$72.00,due in 14 days,Update Software on Docker,"Can't update UptimeKuma
 
 Acceptance Criteria
@@ -7098,7 +7098,7 @@ The result documents must be readable and look generally similar to the original
 Must be triggered programmatically.
 The result document must be a reasonable size (preferably less than a few MBs). Would prefer if images in the PDF are kept but compressed, however if this is impossible to also keep the document below 4MBs pictures can b...",PaulVavich,12 hours ago,https://replit.com/bounties/@PaulVavich/convert-very-large-p?t=
 877,$135.00,due in 6 days,BrightPearl / BoldSign - part 3,As discussed,AndrewShowman,7 hours ago,https://replit.com/bounties/@AndrewShowman/brightpearl-boldsign?t=
-878,$90.00,due in 6 days,trustpilot part 3,As discussed,AndrewShowman,6 hours ago,https://replit.com/bounties/@AndrewShowman/trustpilot-part-3?t=
+878,$90.00,due in 6 days,trustpilot part 3,As discussed,AndrewShowman,7 hours ago,https://replit.com/bounties/@AndrewShowman/trustpilot-part-3?t=
 879,$180.00,due in 7 days,React Native Expo mobile app with Web Speech API,"Develop a simple mobile react native expo app using chrome webview and Web Speech API (SpeechSynthesis)
 https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisVoice
 
@@ -7145,7 +7145,7 @@ Settings page with option to delete account
 
 This is an exciting opportunity to bring a simple CRUD app to life. A completely bespoke solution is not required and using templates to achieve the desired functionality is encouraged if it speeds up the process.
 
-Note:...",rhodowen,36 minutes ago,https://replit.com/bounties/@rhodowen/bubble-mvp-basic-web?t=
+Note:...",rhodowen,46 minutes ago,https://replit.com/bounties/@rhodowen/bubble-mvp-basic-web?t=
 882,$20.00,due in 13 days,Data Subscription Provisioning and Account Management Tool,"Setup products + pricing in Stripe and create a managing Postgres DB
 Create a webhook in Stripe when payment is successful
 Setup a server-side script that can receive that notification and automatically update the Postgres DB (Python or Node.js)
@@ -7153,4 +7153,4 @@ Setup a server-side script that can receive that notification and automatically 
 	This can be configured within the server-side script and in PostgreSQL library
 When payment is received server-side script will generate an API key using a random string generator and store it in the managing postgres DB
 Connect email account to managing DB to auto send an email to the purchaser of their API key - Python script using smtplib library (Or developer recomendation)
-To track a user's access based on up to date payment, a boolean field will be added to the managing DB that the server-side script can check based on user input - if the user's payment goes through the API key wi...",GrailTrail99,30 minutes ago,https://replit.com/bounties/@GrailTrail99/data-subscription-pr?t=
+To track a user's access based on up to date payment, a boolean field will be added to the managing DB that the server-side script can check based on user input - if the user's payment goes through the API key wi...",GrailTrail99,40 minutes ago,https://replit.com/bounties/@GrailTrail99/data-subscription-pr?t=
