@@ -8876,7 +8876,7 @@
         "title": "Dynamic Market Map",
         "description": "I'm creating a dynamic market map of the different AI companies. I would like a simple app that reads the category & logos from a database, and outputs as close to this image as possible.\n\nhttps://research-assets.cbinsights.com/2022/11/14115447/SC-genAI-map.png\n\nAcceptance Criteria\nIt should be a Replit codebase that reads from a database & outputs an image that's rendered on a webpage.",
         "author": "avlok",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@avlok/dynamic-market-map?t="
     },
     {
@@ -8896,7 +8896,17 @@
         "title": "Send me list of every subdomain for given domain (50k+)",
         "description": "I want to find every single subdomain for a given domain. There are at least 50k subdomains\n\ni been trying a few tools but cant find anything that is thoroughly finding all subdomains\n\nOne site found 7.8k but i know theres at least 5x that.\n\nI believe something like Knockpy or Sublist3r may be able to achieve this\n\nAcceptance Criteria\nList of 50k plus subdomains for domain I provide\n\nTechnical Details\nCSV output or google sheet with a list of all the domains\n\nDomain\nProvided on acceptance",
         "author": "SamuelAbaka-Woo",
-        "posted_time": "56 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@SamuelAbaka-Woo/send-me-list-of-ever?t="
+    },
+    {
+        "index": "890",
+        "price": "$45.00",
+        "due_days": "due in 6 days",
+        "title": "Show me my questrade account daily P/L",
+        "description": "I want anyone to be able to connect to their questrade account and see their daily p/l % and dollar value. That's it.",
+        "author": "fabiosworld",
+        "posted_time": "6 minutes ago",
+        "link": "https://replit.com/bounties/@fabiosworld/show-me-my-questrade?t="
     }
 ]

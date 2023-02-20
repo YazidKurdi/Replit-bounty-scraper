@@ -7201,7 +7201,7 @@ Features:
 https://research-assets.cbinsights.com/2022/11/14115447/SC-genAI-map.png
 
 Acceptance Criteria
-It should be a Replit codebase that reads from a database & outputs an image that's rendered on a webpage.",avlok,2 hours ago,https://replit.com/bounties/@avlok/dynamic-market-map?t=
+It should be a Replit codebase that reads from a database & outputs an image that's rendered on a webpage.",avlok,3 hours ago,https://replit.com/bounties/@avlok/dynamic-market-map?t=
 888,$100.00,due in 7 days,Modify React App. Add stripe integration with firebase,"I have a React app, which currently supports authentication. I need it to accept stripe payments, and give access to specific pages only when a user has paid
 Description
 Use stripe checkout to process credit card information after login
@@ -7230,4 +7230,5 @@ Technical Details
 CSV output or google sheet with a list of all the domains
 
 Domain
-Provided on acceptance",SamuelAbaka-Woo,56 minutes ago,https://replit.com/bounties/@SamuelAbaka-Woo/send-me-list-of-ever?t=
+Provided on acceptance",SamuelAbaka-Woo,1 hour ago,https://replit.com/bounties/@SamuelAbaka-Woo/send-me-list-of-ever?t=
+890,$45.00,due in 6 days,Show me my questrade account daily P/L,I want anyone to be able to connect to their questrade account and see their daily p/l % and dollar value. That's it.,fabiosworld,6 minutes ago,https://replit.com/bounties/@fabiosworld/show-me-my-questrade?t=
