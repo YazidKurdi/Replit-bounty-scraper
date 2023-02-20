@@ -6988,7 +6988,7 @@ users can see who they are connected with on the app
 users can send a text to their friends to invite them to the app
 
 Timelines / Milestones
-User installs and creates an account by linking their spotify via the authorization code flow",Quinn-LiLi,23 hours ago,https://replit.com/bounties/@Quinn-LiLi/mvp-ios-app-spotify?t=
+User installs and creates an account by linking their spotify via the authorization code flow",Quinn-LiLi,24 hours ago,https://replit.com/bounties/@Quinn-LiLi/mvp-ios-app-spotify?t=
 868,$45.00,due in 3 days,Set up a replit from an existing application,"I have an existing ASP.NET MVC application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.
 
 Acceptance Criteria
@@ -7082,7 +7082,7 @@ Bounty Hunter must be professional, meet deadlines and respond to messages.
 
 Technical Details
 Written in Swift.
-Code is clear and concise.",SebastianIbarg1,1 hour ago,https://replit.com/bounties/@SebastianIbarg1/apple-mail-extension?t=
+Code is clear and concise.",SebastianIbarg1,2 hours ago,https://replit.com/bounties/@SebastianIbarg1/apple-mail-extension?t=
 876,$45.00,due in 9 days,Convert very large PDF Documents to HTML reliably,"#PDF challenge
 
 We need a solution to scrape large PDF documents into a searchable documents in our elasticsearch implementation. We currently run scrapers which gather hundreds of URLs of these documents.
@@ -7096,4 +7096,4 @@ This solution must:
 Convert the documents into HTML in a reasonable amount of time and be reliable
 The result documents must be readable and look generally similar to the original PDF (however it does not need to be identical)
 Must be triggered programmatically.
-The result document must be a reasonable size (preferably less than a few MBs). Would prefer if images in the PDF are kept but compressed, however if this is impossible to also keep the document below 4MBs pictures can b...",PaulVavich,8 minutes ago,https://replit.com/bounties/@PaulVavich/convert-very-large-p?t=
+The result document must be a reasonable size (preferably less than a few MBs). Would prefer if images in the PDF are kept but compressed, however if this is impossible to also keep the document below 4MBs pictures can b...",PaulVavich,15 minutes ago,https://replit.com/bounties/@PaulVavich/convert-very-large-p?t=
