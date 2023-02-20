@@ -8676,7 +8676,7 @@
         "title": "MVP iOS App - Spotify insights between friends ",
         "description": "Discovering and sharing music is easy on Spotify, learning about how your tastes and behaviors compare with your friends is hard. We want to change that.\n\nAcceptance Criteria\niOS app\n2 or more users can connect on the app\nIf they are connected, they can enter a song, album or artist and see who has listened and in what order (based on first listen)\nusers can see who they are connected with on the app\nusers can send a text to their friends to invite them to the app\n\nTimelines / Milestones\nUser installs and creates an account by linking their spotify via the authorization code flow",
         "author": "Quinn-LiLi",
-        "posted_time": "24 hours ago",
+        "posted_time": "1 day ago",
         "link": "https://replit.com/bounties/@Quinn-LiLi/mvp-ios-app-spotify?t="
     },
     {
@@ -8686,7 +8686,7 @@
         "title": "Set up a replit from an existing application",
         "description": "I have an existing ASP.NET MVC application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.\n\nAcceptance Criteria\nThe application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC",
         "author": "VitPlanocka",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from?t="
     },
     {
@@ -8726,7 +8726,7 @@
         "title": "Bugfix: shopify app authentication issue",
         "description": "I have a built a shopify app that has an authentication issue when installing. App is built with JS.\n\nTo re-create issue\nRun the app locally using the shopify cli\nSee if you get an error message 'There is no page at this address'\nIf not, uninstall app and re-install and you should see above error\n\nScreenshot of error: https://shopify.click/91426-26945-97404-96961-9656.png\n\nAcceptance criteria\nFix authentication issue so that the address is resolved and on install the shopify app requests user to accept auth and scope permissions",
         "author": "SamuelAbaka-Woo",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@SamuelAbaka-Woo/fix-shopify-app-auth?t="
     },
     {
@@ -8736,7 +8736,7 @@
         "title": "Scrape a Website and Populate a Table",
         "description": "Create a tool that scrapes the data from a specific apartment building's website and then populate a table with the pertinent data about each available apartment including:\nUnit number\nUnit Type\nNumber of Beds\nSquare Footage\nDate Available\nAsking Rent\n\nAcceptance Criteria\nTool should output the data in CSV format\nShould be able to run the tool daily\n\nTechnical Details",
         "author": "conor89",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@conor89/scrape-a-website-and?t="
     },
     {
@@ -8766,7 +8766,7 @@
         "title": "Convert very large PDF Documents to HTML reliably",
         "description": "#PDF challenge\n\nWe need a solution to scrape large PDF documents into a searchable documents in our elasticsearch implementation. We currently run scrapers which gather hundreds of URLs of these documents.\n\nFirst Preference - Convert document to HTML\n\nOur first preference is that there is a solution to convert large PDF documents into HTML documents that can be displayed on our web service. We are looking for a solution that will take an input URL (of the PDF document), download it, convert it to a nice HTML.\n\nThis solution must:\n\nConvert the documents into HTML in a reasonable amount of time and be reliable\nThe result documents must be readable and look generally similar to the original PDF (however it does not need to be identical)\nMust be triggered programmatically.\nThe result document must be a reasonable size (preferably less than a few MBs). Would prefer if images in the PDF are kept but compressed, however if this is impossible to also keep the document below 4MBs pictures can b...",
         "author": "PaulVavich",
-        "posted_time": "41 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@PaulVavich/convert-very-large-p?t="
     }
 ]

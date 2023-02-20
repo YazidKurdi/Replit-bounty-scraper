@@ -6988,11 +6988,11 @@ users can see who they are connected with on the app
 users can send a text to their friends to invite them to the app
 
 Timelines / Milestones
-User installs and creates an account by linking their spotify via the authorization code flow",Quinn-LiLi,24 hours ago,https://replit.com/bounties/@Quinn-LiLi/mvp-ios-app-spotify?t=
+User installs and creates an account by linking their spotify via the authorization code flow",Quinn-LiLi,1 day ago,https://replit.com/bounties/@Quinn-LiLi/mvp-ios-app-spotify?t=
 868,$45.00,due in 3 days,Set up a replit from an existing application,"I have an existing ASP.NET MVC application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.
 
 Acceptance Criteria
-The application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC",VitPlanocka,19 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from?t=
+The application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC",VitPlanocka,20 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from?t=
 869,$90.00,due in 3 days,Whisper + Pyannote for live audio transcription and Speaker diarization,"I need a Python Flask app with Whisper and Pyannote. The end-point should be able to take audio chunks and transcribe using Whisper and also use Pyannote to generate Speaker labels for the live transcription. Again I am not looking to transcribe youtube or audio files. Just the live stream from Microphone
 
 Acceptance Criteria
@@ -7047,7 +7047,7 @@ If not, uninstall app and re-install and you should see above error
 Screenshot of error: https://shopify.click/91426-26945-97404-96961-9656.png
 
 Acceptance criteria
-Fix authentication issue so that the address is resolved and on install the shopify app requests user to accept auth and scope permissions",SamuelAbaka-Woo,6 hours ago,https://replit.com/bounties/@SamuelAbaka-Woo/fix-shopify-app-auth?t=
+Fix authentication issue so that the address is resolved and on install the shopify app requests user to accept auth and scope permissions",SamuelAbaka-Woo,7 hours ago,https://replit.com/bounties/@SamuelAbaka-Woo/fix-shopify-app-auth?t=
 873,$67.50,due in 9 days,Scrape a Website and Populate a Table,"Create a tool that scrapes the data from a specific apartment building's website and then populate a table with the pertinent data about each available apartment including:
 Unit number
 Unit Type
@@ -7060,7 +7060,7 @@ Acceptance Criteria
 Tool should output the data in CSV format
 Should be able to run the tool daily
 
-Technical Details",conor89,6 hours ago,https://replit.com/bounties/@conor89/scrape-a-website-and?t=
+Technical Details",conor89,7 hours ago,https://replit.com/bounties/@conor89/scrape-a-website-and?t=
 874,$72.00,due in 15 days,Update Software on Docker,"Can't update UptimeKuma
 
 Acceptance Criteria
@@ -7096,4 +7096,4 @@ This solution must:
 Convert the documents into HTML in a reasonable amount of time and be reliable
 The result documents must be readable and look generally similar to the original PDF (however it does not need to be identical)
 Must be triggered programmatically.
-The result document must be a reasonable size (preferably less than a few MBs). Would prefer if images in the PDF are kept but compressed, however if this is impossible to also keep the document below 4MBs pictures can b...",PaulVavich,41 minutes ago,https://replit.com/bounties/@PaulVavich/convert-very-large-p?t=
+The result document must be a reasonable size (preferably less than a few MBs). Would prefer if images in the PDF are kept but compressed, however if this is impossible to also keep the document below 4MBs pictures can b...",PaulVavich,1 hour ago,https://replit.com/bounties/@PaulVavich/convert-very-large-p?t=
