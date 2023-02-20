@@ -6992,7 +6992,7 @@ User installs and creates an account by linking their spotify via the authorizat
 868,$45.00,due in 3 days,Set up a replit from an existing application,"I have an existing ASP.NET MVC application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.
 
 Acceptance Criteria
-The application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC",VitPlanocka,22 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from?t=
+The application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC",VitPlanocka,23 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from?t=
 869,$90.00,due in 3 days,Whisper + Pyannote for live audio transcription and Speaker diarization,"I need a Python Flask app with Whisper and Pyannote. The end-point should be able to take audio chunks and transcribe using Whisper and also use Pyannote to generate Speaker labels for the live transcription. Again I am not looking to transcribe youtube or audio files. Just the live stream from Microphone
 
 Acceptance Criteria
@@ -7082,7 +7082,7 @@ Bounty Hunter must be professional, meet deadlines and respond to messages.
 
 Technical Details
 Written in Swift.
-Code is clear and concise.",SebastianIbarg1,5 hours ago,https://replit.com/bounties/@SebastianIbarg1/apple-mail-extension?t=
+Code is clear and concise.",SebastianIbarg1,6 hours ago,https://replit.com/bounties/@SebastianIbarg1/apple-mail-extension?t=
 876,$45.00,due in 9 days,Convert very large PDF Documents to HTML reliably,"#PDF challenge
 
 We need a solution to scrape large PDF documents into a searchable documents in our elasticsearch implementation. We currently run scrapers which gather hundreds of URLs of these documents.
