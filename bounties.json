@@ -8726,7 +8726,7 @@
         "title": "Bugfix: shopify app authentication issue",
         "description": "I have a built a shopify app that has an authentication issue when installing. App is built with JS.\n\nTo re-create issue\nRun the app locally using the shopify cli\nSee if you get an error message 'There is no page at this address'\nIf not, uninstall app and re-install and you should see above error\n\nScreenshot of error: https://shopify.click/91426-26945-97404-96961-9656.png\n\nAcceptance criteria\nFix authentication issue so that the address is resolved and on install the shopify app requests user to accept auth and scope permissions",
         "author": "SamuelAbaka-Woo",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@SamuelAbaka-Woo/fix-shopify-app-auth?t="
     },
     {
@@ -8736,7 +8736,7 @@
         "title": "Scrape a Website and Populate a Table",
         "description": "Create a tool that scrapes the data from a specific apartment building's website and then populate a table with the pertinent data about each available apartment including:\nUnit number\nUnit Type\nNumber of Beds\nSquare Footage\nDate Available\nAsking Rent\n\nAcceptance Criteria\nTool should output the data in CSV format\nShould be able to run the tool daily\n\nTechnical Details",
         "author": "conor89",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@conor89/scrape-a-website-and?t="
     },
     {
@@ -8776,7 +8776,7 @@
         "title": "BrightPearl / BoldSign - part 3",
         "description": "As discussed",
         "author": "AndrewShowman",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/brightpearl-boldsign?t="
     },
     {
@@ -8786,7 +8786,7 @@
         "title": "trustpilot part 3",
         "description": "As discussed",
         "author": "AndrewShowman",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/trustpilot-part-3?t="
     },
     {
@@ -8796,7 +8796,7 @@
         "title": "React Native Expo mobile app with Web Speech API",
         "description": "Develop a simple mobile react native expo app using chrome webview and Web Speech API (SpeechSynthesis)\nhttps://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisVoice\n\nWhen loaded the app screen should have only 2 buttons.\nRecord Text\nSpeak Text\n\nRecord Text\nAllowing users to speak into the app and see their message in plain text.\nUsers speak by pressing and holding a button, when button is let go, change button state to disabled. The app should convert speech to text using SpeechSynthesis, and when done display the text below the Record Text button. When the text is printed, change button state back to enabled. Users should be able to re-use this functionality of course when the button is enabled. When running the logic again, simply overwrite the previous text on the screen with the new voice message spoken.\n\nSpeak Text\nApp should speak predefined text store in a variable.\nDisplaying another button \"Speak Text\", below the \"Record Text\" button. When user cli...",
         "author": "dominikd2",
-        "posted_time": "30 minutes ago",
+        "posted_time": "51 minutes ago",
         "link": "https://replit.com/bounties/@dominikd2/react-native-expo-mo?t="
     }
 ]
