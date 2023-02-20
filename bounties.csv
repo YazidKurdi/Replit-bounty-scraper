@@ -7064,7 +7064,7 @@ Technical Details",conor89,17 hours ago,https://replit.com/bounties/@conor89/scr
 874,$72.00,due in 14 days,Update Software on Docker,"Can't update UptimeKuma
 
 Acceptance Criteria
-When software is updated.",nickdumitru,14 hours ago,https://replit.com/bounties/@nickdumitru/update-software-on-d?t=
+When software is updated.",nickdumitru,15 hours ago,https://replit.com/bounties/@nickdumitru/update-software-on-d?t=
 875,$450.00,due in 17 days,Apple Mail Extension that integrates with OpenAI,"Create an Apple Mail Extension application that uses OpenAIs API to help auto-suggest text while writing or replying to an email.
 
 The tools should work like the following:
@@ -7123,3 +7123,26 @@ The app must have a simple and user-friendly UI that allows users to input docs 
 The app must be able to scrape docs webpages, clean and preprocess the data, and convert it into numerical vectors for analysis. Our docs are hosted in the Zendesk Guide. For scrapping the docs, you can try this https://llamahub.ai/l/web-knowledge_base
 
 *The user must be able to authorize access to Zendesk, Gmail and Discord. Open source connector...",ST72,2 hours ago,https://replit.com/bounties/@ST72/qanda-with-langchain?t=
+881,$540.00,due in 7 days,Bubble MVP Basic Web App Development,"I am seeking a Bubble developer to me help build the MVP of a web application. The successful candidate will work closely with me to convert the existing prototype, which was built using the Anvil Python Framework Web App Builder, into a functional web app using the Bubble platform.
+
+Responsibilities:
+
+Build the web app based on the provided anvil protoype.
+
+Implement the following features:
+
+Login and signup
+Main structure with header and sidebar
+Page 1:
+Button to add a new ‘campaign’ with two inputs
+Stack of collapsible sections, one for each campaign
+Table of items to complete within each campaign
+Button to add new items to the table
+Page 2:
+Filterable table by dropdown selection
+Option to add items to campaigns on page 1
+Settings page with option to delete account
+
+This is an exciting opportunity to bring a simple CRUD app to life. A completely bespoke solution is not required and using templates to achieve the desired functionality is encouraged if it speeds up the process.
+
+Note:...",rhodowen,2 minutes ago,https://replit.com/bounties/@rhodowen/bubble-mvp-basic-web?t=

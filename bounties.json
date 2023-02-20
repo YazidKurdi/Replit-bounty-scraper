@@ -8746,7 +8746,7 @@
         "title": "Update Software on Docker",
         "description": "Can't update UptimeKuma\n\nAcceptance Criteria\nWhen software is updated.",
         "author": "nickdumitru",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@nickdumitru/update-software-on-d?t="
     },
     {
@@ -8808,5 +8808,15 @@
         "author": "ST72",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@ST72/qanda-with-langchain?t="
+    },
+    {
+        "index": "881",
+        "price": "$540.00",
+        "due_days": "due in 7 days",
+        "title": "Bubble MVP Basic Web App Development",
+        "description": "I am seeking a Bubble developer to me help build the MVP of a web application. The successful candidate will work closely with me to convert the existing prototype, which was built using the Anvil Python Framework Web App Builder, into a functional web app using the Bubble platform.\n\nResponsibilities:\n\nBuild the web app based on the provided anvil protoype.\n\nImplement the following features:\n\nLogin and signup\nMain structure with header and sidebar\nPage 1:\nButton to add a new \u2018campaign\u2019 with two inputs\nStack of collapsible sections, one for each campaign\nTable of items to complete within each campaign\nButton to add new items to the table\nPage 2:\nFilterable table by dropdown selection\nOption to add items to campaigns on page 1\nSettings page with option to delete account\n\nThis is an exciting opportunity to bring a simple CRUD app to life. A completely bespoke solution is not required and using templates to achieve the desired functionality is encouraged if it speeds up the process.\n\nNote:...",
+        "author": "rhodowen",
+        "posted_time": "2 minutes ago",
+        "link": "https://replit.com/bounties/@rhodowen/bubble-mvp-basic-web?t="
     }
 ]
