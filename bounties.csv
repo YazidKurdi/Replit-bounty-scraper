@@ -7184,3 +7184,15 @@ Blog with comments: https://vercel.com/templates/next.js/blog-with-comments
 
 Applicants who can show previous related experience will be prioritized",BPaper,2 hours ago,https://replit.com/bounties/@BPaper/nextjs-supabase-blog?t=
 885,$67.50,due in 13 days,Swordbattle v2 Interpolation,Build a clean and smooth interpolation system for swordbattle v2,CoderGautamYT,2 hours ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-inter?t=
+886,$150.00,due in 7 days,Additional Features for Live Quiz Website,"Bounty for  @GrimSteel to continue the development of additional features for a Live Quiz Website.
+
+Features:
+[ ] Rich Text Formatting
+[ ] Change avatars to all cartoon animals and only have 20 avatar options.
+[ ] (Teacher) -> Hide navbar once the teacher creates a game but make it accessible via a dropdown button until the game is ended then reset things to normal. (Student) -> Hide navbar and footer during the whole game (from the join page to the final page).
+[ ] Remove footer on explore, create, preview and live game pages, etc., for more viewing space on these congested pages. Also make it easier to see and edit decks, etc.
+[ ] Option to select (host/Teacher) + answer (student) multiple correct answers
+[ ] Remixing Decks
+[ ] Check if quiz deck or student's name is inappropriate.
+[ ] Add sounds for 3..2..1.. countdown timers in quizzes like Kahoot or Quizizz
+[ ] Medal screen for students or better luck message (like kahoot) and share result option (for students ...",Retrospicer,12 minutes ago,https://replit.com/bounties/@Retrospicer/additional-features?t=
