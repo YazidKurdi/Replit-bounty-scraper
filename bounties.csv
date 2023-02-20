@@ -7153,7 +7153,7 @@ Setup a server-side script that can receive that notification and automatically 
 	This can be configured within the server-side script and in PostgreSQL library
 When payment is received server-side script will generate an API key using a random string generator and store it in the managing postgres DB
 Connect email account to managing DB to auto send an email to the purchaser of their API key - Python script using smtplib library (Or developer recomendation)
-To track a user's access based on up to date payment, a boolean field will be added to the managing DB that the server-side script can check based on user input - if the user's payment goes through the API key wi...",GrailTrail99,7 hours ago,https://replit.com/bounties/@GrailTrail99/data-subscription-pr?t=
+To track a user's access based on up to date payment, a boolean field will be added to the managing DB that the server-side script can check based on user input - if the user's payment goes through the API key wi...",GrailTrail99,8 hours ago,https://replit.com/bounties/@GrailTrail99/data-subscription-pr?t=
 883,$100.00,due in 3 days,Dark mode - Styling support for an MUI component,"I am using Material UI's DataGrid Pro. I am currently styling it for dark mode. I need help styling the: i) columnMenu, ii) filterPanel, as well as the popup on the export button. Details in the sandbox (see below).
 
 Acceptance Criteria
@@ -7183,7 +7183,7 @@ Article design: https://demo.vercel.pub/150m-series-d
 Blog with comments: https://vercel.com/templates/next.js/blog-with-comments
 
 Applicants who can show previous related experience will be prioritized",BPaper,6 hours ago,https://replit.com/bounties/@BPaper/nextjs-supabase-blog?t=
-885,$67.50,due in 13 days,Swordbattle v2 Interpolation,Build a clean and smooth interpolation system for swordbattle v2,CoderGautamYT,5 hours ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-inter?t=
+885,$67.50,due in 13 days,Swordbattle v2 Interpolation,Build a clean and smooth interpolation system for swordbattle v2,CoderGautamYT,6 hours ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-inter?t=
 886,$150.00,due in 11 days,Additional Features for Live Quiz Website,"Bounty for  @GrimSteel to continue the development of additional features for a Live Quiz Website.
 
 Features:
@@ -7214,4 +7214,4 @@ Technical Details
 React Project that uses docusaurus framework
 
 Link to Project
-https://github.com/mosesju/hardworking-hippo",mosesju,59 minutes ago,https://replit.com/bounties/@mosesju/modify-react-app-add?t=
+https://github.com/mosesju/hardworking-hippo",mosesju,1 hour ago,https://replit.com/bounties/@mosesju/modify-react-app-add?t=
