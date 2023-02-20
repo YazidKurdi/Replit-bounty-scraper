@@ -8806,7 +8806,7 @@
         "title": "Q&A with Langchain and GPT3",
         "description": "The goal of this project is to build a proof of concept Q&A web app that takes product documentation by ulr, Discord chat messages, support tickets (Zendesk) and Gmail emails as a knowledge base and provides relevant answers to user questions.\n\nAcceptance Criteria\nThe app must be able to accurately answer user questions based on the knowledge base of product documentation, Discord chat messages, and Gmail emails.\n\nThe app must have a simple and user-friendly UI that allows users to input docs URLs, connect Discord, connect Zendesk, connect Gmail, and ask questions and receive relevant answers. The UI design part is on me.\n\nThe app must be able to scrape docs webpages, clean and preprocess the data, and convert it into numerical vectors for analysis. Our docs are hosted in the Zendesk Guide. For scrapping the docs, you can try this https://llamahub.ai/l/web-knowledge_base\n\n*The user must be able to authorize access to Zendesk, Gmail and Discord. Open source connector...",
         "author": "ST72",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@ST72/qanda-with-langchain?t="
     },
     {
@@ -8866,7 +8866,7 @@
         "title": "Additional Features for Live Quiz Website",
         "description": "Bounty for  @GrimSteel to continue the development of additional features for a Live Quiz Website.\n\nFeatures:\n[ ] Rich Text Formatting\n[ ] Change avatars to all cartoon animals and only have 20 avatar options.\n[ ] (Teacher) -> Hide navbar once the teacher creates a game but make it accessible via a dropdown button until the game is ended then reset things to normal. (Student) -> Hide navbar and footer during the whole game (from the join page to the final page).\n[ ] Remove footer on explore, create, preview and live game pages, etc., for more viewing space on these congested pages. Also make it easier to see and edit decks, etc.\n[ ] Option to select (host/Teacher) + answer (student) multiple correct answers\n[ ] Remixing Decks\n[ ] Check if quiz deck or student's name is inappropriate.\n[ ] Add sounds for 3..2..1.. countdown timers in quizzes like Kahoot or Quizizz\n[ ] Medal screen for students or better luck message (like kahoot) and share result option (for students ...",
         "author": "Retrospicer",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@Retrospicer/additional-features?t="
     },
     {
@@ -8876,7 +8876,7 @@
         "title": "Dynamic Market Map",
         "description": "I'm creating a dynamic market map of the different AI companies. I would like a simple app that reads the category & logos from a database, and outputs as close to this image as possible.\n\nhttps://research-assets.cbinsights.com/2022/11/14115447/SC-genAI-map.png\n\nAcceptance Criteria\nIt should be a Replit codebase that reads from a database & outputs an image that's rendered on a webpage.",
         "author": "avlok",
-        "posted_time": "37 minutes ago",
+        "posted_time": "53 minutes ago",
         "link": "https://replit.com/bounties/@avlok/dynamic-market-map?t="
     },
     {
@@ -8886,7 +8886,7 @@
         "title": "Modify React App. Add stripe integration with firebase",
         "description": "I have a React app, which currently supports authentication. I need it to accept stripe payments, and give access to specific pages only when a user has paid\nDescription\nUse stripe checkout to process credit card information after login\nUsers can only access the docs section of the project if and only if they have paid and are authenticated\nA user is redirected to a stripe checkout page after they enter their login information\nAll other pages not on docs route must be accessible by non authenticated users\nuser email and password should use the existing firebase integration\n\nTechnical Details\nReact Project that uses docusaurus framework\n\nLink to Project\nhttps://github.com/mosesju/hardworking-hippo",
         "author": "mosesju",
-        "posted_time": "27 minutes ago",
+        "posted_time": "42 minutes ago",
         "link": "https://replit.com/bounties/@mosesju/modify-react-app-add?t="
     }
 ]
