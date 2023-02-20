@@ -7112,7 +7112,7 @@ Users speak by pressing and holding a button, when button is let go, change butt
 
 Speak Text
 App should speak predefined text store in a variable.
-Displaying another button ""Speak Text"", below the ""Record Text"" button. When user cli...",dominikd2,11 hours ago,https://replit.com/bounties/@dominikd2/react-native-expo-mo?t=
+Displaying another button ""Speak Text"", below the ""Record Text"" button. When user cli...",dominikd2,12 hours ago,https://replit.com/bounties/@dominikd2/react-native-expo-mo?t=
 880,"$3,000.00",due in 22 days,Q&A with Langchain and GPT3,"The goal of this project is to build a proof of concept Q&A web app that takes product documentation by ulr, Discord chat messages, support tickets (Zendesk) and Gmail emails as a knowledge base and provides relevant answers to user questions.
 
 Acceptance Criteria
@@ -7145,7 +7145,7 @@ Settings page with option to delete account
 
 This is an exciting opportunity to bring a simple CRUD app to life. A completely bespoke solution is not required and using templates to achieve the desired functionality is encouraged if it speeds up the process.
 
-Note:...",rhodowen,6 hours ago,https://replit.com/bounties/@rhodowen/bubble-mvp-basic-web?t=
+Note:...",rhodowen,7 hours ago,https://replit.com/bounties/@rhodowen/bubble-mvp-basic-web?t=
 882,$20.00,due in 7 days,Data Subscription Provisioning and Account Management Tool,"Setup products + pricing in Stripe and create a managing Postgres DB
 Create a webhook in Stripe when payment is successful
 Setup a server-side script that can receive that notification and automatically update the Postgres DB (Python or Node.js)
@@ -7182,7 +7182,7 @@ Supabase Auth Example: https://vercel.com/templates/next.js/supabase-authenticat
 Article design: https://demo.vercel.pub/150m-series-d
 Blog with comments: https://vercel.com/templates/next.js/blog-with-comments
 
-Applicants who can show previous related experience will be prioritized",BPaper,4 hours ago,https://replit.com/bounties/@BPaper/nextjs-supabase-blog?t=
+Applicants who can show previous related experience will be prioritized",BPaper,5 hours ago,https://replit.com/bounties/@BPaper/nextjs-supabase-blog?t=
 885,$67.50,due in 13 days,Swordbattle v2 Interpolation,Build a clean and smooth interpolation system for swordbattle v2,CoderGautamYT,4 hours ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-inter?t=
 886,$150.00,due in 11 days,Additional Features for Live Quiz Website,"Bounty for  @GrimSteel to continue the development of additional features for a Live Quiz Website.
 
@@ -7196,3 +7196,9 @@ Features:
 [ ] Check if quiz deck or student's name is inappropriate.
 [ ] Add sounds for 3..2..1.. countdown timers in quizzes like Kahoot or Quizizz
 [ ] Medal screen for students or better luck message (like kahoot) and share result option (for students ...",Retrospicer,3 hours ago,https://replit.com/bounties/@Retrospicer/additional-features?t=
+887,$180.00,due in 13 days,Dynamic Market Map,"I'm creating a dynamic market map of the different AI companies. I would like a simple app that reads the category & logos from a database, and outputs as close to this image as possible.
+
+https://research-assets.cbinsights.com/2022/11/14115447/SC-genAI-map.png
+
+Acceptance Criteria
+It should be a Replit codebase that reads from a database & outputs an image that's rendered on a webpage.",avlok,6 minutes ago,https://replit.com/bounties/@avlok/dynamic-market-map?t=

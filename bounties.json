@@ -8796,7 +8796,7 @@
         "title": "React Native Expo mobile app with Web Speech API",
         "description": "Develop a simple mobile react native expo app using chrome webview and Web Speech API (SpeechSynthesis)\nhttps://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisVoice\n\nWhen loaded the app screen should have only 2 buttons.\nRecord Text\nSpeak Text\n\nRecord Text\nAllowing users to speak into the app and see their message in plain text.\nUsers speak by pressing and holding a button, when button is let go, change button state to disabled. The app should convert speech to text using SpeechSynthesis, and when done display the text below the Record Text button. When the text is printed, change button state back to enabled. Users should be able to re-use this functionality of course when the button is enabled. When running the logic again, simply overwrite the previous text on the screen with the new voice message spoken.\n\nSpeak Text\nApp should speak predefined text store in a variable.\nDisplaying another button \"Speak Text\", below the \"Record Text\" button. When user cli...",
         "author": "dominikd2",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@dominikd2/react-native-expo-mo?t="
     },
     {
@@ -8816,7 +8816,7 @@
         "title": "Bubble MVP Basic Web App Development",
         "description": "I am seeking a Bubble developer to me help build the MVP of a web application. The successful candidate will work closely with me to convert the existing prototype, which was built using the Anvil Python Framework Web App Builder, into a functional web app using the Bubble platform.\n\nResponsibilities:\n\nBuild the web app based on the provided anvil protoype.\n\nImplement the following features:\n\nLogin and signup\nMain structure with header and sidebar\nPage 1:\nButton to add a new \u2018campaign\u2019 with two inputs\nStack of collapsible sections, one for each campaign\nTable of items to complete within each campaign\nButton to add new items to the table\nPage 2:\nFilterable table by dropdown selection\nOption to add items to campaigns on page 1\nSettings page with option to delete account\n\nThis is an exciting opportunity to bring a simple CRUD app to life. A completely bespoke solution is not required and using templates to achieve the desired functionality is encouraged if it speeds up the process.\n\nNote:...",
         "author": "rhodowen",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@rhodowen/bubble-mvp-basic-web?t="
     },
     {
@@ -8846,7 +8846,7 @@
         "title": "NextJS Supabase Blog Boilerplate",
         "description": "Create a web app that displays articles and gives the user the option to comment (very straightforward blog). Content for the articles will come from Supabase; user comments are also stored in Supabase. Users must authenticate with Supabase Auth before posting a comment.\n\nAcceptance Criteria\nUser can see a list of articles\nUser can click on an article to see details\nUser can view comments on the article\nUser can sign up/in with email\nUser can leave a comment on the article; is prompted to login before posting is allowed.\n\nTechnical Details\nNextJS\nTypescript\nSupabase\nTailwind\n\nMost of this is available in various templates. We just need to put it together into a starter app.\nSupabase Auth Example: https://vercel.com/templates/next.js/supabase-authentication\nArticle design: https://demo.vercel.pub/150m-series-d\nBlog with comments: https://vercel.com/templates/next.js/blog-with-comments\n\nApplicants who can show previous related experience will be prioritized",
         "author": "BPaper",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@BPaper/nextjs-supabase-blog?t="
     },
     {
@@ -8868,5 +8868,15 @@
         "author": "Retrospicer",
         "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@Retrospicer/additional-features?t="
+    },
+    {
+        "index": "887",
+        "price": "$180.00",
+        "due_days": "due in 13 days",
+        "title": "Dynamic Market Map",
+        "description": "I'm creating a dynamic market map of the different AI companies. I would like a simple app that reads the category & logos from a database, and outputs as close to this image as possible.\n\nhttps://research-assets.cbinsights.com/2022/11/14115447/SC-genAI-map.png\n\nAcceptance Criteria\nIt should be a Replit codebase that reads from a database & outputs an image that's rendered on a webpage.",
+        "author": "avlok",
+        "posted_time": "6 minutes ago",
+        "link": "https://replit.com/bounties/@avlok/dynamic-market-map?t="
     }
 ]
