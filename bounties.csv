@@ -7122,7 +7122,7 @@ The app must have a simple and user-friendly UI that allows users to input docs 
 
 The app must be able to scrape docs webpages, clean and preprocess the data, and convert it into numerical vectors for analysis. Our docs are hosted in the Zendesk Guide. For scrapping the docs, you can try this https://llamahub.ai/l/web-knowledge_base
 
-*The user must be able to authorize access to Zendesk, Gmail and Discord. Open source connector...",ST72,10 hours ago,https://replit.com/bounties/@ST72/qanda-with-langchain?t=
+*The user must be able to authorize access to Zendesk, Gmail and Discord. Open source connector...",ST72,11 hours ago,https://replit.com/bounties/@ST72/qanda-with-langchain?t=
 881,$540.00,due in 7 days,Bubble MVP Basic Web App Development,"I am seeking a Bubble developer to me help build the MVP of a web application. The successful candidate will work closely with me to convert the existing prototype, which was built using the Anvil Python Framework Web App Builder, into a functional web app using the Bubble platform.
 
 Responsibilities:
@@ -7195,7 +7195,7 @@ Features:
 [ ] Remixing Decks
 [ ] Check if quiz deck or student's name is inappropriate.
 [ ] Add sounds for 3..2..1.. countdown timers in quizzes like Kahoot or Quizizz
-[ ] Medal screen for students or better luck message (like kahoot) and share result option (for students ...",Retrospicer,4 hours ago,https://replit.com/bounties/@Retrospicer/additional-features?t=
+[ ] Medal screen for students or better luck message (like kahoot) and share result option (for students ...",Retrospicer,5 hours ago,https://replit.com/bounties/@Retrospicer/additional-features?t=
 887,$180.00,due in 13 days,Dynamic Market Map,"I'm creating a dynamic market map of the different AI companies. I would like a simple app that reads the category & logos from a database, and outputs as close to this image as possible.
 
 https://research-assets.cbinsights.com/2022/11/14115447/SC-genAI-map.png
@@ -7214,7 +7214,7 @@ Technical Details
 React Project that uses docusaurus framework
 
 Link to Project
-https://github.com/mosesju/hardworking-hippo",mosesju,1 hour ago,https://replit.com/bounties/@mosesju/modify-react-app-add?t=
+https://github.com/mosesju/hardworking-hippo",mosesju,2 hours ago,https://replit.com/bounties/@mosesju/modify-react-app-add?t=
 889,$30.60,due in 4 days,Send me list of every subdomain for given domain (50k+),"I want to find every single subdomain for a given domain. There are at least 50k subdomains
 
 i been trying a few tools but cant find anything that is thoroughly finding all subdomains
@@ -7230,4 +7230,4 @@ Technical Details
 CSV output or google sheet with a list of all the domains
 
 Domain
-Provided on acceptance",SamuelAbaka-Woo,6 minutes ago,https://replit.com/bounties/@SamuelAbaka-Woo/send-me-list-of-ever?t=
+Provided on acceptance",SamuelAbaka-Woo,22 minutes ago,https://replit.com/bounties/@SamuelAbaka-Woo/send-me-list-of-ever?t=
