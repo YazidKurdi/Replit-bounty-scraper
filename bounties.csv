@@ -7036,7 +7036,7 @@ When in Obsidian, there is a button somewhere on the UI and a Command Palette co
 When that command is selected, the plugin scans the current document for the Markdown Task syntax and sends those tasks as individual tasks into ToDoist, with a link back to the Obsidian note. It also parses any additional Todoist context on the to-do (due date, project, priority, etc.), as the Drafts plugin does.
 The plugin has an area in the settings for adding/updating the user's Todoist API token
 
-Resource...",michaelssorense,11 hours ago,https://replit.com/bounties/@michaelssorense/adapt-existing-plugi?t=
+Resource...",michaelssorense,12 hours ago,https://replit.com/bounties/@michaelssorense/adapt-existing-plugi?t=
 872,$50.18,due in 18 days,Bugfix: shopify app authentication issue,"I have a built a shopify app that has an authentication issue when installing. App is built with JS.
 
 To re-create issue
@@ -7096,4 +7096,4 @@ This solution must:
 Convert the documents into HTML in a reasonable amount of time and be reliable
 The result documents must be readable and look generally similar to the original PDF (however it does not need to be identical)
 Must be triggered programmatically.
-The result document must be a reasonable size (preferably less than a few MBs). Would prefer if images in the PDF are kept but compressed, however if this is impossible to also keep the document below 4MBs pictures can b...",PaulVavich,3 hours ago,https://replit.com/bounties/@PaulVavich/convert-very-large-p?t=
+The result document must be a reasonable size (preferably less than a few MBs). Would prefer if images in the PDF are kept but compressed, however if this is impossible to also keep the document below 4MBs pictures can b...",PaulVavich,4 hours ago,https://replit.com/bounties/@PaulVavich/convert-very-large-p?t=
