@@ -8706,7 +8706,7 @@
         "title": "Marine radar data processing with C++",
         "description": "We are looking for someone to develop C++ software that processes marine radar data (PPI scan), converts it from polar to cartesian grid and extracts contours as polygons. The task at hand shouldn't take more than 1 day in our estimation.\n\nPotential steps\nGiven the above, we believe following steps are required:\nGeo reference with epsg 3857\nConvert data from polar to cartesian grid\nInterpolate cartesian grid to fill all pixels (within scan circle)\nGenerate contours on cartesian grid\n\nInput\nTwo dimensional array in polar grid (theta x rho) of byte type\nGeo reference for polar center and scan range in meters\nRequired resolution of cartesian grid\nIntervals for contours extraction\n\nOutput\nCartesian grid with requested resolution\nContours polygons in GeoJSON\n\nSamples\nhttps://gist.github.com/orca-hydromancer/fb090314defa319e9cfbbdee3e37f7e7\ninput.json: array of 250x250 byte values (assume range of 2778 meters, polar center latitude of 59.86879 and longitude of 10.73494)\nc...",
         "author": "hydromancer0",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@hydromancer0/marine-radar-data-pr?t="
     },
     {
@@ -8746,7 +8746,7 @@
         "title": "Update Software on Docker",
         "description": "Can't update UptimeKuma\n\nAcceptance Criteria\nWhen software is updated.",
         "author": "nickdumitru",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@nickdumitru/update-software-on-d?t="
     },
     {
@@ -8776,7 +8776,7 @@
         "title": "BrightPearl / BoldSign - part 3",
         "description": "As discussed",
         "author": "AndrewShowman",
-        "posted_time": "53 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@AndrewShowman/brightpearl-boldsign?t="
     },
     {
@@ -8786,7 +8786,7 @@
         "title": "trustpilot part 3",
         "description": "As discussed",
         "author": "AndrewShowman",
-        "posted_time": "46 minutes ago",
+        "posted_time": "56 minutes ago",
         "link": "https://replit.com/bounties/@AndrewShowman/trustpilot-part-3?t="
     },
     {
@@ -8796,7 +8796,7 @@
         "title": "React Native Expo mobile app with Web Speech API",
         "description": "Develop a simple mobile react native expo app using chrome webview and Web Speech API (SpeechSynthesis)\nhttps://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisVoice\n\nWhen loaded the app screen should have only 2 buttons.\nRecord Text\nSpeak Text\n\nRecord Text\nAllowing users to speak into the app and see their message in plain text.\nUsers speak by pressing and holding a button, when button is let go, change button state to disabled. The app should convert speech to text using SpeechSynthesis, and when done display the text below the Record Text button. When the text is printed, change button state back to enabled. Users should be able to re-use this functionality of course when the button is enabled. When running the logic again, simply overwrite the previous text on the screen with the new voice message spoken.\n\nSpeak Text\nApp should speak predefined text store in a variable.\nDisplaying another button \"Speak Text\", below the \"Record Text\" button. When user cli...",
         "author": "dominikd2",
-        "posted_time": "1 minute ago",
+        "posted_time": "11 minutes ago",
         "link": "https://replit.com/bounties/@dominikd2/react-native-expo-mo?t="
     }
 ]

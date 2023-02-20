@@ -7025,7 +7025,7 @@ Contours polygons in GeoJSON
 Samples
 https://gist.github.com/orca-hydromancer/fb090314defa319e9cfbbdee3e37f7e7
 input.json: array of 250x250 byte values (assume range of 2778 meters, polar center latitude of 59.86879 and longitude of 10.73494)
-c...",hydromancer0,15 hours ago,https://replit.com/bounties/@hydromancer0/marine-radar-data-pr?t=
+c...",hydromancer0,16 hours ago,https://replit.com/bounties/@hydromancer0/marine-radar-data-pr?t=
 871,$45.00,due in 13 days,Adapt Existing Plugin to Obsidian (Send Markdown Tasks to Todoist),"I use Drafts for note taking and use this plugin (https://actions.getdrafts.com/a/1ld) to send any markdown tasks ("" - [ ] Sample Task"") into Todoist.
 
 I'd like to do all my my writing and note-taking in Obsidian instead (http://obsidian.md) and would like to adapt this plugin to work in Obsidian.
@@ -7064,7 +7064,7 @@ Technical Details",conor89,12 hours ago,https://replit.com/bounties/@conor89/scr
 874,$72.00,due in 15 days,Update Software on Docker,"Can't update UptimeKuma
 
 Acceptance Criteria
-When software is updated.",nickdumitru,9 hours ago,https://replit.com/bounties/@nickdumitru/update-software-on-d?t=
+When software is updated.",nickdumitru,10 hours ago,https://replit.com/bounties/@nickdumitru/update-software-on-d?t=
 875,$450.00,due in 18 days,Apple Mail Extension that integrates with OpenAI,"Create an Apple Mail Extension application that uses OpenAIs API to help auto-suggest text while writing or replying to an email.
 
 The tools should work like the following:
@@ -7097,8 +7097,8 @@ Convert the documents into HTML in a reasonable amount of time and be reliable
 The result documents must be readable and look generally similar to the original PDF (however it does not need to be identical)
 Must be triggered programmatically.
 The result document must be a reasonable size (preferably less than a few MBs). Would prefer if images in the PDF are kept but compressed, however if this is impossible to also keep the document below 4MBs pictures can b...",PaulVavich,6 hours ago,https://replit.com/bounties/@PaulVavich/convert-very-large-p?t=
-877,$135.00,due in 7 days,BrightPearl / BoldSign - part 3,As discussed,AndrewShowman,53 minutes ago,https://replit.com/bounties/@AndrewShowman/brightpearl-boldsign?t=
-878,$90.00,due in 7 days,trustpilot part 3,As discussed,AndrewShowman,46 minutes ago,https://replit.com/bounties/@AndrewShowman/trustpilot-part-3?t=
+877,$135.00,due in 7 days,BrightPearl / BoldSign - part 3,As discussed,AndrewShowman,1 hour ago,https://replit.com/bounties/@AndrewShowman/brightpearl-boldsign?t=
+878,$90.00,due in 7 days,trustpilot part 3,As discussed,AndrewShowman,56 minutes ago,https://replit.com/bounties/@AndrewShowman/trustpilot-part-3?t=
 879,$180.00,due in 8 days,React Native Expo mobile app with Web Speech API,"Develop a simple mobile react native expo app using chrome webview and Web Speech API (SpeechSynthesis)
 https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisVoice
 
@@ -7112,4 +7112,4 @@ Users speak by pressing and holding a button, when button is let go, change butt
 
 Speak Text
 App should speak predefined text store in a variable.
-Displaying another button ""Speak Text"", below the ""Record Text"" button. When user cli...",dominikd2,1 minute ago,https://replit.com/bounties/@dominikd2/react-native-expo-mo?t=
+Displaying another button ""Speak Text"", below the ""Record Text"" button. When user cli...",dominikd2,11 minutes ago,https://replit.com/bounties/@dominikd2/react-native-expo-mo?t=
