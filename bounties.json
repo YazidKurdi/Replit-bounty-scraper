@@ -8756,7 +8756,7 @@
         "title": "Apple Mail Extension that integrates with OpenAI",
         "description": "Create an Apple Mail Extension application that uses OpenAIs API to help auto-suggest text while writing or replying to an email.\n\nThe tools should work like the following:\n\nCan be triggered manually using a shortcut (say command+space)\nThe prompt sent to the model includes the email thread you're responding to. If the email chain is too long it needs to be truncated.\nCan complete entire emails\n\nAcceptance Criteria\nSelf contained Xcode Project, that runs after configuring OpenAI API Key.\nBounty hunter must have experience working with Xcode and Mac projects. Ideally with Mail.\nUX should me minimalistic. Can be a simple menu or system buttons.\nCode is not publish, should be shared.\nBounty Hunter must be professional, meet deadlines and respond to messages.\n\nTechnical Details\nWritten in Swift.\nCode is clear and concise.",
         "author": "SebastianIbarg1",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@SebastianIbarg1/apple-mail-extension?t="
     },
     {
