@@ -8846,7 +8846,7 @@
         "title": "NextJS Supabase Blog Boilerplate",
         "description": "Create a web app that displays articles and gives the user the option to comment (very straightforward blog). Content for the articles will come from Supabase; user comments are also stored in Supabase. Users must authenticate with Supabase Auth before posting a comment.\n\nAcceptance Criteria\nUser can see a list of articles\nUser can click on an article to see details\nUser can view comments on the article\nUser can sign up/in with email\nUser can leave a comment on the article; is prompted to login before posting is allowed.\n\nTechnical Details\nNextJS\nTypescript\nSupabase\nTailwind\n\nMost of this is available in various templates. We just need to put it together into a starter app.\nSupabase Auth Example: https://vercel.com/templates/next.js/supabase-authentication\nArticle design: https://demo.vercel.pub/150m-series-d\nBlog with comments: https://vercel.com/templates/next.js/blog-with-comments\n\nApplicants who can show previous related experience will be prioritized",
         "author": "BPaper",
-        "posted_time": "54 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@BPaper/nextjs-supabase-blog?t="
     },
     {
@@ -8856,7 +8856,7 @@
         "title": "Swordbattle v2 Interpolation",
         "description": "Build a clean and smooth interpolation system for swordbattle v2",
         "author": "CoderGautamYT",
-        "posted_time": "42 minutes ago",
+        "posted_time": "51 minutes ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-inter?t="
     }
 ]
