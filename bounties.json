@@ -8776,7 +8776,7 @@
         "title": "BrightPearl / BoldSign - part 3",
         "description": "As discussed",
         "author": "AndrewShowman",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/brightpearl-boldsign?t="
     },
     {
@@ -8796,7 +8796,7 @@
         "title": "React Native Expo mobile app with Web Speech API",
         "description": "Develop a simple mobile react native expo app using chrome webview and Web Speech API (SpeechSynthesis)\nhttps://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisVoice\n\nWhen loaded the app screen should have only 2 buttons.\nRecord Text\nSpeak Text\n\nRecord Text\nAllowing users to speak into the app and see their message in plain text.\nUsers speak by pressing and holding a button, when button is let go, change button state to disabled. The app should convert speech to text using SpeechSynthesis, and when done display the text below the Record Text button. When the text is printed, change button state back to enabled. Users should be able to re-use this functionality of course when the button is enabled. When running the logic again, simply overwrite the previous text on the screen with the new voice message spoken.\n\nSpeak Text\nApp should speak predefined text store in a variable.\nDisplaying another button \"Speak Text\", below the \"Record Text\" button. When user cli...",
         "author": "dominikd2",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@dominikd2/react-native-expo-mo?t="
     },
     {
@@ -8816,7 +8816,7 @@
         "title": "Bubble MVP Basic Web App Development",
         "description": "I am seeking a Bubble developer to me help build the MVP of a web application. The successful candidate will work closely with me to convert the existing prototype, which was built using the Anvil Python Framework Web App Builder, into a functional web app using the Bubble platform.\n\nResponsibilities:\n\nBuild the web app based on the provided anvil protoype.\n\nImplement the following features:\n\nLogin and signup\nMain structure with header and sidebar\nPage 1:\nButton to add a new \u2018campaign\u2019 with two inputs\nStack of collapsible sections, one for each campaign\nTable of items to complete within each campaign\nButton to add new items to the table\nPage 2:\nFilterable table by dropdown selection\nOption to add items to campaigns on page 1\nSettings page with option to delete account\n\nThis is an exciting opportunity to bring a simple CRUD app to life. A completely bespoke solution is not required and using templates to achieve the desired functionality is encouraged if it speeds up the process.\n\nNote:...",
         "author": "rhodowen",
-        "posted_time": "19 minutes ago",
+        "posted_time": "36 minutes ago",
         "link": "https://replit.com/bounties/@rhodowen/bubble-mvp-basic-web?t="
     },
     {
@@ -8826,7 +8826,7 @@
         "title": "Data Subscription Provisioning and Account Management Tool",
         "description": "Setup products + pricing in Stripe and create a managing Postgres DB\nCreate a webhook in Stripe when payment is successful\nSetup a server-side script that can receive that notification and automatically update the Postgres DB (Python or Node.js)\n\tThis will need to parse the stripe webhook payload to pull the right information from the customer paying - Name, company, phone number, email, payment amount\n\tThis can be configured within the server-side script and in PostgreSQL library\nWhen payment is received server-side script will generate an API key using a random string generator and store it in the managing postgres DB\nConnect email account to managing DB to auto send an email to the purchaser of their API key - Python script using smtplib library (Or developer recomendation)\nTo track a user's access based on up to date payment, a boolean field will be added to the managing DB that the server-side script can check based on user input - if the user's payment goes through the API key wi...",
         "author": "GrailTrail99",
-        "posted_time": "13 minutes ago",
+        "posted_time": "30 minutes ago",
         "link": "https://replit.com/bounties/@GrailTrail99/data-subscription-pr?t="
     }
 ]

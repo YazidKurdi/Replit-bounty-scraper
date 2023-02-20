@@ -7097,7 +7097,7 @@ Convert the documents into HTML in a reasonable amount of time and be reliable
 The result documents must be readable and look generally similar to the original PDF (however it does not need to be identical)
 Must be triggered programmatically.
 The result document must be a reasonable size (preferably less than a few MBs). Would prefer if images in the PDF are kept but compressed, however if this is impossible to also keep the document below 4MBs pictures can b...",PaulVavich,12 hours ago,https://replit.com/bounties/@PaulVavich/convert-very-large-p?t=
-877,$135.00,due in 6 days,BrightPearl / BoldSign - part 3,As discussed,AndrewShowman,6 hours ago,https://replit.com/bounties/@AndrewShowman/brightpearl-boldsign?t=
+877,$135.00,due in 6 days,BrightPearl / BoldSign - part 3,As discussed,AndrewShowman,7 hours ago,https://replit.com/bounties/@AndrewShowman/brightpearl-boldsign?t=
 878,$90.00,due in 6 days,trustpilot part 3,As discussed,AndrewShowman,6 hours ago,https://replit.com/bounties/@AndrewShowman/trustpilot-part-3?t=
 879,$180.00,due in 7 days,React Native Expo mobile app with Web Speech API,"Develop a simple mobile react native expo app using chrome webview and Web Speech API (SpeechSynthesis)
 https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisVoice
@@ -7112,7 +7112,7 @@ Users speak by pressing and holding a button, when button is let go, change butt
 
 Speak Text
 App should speak predefined text store in a variable.
-Displaying another button ""Speak Text"", below the ""Record Text"" button. When user cli...",dominikd2,5 hours ago,https://replit.com/bounties/@dominikd2/react-native-expo-mo?t=
+Displaying another button ""Speak Text"", below the ""Record Text"" button. When user cli...",dominikd2,6 hours ago,https://replit.com/bounties/@dominikd2/react-native-expo-mo?t=
 880,"$3,000.00",due in 22 days,Q&A with Langchain and GPT3,"The goal of this project is to build a proof of concept Q&A web app that takes product documentation by ulr, Discord chat messages, support tickets (Zendesk) and Gmail emails as a knowledge base and provides relevant answers to user questions.
 
 Acceptance Criteria
@@ -7145,7 +7145,7 @@ Settings page with option to delete account
 
 This is an exciting opportunity to bring a simple CRUD app to life. A completely bespoke solution is not required and using templates to achieve the desired functionality is encouraged if it speeds up the process.
 
-Note:...",rhodowen,19 minutes ago,https://replit.com/bounties/@rhodowen/bubble-mvp-basic-web?t=
+Note:...",rhodowen,36 minutes ago,https://replit.com/bounties/@rhodowen/bubble-mvp-basic-web?t=
 882,$20.00,due in 13 days,Data Subscription Provisioning and Account Management Tool,"Setup products + pricing in Stripe and create a managing Postgres DB
 Create a webhook in Stripe when payment is successful
 Setup a server-side script that can receive that notification and automatically update the Postgres DB (Python or Node.js)
@@ -7153,4 +7153,4 @@ Setup a server-side script that can receive that notification and automatically 
 	This can be configured within the server-side script and in PostgreSQL library
 When payment is received server-side script will generate an API key using a random string generator and store it in the managing postgres DB
 Connect email account to managing DB to auto send an email to the purchaser of their API key - Python script using smtplib library (Or developer recomendation)
-To track a user's access based on up to date payment, a boolean field will be added to the managing DB that the server-side script can check based on user input - if the user's payment goes through the API key wi...",GrailTrail99,13 minutes ago,https://replit.com/bounties/@GrailTrail99/data-subscription-pr?t=
+To track a user's access based on up to date payment, a boolean field will be added to the managing DB that the server-side script can check based on user input - if the user's payment goes through the API key wi...",GrailTrail99,30 minutes ago,https://replit.com/bounties/@GrailTrail99/data-subscription-pr?t=
