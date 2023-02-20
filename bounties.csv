@@ -7064,7 +7064,7 @@ Technical Details",conor89,18 hours ago,https://replit.com/bounties/@conor89/scr
 874,$72.00,due in 14 days,Update Software on Docker,"Can't update UptimeKuma
 
 Acceptance Criteria
-When software is updated.",nickdumitru,15 hours ago,https://replit.com/bounties/@nickdumitru/update-software-on-d?t=
+When software is updated.",nickdumitru,16 hours ago,https://replit.com/bounties/@nickdumitru/update-software-on-d?t=
 875,$450.00,due in 17 days,Apple Mail Extension that integrates with OpenAI,"Create an Apple Mail Extension application that uses OpenAIs API to help auto-suggest text while writing or replying to an email.
 
 The tools should work like the following:
@@ -7145,7 +7145,7 @@ Settings page with option to delete account
 
 This is an exciting opportunity to bring a simple CRUD app to life. A completely bespoke solution is not required and using templates to achieve the desired functionality is encouraged if it speeds up the process.
 
-Note:...",rhodowen,53 minutes ago,https://replit.com/bounties/@rhodowen/bubble-mvp-basic-web?t=
+Note:...",rhodowen,1 hour ago,https://replit.com/bounties/@rhodowen/bubble-mvp-basic-web?t=
 882,$20.00,due in 13 days,Data Subscription Provisioning and Account Management Tool,"Setup products + pricing in Stripe and create a managing Postgres DB
 Create a webhook in Stripe when payment is successful
 Setup a server-side script that can receive that notification and automatically update the Postgres DB (Python or Node.js)
@@ -7153,4 +7153,4 @@ Setup a server-side script that can receive that notification and automatically 
 	This can be configured within the server-side script and in PostgreSQL library
 When payment is received server-side script will generate an API key using a random string generator and store it in the managing postgres DB
 Connect email account to managing DB to auto send an email to the purchaser of their API key - Python script using smtplib library (Or developer recomendation)
-To track a user's access based on up to date payment, a boolean field will be added to the managing DB that the server-side script can check based on user input - if the user's payment goes through the API key wi...",GrailTrail99,47 minutes ago,https://replit.com/bounties/@GrailTrail99/data-subscription-pr?t=
+To track a user's access based on up to date payment, a boolean field will be added to the managing DB that the server-side script can check based on user input - if the user's payment goes through the API key wi...",GrailTrail99,56 minutes ago,https://replit.com/bounties/@GrailTrail99/data-subscription-pr?t=
