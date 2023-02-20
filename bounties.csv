@@ -7098,7 +7098,7 @@ The result documents must be readable and look generally similar to the original
 Must be triggered programmatically.
 The result document must be a reasonable size (preferably less than a few MBs). Would prefer if images in the PDF are kept but compressed, however if this is impossible to also keep the document below 4MBs pictures can b...",PaulVavich,15 hours ago,https://replit.com/bounties/@PaulVavich/convert-very-large-p?t=
 877,$135.00,due in 6 days,BrightPearl / BoldSign - part 3,As discussed,AndrewShowman,12 hours ago,https://replit.com/bounties/@AndrewShowman/brightpearl-boldsign?t=
-878,$90.00,due in 6 days,trustpilot part 3,As discussed,AndrewShowman,11 hours ago,https://replit.com/bounties/@AndrewShowman/trustpilot-part-3?t=
+878,$90.00,due in 6 days,trustpilot part 3,As discussed,AndrewShowman,12 hours ago,https://replit.com/bounties/@AndrewShowman/trustpilot-part-3?t=
 879,$180.00,due in 7 days,React Native Expo mobile app with Web Speech API,"Develop a simple mobile react native expo app using chrome webview and Web Speech API (SpeechSynthesis)
 https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisVoice
 
@@ -7153,7 +7153,7 @@ Setup a server-side script that can receive that notification and automatically 
 	This can be configured within the server-side script and in PostgreSQL library
 When payment is received server-side script will generate an API key using a random string generator and store it in the managing postgres DB
 Connect email account to managing DB to auto send an email to the purchaser of their API key - Python script using smtplib library (Or developer recomendation)
-To track a user's access based on up to date payment, a boolean field will be added to the managing DB that the server-side script can check based on user input - if the user's payment goes through the API key wi...",GrailTrail99,5 hours ago,https://replit.com/bounties/@GrailTrail99/data-subscription-pr?t=
+To track a user's access based on up to date payment, a boolean field will be added to the managing DB that the server-side script can check based on user input - if the user's payment goes through the API key wi...",GrailTrail99,6 hours ago,https://replit.com/bounties/@GrailTrail99/data-subscription-pr?t=
 883,$100.00,due in 3 days,Dark mode - Styling support for an MUI component,"I am using Material UI's DataGrid Pro. I am currently styling it for dark mode. I need help styling the: i) columnMenu, ii) filterPanel, as well as the popup on the export button. Details in the sandbox (see below).
 
 Acceptance Criteria
@@ -7183,7 +7183,7 @@ Article design: https://demo.vercel.pub/150m-series-d
 Blog with comments: https://vercel.com/templates/next.js/blog-with-comments
 
 Applicants who can show previous related experience will be prioritized",BPaper,4 hours ago,https://replit.com/bounties/@BPaper/nextjs-supabase-blog?t=
-885,$67.50,due in 13 days,Swordbattle v2 Interpolation,Build a clean and smooth interpolation system for swordbattle v2,CoderGautamYT,3 hours ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-inter?t=
+885,$67.50,due in 13 days,Swordbattle v2 Interpolation,Build a clean and smooth interpolation system for swordbattle v2,CoderGautamYT,4 hours ago,https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-inter?t=
 886,$150.00,due in 11 days,Additional Features for Live Quiz Website,"Bounty for  @GrimSteel to continue the development of additional features for a Live Quiz Website.
 
 Features:
