@@ -7201,7 +7201,7 @@ Features:
 https://research-assets.cbinsights.com/2022/11/14115447/SC-genAI-map.png
 
 Acceptance Criteria
-It should be a Replit codebase that reads from a database & outputs an image that's rendered on a webpage.",avlok,27 minutes ago,https://replit.com/bounties/@avlok/dynamic-market-map?t=
+It should be a Replit codebase that reads from a database & outputs an image that's rendered on a webpage.",avlok,37 minutes ago,https://replit.com/bounties/@avlok/dynamic-market-map?t=
 888,$100.00,due in 7 days,Modify React App. Add stripe integration with firebase,"I have a React app, which currently supports authentication. I need it to accept stripe payments, and give access to specific pages only when a user has paid
 Description
 Use stripe checkout to process credit card information after login
@@ -7214,4 +7214,4 @@ Technical Details
 React Project that uses docusaurus framework
 
 Link to Project
-https://github.com/mosesju/hardworking-hippo",mosesju,17 minutes ago,https://replit.com/bounties/@mosesju/modify-react-app-add?t=
+https://github.com/mosesju/hardworking-hippo",mosesju,27 minutes ago,https://replit.com/bounties/@mosesju/modify-react-app-add?t=
