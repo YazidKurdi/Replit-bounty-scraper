@@ -8826,7 +8826,7 @@
         "title": "Data Subscription Provisioning and Account Management Tool",
         "description": "Setup products + pricing in Stripe and create a managing Postgres DB\nCreate a webhook in Stripe when payment is successful\nSetup a server-side script that can receive that notification and automatically update the Postgres DB (Python or Node.js)\n\tThis will need to parse the stripe webhook payload to pull the right information from the customer paying - Name, company, phone number, email, payment amount\n\tThis can be configured within the server-side script and in PostgreSQL library\nWhen payment is received server-side script will generate an API key using a random string generator and store it in the managing postgres DB\nConnect email account to managing DB to auto send an email to the purchaser of their API key - Python script using smtplib library (Or developer recomendation)\nTo track a user's access based on up to date payment, a boolean field will be added to the managing DB that the server-side script can check based on user input - if the user's payment goes through the API key wi...",
         "author": "GrailTrail99",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@GrailTrail99/data-subscription-pr?t="
     },
     {
@@ -8836,7 +8836,7 @@
         "title": "Dark mode - Styling support for an MUI component",
         "description": "I am using Material UI's DataGrid Pro. I am currently styling it for dark mode. I need help styling the: i) columnMenu, ii) filterPanel, as well as the popup on the export button. Details in the sandbox (see below).\n\nAcceptance Criteria\nA MUI DataGrid Pro reusable, styled component with the three popups with a style similar to linear.app screenshot here\nThis means that: i) The popup is a similar color / transparency, rounded corners, border, shadow, etc., ii) That a row is highlighted in a similar style on hover, and iii) the cursor is a pointer\n\nLink to Project\nSample code can be found here: https://codesandbox.io/s/nifty-glitter-gb1s4x?file=/demo.tsx. You can just fork this sandbox and send to complete the work",
         "author": "marsimard",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@marsimard/dark-mode-styling-su?t="
     },
     {
@@ -8856,7 +8856,7 @@
         "title": "Swordbattle v2 Interpolation",
         "description": "Build a clean and smooth interpolation system for swordbattle v2",
         "author": "CoderGautamYT",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-inter?t="
     },
     {
@@ -8896,7 +8896,7 @@
         "title": "Send me list of every subdomain for given domain (50k+)",
         "description": "I want to find every single subdomain for a given domain. There are at least 50k subdomains\n\ni been trying a few tools but cant find anything that is thoroughly finding all subdomains\n\nOne site found 7.8k but i know theres at least 5x that.\n\nI believe something like Knockpy or Sublist3r may be able to achieve this\n\nAcceptance Criteria\nList of 50k plus subdomains for domain I provide\n\nTechnical Details\nCSV output or google sheet with a list of all the domains\n\nDomain\nProvided on acceptance",
         "author": "SamuelAbaka-Woo",
-        "posted_time": "37 minutes ago",
+        "posted_time": "46 minutes ago",
         "link": "https://replit.com/bounties/@SamuelAbaka-Woo/send-me-list-of-ever?t="
     }
 ]
