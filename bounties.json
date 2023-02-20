@@ -8826,7 +8826,7 @@
         "title": "Data Subscription Provisioning and Account Management Tool",
         "description": "Setup products + pricing in Stripe and create a managing Postgres DB\nCreate a webhook in Stripe when payment is successful\nSetup a server-side script that can receive that notification and automatically update the Postgres DB (Python or Node.js)\n\tThis will need to parse the stripe webhook payload to pull the right information from the customer paying - Name, company, phone number, email, payment amount\n\tThis can be configured within the server-side script and in PostgreSQL library\nWhen payment is received server-side script will generate an API key using a random string generator and store it in the managing postgres DB\nConnect email account to managing DB to auto send an email to the purchaser of their API key - Python script using smtplib library (Or developer recomendation)\nTo track a user's access based on up to date payment, a boolean field will be added to the managing DB that the server-side script can check based on user input - if the user's payment goes through the API key wi...",
         "author": "GrailTrail99",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@GrailTrail99/data-subscription-pr?t="
     },
     {
@@ -8836,7 +8836,7 @@
         "title": "Dark mode - Styling support for an MUI component",
         "description": "I am using Material UI's DataGrid Pro. I am currently styling it for dark mode. I need help styling the: i) columnMenu, ii) filterPanel, as well as the popup on the export button. Details in the sandbox (see below).\n\nAcceptance Criteria\nA MUI DataGrid Pro reusable, styled component with the three popups with a style similar to linear.app screenshot here\nThis means that: i) The popup is a similar color / transparency, rounded corners, border, shadow, etc., ii) That a row is highlighted in a similar style on hover, and iii) the cursor is a pointer\n\nLink to Project\nSample code can be found here: https://codesandbox.io/s/nifty-glitter-gb1s4x?file=/demo.tsx. You can just fork this sandbox and send to complete the work",
         "author": "marsimard",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@marsimard/dark-mode-styling-su?t="
     },
     {
@@ -8856,7 +8856,7 @@
         "title": "Swordbattle v2 Interpolation",
         "description": "Build a clean and smooth interpolation system for swordbattle v2",
         "author": "CoderGautamYT",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@CoderGautamYT/swordbattle-v2-inter?t="
     },
     {
@@ -8876,7 +8876,17 @@
         "title": "Dynamic Market Map",
         "description": "I'm creating a dynamic market map of the different AI companies. I would like a simple app that reads the category & logos from a database, and outputs as close to this image as possible.\n\nhttps://research-assets.cbinsights.com/2022/11/14115447/SC-genAI-map.png\n\nAcceptance Criteria\nIt should be a Replit codebase that reads from a database & outputs an image that's rendered on a webpage.",
         "author": "avlok",
-        "posted_time": "6 minutes ago",
+        "posted_time": "18 minutes ago",
         "link": "https://replit.com/bounties/@avlok/dynamic-market-map?t="
+    },
+    {
+        "index": "888",
+        "price": "$100.00",
+        "due_days": "due in 7 days",
+        "title": "Modify React App. Add stripe integration with firebase",
+        "description": "I have a React app, which currently supports authentication. I need it to accept stripe payments, and give access to specific pages only when a user has paid\nDescription\nUse stripe checkout to process credit card information after login\nUsers can only access the docs section of the project if and only if they have paid and are authenticated\nA user is redirected to a stripe checkout page after they enter their login information\nAll other pages not on docs route must be accessible by non authenticated users\nuser email and password should use the existing firebase integration\n\nTechnical Details\nReact Project that uses docusaurus framework\n\nLink to Project\nhttps://github.com/mosesju/hardworking-hippo",
+        "author": "mosesju",
+        "posted_time": "7 minutes ago",
+        "link": "https://replit.com/bounties/@mosesju/modify-react-app-add?t="
     }
 ]
