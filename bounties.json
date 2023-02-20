@@ -8666,7 +8666,7 @@
         "title": "Kaboom.JS terrain system",
         "description": "I need a 2D terrain system in Kaboom.JS, where I can have infinitely extending ground with a chosen texture (e.g. grass) at varying heights. It should also come with a water system, where I can mark an area to be a body of water that interacts well enough with other objects.\n\nAcceptance Criteria\nMust have worked with Kaboom.JS before\nMust be using Kaboom 3000\nFinal result should be in vanilla JavaScript (feel free to compile from TS as long as it doesn't have any extra problems along with it.",
         "author": "codingMASTER398",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@codingMASTER398/kaboomjs-terrain-sys?t="
     },
     {
@@ -8676,7 +8676,7 @@
         "title": "MVP iOS App - Spotify insights between friends ",
         "description": "Discovering and sharing music is easy on Spotify, learning about how your tastes and behaviors compare with your friends is hard. We want to change that.\n\nAcceptance Criteria\niOS app\n2 or more users can connect on the app\nIf they are connected, they can enter a song, album or artist and see who has listened and in what order (based on first listen)\nusers can see who they are connected with on the app\nusers can send a text to their friends to invite them to the app\n\nTimelines / Milestones\nUser installs and creates an account by linking their spotify via the authorization code flow",
         "author": "Quinn-LiLi",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@Quinn-LiLi/mvp-ios-app-spotify?t="
     },
     {
@@ -8686,7 +8686,7 @@
         "title": "Set up a replit from an existing application",
         "description": "I have an existing ASP.NET MVC application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.\n\nAcceptance Criteria\nThe application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC",
         "author": "VitPlanocka",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from?t="
     },
     {
@@ -8696,7 +8696,7 @@
         "title": "Whisper + Pyannote for live audio transcription and Speaker diarization",
         "description": "I need a Python Flask app with Whisper and Pyannote. The end-point should be able to take audio chunks and transcribe using Whisper and also use Pyannote to generate Speaker labels for the live transcription. Again I am not looking to transcribe youtube or audio files. Just the live stream from Microphone\n\nAcceptance Criteria\nPython Flask app with an end-point to take audio stream from websocket and return text (transcribed) with Speaker labels (Speaker 1, Speaker2 etc). Max # of speakers 3 (Predefined).\n\nTechnical Details\nhttps://lablab.ai/t/whisper-transcription-and-speaker-identification\nhttps://github.com/ahmetoner/whisper-asr-webservice\n\nLink to Project",
         "author": "satish-mk",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@satish-mk/whisper-pyannote-for?t="
     },
     {
@@ -8716,7 +8716,7 @@
         "title": "Adapt Existing Plugin to Obsidian (Send Markdown Tasks to Todoist)",
         "description": "I use Drafts for note taking and use this plugin (https://actions.getdrafts.com/a/1ld) to send any markdown tasks (\" - [ ] Sample Task\") into Todoist.\n\nI'd like to do all my my writing and note-taking in Obsidian instead (http://obsidian.md) and would like to adapt this plugin to work in Obsidian.\n\nAcceptance Criteria\nA ready-to-install plugin for Obsidian that has the same functionality as the Drafts plugin (https://actions.getdrafts.com/a/1ld)\nWhen in Obsidian, there is a button somewhere on the UI and a Command Palette command titled \"Send Tasks to ToDoist\"\nWhen that command is selected, the plugin scans the current document for the Markdown Task syntax and sends those tasks as individual tasks into ToDoist, with a link back to the Obsidian note. It also parses any additional Todoist context on the to-do (due date, project, priority, etc.), as the Drafts plugin does.\nThe plugin has an area in the settings for adding/updating the user's Todoist API token\n\nResource...",
         "author": "michaelssorense",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@michaelssorense/adapt-existing-plugi?t="
     },
     {
@@ -8726,7 +8726,7 @@
         "title": "Bugfix: shopify app authentication issue",
         "description": "I have a built a shopify app that has an authentication issue when installing. App is built with JS.\n\nTo re-create issue\nRun the app locally using the shopify cli\nSee if you get an error message 'There is no page at this address'\nIf not, uninstall app and re-install and you should see above error\n\nScreenshot of error: https://shopify.click/91426-26945-97404-96961-9656.png\n\nAcceptance criteria\nFix authentication issue so that the address is resolved and on install the shopify app requests user to accept auth and scope permissions",
         "author": "SamuelAbaka-Woo",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@SamuelAbaka-Woo/fix-shopify-app-auth?t="
     },
     {
@@ -8736,7 +8736,17 @@
         "title": "Scrape a Website and Populate a Table",
         "description": "Create a tool that scrapes the data from a specific apartment building's website and then populate a table with the pertinent data about each available apartment including:\nUnit number\nUnit Type\nNumber of Beds\nSquare Footage\nDate Available\nAsking Rent\n\nAcceptance Criteria\nTool should output the data in CSV format\nShould be able to run the tool daily\n\nTechnical Details",
         "author": "conor89",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@conor89/scrape-a-website-and?t="
+    },
+    {
+        "index": "874",
+        "price": "$72.00",
+        "due_days": "due in 15 days",
+        "title": "Update Software on Docker",
+        "description": "Can't update UptimeKuma\n\nAcceptance Criteria\nWhen software is updated.",
+        "author": "nickdumitru",
+        "posted_time": "32 minutes ago",
+        "link": "https://replit.com/bounties/@nickdumitru/update-software-on-d?t="
     }
 ]
