@@ -6977,7 +6977,7 @@ Link to Project",SatishMummadi,12 hours ago,https://replit.com/bounties/@SatishM
 Acceptance Criteria
 Must have worked with Kaboom.JS before
 Must be using Kaboom 3000
-Final result should be in vanilla JavaScript (feel free to compile from TS as long as it doesn't have any extra problems along with it.",codingMASTER398,23 hours ago,https://replit.com/bounties/@codingMASTER398/kaboomjs-terrain-sys?t=
+Final result should be in vanilla JavaScript (feel free to compile from TS as long as it doesn't have any extra problems along with it.",codingMASTER398,24 hours ago,https://replit.com/bounties/@codingMASTER398/kaboomjs-terrain-sys?t=
 867,$65.00,due in 5 days,MVP iOS App - Spotify insights between friends ,"Discovering and sharing music is easy on Spotify, learning about how your tastes and behaviors compare with your friends is hard. We want to change that.
 
 Acceptance Criteria
@@ -6992,7 +6992,7 @@ User installs and creates an account by linking their spotify via the authorizat
 868,$45.00,due in 3 days,Set up a replit from an existing application,"I have an existing ASP.NET MVC application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.
 
 Acceptance Criteria
-The application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC",VitPlanocka,18 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from?t=
+The application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC",VitPlanocka,19 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from?t=
 869,$90.00,due in 3 days,Whisper + Pyannote for live audio transcription and Speaker diarization,"I need a Python Flask app with Whisper and Pyannote. The end-point should be able to take audio chunks and transcribe using Whisper and also use Pyannote to generate Speaker labels for the live transcription. Again I am not looking to transcribe youtube or audio files. Just the live stream from Microphone
 
 Acceptance Criteria
@@ -7047,7 +7047,7 @@ If not, uninstall app and re-install and you should see above error
 Screenshot of error: https://shopify.click/91426-26945-97404-96961-9656.png
 
 Acceptance criteria
-Fix authentication issue so that the address is resolved and on install the shopify app requests user to accept auth and scope permissions",SamuelAbaka-Woo,5 hours ago,https://replit.com/bounties/@SamuelAbaka-Woo/fix-shopify-app-auth?t=
+Fix authentication issue so that the address is resolved and on install the shopify app requests user to accept auth and scope permissions",SamuelAbaka-Woo,6 hours ago,https://replit.com/bounties/@SamuelAbaka-Woo/fix-shopify-app-auth?t=
 873,$67.50,due in 9 days,Scrape a Website and Populate a Table,"Create a tool that scrapes the data from a specific apartment building's website and then populate a table with the pertinent data about each available apartment including:
 Unit number
 Unit Type
@@ -7060,7 +7060,7 @@ Acceptance Criteria
 Tool should output the data in CSV format
 Should be able to run the tool daily
 
-Technical Details",conor89,5 hours ago,https://replit.com/bounties/@conor89/scrape-a-website-and?t=
+Technical Details",conor89,6 hours ago,https://replit.com/bounties/@conor89/scrape-a-website-and?t=
 874,$72.00,due in 15 days,Update Software on Docker,"Can't update UptimeKuma
 
 Acceptance Criteria
@@ -7083,3 +7083,17 @@ Bounty Hunter must be professional, meet deadlines and respond to messages.
 Technical Details
 Written in Swift.
 Code is clear and concise.",SebastianIbarg1,1 hour ago,https://replit.com/bounties/@SebastianIbarg1/apple-mail-extension?t=
+876,$45.00,due in 9 days,Convert very large PDF Documents to HTML reliably,"#PDF challenge
+
+We need a solution to scrape large PDF documents into a searchable documents in our elasticsearch implementation. We currently run scrapers which gather hundreds of URLs of these documents.
+
+First Preference - Convert document to HTML
+
+Our first preference is that there is a solution to convert large PDF documents into HTML documents that can be displayed on our web service. We are looking for a solution that will take an input URL (of the PDF document), download it, convert it to a nice HTML.
+
+This solution must:
+
+Convert the documents into HTML in a reasonable amount of time and be reliable
+The result documents must be readable and look generally similar to the original PDF (however it does not need to be identical)
+Must be triggered programmatically.
+The result document must be a reasonable size (preferably less than a few MBs). Would prefer if images in the PDF are kept but compressed, however if this is impossible to also keep the document below 4MBs pictures can b...",PaulVavich,8 minutes ago,https://replit.com/bounties/@PaulVavich/convert-very-large-p?t=
