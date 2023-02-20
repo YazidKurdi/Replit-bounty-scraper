@@ -8716,7 +8716,7 @@
         "title": "Adapt Existing Plugin to Obsidian (Send Markdown Tasks to Todoist)",
         "description": "I use Drafts for note taking and use this plugin (https://actions.getdrafts.com/a/1ld) to send any markdown tasks (\" - [ ] Sample Task\") into Todoist.\n\nI'd like to do all my my writing and note-taking in Obsidian instead (http://obsidian.md) and would like to adapt this plugin to work in Obsidian.\n\nAcceptance Criteria\nA ready-to-install plugin for Obsidian that has the same functionality as the Drafts plugin (https://actions.getdrafts.com/a/1ld)\nWhen in Obsidian, there is a button somewhere on the UI and a Command Palette command titled \"Send Tasks to ToDoist\"\nWhen that command is selected, the plugin scans the current document for the Markdown Task syntax and sends those tasks as individual tasks into ToDoist, with a link back to the Obsidian note. It also parses any additional Todoist context on the to-do (due date, project, priority, etc.), as the Drafts plugin does.\nThe plugin has an area in the settings for adding/updating the user's Todoist API token\n\nResource...",
         "author": "michaelssorense",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@michaelssorense/adapt-existing-plugi?t="
     },
     {
@@ -8766,7 +8766,7 @@
         "title": "Convert very large PDF Documents to HTML reliably",
         "description": "#PDF challenge\n\nWe need a solution to scrape large PDF documents into a searchable documents in our elasticsearch implementation. We currently run scrapers which gather hundreds of URLs of these documents.\n\nFirst Preference - Convert document to HTML\n\nOur first preference is that there is a solution to convert large PDF documents into HTML documents that can be displayed on our web service. We are looking for a solution that will take an input URL (of the PDF document), download it, convert it to a nice HTML.\n\nThis solution must:\n\nConvert the documents into HTML in a reasonable amount of time and be reliable\nThe result documents must be readable and look generally similar to the original PDF (however it does not need to be identical)\nMust be triggered programmatically.\nThe result document must be a reasonable size (preferably less than a few MBs). Would prefer if images in the PDF are kept but compressed, however if this is impossible to also keep the document below 4MBs pictures can b...",
         "author": "PaulVavich",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@PaulVavich/convert-very-large-p?t="
     }
 ]
