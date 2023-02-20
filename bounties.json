@@ -8796,7 +8796,7 @@
         "title": "React Native Expo mobile app with Web Speech API",
         "description": "Develop a simple mobile react native expo app using chrome webview and Web Speech API (SpeechSynthesis)\nhttps://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisVoice\n\nWhen loaded the app screen should have only 2 buttons.\nRecord Text\nSpeak Text\n\nRecord Text\nAllowing users to speak into the app and see their message in plain text.\nUsers speak by pressing and holding a button, when button is let go, change button state to disabled. The app should convert speech to text using SpeechSynthesis, and when done display the text below the Record Text button. When the text is printed, change button state back to enabled. Users should be able to re-use this functionality of course when the button is enabled. When running the logic again, simply overwrite the previous text on the screen with the new voice message spoken.\n\nSpeak Text\nApp should speak predefined text store in a variable.\nDisplaying another button \"Speak Text\", below the \"Record Text\" button. When user cli...",
         "author": "dominikd2",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@dominikd2/react-native-expo-mo?t="
     },
     {
@@ -8862,11 +8862,11 @@
     {
         "index": "886",
         "price": "$150.00",
-        "due_days": "due in 7 days",
+        "due_days": "due in 11 days",
         "title": "Additional Features for Live Quiz Website",
         "description": "Bounty for  @GrimSteel to continue the development of additional features for a Live Quiz Website.\n\nFeatures:\n[ ] Rich Text Formatting\n[ ] Change avatars to all cartoon animals and only have 20 avatar options.\n[ ] (Teacher) -> Hide navbar once the teacher creates a game but make it accessible via a dropdown button until the game is ended then reset things to normal. (Student) -> Hide navbar and footer during the whole game (from the join page to the final page).\n[ ] Remove footer on explore, create, preview and live game pages, etc., for more viewing space on these congested pages. Also make it easier to see and edit decks, etc.\n[ ] Option to select (host/Teacher) + answer (student) multiple correct answers\n[ ] Remixing Decks\n[ ] Check if quiz deck or student's name is inappropriate.\n[ ] Add sounds for 3..2..1.. countdown timers in quizzes like Kahoot or Quizizz\n[ ] Medal screen for students or better luck message (like kahoot) and share result option (for students ...",
         "author": "Retrospicer",
-        "posted_time": "34 minutes ago",
+        "posted_time": "46 minutes ago",
         "link": "https://replit.com/bounties/@Retrospicer/additional-features?t="
     }
 ]
