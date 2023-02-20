@@ -8822,7 +8822,7 @@
     {
         "index": "882",
         "price": "$20.00",
-        "due_days": "due in 13 days",
+        "due_days": "due in 9 days",
         "title": "Data Subscription Provisioning and Account Management Tool",
         "description": "Setup products + pricing in Stripe and create a managing Postgres DB\nCreate a webhook in Stripe when payment is successful\nSetup a server-side script that can receive that notification and automatically update the Postgres DB (Python or Node.js)\n\tThis will need to parse the stripe webhook payload to pull the right information from the customer paying - Name, company, phone number, email, payment amount\n\tThis can be configured within the server-side script and in PostgreSQL library\nWhen payment is received server-side script will generate an API key using a random string generator and store it in the managing postgres DB\nConnect email account to managing DB to auto send an email to the purchaser of their API key - Python script using smtplib library (Or developer recomendation)\nTo track a user's access based on up to date payment, a boolean field will be added to the managing DB that the server-side script can check based on user input - if the user's payment goes through the API key wi...",
         "author": "GrailTrail99",
@@ -8866,7 +8866,7 @@
         "title": "Additional Features for Live Quiz Website",
         "description": "Bounty for  @GrimSteel to continue the development of additional features for a Live Quiz Website.\n\nFeatures:\n[ ] Rich Text Formatting\n[ ] Change avatars to all cartoon animals and only have 20 avatar options.\n[ ] (Teacher) -> Hide navbar once the teacher creates a game but make it accessible via a dropdown button until the game is ended then reset things to normal. (Student) -> Hide navbar and footer during the whole game (from the join page to the final page).\n[ ] Remove footer on explore, create, preview and live game pages, etc., for more viewing space on these congested pages. Also make it easier to see and edit decks, etc.\n[ ] Option to select (host/Teacher) + answer (student) multiple correct answers\n[ ] Remixing Decks\n[ ] Check if quiz deck or student's name is inappropriate.\n[ ] Add sounds for 3..2..1.. countdown timers in quizzes like Kahoot or Quizizz\n[ ] Medal screen for students or better luck message (like kahoot) and share result option (for students ...",
         "author": "Retrospicer",
-        "posted_time": "12 minutes ago",
+        "posted_time": "20 minutes ago",
         "link": "https://replit.com/bounties/@Retrospicer/additional-features?t="
     }
 ]
