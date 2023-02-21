@@ -7334,7 +7334,7 @@ clicking the button marks invoice(s) as ""paid"" (https://stripe.com/docs/api/in
 
 If invoice number not found, display error ""Invoice number(s) , ... not found""
 
-If invoice already paid display ""Invoice number(s) , ... already paid""",AustinLo1,9 hours ago,https://replit.com/bounties/@AustinLo1/stripe-invoice-updat?t=
+If invoice already paid display ""Invoice number(s) , ... already paid""",AustinLo1,10 hours ago,https://replit.com/bounties/@AustinLo1/stripe-invoice-updat?t=
 899,$100.00,closed,FB MESSENGER BOT (uzuki),"Make a messenger chatbot with lots of feature such as:
 openai
 dall-e
@@ -7348,7 +7348,7 @@ Code that can be integrated into bubble.io app that can monitor text messages in
 
 Specifics:
 1) User inputs phone numbers that need monitoring into the app
-2) App monitors the text messages from those designated numbers on a daily basis by sending the text message text from the 'message' iphone app to a google sheets output that can be exported",npickens27,7 hours ago,https://replit.com/bounties/@npickens27/text-message-review?t=
+2) App monitors the text messages from those designated numbers on a daily basis by sending the text message text from the 'message' iphone app to a google sheets output that can be exported",npickens27,8 hours ago,https://replit.com/bounties/@npickens27/text-message-review?t=
 901,$144.00,due in 7 days,Apple script for Keynote ,"Using applescript and  any other Mac based tools, mod Apple Keynote to have as many of these features as possible: https://medium.com/jammernd/on-presentation-software-keynote-and-better-7d2606d9ded5
 
 Acceptance Criteria
@@ -7376,7 +7376,7 @@ https://github.com/uselotus/lotus/issues/550
 It is easier to develop if you have a Mac. Quick fix if you've delt with docker in Github actions before.
 Acceptance Criteria
 
-All cypress tests run in the Github action workflow.",MikaelNida,1 hour ago,https://replit.com/bounties/@MikaelNida/fix-cypressdocker-in?t=
+All cypress tests run in the Github action workflow.",MikaelNida,2 hours ago,https://replit.com/bounties/@MikaelNida/fix-cypressdocker-in?t=
 905,$18.00,due in 3 days,Setup a repl to use flask/react ,"Want a Repl setup with Flask/React all working together.
 
 Acceptance Criteria
@@ -7389,4 +7389,4 @@ Probably using one of these templates would be good:
 https://github.com/cookiecutter-flask/cookiecutter-flask
 https://github.com/realpython/flask-boilerplate
 https://github.com/hack4impact/flask-base
-https://github.com/dternyak/React-Redux-Flask",proales2,36 minutes ago,https://replit.com/bounties/@proales2/setup-a-repl-to-use?t=
+https://github.com/dternyak/React-Redux-Flask",proales2,44 minutes ago,https://replit.com/bounties/@proales2/setup-a-repl-to-use?t=
