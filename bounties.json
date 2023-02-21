@@ -8886,7 +8886,7 @@
         "title": "Modify React App. Add stripe integration with firebase",
         "description": "I have a React app, which currently supports authentication. I need it to accept stripe payments, and give access to specific pages only when a user has paid\nDescription\nUse stripe checkout to process credit card information after login\nUsers can only access the docs section of the project if and only if they have paid and are authenticated\nA user is redirected to a stripe checkout page after they enter their login information\nAll other pages not on docs route must be accessible by non authenticated users\nuser email and password should use the existing firebase integration\n\nTechnical Details\nReact Project that uses docusaurus framework\n\nLink to Project\nhttps://github.com/mosesju/hardworking-hippo",
         "author": "mosesju",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@mosesju/modify-react-app-add?t="
     },
     {
