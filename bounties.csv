@@ -7196,13 +7196,13 @@ Features:
 [ ] Check if quiz deck or student's name is inappropriate.
 [ ] Add sounds for 3..2..1.. countdown timers in quizzes like Kahoot or Quizizz
 [ ] Medal screen for students or better luck message (like kahoot) and share result option (for students ...",Retrospicer,12 hours ago,https://replit.com/bounties/@Retrospicer/additional-features?t=
-887,$180.00,due in 13 days,Dynamic Market Map,"I'm creating a dynamic market map of the different AI companies. I would like a simple app that reads the category & logos from a database, and outputs as close to this image as possible.
+887,$180.00,due in 12 days,Dynamic Market Map,"I'm creating a dynamic market map of the different AI companies. I would like a simple app that reads the category & logos from a database, and outputs as close to this image as possible.
 
 https://research-assets.cbinsights.com/2022/11/14115447/SC-genAI-map.png
 
 Acceptance Criteria
 It should be a Replit codebase that reads from a database & outputs an image that's rendered on a webpage.",avlok,15 hours ago,https://replit.com/bounties/@avlok/dynamic-market-map?t=
-888,$100.00,due in 7 days,Modify React App. Add stripe integration with firebase,"I have a React app, which currently supports authentication. I need it to accept stripe payments, and give access to specific pages only when a user has paid
+888,$100.00,due in 6 days,Modify React App. Add stripe integration with firebase,"I have a React app, which currently supports authentication. I need it to accept stripe payments, and give access to specific pages only when a user has paid
 Description
 Use stripe checkout to process credit card information after login
 Users can only access the docs section of the project if and only if they have paid and are authenticated
@@ -7214,8 +7214,8 @@ Technical Details
 React Project that uses docusaurus framework
 
 Link to Project
-https://github.com/mosesju/hardworking-hippo",mosesju,14 hours ago,https://replit.com/bounties/@mosesju/modify-react-app-add?t=
-889,$30.60,due in 4 days,Send me list of every subdomain for given domain (50k+),"I want to find every single subdomain for a given domain. There are at least 50k subdomains
+https://github.com/mosesju/hardworking-hippo",mosesju,15 hours ago,https://replit.com/bounties/@mosesju/modify-react-app-add?t=
+889,$30.60,due in 3 days,Send me list of every subdomain for given domain (50k+),"I want to find every single subdomain for a given domain. There are at least 50k subdomains
 
 i been trying a few tools but cant find anything that is thoroughly finding all subdomains
 
@@ -7231,8 +7231,8 @@ CSV output or google sheet with a list of all the domains
 
 Domain
 Provided on acceptance",SamuelAbaka-Woo,13 hours ago,https://replit.com/bounties/@SamuelAbaka-Woo/send-me-list-of-ever?t=
-890,$45.00,due in 6 days,Show me my questrade account daily P/L,I want anyone to be able to connect to their questrade account and see their daily p/l % and dollar value. That's it.,fabiosworld,12 hours ago,https://replit.com/bounties/@fabiosworld/show-me-my-questrade?t=
-891,$90.00,due in 4 days,Design Inspiration Finder,"A simple web based AI design inspiration finder.
+890,$45.00,due in 5 days,Show me my questrade account daily P/L,I want anyone to be able to connect to their questrade account and see their daily p/l % and dollar value. That's it.,fabiosworld,13 hours ago,https://replit.com/bounties/@fabiosworld/show-me-my-questrade?t=
+891,$90.00,due in 3 days,Design Inspiration Finder,"A simple web based AI design inspiration finder.
 
 The tool should work like the following:
 
@@ -7253,7 +7253,7 @@ Minimal and clean UX (Figma design will be given)
 
 Chrome extension should be production ready and publishable to the chrome store
 The tool should be built with the current web app tech stack or ...",fabiosworld,12 hours ago,https://replit.com/bounties/@fabiosworld/design-inspiration-f?t=
-892,$900.00,due in 27 days,A productized/customizable LLM,"For this project, I would like to build a tool that allows a user to connect to their data sources and ""talk"" to their data through a chat UI; example questions that the tool should be able to answer (given that its connected to the needed data sources):
+892,$900.00,due in 26 days,A productized/customizable LLM,"For this project, I would like to build a tool that allows a user to connect to their data sources and ""talk"" to their data through a chat UI; example questions that the tool should be able to answer (given that its connected to the needed data sources):
 for a business:
 How can I file a feature request?
 Summarize our last quarterly results
@@ -7274,8 +7274,8 @@ Notion
 Do custom file uploads
 
 Once the user has connected their data sources, through...",metahash,11 hours ago,https://replit.com/bounties/@metahash/a-productizedcustomi?t=
-893,$4.50,due in 6 days,Website Programmer,"We are looking for someone who is passionate about web development, has a strong technical background, and a deep understanding of user experience design. The ideal candidate will have experience in designing and developing complex websites, with a focus on accessibility, search engine optimization, and scalability",JenniferCarter,10 hours ago,https://replit.com/bounties/@JenniferCarter/website-programmer?t=
-894,$45.00,due in 4 days,Looking for a script to turn markdown into structured dataset,"I'm looking for a JS script that can take the assessment markdown contents of https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes and convert it into a structured dataset for searching
+893,$4.50,due in 5 days,Website Programmer,"We are looking for someone who is passionate about web development, has a strong technical background, and a deep understanding of user experience design. The ideal candidate will have experience in designing and developing complex websites, with a focus on accessibility, search engine optimization, and scalability",JenniferCarter,10 hours ago,https://replit.com/bounties/@JenniferCarter/website-programmer?t=
+894,$45.00,due in 3 days,Looking for a script to turn markdown into structured dataset,"I'm looking for a JS script that can take the assessment markdown contents of https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes and convert it into a structured dataset for searching
 
 {
   assessment: string;
@@ -7292,7 +7292,7 @@ When the contents update, I can rerun this script to create a new structured dat
 
 Technical Details
 JavaScript/TypeScript accepted",tehkaiyu,8 hours ago,https://replit.com/bounties/@tehkaiyu/looking-for-a-script?t=
-895,$135.00,due in 7 days,AI personal shopper ,"The user lands on a web app (mobile friendly), which gives it a chance to pick:
+895,$135.00,due in 6 days,AI personal shopper ,"The user lands on a web app (mobile friendly), which gives it a chance to pick:
 Keywords to track (like brand name, item type)
 pick a list of e-commerce platforms to track among the ones available (Yoox, Zara, Farfetch...)
 The user activates an alert system (in the form of a push notification)
@@ -7303,11 +7303,11 @@ N/A
 
 Technical Details
 N/A",GennaroCuofano,6 hours ago,https://replit.com/bounties/@GennaroCuofano/ai-personal-shopper?t=
-896,$72.00,due in 7 days,Deploy AI Colab Notebook to Endpoint,"Please deploy this colab notebook: https://colab.research.google.com/drive/1bwUnj-9NnJA2EMr7eWO4I45UuBtKudg_?usp=sharing
+896,$72.00,due in 6 days,Deploy AI Colab Notebook to Endpoint,"Please deploy this colab notebook: https://colab.research.google.com/drive/1bwUnj-9NnJA2EMr7eWO4I45UuBtKudg_?usp=sharing
 
 To an AI endpoint that I can easily query with a new video and a new image. There should be two modes; one where I have uploaded a video previously, and just call the API endpoint with the URL of a new image which automatically gets download and run. In the second mode, I should be able to send in the URL of a video and an image, and the image will automatically get style transferred to the video.
 
 These should be deployed on AWS or GCP -- you can use any service and any language as long as it is on one of those two platforms.
 
 Acceptance Criteria
-I will accept anyone who provides a plan of what they will do, along with past experience like a Github or a resume.",AJGupta,5 hours ago,https://replit.com/bounties/@AJGupta/deploy-ai-colab-note?t=
+I will accept anyone who provides a plan of what they will do, along with past experience like a Github or a resume.",AJGupta,6 hours ago,https://replit.com/bounties/@AJGupta/deploy-ai-colab-note?t=

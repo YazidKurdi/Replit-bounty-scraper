@@ -8872,7 +8872,7 @@
     {
         "index": "887",
         "price": "$180.00",
-        "due_days": "due in 13 days",
+        "due_days": "due in 12 days",
         "title": "Dynamic Market Map",
         "description": "I'm creating a dynamic market map of the different AI companies. I would like a simple app that reads the category & logos from a database, and outputs as close to this image as possible.\n\nhttps://research-assets.cbinsights.com/2022/11/14115447/SC-genAI-map.png\n\nAcceptance Criteria\nIt should be a Replit codebase that reads from a database & outputs an image that's rendered on a webpage.",
         "author": "avlok",
@@ -8882,17 +8882,17 @@
     {
         "index": "888",
         "price": "$100.00",
-        "due_days": "due in 7 days",
+        "due_days": "due in 6 days",
         "title": "Modify React App. Add stripe integration with firebase",
         "description": "I have a React app, which currently supports authentication. I need it to accept stripe payments, and give access to specific pages only when a user has paid\nDescription\nUse stripe checkout to process credit card information after login\nUsers can only access the docs section of the project if and only if they have paid and are authenticated\nA user is redirected to a stripe checkout page after they enter their login information\nAll other pages not on docs route must be accessible by non authenticated users\nuser email and password should use the existing firebase integration\n\nTechnical Details\nReact Project that uses docusaurus framework\n\nLink to Project\nhttps://github.com/mosesju/hardworking-hippo",
         "author": "mosesju",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@mosesju/modify-react-app-add?t="
     },
     {
         "index": "889",
         "price": "$30.60",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Send me list of every subdomain for given domain (50k+)",
         "description": "I want to find every single subdomain for a given domain. There are at least 50k subdomains\n\ni been trying a few tools but cant find anything that is thoroughly finding all subdomains\n\nOne site found 7.8k but i know theres at least 5x that.\n\nI believe something like Knockpy or Sublist3r may be able to achieve this\n\nAcceptance Criteria\nList of 50k plus subdomains for domain I provide\n\nTechnical Details\nCSV output or google sheet with a list of all the domains\n\nDomain\nProvided on acceptance",
         "author": "SamuelAbaka-Woo",
@@ -8902,17 +8902,17 @@
     {
         "index": "890",
         "price": "$45.00",
-        "due_days": "due in 6 days",
+        "due_days": "due in 5 days",
         "title": "Show me my questrade account daily P/L",
         "description": "I want anyone to be able to connect to their questrade account and see their daily p/l % and dollar value. That's it.",
         "author": "fabiosworld",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@fabiosworld/show-me-my-questrade?t="
     },
     {
         "index": "891",
         "price": "$90.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Design Inspiration Finder",
         "description": "A simple web based AI design inspiration finder.\n\nThe tool should work like the following:\n\nthere is a search bar you can type things like \"signup pages with social logins\"\n\nIt should include a multi-select copy to clipboard feature where you can select all the examples you like and copy all to your clipboard so you can paste them wherever you'd like. There's no accounts or logins - similar to Perplexity.ai (just search & result)\n\nMain features\nSearch using natural language (buttons, pages, detail search descriptions)\nUser prompts tool in the search box, the output a tiled list of examples.\nMulti-select images (you can copy individual images or select multiple and copy all selected)\n\nIt should use OpenAI GPT3\n\nAcceptance Criteria\nThe code has to be clean and well documented\nMinimal and clean UX (Figma design will be given)\n\nChrome extension should be production ready and publishable to the chrome store\nThe tool should be built with the current web app tech stack or ...",
         "author": "fabiosworld",
@@ -8922,7 +8922,7 @@
     {
         "index": "892",
         "price": "$900.00",
-        "due_days": "due in 27 days",
+        "due_days": "due in 26 days",
         "title": "A productized/customizable LLM",
         "description": "For this project, I would like to build a tool that allows a user to connect to their data sources and \"talk\" to their data through a chat UI; example questions that the tool should be able to answer (given that its connected to the needed data sources):\nfor a business:\nHow can I file a feature request?\nSummarize our last quarterly results\nHow do I set up my local dev environment?\nWhat's the scope of the Microsoft Dynamics integration?\nFor an individual:\nWhat are the main points discussed in my PHD paper?\nWhat subjects will I learn about given my Economics 101 class syllabus?\nWhat's the grading criteria for Economics 101?\nSummarize my notes over the last 7 days\n\nAcceptance Criteria\n\nAn individual or a business should be able to sign up for the platform, once signed up they should be able to connect with:\nGoogle drive API (to pull in google docs)\nSlack (to pull in public channels)\nNotion\nDo custom file uploads\n\nOnce the user has connected their data sources, through...",
         "author": "metahash",
@@ -8932,7 +8932,7 @@
     {
         "index": "893",
         "price": "$4.50",
-        "due_days": "due in 6 days",
+        "due_days": "due in 5 days",
         "title": "Website Programmer",
         "description": "We are looking for someone who is passionate about web development, has a strong technical background, and a deep understanding of user experience design. The ideal candidate will have experience in designing and developing complex websites, with a focus on accessibility, search engine optimization, and scalability",
         "author": "JenniferCarter",
@@ -8942,7 +8942,7 @@
     {
         "index": "894",
         "price": "$45.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Looking for a script to turn markdown into structured dataset",
         "description": "I'm looking for a JS script that can take the assessment markdown contents of https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes and convert it into a structured dataset for searching\n\n{\n  assessment: string;\n  question: string;\n  questionCode?: string;\n  answers: string[];\n  correctAnswer: string;\n}\n\nAcceptance Criteria\nI can manually run the script\nGenerates structured data for all English markdown files found in https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes\nWhen the contents update, I can rerun this script to create a new structured dataset\n\nTechnical Details\nJavaScript/TypeScript accepted",
         "author": "tehkaiyu",
@@ -8952,7 +8952,7 @@
     {
         "index": "895",
         "price": "$135.00",
-        "due_days": "due in 7 days",
+        "due_days": "due in 6 days",
         "title": "AI personal shopper ",
         "description": "The user lands on a web app (mobile friendly), which gives it a chance to pick:\nKeywords to track (like brand name, item type)\npick a list of e-commerce platforms to track among the ones available (Yoox, Zara, Farfetch...)\nThe user activates an alert system (in the form of a push notification)\nThe push notification sends over deep links that go directly to the tracked store where it can navigate the sections they are interested on, which has been updated\n\nAcceptance Criteria\nN/A\n\nTechnical Details\nN/A",
         "author": "GennaroCuofano",
@@ -8962,11 +8962,11 @@
     {
         "index": "896",
         "price": "$72.00",
-        "due_days": "due in 7 days",
+        "due_days": "due in 6 days",
         "title": "Deploy AI Colab Notebook to Endpoint",
         "description": "Please deploy this colab notebook: https://colab.research.google.com/drive/1bwUnj-9NnJA2EMr7eWO4I45UuBtKudg_?usp=sharing\n\nTo an AI endpoint that I can easily query with a new video and a new image. There should be two modes; one where I have uploaded a video previously, and just call the API endpoint with the URL of a new image which automatically gets download and run. In the second mode, I should be able to send in the URL of a video and an image, and the image will automatically get style transferred to the video.\n\nThese should be deployed on AWS or GCP -- you can use any service and any language as long as it is on one of those two platforms.\n\nAcceptance Criteria\nI will accept anyone who provides a plan of what they will do, along with past experience like a Github or a resume.",
         "author": "AJGupta",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/deploy-ai-colab-note?t="
     }
 ]
