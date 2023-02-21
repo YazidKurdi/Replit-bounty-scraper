@@ -7369,4 +7369,11 @@ https://codesandbox.io/s/carousel-fun-hruc3z?file=/src/App.tsx
 
 References
 https://mantine.dev/others/carousel/
-https://github.com/davidjerleke/embla-carousel/issues/241",threadgill,33 seconds ago,https://replit.com/bounties/@threadgill/nested-carousel?t=
+https://github.com/davidjerleke/embla-carousel/issues/241",threadgill,17 minutes ago,https://replit.com/bounties/@threadgill/nested-carousel?t=
+904,$225.00,due in 11 days,Fix Cypress/Docker In Github Actions,"Full description of problem here:
+https://github.com/uselotus/lotus/issues/550
+
+It is easier to develop if you have a Mac. Quick fix if you've delt with docker in Github actions before.
+Acceptance Criteria
+
+All cypress tests run in the Github action workflow.",MikaelNida,9 minutes ago,https://replit.com/bounties/@MikaelNida/fix-cypressdocker-in?t=

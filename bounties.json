@@ -9036,7 +9036,17 @@
         "title": "Nested Carousel",
         "description": "The application has a Nested Carousel. When the users \"swipes\" the image on the child Carousel, the Parent Carousel also moves. The Parent Carousel should not move when the user swipes anywhere on the  of the child Carousel.\n\nI have included an example solution in the References. I simply need this same solution implemented to my CodeSandbox.\n\nAcceptance Criteria\nThe user can swipe the child Carousel images (on desktop & mobile) without the parent Carousel moving.\n\nTechnical Details\nReact front-end using Mantine Carousel component (based on Embla)\n\nLink to Project\nhttps://codesandbox.io/s/carousel-fun-hruc3z?file=/src/App.tsx\n\nReferences\nhttps://mantine.dev/others/carousel/\nhttps://github.com/davidjerleke/embla-carousel/issues/241",
         "author": "threadgill",
-        "posted_time": "33 seconds ago",
+        "posted_time": "17 minutes ago",
         "link": "https://replit.com/bounties/@threadgill/nested-carousel?t="
+    },
+    {
+        "index": "904",
+        "price": "$225.00",
+        "due_days": "due in 11 days",
+        "title": "Fix Cypress/Docker In Github Actions",
+        "description": "Full description of problem here:\nhttps://github.com/uselotus/lotus/issues/550\n\nIt is easier to develop if you have a Mac. Quick fix if you've delt with docker in Github actions before.\nAcceptance Criteria\n\nAll cypress tests run in the Github action workflow.",
+        "author": "MikaelNida",
+        "posted_time": "9 minutes ago",
+        "link": "https://replit.com/bounties/@MikaelNida/fix-cypressdocker-in?t="
     }
 ]
