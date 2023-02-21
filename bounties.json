@@ -8926,7 +8926,7 @@
         "title": "A productized/customizable LLM",
         "description": "For this project, I would like to build a tool that allows a user to connect to their data sources and \"talk\" to their data through a chat UI; example questions that the tool should be able to answer (given that its connected to the needed data sources):\nfor a business:\nHow can I file a feature request?\nSummarize our last quarterly results\nHow do I set up my local dev environment?\nWhat's the scope of the Microsoft Dynamics integration?\nFor an individual:\nWhat are the main points discussed in my PHD paper?\nWhat subjects will I learn about given my Economics 101 class syllabus?\nWhat's the grading criteria for Economics 101?\nSummarize my notes over the last 7 days\n\nAcceptance Criteria\n\nAn individual or a business should be able to sign up for the platform, once signed up they should be able to connect with:\nGoogle drive API (to pull in google docs)\nSlack (to pull in public channels)\nNotion\nDo custom file uploads\n\nOnce the user has connected their data sources, through...",
         "author": "metahash",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@metahash/a-productizedcustomi?t="
     },
     {
@@ -8966,7 +8966,7 @@
         "title": "Deploy AI Colab Notebook to Endpoint",
         "description": "Please deploy this colab notebook: https://colab.research.google.com/drive/1bwUnj-9NnJA2EMr7eWO4I45UuBtKudg_?usp=sharing\n\nTo an AI endpoint that I can easily query with a new video and a new image. There should be two modes; one where I have uploaded a video previously, and just call the API endpoint with the URL of a new image which automatically gets download and run. In the second mode, I should be able to send in the URL of a video and an image, and the image will automatically get style transferred to the video.\n\nThese should be deployed on AWS or GCP -- you can use any service and any language as long as it is on one of those two platforms.\n\nAcceptance Criteria\nI will accept anyone who provides a plan of what they will do, along with past experience like a Github or a resume.",
         "author": "AJGupta",
-        "posted_time": "37 minutes ago",
+        "posted_time": "49 minutes ago",
         "link": "https://replit.com/bounties/@AJGupta/deploy-ai-colab-note?t="
     }
 ]
