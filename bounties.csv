@@ -7310,13 +7310,13 @@ To an AI endpoint that I can easily query with a new video and a new image. Ther
 These should be deployed on AWS or GCP -- you can use any service and any language as long as it is on one of those two platforms.
 
 Acceptance Criteria
-I will accept anyone who provides a plan of what they will do, along with past experience like a Github or a resume.",AJGupta,16 hours ago,https://replit.com/bounties/@AJGupta/deploy-ai-colab-note?t=
+I will accept anyone who provides a plan of what they will do, along with past experience like a Github or a resume.",AJGupta,17 hours ago,https://replit.com/bounties/@AJGupta/deploy-ai-colab-note?t=
 897,$9.00,due in 3 days,Create simple next.js 13 {app/experimental} app to prompt GPT API,"I am trying to better understand how to make server-side requests using the new Next.js 13 Beta. To demonstrate this, I would like a minimal page that allows the user to type in a GPT prompt and then displays the response provided by the API. It is important that the request to the GPT API is made by a server-side component.
 
 Acceptance Criteria
 Must use Next.js 13 app/experimental
 API request must be performed by server-side components
-Successfully displays the GPT response",LucianoTavares3,9 hours ago,https://replit.com/bounties/@LucianoTavares3/create-simple-nextjs?t=
+Successfully displays the GPT response",LucianoTavares3,10 hours ago,https://replit.com/bounties/@LucianoTavares3/create-simple-nextjs?t=
 898,$90.00,due in 13 days,Stripe Invoice Updater,"Create a web app where a user can manually update stripe invoice(s) to mark them as manually paid. Must be written in react/node
 
 Acceptance Criteria
@@ -7342,7 +7342,7 @@ etc.
 Acceptance Criteria
 n/a
 Technical Details
-n/a",ForLaag,8 hours ago,https://replit.com/bounties/@ForLaag/fb-messenger-bot-uzu?t=
+n/a",ForLaag,9 hours ago,https://replit.com/bounties/@ForLaag/fb-messenger-bot-uzu?t=
 900,$4.50,due in 9 days,Text Message Review,"Overview:
 Code that can be integrated into bubble.io app that can monitor text messages in the 'messages' app on the iphone for a specific list of phone numbers provided by the user (ie- if a user has 100 contacts in their iphone, this app can monitor text messages in the 'messages' app from 10 contacts that have been specifically identified by the user).
 
@@ -7369,7 +7369,7 @@ https://codesandbox.io/s/carousel-fun-hruc3z?file=/src/App.tsx
 
 References
 https://mantine.dev/others/carousel/
-https://github.com/davidjerleke/embla-carousel/issues/241",threadgill,1 hour ago,https://replit.com/bounties/@threadgill/nested-carousel?t=
+https://github.com/davidjerleke/embla-carousel/issues/241",threadgill,2 hours ago,https://replit.com/bounties/@threadgill/nested-carousel?t=
 904,$225.00,due in 11 days,Fix Cypress/Docker In Github Actions,"Full description of problem here:
 https://github.com/uselotus/lotus/issues/550
 
@@ -7389,4 +7389,4 @@ Probably using one of these templates would be good:
 https://github.com/cookiecutter-flask/cookiecutter-flask
 https://github.com/realpython/flask-boilerplate
 https://github.com/hack4impact/flask-base
-https://github.com/dternyak/React-Redux-Flask",proales2,20 minutes ago,https://replit.com/bounties/@proales2/setup-a-repl-to-use?t=
+https://github.com/dternyak/React-Redux-Flask",proales2,36 minutes ago,https://replit.com/bounties/@proales2/setup-a-repl-to-use?t=
