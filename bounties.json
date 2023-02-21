@@ -8946,7 +8946,7 @@
         "title": "Looking for a script to turn markdown into structured dataset",
         "description": "I'm looking for a JS script that can take the assessment markdown contents of https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes and convert it into a structured dataset for searching\n\n{\n  assessment: string;\n  question: string;\n  questionCode?: string;\n  answers: string[];\n  correctAnswer: string;\n}\n\nAcceptance Criteria\nI can manually run the script\nGenerates structured data for all English markdown files found in https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes\nWhen the contents update, I can rerun this script to create a new structured dataset\n\nTechnical Details\nJavaScript/TypeScript accepted",
         "author": "tehkaiyu",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@tehkaiyu/looking-for-a-script?t="
     },
     {
@@ -9026,7 +9026,7 @@
         "title": "perl script that prints the history of commands with timestamps",
         "description": "just looking for a perl script I can run in my terminal that will show me the last 100 or so commands used along with the date, time of when the command was used.",
         "author": "AlekNaomieBurtP",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@AlekNaomieBurtP/perl-script-that-pri?t="
     }
 ]
