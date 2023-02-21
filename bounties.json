@@ -8846,7 +8846,7 @@
         "title": "NextJS Supabase Blog Boilerplate",
         "description": "Create a web app that displays articles and gives the user the option to comment (very straightforward blog). Content for the articles will come from Supabase; user comments are also stored in Supabase. Users must authenticate with Supabase Auth before posting a comment.\n\nAcceptance Criteria\nUser can see a list of articles\nUser can click on an article to see details\nUser can view comments on the article\nUser can sign up/in with email\nUser can leave a comment on the article; is prompted to login before posting is allowed.\n\nTechnical Details\nNextJS\nTypescript\nSupabase\nTailwind\n\nMost of this is available in various templates. We just need to put it together into a starter app.\nSupabase Auth Example: https://vercel.com/templates/next.js/supabase-authentication\nArticle design: https://demo.vercel.pub/150m-series-d\nBlog with comments: https://vercel.com/templates/next.js/blog-with-comments\n\nApplicants who can show previous related experience will be prioritized",
         "author": "BPaper",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@BPaper/nextjs-supabase-blog?t="
     },
     {
@@ -8866,7 +8866,7 @@
         "title": "Additional Features for Live Quiz Website",
         "description": "Bounty for  @GrimSteel to continue the development of additional features for a Live Quiz Website.\n\nFeatures:\n[ ] Rich Text Formatting\n[ ] Change avatars to all cartoon animals and only have 20 avatar options.\n[ ] (Teacher) -> Hide navbar once the teacher creates a game but make it accessible via a dropdown button until the game is ended then reset things to normal. (Student) -> Hide navbar and footer during the whole game (from the join page to the final page).\n[ ] Remove footer on explore, create, preview and live game pages, etc., for more viewing space on these congested pages. Also make it easier to see and edit decks, etc.\n[ ] Option to select (host/Teacher) + answer (student) multiple correct answers\n[ ] Remixing Decks\n[ ] Check if quiz deck or student's name is inappropriate.\n[ ] Add sounds for 3..2..1.. countdown timers in quizzes like Kahoot or Quizizz\n[ ] Medal screen for students or better luck message (like kahoot) and share result option (for students ...",
         "author": "Retrospicer",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@Retrospicer/additional-features?t="
     },
     {
@@ -8896,7 +8896,7 @@
         "title": "Send me list of every subdomain for given domain (50k+)",
         "description": "I want to find every single subdomain for a given domain. There are at least 50k subdomains\n\ni been trying a few tools but cant find anything that is thoroughly finding all subdomains\n\nOne site found 7.8k but i know theres at least 5x that.\n\nI believe something like Knockpy or Sublist3r may be able to achieve this\n\nAcceptance Criteria\nList of 50k plus subdomains for domain I provide\n\nTechnical Details\nCSV output or google sheet with a list of all the domains\n\nDomain\nProvided on acceptance",
         "author": "SamuelAbaka-Woo",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@SamuelAbaka-Woo/send-me-list-of-ever?t="
     },
     {
@@ -8906,7 +8906,7 @@
         "title": "Show me my questrade account daily P/L",
         "description": "I want anyone to be able to connect to their questrade account and see their daily p/l % and dollar value. That's it.",
         "author": "fabiosworld",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@fabiosworld/show-me-my-questrade?t="
     },
     {
