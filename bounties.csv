@@ -7291,7 +7291,7 @@ Generates structured data for all English markdown files found in https://github
 When the contents update, I can rerun this script to create a new structured dataset
 
 Technical Details
-JavaScript/TypeScript accepted",tehkaiyu,9 hours ago,https://replit.com/bounties/@tehkaiyu/looking-for-a-script?t=
+JavaScript/TypeScript accepted",tehkaiyu,10 hours ago,https://replit.com/bounties/@tehkaiyu/looking-for-a-script?t=
 895,$135.00,due in 6 days,AI personal shopper ,"The user lands on a web app (mobile friendly), which gives it a chance to pick:
 Keywords to track (like brand name, item type)
 pick a list of e-commerce platforms to track among the ones available (Yoox, Zara, Farfetch...)
@@ -7311,3 +7311,9 @@ These should be deployed on AWS or GCP -- you can use any service and any langua
 
 Acceptance Criteria
 I will accept anyone who provides a plan of what they will do, along with past experience like a Github or a resume.",AJGupta,7 hours ago,https://replit.com/bounties/@AJGupta/deploy-ai-colab-note?t=
+897,$9.00,due in 3 days,Create simple next.js 13 {app/experimental} app to prompt GPT API,"I am trying to better understand how to make server-side requests using the new Next.js 13 Beta. To demonstrate this, I would like a minimal page that allows the user to type in a GPT prompt and then displays the response provided by the API. It is important that the request to the GPT API is made by a server-side component.
+
+Acceptance Criteria
+Must use Next.js 13 app/experimental
+API request must be performed by server-side components
+Successfully displays the GPT response",LucianoTavares3,5 minutes ago,https://replit.com/bounties/@LucianoTavares3/create-simple-nextjs?t=
