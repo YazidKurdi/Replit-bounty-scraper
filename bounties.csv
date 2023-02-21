@@ -7201,7 +7201,7 @@ Features:
 https://research-assets.cbinsights.com/2022/11/14115447/SC-genAI-map.png
 
 Acceptance Criteria
-It should be a Replit codebase that reads from a database & outputs an image that's rendered on a webpage.",avlok,9 hours ago,https://replit.com/bounties/@avlok/dynamic-market-map?t=
+It should be a Replit codebase that reads from a database & outputs an image that's rendered on a webpage.",avlok,10 hours ago,https://replit.com/bounties/@avlok/dynamic-market-map?t=
 888,$100.00,due in 7 days,Modify React App. Add stripe integration with firebase,"I have a React app, which currently supports authentication. I need it to accept stripe payments, and give access to specific pages only when a user has paid
 Description
 Use stripe checkout to process credit card information after login
@@ -7291,7 +7291,7 @@ Generates structured data for all English markdown files found in https://github
 When the contents update, I can rerun this script to create a new structured dataset
 
 Technical Details
-JavaScript/TypeScript accepted",tehkaiyu,2 hours ago,https://replit.com/bounties/@tehkaiyu/looking-for-a-script?t=
+JavaScript/TypeScript accepted",tehkaiyu,3 hours ago,https://replit.com/bounties/@tehkaiyu/looking-for-a-script?t=
 895,$135.00,due in 7 days,AI personal shopper ,"The user lands on a web app (mobile friendly), which gives it a chance to pick:
 Keywords to track (like brand name, item type)
 pick a list of e-commerce platforms to track among the ones available (Yoox, Zara, Farfetch...)
@@ -7302,4 +7302,12 @@ Acceptance Criteria
 N/A
 
 Technical Details
-N/A",GennaroCuofano,57 minutes ago,https://replit.com/bounties/@GennaroCuofano/ai-personal-shopper?t=
+N/A",GennaroCuofano,1 hour ago,https://replit.com/bounties/@GennaroCuofano/ai-personal-shopper?t=
+896,$72.00,due in 7 days,Deploy AI Colab Notebook to Endpoint,"Please deploy this colab notebook: https://colab.research.google.com/drive/1bwUnj-9NnJA2EMr7eWO4I45UuBtKudg_?usp=sharing
+
+To an AI endpoint that I can easily query with a new video and a new image. There should be two modes; one where I have uploaded a video previously, and just call the API endpoint with the URL of a new image which automatically gets download and run. In the second mode, I should be able to send in the URL of a video and an image, and the image will automatically get style transferred to the video.
+
+These should be deployed on AWS or GCP -- you can use any service and any language as long as it is on one of those two platforms.
+
+Acceptance Criteria
+I will accept anyone who provides a plan of what they will do, along with past experience like a Github or a resume.",AJGupta,8 minutes ago,https://replit.com/bounties/@AJGupta/deploy-ai-colab-note?t=

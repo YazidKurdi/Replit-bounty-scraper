@@ -8876,7 +8876,7 @@
         "title": "Dynamic Market Map",
         "description": "I'm creating a dynamic market map of the different AI companies. I would like a simple app that reads the category & logos from a database, and outputs as close to this image as possible.\n\nhttps://research-assets.cbinsights.com/2022/11/14115447/SC-genAI-map.png\n\nAcceptance Criteria\nIt should be a Replit codebase that reads from a database & outputs an image that's rendered on a webpage.",
         "author": "avlok",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@avlok/dynamic-market-map?t="
     },
     {
@@ -8946,7 +8946,7 @@
         "title": "Looking for a script to turn markdown into structured dataset",
         "description": "I'm looking for a JS script that can take the assessment markdown contents of https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes and convert it into a structured dataset for searching\n\n{\n  assessment: string;\n  question: string;\n  questionCode?: string;\n  answers: string[];\n  correctAnswer: string;\n}\n\nAcceptance Criteria\nI can manually run the script\nGenerates structured data for all English markdown files found in https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes\nWhen the contents update, I can rerun this script to create a new structured dataset\n\nTechnical Details\nJavaScript/TypeScript accepted",
         "author": "tehkaiyu",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@tehkaiyu/looking-for-a-script?t="
     },
     {
@@ -8956,7 +8956,17 @@
         "title": "AI personal shopper ",
         "description": "The user lands on a web app (mobile friendly), which gives it a chance to pick:\nKeywords to track (like brand name, item type)\npick a list of e-commerce platforms to track among the ones available (Yoox, Zara, Farfetch...)\nThe user activates an alert system (in the form of a push notification)\nThe push notification sends over deep links that go directly to the tracked store where it can navigate the sections they are interested on, which has been updated\n\nAcceptance Criteria\nN/A\n\nTechnical Details\nN/A",
         "author": "GennaroCuofano",
-        "posted_time": "57 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/ai-personal-shopper?t="
+    },
+    {
+        "index": "896",
+        "price": "$72.00",
+        "due_days": "due in 7 days",
+        "title": "Deploy AI Colab Notebook to Endpoint",
+        "description": "Please deploy this colab notebook: https://colab.research.google.com/drive/1bwUnj-9NnJA2EMr7eWO4I45UuBtKudg_?usp=sharing\n\nTo an AI endpoint that I can easily query with a new video and a new image. There should be two modes; one where I have uploaded a video previously, and just call the API endpoint with the URL of a new image which automatically gets download and run. In the second mode, I should be able to send in the URL of a video and an image, and the image will automatically get style transferred to the video.\n\nThese should be deployed on AWS or GCP -- you can use any service and any language as long as it is on one of those two platforms.\n\nAcceptance Criteria\nI will accept anyone who provides a plan of what they will do, along with past experience like a Github or a resume.",
+        "author": "AJGupta",
+        "posted_time": "8 minutes ago",
+        "link": "https://replit.com/bounties/@AJGupta/deploy-ai-colab-note?t="
     }
 ]
