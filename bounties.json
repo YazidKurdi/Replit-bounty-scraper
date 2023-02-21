@@ -8926,7 +8926,7 @@
         "title": "A productized/customizable LLM",
         "description": "For this project, I would like to build a tool that allows a user to connect to their data sources and \"talk\" to their data through a chat UI; example questions that the tool should be able to answer (given that its connected to the needed data sources):\nfor a business:\nHow can I file a feature request?\nSummarize our last quarterly results\nHow do I set up my local dev environment?\nWhat's the scope of the Microsoft Dynamics integration?\nFor an individual:\nWhat are the main points discussed in my PHD paper?\nWhat subjects will I learn about given my Economics 101 class syllabus?\nWhat's the grading criteria for Economics 101?\nSummarize my notes over the last 7 days\n\nAcceptance Criteria\n\nAn individual or a business should be able to sign up for the platform, once signed up they should be able to connect with:\nGoogle drive API (to pull in google docs)\nSlack (to pull in public channels)\nNotion\nDo custom file uploads\n\nOnce the user has connected their data sources, through...",
         "author": "metahash",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@metahash/a-productizedcustomi?t="
     },
     {
@@ -8986,7 +8986,7 @@
         "title": "Stripe Invoice Updater",
         "description": "Create a web app where a user can manually update stripe invoice(s) to mark them as manually paid. Must be written in react/node\n\nAcceptance Criteria\nInput fields:\nStripe API key\none or many Invoice Number(s) (ex: \"9E19AD6B-0092\") -- this is different than the Invoice ID.\n\nyou can assume that searching for an invoice number will only result in 1 invoice result.\n\nResult:\nlist all invoices in a table showing their amounts\nDisplay a button that says \"mark invoices as paid\"\n\nclicking the button marks invoice(s) as \"paid\" (https://stripe.com/docs/api/invoices/pay -- need to set \"paidoutof_band\" =true )  and display success message listing all invoice numbers successfully updated\n\nIf invoice number not found, display error \"Invoice number(s) , ... not found\"\n\nIf invoice already paid display \"Invoice number(s) , ... already paid\"",
         "author": "AustinLo1",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@AustinLo1/stripe-invoice-updat?t="
     },
     {
@@ -8996,7 +8996,7 @@
         "title": "FB MESSENGER BOT (uzuki)",
         "description": "Make a messenger chatbot with lots of feature such as:\nopenai\ndall-e\netc.\nAcceptance Criteria\nn/a\nTechnical Details\nn/a",
         "author": "ForLaag",
-        "posted_time": "45 minutes ago",
+        "posted_time": "55 minutes ago",
         "link": "https://replit.com/bounties/@ForLaag/fb-messenger-bot-uzu?t="
     }
 ]
