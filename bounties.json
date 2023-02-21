@@ -9026,7 +9026,7 @@
         "title": "perl script that prints the history of commands with timestamps",
         "description": "just looking for a perl script I can run in my terminal that will show me the last 100 or so commands used along with the date, time of when the command was used.",
         "author": "AlekNaomieBurtP",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@AlekNaomieBurtP/perl-script-that-pri?t="
     },
     {
@@ -9036,7 +9036,7 @@
         "title": "Nested Carousel",
         "description": "The application has a Nested Carousel. When the users \"swipes\" the image on the child Carousel, the Parent Carousel also moves. The Parent Carousel should not move when the user swipes anywhere on the  of the child Carousel.\n\nI have included an example solution in the References. I simply need this same solution implemented to my CodeSandbox.\n\nAcceptance Criteria\nThe user can swipe the child Carousel images (on desktop & mobile) without the parent Carousel moving.\n\nTechnical Details\nReact front-end using Mantine Carousel component (based on Embla)\n\nLink to Project\nhttps://codesandbox.io/s/carousel-fun-hruc3z?file=/src/App.tsx\n\nReferences\nhttps://mantine.dev/others/carousel/\nhttps://github.com/davidjerleke/embla-carousel/issues/241",
         "author": "threadgill",
-        "posted_time": "51 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@threadgill/nested-carousel?t="
     },
     {
@@ -9046,7 +9046,17 @@
         "title": "Fix Cypress/Docker In Github Actions",
         "description": "Full description of problem here:\nhttps://github.com/uselotus/lotus/issues/550\n\nIt is easier to develop if you have a Mac. Quick fix if you've delt with docker in Github actions before.\nAcceptance Criteria\n\nAll cypress tests run in the Github action workflow.",
         "author": "MikaelNida",
-        "posted_time": "43 minutes ago",
+        "posted_time": "53 minutes ago",
         "link": "https://replit.com/bounties/@MikaelNida/fix-cypressdocker-in?t="
+    },
+    {
+        "index": "905",
+        "price": "$18.00",
+        "due_days": "due in 3 days",
+        "title": "Setup a repl to use flask/react ",
+        "description": "Want a Repl setup with Flask/React all working together.\n\nAcceptance Criteria\n\nHello world loads.\n\nTechnical Details\n\nProbably using one of these templates would be good:\nhttps://github.com/cookiecutter-flask/cookiecutter-flask\nhttps://github.com/realpython/flask-boilerplate\nhttps://github.com/hack4impact/flask-base\nhttps://github.com/dternyak/React-Redux-Flask",
+        "author": "proales2",
+        "posted_time": "3 minutes ago",
+        "link": "https://replit.com/bounties/@proales2/setup-a-repl-to-use?t="
     }
 ]

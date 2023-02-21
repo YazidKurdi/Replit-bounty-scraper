@@ -7353,7 +7353,7 @@ Specifics:
 
 Acceptance Criteria
 Will only accept folks who provide a plan for which features they choose to implement, along with a Github or other evidence of experience.",AJGupta,6 hours ago,https://replit.com/bounties/@AJGupta/apple-script-for-key?t=
-902,$18.00,closed,perl script that prints the history of commands with timestamps,"just looking for a perl script I can run in my terminal that will show me the last 100 or so commands used along with the date, time of when the command was used.",AlekNaomieBurtP,5 hours ago,https://replit.com/bounties/@AlekNaomieBurtP/perl-script-that-pri?t=
+902,$18.00,closed,perl script that prints the history of commands with timestamps,"just looking for a perl script I can run in my terminal that will show me the last 100 or so commands used along with the date, time of when the command was used.",AlekNaomieBurtP,6 hours ago,https://replit.com/bounties/@AlekNaomieBurtP/perl-script-that-pri?t=
 903,$27.00,due in 3 days,Nested Carousel,"The application has a Nested Carousel. When the users ""swipes"" the image on the child Carousel, the Parent Carousel also moves. The Parent Carousel should not move when the user swipes anywhere on the  of the child Carousel.
 
 I have included an example solution in the References. I simply need this same solution implemented to my CodeSandbox.
@@ -7369,11 +7369,24 @@ https://codesandbox.io/s/carousel-fun-hruc3z?file=/src/App.tsx
 
 References
 https://mantine.dev/others/carousel/
-https://github.com/davidjerleke/embla-carousel/issues/241",threadgill,51 minutes ago,https://replit.com/bounties/@threadgill/nested-carousel?t=
+https://github.com/davidjerleke/embla-carousel/issues/241",threadgill,1 hour ago,https://replit.com/bounties/@threadgill/nested-carousel?t=
 904,$225.00,due in 11 days,Fix Cypress/Docker In Github Actions,"Full description of problem here:
 https://github.com/uselotus/lotus/issues/550
 
 It is easier to develop if you have a Mac. Quick fix if you've delt with docker in Github actions before.
 Acceptance Criteria
 
-All cypress tests run in the Github action workflow.",MikaelNida,43 minutes ago,https://replit.com/bounties/@MikaelNida/fix-cypressdocker-in?t=
+All cypress tests run in the Github action workflow.",MikaelNida,53 minutes ago,https://replit.com/bounties/@MikaelNida/fix-cypressdocker-in?t=
+905,$18.00,due in 3 days,Setup a repl to use flask/react ,"Want a Repl setup with Flask/React all working together.
+
+Acceptance Criteria
+
+Hello world loads.
+
+Technical Details
+
+Probably using one of these templates would be good:
+https://github.com/cookiecutter-flask/cookiecutter-flask
+https://github.com/realpython/flask-boilerplate
+https://github.com/hack4impact/flask-base
+https://github.com/dternyak/React-Redux-Flask",proales2,3 minutes ago,https://replit.com/bounties/@proales2/setup-a-repl-to-use?t=
