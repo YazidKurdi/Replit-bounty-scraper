@@ -9026,7 +9026,7 @@
         "title": "perl script that prints the history of commands with timestamps",
         "description": "just looking for a perl script I can run in my terminal that will show me the last 100 or so commands used along with the date, time of when the command was used.",
         "author": "AlekNaomieBurtP",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@AlekNaomieBurtP/perl-script-that-pri?t="
     },
     {
@@ -9056,7 +9056,7 @@
         "title": "Setup a repl to use flask/react ",
         "description": "Want a Repl setup with Flask/React all working together.\n\nAcceptance Criteria\n\nHello world loads.\n\nTechnical Details\n\nProbably using one of these templates would be good:\nhttps://github.com/cookiecutter-flask/cookiecutter-flask\nhttps://github.com/realpython/flask-boilerplate\nhttps://github.com/hack4impact/flask-base\nhttps://github.com/dternyak/React-Redux-Flask",
         "author": "proales2",
-        "posted_time": "53 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@proales2/setup-a-repl-to-use?t="
     }
 ]
