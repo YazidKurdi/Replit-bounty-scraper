@@ -9016,7 +9016,7 @@
         "title": "Apple script for Keynote ",
         "description": "Using applescript and  any other Mac based tools, mod Apple Keynote to have as many of these features as possible: https://medium.com/jammernd/on-presentation-software-keynote-and-better-7d2606d9ded5\n\nAcceptance Criteria\nWill only accept folks who provide a plan for which features they choose to implement, along with a Github or other evidence of experience.",
         "author": "AJGupta",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/apple-script-for-key?t="
     },
     {
@@ -9056,7 +9056,7 @@
         "title": "Setup a repl to use flask/react ",
         "description": "Want a Repl setup with Flask/React all working together.\n\nAcceptance Criteria\n\nHello world loads.\n\nTechnical Details\n\nProbably using one of these templates would be good:\nhttps://github.com/cookiecutter-flask/cookiecutter-flask\nhttps://github.com/realpython/flask-boilerplate\nhttps://github.com/hack4impact/flask-base\nhttps://github.com/dternyak/React-Redux-Flask",
         "author": "proales2",
-        "posted_time": "44 minutes ago",
+        "posted_time": "53 minutes ago",
         "link": "https://replit.com/bounties/@proales2/setup-a-repl-to-use?t="
     }
 ]
