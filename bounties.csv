@@ -7201,7 +7201,7 @@ Features:
 https://research-assets.cbinsights.com/2022/11/14115447/SC-genAI-map.png
 
 Acceptance Criteria
-It should be a Replit codebase that reads from a database & outputs an image that's rendered on a webpage.",avlok,8 hours ago,https://replit.com/bounties/@avlok/dynamic-market-map?t=
+It should be a Replit codebase that reads from a database & outputs an image that's rendered on a webpage.",avlok,9 hours ago,https://replit.com/bounties/@avlok/dynamic-market-map?t=
 888,$100.00,due in 7 days,Modify React App. Add stripe integration with firebase,"I have a React app, which currently supports authentication. I need it to accept stripe payments, and give access to specific pages only when a user has paid
 Description
 Use stripe checkout to process credit card information after login
@@ -7291,4 +7291,15 @@ Generates structured data for all English markdown files found in https://github
 When the contents update, I can rerun this script to create a new structured dataset
 
 Technical Details
-JavaScript/TypeScript accepted",tehkaiyu,1 hour ago,https://replit.com/bounties/@tehkaiyu/looking-for-a-script?t=
+JavaScript/TypeScript accepted",tehkaiyu,2 hours ago,https://replit.com/bounties/@tehkaiyu/looking-for-a-script?t=
+895,$135.00,due in 7 days,AI personal shopper ,"The user lands on a web app (mobile friendly), which gives it a chance to pick:
+Keywords to track (like brand name, item type)
+pick a list of e-commerce platforms to track among the ones available (Yoox, Zara, Farfetch...)
+The user activates an alert system (in the form of a push notification)
+The push notification sends over deep links that go directly to the tracked store where it can navigate the sections they are interested on, which has been updated
+
+Acceptance Criteria
+N/A
+
+Technical Details
+N/A",GennaroCuofano,5 minutes ago,https://replit.com/bounties/@GennaroCuofano/ai-personal-shopper?t=
