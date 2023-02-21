@@ -8992,7 +8992,7 @@
     {
         "index": "899",
         "price": "$100.00",
-        "due_days": "due in 3 days",
+        "due_days": "closed",
         "title": "FB MESSENGER BOT (uzuki)",
         "description": "Make a messenger chatbot with lots of feature such as:\nopenai\ndall-e\netc.\nAcceptance Criteria\nn/a\nTechnical Details\nn/a",
         "author": "ForLaag",
@@ -9016,7 +9016,7 @@
         "title": "Apple script for Keynote ",
         "description": "Using applescript and  any other Mac based tools, mod Apple Keynote to have as many of these features as possible: https://medium.com/jammernd/on-presentation-software-keynote-and-better-7d2606d9ded5\n\nAcceptance Criteria\nWill only accept folks who provide a plan for which features they choose to implement, along with a Github or other evidence of experience.",
         "author": "AJGupta",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/apple-script-for-key?t="
     },
     {
@@ -9036,7 +9036,7 @@
         "title": "Nested Carousel",
         "description": "The application has a Nested Carousel. When the users \"swipes\" the image on the child Carousel, the Parent Carousel also moves. The Parent Carousel should not move when the user swipes anywhere on the  of the child Carousel.\n\nI have included an example solution in the References. I simply need this same solution implemented to my CodeSandbox.\n\nAcceptance Criteria\nThe user can swipe the child Carousel images (on desktop & mobile) without the parent Carousel moving.\n\nTechnical Details\nReact front-end using Mantine Carousel component (based on Embla)\n\nLink to Project\nhttps://codesandbox.io/s/carousel-fun-hruc3z?file=/src/App.tsx\n\nReferences\nhttps://mantine.dev/others/carousel/\nhttps://github.com/davidjerleke/embla-carousel/issues/241",
         "author": "threadgill",
-        "posted_time": "44 minutes ago",
+        "posted_time": "51 minutes ago",
         "link": "https://replit.com/bounties/@threadgill/nested-carousel?t="
     },
     {
@@ -9046,7 +9046,7 @@
         "title": "Fix Cypress/Docker In Github Actions",
         "description": "Full description of problem here:\nhttps://github.com/uselotus/lotus/issues/550\n\nIt is easier to develop if you have a Mac. Quick fix if you've delt with docker in Github actions before.\nAcceptance Criteria\n\nAll cypress tests run in the Github action workflow.",
         "author": "MikaelNida",
-        "posted_time": "36 minutes ago",
+        "posted_time": "43 minutes ago",
         "link": "https://replit.com/bounties/@MikaelNida/fix-cypressdocker-in?t="
     }
 ]

@@ -7335,7 +7335,7 @@ clicking the button marks invoice(s) as ""paid"" (https://stripe.com/docs/api/in
 If invoice number not found, display error ""Invoice number(s) , ... not found""
 
 If invoice already paid display ""Invoice number(s) , ... already paid""",AustinLo1,9 hours ago,https://replit.com/bounties/@AustinLo1/stripe-invoice-updat?t=
-899,$100.00,due in 3 days,FB MESSENGER BOT (uzuki),"Make a messenger chatbot with lots of feature such as:
+899,$100.00,closed,FB MESSENGER BOT (uzuki),"Make a messenger chatbot with lots of feature such as:
 openai
 dall-e
 etc.
@@ -7352,7 +7352,7 @@ Specifics:
 901,$144.00,due in 7 days,Apple script for Keynote ,"Using applescript and  any other Mac based tools, mod Apple Keynote to have as many of these features as possible: https://medium.com/jammernd/on-presentation-software-keynote-and-better-7d2606d9ded5
 
 Acceptance Criteria
-Will only accept folks who provide a plan for which features they choose to implement, along with a Github or other evidence of experience.",AJGupta,5 hours ago,https://replit.com/bounties/@AJGupta/apple-script-for-key?t=
+Will only accept folks who provide a plan for which features they choose to implement, along with a Github or other evidence of experience.",AJGupta,6 hours ago,https://replit.com/bounties/@AJGupta/apple-script-for-key?t=
 902,$18.00,closed,perl script that prints the history of commands with timestamps,"just looking for a perl script I can run in my terminal that will show me the last 100 or so commands used along with the date, time of when the command was used.",AlekNaomieBurtP,5 hours ago,https://replit.com/bounties/@AlekNaomieBurtP/perl-script-that-pri?t=
 903,$27.00,due in 3 days,Nested Carousel,"The application has a Nested Carousel. When the users ""swipes"" the image on the child Carousel, the Parent Carousel also moves. The Parent Carousel should not move when the user swipes anywhere on the  of the child Carousel.
 
@@ -7369,11 +7369,11 @@ https://codesandbox.io/s/carousel-fun-hruc3z?file=/src/App.tsx
 
 References
 https://mantine.dev/others/carousel/
-https://github.com/davidjerleke/embla-carousel/issues/241",threadgill,44 minutes ago,https://replit.com/bounties/@threadgill/nested-carousel?t=
+https://github.com/davidjerleke/embla-carousel/issues/241",threadgill,51 minutes ago,https://replit.com/bounties/@threadgill/nested-carousel?t=
 904,$225.00,due in 11 days,Fix Cypress/Docker In Github Actions,"Full description of problem here:
 https://github.com/uselotus/lotus/issues/550
 
 It is easier to develop if you have a Mac. Quick fix if you've delt with docker in Github actions before.
 Acceptance Criteria
 
-All cypress tests run in the Github action workflow.",MikaelNida,36 minutes ago,https://replit.com/bounties/@MikaelNida/fix-cypressdocker-in?t=
+All cypress tests run in the Github action workflow.",MikaelNida,43 minutes ago,https://replit.com/bounties/@MikaelNida/fix-cypressdocker-in?t=
