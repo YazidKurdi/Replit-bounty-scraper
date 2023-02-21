@@ -8876,7 +8876,7 @@
         "title": "Dynamic Market Map",
         "description": "I'm creating a dynamic market map of the different AI companies. I would like a simple app that reads the category & logos from a database, and outputs as close to this image as possible.\n\nhttps://research-assets.cbinsights.com/2022/11/14115447/SC-genAI-map.png\n\nAcceptance Criteria\nIt should be a Replit codebase that reads from a database & outputs an image that's rendered on a webpage.",
         "author": "avlok",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@avlok/dynamic-market-map?t="
     },
     {
@@ -8946,7 +8946,7 @@
         "title": "Looking for a script to turn markdown into structured dataset",
         "description": "I'm looking for a JS script that can take the assessment markdown contents of https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes and convert it into a structured dataset for searching\n\n{\n  assessment: string;\n  question: string;\n  questionCode?: string;\n  answers: string[];\n  correctAnswer: string;\n}\n\nAcceptance Criteria\nI can manually run the script\nGenerates structured data for all English markdown files found in https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes\nWhen the contents update, I can rerun this script to create a new structured dataset\n\nTechnical Details\nJavaScript/TypeScript accepted",
         "author": "tehkaiyu",
-        "posted_time": "26 minutes ago",
+        "posted_time": "34 minutes ago",
         "link": "https://replit.com/bounties/@tehkaiyu/looking-for-a-script?t="
     }
 ]
