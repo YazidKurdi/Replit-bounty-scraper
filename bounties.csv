@@ -7252,7 +7252,7 @@ The code has to be clean and well documented
 Minimal and clean UX (Figma design will be given)
 
 Chrome extension should be production ready and publishable to the chrome store
-The tool should be built with the current web app tech stack or ...",fabiosworld,14 hours ago,https://replit.com/bounties/@fabiosworld/design-inspiration-f?t=
+The tool should be built with the current web app tech stack or ...",fabiosworld,15 hours ago,https://replit.com/bounties/@fabiosworld/design-inspiration-f?t=
 892,$900.00,due in 26 days,A productized/customizable LLM,"For this project, I would like to build a tool that allows a user to connect to their data sources and ""talk"" to their data through a chat UI; example questions that the tool should be able to answer (given that its connected to the needed data sources):
 for a business:
 How can I file a feature request?
@@ -7316,7 +7316,7 @@ I will accept anyone who provides a plan of what they will do, along with past e
 Acceptance Criteria
 Must use Next.js 13 app/experimental
 API request must be performed by server-side components
-Successfully displays the GPT response",LucianoTavares3,46 minutes ago,https://replit.com/bounties/@LucianoTavares3/create-simple-nextjs?t=
+Successfully displays the GPT response",LucianoTavares3,55 minutes ago,https://replit.com/bounties/@LucianoTavares3/create-simple-nextjs?t=
 898,$90.00,due in 13 days,Stripe Invoice Updater,"Create a web app where a user can manually update stripe invoice(s) to mark them as manually paid. Must be written in react/node
 
 Acceptance Criteria
@@ -7334,4 +7334,12 @@ clicking the button marks invoice(s) as ""paid"" (https://stripe.com/docs/api/in
 
 If invoice number not found, display error ""Invoice number(s) , ... not found""
 
-If invoice already paid display ""Invoice number(s) , ... already paid""",AustinLo1,36 minutes ago,https://replit.com/bounties/@AustinLo1/stripe-invoice-updat?t=
+If invoice already paid display ""Invoice number(s) , ... already paid""",AustinLo1,45 minutes ago,https://replit.com/bounties/@AustinLo1/stripe-invoice-updat?t=
+899,$100.00,due in 3 days,FB MESSENGER BOT (uzuki),"Make a messenger chatbot with lots of feature such as:
+openai
+dall-e
+etc.
+Acceptance Criteria
+n/a
+Technical Details
+n/a",ForLaag,1 minute ago,https://replit.com/bounties/@ForLaag/fb-messenger-bot-uzu?t=

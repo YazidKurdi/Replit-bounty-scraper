@@ -8916,7 +8916,7 @@
         "title": "Design Inspiration Finder",
         "description": "A simple web based AI design inspiration finder.\n\nThe tool should work like the following:\n\nthere is a search bar you can type things like \"signup pages with social logins\"\n\nIt should include a multi-select copy to clipboard feature where you can select all the examples you like and copy all to your clipboard so you can paste them wherever you'd like. There's no accounts or logins - similar to Perplexity.ai (just search & result)\n\nMain features\nSearch using natural language (buttons, pages, detail search descriptions)\nUser prompts tool in the search box, the output a tiled list of examples.\nMulti-select images (you can copy individual images or select multiple and copy all selected)\n\nIt should use OpenAI GPT3\n\nAcceptance Criteria\nThe code has to be clean and well documented\nMinimal and clean UX (Figma design will be given)\n\nChrome extension should be production ready and publishable to the chrome store\nThe tool should be built with the current web app tech stack or ...",
         "author": "fabiosworld",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@fabiosworld/design-inspiration-f?t="
     },
     {
@@ -8976,7 +8976,7 @@
         "title": "Create simple next.js 13 {app/experimental} app to prompt GPT API",
         "description": "I am trying to better understand how to make server-side requests using the new Next.js 13 Beta. To demonstrate this, I would like a minimal page that allows the user to type in a GPT prompt and then displays the response provided by the API. It is important that the request to the GPT API is made by a server-side component.\n\nAcceptance Criteria\nMust use Next.js 13 app/experimental\nAPI request must be performed by server-side components\nSuccessfully displays the GPT response",
         "author": "LucianoTavares3",
-        "posted_time": "46 minutes ago",
+        "posted_time": "55 minutes ago",
         "link": "https://replit.com/bounties/@LucianoTavares3/create-simple-nextjs?t="
     },
     {
@@ -8986,7 +8986,17 @@
         "title": "Stripe Invoice Updater",
         "description": "Create a web app where a user can manually update stripe invoice(s) to mark them as manually paid. Must be written in react/node\n\nAcceptance Criteria\nInput fields:\nStripe API key\none or many Invoice Number(s) (ex: \"9E19AD6B-0092\") -- this is different than the Invoice ID.\n\nyou can assume that searching for an invoice number will only result in 1 invoice result.\n\nResult:\nlist all invoices in a table showing their amounts\nDisplay a button that says \"mark invoices as paid\"\n\nclicking the button marks invoice(s) as \"paid\" (https://stripe.com/docs/api/invoices/pay -- need to set \"paidoutof_band\" =true )  and display success message listing all invoice numbers successfully updated\n\nIf invoice number not found, display error \"Invoice number(s) , ... not found\"\n\nIf invoice already paid display \"Invoice number(s) , ... already paid\"",
         "author": "AustinLo1",
-        "posted_time": "36 minutes ago",
+        "posted_time": "45 minutes ago",
         "link": "https://replit.com/bounties/@AustinLo1/stripe-invoice-updat?t="
+    },
+    {
+        "index": "899",
+        "price": "$100.00",
+        "due_days": "due in 3 days",
+        "title": "FB MESSENGER BOT (uzuki)",
+        "description": "Make a messenger chatbot with lots of feature such as:\nopenai\ndall-e\netc.\nAcceptance Criteria\nn/a\nTechnical Details\nn/a",
+        "author": "ForLaag",
+        "posted_time": "1 minute ago",
+        "link": "https://replit.com/bounties/@ForLaag/fb-messenger-bot-uzu?t="
     }
 ]
