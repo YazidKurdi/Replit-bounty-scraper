@@ -8902,7 +8902,7 @@
     {
         "index": "890",
         "price": "$45.00",
-        "due_days": "due in 5 days",
+        "due_days": "closed",
         "title": "Show me my questrade account daily P/L",
         "description": "I want anyone to be able to connect to their questrade account and see their daily p/l % and dollar value. That's it.",
         "author": "fabiosworld",
@@ -8912,7 +8912,7 @@
     {
         "index": "891",
         "price": "$90.00",
-        "due_days": "due in 3 days",
+        "due_days": "due in 6 days",
         "title": "Design Inspiration Finder",
         "description": "A simple web based AI design inspiration finder.\n\nThe tool should work like the following:\n\nthere is a search bar you can type things like \"signup pages with social logins\"\n\nIt should include a multi-select copy to clipboard feature where you can select all the examples you like and copy all to your clipboard so you can paste them wherever you'd like. There's no accounts or logins - similar to Perplexity.ai (just search & result)\n\nMain features\nSearch using natural language (buttons, pages, detail search descriptions)\nUser prompts tool in the search box, the output a tiled list of examples.\nMulti-select images (you can copy individual images or select multiple and copy all selected)\n\nIt should use OpenAI GPT3\n\nAcceptance Criteria\nThe code has to be clean and well documented\nMinimal and clean UX (Figma design will be given)\n\nChrome extension should be production ready and publishable to the chrome store\nThe tool should be built with the current web app tech stack or ...",
         "author": "fabiosworld",
@@ -8926,7 +8926,7 @@
         "title": "A productized/customizable LLM",
         "description": "For this project, I would like to build a tool that allows a user to connect to their data sources and \"talk\" to their data through a chat UI; example questions that the tool should be able to answer (given that its connected to the needed data sources):\nfor a business:\nHow can I file a feature request?\nSummarize our last quarterly results\nHow do I set up my local dev environment?\nWhat's the scope of the Microsoft Dynamics integration?\nFor an individual:\nWhat are the main points discussed in my PHD paper?\nWhat subjects will I learn about given my Economics 101 class syllabus?\nWhat's the grading criteria for Economics 101?\nSummarize my notes over the last 7 days\n\nAcceptance Criteria\n\nAn individual or a business should be able to sign up for the platform, once signed up they should be able to connect with:\nGoogle drive API (to pull in google docs)\nSlack (to pull in public channels)\nNotion\nDo custom file uploads\n\nOnce the user has connected their data sources, through...",
         "author": "metahash",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@metahash/a-productizedcustomi?t="
     },
     {
@@ -8976,7 +8976,7 @@
         "title": "Create simple next.js 13 {app/experimental} app to prompt GPT API",
         "description": "I am trying to better understand how to make server-side requests using the new Next.js 13 Beta. To demonstrate this, I would like a minimal page that allows the user to type in a GPT prompt and then displays the response provided by the API. It is important that the request to the GPT API is made by a server-side component.\n\nAcceptance Criteria\nMust use Next.js 13 app/experimental\nAPI request must be performed by server-side components\nSuccessfully displays the GPT response",
         "author": "LucianoTavares3",
-        "posted_time": "37 minutes ago",
+        "posted_time": "46 minutes ago",
         "link": "https://replit.com/bounties/@LucianoTavares3/create-simple-nextjs?t="
     },
     {
@@ -8986,7 +8986,7 @@
         "title": "Stripe Invoice Updater",
         "description": "Create a web app where a user can manually update stripe invoice(s) to mark them as manually paid. Must be written in react/node\n\nAcceptance Criteria\nInput fields:\nStripe API key\none or many Invoice Number(s) (ex: \"9E19AD6B-0092\") -- this is different than the Invoice ID.\n\nyou can assume that searching for an invoice number will only result in 1 invoice result.\n\nResult:\nlist all invoices in a table showing their amounts\nDisplay a button that says \"mark invoices as paid\"\n\nclicking the button marks invoice(s) as \"paid\" (https://stripe.com/docs/api/invoices/pay -- need to set \"paidoutof_band\" =true )  and display success message listing all invoice numbers successfully updated\n\nIf invoice number not found, display error \"Invoice number(s) , ... not found\"\n\nIf invoice already paid display \"Invoice number(s) , ... already paid\"",
         "author": "AustinLo1",
-        "posted_time": "27 minutes ago",
+        "posted_time": "36 minutes ago",
         "link": "https://replit.com/bounties/@AustinLo1/stripe-invoice-updat?t="
     }
 ]
