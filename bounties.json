@@ -8896,7 +8896,7 @@
         "title": "Send me list of every subdomain for given domain (50k+)",
         "description": "I want to find every single subdomain for a given domain. There are at least 50k subdomains\n\ni been trying a few tools but cant find anything that is thoroughly finding all subdomains\n\nOne site found 7.8k but i know theres at least 5x that.\n\nI believe something like Knockpy or Sublist3r may be able to achieve this\n\nAcceptance Criteria\nList of 50k plus subdomains for domain I provide\n\nTechnical Details\nCSV output or google sheet with a list of all the domains\n\nDomain\nProvided on acceptance",
         "author": "SamuelAbaka-Woo",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@SamuelAbaka-Woo/send-me-list-of-ever?t="
     },
     {
@@ -8906,7 +8906,7 @@
         "title": "Show me my questrade account daily P/L",
         "description": "I want anyone to be able to connect to their questrade account and see their daily p/l % and dollar value. That's it.",
         "author": "fabiosworld",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@fabiosworld/show-me-my-questrade?t="
     },
     {
@@ -8956,7 +8956,7 @@
         "title": "AI personal shopper ",
         "description": "The user lands on a web app (mobile friendly), which gives it a chance to pick:\nKeywords to track (like brand name, item type)\npick a list of e-commerce platforms to track among the ones available (Yoox, Zara, Farfetch...)\nThe user activates an alert system (in the form of a push notification)\nThe push notification sends over deep links that go directly to the tracked store where it can navigate the sections they are interested on, which has been updated\n\nAcceptance Criteria\nN/A\n\nTechnical Details\nN/A",
         "author": "GennaroCuofano",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/ai-personal-shopper?t="
     },
     {
@@ -8966,7 +8966,7 @@
         "title": "Deploy AI Colab Notebook to Endpoint",
         "description": "Please deploy this colab notebook: https://colab.research.google.com/drive/1bwUnj-9NnJA2EMr7eWO4I45UuBtKudg_?usp=sharing\n\nTo an AI endpoint that I can easily query with a new video and a new image. There should be two modes; one where I have uploaded a video previously, and just call the API endpoint with the URL of a new image which automatically gets download and run. In the second mode, I should be able to send in the URL of a video and an image, and the image will automatically get style transferred to the video.\n\nThese should be deployed on AWS or GCP -- you can use any service and any language as long as it is on one of those two platforms.\n\nAcceptance Criteria\nI will accept anyone who provides a plan of what they will do, along with past experience like a Github or a resume.",
         "author": "AJGupta",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/deploy-ai-colab-note?t="
     }
 ]
