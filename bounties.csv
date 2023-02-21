@@ -7252,7 +7252,7 @@ The code has to be clean and well documented
 Minimal and clean UX (Figma design will be given)
 
 Chrome extension should be production ready and publishable to the chrome store
-The tool should be built with the current web app tech stack or ...",fabiosworld,16 hours ago,https://replit.com/bounties/@fabiosworld/design-inspiration-f?t=
+The tool should be built with the current web app tech stack or ...",fabiosworld,17 hours ago,https://replit.com/bounties/@fabiosworld/design-inspiration-f?t=
 892,$900.00,due in 26 days,A productized/customizable LLM,"For this project, I would like to build a tool that allows a user to connect to their data sources and ""talk"" to their data through a chat UI; example questions that the tool should be able to answer (given that its connected to the needed data sources):
 for a business:
 How can I file a feature request?
@@ -7291,7 +7291,7 @@ Generates structured data for all English markdown files found in https://github
 When the contents update, I can rerun this script to create a new structured dataset
 
 Technical Details
-JavaScript/TypeScript accepted",tehkaiyu,12 hours ago,https://replit.com/bounties/@tehkaiyu/looking-for-a-script?t=
+JavaScript/TypeScript accepted",tehkaiyu,13 hours ago,https://replit.com/bounties/@tehkaiyu/looking-for-a-script?t=
 895,$135.00,due in 6 days,AI personal shopper ,"The user lands on a web app (mobile friendly), which gives it a chance to pick:
 Keywords to track (like brand name, item type)
 pick a list of e-commerce platforms to track among the ones available (Yoox, Zara, Farfetch...)
@@ -7348,4 +7348,4 @@ Code that can be integrated into bubble.io app that can monitor text messages in
 
 Specifics:
 1) User inputs phone numbers that need monitoring into the app
-2) App monitors the text messages from those designated numbers on a daily basis by sending the text message text from the 'message' iphone app to a google sheets output that can be exported",npickens27,36 minutes ago,https://replit.com/bounties/@npickens27/text-message-review?t=
+2) App monitors the text messages from those designated numbers on a daily basis by sending the text message text from the 'message' iphone app to a google sheets output that can be exported",npickens27,48 minutes ago,https://replit.com/bounties/@npickens27/text-message-review?t=

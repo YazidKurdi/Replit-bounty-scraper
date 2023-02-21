@@ -8916,7 +8916,7 @@
         "title": "Design Inspiration Finder",
         "description": "A simple web based AI design inspiration finder.\n\nThe tool should work like the following:\n\nthere is a search bar you can type things like \"signup pages with social logins\"\n\nIt should include a multi-select copy to clipboard feature where you can select all the examples you like and copy all to your clipboard so you can paste them wherever you'd like. There's no accounts or logins - similar to Perplexity.ai (just search & result)\n\nMain features\nSearch using natural language (buttons, pages, detail search descriptions)\nUser prompts tool in the search box, the output a tiled list of examples.\nMulti-select images (you can copy individual images or select multiple and copy all selected)\n\nIt should use OpenAI GPT3\n\nAcceptance Criteria\nThe code has to be clean and well documented\nMinimal and clean UX (Figma design will be given)\n\nChrome extension should be production ready and publishable to the chrome store\nThe tool should be built with the current web app tech stack or ...",
         "author": "fabiosworld",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@fabiosworld/design-inspiration-f?t="
     },
     {
@@ -8946,7 +8946,7 @@
         "title": "Looking for a script to turn markdown into structured dataset",
         "description": "I'm looking for a JS script that can take the assessment markdown contents of https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes and convert it into a structured dataset for searching\n\n{\n  assessment: string;\n  question: string;\n  questionCode?: string;\n  answers: string[];\n  correctAnswer: string;\n}\n\nAcceptance Criteria\nI can manually run the script\nGenerates structured data for all English markdown files found in https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes\nWhen the contents update, I can rerun this script to create a new structured dataset\n\nTechnical Details\nJavaScript/TypeScript accepted",
         "author": "tehkaiyu",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@tehkaiyu/looking-for-a-script?t="
     },
     {
@@ -9006,7 +9006,7 @@
         "title": "Text Message Review",
         "description": "Overview:\nCode that can be integrated into bubble.io app that can monitor text messages in the 'messages' app on the iphone for a specific list of phone numbers provided by the user (ie- if a user has 100 contacts in their iphone, this app can monitor text messages in the 'messages' app from 10 contacts that have been specifically identified by the user).\n\nSpecifics:\n1) User inputs phone numbers that need monitoring into the app\n2) App monitors the text messages from those designated numbers on a daily basis by sending the text message text from the 'message' iphone app to a google sheets output that can be exported",
         "author": "npickens27",
-        "posted_time": "36 minutes ago",
+        "posted_time": "48 minutes ago",
         "link": "https://replit.com/bounties/@npickens27/text-message-review?t="
     }
 ]
