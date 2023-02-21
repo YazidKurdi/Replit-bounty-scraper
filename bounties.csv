@@ -7316,4 +7316,22 @@ I will accept anyone who provides a plan of what they will do, along with past e
 Acceptance Criteria
 Must use Next.js 13 app/experimental
 API request must be performed by server-side components
-Successfully displays the GPT response",LucianoTavares3,5 minutes ago,https://replit.com/bounties/@LucianoTavares3/create-simple-nextjs?t=
+Successfully displays the GPT response",LucianoTavares3,21 minutes ago,https://replit.com/bounties/@LucianoTavares3/create-simple-nextjs?t=
+898,$90.00,due in 13 days,Stripe Invoice Updater,"Create a web app where a user can manually update stripe invoice(s) to mark them as manually paid. Must be written in react/node
+
+Acceptance Criteria
+Input fields:
+Stripe API key
+one or many Invoice Number(s) (ex: ""9E19AD6B-0092"") -- this is different than the Invoice ID.
+
+you can assume that searching for an invoice number will only result in 1 invoice result.
+
+Result:
+list all invoices in a table showing their amounts
+Display a button that says ""mark invoices as paid""
+
+clicking the button marks invoice(s) as ""paid"" (https://stripe.com/docs/api/invoices/pay -- need to set ""paidoutof_band"" =true )  and display success message listing all invoice numbers successfully updated
+
+If invoice number not found, display error ""Invoice number(s) , ... not found""
+
+If invoice already paid display ""Invoice number(s) , ... already paid""",AustinLo1,11 minutes ago,https://replit.com/bounties/@AustinLo1/stripe-invoice-updat?t=
