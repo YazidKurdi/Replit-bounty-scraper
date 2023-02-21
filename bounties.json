@@ -9046,7 +9046,7 @@
         "title": "Fix Cypress/Docker In Github Actions",
         "description": "Full description of problem here:\nhttps://github.com/uselotus/lotus/issues/550\n\nIt is easier to develop if you have a Mac. Quick fix if you've delt with docker in Github actions before.\nAcceptance Criteria\n\nAll cypress tests run in the Github action workflow.",
         "author": "MikaelNida",
-        "posted_time": "53 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@MikaelNida/fix-cypressdocker-in?t="
     },
     {
@@ -9056,7 +9056,7 @@
         "title": "Setup a repl to use flask/react ",
         "description": "Want a Repl setup with Flask/React all working together.\n\nAcceptance Criteria\n\nHello world loads.\n\nTechnical Details\n\nProbably using one of these templates would be good:\nhttps://github.com/cookiecutter-flask/cookiecutter-flask\nhttps://github.com/realpython/flask-boilerplate\nhttps://github.com/hack4impact/flask-base\nhttps://github.com/dternyak/React-Redux-Flask",
         "author": "proales2",
-        "posted_time": "3 minutes ago",
+        "posted_time": "20 minutes ago",
         "link": "https://replit.com/bounties/@proales2/setup-a-repl-to-use?t="
     }
 ]

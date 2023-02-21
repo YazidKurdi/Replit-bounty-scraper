@@ -7376,7 +7376,7 @@ https://github.com/uselotus/lotus/issues/550
 It is easier to develop if you have a Mac. Quick fix if you've delt with docker in Github actions before.
 Acceptance Criteria
 
-All cypress tests run in the Github action workflow.",MikaelNida,53 minutes ago,https://replit.com/bounties/@MikaelNida/fix-cypressdocker-in?t=
+All cypress tests run in the Github action workflow.",MikaelNida,1 hour ago,https://replit.com/bounties/@MikaelNida/fix-cypressdocker-in?t=
 905,$18.00,due in 3 days,Setup a repl to use flask/react ,"Want a Repl setup with Flask/React all working together.
 
 Acceptance Criteria
@@ -7389,4 +7389,4 @@ Probably using one of these templates would be good:
 https://github.com/cookiecutter-flask/cookiecutter-flask
 https://github.com/realpython/flask-boilerplate
 https://github.com/hack4impact/flask-base
-https://github.com/dternyak/React-Redux-Flask",proales2,3 minutes ago,https://replit.com/bounties/@proales2/setup-a-repl-to-use?t=
+https://github.com/dternyak/React-Redux-Flask",proales2,20 minutes ago,https://replit.com/bounties/@proales2/setup-a-repl-to-use?t=
