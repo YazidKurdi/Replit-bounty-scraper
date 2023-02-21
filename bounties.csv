@@ -7348,4 +7348,8 @@ Code that can be integrated into bubble.io app that can monitor text messages in
 
 Specifics:
 1) User inputs phone numbers that need monitoring into the app
-2) App monitors the text messages from those designated numbers on a daily basis by sending the text message text from the 'message' iphone app to a google sheets output that can be exported",npickens27,48 minutes ago,https://replit.com/bounties/@npickens27/text-message-review?t=
+2) App monitors the text messages from those designated numbers on a daily basis by sending the text message text from the 'message' iphone app to a google sheets output that can be exported",npickens27,1 hour ago,https://replit.com/bounties/@npickens27/text-message-review?t=
+901,$144.00,due in 7 days,Apple script for Keynote ,"Using applescript and  any other Mac based tools, mod Apple Keynote to have as many of these features as possible: https://medium.com/jammernd/on-presentation-software-keynote-and-better-7d2606d9ded5
+
+Acceptance Criteria
+Will only accept folks who provide a plan for which features they choose to implement, along with a Github or other evidence of experience.",AJGupta,2 minutes ago,https://replit.com/bounties/@AJGupta/apple-script-for-key?t=

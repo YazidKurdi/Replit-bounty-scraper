@@ -9006,7 +9006,17 @@
         "title": "Text Message Review",
         "description": "Overview:\nCode that can be integrated into bubble.io app that can monitor text messages in the 'messages' app on the iphone for a specific list of phone numbers provided by the user (ie- if a user has 100 contacts in their iphone, this app can monitor text messages in the 'messages' app from 10 contacts that have been specifically identified by the user).\n\nSpecifics:\n1) User inputs phone numbers that need monitoring into the app\n2) App monitors the text messages from those designated numbers on a daily basis by sending the text message text from the 'message' iphone app to a google sheets output that can be exported",
         "author": "npickens27",
-        "posted_time": "48 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@npickens27/text-message-review?t="
+    },
+    {
+        "index": "901",
+        "price": "$144.00",
+        "due_days": "due in 7 days",
+        "title": "Apple script for Keynote ",
+        "description": "Using applescript and  any other Mac based tools, mod Apple Keynote to have as many of these features as possible: https://medium.com/jammernd/on-presentation-software-keynote-and-better-7d2606d9ded5\n\nAcceptance Criteria\nWill only accept folks who provide a plan for which features they choose to implement, along with a Github or other evidence of experience.",
+        "author": "AJGupta",
+        "posted_time": "2 minutes ago",
+        "link": "https://replit.com/bounties/@AJGupta/apple-script-for-key?t="
     }
 ]
