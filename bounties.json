@@ -8916,7 +8916,7 @@
         "title": "Design Inspiration Finder",
         "description": "A simple web based AI design inspiration finder.\n\nThe tool should work like the following:\n\nthere is a search bar you can type things like \"signup pages with social logins\"\n\nIt should include a multi-select copy to clipboard feature where you can select all the examples you like and copy all to your clipboard so you can paste them wherever you'd like. There's no accounts or logins - similar to Perplexity.ai (just search & result)\n\nMain features\nSearch using natural language (buttons, pages, detail search descriptions)\nUser prompts tool in the search box, the output a tiled list of examples.\nMulti-select images (you can copy individual images or select multiple and copy all selected)\n\nIt should use OpenAI GPT3\n\nAcceptance Criteria\nThe code has to be clean and well documented\nMinimal and clean UX (Figma design will be given)\n\nChrome extension should be production ready and publishable to the chrome store\nThe tool should be built with the current web app tech stack or ...",
         "author": "fabiosworld",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@fabiosworld/design-inspiration-f?t="
     },
     {
@@ -8966,7 +8966,7 @@
         "title": "Deploy AI Colab Notebook to Endpoint",
         "description": "Please deploy this colab notebook: https://colab.research.google.com/drive/1bwUnj-9NnJA2EMr7eWO4I45UuBtKudg_?usp=sharing\n\nTo an AI endpoint that I can easily query with a new video and a new image. There should be two modes; one where I have uploaded a video previously, and just call the API endpoint with the URL of a new image which automatically gets download and run. In the second mode, I should be able to send in the URL of a video and an image, and the image will automatically get style transferred to the video.\n\nThese should be deployed on AWS or GCP -- you can use any service and any language as long as it is on one of those two platforms.\n\nAcceptance Criteria\nI will accept anyone who provides a plan of what they will do, along with past experience like a Github or a resume.",
         "author": "AJGupta",
-        "posted_time": "49 minutes ago",
+        "posted_time": "58 minutes ago",
         "link": "https://replit.com/bounties/@AJGupta/deploy-ai-colab-note?t="
     }
 ]
