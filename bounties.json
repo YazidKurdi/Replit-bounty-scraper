@@ -8962,7 +8962,7 @@
     {
         "index": "896",
         "price": "$72.00",
-        "due_days": "due in 6 days",
+        "due_days": "due in 5 days",
         "title": "Deploy AI Colab Notebook to Endpoint",
         "description": "Please deploy this colab notebook: https://colab.research.google.com/drive/1bwUnj-9NnJA2EMr7eWO4I45UuBtKudg_?usp=sharing\n\nTo an AI endpoint that I can easily query with a new video and a new image. There should be two modes; one where I have uploaded a video previously, and just call the API endpoint with the URL of a new image which automatically gets download and run. In the second mode, I should be able to send in the URL of a video and an image, and the image will automatically get style transferred to the video.\n\nThese should be deployed on AWS or GCP -- you can use any service and any language as long as it is on one of those two platforms.\n\nAcceptance Criteria\nI will accept anyone who provides a plan of what they will do, along with past experience like a Github or a resume.",
         "author": "AJGupta",
@@ -8998,5 +8998,15 @@
         "author": "ForLaag",
         "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@ForLaag/fb-messenger-bot-uzu?t="
+    },
+    {
+        "index": "900",
+        "price": "$4.50",
+        "due_days": "due in 6 days",
+        "title": "Text Message Review",
+        "description": "Overview:\nCode that can be integrated into bubble.io app that can monitor text messages in the 'messages' app on the iphone for a specific list of phone numbers provided by the user (ie- if a user has 100 contacts in their iphone, this app can monitor text messages in the 'messages' app from 10 contacts that have been specifically identified by the user).\n\nSpecifics:\n1) User inputs phone numbers that need monitoring into the app\n2) App monitors the text messages from those designated numbers on a daily basis by sending the text message text from the 'message' iphone app to a google sheets output that can be exported",
+        "author": "npickens27",
+        "posted_time": "8 minutes ago",
+        "link": "https://replit.com/bounties/@npickens27/text-message-review?t="
     }
 ]
