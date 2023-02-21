@@ -8866,7 +8866,7 @@
         "title": "Additional Features for Live Quiz Website",
         "description": "Bounty for  @GrimSteel to continue the development of additional features for a Live Quiz Website.\n\nFeatures:\n[ ] Rich Text Formatting\n[ ] Change avatars to all cartoon animals and only have 20 avatar options.\n[ ] (Teacher) -> Hide navbar once the teacher creates a game but make it accessible via a dropdown button until the game is ended then reset things to normal. (Student) -> Hide navbar and footer during the whole game (from the join page to the final page).\n[ ] Remove footer on explore, create, preview and live game pages, etc., for more viewing space on these congested pages. Also make it easier to see and edit decks, etc.\n[ ] Option to select (host/Teacher) + answer (student) multiple correct answers\n[ ] Remixing Decks\n[ ] Check if quiz deck or student's name is inappropriate.\n[ ] Add sounds for 3..2..1.. countdown timers in quizzes like Kahoot or Quizizz\n[ ] Medal screen for students or better luck message (like kahoot) and share result option (for students ...",
         "author": "Retrospicer",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@Retrospicer/additional-features?t="
     },
     {
@@ -8886,7 +8886,7 @@
         "title": "Modify React App. Add stripe integration with firebase",
         "description": "I have a React app, which currently supports authentication. I need it to accept stripe payments, and give access to specific pages only when a user has paid\nDescription\nUse stripe checkout to process credit card information after login\nUsers can only access the docs section of the project if and only if they have paid and are authenticated\nA user is redirected to a stripe checkout page after they enter their login information\nAll other pages not on docs route must be accessible by non authenticated users\nuser email and password should use the existing firebase integration\n\nTechnical Details\nReact Project that uses docusaurus framework\n\nLink to Project\nhttps://github.com/mosesju/hardworking-hippo",
         "author": "mosesju",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@mosesju/modify-react-app-add?t="
     },
     {
