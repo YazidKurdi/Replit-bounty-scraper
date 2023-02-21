@@ -7201,7 +7201,7 @@ Features:
 https://research-assets.cbinsights.com/2022/11/14115447/SC-genAI-map.png
 
 Acceptance Criteria
-It should be a Replit codebase that reads from a database & outputs an image that's rendered on a webpage.",avlok,15 hours ago,https://replit.com/bounties/@avlok/dynamic-market-map?t=
+It should be a Replit codebase that reads from a database & outputs an image that's rendered on a webpage.",avlok,16 hours ago,https://replit.com/bounties/@avlok/dynamic-market-map?t=
 888,$100.00,due in 6 days,Modify React App. Add stripe integration with firebase,"I have a React app, which currently supports authentication. I need it to accept stripe payments, and give access to specific pages only when a user has paid
 Description
 Use stripe checkout to process credit card information after login
@@ -7230,7 +7230,7 @@ Technical Details
 CSV output or google sheet with a list of all the domains
 
 Domain
-Provided on acceptance",SamuelAbaka-Woo,13 hours ago,https://replit.com/bounties/@SamuelAbaka-Woo/send-me-list-of-ever?t=
+Provided on acceptance",SamuelAbaka-Woo,14 hours ago,https://replit.com/bounties/@SamuelAbaka-Woo/send-me-list-of-ever?t=
 890,$45.00,due in 5 days,Show me my questrade account daily P/L,I want anyone to be able to connect to their questrade account and see their daily p/l % and dollar value. That's it.,fabiosworld,13 hours ago,https://replit.com/bounties/@fabiosworld/show-me-my-questrade?t=
 891,$90.00,due in 3 days,Design Inspiration Finder,"A simple web based AI design inspiration finder.
 
@@ -7252,7 +7252,7 @@ The code has to be clean and well documented
 Minimal and clean UX (Figma design will be given)
 
 Chrome extension should be production ready and publishable to the chrome store
-The tool should be built with the current web app tech stack or ...",fabiosworld,12 hours ago,https://replit.com/bounties/@fabiosworld/design-inspiration-f?t=
+The tool should be built with the current web app tech stack or ...",fabiosworld,13 hours ago,https://replit.com/bounties/@fabiosworld/design-inspiration-f?t=
 892,$900.00,due in 26 days,A productized/customizable LLM,"For this project, I would like to build a tool that allows a user to connect to their data sources and ""talk"" to their data through a chat UI; example questions that the tool should be able to answer (given that its connected to the needed data sources):
 for a business:
 How can I file a feature request?
@@ -7273,8 +7273,8 @@ Slack (to pull in public channels)
 Notion
 Do custom file uploads
 
-Once the user has connected their data sources, through...",metahash,11 hours ago,https://replit.com/bounties/@metahash/a-productizedcustomi?t=
-893,$4.50,due in 5 days,Website Programmer,"We are looking for someone who is passionate about web development, has a strong technical background, and a deep understanding of user experience design. The ideal candidate will have experience in designing and developing complex websites, with a focus on accessibility, search engine optimization, and scalability",JenniferCarter,10 hours ago,https://replit.com/bounties/@JenniferCarter/website-programmer?t=
+Once the user has connected their data sources, through...",metahash,12 hours ago,https://replit.com/bounties/@metahash/a-productizedcustomi?t=
+893,$4.50,due in 5 days,Website Programmer,"We are looking for someone who is passionate about web development, has a strong technical background, and a deep understanding of user experience design. The ideal candidate will have experience in designing and developing complex websites, with a focus on accessibility, search engine optimization, and scalability",JenniferCarter,11 hours ago,https://replit.com/bounties/@JenniferCarter/website-programmer?t=
 894,$45.00,due in 3 days,Looking for a script to turn markdown into structured dataset,"I'm looking for a JS script that can take the assessment markdown contents of https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes and convert it into a structured dataset for searching
 
 {
@@ -7291,7 +7291,7 @@ Generates structured data for all English markdown files found in https://github
 When the contents update, I can rerun this script to create a new structured dataset
 
 Technical Details
-JavaScript/TypeScript accepted",tehkaiyu,8 hours ago,https://replit.com/bounties/@tehkaiyu/looking-for-a-script?t=
+JavaScript/TypeScript accepted",tehkaiyu,9 hours ago,https://replit.com/bounties/@tehkaiyu/looking-for-a-script?t=
 895,$135.00,due in 6 days,AI personal shopper ,"The user lands on a web app (mobile friendly), which gives it a chance to pick:
 Keywords to track (like brand name, item type)
 pick a list of e-commerce platforms to track among the ones available (Yoox, Zara, Farfetch...)
@@ -7302,7 +7302,7 @@ Acceptance Criteria
 N/A
 
 Technical Details
-N/A",GennaroCuofano,6 hours ago,https://replit.com/bounties/@GennaroCuofano/ai-personal-shopper?t=
+N/A",GennaroCuofano,7 hours ago,https://replit.com/bounties/@GennaroCuofano/ai-personal-shopper?t=
 896,$72.00,due in 6 days,Deploy AI Colab Notebook to Endpoint,"Please deploy this colab notebook: https://colab.research.google.com/drive/1bwUnj-9NnJA2EMr7eWO4I45UuBtKudg_?usp=sharing
 
 To an AI endpoint that I can easily query with a new video and a new image. There should be two modes; one where I have uploaded a video previously, and just call the API endpoint with the URL of a new image which automatically gets download and run. In the second mode, I should be able to send in the URL of a video and an image, and the image will automatically get style transferred to the video.
