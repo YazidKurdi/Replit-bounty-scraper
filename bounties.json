@@ -8896,7 +8896,7 @@
         "title": "Send me list of every subdomain for given domain (50k+)",
         "description": "I want to find every single subdomain for a given domain. There are at least 50k subdomains\n\ni been trying a few tools but cant find anything that is thoroughly finding all subdomains\n\nOne site found 7.8k but i know theres at least 5x that.\n\nI believe something like Knockpy or Sublist3r may be able to achieve this\n\nAcceptance Criteria\nList of 50k plus subdomains for domain I provide\n\nTechnical Details\nCSV output or google sheet with a list of all the domains\n\nDomain\nProvided on acceptance",
         "author": "SamuelAbaka-Woo",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@SamuelAbaka-Woo/send-me-list-of-ever?t="
     },
     {
@@ -8906,7 +8906,7 @@
         "title": "Show me my questrade account daily P/L",
         "description": "I want anyone to be able to connect to their questrade account and see their daily p/l % and dollar value. That's it.",
         "author": "fabiosworld",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@fabiosworld/show-me-my-questrade?t="
     },
     {
@@ -8936,7 +8936,7 @@
         "title": "Website Programmer",
         "description": "We are looking for someone who is passionate about web development, has a strong technical background, and a deep understanding of user experience design. The ideal candidate will have experience in designing and developing complex websites, with a focus on accessibility, search engine optimization, and scalability",
         "author": "JenniferCarter",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@JenniferCarter/website-programmer?t="
     },
     {
@@ -8956,7 +8956,7 @@
         "title": "AI personal shopper ",
         "description": "The user lands on a web app (mobile friendly), which gives it a chance to pick:\nKeywords to track (like brand name, item type)\npick a list of e-commerce platforms to track among the ones available (Yoox, Zara, Farfetch...)\nThe user activates an alert system (in the form of a push notification)\nThe push notification sends over deep links that go directly to the tracked store where it can navigate the sections they are interested on, which has been updated\n\nAcceptance Criteria\nN/A\n\nTechnical Details\nN/A",
         "author": "GennaroCuofano",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/ai-personal-shopper?t="
     },
     {
@@ -8966,7 +8966,7 @@
         "title": "Deploy AI Colab Notebook to Endpoint",
         "description": "Please deploy this colab notebook: https://colab.research.google.com/drive/1bwUnj-9NnJA2EMr7eWO4I45UuBtKudg_?usp=sharing\n\nTo an AI endpoint that I can easily query with a new video and a new image. There should be two modes; one where I have uploaded a video previously, and just call the API endpoint with the URL of a new image which automatically gets download and run. In the second mode, I should be able to send in the URL of a video and an image, and the image will automatically get style transferred to the video.\n\nThese should be deployed on AWS or GCP -- you can use any service and any language as long as it is on one of those two platforms.\n\nAcceptance Criteria\nI will accept anyone who provides a plan of what they will do, along with past experience like a Github or a resume.",
         "author": "AJGupta",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/deploy-ai-colab-note?t="
     },
     {
@@ -8976,7 +8976,7 @@
         "title": "Create simple next.js 13 {app/experimental} app to prompt GPT API",
         "description": "I am trying to better understand how to make server-side requests using the new Next.js 13 Beta. To demonstrate this, I would like a minimal page that allows the user to type in a GPT prompt and then displays the response provided by the API. It is important that the request to the GPT API is made by a server-side component.\n\nAcceptance Criteria\nMust use Next.js 13 app/experimental\nAPI request must be performed by server-side components\nSuccessfully displays the GPT response",
         "author": "LucianoTavares3",
-        "posted_time": "21 minutes ago",
+        "posted_time": "37 minutes ago",
         "link": "https://replit.com/bounties/@LucianoTavares3/create-simple-nextjs?t="
     },
     {
@@ -8986,7 +8986,7 @@
         "title": "Stripe Invoice Updater",
         "description": "Create a web app where a user can manually update stripe invoice(s) to mark them as manually paid. Must be written in react/node\n\nAcceptance Criteria\nInput fields:\nStripe API key\none or many Invoice Number(s) (ex: \"9E19AD6B-0092\") -- this is different than the Invoice ID.\n\nyou can assume that searching for an invoice number will only result in 1 invoice result.\n\nResult:\nlist all invoices in a table showing their amounts\nDisplay a button that says \"mark invoices as paid\"\n\nclicking the button marks invoice(s) as \"paid\" (https://stripe.com/docs/api/invoices/pay -- need to set \"paidoutof_band\" =true )  and display success message listing all invoice numbers successfully updated\n\nIf invoice number not found, display error \"Invoice number(s) , ... not found\"\n\nIf invoice already paid display \"Invoice number(s) , ... already paid\"",
         "author": "AustinLo1",
-        "posted_time": "11 minutes ago",
+        "posted_time": "27 minutes ago",
         "link": "https://replit.com/bounties/@AustinLo1/stripe-invoice-updat?t="
     }
 ]
