@@ -8956,7 +8956,7 @@
         "title": "AI personal shopper ",
         "description": "The user lands on a web app (mobile friendly), which gives it a chance to pick:\nKeywords to track (like brand name, item type)\npick a list of e-commerce platforms to track among the ones available (Yoox, Zara, Farfetch...)\nThe user activates an alert system (in the form of a push notification)\nThe push notification sends over deep links that go directly to the tracked store where it can navigate the sections they are interested on, which has been updated\n\nAcceptance Criteria\nN/A\n\nTechnical Details\nN/A",
         "author": "GennaroCuofano",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/ai-personal-shopper?t="
     },
     {
@@ -8966,7 +8966,7 @@
         "title": "Deploy AI Colab Notebook to Endpoint",
         "description": "Please deploy this colab notebook: https://colab.research.google.com/drive/1bwUnj-9NnJA2EMr7eWO4I45UuBtKudg_?usp=sharing\n\nTo an AI endpoint that I can easily query with a new video and a new image. There should be two modes; one where I have uploaded a video previously, and just call the API endpoint with the URL of a new image which automatically gets download and run. In the second mode, I should be able to send in the URL of a video and an image, and the image will automatically get style transferred to the video.\n\nThese should be deployed on AWS or GCP -- you can use any service and any language as long as it is on one of those two platforms.\n\nAcceptance Criteria\nI will accept anyone who provides a plan of what they will do, along with past experience like a Github or a resume.",
         "author": "AJGupta",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/deploy-ai-colab-note?t="
     },
     {
@@ -8976,7 +8976,7 @@
         "title": "Create simple next.js 13 {app/experimental} app to prompt GPT API",
         "description": "I am trying to better understand how to make server-side requests using the new Next.js 13 Beta. To demonstrate this, I would like a minimal page that allows the user to type in a GPT prompt and then displays the response provided by the API. It is important that the request to the GPT API is made by a server-side component.\n\nAcceptance Criteria\nMust use Next.js 13 app/experimental\nAPI request must be performed by server-side components\nSuccessfully displays the GPT response",
         "author": "LucianoTavares3",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@LucianoTavares3/create-simple-nextjs?t="
     },
     {
@@ -8996,7 +8996,7 @@
         "title": "FB MESSENGER BOT (uzuki)",
         "description": "Make a messenger chatbot with lots of feature such as:\nopenai\ndall-e\netc.\nAcceptance Criteria\nn/a\nTechnical Details\nn/a",
         "author": "ForLaag",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@ForLaag/fb-messenger-bot-uzu?t="
     },
     {
