@@ -8886,7 +8886,7 @@
         "title": "Modify React App. Add stripe integration with firebase",
         "description": "I have a React app, which currently supports authentication. I need it to accept stripe payments, and give access to specific pages only when a user has paid\nDescription\nUse stripe checkout to process credit card information after login\nUsers can only access the docs section of the project if and only if they have paid and are authenticated\nA user is redirected to a stripe checkout page after they enter their login information\nAll other pages not on docs route must be accessible by non authenticated users\nuser email and password should use the existing firebase integration\n\nTechnical Details\nReact Project that uses docusaurus framework\n\nLink to Project\nhttps://github.com/mosesju/hardworking-hippo",
         "author": "mosesju",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@mosesju/modify-react-app-add?t="
     },
     {
@@ -8966,7 +8966,7 @@
         "title": "Deploy AI Colab Notebook to Endpoint",
         "description": "Please deploy this colab notebook: https://colab.research.google.com/drive/1bwUnj-9NnJA2EMr7eWO4I45UuBtKudg_?usp=sharing\n\nTo an AI endpoint that I can easily query with a new video and a new image. There should be two modes; one where I have uploaded a video previously, and just call the API endpoint with the URL of a new image which automatically gets download and run. In the second mode, I should be able to send in the URL of a video and an image, and the image will automatically get style transferred to the video.\n\nThese should be deployed on AWS or GCP -- you can use any service and any language as long as it is on one of those two platforms.\n\nAcceptance Criteria\nI will accept anyone who provides a plan of what they will do, along with past experience like a Github or a resume.",
         "author": "AJGupta",
-        "posted_time": "8 minutes ago",
+        "posted_time": "24 minutes ago",
         "link": "https://replit.com/bounties/@AJGupta/deploy-ai-colab-note?t="
     }
 ]
