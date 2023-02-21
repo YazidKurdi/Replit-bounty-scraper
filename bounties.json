@@ -8926,7 +8926,7 @@
         "title": "A productized/customizable LLM",
         "description": "For this project, I would like to build a tool that allows a user to connect to their data sources and \"talk\" to their data through a chat UI; example questions that the tool should be able to answer (given that its connected to the needed data sources):\nfor a business:\nHow can I file a feature request?\nSummarize our last quarterly results\nHow do I set up my local dev environment?\nWhat's the scope of the Microsoft Dynamics integration?\nFor an individual:\nWhat are the main points discussed in my PHD paper?\nWhat subjects will I learn about given my Economics 101 class syllabus?\nWhat's the grading criteria for Economics 101?\nSummarize my notes over the last 7 days\n\nAcceptance Criteria\n\nAn individual or a business should be able to sign up for the platform, once signed up they should be able to connect with:\nGoogle drive API (to pull in google docs)\nSlack (to pull in public channels)\nNotion\nDo custom file uploads\n\nOnce the user has connected their data sources, through...",
         "author": "metahash",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@metahash/a-productizedcustomi?t="
     },
     {
@@ -8936,7 +8936,7 @@
         "title": "Website Programmer",
         "description": "We are looking for someone who is passionate about web development, has a strong technical background, and a deep understanding of user experience design. The ideal candidate will have experience in designing and developing complex websites, with a focus on accessibility, search engine optimization, and scalability",
         "author": "JenniferCarter",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@JenniferCarter/website-programmer?t="
     },
     {
