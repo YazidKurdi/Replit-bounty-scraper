@@ -8986,7 +8986,7 @@
         "title": "Stripe Invoice Updater",
         "description": "Create a web app where a user can manually update stripe invoice(s) to mark them as manually paid. Must be written in react/node\n\nAcceptance Criteria\nInput fields:\nStripe API key\none or many Invoice Number(s) (ex: \"9E19AD6B-0092\") -- this is different than the Invoice ID.\n\nyou can assume that searching for an invoice number will only result in 1 invoice result.\n\nResult:\nlist all invoices in a table showing their amounts\nDisplay a button that says \"mark invoices as paid\"\n\nclicking the button marks invoice(s) as \"paid\" (https://stripe.com/docs/api/invoices/pay -- need to set \"paidoutof_band\" =true )  and display success message listing all invoice numbers successfully updated\n\nIf invoice number not found, display error \"Invoice number(s) , ... not found\"\n\nIf invoice already paid display \"Invoice number(s) , ... already paid\"",
         "author": "AustinLo1",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@AustinLo1/stripe-invoice-updat?t="
     },
     {
@@ -9006,7 +9006,7 @@
         "title": "Text Message Review",
         "description": "Overview:\nCode that can be integrated into bubble.io app that can monitor text messages in the 'messages' app on the iphone for a specific list of phone numbers provided by the user (ie- if a user has 100 contacts in their iphone, this app can monitor text messages in the 'messages' app from 10 contacts that have been specifically identified by the user).\n\nSpecifics:\n1) User inputs phone numbers that need monitoring into the app\n2) App monitors the text messages from those designated numbers on a daily basis by sending the text message text from the 'message' iphone app to a google sheets output that can be exported",
         "author": "npickens27",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@npickens27/text-message-review?t="
     },
     {
