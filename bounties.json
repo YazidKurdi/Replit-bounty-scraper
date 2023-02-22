@@ -9056,7 +9056,7 @@
         "title": "Setup a repl to use flask/react ",
         "description": "Want a Repl setup with Flask/React all working together.\n\nAcceptance Criteria\n\nHello world loads.\n\nTechnical Details\n\nProbably using one of these templates would be good:\nhttps://github.com/cookiecutter-flask/cookiecutter-flask\nhttps://github.com/realpython/flask-boilerplate\nhttps://github.com/hack4impact/flask-base\nhttps://github.com/dternyak/React-Redux-Flask",
         "author": "proales2",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@proales2/setup-a-repl-to-use?t="
     },
     {
@@ -9066,7 +9066,7 @@
         "title": "This is a test. This is a test.",
         "description": "testing my besting",
         "author": "EnZon3",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@EnZon3/this-is-a-test-this?t="
     },
     {
@@ -9106,7 +9106,7 @@
         "title": "Video Game Affiliate Deal and Price Comparison Plugin and Implementation to Wordpress Site",
         "description": "I own hard-drive.net. I want to use plugins and some building to make my site basically add the functionality of https://gg.deals/.\n\nMust be able to focus, work fast, and get job done. Then we can do more together.\n\nWordpress site hard-drive.net wants to add in features similar to https://gg.deals/\n\nLets start right away",
         "author": "MattSaincome",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@MattSaincome/video-game-affiliate?t="
     },
     {
@@ -9116,7 +9116,7 @@
         "title": "Make API To Fetch Animation From Site",
         "description": "I'd like a simple webapp, where I can have a user link a set of images. These can be formatted as URLs to images like JPGs, PNGs, etc. Then, I want you to behind the scenes, spin up an API endpoint that passes it through https://sketch.metademolab.com/canvas . It should just spin up a new API endpoint that uses puppeteer, that queries the website with that image, and uploads the resulting animation to the frontend for the user to see. The default selected keypoints and settings and jumping video selection are fine. I prefer the endpoints to be on AWS or GCP, but any other cheap servicee should work as well.\n\nAcceptance Criteria\nI will only accept people who present a set of tools or a plan for how they will do this. You should provide a github or resume to have a chance at being selected.",
         "author": "AJGupta",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/make-api-to-fetch-an?t="
     },
     {
@@ -9136,7 +9136,7 @@
         "title": "Create NFT Rarity Ranking Chrome Extension Utilizing OpenRarity API",
         "description": "As an NFT collector rarity rankings today are produced by closed-source code and based on \u201cmeta traits\u201d that don\u2019t exist \u201con-chain\u201d (e.g. Trait Count). This creates divergence across publishers (tools, marketplaces, etc). There is no single source of truth.\n\nAcceptance Criteria\nUtilizing this API ( https://blog.center.app/rarity-api/ ), I need a Chrome extension built with a relatively basic UI that will allow users when accessing marketplaces such as https://opensea.io/ + https://blur.io/ & specific NFTs such as ( https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/814 ) to showcase ranking & score & possibly show the image of NFT being ranked.\n\nPlease bare with me as I am not code savvy & this is my first bounty on Replit",
         "author": "WalkerMallory",
-        "posted_time": "46 minutes ago",
+        "posted_time": "53 minutes ago",
         "link": "https://replit.com/bounties/@WalkerMallory/create-nft-rarity-ra?t="
     }
 ]
