@@ -9126,7 +9126,7 @@
         "title": "Deforum (Stable Diffusion) Frontend",
         "description": "Make Deforum into a frontend. Allow any user to login, and they provide links to dozens of images at a time. We call each of those images with deforum:\nhttps://www.howtogeek.com/872921/how-to-use-stable-diffusion-to-make-ai-gifs-and-videos/ and show each video to each user. This application should be able to scale to any number of people. We are happy to pay API and server costs on modal.com, or AWS, or GCP, so you must be on one of these 3 platforms.\n\nThe colab notebook to run deforum is here: https://colab.research.google.com/github/deforum-art/deforum-stable-diffusion/blob/main/DeforumStableDiffusion.ipynb\n\nAnd the original github is here: https://github.com/deforum-art/deforum-stable-diffusion\n\nAcceptance Criteria\nI will only accept people who provide a plan or set of tools they will use to do it. You must additionally provide a Github -- a resume or links to past experience will also do.",
         "author": "AJGupta",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/deforum-stable-diffu?t="
     },
     {
@@ -9146,7 +9146,7 @@
         "title": "Stock trade post-mortem web app MVP in nodeJS",
         "description": "For example, if I bought 2 AAPL stock on Jan 1 2021 at $100 and sold 1 at $110 on Sep 30 2021 and 1 at $120 on Mar 15 2022, I'd like to see a candlestick chart covering the period from the beginning to the end with (scaled to size) annotations showing each individual trade (n=3). Also add horizontal lines for average entry and exit... so the gap should be the profit.\n\nAcceptance Criteria\nShould handle above case easily, and if there are 20 trades before the position is closed\nShould handles short selling cases too\n\nTechnical Details\nUse a nodeJS pkg for (1) historical stock prices like yahooFinance and (2) echarts for charting\nReads a CSV stored locally on the server that has the following info for each individual trade: (1) ticker, (2) date, (3) amount, (4) buy or sell",
         "author": "danielnjoo",
-        "posted_time": "46 minutes ago",
+        "posted_time": "54 minutes ago",
         "link": "https://replit.com/bounties/@danielnjoo/stock-trade-post-mor?t="
     }
 ]
