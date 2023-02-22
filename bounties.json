@@ -9116,7 +9116,7 @@
         "title": "Make API To Fetch Animation From Site",
         "description": "I'd like a simple webapp, where I can have a user link a set of images. These can be formatted as URLs to images like JPGs, PNGs, etc. Then, I want you to behind the scenes, spin up an API endpoint that passes it through https://sketch.metademolab.com/canvas . It should just spin up a new API endpoint that uses puppeteer, that queries the website with that image, and uploads the resulting animation to the frontend for the user to see. The default selected keypoints and settings and jumping video selection are fine. I prefer the endpoints to be on AWS or GCP, but any other cheap servicee should work as well.\n\nAcceptance Criteria\nI will only accept people who present a set of tools or a plan for how they will do this. You should provide a github or resume to have a chance at being selected.",
         "author": "AJGupta",
-        "posted_time": "42 minutes ago",
+        "posted_time": "53 minutes ago",
         "link": "https://replit.com/bounties/@AJGupta/make-api-to-fetch-an?t="
     },
     {
@@ -9126,7 +9126,7 @@
         "title": "Deforum (Stable Diffusion) Frontend",
         "description": "Make Deforum into a frontend. Allow any user to login, and they provide links to dozens of images at a time. We call each of those images with deforum:\nhttps://www.howtogeek.com/872921/how-to-use-stable-diffusion-to-make-ai-gifs-and-videos/ and show each video to each user. This application should be able to scale to any number of people. We are happy to pay API and server costs on modal.com, or AWS, or GCP, so you must be on one of these 3 platforms.\n\nThe colab notebook to run deforum is here: https://colab.research.google.com/github/deforum-art/deforum-stable-diffusion/blob/main/DeforumStableDiffusion.ipynb\n\nAnd the original github is here: https://github.com/deforum-art/deforum-stable-diffusion\n\nAcceptance Criteria\nI will only accept people who provide a plan or set of tools they will use to do it. You must additionally provide a Github -- a resume or links to past experience will also do.",
         "author": "AJGupta",
-        "posted_time": "26 minutes ago",
+        "posted_time": "37 minutes ago",
         "link": "https://replit.com/bounties/@AJGupta/deforum-stable-diffu?t="
     }
 ]
