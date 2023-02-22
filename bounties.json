@@ -9076,7 +9076,7 @@
         "title": "Testing bounties!",
         "description": "Quick test just to try my hands at bounties, nothing to see here..",
         "author": "EnZon3",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@EnZon3/testing-bounties?t="
     },
     {
@@ -9086,7 +9086,7 @@
         "title": "python Rest API deployed via command line to aws",
         "description": "Looking for an extremely out of the box flask REST API on AWS that will connect to a mongoDB hosted db. I am looking to do as little configuration as possible to access the API via the internet. The end state should be an accessible API\n\nThe API should also have authentication middleware\nThe API should auto refresh (but not rebuild the database) whenever a new commit is merged into master, this should include adding any packages that werent' there before.\nI should be able to set this up again and again with new IPs, separate security groups, etc.\nNecessary permissions are added, new permissions are easy to add (to a user, group, role, etc)\nFeel free to use cloudformation if that is useful, but I would need to be instructed how it works.\nMy core competency is in front-end and nodejs work, so I would need to be instructed on what to do to get the project to the end state of easy deployments.\n\nThe ideal case of this, is that I can execute a script from the command line...",
         "author": "simistern",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@simistern/python-rest-api-depl?t="
     },
     {
@@ -9146,7 +9146,7 @@
         "title": "Stock trade post-mortem web app MVP in nodeJS",
         "description": "For example, if I bought 2 AAPL stock on Jan 1 2021 at $100 and sold 1 at $110 on Sep 30 2021 and 1 at $120 on Mar 15 2022, I'd like to see a candlestick chart covering the period from the beginning to the end with (scaled to size) annotations showing each individual trade (n=3). Also add horizontal lines for average entry and exit... so the gap should be the profit.\n\nAcceptance Criteria\nShould handle above case easily, and if there are 20 trades before the position is closed\nShould handles short selling cases too\n\nTechnical Details\nUse a nodeJS pkg for (1) historical stock prices like yahooFinance and (2) echarts for charting\nReads a CSV stored locally on the server that has the following info for each individual trade: (1) ticker, (2) date, (3) amount, (4) buy or sell",
         "author": "danielnjoo",
-        "posted_time": "54 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@danielnjoo/stock-trade-post-mor?t="
     }
 ]
