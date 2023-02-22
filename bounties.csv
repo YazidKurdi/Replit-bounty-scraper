@@ -7391,7 +7391,7 @@ https://github.com/realpython/flask-boilerplate
 https://github.com/hack4impact/flask-base
 https://github.com/dternyak/React-Redux-Flask",proales2,21 hours ago,https://replit.com/bounties/@proales2/setup-a-repl-to-use?t=
 906,$4.50,closed,This is a test. This is a test.,testing my besting,EnZon3,20 hours ago,https://replit.com/bounties/@EnZon3/this-is-a-test-this?t=
-907,$4.50,closed,Testing bounties!,"Quick test just to try my hands at bounties, nothing to see here..",EnZon3,19 hours ago,https://replit.com/bounties/@EnZon3/testing-bounties?t=
+907,$4.50,closed,Testing bounties!,"Quick test just to try my hands at bounties, nothing to see here..",EnZon3,20 hours ago,https://replit.com/bounties/@EnZon3/testing-bounties?t=
 908,$270.00,due in 3 days,python Rest API deployed via command line to aws,"Looking for an extremely out of the box flask REST API on AWS that will connect to a mongoDB hosted db. I am looking to do as little configuration as possible to access the API via the internet. The end state should be an accessible API
 
 The API should also have authentication middleware
@@ -7401,7 +7401,7 @@ Necessary permissions are added, new permissions are easy to add (to a user, gro
 Feel free to use cloudformation if that is useful, but I would need to be instructed how it works.
 My core competency is in front-end and nodejs work, so I would need to be instructed on what to do to get the project to the end state of easy deployments.
 
-The ideal case of this, is that I can execute a script from the command line...",simistern,19 hours ago,https://replit.com/bounties/@simistern/python-rest-api-depl?t=
+The ideal case of this, is that I can execute a script from the command line...",simistern,20 hours ago,https://replit.com/bounties/@simistern/python-rest-api-depl?t=
 909,$900.00,due in 5 days,Create Synthdog configuration for a real document ID,"We want to have a dataset of generated images that we can use to train a model to extract text from images using the method named Donut (https://github.com/clovaai/donut). We want to fine tune the model with our type of document which is identity cards.
 
 We need to generate sample documents that are not using real data that belongs to humans. These synthetic samples should look like real documents or as close to them as possible, so that the trained models can be used on real documents.
@@ -7441,3 +7441,12 @@ Acceptance Criteria
 Utilizing this API ( https://blog.center.app/rarity-api/ ), I need a Chrome extension built with a relatively basic UI that will allow users when accessing marketplaces such as https://opensea.io/ + https://blur.io/ & specific NFTs such as ( https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/814 ) to showcase ranking & score & possibly show the image of NFT being ranked.
 
 Please bare with me as I am not code savvy & this is my first bounty on Replit",WalkerMallory,1 hour ago,https://replit.com/bounties/@WalkerMallory/create-nft-rarity-ra?t=
+914,$450.00,due in 7 days,Stock trade post-mortem web app MVP in nodeJS,"For example, if I bought 2 AAPL stock on Jan 1 2021 at $100 and sold 1 at $110 on Sep 30 2021 and 1 at $120 on Mar 15 2022, I'd like to see a candlestick chart covering the period from the beginning to the end with (scaled to size) annotations showing each individual trade (n=3). Also add horizontal lines for average entry and exit... so the gap should be the profit.
+
+Acceptance Criteria
+Should handle above case easily, and if there are 20 trades before the position is closed
+Should handles short selling cases too
+
+Technical Details
+Use a nodeJS pkg for (1) historical stock prices like yahooFinance and (2) echarts for charting
+Reads a CSV stored locally on the server that has the following info for each individual trade: (1) ticker, (2) date, (3) amount, (4) buy or sell",danielnjoo,4 minutes ago,https://replit.com/bounties/@danielnjoo/stock-trade-post-mor?t=
