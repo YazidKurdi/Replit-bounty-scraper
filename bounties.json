@@ -9136,7 +9136,7 @@
         "title": "Create NFT Rarity Ranking Chrome Extension Utilizing OpenRarity API",
         "description": "As an NFT collector rarity rankings today are produced by closed-source code and based on \u201cmeta traits\u201d that don\u2019t exist \u201con-chain\u201d (e.g. Trait Count). This creates divergence across publishers (tools, marketplaces, etc). There is no single source of truth.\n\nAcceptance Criteria\nUtilizing this API ( https://blog.center.app/rarity-api/ ), I need a Chrome extension built with a relatively basic UI that will allow users when accessing marketplaces such as https://opensea.io/ + https://blur.io/ & specific NFTs such as ( https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/814 ) to showcase ranking & score & possibly show the image of NFT being ranked.\n\nPlease bare with me as I am not code savvy & this is my first bounty on Replit",
         "author": "WalkerMallory",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@WalkerMallory/create-nft-rarity-ra?t="
     },
     {
@@ -9146,7 +9146,7 @@
         "title": "Stock trade post-mortem web app MVP in nodeJS",
         "description": "For example, if I bought 2 AAPL stock on Jan 1 2021 at $100 and sold 1 at $110 on Sep 30 2021 and 1 at $120 on Mar 15 2022, I'd like to see a candlestick chart covering the period from the beginning to the end with (scaled to size) annotations showing each individual trade (n=3). Also add horizontal lines for average entry and exit... so the gap should be the profit.\n\nAcceptance Criteria\nShould handle above case easily, and if there are 20 trades before the position is closed\nShould handles short selling cases too\n\nTechnical Details\nUse a nodeJS pkg for (1) historical stock prices like yahooFinance and (2) echarts for charting\nReads a CSV stored locally on the server that has the following info for each individual trade: (1) ticker, (2) date, (3) amount, (4) buy or sell",
         "author": "danielnjoo",
-        "posted_time": "4 minutes ago",
+        "posted_time": "21 minutes ago",
         "link": "https://replit.com/bounties/@danielnjoo/stock-trade-post-mor?t="
     }
 ]
