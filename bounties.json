@@ -9106,7 +9106,7 @@
         "title": "Video Game Affiliate Deal and Price Comparison Plugin and Implementation to Wordpress Site",
         "description": "I own hard-drive.net. I want to use plugins and some building to make my site basically add the functionality of https://gg.deals/.\n\nMust be able to focus, work fast, and get job done. Then we can do more together.\n\nWordpress site hard-drive.net wants to add in features similar to https://gg.deals/\n\nLets start right away",
         "author": "MattSaincome",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@MattSaincome/video-game-affiliate?t="
     },
     {
@@ -9116,7 +9116,7 @@
         "title": "Make API To Fetch Animation From Site",
         "description": "I'd like a simple webapp, where I can have a user link a set of images. These can be formatted as URLs to images like JPGs, PNGs, etc. Then, I want you to behind the scenes, spin up an API endpoint that passes it through https://sketch.metademolab.com/canvas . It should just spin up a new API endpoint that uses puppeteer, that queries the website with that image, and uploads the resulting animation to the frontend for the user to see. The default selected keypoints and settings and jumping video selection are fine. I prefer the endpoints to be on AWS or GCP, but any other cheap servicee should work as well.\n\nAcceptance Criteria\nI will only accept people who present a set of tools or a plan for how they will do this. You should provide a github or resume to have a chance at being selected.",
         "author": "AJGupta",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/make-api-to-fetch-an?t="
     },
     {
@@ -9146,7 +9146,7 @@
         "title": "Stock trade post-mortem web app MVP in nodeJS",
         "description": "For example, if I bought 2 AAPL stock on Jan 1 2021 at $100 and sold 1 at $110 on Sep 30 2021 and 1 at $120 on Mar 15 2022, I'd like to see a candlestick chart covering the period from the beginning to the end with (scaled to size) annotations showing each individual trade (n=3). Also add horizontal lines for average entry and exit... so the gap should be the profit.\n\nAcceptance Criteria\nShould handle above case easily, and if there are 20 trades before the position is closed\nShould handles short selling cases too\n\nTechnical Details\nUse a nodeJS pkg for (1) historical stock prices like yahooFinance and (2) echarts for charting\nReads a CSV stored locally on the server that has the following info for each individual trade: (1) ticker, (2) date, (3) amount, (4) buy or sell",
         "author": "danielnjoo",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@danielnjoo/stock-trade-post-mor?t="
     }
 ]
