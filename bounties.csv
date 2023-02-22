@@ -7369,14 +7369,14 @@ https://codesandbox.io/s/carousel-fun-hruc3z?file=/src/App.tsx
 
 References
 https://mantine.dev/others/carousel/
-https://github.com/davidjerleke/embla-carousel/issues/241",threadgill,14 hours ago,https://replit.com/bounties/@threadgill/nested-carousel?t=
+https://github.com/davidjerleke/embla-carousel/issues/241",threadgill,15 hours ago,https://replit.com/bounties/@threadgill/nested-carousel?t=
 904,$225.00,due in 10 days,Fix Cypress/Docker In Github Actions,"Full description of problem here:
 https://github.com/uselotus/lotus/issues/550
 
 It is easier to develop if you have a Mac. Quick fix if you've delt with docker in Github actions before.
 Acceptance Criteria
 
-All cypress tests run in the Github action workflow.",MikaelNida,14 hours ago,https://replit.com/bounties/@MikaelNida/fix-cypressdocker-in?t=
+All cypress tests run in the Github action workflow.",MikaelNida,15 hours ago,https://replit.com/bounties/@MikaelNida/fix-cypressdocker-in?t=
 905,$18.00,due in 2 days,Setup a repl to use flask/react ,"Want a Repl setup with Flask/React all working together.
 
 Acceptance Criteria
@@ -7389,9 +7389,9 @@ Probably using one of these templates would be good:
 https://github.com/cookiecutter-flask/cookiecutter-flask
 https://github.com/realpython/flask-boilerplate
 https://github.com/hack4impact/flask-base
-https://github.com/dternyak/React-Redux-Flask",proales2,13 hours ago,https://replit.com/bounties/@proales2/setup-a-repl-to-use?t=
-906,$4.50,closed,This is a test. This is a test.,testing my besting,EnZon3,12 hours ago,https://replit.com/bounties/@EnZon3/this-is-a-test-this?t=
-907,$4.50,closed,Testing bounties!,"Quick test just to try my hands at bounties, nothing to see here..",EnZon3,12 hours ago,https://replit.com/bounties/@EnZon3/testing-bounties?t=
+https://github.com/dternyak/React-Redux-Flask",proales2,14 hours ago,https://replit.com/bounties/@proales2/setup-a-repl-to-use?t=
+906,$4.50,closed,This is a test. This is a test.,testing my besting,EnZon3,13 hours ago,https://replit.com/bounties/@EnZon3/this-is-a-test-this?t=
+907,$4.50,closed,Testing bounties!,"Quick test just to try my hands at bounties, nothing to see here..",EnZon3,13 hours ago,https://replit.com/bounties/@EnZon3/testing-bounties?t=
 908,$270.00,due in 3 days,python Rest API deployed via command line to aws,"Looking for an extremely out of the box flask REST API on AWS that will connect to a mongoDB hosted db. I am looking to do as little configuration as possible to access the API via the internet. The end state should be an accessible API
 
 The API should also have authentication middleware
@@ -7401,7 +7401,7 @@ Necessary permissions are added, new permissions are easy to add (to a user, gro
 Feel free to use cloudformation if that is useful, but I would need to be instructed how it works.
 My core competency is in front-end and nodejs work, so I would need to be instructed on what to do to get the project to the end state of easy deployments.
 
-The ideal case of this, is that I can execute a script from the command line...",simistern,12 hours ago,https://replit.com/bounties/@simistern/python-rest-api-depl?t=
+The ideal case of this, is that I can execute a script from the command line...",simistern,13 hours ago,https://replit.com/bounties/@simistern/python-rest-api-depl?t=
 909,$900.00,due in 5 days,Create Synthdog configuration for a real document ID,"We want to have a dataset of generated images that we can use to train a model to extract text from images using the method named Donut (https://github.com/clovaai/donut). We want to fine tune the model with our type of document which is identity cards.
 
 We need to generate sample documents that are not using real data that belongs to humans. These synthetic samples should look like real documents or as close to them as possible, so that the trained models can be used on real documents.
@@ -7414,18 +7414,18 @@ A synthdog template document which generates all the values required, contains t
 
 Technical Details
 
-You should use Synthdog and Synthtige...",ittailup,11 hours ago,https://replit.com/bounties/@ittailup/create-synthdog-conf?t=
+You should use Synthdog and Synthtige...",ittailup,12 hours ago,https://replit.com/bounties/@ittailup/create-synthdog-conf?t=
 910,$270.00,due in 5 days,Video Game Affiliate Deal and Price Comparison Plugin and Implementation to Wordpress Site,"I own hard-drive.net. I want to use plugins and some building to make my site basically add the functionality of https://gg.deals/.
 
 Must be able to focus, work fast, and get job done. Then we can do more together.
 
 Wordpress site hard-drive.net wants to add in features similar to https://gg.deals/
 
-Lets start right away",MattSaincome,7 hours ago,https://replit.com/bounties/@MattSaincome/video-game-affiliate?t=
+Lets start right away",MattSaincome,8 hours ago,https://replit.com/bounties/@MattSaincome/video-game-affiliate?t=
 911,$162.00,due in 6 days,Make API To Fetch Animation From Site,"I'd like a simple webapp, where I can have a user link a set of images. These can be formatted as URLs to images like JPGs, PNGs, etc. Then, I want you to behind the scenes, spin up an API endpoint that passes it through https://sketch.metademolab.com/canvas . It should just spin up a new API endpoint that uses puppeteer, that queries the website with that image, and uploads the resulting animation to the frontend for the user to see. The default selected keypoints and settings and jumping video selection are fine. I prefer the endpoints to be on AWS or GCP, but any other cheap servicee should work as well.
 
 Acceptance Criteria
-I will only accept people who present a set of tools or a plan for how they will do this. You should provide a github or resume to have a chance at being selected.",AJGupta,4 hours ago,https://replit.com/bounties/@AJGupta/make-api-to-fetch-an?t=
+I will only accept people who present a set of tools or a plan for how they will do this. You should provide a github or resume to have a chance at being selected.",AJGupta,5 hours ago,https://replit.com/bounties/@AJGupta/make-api-to-fetch-an?t=
 912,$180.00,due in 5 days,Deforum (Stable Diffusion) Frontend,"Make Deforum into a frontend. Allow any user to login, and they provide links to dozens of images at a time. We call each of those images with deforum:
 https://www.howtogeek.com/872921/how-to-use-stable-diffusion-to-make-ai-gifs-and-videos/ and show each video to each user. This application should be able to scale to any number of people. We are happy to pay API and server costs on modal.com, or AWS, or GCP, so you must be on one of these 3 platforms.
 
@@ -7434,4 +7434,4 @@ The colab notebook to run deforum is here: https://colab.research.google.com/git
 And the original github is here: https://github.com/deforum-art/deforum-stable-diffusion
 
 Acceptance Criteria
-I will only accept people who provide a plan or set of tools they will use to do it. You must additionally provide a Github -- a resume or links to past experience will also do.",AJGupta,4 hours ago,https://replit.com/bounties/@AJGupta/deforum-stable-diffu?t=
+I will only accept people who provide a plan or set of tools they will use to do it. You must additionally provide a Github -- a resume or links to past experience will also do.",AJGupta,5 hours ago,https://replit.com/bounties/@AJGupta/deforum-stable-diffu?t=
