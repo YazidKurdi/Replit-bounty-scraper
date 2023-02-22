@@ -9026,7 +9026,7 @@
         "title": "perl script that prints the history of commands with timestamps",
         "description": "just looking for a perl script I can run in my terminal that will show me the last 100 or so commands used along with the date, time of when the command was used.",
         "author": "AlekNaomieBurtP",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@AlekNaomieBurtP/perl-script-that-pri?t="
     },
     {
@@ -9076,7 +9076,7 @@
         "title": "Testing bounties!",
         "description": "Quick test just to try my hands at bounties, nothing to see here..",
         "author": "EnZon3",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@EnZon3/testing-bounties?t="
     },
     {
@@ -9086,7 +9086,7 @@
         "title": "python Rest API deployed via command line to aws",
         "description": "Looking for an extremely out of the box flask REST API on AWS that will connect to a mongoDB hosted db. I am looking to do as little configuration as possible to access the API via the internet. The end state should be an accessible API\n\nThe API should also have authentication middleware\nThe API should auto refresh (but not rebuild the database) whenever a new commit is merged into master, this should include adding any packages that werent' there before.\nI should be able to set this up again and again with new IPs, separate security groups, etc.\nNecessary permissions are added, new permissions are easy to add (to a user, group, role, etc)\nFeel free to use cloudformation if that is useful, but I would need to be instructed how it works.\nMy core competency is in front-end and nodejs work, so I would need to be instructed on what to do to get the project to the end state of easy deployments.\n\nThe ideal case of this, is that I can execute a script from the command line...",
         "author": "simistern",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@simistern/python-rest-api-depl?t="
     },
     {
@@ -9106,7 +9106,7 @@
         "title": "Video Game Affiliate Deal and Price Comparison Plugin and Implementation to Wordpress Site",
         "description": "I own hard-drive.net. I want to use plugins and some building to make my site basically add the functionality of https://gg.deals/.\n\nMust be able to focus, work fast, and get job done. Then we can do more together.\n\nWordpress site hard-drive.net wants to add in features similar to https://gg.deals/\n\nLets start right away",
         "author": "MattSaincome",
-        "posted_time": "55 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@MattSaincome/video-game-affiliate?t="
     }
 ]
