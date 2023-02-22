@@ -7391,7 +7391,7 @@ https://github.com/realpython/flask-boilerplate
 https://github.com/hack4impact/flask-base
 https://github.com/dternyak/React-Redux-Flask",proales2,23 hours ago,https://replit.com/bounties/@proales2/setup-a-repl-to-use?t=
 906,$4.50,closed,This is a test. This is a test.,testing my besting,EnZon3,22 hours ago,https://replit.com/bounties/@EnZon3/this-is-a-test-this?t=
-907,$4.50,closed,Testing bounties!,"Quick test just to try my hands at bounties, nothing to see here..",EnZon3,21 hours ago,https://replit.com/bounties/@EnZon3/testing-bounties?t=
+907,$4.50,closed,Testing bounties!,"Quick test just to try my hands at bounties, nothing to see here..",EnZon3,22 hours ago,https://replit.com/bounties/@EnZon3/testing-bounties?t=
 908,$270.00,due in 3 days,python Rest API deployed via command line to aws,"Looking for an extremely out of the box flask REST API on AWS that will connect to a mongoDB hosted db. I am looking to do as little configuration as possible to access the API via the internet. The end state should be an accessible API
 
 The API should also have authentication middleware
@@ -7401,7 +7401,7 @@ Necessary permissions are added, new permissions are easy to add (to a user, gro
 Feel free to use cloudformation if that is useful, but I would need to be instructed how it works.
 My core competency is in front-end and nodejs work, so I would need to be instructed on what to do to get the project to the end state of easy deployments.
 
-The ideal case of this, is that I can execute a script from the command line...",simistern,21 hours ago,https://replit.com/bounties/@simistern/python-rest-api-depl?t=
+The ideal case of this, is that I can execute a script from the command line...",simistern,22 hours ago,https://replit.com/bounties/@simistern/python-rest-api-depl?t=
 909,$900.00,due in 5 days,Create Synthdog configuration for a real document ID,"We want to have a dataset of generated images that we can use to train a model to extract text from images using the method named Donut (https://github.com/clovaai/donut). We want to fine tune the model with our type of document which is identity cards.
 
 We need to generate sample documents that are not using real data that belongs to humans. These synthetic samples should look like real documents or as close to them as possible, so that the trained models can be used on real documents.
