@@ -9036,7 +9036,7 @@
         "title": "Nested Carousel",
         "description": "The application has a Nested Carousel. When the users \"swipes\" the image on the child Carousel, the Parent Carousel also moves. The Parent Carousel should not move when the user swipes anywhere on the  of the child Carousel.\n\nI have included an example solution in the References. I simply need this same solution implemented to my CodeSandbox.\n\nAcceptance Criteria\nThe user can swipe the child Carousel images (on desktop & mobile) without the parent Carousel moving.\n\nTechnical Details\nReact front-end using Mantine Carousel component (based on Embla)\n\nLink to Project\nhttps://codesandbox.io/s/carousel-fun-hruc3z?file=/src/App.tsx\n\nReferences\nhttps://mantine.dev/others/carousel/\nhttps://github.com/davidjerleke/embla-carousel/issues/241",
         "author": "threadgill",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@threadgill/nested-carousel?t="
     },
     {
@@ -9056,7 +9056,7 @@
         "title": "Setup a repl to use flask/react ",
         "description": "Want a Repl setup with Flask/React all working together.\n\nAcceptance Criteria\n\nHello world loads.\n\nTechnical Details\n\nProbably using one of these templates would be good:\nhttps://github.com/cookiecutter-flask/cookiecutter-flask\nhttps://github.com/realpython/flask-boilerplate\nhttps://github.com/hack4impact/flask-base\nhttps://github.com/dternyak/React-Redux-Flask",
         "author": "proales2",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@proales2/setup-a-repl-to-use?t="
     },
     {
@@ -9066,7 +9066,7 @@
         "title": "This is a test. This is a test.",
         "description": "testing my besting",
         "author": "EnZon3",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@EnZon3/this-is-a-test-this?t="
     },
     {
@@ -9096,7 +9096,7 @@
         "title": "Create Synthdog configuration for a real document ID",
         "description": "We want to have a dataset of generated images that we can use to train a model to extract text from images using the method named Donut (https://github.com/clovaai/donut). We want to fine tune the model with our type of document which is identity cards.\n\nWe need to generate sample documents that are not using real data that belongs to humans. These synthetic samples should look like real documents or as close to them as possible, so that the trained models can be used on real documents.\n\nWe want to extract the full name, CURP and date of birth from the \"Credencial para votar\" in Mexico. The synthetic documents would need to look like the front of the https://listanominal.ine.mx/scpln/ models \"G and H\".\n\nAcceptance Criteria\n\nA synthdog template document which generates all the values required, contains the correct background as the real document and puts the values in roughly the correct space within the card.\n\nTechnical Details\n\nYou should use Synthdog and Synthtige...",
         "author": "ittailup",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@ittailup/create-synthdog-conf?t="
     },
     {
@@ -9106,7 +9106,7 @@
         "title": "Video Game Affiliate Deal and Price Comparison Plugin and Implementation to Wordpress Site",
         "description": "I own hard-drive.net. I want to use plugins and some building to make my site basically add the functionality of https://gg.deals/.\n\nMust be able to focus, work fast, and get job done. Then we can do more together.\n\nWordpress site hard-drive.net wants to add in features similar to https://gg.deals/\n\nLets start right away",
         "author": "MattSaincome",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@MattSaincome/video-game-affiliate?t="
     },
     {
@@ -9116,7 +9116,7 @@
         "title": "Make API To Fetch Animation From Site",
         "description": "I'd like a simple webapp, where I can have a user link a set of images. These can be formatted as URLs to images like JPGs, PNGs, etc. Then, I want you to behind the scenes, spin up an API endpoint that passes it through https://sketch.metademolab.com/canvas . It should just spin up a new API endpoint that uses puppeteer, that queries the website with that image, and uploads the resulting animation to the frontend for the user to see. The default selected keypoints and settings and jumping video selection are fine. I prefer the endpoints to be on AWS or GCP, but any other cheap servicee should work as well.\n\nAcceptance Criteria\nI will only accept people who present a set of tools or a plan for how they will do this. You should provide a github or resume to have a chance at being selected.",
         "author": "AJGupta",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/make-api-to-fetch-an?t="
     },
     {
