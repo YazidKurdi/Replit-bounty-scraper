@@ -7342,17 +7342,17 @@ etc.
 Acceptance Criteria
 n/a
 Technical Details
-n/a",ForLaag,9 hours ago,https://replit.com/bounties/@ForLaag/fb-messenger-bot-uzu?t=
+n/a",ForLaag,10 hours ago,https://replit.com/bounties/@ForLaag/fb-messenger-bot-uzu?t=
 900,$4.50,due in 9 days,Text Message Review,"Overview:
 Code that can be integrated into bubble.io app that can monitor text messages in the 'messages' app on the iphone for a specific list of phone numbers provided by the user (ie- if a user has 100 contacts in their iphone, this app can monitor text messages in the 'messages' app from 10 contacts that have been specifically identified by the user).
 
 Specifics:
 1) User inputs phone numbers that need monitoring into the app
-2) App monitors the text messages from those designated numbers on a daily basis by sending the text message text from the 'message' iphone app to a google sheets output that can be exported",npickens27,8 hours ago,https://replit.com/bounties/@npickens27/text-message-review?t=
+2) App monitors the text messages from those designated numbers on a daily basis by sending the text message text from the 'message' iphone app to a google sheets output that can be exported",npickens27,9 hours ago,https://replit.com/bounties/@npickens27/text-message-review?t=
 901,$144.00,due in 7 days,Apple script for Keynote ,"Using applescript and  any other Mac based tools, mod Apple Keynote to have as many of these features as possible: https://medium.com/jammernd/on-presentation-software-keynote-and-better-7d2606d9ded5
 
 Acceptance Criteria
-Will only accept folks who provide a plan for which features they choose to implement, along with a Github or other evidence of experience.",AJGupta,7 hours ago,https://replit.com/bounties/@AJGupta/apple-script-for-key?t=
+Will only accept folks who provide a plan for which features they choose to implement, along with a Github or other evidence of experience.",AJGupta,8 hours ago,https://replit.com/bounties/@AJGupta/apple-script-for-key?t=
 902,$18.00,closed,perl script that prints the history of commands with timestamps,"just looking for a perl script I can run in my terminal that will show me the last 100 or so commands used along with the date, time of when the command was used.",AlekNaomieBurtP,7 hours ago,https://replit.com/bounties/@AlekNaomieBurtP/perl-script-that-pri?t=
 903,$27.00,due in 3 days,Nested Carousel,"The application has a Nested Carousel. When the users ""swipes"" the image on the child Carousel, the Parent Carousel also moves. The Parent Carousel should not move when the user swipes anywhere on the  of the child Carousel.
 
@@ -7369,14 +7369,14 @@ https://codesandbox.io/s/carousel-fun-hruc3z?file=/src/App.tsx
 
 References
 https://mantine.dev/others/carousel/
-https://github.com/davidjerleke/embla-carousel/issues/241",threadgill,2 hours ago,https://replit.com/bounties/@threadgill/nested-carousel?t=
+https://github.com/davidjerleke/embla-carousel/issues/241",threadgill,3 hours ago,https://replit.com/bounties/@threadgill/nested-carousel?t=
 904,$225.00,due in 11 days,Fix Cypress/Docker In Github Actions,"Full description of problem here:
 https://github.com/uselotus/lotus/issues/550
 
 It is easier to develop if you have a Mac. Quick fix if you've delt with docker in Github actions before.
 Acceptance Criteria
 
-All cypress tests run in the Github action workflow.",MikaelNida,2 hours ago,https://replit.com/bounties/@MikaelNida/fix-cypressdocker-in?t=
+All cypress tests run in the Github action workflow.",MikaelNida,3 hours ago,https://replit.com/bounties/@MikaelNida/fix-cypressdocker-in?t=
 905,$18.00,due in 3 days,Setup a repl to use flask/react ,"Want a Repl setup with Flask/React all working together.
 
 Acceptance Criteria
@@ -7389,4 +7389,16 @@ Probably using one of these templates would be good:
 https://github.com/cookiecutter-flask/cookiecutter-flask
 https://github.com/realpython/flask-boilerplate
 https://github.com/hack4impact/flask-base
-https://github.com/dternyak/React-Redux-Flask",proales2,1 hour ago,https://replit.com/bounties/@proales2/setup-a-repl-to-use?t=
+https://github.com/dternyak/React-Redux-Flask",proales2,2 hours ago,https://replit.com/bounties/@proales2/setup-a-repl-to-use?t=
+906,$4.50,closed,This is a test. This is a test.,testing my besting,EnZon3,48 minutes ago,https://replit.com/bounties/@EnZon3/this-is-a-test-this?t=
+907,$4.50,due in 4 days,Testing bounties!,"Quick test just to try my hands at bounties, nothing to see here..",EnZon3,28 minutes ago,https://replit.com/bounties/@EnZon3/testing-bounties?t=
+908,$270.00,due in 4 days,python Rest API deployed via command line to aws,"Looking for an extremely out of the box flask REST API on AWS that will connect to a mongoDB hosted db. I am looking to do as little configuration as possible to access the API via the internet. The end state should be an accessible API
+
+The API should also have authentication middleware
+The API should auto refresh (but not rebuild the database) whenever a new commit is merged into master, this should include adding any packages that werent' there before.
+I should be able to set this up again and again with new IPs, separate security groups, etc.
+Necessary permissions are added, new permissions are easy to add (to a user, group, role, etc)
+Feel free to use cloudformation if that is useful, but I would need to be instructed how it works.
+My core competency is in front-end and nodejs work, so I would need to be instructed on what to do to get the project to the end state of easy deployments.
+
+The ideal case of this, is that I can execute a script from the command line...",simistern,23 minutes ago,https://replit.com/bounties/@simistern/python-rest-api-depl?t=
