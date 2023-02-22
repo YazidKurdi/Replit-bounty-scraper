@@ -9066,7 +9066,7 @@
         "title": "This is a test. This is a test.",
         "description": "testing my besting",
         "author": "EnZon3",
-        "posted_time": "21 hours ago",
+        "posted_time": "22 hours ago",
         "link": "https://replit.com/bounties/@EnZon3/this-is-a-test-this?t="
     },
     {
@@ -9096,7 +9096,7 @@
         "title": "Create Synthdog configuration for a real document ID",
         "description": "We want to have a dataset of generated images that we can use to train a model to extract text from images using the method named Donut (https://github.com/clovaai/donut). We want to fine tune the model with our type of document which is identity cards.\n\nWe need to generate sample documents that are not using real data that belongs to humans. These synthetic samples should look like real documents or as close to them as possible, so that the trained models can be used on real documents.\n\nWe want to extract the full name, CURP and date of birth from the \"Credencial para votar\" in Mexico. The synthetic documents would need to look like the front of the https://listanominal.ine.mx/scpln/ models \"G and H\".\n\nAcceptance Criteria\n\nA synthdog template document which generates all the values required, contains the correct background as the real document and puts the values in roughly the correct space within the card.\n\nTechnical Details\n\nYou should use Synthdog and Synthtige...",
         "author": "ittailup",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@ittailup/create-synthdog-conf?t="
     },
     {
