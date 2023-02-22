@@ -9136,7 +9136,7 @@
         "title": "Create NFT Rarity Ranking Chrome Extension Utilizing OpenRarity API",
         "description": "As an NFT collector rarity rankings today are produced by closed-source code and based on \u201cmeta traits\u201d that don\u2019t exist \u201con-chain\u201d (e.g. Trait Count). This creates divergence across publishers (tools, marketplaces, etc). There is no single source of truth.\n\nAcceptance Criteria\nUtilizing this API ( https://blog.center.app/rarity-api/ ), I need a Chrome extension built with a relatively basic UI that will allow users when accessing marketplaces such as https://opensea.io/ + https://blur.io/ & specific NFTs such as ( https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/814 ) to showcase ranking & score & possibly show the image of NFT being ranked.\n\nPlease bare with me as I am not code savvy & this is my first bounty on Replit",
         "author": "WalkerMallory",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@WalkerMallory/create-nft-rarity-ra?t="
     },
     {
