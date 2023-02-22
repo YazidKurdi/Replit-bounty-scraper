@@ -9046,7 +9046,7 @@
         "title": "Fix Cypress/Docker In Github Actions",
         "description": "Full description of problem here:\nhttps://github.com/uselotus/lotus/issues/550\n\nIt is easier to develop if you have a Mac. Quick fix if you've delt with docker in Github actions before.\nAcceptance Criteria\n\nAll cypress tests run in the Github action workflow.",
         "author": "MikaelNida",
-        "posted_time": "21 hours ago",
+        "posted_time": "22 hours ago",
         "link": "https://replit.com/bounties/@MikaelNida/fix-cypressdocker-in?t="
     },
     {
@@ -9096,7 +9096,7 @@
         "title": "Create Synthdog configuration for a real document ID",
         "description": "We want to have a dataset of generated images that we can use to train a model to extract text from images using the method named Donut (https://github.com/clovaai/donut). We want to fine tune the model with our type of document which is identity cards.\n\nWe need to generate sample documents that are not using real data that belongs to humans. These synthetic samples should look like real documents or as close to them as possible, so that the trained models can be used on real documents.\n\nWe want to extract the full name, CURP and date of birth from the \"Credencial para votar\" in Mexico. The synthetic documents would need to look like the front of the https://listanominal.ine.mx/scpln/ models \"G and H\".\n\nAcceptance Criteria\n\nA synthdog template document which generates all the values required, contains the correct background as the real document and puts the values in roughly the correct space within the card.\n\nTechnical Details\n\nYou should use Synthdog and Synthtige...",
         "author": "ittailup",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@ittailup/create-synthdog-conf?t="
     },
     {
@@ -9136,7 +9136,7 @@
         "title": "Create NFT Rarity Ranking Chrome Extension Utilizing OpenRarity API",
         "description": "As an NFT collector rarity rankings today are produced by closed-source code and based on \u201cmeta traits\u201d that don\u2019t exist \u201con-chain\u201d (e.g. Trait Count). This creates divergence across publishers (tools, marketplaces, etc). There is no single source of truth.\n\nAcceptance Criteria\nUtilizing this API ( https://blog.center.app/rarity-api/ ), I need a Chrome extension built with a relatively basic UI that will allow users when accessing marketplaces such as https://opensea.io/ + https://blur.io/ & specific NFTs such as ( https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/814 ) to showcase ranking & score & possibly show the image of NFT being ranked.\n\nPlease bare with me as I am not code savvy & this is my first bounty on Replit",
         "author": "WalkerMallory",
-        "posted_time": "53 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@WalkerMallory/create-nft-rarity-ra?t="
     }
 ]
