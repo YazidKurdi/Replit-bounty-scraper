@@ -7449,4 +7449,4 @@ Should handles short selling cases too
 
 Technical Details
 Use a nodeJS pkg for (1) historical stock prices like yahooFinance and (2) echarts for charting
-Reads a CSV stored locally on the server that has the following info for each individual trade: (1) ticker, (2) date, (3) amount, (4) buy or sell",danielnjoo,37 minutes ago,https://replit.com/bounties/@danielnjoo/stock-trade-post-mor?t=
+Reads a CSV stored locally on the server that has the following info for each individual trade: (1) ticker, (2) date, (3) amount, (4) buy or sell",danielnjoo,46 minutes ago,https://replit.com/bounties/@danielnjoo/stock-trade-post-mor?t=
