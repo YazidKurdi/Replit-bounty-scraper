@@ -9126,7 +9126,7 @@
         "title": "Deforum (Stable Diffusion) Frontend",
         "description": "Make Deforum into a frontend. Allow any user to login, and they provide links to dozens of images at a time. We call each of those images with deforum:\nhttps://www.howtogeek.com/872921/how-to-use-stable-diffusion-to-make-ai-gifs-and-videos/ and show each video to each user. This application should be able to scale to any number of people. We are happy to pay API and server costs on modal.com, or AWS, or GCP, so you must be on one of these 3 platforms.\n\nThe colab notebook to run deforum is here: https://colab.research.google.com/github/deforum-art/deforum-stable-diffusion/blob/main/DeforumStableDiffusion.ipynb\n\nAnd the original github is here: https://github.com/deforum-art/deforum-stable-diffusion\n\nAcceptance Criteria\nI will only accept people who provide a plan or set of tools they will use to do it. You must additionally provide a Github -- a resume or links to past experience will also do.",
         "author": "AJGupta",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/deforum-stable-diffu?t="
     },
     {
