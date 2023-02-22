@@ -9006,7 +9006,7 @@
         "title": "Text Message Review",
         "description": "Overview:\nCode that can be integrated into bubble.io app that can monitor text messages in the 'messages' app on the iphone for a specific list of phone numbers provided by the user (ie- if a user has 100 contacts in their iphone, this app can monitor text messages in the 'messages' app from 10 contacts that have been specifically identified by the user).\n\nSpecifics:\n1) User inputs phone numbers that need monitoring into the app\n2) App monitors the text messages from those designated numbers on a daily basis by sending the text message text from the 'message' iphone app to a google sheets output that can be exported",
         "author": "npickens27",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@npickens27/text-message-review?t="
     },
     {
@@ -9036,7 +9036,7 @@
         "title": "Nested Carousel",
         "description": "The application has a Nested Carousel. When the users \"swipes\" the image on the child Carousel, the Parent Carousel also moves. The Parent Carousel should not move when the user swipes anywhere on the  of the child Carousel.\n\nI have included an example solution in the References. I simply need this same solution implemented to my CodeSandbox.\n\nAcceptance Criteria\nThe user can swipe the child Carousel images (on desktop & mobile) without the parent Carousel moving.\n\nTechnical Details\nReact front-end using Mantine Carousel component (based on Embla)\n\nLink to Project\nhttps://codesandbox.io/s/carousel-fun-hruc3z?file=/src/App.tsx\n\nReferences\nhttps://mantine.dev/others/carousel/\nhttps://github.com/davidjerleke/embla-carousel/issues/241",
         "author": "threadgill",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@threadgill/nested-carousel?t="
     },
     {
@@ -9046,7 +9046,7 @@
         "title": "Fix Cypress/Docker In Github Actions",
         "description": "Full description of problem here:\nhttps://github.com/uselotus/lotus/issues/550\n\nIt is easier to develop if you have a Mac. Quick fix if you've delt with docker in Github actions before.\nAcceptance Criteria\n\nAll cypress tests run in the Github action workflow.",
         "author": "MikaelNida",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@MikaelNida/fix-cypressdocker-in?t="
     },
     {
@@ -9056,7 +9056,7 @@
         "title": "Setup a repl to use flask/react ",
         "description": "Want a Repl setup with Flask/React all working together.\n\nAcceptance Criteria\n\nHello world loads.\n\nTechnical Details\n\nProbably using one of these templates would be good:\nhttps://github.com/cookiecutter-flask/cookiecutter-flask\nhttps://github.com/realpython/flask-boilerplate\nhttps://github.com/hack4impact/flask-base\nhttps://github.com/dternyak/React-Redux-Flask",
         "author": "proales2",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@proales2/setup-a-repl-to-use?t="
     },
     {
@@ -9066,7 +9066,7 @@
         "title": "This is a test. This is a test.",
         "description": "testing my besting",
         "author": "EnZon3",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@EnZon3/this-is-a-test-this?t="
     },
     {
@@ -9096,7 +9096,7 @@
         "title": "Create Synthdog configuration for a real document ID",
         "description": "We want to have a dataset of generated images that we can use to train a model to extract text from images using the method named Donut (https://github.com/clovaai/donut). We want to fine tune the model with our type of document which is identity cards.\n\nWe need to generate sample documents that are not using real data that belongs to humans. These synthetic samples should look like real documents or as close to them as possible, so that the trained models can be used on real documents.\n\nWe want to extract the full name, CURP and date of birth from the \"Credencial para votar\" in Mexico. The synthetic documents would need to look like the front of the https://listanominal.ine.mx/scpln/ models \"G and H\".\n\nAcceptance Criteria\n\nA synthdog template document which generates all the values required, contains the correct background as the real document and puts the values in roughly the correct space within the card.\n\nTechnical Details\n\nYou should use Synthdog and Synthtige...",
         "author": "ittailup",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@ittailup/create-synthdog-conf?t="
     }
 ]
