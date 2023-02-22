@@ -7353,7 +7353,7 @@ Specifics:
 
 Acceptance Criteria
 Will only accept folks who provide a plan for which features they choose to implement, along with a Github or other evidence of experience.",AJGupta,15 hours ago,https://replit.com/bounties/@AJGupta/apple-script-for-key?t=
-902,$18.00,closed,perl script that prints the history of commands with timestamps,"just looking for a perl script I can run in my terminal that will show me the last 100 or so commands used along with the date, time of when the command was used.",AlekNaomieBurtP,14 hours ago,https://replit.com/bounties/@AlekNaomieBurtP/perl-script-that-pri?t=
+902,$18.00,closed,perl script that prints the history of commands with timestamps,"just looking for a perl script I can run in my terminal that will show me the last 100 or so commands used along with the date, time of when the command was used.",AlekNaomieBurtP,15 hours ago,https://replit.com/bounties/@AlekNaomieBurtP/perl-script-that-pri?t=
 903,$27.00,due in 3 days,Nested Carousel,"The application has a Nested Carousel. When the users ""swipes"" the image on the child Carousel, the Parent Carousel also moves. The Parent Carousel should not move when the user swipes anywhere on the  of the child Carousel.
 
 I have included an example solution in the References. I simply need this same solution implemented to my CodeSandbox.
@@ -7391,7 +7391,7 @@ https://github.com/realpython/flask-boilerplate
 https://github.com/hack4impact/flask-base
 https://github.com/dternyak/React-Redux-Flask",proales2,9 hours ago,https://replit.com/bounties/@proales2/setup-a-repl-to-use?t=
 906,$4.50,closed,This is a test. This is a test.,testing my besting,EnZon3,8 hours ago,https://replit.com/bounties/@EnZon3/this-is-a-test-this?t=
-907,$4.50,closed,Testing bounties!,"Quick test just to try my hands at bounties, nothing to see here..",EnZon3,7 hours ago,https://replit.com/bounties/@EnZon3/testing-bounties?t=
+907,$4.50,closed,Testing bounties!,"Quick test just to try my hands at bounties, nothing to see here..",EnZon3,8 hours ago,https://replit.com/bounties/@EnZon3/testing-bounties?t=
 908,$270.00,due in 4 days,python Rest API deployed via command line to aws,"Looking for an extremely out of the box flask REST API on AWS that will connect to a mongoDB hosted db. I am looking to do as little configuration as possible to access the API via the internet. The end state should be an accessible API
 
 The API should also have authentication middleware
@@ -7401,7 +7401,7 @@ Necessary permissions are added, new permissions are easy to add (to a user, gro
 Feel free to use cloudformation if that is useful, but I would need to be instructed how it works.
 My core competency is in front-end and nodejs work, so I would need to be instructed on what to do to get the project to the end state of easy deployments.
 
-The ideal case of this, is that I can execute a script from the command line...",simistern,7 hours ago,https://replit.com/bounties/@simistern/python-rest-api-depl?t=
+The ideal case of this, is that I can execute a script from the command line...",simistern,8 hours ago,https://replit.com/bounties/@simistern/python-rest-api-depl?t=
 909,$900.00,due in 6 days,Create Synthdog configuration for a real document ID,"We want to have a dataset of generated images that we can use to train a model to extract text from images using the method named Donut (https://github.com/clovaai/donut). We want to fine tune the model with our type of document which is identity cards.
 
 We need to generate sample documents that are not using real data that belongs to humans. These synthetic samples should look like real documents or as close to them as possible, so that the trained models can be used on real documents.
@@ -7422,3 +7422,7 @@ Must be able to focus, work fast, and get job done. Then we can do more together
 Wordpress site hard-drive.net wants to add in features similar to https://gg.deals/
 
 Lets start right away",MattSaincome,3 hours ago,https://replit.com/bounties/@MattSaincome/video-game-affiliate?t=
+911,$162.00,due in 7 days,Make API To Fetch Animation From Site,"I'd like a simple webapp, where I can have a user link a set of images. These can be formatted as URLs to images like JPGs, PNGs, etc. Then, I want you to behind the scenes, spin up an API endpoint that passes it through https://sketch.metademolab.com/canvas . It should just spin up a new API endpoint that uses puppeteer, that queries the website with that image, and uploads the resulting animation to the frontend for the user to see. The default selected keypoints and settings and jumping video selection are fine. I prefer the endpoints to be on AWS or GCP, but any other cheap servicee should work as well.
+
+Acceptance Criteria
+I will only accept people who present a set of tools or a plan for how they will do this. You should provide a github or resume to have a chance at being selected.",AJGupta,1 minute ago,https://replit.com/bounties/@AJGupta/make-api-to-fetch-an?t=
