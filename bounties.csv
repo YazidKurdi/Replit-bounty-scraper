@@ -7426,7 +7426,7 @@ Lets start right away",MattSaincome,1 day ago,https://replit.com/bounties/@MattS
 
 Acceptance Criteria
 I will only accept people who present a set of tools or a plan for how they will do this. You should provide a github or resume to have a chance at being selected.",AJGupta,1 day ago,https://replit.com/bounties/@AJGupta/make-api-to-fetch-an?t=
-912,$180.00,due in 7 days,Deforum (Stable Diffusion) Frontend,"Make Deforum into a frontend. Allow any user to login, and they provide links to dozens of images at a time. We call each of those images with deforum:
+912,$180.00,due in 5 days,Deforum (Stable Diffusion) Frontend,"Make Deforum into a frontend. Allow any user to login, and they provide links to dozens of images at a time. We call each of those images with deforum:
 https://www.howtogeek.com/872921/how-to-use-stable-diffusion-to-make-ai-gifs-and-videos/ and show each video to each user. This application should be able to scale to any number of people. We are happy to pay API and server costs on modal.com, or AWS, or GCP, so you must be on one of these 3 platforms.
 
 The colab notebook to run deforum is here: https://colab.research.google.com/github/deforum-art/deforum-stable-diffusion/blob/main/DeforumStableDiffusion.ipynb
@@ -7449,7 +7449,7 @@ Should handles short selling cases too
 
 Technical Details
 Use a nodeJS pkg for (1) historical stock prices like yahooFinance and (2) echarts for charting
-Reads a CSV stored locally on the server that has the following info for each individual trade: (1) ticker, (2) date, (3) amount, (4) buy or sell",danielnjoo,14 hours ago,https://replit.com/bounties/@danielnjoo/stock-trade-post-mor?t=
+Reads a CSV stored locally on the server that has the following info for each individual trade: (1) ticker, (2) date, (3) amount, (4) buy or sell",danielnjoo,15 hours ago,https://replit.com/bounties/@danielnjoo/stock-trade-post-mor?t=
 915,"$1,800.00",due in 13 days,Go package that clones a row and its related rows in a PostgreSQL database,"The goal is to build a Go sqlclone package that can copy specific data from one PostgreSQL database to another. This README explains the project in detail:
 
 https://github.com/ProlificLabs/sqlclone/blob/main/README.md
@@ -7490,7 +7490,7 @@ CREATE TABLE [dbo].[WorkcenterList] (
 
 CREATE TABLE [dbo].[StatusDefinition] (
     [StatusRow]            INT           NOT NULL,
-    ...",VitPlanocka,6 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from-1?t=
+    ...",VitPlanocka,7 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from-1?t=
 918,$90.00,due in 19 days,OCR and Airtable Integration Developer,"We are looking for a developer who can help us integrate OCR technology and Airtable to automate data entry. The ideal candidate should have experience working with OCR and be able to build a system that can identify text in an image, extract the relevant information, and match it to a record in Airtable. The process should be easy to use for a non-technical team from the start of the process - adding photos - to reviewing the record matches.
 
 Responsibilities:
@@ -7503,7 +7503,7 @@ Collaborate with the team to ensure that the solution meets the requirements
 Create a user-friendly interface that can be used by non-technical team members to add photos and review record matches
 
 Requirements:
-...",AntoinetteRosen,4 hours ago,https://replit.com/bounties/@AntoinetteRosen/ocr-and-airtable-int?t=
+...",AntoinetteRosen,5 hours ago,https://replit.com/bounties/@AntoinetteRosen/ocr-and-airtable-int?t=
 919,$810.00,due in 10 days,"Build a JS SDK for the web + an authenticated Node.js backend that lets users login, buy credits, and set usage quotas.","Build a JS SDK for the web + an authenticated Node.js backend that lets users login, buy credits, and set usage quotas.
 
 Problem Description
@@ -7546,4 +7546,4 @@ The results are listed across several pages. I want to be notified whenever new 
 
 Acceptance Criteria
 
-I need to actually have been notified successfully when new classes became available",jispwoso,13 minutes ago,https://replit.com/bounties/@jispwoso/send-me-an-sms-when?t=
+I need to actually have been notified successfully when new classes became available",jispwoso,32 minutes ago,https://replit.com/bounties/@jispwoso/send-me-an-sms-when?t=
