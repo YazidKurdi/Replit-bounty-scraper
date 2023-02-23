@@ -9116,7 +9116,7 @@
         "title": "Make API To Fetch Animation From Site",
         "description": "I'd like a simple webapp, where I can have a user link a set of images. These can be formatted as URLs to images like JPGs, PNGs, etc. Then, I want you to behind the scenes, spin up an API endpoint that passes it through https://sketch.metademolab.com/canvas . It should just spin up a new API endpoint that uses puppeteer, that queries the website with that image, and uploads the resulting animation to the frontend for the user to see. The default selected keypoints and settings and jumping video selection are fine. I prefer the endpoints to be on AWS or GCP, but any other cheap servicee should work as well.\n\nAcceptance Criteria\nI will only accept people who present a set of tools or a plan for how they will do this. You should provide a github or resume to have a chance at being selected.",
         "author": "AJGupta",
-        "posted_time": "24 hours ago",
+        "posted_time": "1 day ago",
         "link": "https://replit.com/bounties/@AJGupta/make-api-to-fetch-an?t="
     },
     {
@@ -9196,7 +9196,7 @@
         "title": "Build a JS SDK for the web + an authenticated Node.js backend that lets users login, buy credits, and set usage quotas.",
         "description": "Build a JS SDK for the web + an authenticated Node.js backend that lets users login, buy credits, and set usage quotas.\n\nProblem Description\nNeed a JS SDK built for the frontend that exposes a global function called getAccessToken().\n\nWhen called, it should return a promise that does the following:\n\nChecks if user is logged in.\n\nIf not, give options to login with \"Google\" and \"Github\" in a top-right popup.\n\nChecks if user has available credit.\n\nIf not, lead user to purchase credits.\n\n-> Topup in same popup.\n-> Add payment method in new tab.\n\nIs quota up for current domain?\n\nUse slider in same popup to select quota.\n\nIf all checks pass, calls the backend using the authentication headers/tokens of Google/Github.\n\nThe backend should check if the user has enough credit and quota for the domain.\n\nIf all checks pass, the backend should return a randomly generated access token (The access token can be anything random, not going to be used at this stage).\n\nHere's a flowchart for the above. htt...",
         "author": "vibo",
-        "posted_time": "14 minutes ago",
+        "posted_time": "24 minutes ago",
         "link": "https://replit.com/bounties/@vibo/build-a-js-sdk-for-t?t="
     }
 ]
