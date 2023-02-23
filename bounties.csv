@@ -7425,7 +7425,7 @@ Lets start right away",MattSaincome,1 day ago,https://replit.com/bounties/@MattS
 911,$162.00,due in 6 days,Make API To Fetch Animation From Site,"I'd like a simple webapp, where I can have a user link a set of images. These can be formatted as URLs to images like JPGs, PNGs, etc. Then, I want you to behind the scenes, spin up an API endpoint that passes it through https://sketch.metademolab.com/canvas . It should just spin up a new API endpoint that uses puppeteer, that queries the website with that image, and uploads the resulting animation to the frontend for the user to see. The default selected keypoints and settings and jumping video selection are fine. I prefer the endpoints to be on AWS or GCP, but any other cheap servicee should work as well.
 
 Acceptance Criteria
-I will only accept people who present a set of tools or a plan for how they will do this. You should provide a github or resume to have a chance at being selected.",AJGupta,22 hours ago,https://replit.com/bounties/@AJGupta/make-api-to-fetch-an?t=
+I will only accept people who present a set of tools or a plan for how they will do this. You should provide a github or resume to have a chance at being selected.",AJGupta,23 hours ago,https://replit.com/bounties/@AJGupta/make-api-to-fetch-an?t=
 912,$180.00,due in 5 days,Deforum (Stable Diffusion) Frontend,"Make Deforum into a frontend. Allow any user to login, and they provide links to dozens of images at a time. We call each of those images with deforum:
 https://www.howtogeek.com/872921/how-to-use-stable-diffusion-to-make-ai-gifs-and-videos/ and show each video to each user. This application should be able to scale to any number of people. We are happy to pay API and server costs on modal.com, or AWS, or GCP, so you must be on one of these 3 platforms.
 
@@ -7449,14 +7449,14 @@ Should handles short selling cases too
 
 Technical Details
 Use a nodeJS pkg for (1) historical stock prices like yahooFinance and (2) echarts for charting
-Reads a CSV stored locally on the server that has the following info for each individual trade: (1) ticker, (2) date, (3) amount, (4) buy or sell",danielnjoo,10 hours ago,https://replit.com/bounties/@danielnjoo/stock-trade-post-mor?t=
+Reads a CSV stored locally on the server that has the following info for each individual trade: (1) ticker, (2) date, (3) amount, (4) buy or sell",danielnjoo,11 hours ago,https://replit.com/bounties/@danielnjoo/stock-trade-post-mor?t=
 915,"$1,800.00",due in 13 days,Go package that clones a row and its related rows in a PostgreSQL database,"The goal is to build a Go sqlclone package that can copy specific data from one PostgreSQL database to another. This README explains the project in detail:
 
 https://github.com/ProlificLabs/sqlclone/blob/main/README.md
 
 We're planning to open source this package, so we can either use the public repo (https://github.com/ProlificLabs/sqlclone) or a Repl for collaboration, whatever you prefer.
 
-We'll set up a Slack channel for communication.",MarkErdmann,6 hours ago,https://replit.com/bounties/@MarkErdmann/go-package-that-clon?t=
+We'll set up a Slack channel for communication.",MarkErdmann,7 hours ago,https://replit.com/bounties/@MarkErdmann/go-package-that-clon?t=
 916,$36.00,due in 4 days,Setup Flask and React in Replit environment. ,"Want a Repl setup with Flask/React all working together and with hot reload of the React page working.
 
 Acceptance Criteria
@@ -7490,7 +7490,7 @@ CREATE TABLE [dbo].[WorkcenterList] (
 
 CREATE TABLE [dbo].[StatusDefinition] (
     [StatusRow]            INT           NOT NULL,
-    ...",VitPlanocka,2 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from-1?t=
+    ...",VitPlanocka,3 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from-1?t=
 918,$90.00,due in 19 days,OCR and Airtable Integration Developer,"We are looking for a developer who can help us integrate OCR technology and Airtable to automate data entry. The ideal candidate should have experience working with OCR and be able to build a system that can identify text in an image, extract the relevant information, and match it to a record in Airtable. The process should be easy to use for a non-technical team from the start of the process - adding photos - to reviewing the record matches.
 
 Responsibilities:
@@ -7503,4 +7503,4 @@ Collaborate with the team to ensure that the solution meets the requirements
 Create a user-friendly interface that can be used by non-technical team members to add photos and review record matches
 
 Requirements:
-...",AntoinetteRosen,24 minutes ago,https://replit.com/bounties/@AntoinetteRosen/ocr-and-airtable-int?t=
+...",AntoinetteRosen,45 minutes ago,https://replit.com/bounties/@AntoinetteRosen/ocr-and-airtable-int?t=
