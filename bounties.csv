@@ -7490,7 +7490,7 @@ CREATE TABLE [dbo].[WorkcenterList] (
 
 CREATE TABLE [dbo].[StatusDefinition] (
     [StatusRow]            INT           NOT NULL,
-    ...",VitPlanocka,14 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from-1?t=
+    ...",VitPlanocka,15 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from-1?t=
 918,$90.00,due in 18 days,OCR and Airtable Integration Developer,"We are looking for a developer who can help us integrate OCR technology and Airtable to automate data entry. The ideal candidate should have experience working with OCR and be able to build a system that can identify text in an image, extract the relevant information, and match it to a record in Airtable. The process should be easy to use for a non-technical team from the start of the process - adding photos - to reviewing the record matches.
 
 Responsibilities:
@@ -7503,7 +7503,7 @@ Collaborate with the team to ensure that the solution meets the requirements
 Create a user-friendly interface that can be used by non-technical team members to add photos and review record matches
 
 Requirements:
-...",AntoinetteRosen,12 hours ago,https://replit.com/bounties/@AntoinetteRosen/ocr-and-airtable-int?t=
+...",AntoinetteRosen,13 hours ago,https://replit.com/bounties/@AntoinetteRosen/ocr-and-airtable-int?t=
 919,$810.00,due in 9 days,"Build a JS SDK for the web + an authenticated Node.js backend that lets users login, buy credits, and set usage quotas.","Build a JS SDK for the web + an authenticated Node.js backend that lets users login, buy credits, and set usage quotas.
 
 Problem Description
@@ -7546,12 +7546,12 @@ The results are listed across several pages. I want to be notified whenever new 
 
 Acceptance Criteria
 
-I need to actually have been notified successfully when new classes became available",jispwoso,8 hours ago,https://replit.com/bounties/@jispwoso/send-me-an-sms-when?t=
+I need to actually have been notified successfully when new classes became available",jispwoso,9 hours ago,https://replit.com/bounties/@jispwoso/send-me-an-sms-when?t=
 921,$9.00,due in 13 days,Deploy code to API endpoint on replicate.com,"Deploy deforum to replicate.com so I can run it as an API. It should be on their most powerful GPUs. I want to only utilize the path by which I input an image, and some default or random prompts (assume these are preset to be things like, ""the character moves"", ""the character gets mad"", etc). Then, it should generate a video from those prompts. It should be low sampling steps and 200 frames so that it is fast. Specifically, you should reduce the framecount from 1000 to 200, the sampling steps from 50 to 2, and the prompt from text to image (with weight near 0.6) for speed.
 
 You can see how it runs in a UI easily here: https://github.com/deforum-art/deforum-for-automatic1111-webui and you only need to deploy it to an endpoint where I pass in an image, framecount, strength, and sampling steps, and get a video.
 
-If you want, the colab notebook to run deforum is here: https://colab.research.google.com/github/deforum-art/deforum-stable-diffusion/blob/main/DeforumStableDi...",AJGupta,6 hours ago,https://replit.com/bounties/@AJGupta/deploy-code-to-api-e?t=
+If you want, the colab notebook to run deforum is here: https://colab.research.google.com/github/deforum-art/deforum-stable-diffusion/blob/main/DeforumStableDi...",AJGupta,7 hours ago,https://replit.com/bounties/@AJGupta/deploy-code-to-api-e?t=
 922,$4.50,due in 13 days,"Fix unit tests, try benchmarking","Speed up the typing a bit and verify proof test.
 
 1) pre-commit: npm run tests:e2e --> get your local results chromium printed to command line (and to the junit.xml files). tests in typescript.
