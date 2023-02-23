@@ -9106,7 +9106,7 @@
         "title": "Video Game Affiliate Deal and Price Comparison Plugin and Implementation to Wordpress Site",
         "description": "I own hard-drive.net. I want to use plugins and some building to make my site basically add the functionality of https://gg.deals/.\n\nMust be able to focus, work fast, and get job done. Then we can do more together.\n\nWordpress site hard-drive.net wants to add in features similar to https://gg.deals/\n\nLets start right away",
         "author": "MattSaincome",
-        "posted_time": "24 hours ago",
+        "posted_time": "1 day ago",
         "link": "https://replit.com/bounties/@MattSaincome/video-game-affiliate?t="
     },
     {
@@ -9176,7 +9176,7 @@
         "title": "Set up a replit from an existing application",
         "description": "I have an existing ASP.NET MVC NET.Core application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.\n\nAcceptance Criteria\nThe application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC\n\nTechnical Details\nThe application needs 3 datables tables as specified below. They should be setup in replit as well.\n\nCREATE TABLE [dbo].[WorkcenterList] (\n    [WorkcenterRow]  INT          NULL,\n    [WorkcenterID]   VARCHAR (50) NOT NULL,\n    [WorkcenterName] VARCHAR (50) NOT NULL,\n    [Status1]        VARCHAR (20) NULL,\n    [Status2]        VARCHAR (20) NULL,\n    [Status3]        VARCHAR (20) NULL,\n    [Status4]        VARCHAR (20) NULL,\n    [Status5]        VARCHAR (20) NULL,\n    CONSTRAINT [PK_dbo.WorkcenterList] PRIMARY KEY CLUSTERED ([WorkcenterID] ASC)\n);\n\nCREATE TABLE [dbo].[StatusDefinition] (\n    [StatusRow]            INT           NOT NULL,\n    ...",
         "author": "VitPlanocka",
-        "posted_time": "59 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from-1?t="
     }
 ]
