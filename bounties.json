@@ -9126,7 +9126,7 @@
         "title": "Deforum (Stable Diffusion) Frontend",
         "description": "Make Deforum into a frontend. Allow any user to login, and they provide links to dozens of images at a time. We call each of those images with deforum:\nhttps://www.howtogeek.com/872921/how-to-use-stable-diffusion-to-make-ai-gifs-and-videos/ and show each video to each user. This application should be able to scale to any number of people. We are happy to pay API and server costs on modal.com, or AWS, or GCP, so you must be on one of these 3 platforms.\n\nThe colab notebook to run deforum is here: https://colab.research.google.com/github/deforum-art/deforum-stable-diffusion/blob/main/DeforumStableDiffusion.ipynb\n\nAnd the original github is here: https://github.com/deforum-art/deforum-stable-diffusion\n\nAcceptance Criteria\nI will only accept people who provide a plan or set of tools they will use to do it. You must additionally provide a Github -- a resume or links to past experience will also do.",
         "author": "AJGupta",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/deforum-stable-diffu?t="
     },
     {
@@ -9156,7 +9156,7 @@
         "title": "Go package that clones a row and its related rows in a PostgreSQL database",
         "description": "The goal is to build a Go sqlclone package that can copy specific data from one PostgreSQL database to another. This README explains the project in detail:\n\nhttps://github.com/ProlificLabs/sqlclone/blob/main/README.md\n\nWe're planning to open source this package, so we can either use the public repo (https://github.com/ProlificLabs/sqlclone) or a Repl for collaboration, whatever you prefer.\n\nWe'll set up a Slack channel for communication.",
         "author": "MarkErdmann",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@MarkErdmann/go-package-that-clon?t="
     },
     {
@@ -9166,7 +9166,7 @@
         "title": "Setup Flask and React in Replit environment. ",
         "description": "Want a Repl setup with Flask/React all working together and with hot reload of the React page working.\n\nAcceptance Criteria\nHello world React page loads. On edit of the React app, it reloads and Flask does not.\n\nTechnical Details\nProbably using one of these templates would be good:\nhttps://github.com/cookiecutter-flask/cookiecutter-flask\nhttps://github.com/realpython/flask-boilerplate\nhttps://github.com/hack4impact/flask-base\nhttps://github.com/dternyak/React-Redux-Flask",
         "author": "proales2",
-        "posted_time": "23 minutes ago",
+        "posted_time": "32 minutes ago",
         "link": "https://replit.com/bounties/@proales2/setup-flask-and-reac?t="
     }
 ]
