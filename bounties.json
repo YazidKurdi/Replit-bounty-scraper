@@ -9186,7 +9186,7 @@
         "title": "OCR and Airtable Integration Developer",
         "description": "We are looking for a developer who can help us integrate OCR technology and Airtable to automate data entry. The ideal candidate should have experience working with OCR and be able to build a system that can identify text in an image, extract the relevant information, and match it to a record in Airtable. The process should be easy to use for a non-technical team from the start of the process - adding photos - to reviewing the record matches.\n\nResponsibilities:\n\nDevelop and implement an OCR solution that can identify text in images\nExtract relevant information from the OCR output and match it to a record in Airtable\nEnsure the system is scalable and reliable, and can handle large volumes of data\nWrite clean and maintainable code that follows best practices and coding standards\nCollaborate with the team to ensure that the solution meets the requirements\nCreate a user-friendly interface that can be used by non-technical team members to add photos and review record matches\n\nRequirements:\n...",
         "author": "AntoinetteRosen",
-        "posted_time": "57 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@AntoinetteRosen/ocr-and-airtable-int?t="
     }
 ]
