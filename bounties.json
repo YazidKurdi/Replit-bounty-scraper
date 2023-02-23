@@ -9206,7 +9206,7 @@
         "title": "Send me an SMS when new baby swim classes are available",
         "description": "There's a German website that lists baby swim classes in Hamburg: https://www.baederland-shop.de/kurse\n\nTo list the available classes, a form with four inputs needs to be filled. I want to be notified when classes that match the following filter:\n\nKurskategorie: Eltern & Babys\nKursart: Aqua Baby 1 (3-10 Monate)\n\nThe other two fields (Bad and Date) can be left on the default setting.\n\nThe results are listed across several pages. I want to be notified whenever new courses are added, regardless of which page they are on\n\nAcceptance Criteria\n\nI need to actually have been notified successfully when new classes became available",
         "author": "jispwoso",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@jispwoso/send-me-an-sms-when?t="
     },
     {
@@ -9216,7 +9216,7 @@
         "title": "Deploy code to API endpoint on replicate.com",
         "description": "Deploy deforum to replicate.com so I can run it as an API. It should be on their most powerful GPUs. I want to only utilize the path by which I input an image, and some default or random prompts (assume these are preset to be things like, \"the character moves\", \"the character gets mad\", etc). Then, it should generate a video from those prompts. It should be low sampling steps and 200 frames so that it is fast. Specifically, you should reduce the framecount from 1000 to 200, the sampling steps from 50 to 2, and the prompt from text to image (with weight near 0.6) for speed.\n\nYou can see how it runs in a UI easily here: https://github.com/deforum-art/deforum-for-automatic1111-webui and you only need to deploy it to an endpoint where I pass in an image, framecount, strength, and sampling steps, and get a video.\n\nIf you want, the colab notebook to run deforum is here: https://colab.research.google.com/github/deforum-art/deforum-stable-diffusion/blob/main/DeforumStableDi...",
         "author": "AJGupta",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/deploy-code-to-api-e?t="
     },
     {
@@ -9276,7 +9276,7 @@
         "title": "Chatbot interface for doola",
         "description": "-\nBuild a AI powered CPA or formation assistant\n\nAcceptance Criteria -\nThe chatbot should have a simple interface. We will provide an API. The chatbot must be able to generate a proper response regarding data including answering basic questions about formation in different states, and tax compliance rules around different entity types.\n\nTechnical Details-\nFrontend - React, Typescript, Next.js\nBackend - Node.js, Express\nDatabase - Postgres",
         "author": "doolahq",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@doolahq/chatbot-interface-fo?t="
     },
     {
@@ -9286,7 +9286,7 @@
         "title": "AI Model MVP - Recorded Interview to Process Map Output",
         "description": "As a consultant, we have to understand the our client's business including their existing business processes prior to building solutions.\n\nTypically recorded discovery sessions are conducted and then later converted to relevant process diagrams to build an understanding and maintain documentation.\n\nThis process is tedious and often takes 2-3x as long as the interview to convert to a process map. The ability to get a significant way there with AI, would save tremendous time.\n\nAcceptance Criteria\n You can take a one-hour recorded meeting with a stakeholder and extract the relevant process map from it with >=50% accuracy.\n\nTechnical Details\nThe process mapping framework would be the (UPN) standard. The idea would be to output the specific instructions needed to build a process map. The automatic creation of the actual map is out of scope and currently would only need to produce the correct relevant instructions for creating the process map manually.",
         "author": "BenBrumfield",
-        "posted_time": "52 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@BenBrumfield/ai-model-mvp-recorde?t="
     },
     {
@@ -9296,7 +9296,7 @@
         "title": "Create a Broken Replit Extension",
         "description": "Make me a broken Replit Extension that links to my website.",
         "author": "RayhanADev",
-        "posted_time": "4 minutes ago",
+        "posted_time": "14 minutes ago",
         "link": "https://replit.com/bounties/@RayhanADev/create-a-broken-repl?t="
     }
 ]

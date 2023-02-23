@@ -7546,12 +7546,12 @@ The results are listed across several pages. I want to be notified whenever new 
 
 Acceptance Criteria
 
-I need to actually have been notified successfully when new classes became available",jispwoso,11 hours ago,https://replit.com/bounties/@jispwoso/send-me-an-sms-when?t=
+I need to actually have been notified successfully when new classes became available",jispwoso,12 hours ago,https://replit.com/bounties/@jispwoso/send-me-an-sms-when?t=
 921,$9.00,due in 13 days,Deploy code to API endpoint on replicate.com,"Deploy deforum to replicate.com so I can run it as an API. It should be on their most powerful GPUs. I want to only utilize the path by which I input an image, and some default or random prompts (assume these are preset to be things like, ""the character moves"", ""the character gets mad"", etc). Then, it should generate a video from those prompts. It should be low sampling steps and 200 frames so that it is fast. Specifically, you should reduce the framecount from 1000 to 200, the sampling steps from 50 to 2, and the prompt from text to image (with weight near 0.6) for speed.
 
 You can see how it runs in a UI easily here: https://github.com/deforum-art/deforum-for-automatic1111-webui and you only need to deploy it to an endpoint where I pass in an image, framecount, strength, and sampling steps, and get a video.
 
-If you want, the colab notebook to run deforum is here: https://colab.research.google.com/github/deforum-art/deforum-stable-diffusion/blob/main/DeforumStableDi...",AJGupta,9 hours ago,https://replit.com/bounties/@AJGupta/deploy-code-to-api-e?t=
+If you want, the colab notebook to run deforum is here: https://colab.research.google.com/github/deforum-art/deforum-stable-diffusion/blob/main/DeforumStableDi...",AJGupta,10 hours ago,https://replit.com/bounties/@AJGupta/deploy-code-to-api-e?t=
 922,$4.50,due in 13 days,"Fix unit tests, try benchmarking","Speed up the typing a bit and verify proof test.
 
 1) pre-commit: npm run tests:e2e --> get your local results chromium printed to command line (and to the junit.xml files). tests in typescript.
@@ -7602,7 +7602,7 @@ The chatbot should have a simple interface. We will provide an API. The chatbot 
 Technical Details-
 Frontend - React, Typescript, Next.js
 Backend - Node.js, Express
-Database - Postgres",doolahq,1 hour ago,https://replit.com/bounties/@doolahq/chatbot-interface-fo?t=
+Database - Postgres",doolahq,2 hours ago,https://replit.com/bounties/@doolahq/chatbot-interface-fo?t=
 928,$270.00,due in 11 days,AI Model MVP - Recorded Interview to Process Map Output,"As a consultant, we have to understand the our client's business including their existing business processes prior to building solutions.
 
 Typically recorded discovery sessions are conducted and then later converted to relevant process diagrams to build an understanding and maintain documentation.
@@ -7613,5 +7613,5 @@ Acceptance Criteria
  You can take a one-hour recorded meeting with a stakeholder and extract the relevant process map from it with >=50% accuracy.
 
 Technical Details
-The process mapping framework would be the (UPN) standard. The idea would be to output the specific instructions needed to build a process map. The automatic creation of the actual map is out of scope and currently would only need to produce the correct relevant instructions for creating the process map manually.",BenBrumfield,52 minutes ago,https://replit.com/bounties/@BenBrumfield/ai-model-mvp-recorde?t=
-929,$10.00,due in 5 days,Create a Broken Replit Extension,Make me a broken Replit Extension that links to my website.,RayhanADev,4 minutes ago,https://replit.com/bounties/@RayhanADev/create-a-broken-repl?t=
+The process mapping framework would be the (UPN) standard. The idea would be to output the specific instructions needed to build a process map. The automatic creation of the actual map is out of scope and currently would only need to produce the correct relevant instructions for creating the process map manually.",BenBrumfield,1 hour ago,https://replit.com/bounties/@BenBrumfield/ai-model-mvp-recorde?t=
+929,$10.00,due in 5 days,Create a Broken Replit Extension,Make me a broken Replit Extension that links to my website.,RayhanADev,14 minutes ago,https://replit.com/bounties/@RayhanADev/create-a-broken-repl?t=
