@@ -9196,7 +9196,7 @@
         "title": "Build a JS SDK for the web + an authenticated Node.js backend that lets users login, buy credits, and set usage quotas.",
         "description": "Build a JS SDK for the web + an authenticated Node.js backend that lets users login, buy credits, and set usage quotas.\n\nProblem Description\nNeed a JS SDK built for the frontend that exposes a global function called getAccessToken().\n\nWhen called, it should return a promise that does the following:\n\nChecks if user is logged in.\n\nIf not, give options to login with \"Google\" and \"Github\" in a top-right popup.\n\nChecks if user has available credit.\n\nIf not, lead user to purchase credits.\n\n-> Topup in same popup.\n-> Add payment method in new tab.\n\nIs quota up for current domain?\n\nUse slider in same popup to select quota.\n\nIf all checks pass, calls the backend using the authentication headers/tokens of Google/Github.\n\nThe backend should check if the user has enough credit and quota for the domain.\n\nIf all checks pass, the backend should return a randomly generated access token (The access token can be anything random, not going to be used at this stage).\n\nHere's a flowchart for the above. htt...",
         "author": "vibo",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@vibo/build-a-js-sdk-for-t?t="
     },
     {
@@ -9266,7 +9266,7 @@
         "title": "Write a script to scrape data from a website",
         "description": "I want a script that can scrape specific data from a website. It will need to be able to click through an explore page, go into profiles, and gather social information such as Twitter and email.\n\nAcceptance Criteria\nThe script should generate a csv with all the data needed.",
         "author": "periwinkl3",
-        "posted_time": "51 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@periwinkl3/write-a-script-to-sc?t="
     }
 ]

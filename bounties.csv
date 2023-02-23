@@ -7532,7 +7532,7 @@ The backend should check if the user has enough credit and quota for the domain.
 
 If all checks pass, the backend should return a randomly generated access token (The access token can be anything random, not going to be used at this stage).
 
-Here's a flowchart for the above. htt...",vibo,9 hours ago,https://replit.com/bounties/@vibo/build-a-js-sdk-for-t?t=
+Here's a flowchart for the above. htt...",vibo,10 hours ago,https://replit.com/bounties/@vibo/build-a-js-sdk-for-t?t=
 920,$180.00,due in 3 days,Send me an SMS when new baby swim classes are available,"There's a German website that lists baby swim classes in Hamburg: https://www.baederland-shop.de/kurse
 
 To list the available classes, a form with four inputs needs to be filled. I want to be notified when classes that match the following filter:
@@ -7592,4 +7592,4 @@ Technical Details",VictorHunt,3 hours ago,https://replit.com/bounties/@VictorHun
 926,$45.00,due in 5 days,Write a script to scrape data from a website,"I want a script that can scrape specific data from a website. It will need to be able to click through an explore page, go into profiles, and gather social information such as Twitter and email.
 
 Acceptance Criteria
-The script should generate a csv with all the data needed.",periwinkl3,51 minutes ago,https://replit.com/bounties/@periwinkl3/write-a-script-to-sc?t=
+The script should generate a csv with all the data needed.",periwinkl3,1 hour ago,https://replit.com/bounties/@periwinkl3/write-a-script-to-sc?t=
