@@ -7434,7 +7434,7 @@ The colab notebook to run deforum is here: https://colab.research.google.com/git
 And the original github is here: https://github.com/deforum-art/deforum-stable-diffusion
 
 Acceptance Criteria
-I will only accept people who provide a plan or set of tools they will use to do it. You must additionally provide a Github -- a resume or links to past experience will also do.",AJGupta,20 hours ago,https://replit.com/bounties/@AJGupta/deforum-stable-diffu?t=
+I will only accept people who provide a plan or set of tools they will use to do it. You must additionally provide a Github -- a resume or links to past experience will also do.",AJGupta,21 hours ago,https://replit.com/bounties/@AJGupta/deforum-stable-diffu?t=
 913,$90.00,due in 20 days,Create NFT Rarity Ranking Chrome Extension Utilizing OpenRarity API,"As an NFT collector rarity rankings today are produced by closed-source code and based on “meta traits” that don’t exist “on-chain” (e.g. Trait Count). This creates divergence across publishers (tools, marketplaces, etc). There is no single source of truth.
 
 Acceptance Criteria
@@ -7467,7 +7467,7 @@ Probably using one of these templates would be good:
 https://github.com/cookiecutter-flask/cookiecutter-flask
 https://github.com/realpython/flask-boilerplate
 https://github.com/hack4impact/flask-base
-https://github.com/dternyak/React-Redux-Flask",proales2,1 hour ago,https://replit.com/bounties/@proales2/setup-flask-and-reac?t=
+https://github.com/dternyak/React-Redux-Flask",proales2,2 hours ago,https://replit.com/bounties/@proales2/setup-flask-and-reac?t=
 917,$45.00,due in 4 days,Set up a replit from an existing application,"I have an existing ASP.NET MVC NET.Core application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.
 
 Acceptance Criteria
@@ -7490,4 +7490,4 @@ CREATE TABLE [dbo].[WorkcenterList] (
 
 CREATE TABLE [dbo].[StatusDefinition] (
     [StatusRow]            INT           NOT NULL,
-    ...",VitPlanocka,48 minutes ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from-1?t=
+    ...",VitPlanocka,59 minutes ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from-1?t=
