@@ -9156,7 +9156,7 @@
         "title": "Go package that clones a row and its related rows in a PostgreSQL database",
         "description": "The goal is to build a Go sqlclone package that can copy specific data from one PostgreSQL database to another. This README explains the project in detail:\n\nhttps://github.com/ProlificLabs/sqlclone/blob/main/README.md\n\nWe're planning to open source this package, so we can either use the public repo (https://github.com/ProlificLabs/sqlclone) or a Repl for collaboration, whatever you prefer.\n\nWe'll set up a Slack channel for communication.",
         "author": "MarkErdmann",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@MarkErdmann/go-package-that-clon?t="
     },
     {
