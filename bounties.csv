@@ -7532,7 +7532,7 @@ The backend should check if the user has enough credit and quota for the domain.
 
 If all checks pass, the backend should return a randomly generated access token (The access token can be anything random, not going to be used at this stage).
 
-Here's a flowchart for the above. htt...",vibo,6 hours ago,https://replit.com/bounties/@vibo/build-a-js-sdk-for-t?t=
+Here's a flowchart for the above. htt...",vibo,7 hours ago,https://replit.com/bounties/@vibo/build-a-js-sdk-for-t?t=
 920,$180.00,due in 3 days,Send me an SMS when new baby swim classes are available,"There's a German website that lists baby swim classes in Hamburg: https://www.baederland-shop.de/kurse
 
 To list the available classes, a form with four inputs needs to be filled. I want to be notified when classes that match the following filter:
@@ -7567,7 +7567,7 @@ Experience with repo.",AJGupta,2 hours ago,https://replit.com/bounties/@AJGupta/
 2) merge all of the 3 forks into one. basically, there's a fork that has chunked zkeys working client side, there's a second fork that generates chunked zkeys on a machine, there's the decompression code, and there's the original which doesn't even know about chunking. if we could merge all of these, that would be ideal
 
 Acceptance Criteria
-experience with repo",AJGupta,1 hour ago,https://replit.com/bounties/@AJGupta/merge-forks-snarkjs?t=
+experience with repo",AJGupta,2 hours ago,https://replit.com/bounties/@AJGupta/merge-forks-snarkjs?t=
 924,$100.00,due in 14 days,Email + Discord Authenticator (Node + React / Next.js),"Users joining my discord server via invite only has caused problems in the past in which a user creates a new account to evade a ban.  Of course this can't be stopped, but email verification can help.  I want a Node.js + React (See the server-side react template) Or a Next.js application that allows me to accomplish this.
 
 Acceptance Criteria
@@ -7576,4 +7576,4 @@ The authentication route should use discord oauth with the permissions to a) add
 Upon authentication,
  store the user's email and discordID in a MongoDB document and set the verified field to false.
  Send the user a verification email (node.js smtp, you can use https://email.connerow.dev if you want).  The email should contain a link to verify the user.
- Add the user to my ...",ReplitIronclad,1 hour ago,https://replit.com/bounties/@ReplitIronclad/email-discord-authen?t=
+ Add the user to my ...",ReplitIronclad,2 hours ago,https://replit.com/bounties/@ReplitIronclad/email-discord-authen?t=
