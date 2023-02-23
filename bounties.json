@@ -9226,7 +9226,7 @@
         "title": "Fix unit tests, try benchmarking",
         "description": "Speed up the typing a bit and verify proof test.\n\n1) pre-commit: npm run tests:e2e --> get your local results chromium printed to command line (and to the junit.xml files). tests in typescript.\n\n2) on PR, run tests again in the cloud in circleci, again on only one browser.\n\n3) On merge to main. It already deploys to render.com. Have a way for me to run lambdatest or browserstack on 10 random diverse environments to see where it works, I'll manually trigger this once a month and pay for an account.\n\nAcceptance Criteria\nExperience with repo.",
         "author": "AJGupta",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/fix-unit-tests-try-b?t="
     },
     {
@@ -9266,7 +9266,7 @@
         "title": "Write a script to scrape data from a website",
         "description": "I want a script that can scrape specific data from a website. It will need to be able to click through an explore page, go into profiles, and gather social information such as Twitter and email.\n\nAcceptance Criteria\nThe script should generate a csv with all the data needed.",
         "author": "periwinkl3",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@periwinkl3/write-a-script-to-sc?t="
     }
 ]
