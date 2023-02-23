@@ -7456,7 +7456,7 @@ https://github.com/ProlificLabs/sqlclone/blob/main/README.md
 
 We're planning to open source this package, so we can either use the public repo (https://github.com/ProlificLabs/sqlclone) or a Repl for collaboration, whatever you prefer.
 
-We'll set up a Slack channel for communication.",MarkErdmann,7 hours ago,https://replit.com/bounties/@MarkErdmann/go-package-that-clon?t=
+We'll set up a Slack channel for communication.",MarkErdmann,8 hours ago,https://replit.com/bounties/@MarkErdmann/go-package-that-clon?t=
 916,$36.00,due in 4 days,Setup Flask and React in Replit environment. ,"Want a Repl setup with Flask/React all working together and with hot reload of the React page working.
 
 Acceptance Criteria
@@ -7504,3 +7504,32 @@ Create a user-friendly interface that can be used by non-technical team members 
 
 Requirements:
 ...",AntoinetteRosen,2 hours ago,https://replit.com/bounties/@AntoinetteRosen/ocr-and-airtable-int?t=
+919,$810.00,due in 10 days,"Build a JS SDK for the web + an authenticated Node.js backend that lets users login, buy credits, and set usage quotas.","Build a JS SDK for the web + an authenticated Node.js backend that lets users login, buy credits, and set usage quotas.
+
+Problem Description
+Need a JS SDK built for the frontend that exposes a global function called getAccessToken().
+
+When called, it should return a promise that does the following:
+
+Checks if user is logged in.
+
+If not, give options to login with ""Google"" and ""Github"" in a top-right popup.
+
+Checks if user has available credit.
+
+If not, lead user to purchase credits.
+
+-> Topup in same popup.
+-> Add payment method in new tab.
+
+Is quota up for current domain?
+
+Use slider in same popup to select quota.
+
+If all checks pass, calls the backend using the authentication headers/tokens of Google/Github.
+
+The backend should check if the user has enough credit and quota for the domain.
+
+If all checks pass, the backend should return a randomly generated access token (The access token can be anything random, not going to be used at this stage).
+
+Here's a flowchart for the above. htt...",vibo,5 minutes ago,https://replit.com/bounties/@vibo/build-a-js-sdk-for-t?t=
