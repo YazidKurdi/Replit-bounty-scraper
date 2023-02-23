@@ -7491,3 +7491,16 @@ CREATE TABLE [dbo].[WorkcenterList] (
 CREATE TABLE [dbo].[StatusDefinition] (
     [StatusRow]            INT           NOT NULL,
     ...",VitPlanocka,2 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from-1?t=
+918,$90.00,due in 20 days,OCR and Airtable Integration Developer,"We are looking for a developer who can help us integrate OCR technology and Airtable to automate data entry. The ideal candidate should have experience working with OCR and be able to build a system that can identify text in an image, extract the relevant information, and match it to a record in Airtable. The process should be easy to use for a non-technical team from the start of the process - adding photos - to reviewing the record matches.
+
+Responsibilities:
+
+Develop and implement an OCR solution that can identify text in images
+Extract relevant information from the OCR output and match it to a record in Airtable
+Ensure the system is scalable and reliable, and can handle large volumes of data
+Write clean and maintainable code that follows best practices and coding standards
+Collaborate with the team to ensure that the solution meets the requirements
+Create a user-friendly interface that can be used by non-technical team members to add photos and review record matches
+
+Requirements:
+...",AntoinetteRosen,4 minutes ago,https://replit.com/bounties/@AntoinetteRosen/ocr-and-airtable-int?t=
