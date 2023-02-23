@@ -7613,4 +7613,5 @@ Acceptance Criteria
  You can take a one-hour recorded meeting with a stakeholder and extract the relevant process map from it with >=50% accuracy.
 
 Technical Details
-The process mapping framework would be the (UPN) standard. The idea would be to output the specific instructions needed to build a process map. The automatic creation of the actual map is out of scope and currently would only need to produce the correct relevant instructions for creating the process map manually.",BenBrumfield,38 minutes ago,https://replit.com/bounties/@BenBrumfield/ai-model-mvp-recorde?t=
+The process mapping framework would be the (UPN) standard. The idea would be to output the specific instructions needed to build a process map. The automatic creation of the actual map is out of scope and currently would only need to produce the correct relevant instructions for creating the process map manually.",BenBrumfield,52 minutes ago,https://replit.com/bounties/@BenBrumfield/ai-model-mvp-recorde?t=
+929,$10.00,due in 5 days,Create a Broken Replit Extension,Make me a broken Replit Extension that links to my website.,RayhanADev,4 minutes ago,https://replit.com/bounties/@RayhanADev/create-a-broken-repl?t=
