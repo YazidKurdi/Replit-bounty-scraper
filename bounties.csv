@@ -7449,14 +7449,14 @@ Should handles short selling cases too
 
 Technical Details
 Use a nodeJS pkg for (1) historical stock prices like yahooFinance and (2) echarts for charting
-Reads a CSV stored locally on the server that has the following info for each individual trade: (1) ticker, (2) date, (3) amount, (4) buy or sell",danielnjoo,12 hours ago,https://replit.com/bounties/@danielnjoo/stock-trade-post-mor?t=
+Reads a CSV stored locally on the server that has the following info for each individual trade: (1) ticker, (2) date, (3) amount, (4) buy or sell",danielnjoo,13 hours ago,https://replit.com/bounties/@danielnjoo/stock-trade-post-mor?t=
 915,"$1,800.00",due in 13 days,Go package that clones a row and its related rows in a PostgreSQL database,"The goal is to build a Go sqlclone package that can copy specific data from one PostgreSQL database to another. This README explains the project in detail:
 
 https://github.com/ProlificLabs/sqlclone/blob/main/README.md
 
 We're planning to open source this package, so we can either use the public repo (https://github.com/ProlificLabs/sqlclone) or a Repl for collaboration, whatever you prefer.
 
-We'll set up a Slack channel for communication.",MarkErdmann,8 hours ago,https://replit.com/bounties/@MarkErdmann/go-package-that-clon?t=
+We'll set up a Slack channel for communication.",MarkErdmann,9 hours ago,https://replit.com/bounties/@MarkErdmann/go-package-that-clon?t=
 916,$36.00,due in 4 days,Setup Flask and React in Replit environment. ,"Want a Repl setup with Flask/React all working together and with hot reload of the React page working.
 
 Acceptance Criteria
@@ -7490,7 +7490,7 @@ CREATE TABLE [dbo].[WorkcenterList] (
 
 CREATE TABLE [dbo].[StatusDefinition] (
     [StatusRow]            INT           NOT NULL,
-    ...",VitPlanocka,4 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from-1?t=
+    ...",VitPlanocka,5 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from-1?t=
 918,$90.00,due in 19 days,OCR and Airtable Integration Developer,"We are looking for a developer who can help us integrate OCR technology and Airtable to automate data entry. The ideal candidate should have experience working with OCR and be able to build a system that can identify text in an image, extract the relevant information, and match it to a record in Airtable. The process should be easy to use for a non-technical team from the start of the process - adding photos - to reviewing the record matches.
 
 Responsibilities:
@@ -7503,7 +7503,7 @@ Collaborate with the team to ensure that the solution meets the requirements
 Create a user-friendly interface that can be used by non-technical team members to add photos and review record matches
 
 Requirements:
-...",AntoinetteRosen,2 hours ago,https://replit.com/bounties/@AntoinetteRosen/ocr-and-airtable-int?t=
+...",AntoinetteRosen,3 hours ago,https://replit.com/bounties/@AntoinetteRosen/ocr-and-airtable-int?t=
 919,$810.00,due in 10 days,"Build a JS SDK for the web + an authenticated Node.js backend that lets users login, buy credits, and set usage quotas.","Build a JS SDK for the web + an authenticated Node.js backend that lets users login, buy credits, and set usage quotas.
 
 Problem Description
@@ -7532,4 +7532,4 @@ The backend should check if the user has enough credit and quota for the domain.
 
 If all checks pass, the backend should return a randomly generated access token (The access token can be anything random, not going to be used at this stage).
 
-Here's a flowchart for the above. htt...",vibo,43 minutes ago,https://replit.com/bounties/@vibo/build-a-js-sdk-for-t?t=
+Here's a flowchart for the above. htt...",vibo,1 hour ago,https://replit.com/bounties/@vibo/build-a-js-sdk-for-t?t=

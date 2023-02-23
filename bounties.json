@@ -9146,7 +9146,7 @@
         "title": "Stock trade post-mortem web app MVP in nodeJS",
         "description": "For example, if I bought 2 AAPL stock on Jan 1 2021 at $100 and sold 1 at $110 on Sep 30 2021 and 1 at $120 on Mar 15 2022, I'd like to see a candlestick chart covering the period from the beginning to the end with (scaled to size) annotations showing each individual trade (n=3). Also add horizontal lines for average entry and exit... so the gap should be the profit.\n\nAcceptance Criteria\nShould handle above case easily, and if there are 20 trades before the position is closed\nShould handles short selling cases too\n\nTechnical Details\nUse a nodeJS pkg for (1) historical stock prices like yahooFinance and (2) echarts for charting\nReads a CSV stored locally on the server that has the following info for each individual trade: (1) ticker, (2) date, (3) amount, (4) buy or sell",
         "author": "danielnjoo",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@danielnjoo/stock-trade-post-mor?t="
     },
     {
@@ -9156,7 +9156,7 @@
         "title": "Go package that clones a row and its related rows in a PostgreSQL database",
         "description": "The goal is to build a Go sqlclone package that can copy specific data from one PostgreSQL database to another. This README explains the project in detail:\n\nhttps://github.com/ProlificLabs/sqlclone/blob/main/README.md\n\nWe're planning to open source this package, so we can either use the public repo (https://github.com/ProlificLabs/sqlclone) or a Repl for collaboration, whatever you prefer.\n\nWe'll set up a Slack channel for communication.",
         "author": "MarkErdmann",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@MarkErdmann/go-package-that-clon?t="
     },
     {
@@ -9176,7 +9176,7 @@
         "title": "Set up a replit from an existing application",
         "description": "I have an existing ASP.NET MVC NET.Core application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.\n\nAcceptance Criteria\nThe application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC\n\nTechnical Details\nThe application needs 3 datables tables as specified below. They should be setup in replit as well.\n\nCREATE TABLE [dbo].[WorkcenterList] (\n    [WorkcenterRow]  INT          NULL,\n    [WorkcenterID]   VARCHAR (50) NOT NULL,\n    [WorkcenterName] VARCHAR (50) NOT NULL,\n    [Status1]        VARCHAR (20) NULL,\n    [Status2]        VARCHAR (20) NULL,\n    [Status3]        VARCHAR (20) NULL,\n    [Status4]        VARCHAR (20) NULL,\n    [Status5]        VARCHAR (20) NULL,\n    CONSTRAINT [PK_dbo.WorkcenterList] PRIMARY KEY CLUSTERED ([WorkcenterID] ASC)\n);\n\nCREATE TABLE [dbo].[StatusDefinition] (\n    [StatusRow]            INT           NOT NULL,\n    ...",
         "author": "VitPlanocka",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from-1?t="
     },
     {
@@ -9186,7 +9186,7 @@
         "title": "OCR and Airtable Integration Developer",
         "description": "We are looking for a developer who can help us integrate OCR technology and Airtable to automate data entry. The ideal candidate should have experience working with OCR and be able to build a system that can identify text in an image, extract the relevant information, and match it to a record in Airtable. The process should be easy to use for a non-technical team from the start of the process - adding photos - to reviewing the record matches.\n\nResponsibilities:\n\nDevelop and implement an OCR solution that can identify text in images\nExtract relevant information from the OCR output and match it to a record in Airtable\nEnsure the system is scalable and reliable, and can handle large volumes of data\nWrite clean and maintainable code that follows best practices and coding standards\nCollaborate with the team to ensure that the solution meets the requirements\nCreate a user-friendly interface that can be used by non-technical team members to add photos and review record matches\n\nRequirements:\n...",
         "author": "AntoinetteRosen",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@AntoinetteRosen/ocr-and-airtable-int?t="
     },
     {
@@ -9196,7 +9196,7 @@
         "title": "Build a JS SDK for the web + an authenticated Node.js backend that lets users login, buy credits, and set usage quotas.",
         "description": "Build a JS SDK for the web + an authenticated Node.js backend that lets users login, buy credits, and set usage quotas.\n\nProblem Description\nNeed a JS SDK built for the frontend that exposes a global function called getAccessToken().\n\nWhen called, it should return a promise that does the following:\n\nChecks if user is logged in.\n\nIf not, give options to login with \"Google\" and \"Github\" in a top-right popup.\n\nChecks if user has available credit.\n\nIf not, lead user to purchase credits.\n\n-> Topup in same popup.\n-> Add payment method in new tab.\n\nIs quota up for current domain?\n\nUse slider in same popup to select quota.\n\nIf all checks pass, calls the backend using the authentication headers/tokens of Google/Github.\n\nThe backend should check if the user has enough credit and quota for the domain.\n\nIf all checks pass, the backend should return a randomly generated access token (The access token can be anything random, not going to be used at this stage).\n\nHere's a flowchart for the above. htt...",
         "author": "vibo",
-        "posted_time": "43 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@vibo/build-a-js-sdk-for-t?t="
     }
 ]
