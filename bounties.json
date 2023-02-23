@@ -9126,7 +9126,7 @@
         "title": "Deforum (Stable Diffusion) Frontend",
         "description": "Make Deforum into a frontend. Allow any user to login, and they provide links to dozens of images at a time. We call each of those images with deforum:\nhttps://www.howtogeek.com/872921/how-to-use-stable-diffusion-to-make-ai-gifs-and-videos/ and show each video to each user. This application should be able to scale to any number of people. We are happy to pay API and server costs on modal.com, or AWS, or GCP, so you must be on one of these 3 platforms.\n\nThe colab notebook to run deforum is here: https://colab.research.google.com/github/deforum-art/deforum-stable-diffusion/blob/main/DeforumStableDiffusion.ipynb\n\nAnd the original github is here: https://github.com/deforum-art/deforum-stable-diffusion\n\nAcceptance Criteria\nI will only accept people who provide a plan or set of tools they will use to do it. You must additionally provide a Github -- a resume or links to past experience will also do.",
         "author": "AJGupta",
-        "posted_time": "23 hours ago",
+        "posted_time": "24 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/deforum-stable-diffu?t="
     },
     {
@@ -9166,7 +9166,7 @@
         "title": "Setup Flask and React in Replit environment. ",
         "description": "Want a Repl setup with Flask/React all working together and with hot reload of the React page working.\n\nAcceptance Criteria\nHello world React page loads. On edit of the React app, it reloads and Flask does not.\n\nTechnical Details\nProbably using one of these templates would be good:\nhttps://github.com/cookiecutter-flask/cookiecutter-flask\nhttps://github.com/realpython/flask-boilerplate\nhttps://github.com/hack4impact/flask-base\nhttps://github.com/dternyak/React-Redux-Flask",
         "author": "proales2",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@proales2/setup-flask-and-reac?t="
     },
     {
@@ -9196,7 +9196,7 @@
         "title": "Build a JS SDK for the web + an authenticated Node.js backend that lets users login, buy credits, and set usage quotas.",
         "description": "Build a JS SDK for the web + an authenticated Node.js backend that lets users login, buy credits, and set usage quotas.\n\nProblem Description\nNeed a JS SDK built for the frontend that exposes a global function called getAccessToken().\n\nWhen called, it should return a promise that does the following:\n\nChecks if user is logged in.\n\nIf not, give options to login with \"Google\" and \"Github\" in a top-right popup.\n\nChecks if user has available credit.\n\nIf not, lead user to purchase credits.\n\n-> Topup in same popup.\n-> Add payment method in new tab.\n\nIs quota up for current domain?\n\nUse slider in same popup to select quota.\n\nIf all checks pass, calls the backend using the authentication headers/tokens of Google/Github.\n\nThe backend should check if the user has enough credit and quota for the domain.\n\nIf all checks pass, the backend should return a randomly generated access token (The access token can be anything random, not going to be used at this stage).\n\nHere's a flowchart for the above. htt...",
         "author": "vibo",
-        "posted_time": "5 minutes ago",
+        "posted_time": "14 minutes ago",
         "link": "https://replit.com/bounties/@vibo/build-a-js-sdk-for-t?t="
     }
 ]
