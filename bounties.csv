@@ -7602,7 +7602,7 @@ The chatbot should have a simple interface. We will provide an API. The chatbot 
 Technical Details-
 Frontend - React, Typescript, Next.js
 Backend - Node.js, Express
-Database - Postgres",doolahq,42 minutes ago,https://replit.com/bounties/@doolahq/chatbot-interface-fo?t=
+Database - Postgres",doolahq,50 minutes ago,https://replit.com/bounties/@doolahq/chatbot-interface-fo?t=
 928,$270.00,due in 11 days,AI Model MVP - Recorded Interview to Process Map Output,"As a consultant, we have to understand the our client's business including their existing business processes prior to building solutions.
 
 Typically recorded discovery sessions are conducted and then later converted to relevant process diagrams to build an understanding and maintain documentation.
@@ -7613,4 +7613,4 @@ Acceptance Criteria
  You can take a one-hour recorded meeting with a stakeholder and extract the relevant process map from it with >=50% accuracy.
 
 Technical Details
-The process mapping framework would be the (UPN) standard. The idea would be to output the specific instructions needed to build a process map. The automatic creation of the actual map is out of scope and currently would only need to produce the correct relevant instructions for creating the process map manually.",BenBrumfield,5 minutes ago,https://replit.com/bounties/@BenBrumfield/ai-model-mvp-recorde?t=
+The process mapping framework would be the (UPN) standard. The idea would be to output the specific instructions needed to build a process map. The automatic creation of the actual map is out of scope and currently would only need to produce the correct relevant instructions for creating the process map manually.",BenBrumfield,12 minutes ago,https://replit.com/bounties/@BenBrumfield/ai-model-mvp-recorde?t=

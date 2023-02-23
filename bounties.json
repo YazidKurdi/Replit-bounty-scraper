@@ -9276,7 +9276,7 @@
         "title": "Chatbot interface for doola",
         "description": "-\nBuild a AI powered CPA or formation assistant\n\nAcceptance Criteria -\nThe chatbot should have a simple interface. We will provide an API. The chatbot must be able to generate a proper response regarding data including answering basic questions about formation in different states, and tax compliance rules around different entity types.\n\nTechnical Details-\nFrontend - React, Typescript, Next.js\nBackend - Node.js, Express\nDatabase - Postgres",
         "author": "doolahq",
-        "posted_time": "42 minutes ago",
+        "posted_time": "50 minutes ago",
         "link": "https://replit.com/bounties/@doolahq/chatbot-interface-fo?t="
     },
     {
@@ -9286,7 +9286,7 @@
         "title": "AI Model MVP - Recorded Interview to Process Map Output",
         "description": "As a consultant, we have to understand the our client's business including their existing business processes prior to building solutions.\n\nTypically recorded discovery sessions are conducted and then later converted to relevant process diagrams to build an understanding and maintain documentation.\n\nThis process is tedious and often takes 2-3x as long as the interview to convert to a process map. The ability to get a significant way there with AI, would save tremendous time.\n\nAcceptance Criteria\n You can take a one-hour recorded meeting with a stakeholder and extract the relevant process map from it with >=50% accuracy.\n\nTechnical Details\nThe process mapping framework would be the (UPN) standard. The idea would be to output the specific instructions needed to build a process map. The automatic creation of the actual map is out of scope and currently would only need to produce the correct relevant instructions for creating the process map manually.",
         "author": "BenBrumfield",
-        "posted_time": "5 minutes ago",
+        "posted_time": "12 minutes ago",
         "link": "https://replit.com/bounties/@BenBrumfield/ai-model-mvp-recorde?t="
     }
 ]
