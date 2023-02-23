@@ -9166,7 +9166,7 @@
         "title": "Setup Flask and React in Replit environment. ",
         "description": "Want a Repl setup with Flask/React all working together and with hot reload of the React page working.\n\nAcceptance Criteria\nHello world React page loads. On edit of the React app, it reloads and Flask does not.\n\nTechnical Details\nProbably using one of these templates would be good:\nhttps://github.com/cookiecutter-flask/cookiecutter-flask\nhttps://github.com/realpython/flask-boilerplate\nhttps://github.com/hack4impact/flask-base\nhttps://github.com/dternyak/React-Redux-Flask",
         "author": "proales2",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@proales2/setup-flask-and-reac?t="
     },
     {
@@ -9226,7 +9226,7 @@
         "title": "Fix unit tests, try benchmarking",
         "description": "Speed up the typing a bit and verify proof test.\n\n1) pre-commit: npm run tests:e2e --> get your local results chromium printed to command line (and to the junit.xml files). tests in typescript.\n\n2) on PR, run tests again in the cloud in circleci, again on only one browser.\n\n3) On merge to main. It already deploys to render.com. Have a way for me to run lambdatest or browserstack on 10 random diverse environments to see where it works, I'll manually trigger this once a month and pay for an account.\n\nAcceptance Criteria\nExperience with repo.",
         "author": "AJGupta",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/fix-unit-tests-try-b?t="
     },
     {
@@ -9256,7 +9256,7 @@
         "title": "AI bid leveler",
         "description": "I want a platform where I can upload multiple bid documents for the same scope of work and get back a single table leveling out the bids comparing their line items against each other. Eg. Given a plumbing job with 5 bids I want to be able to upload the 5 bids I have and get back a table with apples to apples comparison of the line items across each bid.\n\nHere's an example output: https://docs.google.com/spreadsheets/d/1BsA00r1ROENNvUOmYhIvuE1HbI2QYdMN/edit#gid=181970847\n\nHere's a link with a demo video: https://bid-leveling.webflow.io/\n\nAcceptance Criteria\nA web app where I can upload multiple documents (at least up to 6 documents) and produces a table (doesn't need to be in excel or google sheets, text is fine) with an accurate bid comparison highlighting details from each bid.\n\nI will provide multiple human produced examples of a successful leveling process.\n\nTechnical Details",
         "author": "VictorHunt",
-        "posted_time": "12 minutes ago",
+        "posted_time": "21 minutes ago",
         "link": "https://replit.com/bounties/@VictorHunt/ai-bid-leveler?t="
     }
 ]

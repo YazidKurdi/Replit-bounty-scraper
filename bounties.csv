@@ -7467,7 +7467,7 @@ Probably using one of these templates would be good:
 https://github.com/cookiecutter-flask/cookiecutter-flask
 https://github.com/realpython/flask-boilerplate
 https://github.com/hack4impact/flask-base
-https://github.com/dternyak/React-Redux-Flask",proales2,11 hours ago,https://replit.com/bounties/@proales2/setup-flask-and-reac?t=
+https://github.com/dternyak/React-Redux-Flask",proales2,12 hours ago,https://replit.com/bounties/@proales2/setup-flask-and-reac?t=
 917,$45.00,due in 3 days,Set up a replit from an existing application,"I have an existing ASP.NET MVC NET.Core application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.
 
 Acceptance Criteria
@@ -7561,7 +7561,7 @@ If you want, the colab notebook to run deforum is here: https://colab.research.g
 3) On merge to main. It already deploys to render.com. Have a way for me to run lambdatest or browserstack on 10 random diverse environments to see where it works, I'll manually trigger this once a month and pay for an account.
 
 Acceptance Criteria
-Experience with repo.",AJGupta,2 hours ago,https://replit.com/bounties/@AJGupta/fix-unit-tests-try-b?t=
+Experience with repo.",AJGupta,3 hours ago,https://replit.com/bounties/@AJGupta/fix-unit-tests-try-b?t=
 923,$4.50,due in 13 days,Merge forks snarkjs,"1) upstream the decompression code to the chunked snarkjs fork so that everyone can use it -- for instance, an alternate path to call fullProve with compressed = true and similarly bunch of s3 links of .gz files.
 
 2) merge all of the 3 forks into one. basically, there's a fork that has chunked zkeys working client side, there's a second fork that generates chunked zkeys on a machine, there's the decompression code, and there's the original which doesn't even know about chunking. if we could merge all of these, that would be ideal
@@ -7588,4 +7588,4 @@ A web app where I can upload multiple documents (at least up to 6 documents) and
 
 I will provide multiple human produced examples of a successful leveling process.
 
-Technical Details",VictorHunt,12 minutes ago,https://replit.com/bounties/@VictorHunt/ai-bid-leveler?t=
+Technical Details",VictorHunt,21 minutes ago,https://replit.com/bounties/@VictorHunt/ai-bid-leveler?t=
