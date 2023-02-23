@@ -7490,7 +7490,7 @@ CREATE TABLE [dbo].[WorkcenterList] (
 
 CREATE TABLE [dbo].[StatusDefinition] (
     [StatusRow]            INT           NOT NULL,
-    ...",VitPlanocka,10 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from-1?t=
+    ...",VitPlanocka,11 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from-1?t=
 918,$90.00,due in 18 days,OCR and Airtable Integration Developer,"We are looking for a developer who can help us integrate OCR technology and Airtable to automate data entry. The ideal candidate should have experience working with OCR and be able to build a system that can identify text in an image, extract the relevant information, and match it to a record in Airtable. The process should be easy to use for a non-technical team from the start of the process - adding photos - to reviewing the record matches.
 
 Responsibilities:
@@ -7503,7 +7503,7 @@ Collaborate with the team to ensure that the solution meets the requirements
 Create a user-friendly interface that can be used by non-technical team members to add photos and review record matches
 
 Requirements:
-...",AntoinetteRosen,8 hours ago,https://replit.com/bounties/@AntoinetteRosen/ocr-and-airtable-int?t=
+...",AntoinetteRosen,9 hours ago,https://replit.com/bounties/@AntoinetteRosen/ocr-and-airtable-int?t=
 919,$810.00,due in 9 days,"Build a JS SDK for the web + an authenticated Node.js backend that lets users login, buy credits, and set usage quotas.","Build a JS SDK for the web + an authenticated Node.js backend that lets users login, buy credits, and set usage quotas.
 
 Problem Description
@@ -7577,3 +7577,15 @@ Upon authentication,
  store the user's email and discordID in a MongoDB document and set the verified field to false.
  Send the user a verification email (node.js smtp, you can use https://email.connerow.dev if you want).  The email should contain a link to verify the user.
  Add the user to my ...",ReplitIronclad,2 hours ago,https://replit.com/bounties/@ReplitIronclad/email-discord-authen?t=
+925,$450.00,due in 3 days,AI bid leveler,"I want a platform where I can upload multiple bid documents for the same scope of work and get back a single table leveling out the bids comparing their line items against each other. Eg. Given a plumbing job with 5 bids I want to be able to upload the 5 bids I have and get back a table with apples to apples comparison of the line items across each bid.
+
+Here's an example output: https://docs.google.com/spreadsheets/d/1BsA00r1ROENNvUOmYhIvuE1HbI2QYdMN/edit#gid=181970847
+
+Here's a link with a demo video: https://bid-leveling.webflow.io/
+
+Acceptance Criteria
+A web app where I can upload multiple documents (at least up to 6 documents) and produces a table (doesn't need to be in excel or google sheets, text is fine) with an accurate bid comparison highlighting details from each bid.
+
+I will provide multiple human produced examples of a successful leveling process.
+
+Technical Details",VictorHunt,4 minutes ago,https://replit.com/bounties/@VictorHunt/ai-bid-leveler?t=
