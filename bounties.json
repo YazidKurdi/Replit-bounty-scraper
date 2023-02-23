@@ -9206,7 +9206,7 @@
         "title": "Send me an SMS when new baby swim classes are available",
         "description": "There's a German website that lists baby swim classes in Hamburg: https://www.baederland-shop.de/kurse\n\nTo list the available classes, a form with four inputs needs to be filled. I want to be notified when classes that match the following filter:\n\nKurskategorie: Eltern & Babys\nKursart: Aqua Baby 1 (3-10 Monate)\n\nThe other two fields (Bad and Date) can be left on the default setting.\n\nThe results are listed across several pages. I want to be notified whenever new courses are added, regardless of which page they are on\n\nAcceptance Criteria\n\nI need to actually have been notified successfully when new classes became available",
         "author": "jispwoso",
-        "posted_time": "50 minutes ago",
+        "posted_time": "57 minutes ago",
         "link": "https://replit.com/bounties/@jispwoso/send-me-an-sms-when?t="
     }
 ]
