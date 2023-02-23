@@ -9132,17 +9132,17 @@
     {
         "index": "913",
         "price": "$90.00",
-        "due_days": "due in 20 days",
+        "due_days": "due in 19 days",
         "title": "Create NFT Rarity Ranking Chrome Extension Utilizing OpenRarity API",
         "description": "As an NFT collector rarity rankings today are produced by closed-source code and based on \u201cmeta traits\u201d that don\u2019t exist \u201con-chain\u201d (e.g. Trait Count). This creates divergence across publishers (tools, marketplaces, etc). There is no single source of truth.\n\nAcceptance Criteria\nUtilizing this API ( https://blog.center.app/rarity-api/ ), I need a Chrome extension built with a relatively basic UI that will allow users when accessing marketplaces such as https://opensea.io/ + https://blur.io/ & specific NFTs such as ( https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/814 ) to showcase ranking & score & possibly show the image of NFT being ranked.\n\nPlease bare with me as I am not code savvy & this is my first bounty on Replit",
         "author": "WalkerMallory",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@WalkerMallory/create-nft-rarity-ra?t="
     },
     {
         "index": "914",
         "price": "$450.00",
-        "due_days": "due in 7 days",
+        "due_days": "due in 6 days",
         "title": "Stock trade post-mortem web app MVP in nodeJS",
         "description": "For example, if I bought 2 AAPL stock on Jan 1 2021 at $100 and sold 1 at $110 on Sep 30 2021 and 1 at $120 on Mar 15 2022, I'd like to see a candlestick chart covering the period from the beginning to the end with (scaled to size) annotations showing each individual trade (n=3). Also add horizontal lines for average entry and exit... so the gap should be the profit.\n\nAcceptance Criteria\nShould handle above case easily, and if there are 20 trades before the position is closed\nShould handles short selling cases too\n\nTechnical Details\nUse a nodeJS pkg for (1) historical stock prices like yahooFinance and (2) echarts for charting\nReads a CSV stored locally on the server that has the following info for each individual trade: (1) ticker, (2) date, (3) amount, (4) buy or sell",
         "author": "danielnjoo",
@@ -9152,7 +9152,7 @@
     {
         "index": "915",
         "price": "$1,800.00",
-        "due_days": "due in 13 days",
+        "due_days": "due in 12 days",
         "title": "Go package that clones a row and its related rows in a PostgreSQL database",
         "description": "The goal is to build a Go sqlclone package that can copy specific data from one PostgreSQL database to another. This README explains the project in detail:\n\nhttps://github.com/ProlificLabs/sqlclone/blob/main/README.md\n\nWe're planning to open source this package, so we can either use the public repo (https://github.com/ProlificLabs/sqlclone) or a Repl for collaboration, whatever you prefer.\n\nWe'll set up a Slack channel for communication.",
         "author": "MarkErdmann",
@@ -9162,7 +9162,7 @@
     {
         "index": "916",
         "price": "$36.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Setup Flask and React in Replit environment. ",
         "description": "Want a Repl setup with Flask/React all working together and with hot reload of the React page working.\n\nAcceptance Criteria\nHello world React page loads. On edit of the React app, it reloads and Flask does not.\n\nTechnical Details\nProbably using one of these templates would be good:\nhttps://github.com/cookiecutter-flask/cookiecutter-flask\nhttps://github.com/realpython/flask-boilerplate\nhttps://github.com/hack4impact/flask-base\nhttps://github.com/dternyak/React-Redux-Flask",
         "author": "proales2",
@@ -9172,17 +9172,17 @@
     {
         "index": "917",
         "price": "$45.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Set up a replit from an existing application",
         "description": "I have an existing ASP.NET MVC NET.Core application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.\n\nAcceptance Criteria\nThe application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC\n\nTechnical Details\nThe application needs 3 datables tables as specified below. They should be setup in replit as well.\n\nCREATE TABLE [dbo].[WorkcenterList] (\n    [WorkcenterRow]  INT          NULL,\n    [WorkcenterID]   VARCHAR (50) NOT NULL,\n    [WorkcenterName] VARCHAR (50) NOT NULL,\n    [Status1]        VARCHAR (20) NULL,\n    [Status2]        VARCHAR (20) NULL,\n    [Status3]        VARCHAR (20) NULL,\n    [Status4]        VARCHAR (20) NULL,\n    [Status5]        VARCHAR (20) NULL,\n    CONSTRAINT [PK_dbo.WorkcenterList] PRIMARY KEY CLUSTERED ([WorkcenterID] ASC)\n);\n\nCREATE TABLE [dbo].[StatusDefinition] (\n    [StatusRow]            INT           NOT NULL,\n    ...",
         "author": "VitPlanocka",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from-1?t="
     },
     {
         "index": "918",
         "price": "$90.00",
-        "due_days": "due in 19 days",
+        "due_days": "due in 18 days",
         "title": "OCR and Airtable Integration Developer",
         "description": "We are looking for a developer who can help us integrate OCR technology and Airtable to automate data entry. The ideal candidate should have experience working with OCR and be able to build a system that can identify text in an image, extract the relevant information, and match it to a record in Airtable. The process should be easy to use for a non-technical team from the start of the process - adding photos - to reviewing the record matches.\n\nResponsibilities:\n\nDevelop and implement an OCR solution that can identify text in images\nExtract relevant information from the OCR output and match it to a record in Airtable\nEnsure the system is scalable and reliable, and can handle large volumes of data\nWrite clean and maintainable code that follows best practices and coding standards\nCollaborate with the team to ensure that the solution meets the requirements\nCreate a user-friendly interface that can be used by non-technical team members to add photos and review record matches\n\nRequirements:\n...",
         "author": "AntoinetteRosen",
@@ -9192,21 +9192,41 @@
     {
         "index": "919",
         "price": "$810.00",
-        "due_days": "due in 10 days",
+        "due_days": "due in 9 days",
         "title": "Build a JS SDK for the web + an authenticated Node.js backend that lets users login, buy credits, and set usage quotas.",
         "description": "Build a JS SDK for the web + an authenticated Node.js backend that lets users login, buy credits, and set usage quotas.\n\nProblem Description\nNeed a JS SDK built for the frontend that exposes a global function called getAccessToken().\n\nWhen called, it should return a promise that does the following:\n\nChecks if user is logged in.\n\nIf not, give options to login with \"Google\" and \"Github\" in a top-right popup.\n\nChecks if user has available credit.\n\nIf not, lead user to purchase credits.\n\n-> Topup in same popup.\n-> Add payment method in new tab.\n\nIs quota up for current domain?\n\nUse slider in same popup to select quota.\n\nIf all checks pass, calls the backend using the authentication headers/tokens of Google/Github.\n\nThe backend should check if the user has enough credit and quota for the domain.\n\nIf all checks pass, the backend should return a randomly generated access token (The access token can be anything random, not going to be used at this stage).\n\nHere's a flowchart for the above. htt...",
         "author": "vibo",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@vibo/build-a-js-sdk-for-t?t="
     },
     {
         "index": "920",
         "price": "$180.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Send me an SMS when new baby swim classes are available",
         "description": "There's a German website that lists baby swim classes in Hamburg: https://www.baederland-shop.de/kurse\n\nTo list the available classes, a form with four inputs needs to be filled. I want to be notified when classes that match the following filter:\n\nKurskategorie: Eltern & Babys\nKursart: Aqua Baby 1 (3-10 Monate)\n\nThe other two fields (Bad and Date) can be left on the default setting.\n\nThe results are listed across several pages. I want to be notified whenever new courses are added, regardless of which page they are on\n\nAcceptance Criteria\n\nI need to actually have been notified successfully when new classes became available",
         "author": "jispwoso",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@jispwoso/send-me-an-sms-when?t="
+    },
+    {
+        "index": "921",
+        "price": "$9.00",
+        "due_days": "due in 13 days",
+        "title": "Deploy code to API endpoint on replicate.com",
+        "description": "Deploy deforum to replicate.com so I can run it as an API. It should be on their most powerful GPUs. I want to only utilize the path by which I input an image, and some default or random prompts (assume these are preset to be things like, \"the character moves\", \"the character gets mad\", etc). Then, it should generate a video from those prompts. It should be low sampling steps and 200 frames so that it is fast. Specifically, you should reduce the framecount from 1000 to 200, the sampling steps from 50 to 2, and the prompt from text to image (with weight near 0.6) for speed.\n\nYou can see how it runs in a UI easily here: https://github.com/deforum-art/deforum-for-automatic1111-webui and you only need to deploy it to an endpoint where I pass in an image, framecount, strength, and sampling steps, and get a video.\n\nIf you want, the colab notebook to run deforum is here: https://colab.research.google.com/github/deforum-art/deforum-stable-diffusion/blob/main/DeforumStableDi...",
+        "author": "AJGupta",
+        "posted_time": "19 minutes ago",
+        "link": "https://replit.com/bounties/@AJGupta/deploy-code-to-api-e?t="
+    },
+    {
+        "index": "922",
+        "price": "$4.50",
+        "due_days": "due in 13 days",
+        "title": "Fix unit tests, try benchmarking",
+        "description": "Speed up the typing a bit and verify proof test.\n\n1) pre-commit: npm run tests:e2e --> get your local results chromium printed to command line (and to the junit.xml files). tests in typescript.\n\n2) on PR, run tests again in the cloud in circleci, again on only one browser.\n\n3) On merge to main. It already deploys to render.com. Have a way for me to run lambdatest or browserstack on 10 random diverse environments to see where it works, I'll manually trigger this once a month and pay for an account.\n\nAcceptance Criteria\nExperience with repo.",
+        "author": "AJGupta",
+        "posted_time": "13 minutes ago",
+        "link": "https://replit.com/bounties/@AJGupta/fix-unit-tests-try-b?t="
     }
 ]
