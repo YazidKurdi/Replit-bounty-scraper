@@ -9166,7 +9166,17 @@
         "title": "Setup Flask and React in Replit environment. ",
         "description": "Want a Repl setup with Flask/React all working together and with hot reload of the React page working.\n\nAcceptance Criteria\nHello world React page loads. On edit of the React app, it reloads and Flask does not.\n\nTechnical Details\nProbably using one of these templates would be good:\nhttps://github.com/cookiecutter-flask/cookiecutter-flask\nhttps://github.com/realpython/flask-boilerplate\nhttps://github.com/hack4impact/flask-base\nhttps://github.com/dternyak/React-Redux-Flask",
         "author": "proales2",
-        "posted_time": "32 minutes ago",
+        "posted_time": "39 minutes ago",
         "link": "https://replit.com/bounties/@proales2/setup-flask-and-reac?t="
+    },
+    {
+        "index": "917",
+        "price": "$45.00",
+        "due_days": "due in 4 days",
+        "title": "Set up a replit from an existing application",
+        "description": "I have an existing ASP.NET MVC NET.Core application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.\n\nAcceptance Criteria\nThe application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC\n\nTechnical Details\nThe application needs 3 datables tables as specified below. They should be setup in replit as well.\n\nCREATE TABLE [dbo].[WorkcenterList] (\n    [WorkcenterRow]  INT          NULL,\n    [WorkcenterID]   VARCHAR (50) NOT NULL,\n    [WorkcenterName] VARCHAR (50) NOT NULL,\n    [Status1]        VARCHAR (20) NULL,\n    [Status2]        VARCHAR (20) NULL,\n    [Status3]        VARCHAR (20) NULL,\n    [Status4]        VARCHAR (20) NULL,\n    [Status5]        VARCHAR (20) NULL,\n    CONSTRAINT [PK_dbo.WorkcenterList] PRIMARY KEY CLUSTERED ([WorkcenterID] ASC)\n);\n\nCREATE TABLE [dbo].[StatusDefinition] (\n    [StatusRow]            INT           NOT NULL,\n    ...",
+        "author": "VitPlanocka",
+        "posted_time": "7 seconds ago",
+        "link": "https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from-1?t="
     }
 ]
