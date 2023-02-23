@@ -9256,7 +9256,7 @@
         "title": "AI bid leveler",
         "description": "I want a platform where I can upload multiple bid documents for the same scope of work and get back a single table leveling out the bids comparing their line items against each other. Eg. Given a plumbing job with 5 bids I want to be able to upload the 5 bids I have and get back a table with apples to apples comparison of the line items across each bid.\n\nHere's an example output: https://docs.google.com/spreadsheets/d/1BsA00r1ROENNvUOmYhIvuE1HbI2QYdMN/edit#gid=181970847\n\nHere's a link with a demo video: https://bid-leveling.webflow.io/\n\nAcceptance Criteria\nA web app where I can upload multiple documents (at least up to 6 documents) and produces a table (doesn't need to be in excel or google sheets, text is fine) with an accurate bid comparison highlighting details from each bid.\n\nI will provide multiple human produced examples of a successful leveling process.\n\nTechnical Details",
         "author": "VictorHunt",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@VictorHunt/ai-bid-leveler?t="
     },
     {
@@ -9276,7 +9276,7 @@
         "title": "Chatbot interface for doola",
         "description": "-\nBuild a AI powered CPA or formation assistant\n\nAcceptance Criteria -\nThe chatbot should have a simple interface. We will provide an API. The chatbot must be able to generate a proper response regarding data including answering basic questions about formation in different states, and tax compliance rules around different entity types.\n\nTechnical Details-\nFrontend - React, Typescript, Next.js\nBackend - Node.js, Express\nDatabase - Postgres",
         "author": "doolahq",
-        "posted_time": "50 minutes ago",
+        "posted_time": "60 minutes ago",
         "link": "https://replit.com/bounties/@doolahq/chatbot-interface-fo?t="
     },
     {
@@ -9286,7 +9286,7 @@
         "title": "AI Model MVP - Recorded Interview to Process Map Output",
         "description": "As a consultant, we have to understand the our client's business including their existing business processes prior to building solutions.\n\nTypically recorded discovery sessions are conducted and then later converted to relevant process diagrams to build an understanding and maintain documentation.\n\nThis process is tedious and often takes 2-3x as long as the interview to convert to a process map. The ability to get a significant way there with AI, would save tremendous time.\n\nAcceptance Criteria\n You can take a one-hour recorded meeting with a stakeholder and extract the relevant process map from it with >=50% accuracy.\n\nTechnical Details\nThe process mapping framework would be the (UPN) standard. The idea would be to output the specific instructions needed to build a process map. The automatic creation of the actual map is out of scope and currently would only need to produce the correct relevant instructions for creating the process map manually.",
         "author": "BenBrumfield",
-        "posted_time": "12 minutes ago",
+        "posted_time": "22 minutes ago",
         "link": "https://replit.com/bounties/@BenBrumfield/ai-model-mvp-recorde?t="
     }
 ]
