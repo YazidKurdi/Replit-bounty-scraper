@@ -7440,7 +7440,7 @@ I will only accept people who provide a plan or set of tools they will use to do
 Acceptance Criteria
 Utilizing this API ( https://blog.center.app/rarity-api/ ), I need a Chrome extension built with a relatively basic UI that will allow users when accessing marketplaces such as https://opensea.io/ + https://blur.io/ & specific NFTs such as ( https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/814 ) to showcase ranking & score & possibly show the image of NFT being ranked.
 
-Please bare with me as I am not code savvy & this is my first bounty on Replit",WalkerMallory,8 hours ago,https://replit.com/bounties/@WalkerMallory/create-nft-rarity-ra?t=
+Please bare with me as I am not code savvy & this is my first bounty on Replit",WalkerMallory,9 hours ago,https://replit.com/bounties/@WalkerMallory/create-nft-rarity-ra?t=
 914,$450.00,due in 7 days,Stock trade post-mortem web app MVP in nodeJS,"For example, if I bought 2 AAPL stock on Jan 1 2021 at $100 and sold 1 at $110 on Sep 30 2021 and 1 at $120 on Mar 15 2022, I'd like to see a candlestick chart covering the period from the beginning to the end with (scaled to size) annotations showing each individual trade (n=3). Also add horizontal lines for average entry and exit... so the gap should be the profit.
 
 Acceptance Criteria
@@ -7457,3 +7457,14 @@ https://github.com/ProlificLabs/sqlclone/blob/main/README.md
 We're planning to open source this package, so we can either use the public repo (https://github.com/ProlificLabs/sqlclone) or a Repl for collaboration, whatever you prefer.
 
 We'll set up a Slack channel for communication.",MarkErdmann,3 hours ago,https://replit.com/bounties/@MarkErdmann/go-package-that-clon?t=
+916,$36.00,due in 4 days,Setup Flask and React in Replit environment. ,"Want a Repl setup with Flask/React all working together and with hot reload of the React page working.
+
+Acceptance Criteria
+Hello world React page loads. On edit of the React app, it reloads and Flask does not.
+
+Technical Details
+Probably using one of these templates would be good:
+https://github.com/cookiecutter-flask/cookiecutter-flask
+https://github.com/realpython/flask-boilerplate
+https://github.com/hack4impact/flask-base
+https://github.com/dternyak/React-Redux-Flask",proales2,5 minutes ago,https://replit.com/bounties/@proales2/setup-flask-and-reac?t=
