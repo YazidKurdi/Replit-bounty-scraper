@@ -9176,7 +9176,7 @@
         "title": "Set up a replit from an existing application",
         "description": "I have an existing ASP.NET MVC NET.Core application at https://github.com/vitplanocka/eAndon_MVC that I would like to set up as a Repl in Replit.\n\nAcceptance Criteria\nThe application should be imported to Replit and should run without errors in Webview, similar e.g. to https://replit.com/@VitPlanocka/eAndon-MVC\n\nTechnical Details\nThe application needs 3 datables tables as specified below. They should be setup in replit as well.\n\nCREATE TABLE [dbo].[WorkcenterList] (\n    [WorkcenterRow]  INT          NULL,\n    [WorkcenterID]   VARCHAR (50) NOT NULL,\n    [WorkcenterName] VARCHAR (50) NOT NULL,\n    [Status1]        VARCHAR (20) NULL,\n    [Status2]        VARCHAR (20) NULL,\n    [Status3]        VARCHAR (20) NULL,\n    [Status4]        VARCHAR (20) NULL,\n    [Status5]        VARCHAR (20) NULL,\n    CONSTRAINT [PK_dbo.WorkcenterList] PRIMARY KEY CLUSTERED ([WorkcenterID] ASC)\n);\n\nCREATE TABLE [dbo].[StatusDefinition] (\n    [StatusRow]            INT           NOT NULL,\n    ...",
         "author": "VitPlanocka",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from-1?t="
     },
     {
@@ -9186,7 +9186,7 @@
         "title": "OCR and Airtable Integration Developer",
         "description": "We are looking for a developer who can help us integrate OCR technology and Airtable to automate data entry. The ideal candidate should have experience working with OCR and be able to build a system that can identify text in an image, extract the relevant information, and match it to a record in Airtable. The process should be easy to use for a non-technical team from the start of the process - adding photos - to reviewing the record matches.\n\nResponsibilities:\n\nDevelop and implement an OCR solution that can identify text in images\nExtract relevant information from the OCR output and match it to a record in Airtable\nEnsure the system is scalable and reliable, and can handle large volumes of data\nWrite clean and maintainable code that follows best practices and coding standards\nCollaborate with the team to ensure that the solution meets the requirements\nCreate a user-friendly interface that can be used by non-technical team members to add photos and review record matches\n\nRequirements:\n...",
         "author": "AntoinetteRosen",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@AntoinetteRosen/ocr-and-airtable-int?t="
     },
     {
@@ -9196,7 +9196,7 @@
         "title": "Build a JS SDK for the web + an authenticated Node.js backend that lets users login, buy credits, and set usage quotas.",
         "description": "Build a JS SDK for the web + an authenticated Node.js backend that lets users login, buy credits, and set usage quotas.\n\nProblem Description\nNeed a JS SDK built for the frontend that exposes a global function called getAccessToken().\n\nWhen called, it should return a promise that does the following:\n\nChecks if user is logged in.\n\nIf not, give options to login with \"Google\" and \"Github\" in a top-right popup.\n\nChecks if user has available credit.\n\nIf not, lead user to purchase credits.\n\n-> Topup in same popup.\n-> Add payment method in new tab.\n\nIs quota up for current domain?\n\nUse slider in same popup to select quota.\n\nIf all checks pass, calls the backend using the authentication headers/tokens of Google/Github.\n\nThe backend should check if the user has enough credit and quota for the domain.\n\nIf all checks pass, the backend should return a randomly generated access token (The access token can be anything random, not going to be used at this stage).\n\nHere's a flowchart for the above. htt...",
         "author": "vibo",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@vibo/build-a-js-sdk-for-t?t="
     },
     {
@@ -9216,7 +9216,7 @@
         "title": "Deploy code to API endpoint on replicate.com",
         "description": "Deploy deforum to replicate.com so I can run it as an API. It should be on their most powerful GPUs. I want to only utilize the path by which I input an image, and some default or random prompts (assume these are preset to be things like, \"the character moves\", \"the character gets mad\", etc). Then, it should generate a video from those prompts. It should be low sampling steps and 200 frames so that it is fast. Specifically, you should reduce the framecount from 1000 to 200, the sampling steps from 50 to 2, and the prompt from text to image (with weight near 0.6) for speed.\n\nYou can see how it runs in a UI easily here: https://github.com/deforum-art/deforum-for-automatic1111-webui and you only need to deploy it to an endpoint where I pass in an image, framecount, strength, and sampling steps, and get a video.\n\nIf you want, the colab notebook to run deforum is here: https://colab.research.google.com/github/deforum-art/deforum-stable-diffusion/blob/main/DeforumStableDi...",
         "author": "AJGupta",
-        "posted_time": "54 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@AJGupta/deploy-code-to-api-e?t="
     },
     {
@@ -9226,7 +9226,7 @@
         "title": "Fix unit tests, try benchmarking",
         "description": "Speed up the typing a bit and verify proof test.\n\n1) pre-commit: npm run tests:e2e --> get your local results chromium printed to command line (and to the junit.xml files). tests in typescript.\n\n2) on PR, run tests again in the cloud in circleci, again on only one browser.\n\n3) On merge to main. It already deploys to render.com. Have a way for me to run lambdatest or browserstack on 10 random diverse environments to see where it works, I'll manually trigger this once a month and pay for an account.\n\nAcceptance Criteria\nExperience with repo.",
         "author": "AJGupta",
-        "posted_time": "48 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@AJGupta/fix-unit-tests-try-b?t="
     },
     {
@@ -9236,7 +9236,7 @@
         "title": "Merge forks snarkjs",
         "description": "1) upstream the decompression code to the chunked snarkjs fork\u00a0so that everyone can use it -- for instance, an alternate path to call fullProve with compressed = true and similarly bunch of s3 links of .gz files.\n\n2) merge all of the 3 forks into one. basically, there's a fork\u00a0that has chunked zkeys working client side, there's a second fork\u00a0that generates chunked zkeys on a machine, there's the decompression code, and there's\u00a0the original\u00a0which doesn't even know about chunking. if we could\u00a0merge all of these, that would be ideal\n\nAcceptance Criteria\nexperience with repo",
         "author": "AJGupta",
-        "posted_time": "30 minutes ago",
+        "posted_time": "57 minutes ago",
         "link": "https://replit.com/bounties/@AJGupta/merge-forks-snarkjs?t="
     },
     {
@@ -9246,7 +9246,7 @@
         "title": "Email + Discord Authenticator (Node + React / Next.js)",
         "description": "Users joining my discord server via invite only has caused problems in the past in which a user creates a new account to evade a ban.  Of course this can't be stopped, but email verification can help.  I want a Node.js + React (See the server-side react template) Or a Next.js application that allows me to accomplish this.\n\nAcceptance Criteria\nWhen users visit the repl URL (or index page), display the index react page.  There should be a button that opens up the link to authorize discord.  You can use dummy text for now.\nThe authentication route should use discord oauth with the permissions to a) add someone to a discord server b) access the user's email, username, and avatar.\nUpon authentication,\n store the user's email and discordID in a MongoDB document and set the verified field to false.\n Send the user a verification email (node.js smtp, you can use https://email.connerow.dev if you want).  The email should contain a link to verify the user.\n Add the user to my ...",
         "author": "ReplitIronclad",
-        "posted_time": "27 minutes ago",
+        "posted_time": "54 minutes ago",
         "link": "https://replit.com/bounties/@ReplitIronclad/email-discord-authen?t="
     }
 ]
