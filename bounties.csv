@@ -7449,7 +7449,7 @@ Should handles short selling cases too
 
 Technical Details
 Use a nodeJS pkg for (1) historical stock prices like yahooFinance and (2) echarts for charting
-Reads a CSV stored locally on the server that has the following info for each individual trade: (1) ticker, (2) date, (3) amount, (4) buy or sell",danielnjoo,13 hours ago,https://replit.com/bounties/@danielnjoo/stock-trade-post-mor?t=
+Reads a CSV stored locally on the server that has the following info for each individual trade: (1) ticker, (2) date, (3) amount, (4) buy or sell",danielnjoo,14 hours ago,https://replit.com/bounties/@danielnjoo/stock-trade-post-mor?t=
 915,"$1,800.00",due in 13 days,Go package that clones a row and its related rows in a PostgreSQL database,"The goal is to build a Go sqlclone package that can copy specific data from one PostgreSQL database to another. This README explains the project in detail:
 
 https://github.com/ProlificLabs/sqlclone/blob/main/README.md
@@ -7490,7 +7490,7 @@ CREATE TABLE [dbo].[WorkcenterList] (
 
 CREATE TABLE [dbo].[StatusDefinition] (
     [StatusRow]            INT           NOT NULL,
-    ...",VitPlanocka,5 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from-1?t=
+    ...",VitPlanocka,6 hours ago,https://replit.com/bounties/@VitPlanocka/set-up-a-replit-from-1?t=
 918,$90.00,due in 19 days,OCR and Airtable Integration Developer,"We are looking for a developer who can help us integrate OCR technology and Airtable to automate data entry. The ideal candidate should have experience working with OCR and be able to build a system that can identify text in an image, extract the relevant information, and match it to a record in Airtable. The process should be easy to use for a non-technical team from the start of the process - adding photos - to reviewing the record matches.
 
 Responsibilities:
@@ -7503,7 +7503,7 @@ Collaborate with the team to ensure that the solution meets the requirements
 Create a user-friendly interface that can be used by non-technical team members to add photos and review record matches
 
 Requirements:
-...",AntoinetteRosen,3 hours ago,https://replit.com/bounties/@AntoinetteRosen/ocr-and-airtable-int?t=
+...",AntoinetteRosen,4 hours ago,https://replit.com/bounties/@AntoinetteRosen/ocr-and-airtable-int?t=
 919,$810.00,due in 10 days,"Build a JS SDK for the web + an authenticated Node.js backend that lets users login, buy credits, and set usage quotas.","Build a JS SDK for the web + an authenticated Node.js backend that lets users login, buy credits, and set usage quotas.
 
 Problem Description
