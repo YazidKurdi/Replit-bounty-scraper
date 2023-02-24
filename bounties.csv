@@ -7567,7 +7567,7 @@ Experience with repo.",AJGupta,17 hours ago,https://replit.com/bounties/@AJGupta
 2) merge all of the 3 forks into one. basically, there's a fork that has chunked zkeys working client side, there's a second fork that generates chunked zkeys on a machine, there's the decompression code, and there's the original which doesn't even know about chunking. if we could merge all of these, that would be ideal
 
 Acceptance Criteria
-experience with repo",AJGupta,17 hours ago,https://replit.com/bounties/@AJGupta/merge-forks-snarkjs?t=
+experience with repo",AJGupta,18 hours ago,https://replit.com/bounties/@AJGupta/merge-forks-snarkjs?t=
 924,$100.00,due in 13 days,Email + Discord Authenticator (Node + React / Next.js),"Users joining my discord server via invite only has caused problems in the past in which a user creates a new account to evade a ban.  Of course this can't be stopped, but email verification can help.  I want a Node.js + React (See the server-side react template) Or a Next.js application that allows me to accomplish this.
 
 Acceptance Criteria
@@ -7576,7 +7576,7 @@ The authentication route should use discord oauth with the permissions to a) add
 Upon authentication,
  store the user's email and discordID in a MongoDB document and set the verified field to false.
  Send the user a verification email (node.js smtp, you can use https://email.connerow.dev if you want).  The email should contain a link to verify the user.
- Add the user to my ...",ReplitIronclad,17 hours ago,https://replit.com/bounties/@ReplitIronclad/email-discord-authen?t=
+ Add the user to my ...",ReplitIronclad,18 hours ago,https://replit.com/bounties/@ReplitIronclad/email-discord-authen?t=
 925,$450.00,due in 3 days,AI bid leveler,"I want a platform where I can upload multiple bid documents for the same scope of work and get back a single table leveling out the bids comparing their line items against each other. Eg. Given a plumbing job with 5 bids I want to be able to upload the 5 bids I have and get back a table with apples to apples comparison of the line items across each bid.
 
 Here's an example output: https://docs.google.com/spreadsheets/d/1BsA00r1ROENNvUOmYhIvuE1HbI2QYdMN/edit#gid=181970847
@@ -7613,7 +7613,7 @@ Acceptance Criteria
  You can take a one-hour recorded meeting with a stakeholder and extract the relevant process map from it with >=50% accuracy.
 
 Technical Details
-The process mapping framework would be the (UPN) standard. The idea would be to output the specific instructions needed to build a process map. The automatic creation of the actual map is out of scope and currently would only need to produce the correct relevant instructions for creating the process map manually.",BenBrumfield,9 hours ago,https://replit.com/bounties/@BenBrumfield/ai-model-mvp-recorde?t=
+The process mapping framework would be the (UPN) standard. The idea would be to output the specific instructions needed to build a process map. The automatic creation of the actual map is out of scope and currently would only need to produce the correct relevant instructions for creating the process map manually.",BenBrumfield,10 hours ago,https://replit.com/bounties/@BenBrumfield/ai-model-mvp-recorde?t=
 929,$10.00,due in 5 days,Create a Broken Replit Extension,Make me a broken Replit Extension that links to my website.,RayhanADev,9 hours ago,https://replit.com/bounties/@RayhanADev/create-a-broken-repl?t=
 930,$45.00,closed,nextjs / twilio integration,"a next js app that texts 5 phone numbers using twilio. then redirects the user to a url which i'll supply.
 
@@ -7631,7 +7631,7 @@ Technical Details
 nextjs
 no db
 
-Timelines / Milestones",PaulMcKellar,4 hours ago,https://replit.com/bounties/@PaulMcKellar/nextjs-twilio-integr?t=
+Timelines / Milestones",PaulMcKellar,5 hours ago,https://replit.com/bounties/@PaulMcKellar/nextjs-twilio-integr?t=
 931,$45.00,due in 5 days,VERY SIMPLE zoom admin dashboard,"a web app for controlling my zoom rooms
 
 Acceptance Criteria
@@ -7650,8 +7650,8 @@ shows room status
 
 Timelines / Milestones
 
-flexible",PaulMcKellar,4 hours ago,https://replit.com/bounties/@PaulMcKellar/zoom-admin-dashboard?t=
-932,"$1,890.00",due in 19 days,Create ChatBTC personal bitcoin technical assistant,"Problem: Design a ChatGPT style personal assistant (""ChatBTC"") trained to answer all bitcoin technical questions
+flexible",PaulMcKellar,5 hours ago,https://replit.com/bounties/@PaulMcKellar/zoom-admin-dashboard?t=
+932,"$1,890.00",due in 18 days,Create ChatBTC personal bitcoin technical assistant,"Problem: Design a ChatGPT style personal assistant (""ChatBTC"") trained to answer all bitcoin technical questions
 We would like a standalone website on chatbtc.dev that answers queries regarding bitcoin's technical design and its historical and current development, including the Lightning Network. The model should be an LLM trained by digesting the following:
  the bitcoin and Lightning whitepapers
  the cypherpunk mailing list
@@ -7667,4 +7667,4 @@ bitcoin Stack Exchange
 all current and historical Bitcoin Improvement Proposals (BIPs)
 all Basis of Lightning Technology documents (BOLTs)
 
-This bitcoin technical assistant (""ChatBTC"") will be able to answer in natural language any queries regarding bitcoin's technical design and hi...",nachobtc,43 minutes ago,https://replit.com/bounties/@nachobtc/create-chatbtc-perso?t=
+This bitcoin technical assistant (""ChatBTC"") will be able to answer in natural language any queries regarding bitcoin's technical design and hi...",nachobtc,1 hour ago,https://replit.com/bounties/@nachobtc/create-chatbtc-perso?t=
