@@ -9326,7 +9326,7 @@
         "title": "Create ChatBTC personal bitcoin technical assistant",
         "description": "Problem: Design a ChatGPT style personal assistant (\"ChatBTC\") trained to answer all bitcoin technical questions\nWe would like a standalone website on chatbtc.dev that answers queries regarding bitcoin's technical design and its historical and current development, including the Lightning Network. The model should be an LLM trained by digesting the following:\n the bitcoin and Lightning whitepapers\n the cypherpunk mailing list\n all of Satoshi Nakamoto's historical writings, emails, and posts (https://satoshi.nakamotoinstitute.org/)\nall historical Bitcoin Optech newsletters\nMastering Bitcoin\nProgramming Bitcoin\nGrokking Bitcoin\nMastering the Lightning Network\nbitcoin-dev mailing list\nlightning-dev mailing list\nbitcoin Stack Exchange\nall current and historical Bitcoin Improvement Proposals (BIPs)\nall Basis of Lightning Technology documents (BOLTs)\n\nThis bitcoin technical assistant (\"ChatBTC\") will be able to answer in natural language any queries regarding bitcoin's technical design and hi...",
         "author": "nachobtc",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@nachobtc/create-chatbtc-perso?t="
     },
     {
@@ -9366,7 +9366,7 @@
         "title": "Create a generative text model that's trained on proprietary data & I can do Q&A with",
         "description": "Overview\nI want to train a model on a person's ideas (including tweets, blog posts, and podcast transcripts), do Q&A with it, and get text responses that are consistent with the \"voice\"/style and content of the provided inputs.\n\nAcceptance Criteria\nUse of current, best in class foundational model and training strategies\nModel can be trained on ~hundreds of tweets, tens of blog posts, and ~5 hours of podcast transcripts\nSimple UI for:\n** Providing multiple pieces of training data\n** Asking a question\n** Parameter for specifying max length of response (tokens or chars)\n** Seeing outputted text\nModel answers/outputs are consistent with \"voice\"/style and content of trained data\nBonus:\nTwitter and webpage scrapper (will pay extra for this)\n** Output can be up/down voted to fine tune\n** Option to regenerate response\n** Retains state/context (would like to hear pros/cons on this)",
         "author": "SpencerKier",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@SpencerKier/create-a-generative?t="
     },
     {
