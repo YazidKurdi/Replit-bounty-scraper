@@ -7613,8 +7613,8 @@ Acceptance Criteria
  You can take a one-hour recorded meeting with a stakeholder and extract the relevant process map from it with >=50% accuracy.
 
 Technical Details
-The process mapping framework would be the (UPN) standard. The idea would be to output the specific instructions needed to build a process map. The automatic creation of the actual map is out of scope and currently would only need to produce the correct relevant instructions for creating the process map manually.",BenBrumfield,17 hours ago,https://replit.com/bounties/@BenBrumfield/ai-model-mvp-recorde?t=
-929,$10.00,due in 4 days,Create a Broken Replit Extension,Make me a broken Replit Extension that links to my website.,RayhanADev,17 hours ago,https://replit.com/bounties/@RayhanADev/create-a-broken-repl?t=
+The process mapping framework would be the (UPN) standard. The idea would be to output the specific instructions needed to build a process map. The automatic creation of the actual map is out of scope and currently would only need to produce the correct relevant instructions for creating the process map manually.",BenBrumfield,18 hours ago,https://replit.com/bounties/@BenBrumfield/ai-model-mvp-recorde?t=
+929,$10.00,closed,Create a Broken Replit Extension,Make me a broken Replit Extension that links to my website.,RayhanADev,17 hours ago,https://replit.com/bounties/@RayhanADev/create-a-broken-repl?t=
 930,$45.00,closed,nextjs / twilio integration,"a next js app that texts 5 phone numbers using twilio. then redirects the user to a url which i'll supply.
 
 i'm going to use it as a notification channel for some friends
@@ -7631,7 +7631,7 @@ Technical Details
 nextjs
 no db
 
-Timelines / Milestones",PaulMcKellar,12 hours ago,https://replit.com/bounties/@PaulMcKellar/nextjs-twilio-integr?t=
+Timelines / Milestones",PaulMcKellar,13 hours ago,https://replit.com/bounties/@PaulMcKellar/nextjs-twilio-integr?t=
 931,$45.00,due in 4 days,VERY SIMPLE zoom admin dashboard,"a web app for controlling my zoom rooms
 
 Acceptance Criteria
