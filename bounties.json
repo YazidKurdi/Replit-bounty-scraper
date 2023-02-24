@@ -9246,7 +9246,7 @@
         "title": "Email + Discord Authenticator (Node + React / Next.js)",
         "description": "Users joining my discord server via invite only has caused problems in the past in which a user creates a new account to evade a ban.  Of course this can't be stopped, but email verification can help.  I want a Node.js + React (See the server-side react template) Or a Next.js application that allows me to accomplish this.\n\nAcceptance Criteria\nWhen users visit the repl URL (or index page), display the index react page.  There should be a button that opens up the link to authorize discord.  You can use dummy text for now.\nThe authentication route should use discord oauth with the permissions to a) add someone to a discord server b) access the user's email, username, and avatar.\nUpon authentication,\n store the user's email and discordID in a MongoDB document and set the verified field to false.\n Send the user a verification email (node.js smtp, you can use https://email.connerow.dev if you want).  The email should contain a link to verify the user.\n Add the user to my ...",
         "author": "ReplitIronclad",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@ReplitIronclad/email-discord-authen?t="
     },
     {
@@ -9286,7 +9286,7 @@
         "title": "AI Model MVP - Recorded Interview to Process Map Output",
         "description": "As a consultant, we have to understand the our client's business including their existing business processes prior to building solutions.\n\nTypically recorded discovery sessions are conducted and then later converted to relevant process diagrams to build an understanding and maintain documentation.\n\nThis process is tedious and often takes 2-3x as long as the interview to convert to a process map. The ability to get a significant way there with AI, would save tremendous time.\n\nAcceptance Criteria\n You can take a one-hour recorded meeting with a stakeholder and extract the relevant process map from it with >=50% accuracy.\n\nTechnical Details\nThe process mapping framework would be the (UPN) standard. The idea would be to output the specific instructions needed to build a process map. The automatic creation of the actual map is out of scope and currently would only need to produce the correct relevant instructions for creating the process map manually.",
         "author": "BenBrumfield",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@BenBrumfield/ai-model-mvp-recorde?t="
     },
     {
@@ -9306,7 +9306,7 @@
         "title": "nextjs / twilio integration",
         "description": "a next js app that texts 5 phone numbers using twilio. then redirects the user to a url which i'll supply.\n\ni'm going to use it as a notification channel for some friends\n\nAcceptance Criteria\n\nis a next js app\nruns on vercel\nsends out 5 text messages from a array of phone numbers\nif any of them fail, logs to error log\n\nTechnical Details\n\nnextjs\nno db\n\nTimelines / Milestones",
         "author": "PaulMcKellar",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@PaulMcKellar/nextjs-twilio-integr?t="
     },
     {
@@ -9328,5 +9328,15 @@
         "author": "nachobtc",
         "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@nachobtc/create-chatbtc-perso?t="
+    },
+    {
+        "index": "933",
+        "price": "$67.50",
+        "due_days": "due in 6 days",
+        "title": "Algorithm to detect prominent parts in an image & bounding box",
+        "description": "I need an algorithm built with Node.js that can take an image and determine the prominent parts, and calculate a bounding box. It doesn't need to be extremely complex- something that can detect where the eyes would naturally be drawn to, along with other potentially interesting features of the image.\n\nAn example:\nImage of a boat with expected bounding boxes\n\nBounding boxes should have a priority of how important they are to the image.\n\nOutput result shouldn't be an image, rather an array of pixel co-ordinates and priority.\n\nExtra needs\nWorks with most image file types\nWorks in low-light and high-light conditions\nCan be required as a Node.JS module\nEncouraged to use libraries such as Jimp",
+        "author": "codingMASTER398",
+        "posted_time": "6 minutes ago",
+        "link": "https://replit.com/bounties/@codingMASTER398/algorithm-to-detect?t="
     }
 ]
