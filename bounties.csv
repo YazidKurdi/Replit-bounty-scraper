@@ -7561,13 +7561,13 @@ If you want, the colab notebook to run deforum is here: https://colab.research.g
 3) On merge to main. It already deploys to render.com. Have a way for me to run lambdatest or browserstack on 10 random diverse environments to see where it works, I'll manually trigger this once a month and pay for an account.
 
 Acceptance Criteria
-Experience with repo.",AJGupta,13 hours ago,https://replit.com/bounties/@AJGupta/fix-unit-tests-try-b?t=
+Experience with repo.",AJGupta,14 hours ago,https://replit.com/bounties/@AJGupta/fix-unit-tests-try-b?t=
 923,$4.50,due in 13 days,Merge forks snarkjs,"1) upstream the decompression code to the chunked snarkjs fork so that everyone can use it -- for instance, an alternate path to call fullProve with compressed = true and similarly bunch of s3 links of .gz files.
 
 2) merge all of the 3 forks into one. basically, there's a fork that has chunked zkeys working client side, there's a second fork that generates chunked zkeys on a machine, there's the decompression code, and there's the original which doesn't even know about chunking. if we could merge all of these, that would be ideal
 
 Acceptance Criteria
-experience with repo",AJGupta,12 hours ago,https://replit.com/bounties/@AJGupta/merge-forks-snarkjs?t=
+experience with repo",AJGupta,14 hours ago,https://replit.com/bounties/@AJGupta/merge-forks-snarkjs?t=
 924,$100.00,due in 13 days,Email + Discord Authenticator (Node + React / Next.js),"Users joining my discord server via invite only has caused problems in the past in which a user creates a new account to evade a ban.  Of course this can't be stopped, but email verification can help.  I want a Node.js + React (See the server-side react template) Or a Next.js application that allows me to accomplish this.
 
 Acceptance Criteria
@@ -7576,7 +7576,7 @@ The authentication route should use discord oauth with the permissions to a) add
 Upon authentication,
  store the user's email and discordID in a MongoDB document and set the verified field to false.
  Send the user a verification email (node.js smtp, you can use https://email.connerow.dev if you want).  The email should contain a link to verify the user.
- Add the user to my ...",ReplitIronclad,12 hours ago,https://replit.com/bounties/@ReplitIronclad/email-discord-authen?t=
+ Add the user to my ...",ReplitIronclad,14 hours ago,https://replit.com/bounties/@ReplitIronclad/email-discord-authen?t=
 925,$450.00,due in 3 days,AI bid leveler,"I want a platform where I can upload multiple bid documents for the same scope of work and get back a single table leveling out the bids comparing their line items against each other. Eg. Given a plumbing job with 5 bids I want to be able to upload the 5 bids I have and get back a table with apples to apples comparison of the line items across each bid.
 
 Here's an example output: https://docs.google.com/spreadsheets/d/1BsA00r1ROENNvUOmYhIvuE1HbI2QYdMN/edit#gid=181970847
@@ -7588,11 +7588,11 @@ A web app where I can upload multiple documents (at least up to 6 documents) and
 
 I will provide multiple human produced examples of a successful leveling process.
 
-Technical Details",VictorHunt,10 hours ago,https://replit.com/bounties/@VictorHunt/ai-bid-leveler?t=
+Technical Details",VictorHunt,12 hours ago,https://replit.com/bounties/@VictorHunt/ai-bid-leveler?t=
 926,$45.00,due in 5 days,Write a script to scrape data from a website,"I want a script that can scrape specific data from a website. It will need to be able to click through an explore page, go into profiles, and gather social information such as Twitter and email.
 
 Acceptance Criteria
-The script should generate a csv with all the data needed.",periwinkl3,9 hours ago,https://replit.com/bounties/@periwinkl3/write-a-script-to-sc?t=
+The script should generate a csv with all the data needed.",periwinkl3,10 hours ago,https://replit.com/bounties/@periwinkl3/write-a-script-to-sc?t=
 927,$90.00,due in 2 months,Chatbot interface for doola,"-
 Build a AI powered CPA or formation assistant
 
@@ -7602,7 +7602,7 @@ The chatbot should have a simple interface. We will provide an API. The chatbot 
 Technical Details-
 Frontend - React, Typescript, Next.js
 Backend - Node.js, Express
-Database - Postgres",doolahq,5 hours ago,https://replit.com/bounties/@doolahq/chatbot-interface-fo?t=
+Database - Postgres",doolahq,6 hours ago,https://replit.com/bounties/@doolahq/chatbot-interface-fo?t=
 928,$270.00,due in 11 days,AI Model MVP - Recorded Interview to Process Map Output,"As a consultant, we have to understand the our client's business including their existing business processes prior to building solutions.
 
 Typically recorded discovery sessions are conducted and then later converted to relevant process diagrams to build an understanding and maintain documentation.
@@ -7613,5 +7613,41 @@ Acceptance Criteria
  You can take a one-hour recorded meeting with a stakeholder and extract the relevant process map from it with >=50% accuracy.
 
 Technical Details
-The process mapping framework would be the (UPN) standard. The idea would be to output the specific instructions needed to build a process map. The automatic creation of the actual map is out of scope and currently would only need to produce the correct relevant instructions for creating the process map manually.",BenBrumfield,4 hours ago,https://replit.com/bounties/@BenBrumfield/ai-model-mvp-recorde?t=
-929,$10.00,due in 5 days,Create a Broken Replit Extension,Make me a broken Replit Extension that links to my website.,RayhanADev,3 hours ago,https://replit.com/bounties/@RayhanADev/create-a-broken-repl?t=
+The process mapping framework would be the (UPN) standard. The idea would be to output the specific instructions needed to build a process map. The automatic creation of the actual map is out of scope and currently would only need to produce the correct relevant instructions for creating the process map manually.",BenBrumfield,6 hours ago,https://replit.com/bounties/@BenBrumfield/ai-model-mvp-recorde?t=
+929,$10.00,due in 5 days,Create a Broken Replit Extension,Make me a broken Replit Extension that links to my website.,RayhanADev,5 hours ago,https://replit.com/bounties/@RayhanADev/create-a-broken-repl?t=
+930,$45.00,closed,nextjs / twilio integration,"a next js app that texts 5 phone numbers using twilio. then redirects the user to a url which i'll supply.
+
+i'm going to use it as a notification channel for some friends
+
+Acceptance Criteria
+
+is a next js app
+runs on vercel
+sends out 5 text messages from a array of phone numbers
+if any of them fail, logs to error log
+
+Technical Details
+
+nextjs
+no db
+
+Timelines / Milestones",PaulMcKellar,33 minutes ago,https://replit.com/bounties/@PaulMcKellar/nextjs-twilio-integr?t=
+931,$45.00,due in 5 days,VERY SIMPLE zoom admin dashboard,"a web app for controlling my zoom rooms
+
+Acceptance Criteria
+
+oauth or similar ""login with zoom account"" / zoom admin
+a page that shows rooms on my account
+a list of users currently in each room
+every time you refresh the page, it gets fresh data
+
+Technical Details
+
+next js app (and react)
+works on vercel
+connects using zoom public api / some token system
+shows room status
+
+Timelines / Milestones
+
+flexible",PaulMcKellar,30 minutes ago,https://replit.com/bounties/@PaulMcKellar/zoom-admin-dashboard?t=
