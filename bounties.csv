@@ -7602,7 +7602,7 @@ The chatbot should have a simple interface. We will provide an API. The chatbot 
 Technical Details-
 Frontend - React, Typescript, Next.js
 Backend - Node.js, Express
-Database - Postgres",doolahq,9 hours ago,https://replit.com/bounties/@doolahq/chatbot-interface-fo?t=
+Database - Postgres",doolahq,10 hours ago,https://replit.com/bounties/@doolahq/chatbot-interface-fo?t=
 928,$270.00,due in 11 days,AI Model MVP - Recorded Interview to Process Map Output,"As a consultant, we have to understand the our client's business including their existing business processes prior to building solutions.
 
 Typically recorded discovery sessions are conducted and then later converted to relevant process diagrams to build an understanding and maintain documentation.
@@ -7650,4 +7650,21 @@ shows room status
 
 Timelines / Milestones
 
-flexible",PaulMcKellar,3 hours ago,https://replit.com/bounties/@PaulMcKellar/zoom-admin-dashboard?t=
+flexible",PaulMcKellar,4 hours ago,https://replit.com/bounties/@PaulMcKellar/zoom-admin-dashboard?t=
+932,"$1,890.00",due in 20 days,Create ChatBTC personal bitcoin technical assistant,"Problem: Design a ChatGPT style personal assistant (""ChatBTC"") trained to answer all bitcoin technical questions
+We would like a standalone website on chatbtc.dev that answers queries regarding bitcoin's technical design and its historical and current development, including the Lightning Network. The model should be an LLM trained by digesting the following:
+ the bitcoin and Lightning whitepapers
+ the cypherpunk mailing list
+ all of Satoshi Nakamoto's historical writings, emails, and posts (https://satoshi.nakamotoinstitute.org/)
+all historical Bitcoin Optech newsletters
+Mastering Bitcoin
+Programming Bitcoin
+Grokking Bitcoin
+Mastering the Lightning Network
+bitcoin-dev mailing list
+lightning-dev mailing list
+bitcoin Stack Exchange
+all current and historical Bitcoin Improvement Proposals (BIPs)
+all Basis of Lightning Technology documents (BOLTs)
+
+This bitcoin technical assistant (""ChatBTC"") will be able to answer in natural language any queries regarding bitcoin's technical design and hi...",nachobtc,16 minutes ago,https://replit.com/bounties/@nachobtc/create-chatbtc-perso?t=
