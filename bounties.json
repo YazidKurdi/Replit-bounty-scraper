@@ -9256,7 +9256,7 @@
         "title": "AI bid leveler",
         "description": "I want a platform where I can upload multiple bid documents for the same scope of work and get back a single table leveling out the bids comparing their line items against each other. Eg. Given a plumbing job with 5 bids I want to be able to upload the 5 bids I have and get back a table with apples to apples comparison of the line items across each bid.\n\nHere's an example output: https://docs.google.com/spreadsheets/d/1BsA00r1ROENNvUOmYhIvuE1HbI2QYdMN/edit#gid=181970847\n\nHere's a link with a demo video: https://bid-leveling.webflow.io/\n\nAcceptance Criteria\nA web app where I can upload multiple documents (at least up to 6 documents) and produces a table (doesn't need to be in excel or google sheets, text is fine) with an accurate bid comparison highlighting details from each bid.\n\nI will provide multiple human produced examples of a successful leveling process.\n\nTechnical Details",
         "author": "VictorHunt",
-        "posted_time": "23 hours ago",
+        "posted_time": "24 hours ago",
         "link": "https://replit.com/bounties/@VictorHunt/ai-bid-leveler?t="
     },
     {
@@ -9296,7 +9296,7 @@
         "title": "Create a Broken Replit Extension",
         "description": "Make me a broken Replit Extension that links to my website.",
         "author": "RayhanADev",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@RayhanADev/create-a-broken-repl?t="
     },
     {
