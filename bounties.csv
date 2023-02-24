@@ -7650,7 +7650,7 @@ shows room status
 
 Timelines / Milestones
 
-flexible",PaulMcKellar,21 hours ago,https://replit.com/bounties/@PaulMcKellar/zoom-admin-dashboard?t=
+flexible",PaulMcKellar,22 hours ago,https://replit.com/bounties/@PaulMcKellar/zoom-admin-dashboard?t=
 932,"$1,890.00",due in 15 days,Create ChatBTC personal bitcoin technical assistant,"Problem: Design a ChatGPT style personal assistant (""ChatBTC"") trained to answer all bitcoin technical questions
 We would like a standalone website on chatbtc.dev that answers queries regarding bitcoin's technical design and its historical and current development, including the Lightning Network. The model should be an LLM trained by digesting the following:
  the bitcoin and Lightning whitepapers
@@ -7687,7 +7687,7 @@ Acceptance Criteria
 
 Technical Details
 
-Timelines / Milestones",syrud,12 hours ago,https://replit.com/bounties/@syrud/chatgpt-clone?t=
+Timelines / Milestones",syrud,13 hours ago,https://replit.com/bounties/@syrud/chatgpt-clone?t=
 935,$4.50,closed,Help me make a website using discource,"Im thinking about leaving most of the replit community, but there are several people here who i still enjoy. I would like a website made using discource (https://github.com/discourse/discourse) so that i can still partially be here
 
 Acceptance Criteria
@@ -7725,7 +7725,7 @@ Timelines / Milestones
 
 Final delivery March 3, 2023
 
-Remember you are encouraged to boilerplate code. Prioritize speed over beauty.",mattpatagon,2 hours ago,https://replit.com/bounties/@mattpatagon/create-a-chat-webapp?t=
+Remember you are encouraged to boilerplate code. Prioritize speed over beauty.",mattpatagon,3 hours ago,https://replit.com/bounties/@mattpatagon/create-a-chat-webapp?t=
 938,$45.00,due in 3 days,Convince me of your skills maintaining and updating a CRUD Python backend,"We are looking for a skilled Python backend developer who can maintain a high-performing API for our consumer applications. The ideal candidate should be an expert in ODM (ORM for NoSQL), Pydantic, and automatically generated Swagger docs. Additionally, you should be well-versed with Google Cloud, and capable of integrating it into the backend for seamless data management.
 
 Acceptance Criteria:
@@ -7733,3 +7733,9 @@ The successful candidate should demonstrate a high level of expertise in develop
 
 Technical Details:
 The ideal candidate will possess strong Python development skills, particularly in building and maintaining APIs for consumer applications. You should have experience with ODMs (ORM for NoSQL) and Pydantic, as well as be able to generate Swagger docs...",lorestatesman,2 hours ago,https://replit.com/bounties/@lorestatesman/convince-me-of-your?t=
+939,$45.00,due in 3 days,OAuth flows in NextJS app,"A nextjs app needs support for additional oauth connections – Webflow, GitHub, Contentful.
+
+Acceptance Criteria
+• Use nextjs and a nextjs API
+• Support oauth connections for Webflow, GitHub, and Contentful
+• Log a variable that has the user authorization's access and tokens for each service",gehrigk,7 minutes ago,https://replit.com/bounties/@gehrigk/oauth-flows-in-nextj?t=

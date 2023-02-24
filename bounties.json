@@ -9316,7 +9316,7 @@
         "title": "VERY SIMPLE zoom admin dashboard",
         "description": "a web app for controlling my zoom rooms\n\nAcceptance Criteria\n\noauth or similar \"login with zoom account\" / zoom admin\na page that shows rooms on my account\na list of users currently in each room\nevery time you refresh the page, it gets fresh data\n\nTechnical Details\n\nnext js app (and react)\nworks on vercel\nconnects using zoom public api / some token system\nshows room status\n\nTimelines / Milestones\n\nflexible",
         "author": "PaulMcKellar",
-        "posted_time": "21 hours ago",
+        "posted_time": "22 hours ago",
         "link": "https://replit.com/bounties/@PaulMcKellar/zoom-admin-dashboard?t="
     },
     {
@@ -9346,7 +9346,7 @@
         "title": "CHATGPT CLONE",
         "description": "this just a bounty test\nAcceptance Criteria\n\nTechnical Details\n\nTimelines / Milestones",
         "author": "syrud",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@syrud/chatgpt-clone?t="
     },
     {
@@ -9376,7 +9376,7 @@
         "title": "Create a chat WebApp fed by Twilio API",
         "description": "We help clients send automated messages to their customers with Twilio Programmable Messaging API. Our clients want to see their customers' responses and of course reply back.\n\nAcceptance criteria\n\nMulti-user (each user sees their own account)\nMulti-chat navigation\nRead as a chat, including media messages, all the chat history with a user (messages with timestamp)\nInput box to write and reply (with send button and also with enter)\nDocument the code and explain how to add users\nYou are ENCOURAGED to boilerplate code and templates. The objective is to do this job fast.\nDeploy the app on DigitalOcean App Platform\n\nTimelines / Milestones\n\nFinal delivery March 3, 2023\n\nRemember you are encouraged to boilerplate code. Prioritize speed over beauty.",
         "author": "mattpatagon",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@mattpatagon/create-a-chat-webapp?t="
     },
     {
@@ -9388,5 +9388,15 @@
         "author": "lorestatesman",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@lorestatesman/convince-me-of-your?t="
+    },
+    {
+        "index": "939",
+        "price": "$45.00",
+        "due_days": "due in 3 days",
+        "title": "OAuth flows in NextJS app",
+        "description": "A nextjs app needs support for additional oauth connections \u2013 Webflow, GitHub, Contentful.\n\nAcceptance Criteria\n\u2022 Use nextjs and a nextjs API\n\u2022 Support oauth connections for Webflow, GitHub, and Contentful\n\u2022 Log a variable that has the user authorization's access and tokens for each service",
+        "author": "gehrigk",
+        "posted_time": "7 minutes ago",
+        "link": "https://replit.com/bounties/@gehrigk/oauth-flows-in-nextj?t="
     }
 ]
