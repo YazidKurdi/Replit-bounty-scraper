@@ -7614,7 +7614,7 @@ Acceptance Criteria
 
 Technical Details
 The process mapping framework would be the (UPN) standard. The idea would be to output the specific instructions needed to build a process map. The automatic creation of the actual map is out of scope and currently would only need to produce the correct relevant instructions for creating the process map manually.",BenBrumfield,1 day ago,https://replit.com/bounties/@BenBrumfield/ai-model-mvp-recorde?t=
-929,$10.00,closed,Create a Broken Replit Extension,Make me a broken Replit Extension that links to my website.,RayhanADev,23 hours ago,https://replit.com/bounties/@RayhanADev/create-a-broken-repl?t=
+929,$10.00,closed,Create a Broken Replit Extension,Make me a broken Replit Extension that links to my website.,RayhanADev,24 hours ago,https://replit.com/bounties/@RayhanADev/create-a-broken-repl?t=
 930,$45.00,closed,nextjs / twilio integration,"a next js app that texts 5 phone numbers using twilio. then redirects the user to a url which i'll supply.
 
 i'm going to use it as a notification channel for some friends
@@ -7709,3 +7709,20 @@ Twitter and webpage scrapper (will pay extra for this)
 ** Output can be up/down voted to fine tune
 ** Option to regenerate response
 ** Retains state/context (would like to hear pros/cons on this)",SpencerKier,3 hours ago,https://replit.com/bounties/@SpencerKier/create-a-generative?t=
+937,$200.00,due in 6 days,Create a chat WebApp fed by Twilio API,"We help clients send automated messages to their customers with Twilio Programmable Messaging API. Our clients want to see their customers' responses and of course reply back.
+
+Acceptance criteria
+
+Multi-user (each user sees their own account)
+Multi-chat navigation
+Read as a chat, including media messages, all the chat history with a user (messages with timestamp)
+Input box to write and reply (with send button and also with enter)
+Document the code and explain how to add users
+You are ENCOURAGED to boilerplate code and templates. The objective is to do this job fast.
+Deploy the app on DigitalOcean App Platform
+
+Timelines / Milestones
+
+Final delivery March 3, 2023
+
+Remember you are encouraged to boilerplate code. Prioritize speed over beauty.",mattpatagon,3 minutes ago,https://replit.com/bounties/@mattpatagon/create-a-chat-webapp?t=
