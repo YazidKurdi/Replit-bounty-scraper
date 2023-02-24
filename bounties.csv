@@ -7614,7 +7614,7 @@ Acceptance Criteria
 
 Technical Details
 The process mapping framework would be the (UPN) standard. The idea would be to output the specific instructions needed to build a process map. The automatic creation of the actual map is out of scope and currently would only need to produce the correct relevant instructions for creating the process map manually.",BenBrumfield,20 hours ago,https://replit.com/bounties/@BenBrumfield/ai-model-mvp-recorde?t=
-929,$10.00,closed,Create a Broken Replit Extension,Make me a broken Replit Extension that links to my website.,RayhanADev,19 hours ago,https://replit.com/bounties/@RayhanADev/create-a-broken-repl?t=
+929,$10.00,closed,Create a Broken Replit Extension,Make me a broken Replit Extension that links to my website.,RayhanADev,20 hours ago,https://replit.com/bounties/@RayhanADev/create-a-broken-repl?t=
 930,$45.00,closed,nextjs / twilio integration,"a next js app that texts 5 phone numbers using twilio. then redirects the user to a url which i'll supply.
 
 i'm going to use it as a notification channel for some friends
