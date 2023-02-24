@@ -7668,7 +7668,7 @@ all current and historical Bitcoin Improvement Proposals (BIPs)
 all Basis of Lightning Technology documents (BOLTs)
 
 This bitcoin technical assistant (""ChatBTC"") will be able to answer in natural language any queries regarding bitcoin's technical design and hi...",nachobtc,16 hours ago,https://replit.com/bounties/@nachobtc/create-chatbtc-perso?t=
-933,$67.50,due in 5 days,Algorithm to detect prominent parts in an image & bounding box,"I need an algorithm built with Node.js that can take an image and determine the prominent parts, and calculate a bounding box. It doesn't need to be extremely complex- something that can detect where the eyes would naturally be drawn to, along with other potentially interesting features of the image.
+933,$67.50,closed,Algorithm to detect prominent parts in an image & bounding box,"I need an algorithm built with Node.js that can take an image and determine the prominent parts, and calculate a bounding box. It doesn't need to be extremely complex- something that can detect where the eyes would naturally be drawn to, along with other potentially interesting features of the image.
 
 An example:
 Image of a boat with expected bounding boxes
@@ -7681,7 +7681,7 @@ Extra needs
 Works with most image file types
 Works in low-light and high-light conditions
 Can be required as a Node.JS module
-Encouraged to use libraries such as Jimp",codingMASTER398,12 hours ago,https://replit.com/bounties/@codingMASTER398/algorithm-to-detect?t=
+Encouraged to use libraries such as Jimp",codingMASTER398,13 hours ago,https://replit.com/bounties/@codingMASTER398/algorithm-to-detect?t=
 934,$7.11,closed,CHATGPT CLONE,"this just a bounty test
 Acceptance Criteria
 
@@ -7691,7 +7691,7 @@ Timelines / Milestones",syrud,11 hours ago,https://replit.com/bounties/@syrud/ch
 935,$4.50,closed,Help me make a website using discource,"Im thinking about leaving most of the replit community, but there are several people here who i still enjoy. I would like a website made using discource (https://github.com/discourse/discourse) so that i can still partially be here
 
 Acceptance Criteria
-Create a customized site using discource, that functions similarly to forum.codergautam.dev",GiggaPoggers,6 hours ago,https://replit.com/bounties/@GiggaPoggers/help-me-make-a-websi?t=
+Create a customized site using discource, that functions similarly to forum.codergautam.dev",GiggaPoggers,7 hours ago,https://replit.com/bounties/@GiggaPoggers/help-me-make-a-websi?t=
 936,$45.00,due in 4 days,Create a generative text model that's trained on proprietary data & I can do Q&A with,"Overview
 I want to train a model on a person's ideas (including tweets, blog posts, and podcast transcripts), do Q&A with it, and get text responses that are consistent with the ""voice""/style and content of the provided inputs.
 
@@ -7725,11 +7725,11 @@ Timelines / Milestones
 
 Final delivery March 3, 2023
 
-Remember you are encouraged to boilerplate code. Prioritize speed over beauty.",mattpatagon,38 minutes ago,https://replit.com/bounties/@mattpatagon/create-a-chat-webapp?t=
+Remember you are encouraged to boilerplate code. Prioritize speed over beauty.",mattpatagon,46 minutes ago,https://replit.com/bounties/@mattpatagon/create-a-chat-webapp?t=
 938,$45.00,due in 3 days,Convince me of your skills maintaining and updating a CRUD Python backend,"We are looking for a skilled Python backend developer who can maintain a high-performing API for our consumer applications. The ideal candidate should be an expert in ODM (ORM for NoSQL), Pydantic, and automatically generated Swagger docs. Additionally, you should be well-versed with Google Cloud, and capable of integrating it into the backend for seamless data management.
 
 Acceptance Criteria:
 The successful candidate should demonstrate a high level of expertise in developing Python backends for serving consumer applications. You should be able to provide a detailed portfolio of relevant projects, as well as showcase examples of how you have tackled backend-related challenges in your previous work.
 
 Technical Details:
-The ideal candidate will possess strong Python development skills, particularly in building and maintaining APIs for consumer applications. You should have experience with ODMs (ORM for NoSQL) and Pydantic, as well as be able to generate Swagger docs...",lorestatesman,3 minutes ago,https://replit.com/bounties/@lorestatesman/convince-me-of-your?t=
+The ideal candidate will possess strong Python development skills, particularly in building and maintaining APIs for consumer applications. You should have experience with ODMs (ORM for NoSQL) and Pydantic, as well as be able to generate Swagger docs...",lorestatesman,11 minutes ago,https://replit.com/bounties/@lorestatesman/convince-me-of-your?t=
