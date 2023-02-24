@@ -9276,7 +9276,7 @@
         "title": "Chatbot interface for doola",
         "description": "-\nBuild a AI powered CPA or formation assistant\n\nAcceptance Criteria -\nThe chatbot should have a simple interface. We will provide an API. The chatbot must be able to generate a proper response regarding data including answering basic questions about formation in different states, and tax compliance rules around different entity types.\n\nTechnical Details-\nFrontend - React, Typescript, Next.js\nBackend - Node.js, Express\nDatabase - Postgres",
         "author": "doolahq",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@doolahq/chatbot-interface-fo?t="
     },
     {
@@ -9316,7 +9316,7 @@
         "title": "VERY SIMPLE zoom admin dashboard",
         "description": "a web app for controlling my zoom rooms\n\nAcceptance Criteria\n\noauth or similar \"login with zoom account\" / zoom admin\na page that shows rooms on my account\na list of users currently in each room\nevery time you refresh the page, it gets fresh data\n\nTechnical Details\n\nnext js app (and react)\nworks on vercel\nconnects using zoom public api / some token system\nshows room status\n\nTimelines / Milestones\n\nflexible",
         "author": "PaulMcKellar",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@PaulMcKellar/zoom-admin-dashboard?t="
     },
     {
@@ -9346,7 +9346,7 @@
         "title": "CHATGPT CLONE",
         "description": "this just a bounty test\nAcceptance Criteria\n\nTechnical Details\n\nTimelines / Milestones",
         "author": "syrud",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@syrud/chatgpt-clone?t="
     },
     {
@@ -9356,7 +9356,7 @@
         "title": "Help me make a website using discource",
         "description": "Im thinking about leaving most of the replit community, but there are several people here who i still enjoy. I would like a website made using discource (https://github.com/discourse/discourse) so that i can still partially be here\n\nAcceptance Criteria\nCreate a customized site using discource, that functions similarly to forum.codergautam.dev",
         "author": "GiggaPoggers",
-        "posted_time": "6 minutes ago",
+        "posted_time": "21 minutes ago",
         "link": "https://replit.com/bounties/@GiggaPoggers/help-me-make-a-websi?t="
     }
 ]
