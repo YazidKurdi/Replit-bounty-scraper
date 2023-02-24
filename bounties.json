@@ -9336,7 +9336,7 @@
         "title": "Algorithm to detect prominent parts in an image & bounding box",
         "description": "I need an algorithm built with Node.js that can take an image and determine the prominent parts, and calculate a bounding box. It doesn't need to be extremely complex- something that can detect where the eyes would naturally be drawn to, along with other potentially interesting features of the image.\n\nAn example:\nImage of a boat with expected bounding boxes\n\nBounding boxes should have a priority of how important they are to the image.\n\nOutput result shouldn't be an image, rather an array of pixel co-ordinates and priority.\n\nExtra needs\nWorks with most image file types\nWorks in low-light and high-light conditions\nCan be required as a Node.JS module\nEncouraged to use libraries such as Jimp",
         "author": "codingMASTER398",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@codingMASTER398/algorithm-to-detect?t="
     },
     {
@@ -9356,7 +9356,7 @@
         "title": "Help me make a website using discource",
         "description": "Im thinking about leaving most of the replit community, but there are several people here who i still enjoy. I would like a website made using discource (https://github.com/discourse/discourse) so that i can still partially be here\n\nAcceptance Criteria\nCreate a customized site using discource, that functions similarly to forum.codergautam.dev",
         "author": "GiggaPoggers",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@GiggaPoggers/help-me-make-a-websi?t="
     },
     {
