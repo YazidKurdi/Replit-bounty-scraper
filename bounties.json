@@ -9286,7 +9286,7 @@
         "title": "AI Model MVP - Recorded Interview to Process Map Output",
         "description": "As a consultant, we have to understand the our client's business including their existing business processes prior to building solutions.\n\nTypically recorded discovery sessions are conducted and then later converted to relevant process diagrams to build an understanding and maintain documentation.\n\nThis process is tedious and often takes 2-3x as long as the interview to convert to a process map. The ability to get a significant way there with AI, would save tremendous time.\n\nAcceptance Criteria\n You can take a one-hour recorded meeting with a stakeholder and extract the relevant process map from it with >=50% accuracy.\n\nTechnical Details\nThe process mapping framework would be the (UPN) standard. The idea would be to output the specific instructions needed to build a process map. The automatic creation of the actual map is out of scope and currently would only need to produce the correct relevant instructions for creating the process map manually.",
         "author": "BenBrumfield",
-        "posted_time": "21 hours ago",
+        "posted_time": "22 hours ago",
         "link": "https://replit.com/bounties/@BenBrumfield/ai-model-mvp-recorde?t="
     },
     {
@@ -9306,7 +9306,7 @@
         "title": "nextjs / twilio integration",
         "description": "a next js app that texts 5 phone numbers using twilio. then redirects the user to a url which i'll supply.\n\ni'm going to use it as a notification channel for some friends\n\nAcceptance Criteria\n\nis a next js app\nruns on vercel\nsends out 5 text messages from a array of phone numbers\nif any of them fail, logs to error log\n\nTechnical Details\n\nnextjs\nno db\n\nTimelines / Milestones",
         "author": "PaulMcKellar",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@PaulMcKellar/nextjs-twilio-integr?t="
     },
     {
@@ -9316,7 +9316,7 @@
         "title": "VERY SIMPLE zoom admin dashboard",
         "description": "a web app for controlling my zoom rooms\n\nAcceptance Criteria\n\noauth or similar \"login with zoom account\" / zoom admin\na page that shows rooms on my account\na list of users currently in each room\nevery time you refresh the page, it gets fresh data\n\nTechnical Details\n\nnext js app (and react)\nworks on vercel\nconnects using zoom public api / some token system\nshows room status\n\nTimelines / Milestones\n\nflexible",
         "author": "PaulMcKellar",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@PaulMcKellar/zoom-admin-dashboard?t="
     },
     {
@@ -9346,7 +9346,7 @@
         "title": "CHATGPT CLONE",
         "description": "this just a bounty test\nAcceptance Criteria\n\nTechnical Details\n\nTimelines / Milestones",
         "author": "syrud",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@syrud/chatgpt-clone?t="
     },
     {
@@ -9358,5 +9358,15 @@
         "author": "GiggaPoggers",
         "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@GiggaPoggers/help-me-make-a-websi?t="
+    },
+    {
+        "index": "936",
+        "price": "$45.00",
+        "due_days": "due in 5 days",
+        "title": "Create a generative text model that's trained on proprietary data & I can do Q&A with",
+        "description": "Overview\nI want to train a model on a person's ideas (including tweets, blog posts, and podcast transcripts), do Q&A with it, and get text responses that are consistent with the \"voice\"/style and content of the provided inputs.\n\nAcceptance Criteria\nUse of current, best in class foundational model and training strategies\nModel can be trained on ~hundreds of tweets, tens of blog posts, and ~5 hours of podcast transcripts\nSimple UI for:\n** Providing multiple pieces of training data\n** Asking a question\n** Parameter for specifying max length of response (tokens or chars)\n** Seeing outputted text\nModel answers/outputs are consistent with \"voice\"/style and content of trained data\nBonus:\nTwitter and webpage scrapper (will pay extra for this)\n** Output can be up/down voted to fine tune\n** Option to regenerate response\n** Retains state/context (would like to hear pros/cons on this)",
+        "author": "SpencerKier",
+        "posted_time": "1 minute ago",
+        "link": "https://replit.com/bounties/@SpencerKier/create-a-generative?t="
     }
 ]
