@@ -9296,7 +9296,7 @@
         "title": "Create a Broken Replit Extension",
         "description": "Make me a broken Replit Extension that links to my website.",
         "author": "RayhanADev",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@RayhanADev/create-a-broken-repl?t="
     },
     {
@@ -9322,7 +9322,7 @@
     {
         "index": "932",
         "price": "$1,890.00",
-        "due_days": "due in 16 days",
+        "due_days": "due in 15 days",
         "title": "Create ChatBTC personal bitcoin technical assistant",
         "description": "Problem: Design a ChatGPT style personal assistant (\"ChatBTC\") trained to answer all bitcoin technical questions\nWe would like a standalone website on chatbtc.dev that answers queries regarding bitcoin's technical design and its historical and current development, including the Lightning Network. The model should be an LLM trained by digesting the following:\n the bitcoin and Lightning whitepapers\n the cypherpunk mailing list\n all of Satoshi Nakamoto's historical writings, emails, and posts (https://satoshi.nakamotoinstitute.org/)\nall historical Bitcoin Optech newsletters\nMastering Bitcoin\nProgramming Bitcoin\nGrokking Bitcoin\nMastering the Lightning Network\nbitcoin-dev mailing list\nlightning-dev mailing list\nbitcoin Stack Exchange\nall current and historical Bitcoin Improvement Proposals (BIPs)\nall Basis of Lightning Technology documents (BOLTs)\n\nThis bitcoin technical assistant (\"ChatBTC\") will be able to answer in natural language any queries regarding bitcoin's technical design and hi...",
         "author": "nachobtc",
@@ -9356,7 +9356,7 @@
         "title": "Help me make a website using discource",
         "description": "Im thinking about leaving most of the replit community, but there are several people here who i still enjoy. I would like a website made using discource (https://github.com/discourse/discourse) so that i can still partially be here\n\nAcceptance Criteria\nCreate a customized site using discource, that functions similarly to forum.codergautam.dev",
         "author": "GiggaPoggers",
-        "posted_time": "40 minutes ago",
+        "posted_time": "50 minutes ago",
         "link": "https://replit.com/bounties/@GiggaPoggers/help-me-make-a-websi?t="
     }
 ]

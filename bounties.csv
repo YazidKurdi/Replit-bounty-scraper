@@ -7614,7 +7614,7 @@ Acceptance Criteria
 
 Technical Details
 The process mapping framework would be the (UPN) standard. The idea would be to output the specific instructions needed to build a process map. The automatic creation of the actual map is out of scope and currently would only need to produce the correct relevant instructions for creating the process map manually.",BenBrumfield,19 hours ago,https://replit.com/bounties/@BenBrumfield/ai-model-mvp-recorde?t=
-929,$10.00,closed,Create a Broken Replit Extension,Make me a broken Replit Extension that links to my website.,RayhanADev,18 hours ago,https://replit.com/bounties/@RayhanADev/create-a-broken-repl?t=
+929,$10.00,closed,Create a Broken Replit Extension,Make me a broken Replit Extension that links to my website.,RayhanADev,19 hours ago,https://replit.com/bounties/@RayhanADev/create-a-broken-repl?t=
 930,$45.00,closed,nextjs / twilio integration,"a next js app that texts 5 phone numbers using twilio. then redirects the user to a url which i'll supply.
 
 i'm going to use it as a notification channel for some friends
@@ -7651,7 +7651,7 @@ shows room status
 Timelines / Milestones
 
 flexible",PaulMcKellar,14 hours ago,https://replit.com/bounties/@PaulMcKellar/zoom-admin-dashboard?t=
-932,"$1,890.00",due in 16 days,Create ChatBTC personal bitcoin technical assistant,"Problem: Design a ChatGPT style personal assistant (""ChatBTC"") trained to answer all bitcoin technical questions
+932,"$1,890.00",due in 15 days,Create ChatBTC personal bitcoin technical assistant,"Problem: Design a ChatGPT style personal assistant (""ChatBTC"") trained to answer all bitcoin technical questions
 We would like a standalone website on chatbtc.dev that answers queries regarding bitcoin's technical design and its historical and current development, including the Lightning Network. The model should be an LLM trained by digesting the following:
  the bitcoin and Lightning whitepapers
  the cypherpunk mailing list
@@ -7691,4 +7691,4 @@ Timelines / Milestones",syrud,5 hours ago,https://replit.com/bounties/@syrud/cha
 935,$4.50,closed,Help me make a website using discource,"Im thinking about leaving most of the replit community, but there are several people here who i still enjoy. I would like a website made using discource (https://github.com/discourse/discourse) so that i can still partially be here
 
 Acceptance Criteria
-Create a customized site using discource, that functions similarly to forum.codergautam.dev",GiggaPoggers,40 minutes ago,https://replit.com/bounties/@GiggaPoggers/help-me-make-a-websi?t=
+Create a customized site using discource, that functions similarly to forum.codergautam.dev",GiggaPoggers,50 minutes ago,https://replit.com/bounties/@GiggaPoggers/help-me-make-a-websi?t=
