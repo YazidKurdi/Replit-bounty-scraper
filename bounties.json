@@ -9266,7 +9266,7 @@
         "title": "Write a script to scrape data from a website",
         "description": "I want a script that can scrape specific data from a website. It will need to be able to click through an explore page, go into profiles, and gather social information such as Twitter and email.\n\nAcceptance Criteria\nThe script should generate a csv with all the data needed.",
         "author": "periwinkl3",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@periwinkl3/write-a-script-to-sc?t="
     },
     {
@@ -9276,7 +9276,7 @@
         "title": "Chatbot interface for doola",
         "description": "-\nBuild a AI powered CPA or formation assistant\n\nAcceptance Criteria -\nThe chatbot should have a simple interface. We will provide an API. The chatbot must be able to generate a proper response regarding data including answering basic questions about formation in different states, and tax compliance rules around different entity types.\n\nTechnical Details-\nFrontend - React, Typescript, Next.js\nBackend - Node.js, Express\nDatabase - Postgres",
         "author": "doolahq",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@doolahq/chatbot-interface-fo?t="
     },
     {
@@ -9296,7 +9296,7 @@
         "title": "Create a Broken Replit Extension",
         "description": "Make me a broken Replit Extension that links to my website.",
         "author": "RayhanADev",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@RayhanADev/create-a-broken-repl?t="
     },
     {
@@ -9326,7 +9326,7 @@
         "title": "Create ChatBTC personal bitcoin technical assistant",
         "description": "Problem: Design a ChatGPT style personal assistant (\"ChatBTC\") trained to answer all bitcoin technical questions\nWe would like a standalone website on chatbtc.dev that answers queries regarding bitcoin's technical design and its historical and current development, including the Lightning Network. The model should be an LLM trained by digesting the following:\n the bitcoin and Lightning whitepapers\n the cypherpunk mailing list\n all of Satoshi Nakamoto's historical writings, emails, and posts (https://satoshi.nakamotoinstitute.org/)\nall historical Bitcoin Optech newsletters\nMastering Bitcoin\nProgramming Bitcoin\nGrokking Bitcoin\nMastering the Lightning Network\nbitcoin-dev mailing list\nlightning-dev mailing list\nbitcoin Stack Exchange\nall current and historical Bitcoin Improvement Proposals (BIPs)\nall Basis of Lightning Technology documents (BOLTs)\n\nThis bitcoin technical assistant (\"ChatBTC\") will be able to answer in natural language any queries regarding bitcoin's technical design and hi...",
         "author": "nachobtc",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@nachobtc/create-chatbtc-perso?t="
     },
     {
@@ -9336,7 +9336,7 @@
         "title": "Algorithm to detect prominent parts in an image & bounding box",
         "description": "I need an algorithm built with Node.js that can take an image and determine the prominent parts, and calculate a bounding box. It doesn't need to be extremely complex- something that can detect where the eyes would naturally be drawn to, along with other potentially interesting features of the image.\n\nAn example:\nImage of a boat with expected bounding boxes\n\nBounding boxes should have a priority of how important they are to the image.\n\nOutput result shouldn't be an image, rather an array of pixel co-ordinates and priority.\n\nExtra needs\nWorks with most image file types\nWorks in low-light and high-light conditions\nCan be required as a Node.JS module\nEncouraged to use libraries such as Jimp",
         "author": "codingMASTER398",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@codingMASTER398/algorithm-to-detect?t="
     },
     {
