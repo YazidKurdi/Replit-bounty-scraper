@@ -9256,7 +9256,7 @@
         "title": "AI bid leveler",
         "description": "I want a platform where I can upload multiple bid documents for the same scope of work and get back a single table leveling out the bids comparing their line items against each other. Eg. Given a plumbing job with 5 bids I want to be able to upload the 5 bids I have and get back a table with apples to apples comparison of the line items across each bid.\n\nHere's an example output: https://docs.google.com/spreadsheets/d/1BsA00r1ROENNvUOmYhIvuE1HbI2QYdMN/edit#gid=181970847\n\nHere's a link with a demo video: https://bid-leveling.webflow.io/\n\nAcceptance Criteria\nA web app where I can upload multiple documents (at least up to 6 documents) and produces a table (doesn't need to be in excel or google sheets, text is fine) with an accurate bid comparison highlighting details from each bid.\n\nI will provide multiple human produced examples of a successful leveling process.\n\nTechnical Details",
         "author": "VictorHunt",
-        "posted_time": "24 hours ago",
+        "posted_time": "1 day ago",
         "link": "https://replit.com/bounties/@VictorHunt/ai-bid-leveler?t="
     },
     {
@@ -9276,7 +9276,7 @@
         "title": "Chatbot interface for doola",
         "description": "-\nBuild a AI powered CPA or formation assistant\n\nAcceptance Criteria -\nThe chatbot should have a simple interface. We will provide an API. The chatbot must be able to generate a proper response regarding data including answering basic questions about formation in different states, and tax compliance rules around different entity types.\n\nTechnical Details-\nFrontend - React, Typescript, Next.js\nBackend - Node.js, Express\nDatabase - Postgres",
         "author": "doolahq",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@doolahq/chatbot-interface-fo?t="
     },
     {
@@ -9316,7 +9316,7 @@
         "title": "VERY SIMPLE zoom admin dashboard",
         "description": "a web app for controlling my zoom rooms\n\nAcceptance Criteria\n\noauth or similar \"login with zoom account\" / zoom admin\na page that shows rooms on my account\na list of users currently in each room\nevery time you refresh the page, it gets fresh data\n\nTechnical Details\n\nnext js app (and react)\nworks on vercel\nconnects using zoom public api / some token system\nshows room status\n\nTimelines / Milestones\n\nflexible",
         "author": "PaulMcKellar",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@PaulMcKellar/zoom-admin-dashboard?t="
     },
     {
@@ -9346,7 +9346,7 @@
         "title": "CHATGPT CLONE",
         "description": "this just a bounty test\nAcceptance Criteria\n\nTechnical Details\n\nTimelines / Milestones",
         "author": "syrud",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@syrud/chatgpt-clone?t="
     }
 ]
