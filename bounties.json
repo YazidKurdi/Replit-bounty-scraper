@@ -9276,7 +9276,7 @@
         "title": "Chatbot interface for doola",
         "description": "-\nBuild a AI powered CPA or formation assistant\n\nAcceptance Criteria -\nThe chatbot should have a simple interface. We will provide an API. The chatbot must be able to generate a proper response regarding data including answering basic questions about formation in different states, and tax compliance rules around different entity types.\n\nTechnical Details-\nFrontend - React, Typescript, Next.js\nBackend - Node.js, Express\nDatabase - Postgres",
         "author": "doolahq",
-        "posted_time": "22 hours ago",
+        "posted_time": "23 hours ago",
         "link": "https://replit.com/bounties/@doolahq/chatbot-interface-fo?t="
     },
     {
@@ -9356,17 +9356,17 @@
         "title": "Help me make a website using discource",
         "description": "Im thinking about leaving most of the replit community, but there are several people here who i still enjoy. I would like a website made using discource (https://github.com/discourse/discourse) so that i can still partially be here\n\nAcceptance Criteria\nCreate a customized site using discource, that functions similarly to forum.codergautam.dev",
         "author": "GiggaPoggers",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@GiggaPoggers/help-me-make-a-websi?t="
     },
     {
         "index": "936",
         "price": "$45.00",
-        "due_days": "due in 5 days",
+        "due_days": "due in 4 days",
         "title": "Create a generative text model that's trained on proprietary data & I can do Q&A with",
         "description": "Overview\nI want to train a model on a person's ideas (including tweets, blog posts, and podcast transcripts), do Q&A with it, and get text responses that are consistent with the \"voice\"/style and content of the provided inputs.\n\nAcceptance Criteria\nUse of current, best in class foundational model and training strategies\nModel can be trained on ~hundreds of tweets, tens of blog posts, and ~5 hours of podcast transcripts\nSimple UI for:\n** Providing multiple pieces of training data\n** Asking a question\n** Parameter for specifying max length of response (tokens or chars)\n** Seeing outputted text\nModel answers/outputs are consistent with \"voice\"/style and content of trained data\nBonus:\nTwitter and webpage scrapper (will pay extra for this)\n** Output can be up/down voted to fine tune\n** Option to regenerate response\n** Retains state/context (would like to hear pros/cons on this)",
         "author": "SpencerKier",
-        "posted_time": "1 minute ago",
+        "posted_time": "23 minutes ago",
         "link": "https://replit.com/bounties/@SpencerKier/create-a-generative?t="
     }
 ]
