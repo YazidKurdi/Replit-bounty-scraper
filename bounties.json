@@ -9356,7 +9356,7 @@
         "title": "Help me make a website using discource",
         "description": "Im thinking about leaving most of the replit community, but there are several people here who i still enjoy. I would like a website made using discource (https://github.com/discourse/discourse) so that i can still partially be here\n\nAcceptance Criteria\nCreate a customized site using discource, that functions similarly to forum.codergautam.dev",
         "author": "GiggaPoggers",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@GiggaPoggers/help-me-make-a-websi?t="
     },
     {
@@ -9396,7 +9396,7 @@
         "title": "OAuth flows in NextJS app",
         "description": "A nextjs app needs support for additional oauth connections \u2013 Webflow, GitHub, Contentful.\n\nAcceptance Criteria\n\u2022 Use nextjs and a nextjs API\n\u2022 Support oauth connections for Webflow, GitHub, and Contentful\n\u2022 Log a variable that has the user authorization's access and tokens for each service",
         "author": "gehrigk",
-        "posted_time": "7 minutes ago",
+        "posted_time": "16 minutes ago",
         "link": "https://replit.com/bounties/@gehrigk/oauth-flows-in-nextj?t="
     }
 ]
