@@ -9326,7 +9326,7 @@
         "title": "Create ChatBTC personal bitcoin technical assistant",
         "description": "Problem: Design a ChatGPT style personal assistant (\"ChatBTC\") trained to answer all bitcoin technical questions\nWe would like a standalone website on chatbtc.dev that answers queries regarding bitcoin's technical design and its historical and current development, including the Lightning Network. The model should be an LLM trained by digesting the following:\n the bitcoin and Lightning whitepapers\n the cypherpunk mailing list\n all of Satoshi Nakamoto's historical writings, emails, and posts (https://satoshi.nakamotoinstitute.org/)\nall historical Bitcoin Optech newsletters\nMastering Bitcoin\nProgramming Bitcoin\nGrokking Bitcoin\nMastering the Lightning Network\nbitcoin-dev mailing list\nlightning-dev mailing list\nbitcoin Stack Exchange\nall current and historical Bitcoin Improvement Proposals (BIPs)\nall Basis of Lightning Technology documents (BOLTs)\n\nThis bitcoin technical assistant (\"ChatBTC\") will be able to answer in natural language any queries regarding bitcoin's technical design and hi...",
         "author": "nachobtc",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@nachobtc/create-chatbtc-perso?t="
     },
     {
@@ -9336,7 +9336,7 @@
         "title": "Algorithm to detect prominent parts in an image & bounding box",
         "description": "I need an algorithm built with Node.js that can take an image and determine the prominent parts, and calculate a bounding box. It doesn't need to be extremely complex- something that can detect where the eyes would naturally be drawn to, along with other potentially interesting features of the image.\n\nAn example:\nImage of a boat with expected bounding boxes\n\nBounding boxes should have a priority of how important they are to the image.\n\nOutput result shouldn't be an image, rather an array of pixel co-ordinates and priority.\n\nExtra needs\nWorks with most image file types\nWorks in low-light and high-light conditions\nCan be required as a Node.JS module\nEncouraged to use libraries such as Jimp",
         "author": "codingMASTER398",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@codingMASTER398/algorithm-to-detect?t="
     },
     {
@@ -9366,7 +9366,7 @@
         "title": "Create a generative text model that's trained on proprietary data & I can do Q&A with",
         "description": "Overview\nI want to train a model on a person's ideas (including tweets, blog posts, and podcast transcripts), do Q&A with it, and get text responses that are consistent with the \"voice\"/style and content of the provided inputs.\n\nAcceptance Criteria\nUse of current, best in class foundational model and training strategies\nModel can be trained on ~hundreds of tweets, tens of blog posts, and ~5 hours of podcast transcripts\nSimple UI for:\n** Providing multiple pieces of training data\n** Asking a question\n** Parameter for specifying max length of response (tokens or chars)\n** Seeing outputted text\nModel answers/outputs are consistent with \"voice\"/style and content of trained data\nBonus:\nTwitter and webpage scrapper (will pay extra for this)\n** Output can be up/down voted to fine tune\n** Option to regenerate response\n** Retains state/context (would like to hear pros/cons on this)",
         "author": "SpencerKier",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@SpencerKier/create-a-generative?t="
     },
     {
@@ -9396,7 +9396,7 @@
         "title": "OAuth flows in NextJS app",
         "description": "A nextjs app needs support for additional oauth connections \u2013 Webflow, GitHub, Contentful.\n\nAcceptance Criteria\n\u2022 Use nextjs and a nextjs API\n\u2022 Support oauth connections for Webflow, GitHub, and Contentful\n\u2022 Log a variable that has the user authorization's access and tokens for each service",
         "author": "gehrigk",
-        "posted_time": "16 minutes ago",
+        "posted_time": "26 minutes ago",
         "link": "https://replit.com/bounties/@gehrigk/oauth-flows-in-nextj?t="
     }
 ]

@@ -7667,7 +7667,7 @@ bitcoin Stack Exchange
 all current and historical Bitcoin Improvement Proposals (BIPs)
 all Basis of Lightning Technology documents (BOLTs)
 
-This bitcoin technical assistant (""ChatBTC"") will be able to answer in natural language any queries regarding bitcoin's technical design and hi...",nachobtc,18 hours ago,https://replit.com/bounties/@nachobtc/create-chatbtc-perso?t=
+This bitcoin technical assistant (""ChatBTC"") will be able to answer in natural language any queries regarding bitcoin's technical design and hi...",nachobtc,19 hours ago,https://replit.com/bounties/@nachobtc/create-chatbtc-perso?t=
 933,$67.50,closed,Algorithm to detect prominent parts in an image & bounding box,"I need an algorithm built with Node.js that can take an image and determine the prominent parts, and calculate a bounding box. It doesn't need to be extremely complex- something that can detect where the eyes would naturally be drawn to, along with other potentially interesting features of the image.
 
 An example:
@@ -7681,7 +7681,7 @@ Extra needs
 Works with most image file types
 Works in low-light and high-light conditions
 Can be required as a Node.JS module
-Encouraged to use libraries such as Jimp",codingMASTER398,14 hours ago,https://replit.com/bounties/@codingMASTER398/algorithm-to-detect?t=
+Encouraged to use libraries such as Jimp",codingMASTER398,15 hours ago,https://replit.com/bounties/@codingMASTER398/algorithm-to-detect?t=
 934,$7.11,closed,CHATGPT CLONE,"this just a bounty test
 Acceptance Criteria
 
@@ -7708,7 +7708,7 @@ Bonus:
 Twitter and webpage scrapper (will pay extra for this)
 ** Output can be up/down voted to fine tune
 ** Option to regenerate response
-** Retains state/context (would like to hear pros/cons on this)",SpencerKier,5 hours ago,https://replit.com/bounties/@SpencerKier/create-a-generative?t=
+** Retains state/context (would like to hear pros/cons on this)",SpencerKier,6 hours ago,https://replit.com/bounties/@SpencerKier/create-a-generative?t=
 937,$200.00,due in 6 days,Create a chat WebApp fed by Twilio API,"We help clients send automated messages to their customers with Twilio Programmable Messaging API. Our clients want to see their customers' responses and of course reply back.
 
 Acceptance criteria
@@ -7738,4 +7738,4 @@ The ideal candidate will possess strong Python development skills, particularly 
 Acceptance Criteria
 • Use nextjs and a nextjs API
 • Support oauth connections for Webflow, GitHub, and Contentful
-• Log a variable that has the user authorization's access and tokens for each service",gehrigk,16 minutes ago,https://replit.com/bounties/@gehrigk/oauth-flows-in-nextj?t=
+• Log a variable that has the user authorization's access and tokens for each service",gehrigk,26 minutes ago,https://replit.com/bounties/@gehrigk/oauth-flows-in-nextj?t=
