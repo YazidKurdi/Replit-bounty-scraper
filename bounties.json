@@ -9296,7 +9296,7 @@
         "title": "Create a Broken Replit Extension",
         "description": "Make me a broken Replit Extension that links to my website.",
         "author": "RayhanADev",
-        "posted_time": "24 hours ago",
+        "posted_time": "1 day ago",
         "link": "https://replit.com/bounties/@RayhanADev/create-a-broken-repl?t="
     },
     {
@@ -9306,7 +9306,7 @@
         "title": "nextjs / twilio integration",
         "description": "a next js app that texts 5 phone numbers using twilio. then redirects the user to a url which i'll supply.\n\ni'm going to use it as a notification channel for some friends\n\nAcceptance Criteria\n\nis a next js app\nruns on vercel\nsends out 5 text messages from a array of phone numbers\nif any of them fail, logs to error log\n\nTechnical Details\n\nnextjs\nno db\n\nTimelines / Milestones",
         "author": "PaulMcKellar",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@PaulMcKellar/nextjs-twilio-integr?t="
     },
     {
@@ -9316,7 +9316,7 @@
         "title": "VERY SIMPLE zoom admin dashboard",
         "description": "a web app for controlling my zoom rooms\n\nAcceptance Criteria\n\noauth or similar \"login with zoom account\" / zoom admin\na page that shows rooms on my account\na list of users currently in each room\nevery time you refresh the page, it gets fresh data\n\nTechnical Details\n\nnext js app (and react)\nworks on vercel\nconnects using zoom public api / some token system\nshows room status\n\nTimelines / Milestones\n\nflexible",
         "author": "PaulMcKellar",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@PaulMcKellar/zoom-admin-dashboard?t="
     },
     {
@@ -9346,7 +9346,7 @@
         "title": "CHATGPT CLONE",
         "description": "this just a bounty test\nAcceptance Criteria\n\nTechnical Details\n\nTimelines / Milestones",
         "author": "syrud",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@syrud/chatgpt-clone?t="
     },
     {
@@ -9376,7 +9376,7 @@
         "title": "Create a chat WebApp fed by Twilio API",
         "description": "We help clients send automated messages to their customers with Twilio Programmable Messaging API. Our clients want to see their customers' responses and of course reply back.\n\nAcceptance criteria\n\nMulti-user (each user sees their own account)\nMulti-chat navigation\nRead as a chat, including media messages, all the chat history with a user (messages with timestamp)\nInput box to write and reply (with send button and also with enter)\nDocument the code and explain how to add users\nYou are ENCOURAGED to boilerplate code and templates. The objective is to do this job fast.\nDeploy the app on DigitalOcean App Platform\n\nTimelines / Milestones\n\nFinal delivery March 3, 2023\n\nRemember you are encouraged to boilerplate code. Prioritize speed over beauty.",
         "author": "mattpatagon",
-        "posted_time": "17 minutes ago",
+        "posted_time": "30 minutes ago",
         "link": "https://replit.com/bounties/@mattpatagon/create-a-chat-webapp?t="
     }
 ]
