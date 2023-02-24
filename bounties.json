@@ -9236,7 +9236,7 @@
         "title": "Merge forks snarkjs",
         "description": "1) upstream the decompression code to the chunked snarkjs fork\u00a0so that everyone can use it -- for instance, an alternate path to call fullProve with compressed = true and similarly bunch of s3 links of .gz files.\n\n2) merge all of the 3 forks into one. basically, there's a fork\u00a0that has chunked zkeys working client side, there's a second fork\u00a0that generates chunked zkeys on a machine, there's the decompression code, and there's\u00a0the original\u00a0which doesn't even know about chunking. if we could\u00a0merge all of these, that would be ideal\n\nAcceptance Criteria\nexperience with repo",
         "author": "AJGupta",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/merge-forks-snarkjs?t="
     },
     {
@@ -9246,7 +9246,7 @@
         "title": "Email + Discord Authenticator (Node + React / Next.js)",
         "description": "Users joining my discord server via invite only has caused problems in the past in which a user creates a new account to evade a ban.  Of course this can't be stopped, but email verification can help.  I want a Node.js + React (See the server-side react template) Or a Next.js application that allows me to accomplish this.\n\nAcceptance Criteria\nWhen users visit the repl URL (or index page), display the index react page.  There should be a button that opens up the link to authorize discord.  You can use dummy text for now.\nThe authentication route should use discord oauth with the permissions to a) add someone to a discord server b) access the user's email, username, and avatar.\nUpon authentication,\n store the user's email and discordID in a MongoDB document and set the verified field to false.\n Send the user a verification email (node.js smtp, you can use https://email.connerow.dev if you want).  The email should contain a link to verify the user.\n Add the user to my ...",
         "author": "ReplitIronclad",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@ReplitIronclad/email-discord-authen?t="
     },
     {
@@ -9286,7 +9286,7 @@
         "title": "AI Model MVP - Recorded Interview to Process Map Output",
         "description": "As a consultant, we have to understand the our client's business including their existing business processes prior to building solutions.\n\nTypically recorded discovery sessions are conducted and then later converted to relevant process diagrams to build an understanding and maintain documentation.\n\nThis process is tedious and often takes 2-3x as long as the interview to convert to a process map. The ability to get a significant way there with AI, would save tremendous time.\n\nAcceptance Criteria\n You can take a one-hour recorded meeting with a stakeholder and extract the relevant process map from it with >=50% accuracy.\n\nTechnical Details\nThe process mapping framework would be the (UPN) standard. The idea would be to output the specific instructions needed to build a process map. The automatic creation of the actual map is out of scope and currently would only need to produce the correct relevant instructions for creating the process map manually.",
         "author": "BenBrumfield",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@BenBrumfield/ai-model-mvp-recorde?t="
     },
     {
@@ -9306,7 +9306,7 @@
         "title": "nextjs / twilio integration",
         "description": "a next js app that texts 5 phone numbers using twilio. then redirects the user to a url which i'll supply.\n\ni'm going to use it as a notification channel for some friends\n\nAcceptance Criteria\n\nis a next js app\nruns on vercel\nsends out 5 text messages from a array of phone numbers\nif any of them fail, logs to error log\n\nTechnical Details\n\nnextjs\nno db\n\nTimelines / Milestones",
         "author": "PaulMcKellar",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@PaulMcKellar/nextjs-twilio-integr?t="
     },
     {
@@ -9316,7 +9316,7 @@
         "title": "VERY SIMPLE zoom admin dashboard",
         "description": "a web app for controlling my zoom rooms\n\nAcceptance Criteria\n\noauth or similar \"login with zoom account\" / zoom admin\na page that shows rooms on my account\na list of users currently in each room\nevery time you refresh the page, it gets fresh data\n\nTechnical Details\n\nnext js app (and react)\nworks on vercel\nconnects using zoom public api / some token system\nshows room status\n\nTimelines / Milestones\n\nflexible",
         "author": "PaulMcKellar",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@PaulMcKellar/zoom-admin-dashboard?t="
     },
     {
