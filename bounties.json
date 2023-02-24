@@ -9376,7 +9376,17 @@
         "title": "Create a chat WebApp fed by Twilio API",
         "description": "We help clients send automated messages to their customers with Twilio Programmable Messaging API. Our clients want to see their customers' responses and of course reply back.\n\nAcceptance criteria\n\nMulti-user (each user sees their own account)\nMulti-chat navigation\nRead as a chat, including media messages, all the chat history with a user (messages with timestamp)\nInput box to write and reply (with send button and also with enter)\nDocument the code and explain how to add users\nYou are ENCOURAGED to boilerplate code and templates. The objective is to do this job fast.\nDeploy the app on DigitalOcean App Platform\n\nTimelines / Milestones\n\nFinal delivery March 3, 2023\n\nRemember you are encouraged to boilerplate code. Prioritize speed over beauty.",
         "author": "mattpatagon",
-        "posted_time": "30 minutes ago",
+        "posted_time": "38 minutes ago",
         "link": "https://replit.com/bounties/@mattpatagon/create-a-chat-webapp?t="
+    },
+    {
+        "index": "938",
+        "price": "$45.00",
+        "due_days": "due in 3 days",
+        "title": "Convince me of your skills maintaining and updating a CRUD Python backend",
+        "description": "We are looking for a skilled Python backend developer who can maintain a high-performing API for our consumer applications. The ideal candidate should be an expert in ODM (ORM for NoSQL), Pydantic, and automatically generated Swagger docs. Additionally, you should be well-versed with Google Cloud, and capable of integrating it into the backend for seamless data management.\n\nAcceptance Criteria:\nThe successful candidate should demonstrate a high level of expertise in developing Python backends for serving consumer applications. You should be able to provide a detailed portfolio of relevant projects, as well as showcase examples of how you have tackled backend-related challenges in your previous work.\n\nTechnical Details:\nThe ideal candidate will possess strong Python development skills, particularly in building and maintaining APIs for consumer applications. You should have experience with ODMs (ORM for NoSQL) and Pydantic, as well as be able to generate Swagger docs...",
+        "author": "lorestatesman",
+        "posted_time": "3 minutes ago",
+        "link": "https://replit.com/bounties/@lorestatesman/convince-me-of-your?t="
     }
 ]
