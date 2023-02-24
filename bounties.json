@@ -9266,7 +9266,7 @@
         "title": "Write a script to scrape data from a website",
         "description": "I want a script that can scrape specific data from a website. It will need to be able to click through an explore page, go into profiles, and gather social information such as Twitter and email.\n\nAcceptance Criteria\nThe script should generate a csv with all the data needed.",
         "author": "periwinkl3",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@periwinkl3/write-a-script-to-sc?t="
     },
     {
@@ -9326,7 +9326,7 @@
         "title": "Create ChatBTC personal bitcoin technical assistant",
         "description": "Problem: Design a ChatGPT style personal assistant (\"ChatBTC\") trained to answer all bitcoin technical questions\nWe would like a standalone website on chatbtc.dev that answers queries regarding bitcoin's technical design and its historical and current development, including the Lightning Network. The model should be an LLM trained by digesting the following:\n the bitcoin and Lightning whitepapers\n the cypherpunk mailing list\n all of Satoshi Nakamoto's historical writings, emails, and posts (https://satoshi.nakamotoinstitute.org/)\nall historical Bitcoin Optech newsletters\nMastering Bitcoin\nProgramming Bitcoin\nGrokking Bitcoin\nMastering the Lightning Network\nbitcoin-dev mailing list\nlightning-dev mailing list\nbitcoin Stack Exchange\nall current and historical Bitcoin Improvement Proposals (BIPs)\nall Basis of Lightning Technology documents (BOLTs)\n\nThis bitcoin technical assistant (\"ChatBTC\") will be able to answer in natural language any queries regarding bitcoin's technical design and hi...",
         "author": "nachobtc",
-        "posted_time": "24 minutes ago",
+        "posted_time": "33 minutes ago",
         "link": "https://replit.com/bounties/@nachobtc/create-chatbtc-perso?t="
     }
 ]
