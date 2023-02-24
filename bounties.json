@@ -9276,7 +9276,7 @@
         "title": "Chatbot interface for doola",
         "description": "-\nBuild a AI powered CPA or formation assistant\n\nAcceptance Criteria -\nThe chatbot should have a simple interface. We will provide an API. The chatbot must be able to generate a proper response regarding data including answering basic questions about formation in different states, and tax compliance rules around different entity types.\n\nTechnical Details-\nFrontend - React, Typescript, Next.js\nBackend - Node.js, Express\nDatabase - Postgres",
         "author": "doolahq",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@doolahq/chatbot-interface-fo?t="
     },
     {
@@ -9316,7 +9316,7 @@
         "title": "VERY SIMPLE zoom admin dashboard",
         "description": "a web app for controlling my zoom rooms\n\nAcceptance Criteria\n\noauth or similar \"login with zoom account\" / zoom admin\na page that shows rooms on my account\na list of users currently in each room\nevery time you refresh the page, it gets fresh data\n\nTechnical Details\n\nnext js app (and react)\nworks on vercel\nconnects using zoom public api / some token system\nshows room status\n\nTimelines / Milestones\n\nflexible",
         "author": "PaulMcKellar",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@PaulMcKellar/zoom-admin-dashboard?t="
     },
     {
@@ -9336,7 +9336,7 @@
         "title": "Algorithm to detect prominent parts in an image & bounding box",
         "description": "I need an algorithm built with Node.js that can take an image and determine the prominent parts, and calculate a bounding box. It doesn't need to be extremely complex- something that can detect where the eyes would naturally be drawn to, along with other potentially interesting features of the image.\n\nAn example:\nImage of a boat with expected bounding boxes\n\nBounding boxes should have a priority of how important they are to the image.\n\nOutput result shouldn't be an image, rather an array of pixel co-ordinates and priority.\n\nExtra needs\nWorks with most image file types\nWorks in low-light and high-light conditions\nCan be required as a Node.JS module\nEncouraged to use libraries such as Jimp",
         "author": "codingMASTER398",
-        "posted_time": "6 minutes ago",
+        "posted_time": "21 minutes ago",
         "link": "https://replit.com/bounties/@codingMASTER398/algorithm-to-detect?t="
     }
 ]
