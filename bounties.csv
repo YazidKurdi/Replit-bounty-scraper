@@ -7784,7 +7784,7 @@ Return an error message if the URL / # is invalid or the post does not contain i
 Acceptance Criteria
 A bash script that does end-to-end deployment of Kubeflow on AKS 1.24.6. The script should run successfully on a new macOS environment, so don't assume I have any helper os libraries / CLI installed except for az and kubectl
 
-I can't add you to my AKS cluster. You will have develop on your own cluster.",bio-2023,21 hours ago,https://replit.com/bounties/@bio-2023/deploy-kubeflow-serv?t=
+I can't add you to my AKS cluster. You will have develop on your own cluster.",bio-2023,22 hours ago,https://replit.com/bounties/@bio-2023/deploy-kubeflow-serv?t=
 944,$67.50,due in 9 days,Generative text model trained on various text sources that I can do Q&A with,"Overview
 I want to train a model on a person's ideas (including tweets, blog posts, and podcast transcripts), do Q&A with it, and get text responses that are consistent with the ""voice""/style and content of the provided inputs.
 
