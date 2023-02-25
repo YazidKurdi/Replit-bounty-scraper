@@ -9396,7 +9396,7 @@
         "title": "OAuth flows in NextJS app",
         "description": "A nextjs app needs support for additional oauth connections \u2013 Webflow, GitHub, Contentful.\n\nAcceptance Criteria\n\u2022 Use nextjs and a nextjs API\n\u2022 Support oauth connections for Webflow, GitHub, and Contentful\n\u2022 Log a variable that has the user authorization's access and tokens for each service",
         "author": "gehrigk",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@gehrigk/oauth-flows-in-nextj?t="
     },
     {
