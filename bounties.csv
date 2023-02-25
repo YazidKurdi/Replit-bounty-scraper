@@ -7692,7 +7692,7 @@ Timelines / Milestones",syrud,1 day ago,https://replit.com/bounties/@syrud/chatg
 
 Acceptance Criteria
 Create a customized site using discource, that functions similarly to forum.codergautam.dev",GiggaPoggers,21 hours ago,https://replit.com/bounties/@GiggaPoggers/help-me-make-a-websi?t=
-936,$45.00,due in 5 days,Create a generative text model that's trained on proprietary data & I can do Q&A with,"Overview
+936,$45.00,due in 4 days,Create a generative text model that's trained on proprietary data & I can do Q&A with,"Overview
 I want to train a model on a person's ideas (including tweets, blog posts, and podcast transcripts), do Q&A with it, and get text responses that are consistent with the ""voice""/style and content of the provided inputs.
 
 Acceptance Criteria
@@ -7709,7 +7709,7 @@ Twitter and webpage scrapper (will pay extra for this)
 ** Output can be up/down voted to fine tune
 ** Option to regenerate response
 ** Retains state/context (would like to hear pros/cons on this)",SpencerKier,18 hours ago,https://replit.com/bounties/@SpencerKier/create-a-generative?t=
-937,$200.00,due in 6 days,Create a chat WebApp fed by Twilio API,"We help clients send automated messages to their customers with Twilio Programmable Messaging API. Our clients want to see their customers' responses and of course reply back.
+937,$200.00,due in 5 days,Create a chat WebApp fed by Twilio API,"We help clients send automated messages to their customers with Twilio Programmable Messaging API. Our clients want to see their customers' responses and of course reply back.
 
 Acceptance criteria
 
@@ -7726,20 +7726,20 @@ Timelines / Milestones
 Final delivery March 3, 2023
 
 Remember you are encouraged to boilerplate code. Prioritize speed over beauty.",mattpatagon,15 hours ago,https://replit.com/bounties/@mattpatagon/create-a-chat-webapp?t=
-938,$45.00,due in 3 days,Convince me of your skills maintaining and updating a CRUD Python backend,"We are looking for a skilled Python backend developer who can maintain a high-performing API for our consumer applications. The ideal candidate should be an expert in ODM (ORM for NoSQL), Pydantic, and automatically generated Swagger docs. Additionally, you should be well-versed with Google Cloud, and capable of integrating it into the backend for seamless data management.
+938,$45.00,due in 2 days,Convince me of your skills maintaining and updating a CRUD Python backend,"We are looking for a skilled Python backend developer who can maintain a high-performing API for our consumer applications. The ideal candidate should be an expert in ODM (ORM for NoSQL), Pydantic, and automatically generated Swagger docs. Additionally, you should be well-versed with Google Cloud, and capable of integrating it into the backend for seamless data management.
 
 Acceptance Criteria:
 The successful candidate should demonstrate a high level of expertise in developing Python backends for serving consumer applications. You should be able to provide a detailed portfolio of relevant projects, as well as showcase examples of how you have tackled backend-related challenges in your previous work.
 
 Technical Details:
-The ideal candidate will possess strong Python development skills, particularly in building and maintaining APIs for consumer applications. You should have experience with ODMs (ORM for NoSQL) and Pydantic, as well as be able to generate Swagger docs...",lorestatesman,14 hours ago,https://replit.com/bounties/@lorestatesman/convince-me-of-your?t=
-939,$45.00,due in 3 days,OAuth flows in NextJS app,"A nextjs app needs support for additional oauth connections – Webflow, GitHub, Contentful.
+The ideal candidate will possess strong Python development skills, particularly in building and maintaining APIs for consumer applications. You should have experience with ODMs (ORM for NoSQL) and Pydantic, as well as be able to generate Swagger docs...",lorestatesman,15 hours ago,https://replit.com/bounties/@lorestatesman/convince-me-of-your?t=
+939,$45.00,due in 2 days,OAuth flows in NextJS app,"A nextjs app needs support for additional oauth connections – Webflow, GitHub, Contentful.
 
 Acceptance Criteria
 • Use nextjs and a nextjs API
 • Support oauth connections for Webflow, GitHub, and Contentful
 • Log a variable that has the user authorization's access and tokens for each service",gehrigk,13 hours ago,https://replit.com/bounties/@gehrigk/oauth-flows-in-nextj?t=
-940,$13.10,due in 22 days,Graph from PDF - Text AI Modelling (Includes how-to article),"Searching for someone to do some work with Text-to-Knowledge graph models.
+940,$13.10,due in 21 days,Graph from PDF - Text AI Modelling (Includes how-to article),"Searching for someone to do some work with Text-to-Knowledge graph models.
 
 End goal - A Repl or Vercel instance that's hosting a fast-loading Knowledge graph of a book.
 
@@ -7753,16 +7753,16 @@ And full how-to guide here: https://medium.com/nlplanet/building-a-knowledge-bas
 Given the amount of guidance, I feel this should be somewhat quick for someone with experience setting up this environment. I can also host the Repl if more compute power is needed.
 
 Acceptance Criteria
-A running repl demonstrating a knowledge graph of the book linked above. I should be able to see broad concepts and zoom in/out. I'd also like to...",Bandos1000,11 hours ago,https://replit.com/bounties/@Bandos1000/graph-from-pdf-text?t=
-941,$4.50,due in 12 days,Simple discord bots,"Fix some bugs:
+A running repl demonstrating a knowledge graph of the book linked above. I should be able to see broad concepts and zoom in/out. I'd also like to...",Bandos1000,12 hours ago,https://replit.com/bounties/@Bandos1000/graph-from-pdf-text?t=
+941,$4.50,due in 11 days,Simple discord bots,"Fix some bugs:
 I need a bug fixed in the auto-response function of my bot (It only responds to the top 3 triggers of the if else's)
 I need a thing added to my self-bot (I have a very simple NodeJS app that makes a discord account online 24/7 and I want it to also change the status of the account and I need multi token support added)
 Make a discord bot:
 Active dev badge discord bot (1 command bot very easy)
 Acceptance Criteria
 Must know DiscordJS 12 and latest
-Must have discord username and tag in your application",OddGames,11 hours ago,https://replit.com/bounties/@OddGames/simple-discord-bots?t=
-942,$900.00,due in 7 days,AI Ingredients Social Media Webapp,"Requirement
+Must have discord username and tag in your application",OddGames,12 hours ago,https://replit.com/bounties/@OddGames/simple-discord-bots?t=
+942,$900.00,due in 6 days,AI Ingredients Social Media Webapp,"Requirement
 
 The requirement is to capture a social media post about a food trend making video/post (via  a  URL or trending hashtag support for FB, IG, TikTok, Pinterest etc.)
 
@@ -7779,7 +7779,7 @@ Acceptance Criteria
 A URL / #tag entry box and CTA
 A progress bar whilst scraping and processing
 Return an error message if the URL / # is invalid or the post does not contain ingredients or if th...",RohanSinclair,11 hours ago,https://replit.com/bounties/@RohanSinclair/ai-ingredients-socia?t=
-943,$45.00,due in 4 days,Deploy Kubeflow server on AKS ,"I want to deploy a Kubeflow server on my Azure Kubernetes Service (AKS) cluster under a kubeflow-dev namespace. Unfortunately, I got an error, something about Kubernetes version > 1.16... My cluster is running 1.24.6
+943,$45.00,due in 3 days,Deploy Kubeflow server on AKS ,"I want to deploy a Kubeflow server on my Azure Kubernetes Service (AKS) cluster under a kubeflow-dev namespace. Unfortunately, I got an error, something about Kubernetes version > 1.16... My cluster is running 1.24.6
 
 Acceptance Criteria
 A bash script that does end-to-end deployment of Kubeflow on AKS 1.24.6. The script should run successfully on a new macOS environment, so don't assume I have any helper os libraries / CLI installed except for az and kubectl
