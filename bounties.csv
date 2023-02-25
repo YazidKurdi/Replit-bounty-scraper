@@ -7732,7 +7732,7 @@ Acceptance Criteria:
 The successful candidate should demonstrate a high level of expertise in developing Python backends for serving consumer applications. You should be able to provide a detailed portfolio of relevant projects, as well as showcase examples of how you have tackled backend-related challenges in your previous work.
 
 Technical Details:
-The ideal candidate will possess strong Python development skills, particularly in building and maintaining APIs for consumer applications. You should have experience with ODMs (ORM for NoSQL) and Pydantic, as well as be able to generate Swagger docs...",lorestatesman,24 hours ago,https://replit.com/bounties/@lorestatesman/convince-me-of-your?t=
+The ideal candidate will possess strong Python development skills, particularly in building and maintaining APIs for consumer applications. You should have experience with ODMs (ORM for NoSQL) and Pydantic, as well as be able to generate Swagger docs...",lorestatesman,1 day ago,https://replit.com/bounties/@lorestatesman/convince-me-of-your?t=
 939,$45.00,due in 14 days,OAuth flows in NextJS app,"A nextjs app needs support for additional oauth connections – Webflow, GitHub, Contentful.
 
 Acceptance Criteria
@@ -7778,7 +7778,7 @@ Acceptance Criteria
 
 A URL / #tag entry box and CTA
 A progress bar whilst scraping and processing
-Return an error message if the URL / # is invalid or the post does not contain ingredients or if th...",RohanSinclair,20 hours ago,https://replit.com/bounties/@RohanSinclair/ai-ingredients-socia?t=
+Return an error message if the URL / # is invalid or the post does not contain ingredients or if th...",RohanSinclair,21 hours ago,https://replit.com/bounties/@RohanSinclair/ai-ingredients-socia?t=
 943,$45.00,due in 3 days,Deploy Kubeflow server on AKS ,"I want to deploy a Kubeflow server on my Azure Kubernetes Service (AKS) cluster under a kubeflow-dev namespace. Unfortunately, I got an error, something about Kubernetes version > 1.16... My cluster is running 1.24.6
 
 Acceptance Criteria

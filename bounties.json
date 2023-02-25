@@ -9386,7 +9386,7 @@
         "title": "Convince me of your skills maintaining and updating a CRUD Python backend",
         "description": "We are looking for a skilled Python backend developer who can maintain a high-performing API for our consumer applications. The ideal candidate should be an expert in ODM (ORM for NoSQL), Pydantic, and automatically generated Swagger docs. Additionally, you should be well-versed with Google Cloud, and capable of integrating it into the backend for seamless data management.\n\nAcceptance Criteria:\nThe successful candidate should demonstrate a high level of expertise in developing Python backends for serving consumer applications. You should be able to provide a detailed portfolio of relevant projects, as well as showcase examples of how you have tackled backend-related challenges in your previous work.\n\nTechnical Details:\nThe ideal candidate will possess strong Python development skills, particularly in building and maintaining APIs for consumer applications. You should have experience with ODMs (ORM for NoSQL) and Pydantic, as well as be able to generate Swagger docs...",
         "author": "lorestatesman",
-        "posted_time": "24 hours ago",
+        "posted_time": "1 day ago",
         "link": "https://replit.com/bounties/@lorestatesman/convince-me-of-your?t="
     },
     {
@@ -9426,7 +9426,7 @@
         "title": "AI Ingredients Social Media Webapp",
         "description": "Requirement\n\nThe requirement is to capture a social media post about a food trend making video/post (via  a  URL or trending hashtag support for FB, IG, TikTok, Pinterest etc.)\n\nDetermine and extract ingredients required for the recipe.\n\nFrom the specific URL or food trends # (some samples below) you need to extract the ingredients and map to a separate database and \u201cfuzzy match\u201d to actual product SKU\u2019s and measurements\n\nFor example \u201c3 egg whites\u201d -> mapped to 3 eggs or 30g of egg whites - 20g of flour mapped to -> bag self raising flour etc.)\n\nThe end result should be an easy to read shopping list that is returned to the user with a single \u201cBuy\u201d button for all the ingredients to be purchased with a combined price of SKU\u2019s and a selection so the user and sedat or deselect what they require.\n\nAcceptance Criteria\n\nA URL / #tag entry box and CTA\nA progress bar whilst scraping and processing\nReturn an error message if the URL / # is invalid or the post does not contain ingredients or if th...",
         "author": "RohanSinclair",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@RohanSinclair/ai-ingredients-socia?t="
     },
     {
