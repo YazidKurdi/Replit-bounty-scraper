@@ -9366,7 +9366,7 @@
         "title": "Create a generative text model that's trained on proprietary data & I can do Q&A with",
         "description": "Overview\nI want to train a model on a person's ideas (including tweets, blog posts, and podcast transcripts), do Q&A with it, and get text responses that are consistent with the \"voice\"/style and content of the provided inputs.\n\nAcceptance Criteria\nUse of current, best in class foundational model and training strategies\nModel can be trained on ~hundreds of tweets, tens of blog posts, and ~5 hours of podcast transcripts\nSimple UI for:\n** Providing multiple pieces of training data\n** Asking a question\n** Parameter for specifying max length of response (tokens or chars)\n** Seeing outputted text\nModel answers/outputs are consistent with \"voice\"/style and content of trained data\nBonus:\nTwitter and webpage scrapper (will pay extra for this)\n** Output can be up/down voted to fine tune\n** Option to regenerate response\n** Retains state/context (would like to hear pros/cons on this)",
         "author": "SpencerKier",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@SpencerKier/create-a-generative?t="
     },
     {
@@ -9436,7 +9436,7 @@
         "title": "Deploy Kubeflow server on AKS ",
         "description": "I want to deploy a Kubeflow server on my Azure Kubernetes Service (AKS) cluster under a kubeflow-dev namespace. Unfortunately, I got an error, something about Kubernetes version > 1.16... My cluster is running 1.24.6\n\nAcceptance Criteria\nA bash script that does end-to-end deployment of Kubeflow on AKS 1.24.6. The script should run successfully on a new macOS environment, so don't assume I have any helper os libraries / CLI installed except for az and kubectl\n\nI can't add you to my AKS cluster. You will have develop on your own cluster.",
         "author": "bio-2023",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@bio-2023/deploy-kubeflow-serv?t="
     }
 ]
