@@ -9456,7 +9456,7 @@
         "title": "Rewrite Base58's website to be a single page webapp (Golang)",
         "description": "The Base58 website works great but we'd like to have a version where:\nYou only need JavaScript to checkout and view the course calendar\nEvery thing is on a single page\nNeeds to look good on mobile as well as desktop\n\nI don't like JavaScript. I'd really just like a simple, mostly server side site that uses JS as little as possible (maybe just to fetch stuff from the server or handle initiation for checkout)\n\nCurrent website is here: https://base58.info\n\nApplication Criteria\nYou submit a Figma or Canva design sketch for Base58's website that has a better information layout, ideally as a single page.\n\nAcceptance Criteria\nImplemented working website hosted on a temp domain\nBinaries ready to be ported to Base58 hosted servers\nGithub repo with all the code\n\nTechnical Details\nThe website written in Go with Gorilla. We've got a simple site, we should have a simple to update and deploy website that's as statically rendered as possible.\n\nTimelines / Milestones\nApplications op...",
         "author": "base58",
-        "posted_time": "37 minutes ago",
+        "posted_time": "48 minutes ago",
         "link": "https://replit.com/bounties/@base58/rewrite-base58s-webs?t="
     }
 ]
