@@ -7738,7 +7738,7 @@ The ideal candidate will possess strong Python development skills, particularly 
 Acceptance Criteria
 • Use nextjs and a nextjs API
 • Support oauth connections for Webflow, GitHub, and Contentful
-• Log a variable that has the user authorization's access and tokens for each service",gehrigk,24 hours ago,https://replit.com/bounties/@gehrigk/oauth-flows-in-nextj?t=
+• Log a variable that has the user authorization's access and tokens for each service",gehrigk,1 day ago,https://replit.com/bounties/@gehrigk/oauth-flows-in-nextj?t=
 940,$13.10,due in 21 days,Graph from PDF - Text AI Modelling (Includes how-to article),"Searching for someone to do some work with Text-to-Knowledge graph models.
 
 End goal - A Repl or Vercel instance that's hosting a fast-loading Knowledge graph of a book.
@@ -7778,7 +7778,7 @@ Acceptance Criteria
 
 A URL / #tag entry box and CTA
 A progress bar whilst scraping and processing
-Return an error message if the URL / # is invalid or the post does not contain ingredients or if th...",RohanSinclair,22 hours ago,https://replit.com/bounties/@RohanSinclair/ai-ingredients-socia?t=
+Return an error message if the URL / # is invalid or the post does not contain ingredients or if th...",RohanSinclair,23 hours ago,https://replit.com/bounties/@RohanSinclair/ai-ingredients-socia?t=
 943,$45.00,due in 3 days,Deploy Kubeflow server on AKS ,"I want to deploy a Kubeflow server on my Azure Kubernetes Service (AKS) cluster under a kubeflow-dev namespace. Unfortunately, I got an error, something about Kubernetes version > 1.16... My cluster is running 1.24.6
 
 Acceptance Criteria
