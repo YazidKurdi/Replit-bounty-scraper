@@ -9396,7 +9396,7 @@
         "title": "OAuth flows in NextJS app",
         "description": "A nextjs app needs support for additional oauth connections \u2013 Webflow, GitHub, Contentful.\n\nAcceptance Criteria\n\u2022 Use nextjs and a nextjs API\n\u2022 Support oauth connections for Webflow, GitHub, and Contentful\n\u2022 Log a variable that has the user authorization's access and tokens for each service",
         "author": "gehrigk",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@gehrigk/oauth-flows-in-nextj?t="
     },
     {
@@ -9446,7 +9446,7 @@
         "title": "Generative text model trained on various text sources that I can do Q&A with",
         "description": "Overview\nI want to train a model on a person's ideas (including tweets, blog posts, and podcast transcripts), do Q&A with it, and get text responses that are consistent with the \"voice\"/style and content of the provided inputs.\n\nAcceptance Criteria\nUse of current, best in class foundational model and training strategies\nModel can be trained on ~hundreds of tweets, tens of blog posts, and ~5 hours of podcast transcripts\nEither takes a CSV or has a UI for accepting training data\nUI for asking a question and getting a response\nModel answers/outputs are consistent with \"voice\"/style and content of trained data\nBonus:\n** Parameter for specifying max length of response (tokens or chars)\n** Output can be up/down voted to fine tune\n** Option to regenerate response\n** Retains state/context (would like to hear pros/cons on this)\n\nWill pay extra for:\nTweet and/or blog scraper\nPodcast audio transcription",
         "author": "SpencerKier",
-        "posted_time": "19 minutes ago",
+        "posted_time": "26 minutes ago",
         "link": "https://replit.com/bounties/@SpencerKier/generative-text-mode?t="
     }
 ]
