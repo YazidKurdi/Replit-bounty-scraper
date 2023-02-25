@@ -9426,7 +9426,7 @@
         "title": "AI Ingredients Social Media Webapp",
         "description": "Requirement\n\nThe requirement is to capture a social media post about a food trend making video/post (via  a  URL or trending hashtag support for FB, IG, TikTok, Pinterest etc.)\n\nDetermine and extract ingredients required for the recipe.\n\nFrom the specific URL or food trends # (some samples below) you need to extract the ingredients and map to a separate database and \u201cfuzzy match\u201d to actual product SKU\u2019s and measurements\n\nFor example \u201c3 egg whites\u201d -> mapped to 3 eggs or 30g of egg whites - 20g of flour mapped to -> bag self raising flour etc.)\n\nThe end result should be an easy to read shopping list that is returned to the user with a single \u201cBuy\u201d button for all the ingredients to be purchased with a combined price of SKU\u2019s and a selection so the user and sedat or deselect what they require.\n\nAcceptance Criteria\n\nA URL / #tag entry box and CTA\nA progress bar whilst scraping and processing\nReturn an error message if the URL / # is invalid or the post does not contain ingredients or if th...",
         "author": "RohanSinclair",
-        "posted_time": "21 hours ago",
+        "posted_time": "22 hours ago",
         "link": "https://replit.com/bounties/@RohanSinclair/ai-ingredients-socia?t="
     },
     {
