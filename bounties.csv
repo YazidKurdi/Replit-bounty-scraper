@@ -7667,7 +7667,7 @@ bitcoin Stack Exchange
 all current and historical Bitcoin Improvement Proposals (BIPs)
 all Basis of Lightning Technology documents (BOLTs)
 
-This bitcoin technical assistant (""ChatBTC"") will be able to answer in natural language any queries regarding bitcoin's technical design and hi...",nachobtc,19 hours ago,https://replit.com/bounties/@nachobtc/create-chatbtc-perso?t=
+This bitcoin technical assistant (""ChatBTC"") will be able to answer in natural language any queries regarding bitcoin's technical design and hi...",nachobtc,20 hours ago,https://replit.com/bounties/@nachobtc/create-chatbtc-perso?t=
 933,$67.50,closed,Algorithm to detect prominent parts in an image & bounding box,"I need an algorithm built with Node.js that can take an image and determine the prominent parts, and calculate a bounding box. It doesn't need to be extremely complex- something that can detect where the eyes would naturally be drawn to, along with other potentially interesting features of the image.
 
 An example:
@@ -7681,17 +7681,17 @@ Extra needs
 Works with most image file types
 Works in low-light and high-light conditions
 Can be required as a Node.JS module
-Encouraged to use libraries such as Jimp",codingMASTER398,15 hours ago,https://replit.com/bounties/@codingMASTER398/algorithm-to-detect?t=
+Encouraged to use libraries such as Jimp",codingMASTER398,16 hours ago,https://replit.com/bounties/@codingMASTER398/algorithm-to-detect?t=
 934,$7.11,closed,CHATGPT CLONE,"this just a bounty test
 Acceptance Criteria
 
 Technical Details
 
-Timelines / Milestones",syrud,13 hours ago,https://replit.com/bounties/@syrud/chatgpt-clone?t=
+Timelines / Milestones",syrud,14 hours ago,https://replit.com/bounties/@syrud/chatgpt-clone?t=
 935,$4.50,closed,Help me make a website using discource,"Im thinking about leaving most of the replit community, but there are several people here who i still enjoy. I would like a website made using discource (https://github.com/discourse/discourse) so that i can still partially be here
 
 Acceptance Criteria
-Create a customized site using discource, that functions similarly to forum.codergautam.dev",GiggaPoggers,9 hours ago,https://replit.com/bounties/@GiggaPoggers/help-me-make-a-websi?t=
+Create a customized site using discource, that functions similarly to forum.codergautam.dev",GiggaPoggers,10 hours ago,https://replit.com/bounties/@GiggaPoggers/help-me-make-a-websi?t=
 936,$45.00,due in 4 days,Create a generative text model that's trained on proprietary data & I can do Q&A with,"Overview
 I want to train a model on a person's ideas (including tweets, blog posts, and podcast transcripts), do Q&A with it, and get text responses that are consistent with the ""voice""/style and content of the provided inputs.
 
@@ -7708,7 +7708,7 @@ Bonus:
 Twitter and webpage scrapper (will pay extra for this)
 ** Output can be up/down voted to fine tune
 ** Option to regenerate response
-** Retains state/context (would like to hear pros/cons on this)",SpencerKier,6 hours ago,https://replit.com/bounties/@SpencerKier/create-a-generative?t=
+** Retains state/context (would like to hear pros/cons on this)",SpencerKier,7 hours ago,https://replit.com/bounties/@SpencerKier/create-a-generative?t=
 937,$200.00,due in 6 days,Create a chat WebApp fed by Twilio API,"We help clients send automated messages to their customers with Twilio Programmable Messaging API. Our clients want to see their customers' responses and of course reply back.
 
 Acceptance criteria
@@ -7725,17 +7725,40 @@ Timelines / Milestones
 
 Final delivery March 3, 2023
 
-Remember you are encouraged to boilerplate code. Prioritize speed over beauty.",mattpatagon,3 hours ago,https://replit.com/bounties/@mattpatagon/create-a-chat-webapp?t=
+Remember you are encouraged to boilerplate code. Prioritize speed over beauty.",mattpatagon,4 hours ago,https://replit.com/bounties/@mattpatagon/create-a-chat-webapp?t=
 938,$45.00,due in 3 days,Convince me of your skills maintaining and updating a CRUD Python backend,"We are looking for a skilled Python backend developer who can maintain a high-performing API for our consumer applications. The ideal candidate should be an expert in ODM (ORM for NoSQL), Pydantic, and automatically generated Swagger docs. Additionally, you should be well-versed with Google Cloud, and capable of integrating it into the backend for seamless data management.
 
 Acceptance Criteria:
 The successful candidate should demonstrate a high level of expertise in developing Python backends for serving consumer applications. You should be able to provide a detailed portfolio of relevant projects, as well as showcase examples of how you have tackled backend-related challenges in your previous work.
 
 Technical Details:
-The ideal candidate will possess strong Python development skills, particularly in building and maintaining APIs for consumer applications. You should have experience with ODMs (ORM for NoSQL) and Pydantic, as well as be able to generate Swagger docs...",lorestatesman,2 hours ago,https://replit.com/bounties/@lorestatesman/convince-me-of-your?t=
+The ideal candidate will possess strong Python development skills, particularly in building and maintaining APIs for consumer applications. You should have experience with ODMs (ORM for NoSQL) and Pydantic, as well as be able to generate Swagger docs...",lorestatesman,3 hours ago,https://replit.com/bounties/@lorestatesman/convince-me-of-your?t=
 939,$45.00,due in 3 days,OAuth flows in NextJS app,"A nextjs app needs support for additional oauth connections – Webflow, GitHub, Contentful.
 
 Acceptance Criteria
 • Use nextjs and a nextjs API
 • Support oauth connections for Webflow, GitHub, and Contentful
-• Log a variable that has the user authorization's access and tokens for each service",gehrigk,35 minutes ago,https://replit.com/bounties/@gehrigk/oauth-flows-in-nextj?t=
+• Log a variable that has the user authorization's access and tokens for each service",gehrigk,1 hour ago,https://replit.com/bounties/@gehrigk/oauth-flows-in-nextj?t=
+940,$13.10,due in 23 days,Graph from PDF - Text AI Modelling (Includes how-to article),"Searching for someone to do some work with Text-to-Knowledge graph models.
+
+End goal - A Repl or Vercel instance that's hosting a fast-loading Knowledge graph of a book.
+
+The site will be networkstate.wiki and the book is at https://book.thenetworkstate.com/tns.pdf
+
+I'd like a way to be able to visualise the books, linked concepts within, and broad concepts in one broad stroke.
+
+Something that should work is HuggingFace's text-to-kb model here: https://huggingface.co/spaces/fabiochiu/text-to-kb
+And full how-to guide here: https://medium.com/nlplanet/building-a-knowledge-base-from-texts-a-full-practical-example-8dbbffb912fa
+
+Given the amount of guidance, I feel this should be somewhat quick for someone with experience setting up this environment. I can also host the Repl if more compute power is needed.
+
+Acceptance Criteria
+A running repl demonstrating a knowledge graph of the book linked above. I should be able to see broad concepts and zoom in/out. I'd also like to...",Bandos1000,20 minutes ago,https://replit.com/bounties/@Bandos1000/graph-from-pdf-text?t=
+941,$4.50,due in 12 days,Simple discord bots,"Fix some bugs:
+I need a bug fixed in the auto-response function of my bot (It only responds to the top 3 triggers of the if else's)
+I need a thing added to my self-bot (I have a very simple NodeJS app that makes a discord account online 24/7 and I want it to also change the status of the account and I need multi token support added)
+Make a discord bot:
+Active dev badge discord bot (1 command bot very easy)
+Acceptance Criteria
+Must know DiscordJS 12 and latest
+Must have discord username and tag in your application",OddGames,19 minutes ago,https://replit.com/bounties/@OddGames/simple-discord-bots?t=
