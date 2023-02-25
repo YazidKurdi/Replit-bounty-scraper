@@ -7778,7 +7778,7 @@ Acceptance Criteria
 
 A URL / #tag entry box and CTA
 A progress bar whilst scraping and processing
-Return an error message if the URL / # is invalid or the post does not contain ingredients or if th...",RohanSinclair,6 hours ago,https://replit.com/bounties/@RohanSinclair/ai-ingredients-socia?t=
+Return an error message if the URL / # is invalid or the post does not contain ingredients or if th...",RohanSinclair,7 hours ago,https://replit.com/bounties/@RohanSinclair/ai-ingredients-socia?t=
 943,$45.00,due in 4 days,Deploy Kubeflow server on AKS ,"I want to deploy a Kubeflow server on my Azure Kubernetes Service (AKS) cluster under a kubeflow-dev namespace. Unfortunately, I got an error, something about Kubernetes version > 1.16... My cluster is running 1.24.6
 
 Acceptance Criteria
