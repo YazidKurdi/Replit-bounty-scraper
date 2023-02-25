@@ -7708,7 +7708,7 @@ Bonus:
 Twitter and webpage scrapper (will pay extra for this)
 ** Output can be up/down voted to fine tune
 ** Option to regenerate response
-** Retains state/context (would like to hear pros/cons on this)",SpencerKier,10 hours ago,https://replit.com/bounties/@SpencerKier/create-a-generative?t=
+** Retains state/context (would like to hear pros/cons on this)",SpencerKier,11 hours ago,https://replit.com/bounties/@SpencerKier/create-a-generative?t=
 937,$200.00,due in 6 days,Create a chat WebApp fed by Twilio API,"We help clients send automated messages to their customers with Twilio Programmable Messaging API. Our clients want to see their customers' responses and of course reply back.
 
 Acceptance criteria
@@ -7784,4 +7784,4 @@ Return an error message if the URL / # is invalid or the post does not contain i
 Acceptance Criteria
 A bash script that does end-to-end deployment of Kubeflow on AKS 1.24.6. The script should run successfully on a new macOS environment, so don't assume I have any helper os libraries / CLI installed except for az and kubectl
 
-I can't add you to my AKS cluster. You will have develop on your own cluster.",bio-2023,3 hours ago,https://replit.com/bounties/@bio-2023/deploy-kubeflow-serv?t=
+I can't add you to my AKS cluster. You will have develop on your own cluster.",bio-2023,4 hours ago,https://replit.com/bounties/@bio-2023/deploy-kubeflow-serv?t=
