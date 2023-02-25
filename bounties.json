@@ -9346,7 +9346,7 @@
         "title": "CHATGPT CLONE",
         "description": "this just a bounty test\nAcceptance Criteria\n\nTechnical Details\n\nTimelines / Milestones",
         "author": "syrud",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@syrud/chatgpt-clone?t="
     },
     {
@@ -9386,7 +9386,7 @@
         "title": "Convince me of your skills maintaining and updating a CRUD Python backend",
         "description": "We are looking for a skilled Python backend developer who can maintain a high-performing API for our consumer applications. The ideal candidate should be an expert in ODM (ORM for NoSQL), Pydantic, and automatically generated Swagger docs. Additionally, you should be well-versed with Google Cloud, and capable of integrating it into the backend for seamless data management.\n\nAcceptance Criteria:\nThe successful candidate should demonstrate a high level of expertise in developing Python backends for serving consumer applications. You should be able to provide a detailed portfolio of relevant projects, as well as showcase examples of how you have tackled backend-related challenges in your previous work.\n\nTechnical Details:\nThe ideal candidate will possess strong Python development skills, particularly in building and maintaining APIs for consumer applications. You should have experience with ODMs (ORM for NoSQL) and Pydantic, as well as be able to generate Swagger docs...",
         "author": "lorestatesman",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@lorestatesman/convince-me-of-your?t="
     },
     {
@@ -9406,7 +9406,7 @@
         "title": "Graph from PDF - Text AI Modelling (Includes how-to article)",
         "description": "Searching for someone to do some work with Text-to-Knowledge graph models.\n\nEnd goal - A Repl or Vercel instance that's hosting a fast-loading Knowledge graph of a book.\n\nThe site will be networkstate.wiki and the book is at https://book.thenetworkstate.com/tns.pdf\n\nI'd like a way to be able to visualise the books, linked concepts within, and broad concepts in one broad stroke.\n\nSomething that should work is HuggingFace's text-to-kb model here: https://huggingface.co/spaces/fabiochiu/text-to-kb\nAnd full how-to guide here: https://medium.com/nlplanet/building-a-knowledge-base-from-texts-a-full-practical-example-8dbbffb912fa\n\nGiven the amount of guidance, I feel this should be somewhat quick for someone with experience setting up this environment. I can also host the Repl if more compute power is needed.\n\nAcceptance Criteria\nA running repl demonstrating a knowledge graph of the book linked above. I should be able to see broad concepts and zoom in/out. I'd also like to...",
         "author": "Bandos1000",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/graph-from-pdf-text?t="
     },
     {
@@ -9416,7 +9416,7 @@
         "title": "Simple discord bots",
         "description": "Fix some bugs:\nI need a bug fixed in the auto-response function of my bot (It only responds to the top 3 triggers of the if else's)\nI need a thing added to my self-bot (I have a very simple NodeJS app that makes a discord account online 24/7 and I want it to also change the status of the account and I need multi token support added)\nMake a discord bot:\nActive dev badge discord bot (1 command bot very easy)\nAcceptance Criteria\nMust know DiscordJS 12 and latest\nMust have discord username and tag in your application",
         "author": "OddGames",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@OddGames/simple-discord-bots?t="
     },
     {
