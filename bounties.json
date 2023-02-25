@@ -9376,7 +9376,7 @@
         "title": "Create a chat WebApp fed by Twilio API",
         "description": "We help clients send automated messages to their customers with Twilio Programmable Messaging API. Our clients want to see their customers' responses and of course reply back.\n\nAcceptance criteria\n\nMulti-user (each user sees their own account)\nMulti-chat navigation\nRead as a chat, including media messages, all the chat history with a user (messages with timestamp)\nInput box to write and reply (with send button and also with enter)\nDocument the code and explain how to add users\nYou are ENCOURAGED to boilerplate code and templates. The objective is to do this job fast.\nDeploy the app on DigitalOcean App Platform\n\nTimelines / Milestones\n\nFinal delivery March 3, 2023\n\nRemember you are encouraged to boilerplate code. Prioritize speed over beauty.",
         "author": "mattpatagon",
-        "posted_time": "21 hours ago",
+        "posted_time": "22 hours ago",
         "link": "https://replit.com/bounties/@mattpatagon/create-a-chat-webapp?t="
     },
     {
@@ -9426,7 +9426,7 @@
         "title": "AI Ingredients Social Media Webapp",
         "description": "Requirement\n\nThe requirement is to capture a social media post about a food trend making video/post (via  a  URL or trending hashtag support for FB, IG, TikTok, Pinterest etc.)\n\nDetermine and extract ingredients required for the recipe.\n\nFrom the specific URL or food trends # (some samples below) you need to extract the ingredients and map to a separate database and \u201cfuzzy match\u201d to actual product SKU\u2019s and measurements\n\nFor example \u201c3 egg whites\u201d -> mapped to 3 eggs or 30g of egg whites - 20g of flour mapped to -> bag self raising flour etc.)\n\nThe end result should be an easy to read shopping list that is returned to the user with a single \u201cBuy\u201d button for all the ingredients to be purchased with a combined price of SKU\u2019s and a selection so the user and sedat or deselect what they require.\n\nAcceptance Criteria\n\nA URL / #tag entry box and CTA\nA progress bar whilst scraping and processing\nReturn an error message if the URL / # is invalid or the post does not contain ingredients or if th...",
         "author": "RohanSinclair",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@RohanSinclair/ai-ingredients-socia?t="
     },
     {
@@ -9448,5 +9448,15 @@
         "author": "SpencerKier",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@SpencerKier/generative-text-mode?t="
+    },
+    {
+        "index": "945",
+        "price": "$810.00",
+        "due_days": "due in 2 months",
+        "title": "Rewrite Base58's website to be a single page webapp (Golang)",
+        "description": "The Base58 website works great but we'd like to have a version where:\nYou only need JavaScript to checkout and view the course calendar\nEvery thing is on a single page\nNeeds to look good on mobile as well as desktop\n\nI don't like JavaScript. I'd really just like a simple, mostly server side site that uses JS as little as possible (maybe just to fetch stuff from the server or handle initiation for checkout)\n\nCurrent website is here: https://base58.info\n\nApplication Criteria\nYou submit a Figma or Canva design sketch for Base58's website that has a better information layout, ideally as a single page.\n\nAcceptance Criteria\nImplemented working website hosted on a temp domain\nBinaries ready to be ported to Base58 hosted servers\nGithub repo with all the code\n\nTechnical Details\nThe website written in Go with Gorilla. We've got a simple site, we should have a simple to update and deploy website that's as statically rendered as possible.\n\nTimelines / Milestones\nApplications op...",
+        "author": "base58",
+        "posted_time": "1 minute ago",
+        "link": "https://replit.com/bounties/@base58/rewrite-base58s-webs?t="
     }
 ]

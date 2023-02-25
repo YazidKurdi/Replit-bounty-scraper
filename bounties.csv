@@ -7725,7 +7725,7 @@ Timelines / Milestones
 
 Final delivery March 3, 2023
 
-Remember you are encouraged to boilerplate code. Prioritize speed over beauty.",mattpatagon,21 hours ago,https://replit.com/bounties/@mattpatagon/create-a-chat-webapp?t=
+Remember you are encouraged to boilerplate code. Prioritize speed over beauty.",mattpatagon,22 hours ago,https://replit.com/bounties/@mattpatagon/create-a-chat-webapp?t=
 938,$45.00,due in 2 days,Convince me of your skills maintaining and updating a CRUD Python backend,"We are looking for a skilled Python backend developer who can maintain a high-performing API for our consumer applications. The ideal candidate should be an expert in ODM (ORM for NoSQL), Pydantic, and automatically generated Swagger docs. Additionally, you should be well-versed with Google Cloud, and capable of integrating it into the backend for seamless data management.
 
 Acceptance Criteria:
@@ -7778,7 +7778,7 @@ Acceptance Criteria
 
 A URL / #tag entry box and CTA
 A progress bar whilst scraping and processing
-Return an error message if the URL / # is invalid or the post does not contain ingredients or if th...",RohanSinclair,17 hours ago,https://replit.com/bounties/@RohanSinclair/ai-ingredients-socia?t=
+Return an error message if the URL / # is invalid or the post does not contain ingredients or if th...",RohanSinclair,18 hours ago,https://replit.com/bounties/@RohanSinclair/ai-ingredients-socia?t=
 943,$45.00,due in 3 days,Deploy Kubeflow server on AKS ,"I want to deploy a Kubeflow server on my Azure Kubernetes Service (AKS) cluster under a kubeflow-dev namespace. Unfortunately, I got an error, something about Kubernetes version > 1.16... My cluster is running 1.24.6
 
 Acceptance Criteria
@@ -7803,3 +7803,25 @@ Bonus:
 Will pay extra for:
 Tweet and/or blog scraper
 Podcast audio transcription",SpencerKier,2 hours ago,https://replit.com/bounties/@SpencerKier/generative-text-mode?t=
+945,$810.00,due in 2 months,Rewrite Base58's website to be a single page webapp (Golang),"The Base58 website works great but we'd like to have a version where:
+You only need JavaScript to checkout and view the course calendar
+Every thing is on a single page
+Needs to look good on mobile as well as desktop
+
+I don't like JavaScript. I'd really just like a simple, mostly server side site that uses JS as little as possible (maybe just to fetch stuff from the server or handle initiation for checkout)
+
+Current website is here: https://base58.info
+
+Application Criteria
+You submit a Figma or Canva design sketch for Base58's website that has a better information layout, ideally as a single page.
+
+Acceptance Criteria
+Implemented working website hosted on a temp domain
+Binaries ready to be ported to Base58 hosted servers
+Github repo with all the code
+
+Technical Details
+The website written in Go with Gorilla. We've got a simple site, we should have a simple to update and deploy website that's as statically rendered as possible.
+
+Timelines / Milestones
+Applications op...",base58,1 minute ago,https://replit.com/bounties/@base58/rewrite-base58s-webs?t=
