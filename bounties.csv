@@ -7691,7 +7691,7 @@ Timelines / Milestones",syrud,17 hours ago,https://replit.com/bounties/@syrud/ch
 935,$4.50,closed,Help me make a website using discource,"Im thinking about leaving most of the replit community, but there are several people here who i still enjoy. I would like a website made using discource (https://github.com/discourse/discourse) so that i can still partially be here
 
 Acceptance Criteria
-Create a customized site using discource, that functions similarly to forum.codergautam.dev",GiggaPoggers,12 hours ago,https://replit.com/bounties/@GiggaPoggers/help-me-make-a-websi?t=
+Create a customized site using discource, that functions similarly to forum.codergautam.dev",GiggaPoggers,13 hours ago,https://replit.com/bounties/@GiggaPoggers/help-me-make-a-websi?t=
 936,$45.00,due in 5 days,Create a generative text model that's trained on proprietary data & I can do Q&A with,"Overview
 I want to train a model on a person's ideas (including tweets, blog posts, and podcast transcripts), do Q&A with it, and get text responses that are consistent with the ""voice""/style and content of the provided inputs.
 
@@ -7708,7 +7708,7 @@ Bonus:
 Twitter and webpage scrapper (will pay extra for this)
 ** Output can be up/down voted to fine tune
 ** Option to regenerate response
-** Retains state/context (would like to hear pros/cons on this)",SpencerKier,9 hours ago,https://replit.com/bounties/@SpencerKier/create-a-generative?t=
+** Retains state/context (would like to hear pros/cons on this)",SpencerKier,10 hours ago,https://replit.com/bounties/@SpencerKier/create-a-generative?t=
 937,$200.00,due in 6 days,Create a chat WebApp fed by Twilio API,"We help clients send automated messages to their customers with Twilio Programmable Messaging API. Our clients want to see their customers' responses and of course reply back.
 
 Acceptance criteria
@@ -7784,4 +7784,4 @@ Return an error message if the URL / # is invalid or the post does not contain i
 Acceptance Criteria
 A bash script that does end-to-end deployment of Kubeflow on AKS 1.24.6. The script should run successfully on a new macOS environment, so don't assume I have any helper os libraries / CLI installed except for az and kubectl
 
-I can't add you to my AKS cluster. You will have develop on your own cluster.",bio-2023,2 hours ago,https://replit.com/bounties/@bio-2023/deploy-kubeflow-serv?t=
+I can't add you to my AKS cluster. You will have develop on your own cluster.",bio-2023,3 hours ago,https://replit.com/bounties/@bio-2023/deploy-kubeflow-serv?t=
