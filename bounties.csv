@@ -7753,7 +7753,7 @@ And full how-to guide here: https://medium.com/nlplanet/building-a-knowledge-bas
 Given the amount of guidance, I feel this should be somewhat quick for someone with experience setting up this environment. I can also host the Repl if more compute power is needed.
 
 Acceptance Criteria
-A running repl demonstrating a knowledge graph of the book linked above. I should be able to see broad concepts and zoom in/out. I'd also like to...",Bandos1000,1 day ago,https://replit.com/bounties/@Bandos1000/graph-from-pdf-text?t=
+A running repl demonstrating a knowledge graph of the book linked above. I should be able to see broad concepts and zoom in/out. I'd also like to...",Bandos1000,2 days ago,https://replit.com/bounties/@Bandos1000/graph-from-pdf-text?t=
 941,$4.50,due in 10 days,Simple discord bots,"Fix some bugs:
 I need a bug fixed in the auto-response function of my bot (It only responds to the top 3 triggers of the if else's)
 I need a thing added to my self-bot (I have a very simple NodeJS app that makes a discord account online 24/7 and I want it to also change the status of the account and I need multi token support added)
@@ -7761,7 +7761,7 @@ Make a discord bot:
 Active dev badge discord bot (1 command bot very easy)
 Acceptance Criteria
 Must know DiscordJS 12 and latest
-Must have discord username and tag in your application",OddGames,1 day ago,https://replit.com/bounties/@OddGames/simple-discord-bots?t=
+Must have discord username and tag in your application",OddGames,2 days ago,https://replit.com/bounties/@OddGames/simple-discord-bots?t=
 942,$900.00,due in 5 days,AI Ingredients Social Media Webapp,"Requirement
 
 The requirement is to capture a social media post about a food trend making video/post (via  a  URL or trending hashtag support for FB, IG, TikTok, Pinterest etc.)
@@ -7842,7 +7842,7 @@ Create a Replit repl which allows someone to set up their own Mastodon instance.
 
 User should be able to just clone your template, read a Readme file and be able to set up an instance without a lot of fiddling , config, etc.  The emphasis is on EASE OF USE.
 
-The goal is to have a personal mastodon instance that can read in feeds, follow others on the fediverse, and be followed by other mastodon instances.",triptych,9 hours ago,https://replit.com/bounties/@triptych/create-a-template-to?t=
+The goal is to have a personal mastodon instance that can read in feeds, follow others on the fediverse, and be followed by other mastodon instances.",triptych,10 hours ago,https://replit.com/bounties/@triptych/create-a-template-to?t=
 949,$27.00,due in 8 days,Scrape Israel real estate deal site,"Scrape Israel real estate deal site - for the latest real estate deals.
 
 Acceptance Criteria
@@ -7859,4 +7859,4 @@ https://docs.google.com/spreadsheets/d/17Mrc9x8A9ZDNLIt7LWFNxIYxI5soLvBPK2qhpXMQ
 The file should be sent as a CSV file with all requested data.
 If you do a good job - I need other parts of this site (around 4-5 projects) that I would happily pay you again.
 
-Thank you!",ItzikSachs,1 hour ago,https://replit.com/bounties/@ItzikSachs/scrape-israel-real-e?t=
+Thank you!",ItzikSachs,2 hours ago,https://replit.com/bounties/@ItzikSachs/scrape-israel-real-e?t=
