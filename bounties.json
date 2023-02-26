@@ -9496,7 +9496,7 @@
         "title": "Scrape Israel real estate deal site",
         "description": "Scrape Israel real estate deal site - for the latest real estate deals.\n\nAcceptance Criteria\nThis link contains all the data of the latest deals in a specific area.\nhttps://www.nadlan.gov.il/?search=%D7%90%D7%91%D7%A0%D7%99%20%D7%97%D7%9F%20%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F%20%D7%9E%D7%9B%D7%91%D7%99%D7%9D%20%D7%A8%D7%A2%D7%95%D7%AA\n\nPlease note: The writing is RIGHT to LEFT ( in Hebrew.)\n\nPlease scrape the data to the first deal in 2021 (04/01/2021)\nHere's a google sheet of how it should look at the end\nI have added some English translations so you can understand the meaning of things.\nhttps://docs.google.com/spreadsheets/d/17Mrc9x8A9ZDNLIt7LWFNxIYxI5soLvBPK2qhpXMQ9AU/edit?usp=sharing\n\nThe file should be sent as a CSV file with all requested data.\nIf you do a good job - I need other parts of this site (around 4-5 projects) that I would happily pay you again.\n\nThank you!",
         "author": "ItzikSachs",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@ItzikSachs/scrape-israel-real-e?t="
     },
     {
@@ -9546,7 +9546,7 @@
         "title": "Custom self-hosted Ghost blog",
         "description": "Create a simple custom theme and do integrations with email subscriptions for a self-hosted Ghost-based blog (https://ghost.org) based on a provided image moodboard, and references to other websites.\n\nAcceptance Criteria\nA complete ghost theme suited to the moodboard with the following pages:\n  About: A plate to put background and contact details about the author\n  Blog: A place to make posts (using the Ghost web UI)\n  Notes: A place for shorter / draft posts, separate from the blog\n  Email subscription, so that visitors can subscribe for further updates\nReady to deploy. It's not necessary to deploy the site once it's ready, I can do that myself.",
         "author": "AntonTroynikov",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@AntonTroynikov/custom-self-hosted-g?t="
     }
 ]
