@@ -9478,5 +9478,15 @@
         "author": "triptych",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@triptych/drag-and-drop-exampl?t="
+    },
+    {
+        "index": "948",
+        "price": "$22.50",
+        "due_days": "due in 13 days",
+        "title": "Create a template to allow anyone to run a mastodon instance on Replit",
+        "description": "Problem statement\nI want to run my own personal Mastodon instance via Replit.\nI don't want to spend hours figuring out how to do it myself.\nI want anyone who wants to, to use a Mastodon template on Replit to start their own Mastodon instance as well.\n\n#Requirements\nCreate a Replit repl which allows someone to set up their own Mastodon instance. Using the latest version of Mastodon.\n\nUser should be able to just clone your template, read a Readme file and be able to set up an instance without a lot of fiddling , config, etc.  The emphasis is on EASE OF USE.\n\nThe goal is to have a personal mastodon instance that can read in feeds, follow others on the fediverse, and be followed by other mastodon instances.",
+        "author": "triptych",
+        "posted_time": "20 minutes ago",
+        "link": "https://replit.com/bounties/@triptych/create-a-template-to?t="
     }
 ]
