@@ -9466,7 +9466,7 @@
         "title": "Spread my CHATGPT WEBSITE",
         "description": "Spread https://replit.com/@syrud/CHATGPT#index.html\nOnly 1 person will win.\nMust have 100 new visitor or cancel",
         "author": "syrud",
-        "posted_time": "21 hours ago",
+        "posted_time": "22 hours ago",
         "link": "https://replit.com/bounties/@syrud/spread-my-chatgpt-we?t="
     },
     {
@@ -9476,7 +9476,7 @@
         "title": "Drag and drop example using KaboomJS",
         "description": "I want to use drag and drop elements within my KaboomJS games.\nI need  a simple library that identifies the elements on the screen that are draggable. as well as drop targets.\n\nYou will create a simple KaboomJS demo with simple squares that are draggable  and droppable on another square. After the drop is successful a callback function is called  that has access to the dragged object.",
         "author": "triptych",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@triptych/drag-and-drop-exampl?t="
     },
     {
@@ -9516,7 +9516,7 @@
         "title": "Download hourly bitcoin prices",
         "description": "Write a python script that downloads hourly bitcoin prices and inserts them to a CSV file with two columns: timestamp and price. When the file is run, it retrieves the last 200 days of prices. When the file is run again, it overwrites the last CSV with a new CSV pulling in the last 200 days of prices\n\nI would like to use this data for time series analysis\n\n#acceptance criteria: successfully downloads prices when run 5 times. successfully overwrites prior CSV file with new prices\n\n#technical criteria: python script that's compatible with v3.9.6",
         "author": "JayDas4",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@JayDas4/download-hourly-bitc?t="
     },
     {
@@ -9538,5 +9538,15 @@
         "author": "whatisaapple",
         "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@whatisaapple/fortnite-xcould-on-c?t="
+    },
+    {
+        "index": "954",
+        "price": "$450.00",
+        "due_days": "due in 13 days",
+        "title": "Custom self-hosted Ghost blog",
+        "description": "Create a simple custom theme and do integrations with email subscriptions for a self-hosted Ghost-based blog (https://ghost.org) based on a provided image moodboard, and references to other websites.\n\nAcceptance Criteria\nA complete ghost theme suited to the moodboard with the following pages:\n  About: A plate to put background and contact details about the author\n  Blog: A place to make posts (using the Ghost web UI)\n  Notes: A place for shorter / draft posts, separate from the blog\n  Email subscription, so that visitors can subscribe for further updates\nReady to deploy. It's not necessary to deploy the site once it's ready, I can do that myself.",
+        "author": "AntonTroynikov",
+        "posted_time": "8 minutes ago",
+        "link": "https://replit.com/bounties/@AntonTroynikov/custom-self-hosted-g?t="
     }
 ]
