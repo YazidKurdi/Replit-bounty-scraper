@@ -9486,7 +9486,7 @@
         "title": "Create a template to allow anyone to run a mastodon instance on Replit",
         "description": "Problem statement\nI want to run my own personal Mastodon instance via Replit.\nI don't want to spend hours figuring out how to do it myself.\nI want anyone who wants to, to use a Mastodon template on Replit to start their own Mastodon instance as well.\n\n#Requirements\nCreate a Replit repl which allows someone to set up their own Mastodon instance. Using the latest version of Mastodon.\n\nUser should be able to just clone your template, read a Readme file and be able to set up an instance without a lot of fiddling , config, etc.  The emphasis is on EASE OF USE.\n\nThe goal is to have a personal mastodon instance that can read in feeds, follow others on the fediverse, and be followed by other mastodon instances.",
         "author": "triptych",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@triptych/create-a-template-to?t="
     },
     {
@@ -9506,7 +9506,7 @@
         "title": "Tiktok scraper to google sheets",
         "description": "Create tiktok scraper that runs every 1 hour for a specific hashtag and saves all the latest posts information to a google sheet\n\nThe main challenge here is to get the latest posts posted for a hashtag rather than the top posts which is static\n\nAcceptance Criteria\nScraper runs every 1 hour\nSearches for LATEST posts for a hashtag not top posts\nSaves post information to google sheets\nOnly saves posts that don't already exist in the google sheet\n\nImplementation\nShould run in cloud / serverless\nShould be very easy to manage e.g. a github action or something with a gui\nDon't mind if you use a service to do it",
         "author": "SamuelAbaka-Woo",
-        "posted_time": "37 minutes ago",
+        "posted_time": "46 minutes ago",
         "link": "https://replit.com/bounties/@SamuelAbaka-Woo/tiktok-scraper-to-go?t="
     },
     {
@@ -9516,7 +9516,17 @@
         "title": "Download hourly bitcoin prices",
         "description": "Write a python script that downloads hourly bitcoin prices and inserts them to a CSV file with two columns: timestamp and price. When the file is run, it retrieves the last 200 days of prices. When the file is run again, it overwrites the last CSV with a new CSV pulling in the last 200 days of prices\n\nI would like to use this data for time series analysis\n\n#acceptance criteria: successfully downloads prices when run 5 times. successfully overwrites prior CSV file with new prices\n\n#technical criteria: python script that's compatible with v3.9.6",
         "author": "JayDas4",
-        "posted_time": "17 minutes ago",
+        "posted_time": "27 minutes ago",
         "link": "https://replit.com/bounties/@JayDas4/download-hourly-bitc?t="
+    },
+    {
+        "index": "952",
+        "price": "$4.50",
+        "due_days": "due in 6 days",
+        "title": "Simple Google Login NextJS",
+        "description": "Make a simple google login page using NextJS that retrieves the user access token\n\nAcceptance Criteria\nAs long as you have experience with React or NextJS",
+        "author": "cadornajansen",
+        "posted_time": "6 minutes ago",
+        "link": "https://replit.com/bounties/@cadornajansen/simple-google-login?t="
     }
 ]
