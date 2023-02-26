@@ -9486,7 +9486,7 @@
         "title": "Create a template to allow anyone to run a mastodon instance on Replit",
         "description": "Problem statement\nI want to run my own personal Mastodon instance via Replit.\nI don't want to spend hours figuring out how to do it myself.\nI want anyone who wants to, to use a Mastodon template on Replit to start their own Mastodon instance as well.\n\n#Requirements\nCreate a Replit repl which allows someone to set up their own Mastodon instance. Using the latest version of Mastodon.\n\nUser should be able to just clone your template, read a Readme file and be able to set up an instance without a lot of fiddling , config, etc.  The emphasis is on EASE OF USE.\n\nThe goal is to have a personal mastodon instance that can read in feeds, follow others on the fediverse, and be followed by other mastodon instances.",
         "author": "triptych",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@triptych/create-a-template-to?t="
     },
     {
@@ -9496,7 +9496,7 @@
         "title": "Scrape Israel real estate deal site",
         "description": "Scrape Israel real estate deal site - for the latest real estate deals.\n\nAcceptance Criteria\nThis link contains all the data of the latest deals in a specific area.\nhttps://www.nadlan.gov.il/?search=%D7%90%D7%91%D7%A0%D7%99%20%D7%97%D7%9F%20%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F%20%D7%9E%D7%9B%D7%91%D7%99%D7%9D%20%D7%A8%D7%A2%D7%95%D7%AA\n\nPlease note: The writing is RIGHT to LEFT ( in Hebrew.)\n\nPlease scrape the data to the first deal in 2021 (04/01/2021)\nHere's a google sheet of how it should look at the end\nI have added some English translations so you can understand the meaning of things.\nhttps://docs.google.com/spreadsheets/d/17Mrc9x8A9ZDNLIt7LWFNxIYxI5soLvBPK2qhpXMQ9AU/edit?usp=sharing\n\nThe file should be sent as a CSV file with all requested data.\nIf you do a good job - I need other parts of this site (around 4-5 projects) that I would happily pay you again.\n\nThank you!",
         "author": "ItzikSachs",
-        "posted_time": "41 minutes ago",
+        "posted_time": "51 minutes ago",
         "link": "https://replit.com/bounties/@ItzikSachs/scrape-israel-real-e?t="
     }
 ]
