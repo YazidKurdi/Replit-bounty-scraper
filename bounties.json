@@ -9506,7 +9506,7 @@
         "title": "Tiktok scraper to google sheets",
         "description": "Create tiktok scraper that runs every 1 hour for a specific hashtag and saves all the latest posts information to a google sheet\n\nThe main challenge here is to get the latest posts posted for a hashtag rather than the top posts which is static\n\nAcceptance Criteria\nScraper runs every 1 hour\nSearches for LATEST posts for a hashtag not top posts\nSaves post information to google sheets\nOnly saves posts that don't already exist in the google sheet\n\nImplementation\nShould run in cloud / serverless\nShould be very easy to manage e.g. a github action or something with a gui\nDon't mind if you use a service to do it",
         "author": "SamuelAbaka-Woo",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@SamuelAbaka-Woo/tiktok-scraper-to-go?t="
     },
     {
@@ -9536,17 +9536,17 @@
         "title": "Fortnite xcould on coustom url ",
         "description": "I want to have a website off of my domain that run xcloud fortnite with the same add to home screen ability, an example that runs roblox it nowgg.me/xi but I want fortnite",
         "author": "whatisaapple",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@whatisaapple/fortnite-xcould-on-c?t="
     },
     {
         "index": "954",
         "price": "$450.00",
-        "due_days": "due in 13 days",
+        "due_days": "due in 12 days",
         "title": "Custom self-hosted Ghost blog",
         "description": "Create a simple custom theme and do integrations with email subscriptions for a self-hosted Ghost-based blog (https://ghost.org) based on a provided image moodboard, and references to other websites.\n\nAcceptance Criteria\nA complete ghost theme suited to the moodboard with the following pages:\n  About: A plate to put background and contact details about the author\n  Blog: A place to make posts (using the Ghost web UI)\n  Notes: A place for shorter / draft posts, separate from the blog\n  Email subscription, so that visitors can subscribe for further updates\nReady to deploy. It's not necessary to deploy the site once it's ready, I can do that myself.",
         "author": "AntonTroynikov",
-        "posted_time": "35 minutes ago",
+        "posted_time": "43 minutes ago",
         "link": "https://replit.com/bounties/@AntonTroynikov/custom-self-hosted-g?t="
     }
 ]
