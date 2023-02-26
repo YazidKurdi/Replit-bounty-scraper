@@ -7802,7 +7802,7 @@ Bonus:
 
 Will pay extra for:
 Tweet and/or blog scraper
-Podcast audio transcription",SpencerKier,18 hours ago,https://replit.com/bounties/@SpencerKier/generative-text-mode?t=
+Podcast audio transcription",SpencerKier,19 hours ago,https://replit.com/bounties/@SpencerKier/generative-text-mode?t=
 945,$810.00,due in 2 months,Rewrite Base58's website to be a single page webapp (Golang),"The Base58 website works great but we'd like to have a version where:
 You only need JavaScript to checkout and view the course calendar
 Every thing is on a single page
@@ -7824,14 +7824,14 @@ Technical Details
 The website written in Go with Gorilla. We've got a simple site, we should have a simple to update and deploy website that's as statically rendered as possible.
 
 Timelines / Milestones
-Applications op...",base58,16 hours ago,https://replit.com/bounties/@base58/rewrite-base58s-webs?t=
+Applications op...",base58,17 hours ago,https://replit.com/bounties/@base58/rewrite-base58s-webs?t=
 946,$4.50,due in 14 days,Spread my CHATGPT WEBSITE,"Spread https://replit.com/@syrud/CHATGPT#index.html
 Only 1 person will win.
-Must have 100 new visitor or cancel",syrud,11 hours ago,https://replit.com/bounties/@syrud/spread-my-chatgpt-we?t=
+Must have 100 new visitor or cancel",syrud,12 hours ago,https://replit.com/bounties/@syrud/spread-my-chatgpt-we?t=
 947,$20.70,due in 13 days,Drag and drop example using KaboomJS,"I want to use drag and drop elements within my KaboomJS games.
 I need  a simple library that identifies the elements on the screen that are draggable. as well as drop targets.
 
-You will create a simple KaboomJS demo with simple squares that are draggable  and droppable on another square. After the drop is successful a callback function is called  that has access to the dragged object.",triptych,9 hours ago,https://replit.com/bounties/@triptych/drag-and-drop-exampl?t=
+You will create a simple KaboomJS demo with simple squares that are draggable  and droppable on another square. After the drop is successful a callback function is called  that has access to the dragged object.",triptych,10 hours ago,https://replit.com/bounties/@triptych/drag-and-drop-exampl?t=
 948,$22.50,due in 13 days,Create a template to allow anyone to run a mastodon instance on Replit,"Problem statement
 I want to run my own personal Mastodon instance via Replit.
 I don't want to spend hours figuring out how to do it myself.
@@ -7843,3 +7843,20 @@ Create a Replit repl which allows someone to set up their own Mastodon instance.
 User should be able to just clone your template, read a Readme file and be able to set up an instance without a lot of fiddling , config, etc.  The emphasis is on EASE OF USE.
 
 The goal is to have a personal mastodon instance that can read in feeds, follow others on the fediverse, and be followed by other mastodon instances.",triptych,8 hours ago,https://replit.com/bounties/@triptych/create-a-template-to?t=
+949,$27.00,due in 9 days,Scrape Israel real estate deal site,"Scrape Israel real estate deal site - for the latest real estate deals.
+
+Acceptance Criteria
+This link contains all the data of the latest deals in a specific area.
+https://www.nadlan.gov.il/?search=%D7%90%D7%91%D7%A0%D7%99%20%D7%97%D7%9F%20%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F%20%D7%9E%D7%9B%D7%91%D7%99%D7%9D%20%D7%A8%D7%A2%D7%95%D7%AA
+
+Please note: The writing is RIGHT to LEFT ( in Hebrew.)
+
+Please scrape the data to the first deal in 2021 (04/01/2021)
+Here's a google sheet of how it should look at the end
+I have added some English translations so you can understand the meaning of things.
+https://docs.google.com/spreadsheets/d/17Mrc9x8A9ZDNLIt7LWFNxIYxI5soLvBPK2qhpXMQ9AU/edit?usp=sharing
+
+The file should be sent as a CSV file with all requested data.
+If you do a good job - I need other parts of this site (around 4-5 projects) that I would happily pay you again.
+
+Thank you!",ItzikSachs,6 minutes ago,https://replit.com/bounties/@ItzikSachs/scrape-israel-real-e?t=

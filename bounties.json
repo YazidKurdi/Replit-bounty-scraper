@@ -9446,7 +9446,7 @@
         "title": "Generative text model trained on various text sources that I can do Q&A with",
         "description": "Overview\nI want to train a model on a person's ideas (including tweets, blog posts, and podcast transcripts), do Q&A with it, and get text responses that are consistent with the \"voice\"/style and content of the provided inputs.\n\nAcceptance Criteria\nUse of current, best in class foundational model and training strategies\nModel can be trained on ~hundreds of tweets, tens of blog posts, and ~5 hours of podcast transcripts\nEither takes a CSV or has a UI for accepting training data\nUI for asking a question and getting a response\nModel answers/outputs are consistent with \"voice\"/style and content of trained data\nBonus:\n** Parameter for specifying max length of response (tokens or chars)\n** Output can be up/down voted to fine tune\n** Option to regenerate response\n** Retains state/context (would like to hear pros/cons on this)\n\nWill pay extra for:\nTweet and/or blog scraper\nPodcast audio transcription",
         "author": "SpencerKier",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@SpencerKier/generative-text-mode?t="
     },
     {
@@ -9456,7 +9456,7 @@
         "title": "Rewrite Base58's website to be a single page webapp (Golang)",
         "description": "The Base58 website works great but we'd like to have a version where:\nYou only need JavaScript to checkout and view the course calendar\nEvery thing is on a single page\nNeeds to look good on mobile as well as desktop\n\nI don't like JavaScript. I'd really just like a simple, mostly server side site that uses JS as little as possible (maybe just to fetch stuff from the server or handle initiation for checkout)\n\nCurrent website is here: https://base58.info\n\nApplication Criteria\nYou submit a Figma or Canva design sketch for Base58's website that has a better information layout, ideally as a single page.\n\nAcceptance Criteria\nImplemented working website hosted on a temp domain\nBinaries ready to be ported to Base58 hosted servers\nGithub repo with all the code\n\nTechnical Details\nThe website written in Go with Gorilla. We've got a simple site, we should have a simple to update and deploy website that's as statically rendered as possible.\n\nTimelines / Milestones\nApplications op...",
         "author": "base58",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@base58/rewrite-base58s-webs?t="
     },
     {
@@ -9466,7 +9466,7 @@
         "title": "Spread my CHATGPT WEBSITE",
         "description": "Spread https://replit.com/@syrud/CHATGPT#index.html\nOnly 1 person will win.\nMust have 100 new visitor or cancel",
         "author": "syrud",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@syrud/spread-my-chatgpt-we?t="
     },
     {
@@ -9476,7 +9476,7 @@
         "title": "Drag and drop example using KaboomJS",
         "description": "I want to use drag and drop elements within my KaboomJS games.\nI need  a simple library that identifies the elements on the screen that are draggable. as well as drop targets.\n\nYou will create a simple KaboomJS demo with simple squares that are draggable  and droppable on another square. After the drop is successful a callback function is called  that has access to the dragged object.",
         "author": "triptych",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@triptych/drag-and-drop-exampl?t="
     },
     {
@@ -9488,5 +9488,15 @@
         "author": "triptych",
         "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@triptych/create-a-template-to?t="
+    },
+    {
+        "index": "949",
+        "price": "$27.00",
+        "due_days": "due in 9 days",
+        "title": "Scrape Israel real estate deal site",
+        "description": "Scrape Israel real estate deal site - for the latest real estate deals.\n\nAcceptance Criteria\nThis link contains all the data of the latest deals in a specific area.\nhttps://www.nadlan.gov.il/?search=%D7%90%D7%91%D7%A0%D7%99%20%D7%97%D7%9F%20%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F%20%D7%9E%D7%9B%D7%91%D7%99%D7%9D%20%D7%A8%D7%A2%D7%95%D7%AA\n\nPlease note: The writing is RIGHT to LEFT ( in Hebrew.)\n\nPlease scrape the data to the first deal in 2021 (04/01/2021)\nHere's a google sheet of how it should look at the end\nI have added some English translations so you can understand the meaning of things.\nhttps://docs.google.com/spreadsheets/d/17Mrc9x8A9ZDNLIt7LWFNxIYxI5soLvBPK2qhpXMQ9AU/edit?usp=sharing\n\nThe file should be sent as a CSV file with all requested data.\nIf you do a good job - I need other parts of this site (around 4-5 projects) that I would happily pay you again.\n\nThank you!",
+        "author": "ItzikSachs",
+        "posted_time": "6 minutes ago",
+        "link": "https://replit.com/bounties/@ItzikSachs/scrape-israel-real-e?t="
     }
 ]
