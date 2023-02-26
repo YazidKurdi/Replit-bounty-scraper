@@ -9486,7 +9486,7 @@
         "title": "Create a template to allow anyone to run a mastodon instance on Replit",
         "description": "Problem statement\nI want to run my own personal Mastodon instance via Replit.\nI don't want to spend hours figuring out how to do it myself.\nI want anyone who wants to, to use a Mastodon template on Replit to start their own Mastodon instance as well.\n\n#Requirements\nCreate a Replit repl which allows someone to set up their own Mastodon instance. Using the latest version of Mastodon.\n\nUser should be able to just clone your template, read a Readme file and be able to set up an instance without a lot of fiddling , config, etc.  The emphasis is on EASE OF USE.\n\nThe goal is to have a personal mastodon instance that can read in feeds, follow others on the fediverse, and be followed by other mastodon instances.",
         "author": "triptych",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@triptych/create-a-template-to?t="
     },
     {
@@ -9546,7 +9546,7 @@
         "title": "Custom self-hosted Ghost blog",
         "description": "Create a simple custom theme and do integrations with email subscriptions for a self-hosted Ghost-based blog (https://ghost.org) based on a provided image moodboard, and references to other websites.\n\nAcceptance Criteria\nA complete ghost theme suited to the moodboard with the following pages:\n  About: A plate to put background and contact details about the author\n  Blog: A place to make posts (using the Ghost web UI)\n  Notes: A place for shorter / draft posts, separate from the blog\n  Email subscription, so that visitors can subscribe for further updates\nReady to deploy. It's not necessary to deploy the site once it's ready, I can do that myself.",
         "author": "AntonTroynikov",
-        "posted_time": "43 minutes ago",
+        "posted_time": "53 minutes ago",
         "link": "https://replit.com/bounties/@AntonTroynikov/custom-self-hosted-g?t="
     }
 ]
