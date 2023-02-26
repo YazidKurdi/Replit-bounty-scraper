@@ -7778,13 +7778,13 @@ Acceptance Criteria
 
 A URL / #tag entry box and CTA
 A progress bar whilst scraping and processing
-Return an error message if the URL / # is invalid or the post does not contain ingredients or if th...",RohanSinclair,1 day ago,https://replit.com/bounties/@RohanSinclair/ai-ingredients-socia?t=
+Return an error message if the URL / # is invalid or the post does not contain ingredients or if th...",RohanSinclair,2 days ago,https://replit.com/bounties/@RohanSinclair/ai-ingredients-socia?t=
 943,$45.00,due in 2 days,Deploy Kubeflow server on AKS ,"I want to deploy a Kubeflow server on my Azure Kubernetes Service (AKS) cluster under a kubeflow-dev namespace. Unfortunately, I got an error, something about Kubernetes version > 1.16... My cluster is running 1.24.6
 
 Acceptance Criteria
 A bash script that does end-to-end deployment of Kubeflow on AKS 1.24.6. The script should run successfully on a new macOS environment, so don't assume I have any helper os libraries / CLI installed except for az and kubectl
 
-I can't add you to my AKS cluster. You will have develop on your own cluster.",bio-2023,1 day ago,https://replit.com/bounties/@bio-2023/deploy-kubeflow-serv?t=
+I can't add you to my AKS cluster. You will have develop on your own cluster.",bio-2023,2 days ago,https://replit.com/bounties/@bio-2023/deploy-kubeflow-serv?t=
 944,$67.50,due in 8 days,Generative text model trained on various text sources that I can do Q&A with,"Overview
 I want to train a model on a person's ideas (including tweets, blog posts, and podcast transcripts), do Q&A with it, and get text responses that are consistent with the ""voice""/style and content of the provided inputs.
 
@@ -7802,7 +7802,7 @@ Bonus:
 
 Will pay extra for:
 Tweet and/or blog scraper
-Podcast audio transcription",SpencerKier,20 hours ago,https://replit.com/bounties/@SpencerKier/generative-text-mode?t=
+Podcast audio transcription",SpencerKier,21 hours ago,https://replit.com/bounties/@SpencerKier/generative-text-mode?t=
 945,$810.00,due in 2 months,Rewrite Base58's website to be a single page webapp (Golang),"The Base58 website works great but we'd like to have a version where:
 You only need JavaScript to checkout and view the course calendar
 Every thing is on a single page
@@ -7824,14 +7824,14 @@ Technical Details
 The website written in Go with Gorilla. We've got a simple site, we should have a simple to update and deploy website that's as statically rendered as possible.
 
 Timelines / Milestones
-Applications op...",base58,18 hours ago,https://replit.com/bounties/@base58/rewrite-base58s-webs?t=
-946,$4.50,due in 13 days,Spread my CHATGPT WEBSITE,"Spread https://replit.com/@syrud/CHATGPT#index.html
+Applications op...",base58,19 hours ago,https://replit.com/bounties/@base58/rewrite-base58s-webs?t=
+946,$4.50,closed,Spread my CHATGPT WEBSITE,"Spread https://replit.com/@syrud/CHATGPT#index.html
 Only 1 person will win.
-Must have 100 new visitor or cancel",syrud,13 hours ago,https://replit.com/bounties/@syrud/spread-my-chatgpt-we?t=
+Must have 100 new visitor or cancel",syrud,14 hours ago,https://replit.com/bounties/@syrud/spread-my-chatgpt-we?t=
 947,$20.70,due in 12 days,Drag and drop example using KaboomJS,"I want to use drag and drop elements within my KaboomJS games.
 I need  a simple library that identifies the elements on the screen that are draggable. as well as drop targets.
 
-You will create a simple KaboomJS demo with simple squares that are draggable  and droppable on another square. After the drop is successful a callback function is called  that has access to the dragged object.",triptych,11 hours ago,https://replit.com/bounties/@triptych/drag-and-drop-exampl?t=
+You will create a simple KaboomJS demo with simple squares that are draggable  and droppable on another square. After the drop is successful a callback function is called  that has access to the dragged object.",triptych,12 hours ago,https://replit.com/bounties/@triptych/drag-and-drop-exampl?t=
 948,$22.50,due in 12 days,Create a template to allow anyone to run a mastodon instance on Replit,"Problem statement
 I want to run my own personal Mastodon instance via Replit.
 I don't want to spend hours figuring out how to do it myself.

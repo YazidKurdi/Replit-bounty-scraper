@@ -9426,7 +9426,7 @@
         "title": "AI Ingredients Social Media Webapp",
         "description": "Requirement\n\nThe requirement is to capture a social media post about a food trend making video/post (via  a  URL or trending hashtag support for FB, IG, TikTok, Pinterest etc.)\n\nDetermine and extract ingredients required for the recipe.\n\nFrom the specific URL or food trends # (some samples below) you need to extract the ingredients and map to a separate database and \u201cfuzzy match\u201d to actual product SKU\u2019s and measurements\n\nFor example \u201c3 egg whites\u201d -> mapped to 3 eggs or 30g of egg whites - 20g of flour mapped to -> bag self raising flour etc.)\n\nThe end result should be an easy to read shopping list that is returned to the user with a single \u201cBuy\u201d button for all the ingredients to be purchased with a combined price of SKU\u2019s and a selection so the user and sedat or deselect what they require.\n\nAcceptance Criteria\n\nA URL / #tag entry box and CTA\nA progress bar whilst scraping and processing\nReturn an error message if the URL / # is invalid or the post does not contain ingredients or if th...",
         "author": "RohanSinclair",
-        "posted_time": "1 day ago",
+        "posted_time": "2 days ago",
         "link": "https://replit.com/bounties/@RohanSinclair/ai-ingredients-socia?t="
     },
     {
@@ -9436,7 +9436,7 @@
         "title": "Deploy Kubeflow server on AKS ",
         "description": "I want to deploy a Kubeflow server on my Azure Kubernetes Service (AKS) cluster under a kubeflow-dev namespace. Unfortunately, I got an error, something about Kubernetes version > 1.16... My cluster is running 1.24.6\n\nAcceptance Criteria\nA bash script that does end-to-end deployment of Kubeflow on AKS 1.24.6. The script should run successfully on a new macOS environment, so don't assume I have any helper os libraries / CLI installed except for az and kubectl\n\nI can't add you to my AKS cluster. You will have develop on your own cluster.",
         "author": "bio-2023",
-        "posted_time": "1 day ago",
+        "posted_time": "2 days ago",
         "link": "https://replit.com/bounties/@bio-2023/deploy-kubeflow-serv?t="
     },
     {
@@ -9446,7 +9446,7 @@
         "title": "Generative text model trained on various text sources that I can do Q&A with",
         "description": "Overview\nI want to train a model on a person's ideas (including tweets, blog posts, and podcast transcripts), do Q&A with it, and get text responses that are consistent with the \"voice\"/style and content of the provided inputs.\n\nAcceptance Criteria\nUse of current, best in class foundational model and training strategies\nModel can be trained on ~hundreds of tweets, tens of blog posts, and ~5 hours of podcast transcripts\nEither takes a CSV or has a UI for accepting training data\nUI for asking a question and getting a response\nModel answers/outputs are consistent with \"voice\"/style and content of trained data\nBonus:\n** Parameter for specifying max length of response (tokens or chars)\n** Output can be up/down voted to fine tune\n** Option to regenerate response\n** Retains state/context (would like to hear pros/cons on this)\n\nWill pay extra for:\nTweet and/or blog scraper\nPodcast audio transcription",
         "author": "SpencerKier",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@SpencerKier/generative-text-mode?t="
     },
     {
@@ -9456,17 +9456,17 @@
         "title": "Rewrite Base58's website to be a single page webapp (Golang)",
         "description": "The Base58 website works great but we'd like to have a version where:\nYou only need JavaScript to checkout and view the course calendar\nEvery thing is on a single page\nNeeds to look good on mobile as well as desktop\n\nI don't like JavaScript. I'd really just like a simple, mostly server side site that uses JS as little as possible (maybe just to fetch stuff from the server or handle initiation for checkout)\n\nCurrent website is here: https://base58.info\n\nApplication Criteria\nYou submit a Figma or Canva design sketch for Base58's website that has a better information layout, ideally as a single page.\n\nAcceptance Criteria\nImplemented working website hosted on a temp domain\nBinaries ready to be ported to Base58 hosted servers\nGithub repo with all the code\n\nTechnical Details\nThe website written in Go with Gorilla. We've got a simple site, we should have a simple to update and deploy website that's as statically rendered as possible.\n\nTimelines / Milestones\nApplications op...",
         "author": "base58",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@base58/rewrite-base58s-webs?t="
     },
     {
         "index": "946",
         "price": "$4.50",
-        "due_days": "due in 13 days",
+        "due_days": "closed",
         "title": "Spread my CHATGPT WEBSITE",
         "description": "Spread https://replit.com/@syrud/CHATGPT#index.html\nOnly 1 person will win.\nMust have 100 new visitor or cancel",
         "author": "syrud",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@syrud/spread-my-chatgpt-we?t="
     },
     {
@@ -9476,7 +9476,7 @@
         "title": "Drag and drop example using KaboomJS",
         "description": "I want to use drag and drop elements within my KaboomJS games.\nI need  a simple library that identifies the elements on the screen that are draggable. as well as drop targets.\n\nYou will create a simple KaboomJS demo with simple squares that are draggable  and droppable on another square. After the drop is successful a callback function is called  that has access to the dragged object.",
         "author": "triptych",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@triptych/drag-and-drop-exampl?t="
     },
     {
