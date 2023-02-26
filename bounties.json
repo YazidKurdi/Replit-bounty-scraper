@@ -9446,7 +9446,7 @@
         "title": "Generative text model trained on various text sources that I can do Q&A with",
         "description": "Overview\nI want to train a model on a person's ideas (including tweets, blog posts, and podcast transcripts), do Q&A with it, and get text responses that are consistent with the \"voice\"/style and content of the provided inputs.\n\nAcceptance Criteria\nUse of current, best in class foundational model and training strategies\nModel can be trained on ~hundreds of tweets, tens of blog posts, and ~5 hours of podcast transcripts\nEither takes a CSV or has a UI for accepting training data\nUI for asking a question and getting a response\nModel answers/outputs are consistent with \"voice\"/style and content of trained data\nBonus:\n** Parameter for specifying max length of response (tokens or chars)\n** Output can be up/down voted to fine tune\n** Option to regenerate response\n** Retains state/context (would like to hear pros/cons on this)\n\nWill pay extra for:\nTweet and/or blog scraper\nPodcast audio transcription",
         "author": "SpencerKier",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@SpencerKier/generative-text-mode?t="
     },
     {
@@ -9456,7 +9456,7 @@
         "title": "Rewrite Base58's website to be a single page webapp (Golang)",
         "description": "The Base58 website works great but we'd like to have a version where:\nYou only need JavaScript to checkout and view the course calendar\nEvery thing is on a single page\nNeeds to look good on mobile as well as desktop\n\nI don't like JavaScript. I'd really just like a simple, mostly server side site that uses JS as little as possible (maybe just to fetch stuff from the server or handle initiation for checkout)\n\nCurrent website is here: https://base58.info\n\nApplication Criteria\nYou submit a Figma or Canva design sketch for Base58's website that has a better information layout, ideally as a single page.\n\nAcceptance Criteria\nImplemented working website hosted on a temp domain\nBinaries ready to be ported to Base58 hosted servers\nGithub repo with all the code\n\nTechnical Details\nThe website written in Go with Gorilla. We've got a simple site, we should have a simple to update and deploy website that's as statically rendered as possible.\n\nTimelines / Milestones\nApplications op...",
         "author": "base58",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@base58/rewrite-base58s-webs?t="
     },
     {
@@ -9466,7 +9466,7 @@
         "title": "Spread my CHATGPT WEBSITE",
         "description": "Spread https://replit.com/@syrud/CHATGPT#index.html\nOnly 1 person will win.\nMust have 100 new visitor or cancel",
         "author": "syrud",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@syrud/spread-my-chatgpt-we?t="
     },
     {
@@ -9476,7 +9476,7 @@
         "title": "Drag and drop example using KaboomJS",
         "description": "I want to use drag and drop elements within my KaboomJS games.\nI need  a simple library that identifies the elements on the screen that are draggable. as well as drop targets.\n\nYou will create a simple KaboomJS demo with simple squares that are draggable  and droppable on another square. After the drop is successful a callback function is called  that has access to the dragged object.",
         "author": "triptych",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@triptych/drag-and-drop-exampl?t="
     },
     {
@@ -9486,7 +9486,7 @@
         "title": "Create a template to allow anyone to run a mastodon instance on Replit",
         "description": "Problem statement\nI want to run my own personal Mastodon instance via Replit.\nI don't want to spend hours figuring out how to do it myself.\nI want anyone who wants to, to use a Mastodon template on Replit to start their own Mastodon instance as well.\n\n#Requirements\nCreate a Replit repl which allows someone to set up their own Mastodon instance. Using the latest version of Mastodon.\n\nUser should be able to just clone your template, read a Readme file and be able to set up an instance without a lot of fiddling , config, etc.  The emphasis is on EASE OF USE.\n\nThe goal is to have a personal mastodon instance that can read in feeds, follow others on the fediverse, and be followed by other mastodon instances.",
         "author": "triptych",
-        "posted_time": "39 minutes ago",
+        "posted_time": "56 minutes ago",
         "link": "https://replit.com/bounties/@triptych/create-a-template-to?t="
     }
 ]
