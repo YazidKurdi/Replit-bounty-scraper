@@ -7873,11 +7873,11 @@ Only saves posts that don't already exist in the google sheet
 Implementation
 Should run in cloud / serverless
 Should be very easy to manage e.g. a github action or something with a gui
-Don't mind if you use a service to do it",SamuelAbaka-Woo,27 minutes ago,https://replit.com/bounties/@SamuelAbaka-Woo/tiktok-scraper-to-go?t=
+Don't mind if you use a service to do it",SamuelAbaka-Woo,37 minutes ago,https://replit.com/bounties/@SamuelAbaka-Woo/tiktok-scraper-to-go?t=
 951,$45.00,due in 10 days,Download hourly bitcoin prices,"Write a python script that downloads hourly bitcoin prices and inserts them to a CSV file with two columns: timestamp and price. When the file is run, it retrieves the last 200 days of prices. When the file is run again, it overwrites the last CSV with a new CSV pulling in the last 200 days of prices
 
 I would like to use this data for time series analysis
 
 #acceptance criteria: successfully downloads prices when run 5 times. successfully overwrites prior CSV file with new prices
 
-#technical criteria: python script that's compatible with v3.9.6",JayDas4,8 minutes ago,https://replit.com/bounties/@JayDas4/download-hourly-bitc?t=
+#technical criteria: python script that's compatible with v3.9.6",JayDas4,17 minutes ago,https://replit.com/bounties/@JayDas4/download-hourly-bitc?t=
