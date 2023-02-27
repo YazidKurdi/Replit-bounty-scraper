@@ -9546,7 +9546,7 @@
         "title": "Custom self-hosted Ghost blog",
         "description": "Create a simple custom theme and do integrations with email subscriptions for a self-hosted Ghost-based blog (https://ghost.org) based on a provided image moodboard, and references to other websites.\n\nAcceptance Criteria\nA complete ghost theme suited to the moodboard with the following pages:\n  About: A plate to put background and contact details about the author\n  Blog: A place to make posts (using the Ghost web UI)\n  Notes: A place for shorter / draft posts, separate from the blog\n  Email subscription, so that visitors can subscribe for further updates\nReady to deploy. It's not necessary to deploy the site once it's ready, I can do that myself.",
         "author": "AntonTroynikov",
-        "posted_time": "21 hours ago",
+        "posted_time": "22 hours ago",
         "link": "https://replit.com/bounties/@AntonTroynikov/custom-self-hosted-g?t="
     },
     {
@@ -9626,7 +9626,7 @@
         "title": "Looking to discuss what's possible with SD and Dall-E",
         "description": "I am looking to find out whether a model can be trained on Stable Diffusion or Dall-E in a certain style using generated images (From Midjourney).\n\nThen having that fine tuned model generate avatars with that same style once a user uploads a bunch of their own face photos.\n\nWe can discuss over discord or Whatsapp. Thanks",
         "author": "Danar8",
-        "posted_time": "24 minutes ago",
+        "posted_time": "46 minutes ago",
         "link": "https://replit.com/bounties/@Danar8/looking-to-discuss-w?t="
     },
     {
@@ -9636,7 +9636,7 @@
         "title": "JS - HELP - Get rid of loaded JSON-Schema-Tags",
         "description": "We run a WordPress site where the Rankmath and Wordlift Plugins are installed. Both Plugins inject a JSON-Schema -Tag into every page, which is fine for us. However, we have a single page where we have already injected our own JSON-Schema. Now we have the issue that we have 3 Schema-Markups getting loaded instead of 1. So, we need to get rid of those -Tags which are loaded by RankMath and Wordlift for a single page. That's about it.\n\nAcceptance Criteria\nIt would be wonderful if we could tackle this issue together quickly.\n\nTechnical Details\nWe run a WordPress with the RankMath and Wordlift Plugin. Both Plugins load their respective Schema Structure in the form of a -Tag.\n\nLink to Project\nDM",
         "author": "MasterNeo",
-        "posted_time": "7 minutes ago",
+        "posted_time": "29 minutes ago",
         "link": "https://replit.com/bounties/@MasterNeo/js-help-get-rid-of-l?t="
     }
 ]
