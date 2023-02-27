@@ -9566,7 +9566,7 @@
         "title": "Slack App that shows you posts from a year ago",
         "description": "We have a slack channel where we put meaningful posts for posterity. We want to be reminded of those posts on their anniversary on our main channel.\n\nAcceptance Criteria\nthe app takes 2 parameters:\nthe monitored channel\nthe \"main\" channel where the app will post\nDaily, the app looks for posts on the monitored channel that were posted on the same day of the year, and if any, posts a link to those posts on the main channel",
         "author": "ThomasGerber",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@ThomasGerber/slack-app-that-shows?t="
     },
     {
@@ -9596,7 +9596,7 @@
         "title": "Program a figma to HTML converter in python.",
         "description": "I need to have someone program a figma to HTML converter in python. I should be able to insert a link, and it should be able to give me a link to the best suited converter extension. It can choose it randomly\n\nAcceptance Criteria:\nWill probably been given to a replit verified hunter\nNeeds to give me an extension, randomly.\nShould only support terminal input\nYou don't have to code the converter, yourself.",
         "author": "DublinKumon",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@DublinKumon/program-a-figma-to-h?t="
     },
     {
@@ -9608,5 +9608,15 @@
         "author": "Klaudioz",
         "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@Klaudioz/add-pinecone-to-a-py?t="
+    },
+    {
+        "index": "961",
+        "price": "$2,250.00",
+        "due_days": "due in 15 days",
+        "title": "Home Purchasing Power Calculator",
+        "description": "Understanding how much home you can affors is critical to anyone contemplating their next home purchase. I run a real estate company and want to create a Home Buying Power Calculator so that potential customers can better understand how much home they can afford to purchase given their income, amount available for downpayment, and monthly debts. Here is an example of what I am looking to create. https://www.movoto.com/mortgages/buyingpower/\n\nAcceptance Criteria: The web application should have a simple design with a fintech design stye. The calculator should be accessible to users from any device, including desktops, laptops, tablets, and smartphones. The user should be able to input their annual income, down payment, monthly debt payments and zip code into the calculator. The calculator should provide a range of home affordability options based on the user's input, with the options being affordable, stretching, and aggressive. And it should provide a breakdown of ...",
+        "author": "RobertReardon",
+        "posted_time": "6 minutes ago",
+        "link": "https://replit.com/bounties/@RobertReardon/home-purchasing-powe?t="
     }
 ]
