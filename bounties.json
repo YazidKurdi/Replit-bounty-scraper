@@ -9526,7 +9526,7 @@
         "title": "Simple Google Login NextJS",
         "description": "Make a simple google login page using NextJS that retrieves the user access token\n\nAcceptance Criteria\nAs long as you have experience with React or NextJS",
         "author": "cadornajansen",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@cadornajansen/simple-google-login?t="
     },
     {
@@ -9586,7 +9586,17 @@
         "title": "Modify a pterodactyl egg",
         "description": "I need a modified version of the paper pterodactyl egg that installs https://www.spigotmc.org/resources/hibernate.4441/ and names the file DO NOT REMOVE\n\nAcceptance Criteria\nMust have discord in the application\nCan get done within 2 days of accept",
         "author": "OddGames",
-        "posted_time": "42 minutes ago",
+        "posted_time": "56 minutes ago",
         "link": "https://replit.com/bounties/@OddGames/modify-a-pterodactyl?t="
+    },
+    {
+        "index": "959",
+        "price": "$9.00",
+        "due_days": "due in 11 days",
+        "title": "Program a figma to HTML converter in python.",
+        "description": "I need to have someone program a figma to HTML converter in python. I should be able to insert a link, and it should be able to give me a link to the best suited converter extension. It can choose it randomly\n\nAcceptance Criteria:\nWill probably been given to a replit verified hunter\nNeeds to give me an extension, randomly.\nShould only support terminal input\nYou don't have to code the converter, yourself.",
+        "author": "DublinKumon",
+        "posted_time": "8 minutes ago",
+        "link": "https://replit.com/bounties/@DublinKumon/program-a-figma-to-h?t="
     }
 ]
