@@ -7880,7 +7880,7 @@ I would like to use this data for time series analysis
 
 #acceptance criteria: successfully downloads prices when run 5 times. successfully overwrites prior CSV file with new prices
 
-#technical criteria: python script that's compatible with v3.9.6",JayDas4,12 hours ago,https://replit.com/bounties/@JayDas4/download-hourly-bitc?t=
+#technical criteria: python script that's compatible with v3.9.6",JayDas4,13 hours ago,https://replit.com/bounties/@JayDas4/download-hourly-bitc?t=
 952,$4.50,due in 6 days,Simple Google Login NextJS,"Make a simple google login page using NextJS that retrieves the user access token
 
 Acceptance Criteria
@@ -7910,4 +7910,4 @@ Test that upgrading to Pro works, and verify that the upgraded app has access to
 Technical Details
 
 Create a fixture in Cypress, using TypeScript
-Run the tests with npm test",dvdsgl,32 minutes ago,https://replit.com/bounties/@dvdsgl/write-cypress-tests?t=
+Run the tests with npm test",dvdsgl,51 minutes ago,https://replit.com/bounties/@dvdsgl/write-cypress-tests?t=
