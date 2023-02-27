@@ -7884,7 +7884,7 @@ I would like to use this data for time series analysis
 952,$4.50,due in 6 days,Simple Google Login NextJS,"Make a simple google login page using NextJS that retrieves the user access token
 
 Acceptance Criteria
-As long as you have experience with React or NextJS",cadornajansen,13 hours ago,https://replit.com/bounties/@cadornajansen/simple-google-login?t=
+As long as you have experience with React or NextJS",cadornajansen,14 hours ago,https://replit.com/bounties/@cadornajansen/simple-google-login?t=
 953,$14.85,due in 13 days,Fortnite xcould on coustom url ,"I want to have a website off of my domain that run xcloud fortnite with the same add to home screen ability, an example that runs roblox it nowgg.me/xi but I want fortnite",whatisaapple,12 hours ago,https://replit.com/bounties/@whatisaapple/fortnite-xcould-on-c?t=
 954,$450.00,due in 12 days,Custom self-hosted Ghost blog,"Create a simple custom theme and do integrations with email subscriptions for a self-hosted Ghost-based blog (https://ghost.org) based on a provided image moodboard, and references to other websites.
 
@@ -7911,3 +7911,11 @@ Technical Details
 
 Create a fixture in Cypress, using TypeScript
 Run the tests with npm test",dvdsgl,2 hours ago,https://replit.com/bounties/@dvdsgl/write-cypress-tests?t=
+956,$270.00,due in 17 days,Slack App that shows you posts from a year ago,"We have a slack channel where we put meaningful posts for posterity. We want to be reminded of those posts on their anniversary on our main channel.
+
+Acceptance Criteria
+the app takes 2 parameters:
+the monitored channel
+the ""main"" channel where the app will post
+Daily, the app looks for posts on the monitored channel that were posted on the same day of the year, and if any, posts a link to those posts on the main channel",ThomasGerber,10 minutes ago,https://replit.com/bounties/@ThomasGerber/slack-app-that-shows?t=
+957,$7.29,due in 4 days,ChatGPT website,Make a website with CHATGPT token (USE YOURS),syrud,8 minutes ago,https://replit.com/bounties/@syrud/chatgpt-website?t=

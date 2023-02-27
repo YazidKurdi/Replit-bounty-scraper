@@ -9526,7 +9526,7 @@
         "title": "Simple Google Login NextJS",
         "description": "Make a simple google login page using NextJS that retrieves the user access token\n\nAcceptance Criteria\nAs long as you have experience with React or NextJS",
         "author": "cadornajansen",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@cadornajansen/simple-google-login?t="
     },
     {
@@ -9558,5 +9558,25 @@
         "author": "dvdsgl",
         "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@dvdsgl/write-cypress-tests?t="
+    },
+    {
+        "index": "956",
+        "price": "$270.00",
+        "due_days": "due in 17 days",
+        "title": "Slack App that shows you posts from a year ago",
+        "description": "We have a slack channel where we put meaningful posts for posterity. We want to be reminded of those posts on their anniversary on our main channel.\n\nAcceptance Criteria\nthe app takes 2 parameters:\nthe monitored channel\nthe \"main\" channel where the app will post\nDaily, the app looks for posts on the monitored channel that were posted on the same day of the year, and if any, posts a link to those posts on the main channel",
+        "author": "ThomasGerber",
+        "posted_time": "10 minutes ago",
+        "link": "https://replit.com/bounties/@ThomasGerber/slack-app-that-shows?t="
+    },
+    {
+        "index": "957",
+        "price": "$7.29",
+        "due_days": "due in 4 days",
+        "title": "ChatGPT website",
+        "description": "Make a website with CHATGPT token (USE YOURS)",
+        "author": "syrud",
+        "posted_time": "8 minutes ago",
+        "link": "https://replit.com/bounties/@syrud/chatgpt-website?t="
     }
 ]
