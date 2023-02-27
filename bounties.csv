@@ -7859,7 +7859,7 @@ https://docs.google.com/spreadsheets/d/17Mrc9x8A9ZDNLIt7LWFNxIYxI5soLvBPK2qhpXMQ
 The file should be sent as a CSV file with all requested data.
 If you do a good job - I need other parts of this site (around 4-5 projects) that I would happily pay you again.
 
-Thank you!",ItzikSachs,16 hours ago,https://replit.com/bounties/@ItzikSachs/scrape-israel-real-e?t=
+Thank you!",ItzikSachs,17 hours ago,https://replit.com/bounties/@ItzikSachs/scrape-israel-real-e?t=
 950,$80.10,due in 3 days,Tiktok scraper to google sheets,"Create tiktok scraper that runs every 1 hour for a specific hashtag and saves all the latest posts information to a google sheet
 
 The main challenge here is to get the latest posts posted for a hashtag rather than the top posts which is static
@@ -7894,7 +7894,7 @@ A complete ghost theme suited to the moodboard with the following pages:
   Blog: A place to make posts (using the Ghost web UI)
   Notes: A place for shorter / draft posts, separate from the blog
   Email subscription, so that visitors can subscribe for further updates
-Ready to deploy. It's not necessary to deploy the site once it's ready, I can do that myself.",AntonTroynikov,6 hours ago,https://replit.com/bounties/@AntonTroynikov/custom-self-hosted-g?t=
+Ready to deploy. It's not necessary to deploy the site once it's ready, I can do that myself.",AntonTroynikov,7 hours ago,https://replit.com/bounties/@AntonTroynikov/custom-self-hosted-g?t=
 955,$90.00,due in 4 days,Write Cypress tests to automatically test Glide,"We’d like to implement automated tests for Glide (glideapps.com)–specifically to test our billing system.
 
 We’ll write the tests against our staging server, https://staging.heyglide.com
@@ -7910,4 +7910,4 @@ Test that upgrading to Pro works, and verify that the upgraded app has access to
 Technical Details
 
 Create a fixture in Cypress, using TypeScript
-Run the tests with npm test",dvdsgl,3 seconds ago,https://replit.com/bounties/@dvdsgl/write-cypress-tests?t=
+Run the tests with npm test",dvdsgl,15 minutes ago,https://replit.com/bounties/@dvdsgl/write-cypress-tests?t=
