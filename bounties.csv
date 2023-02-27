@@ -7873,7 +7873,7 @@ Only saves posts that don't already exist in the google sheet
 Implementation
 Should run in cloud / serverless
 Should be very easy to manage e.g. a github action or something with a gui
-Don't mind if you use a service to do it",SamuelAbaka-Woo,17 hours ago,https://replit.com/bounties/@SamuelAbaka-Woo/tiktok-scraper-to-go?t=
+Don't mind if you use a service to do it",SamuelAbaka-Woo,18 hours ago,https://replit.com/bounties/@SamuelAbaka-Woo/tiktok-scraper-to-go?t=
 951,$45.00,closed,Download hourly bitcoin prices,"Write a python script that downloads hourly bitcoin prices and inserts them to a CSV file with two columns: timestamp and price. When the file is run, it retrieves the last 200 days of prices. When the file is run again, it overwrites the last CSV with a new CSV pulling in the last 200 days of prices
 
 I would like to use this data for time series analysis
@@ -7885,7 +7885,7 @@ I would like to use this data for time series analysis
 
 Acceptance Criteria
 As long as you have experience with React or NextJS",cadornajansen,17 hours ago,https://replit.com/bounties/@cadornajansen/simple-google-login?t=
-953,$14.85,due in 13 days,Fortnite xcould on coustom url ,"I want to have a website off of my domain that run xcloud fortnite with the same add to home screen ability, an example that runs roblox it nowgg.me/xi but I want fortnite",whatisaapple,15 hours ago,https://replit.com/bounties/@whatisaapple/fortnite-xcould-on-c?t=
+953,$14.85,due in 13 days,Fortnite xcould on coustom url ,"I want to have a website off of my domain that run xcloud fortnite with the same add to home screen ability, an example that runs roblox it nowgg.me/xi but I want fortnite",whatisaapple,16 hours ago,https://replit.com/bounties/@whatisaapple/fortnite-xcould-on-c?t=
 954,$450.00,due in 12 days,Custom self-hosted Ghost blog,"Create a simple custom theme and do integrations with email subscriptions for a self-hosted Ghost-based blog (https://ghost.org) based on a provided image moodboard, and references to other websites.
 
 Acceptance Criteria
@@ -7917,8 +7917,8 @@ Acceptance Criteria
 the app takes 2 parameters:
 the monitored channel
 the ""main"" channel where the app will post
-Daily, the app looks for posts on the monitored channel that were posted on the same day of the year, and if any, posts a link to those posts on the main channel",ThomasGerber,3 hours ago,https://replit.com/bounties/@ThomasGerber/slack-app-that-shows?t=
-957,$7.29,closed,ChatGPT website,Make a website with CHATGPT token (USE YOURS),syrud,3 hours ago,https://replit.com/bounties/@syrud/chatgpt-website?t=
+Daily, the app looks for posts on the monitored channel that were posted on the same day of the year, and if any, posts a link to those posts on the main channel",ThomasGerber,4 hours ago,https://replit.com/bounties/@ThomasGerber/slack-app-that-shows?t=
+957,$7.29,closed,ChatGPT website,Make a website with CHATGPT token (USE YOURS),syrud,4 hours ago,https://replit.com/bounties/@syrud/chatgpt-website?t=
 958,$4.50,due in 4 days,Modify a pterodactyl egg,"I need a modified version of the paper pterodactyl egg that installs https://www.spigotmc.org/resources/hibernate.4441/ and names the file DO NOT REMOVE
 
 Acceptance Criteria
@@ -7930,4 +7930,4 @@ Acceptance Criteria:
 Will probably been given to a replit verified hunter
 Needs to give me an extension, randomly.
 Should only support terminal input
-You don't have to code the converter, yourself.",DublinKumon,1 hour ago,https://replit.com/bounties/@DublinKumon/program-a-figma-to-h?t=
+You don't have to code the converter, yourself.",DublinKumon,2 hours ago,https://replit.com/bounties/@DublinKumon/program-a-figma-to-h?t=
