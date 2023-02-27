@@ -7831,7 +7831,7 @@ Must have 100 new visitor or cancel",syrud,1 day ago,https://replit.com/bounties
 947,$20.70,due in 12 days,Drag and drop example using KaboomJS,"I want to use drag and drop elements within my KaboomJS games.
 I need  a simple library that identifies the elements on the screen that are draggable. as well as drop targets.
 
-You will create a simple KaboomJS demo with simple squares that are draggable  and droppable on another square. After the drop is successful a callback function is called  that has access to the dragged object.",triptych,23 hours ago,https://replit.com/bounties/@triptych/drag-and-drop-exampl?t=
+You will create a simple KaboomJS demo with simple squares that are draggable  and droppable on another square. After the drop is successful a callback function is called  that has access to the dragged object.",triptych,1 day ago,https://replit.com/bounties/@triptych/drag-and-drop-exampl?t=
 948,$22.50,due in 12 days,Create a template to allow anyone to run a mastodon instance on Replit,"Problem statement
 I want to run my own personal Mastodon instance via Replit.
 I don't want to spend hours figuring out how to do it myself.
@@ -7842,7 +7842,7 @@ Create a Replit repl which allows someone to set up their own Mastodon instance.
 
 User should be able to just clone your template, read a Readme file and be able to set up an instance without a lot of fiddling , config, etc.  The emphasis is on EASE OF USE.
 
-The goal is to have a personal mastodon instance that can read in feeds, follow others on the fediverse, and be followed by other mastodon instances.",triptych,22 hours ago,https://replit.com/bounties/@triptych/create-a-template-to?t=
+The goal is to have a personal mastodon instance that can read in feeds, follow others on the fediverse, and be followed by other mastodon instances.",triptych,23 hours ago,https://replit.com/bounties/@triptych/create-a-template-to?t=
 949,$27.00,due in 8 days,Scrape Israel real estate deal site,"Scrape Israel real estate deal site - for the latest real estate deals.
 
 Acceptance Criteria
@@ -7859,7 +7859,7 @@ https://docs.google.com/spreadsheets/d/17Mrc9x8A9ZDNLIt7LWFNxIYxI5soLvBPK2qhpXMQ
 The file should be sent as a CSV file with all requested data.
 If you do a good job - I need other parts of this site (around 4-5 projects) that I would happily pay you again.
 
-Thank you!",ItzikSachs,14 hours ago,https://replit.com/bounties/@ItzikSachs/scrape-israel-real-e?t=
+Thank you!",ItzikSachs,15 hours ago,https://replit.com/bounties/@ItzikSachs/scrape-israel-real-e?t=
 950,$80.10,due in 3 days,Tiktok scraper to google sheets,"Create tiktok scraper that runs every 1 hour for a specific hashtag and saves all the latest posts information to a google sheet
 
 The main challenge here is to get the latest posts posted for a hashtag rather than the top posts which is static
@@ -7873,19 +7873,19 @@ Only saves posts that don't already exist in the google sheet
 Implementation
 Should run in cloud / serverless
 Should be very easy to manage e.g. a github action or something with a gui
-Don't mind if you use a service to do it",SamuelAbaka-Woo,10 hours ago,https://replit.com/bounties/@SamuelAbaka-Woo/tiktok-scraper-to-go?t=
+Don't mind if you use a service to do it",SamuelAbaka-Woo,11 hours ago,https://replit.com/bounties/@SamuelAbaka-Woo/tiktok-scraper-to-go?t=
 951,$45.00,closed,Download hourly bitcoin prices,"Write a python script that downloads hourly bitcoin prices and inserts them to a CSV file with two columns: timestamp and price. When the file is run, it retrieves the last 200 days of prices. When the file is run again, it overwrites the last CSV with a new CSV pulling in the last 200 days of prices
 
 I would like to use this data for time series analysis
 
 #acceptance criteria: successfully downloads prices when run 5 times. successfully overwrites prior CSV file with new prices
 
-#technical criteria: python script that's compatible with v3.9.6",JayDas4,9 hours ago,https://replit.com/bounties/@JayDas4/download-hourly-bitc?t=
+#technical criteria: python script that's compatible with v3.9.6",JayDas4,11 hours ago,https://replit.com/bounties/@JayDas4/download-hourly-bitc?t=
 952,$4.50,due in 6 days,Simple Google Login NextJS,"Make a simple google login page using NextJS that retrieves the user access token
 
 Acceptance Criteria
-As long as you have experience with React or NextJS",cadornajansen,9 hours ago,https://replit.com/bounties/@cadornajansen/simple-google-login?t=
-953,$14.85,due in 13 days,Fortnite xcould on coustom url ,"I want to have a website off of my domain that run xcloud fortnite with the same add to home screen ability, an example that runs roblox it nowgg.me/xi but I want fortnite",whatisaapple,8 hours ago,https://replit.com/bounties/@whatisaapple/fortnite-xcould-on-c?t=
+As long as you have experience with React or NextJS",cadornajansen,10 hours ago,https://replit.com/bounties/@cadornajansen/simple-google-login?t=
+953,$14.85,due in 13 days,Fortnite xcould on coustom url ,"I want to have a website off of my domain that run xcloud fortnite with the same add to home screen ability, an example that runs roblox it nowgg.me/xi but I want fortnite",whatisaapple,9 hours ago,https://replit.com/bounties/@whatisaapple/fortnite-xcould-on-c?t=
 954,$450.00,due in 12 days,Custom self-hosted Ghost blog,"Create a simple custom theme and do integrations with email subscriptions for a self-hosted Ghost-based blog (https://ghost.org) based on a provided image moodboard, and references to other websites.
 
 Acceptance Criteria
@@ -7894,4 +7894,4 @@ A complete ghost theme suited to the moodboard with the following pages:
   Blog: A place to make posts (using the Ghost web UI)
   Notes: A place for shorter / draft posts, separate from the blog
   Email subscription, so that visitors can subscribe for further updates
-Ready to deploy. It's not necessary to deploy the site once it's ready, I can do that myself.",AntonTroynikov,4 hours ago,https://replit.com/bounties/@AntonTroynikov/custom-self-hosted-g?t=
+Ready to deploy. It's not necessary to deploy the site once it's ready, I can do that myself.",AntonTroynikov,5 hours ago,https://replit.com/bounties/@AntonTroynikov/custom-self-hosted-g?t=
