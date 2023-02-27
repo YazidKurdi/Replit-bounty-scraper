@@ -9556,7 +9556,7 @@
         "title": "Write Cypress tests to automatically test Glide",
         "description": "We\u2019d like to implement automated tests for Glide (glideapps.com)\u2013specifically to test our billing system.\n\nWe\u2019ll write the tests against our staging server, https://staging.heyglide.com\n\nAcceptance Criteria\n\nCreate a Cypress project in TypeScript that runs the following tests:\n\nCreate an account\nTest that a free account cannot publish more than 2 apps\nTest that upgrading to Pro works, and verify that the upgraded app has access to Extra sync mode in the app Data settings\n\nTechnical Details\n\nCreate a fixture in Cypress, using TypeScript\nRun the tests with npm test",
         "author": "dvdsgl",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@dvdsgl/write-cypress-tests?t="
     },
     {
@@ -9626,7 +9626,7 @@
         "title": "Looking to discuss what's possible with SD and Dall-E",
         "description": "I am looking to find out whether a model can be trained on Stable Diffusion or Dall-E in a certain style using generated images (From Midjourney).\n\nThen having that fine tuned model generate avatars with that same style once a user uploads a bunch of their own face photos.\n\nWe can discuss over discord or Whatsapp. Thanks",
         "author": "Danar8",
-        "posted_time": "59 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@Danar8/looking-to-discuss-w?t="
     },
     {
@@ -9636,7 +9636,7 @@
         "title": "JS - HELP - Get rid of loaded JSON-Schema-Tags",
         "description": "We run a WordPress site where the Rankmath and Wordlift Plugins are installed. Both Plugins inject a JSON-Schema -Tag into every page, which is fine for us. However, we have a single page where we have already injected our own JSON-Schema. Now we have the issue that we have 3 Schema-Markups getting loaded instead of 1. So, we need to get rid of those -Tags which are loaded by RankMath and Wordlift for a single page. That's about it.\n\nAcceptance Criteria\nIt would be wonderful if we could tackle this issue together quickly.\n\nTechnical Details\nWe run a WordPress with the RankMath and Wordlift Plugin. Both Plugins load their respective Schema Structure in the form of a -Tag.\n\nLink to Project\nDM",
         "author": "MasterNeo",
-        "posted_time": "42 minutes ago",
+        "posted_time": "49 minutes ago",
         "link": "https://replit.com/bounties/@MasterNeo/js-help-get-rid-of-l?t="
     }
 ]

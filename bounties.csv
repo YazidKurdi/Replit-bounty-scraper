@@ -7910,7 +7910,7 @@ Test that upgrading to Pro works, and verify that the upgraded app has access to
 Technical Details
 
 Create a fixture in Cypress, using TypeScript
-Run the tests with npm test",dvdsgl,15 hours ago,https://replit.com/bounties/@dvdsgl/write-cypress-tests?t=
+Run the tests with npm test",dvdsgl,16 hours ago,https://replit.com/bounties/@dvdsgl/write-cypress-tests?t=
 956,$270.00,due in 16 days,Slack App that shows you posts from a year ago,"We have a slack channel where we put meaningful posts for posterity. We want to be reminded of those posts on their anniversary on our main channel.
 
 Acceptance Criteria
@@ -7950,7 +7950,7 @@ Acceptance Criteria: The web application should have a simple design with a fint
 
 Then having that fine tuned model generate avatars with that same style once a user uploads a bunch of their own face photos.
 
-We can discuss over discord or Whatsapp. Thanks",Danar8,59 minutes ago,https://replit.com/bounties/@Danar8/looking-to-discuss-w?t=
+We can discuss over discord or Whatsapp. Thanks",Danar8,1 hour ago,https://replit.com/bounties/@Danar8/looking-to-discuss-w?t=
 963,$22.50,due in 3 days,JS - HELP - Get rid of loaded JSON-Schema-Tags,"We run a WordPress site where the Rankmath and Wordlift Plugins are installed. Both Plugins inject a JSON-Schema -Tag into every page, which is fine for us. However, we have a single page where we have already injected our own JSON-Schema. Now we have the issue that we have 3 Schema-Markups getting loaded instead of 1. So, we need to get rid of those -Tags which are loaded by RankMath and Wordlift for a single page. That's about it.
 
 Acceptance Criteria
@@ -7960,4 +7960,4 @@ Technical Details
 We run a WordPress with the RankMath and Wordlift Plugin. Both Plugins load their respective Schema Structure in the form of a -Tag.
 
 Link to Project
-DM",MasterNeo,42 minutes ago,https://replit.com/bounties/@MasterNeo/js-help-get-rid-of-l?t=
+DM",MasterNeo,49 minutes ago,https://replit.com/bounties/@MasterNeo/js-help-get-rid-of-l?t=
