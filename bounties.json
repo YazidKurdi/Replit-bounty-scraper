@@ -9506,7 +9506,7 @@
         "title": "Tiktok scraper to google sheets",
         "description": "Create tiktok scraper that runs every 1 hour for a specific hashtag and saves all the latest posts information to a google sheet\n\nThe main challenge here is to get the latest posts posted for a hashtag rather than the top posts which is static\n\nAcceptance Criteria\nScraper runs every 1 hour\nSearches for LATEST posts for a hashtag not top posts\nSaves post information to google sheets\nOnly saves posts that don't already exist in the google sheet\n\nImplementation\nShould run in cloud / serverless\nShould be very easy to manage e.g. a github action or something with a gui\nDon't mind if you use a service to do it",
         "author": "SamuelAbaka-Woo",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@SamuelAbaka-Woo/tiktok-scraper-to-go?t="
     },
     {
@@ -9536,7 +9536,7 @@
         "title": "Fortnite xcould on coustom url ",
         "description": "I want to have a website off of my domain that run xcloud fortnite with the same add to home screen ability, an example that runs roblox it nowgg.me/xi but I want fortnite",
         "author": "whatisaapple",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@whatisaapple/fortnite-xcould-on-c?t="
     },
     {
@@ -9566,7 +9566,7 @@
         "title": "Slack App that shows you posts from a year ago",
         "description": "We have a slack channel where we put meaningful posts for posterity. We want to be reminded of those posts on their anniversary on our main channel.\n\nAcceptance Criteria\nthe app takes 2 parameters:\nthe monitored channel\nthe \"main\" channel where the app will post\nDaily, the app looks for posts on the monitored channel that were posted on the same day of the year, and if any, posts a link to those posts on the main channel",
         "author": "ThomasGerber",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@ThomasGerber/slack-app-that-shows?t="
     },
     {
