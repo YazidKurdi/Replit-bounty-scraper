@@ -9516,7 +9516,7 @@
         "title": "Download hourly bitcoin prices",
         "description": "Write a python script that downloads hourly bitcoin prices and inserts them to a CSV file with two columns: timestamp and price. When the file is run, it retrieves the last 200 days of prices. When the file is run again, it overwrites the last CSV with a new CSV pulling in the last 200 days of prices\n\nI would like to use this data for time series analysis\n\n#acceptance criteria: successfully downloads prices when run 5 times. successfully overwrites prior CSV file with new prices\n\n#technical criteria: python script that's compatible with v3.9.6",
         "author": "JayDas4",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@JayDas4/download-hourly-bitc?t="
     },
     {
@@ -9586,7 +9586,7 @@
         "title": "Modify a pterodactyl egg",
         "description": "I need a modified version of the paper pterodactyl egg that installs https://www.spigotmc.org/resources/hibernate.4441/ and names the file DO NOT REMOVE\n\nAcceptance Criteria\nMust have discord in the application\nCan get done within 2 days of accept",
         "author": "OddGames",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@OddGames/modify-a-pterodactyl?t="
     },
     {
