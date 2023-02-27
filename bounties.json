@@ -9516,7 +9516,7 @@
         "title": "Download hourly bitcoin prices",
         "description": "Write a python script that downloads hourly bitcoin prices and inserts them to a CSV file with two columns: timestamp and price. When the file is run, it retrieves the last 200 days of prices. When the file is run again, it overwrites the last CSV with a new CSV pulling in the last 200 days of prices\n\nI would like to use this data for time series analysis\n\n#acceptance criteria: successfully downloads prices when run 5 times. successfully overwrites prior CSV file with new prices\n\n#technical criteria: python script that's compatible with v3.9.6",
         "author": "JayDas4",
-        "posted_time": "22 hours ago",
+        "posted_time": "23 hours ago",
         "link": "https://replit.com/bounties/@JayDas4/download-hourly-bitc?t="
     },
     {
@@ -9586,7 +9586,7 @@
         "title": "Modify a pterodactyl egg",
         "description": "I need a modified version of the paper pterodactyl egg that installs https://www.spigotmc.org/resources/hibernate.4441/ and names the file DO NOT REMOVE\n\nAcceptance Criteria\nMust have discord in the application\nCan get done within 2 days of accept",
         "author": "OddGames",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@OddGames/modify-a-pterodactyl?t="
     },
     {
@@ -9606,7 +9606,7 @@
         "title": "Add Pinecone to a Python storage class on open source project",
         "description": "Add Pinecone storage to the following project askmypdf\n\nAdd the functionality to upload the embeddings with the block of the already chunked text. You can check GPTflix for ideas:\n\nWhen the application starts, users must select the files to load individually. It shouldn't be needed when using the Pinecone DB, so all the uploaded files must be available when the application starts. With that, the SELECT menu isn't needed (keep it only to delete files).\n\nAll the working features must continue working with the added Pinecone storage.\n\nAcceptance Criteria\nThe application can use Pinecone to upload, query and delete any documents.\nGet it done within two days of acceptance.\nOn the application, I'll be checking for similar relevant work done.",
         "author": "Klaudioz",
-        "posted_time": "46 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@Klaudioz/add-pinecone-to-a-py?t="
     }
 ]

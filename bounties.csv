@@ -7880,7 +7880,7 @@ I would like to use this data for time series analysis
 
 #acceptance criteria: successfully downloads prices when run 5 times. successfully overwrites prior CSV file with new prices
 
-#technical criteria: python script that's compatible with v3.9.6",JayDas4,22 hours ago,https://replit.com/bounties/@JayDas4/download-hourly-bitc?t=
+#technical criteria: python script that's compatible with v3.9.6",JayDas4,23 hours ago,https://replit.com/bounties/@JayDas4/download-hourly-bitc?t=
 952,$4.50,closed,Simple Google Login NextJS,"Make a simple google login page using NextJS that retrieves the user access token
 
 Acceptance Criteria
@@ -7923,7 +7923,7 @@ Daily, the app looks for posts on the monitored channel that were posted on the 
 
 Acceptance Criteria
 Must have discord in the application
-Can get done within 2 days of accept",OddGames,7 hours ago,https://replit.com/bounties/@OddGames/modify-a-pterodactyl?t=
+Can get done within 2 days of accept",OddGames,8 hours ago,https://replit.com/bounties/@OddGames/modify-a-pterodactyl?t=
 959,$9.00,closed,Program a figma to HTML converter in python.,"I need to have someone program a figma to HTML converter in python. I should be able to insert a link, and it should be able to give me a link to the best suited converter extension. It can choose it randomly
 
 Acceptance Criteria:
@@ -7942,4 +7942,4 @@ All the working features must continue working with the added Pinecone storage.
 Acceptance Criteria
 The application can use Pinecone to upload, query and delete any documents.
 Get it done within two days of acceptance.
-On the application, I'll be checking for similar relevant work done.",Klaudioz,46 minutes ago,https://replit.com/bounties/@Klaudioz/add-pinecone-to-a-py?t=
+On the application, I'll be checking for similar relevant work done.",Klaudioz,1 hour ago,https://replit.com/bounties/@Klaudioz/add-pinecone-to-a-py?t=
