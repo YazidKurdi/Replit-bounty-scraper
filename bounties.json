@@ -9566,7 +9566,7 @@
         "title": "Slack App that shows you posts from a year ago",
         "description": "We have a slack channel where we put meaningful posts for posterity. We want to be reminded of those posts on their anniversary on our main channel.\n\nAcceptance Criteria\nthe app takes 2 parameters:\nthe monitored channel\nthe \"main\" channel where the app will post\nDaily, the app looks for posts on the monitored channel that were posted on the same day of the year, and if any, posts a link to those posts on the main channel",
         "author": "ThomasGerber",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@ThomasGerber/slack-app-that-shows?t="
     },
     {
@@ -9576,7 +9576,7 @@
         "title": "ChatGPT website",
         "description": "Make a website with CHATGPT token (USE YOURS)",
         "author": "syrud",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@syrud/chatgpt-website?t="
     },
     {
@@ -9596,7 +9596,7 @@
         "title": "Program a figma to HTML converter in python.",
         "description": "I need to have someone program a figma to HTML converter in python. I should be able to insert a link, and it should be able to give me a link to the best suited converter extension. It can choose it randomly\n\nAcceptance Criteria:\nWill probably been given to a replit verified hunter\nNeeds to give me an extension, randomly.\nShould only support terminal input\nYou don't have to code the converter, yourself.",
         "author": "DublinKumon",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@DublinKumon/program-a-figma-to-h?t="
     },
     {
@@ -9606,7 +9606,7 @@
         "title": "Add Pinecone to a Python storage class on open source project",
         "description": "Add Pinecone storage to the following project askmypdf\n\nAdd the functionality to upload the embeddings with the block of the already chunked text. You can check GPTflix for ideas:\n\nWhen the application starts, users must select the files to load individually. It shouldn't be needed when using the Pinecone DB, so all the uploaded files must be available when the application starts. With that, the SELECT menu isn't needed (keep it only to delete files).\n\nAll the working features must continue working with the added Pinecone storage.\n\nAcceptance Criteria\nThe application can use Pinecone to upload, query and delete any documents.\nGet it done within two days of acceptance.\nOn the application, I'll be checking for similar relevant work done.",
         "author": "Klaudioz",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@Klaudioz/add-pinecone-to-a-py?t="
     },
     {
@@ -9626,7 +9626,7 @@
         "title": "Looking to discuss what's possible with SD and Dall-E",
         "description": "I am looking to find out whether a model can be trained on Stable Diffusion or Dall-E in a certain style using generated images (From Midjourney).\n\nThen having that fine tuned model generate avatars with that same style once a user uploads a bunch of their own face photos.\n\nWe can discuss over discord or Whatsapp. Thanks",
         "author": "Danar8",
-        "posted_time": "46 minutes ago",
+        "posted_time": "59 minutes ago",
         "link": "https://replit.com/bounties/@Danar8/looking-to-discuss-w?t="
     },
     {
@@ -9636,7 +9636,7 @@
         "title": "JS - HELP - Get rid of loaded JSON-Schema-Tags",
         "description": "We run a WordPress site where the Rankmath and Wordlift Plugins are installed. Both Plugins inject a JSON-Schema -Tag into every page, which is fine for us. However, we have a single page where we have already injected our own JSON-Schema. Now we have the issue that we have 3 Schema-Markups getting loaded instead of 1. So, we need to get rid of those -Tags which are loaded by RankMath and Wordlift for a single page. That's about it.\n\nAcceptance Criteria\nIt would be wonderful if we could tackle this issue together quickly.\n\nTechnical Details\nWe run a WordPress with the RankMath and Wordlift Plugin. Both Plugins load their respective Schema Structure in the form of a -Tag.\n\nLink to Project\nDM",
         "author": "MasterNeo",
-        "posted_time": "29 minutes ago",
+        "posted_time": "42 minutes ago",
         "link": "https://replit.com/bounties/@MasterNeo/js-help-get-rid-of-l?t="
     }
 ]
