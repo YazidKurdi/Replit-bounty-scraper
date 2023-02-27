@@ -9536,7 +9536,7 @@
         "title": "Fortnite xcould on coustom url ",
         "description": "I want to have a website off of my domain that run xcloud fortnite with the same add to home screen ability, an example that runs roblox it nowgg.me/xi but I want fortnite",
         "author": "whatisaapple",
-        "posted_time": "23 hours ago",
+        "posted_time": "24 hours ago",
         "link": "https://replit.com/bounties/@whatisaapple/fortnite-xcould-on-c?t="
     },
     {
@@ -9546,7 +9546,7 @@
         "title": "Custom self-hosted Ghost blog",
         "description": "Create a simple custom theme and do integrations with email subscriptions for a self-hosted Ghost-based blog (https://ghost.org) based on a provided image moodboard, and references to other websites.\n\nAcceptance Criteria\nA complete ghost theme suited to the moodboard with the following pages:\n  About: A plate to put background and contact details about the author\n  Blog: A place to make posts (using the Ghost web UI)\n  Notes: A place for shorter / draft posts, separate from the blog\n  Email subscription, so that visitors can subscribe for further updates\nReady to deploy. It's not necessary to deploy the site once it's ready, I can do that myself.",
         "author": "AntonTroynikov",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@AntonTroynikov/custom-self-hosted-g?t="
     },
     {
@@ -9606,7 +9606,7 @@
         "title": "Add Pinecone to a Python storage class on open source project",
         "description": "Add Pinecone storage to the following project askmypdf\n\nAdd the functionality to upload the embeddings with the block of the already chunked text. You can check GPTflix for ideas:\n\nWhen the application starts, users must select the files to load individually. It shouldn't be needed when using the Pinecone DB, so all the uploaded files must be available when the application starts. With that, the SELECT menu isn't needed (keep it only to delete files).\n\nAll the working features must continue working with the added Pinecone storage.\n\nAcceptance Criteria\nThe application can use Pinecone to upload, query and delete any documents.\nGet it done within two days of acceptance.\nOn the application, I'll be checking for similar relevant work done.",
         "author": "Klaudioz",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@Klaudioz/add-pinecone-to-a-py?t="
     },
     {
@@ -9616,7 +9616,7 @@
         "title": "Home Purchasing Power Calculator",
         "description": "Understanding how much home you can affors is critical to anyone contemplating their next home purchase. I run a real estate company and want to create a Home Buying Power Calculator so that potential customers can better understand how much home they can afford to purchase given their income, amount available for downpayment, and monthly debts. Here is an example of what I am looking to create. https://www.movoto.com/mortgages/buyingpower/\n\nAcceptance Criteria: The web application should have a simple design with a fintech design stye. The calculator should be accessible to users from any device, including desktops, laptops, tablets, and smartphones. The user should be able to input their annual income, down payment, monthly debt payments and zip code into the calculator. The calculator should provide a range of home affordability options based on the user's input, with the options being affordable, stretching, and aggressive. And it should provide a breakdown of ...",
         "author": "RobertReardon",
-        "posted_time": "34 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@RobertReardon/home-purchasing-powe?t="
     }
 ]
