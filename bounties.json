@@ -9606,7 +9606,7 @@
         "title": "Add Pinecone to a Python storage class on open source project",
         "description": "Add Pinecone storage to the following project askmypdf\n\nAdd the functionality to upload the embeddings with the block of the already chunked text. You can check GPTflix for ideas:\n\nWhen the application starts, users must select the files to load individually. It shouldn't be needed when using the Pinecone DB, so all the uploaded files must be available when the application starts. With that, the SELECT menu isn't needed (keep it only to delete files).\n\nAll the working features must continue working with the added Pinecone storage.\n\nAcceptance Criteria\nThe application can use Pinecone to upload, query and delete any documents.\nGet it done within two days of acceptance.\nOn the application, I'll be checking for similar relevant work done.",
         "author": "Klaudioz",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@Klaudioz/add-pinecone-to-a-py?t="
     },
     {

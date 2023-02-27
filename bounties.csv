@@ -7942,7 +7942,7 @@ All the working features must continue working with the added Pinecone storage.
 Acceptance Criteria
 The application can use Pinecone to upload, query and delete any documents.
 Get it done within two days of acceptance.
-On the application, I'll be checking for similar relevant work done.",Klaudioz,4 hours ago,https://replit.com/bounties/@Klaudioz/add-pinecone-to-a-py?t=
+On the application, I'll be checking for similar relevant work done.",Klaudioz,5 hours ago,https://replit.com/bounties/@Klaudioz/add-pinecone-to-a-py?t=
 961,"$2,250.00",due in 15 days,Home Purchasing Power Calculator,"Understanding how much home you can affors is critical to anyone contemplating their next home purchase. I run a real estate company and want to create a Home Buying Power Calculator so that potential customers can better understand how much home they can afford to purchase given their income, amount available for downpayment, and monthly debts. Here is an example of what I am looking to create. https://www.movoto.com/mortgages/buyingpower/
 
 Acceptance Criteria: The web application should have a simple design with a fintech design stye. The calculator should be accessible to users from any device, including desktops, laptops, tablets, and smartphones. The user should be able to input their annual income, down payment, monthly debt payments and zip code into the calculator. The calculator should provide a range of home affordability options based on the user's input, with the options being affordable, stretching, and aggressive. And it should provide a breakdown of ...",RobertReardon,2 hours ago,https://replit.com/bounties/@RobertReardon/home-purchasing-powe?t=
