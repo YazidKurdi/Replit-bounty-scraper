@@ -9526,7 +9526,7 @@
         "title": "Simple Google Login NextJS",
         "description": "Make a simple google login page using NextJS that retrieves the user access token\n\nAcceptance Criteria\nAs long as you have experience with React or NextJS",
         "author": "cadornajansen",
-        "posted_time": "24 hours ago",
+        "posted_time": "1 day ago",
         "link": "https://replit.com/bounties/@cadornajansen/simple-google-login?t="
     },
     {
@@ -9556,7 +9556,7 @@
         "title": "Write Cypress tests to automatically test Glide",
         "description": "We\u2019d like to implement automated tests for Glide (glideapps.com)\u2013specifically to test our billing system.\n\nWe\u2019ll write the tests against our staging server, https://staging.heyglide.com\n\nAcceptance Criteria\n\nCreate a Cypress project in TypeScript that runs the following tests:\n\nCreate an account\nTest that a free account cannot publish more than 2 apps\nTest that upgrading to Pro works, and verify that the upgraded app has access to Extra sync mode in the app Data settings\n\nTechnical Details\n\nCreate a fixture in Cypress, using TypeScript\nRun the tests with npm test",
         "author": "dvdsgl",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@dvdsgl/write-cypress-tests?t="
     },
     {
@@ -9576,7 +9576,7 @@
         "title": "ChatGPT website",
         "description": "Make a website with CHATGPT token (USE YOURS)",
         "author": "syrud",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@syrud/chatgpt-website?t="
     },
     {
@@ -9616,7 +9616,7 @@
         "title": "Home Purchasing Power Calculator",
         "description": "Understanding how much home you can affors is critical to anyone contemplating their next home purchase. I run a real estate company and want to create a Home Buying Power Calculator so that potential customers can better understand how much home they can afford to purchase given their income, amount available for downpayment, and monthly debts. Here is an example of what I am looking to create. https://www.movoto.com/mortgages/buyingpower/\n\nAcceptance Criteria: The web application should have a simple design with a fintech design stye. The calculator should be accessible to users from any device, including desktops, laptops, tablets, and smartphones. The user should be able to input their annual income, down payment, monthly debt payments and zip code into the calculator. The calculator should provide a range of home affordability options based on the user's input, with the options being affordable, stretching, and aggressive. And it should provide a breakdown of ...",
         "author": "RobertReardon",
-        "posted_time": "6 minutes ago",
+        "posted_time": "14 minutes ago",
         "link": "https://replit.com/bounties/@RobertReardon/home-purchasing-powe?t="
     }
 ]
