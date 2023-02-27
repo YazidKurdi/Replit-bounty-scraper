@@ -7880,11 +7880,11 @@ I would like to use this data for time series analysis
 
 #acceptance criteria: successfully downloads prices when run 5 times. successfully overwrites prior CSV file with new prices
 
-#technical criteria: python script that's compatible with v3.9.6",JayDas4,21 hours ago,https://replit.com/bounties/@JayDas4/download-hourly-bitc?t=
+#technical criteria: python script that's compatible with v3.9.6",JayDas4,22 hours ago,https://replit.com/bounties/@JayDas4/download-hourly-bitc?t=
 952,$4.50,closed,Simple Google Login NextJS,"Make a simple google login page using NextJS that retrieves the user access token
 
 Acceptance Criteria
-As long as you have experience with React or NextJS",cadornajansen,21 hours ago,https://replit.com/bounties/@cadornajansen/simple-google-login?t=
+As long as you have experience with React or NextJS",cadornajansen,22 hours ago,https://replit.com/bounties/@cadornajansen/simple-google-login?t=
 953,$14.85,due in 12 days,Fortnite xcould on coustom url ,"I want to have a website off of my domain that run xcloud fortnite with the same add to home screen ability, an example that runs roblox it nowgg.me/xi but I want fortnite",whatisaapple,20 hours ago,https://replit.com/bounties/@whatisaapple/fortnite-xcould-on-c?t=
 954,$450.00,due in 11 days,Custom self-hosted Ghost blog,"Create a simple custom theme and do integrations with email subscriptions for a self-hosted Ghost-based blog (https://ghost.org) based on a provided image moodboard, and references to other websites.
 
@@ -7923,7 +7923,7 @@ Daily, the app looks for posts on the monitored channel that were posted on the 
 
 Acceptance Criteria
 Must have discord in the application
-Can get done within 2 days of accept",OddGames,6 hours ago,https://replit.com/bounties/@OddGames/modify-a-pterodactyl?t=
+Can get done within 2 days of accept",OddGames,7 hours ago,https://replit.com/bounties/@OddGames/modify-a-pterodactyl?t=
 959,$9.00,closed,Program a figma to HTML converter in python.,"I need to have someone program a figma to HTML converter in python. I should be able to insert a link, and it should be able to give me a link to the best suited converter extension. It can choose it randomly
 
 Acceptance Criteria:
@@ -7931,3 +7931,15 @@ Will probably been given to a replit verified hunter
 Needs to give me an extension, randomly.
 Should only support terminal input
 You don't have to code the converter, yourself.",DublinKumon,6 hours ago,https://replit.com/bounties/@DublinKumon/program-a-figma-to-h?t=
+960,$200.00,due in 3 days,Add Pinecone to a Python storage class on open source project,"Add Pinecone storage to the following project askmypdf
+
+Add the functionality to upload the embeddings with the block of the already chunked text. You can check GPTflix for ideas:
+
+When the application starts, users must select the files to load individually. It shouldn't be needed when using the Pinecone DB, so all the uploaded files must be available when the application starts. With that, the SELECT menu isn't needed (keep it only to delete files).
+
+All the working features must continue working with the added Pinecone storage.
+
+Acceptance Criteria
+The application can use Pinecone to upload, query and delete any documents.
+Get it done within two days of acceptance.
+On the application, I'll be checking for similar relevant work done.",Klaudioz,14 minutes ago,https://replit.com/bounties/@Klaudioz/add-pinecone-to-a-py?t=
