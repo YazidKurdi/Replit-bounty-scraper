@@ -9522,7 +9522,7 @@
     {
         "index": "952",
         "price": "$4.50",
-        "due_days": "due in 6 days",
+        "due_days": "closed",
         "title": "Simple Google Login NextJS",
         "description": "Make a simple google login page using NextJS that retrieves the user access token\n\nAcceptance Criteria\nAs long as you have experience with React or NextJS",
         "author": "cadornajansen",
@@ -9546,7 +9546,7 @@
         "title": "Custom self-hosted Ghost blog",
         "description": "Create a simple custom theme and do integrations with email subscriptions for a self-hosted Ghost-based blog (https://ghost.org) based on a provided image moodboard, and references to other websites.\n\nAcceptance Criteria\nA complete ghost theme suited to the moodboard with the following pages:\n  About: A plate to put background and contact details about the author\n  Blog: A place to make posts (using the Ghost web UI)\n  Notes: A place for shorter / draft posts, separate from the blog\n  Email subscription, so that visitors can subscribe for further updates\nReady to deploy. It's not necessary to deploy the site once it's ready, I can do that myself.",
         "author": "AntonTroynikov",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@AntonTroynikov/custom-self-hosted-g?t="
     },
     {

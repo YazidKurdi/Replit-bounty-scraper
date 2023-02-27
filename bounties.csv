@@ -7881,7 +7881,7 @@ I would like to use this data for time series analysis
 #acceptance criteria: successfully downloads prices when run 5 times. successfully overwrites prior CSV file with new prices
 
 #technical criteria: python script that's compatible with v3.9.6",JayDas4,20 hours ago,https://replit.com/bounties/@JayDas4/download-hourly-bitc?t=
-952,$4.50,due in 6 days,Simple Google Login NextJS,"Make a simple google login page using NextJS that retrieves the user access token
+952,$4.50,closed,Simple Google Login NextJS,"Make a simple google login page using NextJS that retrieves the user access token
 
 Acceptance Criteria
 As long as you have experience with React or NextJS",cadornajansen,20 hours ago,https://replit.com/bounties/@cadornajansen/simple-google-login?t=
@@ -7894,7 +7894,7 @@ A complete ghost theme suited to the moodboard with the following pages:
   Blog: A place to make posts (using the Ghost web UI)
   Notes: A place for shorter / draft posts, separate from the blog
   Email subscription, so that visitors can subscribe for further updates
-Ready to deploy. It's not necessary to deploy the site once it's ready, I can do that myself.",AntonTroynikov,14 hours ago,https://replit.com/bounties/@AntonTroynikov/custom-self-hosted-g?t=
+Ready to deploy. It's not necessary to deploy the site once it's ready, I can do that myself.",AntonTroynikov,15 hours ago,https://replit.com/bounties/@AntonTroynikov/custom-self-hosted-g?t=
 955,$90.00,due in 4 days,Write Cypress tests to automatically test Glide,"We’d like to implement automated tests for Glide (glideapps.com)–specifically to test our billing system.
 
 We’ll write the tests against our staging server, https://staging.heyglide.com
