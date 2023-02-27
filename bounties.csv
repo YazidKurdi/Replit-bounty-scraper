@@ -7880,7 +7880,7 @@ I would like to use this data for time series analysis
 
 #acceptance criteria: successfully downloads prices when run 5 times. successfully overwrites prior CSV file with new prices
 
-#technical criteria: python script that's compatible with v3.9.6",JayDas4,14 hours ago,https://replit.com/bounties/@JayDas4/download-hourly-bitc?t=
+#technical criteria: python script that's compatible with v3.9.6",JayDas4,15 hours ago,https://replit.com/bounties/@JayDas4/download-hourly-bitc?t=
 952,$4.50,due in 6 days,Simple Google Login NextJS,"Make a simple google login page using NextJS that retrieves the user access token
 
 Acceptance Criteria
@@ -7917,5 +7917,5 @@ Acceptance Criteria
 the app takes 2 parameters:
 the monitored channel
 the ""main"" channel where the app will post
-Daily, the app looks for posts on the monitored channel that were posted on the same day of the year, and if any, posts a link to those posts on the main channel",ThomasGerber,39 minutes ago,https://replit.com/bounties/@ThomasGerber/slack-app-that-shows?t=
-957,$7.29,due in 4 days,ChatGPT website,Make a website with CHATGPT token (USE YOURS),syrud,37 minutes ago,https://replit.com/bounties/@syrud/chatgpt-website?t=
+Daily, the app looks for posts on the monitored channel that were posted on the same day of the year, and if any, posts a link to those posts on the main channel",ThomasGerber,58 minutes ago,https://replit.com/bounties/@ThomasGerber/slack-app-that-shows?t=
+957,$7.29,due in 4 days,ChatGPT website,Make a website with CHATGPT token (USE YOURS),syrud,57 minutes ago,https://replit.com/bounties/@syrud/chatgpt-website?t=
