@@ -7910,7 +7910,7 @@ Test that upgrading to Pro works, and verify that the upgraded app has access to
 Technical Details
 
 Create a fixture in Cypress, using TypeScript
-Run the tests with npm test",dvdsgl,3 hours ago,https://replit.com/bounties/@dvdsgl/write-cypress-tests?t=
+Run the tests with npm test",dvdsgl,4 hours ago,https://replit.com/bounties/@dvdsgl/write-cypress-tests?t=
 956,$270.00,due in 17 days,Slack App that shows you posts from a year ago,"We have a slack channel where we put meaningful posts for posterity. We want to be reminded of those posts on their anniversary on our main channel.
 
 Acceptance Criteria
@@ -7923,4 +7923,4 @@ Daily, the app looks for posts on the monitored channel that were posted on the 
 
 Acceptance Criteria
 Must have discord in the application
-Can get done within 2 days of accept",OddGames,19 minutes ago,https://replit.com/bounties/@OddGames/modify-a-pterodactyl?t=
+Can get done within 2 days of accept",OddGames,26 minutes ago,https://replit.com/bounties/@OddGames/modify-a-pterodactyl?t=

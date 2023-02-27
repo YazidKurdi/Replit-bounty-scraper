@@ -9556,7 +9556,7 @@
         "title": "Write Cypress tests to automatically test Glide",
         "description": "We\u2019d like to implement automated tests for Glide (glideapps.com)\u2013specifically to test our billing system.\n\nWe\u2019ll write the tests against our staging server, https://staging.heyglide.com\n\nAcceptance Criteria\n\nCreate a Cypress project in TypeScript that runs the following tests:\n\nCreate an account\nTest that a free account cannot publish more than 2 apps\nTest that upgrading to Pro works, and verify that the upgraded app has access to Extra sync mode in the app Data settings\n\nTechnical Details\n\nCreate a fixture in Cypress, using TypeScript\nRun the tests with npm test",
         "author": "dvdsgl",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@dvdsgl/write-cypress-tests?t="
     },
     {
@@ -9586,7 +9586,7 @@
         "title": "Modify a pterodactyl egg",
         "description": "I need a modified version of the paper pterodactyl egg that installs https://www.spigotmc.org/resources/hibernate.4441/ and names the file DO NOT REMOVE\n\nAcceptance Criteria\nMust have discord in the application\nCan get done within 2 days of accept",
         "author": "OddGames",
-        "posted_time": "19 minutes ago",
+        "posted_time": "26 minutes ago",
         "link": "https://replit.com/bounties/@OddGames/modify-a-pterodactyl?t="
     }
 ]
