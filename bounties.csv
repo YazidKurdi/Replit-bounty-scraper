@@ -7860,7 +7860,7 @@ The file should be sent as a CSV file with all requested data.
 If you do a good job - I need other parts of this site (around 4-5 projects) that I would happily pay you again.
 
 Thank you!",ItzikSachs,20 hours ago,https://replit.com/bounties/@ItzikSachs/scrape-israel-real-e?t=
-950,$80.10,due in 3 days,Tiktok scraper to google sheets,"Create tiktok scraper that runs every 1 hour for a specific hashtag and saves all the latest posts information to a google sheet
+950,$80.10,due in 2 days,Tiktok scraper to google sheets,"Create tiktok scraper that runs every 1 hour for a specific hashtag and saves all the latest posts information to a google sheet
 
 The main challenge here is to get the latest posts posted for a hashtag rather than the top posts which is static
 
@@ -7880,13 +7880,13 @@ I would like to use this data for time series analysis
 
 #acceptance criteria: successfully downloads prices when run 5 times. successfully overwrites prior CSV file with new prices
 
-#technical criteria: python script that's compatible with v3.9.6",JayDas4,20 hours ago,https://replit.com/bounties/@JayDas4/download-hourly-bitc?t=
+#technical criteria: python script that's compatible with v3.9.6",JayDas4,21 hours ago,https://replit.com/bounties/@JayDas4/download-hourly-bitc?t=
 952,$4.50,closed,Simple Google Login NextJS,"Make a simple google login page using NextJS that retrieves the user access token
 
 Acceptance Criteria
-As long as you have experience with React or NextJS",cadornajansen,20 hours ago,https://replit.com/bounties/@cadornajansen/simple-google-login?t=
-953,$14.85,due in 13 days,Fortnite xcould on coustom url ,"I want to have a website off of my domain that run xcloud fortnite with the same add to home screen ability, an example that runs roblox it nowgg.me/xi but I want fortnite",whatisaapple,19 hours ago,https://replit.com/bounties/@whatisaapple/fortnite-xcould-on-c?t=
-954,$450.00,due in 12 days,Custom self-hosted Ghost blog,"Create a simple custom theme and do integrations with email subscriptions for a self-hosted Ghost-based blog (https://ghost.org) based on a provided image moodboard, and references to other websites.
+As long as you have experience with React or NextJS",cadornajansen,21 hours ago,https://replit.com/bounties/@cadornajansen/simple-google-login?t=
+953,$14.85,due in 12 days,Fortnite xcould on coustom url ,"I want to have a website off of my domain that run xcloud fortnite with the same add to home screen ability, an example that runs roblox it nowgg.me/xi but I want fortnite",whatisaapple,19 hours ago,https://replit.com/bounties/@whatisaapple/fortnite-xcould-on-c?t=
+954,$450.00,due in 11 days,Custom self-hosted Ghost blog,"Create a simple custom theme and do integrations with email subscriptions for a self-hosted Ghost-based blog (https://ghost.org) based on a provided image moodboard, and references to other websites.
 
 Acceptance Criteria
 A complete ghost theme suited to the moodboard with the following pages:
@@ -7895,7 +7895,7 @@ A complete ghost theme suited to the moodboard with the following pages:
   Notes: A place for shorter / draft posts, separate from the blog
   Email subscription, so that visitors can subscribe for further updates
 Ready to deploy. It's not necessary to deploy the site once it's ready, I can do that myself.",AntonTroynikov,15 hours ago,https://replit.com/bounties/@AntonTroynikov/custom-self-hosted-g?t=
-955,$90.00,due in 4 days,Write Cypress tests to automatically test Glide,"We’d like to implement automated tests for Glide (glideapps.com)–specifically to test our billing system.
+955,$90.00,due in 3 days,Write Cypress tests to automatically test Glide,"We’d like to implement automated tests for Glide (glideapps.com)–specifically to test our billing system.
 
 We’ll write the tests against our staging server, https://staging.heyglide.com
 
@@ -7911,7 +7911,7 @@ Technical Details
 
 Create a fixture in Cypress, using TypeScript
 Run the tests with npm test",dvdsgl,9 hours ago,https://replit.com/bounties/@dvdsgl/write-cypress-tests?t=
-956,$270.00,due in 17 days,Slack App that shows you posts from a year ago,"We have a slack channel where we put meaningful posts for posterity. We want to be reminded of those posts on their anniversary on our main channel.
+956,$270.00,due in 16 days,Slack App that shows you posts from a year ago,"We have a slack channel where we put meaningful posts for posterity. We want to be reminded of those posts on their anniversary on our main channel.
 
 Acceptance Criteria
 the app takes 2 parameters:
@@ -7919,11 +7919,11 @@ the monitored channel
 the ""main"" channel where the app will post
 Daily, the app looks for posts on the monitored channel that were posted on the same day of the year, and if any, posts a link to those posts on the main channel",ThomasGerber,7 hours ago,https://replit.com/bounties/@ThomasGerber/slack-app-that-shows?t=
 957,$7.29,closed,ChatGPT website,Make a website with CHATGPT token (USE YOURS),syrud,7 hours ago,https://replit.com/bounties/@syrud/chatgpt-website?t=
-958,$4.50,due in 4 days,Modify a pterodactyl egg,"I need a modified version of the paper pterodactyl egg that installs https://www.spigotmc.org/resources/hibernate.4441/ and names the file DO NOT REMOVE
+958,$4.50,due in 3 days,Modify a pterodactyl egg,"I need a modified version of the paper pterodactyl egg that installs https://www.spigotmc.org/resources/hibernate.4441/ and names the file DO NOT REMOVE
 
 Acceptance Criteria
 Must have discord in the application
-Can get done within 2 days of accept",OddGames,5 hours ago,https://replit.com/bounties/@OddGames/modify-a-pterodactyl?t=
+Can get done within 2 days of accept",OddGames,6 hours ago,https://replit.com/bounties/@OddGames/modify-a-pterodactyl?t=
 959,$9.00,closed,Program a figma to HTML converter in python.,"I need to have someone program a figma to HTML converter in python. I should be able to insert a link, and it should be able to give me a link to the best suited converter extension. It can choose it randomly
 
 Acceptance Criteria:
