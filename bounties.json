@@ -9566,7 +9566,7 @@
         "title": "Slack App that shows you posts from a year ago",
         "description": "We have a slack channel where we put meaningful posts for posterity. We want to be reminded of those posts on their anniversary on our main channel.\n\nAcceptance Criteria\nthe app takes 2 parameters:\nthe monitored channel\nthe \"main\" channel where the app will post\nDaily, the app looks for posts on the monitored channel that were posted on the same day of the year, and if any, posts a link to those posts on the main channel",
         "author": "ThomasGerber",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@ThomasGerber/slack-app-that-shows?t="
     },
     {
@@ -9596,7 +9596,7 @@
         "title": "Program a figma to HTML converter in python.",
         "description": "I need to have someone program a figma to HTML converter in python. I should be able to insert a link, and it should be able to give me a link to the best suited converter extension. It can choose it randomly\n\nAcceptance Criteria:\nWill probably been given to a replit verified hunter\nNeeds to give me an extension, randomly.\nShould only support terminal input\nYou don't have to code the converter, yourself.",
         "author": "DublinKumon",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@DublinKumon/program-a-figma-to-h?t="
     },
     {
@@ -9606,7 +9606,7 @@
         "title": "Add Pinecone to a Python storage class on open source project",
         "description": "Add Pinecone storage to the following project askmypdf\n\nAdd the functionality to upload the embeddings with the block of the already chunked text. You can check GPTflix for ideas:\n\nWhen the application starts, users must select the files to load individually. It shouldn't be needed when using the Pinecone DB, so all the uploaded files must be available when the application starts. With that, the SELECT menu isn't needed (keep it only to delete files).\n\nAll the working features must continue working with the added Pinecone storage.\n\nAcceptance Criteria\nThe application can use Pinecone to upload, query and delete any documents.\nGet it done within two days of acceptance.\nOn the application, I'll be checking for similar relevant work done.",
         "author": "Klaudioz",
-        "posted_time": "31 minutes ago",
+        "posted_time": "39 minutes ago",
         "link": "https://replit.com/bounties/@Klaudioz/add-pinecone-to-a-py?t="
     }
 ]
