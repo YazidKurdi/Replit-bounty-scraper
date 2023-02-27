@@ -9556,7 +9556,7 @@
         "title": "Write Cypress tests to automatically test Glide",
         "description": "We\u2019d like to implement automated tests for Glide (glideapps.com)\u2013specifically to test our billing system.\n\nWe\u2019ll write the tests against our staging server, https://staging.heyglide.com\n\nAcceptance Criteria\n\nCreate a Cypress project in TypeScript that runs the following tests:\n\nCreate an account\nTest that a free account cannot publish more than 2 apps\nTest that upgrading to Pro works, and verify that the upgraded app has access to Extra sync mode in the app Data settings\n\nTechnical Details\n\nCreate a fixture in Cypress, using TypeScript\nRun the tests with npm test",
         "author": "dvdsgl",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@dvdsgl/write-cypress-tests?t="
     },
     {
@@ -9566,7 +9566,7 @@
         "title": "Slack App that shows you posts from a year ago",
         "description": "We have a slack channel where we put meaningful posts for posterity. We want to be reminded of those posts on their anniversary on our main channel.\n\nAcceptance Criteria\nthe app takes 2 parameters:\nthe monitored channel\nthe \"main\" channel where the app will post\nDaily, the app looks for posts on the monitored channel that were posted on the same day of the year, and if any, posts a link to those posts on the main channel",
         "author": "ThomasGerber",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@ThomasGerber/slack-app-that-shows?t="
     },
     {
@@ -9576,7 +9576,7 @@
         "title": "ChatGPT website",
         "description": "Make a website with CHATGPT token (USE YOURS)",
         "author": "syrud",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@syrud/chatgpt-website?t="
     },
     {
@@ -9596,7 +9596,7 @@
         "title": "Program a figma to HTML converter in python.",
         "description": "I need to have someone program a figma to HTML converter in python. I should be able to insert a link, and it should be able to give me a link to the best suited converter extension. It can choose it randomly\n\nAcceptance Criteria:\nWill probably been given to a replit verified hunter\nNeeds to give me an extension, randomly.\nShould only support terminal input\nYou don't have to code the converter, yourself.",
         "author": "DublinKumon",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@DublinKumon/program-a-figma-to-h?t="
     }
 ]
