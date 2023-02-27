@@ -7842,7 +7842,7 @@ Create a Replit repl which allows someone to set up their own Mastodon instance.
 
 User should be able to just clone your template, read a Readme file and be able to set up an instance without a lot of fiddling , config, etc.  The emphasis is on EASE OF USE.
 
-The goal is to have a personal mastodon instance that can read in feeds, follow others on the fediverse, and be followed by other mastodon instances.",triptych,24 hours ago,https://replit.com/bounties/@triptych/create-a-template-to?t=
+The goal is to have a personal mastodon instance that can read in feeds, follow others on the fediverse, and be followed by other mastodon instances.",triptych,1 day ago,https://replit.com/bounties/@triptych/create-a-template-to?t=
 949,$27.00,due in 8 days,Scrape Israel real estate deal site,"Scrape Israel real estate deal site - for the latest real estate deals.
 
 Acceptance Criteria
@@ -7884,7 +7884,7 @@ I would like to use this data for time series analysis
 952,$4.50,due in 6 days,Simple Google Login NextJS,"Make a simple google login page using NextJS that retrieves the user access token
 
 Acceptance Criteria
-As long as you have experience with React or NextJS",cadornajansen,11 hours ago,https://replit.com/bounties/@cadornajansen/simple-google-login?t=
+As long as you have experience with React or NextJS",cadornajansen,12 hours ago,https://replit.com/bounties/@cadornajansen/simple-google-login?t=
 953,$14.85,due in 13 days,Fortnite xcould on coustom url ,"I want to have a website off of my domain that run xcloud fortnite with the same add to home screen ability, an example that runs roblox it nowgg.me/xi but I want fortnite",whatisaapple,10 hours ago,https://replit.com/bounties/@whatisaapple/fortnite-xcould-on-c?t=
 954,$450.00,due in 12 days,Custom self-hosted Ghost blog,"Create a simple custom theme and do integrations with email subscriptions for a self-hosted Ghost-based blog (https://ghost.org) based on a provided image moodboard, and references to other websites.
 
@@ -7895,3 +7895,19 @@ A complete ghost theme suited to the moodboard with the following pages:
   Notes: A place for shorter / draft posts, separate from the blog
   Email subscription, so that visitors can subscribe for further updates
 Ready to deploy. It's not necessary to deploy the site once it's ready, I can do that myself.",AntonTroynikov,6 hours ago,https://replit.com/bounties/@AntonTroynikov/custom-self-hosted-g?t=
+955,$90.00,due in 4 days,Write Cypress tests to automatically test Glide,"We’d like to implement automated tests for Glide (glideapps.com)–specifically to test our billing system.
+
+We’ll write the tests against our staging server, https://staging.heyglide.com
+
+Acceptance Criteria
+
+Create a Cypress project in TypeScript that runs the following tests:
+
+Create an account
+Test that a free account cannot publish more than 2 apps
+Test that upgrading to Pro works, and verify that the upgraded app has access to Extra sync mode in the app Data settings
+
+Technical Details
+
+Create a fixture in Cypress, using TypeScript
+Run the tests with npm test",dvdsgl,3 seconds ago,https://replit.com/bounties/@dvdsgl/write-cypress-tests?t=
