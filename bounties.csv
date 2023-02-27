@@ -7880,7 +7880,7 @@ I would like to use this data for time series analysis
 
 #acceptance criteria: successfully downloads prices when run 5 times. successfully overwrites prior CSV file with new prices
 
-#technical criteria: python script that's compatible with v3.9.6",JayDas4,13 hours ago,https://replit.com/bounties/@JayDas4/download-hourly-bitc?t=
+#technical criteria: python script that's compatible with v3.9.6",JayDas4,14 hours ago,https://replit.com/bounties/@JayDas4/download-hourly-bitc?t=
 952,$4.50,due in 6 days,Simple Google Login NextJS,"Make a simple google login page using NextJS that retrieves the user access token
 
 Acceptance Criteria
