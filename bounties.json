@@ -9696,7 +9696,7 @@
         "title": "Website Scraper",
         "description": "Build a python script to scrape the website below:\nhttps://weedmaps.com/\n\nBased on a particular region, we need to scrape the following:\nDispensaries in that region\nMenu Items offered by the dispensary\n    Products\n    Brands\nPricing for their products\nDeals offered by the Dispensary\n\nDesired Data Schema:\nhttps://docs.google.com/spreadsheets/d/1BWY0Ms9eCQ-e9sz1JocmQnn-5oMh0hX3F7MfHty7G-Q/edit?usp=sharing\n\nThe website may block incoming GET requests so use the following headers below if it helps:\nheaders = {\n    \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3\"}\n\nThe scraping can be triggered by the user on a ad hoc basis locally on their terminal/machine.\n\nData scraped can be saved in AirTable or save locally in CSV format.",
         "author": "AshwinJey",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@AshwinJey/website-scraper"
     },
     {
@@ -9756,7 +9756,7 @@
         "title": "I need an API end point that will detect a face in an image and then crop ",
         "description": "I need an API endpoint that will be sent an image that will have a persons face in it. It needs to detect the face and then crop the image to 512x512 around that face and then upload the image to upload.io\n\nAcceptance Criteria\nideally the face detection and cropping is using an opensource model\n\nTechnical Details\ncan be in node.js or python",
         "author": "ChrisCollins7",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@ChrisCollins7/i-need-an-api-end-po"
     },
     {
@@ -9766,7 +9766,7 @@
         "title": "Add ChatGPT endpoint to existing (very simple) Flask server and call with React.",
         "description": "I have a very simple Flask/React setup here:\nhttps://replit.com/@proales2/react-flask\n\nI want someone to add a ChatGPT backend endpoint to that Flask server probably based off: https://replit.com/@replit/OpenAI-Python-GPT-35-Turbo?v=1#main.py\n\nThen add a simple demo of calling that backend API from React.\n\nAcceptance Criteria\n\nCan plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",
         "author": "proales2",
-        "posted_time": "52 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@proales2/add-chatgpt-endpoint"
     }
 ]
