@@ -8026,7 +8026,7 @@ For example, we should have a conversations class where all the messages between
 In short, you should think about our app as a UI for Twilio accounts’ phone number that will allow it to read conversations and send messages.
 
 The job
-Define clearly the structure that this API using FastAPI will have. Include schemas, classes and subclasses that will be needed, the endpoints, the methods for e...",mattpatagon,20 hours ago,https://replit.com/bounties/@mattpatagon/plan-in-detail-the-s
+Define clearly the structure that this API using FastAPI will have. Include schemas, classes and subclasses that will be needed, the endpoints, the methods for e...",mattpatagon,21 hours ago,https://replit.com/bounties/@mattpatagon/plan-in-detail-the-s
 969,$180.00,due in 3 days,Website Scraper,"Build a python script to scrape the website below:
 https://weedmaps.com/
 
@@ -8055,13 +8055,13 @@ The database cannot be ReplitDB. The finished project will not be hosted in Repl
 You must have experience coding in Flask.
 You don't need CSS experience although it would be nice.
 
-This is not a large task, it should only take an hour or 2 depending on how good you are with python and HTML.",dgow,7 hours ago,https://replit.com/bounties/@dgow/flask-client-to-empl
+This is not a large task, it should only take an hour or 2 depending on how good you are with python and HTML.",dgow,8 hours ago,https://replit.com/bounties/@dgow/flask-client-to-empl
 971,$4.50,due in 3 days,Fix Search Function and add play button on Game Website,"Fix the search function on the game website and make it a functioning search feature. Also add a play button below each image on the game cards on the main hommepage.
 Acceptance Criteria
 Fork the repl https://replit.com/@Retrospicer/Eggy-Car-Games and send a private link to a working copy of the fixed one to be accepted.
 
 Link to Project
-https://replit.com/@Retrospicer/Eggy-Car-Games",Retrospicer,6 hours ago,https://replit.com/bounties/@Retrospicer/fix-search-function
+https://replit.com/@Retrospicer/Eggy-Car-Games",Retrospicer,7 hours ago,https://replit.com/bounties/@Retrospicer/fix-search-function
 972,$157.50,due in 5 days,Charging for OpenAI Token Usage,"Implement a way for Model Creator(People Fine-tuning/Embedding GPT Models) to track and charge their users for the OpenAI Tokens they are using.
 
 Acceptance Criteria

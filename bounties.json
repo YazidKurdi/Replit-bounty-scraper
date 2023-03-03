@@ -9686,7 +9686,7 @@
         "title": "Plan the structure of a backend API for a messenger app built on FastAPI",
         "description": "General overview\n\nWe want to build our backend API using FastAPI for a messenger app.\n\nThe uniqueness of our webapp is that users will not chat between them. Instead, each of our users will have an associated Twilio Account. The Twilio API will be used to send messages with their phone numbers to other phone numbers, and at the same time the incoming messages will be sent through Twilio\u2019s webhook to our app. This means that our users will communicate with people who are not our users, using Twilio.\n\nFor example, we should have a conversations class where all the messages between the same two phone numbers (our user\u2019s Twilio phone number and another phone number) are displayed.\n\nIn short, you should think about our app as a UI for Twilio accounts\u2019 phone number that will allow it to read conversations and send messages.\n\nThe job\nDefine clearly the structure that this API using FastAPI will have. Include schemas, classes and subclasses that will be needed, the endpoints, the methods for e...",
         "author": "mattpatagon",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@mattpatagon/plan-in-detail-the-s"
     },
     {
@@ -9706,7 +9706,7 @@
         "title": "Flask Client to Employee Organizer",
         "description": "You will be working with me to create a simple flask website that organizes clients and employees in a database.\n\nThe database cannot be ReplitDB. The finished project will not be hosted in Replit\n\nYou must have experience coding in Flask.\nYou don't need CSS experience although it would be nice.\n\nThis is not a large task, it should only take an hour or 2 depending on how good you are with python and HTML.",
         "author": "dgow",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@dgow/flask-client-to-empl"
     },
     {
@@ -9716,7 +9716,7 @@
         "title": "Fix Search Function and add play button on Game Website",
         "description": "Fix the search function on the game website and make it a functioning search feature. Also add a play button below each image on the game cards on the main hommepage.\nAcceptance Criteria\nFork the repl https://replit.com/@Retrospicer/Eggy-Car-Games and send a private link to a working copy of the fixed one to be accepted.\n\nLink to Project\nhttps://replit.com/@Retrospicer/Eggy-Car-Games",
         "author": "Retrospicer",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@Retrospicer/fix-search-function"
     },
     {
