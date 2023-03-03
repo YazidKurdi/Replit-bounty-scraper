@@ -9746,7 +9746,7 @@
         "title": "web scraper that exports to a csv",
         "description": "Write a scraper for a website\nAcceptance Criteria\nHave a history of scraping websites, have an example project of large/interesting web-scraping jobs\nTechnical Details\nImplement in whatever language you want\n\nLink to Project",
         "author": "lorestatesman",
-        "posted_time": "42 minutes ago",
+        "posted_time": "52 minutes ago",
         "link": "https://replit.com/bounties/@lorestatesman/web-scraper-that-exp"
     },
     {
@@ -9756,7 +9756,7 @@
         "title": "I need an API end point that will detect a face in an image and then crop ",
         "description": "I need an API endpoint that will be sent an image that will have a persons face in it. It needs to detect the face and then crop the image to 512x512 around that face and then upload the image to upload.io\n\nAcceptance Criteria\nideally the face detection and cropping is using an opensource model\n\nTechnical Details\ncan be in node.js or python",
         "author": "ChrisCollins7",
-        "posted_time": "7 minutes ago",
+        "posted_time": "17 minutes ago",
         "link": "https://replit.com/bounties/@ChrisCollins7/i-need-an-api-end-po"
     }
 ]

@@ -8097,11 +8097,11 @@ Have a history of scraping websites, have an example project of large/interestin
 Technical Details
 Implement in whatever language you want
 
-Link to Project",lorestatesman,42 minutes ago,https://replit.com/bounties/@lorestatesman/web-scraper-that-exp
+Link to Project",lorestatesman,52 minutes ago,https://replit.com/bounties/@lorestatesman/web-scraper-that-exp
 975,$450.00,due in 3 days,I need an API end point that will detect a face in an image and then crop ,"I need an API endpoint that will be sent an image that will have a persons face in it. It needs to detect the face and then crop the image to 512x512 around that face and then upload the image to upload.io
 
 Acceptance Criteria
 ideally the face detection and cropping is using an opensource model
 
 Technical Details
-can be in node.js or python",ChrisCollins7,7 minutes ago,https://replit.com/bounties/@ChrisCollins7/i-need-an-api-end-po
+can be in node.js or python",ChrisCollins7,17 minutes ago,https://replit.com/bounties/@ChrisCollins7/i-need-an-api-end-po
