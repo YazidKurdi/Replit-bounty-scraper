@@ -9686,7 +9686,7 @@
         "title": "Plan the structure of a backend API for a messenger app built on FastAPI",
         "description": "General overview\n\nWe want to build our backend API using FastAPI for a messenger app.\n\nThe uniqueness of our webapp is that users will not chat between them. Instead, each of our users will have an associated Twilio Account. The Twilio API will be used to send messages with their phone numbers to other phone numbers, and at the same time the incoming messages will be sent through Twilio\u2019s webhook to our app. This means that our users will communicate with people who are not our users, using Twilio.\n\nFor example, we should have a conversations class where all the messages between the same two phone numbers (our user\u2019s Twilio phone number and another phone number) are displayed.\n\nIn short, you should think about our app as a UI for Twilio accounts\u2019 phone number that will allow it to read conversations and send messages.\n\nThe job\nDefine clearly the structure that this API using FastAPI will have. Include schemas, classes and subclasses that will be needed, the endpoints, the methods for e...",
         "author": "mattpatagon",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@mattpatagon/plan-in-detail-the-s"
     },
     {
@@ -9706,7 +9706,7 @@
         "title": "Flask Client to Employee Organizer",
         "description": "You will be working with me to create a simple flask website that organizes clients and employees in a database.\n\nThe database cannot be ReplitDB. The finished project will not be hosted in Replit\n\nYou must have experience coding in Flask.\nYou don't need CSS experience although it would be nice.\n\nThis is not a large task, it should only take an hour or 2 depending on how good you are with python and HTML.",
         "author": "dgow",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@dgow/flask-client-to-empl"
     },
     {
@@ -9716,7 +9716,7 @@
         "title": "Fix Search Function and add play button on Game Website",
         "description": "Fix the search function on the game website and make it a functioning search feature. Also add a play button below each image on the game cards on the main hommepage.\nAcceptance Criteria\nFork the repl https://replit.com/@Retrospicer/Eggy-Car-Games and send a private link to a working copy of the fixed one to be accepted.\n\nLink to Project\nhttps://replit.com/@Retrospicer/Eggy-Car-Games",
         "author": "Retrospicer",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@Retrospicer/fix-search-function"
     },
     {
@@ -9756,7 +9756,7 @@
         "title": "I need an API end point that will detect a face in an image and then crop ",
         "description": "I need an API endpoint that will be sent an image that will have a persons face in it. It needs to detect the face and then crop the image to 512x512 around that face and then upload the image to upload.io\n\nAcceptance Criteria\nideally the face detection and cropping is using an opensource model\n\nTechnical Details\ncan be in node.js or python",
         "author": "ChrisCollins7",
-        "posted_time": "58 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@ChrisCollins7/i-need-an-api-end-po"
     },
     {
@@ -9766,7 +9766,7 @@
         "title": "Add ChatGPT endpoint to existing (very simple) Flask server and call with React.",
         "description": "I have a very simple Flask/React setup here:\nhttps://replit.com/@proales2/react-flask\n\nI want someone to add a ChatGPT backend endpoint to that Flask server probably based off: https://replit.com/@replit/OpenAI-Python-GPT-35-Turbo?v=1#main.py\n\nThen add a simple demo of calling that backend API from React.\n\nAcceptance Criteria\n\nCan plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",
         "author": "proales2",
-        "posted_time": "33 minutes ago",
+        "posted_time": "42 minutes ago",
         "link": "https://replit.com/bounties/@proales2/add-chatgpt-endpoint"
     }
 ]
