@@ -9746,7 +9746,7 @@
         "title": "web scraper that exports to a csv",
         "description": "Write a scraper for a website\nAcceptance Criteria\nHave a history of scraping websites, have an example project of large/interesting web-scraping jobs\nTechnical Details\nImplement in whatever language you want\n\nLink to Project",
         "author": "lorestatesman",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@lorestatesman/web-scraper-that-exp"
     },
     {
@@ -9766,7 +9766,7 @@
         "title": "Add ChatGPT endpoint to existing (very simple) Flask server and call with React.",
         "description": "I have a very simple Flask/React setup here:\nhttps://replit.com/@proales2/react-flask\n\nI want someone to add a ChatGPT backend endpoint to that Flask server probably based off: https://replit.com/@replit/OpenAI-Python-GPT-35-Turbo?v=1#main.py\n\nThen add a simple demo of calling that backend API from React.\n\nAcceptance Criteria\n\nCan plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",
         "author": "proales2",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@proales2/add-chatgpt-endpoint"
     }
 ]
