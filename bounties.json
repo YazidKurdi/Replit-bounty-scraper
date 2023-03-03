@@ -9736,7 +9736,7 @@
         "title": "Flutterflow Expert for finishing up a feature",
         "description": "I am working on the fitness tracking app on flutterflow. I am currently running out of time and need help to finish it off.\nProblem Description\nA button \"Start a Workout\" is pressed. A bottom up sheet widget appears. This widget needs to be designed with the following features\nadd a new exercise button which opens up a modal which shows all exercises\nyou can pick more than one exercise in the modal which shows the exercises\nonce the exercise have been picked, they will be shown on the bottom up sheet widget\nyou can add sets to each selected exercises.\nYou can add the kilos and reps you did for each exercice you picked\nonce you are done with the workout, you can save the workout and an database entry is created\nAcceptance Criteria\nall above mentioned features are working\n\nTechnical Details\n\nIf you have questions. Shoot me an email and we can do a quick zoom call. I need someone asap",
         "author": "MikeRiss",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@MikeRiss/flutterflow-expert-f"
     },
     {
@@ -9746,7 +9746,7 @@
         "title": "web scraper that exports to a csv",
         "description": "Write a scraper for a website\nAcceptance Criteria\nHave a history of scraping websites, have an example project of large/interesting web-scraping jobs\nTechnical Details\nImplement in whatever language you want\n\nLink to Project",
         "author": "lorestatesman",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@lorestatesman/web-scraper-that-exp"
     },
     {
@@ -9756,7 +9756,7 @@
         "title": "I need an API end point that will detect a face in an image and then crop ",
         "description": "I need an API endpoint that will be sent an image that will have a persons face in it. It needs to detect the face and then crop the image to 512x512 around that face and then upload the image to upload.io\n\nAcceptance Criteria\nideally the face detection and cropping is using an opensource model\n\nTechnical Details\ncan be in node.js or python",
         "author": "ChrisCollins7",
-        "posted_time": "45 minutes ago",
+        "posted_time": "58 minutes ago",
         "link": "https://replit.com/bounties/@ChrisCollins7/i-need-an-api-end-po"
     },
     {
@@ -9766,7 +9766,7 @@
         "title": "Add ChatGPT endpoint to existing (very simple) Flask server and call with React.",
         "description": "I have a very simple Flask/React setup here:\nhttps://replit.com/@proales2/react-flask\n\nI want someone to add a ChatGPT backend endpoint to that Flask server probably based off: https://replit.com/@replit/OpenAI-Python-GPT-35-Turbo?v=1#main.py\n\nThen add a simple demo of calling that backend API from React.\n\nAcceptance Criteria\n\nCan plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",
         "author": "proales2",
-        "posted_time": "20 minutes ago",
+        "posted_time": "33 minutes ago",
         "link": "https://replit.com/bounties/@proales2/add-chatgpt-endpoint"
     }
 ]
