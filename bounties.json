@@ -9676,7 +9676,7 @@
         "title": "Chain a bunch of LLM scripts together",
         "description": "I've created a bunch of smaller scripts to run various tasks, and want help chaining them together to do stuff end to end, with a few \"interrupts\" to choose direction. The pieces are:\n\t\u2022 Input documents or a directory\n\t\t\u25cb According to what was chosen, figure out what type of doc it is\n\t\t\t\u00a7 Extract text\n\t\t\t\u00a7 Use LLMs to clean up the text, maybe after wrapping\n\t\t\u25cb Index the docs & do Q&A\n\t\t\t\u00a7 Vector\n\t\t\t\u00a7 Graph\n\t\t\u25cb Extract key entities which are most useful (NER prob)\n\t\t\t\u00a7 Get Wikipedia extracts as needed and summarise\n\t\t\t\u00a7 Add to index\n\t\t\u25cb Based on type of doc, check what might be interesting questions to ask\n\t\t\u25cb From combined info, generate questions which will be most useful to know\n\t\t\t\u00a7 Ask questions to index and get answers\n\t\t\t\u00a7 Figure out any computations needed to get more insights\n\t\t\t\t\u25a1 Wolfram search via API\n\t\t\t\u00a7 Craft specific Google query to get information that's up to date\n\t\t\t\t\u25a1 Search Google via API\n\t\t\t\t\u25a1 Return results\nCombine and summarise the returned results\n\nResult: My ...",
         "author": "strangeloopcanon",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@strangeloopcanon/chain-a-bunch-of-llm"
     },
     {
@@ -9736,7 +9736,7 @@
         "title": "Flutterflow Expert for finishing up a feature",
         "description": "I am working on the fitness tracking app on flutterflow. I am currently running out of time and need help to finish it off.\nProblem Description\nA button \"Start a Workout\" is pressed. A bottom up sheet widget appears. This widget needs to be designed with the following features\nadd a new exercise button which opens up a modal which shows all exercises\nyou can pick more than one exercise in the modal which shows the exercises\nonce the exercise have been picked, they will be shown on the bottom up sheet widget\nyou can add sets to each selected exercises.\nYou can add the kilos and reps you did for each exercice you picked\nonce you are done with the workout, you can save the workout and an database entry is created\nAcceptance Criteria\nall above mentioned features are working\n\nTechnical Details\n\nIf you have questions. Shoot me an email and we can do a quick zoom call. I need someone asap",
         "author": "MikeRiss",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@MikeRiss/flutterflow-expert-f"
     },
     {
@@ -9746,7 +9746,7 @@
         "title": "web scraper that exports to a csv",
         "description": "Write a scraper for a website\nAcceptance Criteria\nHave a history of scraping websites, have an example project of large/interesting web-scraping jobs\nTechnical Details\nImplement in whatever language you want\n\nLink to Project",
         "author": "lorestatesman",
-        "posted_time": "8 minutes ago",
+        "posted_time": "25 minutes ago",
         "link": "https://replit.com/bounties/@lorestatesman/web-scraper-that-exp"
     }
 ]
