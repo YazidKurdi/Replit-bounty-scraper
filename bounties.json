@@ -9656,7 +9656,7 @@
         "title": "ChatGPT Interface for different Models",
         "description": "I would like a webpage that looks like the ChatGPT UI but whose backend can be connected to any number of different models or fine-tuned/embedded GPT models. Since this is meant for users to plugin their backend to the ChatGPT frontend, all users should be given a random extension to the URL.\nFor example, I connect my fine-tuned davinci model by simply inputing the public URL to my API, I should then be assigned a URL that extends from the base URL that people can connect to which allows them to access my model with the same UI as ChatGPT.\n\nAcceptance Criteria\nA functional Nextjs site that users come to where they can input their API's public URL and a small description of what it does and they are then assigned a URL that extends from the base site's URL that they can share with others. People are then able to visit this site and interact with their model in the same way as they would interact with ChatGPT.\n\nTechnical Details\nThis should all be done with Nextjs\n\nTh...",
         "author": "HamsaOmar",
-        "posted_time": "22 hours ago",
+        "posted_time": "23 hours ago",
         "link": "https://replit.com/bounties/@HamsaOmar/chatgpt-interface-fo"
     },
     {
@@ -9722,7 +9722,7 @@
     {
         "index": "972",
         "price": "$157.50",
-        "due_days": "due in 6 days",
+        "due_days": "due in 5 days",
         "title": "Charging for OpenAI Token Usage",
         "description": "Implement a way for Model Creator(People Fine-tuning/Embedding GPT Models) to track and charge their users for the OpenAI Tokens they are using.\n\nAcceptance Criteria\nModel Creators should be able to input a Price/1K Tokens(~750 words) like OpenAI's pricing. They are then assigned a random generated link that extends from the base URL that they can share online or with others. Users click on this link and are shown this page that tells them the price/1k tokens and if they accept they create an account and input their credit card information which is saved for future logins. They are then redirected to model creators site where they can use the model. Their usage is tracked and they are billed at some interval.\n\nThis is just the current user flow but can be changed due to technical or other details.\n\nTechnical Details\nFrontend must be in Nextjs\nBackend can be either in Nextjs API Folder or Expressjs\nPayment Processor: Stripe\n\nFuture Work may also be given like:\nBuildi...",
         "author": "HamsaOmar",
@@ -9746,7 +9746,7 @@
         "title": "web scraper that exports to a csv",
         "description": "Write a scraper for a website\nAcceptance Criteria\nHave a history of scraping websites, have an example project of large/interesting web-scraping jobs\nTechnical Details\nImplement in whatever language you want\n\nLink to Project",
         "author": "lorestatesman",
-        "posted_time": "25 minutes ago",
+        "posted_time": "33 minutes ago",
         "link": "https://replit.com/bounties/@lorestatesman/web-scraper-that-exp"
     }
 ]

@@ -7981,7 +7981,7 @@ A functional Nextjs site that users come to where they can input their API's pub
 Technical Details
 This should all be done with Nextjs
 
-Th...",HamsaOmar,22 hours ago,https://replit.com/bounties/@HamsaOmar/chatgpt-interface-fo
+Th...",HamsaOmar,23 hours ago,https://replit.com/bounties/@HamsaOmar/chatgpt-interface-fo
 966,$67.50,due in 2 days,Scrape a Website and Populate a Table,"Create a tool that scrapes the data from a specific apartment building's website and then populate a table with the pertinent data about each available apartment including:
 Unit number
 Unit Type
@@ -8062,7 +8062,7 @@ Fork the repl https://replit.com/@Retrospicer/Eggy-Car-Games and send a private 
 
 Link to Project
 https://replit.com/@Retrospicer/Eggy-Car-Games",Retrospicer,4 hours ago,https://replit.com/bounties/@Retrospicer/fix-search-function
-972,$157.50,due in 6 days,Charging for OpenAI Token Usage,"Implement a way for Model Creator(People Fine-tuning/Embedding GPT Models) to track and charge their users for the OpenAI Tokens they are using.
+972,$157.50,due in 5 days,Charging for OpenAI Token Usage,"Implement a way for Model Creator(People Fine-tuning/Embedding GPT Models) to track and charge their users for the OpenAI Tokens they are using.
 
 Acceptance Criteria
 Model Creators should be able to input a Price/1K Tokens(~750 words) like OpenAI's pricing. They are then assigned a random generated link that extends from the base URL that they can share online or with others. Users click on this link and are shown this page that tells them the price/1k tokens and if they accept they create an account and input their credit card information which is saved for future logins. They are then redirected to model creators site where they can use the model. Their usage is tracked and they are billed at some interval.
@@ -8097,4 +8097,4 @@ Have a history of scraping websites, have an example project of large/interestin
 Technical Details
 Implement in whatever language you want
 
-Link to Project",lorestatesman,25 minutes ago,https://replit.com/bounties/@lorestatesman/web-scraper-that-exp
+Link to Project",lorestatesman,33 minutes ago,https://replit.com/bounties/@lorestatesman/web-scraper-that-exp
