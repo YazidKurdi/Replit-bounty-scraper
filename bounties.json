@@ -9676,7 +9676,7 @@
         "title": "Chain a bunch of LLM scripts together",
         "description": "I've created a bunch of smaller scripts to run various tasks, and want help chaining them together to do stuff end to end, with a few \"interrupts\" to choose direction. The pieces are:\n\t\u2022 Input documents or a directory\n\t\t\u25cb According to what was chosen, figure out what type of doc it is\n\t\t\t\u00a7 Extract text\n\t\t\t\u00a7 Use LLMs to clean up the text, maybe after wrapping\n\t\t\u25cb Index the docs & do Q&A\n\t\t\t\u00a7 Vector\n\t\t\t\u00a7 Graph\n\t\t\u25cb Extract key entities which are most useful (NER prob)\n\t\t\t\u00a7 Get Wikipedia extracts as needed and summarise\n\t\t\t\u00a7 Add to index\n\t\t\u25cb Based on type of doc, check what might be interesting questions to ask\n\t\t\u25cb From combined info, generate questions which will be most useful to know\n\t\t\t\u00a7 Ask questions to index and get answers\n\t\t\t\u00a7 Figure out any computations needed to get more insights\n\t\t\t\t\u25a1 Wolfram search via API\n\t\t\t\u00a7 Craft specific Google query to get information that's up to date\n\t\t\t\t\u25a1 Search Google via API\n\t\t\t\t\u25a1 Return results\nCombine and summarise the returned results\n\nResult: My ...",
         "author": "strangeloopcanon",
-        "posted_time": "24 hours ago",
+        "posted_time": "1 day ago",
         "link": "https://replit.com/bounties/@strangeloopcanon/chain-a-bunch-of-llm"
     },
     {
