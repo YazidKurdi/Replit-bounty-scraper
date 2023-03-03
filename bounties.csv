@@ -8097,7 +8097,7 @@ Have a history of scraping websites, have an example project of large/interestin
 Technical Details
 Implement in whatever language you want
 
-Link to Project",lorestatesman,3 hours ago,https://replit.com/bounties/@lorestatesman/web-scraper-that-exp
+Link to Project",lorestatesman,4 hours ago,https://replit.com/bounties/@lorestatesman/web-scraper-that-exp
 975,$450.00,due in 3 days,I need an API end point that will detect a face in an image and then crop ,"I need an API endpoint that will be sent an image that will have a persons face in it. It needs to detect the face and then crop the image to 512x512 around that face and then upload the image to upload.io
 
 Acceptance Criteria
@@ -8114,4 +8114,4 @@ Then add a simple demo of calling that backend API from React.
 
 Acceptance Criteria
 
-Can plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",proales2,2 hours ago,https://replit.com/bounties/@proales2/add-chatgpt-endpoint
+Can plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",proales2,3 hours ago,https://replit.com/bounties/@proales2/add-chatgpt-endpoint
