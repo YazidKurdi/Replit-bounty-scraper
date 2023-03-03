@@ -7961,3 +7961,133 @@ We run a WordPress with the RankMath and Wordlift Plugin. Both Plugins load thei
 
 Link to Project
 DM",MasterNeo,49 minutes ago,https://replit.com/bounties/@MasterNeo/js-help-get-rid-of-l?t=
+964,$180.00,due in 2 days,Consumer cannabis Q&A chatbot,"#Problem Description:
+We need a simple chatbot that can answer basic questions about cannabis for consumers. The chatbot should be able to respond to queries about the effects of different strains, how to consume cannabis safely, and other basic questions that consumers might have.
+
+#Acceptance Criteria:
+To be considered complete, the chatbot must meet the following criteria:
+
+The chatbot must be able to respond to at least 10 different types of questions related to cannabis, such as ""What are the effects of sativa vs. indica strains?"" or ""What is the recommended dosage for edibles?"" or ""What is the difference between Live Resin and Live Rosin?""
+
+The chatbot must be able to provide accurate and helpful answers to these questions. The answers should be based on industry-standard knowledge and best practices for cannabis consumption.
+
+The chatbot must be able to handle variations in language and phrasing for each question. For example, it should be able to respond to questions like ""What...",LucRip,22 hours ago,https://replit.com/bounties/@LucRip/consumer-cannabis-qa
+965,$157.50,closed,ChatGPT Interface for different Models,"I would like a webpage that looks like the ChatGPT UI but whose backend can be connected to any number of different models or fine-tuned/embedded GPT models. Since this is meant for users to plugin their backend to the ChatGPT frontend, all users should be given a random extension to the URL.
+For example, I connect my fine-tuned davinci model by simply inputing the public URL to my API, I should then be assigned a URL that extends from the base URL that people can connect to which allows them to access my model with the same UI as ChatGPT.
+
+Acceptance Criteria
+A functional Nextjs site that users come to where they can input their API's public URL and a small description of what it does and they are then assigned a URL that extends from the base site's URL that they can share with others. People are then able to visit this site and interact with their model in the same way as they would interact with ChatGPT.
+
+Technical Details
+This should all be done with Nextjs
+
+Th...",HamsaOmar,22 hours ago,https://replit.com/bounties/@HamsaOmar/chatgpt-interface-fo
+966,$67.50,due in 2 days,Scrape a Website and Populate a Table,"Create a tool that scrapes the data from a specific apartment building's website and then populate a table with the pertinent data about each available apartment including:
+Unit number
+Unit Type
+Number of Beds
+Square Footage
+Date Available
+Asking Rent
+
+Acceptance Criteria
+Tool should output the data in CSV format
+Should be able to run the tool daily",conor89,20 hours ago,https://replit.com/bounties/@conor89/scrape-a-website-and-1
+967,$180.00,due in 2 days,Chain a bunch of LLM scripts together,"I've created a bunch of smaller scripts to run various tasks, and want help chaining them together to do stuff end to end, with a few ""interrupts"" to choose direction. The pieces are:
+	• Input documents or a directory
+		○ According to what was chosen, figure out what type of doc it is
+			§ Extract text
+			§ Use LLMs to clean up the text, maybe after wrapping
+		○ Index the docs & do Q&A
+			§ Vector
+			§ Graph
+		○ Extract key entities which are most useful (NER prob)
+			§ Get Wikipedia extracts as needed and summarise
+			§ Add to index
+		○ Based on type of doc, check what might be interesting questions to ask
+		○ From combined info, generate questions which will be most useful to know
+			§ Ask questions to index and get answers
+			§ Figure out any computations needed to get more insights
+				□ Wolfram search via API
+			§ Craft specific Google query to get information that's up to date
+				□ Search Google via API
+				□ Return results
+Combine and summarise the returned results
+
+Result: My ...",strangeloopcanon,20 hours ago,https://replit.com/bounties/@strangeloopcanon/chain-a-bunch-of-llm
+968,$50.00,due in 3 days,Plan the structure of a backend API for a messenger app built on FastAPI,"General overview
+
+We want to build our backend API using FastAPI for a messenger app.
+
+The uniqueness of our webapp is that users will not chat between them. Instead, each of our users will have an associated Twilio Account. The Twilio API will be used to send messages with their phone numbers to other phone numbers, and at the same time the incoming messages will be sent through Twilio’s webhook to our app. This means that our users will communicate with people who are not our users, using Twilio.
+
+For example, we should have a conversations class where all the messages between the same two phone numbers (our user’s Twilio phone number and another phone number) are displayed.
+
+In short, you should think about our app as a UI for Twilio accounts’ phone number that will allow it to read conversations and send messages.
+
+The job
+Define clearly the structure that this API using FastAPI will have. Include schemas, classes and subclasses that will be needed, the endpoints, the methods for e...",mattpatagon,18 hours ago,https://replit.com/bounties/@mattpatagon/plan-in-detail-the-s
+969,$180.00,due in 3 days,Website Scraper,"Build a python script to scrape the website below:
+https://weedmaps.com/
+
+Based on a particular region, we need to scrape the following:
+Dispensaries in that region
+Menu Items offered by the dispensary
+    Products
+    Brands
+Pricing for their products
+Deals offered by the Dispensary
+
+Desired Data Schema:
+https://docs.google.com/spreadsheets/d/1BWY0Ms9eCQ-e9sz1JocmQnn-5oMh0hX3F7MfHty7G-Q/edit?usp=sharing
+
+The website may block incoming GET requests so use the following headers below if it helps:
+headers = {
+    ""User-Agent"": ""Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3""}
+
+The scraping can be triggered by the user on a ad hoc basis locally on their terminal/machine.
+
+Data scraped can be saved in AirTable or save locally in CSV format.",AshwinJey,17 hours ago,https://replit.com/bounties/@AshwinJey/website-scraper
+970,$7.20,due in 3 months,Flask Client to Employee Organizer,"You will be working with me to create a simple flask website that organizes clients and employees in a database.
+
+The database cannot be ReplitDB. The finished project will not be hosted in Replit
+
+You must have experience coding in Flask.
+You don't need CSS experience although it would be nice.
+
+This is not a large task, it should only take an hour or 2 depending on how good you are with python and HTML.",dgow,5 hours ago,https://replit.com/bounties/@dgow/flask-client-to-empl
+971,$4.50,due in 3 days,Fix Search Function and add play button on Game Website,"Fix the search function on the game website and make it a functioning search feature. Also add a play button below each image on the game cards on the main hommepage.
+Acceptance Criteria
+Fork the repl https://replit.com/@Retrospicer/Eggy-Car-Games and send a private link to a working copy of the fixed one to be accepted.
+
+Link to Project
+https://replit.com/@Retrospicer/Eggy-Car-Games",Retrospicer,4 hours ago,https://replit.com/bounties/@Retrospicer/fix-search-function
+972,$157.50,due in 6 days,Charging for OpenAI Token Usage,"Implement a way for Model Creator(People Fine-tuning/Embedding GPT Models) to track and charge their users for the OpenAI Tokens they are using.
+
+Acceptance Criteria
+Model Creators should be able to input a Price/1K Tokens(~750 words) like OpenAI's pricing. They are then assigned a random generated link that extends from the base URL that they can share online or with others. Users click on this link and are shown this page that tells them the price/1k tokens and if they accept they create an account and input their credit card information which is saved for future logins. They are then redirected to model creators site where they can use the model. Their usage is tracked and they are billed at some interval.
+
+This is just the current user flow but can be changed due to technical or other details.
+
+Technical Details
+Frontend must be in Nextjs
+Backend can be either in Nextjs API Folder or Expressjs
+Payment Processor: Stripe
+
+Future Work may also be given like:
+Buildi...",HamsaOmar,3 hours ago,https://replit.com/bounties/@HamsaOmar/charging-for-openai
+973,$45.00,due in 3 days,Flutterflow Expert for finishing up a feature,"I am working on the fitness tracking app on flutterflow. I am currently running out of time and need help to finish it off.
+Problem Description
+A button ""Start a Workout"" is pressed. A bottom up sheet widget appears. This widget needs to be designed with the following features
+add a new exercise button which opens up a modal which shows all exercises
+you can pick more than one exercise in the modal which shows the exercises
+once the exercise have been picked, they will be shown on the bottom up sheet widget
+you can add sets to each selected exercises.
+You can add the kilos and reps you did for each exercice you picked
+once you are done with the workout, you can save the workout and an database entry is created
+Acceptance Criteria
+all above mentioned features are working
+
+Technical Details
+
+If you have questions. Shoot me an email and we can do a quick zoom call. I need someone asap",MikeRiss,2 hours ago,https://replit.com/bounties/@MikeRiss/flutterflow-expert-f
