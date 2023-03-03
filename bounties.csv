@@ -8047,7 +8047,7 @@ headers = {
 
 The scraping can be triggered by the user on a ad hoc basis locally on their terminal/machine.
 
-Data scraped can be saved in AirTable or save locally in CSV format.",AshwinJey,18 hours ago,https://replit.com/bounties/@AshwinJey/website-scraper
+Data scraped can be saved in AirTable or save locally in CSV format.",AshwinJey,19 hours ago,https://replit.com/bounties/@AshwinJey/website-scraper
 970,$7.20,due in 3 months,Flask Client to Employee Organizer,"You will be working with me to create a simple flask website that organizes clients and employees in a database.
 
 The database cannot be ReplitDB. The finished project will not be hosted in Replit
@@ -8097,11 +8097,21 @@ Have a history of scraping websites, have an example project of large/interestin
 Technical Details
 Implement in whatever language you want
 
-Link to Project",lorestatesman,52 minutes ago,https://replit.com/bounties/@lorestatesman/web-scraper-that-exp
+Link to Project",lorestatesman,1 hour ago,https://replit.com/bounties/@lorestatesman/web-scraper-that-exp
 975,$450.00,due in 3 days,I need an API end point that will detect a face in an image and then crop ,"I need an API endpoint that will be sent an image that will have a persons face in it. It needs to detect the face and then crop the image to 512x512 around that face and then upload the image to upload.io
 
 Acceptance Criteria
 ideally the face detection and cropping is using an opensource model
 
 Technical Details
-can be in node.js or python",ChrisCollins7,17 minutes ago,https://replit.com/bounties/@ChrisCollins7/i-need-an-api-end-po
+can be in node.js or python",ChrisCollins7,32 minutes ago,https://replit.com/bounties/@ChrisCollins7/i-need-an-api-end-po
+976,$27.00,due in 3 days,Add ChatGPT endpoint to existing (very simple) Flask server and call with React.,"I have a very simple Flask/React setup here:
+https://replit.com/@proales2/react-flask
+
+I want someone to add a ChatGPT backend endpoint to that Flask server probably based off: https://replit.com/@replit/OpenAI-Python-GPT-35-Turbo?v=1#main.py
+
+Then add a simple demo of calling that backend API from React.
+
+Acceptance Criteria
+
+Can plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",proales2,7 minutes ago,https://replit.com/bounties/@proales2/add-chatgpt-endpoint
