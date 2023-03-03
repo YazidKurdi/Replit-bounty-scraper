@@ -8047,7 +8047,7 @@ headers = {
 
 The scraping can be triggered by the user on a ad hoc basis locally on their terminal/machine.
 
-Data scraped can be saved in AirTable or save locally in CSV format.",AshwinJey,20 hours ago,https://replit.com/bounties/@AshwinJey/website-scraper
+Data scraped can be saved in AirTable or save locally in CSV format.",AshwinJey,21 hours ago,https://replit.com/bounties/@AshwinJey/website-scraper
 970,$7.20,due in 3 months,Flask Client to Employee Organizer,"You will be working with me to create a simple flask website that organizes clients and employees in a database.
 
 The database cannot be ReplitDB. The finished project will not be hosted in Replit
@@ -8075,8 +8075,8 @@ Backend can be either in Nextjs API Folder or Expressjs
 Payment Processor: Stripe
 
 Future Work may also be given like:
-Buildi...",HamsaOmar,6 hours ago,https://replit.com/bounties/@HamsaOmar/charging-for-openai
-973,$45.00,due in 3 days,Flutterflow Expert for finishing up a feature,"I am working on the fitness tracking app on flutterflow. I am currently running out of time and need help to finish it off.
+Buildi...",HamsaOmar,7 hours ago,https://replit.com/bounties/@HamsaOmar/charging-for-openai
+973,$45.00,closed,Flutterflow Expert for finishing up a feature,"I am working on the fitness tracking app on flutterflow. I am currently running out of time and need help to finish it off.
 Problem Description
 A button ""Start a Workout"" is pressed. A bottom up sheet widget appears. This widget needs to be designed with the following features
 add a new exercise button which opens up a modal which shows all exercises
@@ -8104,7 +8104,7 @@ Acceptance Criteria
 ideally the face detection and cropping is using an opensource model
 
 Technical Details
-can be in node.js or python",ChrisCollins7,2 hours ago,https://replit.com/bounties/@ChrisCollins7/i-need-an-api-end-po
+can be in node.js or python",ChrisCollins7,3 hours ago,https://replit.com/bounties/@ChrisCollins7/i-need-an-api-end-po
 976,$27.00,due in 3 days,Add ChatGPT endpoint to existing (very simple) Flask server and call with React.,"I have a very simple Flask/React setup here:
 https://replit.com/@proales2/react-flask
 

@@ -9696,7 +9696,7 @@
         "title": "Website Scraper",
         "description": "Build a python script to scrape the website below:\nhttps://weedmaps.com/\n\nBased on a particular region, we need to scrape the following:\nDispensaries in that region\nMenu Items offered by the dispensary\n    Products\n    Brands\nPricing for their products\nDeals offered by the Dispensary\n\nDesired Data Schema:\nhttps://docs.google.com/spreadsheets/d/1BWY0Ms9eCQ-e9sz1JocmQnn-5oMh0hX3F7MfHty7G-Q/edit?usp=sharing\n\nThe website may block incoming GET requests so use the following headers below if it helps:\nheaders = {\n    \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3\"}\n\nThe scraping can be triggered by the user on a ad hoc basis locally on their terminal/machine.\n\nData scraped can be saved in AirTable or save locally in CSV format.",
         "author": "AshwinJey",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@AshwinJey/website-scraper"
     },
     {
@@ -9726,13 +9726,13 @@
         "title": "Charging for OpenAI Token Usage",
         "description": "Implement a way for Model Creator(People Fine-tuning/Embedding GPT Models) to track and charge their users for the OpenAI Tokens they are using.\n\nAcceptance Criteria\nModel Creators should be able to input a Price/1K Tokens(~750 words) like OpenAI's pricing. They are then assigned a random generated link that extends from the base URL that they can share online or with others. Users click on this link and are shown this page that tells them the price/1k tokens and if they accept they create an account and input their credit card information which is saved for future logins. They are then redirected to model creators site where they can use the model. Their usage is tracked and they are billed at some interval.\n\nThis is just the current user flow but can be changed due to technical or other details.\n\nTechnical Details\nFrontend must be in Nextjs\nBackend can be either in Nextjs API Folder or Expressjs\nPayment Processor: Stripe\n\nFuture Work may also be given like:\nBuildi...",
         "author": "HamsaOmar",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@HamsaOmar/charging-for-openai"
     },
     {
         "index": "973",
         "price": "$45.00",
-        "due_days": "due in 3 days",
+        "due_days": "closed",
         "title": "Flutterflow Expert for finishing up a feature",
         "description": "I am working on the fitness tracking app on flutterflow. I am currently running out of time and need help to finish it off.\nProblem Description\nA button \"Start a Workout\" is pressed. A bottom up sheet widget appears. This widget needs to be designed with the following features\nadd a new exercise button which opens up a modal which shows all exercises\nyou can pick more than one exercise in the modal which shows the exercises\nonce the exercise have been picked, they will be shown on the bottom up sheet widget\nyou can add sets to each selected exercises.\nYou can add the kilos and reps you did for each exercice you picked\nonce you are done with the workout, you can save the workout and an database entry is created\nAcceptance Criteria\nall above mentioned features are working\n\nTechnical Details\n\nIf you have questions. Shoot me an email and we can do a quick zoom call. I need someone asap",
         "author": "MikeRiss",
@@ -9756,7 +9756,7 @@
         "title": "I need an API end point that will detect a face in an image and then crop ",
         "description": "I need an API endpoint that will be sent an image that will have a persons face in it. It needs to detect the face and then crop the image to 512x512 around that face and then upload the image to upload.io\n\nAcceptance Criteria\nideally the face detection and cropping is using an opensource model\n\nTechnical Details\ncan be in node.js or python",
         "author": "ChrisCollins7",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@ChrisCollins7/i-need-an-api-end-po"
     },
     {
