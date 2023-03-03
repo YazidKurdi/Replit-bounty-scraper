@@ -8114,4 +8114,4 @@ Then add a simple demo of calling that backend API from React.
 
 Acceptance Criteria
 
-Can plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",proales2,42 minutes ago,https://replit.com/bounties/@proales2/add-chatgpt-endpoint
+Can plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",proales2,52 minutes ago,https://replit.com/bounties/@proales2/add-chatgpt-endpoint
