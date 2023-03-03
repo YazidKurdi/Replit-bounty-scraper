@@ -9676,7 +9676,7 @@
         "title": "Chain a bunch of LLM scripts together",
         "description": "I've created a bunch of smaller scripts to run various tasks, and want help chaining them together to do stuff end to end, with a few \"interrupts\" to choose direction. The pieces are:\n\t\u2022 Input documents or a directory\n\t\t\u25cb According to what was chosen, figure out what type of doc it is\n\t\t\t\u00a7 Extract text\n\t\t\t\u00a7 Use LLMs to clean up the text, maybe after wrapping\n\t\t\u25cb Index the docs & do Q&A\n\t\t\t\u00a7 Vector\n\t\t\t\u00a7 Graph\n\t\t\u25cb Extract key entities which are most useful (NER prob)\n\t\t\t\u00a7 Get Wikipedia extracts as needed and summarise\n\t\t\t\u00a7 Add to index\n\t\t\u25cb Based on type of doc, check what might be interesting questions to ask\n\t\t\u25cb From combined info, generate questions which will be most useful to know\n\t\t\t\u00a7 Ask questions to index and get answers\n\t\t\t\u00a7 Figure out any computations needed to get more insights\n\t\t\t\t\u25a1 Wolfram search via API\n\t\t\t\u00a7 Craft specific Google query to get information that's up to date\n\t\t\t\t\u25a1 Search Google via API\n\t\t\t\t\u25a1 Return results\nCombine and summarise the returned results\n\nResult: My ...",
         "author": "strangeloopcanon",
-        "posted_time": "21 hours ago",
+        "posted_time": "22 hours ago",
         "link": "https://replit.com/bounties/@strangeloopcanon/chain-a-bunch-of-llm"
     },
     {
@@ -9726,7 +9726,7 @@
         "title": "Charging for OpenAI Token Usage",
         "description": "Implement a way for Model Creator(People Fine-tuning/Embedding GPT Models) to track and charge their users for the OpenAI Tokens they are using.\n\nAcceptance Criteria\nModel Creators should be able to input a Price/1K Tokens(~750 words) like OpenAI's pricing. They are then assigned a random generated link that extends from the base URL that they can share online or with others. Users click on this link and are shown this page that tells them the price/1k tokens and if they accept they create an account and input their credit card information which is saved for future logins. They are then redirected to model creators site where they can use the model. Their usage is tracked and they are billed at some interval.\n\nThis is just the current user flow but can be changed due to technical or other details.\n\nTechnical Details\nFrontend must be in Nextjs\nBackend can be either in Nextjs API Folder or Expressjs\nPayment Processor: Stripe\n\nFuture Work may also be given like:\nBuildi...",
         "author": "HamsaOmar",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@HamsaOmar/charging-for-openai"
     },
     {
@@ -9756,7 +9756,7 @@
         "title": "I need an API end point that will detect a face in an image and then crop ",
         "description": "I need an API endpoint that will be sent an image that will have a persons face in it. It needs to detect the face and then crop the image to 512x512 around that face and then upload the image to upload.io\n\nAcceptance Criteria\nideally the face detection and cropping is using an opensource model\n\nTechnical Details\ncan be in node.js or python",
         "author": "ChrisCollins7",
-        "posted_time": "32 minutes ago",
+        "posted_time": "45 minutes ago",
         "link": "https://replit.com/bounties/@ChrisCollins7/i-need-an-api-end-po"
     },
     {
@@ -9766,7 +9766,7 @@
         "title": "Add ChatGPT endpoint to existing (very simple) Flask server and call with React.",
         "description": "I have a very simple Flask/React setup here:\nhttps://replit.com/@proales2/react-flask\n\nI want someone to add a ChatGPT backend endpoint to that Flask server probably based off: https://replit.com/@replit/OpenAI-Python-GPT-35-Turbo?v=1#main.py\n\nThen add a simple demo of calling that backend API from React.\n\nAcceptance Criteria\n\nCan plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",
         "author": "proales2",
-        "posted_time": "7 minutes ago",
+        "posted_time": "20 minutes ago",
         "link": "https://replit.com/bounties/@proales2/add-chatgpt-endpoint"
     }
 ]
