@@ -9736,7 +9736,7 @@
         "title": "Flutterflow Expert for finishing up a feature",
         "description": "I am working on the fitness tracking app on flutterflow. I am currently running out of time and need help to finish it off.\nProblem Description\nA button \"Start a Workout\" is pressed. A bottom up sheet widget appears. This widget needs to be designed with the following features\nadd a new exercise button which opens up a modal which shows all exercises\nyou can pick more than one exercise in the modal which shows the exercises\nonce the exercise have been picked, they will be shown on the bottom up sheet widget\nyou can add sets to each selected exercises.\nYou can add the kilos and reps you did for each exercice you picked\nonce you are done with the workout, you can save the workout and an database entry is created\nAcceptance Criteria\nall above mentioned features are working\n\nTechnical Details\n\nIf you have questions. Shoot me an email and we can do a quick zoom call. I need someone asap",
         "author": "MikeRiss",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@MikeRiss/flutterflow-expert-f"
     },
     {
@@ -9746,7 +9746,7 @@
         "title": "web scraper that exports to a csv",
         "description": "Write a scraper for a website\nAcceptance Criteria\nHave a history of scraping websites, have an example project of large/interesting web-scraping jobs\nTechnical Details\nImplement in whatever language you want\n\nLink to Project",
         "author": "lorestatesman",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@lorestatesman/web-scraper-that-exp"
     },
     {
@@ -9766,7 +9766,7 @@
         "title": "Add ChatGPT endpoint to existing (very simple) Flask server and call with React.",
         "description": "I have a very simple Flask/React setup here:\nhttps://replit.com/@proales2/react-flask\n\nI want someone to add a ChatGPT backend endpoint to that Flask server probably based off: https://replit.com/@replit/OpenAI-Python-GPT-35-Turbo?v=1#main.py\n\nThen add a simple demo of calling that backend API from React.\n\nAcceptance Criteria\n\nCan plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",
         "author": "proales2",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@proales2/add-chatgpt-endpoint"
     },
     {
@@ -9786,7 +9786,7 @@
         "title": "Simple web scrape to csv",
         "description": "This one actually is pretty easy, the site doesn\u2019t have any cruft on it and you might just be able to hit the api and paginate through to get everything. The site contains a list of individuals a list of companies, and a list of relationships between individuals and companies they have done business with. There are also simple detail pages on all three entity types - individuals, companies, and deals.\n\nIt\u2019s definitely not LinkedIn; probably <10,000 entities total.\n\nTwo known gotchas:\nfor maintenance purposes I would prefer you use python, specifically the requests-HTML library and its CSS selector feature, rather than beautifulsoup or lxml. Please note that you read this line in your application.\nthe site is serving several database tables that have one to many relationships and I need some sort of sane way of representing this in the spreadsheet. I would like to flatten the tables around the individuals, but then still pull the tables for the companies into a separ...",
         "author": "mkuz",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@mkuz/simple-web-scrape-to"
     },
     {
@@ -9806,7 +9806,7 @@
         "title": "Flet for Python not Running",
         "description": "flet for python isnt running  (permission denied))\n\nAcceptance Criteria\nMake it run without errors\n\nhttps://replit.com/@gcapedro/bots-lead-machine?v=1",
         "author": "gcapedro",
-        "posted_time": "58 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@gcapedro/flet-for-python-not"
     }
 ]
