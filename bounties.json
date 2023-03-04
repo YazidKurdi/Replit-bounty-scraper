@@ -9726,7 +9726,7 @@
         "title": "Charging for OpenAI Token Usage",
         "description": "Implement a way for Model Creator(People Fine-tuning/Embedding GPT Models) to track and charge their users for the OpenAI Tokens they are using.\n\nAcceptance Criteria\nModel Creators should be able to input a Price/1K Tokens(~750 words) like OpenAI's pricing. They are then assigned a random generated link that extends from the base URL that they can share online or with others. Users click on this link and are shown this page that tells them the price/1k tokens and if they accept they create an account and input their credit card information which is saved for future logins. They are then redirected to model creators site where they can use the model. Their usage is tracked and they are billed at some interval.\n\nThis is just the current user flow but can be changed due to technical or other details.\n\nTechnical Details\nFrontend must be in Nextjs\nBackend can be either in Nextjs API Folder or Expressjs\nPayment Processor: Stripe\n\nFuture Work may also be given like:\nBuildi...",
         "author": "HamsaOmar",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@HamsaOmar/charging-for-openai"
     },
     {
@@ -9786,7 +9786,7 @@
         "title": "Simple web scrape to csv",
         "description": "This one actually is pretty easy, the site doesn\u2019t have any cruft on it and you might just be able to hit the api and paginate through to get everything. The site contains a list of individuals a list of companies, and a list of relationships between individuals and companies they have done business with. There are also simple detail pages on all three entity types - individuals, companies, and deals.\n\nIt\u2019s definitely not LinkedIn; probably <10,000 entities total.\n\nTwo known gotchas:\nfor maintenance purposes I would prefer you use python, specifically the requests-HTML library and its CSS selector feature, rather than beautifulsoup or lxml. Please note that you read this line in your application.\nthe site is serving several database tables that have one to many relationships and I need some sort of sane way of representing this in the spreadsheet. I would like to flatten the tables around the individuals, but then still pull the tables for the companies into a separ...",
         "author": "mkuz",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@mkuz/simple-web-scrape-to"
     },
     {
@@ -9796,7 +9796,17 @@
         "title": "Marketing site template build for digital agency",
         "description": "I am in the process of rebranding my digital agency and rebuilding the company website along the way. I am looking for someone to build a custom website template using next.js that will contain the following:\n\nresponsive across mobile, desktop and tablet\nheader\nfooter\nmobile and desktop navigation\nparallax content page that can be used for all subsequent pages\nmodal that directs to case studies page after filling out a simple questioner form\ncase study page\n\nI will then take the template and build out the rest of the site myself, make needed CMS integrations, etc.\n\nComplete concept is designed and ready. See Figma link below:\n\nFigma designs\n\nAcceptance Criteria\nFully working components mentioned above and composed into pages needed to validate the template described in the problem statement\nCross device validation (template works well in Chrome, Safari, Android and iOS)\nWorking parallax page that is able to parallax between N number of pages (scalability is very important)\nWorking form...",
         "author": "a-allen",
-        "posted_time": "59 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@a-allen/marketing-site-templ"
+    },
+    {
+        "index": "980",
+        "price": "$4.50",
+        "due_days": "due in 6 days",
+        "title": "Flet for Python not Running",
+        "description": "flet for python isnt running  (permission denied))\n\nAcceptance Criteria\nMake it run without errors\n\nhttps://replit.com/@gcapedro/bots-lead-machine?v=1",
+        "author": "gcapedro",
+        "posted_time": "10 minutes ago",
+        "link": "https://replit.com/bounties/@gcapedro/flet-for-python-not"
     }
 ]
