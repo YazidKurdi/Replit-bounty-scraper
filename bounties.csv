@@ -8114,7 +8114,7 @@ Then add a simple demo of calling that backend API from React.
 
 Acceptance Criteria
 
-Can plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",proales2,21 hours ago,https://replit.com/bounties/@proales2/add-chatgpt-endpoint
+Can plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",proales2,22 hours ago,https://replit.com/bounties/@proales2/add-chatgpt-endpoint
 977,$270.00,due in 3 days,Tool for scaping web data ,Web scraper for b2b startup data,JarrettMartin,15 hours ago,https://replit.com/bounties/@JarrettMartin/tool-for-scaping-web
 978,$58.50,due in 3 days,Simple web scrape to csv,"This one actually is pretty easy, the site doesn’t have any cruft on it and you might just be able to hit the api and paginate through to get everything. The site contains a list of individuals a list of companies, and a list of relationships between individuals and companies they have done business with. There are also simple detail pages on all three entity types - individuals, companies, and deals.
 
@@ -8167,7 +8167,7 @@ Drag a non svelvet dom element onto the canvas and create a new svelvet node wit
 Ability to save a state of the svelvet diagram
 Ability to revert to last save of the svelvet diagram
 Must stick as reasonably close to Svelvet current conventions to increase chance of merge with main project
-Must still assume svelvet being imported...",JakeGibson1,11 hours ago,https://replit.com/bounties/@JakeGibson1/add-drag-and-drop-an
+Must still assume svelvet being imported...",JakeGibson1,12 hours ago,https://replit.com/bounties/@JakeGibson1/add-drag-and-drop-an
 983,$450.00,due in 26 days,AI Music Chatbot with ChatGPT API & LangChain ,"I am looking for a skilled developer to create a Music Chatbot Butler.
 
 Task:
