@@ -8090,14 +8090,14 @@ all above mentioned features are working
 
 Technical Details
 
-If you have questions. Shoot me an email and we can do a quick zoom call. I need someone asap",MikeRiss,10 hours ago,https://replit.com/bounties/@MikeRiss/flutterflow-expert-f
+If you have questions. Shoot me an email and we can do a quick zoom call. I need someone asap",MikeRiss,11 hours ago,https://replit.com/bounties/@MikeRiss/flutterflow-expert-f
 974,$45.00,due in 3 days,web scraper that exports to a csv,"Write a scraper for a website
 Acceptance Criteria
 Have a history of scraping websites, have an example project of large/interesting web-scraping jobs
 Technical Details
 Implement in whatever language you want
 
-Link to Project",lorestatesman,8 hours ago,https://replit.com/bounties/@lorestatesman/web-scraper-that-exp
+Link to Project",lorestatesman,9 hours ago,https://replit.com/bounties/@lorestatesman/web-scraper-that-exp
 975,$450.00,due in 3 days,I need an API end point that will detect a face in an image and then crop ,"I need an API endpoint that will be sent an image that will have a persons face in it. It needs to detect the face and then crop the image to 512x512 around that face and then upload the image to upload.io
 
 Acceptance Criteria
@@ -8114,15 +8114,15 @@ Then add a simple demo of calling that backend API from React.
 
 Acceptance Criteria
 
-Can plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",proales2,7 hours ago,https://replit.com/bounties/@proales2/add-chatgpt-endpoint
-977,$270.00,due in 4 days,Tool for scaping web data ,Web scraper for b2b startup data,JarrettMartin,39 minutes ago,https://replit.com/bounties/@JarrettMartin/tool-for-scaping-web
+Can plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",proales2,8 hours ago,https://replit.com/bounties/@proales2/add-chatgpt-endpoint
+977,$270.00,due in 4 days,Tool for scaping web data ,Web scraper for b2b startup data,JarrettMartin,1 hour ago,https://replit.com/bounties/@JarrettMartin/tool-for-scaping-web
 978,$58.50,due in 4 days,Simple web scrape to csv,"This one actually is pretty easy, the site doesn’t have any cruft on it and you might just be able to hit the api and paginate through to get everything. The site contains a list of individuals a list of companies, and a list of relationships between individuals and companies they have done business with. There are also simple detail pages on all three entity types - individuals, companies, and deals.
 
 It’s definitely not LinkedIn; probably <10,000 entities total.
 
 Two known gotchas:
 for maintenance purposes I would prefer you use python, specifically the requests-HTML library and its CSS selector feature, rather than beautifulsoup or lxml. Please note that you read this line in your application.
-the site is serving several database tables that have one to many relationships and I need some sort of sane way of representing this in the spreadsheet. I would like to flatten the tables around the individuals, but then still pull the tables for the companies into a separ...",mkuz,25 minutes ago,https://replit.com/bounties/@mkuz/simple-web-scrape-to
+the site is serving several database tables that have one to many relationships and I need some sort of sane way of representing this in the spreadsheet. I would like to flatten the tables around the individuals, but then still pull the tables for the companies into a separ...",mkuz,47 minutes ago,https://replit.com/bounties/@mkuz/simple-web-scrape-to
 979,"$1,080.00",due in 13 days,Marketing site template build for digital agency,"I am in the process of rebranding my digital agency and rebuilding the company website along the way. I am looking for someone to build a custom website template using next.js that will contain the following:
 
 responsive across mobile, desktop and tablet
@@ -8143,4 +8143,4 @@ Acceptance Criteria
 Fully working components mentioned above and composed into pages needed to validate the template described in the problem statement
 Cross device validation (template works well in Chrome, Safari, Android and iOS)
 Working parallax page that is able to parallax between N number of pages (scalability is very important)
-Working form...",a-allen,1 minute ago,https://replit.com/bounties/@a-allen/marketing-site-templ
+Working form...",a-allen,23 minutes ago,https://replit.com/bounties/@a-allen/marketing-site-templ
