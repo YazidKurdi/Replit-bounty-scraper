@@ -9786,7 +9786,7 @@
         "title": "Simple web scrape to csv",
         "description": "This one actually is pretty easy, the site doesn\u2019t have any cruft on it and you might just be able to hit the api and paginate through to get everything. The site contains a list of individuals a list of companies, and a list of relationships between individuals and companies they have done business with. There are also simple detail pages on all three entity types - individuals, companies, and deals.\n\nIt\u2019s definitely not LinkedIn; probably <10,000 entities total.\n\nTwo known gotchas:\nfor maintenance purposes I would prefer you use python, specifically the requests-HTML library and its CSS selector feature, rather than beautifulsoup or lxml. Please note that you read this line in your application.\nthe site is serving several database tables that have one to many relationships and I need some sort of sane way of representing this in the spreadsheet. I would like to flatten the tables around the individuals, but then still pull the tables for the companies into a separ...",
         "author": "mkuz",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@mkuz/simple-web-scrape-to"
     },
     {
@@ -9816,7 +9816,7 @@
         "title": "Build Ory login example with Sveltekit Frontend and Elysia.js Backend",
         "description": "I want to see best practice example of using ory.sh login (managed service they have a free dev tier) with sveltekit as the frontend and elysia.js as the backend.\n\nAcceptance Criteria\nLogin Form with redirect on success\nProtected page example\nGetting data from a protected API route example\nLogout example\nDoes not need to be styled\nWe will open source on our github with credit to creator",
         "author": "JakeGibson1",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@JakeGibson1/build-ory-login-exam"
     },
     {
@@ -9836,7 +9836,7 @@
         "title": "AI Music Chatbot with ChatGPT API & LangChain ",
         "description": "I am looking for a skilled developer to create a Music Chatbot Butler.\n\nTask:\nDevelop a Music Chatbot Butler that can recommend music based on mood or activity, popular music, music decade, music features/instruments, and music recommendations from experts.\nEnsure that the chatbot can reject any other chitchat and only engage in conversations related to music.\nDevelop the code using langchain and chatGPT (new gpt-3.5-turbo model).\nImplement the code in Python/Streamlit or Vercel\nEnsure that the chatbot is aware of the user's default history, which includes a list of the top 10 artists of the user, the last 10 songs the user listened to, and the top 3 genres the user likes. The code should cater to this information and inform the chatbot about the user.\nCreate a unique identity for the chatbot and start the conversation with each user based on what it knows about the user.\nEnable the chatbot to query the internet for new music releases or charting music.\nEnsure that all music recommenda...",
         "author": "ElieHabib",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@ElieHabib/ai-music-chatbot-wit"
     },
     {
@@ -9846,7 +9846,7 @@
         "title": "pinescript indicator",
         "description": "Create a pinescript indicator that creates a line for high and low of day of yesterday on an intraday timeframe. For example if I am on 5 minute chart there should be a line where the high of day was yesterday. There should be no repainting in the strategy\n\nAcceptance Criteria\nI want it to work on all intraday time frames.\nNo repainting.\nI want it to be able to be used for low of day yesterday as well. There should be a user input for high or low of day yesterday.\nIt should work with whatever symbol I have entered on the chart in tradingview.",
         "author": "TradersLaunch",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@TradersLaunch/pinescript-indicator"
     },
     {
