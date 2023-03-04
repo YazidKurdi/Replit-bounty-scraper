@@ -8115,7 +8115,7 @@ Then add a simple demo of calling that backend API from React.
 Acceptance Criteria
 
 Can plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",proales2,21 hours ago,https://replit.com/bounties/@proales2/add-chatgpt-endpoint
-977,$270.00,due in 3 days,Tool for scaping web data ,Web scraper for b2b startup data,JarrettMartin,14 hours ago,https://replit.com/bounties/@JarrettMartin/tool-for-scaping-web
+977,$270.00,due in 3 days,Tool for scaping web data ,Web scraper for b2b startup data,JarrettMartin,15 hours ago,https://replit.com/bounties/@JarrettMartin/tool-for-scaping-web
 978,$58.50,due in 3 days,Simple web scrape to csv,"This one actually is pretty easy, the site doesn’t have any cruft on it and you might just be able to hit the api and paginate through to get everything. The site contains a list of individuals a list of companies, and a list of relationships between individuals and companies they have done business with. There are also simple detail pages on all three entity types - individuals, companies, and deals.
 
 It’s definitely not LinkedIn; probably <10,000 entities total.
@@ -8190,4 +8190,4 @@ It should work with whatever symbol I have entered on the chart in tradingview."
 
 I would like to create StratBot.
 
-StratBot would leverage natural language processing and machine learning algorithms to guide consultants through the process of creating a marketing strategy. The chatbot would start by asking the consultant a series of questions about the client's business goals, target audience, competition, and budget....",AdrianHunter2,2 hours ago,https://replit.com/bounties/@AdrianHunter2/ai-marketing-plan-ge
+StratBot would leverage natural language processing and machine learning algorithms to guide consultants through the process of creating a marketing strategy. The chatbot would start by asking the consultant a series of questions about the client's business goals, target audience, competition, and budget....",AdrianHunter2,3 hours ago,https://replit.com/bounties/@AdrianHunter2/ai-marketing-plan-ge
