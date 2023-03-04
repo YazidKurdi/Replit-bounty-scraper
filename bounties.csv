@@ -8143,7 +8143,7 @@ Acceptance Criteria
 Fully working components mentioned above and composed into pages needed to validate the template described in the problem statement
 Cross device validation (template works well in Chrome, Safari, Android and iOS)
 Working parallax page that is able to parallax between N number of pages (scalability is very important)
-Working form...",a-allen,3 hours ago,https://replit.com/bounties/@a-allen/marketing-site-templ
+Working form...",a-allen,4 hours ago,https://replit.com/bounties/@a-allen/marketing-site-templ
 980,$4.50,due in 6 days,Flet for Python not Running,"flet for python isnt running  (permission denied))
 
 Acceptance Criteria
@@ -8158,7 +8158,7 @@ Protected page example
 Getting data from a protected API route example
 Logout example
 Does not need to be styled
-We will open source on our github with credit to creator",JakeGibson1,51 minutes ago,https://replit.com/bounties/@JakeGibson1/build-ory-login-exam
+We will open source on our github with credit to creator",JakeGibson1,1 hour ago,https://replit.com/bounties/@JakeGibson1/build-ory-login-exam
 982,$477.00,due in 4 days,Add Drag and Drop and Save functionality to Svelvet.io,"1) We need to be able to drag an element from outside the Svelvet canvas and drop it on it to the canvas to create a new svelvet node with custom metadata based on which element was dropped.  example from another library https://reactflow.dev/docs/examples/interaction/drag-and-drop/
 
 2) Currently svelvet uses a svelte store to track the node and edges objects. We need a concept of a save button. So svelvet can use it's current store as normal, but we will need a second tracking changes since the last ""save"" and on cancel/close revert to the state of last saved changes.
@@ -8167,4 +8167,4 @@ Drag a non svelvet dom element onto the canvas and create a new svelvet node wit
 Ability to save a state of the svelvet diagram
 Ability to revert to last save of the svelvet diagram
 Must stick as reasonably close to Svelvet current conventions to increase chance of merge with main project
-Must still assume svelvet being imported...",JakeGibson1,32 minutes ago,https://replit.com/bounties/@JakeGibson1/add-drag-and-drop-an
+Must still assume svelvet being imported...",JakeGibson1,42 minutes ago,https://replit.com/bounties/@JakeGibson1/add-drag-and-drop-an
