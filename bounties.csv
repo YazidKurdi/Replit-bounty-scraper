@@ -8097,7 +8097,7 @@ Have a history of scraping websites, have an example project of large/interestin
 Technical Details
 Implement in whatever language you want
 
-Link to Project",lorestatesman,16 hours ago,https://replit.com/bounties/@lorestatesman/web-scraper-that-exp
+Link to Project",lorestatesman,17 hours ago,https://replit.com/bounties/@lorestatesman/web-scraper-that-exp
 975,$450.00,due in 2 days,I need an API end point that will detect a face in an image and then crop ,"I need an API endpoint that will be sent an image that will have a persons face in it. It needs to detect the face and then crop the image to 512x512 around that face and then upload the image to upload.io
 
 Acceptance Criteria
@@ -8114,7 +8114,7 @@ Then add a simple demo of calling that backend API from React.
 
 Acceptance Criteria
 
-Can plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",proales2,15 hours ago,https://replit.com/bounties/@proales2/add-chatgpt-endpoint
+Can plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",proales2,16 hours ago,https://replit.com/bounties/@proales2/add-chatgpt-endpoint
 977,$270.00,due in 3 days,Tool for scaping web data ,Web scraper for b2b startup data,JarrettMartin,9 hours ago,https://replit.com/bounties/@JarrettMartin/tool-for-scaping-web
 978,$58.50,due in 3 days,Simple web scrape to csv,"This one actually is pretty easy, the site doesn’t have any cruft on it and you might just be able to hit the api and paginate through to get everything. The site contains a list of individuals a list of companies, and a list of relationships between individuals and companies they have done business with. There are also simple detail pages on all three entity types - individuals, companies, and deals.
 
@@ -8122,7 +8122,7 @@ It’s definitely not LinkedIn; probably <10,000 entities total.
 
 Two known gotchas:
 for maintenance purposes I would prefer you use python, specifically the requests-HTML library and its CSS selector feature, rather than beautifulsoup or lxml. Please note that you read this line in your application.
-the site is serving several database tables that have one to many relationships and I need some sort of sane way of representing this in the spreadsheet. I would like to flatten the tables around the individuals, but then still pull the tables for the companies into a separ...",mkuz,8 hours ago,https://replit.com/bounties/@mkuz/simple-web-scrape-to
+the site is serving several database tables that have one to many relationships and I need some sort of sane way of representing this in the spreadsheet. I would like to flatten the tables around the individuals, but then still pull the tables for the companies into a separ...",mkuz,9 hours ago,https://replit.com/bounties/@mkuz/simple-web-scrape-to
 979,"$1,080.00",due in 12 days,Marketing site template build for digital agency,"I am in the process of rebranding my digital agency and rebuilding the company website along the way. I am looking for someone to build a custom website template using next.js that will contain the following:
 
 responsive across mobile, desktop and tablet
@@ -8143,13 +8143,13 @@ Acceptance Criteria
 Fully working components mentioned above and composed into pages needed to validate the template described in the problem statement
 Cross device validation (template works well in Chrome, Safari, Android and iOS)
 Working parallax page that is able to parallax between N number of pages (scalability is very important)
-Working form...",a-allen,8 hours ago,https://replit.com/bounties/@a-allen/marketing-site-templ
+Working form...",a-allen,9 hours ago,https://replit.com/bounties/@a-allen/marketing-site-templ
 980,$4.50,due in 5 days,Flet for Python not Running,"flet for python isnt running  (permission denied))
 
 Acceptance Criteria
 Make it run without errors
 
-https://replit.com/@gcapedro/bots-lead-machine?v=1",gcapedro,7 hours ago,https://replit.com/bounties/@gcapedro/flet-for-python-not
+https://replit.com/@gcapedro/bots-lead-machine?v=1",gcapedro,8 hours ago,https://replit.com/bounties/@gcapedro/flet-for-python-not
 981,$315.00,due in 3 days,Build Ory login example with Sveltekit Frontend and Elysia.js Backend,"I want to see best practice example of using ory.sh login (managed service they have a free dev tier) with sveltekit as the frontend and elysia.js as the backend.
 
 Acceptance Criteria
@@ -8167,7 +8167,7 @@ Drag a non svelvet dom element onto the canvas and create a new svelvet node wit
 Ability to save a state of the svelvet diagram
 Ability to revert to last save of the svelvet diagram
 Must stick as reasonably close to Svelvet current conventions to increase chance of merge with main project
-Must still assume svelvet being imported...",JakeGibson1,5 hours ago,https://replit.com/bounties/@JakeGibson1/add-drag-and-drop-an
+Must still assume svelvet being imported...",JakeGibson1,6 hours ago,https://replit.com/bounties/@JakeGibson1/add-drag-and-drop-an
 983,$450.00,due in 26 days,AI Music Chatbot with ChatGPT API & LangChain ,"I am looking for a skilled developer to create a Music Chatbot Butler.
 
 Task:
@@ -8178,4 +8178,4 @@ Implement the code in Python/Streamlit or Vercel
 Ensure that the chatbot is aware of the user's default history, which includes a list of the top 10 artists of the user, the last 10 songs the user listened to, and the top 3 genres the user likes. The code should cater to this information and inform the chatbot about the user.
 Create a unique identity for the chatbot and start the conversation with each user based on what it knows about the user.
 Enable the chatbot to query the internet for new music releases or charting music.
-Ensure that all music recommenda...",ElieHabib,3 hours ago,https://replit.com/bounties/@ElieHabib/ai-music-chatbot-wit
+Ensure that all music recommenda...",ElieHabib,4 hours ago,https://replit.com/bounties/@ElieHabib/ai-music-chatbot-wit
