@@ -8090,14 +8090,14 @@ all above mentioned features are working
 
 Technical Details
 
-If you have questions. Shoot me an email and we can do a quick zoom call. I need someone asap",MikeRiss,13 hours ago,https://replit.com/bounties/@MikeRiss/flutterflow-expert-f
+If you have questions. Shoot me an email and we can do a quick zoom call. I need someone asap",MikeRiss,14 hours ago,https://replit.com/bounties/@MikeRiss/flutterflow-expert-f
 974,$45.00,due in 3 days,web scraper that exports to a csv,"Write a scraper for a website
 Acceptance Criteria
 Have a history of scraping websites, have an example project of large/interesting web-scraping jobs
 Technical Details
 Implement in whatever language you want
 
-Link to Project",lorestatesman,11 hours ago,https://replit.com/bounties/@lorestatesman/web-scraper-that-exp
+Link to Project",lorestatesman,12 hours ago,https://replit.com/bounties/@lorestatesman/web-scraper-that-exp
 975,$450.00,due in 3 days,I need an API end point that will detect a face in an image and then crop ,"I need an API endpoint that will be sent an image that will have a persons face in it. It needs to detect the face and then crop the image to 512x512 around that face and then upload the image to upload.io
 
 Acceptance Criteria
@@ -8114,7 +8114,7 @@ Then add a simple demo of calling that backend API from React.
 
 Acceptance Criteria
 
-Can plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",proales2,10 hours ago,https://replit.com/bounties/@proales2/add-chatgpt-endpoint
+Can plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",proales2,11 hours ago,https://replit.com/bounties/@proales2/add-chatgpt-endpoint
 977,$270.00,due in 4 days,Tool for scaping web data ,Web scraper for b2b startup data,JarrettMartin,4 hours ago,https://replit.com/bounties/@JarrettMartin/tool-for-scaping-web
 978,$58.50,due in 4 days,Simple web scrape to csv,"This one actually is pretty easy, the site doesn’t have any cruft on it and you might just be able to hit the api and paginate through to get everything. The site contains a list of individuals a list of companies, and a list of relationships between individuals and companies they have done business with. There are also simple detail pages on all three entity types - individuals, companies, and deals.
 
@@ -8158,7 +8158,7 @@ Protected page example
 Getting data from a protected API route example
 Logout example
 Does not need to be styled
-We will open source on our github with credit to creator",JakeGibson1,39 minutes ago,https://replit.com/bounties/@JakeGibson1/build-ory-login-exam
+We will open source on our github with credit to creator",JakeGibson1,51 minutes ago,https://replit.com/bounties/@JakeGibson1/build-ory-login-exam
 982,$477.00,due in 4 days,Add Drag and Drop and Save functionality to Svelvet.io,"1) We need to be able to drag an element from outside the Svelvet canvas and drop it on it to the canvas to create a new svelvet node with custom metadata based on which element was dropped.  example from another library https://reactflow.dev/docs/examples/interaction/drag-and-drop/
 
 2) Currently svelvet uses a svelte store to track the node and edges objects. We need a concept of a save button. So svelvet can use it's current store as normal, but we will need a second tracking changes since the last ""save"" and on cancel/close revert to the state of last saved changes.
@@ -8167,4 +8167,4 @@ Drag a non svelvet dom element onto the canvas and create a new svelvet node wit
 Ability to save a state of the svelvet diagram
 Ability to revert to last save of the svelvet diagram
 Must stick as reasonably close to Svelvet current conventions to increase chance of merge with main project
-Must still assume svelvet being imported...",JakeGibson1,20 minutes ago,https://replit.com/bounties/@JakeGibson1/add-drag-and-drop-an
+Must still assume svelvet being imported...",JakeGibson1,32 minutes ago,https://replit.com/bounties/@JakeGibson1/add-drag-and-drop-an
