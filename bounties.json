@@ -9756,7 +9756,7 @@
         "title": "I need an API end point that will detect a face in an image and then crop ",
         "description": "I need an API endpoint that will be sent an image that will have a persons face in it. It needs to detect the face and then crop the image to 512x512 around that face and then upload the image to upload.io\n\nAcceptance Criteria\nideally the face detection and cropping is using an opensource model\n\nTechnical Details\ncan be in node.js or python",
         "author": "ChrisCollins7",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@ChrisCollins7/i-need-an-api-end-po"
     },
     {
@@ -9776,7 +9776,7 @@
         "title": "Tool for scaping web data ",
         "description": "Web scraper for b2b startup data",
         "author": "JarrettMartin",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@JarrettMartin/tool-for-scaping-web"
     },
     {
@@ -9846,7 +9846,7 @@
         "title": "pinescript indicator",
         "description": "Create a pinescript indicator that creates a line for high and low of day of yesterday on an intraday timeframe. For example if I am on 5 minute chart there should be a line where the high of day was yesterday. There should be no repainting in the strategy\n\nAcceptance Criteria\nI want it to work on all intraday time frames.\nNo repainting.\nI want it to be able to be used for low of day yesterday as well. There should be a user input for high or low of day yesterday.\nIt should work with whatever symbol I have entered on the chart in tradingview.",
         "author": "TradersLaunch",
-        "posted_time": "3 minutes ago",
+        "posted_time": "19 minutes ago",
         "link": "https://replit.com/bounties/@TradersLaunch/pinescript-indicator"
     }
 ]
