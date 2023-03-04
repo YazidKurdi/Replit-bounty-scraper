@@ -9776,7 +9776,17 @@
         "title": "Tool for scaping web data ",
         "description": "Web scraper for b2b startup data",
         "author": "JarrettMartin",
-        "posted_time": "13 minutes ago",
+        "posted_time": "21 minutes ago",
         "link": "https://replit.com/bounties/@JarrettMartin/tool-for-scaping-web"
+    },
+    {
+        "index": "978",
+        "price": "$58.50",
+        "due_days": "due in 4 days",
+        "title": "Simple web scrape to csv",
+        "description": "This one actually is pretty easy, the site doesn\u2019t have any cruft on it and you might just be able to hit the api and paginate through to get everything. The site contains a list of individuals a list of companies, and a list of relationships between individuals and companies they have done business with. There are also simple detail pages on all three entity types - individuals, companies, and deals.\n\nIt\u2019s definitely not LinkedIn; probably <10,000 entities total.\n\nTwo known gotchas:\nfor maintenance purposes I would prefer you use python, specifically the requests-HTML library and its CSS selector feature, rather than beautifulsoup or lxml. Please note that you read this line in your application.\nthe site is serving several database tables that have one to many relationships and I need some sort of sane way of representing this in the spreadsheet. I would like to flatten the tables around the individuals, but then still pull the tables for the companies into a separ...",
+        "author": "mkuz",
+        "posted_time": "7 minutes ago",
+        "link": "https://replit.com/bounties/@mkuz/simple-web-scrape-to"
     }
 ]
