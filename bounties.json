@@ -9826,7 +9826,7 @@
         "title": "Add Drag and Drop and Save functionality to Svelvet.io",
         "description": "1) We need to be able to drag an element from outside the Svelvet canvas and drop it on it to the canvas to create a new svelvet node with custom metadata based on which element was dropped.  example from another library https://reactflow.dev/docs/examples/interaction/drag-and-drop/\n\n2) Currently svelvet uses a svelte store to track the node and edges objects. We need a concept of a save button. So svelvet can use it's current store as normal, but we will need a second tracking changes since the last \"save\" and on cancel/close revert to the state of last saved changes.\nAcceptance Criteria\nDrag a non svelvet dom element onto the canvas and create a new svelvet node with custom properties based on which element was dropped\nAbility to save a state of the svelvet diagram\nAbility to revert to last save of the svelvet diagram\nMust stick as reasonably close to Svelvet current conventions to increase chance of merge with main project\nMust still assume svelvet being imported...",
         "author": "JakeGibson1",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@JakeGibson1/add-drag-and-drop-an"
     },
     {
@@ -9866,7 +9866,7 @@
         "title": "Wrap You.com in an api (JS or Python)",
         "description": "You.com does not have an api\nI want to be able to call the https://you.com/search?q= route & receive a response - like an api\nI'm fine with loading cookies from a browser into program manually as part of the setup\n\nAcceptance Criteria\n\nTechnical Details\nLike ChatGPT Wrapper: https://github.com/mmabrouk/chatgpt-wrapper, but for You.com\n\nLink to Project\n\nWill pay additional (more than the cycles here) for a good solution",
         "author": "AskProgrammers",
-        "posted_time": "8 minutes ago",
+        "posted_time": "17 minutes ago",
         "link": "https://replit.com/bounties/@AskProgrammers/wrap-youcom-in-an-ap"
     },
     {
@@ -9876,7 +9876,7 @@
         "title": "Backend for AI Flashcard app",
         "description": "I am building a Python FastAPI backend and need the following:\n\nA static front-page that supports login (can use a basic template like Bootstrap)\nOAuth login\nAbility for users to register a Readwise API key\nAbility for user to generate multiple API tokens for this app\nPeriodic fetching of new highlights (I have this partially implemented)\nQuerying GPT to generate flash cards (I have this partially implemented)\nStoring their highlights and flashcards in a database, with timestamps (so we can fetch just the updates).\nA REST API end point to fetch these (with an access token)\n\nAcceptance Criteria\nThe above functionalities added\nMy signoff (I want the opportunity to do code reviews)\n\nIdeally there would be intermediate deliverables, such as the login functionality, etc.",
         "author": "alexbowe",
-        "posted_time": "6 minutes ago",
+        "posted_time": "15 minutes ago",
         "link": "https://replit.com/bounties/@alexbowe/backend-for-ai-flash"
     }
 ]
