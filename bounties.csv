@@ -8168,3 +8168,14 @@ Ability to save a state of the svelvet diagram
 Ability to revert to last save of the svelvet diagram
 Must stick as reasonably close to Svelvet current conventions to increase chance of merge with main project
 Must still assume svelvet being imported...",JakeGibson1,2 hours ago,https://replit.com/bounties/@JakeGibson1/add-drag-and-drop-an
+983,$450.00,due in 27 days,AI Music Chatbot with ChatGPT API & LangChain ,"I am looking for a skilled developer to create a Music Chatbot Butler.
+
+Task:
+Develop a Music Chatbot Butler that can recommend music based on mood or activity, popular music, music decade, music features/instruments, and music recommendations from experts.
+Ensure that the chatbot can reject any other chitchat and only engage in conversations related to music.
+Develop the code using langchain and chatGPT (new gpt-3.5-turbo model).
+Implement the code in Python/Streamlit or Vercel
+Ensure that the chatbot is aware of the user's default history, which includes a list of the top 10 artists of the user, the last 10 songs the user listened to, and the top 3 genres the user likes. The code should cater to this information and inform the chatbot about the user.
+Create a unique identity for the chatbot and start the conversation with each user based on what it knows about the user.
+Enable the chatbot to query the internet for new music releases or charting music.
+Ensure that all music recommenda...",ElieHabib,4 minutes ago,https://replit.com/bounties/@ElieHabib/ai-music-chatbot-wit
