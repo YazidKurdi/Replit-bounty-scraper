@@ -8026,7 +8026,7 @@ For example, we should have a conversations class where all the messages between
 In short, you should think about our app as a UI for Twilio accounts’ phone number that will allow it to read conversations and send messages.
 
 The job
-Define clearly the structure that this API using FastAPI will have. Include schemas, classes and subclasses that will be needed, the endpoints, the methods for e...",mattpatagon,23 hours ago,https://replit.com/bounties/@mattpatagon/plan-in-detail-the-s
+Define clearly the structure that this API using FastAPI will have. Include schemas, classes and subclasses that will be needed, the endpoints, the methods for e...",mattpatagon,24 hours ago,https://replit.com/bounties/@mattpatagon/plan-in-detail-the-s
 969,$180.00,due in 3 days,Website Scraper,"Build a python script to scrape the website below:
 https://weedmaps.com/
 
@@ -8047,7 +8047,7 @@ headers = {
 
 The scraping can be triggered by the user on a ad hoc basis locally on their terminal/machine.
 
-Data scraped can be saved in AirTable or save locally in CSV format.",AshwinJey,22 hours ago,https://replit.com/bounties/@AshwinJey/website-scraper
+Data scraped can be saved in AirTable or save locally in CSV format.",AshwinJey,24 hours ago,https://replit.com/bounties/@AshwinJey/website-scraper
 970,$7.20,due in 3 months,Flask Client to Employee Organizer,"You will be working with me to create a simple flask website that organizes clients and employees in a database.
 
 The database cannot be ReplitDB. The finished project will not be hosted in Replit
@@ -8055,13 +8055,13 @@ The database cannot be ReplitDB. The finished project will not be hosted in Repl
 You must have experience coding in Flask.
 You don't need CSS experience although it would be nice.
 
-This is not a large task, it should only take an hour or 2 depending on how good you are with python and HTML.",dgow,10 hours ago,https://replit.com/bounties/@dgow/flask-client-to-empl
+This is not a large task, it should only take an hour or 2 depending on how good you are with python and HTML.",dgow,11 hours ago,https://replit.com/bounties/@dgow/flask-client-to-empl
 971,$4.50,due in 3 days,Fix Search Function and add play button on Game Website,"Fix the search function on the game website and make it a functioning search feature. Also add a play button below each image on the game cards on the main hommepage.
 Acceptance Criteria
 Fork the repl https://replit.com/@Retrospicer/Eggy-Car-Games and send a private link to a working copy of the fixed one to be accepted.
 
 Link to Project
-https://replit.com/@Retrospicer/Eggy-Car-Games",Retrospicer,9 hours ago,https://replit.com/bounties/@Retrospicer/fix-search-function
+https://replit.com/@Retrospicer/Eggy-Car-Games",Retrospicer,10 hours ago,https://replit.com/bounties/@Retrospicer/fix-search-function
 972,$157.50,due in 5 days,Charging for OpenAI Token Usage,"Implement a way for Model Creator(People Fine-tuning/Embedding GPT Models) to track and charge their users for the OpenAI Tokens they are using.
 
 Acceptance Criteria
@@ -8075,7 +8075,7 @@ Backend can be either in Nextjs API Folder or Expressjs
 Payment Processor: Stripe
 
 Future Work may also be given like:
-Buildi...",HamsaOmar,8 hours ago,https://replit.com/bounties/@HamsaOmar/charging-for-openai
+Buildi...",HamsaOmar,9 hours ago,https://replit.com/bounties/@HamsaOmar/charging-for-openai
 973,$45.00,closed,Flutterflow Expert for finishing up a feature,"I am working on the fitness tracking app on flutterflow. I am currently running out of time and need help to finish it off.
 Problem Description
 A button ""Start a Workout"" is pressed. A bottom up sheet widget appears. This widget needs to be designed with the following features
@@ -8090,21 +8090,21 @@ all above mentioned features are working
 
 Technical Details
 
-If you have questions. Shoot me an email and we can do a quick zoom call. I need someone asap",MikeRiss,7 hours ago,https://replit.com/bounties/@MikeRiss/flutterflow-expert-f
+If you have questions. Shoot me an email and we can do a quick zoom call. I need someone asap",MikeRiss,8 hours ago,https://replit.com/bounties/@MikeRiss/flutterflow-expert-f
 974,$45.00,due in 3 days,web scraper that exports to a csv,"Write a scraper for a website
 Acceptance Criteria
 Have a history of scraping websites, have an example project of large/interesting web-scraping jobs
 Technical Details
 Implement in whatever language you want
 
-Link to Project",lorestatesman,5 hours ago,https://replit.com/bounties/@lorestatesman/web-scraper-that-exp
+Link to Project",lorestatesman,6 hours ago,https://replit.com/bounties/@lorestatesman/web-scraper-that-exp
 975,$450.00,due in 3 days,I need an API end point that will detect a face in an image and then crop ,"I need an API endpoint that will be sent an image that will have a persons face in it. It needs to detect the face and then crop the image to 512x512 around that face and then upload the image to upload.io
 
 Acceptance Criteria
 ideally the face detection and cropping is using an opensource model
 
 Technical Details
-can be in node.js or python",ChrisCollins7,4 hours ago,https://replit.com/bounties/@ChrisCollins7/i-need-an-api-end-po
+can be in node.js or python",ChrisCollins7,6 hours ago,https://replit.com/bounties/@ChrisCollins7/i-need-an-api-end-po
 976,$27.00,due in 3 days,Add ChatGPT endpoint to existing (very simple) Flask server and call with React.,"I have a very simple Flask/React setup here:
 https://replit.com/@proales2/react-flask
 
@@ -8114,4 +8114,4 @@ Then add a simple demo of calling that backend API from React.
 
 Acceptance Criteria
 
-Can plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",proales2,4 hours ago,https://replit.com/bounties/@proales2/add-chatgpt-endpoint
+Can plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",proales2,5 hours ago,https://replit.com/bounties/@proales2/add-chatgpt-endpoint
