@@ -9836,7 +9836,7 @@
         "title": "AI Music Chatbot with ChatGPT API & LangChain ",
         "description": "I am looking for a skilled developer to create a Music Chatbot Butler.\n\nTask:\nDevelop a Music Chatbot Butler that can recommend music based on mood or activity, popular music, music decade, music features/instruments, and music recommendations from experts.\nEnsure that the chatbot can reject any other chitchat and only engage in conversations related to music.\nDevelop the code using langchain and chatGPT (new gpt-3.5-turbo model).\nImplement the code in Python/Streamlit or Vercel\nEnsure that the chatbot is aware of the user's default history, which includes a list of the top 10 artists of the user, the last 10 songs the user listened to, and the top 3 genres the user likes. The code should cater to this information and inform the chatbot about the user.\nCreate a unique identity for the chatbot and start the conversation with each user based on what it knows about the user.\nEnable the chatbot to query the internet for new music releases or charting music.\nEnsure that all music recommenda...",
         "author": "ElieHabib",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@ElieHabib/ai-music-chatbot-wit"
     },
     {
@@ -9846,7 +9846,7 @@
         "title": "pinescript indicator",
         "description": "Create a pinescript indicator that creates a line for high and low of day of yesterday on an intraday timeframe. For example if I am on 5 minute chart there should be a line where the high of day was yesterday. There should be no repainting in the strategy\n\nAcceptance Criteria\nI want it to work on all intraday time frames.\nNo repainting.\nI want it to be able to be used for low of day yesterday as well. There should be a user input for high or low of day yesterday.\nIt should work with whatever symbol I have entered on the chart in tradingview.",
         "author": "TradersLaunch",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@TradersLaunch/pinescript-indicator"
     },
     {
