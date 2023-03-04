@@ -8055,13 +8055,13 @@ The database cannot be ReplitDB. The finished project will not be hosted in Repl
 You must have experience coding in Flask.
 You don't need CSS experience although it would be nice.
 
-This is not a large task, it should only take an hour or 2 depending on how good you are with python and HTML.",dgow,12 hours ago,https://replit.com/bounties/@dgow/flask-client-to-empl
+This is not a large task, it should only take an hour or 2 depending on how good you are with python and HTML.",dgow,13 hours ago,https://replit.com/bounties/@dgow/flask-client-to-empl
 971,$4.50,due in 3 days,Fix Search Function and add play button on Game Website,"Fix the search function on the game website and make it a functioning search feature. Also add a play button below each image on the game cards on the main hommepage.
 Acceptance Criteria
 Fork the repl https://replit.com/@Retrospicer/Eggy-Car-Games and send a private link to a working copy of the fixed one to be accepted.
 
 Link to Project
-https://replit.com/@Retrospicer/Eggy-Car-Games",Retrospicer,11 hours ago,https://replit.com/bounties/@Retrospicer/fix-search-function
+https://replit.com/@Retrospicer/Eggy-Car-Games",Retrospicer,12 hours ago,https://replit.com/bounties/@Retrospicer/fix-search-function
 972,$157.50,due in 5 days,Charging for OpenAI Token Usage,"Implement a way for Model Creator(People Fine-tuning/Embedding GPT Models) to track and charge their users for the OpenAI Tokens they are using.
 
 Acceptance Criteria
@@ -8115,4 +8115,4 @@ Then add a simple demo of calling that backend API from React.
 Acceptance Criteria
 
 Can plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",proales2,7 hours ago,https://replit.com/bounties/@proales2/add-chatgpt-endpoint
-977,$270.00,due in 4 days,Tool for scaping web data ,Web scraper for b2b startup data,JarrettMartin,6 minutes ago,https://replit.com/bounties/@JarrettMartin/tool-for-scaping-web
+977,$270.00,due in 4 days,Tool for scaping web data ,Web scraper for b2b startup data,JarrettMartin,13 minutes ago,https://replit.com/bounties/@JarrettMartin/tool-for-scaping-web
