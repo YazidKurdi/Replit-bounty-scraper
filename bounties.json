@@ -9766,7 +9766,7 @@
         "title": "Add ChatGPT endpoint to existing (very simple) Flask server and call with React.",
         "description": "I have a very simple Flask/React setup here:\nhttps://replit.com/@proales2/react-flask\n\nI want someone to add a ChatGPT backend endpoint to that Flask server probably based off: https://replit.com/@replit/OpenAI-Python-GPT-35-Turbo?v=1#main.py\n\nThen add a simple demo of calling that backend API from React.\n\nAcceptance Criteria\n\nCan plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",
         "author": "proales2",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@proales2/add-chatgpt-endpoint"
     },
     {
@@ -9826,7 +9826,7 @@
         "title": "Add Drag and Drop and Save functionality to Svelvet.io",
         "description": "1) We need to be able to drag an element from outside the Svelvet canvas and drop it on it to the canvas to create a new svelvet node with custom metadata based on which element was dropped.  example from another library https://reactflow.dev/docs/examples/interaction/drag-and-drop/\n\n2) Currently svelvet uses a svelte store to track the node and edges objects. We need a concept of a save button. So svelvet can use it's current store as normal, but we will need a second tracking changes since the last \"save\" and on cancel/close revert to the state of last saved changes.\nAcceptance Criteria\nDrag a non svelvet dom element onto the canvas and create a new svelvet node with custom properties based on which element was dropped\nAbility to save a state of the svelvet diagram\nAbility to revert to last save of the svelvet diagram\nMust stick as reasonably close to Svelvet current conventions to increase chance of merge with main project\nMust still assume svelvet being imported...",
         "author": "JakeGibson1",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@JakeGibson1/add-drag-and-drop-an"
     },
     {
