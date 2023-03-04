@@ -9742,7 +9742,7 @@
     {
         "index": "974",
         "price": "$45.00",
-        "due_days": "due in 3 days",
+        "due_days": "due in 2 days",
         "title": "web scraper that exports to a csv",
         "description": "Write a scraper for a website\nAcceptance Criteria\nHave a history of scraping websites, have an example project of large/interesting web-scraping jobs\nTechnical Details\nImplement in whatever language you want\n\nLink to Project",
         "author": "lorestatesman",
@@ -9752,17 +9752,17 @@
     {
         "index": "975",
         "price": "$450.00",
-        "due_days": "due in 3 days",
+        "due_days": "due in 2 days",
         "title": "I need an API end point that will detect a face in an image and then crop ",
         "description": "I need an API endpoint that will be sent an image that will have a persons face in it. It needs to detect the face and then crop the image to 512x512 around that face and then upload the image to upload.io\n\nAcceptance Criteria\nideally the face detection and cropping is using an opensource model\n\nTechnical Details\ncan be in node.js or python",
         "author": "ChrisCollins7",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@ChrisCollins7/i-need-an-api-end-po"
     },
     {
         "index": "976",
         "price": "$27.00",
-        "due_days": "due in 3 days",
+        "due_days": "due in 2 days",
         "title": "Add ChatGPT endpoint to existing (very simple) Flask server and call with React.",
         "description": "I have a very simple Flask/React setup here:\nhttps://replit.com/@proales2/react-flask\n\nI want someone to add a ChatGPT backend endpoint to that Flask server probably based off: https://replit.com/@replit/OpenAI-Python-GPT-35-Turbo?v=1#main.py\n\nThen add a simple demo of calling that backend API from React.\n\nAcceptance Criteria\n\nCan plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",
         "author": "proales2",
@@ -9772,17 +9772,17 @@
     {
         "index": "977",
         "price": "$270.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Tool for scaping web data ",
         "description": "Web scraper for b2b startup data",
         "author": "JarrettMartin",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@JarrettMartin/tool-for-scaping-web"
     },
     {
         "index": "978",
         "price": "$58.50",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Simple web scrape to csv",
         "description": "This one actually is pretty easy, the site doesn\u2019t have any cruft on it and you might just be able to hit the api and paginate through to get everything. The site contains a list of individuals a list of companies, and a list of relationships between individuals and companies they have done business with. There are also simple detail pages on all three entity types - individuals, companies, and deals.\n\nIt\u2019s definitely not LinkedIn; probably <10,000 entities total.\n\nTwo known gotchas:\nfor maintenance purposes I would prefer you use python, specifically the requests-HTML library and its CSS selector feature, rather than beautifulsoup or lxml. Please note that you read this line in your application.\nthe site is serving several database tables that have one to many relationships and I need some sort of sane way of representing this in the spreadsheet. I would like to flatten the tables around the individuals, but then still pull the tables for the companies into a separ...",
         "author": "mkuz",
@@ -9792,7 +9792,7 @@
     {
         "index": "979",
         "price": "$1,080.00",
-        "due_days": "due in 13 days",
+        "due_days": "due in 12 days",
         "title": "Marketing site template build for digital agency",
         "description": "I am in the process of rebranding my digital agency and rebuilding the company website along the way. I am looking for someone to build a custom website template using next.js that will contain the following:\n\nresponsive across mobile, desktop and tablet\nheader\nfooter\nmobile and desktop navigation\nparallax content page that can be used for all subsequent pages\nmodal that directs to case studies page after filling out a simple questioner form\ncase study page\n\nI will then take the template and build out the rest of the site myself, make needed CMS integrations, etc.\n\nComplete concept is designed and ready. See Figma link below:\n\nFigma designs\n\nAcceptance Criteria\nFully working components mentioned above and composed into pages needed to validate the template described in the problem statement\nCross device validation (template works well in Chrome, Safari, Android and iOS)\nWorking parallax page that is able to parallax between N number of pages (scalability is very important)\nWorking form...",
         "author": "a-allen",
@@ -9802,7 +9802,7 @@
     {
         "index": "980",
         "price": "$4.50",
-        "due_days": "due in 6 days",
+        "due_days": "due in 5 days",
         "title": "Flet for Python not Running",
         "description": "flet for python isnt running  (permission denied))\n\nAcceptance Criteria\nMake it run without errors\n\nhttps://replit.com/@gcapedro/bots-lead-machine?v=1",
         "author": "gcapedro",
@@ -9812,17 +9812,17 @@
     {
         "index": "981",
         "price": "$315.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Build Ory login example with Sveltekit Frontend and Elysia.js Backend",
         "description": "I want to see best practice example of using ory.sh login (managed service they have a free dev tier) with sveltekit as the frontend and elysia.js as the backend.\n\nAcceptance Criteria\nLogin Form with redirect on success\nProtected page example\nGetting data from a protected API route example\nLogout example\nDoes not need to be styled\nWe will open source on our github with credit to creator",
         "author": "JakeGibson1",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@JakeGibson1/build-ory-login-exam"
     },
     {
         "index": "982",
         "price": "$477.00",
-        "due_days": "due in 4 days",
+        "due_days": "due in 3 days",
         "title": "Add Drag and Drop and Save functionality to Svelvet.io",
         "description": "1) We need to be able to drag an element from outside the Svelvet canvas and drop it on it to the canvas to create a new svelvet node with custom metadata based on which element was dropped.  example from another library https://reactflow.dev/docs/examples/interaction/drag-and-drop/\n\n2) Currently svelvet uses a svelte store to track the node and edges objects. We need a concept of a save button. So svelvet can use it's current store as normal, but we will need a second tracking changes since the last \"save\" and on cancel/close revert to the state of last saved changes.\nAcceptance Criteria\nDrag a non svelvet dom element onto the canvas and create a new svelvet node with custom properties based on which element was dropped\nAbility to save a state of the svelvet diagram\nAbility to revert to last save of the svelvet diagram\nMust stick as reasonably close to Svelvet current conventions to increase chance of merge with main project\nMust still assume svelvet being imported...",
         "author": "JakeGibson1",
@@ -9832,7 +9832,7 @@
     {
         "index": "983",
         "price": "$450.00",
-        "due_days": "due in 27 days",
+        "due_days": "due in 26 days",
         "title": "AI Music Chatbot with ChatGPT API & LangChain ",
         "description": "I am looking for a skilled developer to create a Music Chatbot Butler.\n\nTask:\nDevelop a Music Chatbot Butler that can recommend music based on mood or activity, popular music, music decade, music features/instruments, and music recommendations from experts.\nEnsure that the chatbot can reject any other chitchat and only engage in conversations related to music.\nDevelop the code using langchain and chatGPT (new gpt-3.5-turbo model).\nImplement the code in Python/Streamlit or Vercel\nEnsure that the chatbot is aware of the user's default history, which includes a list of the top 10 artists of the user, the last 10 songs the user listened to, and the top 3 genres the user likes. The code should cater to this information and inform the chatbot about the user.\nCreate a unique identity for the chatbot and start the conversation with each user based on what it knows about the user.\nEnable the chatbot to query the internet for new music releases or charting music.\nEnsure that all music recommenda...",
         "author": "ElieHabib",
