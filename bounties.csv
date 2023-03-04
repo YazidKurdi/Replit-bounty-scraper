@@ -8149,7 +8149,7 @@ Working form...",a-allen,11 hours ago,https://replit.com/bounties/@a-allen/marke
 Acceptance Criteria
 Make it run without errors
 
-https://replit.com/@gcapedro/bots-lead-machine?v=1",gcapedro,9 hours ago,https://replit.com/bounties/@gcapedro/flet-for-python-not
+https://replit.com/@gcapedro/bots-lead-machine?v=1",gcapedro,10 hours ago,https://replit.com/bounties/@gcapedro/flet-for-python-not
 981,$315.00,due in 3 days,Build Ory login example with Sveltekit Frontend and Elysia.js Backend,"I want to see best practice example of using ory.sh login (managed service they have a free dev tier) with sveltekit as the frontend and elysia.js as the backend.
 
 Acceptance Criteria
@@ -8179,3 +8179,10 @@ Ensure that the chatbot is aware of the user's default history, which includes a
 Create a unique identity for the chatbot and start the conversation with each user based on what it knows about the user.
 Enable the chatbot to query the internet for new music releases or charting music.
 Ensure that all music recommenda...",ElieHabib,6 hours ago,https://replit.com/bounties/@ElieHabib/ai-music-chatbot-wit
+984,$18.00,due in 3 days,pinescript indicator,"Create a pinescript indicator that creates a line for high and low of day of yesterday on an intraday timeframe. For example if I am on 5 minute chart there should be a line where the high of day was yesterday. There should be no repainting in the strategy
+
+Acceptance Criteria
+I want it to work on all intraday time frames.
+No repainting.
+I want it to be able to be used for low of day yesterday as well. There should be a user input for high or low of day yesterday.
+It should work with whatever symbol I have entered on the chart in tradingview.",TradersLaunch,3 minutes ago,https://replit.com/bounties/@TradersLaunch/pinescript-indicator

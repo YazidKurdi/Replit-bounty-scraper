@@ -9806,7 +9806,7 @@
         "title": "Flet for Python not Running",
         "description": "flet for python isnt running  (permission denied))\n\nAcceptance Criteria\nMake it run without errors\n\nhttps://replit.com/@gcapedro/bots-lead-machine?v=1",
         "author": "gcapedro",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@gcapedro/flet-for-python-not"
     },
     {
@@ -9838,5 +9838,15 @@
         "author": "ElieHabib",
         "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@ElieHabib/ai-music-chatbot-wit"
+    },
+    {
+        "index": "984",
+        "price": "$18.00",
+        "due_days": "due in 3 days",
+        "title": "pinescript indicator",
+        "description": "Create a pinescript indicator that creates a line for high and low of day of yesterday on an intraday timeframe. For example if I am on 5 minute chart there should be a line where the high of day was yesterday. There should be no repainting in the strategy\n\nAcceptance Criteria\nI want it to work on all intraday time frames.\nNo repainting.\nI want it to be able to be used for low of day yesterday as well. There should be a user input for high or low of day yesterday.\nIt should work with whatever symbol I have entered on the chart in tradingview.",
+        "author": "TradersLaunch",
+        "posted_time": "3 minutes ago",
+        "link": "https://replit.com/bounties/@TradersLaunch/pinescript-indicator"
     }
 ]
