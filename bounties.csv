@@ -8075,7 +8075,7 @@ Backend can be either in Nextjs API Folder or Expressjs
 Payment Processor: Stripe
 
 Future Work may also be given like:
-Buildi...",HamsaOmar,13 hours ago,https://replit.com/bounties/@HamsaOmar/charging-for-openai
+Buildi...",HamsaOmar,14 hours ago,https://replit.com/bounties/@HamsaOmar/charging-for-openai
 973,$45.00,closed,Flutterflow Expert for finishing up a feature,"I am working on the fitness tracking app on flutterflow. I am currently running out of time and need help to finish it off.
 Problem Description
 A button ""Start a Workout"" is pressed. A bottom up sheet widget appears. This widget needs to be designed with the following features
@@ -8104,7 +8104,7 @@ Acceptance Criteria
 ideally the face detection and cropping is using an opensource model
 
 Technical Details
-can be in node.js or python",ChrisCollins7,9 hours ago,https://replit.com/bounties/@ChrisCollins7/i-need-an-api-end-po
+can be in node.js or python",ChrisCollins7,10 hours ago,https://replit.com/bounties/@ChrisCollins7/i-need-an-api-end-po
 976,$27.00,due in 3 days,Add ChatGPT endpoint to existing (very simple) Flask server and call with React.,"I have a very simple Flask/React setup here:
 https://replit.com/@proales2/react-flask
 
@@ -8115,7 +8115,7 @@ Then add a simple demo of calling that backend API from React.
 Acceptance Criteria
 
 Can plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",proales2,9 hours ago,https://replit.com/bounties/@proales2/add-chatgpt-endpoint
-977,$270.00,due in 4 days,Tool for scaping web data ,Web scraper for b2b startup data,JarrettMartin,2 hours ago,https://replit.com/bounties/@JarrettMartin/tool-for-scaping-web
+977,$270.00,due in 4 days,Tool for scaping web data ,Web scraper for b2b startup data,JarrettMartin,3 hours ago,https://replit.com/bounties/@JarrettMartin/tool-for-scaping-web
 978,$58.50,due in 4 days,Simple web scrape to csv,"This one actually is pretty easy, the site doesn’t have any cruft on it and you might just be able to hit the api and paginate through to get everything. The site contains a list of individuals a list of companies, and a list of relationships between individuals and companies they have done business with. There are also simple detail pages on all three entity types - individuals, companies, and deals.
 
 It’s definitely not LinkedIn; probably <10,000 entities total.
@@ -8149,4 +8149,4 @@ Working form...",a-allen,2 hours ago,https://replit.com/bounties/@a-allen/market
 Acceptance Criteria
 Make it run without errors
 
-https://replit.com/@gcapedro/bots-lead-machine?v=1",gcapedro,40 minutes ago,https://replit.com/bounties/@gcapedro/flet-for-python-not
+https://replit.com/@gcapedro/bots-lead-machine?v=1",gcapedro,58 minutes ago,https://replit.com/bounties/@gcapedro/flet-for-python-not

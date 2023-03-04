@@ -9726,7 +9726,7 @@
         "title": "Charging for OpenAI Token Usage",
         "description": "Implement a way for Model Creator(People Fine-tuning/Embedding GPT Models) to track and charge their users for the OpenAI Tokens they are using.\n\nAcceptance Criteria\nModel Creators should be able to input a Price/1K Tokens(~750 words) like OpenAI's pricing. They are then assigned a random generated link that extends from the base URL that they can share online or with others. Users click on this link and are shown this page that tells them the price/1k tokens and if they accept they create an account and input their credit card information which is saved for future logins. They are then redirected to model creators site where they can use the model. Their usage is tracked and they are billed at some interval.\n\nThis is just the current user flow but can be changed due to technical or other details.\n\nTechnical Details\nFrontend must be in Nextjs\nBackend can be either in Nextjs API Folder or Expressjs\nPayment Processor: Stripe\n\nFuture Work may also be given like:\nBuildi...",
         "author": "HamsaOmar",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@HamsaOmar/charging-for-openai"
     },
     {
@@ -9756,7 +9756,7 @@
         "title": "I need an API end point that will detect a face in an image and then crop ",
         "description": "I need an API endpoint that will be sent an image that will have a persons face in it. It needs to detect the face and then crop the image to 512x512 around that face and then upload the image to upload.io\n\nAcceptance Criteria\nideally the face detection and cropping is using an opensource model\n\nTechnical Details\ncan be in node.js or python",
         "author": "ChrisCollins7",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@ChrisCollins7/i-need-an-api-end-po"
     },
     {
@@ -9776,7 +9776,7 @@
         "title": "Tool for scaping web data ",
         "description": "Web scraper for b2b startup data",
         "author": "JarrettMartin",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@JarrettMartin/tool-for-scaping-web"
     },
     {
@@ -9806,7 +9806,7 @@
         "title": "Flet for Python not Running",
         "description": "flet for python isnt running  (permission denied))\n\nAcceptance Criteria\nMake it run without errors\n\nhttps://replit.com/@gcapedro/bots-lead-machine?v=1",
         "author": "gcapedro",
-        "posted_time": "40 minutes ago",
+        "posted_time": "58 minutes ago",
         "link": "https://replit.com/bounties/@gcapedro/flet-for-python-not"
     }
 ]
