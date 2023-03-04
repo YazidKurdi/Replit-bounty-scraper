@@ -9756,7 +9756,7 @@
         "title": "I need an API end point that will detect a face in an image and then crop ",
         "description": "I need an API endpoint that will be sent an image that will have a persons face in it. It needs to detect the face and then crop the image to 512x512 around that face and then upload the image to upload.io\n\nAcceptance Criteria\nideally the face detection and cropping is using an opensource model\n\nTechnical Details\ncan be in node.js or python",
         "author": "ChrisCollins7",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@ChrisCollins7/i-need-an-api-end-po"
     },
     {
@@ -9776,7 +9776,7 @@
         "title": "Tool for scaping web data ",
         "description": "Web scraper for b2b startup data",
         "author": "JarrettMartin",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@JarrettMartin/tool-for-scaping-web"
     },
     {
