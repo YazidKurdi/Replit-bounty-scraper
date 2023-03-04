@@ -9756,7 +9756,7 @@
         "title": "I need an API end point that will detect a face in an image and then crop ",
         "description": "I need an API endpoint that will be sent an image that will have a persons face in it. It needs to detect the face and then crop the image to 512x512 around that face and then upload the image to upload.io\n\nAcceptance Criteria\nideally the face detection and cropping is using an opensource model\n\nTechnical Details\ncan be in node.js or python",
         "author": "ChrisCollins7",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@ChrisCollins7/i-need-an-api-end-po"
     },
     {
@@ -9776,7 +9776,7 @@
         "title": "Tool for scaping web data ",
         "description": "Web scraper for b2b startup data",
         "author": "JarrettMartin",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@JarrettMartin/tool-for-scaping-web"
     },
     {
@@ -9826,7 +9826,7 @@
         "title": "Add Drag and Drop and Save functionality to Svelvet.io",
         "description": "1) We need to be able to drag an element from outside the Svelvet canvas and drop it on it to the canvas to create a new svelvet node with custom metadata based on which element was dropped.  example from another library https://reactflow.dev/docs/examples/interaction/drag-and-drop/\n\n2) Currently svelvet uses a svelte store to track the node and edges objects. We need a concept of a save button. So svelvet can use it's current store as normal, but we will need a second tracking changes since the last \"save\" and on cancel/close revert to the state of last saved changes.\nAcceptance Criteria\nDrag a non svelvet dom element onto the canvas and create a new svelvet node with custom properties based on which element was dropped\nAbility to save a state of the svelvet diagram\nAbility to revert to last save of the svelvet diagram\nMust stick as reasonably close to Svelvet current conventions to increase chance of merge with main project\nMust still assume svelvet being imported...",
         "author": "JakeGibson1",
-        "posted_time": "52 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@JakeGibson1/add-drag-and-drop-an"
     }
 ]
