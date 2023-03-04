@@ -8143,7 +8143,7 @@ Acceptance Criteria
 Fully working components mentioned above and composed into pages needed to validate the template described in the problem statement
 Cross device validation (template works well in Chrome, Safari, Android and iOS)
 Working parallax page that is able to parallax between N number of pages (scalability is very important)
-Working form...",a-allen,5 hours ago,https://replit.com/bounties/@a-allen/marketing-site-templ
+Working form...",a-allen,6 hours ago,https://replit.com/bounties/@a-allen/marketing-site-templ
 980,$4.50,due in 6 days,Flet for Python not Running,"flet for python isnt running  (permission denied))
 
 Acceptance Criteria
@@ -8178,4 +8178,4 @@ Implement the code in Python/Streamlit or Vercel
 Ensure that the chatbot is aware of the user's default history, which includes a list of the top 10 artists of the user, the last 10 songs the user listened to, and the top 3 genres the user likes. The code should cater to this information and inform the chatbot about the user.
 Create a unique identity for the chatbot and start the conversation with each user based on what it knows about the user.
 Enable the chatbot to query the internet for new music releases or charting music.
-Ensure that all music recommenda...",ElieHabib,44 minutes ago,https://replit.com/bounties/@ElieHabib/ai-music-chatbot-wit
+Ensure that all music recommenda...",ElieHabib,54 minutes ago,https://replit.com/bounties/@ElieHabib/ai-music-chatbot-wit
