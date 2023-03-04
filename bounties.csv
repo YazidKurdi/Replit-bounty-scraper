@@ -8122,7 +8122,7 @@ It’s definitely not LinkedIn; probably <10,000 entities total.
 
 Two known gotchas:
 for maintenance purposes I would prefer you use python, specifically the requests-HTML library and its CSS selector feature, rather than beautifulsoup or lxml. Please note that you read this line in your application.
-the site is serving several database tables that have one to many relationships and I need some sort of sane way of representing this in the spreadsheet. I would like to flatten the tables around the individuals, but then still pull the tables for the companies into a separ...",mkuz,19 hours ago,https://replit.com/bounties/@mkuz/simple-web-scrape-to
+the site is serving several database tables that have one to many relationships and I need some sort of sane way of representing this in the spreadsheet. I would like to flatten the tables around the individuals, but then still pull the tables for the companies into a separ...",mkuz,20 hours ago,https://replit.com/bounties/@mkuz/simple-web-scrape-to
 979,"$1,080.00",due in 12 days,Marketing site template build for digital agency,"I am in the process of rebranding my digital agency and rebuilding the company website along the way. I am looking for someone to build a custom website template using next.js that will contain the following:
 
 responsive across mobile, desktop and tablet
@@ -8158,7 +8158,7 @@ Protected page example
 Getting data from a protected API route example
 Logout example
 Does not need to be styled
-We will open source on our github with credit to creator",JakeGibson1,16 hours ago,https://replit.com/bounties/@JakeGibson1/build-ory-login-exam
+We will open source on our github with credit to creator",JakeGibson1,17 hours ago,https://replit.com/bounties/@JakeGibson1/build-ory-login-exam
 982,$477.00,due in 3 days,Add Drag and Drop and Save functionality to Svelvet.io,"1) We need to be able to drag an element from outside the Svelvet canvas and drop it on it to the canvas to create a new svelvet node with custom metadata based on which element was dropped.  example from another library https://reactflow.dev/docs/examples/interaction/drag-and-drop/
 
 2) Currently svelvet uses a svelte store to track the node and edges objects. We need a concept of a save button. So svelvet can use it's current store as normal, but we will need a second tracking changes since the last ""save"" and on cancel/close revert to the state of last saved changes.
@@ -8178,14 +8178,14 @@ Implement the code in Python/Streamlit or Vercel
 Ensure that the chatbot is aware of the user's default history, which includes a list of the top 10 artists of the user, the last 10 songs the user listened to, and the top 3 genres the user likes. The code should cater to this information and inform the chatbot about the user.
 Create a unique identity for the chatbot and start the conversation with each user based on what it knows about the user.
 Enable the chatbot to query the internet for new music releases or charting music.
-Ensure that all music recommenda...",ElieHabib,14 hours ago,https://replit.com/bounties/@ElieHabib/ai-music-chatbot-wit
+Ensure that all music recommenda...",ElieHabib,15 hours ago,https://replit.com/bounties/@ElieHabib/ai-music-chatbot-wit
 984,$18.00,due in 3 days,pinescript indicator,"Create a pinescript indicator that creates a line for high and low of day of yesterday on an intraday timeframe. For example if I am on 5 minute chart there should be a line where the high of day was yesterday. There should be no repainting in the strategy
 
 Acceptance Criteria
 I want it to work on all intraday time frames.
 No repainting.
 I want it to be able to be used for low of day yesterday as well. There should be a user input for high or low of day yesterday.
-It should work with whatever symbol I have entered on the chart in tradingview.",TradersLaunch,8 hours ago,https://replit.com/bounties/@TradersLaunch/pinescript-indicator
+It should work with whatever symbol I have entered on the chart in tradingview.",TradersLaunch,9 hours ago,https://replit.com/bounties/@TradersLaunch/pinescript-indicator
 985,$180.00,due in 6 days,AI Marketing Plan Generator That Lives On Word Press.,"Consultants often face the challenge of creating an effective marketing strategy that not only captures the attention of the target audience but also aligns with the company's goals and objectives. To achieve this, they must conduct thorough research to understand the market, competition, and customer needs. However, the challenge arises when trying to balance the client's vision with data-driven insights, leading to a cohesive and actionable marketing plan. Additionally, consultants must constantly adapt to changing market trends and consumer behaviors to ensure their marketing strategies remain relevant and effective over time.
 
 I would like to create StratBot.
