@@ -8114,7 +8114,7 @@ Then add a simple demo of calling that backend API from React.
 
 Acceptance Criteria
 
-Can plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",proales2,18 hours ago,https://replit.com/bounties/@proales2/add-chatgpt-endpoint
+Can plug unique OpenAI credentials in and hit run and the React frontend can call the ChatGPT API through the backend Flask server in the Repl.",proales2,19 hours ago,https://replit.com/bounties/@proales2/add-chatgpt-endpoint
 977,$270.00,due in 3 days,Tool for scaping web data ,Web scraper for b2b startup data,JarrettMartin,12 hours ago,https://replit.com/bounties/@JarrettMartin/tool-for-scaping-web
 978,$58.50,due in 3 days,Simple web scrape to csv,"This one actually is pretty easy, the site doesn’t have any cruft on it and you might just be able to hit the api and paginate through to get everything. The site contains a list of individuals a list of companies, and a list of relationships between individuals and companies they have done business with. There are also simple detail pages on all three entity types - individuals, companies, and deals.
 
@@ -8167,7 +8167,7 @@ Drag a non svelvet dom element onto the canvas and create a new svelvet node wit
 Ability to save a state of the svelvet diagram
 Ability to revert to last save of the svelvet diagram
 Must stick as reasonably close to Svelvet current conventions to increase chance of merge with main project
-Must still assume svelvet being imported...",JakeGibson1,8 hours ago,https://replit.com/bounties/@JakeGibson1/add-drag-and-drop-an
+Must still assume svelvet being imported...",JakeGibson1,9 hours ago,https://replit.com/bounties/@JakeGibson1/add-drag-and-drop-an
 983,$450.00,due in 26 days,AI Music Chatbot with ChatGPT API & LangChain ,"I am looking for a skilled developer to create a Music Chatbot Butler.
 
 Task:
@@ -8185,4 +8185,9 @@ Acceptance Criteria
 I want it to work on all intraday time frames.
 No repainting.
 I want it to be able to be used for low of day yesterday as well. There should be a user input for high or low of day yesterday.
-It should work with whatever symbol I have entered on the chart in tradingview.",TradersLaunch,34 minutes ago,https://replit.com/bounties/@TradersLaunch/pinescript-indicator
+It should work with whatever symbol I have entered on the chart in tradingview.",TradersLaunch,44 minutes ago,https://replit.com/bounties/@TradersLaunch/pinescript-indicator
+985,$180.00,due in 6 days,AI Marketing Plan Generator That Lives On Word Press.,"Consultants often face the challenge of creating an effective marketing strategy that not only captures the attention of the target audience but also aligns with the company's goals and objectives. To achieve this, they must conduct thorough research to understand the market, competition, and customer needs. However, the challenge arises when trying to balance the client's vision with data-driven insights, leading to a cohesive and actionable marketing plan. Additionally, consultants must constantly adapt to changing market trends and consumer behaviors to ensure their marketing strategies remain relevant and effective over time.
+
+I would like to create StratBot.
+
+StratBot would leverage natural language processing and machine learning algorithms to guide consultants through the process of creating a marketing strategy. The chatbot would start by asking the consultant a series of questions about the client's business goals, target audience, competition, and budget....",AdrianHunter2,5 minutes ago,https://replit.com/bounties/@AdrianHunter2/ai-marketing-plan-ge
