@@ -9796,7 +9796,7 @@
         "title": "Marketing site template build for digital agency",
         "description": "I am in the process of rebranding my digital agency and rebuilding the company website along the way. I am looking for someone to build a custom website template using next.js that will contain the following:\n\nresponsive across mobile, desktop and tablet\nheader\nfooter\nmobile and desktop navigation\nparallax content page that can be used for all subsequent pages\nmodal that directs to case studies page after filling out a simple questioner form\ncase study page\n\nI will then take the template and build out the rest of the site myself, make needed CMS integrations, etc.\n\nComplete concept is designed and ready. See Figma link below:\n\nFigma designs\n\nAcceptance Criteria\nFully working components mentioned above and composed into pages needed to validate the template described in the problem statement\nCross device validation (template works well in Chrome, Safari, Android and iOS)\nWorking parallax page that is able to parallax between N number of pages (scalability is very important)\nWorking form...",
         "author": "a-allen",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@a-allen/marketing-site-templ"
     },
     {
