@@ -9896,7 +9896,7 @@
         "title": "Decrypt AES-GCM encrypted data with key using web crypto api in javascript",
         "description": "Apple stores it's phone numbers for a facetime call on a person's mac computer in an encrypted manner. Given the encrypted data (an array of 44 numbers) and the base64 key, write a javascript function that returns the phone number. This is already implemented in python and go here: https://github.com/n0fate/OS-X-Continuity, https://github.com/rusq/osx-callhistory-decryptor. I would just like to implement it in client side javascript.\n\nAcceptance Criteria\nFunction converts encrypted data into readable phone number.\n\nTechnical Details\n\nLink to Project",
         "author": "FardeemMunir1",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@FardeemMunir1/decrypt-aes-gcm-encr"
     },
     {
@@ -9906,7 +9906,7 @@
         "title": "Implement a Bayesian hierarchical model using PyMC",
         "description": "I would like you to create a model like the one described in https://link.springer.com/article/10.3758/s13428-018-1183-8. You can generate sample data to match the data described in the paper. Figure 2 in the paper describes the model graphically. I would like to see this all in a jupyter notebook, but open to other frontends if you have something in mind. I want to see graphs of the posterior distribution of the model. I want the model to include all of the latent variables. It should include covariates for minutes per game and position like the paper.",
         "author": "phonetonote",
-        "posted_time": "13 minutes ago",
+        "posted_time": "25 minutes ago",
         "link": "https://replit.com/bounties/@phonetonote/implement-a-bayesian"
     },
     {
@@ -9916,7 +9916,7 @@
         "title": "Help In creating next button in my quiz",
         "description": "I need next button in my project called quiz\nand i tired add its not coming and after choosing\nyou cant change the answer after choosing\nAcceptance Criteria\nThe thing should be ui\nand working\nTechnical Details\n\nLink to Project\nhttps://replit.com/@muhammedhashmin/World-cup-quiz",
         "author": "muhammedhashmin",
-        "posted_time": "35 seconds ago",
+        "posted_time": "13 minutes ago",
         "link": "https://replit.com/bounties/@muhammedhashmin/help-in-creating-nex"
     }
 ]
