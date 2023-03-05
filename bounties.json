@@ -9836,7 +9836,7 @@
         "title": "AI Music Chatbot with ChatGPT API & LangChain ",
         "description": "I am looking for a skilled developer to create a Music Chatbot Butler.\n\nTask:\nDevelop a Music Chatbot Butler that can recommend music based on mood or activity, popular music, music decade, music features/instruments, and music recommendations from experts.\nEnsure that the chatbot can reject any other chitchat and only engage in conversations related to music.\nDevelop the code using langchain and chatGPT (new gpt-3.5-turbo model).\nImplement the code in Python/Streamlit or Vercel\nEnsure that the chatbot is aware of the user's default history, which includes a list of the top 10 artists of the user, the last 10 songs the user listened to, and the top 3 genres the user likes. The code should cater to this information and inform the chatbot about the user.\nCreate a unique identity for the chatbot and start the conversation with each user based on what it knows about the user.\nEnable the chatbot to query the internet for new music releases or charting music.\nEnsure that all music recommenda...",
         "author": "ElieHabib",
-        "posted_time": "23 hours ago",
+        "posted_time": "24 hours ago",
         "link": "https://replit.com/bounties/@ElieHabib/ai-music-chatbot-wit"
     },
     {
@@ -9846,7 +9846,7 @@
         "title": "pinescript indicator",
         "description": "Create a pinescript indicator that creates a line for high and low of day of yesterday on an intraday timeframe. For example if I am on 5 minute chart there should be a line where the high of day was yesterday. There should be no repainting in the strategy\n\nAcceptance Criteria\nI want it to work on all intraday time frames.\nNo repainting.\nI want it to be able to be used for low of day yesterday as well. There should be a user input for high or low of day yesterday.\nIt should work with whatever symbol I have entered on the chart in tradingview.",
         "author": "TradersLaunch",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@TradersLaunch/pinescript-indicator"
     },
     {
@@ -9886,7 +9886,7 @@
         "title": "Resy.com booking bot. User friendly for non-technical user (myself)",
         "description": "Most restaurant dinner reservations at top restaurants get booked instantly via bots. I am therefore unable to get reservations that I want.\n\nAcceptance Criteria\nI would like my own bot to instantly book Resy.com reservations for whatever restaurant I am interested in.\nThere are already some Resy bot project code examples available on GitHub (example: https://github.com/Alkaar/resy-booking-bot)\nI need you to create a very easy-to-use web app for me to use. I am non-technical so it must be fully functional and intuitive",
         "author": "ConnorTimmerma1",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@ConnorTimmerma1/resycom-booking-bot"
     },
     {

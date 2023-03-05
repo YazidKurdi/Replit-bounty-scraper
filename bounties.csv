@@ -8178,14 +8178,14 @@ Implement the code in Python/Streamlit or Vercel
 Ensure that the chatbot is aware of the user's default history, which includes a list of the top 10 artists of the user, the last 10 songs the user listened to, and the top 3 genres the user likes. The code should cater to this information and inform the chatbot about the user.
 Create a unique identity for the chatbot and start the conversation with each user based on what it knows about the user.
 Enable the chatbot to query the internet for new music releases or charting music.
-Ensure that all music recommenda...",ElieHabib,23 hours ago,https://replit.com/bounties/@ElieHabib/ai-music-chatbot-wit
+Ensure that all music recommenda...",ElieHabib,24 hours ago,https://replit.com/bounties/@ElieHabib/ai-music-chatbot-wit
 984,$18.00,due in 3 days,pinescript indicator,"Create a pinescript indicator that creates a line for high and low of day of yesterday on an intraday timeframe. For example if I am on 5 minute chart there should be a line where the high of day was yesterday. There should be no repainting in the strategy
 
 Acceptance Criteria
 I want it to work on all intraday time frames.
 No repainting.
 I want it to be able to be used for low of day yesterday as well. There should be a user input for high or low of day yesterday.
-It should work with whatever symbol I have entered on the chart in tradingview.",TradersLaunch,17 hours ago,https://replit.com/bounties/@TradersLaunch/pinescript-indicator
+It should work with whatever symbol I have entered on the chart in tradingview.",TradersLaunch,18 hours ago,https://replit.com/bounties/@TradersLaunch/pinescript-indicator
 985,$180.00,due in 6 days,AI Marketing Plan Generator That Lives On Word Press.,"Consultants often face the challenge of creating an effective marketing strategy that not only captures the attention of the target audience but also aligns with the company's goals and objectives. To achieve this, they must conduct thorough research to understand the market, competition, and customer needs. However, the challenge arises when trying to balance the client's vision with data-driven insights, leading to a cohesive and actionable marketing plan. Additionally, consultants must constantly adapt to changing market trends and consumer behaviors to ensure their marketing strategies remain relevant and effective over time.
 
 I would like to create StratBot.
@@ -8224,7 +8224,7 @@ Ideally there would be intermediate deliverables, such as the login functionalit
 Acceptance Criteria
 I would like my own bot to instantly book Resy.com reservations for whatever restaurant I am interested in.
 There are already some Resy bot project code examples available on GitHub (example: https://github.com/Alkaar/resy-booking-bot)
-I need you to create a very easy-to-use web app for me to use. I am non-technical so it must be fully functional and intuitive",ConnorTimmerma1,5 hours ago,https://replit.com/bounties/@ConnorTimmerma1/resycom-booking-bot
+I need you to create a very easy-to-use web app for me to use. I am non-technical so it must be fully functional and intuitive",ConnorTimmerma1,6 hours ago,https://replit.com/bounties/@ConnorTimmerma1/resycom-booking-bot
 989,$45.00,closed,Decrypt AES-GCM encrypted data with key using web crypto api in javascript,"Apple stores it's phone numbers for a facetime call on a person's mac computer in an encrypted manner. Given the encrypted data (an array of 44 numbers) and the base64 key, write a javascript function that returns the phone number. This is already implemented in python and go here: https://github.com/n0fate/OS-X-Continuity, https://github.com/rusq/osx-callhistory-decryptor. I would just like to implement it in client side javascript.
 
 Acceptance Criteria
