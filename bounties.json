@@ -9876,7 +9876,7 @@
         "title": "Backend for AI Flashcard app",
         "description": "I am building a Python FastAPI backend and need the following:\n\nA static front-page that supports login (can use a basic template like Bootstrap)\nOAuth login\nAbility for users to register a Readwise API key\nAbility for user to generate multiple API tokens for this app\nPeriodic fetching of new highlights (I have this partially implemented)\nQuerying GPT to generate flash cards (I have this partially implemented)\nStoring their highlights and flashcards in a database, with timestamps (so we can fetch just the updates).\nA REST API end point to fetch these (with an access token)\n\nAcceptance Criteria\nThe above functionalities added\nMy signoff (I want the opportunity to do code reviews)\n\nIdeally there would be intermediate deliverables, such as the login functionality, etc.",
         "author": "alexbowe",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@alexbowe/backend-for-ai-flash"
     },
     {
@@ -9906,7 +9906,7 @@
         "title": "Implement a Bayesian hierarchical model using PyMC",
         "description": "I would like you to create a model like the one described in https://link.springer.com/article/10.3758/s13428-018-1183-8. You can generate sample data to match the data described in the paper. Figure 2 in the paper describes the model graphically. I would like to see this all in a jupyter notebook, but open to other frontends if you have something in mind. I want to see graphs of the posterior distribution of the model. I want the model to include all of the latent variables. It should include covariates for minutes per game and position like the paper.",
         "author": "phonetonote",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@phonetonote/implement-a-bayesian"
     },
     {
@@ -9936,7 +9936,7 @@
         "title": "Lifesize Face Print",
         "description": "Given an image (which includes the side profile of someone's face + a ruler with mm indications) print a life-sized version of that person's face\nImage will be like attached: https://imgur.com/a/4vj8Lsc\n\nTechnical Details\nSolution must be able to run on Windows 10 OR be able to hosted on a website easily\n\nEmail me with any questions.",
         "author": "sakethn",
-        "posted_time": "27 minutes ago",
+        "posted_time": "34 minutes ago",
         "link": "https://replit.com/bounties/@sakethn/lifesize-face-print"
     }
 ]
