@@ -9846,7 +9846,7 @@
         "title": "pinescript indicator",
         "description": "Create a pinescript indicator that creates a line for high and low of day of yesterday on an intraday timeframe. For example if I am on 5 minute chart there should be a line where the high of day was yesterday. There should be no repainting in the strategy\n\nAcceptance Criteria\nI want it to work on all intraday time frames.\nNo repainting.\nI want it to be able to be used for low of day yesterday as well. There should be a user input for high or low of day yesterday.\nIt should work with whatever symbol I have entered on the chart in tradingview.",
         "author": "TradersLaunch",
-        "posted_time": "22 hours ago",
+        "posted_time": "23 hours ago",
         "link": "https://replit.com/bounties/@TradersLaunch/pinescript-indicator"
     },
     {
@@ -9886,7 +9886,7 @@
         "title": "Resy.com booking bot. User friendly for non-technical user (myself)",
         "description": "Most restaurant dinner reservations at top restaurants get booked instantly via bots. I am therefore unable to get reservations that I want.\n\nAcceptance Criteria\nI would like my own bot to instantly book Resy.com reservations for whatever restaurant I am interested in.\nThere are already some Resy bot project code examples available on GitHub (example: https://github.com/Alkaar/resy-booking-bot)\nI need you to create a very easy-to-use web app for me to use. I am non-technical so it must be fully functional and intuitive",
         "author": "ConnorTimmerma1",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@ConnorTimmerma1/resycom-booking-bot"
     },
     {
@@ -9918,5 +9918,15 @@
         "author": "muhammedhashmin",
         "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@muhammedhashmin/help-in-creating-nex"
+    },
+    {
+        "index": "992",
+        "price": "$450.00",
+        "due_days": "due in 3 days",
+        "title": "ChatGPT API conversations via iMessage, store message history",
+        "description": "I want to be able to have conversations with ChatGPT via iMessage (use https://sendblue.co/ API).\nMessages sent to ChatGPT to include previous messages for context and conversation flow.\nAll messages to be stored in a database.\nProvide a private/password protected configuration interface for me to configure settings such as \u2018system\u2019 message, temperature, maximum length etc\n\nAcceptance Criteria\nDemonstrate conversation with ChatGPT over iMessage\nProvide login to configuration interface\n\nTechnical Details\nPython, openai API, sendblue API, webhook, database",
+        "author": "pilkster",
+        "posted_time": "17 minutes ago",
+        "link": "https://replit.com/bounties/@pilkster/chatgpt-api-conversa"
     }
 ]
