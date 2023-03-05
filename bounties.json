@@ -9876,7 +9876,7 @@
         "title": "Backend for AI Flashcard app",
         "description": "I am building a Python FastAPI backend and need the following:\n\nA static front-page that supports login (can use a basic template like Bootstrap)\nOAuth login\nAbility for users to register a Readwise API key\nAbility for user to generate multiple API tokens for this app\nPeriodic fetching of new highlights (I have this partially implemented)\nQuerying GPT to generate flash cards (I have this partially implemented)\nStoring their highlights and flashcards in a database, with timestamps (so we can fetch just the updates).\nA REST API end point to fetch these (with an access token)\n\nAcceptance Criteria\nThe above functionalities added\nMy signoff (I want the opportunity to do code reviews)\n\nIdeally there would be intermediate deliverables, such as the login functionality, etc.",
         "author": "alexbowe",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@alexbowe/backend-for-ai-flash"
     },
     {
@@ -9886,7 +9886,7 @@
         "title": "Resy.com booking bot. User friendly for non-technical user (myself)",
         "description": "Most restaurant dinner reservations at top restaurants get booked instantly via bots. I am therefore unable to get reservations that I want.\n\nAcceptance Criteria\nI would like my own bot to instantly book Resy.com reservations for whatever restaurant I am interested in.\nThere are already some Resy bot project code examples available on GitHub (example: https://github.com/Alkaar/resy-booking-bot)\nI need you to create a very easy-to-use web app for me to use. I am non-technical so it must be fully functional and intuitive",
         "author": "ConnorTimmerma1",
-        "posted_time": "60 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@ConnorTimmerma1/resycom-booking-bot"
     }
 ]
