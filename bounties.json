@@ -9946,7 +9946,7 @@
         "title": "Lunar resources tabletop game in Python with reinforcement learning",
         "description": "We\u2019ve developed a turn-based tabletop game that involves resources on the Moon. The complete rulebook is here: https://docs.google.com/document/d/1ZtjLaQvcQ4v4cjwayyOZk9FVBdKJm-9pODpDKhpFYE8/edit?usp=share_link. The game includes actions such as:\nDeploying landers with cargo\nBuilding assets like solar power masts, bases, etc.\nProspecting for ice\nMining resources to produce rocket propellant\n\nWe want to have this game implemented in Python with reinforcement learning using self-play. The game will allow a user to play against the trained computer via command line prompts (or simple UI), and allow the trained computer to play against itself. There will be at least a simple visual representation of what is happening on the board in addition to text-based output.\n\nAcceptance Criteria\nAll gameplay mechanics in the rulebook are implemented correctly in Python.\nThere should be three main ways to run the code: (1) train via self-play, (2) human play against trained computer...",
         "author": "kmcannon",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@kmcannon/lunar-resources-tabl"
     },
     {
