@@ -9866,7 +9866,7 @@
         "title": "Wrap You.com in an api (JS or Python)",
         "description": "You.com does not have an api\nI want to be able to call the https://you.com/search?q= route & receive a response - like an api\nI'm fine with loading cookies from a browser into program manually as part of the setup\n\nAcceptance Criteria\n\nTechnical Details\nLike ChatGPT Wrapper: https://github.com/mmabrouk/chatgpt-wrapper, but for You.com\n\nLink to Project\n\nWill pay additional (more than the cycles here) for a good solution",
         "author": "AskProgrammers",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@AskProgrammers/wrap-youcom-in-an-ap"
     },
     {
@@ -9896,7 +9896,7 @@
         "title": "Decrypt AES-GCM encrypted data with key using web crypto api in javascript",
         "description": "Apple stores it's phone numbers for a facetime call on a person's mac computer in an encrypted manner. Given the encrypted data (an array of 44 numbers) and the base64 key, write a javascript function that returns the phone number. This is already implemented in python and go here: https://github.com/n0fate/OS-X-Continuity, https://github.com/rusq/osx-callhistory-decryptor. I would just like to implement it in client side javascript.\n\nAcceptance Criteria\nFunction converts encrypted data into readable phone number.\n\nTechnical Details\n\nLink to Project",
         "author": "FardeemMunir1",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@FardeemMunir1/decrypt-aes-gcm-encr"
     },
     {
@@ -9926,7 +9926,7 @@
         "title": "ChatGPT API conversations via iMessage, store message history",
         "description": "I want to be able to have conversations with ChatGPT via iMessage (use https://sendblue.co/ API).\nMessages sent to ChatGPT to include previous messages for context and conversation flow.\nAll messages to be stored in a database.\nProvide a private/password protected configuration interface for me to configure settings such as \u2018system\u2019 message, temperature, maximum length etc\n\nAcceptance Criteria\nDemonstrate conversation with ChatGPT over iMessage\nProvide login to configuration interface\n\nTechnical Details\nPython, openai API, sendblue API, webhook, database",
         "author": "pilkster",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@pilkster/chatgpt-api-conversa"
     },
     {
@@ -9936,7 +9936,7 @@
         "title": "Lifesize Face Print",
         "description": "Given an image (which includes the side profile of someone's face + a ruler with mm indications) print a life-sized version of that person's face\nImage will be like attached: https://imgur.com/a/4vj8Lsc\n\nTechnical Details\nSolution must be able to run on Windows 10 OR be able to hosted on a website easily\n\nEmail me with any questions.",
         "author": "sakethn",
-        "posted_time": "16 minutes ago",
+        "posted_time": "27 minutes ago",
         "link": "https://replit.com/bounties/@sakethn/lifesize-face-print"
     }
 ]
