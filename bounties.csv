@@ -8272,4 +8272,58 @@ We want to have this game implemented in Python with reinforcement learning usin
 
 Acceptance Criteria
 All gameplay mechanics in the rulebook are implemented correctly in Python.
-There should be three main ways to run the code: (1) train via self-play, (2) human play against trained computer...",kmcannon,1 hour ago,https://replit.com/bounties/@kmcannon/lunar-resources-tabl
+There should be three main ways to run the code: (1) train via self-play, (2) human play against trained computer...",kmcannon,2 hours ago,https://replit.com/bounties/@kmcannon/lunar-resources-tabl
+995,$27.00,closed,🧮 Agile Pointing Calculator 💰,"Looking for someone to create a tool for pointing stories/epics for Agile ceremonies.
+This will be hosted on the website pointing.charity
+
+I plan to host it in Vercel for fast loading.
+I don't really have a preference for language.
+I'd like the UI to be Bootstrap/Material UI style.
+
+Basic tool functions:
+
+https://www.figma.com/file/xrj4oOu0SnFetYJBTuppfi/Points.Charity?node-id=0%3A1&t=aSJ8PwbXfVgviIxa-1
+Outlined here, you can enter prototype mode and test there. Feel free to leave comments with any questions.
+
+Acceptance Criteria
+
+A bootstrap minimal/UI friendly design.
+Functionality according to the above.
+No data storage after session has ended
+Ability to export png of session
+
+Technical Details
+
+I plan to host this in Vercel, I don't really have a preference of language it's written in, but need the code commented and able to be edited by future hunters.
+It should be able to handle 100 concurrent sessions.
+
+Timelines / Milestones:
+
+v1 - Basic functionality (Addi...",Bandos1000,5 minutes ago,https://replit.com/bounties/@Bandos1000/agile-pointing-calcu
+996,$36.00,due in 25 days,🤖 Agile Pointing Calculator  🧮,"Looking for someone to create a tool for pointing stories/epics for Agile ceremonies.
+This will be hosted on the website pointing.charity
+
+I plan to host it in Vercel for fast loading.
+I don't really have a preference for language.
+I'd like the UI to be Bootstrap/Material UI style.
+
+Basic tool functions:
+
+https://www.figma.com/file/xrj4oOu0SnFetYJBTuppfi/Points.Charity?node-id=0%3A1&t=aSJ8PwbXfVgviIxa-1
+Outlined here, you can enter prototype mode and test there. Feel free to leave comments with any questions.
+
+Acceptance Criteria
+
+A bootstrap minimal/UI friendly design.
+Functionality according to the above.
+No data storage after session has ended
+Ability to export png of session
+
+Technical Details
+
+I plan to host this in Vercel, I don't really have a preference of language it's written in, but need the code commented and able to be edited by future hunters.
+It should be able to handle 100 concurrent sessions.
+
+Timelines / Milestones:
+
+v1 - Basic functionality (Addi...",Bandos1000,2 minutes ago,https://replit.com/bounties/@Bandos1000/agile-pointing-calcu-1
