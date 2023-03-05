@@ -8232,7 +8232,7 @@ Function converts encrypted data into readable phone number.
 
 Technical Details
 
-Link to Project",FardeemMunir1,18 hours ago,https://replit.com/bounties/@FardeemMunir1/decrypt-aes-gcm-encr
+Link to Project",FardeemMunir1,19 hours ago,https://replit.com/bounties/@FardeemMunir1/decrypt-aes-gcm-encr
 990,$450.00,due in 10 days,Implement a Bayesian hierarchical model using PyMC,"I would like you to create a model like the one described in https://link.springer.com/article/10.3758/s13428-018-1183-8. You can generate sample data to match the data described in the paper. Figure 2 in the paper describes the model graphically. I would like to see this all in a jupyter notebook, but open to other frontends if you have something in mind. I want to see graphs of the posterior distribution of the model. I want the model to include all of the latent variables. It should include covariates for minutes per game and position like the paper.",phonetonote,17 hours ago,https://replit.com/bounties/@phonetonote/implement-a-bayesian
 991,$4.50,due in 12 days,Help In creating next button in my quiz,"I need next button in my project called quiz
 and i tired add its not coming and after choosing
@@ -8254,7 +8254,7 @@ Demonstrate conversation with ChatGPT over iMessage
 Provide login to configuration interface
 
 Technical Details
-Python, openai API, sendblue API, webhook, database",pilkster,10 hours ago,https://replit.com/bounties/@pilkster/chatgpt-api-conversa
+Python, openai API, sendblue API, webhook, database",pilkster,11 hours ago,https://replit.com/bounties/@pilkster/chatgpt-api-conversa
 993,$59.40,due in 25 days,Lifesize Face Print,"Given an image (which includes the side profile of someone's face + a ruler with mm indications) print a life-sized version of that person's face
 Image will be like attached: https://imgur.com/a/4vj8Lsc
 
