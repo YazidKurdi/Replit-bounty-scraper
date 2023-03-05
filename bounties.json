@@ -9896,7 +9896,7 @@
         "title": "Decrypt AES-GCM encrypted data with key using web crypto api in javascript",
         "description": "Apple stores it's phone numbers for a facetime call on a person's mac computer in an encrypted manner. Given the encrypted data (an array of 44 numbers) and the base64 key, write a javascript function that returns the phone number. This is already implemented in python and go here: https://github.com/n0fate/OS-X-Continuity, https://github.com/rusq/osx-callhistory-decryptor. I would just like to implement it in client side javascript.\n\nAcceptance Criteria\nFunction converts encrypted data into readable phone number.\n\nTechnical Details\n\nLink to Project",
         "author": "FardeemMunir1",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@FardeemMunir1/decrypt-aes-gcm-encr"
     },
     {
@@ -9926,7 +9926,7 @@
         "title": "ChatGPT API conversations via iMessage, store message history",
         "description": "I want to be able to have conversations with ChatGPT via iMessage (use https://sendblue.co/ API).\nMessages sent to ChatGPT to include previous messages for context and conversation flow.\nAll messages to be stored in a database.\nProvide a private/password protected configuration interface for me to configure settings such as \u2018system\u2019 message, temperature, maximum length etc\n\nAcceptance Criteria\nDemonstrate conversation with ChatGPT over iMessage\nProvide login to configuration interface\n\nTechnical Details\nPython, openai API, sendblue API, webhook, database",
         "author": "pilkster",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@pilkster/chatgpt-api-conversa"
     },
     {
@@ -9956,7 +9956,7 @@
         "title": "\ud83e\uddee Agile Pointing Calculator \ud83d\udcb0",
         "description": "Looking for someone to create a tool for pointing stories/epics for Agile ceremonies.\nThis will be hosted on the website pointing.charity\n\nI plan to host it in Vercel for fast loading.\nI don't really have a preference for language.\nI'd like the UI to be Bootstrap/Material UI style.\n\nBasic tool functions:\n\nhttps://www.figma.com/file/xrj4oOu0SnFetYJBTuppfi/Points.Charity?node-id=0%3A1&t=aSJ8PwbXfVgviIxa-1\nOutlined here, you can enter prototype mode and test there. Feel free to leave comments with any questions.\n\nAcceptance Criteria\n\nA bootstrap minimal/UI friendly design.\nFunctionality according to the above.\nNo data storage after session has ended\nAbility to export png of session\n\nTechnical Details\n\nI plan to host this in Vercel, I don't really have a preference of language it's written in, but need the code commented and able to be edited by future hunters.\nIt should be able to handle 100 concurrent sessions.\n\nTimelines / Milestones:\n\nv1 - Basic functionality (Addi...",
         "author": "Bandos1000",
-        "posted_time": "13 minutes ago",
+        "posted_time": "22 minutes ago",
         "link": "https://replit.com/bounties/@Bandos1000/agile-pointing-calcu"
     },
     {
@@ -9966,7 +9966,7 @@
         "title": "\ud83e\udd16 Agile Pointing Calculator  \ud83e\uddee",
         "description": "Looking for someone to create a tool for pointing stories/epics for Agile ceremonies.\nThis will be hosted on the website pointing.charity\n\nI plan to host it in Vercel for fast loading.\nI don't really have a preference for language.\nI'd like the UI to be Bootstrap/Material UI style.\n\nBasic tool functions:\n\nhttps://www.figma.com/file/xrj4oOu0SnFetYJBTuppfi/Points.Charity?node-id=0%3A1&t=aSJ8PwbXfVgviIxa-1\nOutlined here, you can enter prototype mode and test there. Feel free to leave comments with any questions.\n\nAcceptance Criteria\n\nA bootstrap minimal/UI friendly design.\nFunctionality according to the above.\nNo data storage after session has ended\nAbility to export png of session\n\nTechnical Details\n\nI plan to host this in Vercel, I don't really have a preference of language it's written in, but need the code commented and able to be edited by future hunters.\nIt should be able to handle 100 concurrent sessions.\n\nTimelines / Milestones:\n\nv1 - Basic functionality (Addi...",
         "author": "Bandos1000",
-        "posted_time": "9 minutes ago",
+        "posted_time": "19 minutes ago",
         "link": "https://replit.com/bounties/@Bandos1000/agile-pointing-calcu-1"
     }
 ]
