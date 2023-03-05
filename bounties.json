@@ -9796,7 +9796,7 @@
         "title": "Marketing site template build for digital agency",
         "description": "I am in the process of rebranding my digital agency and rebuilding the company website along the way. I am looking for someone to build a custom website template using next.js that will contain the following:\n\nresponsive across mobile, desktop and tablet\nheader\nfooter\nmobile and desktop navigation\nparallax content page that can be used for all subsequent pages\nmodal that directs to case studies page after filling out a simple questioner form\ncase study page\n\nI will then take the template and build out the rest of the site myself, make needed CMS integrations, etc.\n\nComplete concept is designed and ready. See Figma link below:\n\nFigma designs\n\nAcceptance Criteria\nFully working components mentioned above and composed into pages needed to validate the template described in the problem statement\nCross device validation (template works well in Chrome, Safari, Android and iOS)\nWorking parallax page that is able to parallax between N number of pages (scalability is very important)\nWorking form...",
         "author": "a-allen",
-        "posted_time": "23 hours ago",
+        "posted_time": "24 hours ago",
         "link": "https://replit.com/bounties/@a-allen/marketing-site-templ"
     },
     {
@@ -9806,7 +9806,7 @@
         "title": "Flet for Python not Running",
         "description": "flet for python isnt running  (permission denied))\n\nAcceptance Criteria\nMake it run without errors\n\nhttps://replit.com/@gcapedro/bots-lead-machine?v=1",
         "author": "gcapedro",
-        "posted_time": "22 hours ago",
+        "posted_time": "23 hours ago",
         "link": "https://replit.com/bounties/@gcapedro/flet-for-python-not"
     },
     {
@@ -9866,7 +9866,7 @@
         "title": "Wrap You.com in an api (JS or Python)",
         "description": "You.com does not have an api\nI want to be able to call the https://you.com/search?q= route & receive a response - like an api\nI'm fine with loading cookies from a browser into program manually as part of the setup\n\nAcceptance Criteria\n\nTechnical Details\nLike ChatGPT Wrapper: https://github.com/mmabrouk/chatgpt-wrapper, but for You.com\n\nLink to Project\n\nWill pay additional (more than the cycles here) for a good solution",
         "author": "AskProgrammers",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@AskProgrammers/wrap-youcom-in-an-ap"
     },
     {
@@ -9886,7 +9886,7 @@
         "title": "Resy.com booking bot. User friendly for non-technical user (myself)",
         "description": "Most restaurant dinner reservations at top restaurants get booked instantly via bots. I am therefore unable to get reservations that I want.\n\nAcceptance Criteria\nI would like my own bot to instantly book Resy.com reservations for whatever restaurant I am interested in.\nThere are already some Resy bot project code examples available on GitHub (example: https://github.com/Alkaar/resy-booking-bot)\nI need you to create a very easy-to-use web app for me to use. I am non-technical so it must be fully functional and intuitive",
         "author": "ConnorTimmerma1",
-        "posted_time": "51 minutes ago",
+        "posted_time": "60 minutes ago",
         "link": "https://replit.com/bounties/@ConnorTimmerma1/resycom-booking-bot"
     }
 ]
