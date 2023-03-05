@@ -9826,7 +9826,7 @@
         "title": "Add Drag and Drop and Save functionality to Svelvet.io",
         "description": "1) We need to be able to drag an element from outside the Svelvet canvas and drop it on it to the canvas to create a new svelvet node with custom metadata based on which element was dropped.  example from another library https://reactflow.dev/docs/examples/interaction/drag-and-drop/\n\n2) Currently svelvet uses a svelte store to track the node and edges objects. We need a concept of a save button. So svelvet can use it's current store as normal, but we will need a second tracking changes since the last \"save\" and on cancel/close revert to the state of last saved changes.\nAcceptance Criteria\nDrag a non svelvet dom element onto the canvas and create a new svelvet node with custom properties based on which element was dropped\nAbility to save a state of the svelvet diagram\nAbility to revert to last save of the svelvet diagram\nMust stick as reasonably close to Svelvet current conventions to increase chance of merge with main project\nMust still assume svelvet being imported...",
         "author": "JakeGibson1",
-        "posted_time": "22 hours ago",
+        "posted_time": "23 hours ago",
         "link": "https://replit.com/bounties/@JakeGibson1/add-drag-and-drop-an"
     },
     {
@@ -9896,7 +9896,7 @@
         "title": "Decrypt AES-GCM encrypted data with key using web crypto api in javascript",
         "description": "Apple stores it's phone numbers for a facetime call on a person's mac computer in an encrypted manner. Given the encrypted data (an array of 44 numbers) and the base64 key, write a javascript function that returns the phone number. This is already implemented in python and go here: https://github.com/n0fate/OS-X-Continuity, https://github.com/rusq/osx-callhistory-decryptor. I would just like to implement it in client side javascript.\n\nAcceptance Criteria\nFunction converts encrypted data into readable phone number.\n\nTechnical Details\n\nLink to Project",
         "author": "FardeemMunir1",
-        "posted_time": "12 minutes ago",
+        "posted_time": "21 minutes ago",
         "link": "https://replit.com/bounties/@FardeemMunir1/decrypt-aes-gcm-encr"
     }
 ]
