@@ -9846,7 +9846,7 @@
         "title": "pinescript indicator",
         "description": "Create a pinescript indicator that creates a line for high and low of day of yesterday on an intraday timeframe. For example if I am on 5 minute chart there should be a line where the high of day was yesterday. There should be no repainting in the strategy\n\nAcceptance Criteria\nI want it to work on all intraday time frames.\nNo repainting.\nI want it to be able to be used for low of day yesterday as well. There should be a user input for high or low of day yesterday.\nIt should work with whatever symbol I have entered on the chart in tradingview.",
         "author": "TradersLaunch",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@TradersLaunch/pinescript-indicator"
     },
     {
