@@ -9786,7 +9786,7 @@
         "title": "Simple web scrape to csv",
         "description": "This one actually is pretty easy, the site doesn\u2019t have any cruft on it and you might just be able to hit the api and paginate through to get everything. The site contains a list of individuals a list of companies, and a list of relationships between individuals and companies they have done business with. There are also simple detail pages on all three entity types - individuals, companies, and deals.\n\nIt\u2019s definitely not LinkedIn; probably <10,000 entities total.\n\nTwo known gotchas:\nfor maintenance purposes I would prefer you use python, specifically the requests-HTML library and its CSS selector feature, rather than beautifulsoup or lxml. Please note that you read this line in your application.\nthe site is serving several database tables that have one to many relationships and I need some sort of sane way of representing this in the spreadsheet. I would like to flatten the tables around the individuals, but then still pull the tables for the companies into a separ...",
         "author": "mkuz",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@mkuz/simple-web-scrape-to"
     },
     {
@@ -9796,7 +9796,7 @@
         "title": "Marketing site template build for digital agency",
         "description": "I am in the process of rebranding my digital agency and rebuilding the company website along the way. I am looking for someone to build a custom website template using next.js that will contain the following:\n\nresponsive across mobile, desktop and tablet\nheader\nfooter\nmobile and desktop navigation\nparallax content page that can be used for all subsequent pages\nmodal that directs to case studies page after filling out a simple questioner form\ncase study page\n\nI will then take the template and build out the rest of the site myself, make needed CMS integrations, etc.\n\nComplete concept is designed and ready. See Figma link below:\n\nFigma designs\n\nAcceptance Criteria\nFully working components mentioned above and composed into pages needed to validate the template described in the problem statement\nCross device validation (template works well in Chrome, Safari, Android and iOS)\nWorking parallax page that is able to parallax between N number of pages (scalability is very important)\nWorking form...",
         "author": "a-allen",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@a-allen/marketing-site-templ"
     },
     {
@@ -9806,7 +9806,7 @@
         "title": "Flet for Python not Running",
         "description": "flet for python isnt running  (permission denied))\n\nAcceptance Criteria\nMake it run without errors\n\nhttps://replit.com/@gcapedro/bots-lead-machine?v=1",
         "author": "gcapedro",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@gcapedro/flet-for-python-not"
     },
     {
@@ -9816,7 +9816,7 @@
         "title": "Build Ory login example with Sveltekit Frontend and Elysia.js Backend",
         "description": "I want to see best practice example of using ory.sh login (managed service they have a free dev tier) with sveltekit as the frontend and elysia.js as the backend.\n\nAcceptance Criteria\nLogin Form with redirect on success\nProtected page example\nGetting data from a protected API route example\nLogout example\nDoes not need to be styled\nWe will open source on our github with credit to creator",
         "author": "JakeGibson1",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@JakeGibson1/build-ory-login-exam"
     },
     {
@@ -9826,7 +9826,7 @@
         "title": "Add Drag and Drop and Save functionality to Svelvet.io",
         "description": "1) We need to be able to drag an element from outside the Svelvet canvas and drop it on it to the canvas to create a new svelvet node with custom metadata based on which element was dropped.  example from another library https://reactflow.dev/docs/examples/interaction/drag-and-drop/\n\n2) Currently svelvet uses a svelte store to track the node and edges objects. We need a concept of a save button. So svelvet can use it's current store as normal, but we will need a second tracking changes since the last \"save\" and on cancel/close revert to the state of last saved changes.\nAcceptance Criteria\nDrag a non svelvet dom element onto the canvas and create a new svelvet node with custom properties based on which element was dropped\nAbility to save a state of the svelvet diagram\nAbility to revert to last save of the svelvet diagram\nMust stick as reasonably close to Svelvet current conventions to increase chance of merge with main project\nMust still assume svelvet being imported...",
         "author": "JakeGibson1",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@JakeGibson1/add-drag-and-drop-an"
     },
     {
@@ -9836,7 +9836,7 @@
         "title": "AI Music Chatbot with ChatGPT API & LangChain ",
         "description": "I am looking for a skilled developer to create a Music Chatbot Butler.\n\nTask:\nDevelop a Music Chatbot Butler that can recommend music based on mood or activity, popular music, music decade, music features/instruments, and music recommendations from experts.\nEnsure that the chatbot can reject any other chitchat and only engage in conversations related to music.\nDevelop the code using langchain and chatGPT (new gpt-3.5-turbo model).\nImplement the code in Python/Streamlit or Vercel\nEnsure that the chatbot is aware of the user's default history, which includes a list of the top 10 artists of the user, the last 10 songs the user listened to, and the top 3 genres the user likes. The code should cater to this information and inform the chatbot about the user.\nCreate a unique identity for the chatbot and start the conversation with each user based on what it knows about the user.\nEnable the chatbot to query the internet for new music releases or charting music.\nEnsure that all music recommenda...",
         "author": "ElieHabib",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@ElieHabib/ai-music-chatbot-wit"
     },
     {
@@ -9846,7 +9846,7 @@
         "title": "pinescript indicator",
         "description": "Create a pinescript indicator that creates a line for high and low of day of yesterday on an intraday timeframe. For example if I am on 5 minute chart there should be a line where the high of day was yesterday. There should be no repainting in the strategy\n\nAcceptance Criteria\nI want it to work on all intraday time frames.\nNo repainting.\nI want it to be able to be used for low of day yesterday as well. There should be a user input for high or low of day yesterday.\nIt should work with whatever symbol I have entered on the chart in tradingview.",
         "author": "TradersLaunch",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@TradersLaunch/pinescript-indicator"
     },
     {
@@ -9856,7 +9856,7 @@
         "title": "AI Marketing Plan Generator That Lives On Word Press.",
         "description": "Consultants often face the challenge of creating an effective marketing strategy that not only captures the attention of the target audience but also aligns with the company's goals and objectives. To achieve this, they must conduct thorough research to understand the market, competition, and customer needs. However, the challenge arises when trying to balance the client's vision with data-driven insights, leading to a cohesive and actionable marketing plan. Additionally, consultants must constantly adapt to changing market trends and consumer behaviors to ensure their marketing strategies remain relevant and effective over time.\n\nI would like to create StratBot.\n\nStratBot would leverage natural language processing and machine learning algorithms to guide consultants through the process of creating a marketing strategy. The chatbot would start by asking the consultant a series of questions about the client's business goals, target audience, competition, and budget....",
         "author": "AdrianHunter2",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@AdrianHunter2/ai-marketing-plan-ge"
     },
     {
@@ -9866,7 +9866,7 @@
         "title": "Wrap You.com in an api (JS or Python)",
         "description": "You.com does not have an api\nI want to be able to call the https://you.com/search?q= route & receive a response - like an api\nI'm fine with loading cookies from a browser into program manually as part of the setup\n\nAcceptance Criteria\n\nTechnical Details\nLike ChatGPT Wrapper: https://github.com/mmabrouk/chatgpt-wrapper, but for You.com\n\nLink to Project\n\nWill pay additional (more than the cycles here) for a good solution",
         "author": "AskProgrammers",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@AskProgrammers/wrap-youcom-in-an-ap"
     },
     {
@@ -9876,7 +9876,7 @@
         "title": "Backend for AI Flashcard app",
         "description": "I am building a Python FastAPI backend and need the following:\n\nA static front-page that supports login (can use a basic template like Bootstrap)\nOAuth login\nAbility for users to register a Readwise API key\nAbility for user to generate multiple API tokens for this app\nPeriodic fetching of new highlights (I have this partially implemented)\nQuerying GPT to generate flash cards (I have this partially implemented)\nStoring their highlights and flashcards in a database, with timestamps (so we can fetch just the updates).\nA REST API end point to fetch these (with an access token)\n\nAcceptance Criteria\nThe above functionalities added\nMy signoff (I want the opportunity to do code reviews)\n\nIdeally there would be intermediate deliverables, such as the login functionality, etc.",
         "author": "alexbowe",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@alexbowe/backend-for-ai-flash"
     }
 ]
