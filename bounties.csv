@@ -8243,7 +8243,7 @@ and working
 Technical Details
 
 Link to Project
-https://replit.com/@muhammedhashmin/World-cup-quiz",muhammedhashmin,11 hours ago,https://replit.com/bounties/@muhammedhashmin/help-in-creating-nex
+https://replit.com/@muhammedhashmin/World-cup-quiz",muhammedhashmin,12 hours ago,https://replit.com/bounties/@muhammedhashmin/help-in-creating-nex
 992,$450.00,due in 3 days,"ChatGPT API conversations via iMessage, store message history","I want to be able to have conversations with ChatGPT via iMessage (use https://sendblue.co/ API).
 Messages sent to ChatGPT to include previous messages for context and conversation flow.
 All messages to be stored in a database.
@@ -8262,3 +8262,14 @@ Technical Details
 Solution must be able to run on Windows 10 OR be able to hosted on a website easily
 
 Email me with any questions.",sakethn,2 hours ago,https://replit.com/bounties/@sakethn/lifesize-face-print
+994,$900.00,due in 13 days,Lunar resources tabletop game in Python with reinforcement learning,"We’ve developed a turn-based tabletop game that involves resources on the Moon. The complete rulebook is here: https://docs.google.com/document/d/1ZtjLaQvcQ4v4cjwayyOZk9FVBdKJm-9pODpDKhpFYE8/edit?usp=share_link. The game includes actions such as:
+Deploying landers with cargo
+Building assets like solar power masts, bases, etc.
+Prospecting for ice
+Mining resources to produce rocket propellant
+
+We want to have this game implemented in Python with reinforcement learning using self-play. The game will allow a user to play against the trained computer via command line prompts (or simple UI), and allow the trained computer to play against itself. There will be at least a simple visual representation of what is happening on the board in addition to text-based output.
+
+Acceptance Criteria
+All gameplay mechanics in the rulebook are implemented correctly in Python.
+There should be three main ways to run the code: (1) train via self-play, (2) human play against trained computer...",kmcannon,16 minutes ago,https://replit.com/bounties/@kmcannon/lunar-resources-tabl
