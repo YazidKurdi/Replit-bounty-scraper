@@ -9876,7 +9876,7 @@
         "title": "Backend for AI Flashcard app",
         "description": "I am building a Python FastAPI backend and need the following:\n\nA static front-page that supports login (can use a basic template like Bootstrap)\nOAuth login\nAbility for users to register a Readwise API key\nAbility for user to generate multiple API tokens for this app\nPeriodic fetching of new highlights (I have this partially implemented)\nQuerying GPT to generate flash cards (I have this partially implemented)\nStoring their highlights and flashcards in a database, with timestamps (so we can fetch just the updates).\nA REST API end point to fetch these (with an access token)\n\nAcceptance Criteria\nThe above functionalities added\nMy signoff (I want the opportunity to do code reviews)\n\nIdeally there would be intermediate deliverables, such as the login functionality, etc.",
         "author": "alexbowe",
-        "posted_time": "23 hours ago",
+        "posted_time": "24 hours ago",
         "link": "https://replit.com/bounties/@alexbowe/backend-for-ai-flash"
     },
     {
@@ -9906,7 +9906,7 @@
         "title": "Implement a Bayesian hierarchical model using PyMC",
         "description": "I would like you to create a model like the one described in https://link.springer.com/article/10.3758/s13428-018-1183-8. You can generate sample data to match the data described in the paper. Figure 2 in the paper describes the model graphically. I would like to see this all in a jupyter notebook, but open to other frontends if you have something in mind. I want to see graphs of the posterior distribution of the model. I want the model to include all of the latent variables. It should include covariates for minutes per game and position like the paper.",
         "author": "phonetonote",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@phonetonote/implement-a-bayesian"
     },
     {
@@ -9936,7 +9936,7 @@
         "title": "Lifesize Face Print",
         "description": "Given an image (which includes the side profile of someone's face + a ruler with mm indications) print a life-sized version of that person's face\nImage will be like attached: https://imgur.com/a/4vj8Lsc\n\nTechnical Details\nSolution must be able to run on Windows 10 OR be able to hosted on a website easily\n\nEmail me with any questions.",
         "author": "sakethn",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@sakethn/lifesize-face-print"
     },
     {
@@ -9956,7 +9956,7 @@
         "title": "\ud83e\uddee Agile Pointing Calculator \ud83d\udcb0",
         "description": "Looking for someone to create a tool for pointing stories/epics for Agile ceremonies.\nThis will be hosted on the website pointing.charity\n\nI plan to host it in Vercel for fast loading.\nI don't really have a preference for language.\nI'd like the UI to be Bootstrap/Material UI style.\n\nBasic tool functions:\n\nhttps://www.figma.com/file/xrj4oOu0SnFetYJBTuppfi/Points.Charity?node-id=0%3A1&t=aSJ8PwbXfVgviIxa-1\nOutlined here, you can enter prototype mode and test there. Feel free to leave comments with any questions.\n\nAcceptance Criteria\n\nA bootstrap minimal/UI friendly design.\nFunctionality according to the above.\nNo data storage after session has ended\nAbility to export png of session\n\nTechnical Details\n\nI plan to host this in Vercel, I don't really have a preference of language it's written in, but need the code commented and able to be edited by future hunters.\nIt should be able to handle 100 concurrent sessions.\n\nTimelines / Milestones:\n\nv1 - Basic functionality (Addi...",
         "author": "Bandos1000",
-        "posted_time": "22 minutes ago",
+        "posted_time": "32 minutes ago",
         "link": "https://replit.com/bounties/@Bandos1000/agile-pointing-calcu"
     },
     {
@@ -9966,7 +9966,7 @@
         "title": "\ud83e\udd16 Agile Pointing Calculator  \ud83e\uddee",
         "description": "Looking for someone to create a tool for pointing stories/epics for Agile ceremonies.\nThis will be hosted on the website pointing.charity\n\nI plan to host it in Vercel for fast loading.\nI don't really have a preference for language.\nI'd like the UI to be Bootstrap/Material UI style.\n\nBasic tool functions:\n\nhttps://www.figma.com/file/xrj4oOu0SnFetYJBTuppfi/Points.Charity?node-id=0%3A1&t=aSJ8PwbXfVgviIxa-1\nOutlined here, you can enter prototype mode and test there. Feel free to leave comments with any questions.\n\nAcceptance Criteria\n\nA bootstrap minimal/UI friendly design.\nFunctionality according to the above.\nNo data storage after session has ended\nAbility to export png of session\n\nTechnical Details\n\nI plan to host this in Vercel, I don't really have a preference of language it's written in, but need the code commented and able to be edited by future hunters.\nIt should be able to handle 100 concurrent sessions.\n\nTimelines / Milestones:\n\nv1 - Basic functionality (Addi...",
         "author": "Bandos1000",
-        "posted_time": "19 minutes ago",
+        "posted_time": "29 minutes ago",
         "link": "https://replit.com/bounties/@Bandos1000/agile-pointing-calcu-1"
     }
 ]
