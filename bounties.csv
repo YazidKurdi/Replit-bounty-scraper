@@ -8224,7 +8224,7 @@ Ideally there would be intermediate deliverables, such as the login functionalit
 Acceptance Criteria
 I would like my own bot to instantly book Resy.com reservations for whatever restaurant I am interested in.
 There are already some Resy bot project code examples available on GitHub (example: https://github.com/Alkaar/resy-booking-bot)
-I need you to create a very easy-to-use web app for me to use. I am non-technical so it must be fully functional and intuitive",ConnorTimmerma1,13 hours ago,https://replit.com/bounties/@ConnorTimmerma1/resycom-booking-bot
+I need you to create a very easy-to-use web app for me to use. I am non-technical so it must be fully functional and intuitive",ConnorTimmerma1,14 hours ago,https://replit.com/bounties/@ConnorTimmerma1/resycom-booking-bot
 989,$45.00,closed,Decrypt AES-GCM encrypted data with key using web crypto api in javascript,"Apple stores it's phone numbers for a facetime call on a person's mac computer in an encrypted manner. Given the encrypted data (an array of 44 numbers) and the base64 key, write a javascript function that returns the phone number. This is already implemented in python and go here: https://github.com/n0fate/OS-X-Continuity, https://github.com/rusq/osx-callhistory-decryptor. I would just like to implement it in client side javascript.
 
 Acceptance Criteria
@@ -8255,3 +8255,10 @@ Provide login to configuration interface
 
 Technical Details
 Python, openai API, sendblue API, webhook, database",pilkster,3 hours ago,https://replit.com/bounties/@pilkster/chatgpt-api-conversa
+993,$59.40,due in 25 days,Lifesize Face Print,"Given an image (which includes the side profile of someone's face + a ruler with mm indications) print a life-sized version of that person's face
+Image will be like attached: https://imgur.com/a/4vj8Lsc
+
+Technical Details
+Solution must be able to run on Windows 10 OR be able to hosted on a website easily
+
+Email me with any questions.",sakethn,16 minutes ago,https://replit.com/bounties/@sakethn/lifesize-face-print

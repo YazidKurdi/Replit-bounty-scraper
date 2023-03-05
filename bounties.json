@@ -9886,7 +9886,7 @@
         "title": "Resy.com booking bot. User friendly for non-technical user (myself)",
         "description": "Most restaurant dinner reservations at top restaurants get booked instantly via bots. I am therefore unable to get reservations that I want.\n\nAcceptance Criteria\nI would like my own bot to instantly book Resy.com reservations for whatever restaurant I am interested in.\nThere are already some Resy bot project code examples available on GitHub (example: https://github.com/Alkaar/resy-booking-bot)\nI need you to create a very easy-to-use web app for me to use. I am non-technical so it must be fully functional and intuitive",
         "author": "ConnorTimmerma1",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@ConnorTimmerma1/resycom-booking-bot"
     },
     {
@@ -9928,5 +9928,15 @@
         "author": "pilkster",
         "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@pilkster/chatgpt-api-conversa"
+    },
+    {
+        "index": "993",
+        "price": "$59.40",
+        "due_days": "due in 25 days",
+        "title": "Lifesize Face Print",
+        "description": "Given an image (which includes the side profile of someone's face + a ruler with mm indications) print a life-sized version of that person's face\nImage will be like attached: https://imgur.com/a/4vj8Lsc\n\nTechnical Details\nSolution must be able to run on Windows 10 OR be able to hosted on a website easily\n\nEmail me with any questions.",
+        "author": "sakethn",
+        "posted_time": "16 minutes ago",
+        "link": "https://replit.com/bounties/@sakethn/lifesize-face-print"
     }
 ]
