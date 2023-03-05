@@ -9866,7 +9866,7 @@
         "title": "Wrap You.com in an api (JS or Python)",
         "description": "You.com does not have an api\nI want to be able to call the https://you.com/search?q= route & receive a response - like an api\nI'm fine with loading cookies from a browser into program manually as part of the setup\n\nAcceptance Criteria\n\nTechnical Details\nLike ChatGPT Wrapper: https://github.com/mmabrouk/chatgpt-wrapper, but for You.com\n\nLink to Project\n\nWill pay additional (more than the cycles here) for a good solution",
         "author": "AskProgrammers",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@AskProgrammers/wrap-youcom-in-an-ap"
     },
     {
@@ -9876,7 +9876,7 @@
         "title": "Backend for AI Flashcard app",
         "description": "I am building a Python FastAPI backend and need the following:\n\nA static front-page that supports login (can use a basic template like Bootstrap)\nOAuth login\nAbility for users to register a Readwise API key\nAbility for user to generate multiple API tokens for this app\nPeriodic fetching of new highlights (I have this partially implemented)\nQuerying GPT to generate flash cards (I have this partially implemented)\nStoring their highlights and flashcards in a database, with timestamps (so we can fetch just the updates).\nA REST API end point to fetch these (with an access token)\n\nAcceptance Criteria\nThe above functionalities added\nMy signoff (I want the opportunity to do code reviews)\n\nIdeally there would be intermediate deliverables, such as the login functionality, etc.",
         "author": "alexbowe",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@alexbowe/backend-for-ai-flash"
     },
     {
@@ -9896,7 +9896,7 @@
         "title": "Decrypt AES-GCM encrypted data with key using web crypto api in javascript",
         "description": "Apple stores it's phone numbers for a facetime call on a person's mac computer in an encrypted manner. Given the encrypted data (an array of 44 numbers) and the base64 key, write a javascript function that returns the phone number. This is already implemented in python and go here: https://github.com/n0fate/OS-X-Continuity, https://github.com/rusq/osx-callhistory-decryptor. I would just like to implement it in client side javascript.\n\nAcceptance Criteria\nFunction converts encrypted data into readable phone number.\n\nTechnical Details\n\nLink to Project",
         "author": "FardeemMunir1",
-        "posted_time": "30 minutes ago",
+        "posted_time": "40 minutes ago",
         "link": "https://replit.com/bounties/@FardeemMunir1/decrypt-aes-gcm-encr"
     }
 ]
