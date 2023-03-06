@@ -9926,7 +9926,7 @@
         "title": "ChatGPT API conversations via iMessage, store message history",
         "description": "I want to be able to have conversations with ChatGPT via iMessage (use https://sendblue.co/ API).\nMessages sent to ChatGPT to include previous messages for context and conversation flow.\nAll messages to be stored in a database.\nProvide a private/password protected configuration interface for me to configure settings such as \u2018system\u2019 message, temperature, maximum length etc\n\nAcceptance Criteria\nDemonstrate conversation with ChatGPT over iMessage\nProvide login to configuration interface\n\nTechnical Details\nPython, openai API, sendblue API, webhook, database",
         "author": "pilkster",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@pilkster/chatgpt-api-conversa"
     },
     {
