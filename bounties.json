@@ -10046,7 +10046,7 @@
         "title": "FPL Bot GraphQL subscription bug",
         "description": "I have a graphQL query that is reading from a live event feed of all English Premier League Matches.\n\nI already have some code up and running but it is buggy and not able to handle subscribing to GraphQL asynchronously\nI want to:\nTurn on the query subscription and off depending on if their are matches ongoing\nKeep the code always running\nSave the data in a DB in order for it to be later used in a bot/chat like functionality\n\nAcceptance Criteria\nGiven a list of match date times, turn on subscription before the match and end subscription after match by X minutes\nNo manual triggering\nSaving responses from subscription in a DB",
         "author": "AliElfakharany1",
-        "posted_time": "29 minutes ago",
+        "posted_time": "38 minutes ago",
         "link": "https://replit.com/bounties/@AliElfakharany1/fpl-bot-graphql-subs"
     }
 ]
