@@ -9996,7 +9996,7 @@
         "title": "Deploy existing site to netlify/render.com",
         "description": "We tried deploying on netlify but ran into many bugs with creating the Python virtual environment and the dependencies.\n\nAcceptance Criteria\nProvide a Github or evidence of past experience.\n\nTechnical Details\nDeploy https://github.com/PersonaLearn/PersonaLearn on my account, I will send you credentials.",
         "author": "AJGupta",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/deploy-existing-site"
     },
     {
@@ -10016,7 +10016,7 @@
         "title": "Realistically replace person in template images with person from trained model",
         "description": "Our goal is to utilize 4 template images (a man with puppies, a man hiking, a man in a business suit, a man on stage as a rock star), replacing only the man in the template image with a different person (our \"subject\"), using as small number of training images of the new subject as possible.\n\nYou may want to try this with masking on the template image where the person appears, then use in-painting; however, you can use whichever automated methods you wish to achieve the results, as long as they have roughly similar performance to Stable Diffusion's in-painting after polishing.\n\nOnce you achieve satisfactory image results, you should be able to optimize the processes for speed, cost, and number of training images needed.  We have a server running Stable Diffusion where we will deploy the final setup, which you can utilize if needed.  You can start with 10 images of the subject from a test set that we've gathered to train the model, and we'll aim to reduce it so it on...",
         "author": "ColinHodge",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@ColinHodge/realistically-replac"
     },
     {
@@ -10026,7 +10026,7 @@
         "title": "Chargeback handling tool ",
         "description": "As discussed",
         "author": "AndrewShowman",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/chargeback-handling"
     },
     {
