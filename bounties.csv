@@ -8398,4 +8398,4 @@ Save the data in a DB in order for it to be later used in a bot/chat like functi
 Acceptance Criteria
 Given a list of match date times, turn on subscription before the match and end subscription after match by X minutes
 No manual triggering
-Saving responses from subscription in a DB",AliElfakharany1,38 minutes ago,https://replit.com/bounties/@AliElfakharany1/fpl-bot-graphql-subs
+Saving responses from subscription in a DB",AliElfakharany1,48 minutes ago,https://replit.com/bounties/@AliElfakharany1/fpl-bot-graphql-subs
