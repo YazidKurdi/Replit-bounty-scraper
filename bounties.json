@@ -9946,7 +9946,7 @@
         "title": "Lunar resources tabletop game in Python with reinforcement learning",
         "description": "We\u2019ve developed a turn-based tabletop game that involves resources on the Moon. The complete rulebook is here: https://docs.google.com/document/d/1ZtjLaQvcQ4v4cjwayyOZk9FVBdKJm-9pODpDKhpFYE8/edit?usp=share_link. The game includes actions such as:\nDeploying landers with cargo\nBuilding assets like solar power masts, bases, etc.\nProspecting for ice\nMining resources to produce rocket propellant\n\nWe want to have this game implemented in Python with reinforcement learning using self-play. The game will allow a user to play against the trained computer via command line prompts (or simple UI), and allow the trained computer to play against itself. There will be at least a simple visual representation of what is happening on the board in addition to text-based output.\n\nAcceptance Criteria\nAll gameplay mechanics in the rulebook are implemented correctly in Python.\nThere should be three main ways to run the code: (1) train via self-play, (2) human play against trained computer...",
         "author": "kmcannon",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@kmcannon/lunar-resources-tabl"
     },
     {
@@ -9976,7 +9976,7 @@
         "title": "Build a Shopify \ud83e\udd1d Blockchain experience with thirdweb",
         "description": "Use Shopify and thirdweb's robust APIs and blockchain components to develop token-powered commerce experiences that drive loyalty, foster brand collaborations, and empower communities.\n\nThemes\nConnecting brands with fans\nRetention and loyalty\nDiscovery of new buyers\nBrand collaboration\n\nTools\n\nShopify Blockchain\nGates API\nBlockchain Components\n\nthirdweb\nCommerceKit\n\n\u23f0 All projects will be reviewed on April 3rd, 2023 at 12pm EST. The bounty deadline is the target deadline for applications to be submitted.\n\nAcceptance Criteria\nTo be considered, your application must be a finished project and include a link to a Repl or Github repository.\n\nYour project will be evaluated on the following criteria:\nThe end user experience should be simple and approachable. The goal is to create easy-mode for tokengated loyalty and brand collaborations. Avoid using crypto jargon, abstract away unfamiliar web3 patterns, and focus on ease of use.\nCreative and innovative solution grounded in...",
         "author": "thirdwebShopify",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@thirdwebShopify/build-a-shopify-bloc"
     },
     {
@@ -9986,7 +9986,7 @@
         "title": "Add Bootstrap Theme to Project",
         "description": "Add Bootstrap theme to Replit project, using the goal planner project (already shared).\nhttps://startbootstrap.com/theme/sb-admin-2\n\nsee dashboard.html as an example\n\nupdate all pages to bootstrap theme\n\nAdd\nIn the dashboard (use homepage) add tile for total of goals created and tile for number of goals completed.\n\nAcceptance Criteria\n\nTechnical Details\n\nTimelines / Milestones",
         "author": "BrandonF7",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@BrandonF7/add-bootstrap-theme"
     },
     {
