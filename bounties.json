@@ -9936,7 +9936,7 @@
         "title": "Lifesize Face Print",
         "description": "Given an image (which includes the side profile of someone's face + a ruler with mm indications) print a life-sized version of that person's face\nImage will be like attached: https://imgur.com/a/4vj8Lsc\n\nTechnical Details\nSolution must be able to run on Windows 10 OR be able to hosted on a website easily\n\nEmail me with any questions.",
         "author": "sakethn",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@sakethn/lifesize-face-print"
     },
     {
@@ -9956,7 +9956,7 @@
         "title": "\ud83e\uddee Agile Pointing Calculator \ud83d\udcb0",
         "description": "Looking for someone to create a tool for pointing stories/epics for Agile ceremonies.\nThis will be hosted on the website pointing.charity\n\nI plan to host it in Vercel for fast loading.\nI don't really have a preference for language.\nI'd like the UI to be Bootstrap/Material UI style.\n\nBasic tool functions:\n\nhttps://www.figma.com/file/xrj4oOu0SnFetYJBTuppfi/Points.Charity?node-id=0%3A1&t=aSJ8PwbXfVgviIxa-1\nOutlined here, you can enter prototype mode and test there. Feel free to leave comments with any questions.\n\nAcceptance Criteria\n\nA bootstrap minimal/UI friendly design.\nFunctionality according to the above.\nNo data storage after session has ended\nAbility to export png of session\n\nTechnical Details\n\nI plan to host this in Vercel, I don't really have a preference of language it's written in, but need the code commented and able to be edited by future hunters.\nIt should be able to handle 100 concurrent sessions.\n\nTimelines / Milestones:\n\nv1 - Basic functionality (Addi...",
         "author": "Bandos1000",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/agile-pointing-calcu"
     },
     {
@@ -10016,7 +10016,7 @@
         "title": "Realistically replace person in template images with person from trained model",
         "description": "Our goal is to utilize 4 template images (a man with puppies, a man hiking, a man in a business suit, a man on stage as a rock star), replacing only the man in the template image with a different person (our \"subject\"), using as small number of training images of the new subject as possible.\n\nYou may want to try this with masking on the template image where the person appears, then use in-painting; however, you can use whichever automated methods you wish to achieve the results, as long as they have roughly similar performance to Stable Diffusion's in-painting after polishing.\n\nOnce you achieve satisfactory image results, you should be able to optimize the processes for speed, cost, and number of training images needed.  We have a server running Stable Diffusion where we will deploy the final setup, which you can utilize if needed.  You can start with 10 images of the subject from a test set that we've gathered to train the model, and we'll aim to reduce it so it on...",
         "author": "ColinHodge",
-        "posted_time": "8 minutes ago",
+        "posted_time": "15 minutes ago",
         "link": "https://replit.com/bounties/@ColinHodge/realistically-replac"
     }
 ]
