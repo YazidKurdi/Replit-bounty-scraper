@@ -8224,7 +8224,7 @@ Ideally there would be intermediate deliverables, such as the login functionalit
 Acceptance Criteria
 I would like my own bot to instantly book Resy.com reservations for whatever restaurant I am interested in.
 There are already some Resy bot project code examples available on GitHub (example: https://github.com/Alkaar/resy-booking-bot)
-I need you to create a very easy-to-use web app for me to use. I am non-technical so it must be fully functional and intuitive",ConnorTimmerma1,21 hours ago,https://replit.com/bounties/@ConnorTimmerma1/resycom-booking-bot
+I need you to create a very easy-to-use web app for me to use. I am non-technical so it must be fully functional and intuitive",ConnorTimmerma1,22 hours ago,https://replit.com/bounties/@ConnorTimmerma1/resycom-booking-bot
 989,$45.00,closed,Decrypt AES-GCM encrypted data with key using web crypto api in javascript,"Apple stores it's phone numbers for a facetime call on a person's mac computer in an encrypted manner. Given the encrypted data (an array of 44 numbers) and the base64 key, write a javascript function that returns the phone number. This is already implemented in python and go here: https://github.com/n0fate/OS-X-Continuity, https://github.com/rusq/osx-callhistory-decryptor. I would just like to implement it in client side javascript.
 
 Acceptance Criteria
@@ -8232,7 +8232,7 @@ Function converts encrypted data into readable phone number.
 
 Technical Details
 
-Link to Project",FardeemMunir1,19 hours ago,https://replit.com/bounties/@FardeemMunir1/decrypt-aes-gcm-encr
+Link to Project",FardeemMunir1,20 hours ago,https://replit.com/bounties/@FardeemMunir1/decrypt-aes-gcm-encr
 990,$450.00,due in 10 days,Implement a Bayesian hierarchical model using PyMC,"I would like you to create a model like the one described in https://link.springer.com/article/10.3758/s13428-018-1183-8. You can generate sample data to match the data described in the paper. Figure 2 in the paper describes the model graphically. I would like to see this all in a jupyter notebook, but open to other frontends if you have something in mind. I want to see graphs of the posterior distribution of the model. I want the model to include all of the latent variables. It should include covariates for minutes per game and position like the paper.",phonetonote,18 hours ago,https://replit.com/bounties/@phonetonote/implement-a-bayesian
 991,$4.50,due in 12 days,Help In creating next button in my quiz,"I need next button in my project called quiz
 and i tired add its not coming and after choosing
@@ -8243,7 +8243,7 @@ and working
 Technical Details
 
 Link to Project
-https://replit.com/@muhammedhashmin/World-cup-quiz",muhammedhashmin,17 hours ago,https://replit.com/bounties/@muhammedhashmin/help-in-creating-nex
+https://replit.com/@muhammedhashmin/World-cup-quiz",muhammedhashmin,18 hours ago,https://replit.com/bounties/@muhammedhashmin/help-in-creating-nex
 992,$450.00,due in 3 days,"ChatGPT API conversations via iMessage, store message history","I want to be able to have conversations with ChatGPT via iMessage (use https://sendblue.co/ API).
 Messages sent to ChatGPT to include previous messages for context and conversation flow.
 All messages to be stored in a database.
@@ -8254,7 +8254,7 @@ Demonstrate conversation with ChatGPT over iMessage
 Provide login to configuration interface
 
 Technical Details
-Python, openai API, sendblue API, webhook, database",pilkster,11 hours ago,https://replit.com/bounties/@pilkster/chatgpt-api-conversa
+Python, openai API, sendblue API, webhook, database",pilkster,12 hours ago,https://replit.com/bounties/@pilkster/chatgpt-api-conversa
 993,$59.40,due in 25 days,Lifesize Face Print,"Given an image (which includes the side profile of someone's face + a ruler with mm indications) print a life-sized version of that person's face
 Image will be like attached: https://imgur.com/a/4vj8Lsc
 
@@ -8272,7 +8272,7 @@ We want to have this game implemented in Python with reinforcement learning usin
 
 Acceptance Criteria
 All gameplay mechanics in the rulebook are implemented correctly in Python.
-There should be three main ways to run the code: (1) train via self-play, (2) human play against trained computer...",kmcannon,6 hours ago,https://replit.com/bounties/@kmcannon/lunar-resources-tabl
+There should be three main ways to run the code: (1) train via self-play, (2) human play against trained computer...",kmcannon,7 hours ago,https://replit.com/bounties/@kmcannon/lunar-resources-tabl
 995,$27.00,closed,🧮 Agile Pointing Calculator 💰,"Looking for someone to create a tool for pointing stories/epics for Agile ceremonies.
 This will be hosted on the website pointing.charity
 
@@ -8326,4 +8326,29 @@ It should be able to handle 100 concurrent sessions.
 
 Timelines / Milestones:
 
-v1 - Basic functionality (Addi...",Bandos1000,4 hours ago,https://replit.com/bounties/@Bandos1000/agile-pointing-calcu-1
+v1 - Basic functionality (Addi...",Bandos1000,5 hours ago,https://replit.com/bounties/@Bandos1000/agile-pointing-calcu-1
+997,"$9,000.00",due in 21 days,Build a Shopify 🤝 Blockchain experience with thirdweb,"Use Shopify and thirdweb's robust APIs and blockchain components to develop token-powered commerce experiences that drive loyalty, foster brand collaborations, and empower communities.
+
+Themes
+Connecting brands with fans
+Retention and loyalty
+Discovery of new buyers
+Brand collaboration
+
+Tools
+
+Shopify Blockchain
+Gates API
+Blockchain Components
+
+thirdweb
+CommerceKit
+
+⏰ All projects will be reviewed on April 3rd, 2023 at 12pm EST. The bounty deadline is the target deadline for applications to be submitted.
+
+Acceptance Criteria
+To be considered, your application must be a finished project and include a link to a Repl or Github repository.
+
+Your project will be evaluated on the following criteria:
+The end user experience should be simple and approachable. The goal is to create easy-mode for tokengated loyalty and brand collaborations. Avoid using crypto jargon, abstract away unfamiliar web3 patterns, and focus on ease of use.
+Creative and innovative solution grounded in...",thirdwebShopify,2 minutes ago,https://replit.com/bounties/@thirdwebShopify/build-a-shopify-bloc
