@@ -8272,7 +8272,7 @@ We want to have this game implemented in Python with reinforcement learning usin
 
 Acceptance Criteria
 All gameplay mechanics in the rulebook are implemented correctly in Python.
-There should be three main ways to run the code: (1) train via self-play, (2) human play against trained computer...",kmcannon,24 hours ago,https://replit.com/bounties/@kmcannon/lunar-resources-tabl
+There should be three main ways to run the code: (1) train via self-play, (2) human play against trained computer...",kmcannon,1 day ago,https://replit.com/bounties/@kmcannon/lunar-resources-tabl
 995,$27.00,closed,🧮 Agile Pointing Calculator 💰,"Looking for someone to create a tool for pointing stories/epics for Agile ceremonies.
 This will be hosted on the website pointing.charity
 
@@ -8326,7 +8326,7 @@ It should be able to handle 100 concurrent sessions.
 
 Timelines / Milestones:
 
-v1 - Basic functionality (Addi...",Bandos1000,22 hours ago,https://replit.com/bounties/@Bandos1000/agile-pointing-calcu-1
+v1 - Basic functionality (Addi...",Bandos1000,23 hours ago,https://replit.com/bounties/@Bandos1000/agile-pointing-calcu-1
 997,"$9,000.00",due in 17 days,Build a Shopify 🤝 Blockchain experience with thirdweb,"Use Shopify and thirdweb's robust APIs and blockchain components to develop token-powered commerce experiences that drive loyalty, foster brand collaborations, and empower communities.
 
 Themes
@@ -8373,7 +8373,7 @@ Acceptance Criteria
 Provide a Github or evidence of past experience.
 
 Technical Details
-Deploy https://github.com/PersonaLearn/PersonaLearn on my account, I will send you credentials.",AJGupta,15 hours ago,https://replit.com/bounties/@AJGupta/deploy-existing-site
+Deploy https://github.com/PersonaLearn/PersonaLearn on my account, I will send you credentials.",AJGupta,16 hours ago,https://replit.com/bounties/@AJGupta/deploy-existing-site
 1000,$540.00,due in 1 month,Integrate Python Mesa with pre-built LangChain agents and Deploy,"I have been developing LangChain applications for a few months now, and would like to integrate it with Python's Mesa library for agent based simulation. LangChain agents use OpenAI completions model (or any other LLM) to interact with the world through tools, memory, and personas.  Mesa is an agent based simulation framework in Python.
 
 My idea is to create simulations with LLM-based interactions. My first idea is a stock market game, where agents decide to buy or sell every state based on a LangChain LLM persona (""you are an aggressive trader"", ""you are a cautious trader"", ""you have a background in credit risk"", etc).  The market data could be fed from real equities data and loaded into the memory of the LangChain agent. I'm interested in visualizing how these agents interact and how their personas perform relative to certain KPIs (""total profits at the end of the game"" etc).
@@ -8384,6 +8384,6 @@ Experience with Python and deploying to your preferred platform quic...",ZachWau
 
 You may want to try this with masking on the template image where the person appears, then use in-painting; however, you can use whichever automated methods you wish to achieve the results, as long as they have roughly similar performance to Stable Diffusion's in-painting after polishing.
 
-Once you achieve satisfactory image results, you should be able to optimize the processes for speed, cost, and number of training images needed.  We have a server running Stable Diffusion where we will deploy the final setup, which you can utilize if needed.  You can start with 10 images of the subject from a test set that we've gathered to train the model, and we'll aim to reduce it so it on...",ColinHodge,11 hours ago,https://replit.com/bounties/@ColinHodge/realistically-replac
-1002,$100.00,due in 6 days,Chargeback handling tool ,As discussed,AndrewShowman,10 hours ago,https://replit.com/bounties/@AndrewShowman/chargeback-handling
-1003,$5.40,due in 2 months,3D Portal Game,"I would like a web based 3D puzzle game like portal, which I can make levels for (not necessarily in-game.) I would like the ability to see the other side, multiplayer support, and have at least one testing level with a show of the features.",RiverdaleSuperCoder,4 minutes ago,https://replit.com/bounties/@RiverdaleSuperCoder/3d-portal-game
+Once you achieve satisfactory image results, you should be able to optimize the processes for speed, cost, and number of training images needed.  We have a server running Stable Diffusion where we will deploy the final setup, which you can utilize if needed.  You can start with 10 images of the subject from a test set that we've gathered to train the model, and we'll aim to reduce it so it on...",ColinHodge,12 hours ago,https://replit.com/bounties/@ColinHodge/realistically-replac
+1002,$100.00,due in 6 days,Chargeback handling tool ,As discussed,AndrewShowman,11 hours ago,https://replit.com/bounties/@AndrewShowman/chargeback-handling
+1003,$5.40,due in 2 months,3D Portal Game,"I would like a web based 3D puzzle game like portal, which I can make levels for (not necessarily in-game.) I would like the ability to see the other side, multiplayer support, and have at least one testing level with a show of the features.",RiverdaleSuperCoder,23 minutes ago,https://replit.com/bounties/@RiverdaleSuperCoder/3d-portal-game

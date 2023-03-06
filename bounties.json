@@ -9946,7 +9946,7 @@
         "title": "Lunar resources tabletop game in Python with reinforcement learning",
         "description": "We\u2019ve developed a turn-based tabletop game that involves resources on the Moon. The complete rulebook is here: https://docs.google.com/document/d/1ZtjLaQvcQ4v4cjwayyOZk9FVBdKJm-9pODpDKhpFYE8/edit?usp=share_link. The game includes actions such as:\nDeploying landers with cargo\nBuilding assets like solar power masts, bases, etc.\nProspecting for ice\nMining resources to produce rocket propellant\n\nWe want to have this game implemented in Python with reinforcement learning using self-play. The game will allow a user to play against the trained computer via command line prompts (or simple UI), and allow the trained computer to play against itself. There will be at least a simple visual representation of what is happening on the board in addition to text-based output.\n\nAcceptance Criteria\nAll gameplay mechanics in the rulebook are implemented correctly in Python.\nThere should be three main ways to run the code: (1) train via self-play, (2) human play against trained computer...",
         "author": "kmcannon",
-        "posted_time": "24 hours ago",
+        "posted_time": "1 day ago",
         "link": "https://replit.com/bounties/@kmcannon/lunar-resources-tabl"
     },
     {
@@ -9966,7 +9966,7 @@
         "title": "\ud83e\udd16 Agile Pointing Calculator  \ud83e\uddee",
         "description": "Looking for someone to create a tool for pointing stories/epics for Agile ceremonies.\nThis will be hosted on the website pointing.charity\n\nI plan to host it in Vercel for fast loading.\nI don't really have a preference for language.\nI'd like the UI to be Bootstrap/Material UI style.\n\nBasic tool functions:\n\nhttps://www.figma.com/file/xrj4oOu0SnFetYJBTuppfi/Points.Charity?node-id=0%3A1&t=aSJ8PwbXfVgviIxa-1\nOutlined here, you can enter prototype mode and test there. Feel free to leave comments with any questions.\n\nAcceptance Criteria\n\nA bootstrap minimal/UI friendly design.\nFunctionality according to the above.\nNo data storage after session has ended\nAbility to export png of session\n\nTechnical Details\n\nI plan to host this in Vercel, I don't really have a preference of language it's written in, but need the code commented and able to be edited by future hunters.\nIt should be able to handle 100 concurrent sessions.\n\nTimelines / Milestones:\n\nv1 - Basic functionality (Addi...",
         "author": "Bandos1000",
-        "posted_time": "22 hours ago",
+        "posted_time": "23 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/agile-pointing-calcu-1"
     },
     {
@@ -9996,7 +9996,7 @@
         "title": "Deploy existing site to netlify/render.com",
         "description": "We tried deploying on netlify but ran into many bugs with creating the Python virtual environment and the dependencies.\n\nAcceptance Criteria\nProvide a Github or evidence of past experience.\n\nTechnical Details\nDeploy https://github.com/PersonaLearn/PersonaLearn on my account, I will send you credentials.",
         "author": "AJGupta",
-        "posted_time": "15 hours ago",
+        "posted_time": "16 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/deploy-existing-site"
     },
     {
@@ -10016,7 +10016,7 @@
         "title": "Realistically replace person in template images with person from trained model",
         "description": "Our goal is to utilize 4 template images (a man with puppies, a man hiking, a man in a business suit, a man on stage as a rock star), replacing only the man in the template image with a different person (our \"subject\"), using as small number of training images of the new subject as possible.\n\nYou may want to try this with masking on the template image where the person appears, then use in-painting; however, you can use whichever automated methods you wish to achieve the results, as long as they have roughly similar performance to Stable Diffusion's in-painting after polishing.\n\nOnce you achieve satisfactory image results, you should be able to optimize the processes for speed, cost, and number of training images needed.  We have a server running Stable Diffusion where we will deploy the final setup, which you can utilize if needed.  You can start with 10 images of the subject from a test set that we've gathered to train the model, and we'll aim to reduce it so it on...",
         "author": "ColinHodge",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@ColinHodge/realistically-replac"
     },
     {
@@ -10026,7 +10026,7 @@
         "title": "Chargeback handling tool ",
         "description": "As discussed",
         "author": "AndrewShowman",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/chargeback-handling"
     },
     {
@@ -10036,7 +10036,7 @@
         "title": "3D Portal Game",
         "description": "I would like a web based 3D puzzle game like portal, which I can make levels for (not necessarily in-game.) I would like the ability to see the other side, multiplayer support, and have at least one testing level with a show of the features.",
         "author": "RiverdaleSuperCoder",
-        "posted_time": "4 minutes ago",
+        "posted_time": "23 minutes ago",
         "link": "https://replit.com/bounties/@RiverdaleSuperCoder/3d-portal-game"
     }
 ]
