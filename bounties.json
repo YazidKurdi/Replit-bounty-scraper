@@ -10006,7 +10006,7 @@
         "title": "Integrate Python Mesa with pre-built LangChain agents and Deploy",
         "description": "I have been developing LangChain applications for a few months now, and would like to integrate it with Python's Mesa library for agent based simulation. LangChain agents use OpenAI completions model (or any other LLM) to interact with the world through tools, memory, and personas.  Mesa is an agent based simulation framework in Python.\n\nMy idea is to create simulations with LLM-based interactions. My first idea is a stock market game, where agents decide to buy or sell every state based on a LangChain LLM persona (\"you are an aggressive trader\", \"you are a cautious trader\", \"you have a background in credit risk\", etc).  The market data could be fed from real equities data and loaded into the memory of the LangChain agent. I'm interested in visualizing how these agents interact and how their personas perform relative to certain KPIs (\"total profits at the end of the game\" etc).\n\nAcceptance Criteria\nExperience with Python and deploying to your preferred platform quic...",
         "author": "ZachWaugaman",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@ZachWaugaman/integrate-python-mes"
     },
     {
