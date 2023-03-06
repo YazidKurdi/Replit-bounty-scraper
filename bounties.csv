@@ -8254,7 +8254,7 @@ Demonstrate conversation with ChatGPT over iMessage
 Provide login to configuration interface
 
 Technical Details
-Python, openai API, sendblue API, webhook, database",pilkster,16 hours ago,https://replit.com/bounties/@pilkster/chatgpt-api-conversa
+Python, openai API, sendblue API, webhook, database",pilkster,17 hours ago,https://replit.com/bounties/@pilkster/chatgpt-api-conversa
 993,$59.40,due in 25 days,Lifesize Face Print,"Given an image (which includes the side profile of someone's face + a ruler with mm indications) print a life-sized version of that person's face
 Image will be like attached: https://imgur.com/a/4vj8Lsc
 
@@ -8379,4 +8379,4 @@ Deploy https://github.com/PersonaLearn/PersonaLearn on my account, I will send y
 My idea is to create simulations with LLM-based interactions. My first idea is a stock market game, where agents decide to buy or sell every state based on a LangChain LLM persona (""you are an aggressive trader"", ""you are a cautious trader"", ""you have a background in credit risk"", etc).  The market data could be fed from real equities data and loaded into the memory of the LangChain agent. I'm interested in visualizing how these agents interact and how their personas perform relative to certain KPIs (""total profits at the end of the game"" etc).
 
 Acceptance Criteria
-Experience with Python and deploying to your preferred platform quic...",ZachWaugaman,34 minutes ago,https://replit.com/bounties/@ZachWaugaman/integrate-python-mes
+Experience with Python and deploying to your preferred platform quic...",ZachWaugaman,43 minutes ago,https://replit.com/bounties/@ZachWaugaman/integrate-python-mes

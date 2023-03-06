@@ -9926,7 +9926,7 @@
         "title": "ChatGPT API conversations via iMessage, store message history",
         "description": "I want to be able to have conversations with ChatGPT via iMessage (use https://sendblue.co/ API).\nMessages sent to ChatGPT to include previous messages for context and conversation flow.\nAll messages to be stored in a database.\nProvide a private/password protected configuration interface for me to configure settings such as \u2018system\u2019 message, temperature, maximum length etc\n\nAcceptance Criteria\nDemonstrate conversation with ChatGPT over iMessage\nProvide login to configuration interface\n\nTechnical Details\nPython, openai API, sendblue API, webhook, database",
         "author": "pilkster",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@pilkster/chatgpt-api-conversa"
     },
     {
@@ -10006,7 +10006,7 @@
         "title": "Integrate Python Mesa with pre-built LangChain agents and Deploy",
         "description": "I have been developing LangChain applications for a few months now, and would like to integrate it with Python's Mesa library for agent based simulation. LangChain agents use OpenAI completions model (or any other LLM) to interact with the world through tools, memory, and personas.  Mesa is an agent based simulation framework in Python.\n\nMy idea is to create simulations with LLM-based interactions. My first idea is a stock market game, where agents decide to buy or sell every state based on a LangChain LLM persona (\"you are an aggressive trader\", \"you are a cautious trader\", \"you have a background in credit risk\", etc).  The market data could be fed from real equities data and loaded into the memory of the LangChain agent. I'm interested in visualizing how these agents interact and how their personas perform relative to certain KPIs (\"total profits at the end of the game\" etc).\n\nAcceptance Criteria\nExperience with Python and deploying to your preferred platform quic...",
         "author": "ZachWaugaman",
-        "posted_time": "34 minutes ago",
+        "posted_time": "43 minutes ago",
         "link": "https://replit.com/bounties/@ZachWaugaman/integrate-python-mes"
     }
 ]
