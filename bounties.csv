@@ -8366,7 +8366,7 @@ Acceptance Criteria
 
 Technical Details
 
-Timelines / Milestones",BrandonF7,19 hours ago,https://replit.com/bounties/@BrandonF7/add-bootstrap-theme
+Timelines / Milestones",BrandonF7,20 hours ago,https://replit.com/bounties/@BrandonF7/add-bootstrap-theme
 999,$9.00,due in 5 days,Deploy existing site to netlify/render.com,"We tried deploying on netlify but ran into many bugs with creating the Python virtual environment and the dependencies.
 
 Acceptance Criteria
@@ -8379,7 +8379,7 @@ Deploy https://github.com/PersonaLearn/PersonaLearn on my account, I will send y
 My idea is to create simulations with LLM-based interactions. My first idea is a stock market game, where agents decide to buy or sell every state based on a LangChain LLM persona (""you are an aggressive trader"", ""you are a cautious trader"", ""you have a background in credit risk"", etc).  The market data could be fed from real equities data and loaded into the memory of the LangChain agent. I'm interested in visualizing how these agents interact and how their personas perform relative to certain KPIs (""total profits at the end of the game"" etc).
 
 Acceptance Criteria
-Experience with Python and deploying to your preferred platform quic...",ZachWaugaman,15 hours ago,https://replit.com/bounties/@ZachWaugaman/integrate-python-mes
+Experience with Python and deploying to your preferred platform quic...",ZachWaugaman,16 hours ago,https://replit.com/bounties/@ZachWaugaman/integrate-python-mes
 1001,$999.90,due in 8 days,Realistically replace person in template images with person from trained model,"Our goal is to utilize 4 template images (a man with puppies, a man hiking, a man in a business suit, a man on stage as a rock star), replacing only the man in the template image with a different person (our ""subject""), using as small number of training images of the new subject as possible.
 
 You may want to try this with masking on the template image where the person appears, then use in-painting; however, you can use whichever automated methods you wish to achieve the results, as long as they have roughly similar performance to Stable Diffusion's in-painting after polishing.
