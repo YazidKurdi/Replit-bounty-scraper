@@ -8254,7 +8254,7 @@ Demonstrate conversation with ChatGPT over iMessage
 Provide login to configuration interface
 
 Technical Details
-Python, openai API, sendblue API, webhook, database",pilkster,17 hours ago,https://replit.com/bounties/@pilkster/chatgpt-api-conversa
+Python, openai API, sendblue API, webhook, database",pilkster,18 hours ago,https://replit.com/bounties/@pilkster/chatgpt-api-conversa
 993,$59.40,due in 25 days,Lifesize Face Print,"Given an image (which includes the side profile of someone's face + a ruler with mm indications) print a life-sized version of that person's face
 Image will be like attached: https://imgur.com/a/4vj8Lsc
 
@@ -8380,3 +8380,8 @@ My idea is to create simulations with LLM-based interactions. My first idea is a
 
 Acceptance Criteria
 Experience with Python and deploying to your preferred platform quic...",ZachWaugaman,2 hours ago,https://replit.com/bounties/@ZachWaugaman/integrate-python-mes
+1001,$999.90,due in 9 days,Realistically replace person in template images with person from trained model,"Our goal is to utilize 4 template images (a man with puppies, a man hiking, a man in a business suit, a man on stage as a rock star), replacing only the man in the template image with a different person (our ""subject""), using as small number of training images of the new subject as possible.
+
+You may want to try this with masking on the template image where the person appears, then use in-painting; however, you can use whichever automated methods you wish to achieve the results, as long as they have roughly similar performance to Stable Diffusion's in-painting after polishing.
+
+Once you achieve satisfactory image results, you should be able to optimize the processes for speed, cost, and number of training images needed.  We have a server running Stable Diffusion where we will deploy the final setup, which you can utilize if needed.  You can start with 10 images of the subject from a test set that we've gathered to train the model, and we'll aim to reduce it so it on...",ColinHodge,8 minutes ago,https://replit.com/bounties/@ColinHodge/realistically-replac
