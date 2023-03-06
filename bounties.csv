@@ -8366,7 +8366,7 @@ Acceptance Criteria
 
 Technical Details
 
-Timelines / Milestones",BrandonF7,4 hours ago,https://replit.com/bounties/@BrandonF7/add-bootstrap-theme
+Timelines / Milestones",BrandonF7,5 hours ago,https://replit.com/bounties/@BrandonF7/add-bootstrap-theme
 999,$9.00,due in 6 days,Deploy existing site to netlify/render.com,"We tried deploying on netlify but ran into many bugs with creating the Python virtual environment and the dependencies.
 
 Acceptance Criteria
@@ -8374,9 +8374,9 @@ Provide a Github or evidence of past experience.
 
 Technical Details
 Deploy https://github.com/PersonaLearn/PersonaLearn on my account, I will send you credentials.",AJGupta,3 hours ago,https://replit.com/bounties/@AJGupta/deploy-existing-site
-1000,$540.00,due in 11 days,Integrate Python Mesa with pre-built LangChain agents and Deploy,"I have been developing LangChain applications for a few months now, and would like to integrate it with Python's Mesa library for agent based simulation. LangChain agents use OpenAI completions model (or any other LLM) to interact with the world through tools, memory, and personas.  Mesa is an agent based simulation framework in Python.
+1000,$540.00,due in 1 month,Integrate Python Mesa with pre-built LangChain agents and Deploy,"I have been developing LangChain applications for a few months now, and would like to integrate it with Python's Mesa library for agent based simulation. LangChain agents use OpenAI completions model (or any other LLM) to interact with the world through tools, memory, and personas.  Mesa is an agent based simulation framework in Python.
 
 My idea is to create simulations with LLM-based interactions. My first idea is a stock market game, where agents decide to buy or sell every state based on a LangChain LLM persona (""you are an aggressive trader"", ""you are a cautious trader"", ""you have a background in credit risk"", etc).  The market data could be fed from real equities data and loaded into the memory of the LangChain agent. I'm interested in visualizing how these agents interact and how their personas perform relative to certain KPIs (""total profits at the end of the game"" etc).
 
 Acceptance Criteria
-Experience with Python and deploying to your preferred platform quic...",ZachWaugaman,25 minutes ago,https://replit.com/bounties/@ZachWaugaman/integrate-python-mes
+Experience with Python and deploying to your preferred platform quic...",ZachWaugaman,34 minutes ago,https://replit.com/bounties/@ZachWaugaman/integrate-python-mes

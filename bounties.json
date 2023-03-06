@@ -9986,7 +9986,7 @@
         "title": "Add Bootstrap Theme to Project",
         "description": "Add Bootstrap theme to Replit project, using the goal planner project (already shared).\nhttps://startbootstrap.com/theme/sb-admin-2\n\nsee dashboard.html as an example\n\nupdate all pages to bootstrap theme\n\nAdd\nIn the dashboard (use homepage) add tile for total of goals created and tile for number of goals completed.\n\nAcceptance Criteria\n\nTechnical Details\n\nTimelines / Milestones",
         "author": "BrandonF7",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@BrandonF7/add-bootstrap-theme"
     },
     {
@@ -10002,11 +10002,11 @@
     {
         "index": "1000",
         "price": "$540.00",
-        "due_days": "due in 11 days",
+        "due_days": "due in 1 month",
         "title": "Integrate Python Mesa with pre-built LangChain agents and Deploy",
         "description": "I have been developing LangChain applications for a few months now, and would like to integrate it with Python's Mesa library for agent based simulation. LangChain agents use OpenAI completions model (or any other LLM) to interact with the world through tools, memory, and personas.  Mesa is an agent based simulation framework in Python.\n\nMy idea is to create simulations with LLM-based interactions. My first idea is a stock market game, where agents decide to buy or sell every state based on a LangChain LLM persona (\"you are an aggressive trader\", \"you are a cautious trader\", \"you have a background in credit risk\", etc).  The market data could be fed from real equities data and loaded into the memory of the LangChain agent. I'm interested in visualizing how these agents interact and how their personas perform relative to certain KPIs (\"total profits at the end of the game\" etc).\n\nAcceptance Criteria\nExperience with Python and deploying to your preferred platform quic...",
         "author": "ZachWaugaman",
-        "posted_time": "25 minutes ago",
+        "posted_time": "34 minutes ago",
         "link": "https://replit.com/bounties/@ZachWaugaman/integrate-python-mes"
     }
 ]
