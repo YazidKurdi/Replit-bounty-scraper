@@ -8398,7 +8398,7 @@ Save the data in a DB in order for it to be later used in a bot/chat like functi
 Acceptance Criteria
 Given a list of match date times, turn on subscription before the match and end subscription after match by X minutes
 No manual triggering
-Saving responses from subscription in a DB",AliElfakharany1,7 hours ago,https://replit.com/bounties/@AliElfakharany1/fpl-bot-graphql-subs
+Saving responses from subscription in a DB",AliElfakharany1,8 hours ago,https://replit.com/bounties/@AliElfakharany1/fpl-bot-graphql-subs
 1005,$18.00,due in 4 days,"Lookup IG, Twitter, YouTube and TT follower counts and bios from csv file of usernames","I have a list of people and their usernames on instagram, Twitter, Youtube, and TikTok in a CSV.
 I would like to add their follower count on each platform and their bios as new columns on the CSV.
 Bios frequently might weird data like emojis and foreign language characters, so you'll need to manage encodings properly.
