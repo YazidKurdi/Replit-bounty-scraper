@@ -8459,7 +8459,7 @@ We want to be able to automatically pull the booked/available times for each bus
 
 If not we want to be able to automatically get this data (live, or with as little delay as possible) for each business we have on our platform (with their specific TreatWell URL, example: https://www.treatwell.co.uk/place/q-n-nail-spa/#serviceIds=TP2478124,TR2478024,TR2478016&t=81&tt=36)
 
-A bonus is if you’re able to figure out how we could also push booked times from our platform into the TreatWell platform to blockout the new book...",ElliotWood2,11 hours ago,https://replit.com/bounties/@ElliotWood2/api-taken-away-we-ne
+A bonus is if you’re able to figure out how we could also push booked times from our platform into the TreatWell platform to blockout the new book...",ElliotWood2,12 hours ago,https://replit.com/bounties/@ElliotWood2/api-taken-away-we-ne
 1010,$90.00,due in 13 days,Google Analytics 4 client using SupaBase,"I want a web-based Google Analytics 4 client that asks for a user to login with their Google-account and allows the end-user to see a list of all their GA4 properties.
 
 When they select a property, the application should request the number of pageviews for the day before and show that.
@@ -8469,7 +8469,7 @@ I want a transfer of a private github repo with all the code needed for this sol
 
 If I follow the steps in the documentation, I should have this solution up and running on my own accounts.
 
-Code should be written in idiomatic Typescript and may make use of Google libraries.",PalBrattberg1,8 hours ago,https://replit.com/bounties/@PalBrattberg1/google-analytics-4-c
+Code should be written in idiomatic Typescript and may make use of Google libraries.",PalBrattberg1,9 hours ago,https://replit.com/bounties/@PalBrattberg1/google-analytics-4-c
 1011,$11.00,due in 7 days,ChatGPT AI Website,"Create a webpage using OpenAI's ChatGPT API to create a page similar in functionality and UI to https://chat.openai.com/chat and
 ChatSonic.
 Acceptance  and Technical Criteria
@@ -8490,7 +8490,7 @@ Our frontend application receives the request from the query parameter in the UR
 
 Our frontend application then redirects the user to the external OAuth provider for authentication.
 
-After ...",Hevxr,5 hours ago,https://replit.com/bounties/@Hevxr/flutter-authenticati
+After ...",Hevxr,6 hours ago,https://replit.com/bounties/@Hevxr/flutter-authenticati
 1013,$5.99,due in 6 months,Make a full math calculator,"Future of Mathematics
 I am planning to make a calculator that can do it all. Yep, that's what I'm calling the future of mathematics, deal with it.
 
@@ -8531,4 +8531,4 @@ On React, with functional component
 All the input values should be the props of the component
 
 Link to Project
-https://pry.co/startup-growth-calculator/",tennisonchan,35 minutes ago,https://replit.com/bounties/@tennisonchan/build-a-graph-visual
+https://pry.co/startup-growth-calculator/",tennisonchan,45 minutes ago,https://replit.com/bounties/@tennisonchan/build-a-graph-visual
