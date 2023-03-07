@@ -10006,7 +10006,7 @@
         "title": "Integrate Python Mesa with pre-built LangChain agents and Deploy",
         "description": "I have been developing LangChain applications for a few months now, and would like to integrate it with Python's Mesa library for agent based simulation. LangChain agents use OpenAI completions model (or any other LLM) to interact with the world through tools, memory, and personas.  Mesa is an agent based simulation framework in Python.\n\nMy idea is to create simulations with LLM-based interactions. My first idea is a stock market game, where agents decide to buy or sell every state based on a LangChain LLM persona (\"you are an aggressive trader\", \"you are a cautious trader\", \"you have a background in credit risk\", etc).  The market data could be fed from real equities data and loaded into the memory of the LangChain agent. I'm interested in visualizing how these agents interact and how their personas perform relative to certain KPIs (\"total profits at the end of the game\" etc).\n\nAcceptance Criteria\nExperience with Python and deploying to your preferred platform quic...",
         "author": "ZachWaugaman",
-        "posted_time": "24 hours ago",
+        "posted_time": "1 day ago",
         "link": "https://replit.com/bounties/@ZachWaugaman/integrate-python-mes"
     },
     {
@@ -10016,7 +10016,7 @@
         "title": "Realistically replace person in template images with person from trained model",
         "description": "Our goal is to utilize 4 template images (a man with puppies, a man hiking, a man in a business suit, a man on stage as a rock star), replacing only the man in the template image with a different person (our \"subject\"), using as small number of training images of the new subject as possible.\n\nYou may want to try this with masking on the template image where the person appears, then use in-painting; however, you can use whichever automated methods you wish to achieve the results, as long as they have roughly similar performance to Stable Diffusion's in-painting after polishing.\n\nOnce you achieve satisfactory image results, you should be able to optimize the processes for speed, cost, and number of training images needed.  We have a server running Stable Diffusion where we will deploy the final setup, which you can utilize if needed.  You can start with 10 images of the subject from a test set that we've gathered to train the model, and we'll aim to reduce it so it on...",
         "author": "ColinHodge",
-        "posted_time": "22 hours ago",
+        "posted_time": "23 hours ago",
         "link": "https://replit.com/bounties/@ColinHodge/realistically-replac"
     },
     {
@@ -10026,7 +10026,7 @@
         "title": "Chargeback handling tool ",
         "description": "As discussed",
         "author": "AndrewShowman",
-        "posted_time": "21 hours ago",
+        "posted_time": "22 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/chargeback-handling"
     },
     {
