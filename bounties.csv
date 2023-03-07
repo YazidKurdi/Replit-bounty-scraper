@@ -8500,4 +8500,4 @@ Also, I want the calculator to have extended reasoning for the answer, meaning a
 let answer = (""this is preset: ""+reason1+""| this is also preset: ""+reason2);
 
 Acceptance Criteria
-Be articulate in javascript, and the actual math itself. ( you can check the answers...",Altify-Developm,42 minutes ago,https://replit.com/bounties/@Altify-Developm/make-a-full-math-cal
+Be articulate in javascript, and the actual math itself. ( you can check the answers...",Altify-Developm,50 minutes ago,https://replit.com/bounties/@Altify-Developm/make-a-full-math-cal
