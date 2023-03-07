@@ -10106,7 +10106,7 @@
         "title": "Google Analytics 4 client using SupaBase",
         "description": "I want a web-based Google Analytics 4 client that asks for a user to login with their Google-account and allows the end-user to see a list of all their GA4 properties.\n\nWhen they select a property, the application should request the number of pageviews for the day before and show that.\n\nAcceptance Criteria\nI want a transfer of a private github repo with all the code needed for this solution, along with a step-by-step guide to deploying the solution on Supabase and/or Vercel.\n\nIf I follow the steps in the documentation, I should have this solution up and running on my own accounts.\n\nCode should be written in idiomatic Typescript and may make use of Google libraries.",
         "author": "PalBrattberg1",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@PalBrattberg1/google-analytics-4-c"
     },
     {
@@ -10126,7 +10126,7 @@
         "title": "Flutter Authentication Plugin for iOS and Android",
         "description": "Build a plugin for Flutter that handles an API based authentication process for iOS and Android that involves the in-app browser, after a successful authentication, the plugin should make subsequent API calls to our backend to retrieve data, store it in local storage and provide methods for accessing this data within the frontend application.\n\nTechnical Details\nThe Flutter plugin is an SDK used to fetch part of a private key of a wallet\nHere is the authentication flow:\nThe external frontend application redirects to our frontend authentication URL with their re-direct URL, blockchain and the authentication provider they want to authenticate with as query parameters e.g. redirecturl=yourdomain.com&provider=google&blockchain=ethereum\n\nOur frontend application receives the request from the query parameter in the URL and sends a request to our backend application.\n\nOur frontend application then redirects the user to the external OAuth provider for authentication.\n\nAfter ...",
         "author": "Hevxr",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@Hevxr/flutter-authenticati"
     },
     {
