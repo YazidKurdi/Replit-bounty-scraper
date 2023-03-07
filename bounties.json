@@ -10056,7 +10056,7 @@
         "title": "Lookup IG, Twitter, YouTube and TT follower counts and bios from csv file of usernames",
         "description": "I have a list of people and their usernames on instagram, Twitter, Youtube, and TikTok in a CSV.\nI would like to add their follower count on each platform and their bios as new columns on the CSV.\nBios frequently might weird data like emojis and foreign language characters, so you'll need to manage encodings properly.\n\nApplications that indicate that they can return these results quickly will be more likely to be selected.\n\nAcceptance Criteria\nAn updated CSV with 8 new columns (follower count and bio for each platform), and the data filled out for each username.\nA .py script to update the csv in the future when we add names",
         "author": "mkuz",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@mkuz/lookup-ig-twitter-yo"
     },
     {
@@ -10076,7 +10076,7 @@
         "title": "Build a simple API with 3 endpoints",
         "description": "I have a Github repo with a app.ts file that sends requests to OpenAi using Langchain. I want to set up an API (Most likely Express) with 3 endpoints (GET, POST ... ) I just want to be able to send POST requests to the API so I can start building the front-end.\n\nAcceptance Criteria\n\nUser can run the project locally, and access the endpoints with a React frontend without crashing the server.\n\nTechnical Details\n\nThe current project uses Node, Docker, and Langchain (\n\nLink to Project\n\nhttps://github.com/jakewallin82/chatgpt-langchainjs-docker",
         "author": "jakewallin82",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@jakewallin82/build-a-simple-api-w"
     },
     {
@@ -10086,7 +10086,7 @@
         "title": "Kalevala GPT - Scrape and get embeddings for the Finnish National Epic",
         "description": "We would like to create a chat interface where the user can both search and talk to the Finnish National Epic, called Kalevala. To do this, we'll use this GitHub repo as the starting point:\nhttps://github.com/mckaywrigley/wait-but-why-gpt\n\nEverything can be used as is, but our final application will use a fixed OpenAI API key so the user doesn't have to bring their own key. We'll also change the text and the logos as well.\n\nAcceptance Criteria\nKalevala poems (50 of them) successfully scraped from:\nhttp://nebu.finlit.fi/kalevala/index.php?m=1&s=2&l=1 (this link is to the first poem, sidebar has links to 49 more)\n\nKalevala poems embedded successfully and stored into csv and supabase\nEmbeddings fetched will be saved to Supabase in the same way as in the GitHub example provided at the beginning of the description.\n\nThe user can use the app",
         "author": "PosThor",
-        "posted_time": "44 minutes ago",
+        "posted_time": "54 minutes ago",
         "link": "https://replit.com/bounties/@PosThor/kalevala-gpt-scrape"
     }
 ]
