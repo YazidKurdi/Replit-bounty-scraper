@@ -10116,7 +10116,7 @@
         "title": "ChatGPT AI Website",
         "description": "Create a webpage using OpenAI's ChatGPT API to create a page similar in functionality and UI to https://chat.openai.com/chat and\nChatSonic.\nAcceptance  and Technical Criteria\nUses the OpenAI ChatGPT API (preferably davinci or curie, etc., it should be relatively lower cost but with good quality output)\nHas  the same functionality and a very similar UI to ChatGPT Chat and\nChatSonic\nNo feature for accounts, etc., so there will be a main cover page (like what ChatSonic does) with an image and a button that will go to the GPT Chat page with the AI.\nHave slots for 1-3 ads per page\nHas a creative name (like ChatSonic, Caktus AI, Cramly AI etc.)",
         "author": "Retrospicer",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@Retrospicer/chatgpt-ai-website"
     },
     {
@@ -10176,7 +10176,7 @@
         "title": "Build a graph visualization with Visx",
         "description": "I want to build https://pry.co/startup-growth-calculator/\n\nAcceptance Criteria\nUser can input values like: expenses, cash in bank, revenue, growth rate. And the graph will update\nUser can interact with the graph by dragging the line\n\nTechnical Details\nWith Visx\nJS, no typescript\nOn React, with functional component\nAll the input values should be the props of the component\n\nLink to Project\nhttps://pry.co/startup-growth-calculator/",
         "author": "tennisonchan",
-        "posted_time": "45 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@tennisonchan/build-a-graph-visual"
     }
 ]
