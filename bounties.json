@@ -9976,7 +9976,7 @@
         "title": "Build a Shopify \ud83e\udd1d Blockchain experience with thirdweb",
         "description": "Use Shopify and thirdweb's robust APIs and blockchain components to develop token-powered commerce experiences that drive loyalty, foster brand collaborations, and empower communities.\n\nThemes\nConnecting brands with fans\nRetention and loyalty\nDiscovery of new buyers\nBrand collaboration\n\nTools\n\nShopify Blockchain\nGates API\nBlockchain Components\n\nthirdweb\nCommerceKit\n\n\u23f0 All projects will be reviewed on April 3rd, 2023 at 12pm EST. The bounty deadline is the target deadline for applications to be submitted.\n\nAcceptance Criteria\nTo be considered, your application must be a finished project and include a link to a Repl or Github repository.\n\nYour project will be evaluated on the following criteria:\nThe end user experience should be simple and approachable. The goal is to create easy-mode for tokengated loyalty and brand collaborations. Avoid using crypto jargon, abstract away unfamiliar web3 patterns, and focus on ease of use.\nCreative and innovative solution grounded in...",
         "author": "thirdwebShopify",
-        "posted_time": "23 hours ago",
+        "posted_time": "1 day ago",
         "link": "https://replit.com/bounties/@thirdwebShopify/build-a-shopify-bloc"
     },
     {
@@ -9986,7 +9986,7 @@
         "title": "Add Bootstrap Theme to Project",
         "description": "Add Bootstrap theme to Replit project, using the goal planner project (already shared).\nhttps://startbootstrap.com/theme/sb-admin-2\n\nsee dashboard.html as an example\n\nupdate all pages to bootstrap theme\n\nAdd\nIn the dashboard (use homepage) add tile for total of goals created and tile for number of goals completed.\n\nAcceptance Criteria\n\nTechnical Details\n\nTimelines / Milestones",
         "author": "BrandonF7",
-        "posted_time": "23 hours ago",
+        "posted_time": "24 hours ago",
         "link": "https://replit.com/bounties/@BrandonF7/add-bootstrap-theme"
     },
     {
@@ -9996,7 +9996,7 @@
         "title": "Deploy existing site to netlify/render.com",
         "description": "We tried deploying on netlify but ran into many bugs with creating the Python virtual environment and the dependencies.\n\nAcceptance Criteria\nProvide a Github or evidence of past experience.\n\nTechnical Details\nDeploy https://github.com/PersonaLearn/PersonaLearn on my account, I will send you credentials.",
         "author": "AJGupta",
-        "posted_time": "21 hours ago",
+        "posted_time": "22 hours ago",
         "link": "https://replit.com/bounties/@AJGupta/deploy-existing-site"
     },
     {
@@ -10006,7 +10006,7 @@
         "title": "Integrate Python Mesa with pre-built LangChain agents and Deploy",
         "description": "I have been developing LangChain applications for a few months now, and would like to integrate it with Python's Mesa library for agent based simulation. LangChain agents use OpenAI completions model (or any other LLM) to interact with the world through tools, memory, and personas.  Mesa is an agent based simulation framework in Python.\n\nMy idea is to create simulations with LLM-based interactions. My first idea is a stock market game, where agents decide to buy or sell every state based on a LangChain LLM persona (\"you are an aggressive trader\", \"you are a cautious trader\", \"you have a background in credit risk\", etc).  The market data could be fed from real equities data and loaded into the memory of the LangChain agent. I'm interested in visualizing how these agents interact and how their personas perform relative to certain KPIs (\"total profits at the end of the game\" etc).\n\nAcceptance Criteria\nExperience with Python and deploying to your preferred platform quic...",
         "author": "ZachWaugaman",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@ZachWaugaman/integrate-python-mes"
     },
     {
@@ -10016,7 +10016,7 @@
         "title": "Realistically replace person in template images with person from trained model",
         "description": "Our goal is to utilize 4 template images (a man with puppies, a man hiking, a man in a business suit, a man on stage as a rock star), replacing only the man in the template image with a different person (our \"subject\"), using as small number of training images of the new subject as possible.\n\nYou may want to try this with masking on the template image where the person appears, then use in-painting; however, you can use whichever automated methods you wish to achieve the results, as long as they have roughly similar performance to Stable Diffusion's in-painting after polishing.\n\nOnce you achieve satisfactory image results, you should be able to optimize the processes for speed, cost, and number of training images needed.  We have a server running Stable Diffusion where we will deploy the final setup, which you can utilize if needed.  You can start with 10 images of the subject from a test set that we've gathered to train the model, and we'll aim to reduce it so it on...",
         "author": "ColinHodge",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@ColinHodge/realistically-replac"
     },
     {
@@ -10026,7 +10026,7 @@
         "title": "Chargeback handling tool ",
         "description": "As discussed",
         "author": "AndrewShowman",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/chargeback-handling"
     },
     {
@@ -10036,7 +10036,7 @@
         "title": "3D Portal Game",
         "description": "I would like a web based 3D puzzle game like portal, which I can make levels for (not necessarily in-game.) I would like the ability to see the other side, multiplayer support, and have at least one testing level with a show of the features.",
         "author": "RiverdaleSuperCoder",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@RiverdaleSuperCoder/3d-portal-game"
     },
     {
@@ -10046,7 +10046,7 @@
         "title": "FPL Bot GraphQL subscription bug",
         "description": "I have a graphQL query that is reading from a live event feed of all English Premier League Matches.\n\nI already have some code up and running but it is buggy and not able to handle subscribing to GraphQL asynchronously\nI want to:\nTurn on the query subscription and off depending on if their are matches ongoing\nKeep the code always running\nSave the data in a DB in order for it to be later used in a bot/chat like functionality\n\nAcceptance Criteria\nGiven a list of match date times, turn on subscription before the match and end subscription after match by X minutes\nNo manual triggering\nSaving responses from subscription in a DB",
         "author": "AliElfakharany1",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@AliElfakharany1/fpl-bot-graphql-subs"
     }
 ]
