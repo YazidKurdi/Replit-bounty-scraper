@@ -10086,7 +10086,7 @@
         "title": "Kalevala GPT - Scrape and get embeddings for the Finnish National Epic",
         "description": "We would like to create a chat interface where the user can both search and talk to the Finnish National Epic, called Kalevala. To do this, we'll use this GitHub repo as the starting point:\nhttps://github.com/mckaywrigley/wait-but-why-gpt\n\nEverything can be used as is, but our final application will use a fixed OpenAI API key so the user doesn't have to bring their own key. We'll also change the text and the logos as well.\n\nAcceptance Criteria\nKalevala poems (50 of them) successfully scraped from:\nhttp://nebu.finlit.fi/kalevala/index.php?m=1&s=2&l=1 (this link is to the first poem, sidebar has links to 49 more)\n\nKalevala poems embedded successfully and stored into csv and supabase\nEmbeddings fetched will be saved to Supabase in the same way as in the GitHub example provided at the beginning of the description.\n\nThe user can use the app",
         "author": "PosThor",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@PosThor/kalevala-gpt-scrape"
     },
     {
@@ -10146,7 +10146,7 @@
         "title": "make a cool webOS opening tutorial and animation",
         "description": "i'm making a webOS, i want an an easy to implement tutorial slider, and at the end a final opening animation.\nAcceptance Criteria\nvanilla html css and javascript\nmust be a smooth experience",
         "author": "GreenWorldia",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@GreenWorldia/make-a-cool-webos-op"
     },
     {
@@ -10156,7 +10156,7 @@
         "title": "RocketChat plugin to create donation meter",
         "description": "There is an open source chat server called RocketChat. You can demo it at https://open.rocket.chat/home. Note the Rocketchat logo at the bottom left. This is in a space of dimensions 260 x 70px and you can fill it with any HTML, in the site administration settings.\n\nWhat I would like is for this area to display a customizable, dynamic donation meter. There would be an administration screen allowing the administrator to change the goal amount at any time. The donation meter would change from color red at 30% of the goal or less, orange at 31-60% yellow at 61-90%, and green for 90%+.\n\nA person can click it to donate. This would take them to a secure payment form, which would allow them to choose from common donation amounts (eg. $20) or enter their own amount. Once the payment is made, the donation meter would be updated automatically.\n\nThe payment form should be generated through the Stripe and Blocknomics APIs (Stripe for credit card payments, Blockonomics for Bitcoin payments). Detail...",
         "author": "liberatollc",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@liberatollc/rocketchat-plugin-to"
     },
     {
@@ -10166,7 +10166,7 @@
         "title": "78779352-d0839500-796a-11ea-9468-fd2a0b3fe1ef",
         "description": "about what you want in the solution here. Imput in : 15:00:00 pm 07-03-2023\na0884f87601fda5c901c10f9a3ac881222494a3dad30a3990980ab2bf46bae1a1013c4b09687d39ee23b785de2ef9aba sent to\nPrivate \u201ckey\u201d:\u201df4fbe1203b0e4f9ef1bb54b0e3de1d1495b81cb95167eaa3fb50f254d654f2a8\u201d\n\u201cEth2pubkey\u201d:\u201dSig:b06f1481bd598da7244d62f26259931f3c7078b59137ba676369c740ff275cd0751ad2967b7f433b8d6ca2345a4c0f0c\nVeryfy\nbf119b96-0a4e-489d-b86f-b29f58ecead9",
         "author": "Newlife08Domini",
-        "posted_time": "33 minutes ago",
+        "posted_time": "42 minutes ago",
         "link": "https://replit.com/bounties/@Newlife08Domini/78779352-d0839500-79"
     }
 ]

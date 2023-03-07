@@ -8452,7 +8452,7 @@ http://nebu.finlit.fi/kalevala/index.php?m=1&s=2&l=1 (this link is to the first 
 Kalevala poems embedded successfully and stored into csv and supabase
 Embeddings fetched will be saved to Supabase in the same way as in the GitHub example provided at the beginning of the description.
 
-The user can use the app",PosThor,13 hours ago,https://replit.com/bounties/@PosThor/kalevala-gpt-scrape
+The user can use the app",PosThor,14 hours ago,https://replit.com/bounties/@PosThor/kalevala-gpt-scrape
 1009,$45.00,due in 13 days,"API taken away, we need a work around for a public website","We’re building a deals website displaying available booking times for service businesses. Most of our business clients are on this website: https://www.treatwell.co.uk. TreatWell used to have an API to automatically pull each of the businesses booked/available times but the website (being a bunch of cunts) took this away.
 
 We want to be able to automatically pull the booked/available times for each business on the TreatWell website to display to our customers. If you can live pull all businesses booked/available data at once, excellent.
@@ -8504,17 +8504,17 @@ Be articulate in javascript, and the actual math itself. ( you can check the ans
 1014,$8.10,due in 3 days,make a cool webOS opening tutorial and animation,"i'm making a webOS, i want an an easy to implement tutorial slider, and at the end a final opening animation.
 Acceptance Criteria
 vanilla html css and javascript
-must be a smooth experience",GreenWorldia,2 hours ago,https://replit.com/bounties/@GreenWorldia/make-a-cool-webos-op
+must be a smooth experience",GreenWorldia,3 hours ago,https://replit.com/bounties/@GreenWorldia/make-a-cool-webos-op
 1015,$495.00,due in 3 days,RocketChat plugin to create donation meter,"There is an open source chat server called RocketChat. You can demo it at https://open.rocket.chat/home. Note the Rocketchat logo at the bottom left. This is in a space of dimensions 260 x 70px and you can fill it with any HTML, in the site administration settings.
 
 What I would like is for this area to display a customizable, dynamic donation meter. There would be an administration screen allowing the administrator to change the goal amount at any time. The donation meter would change from color red at 30% of the goal or less, orange at 31-60% yellow at 61-90%, and green for 90%+.
 
 A person can click it to donate. This would take them to a secure payment form, which would allow them to choose from common donation amounts (eg. $20) or enter their own amount. Once the payment is made, the donation meter would be updated automatically.
 
-The payment form should be generated through the Stripe and Blocknomics APIs (Stripe for credit card payments, Blockonomics for Bitcoin payments). Detail...",liberatollc,1 hour ago,https://replit.com/bounties/@liberatollc/rocketchat-plugin-to
+The payment form should be generated through the Stripe and Blocknomics APIs (Stripe for credit card payments, Blockonomics for Bitcoin payments). Detail...",liberatollc,2 hours ago,https://replit.com/bounties/@liberatollc/rocketchat-plugin-to
 1016,$4.50,due in 13 days,78779352-d0839500-796a-11ea-9468-fd2a0b3fe1ef,"about what you want in the solution here. Imput in : 15:00:00 pm 07-03-2023
 a0884f87601fda5c901c10f9a3ac881222494a3dad30a3990980ab2bf46bae1a1013c4b09687d39ee23b785de2ef9aba sent to
 Private “key”:”f4fbe1203b0e4f9ef1bb54b0e3de1d1495b81cb95167eaa3fb50f254d654f2a8”
 “Eth2pubkey”:”Sig:b06f1481bd598da7244d62f26259931f3c7078b59137ba676369c740ff275cd0751ad2967b7f433b8d6ca2345a4c0f0c
 Veryfy
-bf119b96-0a4e-489d-b86f-b29f58ecead9",Newlife08Domini,33 minutes ago,https://replit.com/bounties/@Newlife08Domini/78779352-d0839500-79
+bf119b96-0a4e-489d-b86f-b29f58ecead9",Newlife08Domini,42 minutes ago,https://replit.com/bounties/@Newlife08Domini/78779352-d0839500-79
