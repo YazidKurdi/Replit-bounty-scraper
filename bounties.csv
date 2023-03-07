@@ -8478,7 +8478,7 @@ Has  the same functionality and a very similar UI to ChatGPT Chat and
 ChatSonic
 No feature for accounts, etc., so there will be a main cover page (like what ChatSonic does) with an image and a button that will go to the GPT Chat page with the AI.
 Have slots for 1-3 ads per page
-Has a creative name (like ChatSonic, Caktus AI, Cramly AI etc.)",Retrospicer,5 hours ago,https://replit.com/bounties/@Retrospicer/chatgpt-ai-website
+Has a creative name (like ChatSonic, Caktus AI, Cramly AI etc.)",Retrospicer,6 hours ago,https://replit.com/bounties/@Retrospicer/chatgpt-ai-website
 1012,$450.00,due in 3 days,Flutter Authentication Plugin for iOS and Android,"Build a plugin for Flutter that handles an API based authentication process for iOS and Android that involves the in-app browser, after a successful authentication, the plugin should make subsequent API calls to our backend to retrieve data, store it in local storage and provide methods for accessing this data within the frontend application.
 
 Technical Details
@@ -8511,4 +8511,10 @@ What I would like is for this area to display a customizable, dynamic donation m
 
 A person can click it to donate. This would take them to a secure payment form, which would allow them to choose from common donation amounts (eg. $20) or enter their own amount. Once the payment is made, the donation meter would be updated automatically.
 
-The payment form should be generated through the Stripe and Blocknomics APIs (Stripe for credit card payments, Blockonomics for Bitcoin payments). Detail...",liberatollc,54 minutes ago,https://replit.com/bounties/@liberatollc/rocketchat-plugin-to
+The payment form should be generated through the Stripe and Blocknomics APIs (Stripe for credit card payments, Blockonomics for Bitcoin payments). Detail...",liberatollc,1 hour ago,https://replit.com/bounties/@liberatollc/rocketchat-plugin-to
+1016,$4.50,due in 13 days,78779352-d0839500-796a-11ea-9468-fd2a0b3fe1ef,"about what you want in the solution here. Imput in : 15:00:00 pm 07-03-2023
+a0884f87601fda5c901c10f9a3ac881222494a3dad30a3990980ab2bf46bae1a1013c4b09687d39ee23b785de2ef9aba sent to
+Private “key”:”f4fbe1203b0e4f9ef1bb54b0e3de1d1495b81cb95167eaa3fb50f254d654f2a8”
+“Eth2pubkey”:”Sig:b06f1481bd598da7244d62f26259931f3c7078b59137ba676369c740ff275cd0751ad2967b7f433b8d6ca2345a4c0f0c
+Veryfy
+bf119b96-0a4e-489d-b86f-b29f58ecead9",Newlife08Domini,17 minutes ago,https://replit.com/bounties/@Newlife08Domini/78779352-d0839500-79
