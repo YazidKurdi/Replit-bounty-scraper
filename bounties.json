@@ -10116,7 +10116,7 @@
         "title": "ChatGPT AI Website",
         "description": "Create a webpage using OpenAI's ChatGPT API to create a page similar in functionality and UI to https://chat.openai.com/chat and\nChatSonic.\nAcceptance  and Technical Criteria\nUses the OpenAI ChatGPT API (preferably davinci or curie, etc., it should be relatively lower cost but with good quality output)\nHas  the same functionality and a very similar UI to ChatGPT Chat and\nChatSonic\nNo feature for accounts, etc., so there will be a main cover page (like what ChatSonic does) with an image and a button that will go to the GPT Chat page with the AI.\nHave slots for 1-3 ads per page\nHas a creative name (like ChatSonic, Caktus AI, Cramly AI etc.)",
         "author": "Retrospicer",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@Retrospicer/chatgpt-ai-website"
     },
     {
@@ -10146,7 +10146,17 @@
         "title": "make a cool webOS opening tutorial and animation",
         "description": "i'm making a webOS, i want an an easy to implement tutorial slider, and at the end a final opening animation.\nAcceptance Criteria\nvanilla html css and javascript\nmust be a smooth experience",
         "author": "GreenWorldia",
-        "posted_time": "53 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@GreenWorldia/make-a-cool-webos-op"
+    },
+    {
+        "index": "1015",
+        "price": "$495.00",
+        "due_days": "due in 3 days",
+        "title": "RocketChat plugin to create donation meter",
+        "description": "There is an open source chat server called RocketChat. You can demo it at https://open.rocket.chat/home. Note the Rocketchat logo at the bottom left. This is in a space of dimensions 260 x 70px and you can fill it with any HTML, in the site administration settings.\n\nWhat I would like is for this area to display a customizable, dynamic donation meter. There would be an administration screen allowing the administrator to change the goal amount at any time. The donation meter would change from color red at 30% of the goal or less, orange at 31-60% yellow at 61-90%, and green for 90%+.\n\nA person can click it to donate. This would take them to a secure payment form, which would allow them to choose from common donation amounts (eg. $20) or enter their own amount. Once the payment is made, the donation meter would be updated automatically.\n\nThe payment form should be generated through the Stripe and Blocknomics APIs (Stripe for credit card payments, Blockonomics for Bitcoin payments). Detail...",
+        "author": "liberatollc",
+        "posted_time": "9 minutes ago",
+        "link": "https://replit.com/bounties/@liberatollc/rocketchat-plugin-to"
     }
 ]
