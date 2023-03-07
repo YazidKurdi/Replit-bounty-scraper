@@ -8469,7 +8469,7 @@ I want a transfer of a private github repo with all the code needed for this sol
 
 If I follow the steps in the documentation, I should have this solution up and running on my own accounts.
 
-Code should be written in idiomatic Typescript and may make use of Google libraries.",PalBrattberg1,10 hours ago,https://replit.com/bounties/@PalBrattberg1/google-analytics-4-c
+Code should be written in idiomatic Typescript and may make use of Google libraries.",PalBrattberg1,11 hours ago,https://replit.com/bounties/@PalBrattberg1/google-analytics-4-c
 1011,$11.00,due in 7 days,ChatGPT AI Website,"Create a webpage using OpenAI's ChatGPT API to create a page similar in functionality and UI to https://chat.openai.com/chat and
 ChatSonic.
 Acceptance  and Technical Criteria
@@ -8490,7 +8490,7 @@ Our frontend application receives the request from the query parameter in the UR
 
 Our frontend application then redirects the user to the external OAuth provider for authentication.
 
-After ...",Hevxr,7 hours ago,https://replit.com/bounties/@Hevxr/flutter-authenticati
+After ...",Hevxr,8 hours ago,https://replit.com/bounties/@Hevxr/flutter-authenticati
 1013,$5.99,due in 6 months,Make a full math calculator,"Future of Mathematics
 I am planning to make a calculator that can do it all. Yep, that's what I'm calling the future of mathematics, deal with it.
 
@@ -8536,6 +8536,6 @@ https://pry.co/startup-growth-calculator/",tennisonchan,3 hours ago,https://repl
 
 Acceptance Criteria:
 Package manager luarocks must be installed (so further packages can be installed)
-Template obviously must work (a barebones example must run properly)",STCollier,45 minutes ago,https://replit.com/bounties/@STCollier/create-a-lapis-repl
+Template obviously must work (a barebones example must run properly)",STCollier,55 minutes ago,https://replit.com/bounties/@STCollier/create-a-lapis-repl
 1019,$450.00,due in 3 days,"Custom Chatbot Scheduler using ChatGPT, Langchain, & Google Calendar API","Follow the method described at this link to use LangChain & GPT-3 to create an automated chatbot: https://dev.to/ironcladdev/how-i-used-langchain-and-gpt-3-to-automate-my-boss-3bk4
-The chatbot will also need to access Google Calendar API (maybe using a flask server on Google Cloud Run using HTTP Requests to query ?) to find availability for appointment scheduling AND will need to access maps to determine drivetime between 2 addresses.",JenniferCalhoun,36 minutes ago,https://replit.com/bounties/@JenniferCalhoun/custom-chatbot-sched
+The chatbot will also need to access Google Calendar API (maybe using a flask server on Google Cloud Run using HTTP Requests to query ?) to find availability for appointment scheduling AND will need to access maps to determine drivetime between 2 addresses.",JenniferCalhoun,46 minutes ago,https://replit.com/bounties/@JenniferCalhoun/custom-chatbot-sched
