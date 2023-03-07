@@ -10066,7 +10066,7 @@
         "title": "Apple Watch App \ud83d\udc40\u231a\ufe0f",
         "description": "Looking for some UI and functionality updates for a WatchOS application.\nCurrently functional here.\nRepl: https://replit.com/@Bandos1000/FaceNorthWatchOS#CompassHeading.swift\n\nOriginal bounty here:\nhttps://replit.com/bounties/@Bandos1000/apple-watch-compass?t=details\n\nI am looking for updates to add some functionality after testing. I have Xcode and will be able to test/run this on my developer account after bounty is delivered.\n\nBig picture:\nNeed to make sure Magnometer continues providing data even if watch screen is off. (But not during sleep/theatre mode)\n\nApplication:\nThe goal of this app is to train users over time to be able to 'feel' North without a wrist vibration.\nAs such, the user journey looks like this:\nUser opens app. Each time they open, they are presented with simple options screen: (Screen1)\nOption 1: Train me to 'feel' North (Always on)\nOption 2: Tell me when I'm facing North for the next 4 hours.\nOption 3: Tell me when I'm facing North for the nex...",
         "author": "Bandos1000",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@Bandos1000/apple-watch-applicat"
     },
     {
@@ -10156,7 +10156,7 @@
         "title": "RocketChat plugin to create donation meter",
         "description": "There is an open source chat server called RocketChat. You can demo it at https://open.rocket.chat/home. Note the Rocketchat logo at the bottom left. This is in a space of dimensions 260 x 70px and you can fill it with any HTML, in the site administration settings.\n\nWhat I would like is for this area to display a customizable, dynamic donation meter. There would be an administration screen allowing the administrator to change the goal amount at any time. The donation meter would change from color red at 30% of the goal or less, orange at 31-60% yellow at 61-90%, and green for 90%+.\n\nA person can click it to donate. This would take them to a secure payment form, which would allow them to choose from common donation amounts (eg. $20) or enter their own amount. Once the payment is made, the donation meter would be updated automatically.\n\nThe payment form should be generated through the Stripe and Blocknomics APIs (Stripe for credit card payments, Blockonomics for Bitcoin payments). Detail...",
         "author": "liberatollc",
-        "posted_time": "9 minutes ago",
+        "posted_time": "21 minutes ago",
         "link": "https://replit.com/bounties/@liberatollc/rocketchat-plugin-to"
     }
 ]

@@ -8426,7 +8426,7 @@ As such, the user journey looks like this:
 User opens app. Each time they open, they are presented with simple options screen: (Screen1)
 Option 1: Train me to 'feel' North (Always on)
 Option 2: Tell me when I'm facing North for the next 4 hours.
-Option 3: Tell me when I'm facing North for the nex...",Bandos1000,17 hours ago,https://replit.com/bounties/@Bandos1000/apple-watch-applicat
+Option 3: Tell me when I'm facing North for the nex...",Bandos1000,18 hours ago,https://replit.com/bounties/@Bandos1000/apple-watch-applicat
 1007,$45.00,due in 5 days,Build a simple API with 3 endpoints,"I have a Github repo with a app.ts file that sends requests to OpenAi using Langchain. I want to set up an API (Most likely Express) with 3 endpoints (GET, POST ... ) I just want to be able to send POST requests to the API so I can start building the front-end.
 
 Acceptance Criteria
@@ -8511,4 +8511,4 @@ What I would like is for this area to display a customizable, dynamic donation m
 
 A person can click it to donate. This would take them to a secure payment form, which would allow them to choose from common donation amounts (eg. $20) or enter their own amount. Once the payment is made, the donation meter would be updated automatically.
 
-The payment form should be generated through the Stripe and Blocknomics APIs (Stripe for credit card payments, Blockonomics for Bitcoin payments). Detail...",liberatollc,9 minutes ago,https://replit.com/bounties/@liberatollc/rocketchat-plugin-to
+The payment form should be generated through the Stripe and Blocknomics APIs (Stripe for credit card payments, Blockonomics for Bitcoin payments). Detail...",liberatollc,21 minutes ago,https://replit.com/bounties/@liberatollc/rocketchat-plugin-to
