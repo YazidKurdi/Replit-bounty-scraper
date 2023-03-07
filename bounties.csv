@@ -8407,7 +8407,7 @@ Applications that indicate that they can return these results quickly will be mo
 
 Acceptance Criteria
 An updated CSV with 8 new columns (follower count and bio for each platform), and the data filled out for each username.
-A .py script to update the csv in the future when we add names",mkuz,8 hours ago,https://replit.com/bounties/@mkuz/lookup-ig-twitter-yo
+A .py script to update the csv in the future when we add names",mkuz,9 hours ago,https://replit.com/bounties/@mkuz/lookup-ig-twitter-yo
 1006,$36.00,due in 22 days,Apple Watch App 👀⌚️,"Looking for some UI and functionality updates for a WatchOS application.
 Currently functional here.
 Repl: https://replit.com/@Bandos1000/FaceNorthWatchOS#CompassHeading.swift
@@ -8439,7 +8439,7 @@ The current project uses Node, Docker, and Langchain (
 
 Link to Project
 
-https://github.com/jakewallin82/chatgpt-langchainjs-docker",jakewallin82,3 hours ago,https://replit.com/bounties/@jakewallin82/build-a-simple-api-w
+https://github.com/jakewallin82/chatgpt-langchainjs-docker",jakewallin82,4 hours ago,https://replit.com/bounties/@jakewallin82/build-a-simple-api-w
 1008,$81.00,due in 6 days,Kalevala GPT - Scrape and get embeddings for the Finnish National Epic,"We would like to create a chat interface where the user can both search and talk to the Finnish National Epic, called Kalevala. To do this, we'll use this GitHub repo as the starting point:
 https://github.com/mckaywrigley/wait-but-why-gpt
 
