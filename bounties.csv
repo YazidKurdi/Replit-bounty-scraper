@@ -8426,7 +8426,7 @@ As such, the user journey looks like this:
 User opens app. Each time they open, they are presented with simple options screen: (Screen1)
 Option 1: Train me to 'feel' North (Always on)
 Option 2: Tell me when I'm facing North for the next 4 hours.
-Option 3: Tell me when I'm facing North for the nex...",Bandos1000,15 hours ago,https://replit.com/bounties/@Bandos1000/apple-watch-applicat
+Option 3: Tell me when I'm facing North for the nex...",Bandos1000,16 hours ago,https://replit.com/bounties/@Bandos1000/apple-watch-applicat
 1007,$45.00,due in 5 days,Build a simple API with 3 endpoints,"I have a Github repo with a app.ts file that sends requests to OpenAi using Langchain. I want to set up an API (Most likely Express) with 3 endpoints (GET, POST ... ) I just want to be able to send POST requests to the API so I can start building the front-end.
 
 Acceptance Criteria
@@ -8470,7 +8470,7 @@ I want a transfer of a private github repo with all the code needed for this sol
 If I follow the steps in the documentation, I should have this solution up and running on my own accounts.
 
 Code should be written in idiomatic Typescript and may make use of Google libraries.",PalBrattberg1,4 hours ago,https://replit.com/bounties/@PalBrattberg1/google-analytics-4-c
-1011,$11.00,due in 4 days,ChatGPT AI Website,"Create a webpage using OpenAI's ChatGPT API to create a page similar in functionality and UI to https://chat.openai.com/chat and
+1011,$11.00,due in 8 days,ChatGPT AI Website,"Create a webpage using OpenAI's ChatGPT API to create a page similar in functionality and UI to https://chat.openai.com/chat and
 ChatSonic.
 Acceptance  and Technical Criteria
 Uses the OpenAI ChatGPT API (preferably davinci or curie, etc., it should be relatively lower cost but with good quality output)
@@ -8490,7 +8490,7 @@ Our frontend application receives the request from the query parameter in the UR
 
 Our frontend application then redirects the user to the external OAuth provider for authentication.
 
-After ...",Hevxr,47 minutes ago,https://replit.com/bounties/@Hevxr/flutter-authenticati
+After ...",Hevxr,1 hour ago,https://replit.com/bounties/@Hevxr/flutter-authenticati
 1013,$5.99,due in 6 months,Make a full math calculator,"Future of Mathematics
 I am planning to make a calculator that can do it all. Yep, that's what I'm calling the future of mathematics, deal with it.
 
@@ -8500,4 +8500,4 @@ Also, I want the calculator to have extended reasoning for the answer, meaning a
 let answer = (""this is preset: ""+reason1+""| this is also preset: ""+reason2);
 
 Acceptance Criteria
-Be articulate in javascript, and the actual math itself. ( you can check the answers...",Altify-Developm,16 minutes ago,https://replit.com/bounties/@Altify-Developm/make-a-full-math-cal
+Be articulate in javascript, and the actual math itself. ( you can check the answers...",Altify-Developm,33 minutes ago,https://replit.com/bounties/@Altify-Developm/make-a-full-math-cal
