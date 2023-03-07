@@ -8478,7 +8478,7 @@ Has  the same functionality and a very similar UI to ChatGPT Chat and
 ChatSonic
 No feature for accounts, etc., so there will be a main cover page (like what ChatSonic does) with an image and a button that will go to the GPT Chat page with the AI.
 Have slots for 1-3 ads per page
-Has a creative name (like ChatSonic, Caktus AI, Cramly AI etc.)",Retrospicer,2 hours ago,https://replit.com/bounties/@Retrospicer/chatgpt-ai-website
+Has a creative name (like ChatSonic, Caktus AI, Cramly AI etc.)",Retrospicer,3 hours ago,https://replit.com/bounties/@Retrospicer/chatgpt-ai-website
 1012,$450.00,due in 3 days,Flutter Authentication Plugin for iOS and Android,"Build a plugin for Flutter that handles an API based authentication process for iOS and Android that involves the in-app browser, after a successful authentication, the plugin should make subsequent API calls to our backend to retrieve data, store it in local storage and provide methods for accessing this data within the frontend application.
 
 Technical Details
@@ -8490,8 +8490,8 @@ Our frontend application receives the request from the query parameter in the UR
 
 Our frontend application then redirects the user to the external OAuth provider for authentication.
 
-After ...",Hevxr,31 minutes ago,https://replit.com/bounties/@Hevxr/flutter-authenticati
-1013,$5.99,due in 13 days,Make a full math calculator,"Future of Mathematics
+After ...",Hevxr,47 minutes ago,https://replit.com/bounties/@Hevxr/flutter-authenticati
+1013,$5.99,due in 6 months,Make a full math calculator,"Future of Mathematics
 I am planning to make a calculator that can do it all. Yep, that's what I'm calling the future of mathematics, deal with it.
 
 Problem Description
@@ -8500,4 +8500,4 @@ Also, I want the calculator to have extended reasoning for the answer, meaning a
 let answer = (""this is preset: ""+reason1+""| this is also preset: ""+reason2);
 
 Acceptance Criteria
-Be articulate in javascript, and the actual math itself. ( you can check the answers...",Altify-Developm,35 seconds ago,https://replit.com/bounties/@Altify-Developm/make-a-full-math-cal
+Be articulate in javascript, and the actual math itself. ( you can check the answers...",Altify-Developm,16 minutes ago,https://replit.com/bounties/@Altify-Developm/make-a-full-math-cal
