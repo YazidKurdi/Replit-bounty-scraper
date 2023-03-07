@@ -8385,7 +8385,7 @@ Experience with Python and deploying to your preferred platform quic...",ZachWau
 You may want to try this with masking on the template image where the person appears, then use in-painting; however, you can use whichever automated methods you wish to achieve the results, as long as they have roughly similar performance to Stable Diffusion's in-painting after polishing.
 
 Once you achieve satisfactory image results, you should be able to optimize the processes for speed, cost, and number of training images needed.  We have a server running Stable Diffusion where we will deploy the final setup, which you can utilize if needed.  You can start with 10 images of the subject from a test set that we've gathered to train the model, and we'll aim to reduce it so it on...",ColinHodge,1 day ago,https://replit.com/bounties/@ColinHodge/realistically-replac
-1002,$100.00,due in 6 days,Chargeback handling tool ,As discussed,AndrewShowman,24 hours ago,https://replit.com/bounties/@AndrewShowman/chargeback-handling
+1002,$100.00,due in 6 days,Chargeback handling tool ,As discussed,AndrewShowman,1 day ago,https://replit.com/bounties/@AndrewShowman/chargeback-handling
 1003,$5.40,due in 2 months,3D Portal Game,"I would like a web based 3D puzzle game like portal, which I can make levels for (not necessarily in-game.) I would like the ability to see the other side, multiplayer support, and have at least one testing level with a show of the features.",RiverdaleSuperCoder,14 hours ago,https://replit.com/bounties/@RiverdaleSuperCoder/3d-portal-game
 1004,$45.00,due in 13 days,FPL Bot GraphQL subscription bug,"I have a graphQL query that is reading from a live event feed of all English Premier League Matches.
 
@@ -8452,4 +8452,4 @@ http://nebu.finlit.fi/kalevala/index.php?m=1&s=2&l=1 (this link is to the first 
 Kalevala poems embedded successfully and stored into csv and supabase
 Embeddings fetched will be saved to Supabase in the same way as in the GitHub example provided at the beginning of the description.
 
-The user can use the app",PosThor,24 minutes ago,https://replit.com/bounties/@PosThor/kalevala-gpt-scrape
+The user can use the app",PosThor,35 minutes ago,https://replit.com/bounties/@PosThor/kalevala-gpt-scrape
