@@ -8459,7 +8459,7 @@ We want to be able to automatically pull the booked/available times for each bus
 
 If not we want to be able to automatically get this data (live, or with as little delay as possible) for each business we have on our platform (with their specific TreatWell URL, example: https://www.treatwell.co.uk/place/q-n-nail-spa/#serviceIds=TP2478124,TR2478024,TR2478016&t=81&tt=36)
 
-A bonus is if you’re able to figure out how we could also push booked times from our platform into the TreatWell platform to blockout the new book...",ElliotWood2,12 hours ago,https://replit.com/bounties/@ElliotWood2/api-taken-away-we-ne
+A bonus is if you’re able to figure out how we could also push booked times from our platform into the TreatWell platform to blockout the new book...",ElliotWood2,13 hours ago,https://replit.com/bounties/@ElliotWood2/api-taken-away-we-ne
 1010,$90.00,due in 13 days,Google Analytics 4 client using SupaBase,"I want a web-based Google Analytics 4 client that asks for a user to login with their Google-account and allows the end-user to see a list of all their GA4 properties.
 
 When they select a property, the application should request the number of pageviews for the day before and show that.
@@ -8531,4 +8531,4 @@ On React, with functional component
 All the input values should be the props of the component
 
 Link to Project
-https://pry.co/startup-growth-calculator/",tennisonchan,1 hour ago,https://replit.com/bounties/@tennisonchan/build-a-graph-visual
+https://pry.co/startup-growth-calculator/",tennisonchan,2 hours ago,https://replit.com/bounties/@tennisonchan/build-a-graph-visual
