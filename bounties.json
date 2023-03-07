@@ -10046,7 +10046,7 @@
         "title": "FPL Bot GraphQL subscription bug",
         "description": "I have a graphQL query that is reading from a live event feed of all English Premier League Matches.\n\nI already have some code up and running but it is buggy and not able to handle subscribing to GraphQL asynchronously\nI want to:\nTurn on the query subscription and off depending on if their are matches ongoing\nKeep the code always running\nSave the data in a DB in order for it to be later used in a bot/chat like functionality\n\nAcceptance Criteria\nGiven a list of match date times, turn on subscription before the match and end subscription after match by X minutes\nNo manual triggering\nSaving responses from subscription in a DB",
         "author": "AliElfakharany1",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@AliElfakharany1/fpl-bot-graphql-subs"
     },
     {
@@ -10092,11 +10092,11 @@
     {
         "index": "1009",
         "price": "$45.00",
-        "due_days": "due in 7 days",
+        "due_days": "due in 14 days",
         "title": "API taken away, we need a work around for a public website",
         "description": "We\u2019re building a deals website displaying available booking times for service businesses. Most of our business clients are on this website: https://www.treatwell.co.uk. TreatWell used to have an API to automatically pull each of the businesses booked/available times but the website (being a bunch of cunts) took this away.\n\nWe want to be able to automatically pull the booked/available times for each business on the TreatWell website to display to our customers. If you can live pull all businesses booked/available data at once, excellent.\n\nIf not we want to be able to automatically get this data (live, or with as little delay as possible) for each business we have on our platform (with their specific TreatWell URL, example: https://www.treatwell.co.uk/place/q-n-nail-spa/#serviceIds=TP2478124,TR2478024,TR2478016&t=81&tt=36)\n\nA bonus is if you\u2019re able to figure out how we could also push booked times from our platform into the TreatWell platform to blockout the new book...",
         "author": "ElliotWood2",
-        "posted_time": "17 minutes ago",
+        "posted_time": "31 minutes ago",
         "link": "https://replit.com/bounties/@ElliotWood2/api-taken-away-we-ne"
     }
 ]
