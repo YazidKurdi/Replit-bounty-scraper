@@ -8511,4 +8511,4 @@ What I would like is for this area to display a customizable, dynamic donation m
 
 A person can click it to donate. This would take them to a secure payment form, which would allow them to choose from common donation amounts (eg. $20) or enter their own amount. Once the payment is made, the donation meter would be updated automatically.
 
-The payment form should be generated through the Stripe and Blocknomics APIs (Stripe for credit card payments, Blockonomics for Bitcoin payments). Detail...",liberatollc,36 minutes ago,https://replit.com/bounties/@liberatollc/rocketchat-plugin-to
+The payment form should be generated through the Stripe and Blocknomics APIs (Stripe for credit card payments, Blockonomics for Bitcoin payments). Detail...",liberatollc,44 minutes ago,https://replit.com/bounties/@liberatollc/rocketchat-plugin-to
