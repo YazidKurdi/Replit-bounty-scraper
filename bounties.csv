@@ -8407,7 +8407,7 @@ Applications that indicate that they can return these results quickly will be mo
 
 Acceptance Criteria
 An updated CSV with 8 new columns (follower count and bio for each platform), and the data filled out for each username.
-A .py script to update the csv in the future when we add names",mkuz,4 hours ago,https://replit.com/bounties/@mkuz/lookup-ig-twitter-yo
+A .py script to update the csv in the future when we add names",mkuz,5 hours ago,https://replit.com/bounties/@mkuz/lookup-ig-twitter-yo
 1006,$36.00,due in 22 days,Apple Watch App 👀⌚️,"Looking for some UI and functionality updates for a WatchOS application.
 Currently functional here.
 Repl: https://replit.com/@Bandos1000/FaceNorthWatchOS#CompassHeading.swift

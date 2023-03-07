@@ -10056,7 +10056,7 @@
         "title": "Lookup IG, Twitter, YouTube and TT follower counts and bios from csv file of usernames",
         "description": "I have a list of people and their usernames on instagram, Twitter, Youtube, and TikTok in a CSV.\nI would like to add their follower count on each platform and their bios as new columns on the CSV.\nBios frequently might weird data like emojis and foreign language characters, so you'll need to manage encodings properly.\n\nApplications that indicate that they can return these results quickly will be more likely to be selected.\n\nAcceptance Criteria\nAn updated CSV with 8 new columns (follower count and bio for each platform), and the data filled out for each username.\nA .py script to update the csv in the future when we add names",
         "author": "mkuz",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@mkuz/lookup-ig-twitter-yo"
     },
     {
