@@ -9996,7 +9996,7 @@
         "title": "Deploy existing site to netlify/render.com",
         "description": "We tried deploying on netlify but ran into many bugs with creating the Python virtual environment and the dependencies.\n\nAcceptance Criteria\nProvide a Github or evidence of past experience.\n\nTechnical Details\nDeploy https://github.com/PersonaLearn/PersonaLearn on my account, I will send you credentials.",
         "author": "AJGupta",
-        "posted_time": "24 hours ago",
+        "posted_time": "1 day ago",
         "link": "https://replit.com/bounties/@AJGupta/deploy-existing-site"
     },
     {
@@ -10006,7 +10006,7 @@
         "title": "Integrate Python Mesa with pre-built LangChain agents and Deploy",
         "description": "I have been developing LangChain applications for a few months now, and would like to integrate it with Python's Mesa library for agent based simulation. LangChain agents use OpenAI completions model (or any other LLM) to interact with the world through tools, memory, and personas.  Mesa is an agent based simulation framework in Python.\n\nMy idea is to create simulations with LLM-based interactions. My first idea is a stock market game, where agents decide to buy or sell every state based on a LangChain LLM persona (\"you are an aggressive trader\", \"you are a cautious trader\", \"you have a background in credit risk\", etc).  The market data could be fed from real equities data and loaded into the memory of the LangChain agent. I'm interested in visualizing how these agents interact and how their personas perform relative to certain KPIs (\"total profits at the end of the game\" etc).\n\nAcceptance Criteria\nExperience with Python and deploying to your preferred platform quic...",
         "author": "ZachWaugaman",
-        "posted_time": "21 hours ago",
+        "posted_time": "22 hours ago",
         "link": "https://replit.com/bounties/@ZachWaugaman/integrate-python-mes"
     },
     {
@@ -10016,7 +10016,7 @@
         "title": "Realistically replace person in template images with person from trained model",
         "description": "Our goal is to utilize 4 template images (a man with puppies, a man hiking, a man in a business suit, a man on stage as a rock star), replacing only the man in the template image with a different person (our \"subject\"), using as small number of training images of the new subject as possible.\n\nYou may want to try this with masking on the template image where the person appears, then use in-painting; however, you can use whichever automated methods you wish to achieve the results, as long as they have roughly similar performance to Stable Diffusion's in-painting after polishing.\n\nOnce you achieve satisfactory image results, you should be able to optimize the processes for speed, cost, and number of training images needed.  We have a server running Stable Diffusion where we will deploy the final setup, which you can utilize if needed.  You can start with 10 images of the subject from a test set that we've gathered to train the model, and we'll aim to reduce it so it on...",
         "author": "ColinHodge",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@ColinHodge/realistically-replac"
     },
     {
@@ -10026,7 +10026,7 @@
         "title": "Chargeback handling tool ",
         "description": "As discussed",
         "author": "AndrewShowman",
-        "posted_time": "19 hours ago",
+        "posted_time": "20 hours ago",
         "link": "https://replit.com/bounties/@AndrewShowman/chargeback-handling"
     },
     {
@@ -10046,7 +10046,7 @@
         "title": "FPL Bot GraphQL subscription bug",
         "description": "I have a graphQL query that is reading from a live event feed of all English Premier League Matches.\n\nI already have some code up and running but it is buggy and not able to handle subscribing to GraphQL asynchronously\nI want to:\nTurn on the query subscription and off depending on if their are matches ongoing\nKeep the code always running\nSave the data in a DB in order for it to be later used in a bot/chat like functionality\n\nAcceptance Criteria\nGiven a list of match date times, turn on subscription before the match and end subscription after match by X minutes\nNo manual triggering\nSaving responses from subscription in a DB",
         "author": "AliElfakharany1",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@AliElfakharany1/fpl-bot-graphql-subs"
     },
     {
@@ -10056,7 +10056,7 @@
         "title": "Lookup IG, Twitter, YouTube and TT follower counts and bios from csv file of usernames",
         "description": "I have a list of people and their usernames on instagram, Twitter, Youtube, and TikTok in a CSV.\nI would like to add their follower count on each platform and their bios as new columns on the CSV.\nBios frequently might weird data like emojis and foreign language characters, so you'll need to manage encodings properly.\n\nApplications that indicate that they can return these results quickly will be more likely to be selected.\n\nAcceptance Criteria\nAn updated CSV with 8 new columns (follower count and bio for each platform), and the data filled out for each username.\nA .py script to update the csv in the future when we add names",
         "author": "mkuz",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@mkuz/lookup-ig-twitter-yo"
     },
     {
@@ -10066,7 +10066,7 @@
         "title": "Apple Watch App \ud83d\udc40\u231a\ufe0f",
         "description": "Looking for some UI and functionality updates for a WatchOS application.\nCurrently functional here.\nRepl: https://replit.com/@Bandos1000/FaceNorthWatchOS#CompassHeading.swift\n\nOriginal bounty here:\nhttps://replit.com/bounties/@Bandos1000/apple-watch-compass?t=details\n\nI am looking for updates to add some functionality after testing. I have Xcode and will be able to test/run this on my developer account after bounty is delivered.\n\nBig picture:\nNeed to make sure Magnometer continues providing data even if watch screen is off. (But not during sleep/theatre mode)\n\nApplication:\nThe goal of this app is to train users over time to be able to 'feel' North without a wrist vibration.\nAs such, the user journey looks like this:\nUser opens app. Each time they open, they are presented with simple options screen: (Screen1)\nOption 1: Train me to 'feel' North (Always on)\nOption 2: Tell me when I'm facing North for the next 4 hours.\nOption 3: Tell me when I'm facing North for the nex...",
         "author": "Bandos1000",
-        "posted_time": "43 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@Bandos1000/apple-watch-applicat"
     }
 ]
