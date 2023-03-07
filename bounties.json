@@ -10112,11 +10112,11 @@
     {
         "index": "1011",
         "price": "$11.00",
-        "due_days": "due in 7 days",
+        "due_days": "due in 5 days",
         "title": "ChatGPT AI Website",
         "description": "Create a webpage using OpenAI's ChatGPT API to create a page similar in functionality and UI to https://chat.openai.com/chat and\nChatSonic.\nAcceptance  and Technical Criteria\nUses the OpenAI ChatGPT API (preferably davinci or curie, etc., it should be relatively lower cost but with good quality output)\nHas  the same functionality and a very similar UI to ChatGPT Chat and\nChatSonic\nNo feature for accounts, etc., so there will be a main cover page (like what ChatSonic does) with an image and a button that will go to the GPT Chat page with the AI.\nHave slots for 1-3 ads per page\nHas a creative name (like ChatSonic, Caktus AI, Cramly AI etc.)",
         "author": "Retrospicer",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@Retrospicer/chatgpt-ai-website"
     },
     {
@@ -10138,5 +10138,15 @@
         "author": "Altify-Developm",
         "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@Altify-Developm/make-a-full-math-cal"
+    },
+    {
+        "index": "1014",
+        "price": "$8.10",
+        "due_days": "due in 4 days",
+        "title": "make a cool webOS opening tutorial and animation",
+        "description": "i'm making a webOS, i want an an easy to implement tutorial slider, and at the end a final opening animation.\nAcceptance Criteria\nvanilla html css and javascript\nmust be a smooth experience",
+        "author": "GreenWorldia",
+        "posted_time": "11 minutes ago",
+        "link": "https://replit.com/bounties/@GreenWorldia/make-a-cool-webos-op"
     }
 ]
