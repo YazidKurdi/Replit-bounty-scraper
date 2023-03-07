@@ -10106,7 +10106,7 @@
         "title": "Google Analytics 4 client using SupaBase",
         "description": "I want a web-based Google Analytics 4 client that asks for a user to login with their Google-account and allows the end-user to see a list of all their GA4 properties.\n\nWhen they select a property, the application should request the number of pageviews for the day before and show that.\n\nAcceptance Criteria\nI want a transfer of a private github repo with all the code needed for this solution, along with a step-by-step guide to deploying the solution on Supabase and/or Vercel.\n\nIf I follow the steps in the documentation, I should have this solution up and running on my own accounts.\n\nCode should be written in idiomatic Typescript and may make use of Google libraries.",
         "author": "PalBrattberg1",
-        "posted_time": "36 minutes ago",
+        "posted_time": "52 minutes ago",
         "link": "https://replit.com/bounties/@PalBrattberg1/google-analytics-4-c"
     }
 ]
