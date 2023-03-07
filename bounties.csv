@@ -8478,7 +8478,7 @@ Has  the same functionality and a very similar UI to ChatGPT Chat and
 ChatSonic
 No feature for accounts, etc., so there will be a main cover page (like what ChatSonic does) with an image and a button that will go to the GPT Chat page with the AI.
 Have slots for 1-3 ads per page
-Has a creative name (like ChatSonic, Caktus AI, Cramly AI etc.)",Retrospicer,8 hours ago,https://replit.com/bounties/@Retrospicer/chatgpt-ai-website
+Has a creative name (like ChatSonic, Caktus AI, Cramly AI etc.)",Retrospicer,9 hours ago,https://replit.com/bounties/@Retrospicer/chatgpt-ai-website
 1012,$450.00,due in 3 days,Flutter Authentication Plugin for iOS and Android,"Build a plugin for Flutter that handles an API based authentication process for iOS and Android that involves the in-app browser, after a successful authentication, the plugin should make subsequent API calls to our backend to retrieve data, store it in local storage and provide methods for accessing this data within the frontend application.
 
 Technical Details
@@ -8532,3 +8532,10 @@ All the input values should be the props of the component
 
 Link to Project
 https://pry.co/startup-growth-calculator/",tennisonchan,2 hours ago,https://replit.com/bounties/@tennisonchan/build-a-graph-visual
+1018,$4.50,due in 6 days,Create a Lapis Repl Template,"Using the Lua package manager luarocks, make a repl which can run the Lapis web framework: https://leafo.net/lapis/
+
+Acceptance Criteria:
+Package manager luarocks must be installed (so further packages can be installed)
+Template obviously must work (a barebones example must run properly)",STCollier,12 minutes ago,https://replit.com/bounties/@STCollier/create-a-lapis-repl
+1019,$450.00,due in 3 days,"Custom Chatbot Scheduler using ChatGPT, Langchain, & Google Calendar API","Follow the method described at this link to use LangChain & GPT-3 to create an automated chatbot: https://dev.to/ironcladdev/how-i-used-langchain-and-gpt-3-to-automate-my-boss-3bk4
+The chatbot will also need to access Google Calendar API (maybe using a flask server on Google Cloud Run using HTTP Requests to query ?) to find availability for appointment scheduling AND will need to access maps to determine drivetime between 2 addresses.",JenniferCalhoun,3 minutes ago,https://replit.com/bounties/@JenniferCalhoun/custom-chatbot-sched
