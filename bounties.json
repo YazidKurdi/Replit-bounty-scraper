@@ -10146,7 +10146,7 @@
         "title": "make a cool webOS opening tutorial and animation",
         "description": "i'm making a webOS, i want an an easy to implement tutorial slider, and at the end a final opening animation.\nAcceptance Criteria\nvanilla html css and javascript\nmust be a smooth experience",
         "author": "GreenWorldia",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@GreenWorldia/make-a-cool-webos-op"
     },
     {
@@ -10156,7 +10156,7 @@
         "title": "RocketChat plugin to create donation meter",
         "description": "There is an open source chat server called RocketChat. You can demo it at https://open.rocket.chat/home. Note the Rocketchat logo at the bottom left. This is in a space of dimensions 260 x 70px and you can fill it with any HTML, in the site administration settings.\n\nWhat I would like is for this area to display a customizable, dynamic donation meter. There would be an administration screen allowing the administrator to change the goal amount at any time. The donation meter would change from color red at 30% of the goal or less, orange at 31-60% yellow at 61-90%, and green for 90%+.\n\nA person can click it to donate. This would take them to a secure payment form, which would allow them to choose from common donation amounts (eg. $20) or enter their own amount. Once the payment is made, the donation meter would be updated automatically.\n\nThe payment form should be generated through the Stripe and Blocknomics APIs (Stripe for credit card payments, Blockonomics for Bitcoin payments). Detail...",
         "author": "liberatollc",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@liberatollc/rocketchat-plugin-to"
     },
     {
@@ -10186,7 +10186,7 @@
         "title": "Create a Lapis Repl Template",
         "description": "Using the Lua package manager luarocks, make a repl which can run the Lapis web framework: https://leafo.net/lapis/\n\nAcceptance Criteria:\nPackage manager luarocks must be installed (so further packages can be installed)\nTemplate obviously must work (a barebones example must run properly)",
         "author": "STCollier",
-        "posted_time": "28 minutes ago",
+        "posted_time": "37 minutes ago",
         "link": "https://replit.com/bounties/@STCollier/create-a-lapis-repl"
     },
     {
@@ -10196,7 +10196,7 @@
         "title": "Custom Chatbot Scheduler using ChatGPT, Langchain, & Google Calendar API",
         "description": "Follow the method described at this link to use LangChain & GPT-3 to create an automated chatbot: https://dev.to/ironcladdev/how-i-used-langchain-and-gpt-3-to-automate-my-boss-3bk4\nThe chatbot will also need to access Google Calendar API (maybe using a flask server on Google Cloud Run using HTTP Requests to query ?) to find availability for appointment scheduling AND will need to access maps to determine drivetime between 2 addresses.",
         "author": "JenniferCalhoun",
-        "posted_time": "19 minutes ago",
+        "posted_time": "27 minutes ago",
         "link": "https://replit.com/bounties/@JenniferCalhoun/custom-chatbot-sched"
     }
 ]
