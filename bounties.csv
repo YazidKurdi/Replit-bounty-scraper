@@ -8407,7 +8407,7 @@ Applications that indicate that they can return these results quickly will be mo
 
 Acceptance Criteria
 An updated CSV with 8 new columns (follower count and bio for each platform), and the data filled out for each username.
-A .py script to update the csv in the future when we add names",mkuz,15 hours ago,https://replit.com/bounties/@mkuz/lookup-ig-twitter-yo
+A .py script to update the csv in the future when we add names",mkuz,16 hours ago,https://replit.com/bounties/@mkuz/lookup-ig-twitter-yo
 1006,$36.00,due in 21 days,Apple Watch App 👀⌚️,"Looking for some UI and functionality updates for a WatchOS application.
 Currently functional here.
 Repl: https://replit.com/@Bandos1000/FaceNorthWatchOS#CompassHeading.swift
@@ -8439,7 +8439,7 @@ The current project uses Node, Docker, and Langchain (
 
 Link to Project
 
-https://github.com/jakewallin82/chatgpt-langchainjs-docker",jakewallin82,10 hours ago,https://replit.com/bounties/@jakewallin82/build-a-simple-api-w
+https://github.com/jakewallin82/chatgpt-langchainjs-docker",jakewallin82,11 hours ago,https://replit.com/bounties/@jakewallin82/build-a-simple-api-w
 1008,$81.00,due in 5 days,Kalevala GPT - Scrape and get embeddings for the Finnish National Epic,"We would like to create a chat interface where the user can both search and talk to the Finnish National Epic, called Kalevala. To do this, we'll use this GitHub repo as the starting point:
 https://github.com/mckaywrigley/wait-but-why-gpt
 
@@ -8459,7 +8459,7 @@ We want to be able to automatically pull the booked/available times for each bus
 
 If not we want to be able to automatically get this data (live, or with as little delay as possible) for each business we have on our platform (with their specific TreatWell URL, example: https://www.treatwell.co.uk/place/q-n-nail-spa/#serviceIds=TP2478124,TR2478024,TR2478016&t=81&tt=36)
 
-A bonus is if you’re able to figure out how we could also push booked times from our platform into the TreatWell platform to blockout the new book...",ElliotWood2,6 hours ago,https://replit.com/bounties/@ElliotWood2/api-taken-away-we-ne
+A bonus is if you’re able to figure out how we could also push booked times from our platform into the TreatWell platform to blockout the new book...",ElliotWood2,7 hours ago,https://replit.com/bounties/@ElliotWood2/api-taken-away-we-ne
 1010,$90.00,due in 13 days,Google Analytics 4 client using SupaBase,"I want a web-based Google Analytics 4 client that asks for a user to login with their Google-account and allows the end-user to see a list of all their GA4 properties.
 
 When they select a property, the application should request the number of pageviews for the day before and show that.
@@ -8469,7 +8469,7 @@ I want a transfer of a private github repo with all the code needed for this sol
 
 If I follow the steps in the documentation, I should have this solution up and running on my own accounts.
 
-Code should be written in idiomatic Typescript and may make use of Google libraries.",PalBrattberg1,3 hours ago,https://replit.com/bounties/@PalBrattberg1/google-analytics-4-c
+Code should be written in idiomatic Typescript and may make use of Google libraries.",PalBrattberg1,4 hours ago,https://replit.com/bounties/@PalBrattberg1/google-analytics-4-c
 1011,$11.00,due in 4 days,ChatGPT AI Website,"Create a webpage using OpenAI's ChatGPT API to create a page similar in functionality and UI to https://chat.openai.com/chat and
 ChatSonic.
 Acceptance  and Technical Criteria
@@ -8490,4 +8490,14 @@ Our frontend application receives the request from the query parameter in the UR
 
 Our frontend application then redirects the user to the external OAuth provider for authentication.
 
-After ...",Hevxr,18 minutes ago,https://replit.com/bounties/@Hevxr/flutter-authenticati
+After ...",Hevxr,31 minutes ago,https://replit.com/bounties/@Hevxr/flutter-authenticati
+1013,$5.99,due in 13 days,Make a full math calculator,"Future of Mathematics
+I am planning to make a calculator that can do it all. Yep, that's what I'm calling the future of mathematics, deal with it.
+
+Problem Description
+I want you to make a calculator like https://trig-calculator.altify-developm.repl.co, no need for a good ui ( cuz ill do it ), but I want it to include visuals ( like mine ), but I want it to be in flexible text boxes that adjust a picture on screen ( example: if user sets ∠B to 45, set ∠C to 45 since ∠A is 90 ), don't need to make the picture change visually cuz I'm not a menace who would ask for it. Following that tall request, I would like a full algebra, stat, calculus, geometry, and theory mathematics
+Also, I want the calculator to have extended reasoning for the answer, meaning a preset answer with fill in the blanks like the following
+let answer = (""this is preset: ""+reason1+""| this is also preset: ""+reason2);
+
+Acceptance Criteria
+Be articulate in javascript, and the actual math itself. ( you can check the answers...",Altify-Developm,35 seconds ago,https://replit.com/bounties/@Altify-Developm/make-a-full-math-cal
