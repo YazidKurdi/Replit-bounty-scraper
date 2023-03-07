@@ -10056,7 +10056,7 @@
         "title": "Lookup IG, Twitter, YouTube and TT follower counts and bios from csv file of usernames",
         "description": "I have a list of people and their usernames on instagram, Twitter, Youtube, and TikTok in a CSV.\nI would like to add their follower count on each platform and their bios as new columns on the CSV.\nBios frequently might weird data like emojis and foreign language characters, so you'll need to manage encodings properly.\n\nApplications that indicate that they can return these results quickly will be more likely to be selected.\n\nAcceptance Criteria\nAn updated CSV with 8 new columns (follower count and bio for each platform), and the data filled out for each username.\nA .py script to update the csv in the future when we add names",
         "author": "mkuz",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@mkuz/lookup-ig-twitter-yo"
     },
     {
@@ -10076,7 +10076,7 @@
         "title": "Build a simple API with 3 endpoints",
         "description": "I have a Github repo with a app.ts file that sends requests to OpenAi using Langchain. I want to set up an API (Most likely Express) with 3 endpoints (GET, POST ... ) I just want to be able to send POST requests to the API so I can start building the front-end.\n\nAcceptance Criteria\n\nUser can run the project locally, and access the endpoints with a React frontend without crashing the server.\n\nTechnical Details\n\nThe current project uses Node, Docker, and Langchain (\n\nLink to Project\n\nhttps://github.com/jakewallin82/chatgpt-langchainjs-docker",
         "author": "jakewallin82",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@jakewallin82/build-a-simple-api-w"
     },
     {
@@ -10096,7 +10096,7 @@
         "title": "API taken away, we need a work around for a public website",
         "description": "We\u2019re building a deals website displaying available booking times for service businesses. Most of our business clients are on this website: https://www.treatwell.co.uk. TreatWell used to have an API to automatically pull each of the businesses booked/available times but the website (being a bunch of cunts) took this away.\n\nWe want to be able to automatically pull the booked/available times for each business on the TreatWell website to display to our customers. If you can live pull all businesses booked/available data at once, excellent.\n\nIf not we want to be able to automatically get this data (live, or with as little delay as possible) for each business we have on our platform (with their specific TreatWell URL, example: https://www.treatwell.co.uk/place/q-n-nail-spa/#serviceIds=TP2478124,TR2478024,TR2478016&t=81&tt=36)\n\nA bonus is if you\u2019re able to figure out how we could also push booked times from our platform into the TreatWell platform to blockout the new book...",
         "author": "ElliotWood2",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@ElliotWood2/api-taken-away-we-ne"
     }
 ]
