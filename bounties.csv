@@ -8452,7 +8452,7 @@ http://nebu.finlit.fi/kalevala/index.php?m=1&s=2&l=1 (this link is to the first 
 Kalevala poems embedded successfully and stored into csv and supabase
 Embeddings fetched will be saved to Supabase in the same way as in the GitHub example provided at the beginning of the description.
 
-The user can use the app",PosThor,4 hours ago,https://replit.com/bounties/@PosThor/kalevala-gpt-scrape
+The user can use the app",PosThor,5 hours ago,https://replit.com/bounties/@PosThor/kalevala-gpt-scrape
 1009,$45.00,due in 14 days,"API taken away, we need a work around for a public website","We’re building a deals website displaying available booking times for service businesses. Most of our business clients are on this website: https://www.treatwell.co.uk. TreatWell used to have an API to automatically pull each of the businesses booked/available times but the website (being a bunch of cunts) took this away.
 
 We want to be able to automatically pull the booked/available times for each business on the TreatWell website to display to our customers. If you can live pull all businesses booked/available data at once, excellent.
