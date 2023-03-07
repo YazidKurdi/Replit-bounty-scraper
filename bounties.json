@@ -10136,7 +10136,7 @@
         "title": "Make a full math calculator",
         "description": "Future of Mathematics\nI am planning to make a calculator that can do it all. Yep, that's what I'm calling the future of mathematics, deal with it.\n\nProblem Description\nI want you to make a calculator like https://trig-calculator.altify-developm.repl.co, no need for a good ui ( cuz ill do it ), but I want it to include visuals ( like mine ), but I want it to be in flexible text boxes that adjust a picture on screen ( example: if user sets \u2220B to 45, set \u2220C to 45 since \u2220A is 90 ), don't need to make the picture change visually cuz I'm not a menace who would ask for it. Following that tall request, I would like a full algebra, stat, calculus, geometry, and theory mathematics\nAlso, I want the calculator to have extended reasoning for the answer, meaning a preset answer with fill in the blanks like the following\nlet answer = (\"this is preset: \"+reason1+\"| this is also preset: \"+reason2);\n\nAcceptance Criteria\nBe articulate in javascript, and the actual math itself. ( you can check the answers...",
         "author": "Altify-Developm",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@Altify-Developm/make-a-full-math-cal"
     },
     {
@@ -10156,7 +10156,7 @@
         "title": "RocketChat plugin to create donation meter",
         "description": "There is an open source chat server called RocketChat. You can demo it at https://open.rocket.chat/home. Note the Rocketchat logo at the bottom left. This is in a space of dimensions 260 x 70px and you can fill it with any HTML, in the site administration settings.\n\nWhat I would like is for this area to display a customizable, dynamic donation meter. There would be an administration screen allowing the administrator to change the goal amount at any time. The donation meter would change from color red at 30% of the goal or less, orange at 31-60% yellow at 61-90%, and green for 90%+.\n\nA person can click it to donate. This would take them to a secure payment form, which would allow them to choose from common donation amounts (eg. $20) or enter their own amount. Once the payment is made, the donation meter would be updated automatically.\n\nThe payment form should be generated through the Stripe and Blocknomics APIs (Stripe for credit card payments, Blockonomics for Bitcoin payments). Detail...",
         "author": "liberatollc",
-        "posted_time": "21 minutes ago",
+        "posted_time": "28 minutes ago",
         "link": "https://replit.com/bounties/@liberatollc/rocketchat-plugin-to"
     }
 ]

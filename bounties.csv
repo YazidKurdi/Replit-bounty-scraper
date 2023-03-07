@@ -8500,7 +8500,7 @@ Also, I want the calculator to have extended reasoning for the answer, meaning a
 let answer = (""this is preset: ""+reason1+""| this is also preset: ""+reason2);
 
 Acceptance Criteria
-Be articulate in javascript, and the actual math itself. ( you can check the answers...",Altify-Developm,2 hours ago,https://replit.com/bounties/@Altify-Developm/make-a-full-math-cal
+Be articulate in javascript, and the actual math itself. ( you can check the answers...",Altify-Developm,3 hours ago,https://replit.com/bounties/@Altify-Developm/make-a-full-math-cal
 1014,$8.10,due in 3 days,make a cool webOS opening tutorial and animation,"i'm making a webOS, i want an an easy to implement tutorial slider, and at the end a final opening animation.
 Acceptance Criteria
 vanilla html css and javascript
@@ -8511,4 +8511,4 @@ What I would like is for this area to display a customizable, dynamic donation m
 
 A person can click it to donate. This would take them to a secure payment form, which would allow them to choose from common donation amounts (eg. $20) or enter their own amount. Once the payment is made, the donation meter would be updated automatically.
 
-The payment form should be generated through the Stripe and Blocknomics APIs (Stripe for credit card payments, Blockonomics for Bitcoin payments). Detail...",liberatollc,21 minutes ago,https://replit.com/bounties/@liberatollc/rocketchat-plugin-to
+The payment form should be generated through the Stripe and Blocknomics APIs (Stripe for credit card payments, Blockonomics for Bitcoin payments). Detail...",liberatollc,28 minutes ago,https://replit.com/bounties/@liberatollc/rocketchat-plugin-to
