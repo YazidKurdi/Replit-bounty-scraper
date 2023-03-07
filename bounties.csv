@@ -8439,7 +8439,7 @@ The current project uses Node, Docker, and Langchain (
 
 Link to Project
 
-https://github.com/jakewallin82/chatgpt-langchainjs-docker",jakewallin82,14 hours ago,https://replit.com/bounties/@jakewallin82/build-a-simple-api-w
+https://github.com/jakewallin82/chatgpt-langchainjs-docker",jakewallin82,15 hours ago,https://replit.com/bounties/@jakewallin82/build-a-simple-api-w
 1008,$81.00,due in 5 days,Kalevala GPT - Scrape and get embeddings for the Finnish National Epic,"We would like to create a chat interface where the user can both search and talk to the Finnish National Epic, called Kalevala. To do this, we'll use this GitHub repo as the starting point:
 https://github.com/mckaywrigley/wait-but-why-gpt
 
@@ -8459,7 +8459,7 @@ We want to be able to automatically pull the booked/available times for each bus
 
 If not we want to be able to automatically get this data (live, or with as little delay as possible) for each business we have on our platform (with their specific TreatWell URL, example: https://www.treatwell.co.uk/place/q-n-nail-spa/#serviceIds=TP2478124,TR2478024,TR2478016&t=81&tt=36)
 
-A bonus is if you’re able to figure out how we could also push booked times from our platform into the TreatWell platform to blockout the new book...",ElliotWood2,10 hours ago,https://replit.com/bounties/@ElliotWood2/api-taken-away-we-ne
+A bonus is if you’re able to figure out how we could also push booked times from our platform into the TreatWell platform to blockout the new book...",ElliotWood2,11 hours ago,https://replit.com/bounties/@ElliotWood2/api-taken-away-we-ne
 1010,$90.00,due in 13 days,Google Analytics 4 client using SupaBase,"I want a web-based Google Analytics 4 client that asks for a user to login with their Google-account and allows the end-user to see a list of all their GA4 properties.
 
 When they select a property, the application should request the number of pageviews for the day before and show that.
@@ -8469,7 +8469,7 @@ I want a transfer of a private github repo with all the code needed for this sol
 
 If I follow the steps in the documentation, I should have this solution up and running on my own accounts.
 
-Code should be written in idiomatic Typescript and may make use of Google libraries.",PalBrattberg1,7 hours ago,https://replit.com/bounties/@PalBrattberg1/google-analytics-4-c
+Code should be written in idiomatic Typescript and may make use of Google libraries.",PalBrattberg1,8 hours ago,https://replit.com/bounties/@PalBrattberg1/google-analytics-4-c
 1011,$11.00,due in 7 days,ChatGPT AI Website,"Create a webpage using OpenAI's ChatGPT API to create a page similar in functionality and UI to https://chat.openai.com/chat and
 ChatSonic.
 Acceptance  and Technical Criteria
@@ -8490,7 +8490,7 @@ Our frontend application receives the request from the query parameter in the UR
 
 Our frontend application then redirects the user to the external OAuth provider for authentication.
 
-After ...",Hevxr,4 hours ago,https://replit.com/bounties/@Hevxr/flutter-authenticati
+After ...",Hevxr,5 hours ago,https://replit.com/bounties/@Hevxr/flutter-authenticati
 1013,$5.99,due in 6 months,Make a full math calculator,"Future of Mathematics
 I am planning to make a calculator that can do it all. Yep, that's what I'm calling the future of mathematics, deal with it.
 
@@ -8517,4 +8517,4 @@ a0884f87601fda5c901c10f9a3ac881222494a3dad30a3990980ab2bf46bae1a1013c4b09687d39e
 Private “key”:”f4fbe1203b0e4f9ef1bb54b0e3de1d1495b81cb95167eaa3fb50f254d654f2a8”
 “Eth2pubkey”:”Sig:b06f1481bd598da7244d62f26259931f3c7078b59137ba676369c740ff275cd0751ad2967b7f433b8d6ca2345a4c0f0c
 Veryfy
-bf119b96-0a4e-489d-b86f-b29f58ecead9",Newlife08Domini,49 minutes ago,https://replit.com/bounties/@Newlife08Domini/78779352-d0839500-79
+bf119b96-0a4e-489d-b86f-b29f58ecead9",Newlife08Domini,59 minutes ago,https://replit.com/bounties/@Newlife08Domini/78779352-d0839500-79
