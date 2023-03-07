@@ -10096,7 +10096,7 @@
         "title": "API taken away, we need a work around for a public website",
         "description": "We\u2019re building a deals website displaying available booking times for service businesses. Most of our business clients are on this website: https://www.treatwell.co.uk. TreatWell used to have an API to automatically pull each of the businesses booked/available times but the website (being a bunch of cunts) took this away.\n\nWe want to be able to automatically pull the booked/available times for each business on the TreatWell website to display to our customers. If you can live pull all businesses booked/available data at once, excellent.\n\nIf not we want to be able to automatically get this data (live, or with as little delay as possible) for each business we have on our platform (with their specific TreatWell URL, example: https://www.treatwell.co.uk/place/q-n-nail-spa/#serviceIds=TP2478124,TR2478024,TR2478016&t=81&tt=36)\n\nA bonus is if you\u2019re able to figure out how we could also push booked times from our platform into the TreatWell platform to blockout the new book...",
         "author": "ElliotWood2",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@ElliotWood2/api-taken-away-we-ne"
     },
     {
@@ -10106,7 +10106,7 @@
         "title": "Google Analytics 4 client using SupaBase",
         "description": "I want a web-based Google Analytics 4 client that asks for a user to login with their Google-account and allows the end-user to see a list of all their GA4 properties.\n\nWhen they select a property, the application should request the number of pageviews for the day before and show that.\n\nAcceptance Criteria\nI want a transfer of a private github repo with all the code needed for this solution, along with a step-by-step guide to deploying the solution on Supabase and/or Vercel.\n\nIf I follow the steps in the documentation, I should have this solution up and running on my own accounts.\n\nCode should be written in idiomatic Typescript and may make use of Google libraries.",
         "author": "PalBrattberg1",
-        "posted_time": "20 minutes ago",
+        "posted_time": "28 minutes ago",
         "link": "https://replit.com/bounties/@PalBrattberg1/google-analytics-4-c"
     }
 ]
