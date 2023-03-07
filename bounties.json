@@ -10096,7 +10096,7 @@
         "title": "API taken away, we need a work around for a public website",
         "description": "We\u2019re building a deals website displaying available booking times for service businesses. Most of our business clients are on this website: https://www.treatwell.co.uk. TreatWell used to have an API to automatically pull each of the businesses booked/available times but the website (being a bunch of cunts) took this away.\n\nWe want to be able to automatically pull the booked/available times for each business on the TreatWell website to display to our customers. If you can live pull all businesses booked/available data at once, excellent.\n\nIf not we want to be able to automatically get this data (live, or with as little delay as possible) for each business we have on our platform (with their specific TreatWell URL, example: https://www.treatwell.co.uk/place/q-n-nail-spa/#serviceIds=TP2478124,TR2478024,TR2478016&t=81&tt=36)\n\nA bonus is if you\u2019re able to figure out how we could also push booked times from our platform into the TreatWell platform to blockout the new book...",
         "author": "ElliotWood2",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@ElliotWood2/api-taken-away-we-ne"
     },
     {
@@ -10146,7 +10146,7 @@
         "title": "make a cool webOS opening tutorial and animation",
         "description": "i'm making a webOS, i want an an easy to implement tutorial slider, and at the end a final opening animation.\nAcceptance Criteria\nvanilla html css and javascript\nmust be a smooth experience",
         "author": "GreenWorldia",
-        "posted_time": "33 minutes ago",
+        "posted_time": "45 minutes ago",
         "link": "https://replit.com/bounties/@GreenWorldia/make-a-cool-webos-op"
     }
 ]
