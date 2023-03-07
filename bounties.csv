@@ -8398,7 +8398,7 @@ Save the data in a DB in order for it to be later used in a bot/chat like functi
 Acceptance Criteria
 Given a list of match date times, turn on subscription before the match and end subscription after match by X minutes
 No manual triggering
-Saving responses from subscription in a DB",AliElfakharany1,17 hours ago,https://replit.com/bounties/@AliElfakharany1/fpl-bot-graphql-subs
+Saving responses from subscription in a DB",AliElfakharany1,18 hours ago,https://replit.com/bounties/@AliElfakharany1/fpl-bot-graphql-subs
 1005,$18.00,due in 3 days,"Lookup IG, Twitter, YouTube and TT follower counts and bios from csv file of usernames","I have a list of people and their usernames on instagram, Twitter, Youtube, and TikTok in a CSV.
 I would like to add their follower count on each platform and their bios as new columns on the CSV.
 Bios frequently might weird data like emojis and foreign language characters, so you'll need to manage encodings properly.
@@ -8452,7 +8452,7 @@ http://nebu.finlit.fi/kalevala/index.php?m=1&s=2&l=1 (this link is to the first 
 Kalevala poems embedded successfully and stored into csv and supabase
 Embeddings fetched will be saved to Supabase in the same way as in the GitHub example provided at the beginning of the description.
 
-The user can use the app",PosThor,7 hours ago,https://replit.com/bounties/@PosThor/kalevala-gpt-scrape
+The user can use the app",PosThor,8 hours ago,https://replit.com/bounties/@PosThor/kalevala-gpt-scrape
 1009,$45.00,due in 13 days,"API taken away, we need a work around for a public website","We’re building a deals website displaying available booking times for service businesses. Most of our business clients are on this website: https://www.treatwell.co.uk. TreatWell used to have an API to automatically pull each of the businesses booked/available times but the website (being a bunch of cunts) took this away.
 
 We want to be able to automatically pull the booked/available times for each business on the TreatWell website to display to our customers. If you can live pull all businesses booked/available data at once, excellent.
@@ -8478,4 +8478,4 @@ Has  the same functionality and a very similar UI to ChatGPT Chat and
 ChatSonic
 No feature for accounts, etc., so there will be a main cover page (like what ChatSonic does) with an image and a button that will go to the GPT Chat page with the AI.
 Have slots for 1-3 ads per page
-Has a creative name (like ChatSonic, Caktus AI, Cramly AI etc.)",Retrospicer,6 seconds ago,https://replit.com/bounties/@Retrospicer/chatgpt-ai-website
+Has a creative name (like ChatSonic, Caktus AI, Cramly AI etc.)",Retrospicer,10 minutes ago,https://replit.com/bounties/@Retrospicer/chatgpt-ai-website
