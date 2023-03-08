@@ -8549,7 +8549,7 @@ This 10 min video has all the basics about this specific project :]
 https://youtu.be/KAbkfdaeFEQ
 
 Link to Project
-https://replit.com/@YAQ/gpt-35-turbo-Chatbot?v=1",YAQ,16 hours ago,https://replit.com/bounties/@YAQ/make-this-work-with
+https://replit.com/@YAQ/gpt-35-turbo-Chatbot?v=1",YAQ,17 hours ago,https://replit.com/bounties/@YAQ/make-this-work-with
 1021,$270.00,due in 22 days,Text to Design for Civil Engineers,"A web application for text to design that presents civil engineers with an array of publicly available designs to draw inspiration from. The search will incorporate the type of infrastructure the engineer is designing, the application, and the area in which it is being constructed.
 The end result should be a simple, intuitive, web application where the user can search up a civil design and be presented with existing or original designs based on their prompt and engineering standards that the design in based on.
 
@@ -8615,7 +8615,7 @@ Acceptance Criteria
 Add whatever package so that Replit supports Clarity syntax highlighting. Minimally acceptable is adding a package to Nix such that, with one or a few commands on a Replit user's end, they can import or specify in a config file and that Replit will show Clarity syntax highlighting.
 
 Helpful Links
-I suspect that the LSP for Clarity referred to in the Clarity VS Code extension will be a helpful starting place: https://marketplace.vis...",hiro-protagonist,1 hour ago,https://replit.com/bounties/@hiro-protagonist/add-clarity-language
+I suspect that the LSP for Clarity referred to in the Clarity VS Code extension will be a helpful starting place: https://marketplace.vis...",hiro-protagonist,2 hours ago,https://replit.com/bounties/@hiro-protagonist/add-clarity-language
 1026,$18.00,due in 6 days,Light + Dark Mode Next.js ,"I have a Next.js project in a GitHub repo, where I have added styles for the light mode (which is default), and a class called dark-mode which has the dark mode CSS.
 I have also added a change mode button.
 Now I need to get the button to work.
@@ -8624,4 +8624,4 @@ Acceptance Criteria
 Clicking the change mode button changes the mode from light to dark or vise versa
 The mode stays so when you reload it’s still on the same mode
 Along with the solution, you also provide an explanation of what you changed and why
-Create a pull request on the GitHub repo with the solution: https://github.com/VulcanWM/discipulis-nextjs",VulcanWM,23 minutes ago,https://replit.com/bounties/@VulcanWM/light-dark-mode-next
+Create a pull request on the GitHub repo with the solution: https://github.com/VulcanWM/discipulis-nextjs",VulcanWM,30 minutes ago,https://replit.com/bounties/@VulcanWM/light-dark-mode-next
