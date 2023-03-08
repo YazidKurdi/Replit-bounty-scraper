@@ -10176,7 +10176,7 @@
         "title": "Build a graph visualization with Visx",
         "description": "I want to build https://pry.co/startup-growth-calculator/\n\nAcceptance Criteria\nUser can input values like: expenses, cash in bank, revenue, growth rate. And the graph will update\nUser can interact with the graph by dragging the line\n\nTechnical Details\nWith Visx\nJS, no typescript\nOn React, with functional component\nAll the input values should be the props of the component\n\nLink to Project\nhttps://pry.co/startup-growth-calculator/",
         "author": "tennisonchan",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@tennisonchan/build-a-graph-visual"
     },
     {
