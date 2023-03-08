@@ -10156,7 +10156,7 @@
         "title": "RocketChat plugin to create donation meter",
         "description": "There is an open source chat server called RocketChat. You can demo it at https://open.rocket.chat/home. Note the Rocketchat logo at the bottom left. This is in a space of dimensions 260 x 70px and you can fill it with any HTML, in the site administration settings.\n\nWhat I would like is for this area to display a customizable, dynamic donation meter. There would be an administration screen allowing the administrator to change the goal amount at any time. The donation meter would change from color red at 30% of the goal or less, orange at 31-60% yellow at 61-90%, and green for 90%+.\n\nA person can click it to donate. This would take them to a secure payment form, which would allow them to choose from common donation amounts (eg. $20) or enter their own amount. Once the payment is made, the donation meter would be updated automatically.\n\nThe payment form should be generated through the Stripe and Blocknomics APIs (Stripe for credit card payments, Blockonomics for Bitcoin payments). Detail...",
         "author": "liberatollc",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@liberatollc/rocketchat-plugin-to"
     },
     {
@@ -10196,7 +10196,7 @@
         "title": "Custom Chatbot Scheduler using ChatGPT, Langchain, & Google Calendar API",
         "description": "Follow the method described at this link to use LangChain & GPT-3 to create an automated chatbot: https://dev.to/ironcladdev/how-i-used-langchain-and-gpt-3-to-automate-my-boss-3bk4\nThe chatbot will also need to access Google Calendar API (maybe using a flask server on Google Cloud Run using HTTP Requests to query ?) to find availability for appointment scheduling AND will need to access maps to determine drivetime between 2 addresses.",
         "author": "JenniferCalhoun",
-        "posted_time": "16 hours ago",
+        "posted_time": "17 hours ago",
         "link": "https://replit.com/bounties/@JenniferCalhoun/custom-chatbot-sched"
     },
     {
@@ -10226,7 +10226,7 @@
         "title": "Scrape NBA data from basketball-reference.com",
         "description": "I would like to scrape data from basketball-reference.com and get the data as a CSV. The data is a series of tables. All the tables have the same markup so one scraping structure should work for all of them.\n\nAcceptance Criteria\nBelow is a list of pages to scrape tables from. Each table should be its own CSV file where the filename is the title of the page + title of the table. (Example: NBA Salary Cap History / Salary Cap History => nbasalarycaphistory-salarycap_history.csv).\n\n2022-23 NBA Player Contracts\nNBA Contracts Summary\nNBA Salary Cap History\n2022-23 NBA Season Summary\n2021-22 NBA Season Summary\n\nTechnical Details\nPrefer python, open to JS/TS for language. No preference on scraping library.\n\nLink to Project\nNo project yet, will let you create replit and share.",
         "author": "HumzaBhakhrani",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@HumzaBhakhrani/scrape-nba-data-from"
     },
     {
