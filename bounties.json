@@ -10236,7 +10236,7 @@
         "title": "KW Clustering Tool",
         "description": "A web app where the user can easily find clusters of keywords related to a topic, so it can identify the most important ones to build an editorial strategy.\nThe workflow is\nuser inputs a keyword\nthe tool pulls up a cluster similar to https://answerthepublic.com/\nonce the cluster has been identified, the user can tap on any of the Keywords, and the tool generates a set of title ideas that the user can copy and paste somewhere else\n\nAcceptance Criteria\nN/A\nTechnical Details\nUnderstanding of OpenAI APIs + APIs to pull up keywords' metrics (volume, CPC data)",
         "author": "GennaroCuofano",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/kw-clustering-tool"
     },
     {
@@ -10248,5 +10248,15 @@
         "author": "KamalMango1",
         "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@KamalMango1/help-me-set-up-and-d"
+    },
+    {
+        "index": "1025",
+        "price": "$270.00",
+        "due_days": "due in 7 days",
+        "title": "Add Clarity language, syntax highlighting, to Repl.it",
+        "description": "Stacks is a blockchain that brings smart contracts to Bitcoin. Its smart contract programming language is Clarity.\n\nThe Stacks Replit account showcases a few Repls with Clarity code. The problem is: there isn't Clarity syntax highlighting on Replit... yet \n\nThe Bounty: Enable Clarity syntax highlighting for Repls on Replits. I suspect it's through downloading and importing the LSP into a nix package, as outlined in this blogpost by Replit, so Repl owners to then specify language and highlighting in a Repl config file.\n\nAcceptance Criteria\nAdd whatever package so that Replit supports Clarity syntax highlighting. Minimally acceptable is adding a package to Nix such that, with one or a few commands on a Replit user's end, they can import or specify in a config file and that Replit will show Clarity syntax highlighting.\n\nHelpful Links\nI suspect that the LSP for Clarity referred to in the Clarity VS Code extension will be a helpful starting place: https://marketplace.vis...",
+        "author": "hiro-protagonist",
+        "posted_time": "9 seconds ago",
+        "link": "https://replit.com/bounties/@hiro-protagonist/add-clarity-language"
     }
 ]
