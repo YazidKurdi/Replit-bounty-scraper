@@ -8549,7 +8549,7 @@ This 10 min video has all the basics about this specific project :]
 https://youtu.be/KAbkfdaeFEQ
 
 Link to Project
-https://replit.com/@YAQ/gpt-35-turbo-Chatbot?v=1",YAQ,18 hours ago,https://replit.com/bounties/@YAQ/make-this-work-with
+https://replit.com/@YAQ/gpt-35-turbo-Chatbot?v=1",YAQ,19 hours ago,https://replit.com/bounties/@YAQ/make-this-work-with
 1021,$270.00,due in 22 days,Text to Design for Civil Engineers,"A web application for text to design that presents civil engineers with an array of publicly available designs to draw inspiration from. The search will incorporate the type of infrastructure the engineer is designing, the application, and the area in which it is being constructed.
 The end result should be a simple, intuitive, web application where the user can search up a civil design and be presented with existing or original designs based on their prompt and engineering standards that the design in based on.
 
@@ -8572,7 +8572,7 @@ Technical Details
 Prefer python, open to JS/TS for language. No preference on scraping library.
 
 Link to Project
-No project yet, will let you create replit and share.",HumzaBhakhrani,15 hours ago,https://replit.com/bounties/@HumzaBhakhrani/scrape-nba-data-from
+No project yet, will let you create replit and share.",HumzaBhakhrani,16 hours ago,https://replit.com/bounties/@HumzaBhakhrani/scrape-nba-data-from
 1023,$450.00,due in 3 days,KW Clustering Tool,"A web app where the user can easily find clusters of keywords related to a topic, so it can identify the most important ones to build an editorial strategy.
 The workflow is
 user inputs a keyword
@@ -8615,7 +8615,7 @@ Acceptance Criteria
 Add whatever package so that Replit supports Clarity syntax highlighting. Minimally acceptable is adding a package to Nix such that, with one or a few commands on a Replit user's end, they can import or specify in a config file and that Replit will show Clarity syntax highlighting.
 
 Helpful Links
-I suspect that the LSP for Clarity referred to in the Clarity VS Code extension will be a helpful starting place: https://marketplace.vis...",hiro-protagonist,3 hours ago,https://replit.com/bounties/@hiro-protagonist/add-clarity-language
+I suspect that the LSP for Clarity referred to in the Clarity VS Code extension will be a helpful starting place: https://marketplace.vis...",hiro-protagonist,4 hours ago,https://replit.com/bounties/@hiro-protagonist/add-clarity-language
 1026,$18.00,due in 6 days,Light + Dark Mode Next.js ,"I have a Next.js project in a GitHub repo, where I have added styles for the light mode (which is default), and a class called dark-mode which has the dark mode CSS.
 I have also added a change mode button.
 Now I need to get the button to work.
@@ -8624,7 +8624,7 @@ Acceptance Criteria
 Clicking the change mode button changes the mode from light to dark or vise versa
 The mode stays so when you reload it’s still on the same mode
 Along with the solution, you also provide an explanation of what you changed and why
-Create a pull request on the GitHub repo with the solution: https://github.com/VulcanWM/discipulis-nextjs",VulcanWM,2 hours ago,https://replit.com/bounties/@VulcanWM/light-dark-mode-next
+Create a pull request on the GitHub repo with the solution: https://github.com/VulcanWM/discipulis-nextjs",VulcanWM,3 hours ago,https://replit.com/bounties/@VulcanWM/light-dark-mode-next
 1027,$200.00,due in 5 days,Python FastAPI backend for messenger app,"General overview
 
 We are looking for a talented Python backend developer who can help us develop and release fast an MVP for the backend of our messenger app.
@@ -8646,4 +8646,4 @@ How fast could you deliver?",mattpatagon,2 hours ago,https://replit.com/bounties
 1028,$4.50,due in 13 days,Google Domain,"Im adding a domain to https://friends-lounge.harrisonschmidt.repl.co but if i use google domains no matter how long i wait with the records (i think) if i use the domain i want it'll send me to replit home page and not my repl
 
 Acceptance Criteria
-I would like you to guide me to where i have a fully linked domain on google domains so i no longer have to use my replit one",HarrisonSchmidt,58 minutes ago,https://replit.com/bounties/@HarrisonSchmidt/google-domain
+I would like you to guide me to where i have a fully linked domain on google domains so i no longer have to use my replit one",HarrisonSchmidt,1 hour ago,https://replit.com/bounties/@HarrisonSchmidt/google-domain
