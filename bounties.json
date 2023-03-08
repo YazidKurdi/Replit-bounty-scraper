@@ -10116,7 +10116,7 @@
         "title": "ChatGPT AI Website",
         "description": "Create a webpage using OpenAI's ChatGPT API to create a page similar in functionality and UI to https://chat.openai.com/chat and\nChatSonic.\nAcceptance  and Technical Criteria\nUses the OpenAI ChatGPT API (preferably davinci or curie, etc., it should be relatively lower cost but with good quality output)\nHas  the same functionality and a very similar UI to ChatGPT Chat and\nChatSonic\nNo feature for accounts, etc., so there will be a main cover page (like what ChatSonic does) with an image and a button that will go to the GPT Chat page with the AI.\nHave slots for 1-3 ads per page\nHas a creative name (like ChatSonic, Caktus AI, Cramly AI etc.)",
         "author": "Retrospicer",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@Retrospicer/chatgpt-ai-website"
     },
     {
@@ -10206,7 +10206,7 @@
         "title": "Make this work with gpt-3.5-turbo instead of text-davinci",
         "description": "The entire thing is built out to work with text-davinci-003 - this is from one of Replit's recent youtube videos (link below) - but I think the same day the video came out, OpenAI announced gpt-3.5-turbo which is x10 cheaper than text-davinci-003. However, you can't just change the model name to gpt-3.5-turbo in the code and get this to work, I think the prompting needs to change, but I am not sure how exactly, and that's what I need someone to do.\n\nAcceptance Criteria\nIt runs as intended and with no errors.\n\nTechnical Details\nThis 10 min video has all the basics about this specific project :]\nhttps://youtu.be/KAbkfdaeFEQ\n\nLink to Project\nhttps://replit.com/@YAQ/gpt-35-turbo-Chatbot?v=1",
         "author": "YAQ",
-        "posted_time": "59 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@YAQ/make-this-work-with"
     }
 ]
