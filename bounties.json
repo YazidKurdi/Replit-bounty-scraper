@@ -10126,7 +10126,7 @@
         "title": "Flutter Authentication Plugin for iOS and Android",
         "description": "Build a plugin for Flutter that handles an API based authentication process for iOS and Android that involves the in-app browser, after a successful authentication, the plugin should make subsequent API calls to our backend to retrieve data, store it in local storage and provide methods for accessing this data within the frontend application.\n\nTechnical Details\nThe Flutter plugin is an SDK used to fetch part of a private key of a wallet\nHere is the authentication flow:\nThe external frontend application redirects to our frontend authentication URL with their re-direct URL, blockchain and the authentication provider they want to authenticate with as query parameters e.g. redirecturl=yourdomain.com&provider=google&blockchain=ethereum\n\nOur frontend application receives the request from the query parameter in the URL and sends a request to our backend application.\n\nOur frontend application then redirects the user to the external OAuth provider for authentication.\n\nAfter ...",
         "author": "Hevxr",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@Hevxr/flutter-authenticati"
     },
     {
