@@ -10146,7 +10146,7 @@
         "title": "make a cool webOS opening tutorial and animation",
         "description": "i'm making a webOS, i want an an easy to implement tutorial slider, and at the end a final opening animation.\nAcceptance Criteria\nvanilla html css and javascript\nmust be a smooth experience",
         "author": "GreenWorldia",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@GreenWorldia/make-a-cool-webos-op"
     },
     {
@@ -10156,7 +10156,7 @@
         "title": "RocketChat plugin to create donation meter",
         "description": "There is an open source chat server called RocketChat. You can demo it at https://open.rocket.chat/home. Note the Rocketchat logo at the bottom left. This is in a space of dimensions 260 x 70px and you can fill it with any HTML, in the site administration settings.\n\nWhat I would like is for this area to display a customizable, dynamic donation meter. There would be an administration screen allowing the administrator to change the goal amount at any time. The donation meter would change from color red at 30% of the goal or less, orange at 31-60% yellow at 61-90%, and green for 90%+.\n\nA person can click it to donate. This would take them to a secure payment form, which would allow them to choose from common donation amounts (eg. $20) or enter their own amount. Once the payment is made, the donation meter would be updated automatically.\n\nThe payment form should be generated through the Stripe and Blocknomics APIs (Stripe for credit card payments, Blockonomics for Bitcoin payments). Detail...",
         "author": "liberatollc",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@liberatollc/rocketchat-plugin-to"
     },
     {
@@ -10166,7 +10166,7 @@
         "title": "78779352-d0839500-796a-11ea-9468-fd2a0b3fe1ef",
         "description": "about what you want in the solution here. Imput in : 15:00:00 pm 07-03-2023\na0884f87601fda5c901c10f9a3ac881222494a3dad30a3990980ab2bf46bae1a1013c4b09687d39ee23b785de2ef9aba sent to\nPrivate \u201ckey\u201d:\u201df4fbe1203b0e4f9ef1bb54b0e3de1d1495b81cb95167eaa3fb50f254d654f2a8\u201d\n\u201cEth2pubkey\u201d:\u201dSig:b06f1481bd598da7244d62f26259931f3c7078b59137ba676369c740ff275cd0751ad2967b7f433b8d6ca2345a4c0f0c\nVeryfy\nbf119b96-0a4e-489d-b86f-b29f58ecead9",
         "author": "Newlife08Domini",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@Newlife08Domini/78779352-d0839500-79"
     },
     {
@@ -10186,7 +10186,7 @@
         "title": "Create a Lapis Repl Template",
         "description": "Using the Lua package manager luarocks, make a repl which can run the Lapis web framework: https://leafo.net/lapis/\n\nAcceptance Criteria:\nPackage manager luarocks must be installed (so further packages can be installed)\nTemplate obviously must work (a barebones example must run properly)",
         "author": "STCollier",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@STCollier/create-a-lapis-repl"
     },
     {
@@ -10206,7 +10206,7 @@
         "title": "Make this work with gpt-3.5-turbo instead of text-davinci",
         "description": "The entire thing is built out to work with text-davinci-003 - this is from one of Replit's recent youtube videos (link below) - but I think the same day the video came out, OpenAI announced gpt-3.5-turbo which is x10 cheaper than text-davinci-003. However, you can't just change the model name to gpt-3.5-turbo in the code and get this to work, I think the prompting needs to change, but I am not sure how exactly, and that's what I need someone to do.\n\nAcceptance Criteria\nIt runs as intended and with no errors.\n\nTechnical Details\nThis 10 min video has all the basics about this specific project :]\nhttps://youtu.be/KAbkfdaeFEQ\n\nLink to Project\nhttps://replit.com/@YAQ/gpt-35-turbo-Chatbot?v=1",
         "author": "YAQ",
-        "posted_time": "4 hours ago",
+        "posted_time": "5 hours ago",
         "link": "https://replit.com/bounties/@YAQ/make-this-work-with"
     },
     {
@@ -10226,7 +10226,7 @@
         "title": "Scrape NBA data from basketball-reference.com",
         "description": "I would like to scrape data from basketball-reference.com and get the data as a CSV. The data is a series of tables. All the tables have the same markup so one scraping structure should work for all of them.\n\nAcceptance Criteria\nBelow is a list of pages to scrape tables from. Each table should be its own CSV file where the filename is the title of the page + title of the table. (Example: NBA Salary Cap History / Salary Cap History => nbasalarycaphistory-salarycap_history.csv).\n\n2022-23 NBA Player Contracts\nNBA Contracts Summary\nNBA Salary Cap History\n2022-23 NBA Season Summary\n2021-22 NBA Season Summary\n\nTechnical Details\nPrefer python, open to JS/TS for language. No preference on scraping library.\n\nLink to Project\nNo project yet, will let you create replit and share.",
         "author": "HumzaBhakhrani",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@HumzaBhakhrani/scrape-nba-data-from"
     }
 ]
