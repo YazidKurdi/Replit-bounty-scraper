@@ -10176,7 +10176,7 @@
         "title": "Build a graph visualization with Visx",
         "description": "I want to build https://pry.co/startup-growth-calculator/\n\nAcceptance Criteria\nUser can input values like: expenses, cash in bank, revenue, growth rate. And the graph will update\nUser can interact with the graph by dragging the line\n\nTechnical Details\nWith Visx\nJS, no typescript\nOn React, with functional component\nAll the input values should be the props of the component\n\nLink to Project\nhttps://pry.co/startup-growth-calculator/",
         "author": "tennisonchan",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@tennisonchan/build-a-graph-visual"
     },
     {
@@ -10196,7 +10196,7 @@
         "title": "Custom Chatbot Scheduler using ChatGPT, Langchain, & Google Calendar API",
         "description": "Follow the method described at this link to use LangChain & GPT-3 to create an automated chatbot: https://dev.to/ironcladdev/how-i-used-langchain-and-gpt-3-to-automate-my-boss-3bk4\nThe chatbot will also need to access Google Calendar API (maybe using a flask server on Google Cloud Run using HTTP Requests to query ?) to find availability for appointment scheduling AND will need to access maps to determine drivetime between 2 addresses.",
         "author": "JenniferCalhoun",
-        "posted_time": "18 hours ago",
+        "posted_time": "19 hours ago",
         "link": "https://replit.com/bounties/@JenniferCalhoun/custom-chatbot-sched"
     },
     {
