@@ -8536,7 +8536,7 @@ https://pry.co/startup-growth-calculator/",tennisonchan,22 hours ago,https://rep
 
 Acceptance Criteria:
 Package manager luarocks must be installed (so further packages can be installed)
-Template obviously must work (a barebones example must run properly)",STCollier,20 hours ago,https://replit.com/bounties/@STCollier/create-a-lapis-repl
+Template obviously must work (a barebones example must run properly)",STCollier,21 hours ago,https://replit.com/bounties/@STCollier/create-a-lapis-repl
 1019,$450.00,due in 2 days,"Custom Chatbot Scheduler using ChatGPT, Langchain, & Google Calendar API","Follow the method described at this link to use LangChain & GPT-3 to create an automated chatbot: https://dev.to/ironcladdev/how-i-used-langchain-and-gpt-3-to-automate-my-boss-3bk4
 The chatbot will also need to access Google Calendar API (maybe using a flask server on Google Cloud Run using HTTP Requests to query ?) to find availability for appointment scheduling AND will need to access maps to determine drivetime between 2 addresses.",JenniferCalhoun,20 hours ago,https://replit.com/bounties/@JenniferCalhoun/custom-chatbot-sched
 1020,$31.50,due in 3 days,Make this work with gpt-3.5-turbo instead of text-davinci,"The entire thing is built out to work with text-davinci-003 - this is from one of Replit's recent youtube videos (link below) - but I think the same day the video came out, OpenAI announced gpt-3.5-turbo which is x10 cheaper than text-davinci-003. However, you can't just change the model name to gpt-3.5-turbo in the code and get this to work, I think the prompting needs to change, but I am not sure how exactly, and that's what I need someone to do.
@@ -8572,7 +8572,7 @@ Technical Details
 Prefer python, open to JS/TS for language. No preference on scraping library.
 
 Link to Project
-No project yet, will let you create replit and share.",HumzaBhakhrani,13 hours ago,https://replit.com/bounties/@HumzaBhakhrani/scrape-nba-data-from
+No project yet, will let you create replit and share.",HumzaBhakhrani,14 hours ago,https://replit.com/bounties/@HumzaBhakhrani/scrape-nba-data-from
 1023,$450.00,due in 3 days,KW Clustering Tool,"A web app where the user can easily find clusters of keywords related to a topic, so it can identify the most important ones to build an editorial strategy.
 The workflow is
 user inputs a keyword
@@ -8624,4 +8624,4 @@ Acceptance Criteria
 Clicking the change mode button changes the mode from light to dark or vise versa
 The mode stays so when you reload it’s still on the same mode
 Along with the solution, you also provide an explanation of what you changed and why
-Create a pull request on the GitHub repo with the solution: https://github.com/VulcanWM/discipulis-nextjs",VulcanWM,30 minutes ago,https://replit.com/bounties/@VulcanWM/light-dark-mode-next
+Create a pull request on the GitHub repo with the solution: https://github.com/VulcanWM/discipulis-nextjs",VulcanWM,38 minutes ago,https://replit.com/bounties/@VulcanWM/light-dark-mode-next

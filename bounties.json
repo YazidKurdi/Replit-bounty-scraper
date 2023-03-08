@@ -10186,7 +10186,7 @@
         "title": "Create a Lapis Repl Template",
         "description": "Using the Lua package manager luarocks, make a repl which can run the Lapis web framework: https://leafo.net/lapis/\n\nAcceptance Criteria:\nPackage manager luarocks must be installed (so further packages can be installed)\nTemplate obviously must work (a barebones example must run properly)",
         "author": "STCollier",
-        "posted_time": "20 hours ago",
+        "posted_time": "21 hours ago",
         "link": "https://replit.com/bounties/@STCollier/create-a-lapis-repl"
     },
     {
@@ -10226,7 +10226,7 @@
         "title": "Scrape NBA data from basketball-reference.com",
         "description": "I would like to scrape data from basketball-reference.com and get the data as a CSV. The data is a series of tables. All the tables have the same markup so one scraping structure should work for all of them.\n\nAcceptance Criteria\nBelow is a list of pages to scrape tables from. Each table should be its own CSV file where the filename is the title of the page + title of the table. (Example: NBA Salary Cap History / Salary Cap History => nbasalarycaphistory-salarycap_history.csv).\n\n2022-23 NBA Player Contracts\nNBA Contracts Summary\nNBA Salary Cap History\n2022-23 NBA Season Summary\n2021-22 NBA Season Summary\n\nTechnical Details\nPrefer python, open to JS/TS for language. No preference on scraping library.\n\nLink to Project\nNo project yet, will let you create replit and share.",
         "author": "HumzaBhakhrani",
-        "posted_time": "13 hours ago",
+        "posted_time": "14 hours ago",
         "link": "https://replit.com/bounties/@HumzaBhakhrani/scrape-nba-data-from"
     },
     {
@@ -10266,7 +10266,7 @@
         "title": "Light + Dark Mode Next.js ",
         "description": "I have a Next.js project in a GitHub repo, where I have added styles for the light mode (which is default), and a class called dark-mode which has the dark mode CSS.\nI have also added a change mode button.\nNow I need to get the button to work.\n\nAcceptance Criteria\nClicking the change mode button changes the mode from light to dark or vise versa\nThe mode stays so when you reload it\u2019s still on the same mode\nAlong with the solution, you also provide an explanation of what you changed and why\nCreate a pull request on the GitHub repo with the solution: https://github.com/VulcanWM/discipulis-nextjs",
         "author": "VulcanWM",
-        "posted_time": "30 minutes ago",
+        "posted_time": "38 minutes ago",
         "link": "https://replit.com/bounties/@VulcanWM/light-dark-mode-next"
     }
 ]
