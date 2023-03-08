@@ -10216,7 +10216,7 @@
         "title": "Text to Design for Civil Engineers",
         "description": "A web application for text to design that presents civil engineers with an array of publicly available designs to draw inspiration from. The search will incorporate the type of infrastructure the engineer is designing, the application, and the area in which it is being constructed.\nThe end result should be a simple, intuitive, web application where the user can search up a civil design and be presented with existing or original designs based on their prompt and engineering standards that the design in based on.\n\nAcceptance Criteria\n\nTechnical Details\nA language model that understands and interprets prompts, a design database that includes both public and proprietary sources for design reference and inspiration, cloud computing infrastructure, intuitive and user friendly user interface",
         "author": "swuell1",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@swuell1/text-to-design-for-c"
     },
     {
@@ -10246,7 +10246,7 @@
         "title": "Help me set up and deploy an open source AI Avatar Next.js project on Vercel",
         "description": "I found this awesome AI avatar generator open source project that I would love help and coaching setting it up locally on my machine as a dev environment and also deployment on Vercel allowing me to play around with the project, learn and build on top of it\n\nAcceptance Criteria\nI'm able to run the code locally (dev environtment)\nI have a staging environment on Vercel\nI have a production environment on Vercel\nI have a better understanding what it takes to set up a project with this stack\n\nTechnical Details\nThe project uses the following Stack:\nNext.js\nChakra UI\nPrisma\nReplicate\nStripe\nStable Diffusion\n\nI'm pretty familiar with the front end aspect of the code and also familiar with Replicate. What I have 0 experience in and is blocking me from setting this up are Docker, Database, AWS, Email Server\n\nLink to Project\nHere's a link to the project's github repo\nhttps://github.com/shinework/photoshot",
         "author": "KamalMango1",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@KamalMango1/help-me-set-up-and-d"
     },
     {
@@ -10266,7 +10266,7 @@
         "title": "Light + Dark Mode Next.js ",
         "description": "I have a Next.js project in a GitHub repo, where I have added styles for the light mode (which is default), and a class called dark-mode which has the dark mode CSS.\nI have also added a change mode button.\nNow I need to get the button to work.\n\nAcceptance Criteria\nClicking the change mode button changes the mode from light to dark or vise versa\nThe mode stays so when you reload it\u2019s still on the same mode\nAlong with the solution, you also provide an explanation of what you changed and why\nCreate a pull request on the GitHub repo with the solution: https://github.com/VulcanWM/discipulis-nextjs",
         "author": "VulcanWM",
-        "posted_time": "56 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@VulcanWM/light-dark-mode-next"
     },
     {
@@ -10276,7 +10276,7 @@
         "title": "Python FastAPI backend for messenger app",
         "description": "General overview\n\nWe are looking for a talented Python backend developer who can help us develop and release fast an MVP for the backend of our messenger app.\n\nYou will develop the backend for a webapp interface that uses Twilio to send whatsapp messages and read conversations.\n\nThe backend planning is ready, so you will be given all the details you need to just sit and code without having to plan: take a look at the details of the development here https://docsend.com/view/5f7zdupw5w4ikggu\n\nTimeline\n\nOne week\n\nHow to apply successfully\n\nDescribe the job in your words\nDescribe in detail the most complex backend you have built using Django or FastAPI\nDescribe your relevant experience (if you have worked as a full time employee for example)\nHow fast could you deliver?",
         "author": "mattpatagon",
-        "posted_time": "11 minutes ago",
+        "posted_time": "28 minutes ago",
         "link": "https://replit.com/bounties/@mattpatagon/python-fastapi-backe"
     }
 ]
