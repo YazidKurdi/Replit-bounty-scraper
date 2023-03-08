@@ -10236,7 +10236,7 @@
         "title": "KW Clustering Tool",
         "description": "A web app where the user can easily find clusters of keywords related to a topic, so it can identify the most important ones to build an editorial strategy.\nThe workflow is\nuser inputs a keyword\nthe tool pulls up a cluster similar to https://answerthepublic.com/\nonce the cluster has been identified, the user can tap on any of the Keywords, and the tool generates a set of title ideas that the user can copy and paste somewhere else\n\nAcceptance Criteria\nN/A\nTechnical Details\nUnderstanding of OpenAI APIs + APIs to pull up keywords' metrics (volume, CPC data)",
         "author": "GennaroCuofano",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/kw-clustering-tool"
     },
     {
@@ -10286,7 +10286,7 @@
         "title": "Google Domain",
         "description": "Im adding a domain to https://friends-lounge.harrisonschmidt.repl.co but if i use google domains no matter how long i wait with the records (i think) if i use the domain i want it'll send me to replit home page and not my repl\n\nAcceptance Criteria\nI would like you to guide me to where i have a fully linked domain on google domains so i no longer have to use my replit one",
         "author": "HarrisonSchmidt",
-        "posted_time": "18 minutes ago",
+        "posted_time": "28 minutes ago",
         "link": "https://replit.com/bounties/@HarrisonSchmidt/google-domain"
     }
 ]
