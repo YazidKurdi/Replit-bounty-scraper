@@ -8582,7 +8582,7 @@ once the cluster has been identified, the user can tap on any of the Keywords, a
 Acceptance Criteria
 N/A
 Technical Details
-Understanding of OpenAI APIs + APIs to pull up keywords' metrics (volume, CPC data)",GennaroCuofano,7 hours ago,https://replit.com/bounties/@GennaroCuofano/kw-clustering-tool
+Understanding of OpenAI APIs + APIs to pull up keywords' metrics (volume, CPC data)",GennaroCuofano,8 hours ago,https://replit.com/bounties/@GennaroCuofano/kw-clustering-tool
 1024,$45.00,due in 3 days,Help me set up and deploy an open source AI Avatar Next.js project on Vercel,"I found this awesome AI avatar generator open source project that I would love help and coaching setting it up locally on my machine as a dev environment and also deployment on Vercel allowing me to play around with the project, learn and build on top of it
 
 Acceptance Criteria
@@ -8615,4 +8615,4 @@ Acceptance Criteria
 Add whatever package so that Replit supports Clarity syntax highlighting. Minimally acceptable is adding a package to Nix such that, with one or a few commands on a Replit user's end, they can import or specify in a config file and that Replit will show Clarity syntax highlighting.
 
 Helpful Links
-I suspect that the LSP for Clarity referred to in the Clarity VS Code extension will be a helpful starting place: https://marketplace.vis...",hiro-protagonist,53 minutes ago,https://replit.com/bounties/@hiro-protagonist/add-clarity-language
+I suspect that the LSP for Clarity referred to in the Clarity VS Code extension will be a helpful starting place: https://marketplace.vis...",hiro-protagonist,1 hour ago,https://replit.com/bounties/@hiro-protagonist/add-clarity-language
