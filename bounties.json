@@ -10216,7 +10216,7 @@
         "title": "Text to Design for Civil Engineers",
         "description": "A web application for text to design that presents civil engineers with an array of publicly available designs to draw inspiration from. The search will incorporate the type of infrastructure the engineer is designing, the application, and the area in which it is being constructed.\nThe end result should be a simple, intuitive, web application where the user can search up a civil design and be presented with existing or original designs based on their prompt and engineering standards that the design in based on.\n\nAcceptance Criteria\n\nTechnical Details\nA language model that understands and interprets prompts, a design database that includes both public and proprietary sources for design reference and inspiration, cloud computing infrastructure, intuitive and user friendly user interface",
         "author": "swuell1",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@swuell1/text-to-design-for-c"
     },
     {
