@@ -10216,7 +10216,7 @@
         "title": "Text to Design for Civil Engineers",
         "description": "A web application for text to design that presents civil engineers with an array of publicly available designs to draw inspiration from. The search will incorporate the type of infrastructure the engineer is designing, the application, and the area in which it is being constructed.\nThe end result should be a simple, intuitive, web application where the user can search up a civil design and be presented with existing or original designs based on their prompt and engineering standards that the design in based on.\n\nAcceptance Criteria\n\nTechnical Details\nA language model that understands and interprets prompts, a design database that includes both public and proprietary sources for design reference and inspiration, cloud computing infrastructure, intuitive and user friendly user interface",
         "author": "swuell1",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@swuell1/text-to-design-for-c"
     },
     {
@@ -10246,17 +10246,17 @@
         "title": "Help me set up and deploy an open source AI Avatar Next.js project on Vercel",
         "description": "I found this awesome AI avatar generator open source project that I would love help and coaching setting it up locally on my machine as a dev environment and also deployment on Vercel allowing me to play around with the project, learn and build on top of it\n\nAcceptance Criteria\nI'm able to run the code locally (dev environtment)\nI have a staging environment on Vercel\nI have a production environment on Vercel\nI have a better understanding what it takes to set up a project with this stack\n\nTechnical Details\nThe project uses the following Stack:\nNext.js\nChakra UI\nPrisma\nReplicate\nStripe\nStable Diffusion\n\nI'm pretty familiar with the front end aspect of the code and also familiar with Replicate. What I have 0 experience in and is blocking me from setting this up are Docker, Database, AWS, Email Server\n\nLink to Project\nHere's a link to the project's github repo\nhttps://github.com/shinework/photoshot",
         "author": "KamalMango1",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@KamalMango1/help-me-set-up-and-d"
     },
     {
         "index": "1025",
         "price": "$270.00",
-        "due_days": "due in 7 days",
+        "due_days": "due in 6 days",
         "title": "Add Clarity language, syntax highlighting, to Repl.it",
         "description": "Stacks is a blockchain that brings smart contracts to Bitcoin. Its smart contract programming language is Clarity.\n\nThe Stacks Replit account showcases a few Repls with Clarity code. The problem is: there isn't Clarity syntax highlighting on Replit... yet \n\nThe Bounty: Enable Clarity syntax highlighting for Repls on Replits. I suspect it's through downloading and importing the LSP into a nix package, as outlined in this blogpost by Replit, so Repl owners to then specify language and highlighting in a Repl config file.\n\nAcceptance Criteria\nAdd whatever package so that Replit supports Clarity syntax highlighting. Minimally acceptable is adding a package to Nix such that, with one or a few commands on a Replit user's end, they can import or specify in a config file and that Replit will show Clarity syntax highlighting.\n\nHelpful Links\nI suspect that the LSP for Clarity referred to in the Clarity VS Code extension will be a helpful starting place: https://marketplace.vis...",
         "author": "hiro-protagonist",
-        "posted_time": "9 seconds ago",
+        "posted_time": "19 minutes ago",
         "link": "https://replit.com/bounties/@hiro-protagonist/add-clarity-language"
     }
 ]
