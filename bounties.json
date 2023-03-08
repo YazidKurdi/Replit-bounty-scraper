@@ -10216,7 +10216,7 @@
         "title": "Text to Design for Civil Engineers",
         "description": "A web application for text to design that presents civil engineers with an array of publicly available designs to draw inspiration from. The search will incorporate the type of infrastructure the engineer is designing, the application, and the area in which it is being constructed.\nThe end result should be a simple, intuitive, web application where the user can search up a civil design and be presented with existing or original designs based on their prompt and engineering standards that the design in based on.\n\nAcceptance Criteria\n\nTechnical Details\nA language model that understands and interprets prompts, a design database that includes both public and proprietary sources for design reference and inspiration, cloud computing infrastructure, intuitive and user friendly user interface",
         "author": "swuell1",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@swuell1/text-to-design-for-c"
     },
     {
@@ -10226,7 +10226,7 @@
         "title": "Scrape NBA data from basketball-reference.com",
         "description": "I would like to scrape data from basketball-reference.com and get the data as a CSV. The data is a series of tables. All the tables have the same markup so one scraping structure should work for all of them.\n\nAcceptance Criteria\nBelow is a list of pages to scrape tables from. Each table should be its own CSV file where the filename is the title of the page + title of the table. (Example: NBA Salary Cap History / Salary Cap History => nbasalarycaphistory-salarycap_history.csv).\n\n2022-23 NBA Player Contracts\nNBA Contracts Summary\nNBA Salary Cap History\n2022-23 NBA Season Summary\n2021-22 NBA Season Summary\n\nTechnical Details\nPrefer python, open to JS/TS for language. No preference on scraping library.\n\nLink to Project\nNo project yet, will let you create replit and share.",
         "author": "HumzaBhakhrani",
-        "posted_time": "55 minutes ago",
+        "posted_time": "1 hour ago",
         "link": "https://replit.com/bounties/@HumzaBhakhrani/scrape-nba-data-from"
     }
 ]
