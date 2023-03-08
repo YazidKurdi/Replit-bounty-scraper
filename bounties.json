@@ -10192,7 +10192,7 @@
     {
         "index": "1019",
         "price": "$450.00",
-        "due_days": "due in 2 days",
+        "due_days": "due in 3 days",
         "title": "Custom Chatbot Scheduler using ChatGPT, Langchain, & Google Calendar API",
         "description": "Follow the method described at this link to use LangChain & GPT-3 to create an automated chatbot: https://dev.to/ironcladdev/how-i-used-langchain-and-gpt-3-to-automate-my-boss-3bk4\nThe chatbot will also need to access Google Calendar API (maybe using a flask server on Google Cloud Run using HTTP Requests to query ?) to find availability for appointment scheduling AND will need to access maps to determine drivetime between 2 addresses.",
         "author": "JenniferCalhoun",
@@ -10236,7 +10236,7 @@
         "title": "KW Clustering Tool",
         "description": "A web app where the user can easily find clusters of keywords related to a topic, so it can identify the most important ones to build an editorial strategy.\nThe workflow is\nuser inputs a keyword\nthe tool pulls up a cluster similar to https://answerthepublic.com/\nonce the cluster has been identified, the user can tap on any of the Keywords, and the tool generates a set of title ideas that the user can copy and paste somewhere else\n\nAcceptance Criteria\nN/A\nTechnical Details\nUnderstanding of OpenAI APIs + APIs to pull up keywords' metrics (volume, CPC data)",
         "author": "GennaroCuofano",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@GennaroCuofano/kw-clustering-tool"
     },
     {
@@ -10266,7 +10266,7 @@
         "title": "Light + Dark Mode Next.js ",
         "description": "I have a Next.js project in a GitHub repo, where I have added styles for the light mode (which is default), and a class called dark-mode which has the dark mode CSS.\nI have also added a change mode button.\nNow I need to get the button to work.\n\nAcceptance Criteria\nClicking the change mode button changes the mode from light to dark or vise versa\nThe mode stays so when you reload it\u2019s still on the same mode\nAlong with the solution, you also provide an explanation of what you changed and why\nCreate a pull request on the GitHub repo with the solution: https://github.com/VulcanWM/discipulis-nextjs",
         "author": "VulcanWM",
-        "posted_time": "46 minutes ago",
+        "posted_time": "56 minutes ago",
         "link": "https://replit.com/bounties/@VulcanWM/light-dark-mode-next"
     },
     {
@@ -10276,7 +10276,7 @@
         "title": "Python FastAPI backend for messenger app",
         "description": "General overview\n\nWe are looking for a talented Python backend developer who can help us develop and release fast an MVP for the backend of our messenger app.\n\nYou will develop the backend for a webapp interface that uses Twilio to send whatsapp messages and read conversations.\n\nThe backend planning is ready, so you will be given all the details you need to just sit and code without having to plan: take a look at the details of the development here https://docsend.com/view/5f7zdupw5w4ikggu\n\nTimeline\n\nOne week\n\nHow to apply successfully\n\nDescribe the job in your words\nDescribe in detail the most complex backend you have built using Django or FastAPI\nDescribe your relevant experience (if you have worked as a full time employee for example)\nHow fast could you deliver?",
         "author": "mattpatagon",
-        "posted_time": "46 seconds ago",
+        "posted_time": "11 minutes ago",
         "link": "https://replit.com/bounties/@mattpatagon/python-fastapi-backe"
     }
 ]
