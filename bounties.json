@@ -10206,7 +10206,7 @@
         "title": "Make this work with gpt-3.5-turbo instead of text-davinci",
         "description": "The entire thing is built out to work with text-davinci-003 - this is from one of Replit's recent youtube videos (link below) - but I think the same day the video came out, OpenAI announced gpt-3.5-turbo which is x10 cheaper than text-davinci-003. However, you can't just change the model name to gpt-3.5-turbo in the code and get this to work, I think the prompting needs to change, but I am not sure how exactly, and that's what I need someone to do.\n\nAcceptance Criteria\nIt runs as intended and with no errors.\n\nTechnical Details\nThis 10 min video has all the basics about this specific project :]\nhttps://youtu.be/KAbkfdaeFEQ\n\nLink to Project\nhttps://replit.com/@YAQ/gpt-35-turbo-Chatbot?v=1",
         "author": "YAQ",
-        "posted_time": "17 hours ago",
+        "posted_time": "18 hours ago",
         "link": "https://replit.com/bounties/@YAQ/make-this-work-with"
     },
     {
@@ -10256,7 +10256,7 @@
         "title": "Add Clarity language, syntax highlighting, to Repl.it",
         "description": "Stacks is a blockchain that brings smart contracts to Bitcoin. Its smart contract programming language is Clarity.\n\nThe Stacks Replit account showcases a few Repls with Clarity code. The problem is: there isn't Clarity syntax highlighting on Replit... yet \n\nThe Bounty: Enable Clarity syntax highlighting for Repls on Replits. I suspect it's through downloading and importing the LSP into a nix package, as outlined in this blogpost by Replit, so Repl owners to then specify language and highlighting in a Repl config file.\n\nAcceptance Criteria\nAdd whatever package so that Replit supports Clarity syntax highlighting. Minimally acceptable is adding a package to Nix such that, with one or a few commands on a Replit user's end, they can import or specify in a config file and that Replit will show Clarity syntax highlighting.\n\nHelpful Links\nI suspect that the LSP for Clarity referred to in the Clarity VS Code extension will be a helpful starting place: https://marketplace.vis...",
         "author": "hiro-protagonist",
-        "posted_time": "2 hours ago",
+        "posted_time": "3 hours ago",
         "link": "https://replit.com/bounties/@hiro-protagonist/add-clarity-language"
     },
     {
@@ -10276,7 +10276,17 @@
         "title": "Python FastAPI backend for messenger app",
         "description": "General overview\n\nWe are looking for a talented Python backend developer who can help us develop and release fast an MVP for the backend of our messenger app.\n\nYou will develop the backend for a webapp interface that uses Twilio to send whatsapp messages and read conversations.\n\nThe backend planning is ready, so you will be given all the details you need to just sit and code without having to plan: take a look at the details of the development here https://docsend.com/view/5f7zdupw5w4ikggu\n\nTimeline\n\nOne week\n\nHow to apply successfully\n\nDescribe the job in your words\nDescribe in detail the most complex backend you have built using Django or FastAPI\nDescribe your relevant experience (if you have worked as a full time employee for example)\nHow fast could you deliver?",
         "author": "mattpatagon",
-        "posted_time": "28 minutes ago",
+        "posted_time": "45 minutes ago",
         "link": "https://replit.com/bounties/@mattpatagon/python-fastapi-backe"
+    },
+    {
+        "index": "1028",
+        "price": "$4.50",
+        "due_days": "due in 13 days",
+        "title": "Google Domain",
+        "description": "Im adding a domain to https://friends-lounge.harrisonschmidt.repl.co but if i use google domains no matter how long i wait with the records (i think) if i use the domain i want it'll send me to replit home page and not my repl\n\nAcceptance Criteria\nI would like you to guide me to where i have a fully linked domain on google domains so i no longer have to use my replit one",
+        "author": "HarrisonSchmidt",
+        "posted_time": "1 minute ago",
+        "link": "https://replit.com/bounties/@HarrisonSchmidt/google-domain"
     }
 ]
