@@ -10226,7 +10226,7 @@
         "title": "Scrape NBA data from basketball-reference.com",
         "description": "I would like to scrape data from basketball-reference.com and get the data as a CSV. The data is a series of tables. All the tables have the same markup so one scraping structure should work for all of them.\n\nAcceptance Criteria\nBelow is a list of pages to scrape tables from. Each table should be its own CSV file where the filename is the title of the page + title of the table. (Example: NBA Salary Cap History / Salary Cap History => nbasalarycaphistory-salarycap_history.csv).\n\n2022-23 NBA Player Contracts\nNBA Contracts Summary\nNBA Salary Cap History\n2022-23 NBA Season Summary\n2021-22 NBA Season Summary\n\nTechnical Details\nPrefer python, open to JS/TS for language. No preference on scraping library.\n\nLink to Project\nNo project yet, will let you create replit and share.",
         "author": "HumzaBhakhrani",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@HumzaBhakhrani/scrape-nba-data-from"
     },
     {
@@ -10266,7 +10266,7 @@
         "title": "Light + Dark Mode Next.js ",
         "description": "I have a Next.js project in a GitHub repo, where I have added styles for the light mode (which is default), and a class called dark-mode which has the dark mode CSS.\nI have also added a change mode button.\nNow I need to get the button to work.\n\nAcceptance Criteria\nClicking the change mode button changes the mode from light to dark or vise versa\nThe mode stays so when you reload it\u2019s still on the same mode\nAlong with the solution, you also provide an explanation of what you changed and why\nCreate a pull request on the GitHub repo with the solution: https://github.com/VulcanWM/discipulis-nextjs",
         "author": "VulcanWM",
-        "posted_time": "1 hour ago",
+        "posted_time": "2 hours ago",
         "link": "https://replit.com/bounties/@VulcanWM/light-dark-mode-next"
     },
     {
@@ -10276,7 +10276,7 @@
         "title": "Python FastAPI backend for messenger app",
         "description": "General overview\n\nWe are looking for a talented Python backend developer who can help us develop and release fast an MVP for the backend of our messenger app.\n\nYou will develop the backend for a webapp interface that uses Twilio to send whatsapp messages and read conversations.\n\nThe backend planning is ready, so you will be given all the details you need to just sit and code without having to plan: take a look at the details of the development here https://docsend.com/view/5f7zdupw5w4ikggu\n\nTimeline\n\nOne week\n\nHow to apply successfully\n\nDescribe the job in your words\nDescribe in detail the most complex backend you have built using Django or FastAPI\nDescribe your relevant experience (if you have worked as a full time employee for example)\nHow fast could you deliver?",
         "author": "mattpatagon",
-        "posted_time": "45 minutes ago",
+        "posted_time": "54 minutes ago",
         "link": "https://replit.com/bounties/@mattpatagon/python-fastapi-backe"
     },
     {
@@ -10286,7 +10286,7 @@
         "title": "Google Domain",
         "description": "Im adding a domain to https://friends-lounge.harrisonschmidt.repl.co but if i use google domains no matter how long i wait with the records (i think) if i use the domain i want it'll send me to replit home page and not my repl\n\nAcceptance Criteria\nI would like you to guide me to where i have a fully linked domain on google domains so i no longer have to use my replit one",
         "author": "HarrisonSchmidt",
-        "posted_time": "1 minute ago",
+        "posted_time": "10 minutes ago",
         "link": "https://replit.com/bounties/@HarrisonSchmidt/google-domain"
     }
 ]
