@@ -10246,7 +10246,7 @@
         "title": "Help me set up and deploy an open source AI Avatar Next.js project on Vercel",
         "description": "I found this awesome AI avatar generator open source project that I would love help and coaching setting it up locally on my machine as a dev environment and also deployment on Vercel allowing me to play around with the project, learn and build on top of it\n\nAcceptance Criteria\nI'm able to run the code locally (dev environtment)\nI have a staging environment on Vercel\nI have a production environment on Vercel\nI have a better understanding what it takes to set up a project with this stack\n\nTechnical Details\nThe project uses the following Stack:\nNext.js\nChakra UI\nPrisma\nReplicate\nStripe\nStable Diffusion\n\nI'm pretty familiar with the front end aspect of the code and also familiar with Replicate. What I have 0 experience in and is blocking me from setting this up are Docker, Database, AWS, Email Server\n\nLink to Project\nHere's a link to the project's github repo\nhttps://github.com/shinework/photoshot",
         "author": "KamalMango1",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@KamalMango1/help-me-set-up-and-d"
     }
 ]
