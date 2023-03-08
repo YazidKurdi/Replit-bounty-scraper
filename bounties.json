@@ -10196,7 +10196,7 @@
         "title": "Custom Chatbot Scheduler using ChatGPT, Langchain, & Google Calendar API",
         "description": "Follow the method described at this link to use LangChain & GPT-3 to create an automated chatbot: https://dev.to/ironcladdev/how-i-used-langchain-and-gpt-3-to-automate-my-boss-3bk4\nThe chatbot will also need to access Google Calendar API (maybe using a flask server on Google Cloud Run using HTTP Requests to query ?) to find availability for appointment scheduling AND will need to access maps to determine drivetime between 2 addresses.",
         "author": "JenniferCalhoun",
-        "posted_time": "22 hours ago",
+        "posted_time": "23 hours ago",
         "link": "https://replit.com/bounties/@JenniferCalhoun/custom-chatbot-sched"
     },
     {
