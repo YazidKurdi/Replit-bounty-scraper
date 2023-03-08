@@ -8500,7 +8500,7 @@ Also, I want the calculator to have extended reasoning for the answer, meaning a
 let answer = (""this is preset: ""+reason1+""| this is also preset: ""+reason2);
 
 Acceptance Criteria
-Be articulate in javascript, and the actual math itself. ( you can check the answers...",Altify-Developm,14 hours ago,https://replit.com/bounties/@Altify-Developm/make-a-full-math-cal
+Be articulate in javascript, and the actual math itself. ( you can check the answers...",Altify-Developm,15 hours ago,https://replit.com/bounties/@Altify-Developm/make-a-full-math-cal
 1014,$8.10,due in 3 days,make a cool webOS opening tutorial and animation,"i'm making a webOS, i want an an easy to implement tutorial slider, and at the end a final opening animation.
 Acceptance Criteria
 vanilla html css and javascript

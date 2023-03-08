@@ -10136,7 +10136,7 @@
         "title": "Make a full math calculator",
         "description": "Future of Mathematics\nI am planning to make a calculator that can do it all. Yep, that's what I'm calling the future of mathematics, deal with it.\n\nProblem Description\nI want you to make a calculator like https://trig-calculator.altify-developm.repl.co, no need for a good ui ( cuz ill do it ), but I want it to include visuals ( like mine ), but I want it to be in flexible text boxes that adjust a picture on screen ( example: if user sets \u2220B to 45, set \u2220C to 45 since \u2220A is 90 ), don't need to make the picture change visually cuz I'm not a menace who would ask for it. Following that tall request, I would like a full algebra, stat, calculus, geometry, and theory mathematics\nAlso, I want the calculator to have extended reasoning for the answer, meaning a preset answer with fill in the blanks like the following\nlet answer = (\"this is preset: \"+reason1+\"| this is also preset: \"+reason2);\n\nAcceptance Criteria\nBe articulate in javascript, and the actual math itself. ( you can check the answers...",
         "author": "Altify-Developm",
-        "posted_time": "14 hours ago",
+        "posted_time": "15 hours ago",
         "link": "https://replit.com/bounties/@Altify-Developm/make-a-full-math-cal"
     },
     {
