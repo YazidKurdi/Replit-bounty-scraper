@@ -8556,7 +8556,7 @@ The end result should be a simple, intuitive, web application where the user can
 Acceptance Criteria
 
 Technical Details
-A language model that understands and interprets prompts, a design database that includes both public and proprietary sources for design reference and inspiration, cloud computing infrastructure, intuitive and user friendly user interface",swuell1,13 hours ago,https://replit.com/bounties/@swuell1/text-to-design-for-c
+A language model that understands and interprets prompts, a design database that includes both public and proprietary sources for design reference and inspiration, cloud computing infrastructure, intuitive and user friendly user interface",swuell1,14 hours ago,https://replit.com/bounties/@swuell1/text-to-design-for-c
 1022,$45.00,due in 3 days,Scrape NBA data from basketball-reference.com,"I would like to scrape data from basketball-reference.com and get the data as a CSV. The data is a series of tables. All the tables have the same markup so one scraping structure should work for all of them.
 
 Acceptance Criteria
@@ -8604,7 +8604,7 @@ I'm pretty familiar with the front end aspect of the code and also familiar with
 
 Link to Project
 Here's a link to the project's github repo
-https://github.com/shinework/photoshot",KamalMango1,7 hours ago,https://replit.com/bounties/@KamalMango1/help-me-set-up-and-d
+https://github.com/shinework/photoshot",KamalMango1,8 hours ago,https://replit.com/bounties/@KamalMango1/help-me-set-up-and-d
 1025,$270.00,due in 6 days,"Add Clarity language, syntax highlighting, to Repl.it","Stacks is a blockchain that brings smart contracts to Bitcoin. Its smart contract programming language is Clarity.
 
 The Stacks Replit account showcases a few Repls with Clarity code. The problem is: there isn't Clarity syntax highlighting on Replit... yet 
@@ -8616,3 +8616,12 @@ Add whatever package so that Replit supports Clarity syntax highlighting. Minima
 
 Helpful Links
 I suspect that the LSP for Clarity referred to in the Clarity VS Code extension will be a helpful starting place: https://marketplace.vis...",hiro-protagonist,1 hour ago,https://replit.com/bounties/@hiro-protagonist/add-clarity-language
+1026,$18.00,due in 6 days,Light + Dark Mode Next.js ,"I have a Next.js project in a GitHub repo, where I have added styles for the light mode (which is default), and a class called dark-mode which has the dark mode CSS.
+I have also added a change mode button.
+Now I need to get the button to work.
+
+Acceptance Criteria
+Clicking the change mode button changes the mode from light to dark or vise versa
+The mode stays so when you reload it’s still on the same mode
+Along with the solution, you also provide an explanation of what you changed and why
+Create a pull request on the GitHub repo with the solution: https://github.com/VulcanWM/discipulis-nextjs",VulcanWM,11 minutes ago,https://replit.com/bounties/@VulcanWM/light-dark-mode-next
