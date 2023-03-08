@@ -10176,7 +10176,7 @@
         "title": "Build a graph visualization with Visx",
         "description": "I want to build https://pry.co/startup-growth-calculator/\n\nAcceptance Criteria\nUser can input values like: expenses, cash in bank, revenue, growth rate. And the graph will update\nUser can interact with the graph by dragging the line\n\nTechnical Details\nWith Visx\nJS, no typescript\nOn React, with functional component\nAll the input values should be the props of the component\n\nLink to Project\nhttps://pry.co/startup-growth-calculator/",
         "author": "tennisonchan",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@tennisonchan/build-a-graph-visual"
     },
     {
@@ -10196,7 +10196,7 @@
         "title": "Custom Chatbot Scheduler using ChatGPT, Langchain, & Google Calendar API",
         "description": "Follow the method described at this link to use LangChain & GPT-3 to create an automated chatbot: https://dev.to/ironcladdev/how-i-used-langchain-and-gpt-3-to-automate-my-boss-3bk4\nThe chatbot will also need to access Google Calendar API (maybe using a flask server on Google Cloud Run using HTTP Requests to query ?) to find availability for appointment scheduling AND will need to access maps to determine drivetime between 2 addresses.",
         "author": "JenniferCalhoun",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@JenniferCalhoun/custom-chatbot-sched"
     },
     {
@@ -10216,7 +10216,7 @@
         "title": "Text to Design for Civil Engineers",
         "description": "A web application for text to design that presents civil engineers with an array of publicly available designs to draw inspiration from. The search will incorporate the type of infrastructure the engineer is designing, the application, and the area in which it is being constructed.\nThe end result should be a simple, intuitive, web application where the user can search up a civil design and be presented with existing or original designs based on their prompt and engineering standards that the design in based on.\n\nAcceptance Criteria\n\nTechnical Details\nA language model that understands and interprets prompts, a design database that includes both public and proprietary sources for design reference and inspiration, cloud computing infrastructure, intuitive and user friendly user interface",
         "author": "swuell1",
-        "posted_time": "11 minutes ago",
+        "posted_time": "19 minutes ago",
         "link": "https://replit.com/bounties/@swuell1/text-to-design-for-c"
     }
 ]
