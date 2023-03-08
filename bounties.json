@@ -10266,7 +10266,7 @@
         "title": "Light + Dark Mode Next.js ",
         "description": "I have a Next.js project in a GitHub repo, where I have added styles for the light mode (which is default), and a class called dark-mode which has the dark mode CSS.\nI have also added a change mode button.\nNow I need to get the button to work.\n\nAcceptance Criteria\nClicking the change mode button changes the mode from light to dark or vise versa\nThe mode stays so when you reload it\u2019s still on the same mode\nAlong with the solution, you also provide an explanation of what you changed and why\nCreate a pull request on the GitHub repo with the solution: https://github.com/VulcanWM/discipulis-nextjs",
         "author": "VulcanWM",
-        "posted_time": "11 minutes ago",
+        "posted_time": "23 minutes ago",
         "link": "https://replit.com/bounties/@VulcanWM/light-dark-mode-next"
     }
 ]
