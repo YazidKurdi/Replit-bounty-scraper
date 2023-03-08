@@ -10116,7 +10116,7 @@
         "title": "ChatGPT AI Website",
         "description": "Create a webpage using OpenAI's ChatGPT API to create a page similar in functionality and UI to https://chat.openai.com/chat and\nChatSonic.\nAcceptance  and Technical Criteria\nUses the OpenAI ChatGPT API (preferably davinci or curie, etc., it should be relatively lower cost but with good quality output)\nHas  the same functionality and a very similar UI to ChatGPT Chat and\nChatSonic\nNo feature for accounts, etc., so there will be a main cover page (like what ChatSonic does) with an image and a button that will go to the GPT Chat page with the AI.\nHave slots for 1-3 ads per page\nHas a creative name (like ChatSonic, Caktus AI, Cramly AI etc.)",
         "author": "Retrospicer",
-        "posted_time": "12 hours ago",
+        "posted_time": "13 hours ago",
         "link": "https://replit.com/bounties/@Retrospicer/chatgpt-ai-website"
     },
     {
@@ -10126,7 +10126,7 @@
         "title": "Flutter Authentication Plugin for iOS and Android",
         "description": "Build a plugin for Flutter that handles an API based authentication process for iOS and Android that involves the in-app browser, after a successful authentication, the plugin should make subsequent API calls to our backend to retrieve data, store it in local storage and provide methods for accessing this data within the frontend application.\n\nTechnical Details\nThe Flutter plugin is an SDK used to fetch part of a private key of a wallet\nHere is the authentication flow:\nThe external frontend application redirects to our frontend authentication URL with their re-direct URL, blockchain and the authentication provider they want to authenticate with as query parameters e.g. redirecturl=yourdomain.com&provider=google&blockchain=ethereum\n\nOur frontend application receives the request from the query parameter in the URL and sends a request to our backend application.\n\nOur frontend application then redirects the user to the external OAuth provider for authentication.\n\nAfter ...",
         "author": "Hevxr",
-        "posted_time": "10 hours ago",
+        "posted_time": "11 hours ago",
         "link": "https://replit.com/bounties/@Hevxr/flutter-authenticati"
     },
     {
@@ -10136,7 +10136,7 @@
         "title": "Make a full math calculator",
         "description": "Future of Mathematics\nI am planning to make a calculator that can do it all. Yep, that's what I'm calling the future of mathematics, deal with it.\n\nProblem Description\nI want you to make a calculator like https://trig-calculator.altify-developm.repl.co, no need for a good ui ( cuz ill do it ), but I want it to include visuals ( like mine ), but I want it to be in flexible text boxes that adjust a picture on screen ( example: if user sets \u2220B to 45, set \u2220C to 45 since \u2220A is 90 ), don't need to make the picture change visually cuz I'm not a menace who would ask for it. Following that tall request, I would like a full algebra, stat, calculus, geometry, and theory mathematics\nAlso, I want the calculator to have extended reasoning for the answer, meaning a preset answer with fill in the blanks like the following\nlet answer = (\"this is preset: \"+reason1+\"| this is also preset: \"+reason2);\n\nAcceptance Criteria\nBe articulate in javascript, and the actual math itself. ( you can check the answers...",
         "author": "Altify-Developm",
-        "posted_time": "9 hours ago",
+        "posted_time": "10 hours ago",
         "link": "https://replit.com/bounties/@Altify-Developm/make-a-full-math-cal"
     },
     {
@@ -10146,7 +10146,7 @@
         "title": "make a cool webOS opening tutorial and animation",
         "description": "i'm making a webOS, i want an an easy to implement tutorial slider, and at the end a final opening animation.\nAcceptance Criteria\nvanilla html css and javascript\nmust be a smooth experience",
         "author": "GreenWorldia",
-        "posted_time": "8 hours ago",
+        "posted_time": "9 hours ago",
         "link": "https://replit.com/bounties/@GreenWorldia/make-a-cool-webos-op"
     },
     {
@@ -10156,7 +10156,7 @@
         "title": "RocketChat plugin to create donation meter",
         "description": "There is an open source chat server called RocketChat. You can demo it at https://open.rocket.chat/home. Note the Rocketchat logo at the bottom left. This is in a space of dimensions 260 x 70px and you can fill it with any HTML, in the site administration settings.\n\nWhat I would like is for this area to display a customizable, dynamic donation meter. There would be an administration screen allowing the administrator to change the goal amount at any time. The donation meter would change from color red at 30% of the goal or less, orange at 31-60% yellow at 61-90%, and green for 90%+.\n\nA person can click it to donate. This would take them to a secure payment form, which would allow them to choose from common donation amounts (eg. $20) or enter their own amount. Once the payment is made, the donation meter would be updated automatically.\n\nThe payment form should be generated through the Stripe and Blocknomics APIs (Stripe for credit card payments, Blockonomics for Bitcoin payments). Detail...",
         "author": "liberatollc",
-        "posted_time": "7 hours ago",
+        "posted_time": "8 hours ago",
         "link": "https://replit.com/bounties/@liberatollc/rocketchat-plugin-to"
     },
     {
@@ -10166,7 +10166,7 @@
         "title": "78779352-d0839500-796a-11ea-9468-fd2a0b3fe1ef",
         "description": "about what you want in the solution here. Imput in : 15:00:00 pm 07-03-2023\na0884f87601fda5c901c10f9a3ac881222494a3dad30a3990980ab2bf46bae1a1013c4b09687d39ee23b785de2ef9aba sent to\nPrivate \u201ckey\u201d:\u201df4fbe1203b0e4f9ef1bb54b0e3de1d1495b81cb95167eaa3fb50f254d654f2a8\u201d\n\u201cEth2pubkey\u201d:\u201dSig:b06f1481bd598da7244d62f26259931f3c7078b59137ba676369c740ff275cd0751ad2967b7f433b8d6ca2345a4c0f0c\nVeryfy\nbf119b96-0a4e-489d-b86f-b29f58ecead9",
         "author": "Newlife08Domini",
-        "posted_time": "6 hours ago",
+        "posted_time": "7 hours ago",
         "link": "https://replit.com/bounties/@Newlife08Domini/78779352-d0839500-79"
     },
     {
@@ -10176,7 +10176,7 @@
         "title": "Build a graph visualization with Visx",
         "description": "I want to build https://pry.co/startup-growth-calculator/\n\nAcceptance Criteria\nUser can input values like: expenses, cash in bank, revenue, growth rate. And the graph will update\nUser can interact with the graph by dragging the line\n\nTechnical Details\nWith Visx\nJS, no typescript\nOn React, with functional component\nAll the input values should be the props of the component\n\nLink to Project\nhttps://pry.co/startup-growth-calculator/",
         "author": "tennisonchan",
-        "posted_time": "5 hours ago",
+        "posted_time": "6 hours ago",
         "link": "https://replit.com/bounties/@tennisonchan/build-a-graph-visual"
     },
     {
@@ -10186,7 +10186,7 @@
         "title": "Create a Lapis Repl Template",
         "description": "Using the Lua package manager luarocks, make a repl which can run the Lapis web framework: https://leafo.net/lapis/\n\nAcceptance Criteria:\nPackage manager luarocks must be installed (so further packages can be installed)\nTemplate obviously must work (a barebones example must run properly)",
         "author": "STCollier",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@STCollier/create-a-lapis-repl"
     },
     {
@@ -10196,7 +10196,17 @@
         "title": "Custom Chatbot Scheduler using ChatGPT, Langchain, & Google Calendar API",
         "description": "Follow the method described at this link to use LangChain & GPT-3 to create an automated chatbot: https://dev.to/ironcladdev/how-i-used-langchain-and-gpt-3-to-automate-my-boss-3bk4\nThe chatbot will also need to access Google Calendar API (maybe using a flask server on Google Cloud Run using HTTP Requests to query ?) to find availability for appointment scheduling AND will need to access maps to determine drivetime between 2 addresses.",
         "author": "JenniferCalhoun",
-        "posted_time": "3 hours ago",
+        "posted_time": "4 hours ago",
         "link": "https://replit.com/bounties/@JenniferCalhoun/custom-chatbot-sched"
+    },
+    {
+        "index": "1020",
+        "price": "$31.50",
+        "due_days": "due in 4 days",
+        "title": "Make this work with gpt-3.5-turbo instead of text-davinci",
+        "description": "The entire thing is built out to work with text-davinci-003 - this is from one of Replit's recent youtube videos (link below) - but I think the same day the video came out, OpenAI announced gpt-3.5-turbo which is x10 cheaper than text-davinci-003. However, you can't just change the model name to gpt-3.5-turbo in the code and get this to work, I think the prompting needs to change, but I am not sure how exactly, and that's what I need someone to do.\n\nAcceptance Criteria\nIt runs as intended and with no errors.\n\nTechnical Details\nThis 10 min video has all the basics about this specific project :]\nhttps://youtu.be/KAbkfdaeFEQ\n\nLink to Project\nhttps://replit.com/@YAQ/gpt-35-turbo-Chatbot?v=1",
+        "author": "YAQ",
+        "posted_time": "8 minutes ago",
+        "link": "https://replit.com/bounties/@YAQ/make-this-work-with"
     }
 ]
