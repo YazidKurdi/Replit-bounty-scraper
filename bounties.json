@@ -10126,7 +10126,7 @@
         "title": "Flutter Authentication Plugin for iOS and Android",
         "description": "Build a plugin for Flutter that handles an API based authentication process for iOS and Android that involves the in-app browser, after a successful authentication, the plugin should make subsequent API calls to our backend to retrieve data, store it in local storage and provide methods for accessing this data within the frontend application.\n\nTechnical Details\nThe Flutter plugin is an SDK used to fetch part of a private key of a wallet\nHere is the authentication flow:\nThe external frontend application redirects to our frontend authentication URL with their re-direct URL, blockchain and the authentication provider they want to authenticate with as query parameters e.g. redirecturl=yourdomain.com&provider=google&blockchain=ethereum\n\nOur frontend application receives the request from the query parameter in the URL and sends a request to our backend application.\n\nOur frontend application then redirects the user to the external OAuth provider for authentication.\n\nAfter ...",
         "author": "Hevxr",
-        "posted_time": "11 hours ago",
+        "posted_time": "12 hours ago",
         "link": "https://replit.com/bounties/@Hevxr/flutter-authenticati"
     },
     {
@@ -10206,7 +10206,7 @@
         "title": "Make this work with gpt-3.5-turbo instead of text-davinci",
         "description": "The entire thing is built out to work with text-davinci-003 - this is from one of Replit's recent youtube videos (link below) - but I think the same day the video came out, OpenAI announced gpt-3.5-turbo which is x10 cheaper than text-davinci-003. However, you can't just change the model name to gpt-3.5-turbo in the code and get this to work, I think the prompting needs to change, but I am not sure how exactly, and that's what I need someone to do.\n\nAcceptance Criteria\nIt runs as intended and with no errors.\n\nTechnical Details\nThis 10 min video has all the basics about this specific project :]\nhttps://youtu.be/KAbkfdaeFEQ\n\nLink to Project\nhttps://replit.com/@YAQ/gpt-35-turbo-Chatbot?v=1",
         "author": "YAQ",
-        "posted_time": "51 minutes ago",
+        "posted_time": "59 minutes ago",
         "link": "https://replit.com/bounties/@YAQ/make-this-work-with"
     }
 ]
