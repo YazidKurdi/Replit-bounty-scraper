@@ -8556,4 +8556,20 @@ The end result should be a simple, intuitive, web application where the user can
 Acceptance Criteria
 
 Technical Details
-A language model that understands and interprets prompts, a design database that includes both public and proprietary sources for design reference and inspiration, cloud computing infrastructure, intuitive and user friendly user interface",swuell1,29 minutes ago,https://replit.com/bounties/@swuell1/text-to-design-for-c
+A language model that understands and interprets prompts, a design database that includes both public and proprietary sources for design reference and inspiration, cloud computing infrastructure, intuitive and user friendly user interface",swuell1,49 minutes ago,https://replit.com/bounties/@swuell1/text-to-design-for-c
+1022,$45.00,due in 4 days,Scrape NBA data from basketball-reference.com,"I would like to scrape data from basketball-reference.com and get the data as a CSV. The data is a series of tables. All the tables have the same markup so one scraping structure should work for all of them.
+
+Acceptance Criteria
+Below is a list of pages to scrape tables from. Each table should be its own CSV file where the filename is the title of the page + title of the table. (Example: NBA Salary Cap History / Salary Cap History => nbasalarycaphistory-salarycap_history.csv).
+
+2022-23 NBA Player Contracts
+NBA Contracts Summary
+NBA Salary Cap History
+2022-23 NBA Season Summary
+2021-22 NBA Season Summary
+
+Technical Details
+Prefer python, open to JS/TS for language. No preference on scraping library.
+
+Link to Project
+No project yet, will let you create replit and share.",HumzaBhakhrani,14 minutes ago,https://replit.com/bounties/@HumzaBhakhrani/scrape-nba-data-from
